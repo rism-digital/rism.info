@@ -1,0 +1,7 @@
+{% assign sidepanel = layout.sidepanel %}
+{% if sidepanel == blank %}{% assign sidepanel = page.sidepanel %}{% endif %}
+
+<div class="{%if include.margin %}pt-4{% endif %}">
+    {% capture sidepanel %}{% include {{ sidepanel }}.{{ page.lang }}.md %}{% endcapture %}
+    {{ sidepanel | markdownify }}
+</div>

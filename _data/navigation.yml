@@ -1,0 +1,25 @@
+- name:
+    en: "Home"
+    de: "Startseite"
+    fr: "Accueil"
+  link: /index.html
+- name:
+    en: "Organisation"
+    de: "Unternehmen"
+    fr: "Organisation"
+  link: /organisation.html
+- name:
+    en: "International"
+    de: "International"
+    fr: "International"
+  link: /international.html
+- name:
+    en: "Publications"
+    de: "Publikationen"
+    fr: "Publications"
+  link: /publications.html
+- name:
+    en: "Community"
+    de: "Community"
+    fr: "Communauté"
+  link: /community.html

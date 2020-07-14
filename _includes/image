@@ -1,0 +1,9 @@
+<div class="float-{{ include.pos }}">
+    {% if include.link %}
+    <a href="{{ include.link }}" {% if include.blank %}target="_blank"{% endif %}>
+    {% endif %}
+    <img src="{{ include.file }}"/>
+    {% if include.link %}
+    </a>
+    {% endif %}
+</div>

@@ -1,0 +1,21 @@
+{% assign menus = site.data.[layout.menubar] %}
+
+<aside class="menu">
+{% for menu in menus %}
+    <h1>{{ menu.label[site.active_lang] }}</h1>
+    <ul class="menu-list">
+        {% for item in menu.items %}
+        <li>
+            <a href="{{ item.link | absolute_url }}" class="{% if item.link == page.permalink %}is-active{% endif %} {% if item.link %}{% else %}disabled{% endif %}">{{ item.name[site.active_lang] }}</a>
+            {% if item.items %}
+            <ul>
+                {% for subitem in item.items %}
+                <li><a href="{{ subitem.link | absolute_url }}" class="{% if subitem.link == page.permalink %}is-active{% endif %}">{{ subitem.name[site.active_lang] }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+        {% endfor %}    
+    </ul>
+{% endfor %}
+</aside>

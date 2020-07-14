@@ -1,0 +1,79 @@
+I"<<h1 id="rism-for-libraries">RISM for Libraries</h1>
+
+<p>RISM has a long tradition of working with libraries. We would like to strengthen our ties by offering the following services.</p>
+
+<h2 id="reference--instruction">Reference &amp; Instruction</h2>
+
+<p><strong>Brochures</strong>: We will gladly send you copies of our brochure outlining the RISM project at no charge. It is available in English with translations in Chinese, German, Russian, and Spanish. For more information, see <a href="/publications/brochures.html">Publications</a>.</p>
+
+<p><strong>Guides to the RISM online catalog:</strong> We have created some guides to the online catalog about various topics. They are linked on <a href="http://opac.rism.info">opac.rism.info</a>’s Help page.</p>
+
+<p>Also look at past <a href="/publications/iaml-congresses.html" target="_blank">IAML congresses</a> for slides relating to using RISM (also on the <a href="http://www.iaml.info/r-projects">IAML website</a>).</p>
+
+<p><strong>Live demonstrations</strong>: A member of the RISM Zentralredaktion (Central Editorial Office) can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM’s publications for research. <a href="mailto:contact@rism.info" title="Opens window for sending email">Contact us</a> to schedule a demonstration. Possible topics include:</p>
+
+<ul>
+  <li>An overview of the RISM project</li>
+  <li>Tutorial of the RISM <a href="https://opac.rism.info/" target="_blank">online catalog</a> (manuscripts and printed music)</li>
+  <li>Introduction to Muscat, RISM’s cataloging program, and how libraries can participate in RISM</li>
+</ul>
+
+<p><strong>Logos</strong>: Logos are available below for download or for direct copying and pasting onto your library’s website. Right-click on the image to either copy it or save it as a local file.</p>
+
+<p><strong>Poster</strong>: This <a href="/organisation/2019_RISM_poster_web_A1.pdf">RISM poster</a> (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).</p>
+
+<p><strong>Reviews of RISM</strong>: RISM’s publications have been reviewed in the scholarly literature. See the <a href="/publications/bibliography.html">RISM bibliography</a> for exact citations.</p>
+
+<p><strong>Text for your website</strong>: Descriptions of RISM publications are available on the RISM website under <a href="/publications.html">Publications</a>. You are free to use the text there for your own library websites.</p>
+
+<h2 id="cataloging-tools">Cataloging Tools</h2>
+
+<p><strong>Links to the RISM online catalog (OPAC):</strong></p>
+
+<ul>
+  <li>URL of the RISM OPAC:<br />
+<a href="https://opac.rism.info" target="_blank">https://opac.rism.info</a></li>
+  <li>Direct URL of the Advanced Search in English:<br />
+<a href="https://opac.rism.info/index.php?id=3">https://opac.rism.info/index.php?id=3</a></li>
+  <li>Quick link to all records in the RISM OPAC:<br />
+[https://opac.rism.info/search?View=rism&amp;q=<em>](https://opac.rism.info/search?View=rism&amp;q=</em>){:target=”_blank”}</li>
+  <li>Permalinks are found in each RISM record in the top left when you click on the chain link symbol. The URLs that appear in the browser’s address bar are not stable.</li>
+  <li>To make a permalink go directly to the page in English, add this to the end of the permalink:<code class="highlighter-rouge">&amp;Language=en</code><br />
+Example: <a href="https://opac.rism.info/search?id=453009722&amp;View=rism&amp;Language=en" target="_blank">https://opac.rism.info/search?id=453009722&amp;View=rism&amp;Language=en</a></li>
+  <li>To create stable URLs for specific search strings, please see “<a href="https://opac.rism.info/index.php?id=8&amp;L=0#c49" target="_blank">How to link to a record or a search</a>” on the OPAC page.</li>
+</ul>
+
+<p><strong>VIAF</strong>: RISM’s authority records for personal names are included in <a href="http://www.viaf.org/" target="_blank">VIAF (Virtual International Authority File)</a>.</p>
+
+<p><strong>Library of Congress Authority File</strong>: The official Corporate Name Heading from the Library of Congress Authority File is <strong>RISM (Organization)</strong>. The LC control number is <a href="https://lccn.loc.gov/n88603147" target="_blank">n 88603147</a>.</p>
+
+<p><strong>OCLC record for the RISM OPAC</strong>: Download this record from OCLC for the RISM online catalog so that your library users can find the free catalog: <a href="http://www.worldcat.org/oclc/913332994" target="_blank">OCLC #913332994</a></p>
+
+<p><strong>Standard citation form in cataloging</strong>: The official form of RISM from the <a href="https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales" target="_blank">Rare Books and Manuscripts Section</a> is <strong>RISM (Répertoire international des sources musicales)</strong>. When citing RISM in the 510 of a catalog record, cite the RISM ID number from the online catalog whenever possible (initial zeros may be omitted). Permalinks to the OPAC can also be included. Use references from <a href="/publications.html#c36" target="_blank">A/I</a> and <a href="/publications.html#c2619">B/I</a> to refer to the books only. The 510 can be repeated to include references to both the OPAC and the books.</p>
+
+<p>As an example, these records from the Princeton University Library cite the A/I number as well as the record in the OPAC. In the public view, the links in $u point the user directly to the entry in the RISM OPAC using the English interface.</p>
+
+<p><strong>Example 1</strong>: Giaches de Wert, Il secondo libro de madregali a cinque voci:<br />
+(<a href="https://catalog.princeton.edu/catalog/10096131" target="_blank">Public view</a> / <a href="https://catalog.princeton.edu/catalog/10096131/staff_view" target="_blank">Staff view</a>)</p>
+
+<p><img src="/images/organisation/csm_510_w862_princeton.jpg" alt="csm_510_w862_princeton" /></p>
+
+<p><strong>Example 2</strong>: Giovanni Bononcini, Cantate e duetti:<br />
+(<a href="https://catalog.princeton.edu/catalog/1751797" target="_blank">Public view</a> / <a href="https://catalog.princeton.edu/catalog/1751797/staff_view" target="_blank">Staff view</a>)</p>
+
+<p><img src="/images/organisation/csm_510_b3601_princeton.jpg" alt="csm_510_b3601_princeton" /></p>
+
+<p>Not everything from the books is in the OPAC (see the <a href="/publications.html">Publications page</a> for an overview). For the recommended form of citing an item from any given RISM publication, please see the <a href="/organisation/RISM_Citation_Styles_2019_06.pdf">Table of RISM Citation Styles</a>, which includes A/I, every volume in the B series, and the OPAC.</p>
+
+<p><em>Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.</em></p>
+
+<h2 id="using-rism-data">Using RISM Data</h2>
+
+<p>The RISM data in the <a href="http://opac.rism.info/" target="_blank">online catalog</a> may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. <strong>Please see our <a href="/community/development/data-services.html#c2671">Data Services page</a> for more information.</strong></p>
+
+<h2 id="rism-logos">RISM Logos</h2>
+
+<p><img src="/images/organisation/rism-logo-with-text.png" alt="rism-logo-with-text" /></p>
+
+<p><img src="/images/organisation/rism-logo.png" alt="rism-logo" /></p>
+:ET
