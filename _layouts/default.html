@@ -4,8 +4,8 @@
 {% assign sidepanel = layout.sidepanel %}
 {% if sidepanel == blank %}{% assign sidepanel = page.sidepanel %}{% endif %}
 
-{% assign show_posts = layout.show_posts %}
-{% if show_posts == blank %}{% assign show_posts = page.show_posts %}{% endif %}
+{% assign show_posts = layout.show_posts  %}
+{% if show_posts != true %}{% assign show_posts = page.show_posts %}{% endif %}
 
 {% assign hide_footer = layout.hide_footer %}
 {% if hide_footer == blank %}{% assign hide_footer = page.hide_footer %}{% endif %}
