@@ -8,21 +8,24 @@ sidepanel: "sidepanels/post"
 
 <h1>{{ label.name[site.active_lang] }}</h1>
 
+{% if paginator.page_trail %}
+<div class="buttons">
+  {% if page.url != paginator.first_page_path %}
+  <button onclick="location.href='{{ paginator.first_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&lt;&lt;</button>
+  {% endif %}
+
+  {% for trail in paginator.page_trail %}
+  {% assign iscurrent = false %}
+  {% if page.url == trail.path %} {% assign iscurrent = true %}{% endif %}
+  <button {% if iscurrent %} disabled {% else %} onclick="location.href='{{ trail.path | prepend: site.baseurl }}'" {% endif %} class="button is-small is-info {% if iscurrent == false %} is-light  {% endif %}">{{ trail.num }}</button>
+  {% endfor %}
+
+  {% if page.url != paginator.last_page_path %}
+  <button onclick="location.href='{{ paginator.last_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&gt;&gt;</button>
+  {% endif %}
+</div>
+{% endif %}
+
 {% for post in paginator.posts %}
   <h2>{{ post.title }}</h2>
 {% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
