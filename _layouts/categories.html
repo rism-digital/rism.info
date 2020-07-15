@@ -1,0 +1,28 @@
+---
+layout: home
+sidepanel: "sidepanels/post"
+---
+
+{% assign labels = site.data.categories %}
+{% assign label = labels | where: "id", page.pagination.category | first %}
+
+<h1>{{ label.name[site.active_lang] }}</h1>
+
+{% for post in paginator.posts %}
+  <h2>{{ post.title }}</h2>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

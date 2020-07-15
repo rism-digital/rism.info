@@ -1,0 +1,50 @@
+- id: self_representation
+  name:
+    en: "New at RISM"
+    de: "Eigendarstellung"
+    fr: "Nouveau au RISM"
+- id: library_stocks
+  name:
+    en: "Library collections"
+    de: "Bibliotheksbestände"
+    fr: "Collections de bibliothèques"
+- id: new_publications
+  name:
+    en: "New publications"
+    de: "Neuerscheinungen"
+    fr: "Nouveautés"
+- id: press_reviews
+  name:
+    en: "In the news"
+    de: "Pressespiegel"
+    fr: "A la une"
+- id: events
+  name:
+    en: "Events"
+    de: "Veranstaltungen"
+    fr: "Evénements"
+- id: rediscovered
+  name:
+    en: "Rediscovered"
+    de: "Wiederendeckt"
+    fr: "Redécourvertes"
+- id: electronic_resources
+  name:
+    en: "Electronic resources"
+    de: "Datenquellen"
+    fr: "Ressources en ligne"
+- id: rism_a_z
+  name:
+    en: "RISM A-Z"
+    de: "RISM A-Z"
+    fr: "RISM A-Z"
+- id: rism_online_catalog
+  name:
+    en: "RISM online catalog"
+    de: "RISM Online-Katalog"
+    fr: "Catalogue RISM en ligne"
+- id: in_memoriam
+  name:
+    en: "In memoriam"
+    de: "In memoriam"
+    fr: "In memoriam"

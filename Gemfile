@@ -12,6 +12,7 @@ gem "jekyll", "~> 3.8.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
+  gem "jekyll-paginate-v2"
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
 end

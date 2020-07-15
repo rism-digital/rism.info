@@ -1,17 +1,7 @@
-# Post DE Information
+# Topics
 
-**Internationales Quellenlexikon der Musik (RISM)**
+{% include sidepanels/post-list.html %}
 
-RISM Zentralredaktion  
-Johann Wolfgang Goethe-Universität  
-Campus Bockenheim  
-Senckenberganlage 31-33  
-60325 Frankfurt am Main  
-Germany
+# Copyright
 
-Telephone: +49 69 706231  
-Fax: +49 69 706026  
-Email: [contact@rism.info](contact@rism.info)
-
-**Director of the Zentralredaktion:**  
-Klaus Keil 
+Sofern kein Autor namentlich genannt ist (bitte achten Sie darauf, ob ein Ansprechpartner genannt ist), wird die Wiederverwendung einer RISM Nachricht unter dem [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} erlaubt. In allen anderen Fällen, wenden Sie sich bitte an den Autor.

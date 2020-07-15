@@ -1,0 +1,11 @@
+{% assign labels = site.data.categories %}
+
+<ul class="menu-list pb-4">
+    {% for category in site.categories %}
+    <li>
+        {% assign label = labels | where: "id", category[0] | first %}
+        <a href="/news-archive/{{ category[0] }}" class="{% if category[0] == page.permalink %}is-active{% endif %}">{{ label.name[site.active_lang] }} ({{ category[1].size }})</a>
+    </li>
+    {% endfor %}    
+</ul>
+
