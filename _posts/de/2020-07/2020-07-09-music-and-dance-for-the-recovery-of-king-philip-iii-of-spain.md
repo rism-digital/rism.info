@@ -4,6 +4,7 @@ title: "Musik und Tanz zur Gesundung König Felipes III. von Spanien"
 date: 2020-07-13
 lang: de
 post: true
+category: self_representation
 ---
 
 Titelblatt

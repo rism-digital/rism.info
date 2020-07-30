@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Neue Quellen aus der Moravian Music Foundation jetzt bei RISM"
+title: "New Records from the Moravian Music Foundation now in RISM"
 date: 2020-07-13
-lang: de
+lang: en
 post: true
+category: library_stocks
 ---
 
 [Contact: Barbara Strauss](mailto:barbara@moravianmusic.org)<br>
 2020/07/13
 
-JJJohann Ernst Bach, Symphony in B-flat major (cover, 1st page of 1st violin)
+Johann Ernst Bach, Symphony in B-flat major (cover, 1st page of 1st violin)
 
 *We have received the following from Barbara Strauss,[Moravian Music Foundation](https://moravianmusic.org/ "Opens external link in new window")(Winston-Salem, North Carolina, USA). The Salem Collegium Musicum Collection is now in RISM ([library siglum: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS "Opens external link in new window")).*
 
