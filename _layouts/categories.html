@@ -4,7 +4,10 @@ sidepanel: "sidepanels/post"
 ---
 
 {% assign labels = site.data.categories %}
-{% assign label = labels | where: "id", page.pagination.category | first %}
+{% assign label = labels | where: "id", "all" | first %}
+{% if page.pagination.category %}
+  {% assign label = labels | where: "id", page.pagination.category | first %}
+{% endif %}
 
 <h1>{{ label.name[site.active_lang] }}</h1>
 

@@ -1,0 +1,15 @@
+- id: all
+  name:
+    en: "All the news"
+    de: "Alle Nachrichten"
+    fr: "Toutes les actualités"
+- id: latest
+  name:
+    en: "News"
+    de: "Aktuelles"
+    fr: "Actualité"
+- id: more
+  name:
+    en: "continue ..."
+    de: "weiterlesen ..."
+    fr: "lire plus..."

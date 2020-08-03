@@ -31,7 +31,9 @@
                 <div class="columns is-multiline ">
                     {% if site.posts and show_posts %}
                     <div class="column is-7-desktop is-12-tablet">
-                        {% include latest-posts.html %}
+                        <div class="content">
+                            {% include latest-posts.html %}
+                        </div>
                     </div>
                     {% endif %}
                     <div class="column {{ content_width }}">
