@@ -5,12 +5,8 @@ date: 2020-07-13
 lang: de
 post: true
 category: library_stocks
+image: "/images/news/2020-07/csm_Moravian_Music_Foundation_Bach_vl_b93d326627.jpg"
 ---
-
-[Contact: Barbara Strauss](mailto:barbara@moravianmusic.org)<br>
-2020/07/13
-
-Johanne Ernst Bach, Symphony in B-flat major (cover, 1st page of 1st violin)
 
 *We have received the following from Barbara Strauss,[Moravian Music Foundation](https://moravianmusic.org/ "Opens external link in new window")(Winston-Salem, North Carolina, USA). The Salem Collegium Musicum Collection is now in RISM ([library siglum: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS "Opens external link in new window")).*
 

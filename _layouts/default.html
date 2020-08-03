@@ -11,7 +11,7 @@
 {% if hide_footer == blank %}{% assign hide_footer = page.hide_footer %}{% endif %}
 
 {% if show_posts %} 
-    {% assign content_width = 'is-8' %} 
+    {% assign content_width = 'is-5-desktop is-12-tablet' %} 
 {% elsif menubar or sidepanel %} 
     {% assign content_width = 'is-8' %} 
 {% else %} 
@@ -28,9 +28,9 @@
         {% endunless %}
         <section class="section">
             <div class="container">
-                <div class="columns">
+                <div class="columns is-multiline ">
                     {% if site.posts and show_posts %}
-                    <div class="column is-4-desktop is-12-tablet">
+                    <div class="column is-7-desktop is-12-tablet">
                         {% include latest-posts.html %}
                     </div>
                     {% endif %}

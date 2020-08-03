@@ -7,13 +7,7 @@ post: true
 category: self_representation
 ---
 
-Titelblatt
-
-Partitur einer Komposition von Pietro Antonio Giramo
-
-Tanzformationen
-
-Vor ziemlich genau 400 Jahren erschien in Neapel bei Costantino Vitale der Sammeldruck Breve Racconto della Festa a Ballo, von dem heute lediglich ein [Exemplar in der Bibliothèque nationale de France (F-Pn)](https://gallica.bnf.fr/ark:/12148/bpt6k321253t "Öffnet externen Link in neuem Fenster") erhalten ist. 
+Vor ziemlich genau 400 Jahren erschien in Neapel bei Costantino Vitale der Sammeldruck Breve Racconto della Festa a Ballo, von dem heute lediglich ein [Exemplar in der Bibliothèque nationale de France (F-Pn)](https://gallica.bnf.fr/ark:/12148/bpt6k321253t) erhalten ist. 
 
 Die Festa a Ballo ist eines der wenigen aus Italien stammenden Zeugnisse höfischer Tanzveranstaltungen mit Musik – ihr Pendant findet sie im französischen ballet de cour (siehe zum Beispiel Discours au vray du Ballet B/I 1617|7. RISM ID no. [993121467](https://opac.rism.info/search?id=993121467&View=rism "Öffnet externen Link in neuem Fenster"), gewidmet Louis XIII. von Frankreich) und in der englischen Masque.
 
