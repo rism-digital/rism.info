@@ -27,5 +27,5 @@ sidepanel: "sidepanels/post"
 {% endif %}
 
 {% for post in paginator.posts %}
-  <h2>{{ post.title }}</h2>
+  {% include post-card.html %}
 {% endfor %}
