@@ -26,6 +26,10 @@ sidepanel: "sidepanels/post"
 </div>
 {% endif %}
 
-{% for post in paginator.posts %}
-  {% include post-card.html %}
-{% endfor %}
+<div class="columns is-multiline">
+  {% for post in paginator.posts %}
+  <div class="column is-12">
+      {% include post-card.html %}
+  </div>
+  {% endfor %}
+</div>
