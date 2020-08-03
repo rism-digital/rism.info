@@ -1,19 +1,16 @@
-<div class="card">
-    <header class="card-header">
-        <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
-    </header>
-    <div class="card-content">
-        <div class="content">
-            {% if post.image %}
-            <div class="float-left news-card">
-                <img src="{{ post.image }}">
-            </div>
-            {% endif %}
-            <p>{{ post.excerpt }}</p>
-        </div>
+{% assign more = site.data.locales | where: "id", "more" | first %}
+
+<div class="columns news">
+    <div class="column">
+        {% if post.image %}
+        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}"></a>
+        {% endif %}
     </div>
-    <footer class="card-footer">
-        <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
-        <a class="card-footer-item" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    </footer>
-</div>
+    <div class="column is-four-fifths">
+        <p class="has-text-weight-semibold">{{ post.title }}</p>
+        <p>{{ post.excerpt }}</p>
+        
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ more.name[site.active_lang] }}</a></p>
+    </div>
+  </div>
+

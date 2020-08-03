@@ -1,3 +1,8 @@
+- id: all
+  name:
+    en: "News archive"
+    de: "Nachrichtenarchiv"
+    fr: "Archive des actualités"
 - id: self_representation
   name:
     en: "New at RISM"
