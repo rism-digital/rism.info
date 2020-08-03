@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Raymund Schlecht (1811-1891)"
+date: 2020-04-14
+lang: de
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_RISM_A-Z_-_Schlecht_-_3_Gesa__nge__Coro_-_UEI_Esl_V_38_640ea35eb6.png
+---
+
+
+Unsere Reihe RISM A-Z widmet sich mit dem Buchstaben “S” nicht nur einer Person, sondern zugleich auch einer bedeutenden Musiksammlung.
+
+Studiert hatte Raymund Schlecht in Regensburg und zwar Mathematik, Physik, Theologie und Orientalische Sprachen. Bis zu seinem Ruhestand war er Lehrer und Direktor am Schullehrerseminar für die Oberpfalz in Eichstätt. Schon während dieser Tätigkeit zeigte sich sein Interesse für die Gregorianik und die Musikgeschichte Eichstätts.
+
+Die "Sammlung Schlecht" umfasst Handschriften aus dem Umkreis der ehemaligen Eichstätter Hofkapelle sowie Musik des Cäcilianismus. Insgesamt sind bei [RISM über](https://opac.rism.info/search?View=rism&siglum=D-Eu){:target="_blank"}[7.000 Titel](https://opac.rism.info/search?View=rism&siglum=D-Eu){:target="_blank"} nachgewiesen, darunter auch über 400 eigene Werke von Raymund Schlecht. Zu den besonders häufig vertretenen Komponisten gehören Giovanni Pierluigi da Palestrina, Lodovico Viadana oder auch Caspar Ett.
+
+Nach Raymund Schlechts Tod 1891 ging [die Sammlung](http://digital.bib-bvb.de/R/7NJGS3FYQYHQV4NJ3GUYI9RRGR98RSK1IN88YTRCCPFSAK4MBM-00690?func=collections&collection_id=5555){:target="_blank"} in den Besitz der [Universitätsbibliothek in Eichstätt](https://www.ku.de/bibliothek/){:target="_blank"} über und wurde inzwischen auch digitalisiert. Ein Überblick über die Sammlung bieten auch die Bände 11/2 und 11/3 aus der Reihe _Kataloge Bayerischer Musiksammlungen_ (KBM).
+
+
+_Abbildung_: Autograph des vierstimmigen Chorus “Erkenntnis du lieblicher strahlender Stern” von Raymund Schlecht. Universitätsbibliothek Eichstätt-Ingolstadt (D-Eu) Esl V 38 ([RISM ID no. 450301839)](https://opac.rism.info/search?id=450301839&View=rism){:target="_blank"}
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

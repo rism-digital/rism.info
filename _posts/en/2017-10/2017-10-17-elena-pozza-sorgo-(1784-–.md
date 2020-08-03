@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Elena Pozza-Sorgo (1784 – 1865)"
+date: 2017-10-17
+lang: en
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Pozza-Sorgo_06-5-1-EPS4_35b8b56c29.jpg
+---
+
+
+_The series **RISM A-Z** brings us to the letter P with this post by Vjera Katalinić and Lucija Konfic (RISM Croatia):_
+
+Elena Pozza-Sorgo (Jelena Pucić-Sorkočević, born Elena Luisa Ragnina, married to Niccolò Luciano di Pozza-Sorgo [Nikola Lukin Pucić-Sorkočević]; 1784 – 1865) was a member of [a noble family from Dubrovnik](http://www.rism.info/en/home/newsdetails/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html){:target="_blank"}. Besides Croatian, she was fluent in Italian (after Dubrovnik, she continued her schooling in Tuscany) and Latin. She wrote poetry, played piano, and made some attempts in composition: thus she is the first Croatian female composer whose compositions are preserved.
+
+Some 30 volumes of musical material from her possession and with her signature have been preserved in the private collection of her descendants (recently brought to the Scientific Library in Dubrovnik, HR-Dz), and in the collection of the Dubrovnik Franciscans (HR-Dsmb; [link to these sources in RISM](https://opac.rism.info/search?View=rism&q=pozza+sorgo+elena&Language=en){:target="_blank"}) – arias and duets from the operas of the time (by Giuseppe Farinelli, Domenico Cimarosa, Francesco Bianchi, Pietro Antonio and Pietro Carlo Guglielmi, Giuseppe Sarti, etc.), instrumental pieces (such as Pleyel's trio in C major, Mozart's Quartetto op. 13 and Sonata op. 16, Beethoven's piano trios op. 1). Among this material there are six songs for voice with piano accompaniment composed by Elena Pozza-Sorgo:
+
+1) Sento che l'alma e' oppressa – in two text versions set to almost the same music
+
+2) Ciglio che al sol s'aggira
+
+3) All'idea de' tuoi perigli
+
+4) Calmate o Dei potenti
+
+5) La Pastorella Nice
+
+6) Torna la bella aurora.
+
+They are written in a piano system with the text put in under the vocal melody that is doubled in the upper part of the piano. The musical setting is very simple and standardised, while the text follows the pattern of Pietro Metastasio’s style. This musical genre was a frequent basis for the private lessons given to noble ladies of the time.
+
+
+
+_Images:_ "Sento che l'alma è oppressa," words and music by Elena Pozza-Sorgo, possibly in her own hand. Library of the Franjevački samostan Male braće (HR-Dsmb 75/1963, [RISM ID no. 500052976](https://opac.rism.info/search?id=500052976&Language=en){:target="_blank"}). Courtesy of the authors.
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

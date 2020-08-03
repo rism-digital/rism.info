@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Gedichte des 17. Jahrhunderts in Musik gesetzt"
+date: 2015-09-17
+lang: de
+post: true
+category: library_stocks
+image: /uploads/_processed_/csm_Poesie_Gallica_7ab9d3eb38.jpg
+---
+
+
+_Dieser Beitrag stammt von_ _Clotilde Angleys (Département de la Musique) und erschien erstmals in dem[Gallica Blog](http://blog.bnf.fr/gallica/index.php/2015/02/06/la-poesie-du-xviieme-siecle-en-musique/){:target="_blank"} der Bibliotheque national de France (BnF). Wir veröffentlichen ihn hier nach den Grundsätzen der[Creative Commons](http://blog.bnf.fr/gallica/index.php/credits/){:target="_blank"}._
+
+Die 37 _Livres d’airs de différents auteurs_, herausgegeben von den Musikverlegern Robert und Christophe Ballard, sind jetzt kostenlos zugänglich auf [Gallica](http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q=LivresDAir&x=0&y=0){:target="_blank"}.
+
+In dieser Anthologie von vertonten Gedichten werden Sie Werke großer Dichter aus der zweiten Hälfte des 17. Jahrhunderts finden. Von der Geziertheit (eines [Vincent Voiture](http://gallica.bnf.fr/ark:/12148/bpt6k45000282/f16){:target="_blank"} und [Madeleine de Scudéry](http://gallica.bnf.fr/ark:/12148/bpt6k4500027n/f46){:target="_blank"}) bis zur dramatischen Kunst (eines [Pierre Corneille](http://gallica.bnf.fr/ark:/12148/bpt6k4500029g/f64 "external-link-new-window") und [Philippe Quinault](http://gallica.bnf.fr/ark:/12148/bpt6k4500029g/f38){:target="_blank"}), wurden die Gedichte von zeitgenössischen Komponisten (u.a. von [Jean-Baptiste Lully](http://gallica.bnf.fr/ark:/12148/bpt6k4500034s/f2){:target="_blank"} und [Bertrand de Bacilly](http://gallica.bnf.fr/ark:/12148/bpt6k4500029g/f12){:target="_blank"}) vertont.
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="LecteurExportable" width="450" height="381" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab"><param name="movie" value="http://gallica.bnf.fr/flash/LecteurExportable.swf">
+<param name="allowScriptAccess" value="always">
+<param name="wmode" value="window">
+<param name="FlashVars" value="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381">
+<embed src="http://gallica.bnf.fr/flash/LecteurExportable.swf" name="LecteurExportable" width="450" height="381" allowscriptaccess="always" wmode="window" flashvars="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer"></embed></object>
+
+_Oben: Der erste Band dieser Serie: Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
+
+
+
+Viele Werke diser Sammlung sind ohne Namensnennung des Dichters oder Komponisten überliefert. Das Centre de Musique Baroque de Versailles, Partner der BnF, hat eine elektronische [moderne wissenschaftliche Edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} der 1220 Airs herausgegeben.
+
+Eine [neue Online-Sammlung](http://gallica.bnf.fr/html/partitions/les-livres-dairs-de-differents-auteurs){:target="_blank"} erlaubt Ihnen zwischen dem Gallica-Faksimile und der kritischen Edition, von der die ersten acht Bände zur Verfügung stehen, hin und her zu navigieren.
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
