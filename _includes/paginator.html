@@ -1,19 +1,19 @@
 {% if paginator.page_trail %}
 <div class="buttons">
   {% if page.url != paginator.first_page_path %}
-  <button onclick="location.href='{{ paginator.first_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&lt;&lt;</button>
-  <button onclick="location.href='{{ paginator.previous_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&lt;</button>
+  <a href="{{ paginator.first_page_path | prepend: site.baseurl }}" class="button is-small is-info is-light">&lt;&lt;</a>
+  <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button is-small is-info is-light">&lt;</a>
   {% endif %}
 
   {% for trail in paginator.page_trail %}
   {% assign iscurrent = false %}
   {% if page.url == trail.path %} {% assign iscurrent = true %}{% endif %}
-  <button {% if iscurrent %} disabled {% else %} onclick="location.href='{{ trail.path | prepend: site.baseurl }}'" {% endif %} class="button is-small is-info {% if iscurrent == false %} is-light  {% endif %}">{{ trail.num }}</button>
+  <a {% if iscurrent %} disabled {% else %} href="{{ trail.path | prepend: site.baseurl }}" {% endif %} class="button is-small is-info {% if iscurrent == false %} is-light {% endif %}">{{ trail.num }}</a>
   {% endfor %}
 
   {% if page.url != paginator.last_page_path %}
-  <button onclick="location.href='{{ paginator.next_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&gt;</button>
-  <button onclick="location.href='{{ paginator.last_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&gt;&gt;</button>
+  <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button is-small is-info is-light">&gt;</a>
+  <a href="{{ paginator.last_page_path | prepend: site.baseurl }}" class="button is-small is-info is-light">&gt;&gt;</a>
   {% endif %}
 </div>
 {% endif %}
