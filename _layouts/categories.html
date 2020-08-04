@@ -11,23 +11,7 @@ sidepanel: "sidepanels/post"
 
 <h1>{{ label.name[site.active_lang] }}</h1>
 
-{% if paginator.page_trail %}
-<div class="buttons">
-  {% if page.url != paginator.first_page_path %}
-  <button onclick="location.href='{{ paginator.first_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&lt;&lt;</button>
-  {% endif %}
-
-  {% for trail in paginator.page_trail %}
-  {% assign iscurrent = false %}
-  {% if page.url == trail.path %} {% assign iscurrent = true %}{% endif %}
-  <button {% if iscurrent %} disabled {% else %} onclick="location.href='{{ trail.path | prepend: site.baseurl }}'" {% endif %} class="button is-small is-info {% if iscurrent == false %} is-light  {% endif %}">{{ trail.num }}</button>
-  {% endfor %}
-
-  {% if page.url != paginator.last_page_path %}
-  <button onclick="location.href='{{ paginator.last_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&gt;&gt;</button>
-  {% endif %}
-</div>
-{% endif %}
+{% include paginator.html %}
 
 <div class="columns is-multiline">
   {% for post in paginator.posts %}
@@ -36,3 +20,7 @@ sidepanel: "sidepanels/post"
   </div>
   {% endfor %}
 </div>
+
+{% if paginator.posts.size > 5 %}
+  {% include paginator.html %}
+{% endif %}
