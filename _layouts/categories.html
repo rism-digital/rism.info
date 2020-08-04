@@ -11,24 +11,16 @@ sidepanel: "sidepanels/post"
 
 <h1>{{ label.name[site.active_lang] }}</h1>
 
-{% if paginator.page_trail %}
-<div class="buttons">
-  {% if page.url != paginator.first_page_path %}
-  <button onclick="location.href='{{ paginator.first_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&lt;&lt;</button>
-  {% endif %}
+{% include paginator.html %}
 
-  {% for trail in paginator.page_trail %}
-  {% assign iscurrent = false %}
-  {% if page.url == trail.path %} {% assign iscurrent = true %}{% endif %}
-  <button {% if iscurrent %} disabled {% else %} onclick="location.href='{{ trail.path | prepend: site.baseurl }}'" {% endif %} class="button is-small is-info {% if iscurrent == false %} is-light  {% endif %}">{{ trail.num }}</button>
+<div class="columns is-multiline">
+  {% for post in paginator.posts %}
+  <div class="column is-12">
+      {% include post-card.html %}
+  </div>
   {% endfor %}
-
-  {% if page.url != paginator.last_page_path %}
-  <button onclick="location.href='{{ paginator.last_page_path | prepend: site.baseurl }}'" class="button is-small is-info is-light">&gt;&gt;</button>
-  {% endif %}
 </div>
-{% endif %}
 
-{% for post in paginator.posts %}
-  {% include post-card.html %}
-{% endfor %}
+{% if paginator.post.length > 5 %}
+  {% include paginator.html %}
+{% endif %}
