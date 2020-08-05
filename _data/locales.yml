@@ -13,3 +13,23 @@
     en: "continue ..."
     de: "weiterlesen ..."
     fr: "lire plus..."
+- id: newer
+  name:
+    en: "Newer"
+    de: "Neure"
+    fr: "Suivant"
+- id: newer-by-cat
+  name:
+    en: "Newer in this category"
+    de: "Neure in dieser Kategorie"
+    fr: "Suivant dans cette catégorie"
+- id: older
+  name:
+    en: "Older"
+    de: "Ältere"
+    fr: "Précédent"
+- id: older-by-cat
+  name:
+    en: "Older in this category"
+    de: "Ältere in dieser Kategorie"
+    fr: "Précédent dans cette catégorie"
