@@ -22,26 +22,27 @@
             en: Introducing a Work Level in RISM (2019)
             de: Werkebene (2019)
             fr: Introduction d'Oeuvres dans le RISM (2019)
-          link: "/publications/conferences/2019-work-level.html"
+          link: "/publications/conferences/work-level-2019.html"
         - name:
             en: Sources in Latin America (2016)
             de: Lateinamerika Konferenz 2016
             fr: Sources en Amérique Latine (2016)
-          link: "/publications/conferences/2016-latin-america.html"
+          link: "/publications/conferences/latin-america-conference-2016.html"
         - name:
             en: Colloquium (2015)
             de: Kolloquium 2015
             fr: Colloquium (2015)
-          link: "/publications/conferences/2015-colloquium.html"
+          link: "/publications/conferences/colloquium-2015.html"
         - name:
             en: Music Documentation (2012)
             de: Konferenz 2012
             fr: Documentation Musicale (2012)
-          link: "/publications/conferences/2012-music-documentation.html"
+          link: "/publications/conferences/conference-2012.html"
     - name:
         en: IAML Conferences
         de: IAML Konferenzen
         fr: Conférences IAML
+        link: "/publications/iaml-conferences.html"
       items:
         - name:
             en: 2019
@@ -97,6 +98,7 @@
         en: Annual reports
         de: Jahresberichte
         fr: Rapports annuels
+        link: "/publications/annual-reports.html"
       items:
         - name:
             en: 2019
@@ -152,7 +154,7 @@
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
         fr: Publications CD-ROM (1995-2011)
-      link: "publications/cd-rom.html" 
+      link: "publications/cd-rom-publications-1995-2011.html" 
     - name:
         en: Info-RISM (1989-2001)
         de: Info-RISM (1989-2001)
