@@ -2,7 +2,7 @@
 layout: publications
 title: "RISM Colloquium"
 lang: de
-permalink: /publikationen/colloquium-2015.html
+permalink: /pulications/colloquium-2015.html
 ---
 
 # RISM-Kolloquium
