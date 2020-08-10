@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing the Jekyll itegration"
-date: 2020-07-27
+date: 2020-08-10
 lang: en
 post: true
 category: self_representation
