@@ -7,7 +7,6 @@ permalink: /publications.html
 
 # Publikationen
 
-
 Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. [Serie A](#die-rism-serien-a-b-und-c) dokumentiert Musikalische Quellen in zwei Teilen: gedruckte Musikausgaben (A/I) und Musikhandschriften (A/II). [Serie B](#die-rism-serien-a-b-und-c) ist bestimmt für Quellenrepertoire nach bestimmten thematischen Schwerpunkten. Series A and B werden ergänzt durch [Serie C](#die-rism-serien-a-b-und-c), das Directory of Music Research Libraries. Daneben erschienen spezielle Bände wie [Tenorlied](#die-rism-serien-a-b-und-c) und RISM-Bibliothekssigel (heute als [Online Datenbank](/sigel.html){:target="_blank"}).
 
 ## Online-Katalog
