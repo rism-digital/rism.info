@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "RISM-Kolloquium"
+title: "RISM Colloquium"
 lang: de
 permalink: /publikationen/colloquium-2015.html
 ---
