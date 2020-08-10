@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Isabella Leonarda (1620-1704)"
+date: 2016-04-07
+lang: en
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Isabella_Leonarda_aa86eb9978.jpg
+---
+
+
+Last month we discussed Italian composer [Giacomo Insanguine](http://www.rism.info/en/home/newsdetails/select/rism_a_z/article/2/rism-a-z-giacomo-insanguine-1728-1795.html){:target="_blank"} (1728-1795) in our series RISM A-Z, and today we stay in Italy but step 100 years back to look at composer and nun Isabella Leonarda (1620-1704). Much is still unknown about her life. At the young age of sixteen, she joined the religious order Collegio di Sant'Orsola in Novara (northern Italy), where she lived until her death.
+
+A school was likely part of the Ursuline convent, where around 30 young women were taught by the sisters. Nuns in Novara did not live in seclusion, so it is conceivable that Isabella Leonarda had contacts and personal relationships with people outside the convent.
+
+At Novara Cathedral,[Gasparo Casati](https://opac.rism.info/search?View=rism&author=Gasparo+Casati){:target="_blank"} (ca. 1610-1641) held the post of _maestro di cappella_ from 1635 until his death, and he may have been Isabella's composition teacher. Around 200 of her compositions are known, including non-liturgical works such as solo motets and sonatas. [Twenty sources for her works](https://opac.rism.info/search?View=rism&author=isabella+leonarda){:target="_blank"} are in the RISM database and two of these have been digitized. Her music was even printed during her lifetime and gained wide currency, as shown by handwritten copies of the motet "O anima mea arde ardentem " in [Uppsala](https://opac.rism.info/search?id=190024889){:target="_blank"} (dated around 1671) and [Dresden](https://opac.rism.info/search?id=211004735){:target="_blank"} (after 1672). Also noteworthy is a copy of "In caelis personent" in [Prague](https://opac.rism.info/search?id=550248630){:target="_blank"}, which demonstrates that Isabella Leonarda's music was still in circulation in the eighteenth century.
+
+Listen to this beautiful "Ave regina" by Isabella Leonarda, sung by the Hungarian ensemble Acapellart Énekegyüttes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gz75d_1_JA" frameborder="0" allowfullscreen></iframe>
+
+
+
+_Image_: Portrait of Isabella Leonarda from the Leonarda family tree, via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Isabella_Leonarda.jpg){:target="_blank"}.
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Philippe Quinault (1635-1688)"
+date: 2018-06-07
+lang: en
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Quinault_Armide_c4b3afa7c1.png
+---
+
+
+Our occasional series RISM A-Z brings us to the letter Q.
+
+Christoph Willibald Gluck, Carl Heinrich Graun, Georg Friedrich Händel, Jean-Baptiste Lully, and Tommaso Traetta are some composers associated with the librettist Philippe Quinault (baptized 5 June 1635, Paris – 26 November 1688, Paris).
+
+The son of a baker, Quinault first studied law before dedicating himself to poetry. He wrote many dramas and tragicomedies in the 1650s. By 1666, Quinault was working closely with Lully. When Lully took over leadership of the Académie royale de musique in 1674, he made Quinault his librettist. Quinault wrote one libretto to an opera or ballet by Lully per year until his death. This partnership with Lully ushered in the era of the _tragédie lyrique_.
+
+Quinault's last opera libretto, _Armide_ (1686), was also his most successful. It is based on Torquato Tasso's epic poem _Gerusalemme Liberata_ (Jerusalem Delivered). It contains the story of Armide (see image) and Renaud plus numerous other themes and people whose fates interlock with each other. But reducing complex storylines to coherent plot material for an opera in five acts was one of Quinault's strengths, and his skill in this regard led to his success.
+
+Lully was not the only composer who set Quinault's _Armide_ to music. The libretto found popularity in later versions by Tommaso Traetta (_Armida_, premiere in Vienna in 1761, libretto adapted from Quinault by Giacomo Durazzo and Giovanni Ambrogio Migliavacca) and Christoph Willibald Gluck, who used Quinault's text except for a different prologue (_Armide_, 1777).
+
+The nearly [2,000 records](https://opac.rism.info/search?View=rism&q=61556388&Language=en){:target="_blank"} for Philippe Quinault in the RISM online catalog are by no means complete, but they offer a good overview of his collaboration with Lully and other composers, as well as the dissemination of the sources today.
+
+
+_Image_: A seventeenth-century watercolor of the figure of Armide, from Philippe Beaussant's _Lully ou Le musicien du Soleil_ (Gallimart, 1992), pl. 15, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lully_-_Armide_-_watercolor_17th_century_-_Armide.png){:target="_blank"}.
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

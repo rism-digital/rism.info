@@ -3,7 +3,7 @@ title: RISM
 layout: home
 show_posts: true
 lang: de
-permalink: /index
+permalink: /index.html
 ---
 
 Das Internationale Quellenlexikon der Musik - Répertoire International des Sources Musicales (RISM) - ist ein länderübergreifendes, gemeinnützig orientiertes Unternehmen mit dem Ziel, die weltweit überlieferten Quellen zur Musik umfassend zu dokumentieren. Die erfassten musikalischen Quellen sind handschriftliche oder gedruckte Noten, Schriften über Musik und Textbücher. Sie werden in Bibliotheken, Archiven, Klöstern, Schulen und Privatsammlungen aufbewahrt.

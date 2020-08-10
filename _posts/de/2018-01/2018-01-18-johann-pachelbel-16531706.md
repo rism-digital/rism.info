@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Johann Pachelbel (1653-1706)"
+date: 2018-01-18
+lang: de
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Pachelbel_-_Hexachordum_Apollinis_f096e8daa1.png
+---
+
+
+Innerhalb unserer Reihe RISM A-Z sind wir bei Johann Pachelbel (1653-1706) angelangt. Organisten bräuchte man sicherlich nicht überzeugen: Johann Pachelbel hat mehr als nur den „Kanon in D“ geschrieben! Die statistische Zusammenfassung, die in seinem _Thematic Catalogue of the Musical Works of Johann Pachelbel_ anbietet, gibt schon mal einen ersten Überblick: Von den 528 Einträgen sind 421 Werke für Tasteninstrumente (mehr als die Hälfte davon für Orgel), 89 Vokalwerke, 16 Kammermusikwerke (darunter der Kanon) und zwei pädagogische Werke. Auch die bei RISM nachgewisenen [486 Pachelbel-Quellen](https://opac.rism.info/search?View=rism&author=119456613){:target="_blank"} verteilen sich ähnlich.
+
+Durchaus überraschend ist die Tatsache, dass von Pachelbel zu Lebzeiten nur drei Drucke erschienen sind:
+
+-
+
+_Musicalische Ergötzung bestehend in Sechs Verstimten Partien_ ([RISM A/I: P 34](https://opac.rism.info/search?id=00000990047673){:target="_blank"})
+
+
+-
+
+_Erster Theil etlicher Chorale_ ([RISM A/I: P 35](https://opac.rism.info/search?id=00000990047674){:target="_blank"})
+
+
+-
+
+_Hexachordum Apollinis_ ([RISM A/I:](https://opac.rism.info/search?id=00000990047675){:target="_blank"} P 36; siehe Abbildung)
+
+
+
+Pachelbel gehörte dennoch zu denk Komponisten des 17. Jahrhunderts, die nie gänzlich in Vergessenheit gerieten. Ein Beleg dafür ist beispielsweise die [Abschrift](https://opac.rism.info/search?id=455034292){:target="_blank"} von Kanon und Gigue in D, die etwa 1840 entstand und heute in Berlin liegt.
+
+Übrigens hatte Johann Pachelbel auch zwei Söhne, die ebenfalls komponierten:
+
+Wilhelm Hieronymus Pachelbel (1686-1764) war als Organist in Nürnberg tätig und Carl Theodorus Pachelbel (1690-1750) wirkte vor allem in den Kolonien Amerikas.
+
+_Abbildung:_ Titelseite von _Hexachordum Apollinis_ ([RISM A/I: P 36](https://opac.rism.info/search?id=00000990047675){:target="_blank"}) aus der Bayerischen Staatsbibliothek (D-Mbs),[online zugänglich](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00088516-7){:target="_blank"}.
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

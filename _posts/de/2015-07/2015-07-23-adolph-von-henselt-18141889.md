@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Adolph von Henselt (1814-1889)"
+date: 2015-07-23
+lang: de
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Henselt_Denkmal_32c3c6676c.jpg
+---
+
+
+_Unser heutiger Beitrag zur Serie RISM A-Z führt uns zum Buchstaben H. Der folgende Text zu Adolph Henselt (1814-1889) stammt von Natalia Keil-Zenzerova, der Autorin des Buches [Adolph von Henselt. Ein Leben für die Klavierpädagogik in Rußland](http://www.peterlang.de/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=produkt&pk=37961&concordeid=53925){:target="_blank"} und wird mit freundlicher Genehmigung veröffentlicht._
+
+
+
+Der junge Henselt erlebte in seiner deutschen Heimat einen kometenhaften Aufstieg als Komponist und Klaviervirtuose. Man stellte ihn als Komponisten neben Frederik Chopin und nannte ihn gar den "Raphael des Klaviers". Als Pianist wurde er mit Franz Liszt und Sigismund Thalberg verglichen.
+
+Mit 24 Jahren kam Adolph Henselt nach St. Petersburg und wählte diese Stadt zu seiner zweiten Heimat, in der er länger als ein halbes Jahrhundert lebte. Seine ersten Konzerte haben groß Furore gemacht und die Begeisterung der Presse nahm keine Ende. Leider ließen es aber Henselts angegriffene Nerven nicht zu, dass er sich ständig der Konzerttätigkeit widmete.
+
+Henselt hat nur eine verhältnismäßig geringe Anzahl eigener Kompositionen hinterlassen. Über 60 von ihnen sind im RISM Online-Katalog ([link](https://opac.rism.info/search?View=rism&author=Adolph+von+Henselt){:target="_blank"}) dokumentiert. Diese Werke sind durchaus eigentümlich und besonders. So verbreiteten sich seine zwölf Konzertetüden op. 2, die neben den Etüden Chopins in inhaltlicher und technischer Hinsicht eine neue Seite in der Geschichte der Klavieretüde eröffneten, noch vor ihrer Veröffentlichung in zahlreichen handschriftlichen Kopien mit unglaublicher Geschwindgkeit. Zu Henselts bedeutenden Werke gehören sein "Poeme d'amour" op. 3. eine weitere Serie von Konzertetüden op. 5, die Konzertvariationen für Klavier und Orchester über ein Thema aus der Oper "Robert le Diable" von Giacomo Meyerbeer op. 11, das Klavierkonzert op. 16 und das Klaviertrio op. 24.
+
+Aber eigentlich liegt der Hauptakzent von Henselts St. Petersburger Wirken im Bereich der Pädagogik. Schon bald nach seiner Ankunft in der nördlichen Hauptstadt wurde es in vornehmen Kreisen zur Mode, für teures Geld bei der "Europäischen Berühmtheit" Klavierstunden zu nehmen. Im Laufe der Zeit hat sich der Einfluss seiner Pädagogik verbreitet. Henselt begann seine pädagogische und später inspektorische Tätigkeit lange vor der Eröffnung der ersten russischen Konservatorien und hatte sich die allgemeine musikalische Bildung und Erziehung im Lande zur Aufgabe gemacht.
+
+Henselt gelang es, seinen eigenen Weg in der Musikpädagogik zu finden und dabei eigene Unterrichtsmethoden zu entwickeln. Durch die Unterstützung seitens höchster Kreise konnte er seine pädagogischen Vorstellungen in ganz Russland durchsetzen. Henselts Verdienste um die russische Musikkultur sind groß und es ist kein Zufall, dass viele der großen russischen Musiker wie Michail Glinka, Aleksandr Dargomyzskij, Milij Balakirev, Anton Rubinstejn und Theodor Leszetucki ihm einen der ehrenvollsten Plätze im russischen Musikleben des 19. Jahrhundert zu erkannt haben. Als Pädagoge gründete er eine Tradition, in der Pianisten wie Sergej Rachmaninov und Aleksandr Skrabin als Enkelschüler standen.
+
+
+
+Hier spielt Natalia Keil-Senserowa Henselts _Romance_, opus 10:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TOIPHqa0HvU" frameborder="0" allowfullscreen></iframe>
+
+
+
+Bildnachweis: Statue von Adolph von Henselt in seiner Geburtsstadt Schwabach, Deutschland (Frank C. Müller, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Denkmal_Adolph_von_Henselt_fcm.jpg){:target="_blank"})
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

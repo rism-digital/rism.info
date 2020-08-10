@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Eine weitere Fehlzuschreibung (und Wiederentdeckung) zu Vivaldi in Dresden"
+date: 2017-04-25
+lang: de
+post: true
+category: rediscovered
+image: /uploads/_processed_/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg
+---
+
+
+_Der folgende Beitrag stammt von Michael Talbot_ _(University of Liverpool, Department of Music, Emeritus):_
+
+Vielen ist das ehrgeizige Projekt “[Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/){:target="_blank"}” – gefördert durch die Deutsche Forschungsgemeinschaft (DFG) und 2016 beendet – ein Begriff. Ein in der Tat außergewöhnlichesProjekt, da nicht nur die Bereitstellung einer Unmenge an Digitalisaten sondern auch eine detaillierte Katalogisierung mit – sofern möglich –Wasserzeichenbeschreibung und Schreiberidentifizierung zum Forschungsauftrag gehörten. Es ermöglicht den Nutzern des [RISM Portals](https://opac.rism.info/){:target="_blank"} mit einem einzigen Klick alle Handschriften dieser bedeutenden Gruppe mit einer Wasserzeichen- und/oder Schreiberangaben zu isolieren und zu berücksichtigen. In der Mehrzahl der Fälle bringt die Verwendung der Suchfilter keine Überraschungen. Nur wenn die Incipits weitere Untersuchungen erforderlich machen, wird man durch den unglaublich schnellen Zugang zur digitalen Ressource ermutigt, weiter zu forschen (ansonsten müsstemanStunden damit verbringen und die Geduld der Bibliotheksmitarbeiter überstrapazieren, um die gleiche Arbeitin situ zu machen.) Das „Was wäre wenn ...?“ und die Entwicklungvon Hypothesen ist fast immer heikel und benötigt viel Zeit in den eigentlichen Bibliothekswänden.
+
+Vivaldi-Forschern ist seit den frühen 1990er Jahren eine Gruppe einzigartig erhaltener Psalmvertonungen des ehemaligen Hofkirchen-Repertoires, das heute in der[SLUB](https://www.slub-dresden.de/startseite/){:target="_blank"} (D-Dl) aufbewahrt wird, bekannt. Die Manuskripte wurden Galuppi zugeschrieben, aber Konkordanzen sowie stilistische und strukturelle Faktoren zeigen, dass es sich um spätere Kompositionen Vivaldis (nach 1730) handelt. 1992 tauchte das _Beatus vir_ RV 795 auf, 2003 ein _Nisi Dominus,_ 2006 ein _Dixit Dominus_ und ein _Lauda Jerusalem._ Dann wurde die Spur kalt – niemand hatte in diesem noch nicht ganz digitalen Zeitalter die Gelegenheit dieses Repertoire gründlich durchzusehen, um auf weitere Werke dieser Provenienz zu stoßen.
+
+Seit den ersten Jahren des jetzigen Jahrtausends war bekannt, dass alle vier fehlzugeschriebenen Werke aus der berühmten venezianischen Kopistenwerkstatt von Iseppo Baldan stammen. Ihm wurden von Haydn-Forschern schon einige vorsätzliche Fehlzuschreibungen angelastet. Ein wahrscheinlich logischer Grund für den Austausch des Namens von Vivaldi in Galuppi zeigte sich bald: In den späten 1750er Jahren oder sehr frühen 1760er Jahren war Baldan offensichtlich damit beauftragt worden, (kurzfristig) dem polnisch-sächsischen Hof eine größere Menge geistlicher Vokalmusik – vorwiegend von Galuppi – zu liefern. Er hatte aber nur wenige entsprechende Werke vorliegen. In dieser Mangelsituation behalf Baldan sich dadurch, dass er von anderen Komponisten Werke hinzufügte, die er gerade in seinem Lagerraum griffbereit liegen hatte (die Vivaldi-Werke kann er über zwei Neffen des Komponisten,die eine zeitlang seine Angestellten waren,erhalten haben).
+
+Mitte März 2017 hatte ich eineIdee. Es fiel mir ein, dass,wenn alle vier oben genannten Werke von Baldans Hand stammten, könnten sie auch auf demselben Papier geschrieben worden sein, was sich über das Wasserzeichen eruieren lässt. Wenn ja, könnte die Suchanfrage nach Schreiber und Papiersorte zu einer überschaubaren Trefferliste führen, um schnell nach weiteren Vivaldi-Werken zu suchen, die noch vermisst werden. Ich fand schnell über RISM heraus, dass esinnerhalb des Repertoiresmehr als nur diese vier Handschriften gab,diesowohl dem Schreiber (Baldan) als auch der Papiersorte (genannt W-Dl-428) zugeordnet werden können. So suchte ich gezielt nur nach „W-Dl-428”. Das Ergebnis war eine Gruppe von 56 Kompositionen – bis auf drei alle geistlich – und fast alle mit dem Namen Galuppi versehen. In allen Fällen stand in der rechten oberen Ecke der willkommene Button zur Verlinkung auf das Digitalisat zur Verfügung.
+
+Danach begann die Analyse der Incipits. Bei jenen, die nicht nach Galuppi oder eher nach Vivaldi aussahen, betrachtete ichdas Digitalisat genauer. In etwa 90 Minuten hatte ich die ganze Liste abgearbeitet. Nur ein noch nicht Vivaldi zugeschriebenes Werk sah nach Vivaldi aus; das war schon genug. Es war das einsätzige _Laetatus sum_ in C-Dur für SATB, Chor und Streicher, Galuppi (unter seinem Beinamen „Buranello”) zugeschrieben. Die Signatur ist Mus. 2973-D-36 und die[RISM ID. no. lautet 212006095](https://opac.rism.info/search?id=212006095){:target="_blank"}. _[Die korrekte Zuschreibung an Vivaldi ist nach der nächsten Aktualisierung des Online-Katalogs am Ende des Monats sichtbar - Red.]_
+
+Je mehr ich in die Partitur schaute, desto lauter rief es „Vivaldi” in mir. Von diesem Zeitpunkt an begann die Suche nach einer sinnvollen Argumentation für Vivaldis Autorschaft. Frühere Forscher hatten wenig zu dem Werk gesagt, Ines Burde verbannte die Komposition in ihrer kürzlich publizierten Doktorarbeit zu Galuppi (2008) vorübergehend in den Anhang. Ich bin die Frage nach der Autorschaft von vielen Seiten angegangen. Ich habe einige kurze musikalische Übereinstimmungen in Vivaldis Werken identifiziert, eine Vielzahl von eigenständigen, charakteristischen Merkmalen (beispielsweise: das synchrone Arpeggio eines dissonanten Quart-Quint-Akkordes durch zwei (oder mehr) Streichinstrumente) und einige Besonderheiten der Notation, die von Baldan übernommen wurden, da es sich vermutlich um ein Autograph des Komponisten handelt.
+
+Ich schlug dann das _Laetatus sum_ als neuen Eintrag für das Vivaldi Werkverzeichnis meinen Kollegen des Herausgeberausschusses der kritischen Gesamtausgabe der Werke Vivaldis (herausgegeben durch das Istituto Italiano Antonio Vivaldi im Verlag Ricordi) vor. Ich schickte die Quelle als pdf-Anhang mit, meine Übertragung und eine detaillierte Argumentation. Binnen Stunden kamen die ersten Reaktionen zurück, alle positiv. Genauso schnell war eine RV Nummer gefunden: RV 827.
+
+So wie die Dinge jetzt – Mitte April 2017 – stehen, wird eine Edition des neuen _Laetatus sum_ (es gibt eine ähnliche Vertonung des Psalms in F-Dur unter RV 607) schnell auf den Weg gebracht. Es ist ein ansprechendes Werk, etwas länger und komplexer in der Form als andere Kompositionen des gleichen Typ in Vivaldis Oeuvre. Es wird sicherlich auch bald zu einer Aufführung und Einspielung des Werks kommen. Ich habe auch einen Aufsatz über diese Neuentdeckung geschrieben, der 2017 oder 2018 im Jahrbuch _Studi vivaldiani_ erscheinen wird (PDF Versionen der aktuellen und älteren Bände stehen kostenlos auf der Website der Fondazione Giorgio Cini zur Verfügung).
+
+Ich bin zuversichtlich, dass das, was ich hier an diesem individuellen Beispiel zeigen konnte, in den kommenden Jahren im Zusammenhang mit verschiedenen anderen Komponisten des Hofkirchen-Repertoires sein Gegenstück finden wird. Ich möchte auch erwähnen, dass diese Entdeckung mich dazu veranlasst hat, eine weitere Hypothese mit einer viel breiteren Bedeutung in Betracht zu ziehen: Dass die „Baldan-Lieferung” (oder eine Reihe von Lieferungen) um 1760 an den sächsisch-polnischen Hof nicht für den Dresdener Sitz bestimmt war, sondern während des Siebenjährigen Krieges (1756–1763) an den Zufluchtsort Warschau geschickt wurde. Der Grund, warum die Galuppi zugeschriebenen Werke so zahlreich und überwiegend für die Liturgie bestimmt waren, könnte darin liegen, dass ein komplett neues Repetoire (in der polnischen Hauptstadt) aufgebaut werden sollte, und nicht das bereits vorhandene (in der sächsischen Hauptstadt) zu erweitern. Seitdem diese Idee in mir aufkam, habe ich erfahren, dass mindestens zwei weitere Forscher der gleichen Meinung sind, somit sind auch auf diesem Gebiet weitere Ergebnisse zu erwarten. Der Nachweis einer konkreten Verbindung nach Polen neben der bereits bekannten nach Deutschland würde mich angesichts des wachsenden Interesses junger polnischer Musiker und Musikwissenschaftler am Repertoire der Wettiner Monarchen freuen.
+
+
+
+_Michael Talbot,
+18. April 2017._
+
+Abbildung: _Laetatus sum_ C-Dur, kürzlich von Michael Talbot als Werk von Vivaldi identifiziert und fortan unter RV 827 verzeichnet (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095){:target="_blank"}). Auf der ersten Notenseite verleitete die Namensnennung "Buranello" zur Zuschreibung an Baldassare Galuppi.
+SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
+
+

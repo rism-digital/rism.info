@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Adolph von Henselt (1814-1889)"
+date: 2015-07-23
+lang: en
+post: true
+category: rism_a_z
+image: /uploads/_processed_/csm_Henselt_Denkmal_32c3c6676c.jpg
+---
+
+
+_Today's installment of our series RISM A-Z takes us to letter H. The following post about composer Adolph von Henselt (1814-1889) is adapted from a text by Natalia Keil-Senserowa, author of_ [Adolph von Henselt. Ein Leben für die Klavierpädagogik in Rußland](http://www.peterlang.de/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=produkt&pk=37961&concordeid=53925){:target="_blank"} _and has been printed with kind permission._
+
+
+
+The young Henselt experienced a meteoric rise as a composer and piano virtuoso in his native Germany. His compositional skills were likened to Frédéric Chopin's and he was even called the "Raphael of the piano." As a pianist he was compared to Franz Liszt and Sigismund Thalberg.
+
+At the age of 24, Adolph Henselt went to St. Petersburg and chose this town as his second home, where he lived for more than half a century. His first concerts caused a sensation and enthusiasm from the press saw no end. Unfortunately, nervousness prevented Henselt from devoting himself to steady concert activity.
+
+Henselt left only a relatively low number of compositions. Over 60 of them are documented in the RISM online catalog ([link](https://opac.rism.info/search?View=rism&author=Adolph+von+Henselt){:target="_blank"}). But these works are thoroughly unique and in his own style. Thus his twelve concert etudes in op. 2, which opened up a new page in the history of piano etudes alongside the studies by Chopin in terms of content and technique, were disseminated even before publication through numerous handwritten copies with unbelievable speed. Among Henselt's important works are his _Poeme d'amour_, op. 3, another series of Concert Etudes, op. 5, the Concert Variations for piano and orchestra based on a theme from Giacomo Meyerbeer's opera _Robert le Diable_, op. 11, the Piano Concerto, op. 16, and the Piano Trio, op. 24.
+
+But in fact, the main emphasis of Henselt's St. Petersburg works lies in the field of pedagogy. Soon after his arrival in the Russian capital, it became fashionable in distinguished circles to take expensive piano lessons with this European celebrity. In the course of time, his influence as a teacher spread. Henselt began his occupation as a teacher, and later superintendent, long before the opening of the first Russian conservatoires and committed himself to general musical education in the country.
+
+Henselt succeeded in finding his own unique means of music education and developed his own teaching methods. With support at the highest level, his pedagogical ideas were accepted throughout Russia. Henselt's contributions to Russian musical culture are many and it is no coincidence that many of the great Russian musicians such as Mikhail Glinka, Alexander Dargomyzsky, Mily Balakirev, Anton Rubinstein and Theodor Leschetizky accorded Henselt one of the most honorable places in Russian musical life of the 19th century. As a teacher, he founded a line whose descendants include pianists such as Sergei Rachmaninov and Aleksander Skriabin.
+
+Below, Natalia Keil-Senserowa performs Henselt's Romance, opus 10:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TOIPHqa0HvU" frameborder="0" allowfullscreen></iframe>
+
+Image credit: Statue of Adolph von Henselt in his birthplace of Schwabach, Germany (Frank C. Müller, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Denkmal_Adolph_von_Henselt_fcm.jpg){:target="_blank"})
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

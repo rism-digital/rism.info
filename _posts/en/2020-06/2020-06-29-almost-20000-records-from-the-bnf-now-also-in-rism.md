@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Almost 20,000 Records from the BnF Now Also in RISM"
+date: 2020-06-29
+lang: en
+post: true
+category: rism_online_catalog
+image: /uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg
+---
+
+
+_We have received the following from François-Pierre Goy (Bibliothèque Nationale de France, [Département de la Musique](https://www.bnf.fr/fr/departement-de-la-musique){:target="_blank"}):_
+
+Even though not all music manuscripts from the Bibliothèque nationale de France are in RISM, F-Pn is now the siglum with the fifth highest number of records in the database.
+
+The Music Department of the French National Library houses one of the largest [collections of music manuscripts](https://catalogue.bnf.fr/affinerAdv.do?mots0=&mots1=&mots2=&mots3=&mots4=&pageRech=rav&facPays=&suppPhys=&faclocs=RICH_MUSQIUE&facDocs=&facNots=&facSpec=&typoCarto=&typoIcono=&typoAudio=&typoMus=FacTypPart%3BMusMan&typoNumis=&langue0=&langue1=&langue2=&langue3=&langue4=&datepub=&dateCreaSpec=&dateEnregistrement=&typeDatePer=&corpus=&index=&numNotice=&listeAffinages=FacLocal_Lcl2AHdjGim&affinageSupprimer=true&codeFacetteAffine=FacLocal&valeurFacetteAffine=Lcl2AHdjGim&afficheRegroup=false&trouveDansFiltre=&triResultParPage=1&nbResultParPage=100&critereRecherche=) in the world. It consists of holdings from three previously independent institutions whose incorporation in 1942 resulted in the present Music Department: the National Library itself (F-Pn) and the former Paris Conservatoire Library (F-Pc), whose collections have been housed in the [rue de Louvois](https://catalogue.bnf.fr/changerPageAdv.do?mots0=&mots1=&mots2=&mots3=&mots4=&facPays=&suppPhys=&faclocs=RICH_MUSQIUE&facDocs=&facNots=&facSpec=&typoCarto=&typoIcono=&typoAudio=&typoMus=FacTypPart;MusMan&typoNumis=&typoPerio=&langue0=&langue1=&langue2=&langue3=&langue4=&datepub=&dateCreaSpec=&dateEnregistrement=&typeDatePer=&corpus=&index=&numNotice=&listeAffinages=&nbResultParPage=100&afficheRegroup=false&pageEnCours=1&trouveDansFiltre=&trouverDansActif=false&triResultParPage=1&critereRecherche=&issn=&pageRech=rav) building since 1964; and the [Bibliothèque-Musée de l’Opéra](https://catalogue.bnf.fr/changerPageAdv.do?mots0=&mots1=&mots2=&mots3=&mots4=&facPays=&suppPhys=&faclocs=REC_OPERA&facDocs=&facNots=&facSpec=&typoCarto=&typoIcono=&typoAudio=&typoMus=FacTypPart;MusMan&typoNumis=&typoPerio=&langue0=&langue1=&langue2=&langue3=&langue4=&datepub=&dateCreaSpec=&dateEnregistrement=&typeDatePer=&corpus=&index=&numNotice=&listeAffinages=&nbResultParPage=100&afficheRegroup=false&pageEnCours=1&trouveDansFiltre=&trouverDansActif=false&triResultParPage=1&critereRecherche=&issn=&pageRech=rav) (F-Po), located inside the Opéra Garnier.
+
+In the 1980s, the department started to describe its pre-1800 music manuscripts according to RISM guidelines so that the records might be integrated into RISM A/II. After much delay due to the use of different cataloguing formats, this upload process has just been completed. It does not include all of the department’s [music manuscripts](https://catalogue.bnf.fr/changerPageAdv.do?mots0=&mots1=&mots2=&mots3=&mots4=&facPays=&suppPhys=&faclocs=RICH_MUSQIUE&facDocs=&facNots=&facSpec=&typoCarto=&typoIcono=&typoAudio=&typoMus=FacTypPart;MusMan&typoNumis=&typoPerio=&langue0=&langue1=&langue2=&langue3=&langue4=&datepub=&dateCreaSpec=&dateEnregistrement=&typeDatePer=&corpus=&index=&numNotice=&listeAffinages=&nbResultParPage=10&afficheRegroup=false&pageEnCours=1&trouveDansFiltre=&trouverDansActif=false&triResultParPage=1&critereRecherche=&issn=&pageRech=rav), as updating these records is far from being completed. One will find therein, besides autographs of Mozart, the Haydn brothers or the Bach family, the works of 17th- and 18th-century French composers (Lully, Lalande, Campra, Giroust, Gossec, Grétry...) and part of the many Italian operas from the Conservatoire Library, as well as acquisitions from the last decades. A link to the BnF online catalogue enables a display of the latest version of the records, which are sometimes updated, and permits ordering the documents for the reading room or to view the increasingly more numerous digital copies in Gallica, many of which may also be accessed through [thematic selections](https://gallica.bnf.fr/html/und/partitions/partitions) of the digital library. The records or local data for pre-1800 [printed music](https://catalogue.bnf.fr/changerPage.do?motRecherche=rismimp&index=&numNotice=&listeAffinages=&nbResultParPage=100&afficheRegroup=false&pageEnCours=1&trouveDansFiltre=NoticePRO&trouverDansActif=false&triResultParPage=1&critereRecherche=0&typeNotice=&pageRech=rsi) will be integrated into the RISM online catalogue in a second phase.
+
+The retrospective and current cataloguing of music manuscripts continues. [This link](https://catalogue.bnf.fr/affiner.do?motRecherche=rismmss&index=&numNotice=&listeAffinages=FacEnLigne_gallicaintramurosrech&afficheRegroup=false&trouveDansFiltre=NoticePRO&nbResultParPage=10&triResultParPage=1&critereRecherche=0&typeNotice=) allows you to follow its progress until the records have been uploaded in the RISM catalogue.
+
+For the remainder of France, the census of early musical holdings, now available online through the [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) (besides the book version), will be enriched in the near future by new regional catalogues.
+
+
+_Image_: Giovanni Lorenzo Lulier, "La fortuna con eccessi," cantata from _Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item){:target="_blank"}, [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism){:target="_blank"}.
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

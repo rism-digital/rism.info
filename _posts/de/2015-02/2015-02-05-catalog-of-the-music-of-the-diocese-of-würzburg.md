@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Katalog der Musikalien der Diözese Würzburg veröffentlicht"
+date: 2015-02-05
+lang: de
+post: true
+category: new_publications
+image: /uploads/_processed_/csm_978-3-429-03715-4_01_b10e8eb99a.jpg
+---
+
+
+Von unserer deutschen Arbeitsgruppe stammen die folgende Neuigkeiten:
+
+Ende 2014 hat Dieter Kirsch, ehemals Rektor und Professor an der Hochschule für MusikWürzburg und mittlerweile [Ehrendoktor](http://www.rism.info/en/home/newsdetails/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html){:target="_blank"} dieser Hochschule einen monumentalen "Katalog der Musikalien derDiözeseWürzburg" vorgelegt. Darin sind sowohl die Musikhandschriften als auch dieMusikdruckeaus dem Diözesanarchiv und seiner zahlreichen (ca. 170) Deposita aus Pfarrgemeinden der Diözese Würzburg enthalten.
+
+Herr Kirsch hat in jahrelanger ehrenamtlicherTätigkeit die über 11.500 Quellenerfasst.Dabei bilden Musikalien des 19. Jahrhunderts den Hauptteil, wobei auch Stücke aus dem 18. Jahrhundert vorhanden sind.Im zweiten Band liegt der Fokus auf den gesammelten Drucküberlieferungen. Musikalien des 19. Jahrhunderts bilden den Hauptteil, wobei auch Stücke aus dem frühen 17. Jahrhundert vorhanden sind.
+
+In Zusammenarbeit mit dem Répertoire International des Source Musicales (RISM), Arbeitsstelle München und der Arbeitsgemeinschaft Mainfränkische Musikgeschichte entstand dieser Katalog, dessen Drucklegung mit Unterstützung der RISM Zentralredaktion in Frankfurt/Main nun eine Zusammenfassung des überregional beachtenswerten Bestands bietet. Erschienen sind die Bändeim [Echter-Verlag](http://www.echter.de/index.html/die-musikalien-der-dioezese-wuerzburg/f3373a87-3350-4282-bc8a-79b1562bed51?mode=detail){:target="_blank"}, Würzburg.
+
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

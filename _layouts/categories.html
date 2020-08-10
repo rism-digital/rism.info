@@ -21,6 +21,6 @@ sidepanel: "sidepanels/post"
   {% endfor %}
 </div>
 
-{% if paginator.post.length > 5 %}
+{% if paginator.posts.size > 5 %}
   {% include paginator.html %}
 {% endif %}
