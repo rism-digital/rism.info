@@ -2,7 +2,7 @@
 layout: publications
 title: "PUBLICATIONS"
 lang: de
-permalink: /publicationsconferences.html
+permalink: /publications/conferences.html
 ---
 
 The RISM Central Office organizes conferences from time to time. Please select from the following:

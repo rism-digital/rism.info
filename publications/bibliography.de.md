@@ -2,7 +2,7 @@
 layout: publications
 title: "Bibliographie"
 lang: de
-permalink: /publicationsbibliographie.html
+permalink: /publications/bibliography.html
 ---
 
 # Bibliographie

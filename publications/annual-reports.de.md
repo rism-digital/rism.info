@@ -2,7 +2,7 @@
 layout: publications
 title: "Jahresberichte"
 lang: de
-permalink: /publicationsjahresberichte.html
+permalink: /publications/annual-reports.html
 ---
 
 # Jahresberichte
