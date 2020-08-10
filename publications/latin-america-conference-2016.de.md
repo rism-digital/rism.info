@@ -2,7 +2,7 @@
 layout: publications
 title: "Konferenz: Dokumentation musikalischer Quellen in Lateinamerika"
 lang: de
-permalink: /de/publikationen/latin-america-conference-2016.html
+permalink: /publicationslatin-america-conference-2016.html
 ---
 
 # Konferenz: Dokumentation musikalischer Quellen in Lateinamerika

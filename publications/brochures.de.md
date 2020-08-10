@@ -2,7 +2,7 @@
 layout: publications
 title: "RISM Kurzporträt"
 lang: de
-permalink: /de/publikationen/broschueren.html
+permalink: /publicationsbroschueren.html
 ---
 
 # RISM Kurzporträt

@@ -2,7 +2,7 @@
 layout: publications
 title: "Info-RISM"
 lang: de
-permalink: /de/publikationen/info-rism-1989-2001.html
+permalink: /publicationsinfo-rism-1989-2001.html
 ---
 
 # Info-RISM

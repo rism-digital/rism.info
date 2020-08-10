@@ -2,7 +2,7 @@
 layout: publications
 title: "Publikationen auf CD-ROM"
 lang: de
-permalink: /de/publikationen/cd-rom-publikationen-1995-2011.html
+permalink: /publicationscd-rom-publikationen-1995-2011.html
 ---
 
 # Publikationen auf CD-ROM

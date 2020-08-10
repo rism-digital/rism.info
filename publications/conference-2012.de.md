@@ -2,7 +2,7 @@
 layout: publications
 title: "RISM-Konferenz 2012"
 lang: de
-permalink: /de/publikationen/konferenz-2012.html
+permalink: /publicationskonferenz-2012.html
 ---
 
 # RISM-Konferenz 2012
