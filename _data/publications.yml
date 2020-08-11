@@ -44,9 +44,6 @@
         fr: Conférences IAML
       items:
         - name:
-            en: "Introduction"
-          link: "/publications/iaml-conferences.html"
-        - name:
             en: 2019
             de: 2019
             fr: 2019
@@ -102,9 +99,6 @@
         fr: Rapports annuels
       link: "/publications/annual-reports/index.html"
       items:
-        - name:
-            en: Introduction
-          link: "/publications/annual-reports.html"
         - name:
             en: 2019
             de: 2019
