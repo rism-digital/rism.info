@@ -27,7 +27,7 @@ Die Jahresberichte werden in der jährlichen Publikation der Union der Deutschen
 
 **2**** 017**
 
-[View](/de/publikationen/jahresberichte/2017.html)|[Download as PDF](/fileadmin/content/Jahresbericht2017_EN.pdf "Initiates file download")
+[View](/de/publikationen/jahresberichte/2017.html)|[Download as PDF](/fileadmin/content/Jahresbericht2017_EN.pdf)
 
 
 

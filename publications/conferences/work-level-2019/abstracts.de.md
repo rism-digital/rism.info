@@ -1,0 +1,203 @@
+---
+layout: publications
+title: "Donnerstag, 9. Mai"
+lang: de
+permalink: /publications/conferences/work-level-2019/abstracts.html
+---
+
+# Donnerstag, 9. Mai
+
+## Constanze Schumann (Deutsche Nationalbibliothek) und Jürgen Kett (Deutsche Nationalbibliothek)
+
+**Die Werktitel der GND (Gemeinsame Normdatei Deutschland)**
+
+Präsentiert wird eine grundsätzliche Einführung in die GND (Regeln, Erfahrungen aus der Praxis, Kooperationen) und die damit verbundenen Perspektiven (Strategie, aktuelle Entwicklungen, Teilnahmemöglichkeiten). Dabei liegt der Fokus auf Werknormsätze und einige Beispiele aus der Musik.
+
+## Caroline Shaw (The British Library)
+
+**The Musical Work: Pragmatic Approaches to an Abstract Entity**  
+One of the tensions of cataloguing has always been that between emphasis on the source and recognition of the work it contains. The cataloguing content standard RDA (Resource Description and Access) focuses on new ways of capturing and clarifying this relationship, among others.
+
+Music librarians have long used uniform titles as a means of collocating works. The uniform title is not a piece of musicological scholarship, but a pragmatic construction intended to facilitate scholarship. RDA provides a continuum between historic best practice and new ways of regarding, recording and manipulating work level information. Based on the four bibliographic entities Work, Expression, Manifestation, Item and, crucially, their relationships to each other, and to other entities such as persons, corporate bodies, places and subjects, it aims to make these entities function as linked data in the web environment. Related conceptual models (IFLA Library Reference Model, ICA Records in Contexts) and developing systems (BIBFRAME, RIMMF) also support linked (or graph) data.
+
+"Work", in the RDA model, is an abstract entity, not perceivable until expressed by notation or performance. Work level metadata can enable discovery of sources of a work and also of related works and expressions (for example, editions, arrangements, sound recordings of performances, derivative works, and books and articles which have the work as a subject).
+
+The work concept is fluid, and certainly not universally applicable, but it is a crucial element of any metadata relating to intellectual or artistic content.
+
+## Kevin Kishimoto (Stanford University, USA) and Trina Thompson (Independent Scholar, USA)
+
+**Superworks, Subworks, and Works with Fuzzy Edges**  
+Work titles (i.e., work “access points” in RDA) are useful for collocating differentiated manifestations of a single ‘conceptual work’ and are an important tool in music discovery. However, the utility of the work title is limited by our current “flat” encoding standard and cataloging practices.
+
+From the metadata librarian’s perspective, there is often no way to adequately describe fraught work relationships (e.g., certain variants, fragments, sketches, and quotations) without using free-text notes--which are not machine-actionable. From the researcher’s perspective, this means that much work knowledge created by others must often be laboriously reconstructed/reassembled at the beginning of a new project.
+
+Citing examples from Mahler, Debussy, and others, we demonstrate some of the weaknesses of the current “flat” approach to the work and suggest ideas for how RISM might record work metadata in more powerful ways.
+
+# Freitag, 10. Mai
+
+## María Teresa Delgado Sánchez (National Library of Spain)
+
+**Standardization in the National Library of Spain: Name Authority Headings and Name-Title Authority Headings in Musical Works**  
+The National Library of Spain (BNE) is at the head of the Spanish library system and is responsible for the bibliographic heritage of Spain as acquired through legal deposit. Dedicated to gathering, cataloging and conserving bibliographic collections, it holds around thirty million publications produced within the national territory since the beginning of the 18th century: books, magazines, maps, engravings, drawings, brochures and scores.
+
+As an institution with 300 years of history, it guarantees that its musical heritage is preserved as part of the memory of our country. Our institution keeps valuable collections of music books, printed and manuscript scores, as well as magazines and minor publications (brochures, concert programs, catalogs of editors, etc.). Together, the written music collections of the National Library of Spain constitute one of the largest Spanish collections of the specialty.
+
+In this paper, we will describe the management of authority records for musical works created in Spain within the collection of notated music that comes from all the State, since we are the depositary library according to the Law of Legal Deposit (1958). Our institution, moreover, is already working on modern monographs in the new RDA regulations and music materials will also be described according to this standard.
+
+## Maria Aslanidi (Ionian University, Greece) and Michalis Stefanidakis (Ionian University, Greece) 
+
+**The Library Reference Model and MARC 21 Format for Authority Data: A Case Study on the (Musical) Work Entity**  
+In this study, MARC 21, as aligned to Resource Description and Access (RDA), is compared against the new IFLA Library Reference Model (IFLA LRM) in an effort to explore whether the latter can serve its purpose effectively as a suitable conceptual model for authority metadata in the domain of musical works.
+
+The study proposes an approach regarding how IFLA LRM can best communicate the semantics of (Musical) Work entities to the MARC 21 community. In particular, the paper demonstrates best practices and identifies transition issues during the process of applying LRM as an implementation model for the conversion of MARC records within existing catalogues, emphasizing on the (Musical) Work entity.
+
+## Nancy Lorimer (Stanford University Libraries, USA)
+
+**A Multitude of Works: Modelling Musical Works in BIBFRAME**  
+As part of the Mellon-funded Linked Data for Production grant, Stanford Library led a sub-project with the aim of developing an extension to BIBFRAME to address the modelling of music resources. While aimed primarily at performed music resources, the most substantial work of this group also could be applied equally to notated music, particularly in the areas of medium of performance, musical events, and musical works. In this presentation I discuss the modelling developed by the project group to link and cluster works and work components in a way that better represents work to work relationships in music, while remaining compatible with standard BIBFRAME, FRBR and IFLA-LRM. Further, I will further discuss how a similar model is being applied to works of all types in MARC data conversion and transformation that will provide a data pool for catalogers working in Sinopia, the editor being developed for Linked Data for Production 2: The path to implementation.
+
+## André Guerra Cotta (UFF-CAPES/UNL-CESEM, Brazil)
+
+**Considerations on the Work Level, International Standards and ISWC**   
+Although one should approach the concept of a "work" in the field of music critically as a historical construct, this concept fits most of the music registered in the sources which RISM intends to gather in its international database. Of course, one can think of the work concept as a “capitalist commodity” or even as evidence of “old-fashioned” musical performance, surpassed by more dynamic and digitally adapted musical practices. On the other hand, as occurrs in almost all fields of art, especially in music, digital technologies have drastically changed the music market itself, eventually leading all music practices to digital streaming services like YouTube, Spotify, and other web-based services. In these media, the concept of the work prevails and is connected by the systematic use the that music industry makes of the International Standard Work Code. This presentation discusses some reflections on the use of ISWC in music cataloguing.
+
+## Katrin Bicher (SLUB Dresden), Andrea Hartmann (SLUB Dresden) und Sylvie Reinelt (SLUB Dresden)
+
+**Werkstatt Werknormdaten**  **SLUB/RISM**
+
+Normdaten für musikalische Werke erlauben, Zusammengehörendes zu identifizieren und zusammenzuführen und tragen darüber hinaus in ihren der Disambiguierung dienenden Kontextinformationen Wissen mit sich, das vielfältig nachgenutzt werden kann. Das Normdatensätzen zu musikalischen Werken der GND zu Grunde liegende Modell (Library Reference Model der IFLA (IFLA LRM)) bietet dabei verschiedenen Ausprägungsstadien eines Werkes Raum, und die Möglichkeit, sie miteinander zu verbinden. Das Konzept des IFLA LRM und seine Anwendung in der GND als auch exemplarische Nachnutzungsszenarien sollen in der Präsentation vorgestellt werden (Katrin Bicher).
+
+
+
+Dieser eher allgemeinen Strukturen gewidmete Teil der Präsentation wird an spezifischen Fragen, die die Verknüpfung von in RISM erfassten Quellen mit anderen Ausprägungen desselben Werkes über Werknormdaten aufwirft, konkretisiert (Andrea Hartmann): Vorgestellt werden Werknormdatensätze zu Opern, Ausschnitten aus Opern, Bearbeitungen und Übersetzungen. An Beispielen wird die Vorgehensweise in der GND vorgestellt. Diskutiert werden soll, wie die Werknormdatensätze der GND für die RISM-Datenbank übernommen werden, welche Erweiterungen sinnvoll sein können und welchen Mehrwert dies für die RISM-Datenbank bedeutet.
+
+
+
+Schließlich (Sylvie Reinelt) soll es um das konkrete Mapping der Daten gehen: welche Daten werden aus der GND in welche Felder in RISM übertragen und welche Daten werden nicht übernommen. Wo gibt es Probleme in der Umsetzung?
+
+## Kristin Herold, Johannes Kepper, Kristina Richts **(Universität Paderborn)**
+
+**MEI Metadata und RISM**
+
+Im November 2017 fand auf Einladung der Music Encoding Initiative (MEI) an der Mainzer Akademie ein internationaler Workshop zur Koordination des Gebrauchs musikbezogener Metadaten statt, an dem eine große Zahl editorisch arbeitender Projekte bzw. Institutionen, Archiv- bzw. Erschließungsprojekte sowie die großen (Musik-)Bibliotheken teilnahmen. Eine Arbeitsgruppe dieses Workshops befasste sich ausdrücklich mit den Anforderungen an Werkdatensätze, um diese dann in unterschiedlichen Kontexten nutzen zu können. Im Nachgang des Workshops fanden weitere Arbeitstreffen statt, etwa im Rahmen der IAML-Tagung in Leipzig oder der Edirom Summer School in Paderborn (beides in 2018). Ein dabei immer wieder diskutierter Aspekt ist die Frage, inwiefern RISM einen organisatorischen Rahmen für die zentrale Bereitstellung und Verwaltung von Normdaten zu Werken bieten könnte und sollte. Wenn RISM nun die Einführung einer solchen Werkebene plant, wäre es überaus wichtig, die bisherigen Diskussionen in diese Überlegungen einzubeziehen, um die internationale Anschlußfähigkeit gerade auch an digital arbeitende, musikwissenschaftliche Projekte sicherzustellen.
+
+## Peter Stadtler (Weber-Gesamtausgabe), Irmlind Capelle (Universität Paderborn), Kristina Richts (Universität Paderborn)
+
+**Erfassen von Werktiteln im Kontext digitaler musikwissenschaftlicher Editionen**
+
+Am Beispiel der beiden Projekte Detmolder Hoftheater und Carl-Maria-von-Weber-Gesamtausgabe (WeGA) soll der Umgang von digitalen musikwissenschaftlichen Projekten mit Werktiteln demonstriert werden. Auch wenn beide Projekte einen etwas unterschiedlichen Fokus haben (das Hoftheater-Projekt mehr auf der Erschließung, die WeGA mehr in der Edition), so eint beide doch die Erfassung von Werken und Werktiteln mittels des Datenstandards der Music Encoding Initiative (MEI). MEI unterstützt dabei schon seit Version 3 die FRBR Entitäten der Gruppe 1.
+
+Relevant ist es für beide Projekte, diese Werkansetzungen mit externen Ressourcen verknüpfen zu können. Die GND bietet dafür seit geraumer Zeit einen eigenen Entitätentyp „Werk der Musik“, der als externer Identifikator genutzt wird um projektübergreifende Beziehungen herstellen zu können. Auf der Ebene der Manifestation (die bei Handschriften mit dem Exemplar zusammenfällt) nutzen beide Projekte die Identifikatoren von RISM, um auch hier Linked Data-Ansätze zu ermöglichen. Ein pragmatischer Werkbegriff ist hierbei hilfreich, um musikwissenschaftliche Datenbestände zu vernetzen – ein zu enger Begriff dagegen würde zu einzelnen Datensilos führen. 
+
+## David Day (Brigham Young University, USA), Jeff Lyon (Brigham Young University, USA), Greg Reeve (Brigham Young University, USA)
+
+**Work Authority Records and the Application of Linked Data Models**  
+Conceived almost seventy years ago, RISM’s original objective consisted in the creation of an inventory of musical sources, i.e., a union catalog of specific print and manuscript objects associated with their library locations. With the passage of time and the evolution of descriptive standards (including RISM’s own cataloging rules, multiple MARC formats, evolving XML schema, RDA, FRBR, and linked data models), the basic RISM structure can now be re-envisioned to achieve its full contemporary potential. One foundational concept that requires rethinking is the approach to work authority. The current FRBR model of works, expressions, manifestations, and instances were not inherent in the original RISM platform. Until recently, RISM remained focused on the notion of sources as discrete objects and work relationships were only loosely established. In order to achieve the potential promise of linked data interrelationships, the concept of a work with multiple expressions and manifestations should be adopted. Adapting RISM to the FRBR model will be problematic in some areas, especially for pastiche and arrangements which can be considered as manifestations of other works. The work authority dilemmas of compositional adaptions can be illustrated in numerous examples of pastiche ballets and vaudevilles. Similar problems can be demonstrated in arrangements for the harp and other solo instruments based on popular folk and opera melodies. Other work-related challenges can be found in current national authority files and VIAF. Often the complexities of work authority are compounded when different derivatives works are lumped together in a single authority record. Solutions to these obstacles can be found in revised expectations for national work authority records and the application of linked data models. Rethinking RISM (and work authority generally) using these conceptual models offers the promise of a resource that facilitates research beyond the limited identification of specific documents. Beginning with its remarkable data set of primary sources, RISM can be expanded to offer exceptional connectivity to external digital resources, biographical and historical context, and tools for the analysis of musical relationships. Our presentation will offer specific examples of how to achieve these goals.
+
+## Richard Smiraglia (University of Wisconsin-Milwaukee, Institute for Knowledge Organization and Structure Inc., USA), Marnix van Berchum (University of Utrecht, The Netherlands), J. Bradford Young (Institute for Knowledge Organization and Structure Inc., USA), Andrea Scharnhorst (Royal Netherlands Academy of Arts and Sciences, The Netherlands), and Ronald Siebes (Royal Netherlands Academy of Arts and Sciences, Vrije Universiteit Amsterdam, The Netherlands)
+
+Composers and Musical "Works" in the Linked Open Data Cloud
+
+This paper discusses particularities which occur in the transformation of digital musicological resources into Linked Data format. The concrete case we discuss concerns the [Computerized Mensural Music Editing (CMME)](https://www.cmme.org/)database, and its transformation into Linked Open Data done in the [Digging into the Knowledge Graph](http://di4kg.org/) project. As usual the workflow starts with mappings leading to an RDF (Resource Description Format) graph representation. To enrich the RDF, best practice is to re-use vocabularies, either generic or domain-specific ones, and when possible those which are curated resources themselves. In this paper, we focus on the case of the composers, the authors of musical works. CMME lists 438 composers (from Agricola to Nicolaus Zoilo, and the ubiquitous “anonymous”), and 3,671 identifiable individual musical works. We chose to link composers and works to curated access points in the Virtual International Authority File ([http://viaf.org/](http://viaf.org/)). Compiled and maintained as LOD (Linked Open Data) by OCLC, Inc., the VIAF is a merger of the authorized access points found in national library authority files. We found that of the 438 composers, only 324 were represented in VIAF. This paper reports on our experiences to set up partnerships with those library organisations which curate authority files, such as the Library of Congress Name-Authority Cooperative (NACO). We report about the different viewpoints, priorities, and disentangled workflows we encountered in bringing new research concerning the documentation and presentation of musicological resources together with traditional ways to curate those resources. We discovered the importance of the complex role of the musical work, which differs from the exemplar of a musical idea (e.g., CMME) to the exemplar of instantiated sound (e.g., NACO). In particular, we discuss the impact of this complexity on our endeavours to find and define semantically rich expressions for the composers.
+
+## Andrew Horwitz (RILM Office, USA)
+
+**RILM: Interlinking Metadata Across Music Research Collections**
+
+RILM has expanded beyond the flagship RILM Abstracts of Music Literature, introducing full-text journal content, encyclopedia content, and a printed music index—each containing many thousands of work titles—into our ecosystem. This new content has been interlinked in a variety of ways: For example, encyclopedia headwords have been linked to RILM Abstracts indexing terms, composer names in the Index to Printed Music are assigned the same identifiers as they have in RILM Abstracts, and we have developed both a common thesaurus and storage format to facilitate the cross-referencing of metadata. While our linked data covers a variety of bibliographic information, we have found it difficult to parse the metadata needed to link work titles across multiple collections. In this paper, we present the accomplished and ongoing work involved in linking our collections, as well as the challenges we have yet to solve.
+
+## Emmanuel Signer (King's College London, UK)
+
+**Ceci n’est pas un titre. Or: What We can Learn from Titles in Early Modern Printed Music**
+
+Various current databases of music printed during the Early Modern period contain paratextual information on the way how musical compositions are presented in printed books. Such information includes transcriptions of title pages, dedications, as well as titles, performance instructions, or also incipits or full transcripts of the sung text. This provides scholars with large datasets, an immensely useful resource, the evaluation of which allows to explore topics such as notation and material culture, compositional practice, and social contexts of music printing and patronage.   
+  
+This paper will focus on a special kind of title within Early Modern repertoires: the titles, or ‘names’, of polyphonic settings of the mass ordinary, as they appear in printed music books from the sixteenth century onwards (and earlier, in the case of manuscript sources). Based on findings from my recently completed PhD thesis Polyphonic masses in Italian music printing 1550-1650: A ‘Big Data’ approach to paratext (2019), I will present a few examples that illustrate the possibilities of a paratextual database of titles for the historiographical discussion of style and composition in the period around 1600.   
+  
+Based on this, I hope to start a discussion of the ‘work’ concept and its limitations regarding such Early Modern repertoires. These limitations have two main dimensions: On the one hand, Early Modern music in general is often problematic as a ‘work’ due to varying attitudes towards the notated text, its performance, and through this, its title (as explored by John Butt, and others). And on the other hand, masses constitute a particularly problematic ‘work’ concept, as has been the subject of an extensive scholarly debate about cyclicity in the last decades.   
+  
+Although I will not delve into this debate in much detail, the problematic character of Early Modern mass repertoires will serve as the platform to ask questions relevant to current topics of Digital Musicology: If we have titles of musical pieces that might convey information about their compositional design, could this be of interest (or even a responsibility) of scientific databases, library catalogues, and other such corpora? What are the possibilities, challenges and limitations associated with the incorporation of such data? And are methodologies developed from Early Modern repertoires translatable to those of other periods or notated media?
+
+# Samstag, 11. Mai
+
+## Daniel Boomhower (Dumbarton Oaks, USA)
+
+**J. S. Bach, the Meanings of Print, and the Implications for Work Records**
+
+Within the compositional output of J. S. Bach examples are plentiful where the composer revised, re-used, or re-composed existing music to serve a new purpose, producing a complicated complex of musical sources. For most of Bach’s keyboard compositions an endless number of contemporaneous variants survive, while all of the surviving Mass settings by Bach exhibit extensive parody of both secular and sacred cantata movements. More complex are instances such as the _St. Matthew Passion_ (BWV 244), for which a unitary source masks the complex origins of the composition, or the _St. John Passion_ (BWV 245), for which surviving sources document a more protean identity than the unifying title and catalog number suggest. At the same time, some of Bach’s acknowledged masterpieces appear to reflect singular compositional acts and survive in cohesive contemporaneous editions. The _Goldberg Variations_ (_Clavier-Übung IV_, BWV 988), for example, exhibits impressive internal musical cohesion and was printed under the composer’s supervision. However, Bach’s manuscript insertion of an additional fourteen canons (BWV 1087) into his personal copy of the _Goldberg Variations_ belies the stability of the text suggested by the printed edition. Nineteenth century editions of the Mass in B Minor, the _St. Matthew Passion_, and the _St. John Passion_ similarly obscur the fluidity of the music materials that make up these compositions. These circumstances can complicate efforts to establish discrete identities for compositions and to clarify hierarchical relationships between a work and its sources. However, these complications stem less from the inherent messiness of source materials and more from the changing social and economic functions of music. Examining the changing use of print helps to clarify how this conundrum developed. While work records serve an essential role in collocating sources, this paper seeks to evaluate the implications of hierarchically defined relationships in source cataloging by highlighting how ahistorical conceptions of musical works emerging in the nineteenth century continue to inform thinking about source materials.
+
+## Luca Lévi Sala (Université de Montréal, Canada) 
+
+**The Textual Tradition of Muzio Clementi’s Output: Consistency and the Problem of the Work Title**
+
+‘"Tyson 1967" is the most recent and precise reference catalogue of Muzio Clementi’s whole output to date, yet it does not provide any genealogy of the secondary dissemination of the sources. A brand-new comprehensive and annotated thematic catalogue is now in production. Hence, the adoption of proper work titles is crucial in order to provide a conclusive setting of Clementi’s works and their textual tradition.
+
+While this is primarily aimed at fixing inaccuracies mainly related to the classification of the composer’s production of authoritative revisions of early works, arrangements and musical selections, this might prove dramatically useful in resolving redundancies and inconsistencies affecting the opus numbering and the score setting of the reissues belonging to the secondary dissemination. Such a complex network of sources often leaves wide room for adopting diversified, arbitrary or incorrect solutions that somehow still encompass modern editions and the process of cataloguing in libraries and archives.
+
+## Jacek Iwaszko (The Fryderyk Chopin Institute, Poland), Marcelina Chojecka (The Fryderyk Chopin Institute, Poland)
+
+**The "Work" in RISM within Projects of the Polska Cyfrowa POPC (2018-2020 and 2019-2021)**
+
+In our presentation we would like to discuss the use of the "work" field in RISM in relation to the current project Polska Cyfrowa POPC (2018-2020), in which the Fryderyk Chopin Institute is taking part. The Institute needs to be able to link different kinds of objects to the general "work" term for Fryderyk Chopin compositions, such as video recordings, audio recordings, photographs, manuscripts, printed music editions, and digital music transcriptions.
+
+We would like to present how it is done in the system Collection Index + based on the Spectrum standard for the purposes of the Fryderyk Chopin Museum.
+
+In the newest current project Polska Cyfrowa POPC (2019-2021), in which we plan to publish 6,000 digital music scores, we would like to concentrate on improving the "work" field based on the ones that already exist in the RISM database. We will discuss what features the "work" field should contain to be able to be linked within different kinds of music scores, manuscripts, and printed editions. We would like to deliberate the creation of mandatory fields that should be filled such as author, genre, melody, and catalogue number. We will discuss the author field according to the VIAF record. The genre field should be standardized and given in the plural. We understand the melody field as the first 10 or 15 music notes from the top part of the piece that are written down with numbers indicating halftones as an addition to the Plaine & Easie Code-notated graphic incipits. We would like to discuss catalogue information, if possible, in connection with the "work" field. Our library would like to propose how this field should be named and what required information should be provided. For further improvement, we would like to discuss other fields like "work arrangement" and "work variant" where we propose, for example, adding standardized fields such as scoring and pitch that could be connected to IMSLP abbreviations.
+
+## Ulrich Leisinger (Mozart Institut/Digitale Mozart-Edition Internationale Stiftung Mozarteum, Österreich)
+
+**Historische Werktitel und Fassungen im Instrumentalschaffen W. A. Mozarts**
+
+Aufgrund einer günstigen Quellensituation und des bereits 1862 in erster Auflage erschienenen Werkverzeichnisses („Köchel-Verzeichnis“) ist das musikalische Schaffen Wolfgang Amadé Mozarts überdurchschnittlich gut erschlossen. Eine bislang unterschätzte Schwierigkeit bei der Erfassung von Mozart-Quellen bilden aber originale gattungsbezogene Werktitel, die mit heutigen Standardisierungen nicht deckungsgleich sind. Dies gilt insbesondere für Salzburger und Wiener Formen der Serenade und des Divertimentos, wobei sich zusätzlich nur scheinbar unscharfe Bezeichnungen wie „Cassation“, „Parthia“/„Partita“, „Nachtmusik“/„Notturno“ und andere finden. Ein zweites Erschwernis ist eine bislang fehlende Dokumentation, dass sich bei Mozart nicht nur bei Opern, sondern auch bei vielen Instrumentalwerken verschiedene Fassungen unterscheiden lassen, die von bloßen Erweiterungen der Besetzung über die Hinzufügung oder den Austausch von Sätzen bis zu Eigenbearbeitungen für andere Besetzungen reichen. Ein aufschlussreiches Beispiel für die hieraus entstehende Konfusion sind die zahlreichen Quellen zur von Mozart autorisierten Symphonie-Fassung der Serenade KV 320, die bei der RISM-Katalogisierung teils den Genres „Divertimentos“, teils den „Serenades“ zugeordnet und öfters, aber keineswegs durchgängig als „Excerpts“ gekennzeichnet sind. In der neuen Ausgabe des Köchel-Verzeichnisses, die derzeit an der Stiftung Mozarteum Salzburg auf der Grundlage von Vorarbeiten von Neal A. Zaslaw (Cornell University) zum Druck vorbereitet wird, werden Werkfassungen erstmals deutlich voneinander unterschieden, was auch für die RISM-Katalogisierung von Nutzen sein kann.
+
+## Roland Schmidt-Hensel (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz)
+
+**Werk – Fassung – Einzelsatz. Überlegungen zur Werknormierung bei nicht-autograph überlieferter Musik des 18. und 19. Jahrhunderts**** es**
+
+Die Normierung von Titeln musikalischer Werke stellt seit alters her ein wichtiges Element der Katalogisierung von Musikalien dar, indem normierte Titel die einheitliche Recherchierbarkeit verschiedener (gedruckter und handschriftlicher) Quellen desselben Werkes sicherstellen. Die Idee der Normierung geht allerdings davon aus, dass die „Originalgestalt“ des Werkes (ggf. in mehreren vom Autor herrührenden Fassungen) eindeutig zu definieren ist. Erscheint dies für Werke, die in Eigenschrift des Komponisten oder einem von diesem autorisierten Druck überliefert sind, in vielen Fällen durchaus praktikabel, so wirft bei denjenigen Werken, die lediglich in abschriftlicher und / oder nicht zweifelsfrei autorisierter Überlieferung auf uns gekommen sind, das Fehlen eines klaren Bezugspunktes der Normierung eine Reihe von Fragen auf.
+
+Beispielsweise sind Opern des 18. Jahrhunderts vielfach in verschiedenen, prinzipiell gleich gut oder schlecht beglaubigten Versionen überliefert, ohne dass immer zu entscheiden ist, welche dieser Versionen vom Komponisten herrührt und welche von fremder Hand eingerichtet wurden. Daneben begegnen auch Werke anderer Gattungen, die in prinzipiell gleichrangigen Quellen in Varianten überliefert sind, die sich in wesentlichen Aspekten wie Satzfolge oder Besetzung unterscheiden.
+
+Ein zweites Problemfeld stellt die Überlieferung von Einzelsätzen aus zyklischen Werken dar. So ist bei einzeln überlieferten Opernarien häufig anhand von Textincipit und / oder Rollenangabe unschwer auf eine Oper zu schließen, der die Arie entnommen ist bzw. sein könnte. Da aber vielfach präexistente Arientexte auch einzeln komponiert wurden – sei es als Studienwerk, als Konzertarie oder als Einlage in eine eigene oder fremde Oper –, kann ein solcher eigentlich naheliegender Rückschluss auf die (einstige) Existenz eines entsprechendes Gesamtwerks bisweilen auch in die Irre führen. Ähnliches gilt auch für die Teile des Messordinariums, die offenbar bisweilen einzeln komponiert und erst nachträglich zu Zyklen zusammengestellt wurden, welche unter Umständen in der Kombinationen der Sätze variieren können.
+
+Der Vortrag wird einen systematischen Überblick solcher und ähnlicher Fälle geben und versuchen, hieraus Anforderungen an die Ausgestaltung einer Werkebene zur Katalogisierung solcher Materialien ableiten.
+
+## Sonia Wronkowska (Polish RISM Centre, National Library of Poland)
+
+**Parody or Contrafactum? Revising RISM Guidelines for Derivative Works of Music**
+
+The RISM format gives a set of flexible tools to catalog derivative works of music. However, the abundance of derivation types results in various strategies of the use of dedicated MARC fields, which generates some issues, namely: many possibilities of cataloging a single derivation and the ambiguity of some derivations’ descriptions. The result of the cataloging process should be an extensive description of the actual work, including unambiguous identification of the prototype and a clear indication of the derivation techniques applied.
+
+The introduction of work authority files seems to be the proper moment to review the way of describing derivative works in RISM. The aim of the paper is to initiate a discussion and revision of existing guidelines regarding derivative works of music and derivation techniques.
+
+## Gesa zur Nieden (Universität Mainz, Universität Greifswald), Jonathan Gammert (Universität Mainz) 
+
+**Ist es ein Werk? FRBR-basierte Werkkonzeptionen des Opernpasticcio**** s**
+
+Nach einer ausgeprägten musikgeschichtlichen Vernachlässigung tritt das Opernpasticcio gegenwärtig immer mehr als paradigmatische Musikpraxis des 18. Jahrhunderts hervor. Das Arbeiten mit präexistentem Material, innerhalb dessen unterschiedliche Arien anhand eines bekannten Librettos zu einer neuen Oper zusammengestellt wurden, wirft dabei nicht nur Fragen nach der Ko-Autorschaft zwischen Komponisten, Sängerinnen und Sängern sowie Mäzenen oder sogar dem Publikum auf, sondern auch nach einer angemessenen Kategorisierung seiner verschiedenen Entitätsebenen, zumal sowohl die Libretti als auch die Einzelarien im Produktionsprozess mannigfachen Transformationen unterlagen. Im Vortrag sollen musikhistorisch und bibliothekarisch informierte Möglichkeiten einer Einpassung der Gattung Opernpasticcio in das FRBR-Modell vorgestellt werden, die der Einheit der Zusammenstellung und ihrer differenten Einzelteile, die wiederum Teil anderer Opernwerke sind, gleichermaßen Rechnung tragen. Nur auf diese Weise besteht die Möglichkeit, Opernpasticcios des 18. Jahrhunderts unter Einbezug zentraler Rechercheinstrumente wie GND-Nummern längerfristig transfergeschichtlich zu vernetzen und abzubilden.
+
+## Andrea Zedler (Universität Bayreuth)
+
+**Chamäleons der Musikgeschichte: Opere buffe und die Werkebeneneproblematik**
+
+Die Gattung der Opera buffa zeichnet sich durch keine allzu starke Werkstabilität aus. Im Gegenteil: Ursprünglich dreiaktige Opere buffe wie Orazio wurden für neue Aufführungsorte inhaltlich gestrafft, auf zwei Akte reduziert, Rollen wurden ausgetauscht oder wie dialektale Textanteile entfernt, Arien, ja ganze Szenen neu eingefügt, und letztlich noch mit einem neuen Titel ausgestattet. Diese geradezu chamäleonartige Anpassung der Werke führt bei der Beschäftigung mit dem Quellenkorpus des DFG-Projektes Die Opera buffa als europäisches Phänomen. Migration, Mapping und Transformation einer neuen Gattung zwangsweise zur Frage, ob bspw. der 1749 in München aufgeführte Orazio noch etwas mit jenem Werk gemein hat, das 1737 in Neapel zur Uraufführung gelangte.
+
+Das Projekt hat – wie jenes der SLUB Dresden musiconn.performance – einen performance-orientierten Ansatz gewählt, um die Verbreitung der Opera buffa in den Jahren 1745 bis 1765 außerhalb Italiens erfassen zu können. Hierfür wird eine Datenbank erstellt, bei der Schnittstellen zu anderen Projekten von vornherein eingeplant wurden: Die Vernetzung u.a. via Normdaten wie sie die GND liefert, und RISM sind für das Projekt ein essentielles Mittel, um sich mit anderen (musikwissenschaftlichen) Projekten langfristig und nachhaltig zu verlinken. Gleichwohl hat sich gezeigt, dass nur eine sehr geringe Anzahl an Datensätzen, die Daten zur Opera buffa und zum dazugehörigen Theaterpersonal (letzteres betrifft v.a. die GND) erfassen, existieren, die in die Datenbank integriert werden können. Dieses Datenressourcenproblem und weitere Fragen, die bei der Erfassung der – in der Regel handschriftlich vorliegenden – Werke in der Datenbank auftreten, sollen hier zur Diskussion gestellt werden.
+
+## Barbara Haggh-Huglo (University of Maryland, College Park, USA)
+
+**Work Titles for Church Music: Chant, Polyphony, Sacred Keyboard Music, and Their Manuscripts to 1650, using Low Countries’ Repertory as Examples**
+
+Assigning work titles to early church music is no easy matter, but a RISM policy could improve online searching with remarkable results. The problems are known: much church music is anonymous, even untitled, and it is comprised of material ranging from tonaries to distinct offices and/or masses for saints, votive and festal polyphonic ordinaries or ordinaries whose purpose cannot be determined, untitled organ versets, and much more. I propose using several levels of specificity in work titles, always preferring that including the most material efficiently. Single chants, polyphonic entities (individual mass movements or motets), or untitled distinct compositions, should be referred to by their text incipit, purpose if possible or necessary, or genre (untitled [sacred] keyboard work, untitled textless [sacred] vocal monophony, Salve regina, Te Deum, Obrecht Missa Maria zart), with the place and date of origin of the source if appropriate. Collections, such as chanted offices or masses in monophony or polyphonic mass ordinaries or propers or plenary cycles, should be identified as such, without naming composite parts but with liturgical destinations and text incipits to distinguish offices (Arnold Vohburg, Office of St. Emmeram Sancte Emmeramme, Manuscripts, where appropriate, should be cited by shelf number and performer destination (vocal, keyboard), not content.
+
+## Drew Edward Davies (Northwestern University, USA)
+
+**Quae est ista? Multi-Generational Responsory Collections from Mexico City**
+
+In the second half of the eighteenth century, the Hispanic Church began to foster the liturgical responsory, rather than the vernacular villancico, as the principal genre of concerted music for the Matins service. Mexico City Cathedral was seemingly one of the first institutions in the Hispanic world to produce a sizeable corpus of Matins responsories, and pioneering musicologists had interpreted that legacy, which tends to consist of cycles of eight responsories, some with invitatory and hymn, as akin to operas. However, closer attention to the sources reveals that the earliest of these responsory cycles, namely those by Ignacio Jerusalem (1707-1769), do not represent single-composer, multi-movement works, but rather collections assembled and arranged piecemeal by others in the early 19th century. For example, the Matins for the Virgin of Guadalupe attributed to Ignacio Jerusalem and dated 1764 actually contains a mix of autograph and holograph Jerusalem scores from the 1760s, contrafacts of music by Jerusalem and Giacomo Rust crafted by Antonio Juanas (c1762-c1821) around 1800, and subsequent arrangements from around 1840. While issues of authorship concerning these works have been resolved, questions of identifying the “work” in these networks of pieces persist. This presentation will attend directly to the material sources from a cataloger’s perspective and not only discuss the decisions colleagues in the Seminario de Música en la Nueva España y el México Independiente and myself recently made concerning how to represent this music in a printed catalogue, but also explore potentially innovative ways to virtually map these repertoires without imposing a single taxonomy.
+
+## Edgar Alejandro Calderón Alcantar (Conservatorio de las Rosas, Mexico) 
+
+**Reflections and Challenges for Cataloging Collections of Villancicos, Cantatas and Related Genres in Musical Archives and Libraries from New Spain**
+
+Researching, cataloging and creating editions of musical sources from New Spain is relatively young, and therefore the conditions for preserving manuscripts in Mexican archives and libraries do not always make it possible to collect complete works, much less identify when multiple titles of arias and recitatives can be determined to be from the same cantata or, as the case may be, find scenes, _loas_, _coplas_, _jornadas_, etc. that can be linked to _Comedies_, _Autos Sacramentales_ and other musical-poetic forms preserved in the Music Archive of Colegio de Santa Rosa (MEX-MOcr). Our interdisciplinary cataloging team has managed to identify musical and poetic authors by identifying concordances with printed material and manuscripts from other documentary collections. The main objective of our project is to establish adequate criteria for the documentation and cataloging of collections of works that allow a homogeneous management with RISM and international Libraries.

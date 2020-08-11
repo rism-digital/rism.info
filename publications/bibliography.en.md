@@ -889,7 +889,7 @@ You can find out more about the work of RISM from the following publications:
 - RISM [annual reports](/en/publications/annual-reports.html)
 - RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"}
 - Publications from the RISM Zentralredaktionen
-  - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/fileadmin/content/community-content/Zentralredaktion/communiques.pdf "Initiates file download").  
+  - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/fileadmin/content/community-content/Zentralredaktion/communiques.pdf).  
   - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/en/publications/info-rism-1989-2001.html). 
 
 **Reviews**
@@ -1263,7 +1263,7 @@ Hartmann, Andrea and Ortrun Landmann. _Die Musikhandschriften im Unitätsarchiv 
 _Kataloge bayerischer Musiksammlungen_ (KBM). Munich: Henle, 1971-. See in particular vols. 3, 6, 7, 9, 11/1, 12, 13, 14/1-3, 9-10, 17, 19, 21.  
 (Compiled using RISM rules; compiled by RISM Germany-Munich. Some catalog data available in RISM A/II)
 
-Kindler, Klaus. _Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover - Thematischer Katalog_. Hanover: Stadtbibliothek, 2003. [Summary](/fileadmin/content/community-content/Zentralredaktion/Kindler_Hannover.pdf "Initiates file download") (in English) | [Preface](/fileadmin/content/community-content/Zentralredaktion/kest_v.pdf "Initiates file download") (in German) | [Sample page](/fileadmin/content/community-content/Zentralredaktion/kest_ex.pdf "Initiates file download")
+Kindler, Klaus. _Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover - Thematischer Katalog_. Hanover: Stadtbibliothek, 2003. [Summary](/fileadmin/content/community-content/Zentralredaktion/Kindler_Hannover.pdf) (in English) | [Preface](/fileadmin/content/community-content/Zentralredaktion/kest_v.pdf) (in German) | [Sample page](/fileadmin/content/community-content/Zentralredaktion/kest_ex.pdf)
 
 Kindler, Klaus, ed. _Findbuch zum Bestand Musikalien des herzoglichen Theaters in Braunschweig 18.-19. Jh. (46 Alt)._ Inventare und kleinere Schriften des Staatsarchivs in Wolfenbüttel 5. Wolfenbüttel: Selbstverlag des Niedersächsischen Staatsarchivs, 1990.  
 (Compiled by RISM Germany-Munich using RISM A/II records)
@@ -1354,7 +1354,7 @@ Meluzzi, Cecilia. _Catalogo dei manoscritti musicali di Alessandro Vessella: Per
 Pollastri, Mariarosa. _Biblioteca del Convento di S. Francesco di Bologna: Catalogo del fondo musicale. Appendice: Manoscritti__– Edizioni._ Bibliotheca Musica Bononiensis, Sezione I, N. 20. Bologna: Forni, 1984.  
 (Compiled using RISM rules)
 
-Rostirolla, Giancarlo. _L’Archivio musicale della Basilica di San Giovanni in Laterano. Catalogo dei manoscritti e delle edizioni (secc. XVI-XX)_. 2 vols. Pubblicazioni degli Archivi di Stato. Strumenti 153. Rome: Ministero Beni Att. Culturali, 2002. [Sample page](/fileadmin/content/community-content/Zentralredaktion/RosL.pdf "Initiates file download")  
+Rostirolla, Giancarlo. _L’Archivio musicale della Basilica di San Giovanni in Laterano. Catalogo dei manoscritti e delle edizioni (secc. XVI-XX)_. 2 vols. Pubblicazioni degli Archivi di Stato. Strumenti 153. Rome: Ministero Beni Att. Culturali, 2002. [Sample page](/fileadmin/content/community-content/Zentralredaktion/RosL.pdf)  
 (Compiled by RISM Italy-Rome with the RISM Zentralredaktion, Frankfurt/M.)
 
 Rostirolla, Giancarlo and Maria Szpadrowska. _Una Biblioteca musicale del Settecento: Il fondo Compagnoni Marefoschi della Biblioteca Casanatense di Roma. Storia e Catalogo._ Studi e cataloghi dell’Istituto di Bibliografia Musicale – Roma 1). Rome: Torre d'Orfeo, 1995.  
