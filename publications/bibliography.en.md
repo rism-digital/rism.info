@@ -7,20 +7,20 @@ permalink: /publications/bibliography.html
 
 # RISM Bibliography in Chronological Order
 
-**Contents**
+## Contents
 
-- [Publications about RISM](#c2150)   
-- [Reviews](#c2151)   
-- [Appendix: Libretto and library/regional catalogs relating to RISM](#c2153) 
+- [Publications about RISM](#publications-about-rism)   
+- [Reviews](#reviews)   
+- [Appendix: Libretto and library/regional catalogs relating to RISM](#appendix-libretto-and-library-catalogs-relating-to-rism) 
 
-**Publications about RISM**
+## Publications about RISM
 
-_Jump to:_ [1940s](#c2155) [1950s](#c2156)   [1960s](#c2157)   [1970s](#c2158)   [1980s](#c2159)  [1990s](#c2160)   [2000s](#c2161)   [2010s](#c2606) [2020s](#c3963)
+_Jump to:_ [1940s](#c1940) [1950s](#c1950)   [1960s](#c1960)   [1970s](#c1970)   [1980s](#c1980)  [1990s](#c1990)   [2000s](#c2000)   [2010s](#c2010) [2020s](#c2020)
 
-**1949:**  
+<a name="c1940"></a>**1949:**  
 Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicological Society Congress Report_ 4 (1949): 37.
 
-**1951:**  
+<a name="c1950"></a>**1951:**  
 Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Link to JSTOR](http://www.jstor.org/stable/889991){:target="_blank"}
 
 
@@ -62,7 +62,7 @@ Schanzlin, Peter. "Musik-Sammeldrucke des 16. und 17. Jahrhunderts in schweizeri
 **1959:**  
 King, Alec Hyatt. "The Music Librarian and his tasks, national and international." _Fontes Artis Musicae_ 6, no. 2 (1959): 54. [Link to JSTOR](http://www.jstor.org/stable/23504108){:target="_blank"}
 
-**1961:**  
+<a name="c1960"></a>**1961:**  
 "Editorial." _The Musical Quarterly_ 47 (1961): 91-94. [Link to JSTOR](http://www.jstor.org/stable/740544){:target="_blank"}
 
 Heartz, Daniel. "The Répertoire International des Sources Musicales." _Journal of the American Musicological Society_ 14 (1961): 268-273. [Link to JSTOR](http://www.jstor.org/stable/829761){:target="_blank"}
@@ -127,7 +127,7 @@ Weinhold, Liesbeth. "Der Anteil der Bundesrepublik Deutschland am Internationale
 **1969:**  
 "Répertoire international des Sources Musicales. Protokoll über die RISM-Sitzungen." _Fontes Artis Musicae_ 16 (1969): 20-24.
 
-**1970:**
+<a name="c1970"></a>**1970:**
 
 Briguglio, Carmela. "Indice del R.I.S.M. (Répertoire international des sources musicales), Recueils imprimés XVIe–XVIIe siècles di François Lesure, 1960: G. Henle Verlag, München-Duisburg, stampato in Germania." PhD diss., Università degli Studi di _Messina_, 1970.
 
@@ -217,7 +217,7 @@ Schlager, Karl-Heinz, Jürgen Kindermann, and Helmut Rösing. "RISM: zur Katalog
 
 Surian, Elvidio. "L’inventariazione del patrimonio bibliografico-musicale italiano." _Revista Italiana di Musicologia_ 14 (1979): 3-10.
 
-**1980:**  
+<a name="c1980"></a>**1980:**  
 Benton, Rita. "Répertoire International des Sources Musicales." In _New Grove Dictionary of Music and Musicians_, 15: 747-749. London: Macmillan, 1980.
 
 Fabris, Dinko. "Corso Convegno a Roma per la schedatura dei manoscritti musicali." _Nuova rivista musicale italiana_ 14 (1980): 671-673.
@@ -341,7 +341,7 @@ Schlichte, Joachim. "Internationales Quellenlexikon der Musik: Zentralredaktion 
 
 Società Italiana di Musicologia and Associazione Veneta per la Ricerca delle Fonti Musicali. _Cataloghi di fondi musicali italiani a cura della Società italiana di Musicologia in collaborazione con il RISM: Norme per la redazione_. Padova: CLEUP, 1989.
 
-**1990:**  
+<a name="c1940"></a>**1990:**  
 Idaszak, Danuta. "RISM - międzynarodowy leksykon źródeł muzycznych." _Ruch muzyczny_ 34 (1990): 7.
 
 Kantner, Leopold M. "Musiklandschaft Österreich?! RISM in Österreich - ein Aufruf." _Informationen_ 34 (1990).
@@ -471,7 +471,7 @@ Keil, Klaus. "Zu 'PC-Datenbanken für die Musikwissenschaft'."Die Musikforschung
 
 Schwindt-Gross, Nicole. "Einschub: Arbeiten mit RISM." In _Musikwissenschaftliches Arbeiten_, edited by Schwindt-Gross, 122-129. Bärenreiter Studienbücher Musik 1. Kassel: Bärenreiter, 1999.
 
-**2000:**  
+<a name="c2000"></a>**2000:**  
 "Digitale Erfassung zum Ziel. Einsiedler Musikbibliothek: Inventarisierung eines wertvollen Kulturgutes." _Einsiedler Anzeiger_, July 18, 2000.
 
 Esteve Vaquer, José-Joaquin, Andreu Juliа Serra, and Cristina Menzel Sansу. "Memoria de actividades RISM-España 1999-2000." _Anuario Musical_ 55 (2000):273-286.
@@ -552,7 +552,7 @@ Ezquerro Esteban, Antonio. "Neue Herausforderungen im Umfeld des RISM-Projektes:
   
 Hankinson, Andrew, Laurent Pugin, and Ichiro Fujinaga. "Interfaces for document representation in digital music libraries." _ISMIR 2009: Proceedings of the 10th international conference on music information retrieval, Kobe International Conference Center, Kobe, Japan, October 26-30_, 39–44. Kobe, Japan: 2009. [Available online](http://docs.rism-ch.org/hankinson2009interfaces.pdf){:target="_blank"}.
 
-**2010:**  
+<a name="c2010"></a>**2010:**  
 Downie , J. Stephen, Andreas F. Ehmann, Mert Bay, M. Cameron Jones. "The Music Information Retrieval Evaluation eXchange: Some Observations and Insights." In _Advances in Music Information Retrieval: Studies in Computational Intelligence_, edited by Zbigniew W. Raś and Alicja A. Wieczorkowska, 93-115. Studies in Computational Intelligence 274. Springer: Berlin and Heidelberg, 2010.   
   
 Falletta, Martina, Renate Hüsken, and Klaus Keil. _RISM - Wissenschaftliche und technische Herausforderung musikhistorischer Quellenforschung im internationalen Rahmen. Academic and Technical Challenges of Musicological Source Research in an International Framework_. Studien und Materialien zur Musikwissenschaft 58. Hildesheim: Olms, 2010.
@@ -870,7 +870,7 @@ Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introduc
 
 Ward, Jennifer. "Répertoire International des Sources Musicales/International Inventory of Musical Sources." _Historic Libraries Forum Bulletin_ 44 (April 2019): 3-4. [Available online](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}.
 
-**2020:**
+<a name="c2020"></a>**2020:**
 
 Eggertsen, Chris. "Musicologists Come to Katy Perry's Defense in 'Dark Horse' Case: Verdict Is 'Inhibiting the Work of Songwriters'." _Billboard_, January 13, 2020. [Available online](https://www.billboard.com/articles/business/legal-and-management/8547957/musicologists-katy-perry-dark-horse){:target="_blank"}.
 
@@ -892,16 +892,16 @@ You can find out more about the work of RISM from the following publications:
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/fileadmin/content/community-content/Zentralredaktion/communiques.pdf).  
   - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/en/publications/info-rism-1989-2001.html). 
 
-**Reviews**
+## Reviews
 
 _Jump to:_  
-[Series A/I: Individual Prints before 1800](#c2162)  
-[Series A/II: Musical Manuscripts after 1600](#c2163)  
-[Series B](#c2164)  
-[Series C: Directory of Music Research Libraries](#c2165)  
-[Special Volumes](#c2166)
+[Series A/I: Individual Prints before 1800](#series-a)  
+[Series A/II: Musical Manuscripts after 1600](#series-aii-musical-manuscripts-after-1600)  
+[Series B](#series-b)  
+[Series C: Directory of Music Research Libraries](#series-c-directory-of-music-research-libraries)  
+[Special Volumes](#special-volumes)
 
-Series A
+### Series A
 
 **A/I,1:**  
 Klein, Rudolf. _Österreichische Musikzeitschrift_ 5 (1972): 301-302.
@@ -985,7 +985,7 @@ Rose, Stephen. "RISM in the Digital Age." _Early Music_ (February 2013): 158-160
 
 
 
-**Series A/II: Musical Manuscripts after 1600**
+### Series A/II: Musical Manuscripts after 1600
 
 **Microfiche edition:**  
 "Bibliographies." _Early Music News,_ June 1988.
@@ -1015,7 +1015,7 @@ Tsou, Judy. _Notes_ (June 2011): 789-792. [Link to JSTOR](http://www.jstor.org/s
 
 
 
-#### Series B
+### Series B
 
 **B I:**  
 Reese, Gustave. "The first volume of RISM." _Fontes artis musicae_ 8 (1961): 4-7. [Link to JSTOR](https://www.jstor.org/stable/23504456){:target="_blank"}
@@ -1140,7 +1140,7 @@ Solomon, John. _Fontes Artis Musicae_ 36 (1989): 332-333.
 **B XV:**  
 Ingendaay, Paul. "Schätze der Kirchenmusik, Reiche iberische Quellenkunde." _Frankfurter Allgemeine Zeitung_, December 5, 2005.
 
-#### Series C: Directory of Music Research Libraries
+### Series C: Directory of Music Research Libraries
 
 **Vol. 1:**  
 Ostrove, Geraldine. _Fontes artis musicae_ 31 (1984): 134-135.
@@ -1164,7 +1164,7 @@ Krueger, Wolfgang. _Fontes Artis Musicae_ 47 (1980): 223-224.
 
 Miller, Miriam. _Brio_ 17 (1980): 29.
 
-#### Special Volumes
+### Special Volumes
 
 **Das Tenorlied:  
 Vol. 1:**    
@@ -1190,7 +1190,7 @@ Brusniak, Friedhelm. _Musik und Kirche_ 58 (1988): 95-96.
 
 Steinbeck, Wolfram. _Die Musikforschung_ 41 (1988): 265-266.
 
-# Appendix: Libretto and library catalogs relating to RISM
+## Appendix: Libretto and library catalogs relating to RISM
 
 This section lists further libretto and library catalogs connected with RISM. The main focus is on catalogs compiled by colleagues in RISM national groups and on catalogs compiled in accordance with RISM guidelines. We have also mentioned some catalogs that have no obvious connection with RISM regarding their compilation but have been included in the RISM A/II database.
 
