@@ -2,7 +2,7 @@
 layout: publications
 title: "RISM Conference 2012"
 lang: en
-permalink: /publications/conference-2012.html
+permalink: /publications/conferences/conference-2012.html
 ---
 
 # RISM Conference 2012
@@ -19,7 +19,8 @@ Although the basic principles of documenting musical sources have stayed constan
 
 These developments are reason enough, ten years after the conference that marked the first 50 years of RISM, to bring together the newest approaches and look into further trends about the intersections of technology, scholarship, and practice.
 
-[Program](/en/community/events/conference-2012.html "Opens internal link in current window") •  [Abstracts](/en/community/events/conference-2012/abstracts.html "Opens internal link in current window")
+* [Program](/publications/conferences/conference-2012/program.html)
+* [Abstracts](/publications/conferences/conference-2012/abstracts.html)
 
 
 

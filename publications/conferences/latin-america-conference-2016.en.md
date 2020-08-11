@@ -2,7 +2,7 @@
 layout: publications
 title: "Conference: Documenting Musical Sources in Latin America"
 lang: en
-permalink: /publications/latin-america-conference-2016.html
+permalink: /publications/conferences/latin-america-conference-2016.html
 ---
 
 # Conference: Documenting Musical Sources in Latin America
@@ -25,7 +25,7 @@ At the conference, respected musicologists and librarians from throughout Latin 
 
 
 
-[Jump to: Other RISM events at GfM](#c3292 "Opens internal link in current window")
+[Jump to: Other RISM events at GfM](#c3292)
 
 # Program
 

@@ -39,4 +39,4 @@ If you want professionally printed copies of the brochure, also at no charge, pl
 
 ## Data Services
 
-RISM offers interested libraries and institutions numerous supplemental opportunities for data analysis or to use the data in other projects. Please have a look atthe [Data Services](/en/community/development/data-services.html "Opens internal link in current window") page or you may \<media 688 - - "TEXT, rism datendienste-ed H klein, rism\_datendienste-edH\_klein.pdf, 534 KB"\>download the brochure here\</media\>.
+RISM offers interested libraries and institutions numerous supplemental opportunities for data analysis or to use the data in other projects. Please have a look atthe [Data Services](/en/community/development/data-services.html) page or you may \<media 688 - - "TEXT, rism datendienste-ed H klein, rism\_datendienste-edH\_klein.pdf, 534 KB"\>download the brochure here\</media\>.

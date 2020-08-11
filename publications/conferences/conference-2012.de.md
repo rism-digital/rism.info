@@ -2,7 +2,7 @@
 layout: publications
 title: "RISM-Konferenz 2012"
 lang: de
-permalink: /publications/conference-2012.html
+permalink: /publications/conferences/conference-2012.html
 ---
 
 # RISM-Konferenz 2012
@@ -19,7 +19,8 @@ Während die Grundlagen der Dokumentation von Musikquellen weitgehend konstant s
 
 Diese Entwicklungen sind Grund genug, 10 Jahre nach der Tagung zum 50. Bestehen des RISM, die neuen Möglichkeiten zusammenzutragen und sich mit weiteren Tendenzen in der Zusammenarbeit von Technik, Wissenschaft und Praxis auseinanderzusetzen.
 
-[Programm](/de/publikationen/konferenz-2012/conference-2012.html "Öffnet internen Link im aktuellen Fenster")   •   [Abstracts](/de/publikationen/konferenz-2012/conference-2012/abstracts.html "Öffnet internen Link im aktuellen Fenster")
+* [Programm](/publications/conferences/conference-2012/program.html)
+* [Abstracts](/publications/conferences/conference-2012/abstracts.html)
 
 
 

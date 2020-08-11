@@ -13,13 +13,13 @@ Hier finden Sie eine chronologische Liste aller Publikationen.
 
 **Inhalt**
 
-- [Publikationen über RISM](/../?id=56#2150 "Opens internal link in current window")
-- [Rezensionen](#c2151 "Opens internal link in current window")   
-- [Anhang: Libretto- und Bibliothekskataloge im Umkreis von RISM](#c2184 "Opens internal link in current window") 
+- [Publikationen über RISM](/../?id=56#2150)
+- [Rezensionen](#c2151)   
+- [Anhang: Libretto- und Bibliothekskataloge im Umkreis von RISM](#c2184) 
 
 **Publikationen über RISM**
 
-_Springen zu:_ [1940er](#c2155 "Opens internal link in current window") [1950er](#c2156 "Opens internal link in current window")   [1960er](#c2157 "Opens internal link in current window")   [1970er](#c2158 "Opens internal link in current window")   [1980er](#c2159 "Opens internal link in current window")  [1990er](#c2160 "Opens internal link in current window")   [2000er](#c2161 "Opens internal link in current window")   [2010er](#c2606 "Opens internal link in current window") [2020er](#c3963 "Opens internal link in current window")
+_Springen zu:_ [1940er](#c2155) [1950er](#c2156)   [1960er](#c2157)   [1970er](#c2158)   [1980er](#c2159)  [1990er](#c2160)   [2000er](#c2161)   [2010er](#c2606) [2020er](#c3963)
 
 
 
@@ -574,7 +574,7 @@ Koch, Juan Martin: Die musikalischen Quellen zum Leben erwecken! Klaus Keil, der
 
 Kraus, Guido: Sixty years of the RISM, in: Source Studies in Musical Culture, ed. Alina Mądry and Magdalena Walter-Mazur_._ Interdisciplinary Studies in Musicology 11 (Poznań: Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu, 2012), S. 17-19.
 
-"[Music Documentation in Libraries, Scholarship, and Practice](/de/publikationen/konferenz-2012.html "Opens internal link in current window")": RISM 60th Anniversary Conference. Die folgenden Beiträge stehen online zur Verfügung:
+"[Music Documentation in Libraries, Scholarship, and Practice](/de/publikationen/konferenz-2012.html)": RISM 60th Anniversary Conference. Die folgenden Beiträge stehen online zur Verfügung:
 
 - Adams, Sarah: Update on the US Working Group.[online](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Adams.pdf)
 - Diet, Jürgen: Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources. [Präsentation](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)[online](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)
@@ -701,7 +701,7 @@ Chang, Jeong Youn: A South Korean Researcher's View on the Music Department of t
 
 Diet, Jürgen: Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft, in: Bibliotheksdienst50 (2016), S. 188-198. Online verfügbar in 2017 (DOI:[10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021)).
 
-"[Documenting Musical Sources in Latin America](/de/publikationen/latin-america-conference-2016.html "Opens internal link in current window")." RISM Konferenz, September 2016. Die folgenden Beiträge stehen online zur Verfügung:
+"[Documenting Musical Sources in Latin America](/de/publikationen/latin-america-conference-2016.html)." RISM Konferenz, September 2016. Die folgenden Beiträge stehen online zur Verfügung:
 
 -  
 
@@ -840,7 +840,7 @@ Weitere Informationen über die Arbeit des RISM bieten folgende Publikationen:
 - RISM-Arbeitsberichte auf den Jahrestagungen der IAML, regelmäßig abgedruckt in: Fontes artis musicae
 - Mitteilungsblätter der RISM-Zentralredaktionen:
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Fortsetzung: Communiqués 5-8, ca. 1954-1960.
-  - Info RISM, ab 1989 herausgegeben von der RISM-Zentralredaktion in Frankfurt a. M.; bisher erschienene Bände: Nr. 1: 1989, Nr. 2: 1990, Nr. 3: 1991, Nr. 4: 1992, Nr. 5: 1993, Nr. 6/7: 1995/96, Nr. 8: 1997, Nr. 9: 1998, Nr. 10: 1999; Nr. 11/12: 2000/2001. Alle Bände des Info RISM sind [auf der Homepage des RISM](/de/publikationen/info-rism-1989-2001.html "Öffnet internen Link im aktuellen Fenster") einsehbar, ab Nr. 11/12 ist das Info RISM nur im Internet publiziert.
+  - Info RISM, ab 1989 herausgegeben von der RISM-Zentralredaktion in Frankfurt a. M.; bisher erschienene Bände: Nr. 1: 1989, Nr. 2: 1990, Nr. 3: 1991, Nr. 4: 1992, Nr. 5: 1993, Nr. 6/7: 1995/96, Nr. 8: 1997, Nr. 9: 1998, Nr. 10: 1999; Nr. 11/12: 2000/2001. Alle Bände des Info RISM sind [auf der Homepage des RISM](/de/publikationen/info-rism-1989-2001.html) einsehbar, ab Nr. 11/12 ist das Info RISM nur im Internet publiziert.
 
 **2020:**
 
@@ -861,11 +861,11 @@ Voss, Steffen: Die Musikpflege am Münchener kurfürstlichen Hof im Spiegel der 
 **Rezensionen**
 
 _Springen zu:_  
-[Serie A/I: Einzeldrucke vor 1800](#c2162 "Opens internal link in current window")  
-[Serie A/II: Musikhandschriften nach 1600](#c2163 "Opens internal link in current window")  
-[Serie B](#c2164 "Opens internal link in current window")  
-[Serie C: Directory of Music Research Libraries](#c2165 "Opens internal link in current window")  
-[Sonderbände](#c2166 "Opens internal link in current window")
+[Serie A/I: Einzeldrucke vor 1800](#c2162)  
+[Serie A/II: Musikhandschriften nach 1600](#c2163)  
+[Serie B](#c2164)  
+[Serie C: Directory of Music Research Libraries](#c2165)  
+[Sonderbände](#c2166)
 
 Series A
 

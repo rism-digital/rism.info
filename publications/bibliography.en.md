@@ -9,13 +9,13 @@ permalink: /publications/bibliography.html
 
 **Contents**
 
-- [Publications about RISM](#c2150 "Opens internal link in current window")   
-- [Reviews](#c2151 "Opens internal link in current window")   
-- [Appendix: Libretto and library/regional catalogs relating to RISM](#c2153 "Opens internal link in current window") 
+- [Publications about RISM](#c2150)   
+- [Reviews](#c2151)   
+- [Appendix: Libretto and library/regional catalogs relating to RISM](#c2153) 
 
 **Publications about RISM**
 
-_Jump to:_ [1940s](#c2155 "Opens internal link in current window") [1950s](#c2156 "Opens internal link in current window")   [1960s](#c2157 "Opens internal link in current window")   [1970s](#c2158 "Opens internal link in current window")   [1980s](#c2159 "Opens internal link in current window")  [1990s](#c2160 "Opens internal link in current window")   [2000s](#c2161 "Opens internal link in current window")   [2010s](#c2606 "Opens internal link in current window") [2020s](#c3963 "Opens internal link in current window")
+_Jump to:_ [1940s](#c2155) [1950s](#c2156)   [1960s](#c2157)   [1970s](#c2158)   [1980s](#c2159)  [1990s](#c2160)   [2000s](#c2161)   [2010s](#c2606) [2020s](#c3963)
 
 **1949:**  
 Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicological Society Congress Report_ 4 (1949): 37.
@@ -600,7 +600,7 @@ Koch, Juan Martin. "Die musikalischen Quellen zum Leben erwecken! Klaus Keil, de
   
 Kraus, Guido. "Sixty years of the RISM." In_Source Studies in Musical Culture_, edited by Alina Mądry and Magdalena Walter-Mazur, 17-19_._ Interdisciplinary Studies in Musicology 11. Poznań: Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu, 2012. [Available online](http://hdl.handle.net/10593/8476){:target="_blank"}.  
   
-"[Music Documentation in Libraries, Scholarship, and Practice](/en/publications/music-documentation-2012.html "Opens internal link in current window")": RISM 60th Anniversary Conference. The following papers are available online:
+"[Music Documentation in Libraries, Scholarship, and Practice](/en/publications/music-documentation-2012.html)": RISM 60th Anniversary Conference. The following papers are available online:
 
 - Adams, Sarah. "Update on the US Working Group." [Available online](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Adams.pdf).
 - Diet, Jürgen. "Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources." [Slides](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)[available online.](http://www.rism.info/fileadmin/content/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)
@@ -629,7 +629,7 @@ Pugin, Laurent, Andrew Hankinson, and Ichiro Fujinaga. "Digital Preservation and
   
 Renner, Helke. "Prinz Alberts Handschrift in aller Welt." _InFranken.de_, May 5, 2012. [Available online](http://www.infranken.de/regional/coburg/Prinz-Alberts-Handschrift-in-aller-Welt;art214,278457){:target="_blank"}.  
   
-RISM Zentralredaktion: Music Documentation in Libraries, Scholarship, and Practice. Conference 4-6 June 2012, Mainz. Presentations are [available online](/en/publications/music-documentation-2012.html "Opens internal link in current window").  
+RISM Zentralredaktion: Music Documentation in Libraries, Scholarship, and Practice. Conference 4-6 June 2012, Mainz. Presentations are [available online](/en/publications/music-documentation-2012.html).  
   
 Talbot, Michael. "Miscellany." _Studi Vivaldiani_ 12 (2012): 95-104.
 
@@ -739,7 +739,7 @@ Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of 
   
 Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft."_Bibliotheksdienst_50, no. 2 (February 2016):188-198. doi:[10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
   
-"[Documenting Musical Sources in Latin America](/en/publications/sources-in-latin-america-2016.html "Opens internal link in current window")." RISM conference, September 2016. The following presentations are available online:
+"[Documenting Musical Sources in Latin America](/en/publications/sources-in-latin-america-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
 -  
 
@@ -886,20 +886,20 @@ Voss, Steffen. "Die Musikpflege am Münchener kurfürstlichen Hof im Spiegel der
 
 You can find out more about the work of RISM from the following publications:
 
-- RISM [annual reports](/en/publications/annual-reports.html "Opens internal link in current window")
+- RISM [annual reports](/en/publications/annual-reports.html)
 - RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"}
 - Publications from the RISM Zentralredaktionen
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/fileadmin/content/community-content/Zentralredaktion/communiques.pdf "Initiates file download").  
-  - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/en/publications/info-rism-1989-2001.html "Opens internal link in current window"). 
+  - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/en/publications/info-rism-1989-2001.html). 
 
 **Reviews**
 
 _Jump to:_  
-[Series A/I: Individual Prints before 1800](#c2162 "Opens internal link in current window")  
-[Series A/II: Musical Manuscripts after 1600](#c2163 "Opens internal link in current window")  
-[Series B](#c2164 "Opens internal link in current window")  
-[Series C: Directory of Music Research Libraries](#c2165 "Opens internal link in current window")  
-[Special Volumes](#c2166 "Opens internal link in current window")
+[Series A/I: Individual Prints before 1800](#c2162)  
+[Series A/II: Musical Manuscripts after 1600](#c2163)  
+[Series B](#c2164)  
+[Series C: Directory of Music Research Libraries](#c2165)  
+[Special Volumes](#c2166)
 
 Series A
 
