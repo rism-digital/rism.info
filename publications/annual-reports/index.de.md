@@ -16,58 +16,58 @@ Die Jahresberichte werden in der jährlichen Publikation der Union der Deutschen
 
 **2019**
 
-[View](/publications/annual-reports/019.html)|[Download as PDF](/uploads/user_upload/RISM-Jahresbericht-19_DE.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/019.html)|[Herunterladenals pdf-Datei](/uploads/user_upload/RISM-Jahresbericht-19_DE.pdf)
 
 
 
 **2018**
 
-[View](/publications/annual-reports/018.html)|[Download as PDF](/fileadmin/content/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/018.html)|[Herunterladenals pdf-Datei](/fileadmin/content/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf)
 
 
 
 **2017**
 
-[View](/publications/annual-reports/017.html)|[Download as PDF](/fileadmin/content/Jahresbericht2017_EN.pdf)
+[Ansicht](/publications/annual-reports/017.html)|[Herunterladenals pdf-Datei](/fileadmin/content/Jahresbericht2017_EN.pdf)
 
 
 
 **2016**
 
-[Ansicht](/publications/annual-reports/016.html#c3434)| [Herunterladenals pdf-Datei](/fileadmin/content/Jahresbericht_DE_2016.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/016.html#c3434)| [Herunterladenals pdf-Datei](/fileadmin/content/Jahresbericht_DE_2016.pdf)
 
 
 
 **2015**
 
-[Ansicht](/publications/annual-reports/015.html#c3226)| [Herunterladen als pdf-Datei](/fileadmin/content/Jahresbericht_DE_2016.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/015.html#c3226)| [Herunterladen als pdf-Datei](/fileadmin/content/Jahresbericht_DE_2016.pdf)
 
 
 
 **2014**
 
-[Ansicht](/publications/annual-reports/014.html)| [Herunterladen als pdf-Datei](/fileadmin/content/Jahresbericht_2014.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/014.html)| [Herunterladen als pdf-Datei](/fileadmin/content/Jahresbericht_2014.pdf)
 
 
 
 **2013**
 
-[Ansicht](/publications/annual-reports/013.html#c2694)|[Herunterladen als pdf-Datei](/uploads/user_upload/Jahresbericht_DE_web.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/013.html#c2694)|[Herunterladen als pdf-Datei](/uploads/user_upload/Jahresbericht_DE_web.pdf)
 
 
 
 **2012**
 
-[Ansicht](/publications/annual-reports/012.html#c2450) |[Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch_2012.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/012.html#c2450) |[Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch_2012.pdf)
 
 
 
 **2011**
 
-[Ansicht](/publications/annual-reports/011.html) | [Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/011.html) | [Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch.pdf)
 
 
 
 **2010**
 
-[Ansicht](/publications/annual-reports/010.html#c1112) | [Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch_2010.pdf "Leitet Herunterladen der Datei ein")
+[Ansicht](/publications/annual-reports/010.html#c1112) | [Herunterladen als pdf-Datei](/uploads/user_upload/JahresberichtDeutsch_2010.pdf)

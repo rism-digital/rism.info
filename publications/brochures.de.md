@@ -16,7 +16,7 @@ Die 14-seitige Broschüregibt einen Einblick in die Arbeit und Organisation des 
 - [Deutsch - Englisch](/fileadmin/content/community-content/Zentralredaktion/20150410_RISM_Broschuere_NEU-1_FINAL.pdf) (PDF, Stand: April 2015)
 - [Traditionelles Chinesisch - Englisch](/fileadmin/content/community-content/Zentralredaktion/RISM_brochure_Traditional_Chinese_2017_compressed.pdf) (PDF; Stand: Juli 2016)  
 _Übersetzt von_ _WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU und Nora YEH_ 
-- [Vereinfachtes Chinesisch - Englisch](/fileadmin/content/community-content/Zentralredaktion/RISM_brochure_Simplified_Chinese_2017_compressed.pdf "Leitet Herunterladen der Datei ein") (PDF; Stand: Juli 2016)  
+- [Vereinfachtes Chinesisch - Englisch](/fileadmin/content/community-content/Zentralredaktion/RISM_brochure_Simplified_Chinese_2017_compressed.pdf) (PDF; Stand: Juli 2016)  
 _Übersetzt von_ _WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU und Nora YEH_ 
 - [Portugiesisch - Englisch](/fileadmin/content/community-content/Zentralredaktion/RISM_brochure_English_Portuguese_web_version.pdf) (PDF; Stand: 2017)   
 _Übersetzt von Beatriz Magalhães Castro und Sílvia Sequeira_

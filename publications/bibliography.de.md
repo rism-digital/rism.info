@@ -1231,7 +1231,7 @@ Andrea Hartmann and Ortrun Landmann: Die Musikhandschriften im Unitätsarchiv de
 Kataloge bayerischer Musiksammlungen (KBM), München 1971-, insbesondere die Bände 3, 6, 7, 9, 11/1, 12, 13, 14/1-3, 9-10, 17, 19, 21.  
 (erstellt nach RISM-Richtlinien; erstellt in der RISM-Ländergruppe München - Deutschland oder in Zusammenarbeit mit der RISM-Ländergruppe München – Deutschland; Katalogdaten teilweise in RISM A/II enthalten)
 
-Kindler, Klaus: Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover - Thematischer Katalog, Hannover: Stadtbibliothek, 2003. [Zusammenfassung](/fileadmin/content/community-content/Zentralredaktion/Kindler_Hannover.pdf "Leitet Herunterladen der Datei ein") (English) | [Vorwort](/fileadmin/content/community-content/Zentralredaktion/kest_v.pdf "Leitet Herunterladen der Datei ein") (Deutsch) | [Beispielseite](/fileadmin/content/community-content/Zentralredaktion/kest_ex.pdf "Leitet Herunterladen der Datei ein")
+Kindler, Klaus: Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover - Thematischer Katalog, Hannover: Stadtbibliothek, 2003. [Zusammenfassung](/fileadmin/content/community-content/Zentralredaktion/Kindler_Hannover.pdf) (English) | [Vorwort](/fileadmin/content/community-content/Zentralredaktion/kest_v.pdf) (Deutsch) | [Beispielseite](/fileadmin/content/community-content/Zentralredaktion/kest_ex.pdf)
 
 Kirsch, Dieter: Die Musikalien der Diözese Würzburg. Quellen und Studien zur Musikgeschichte Würzburgs und Mainfrankens. Würzburg: Echter, 2014.   
 (erstellt in der RISM-Ländergruppe München - Deutschland )
