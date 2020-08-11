@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Muscat_workshop_in_Warsaw_336786854e.jpg
 
 _Der folgende Beitrag stammt von Sonia Wronkowska vom polnischen RISM Zentrum:_
 
-Am Montag und Dienstag letzter Woche nahmen 14 Personen an einem [Muscat-Workshop](/de/community/muscat.html "Opens internal link in current window") an der [polnischen Nationalbibliothek](http://bn.org.pl/en/){:target="_blank"} in Warschau teil. Der Workshop wurde von der Musikabteilung und der Abteilung für Bibliotheksausbildung organisiert. Sonia Wronkowska, die Leiterin des polnischen RISM Zentrums, hielt den Workshop ab. Vertreter von polnischen Bibliotheken, Universitäten, Kulturinstituten und Privatsammlungen haben zwei Tage lang der intensiven Schulung beigewohnt. RISM hat dadurch einige neue Beitragende gewonnen.
+Am Montag und Dienstag letzter Woche nahmen 14 Personen an einem [Muscat-Workshop](/de/community/muscat.html) an der [polnischen Nationalbibliothek](http://bn.org.pl/en/){:target="_blank"} in Warschau teil. Der Workshop wurde von der Musikabteilung und der Abteilung für Bibliotheksausbildung organisiert. Sonia Wronkowska, die Leiterin des polnischen RISM Zentrums, hielt den Workshop ab. Vertreter von polnischen Bibliotheken, Universitäten, Kulturinstituten und Privatsammlungen haben zwei Tage lang der intensiven Schulung beigewohnt. RISM hat dadurch einige neue Beitragende gewonnen.
 
 _Fotografie mit freundlicher Genehmigung von Sonia Wronkowska._
 

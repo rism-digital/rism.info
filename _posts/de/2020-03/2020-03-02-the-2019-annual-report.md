@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg
 ---
 
 
-Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/de/publikationen/jahresberichte/2019.html "Opens internal link in current window") lesen. Hier sind einige Besonderheiten daraus:
+Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/de/publikationen/jahresberichte/2019.html) lesen. Hier sind einige Besonderheiten daraus:
 
 **Neuer Vorstand:**
 Präsident: Prof. Dr. Klaus Pietschmann, Mainz
@@ -30,9 +30,9 @@ Schatzmeisterin: Jane Gottlieb, New York
 **Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](http://www.rism.info/en/home/newsdetails/select/self_representation/article/2/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](http://www.rism.info/en/home/newsdetails/select/new_publications/article/64/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
 
 **Konferenz zur Werkebene:**
-Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/de/publikationen/werkebene-2019.html "Opens internal link in current window").
+Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/de/publikationen/werkebene-2019.html).
 
-**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/de/publikationen/bibliographie.html "Opens internal link in current window").
+**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/de/publikationen/bibliographie.html).
 
 **Und wie immer** :
 

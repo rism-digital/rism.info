@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e
 ---
 
 
-_The following originally appeared the blog of the [Loeb Music Library](http://blogs.harvard.edu/loebmusic/2018/01/02/the-secret-garden-of-pierre-berge/){:target="_blank"} (Harvard University) and is by Christina Linklater ([RISM US](http://us.rism.info/index.php?id=47 "Opens internal link in current window")). It is reproduced here with kind permission._
+_The following originally appeared the blog of the [Loeb Music Library](http://blogs.harvard.edu/loebmusic/2018/01/02/the-secret-garden-of-pierre-berge/){:target="_blank"} (Harvard University) and is by Christina Linklater ([RISM US](http://us.rism.info/index.php?id=47)). It is reproduced here with kind permission._
 
 The Loeb Music Library has just acquired three items previously owned by the French industrialist, arts patron and AIDS activist[Pierre Bergé (1930-2017)](https://www.nytimes.com/2017/09/08/style/pierre-berge-yves-saint-laurent-dead.html?_r=0). A co-founder of the fashion house Yves Saint Laurent, Bergé cultivated a “jardin secret” all his life, accumulating important rare books and scores as well as Impressionist paintings, Old Master drawings and decorative ceramics.
 

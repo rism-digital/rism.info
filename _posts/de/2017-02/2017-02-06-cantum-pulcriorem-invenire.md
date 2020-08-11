@@ -15,7 +15,7 @@ CPI-I konzentriert sich auf die Dichtung dieser Gesänge. Der Text steht im abso
 
 Insgesamt werden 37 Felder durchsucht. Die Datenbank bietet eine innovative Lösung zur Anpassung der Suche an: 5 Felder werden standardmäßig angeboten, die übrigen 32 Spalten können durch einfaches Auswählen und Ziehen zu den anderen hinzugefügt werden. Alle Optionen werden dann aufgelistet und bieten einen leichten Überblick.
 
-Links zur Serie RISM [B/IV](/de/publikationen.html#c2619 "Opens internal link in current window") _Manuscripts of Polyphonic Music_ sind über [DIAMM](http://www.diamm.ac.uk/){:target="_blank"} verfügbar und integriert.
+Links zur Serie RISM [B/IV](/de/publikationen.html#c2619) _Manuscripts of Polyphonic Music_ sind über [DIAMM](http://www.diamm.ac.uk/){:target="_blank"} verfügbar und integriert.
 
 CPI-I listet 956 Dichtungen im Volltext zur Suche auf, von denen wiederum 866 vertont wurden. 565 stammen aus handschriftlichen und gedruckten Quellen.
 

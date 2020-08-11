@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Fussball_WM_2018_F_9752f6344f.jpg
 
 Summer can officially begin! The World Cup is here. Tonight is the first game of the 2018 World Cup, in which the men's teams of 32 nations will compete for the ultimate prize in soccer.
 
-We're starting the group stage with a look at the musical sources for each of the qualifying nations. Countries from North and South America, Europe, and Asia, as well as Australia are well represented in both the [RISM online catalog](http://opac.rism.info/){:target="_blank"} and the [RISM directory of library sigla](/sigla.html "Opens internal link in current window"). There are some nations where we only know of institutions that hold resources related to the study of music: Costa Rica, Egypt, Iceland, Iran, Peru, and Serbia—these are all listed in the sigla directory. Unfortunately, we have neither sources nor institutions for Morocco, Nigeria, Panama, Saudi Arabia, Senegal, and Tunisia. If any of our readers have tips for these countries, we'd be happy to have them.
+We're starting the group stage with a look at the musical sources for each of the qualifying nations. Countries from North and South America, Europe, and Asia, as well as Australia are well represented in both the [RISM online catalog](http://opac.rism.info/){:target="_blank"} and the [RISM directory of library sigla](/sigla.html). There are some nations where we only know of institutions that hold resources related to the study of music: Costa Rica, Egypt, Iceland, Iran, Peru, and Serbia—these are all listed in the sigla directory. Unfortunately, we have neither sources nor institutions for Morocco, Nigeria, Panama, Saudi Arabia, Senegal, and Tunisia. If any of our readers have tips for these countries, we'd be happy to have them.
 
 To search for musical sources in a particular country, use the [**Advanced search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select **Library siglum**. Enter the country code followed by a hyphen and an asterisk in order to find all the sources in the country. (The country codes follow [international vehicle registration codes](https://en.wikipedia.org/wiki/International_vehicle_registration_code){:target="_blank"}.)
 
@@ -22,13 +22,13 @@ For example, a [search for](https://opac.rism.info/search?View=rism&siglum=RUS-*
 ![](/fileadmin/content/news/Fussball_WM_2018_Suche.png)
 
 
-What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/international.html "Opens internal link in current window") who have made the RISM project so international.
+What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/international.html) who have made the RISM project so international.
 
 **Group A**
 
 **Russia** : Search [RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*&Language=en){:target="_blank"} to find 6,500 sources
 **Saudi Arabia** : not yet in RISM
-**Egypt** : No sources in the catalog, but 3 institutions listed in the [RISM Sigla Directory](/sigla.html "Opens internal link in current window") (search ET)
+**Egypt** : No sources in the catalog, but 3 institutions listed in the [RISM Sigla Directory](/sigla.html) (search ET)
 **Uruguay** : Search [ROU-\*](https://opac.rism.info/search?View=rism&siglum=ROU-*&Language=en){:target="_blank"} to find 21 sources in RISM
 
 **Group B**

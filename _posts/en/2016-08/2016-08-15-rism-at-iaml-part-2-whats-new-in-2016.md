@@ -13,7 +13,7 @@ A month ago we were basking in the warm Italian sun and feasting upon the many p
 
 On July 5 RISM organized a workshop called "The Ins and Outs of the RISM OPAC" – which, due to an unexpected loss of the internet connection, was not very workshop-like. But we improvised. "RISM Like a Pro" by Jennifer Ward ([slidesonline](http://www.rism.info/fileadmin/content/community-content/Zentralredaktion/Ward_RISM_like_a_pro_IAML_Rome_2016.pdf){:target="_blank"}) was full of insider tips and tricks that would be of interest to anyone (such as librarians) who has to teach the online catalog to others (such as students or faculty members). Take a look at the slides to discover a trick or two!
 
-The session included two contributions by RISM working group members. Zuzana Petrášková from [RISM Czech Republic](/workgroups/czech-republic-praha-rism-czech-republic/home.html "Opens internal link in current window") talked about interacting with researchers at the [National Library](http://www.en.nkp.cz/){:target="_blank"} in Prague and how that can lead to insight about the state of sources in the country and what work still needs to be done for RISM. Finally, Massimo Gentili-Tedeschi ([Ufficio Ricerca Fondi Musicali](http://www.urfm.braidense.it/index/index.php){:target="_blank"} and [Istituto Centrale per il Catalogo Unico](http://www.iccu.sbn.it/opencms/opencms/it/){:target="_blank"}) gave us the good news that an agreement between ICCU, IAML Italy, and RISM was ready to be signed by the new director of ICCU (Simonetta Buttò), the president of IAML Italia (Tiziana Grande), and the president of RISM (Wolf-Dieter Seiffert). The agreement handles the exchange of data between RISM and ICCU. Massimo's presentation then showed several solutions that can be solved together concerning data transfer.
+The session included two contributions by RISM working group members. Zuzana Petrášková from [RISM Czech Republic](/workgroups/czech-republic-praha-rism-czech-republic/home.html) talked about interacting with researchers at the [National Library](http://www.en.nkp.cz/){:target="_blank"} in Prague and how that can lead to insight about the state of sources in the country and what work still needs to be done for RISM. Finally, Massimo Gentili-Tedeschi ([Ufficio Ricerca Fondi Musicali](http://www.urfm.braidense.it/index/index.php){:target="_blank"} and [Istituto Centrale per il Catalogo Unico](http://www.iccu.sbn.it/opencms/opencms/it/){:target="_blank"}) gave us the good news that an agreement between ICCU, IAML Italy, and RISM was ready to be signed by the new director of ICCU (Simonetta Buttò), the president of IAML Italia (Tiziana Grande), and the president of RISM (Wolf-Dieter Seiffert). The agreement handles the exchange of data between RISM and ICCU. Massimo's presentation then showed several solutions that can be solved together concerning data transfer.
 
 July 7 was the traditional RISM open session. To start the session, Klaus presented an update on what RISM has been working on this past year ([slides online](http://www.rism.info/fileadmin/content/community-content/Zentralredaktion/Praesentation_Keil_Rome_2016_IAML.pdf){:target="_blank"}). Highlights include:
 
@@ -29,21 +29,21 @@ The [online catalog](https://opac.rism.info/){:target="_blank"} will undergo a m
 
 -
 
-[Series B](/publications.html#c2619 "Opens internal link in current window") continues to grow, and _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (edited by Ludwig Finscher, Laurenz Lütteken and Inga Mai Groote, assisted by Cristina Urchueguía, Gabriela Freiburghaus and Nicola Schneider), will be published this year by Henle as a book and database.
+[Series B](/publications.html#c2619) continues to grow, and _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (edited by Ludwig Finscher, Laurenz Lütteken and Inga Mai Groote, assisted by Cristina Urchueguía, Gabriela Freiburghaus and Nicola Schneider), will be published this year by Henle as a book and database.
 
 
 -
 
-Results from the [online RISM survey](/community/survey-2014-2015.html "Opens internal link in current window") were published.
+Results from the [online RISM survey](/community/survey-2014-2015.html) were published.
 
 
 -
 
-RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#c2620 "Opens internal link in current window") directory of music repositories. Guidelines have been written and test data was imported into a database.
+RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#c2620) directory of music repositories. Guidelines have been written and test data was imported into a database.
 
 
 
-The rest of the session, as well as much of the [Advisory Council session](/organisation/international-partners.html "Opens internal link in current window"), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
+The rest of the session, as well as much of the [Advisory Council session](/organisation/international-partners.html), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
 
 - Every group/contributor will have access to the final Muscat version one month before the switch to Muscat (probably mid-September to mid-October). During this time, Kallisto will still be the only cataloging system; data entered into Muscat during this time will be lost. There will be no period in which both systems will run parallel. Kallisto will end at a specified time and Muscat will be working after that within probably a few days (over the weekend).
 

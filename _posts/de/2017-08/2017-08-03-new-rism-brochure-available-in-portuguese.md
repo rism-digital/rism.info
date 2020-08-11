@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Brochure_EN_PT_234ca2a80e.jpg
 ---
 
 
-Die RISM-Broschüre "RISM: An Overview" ist nun einer englisch-portugiesischen Fassung unter dem Titel "RISM: Uma visão Geral" verfügbar. Sie steht auf [der RISM Website](/de/publikationen/broschueren.html "Opens internal link in current window") zum Download bereit.
+Die RISM-Broschüre "RISM: An Overview" ist nun einer englisch-portugiesischen Fassung unter dem Titel "RISM: Uma visão Geral" verfügbar. Sie steht auf [der RISM Website](/de/publikationen/broschueren.html) zum Download bereit.
 
 Wir danken Beatriz Magalhães Castro (RISM Brasilien) und Sílvia Sequeira (RISM Portugal) für die Übersetzung des Kurzporträts ins Portugiesische.
 

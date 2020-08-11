@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Gruppenphoto_95435a4794.jpg
 ---
 
 
-The RISM Central Office hosted a conference entitled "[Documenting Musical Sources in Latin America](/publications/sources-in-latin-america-2016.html "Opens internal link in current window")" on September 15, 2016. We invited respected musicologists and librarians from throughout Latin America to report on the current state of describing sources in their countries and the state of research on cultural exchange. These presentations were recorded and are [now available on RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"}.
+The RISM Central Office hosted a conference entitled "[Documenting Musical Sources in Latin America](/publications/sources-in-latin-america-2016.html)" on September 15, 2016. We invited respected musicologists and librarians from throughout Latin America to report on the current state of describing sources in their countries and the state of research on cultural exchange. These presentations were recorded and are [now available on RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"}.
 
 Our speakers shared information about cataloging projects being undertaken in seven countries in Central America, South America, and the Caribbean. The conference was a peripheral event of the [Gesellschaft für Musikforschung annual congress](http://www.gfm2016.uni-mainz.de/){:target="_blank"} and took place at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"} in Mainz.
 

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Datenbank_Korea_f89c0ccbb8.png
 ---
 
 
-Der nachfolgende Beitrag stammt von Hyun Kyung Chae, Kodirector von _[RISM Südkorea](http://ewha.kor.rism.info/index.php?id=528 "Opens internal link in current window")_:
+Der nachfolgende Beitrag stammt von Hyun Kyung Chae, Kodirector von _[RISM Südkorea](http://ewha.kor.rism.info/index.php?id=528)_:
 
 
 

@@ -26,7 +26,7 @@ Außerdem sind Dr. Nora Yeh (ehemalige Archivarin des American Folklife Center, 
 
 
 
-Nach [RISM Japan](/de/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html "Opens internal link in current window") und [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=531 "Opens internal link in current window") schließt sich die Gruppe Chinesisch-Sprechendes Gebiet der Dokumentation der Musikquellen in Asien an. Wir freuen uns darauf, mit unseren neuen Kollegen im chinesisch sprechenden Teil Asiens zusammenzuarbeiten.
+Nach [RISM Japan](/de/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html) und [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=531) schließt sich die Gruppe Chinesisch-Sprechendes Gebiet der Dokumentation der Musikquellen in Asien an. Wir freuen uns darauf, mit unseren neuen Kollegen im chinesisch sprechenden Teil Asiens zusammenzuarbeiten.
 
 
 

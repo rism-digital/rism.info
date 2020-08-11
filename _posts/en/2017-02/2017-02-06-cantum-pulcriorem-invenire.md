@@ -15,7 +15,7 @@ CPI-I focuses on the poetry of this kind of song. Since text is front and center
 
 In total there are 37 fields to search, and the database offers an innovative way to customize your search: 5 fields are offered as a default, but any of the remaining 32 columns may be added by simply clicking on the one you want and dragging next to the others. All options are then listed, offering a convenient way to browse.
 
-Links to RISM [B/IV](/publications.html#c2619 "Opens internal link in current window"), _Manuscripts of Polyphonic Music_, are included insofar that they are available through [DIAMM](http://www.diamm.ac.uk/){:target="_blank"}.
+Links to RISM [B/IV](/publications.html#c2619), _Manuscripts of Polyphonic Music_, are included insofar that they are available through [DIAMM](http://www.diamm.ac.uk/){:target="_blank"}.
 
 CPI-I lists 956 poems, all of which are available full text and can be searched. In total, 866 of the poems have musical settings, taken from 565 manuscript and printed sources.
 

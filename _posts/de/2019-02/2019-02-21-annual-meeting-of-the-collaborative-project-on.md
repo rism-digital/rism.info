@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_IMG_1784_875b2775ab.jpg
 ---
 
 
-_Den folgenden Beitrag erhielten wir von Tzu-Chia Tseng von der [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](/de/workgroups/rism-chinese-language-region/home.html "Opens internal link in current window") (RISM-CLR):_
+_Den folgenden Beitrag erhielten wir von Tzu-Chia Tseng von der [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](/de/workgroups/rism-chinese-language-region/home.html) (RISM-CLR):_
 
 **2018/12: RISM-CLR veranstaltete das Jahrestreffen des Verbundprojekts über chinesische Musikressourcen und einen Muscat-Workshop in Shanghai**
 

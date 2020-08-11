@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Belgium_institutions_map_5e425bebe5.jpg
 ---
 
 
-Patrizia Rebulla of RISM Belgium has assembled a map of musical institutions in Belgium. The map lists libraries, archives, churches, and private collections throughout the country. You can explore the map below and on the website of [RISM Belgium](/workgroups/belgium-rism-belgium.html "Opens internal link in current window").
+Patrizia Rebulla of RISM Belgium has assembled a map of musical institutions in Belgium. The map lists libraries, archives, churches, and private collections throughout the country. You can explore the map below and on the website of [RISM Belgium](/workgroups/belgium-rism-belgium.html).
 
 
 

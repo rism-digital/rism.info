@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_500_Jahre_Liber_selectarum_acab537a28.png
 ---
 
 
-In RISM’s catalog of anthologies from the 16th century ([Series B/I](/publications.html#c2619 "Opens internal link in current window")), we find a total of six entries from the year 1520. Four of these are motet collections, and the other two are a collection of frottolas and one of chansons. Over twenty copies from the anthology _[Liber selectarum cantionum](https://opac.rism.info/search?id=993103921&View=rism){:target="_blank"}_ are preserved.
+In RISM’s catalog of anthologies from the 16th century ([Series B/I](/publications.html#c2619)), we find a total of six entries from the year 1520. Four of these are motet collections, and the other two are a collection of frottolas and one of chansons. Over twenty copies from the anthology _[Liber selectarum cantionum](https://opac.rism.info/search?id=993103921&View=rism){:target="_blank"}_ are preserved.
 
 In his [2016 dissertation](https://opac.rism.info/search?id=lit41001162&View=rism){:target="_blank"}, “[Same same but different - die erhaltenen Exemplare des ‘Liber selectarum cantionum’ (Augsburg 1520)](http://othes.univie.ac.at/43236/){:target="_blank"},” Torge Schiefelbein compared nineteen of the surviving copies and demonstrates that each one of them is unique.
 

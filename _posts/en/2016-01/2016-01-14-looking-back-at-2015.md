@@ -36,7 +36,7 @@ These posts show the cooperation we enjoy with our RISM partner institutions as 
 5. Original Mozart autograph found in Budapest: [an interview (2014)](https://youtu.be/lRrqKZYSSIE){:target="_blank"} with our RISM Hungary colleague Balázs Mikusi
 
 **RISM in Publications**
-RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](/publications/bibliography.html "Opens internal link in current window"):
+RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](/publications/bibliography.html):
 
 - Capelle, Irmlind and Kristina Richts. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26.
 - Chae, Hyun Kyung. "From the First[最初] to the Best[最高]: Ewha Music Research Institute." _Ewha's Research Power for Humanities, Arts & Social Sciences_ (February 2015). [Available online](http://researchpower1.ewha.ac.kr/bbs/board.php?bo_table=2015s&wr_id=7){:target="_blank"}.

@@ -9,11 +9,11 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg
 ---
 
 
-Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://rism.info/?id=861 "Opens internal link in current window") veröffentlicht worden. Einige Punkte sollen hier hervorgehoben werden:
+Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://rism.info/?id=861) veröffentlicht worden. Einige Punkte sollen hier hervorgehoben werden:
 
 **Titelanzahl:** Dank der unermüdlichen Arbeit unserer international agierenden Kollegen hat der [RISM Online Katalog](https://opac.rism.info/){:target="_blank"} momentan 1.090.000 Einträge.
 
-**Beiträge der nationalen Arbeitsgruppen:** Die folgenden nationalen Arbeitsgruppen haben insgesamt über 31.000 neue Einträge in [Muscat](http://rism.info/?id=788 "Opens internal link in current window"), dem Erfassungsprogramm des RISM, erfasst: Argentinien, Belgien, Deutschland, Italien, Österreich, Polen, Slowakei, Slovenien, Südkorea, Tschechische Republik, Ungarn und die Vereinigten Staaten.
+**Beiträge der nationalen Arbeitsgruppen:** Die folgenden nationalen Arbeitsgruppen haben insgesamt über 31.000 neue Einträge in [Muscat](http://rism.info/?id=788), dem Erfassungsprogramm des RISM, erfasst: Argentinien, Belgien, Deutschland, Italien, Österreich, Polen, Slowakei, Slovenien, Südkorea, Tschechische Republik, Ungarn und die Vereinigten Staaten.
 
 **Geplante Datenimporte:** RISM arbeitet weiterhin mit [RISM Frankreich,](http://ccfr.bnf.fr/){:target="_blank"} [ICCU (Italien)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} und der [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (USA) wegen des Datenaustauschs von Musikquellen in die RISM Datenbank. In diesem Jahr konnte eine [Kooperation](http://www.rism.info/en/home/newsdetails/article/2/contract-signed-between-rism-and-unam.html){:target="_blank"} mit dem [Seminario de Música en la nueva España y el México independiente](http://www.musicat.unam.mx/v2013/index.html){:target="_blank"} an der Universidad Nacional Autónoma de México (UNAM) vereinbart werden. Dabei wird RISM die Beschreibungen der historischen Bestände der Kathedrale von Mexiko City erhalten.
 
@@ -21,11 +21,11 @@ Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://ri
 
 **Links zu digitalisierten Musikquellen:** Über den Online-Katalog wird ein direkter Zugang zu digitalisierten Musikquellen angeboten: Entweder schränken Sie die Suche direkt ein (**[Erweiterte Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}** --\> **Suche eingrenzen** --\> **Digitized music** ) oder Sie filtern die Ergebnisse ( **Trefferliste** --\> **Digitized music** ). Es stehen momentan ca. 40.000 Links zur Verfügung.
 
-**Muscat:** Das neue Erfassugnsprogramm [Muscat](http://rism.info/?id=788 "Opens internal link in current window"), das im November 2016 eingeführt wurde, ist ein plattformunabhängiges, webbasiertes, open-source Programm. Es ist somit auch auf die Bedürfnisse anderer Projekte anpassbar, so dass damit die Wiederverwendung der RISM Daten für wissenschaftliche Zwecke erheblich erleichetert werden kann. An konkreten Projekten soll das im nächsten Jahr erprobt werden. Innerhalb des ersten Jahre läuft das Programm zur vollsten Zufriedenheit. Dennoch wird es stets weiterentwickelt, was fast monatlich zu neuen, kleineren Releasen geführt hat.
+**Muscat:** Das neue Erfassugnsprogramm [Muscat](http://rism.info/?id=788), das im November 2016 eingeführt wurde, ist ein plattformunabhängiges, webbasiertes, open-source Programm. Es ist somit auch auf die Bedürfnisse anderer Projekte anpassbar, so dass damit die Wiederverwendung der RISM Daten für wissenschaftliche Zwecke erheblich erleichetert werden kann. An konkreten Projekten soll das im nächsten Jahr erprobt werden. Innerhalb des ersten Jahre läuft das Programm zur vollsten Zufriedenheit. Dennoch wird es stets weiterentwickelt, was fast monatlich zu neuen, kleineren Releasen geführt hat.
 
 **Soziale Medien:** RISM hat über 2.300 Fans auf [Facebook](https://www.facebook.com/pages/RISM-R%C3%A9pertoire-International-des-Sources-Musicales/103775449663308){:target="_blank"} and 1.700 Follower bei [Twitter](https://twitter.com/RISM_music){:target="_blank"}.
 
-**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](http://rism.info/?id=56 "Opens internal link in current window").
+**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](http://rism.info/?id=56).
 
 **Und darüber hinaus gilt wie immer:**
 

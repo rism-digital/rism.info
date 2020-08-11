@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg
 ---
 
 
-_Der folgende Beitrag stammt von TSENG Tzu-Chia von der RISM Ländergruppe [Chinesisch-sprechendes Gebiet](/de/workgroups/rism-chinese-language-region/home.html "Opens internal link in current window"):_
+_Der folgende Beitrag stammt von TSENG Tzu-Chia von der RISM Ländergruppe [Chinesisch-sprechendes Gebiet](/de/workgroups/rism-chinese-language-region/home.html):_
 
 **August 2018 RISM-CLR schließt die Präsentation des Referats auf der IAML Konferenz**  **2018 ab und präsentiert die “Zweisprachige Tabelle der gebräuchlichen chinesischen Instrumentennamen”**
 

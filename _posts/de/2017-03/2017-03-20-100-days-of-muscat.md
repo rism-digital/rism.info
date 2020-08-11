@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_muscat_02_d52c22eeb7.png
 ---
 
 
-Vor gut 100 Tagen wurde das speziell für uns entwickelte Katalogisierungsprogramm [Muscat](/de/community/muscat.html#c3306 "Opens internal link in current window") freigeschaltet! Über 150 Personen auf der ganzen Welt nutzen Muscat seit der Freigabe und mehr als 3.700 Einträge weist der RISM Online-Katalog seit dem Release im November 2016 zusätzlich auf.
+Vor gut 100 Tagen wurde das speziell für uns entwickelte Katalogisierungsprogramm [Muscat](/de/community/muscat.html#c3306) freigeschaltet! Über 150 Personen auf der ganzen Welt nutzen Muscat seit der Freigabe und mehr als 3.700 Einträge weist der RISM Online-Katalog seit dem Release im November 2016 zusätzlich auf.
 
 Muscat wird ständig weiter entwickelt. Seit der Freigabe wurden die italienischen Richtlinien ergänzt und eine spanische Version ist in Vorbereitung.
 

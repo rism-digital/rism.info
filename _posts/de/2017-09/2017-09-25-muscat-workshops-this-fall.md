@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_muscat_03_df0154796c.png
 ---
 
 
-[Muscat](/de/community/muscat.html "Opens internal link in current window"), das spezielle Erfassungsprogramm des RISM zur Katalogierung der Musikquellen, wird inzwischen von 200 Personen genutzt. Wir sind bemüht jeden Monat neue Nutzer zu gewinnen. Workshops sind dabei ein wichtiger Teil, um neue Mitabeiter mit den Grundlagen der Katalogisierung mit RISM vertraut zu machen. Diesen Herbst finden vier Workshops in drei Ländern statt:
+[Muscat](/de/community/muscat.html), das spezielle Erfassungsprogramm des RISM zur Katalogierung der Musikquellen, wird inzwischen von 200 Personen genutzt. Wir sind bemüht jeden Monat neue Nutzer zu gewinnen. Workshops sind dabei ein wichtiger Teil, um neue Mitabeiter mit den Grundlagen der Katalogisierung mit RISM vertraut zu machen. Diesen Herbst finden vier Workshops in drei Ländern statt:
 
 **Muscat Workshop am [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/){:target="_blank"}**
 

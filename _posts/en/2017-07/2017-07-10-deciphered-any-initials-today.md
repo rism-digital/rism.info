@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_RISM_A1_Initialen_ALINE_bdf832e831.jpg
 
 _The following article is by Martin Bierwisch, a student worker at the Central Office._
 
-From time to time, diligent users of the RISM online catalog send us information regarding the identification of pieces, particularly printed editions, where the composers are named only by initials (these are the pieces with [A/I numbers](/publications.html#c36 "Opens internal link in current window") beginning with IN and ININ). This post will briefly go into a few examples of composers that we have been able to identify.
+From time to time, diligent users of the RISM online catalog send us information regarding the identification of pieces, particularly printed editions, where the composers are named only by initials (these are the pieces with [A/I numbers](/publications.html#c36) beginning with IN and ININ). This post will briefly go into a few examples of composers that we have been able to identify.
 
 There is a variety of reasons why a name might be disguised at all and these reasons also effect any possible identification. Especially difficult is identifying composers of some French imprints, where you might encounter indications such as "Mr. B. L., amateur" (RISM A/I: IN 30; [RISM ID no. 990072877](https://opac.rism.info/search?id=00000990072877&Language=en){:target="_blank"}), "Mr. F." (RISM A/I: IN 73; [RISM ID no. 992004678](https://opac.rism.info/search?id=00000992004678&Language=en){:target="_blank"}), or "Mr. L." (RISM A/I: ININ 145a; [RISM ID no. 991010827](https://opac.rism.info/search?id=00000991010827&Language=en){:target="_blank"}). The number of amateur musicians in Paris that might have published one or two smaller pieces is nearly endless.
 

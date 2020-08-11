@@ -13,7 +13,7 @@ Valletta and Leeuwarden are the two European Capitals of Culture for 2018. Valle
 
 The city was built by the Knights of Malta beginning in 1566 and the sights can be reached easily by foot. But as Alexiei Dingli, the mayor of Valletta, said, "This Capital of Culture is different than other cultural capitals. It's not just about Valletta, but all of Malta and Gozo, too." Fans of culture can expect a full [calendar of events](https://valletta2018.org/){:target="_blank"} throughout the year.
 
-[In RISM](/sigla.html "Opens internal link in current window"), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:
+[In RISM](/sigla.html), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:
 St. Augustin Convent, Valletta (M-Vsa)
 Carmelite Priory, Valletta (M-Vcp)
 Commissariat of the Holy Land, Archives, Valletta (M-Vchl)

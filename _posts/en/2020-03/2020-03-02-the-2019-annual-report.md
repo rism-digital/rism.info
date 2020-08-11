@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg
 ---
 
 
-The 2019 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2019.html "Opens internal link in current window"). Here are some of the highlights:
+The 2019 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2019.html). Here are some of the highlights:
 
 **New Board of Directors:**
 President: Prof. Dr. Klaus Pietschmann, Mainz
@@ -30,10 +30,10 @@ Treasurer: Jane Gottlieb, New York
 **Update on Series C:** IAML established [a successor to the project group](http://www.rism.info/en/home/newsdetails/select/self_representation/article/2/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) in July 2019 to revise Series C. We are working closely with Maria Aslanidi, Aris Bazmadelis, and Arsinoi Ioannidou, who are also members of [RISM Greece](http://www.rism.info/en/home/newsdetails/select/new_publications/article/64/byzantine-music-archives-join-muscat.html){:target="_blank"}, to improve the coverage of institutions worldwide that hold music research materials.
 
 **Conference about musical works:**
-Together with the Johannes Gutenberg-Universität Mainz, the Zentralredaktion organized a conference from 9 to 11 May entitled "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." The conference took place at the Akademie der Wissenschaften und der Literatur in Mainz. The full program, abstracts, and some recordings of the papers can be found [on the RISM website](/publications/introducing-a-work-level-in-rism-2019.html "Opens internal link in current window").
+Together with the Johannes Gutenberg-Universität Mainz, the Zentralredaktion organized a conference from 9 to 11 May entitled "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." The conference took place at the Akademie der Wissenschaften und der Literatur in Mainz. The full program, abstracts, and some recordings of the papers can be found [on the RISM website](/publications/introducing-a-work-level-in-rism-2019.html).
 
 **Articles mentioning RISM:**
-The RISM project continues to be presented, referenced, and described in publications, including newspapers, scholarly journals, and research articles. Please look at the [up-to-date bibliography](/publications/bibliography.html "Opens internal link in current window").
+The RISM project continues to be presented, referenced, and described in publications, including newspapers, scholarly journals, and research articles. Please look at the [up-to-date bibliography](/publications/bibliography.html).
 
 And, as always:
 

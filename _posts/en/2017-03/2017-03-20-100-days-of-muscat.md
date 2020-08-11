@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_muscat_02_d52c22eeb7.png
 ---
 
 
-We've reached a [Muscat](/community/muscat.html#c3306 "Opens internal link in current window") milestone: we have been using our specially developed music cataloging program for just over 100 days! Over 150 contributors around the world have Muscat and over 3,700 records have been added to the RISM online catalog since the release in November 2016.
+We've reached a [Muscat](/community/muscat.html#c3306) milestone: we have been using our specially developed music cataloging program for just over 100 days! Over 150 contributors around the world have Muscat and over 3,700 records have been added to the RISM online catalog since the release in November 2016.
 
 Muscat continues to be developed. Italian guidelines have been added since the release and a Spanish version is in preparation.
 

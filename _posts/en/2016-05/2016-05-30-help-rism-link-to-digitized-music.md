@@ -69,7 +69,7 @@ If RISM hasn't linked to your scans yet, please alert us to your digital collect
 | 00000993103826 | [http://imslp.org/wiki/Special:ReverseLookup/307092](http://imslp.org/wiki/Special:ReverseLookup/307092){:target="_blank"} |
 
 
-The RISM database contains all of series [A/II](/publications.html#c36 "Opens internal link in current window") (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36 "Opens internal link in current window") series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619 "Opens internal link in current window") (printed anthologies).
+The RISM database contains all of series [A/II](/publications.html#c36) (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36) series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619) (printed anthologies).
 
 But wait, there's more! We are planning to add the remainder of **B/I** and all of **B/II** (through the eighteenth century) to the online catalog in the near future, so while you're at it please send us links to those items as well, but in a separate spreadsheet.
 

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.
 ---
 
 
-Diese Ankündigung erreichte uns von unseren Kollegen von_[RISM Belgien](/de/workgroups/belgium-rism-belgium.html "Opens internal link in current window"):_
+Diese Ankündigung erreichte uns von unseren Kollegen von_[RISM Belgien](/de/workgroups/belgium-rism-belgium.html):_
 
 
 

@@ -19,7 +19,7 @@ Those wondering whether it is worthwhile to also look at later editions need loo
 
 Those are just a few small examples of what you can discover. Go exploring with Verovio. Most of the printed editions are digitized. For the collection _[Lodi della musica](https://opac.rism.info/search?id=993122166&View=rism&Language=en){:target="_blank"}_ (1595|6), even three of the four known copies are digitized.
 
-Today Verovio lends his name to the [modern digital engraving library](http://www.verovio.org/index.xhtml){:target="_blank"} developed by the Swiss RISM office. Even if you don't know the project, you know what it can do: Verovio is used to display the music incipts in both the RISM online catalog and our internal cataloging program [Muscat](/community/muscat.html "Opens internal link in current window").
+Today Verovio lends his name to the [modern digital engraving library](http://www.verovio.org/index.xhtml){:target="_blank"} developed by the Swiss RISM office. Even if you don't know the project, you know what it can do: Verovio is used to display the music incipts in both the RISM online catalog and our internal cataloging program [Muscat](/community/muscat.html).
 
 If you want to learn more about Verovio (the person), you can look at the usual encyclopedias as well as a new publication by Auguste Campagne: [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"}. Wiener Veröffentlichungen zur Musikgeschichte, vol. 13 (Vienna: Böhlau Verlag, 2018; cited in RISM as CampagneV 2018).
 

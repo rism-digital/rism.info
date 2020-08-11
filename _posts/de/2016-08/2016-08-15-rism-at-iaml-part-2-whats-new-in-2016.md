@@ -29,17 +29,17 @@ Der[Online-Katalog](https://opac.rism.info/){:target="_blank"} wird im Spätherb
 
 -
 
-Auch[Serie B](http://www.rism.info/de/publikationen.html "Opens internal link in current window") wächst weiter und der Band_Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wirdin diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
+Auch[Serie B](http://www.rism.info/de/publikationen.html) wächst weiter und der Band_Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wirdin diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
 
 
 -
 
-Die Ergebnisse der[RISM-Nutzerstudie](http://www.rism.info/de/community/rism-nutzerstudie.html "Opens internal link in current window")wurdenveröffentlicht.
+Die Ergebnisse der[RISM-Nutzerstudie](http://www.rism.info/de/community/rism-nutzerstudie.html)wurdenveröffentlicht.
 
 
 -
 
-RISM führt die Zusammenarbeit mit der[Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"}fort, um die Bestände der[RISM Serie C](/de/publikationen.html#c2620 "Opens internal link in current window")zu aktualisieren und zu ergänzen. Die Richtlinien wurden verfasst und erste Testdaten wurden in eine Datenbank importiert.
+RISM führt die Zusammenarbeit mit der[Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"}fort, um die Bestände der[RISM Serie C](/de/publikationen.html#c2620)zu aktualisieren und zu ergänzen. Die Richtlinien wurden verfasst und erste Testdaten wurden in eine Datenbank importiert.
 
 
 

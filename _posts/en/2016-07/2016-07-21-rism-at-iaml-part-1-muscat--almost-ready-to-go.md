@@ -9,11 +9,11 @@ image: /uploads/_processed_/csm_Muscat_87a096eb84.jpg
 ---
 
 
-For RISM insiders, Muscat will be the must-have item this fall! Our new cataloging program was a topic of discussion at the recent [IAML congress in Rome](/publications/iaml-congresses/2016.html "Opens internal link in current window").
+For RISM insiders, Muscat will be the must-have item this fall! Our new cataloging program was a topic of discussion at the recent [IAML congress in Rome](/publications/iaml-congresses/2016.html).
 
-A group of developers has been at work for about three years to create a new cataloging program called Muscat, which will replace the current program, Kallisto. The group is made up of Laurent Pugin and Rodolfo Zittelini from [RISM Switzerland](http://rism-ch.org/infrastructure/muscat.html){:target="_blank"} and Stephan Hirsch and Harald Wingerter from the [RISM Central Office](/organisation/rism-zentralredaktion.html "Opens internal link in current window").
+A group of developers has been at work for about three years to create a new cataloging program called Muscat, which will replace the current program, Kallisto. The group is made up of Laurent Pugin and Rodolfo Zittelini from [RISM Switzerland](http://rism-ch.org/infrastructure/muscat.html){:target="_blank"} and Stephan Hirsch and Harald Wingerter from the [RISM Central Office](/organisation/rism-zentralredaktion.html).
 
-Also involved in the development process are members of the [Coordinating Committee](/organisation/international-partners.html "Opens internal link in current window") and Roland Schmid-Hensel from the [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/){:target="_blank"}. They have tested each stage of development and made valuable suggestions about improving the program.
+Also involved in the development process are members of the [Coordinating Committee](/organisation/international-partners.html) and Roland Schmid-Hensel from the [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/){:target="_blank"}. They have tested each stage of development and made valuable suggestions about improving the program.
 
 Work has progressed to the point where we are hoping to release the program this fall.
 

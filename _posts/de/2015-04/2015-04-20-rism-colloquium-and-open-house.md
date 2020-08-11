@@ -19,7 +19,7 @@ Der Tag der offenen Tür bietet uns die Gelegenheit allen Beteiligten der Univer
 
 
 
-Ein ausführliches Programm finden Sie auf der [Kolloquium-Seite](/de/publikationen/colloquium-2015.html "Opens internal link in current window").
+Ein ausführliches Programm finden Sie auf der [Kolloquium-Seite](/de/publikationen/colloquium-2015.html).
 
 
 

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Rueckblick_2016_a6956ec9f6.jpg
 ---
 
 
-The year 2016 was a big year for us: we released our long-awaited and well-received cataloging program [Muscat](http://www.rism.info/en/home/newsdetails/article/64/welcome-muscat.html){:target="_blank"}, we invited thirteen colleagues to speak on the state of source research in Central and South America at the conference [Documenting Musical Sources in Latin America](/publications/sources-in-latin-america-2016.html "Opens internal link in current window"), and we published another volume in Series B ([_Die Triosonate_](http://www.rism.info/en/home/newsdetails/article/64/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"})_._ Not to mention all the work contributed by our colleagues around the world—we will have a separate post about that later on.
+The year 2016 was a big year for us: we released our long-awaited and well-received cataloging program [Muscat](http://www.rism.info/en/home/newsdetails/article/64/welcome-muscat.html){:target="_blank"}, we invited thirteen colleagues to speak on the state of source research in Central and South America at the conference [Documenting Musical Sources in Latin America](/publications/sources-in-latin-america-2016.html), and we published another volume in Series B ([_Die Triosonate_](http://www.rism.info/en/home/newsdetails/article/64/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"})_._ Not to mention all the work contributed by our colleagues around the world—we will have a separate post about that later on.
 
 Let's take a look back at 2016. Allow us to share the top ten stories from the past year, at least from the point of view of our website statistics:
 
@@ -40,7 +40,7 @@ But in 2016—as in 2015—the post more often read than any other story, from a
 
 
 **RISM in publications**
-RISM was also mentioned in a number of articles in 2016, including an update of the article in _Grove Music Online_, but also articles where RISM is used as a resource in digital humanities projects. See the full list [in the RISM bibliography](/publications/bibliography.html#c2606 "Opens internal link in current window").
+RISM was also mentioned in a number of articles in 2016, including an update of the article in _Grove Music Online_, but also articles where RISM is used as a resource in digital humanities projects. See the full list [in the RISM bibliography](/publications/bibliography.html#c2606).
 
 
 

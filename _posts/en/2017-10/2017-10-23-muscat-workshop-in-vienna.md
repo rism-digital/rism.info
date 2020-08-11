@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg
 
 _The following news has reached us from Stefan Engl (President, [IAML Austria](https://www.iaml.at/){:target="_blank"}):_
 
-A [Muscat](/community/muscat.html "Opens internal link in current window") workshop took place in Vienna on 17 October 2017 in the new facilities of the Education Department at the [Austrian National Library](https://www.onb.ac.at/){:target="_blank"}. The leader of the workshop was Dr. Ikarus Kaiser, organist of Wilhering Abbey and longtime RISM contributor.
+A [Muscat](/community/muscat.html) workshop took place in Vienna on 17 October 2017 in the new facilities of the Education Department at the [Austrian National Library](https://www.onb.ac.at/){:target="_blank"}. The leader of the workshop was Dr. Ikarus Kaiser, organist of Wilhering Abbey and longtime RISM contributor.
 
 After the participants briefly introduced themselves (name, profession, and motivation for working with RISM), Dr. Kaiser used the first part of the workshop to present the cataloging program Muscat using concrete examples, including incipit encoding.
 

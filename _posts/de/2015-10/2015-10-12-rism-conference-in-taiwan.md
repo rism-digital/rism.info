@@ -13,7 +13,7 @@ Am 15. und 16. Oktober findet die Taipei [Collaborative Project on Chinese Music
 
 
 
-Klaus Keil wird RISM vorstellen und einen Workshop zur Katalogisierung mit Hilfe unseres Erfassungsprogramms Kallisto anbieten. Auch unsere Kollegin Hyun Kyung Chae von [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=528 "Opens internal link in current window") zählt zu den Teilnehmern der Konferenz.
+Klaus Keil wird RISM vorstellen und einen Workshop zur Katalogisierung mit Hilfe unseres Erfassungsprogramms Kallisto anbieten. Auch unsere Kollegin Hyun Kyung Chae von [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=528) zählt zu den Teilnehmern der Konferenz.
 
 
 

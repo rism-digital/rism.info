@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_RISM_Bde2_8dda4a934f.jpg
 ---
 
 
-Die Musikdrucke stellen neben den Handschriften, Libretti und Traktaten eine Art der "klassischen" RISM-Quellen dar. Die Suche nach Notenausgaben im RISM-Katalog ist erst seit 2015 möglich, als die Einzelausgaben vor 1800 sowie die zwischen 1500 und 1550 erschienenen Sammelausgaben hinzugefügt wurden. Eine "Übersetzung" für unsere langjährigen RISM-Nutzer: Das entspricht der gesamten [Serie A/I](/de/publikationen.html#c36 "Opens internal link in current window") un der ersten Hälfte von [B/I](/de/publikationen.html#c2619 "Opens internal link in current window"), veröffentlicht in den blauen Büchern (siehe Foto).
+Die Musikdrucke stellen neben den Handschriften, Libretti und Traktaten eine Art der "klassischen" RISM-Quellen dar. Die Suche nach Notenausgaben im RISM-Katalog ist erst seit 2015 möglich, als die Einzelausgaben vor 1800 sowie die zwischen 1500 und 1550 erschienenen Sammelausgaben hinzugefügt wurden. Eine "Übersetzung" für unsere langjährigen RISM-Nutzer: Das entspricht der gesamten [Serie A/I](/de/publikationen.html#c36) un der ersten Hälfte von [B/I](/de/publikationen.html#c2619), veröffentlicht in den blauen Büchern (siehe Foto).
 
 Seit dieser großen Erweiterung haben wir daran gearbeitet, das 16. Jahrhundert zum Abschluss zu bringen und in das 17. Jahrhundert überzugehen. Die Jahre 1601-1610 sind jetzt im RISM-Katalog (und wir werden am Donnerstag einen Blick hinter die Kulissen werfen). Angesichts der verschiedenen Projekte, die die RISM-Mitarbeiter weltweit durchführen, gibt es Musikdrucke , die in diese vermeintlichen Lücken fallen oder über die genannten Zeitspannen hinausgehen. Woher wissen Sie daher, wonach Sie suchen können?
 

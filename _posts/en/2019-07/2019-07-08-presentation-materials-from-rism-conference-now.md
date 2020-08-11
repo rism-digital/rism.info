@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Logo_07_189d7e8765.jpg
 ---
 
 
-The first video recordings and presentations slides from RISM's conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM," which took place in Mainz May 9-11, 2019, at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"}, are now online [and available through our conference website](/publications/introducing-a-work-level-in-rism-2019.html "Opens internal link in current window"). More materials will be added as they arrive.
+The first video recordings and presentations slides from RISM's conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM," which took place in Mainz May 9-11, 2019, at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"}, are now online [and available through our conference website](/publications/introducing-a-work-level-in-rism-2019.html). More materials will be added as they arrive.
 
 The RISM Central Office sought a dialogue between librarians and musicologists to discuss the idea of the musical work and how it can be applied to the data in the RISM database.
 

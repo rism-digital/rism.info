@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg
 
 _Der folgende Beitrag stammt von Stefan Engl (Präsident, [IAML Austria](https://www.iaml.at/){:target="_blank"}):_
 
-Der [Muscat](/de/community/muscat.html "Opens internal link in current window")-Workshop in Wien fand am 17. Oktober 2017 in den neuen Räumlichkeiten der Ausbildungsabteilung der [Österrreichischen Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}. Als Vortragender konnte wieder Dr. Ikarus Kaiser, Stiftsorganist von Wilhering und langjähriger RISM-Mitarbeiter, gewonnen werden.
+Der [Muscat](/de/community/muscat.html)-Workshop in Wien fand am 17. Oktober 2017 in den neuen Räumlichkeiten der Ausbildungsabteilung der [Österrreichischen Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}. Als Vortragender konnte wieder Dr. Ikarus Kaiser, Stiftsorganist von Wilhering und langjähriger RISM-Mitarbeiter, gewonnen werden.
 
 Nach einer kurzen Vorstellung der TeilnehmerInnen (Name, Tätigkeitsfeld und Motivation mit RISM zu arbeiten) stellte Kaiser im ersten Teil der Schulung das Quellenerfassungsprogramm Muscat anhand von konkreten Beispielen incl. Incipit-Codierung vor.
 

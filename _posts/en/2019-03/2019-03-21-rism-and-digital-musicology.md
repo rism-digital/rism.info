@@ -15,7 +15,7 @@ The most recent issue of the _International Journal on Digital Libraries_ is a s
 
 In this special issue, [the guest editors Kevin R. Page and J. Stephen Downie write](https://doi.org/10.1007/s00799-019-00268-1){:target="_blank"} that there is an "urgent need to specifically support the distinct multiple forms of music, the links between them, and the surrounding scholarly context, as required by the transformed and extended computational methods being applied to musicology and the wider digital humanities." We hope that RISM can play a role in this landscape.
 
-In our article, which has been available online since 2017 (pre-special issue), we outline in what forms [the RISM data](/community/development/data-services.html#c2695 "Opens internal link in current window") are available and give examples of how they are used outside of RISM. We are always interested in hearing of cases where RISM data are reused, so please let us know if, when, and how you use them.
+In our article, which has been available online since 2017 (pre-special issue), we outline in what forms [the RISM data](/community/development/data-services.html#c2695) are available and give examples of how they are used outside of RISM. We are always interested in hearing of cases where RISM data are reused, so please let us know if, when, and how you use them.
 
 
 

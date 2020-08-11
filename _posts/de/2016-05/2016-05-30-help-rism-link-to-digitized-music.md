@@ -83,7 +83,7 @@ Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre
 
 
 
-Der RISM Online-Katalog enthält die Serie [A/II](/de/publikationen.html#c41 "Opens internal link in current window") (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/de/publikationen.html#c41 "Opens internal link in current window") (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/de/publikationen.html#c41 "Opens internal link in current window") (Sammeldrucke).
+Der RISM Online-Katalog enthält die Serie [A/II](/de/publikationen.html#c41) (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/de/publikationen.html#c41) (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/de/publikationen.html#c41) (Sammeldrucke).
 
 Aber es gibt noch mehr! Wir planen auch die übrigen Einträge aus **B/I** und alles aus **B/II** in absehbarer Zukunft dem Online-Katalog zuzuführen, daher senden Sie uns bitte auch diese Verlinkungen - in einem separaten Excel-Tabellenblatt - zu.
 

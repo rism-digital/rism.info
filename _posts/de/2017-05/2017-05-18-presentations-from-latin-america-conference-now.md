@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Gruppenphoto_95435a4794.jpg
 ---
 
 
-Die RISM-Zentralredaktion veranstaltete am 15. September 2016 eine Konferenz zum Thema "[Dokumentation musikalischer Quellen in Lateinamerika](/de/publikationen/latin-america-conference-2016.html "Opens internal link in current window")". Wir hatten angesehene Musikwissenschaftler und Bibliothekare aus ganz Lateinamerika eingeladen, um über die Situation der musikalischen Quellen in ihren Ländern zu berichten. Diese Präsentationen wurden aufgenommen und stehen nun [auf dem RISM YouTube-Kanal](https://www.youtube.com/playlist?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"} zur Verfügung.
+Die RISM-Zentralredaktion veranstaltete am 15. September 2016 eine Konferenz zum Thema "[Dokumentation musikalischer Quellen in Lateinamerika](/de/publikationen/latin-america-conference-2016.html)". Wir hatten angesehene Musikwissenschaftler und Bibliothekare aus ganz Lateinamerika eingeladen, um über die Situation der musikalischen Quellen in ihren Ländern zu berichten. Diese Präsentationen wurden aufgenommen und stehen nun [auf dem RISM YouTube-Kanal](https://www.youtube.com/playlist?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"} zur Verfügung.
 
 Die Referenten berichteten von Katalogisierungsprojekten aus sieben Ländern in Mittelamerika, Südamerika und der Karibik. Die Konferenz gehörte zum Rahmenprogramm der Jahrestagung der [Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} und fand in der [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"} in Mainz statt.
 

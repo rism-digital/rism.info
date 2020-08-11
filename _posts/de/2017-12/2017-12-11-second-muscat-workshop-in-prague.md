@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg
 ---
 
 
-Die Leiterin der Tschechischen RISM-Arbeitsgruppe Frau Zuzana Petrášková an der [Nationalbibliothek in Prag](http://www.en.nkp.cz/){:target="_blank"} hatte vom 27. bis 29. November 2017 zu einem weiteren [Muscat](/de/community/muscat.html "Opens internal link in current window")-Workshop nach Prag eingeladen.
+Die Leiterin der Tschechischen RISM-Arbeitsgruppe Frau Zuzana Petrášková an der [Nationalbibliothek in Prag](http://www.en.nkp.cz/){:target="_blank"} hatte vom 27. bis 29. November 2017 zu einem weiteren [Muscat](/de/community/muscat.html)-Workshop nach Prag eingeladen.
 
 Insgesamt nahmen zehn Personen am Workshop teil. Muscat-Trainer war Guido Kraus von der RISM-Zentralredaktion in Frankfurt am Main. Neben den tschechischen Kolleginnen und Kollegen waren auch drei neue RISM-MitarbeiterInnen aus der Slowakischen Republik dabei. Aus Bratislava Frau Dr. Janka Petőczová vom[Musikwissenschaftlichen Institut](http://uhv.sav.sk/en/){:target="_blank"} der Slowakischen Akademie der Wissenschaften. Die Kollegin wird sich dem Bestand der Evangelischen Kirche von Levoča widmen (SK-Le) und ihr Augenmerk besonders auf die lokale Musiktradition dieser Kirche richten.
 

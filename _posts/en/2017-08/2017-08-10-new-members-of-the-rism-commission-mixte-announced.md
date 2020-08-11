@@ -9,9 +9,9 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_09_6b2be4d148.jpg
 ---
 
 
-RISM operates under the auspices of the [International Musicological Society](https://ims-international.ch/){:target="_blank"} and the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/){:target="_blank"}. When RISM was founded, a [Commission Mixte](/organisation/international-partners.html "Opens internal link in current window") (CM) was established that consists of delegates from both of these societies. The CM was reorganized in 2007 by then-president Christoph Wolff. It was determined that the CM should be made up of ten delegates total, five from each society. The terms of CM members are for five years.
+RISM operates under the auspices of the [International Musicological Society](https://ims-international.ch/){:target="_blank"} and the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/){:target="_blank"}. When RISM was founded, a [Commission Mixte](/organisation/international-partners.html) (CM) was established that consists of delegates from both of these societies. The CM was reorganized in 2007 by then-president Christoph Wolff. It was determined that the CM should be made up of ten delegates total, five from each society. The terms of CM members are for five years.
 
-The aim of the CM is to serve in an advisory role to the board of directors of the [Association](/organisation/the-association.html "Opens internal link in current window") and the Central Office in strategic and practical matters from the point of view of libraries and scholarship. Future board members may also emerge from the CM.
+The aim of the CM is to serve in an advisory role to the board of directors of the [Association](/organisation/the-association.html) and the Central Office in strategic and practical matters from the point of view of libraries and scholarship. Future board members may also emerge from the CM.
 
 New delegates to the CM were appointed at the respective congresses of the two societies this year. Members of the CM are now:
 

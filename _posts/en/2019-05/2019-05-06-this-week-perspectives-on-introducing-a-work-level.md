@@ -15,6 +15,6 @@ For three days, 9–11 May 2019, we are going to swap ideas, have discussions, a
 
 We are happy that many speakers from near and far will be presenting. We are looking forward to the various points of view of all participants.
 
-Presentations will be recorded and made available on [RISM's YouTube channel](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w){:target="_blank"} after the conference. The complete program and abstracts can be found [on the conference website](/publications/introducing-a-work-level-in-rism-2019.html "Opens internal link in current window").
+Presentations will be recorded and made available on [RISM's YouTube channel](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w){:target="_blank"} after the conference. The complete program and abstracts can be found [on the conference website](/publications/introducing-a-work-level-in-rism-2019.html).
 
 <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

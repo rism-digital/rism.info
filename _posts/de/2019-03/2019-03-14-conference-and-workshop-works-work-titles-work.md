@@ -30,7 +30,7 @@ Dennoch sind die Werktitel im Bibliotheksbereich ein wichtiges Hilfsmittel, mit 
 
 Die Konferenz mit Workshop soll die unterschiedlichen Standpunkte und Erwartungen von Musikwissenschaftlern und Bibliothekaren zur Sprache bringen und Lösungsansätze für RISM als Projekt zwischen beiden Seiten erarbeiten.
 
-Weitere Information befinden sich auf der [Konferenz-Webseite](/de/publikationen/werkebene-2019.html "Opens internal link in current window").
+Weitere Information befinden sich auf der [Konferenz-Webseite](/de/publikationen/werkebene-2019.html).
 
 
 

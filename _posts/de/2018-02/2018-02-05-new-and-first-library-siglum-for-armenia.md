@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Armenien_Sigel_f5ba135e79.jpg
 ---
 
 
-Bei RISM gehen [regelmäßig neue Anfragen](http://www.rism.info/de/home/newsdetails/browse/1/select/electronic_resources/article/47/no-siglum-no-problem.html){:target="_blank"} von Wissenschaftlern, Archivaren und Bibliothekaren zur Erstellung eines neuen [Bibliothekssigel](/de/rism-bibliothekssigel.html "Opens internal link in current window") ein. In unserer täglichen Arbeit stolpern wir immer wieder über Institutionen für die wir noch Sigel haben. So auch im Fall des [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan (Armenien).
+Bei RISM gehen [regelmäßig neue Anfragen](http://www.rism.info/de/home/newsdetails/browse/1/select/electronic_resources/article/47/no-siglum-no-problem.html){:target="_blank"} von Wissenschaftlern, Archivaren und Bibliothekaren zur Erstellung eines neuen [Bibliothekssigel](/de/rism-bibliothekssigel.html) ein. In unserer täglichen Arbeit stolpern wir immer wieder über Institutionen für die wir noch Sigel haben. So auch im Fall des [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan (Armenien).
 
 Jetzt haben wir auch ein offizielles RISM-Bibliothekssigel für diese Institution: **ARM-Yakm**
 

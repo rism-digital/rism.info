@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Lazos_April_2015_0cb0b2f27c.jpg
 ---
 
 
-Den Monat April verbringt [Dr. John Lazos](/de/workgroups/mexico-dr-john-g-lazos.html "Opens internal link in current window") zu Forschungszwecken in verschiedenen mexikanischen Archiven und gibt ein Seminar an der Fakultät für Musik der [Universidad Nacional Autónoma de México](http://www.fam.unam.mx/){:target="_blank"}. Dr. Lazos ist ein Stipendium vom Fondo Nacional para la Cultura y las Artes (FONCA) für ein Projekt zur Katalogisierung der Musikmanuskripte von José Antonio Gómez y Olguín (1805-1876) zuerkannt worden. Die Manuskripte von Gómez werden bald in der RISM-Datenbank aktualisiert. Gegenwärtig gibt es [29 Quellen vonGómez](https://opac.rism.info/search?View=rism&author=gomez+y+olguin){:target="_blank"} in der RISM-Datenbank, die alle von Dr. Lazos im Verlauf von früheren Projekten katalogisiert wurden.
+Den Monat April verbringt [Dr. John Lazos](/de/workgroups/mexico-dr-john-g-lazos.html) zu Forschungszwecken in verschiedenen mexikanischen Archiven und gibt ein Seminar an der Fakultät für Musik der [Universidad Nacional Autónoma de México](http://www.fam.unam.mx/){:target="_blank"}. Dr. Lazos ist ein Stipendium vom Fondo Nacional para la Cultura y las Artes (FONCA) für ein Projekt zur Katalogisierung der Musikmanuskripte von José Antonio Gómez y Olguín (1805-1876) zuerkannt worden. Die Manuskripte von Gómez werden bald in der RISM-Datenbank aktualisiert. Gegenwärtig gibt es [29 Quellen vonGómez](https://opac.rism.info/search?View=rism&author=gomez+y+olguin){:target="_blank"} in der RISM-Datenbank, die alle von Dr. Lazos im Verlauf von früheren Projekten katalogisiert wurden.
 
 
 

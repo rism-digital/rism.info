@@ -13,7 +13,7 @@ Neben der niederländischen Stadt Leeuwarden ist Maltas Hauptstadt Valletta Kult
 
 In der ab 1566 von Malteserrittern erbauten Stadt sind alle Sehenswürdigkeiten bequem zu Fuß zu erreichen. Doch „d_iese Kulturhauptstadt ist anders als andere Kulturhauptstädte. Es geht nicht nur um Valletta, sondern um ganz Malta und auch um Gozo.“_ (Alexiej Dingli, Bürgermeister von Valletta). Kulturfans erwartet das ganze Jahr über ein prall gefüllter [Kulturkalender](https://valletta2018.org/){:target="_blank"}.
 
-[In RISM](/de/rism-bibliothekssigel.html "Opens internal link in current window") sind 12 Musikarchive und Bibliotheken aus Malta bekannt. Drei davon befinden sich in der Hauptstadt Valletta, die übrigen in anderen Orten der Insel. Es handelt sich um folgende Institutionen:
+[In RISM](/de/rism-bibliothekssigel.html) sind 12 Musikarchive und Bibliotheken aus Malta bekannt. Drei davon befinden sich in der Hauptstadt Valletta, die übrigen in anderen Orten der Insel. Es handelt sich um folgende Institutionen:
 
 St. Augustin Convent, Valletta (M-Vsa)
 Carmelite Priory, Valletta (M-Vcp)

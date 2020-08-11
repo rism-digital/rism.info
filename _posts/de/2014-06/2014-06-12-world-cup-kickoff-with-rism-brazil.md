@@ -22,7 +22,7 @@ André Guerra Cotta - Universidade Federal Fluminense Polo Rio das Ostras (PURO-
 Beatriz Magalhães Castro - Universidade de Brasília / Laboratório de Musicologia (UnB/LAMUS)
 Pablo Sotuyo Blanco - Universidade Federal da Bahia (UFBA)
 
-Um mehr über die Beteiligten zu erfahren, besuchen Sie bitte die[RISM Brazil Website](/de/workgroups/brazil-universities-of-bahia-brasilia-campinas-minas-gerais/contributors.html "Opens internal link in current window").
+Um mehr über die Beteiligten zu erfahren, besuchen Sie bitte die[RISM Brazil Website](/de/workgroups/brazil-universities-of-bahia-brasilia-campinas-minas-gerais/contributors.html).
 
 
 

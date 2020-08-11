@@ -11,9 +11,9 @@ image: /uploads/_processed_/csm_Jahresbericht_2015_Graupner_bf7a17b880.jpg
 
 The past year was an exciting one for RISM, as the recently published annual report for 2015 shows. Thanks to the hard work from RISM contributors and partners around the world, we hit the 1,000,000th record in the [RISM database](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and are looking ahead to the next milestone.
 
-Here are the highlights from the annual report. The full version can be read [on the RISM website](/publications/annual-reports/2015.html "Opens internal link in current window").
+Here are the highlights from the annual report. The full version can be read [on the RISM website](/publications/annual-reports/2015.html).
 
-- **Over one million records** : A huge data import of over 100,000 records enriched the RISM database with data on historical printed music taken from[A/I, _Individual Prints before 1800_](/publications.html#c36 "Opens internal link in current window") (previously a CD-ROM); and [B/I, _Recueils imprimés, XVIe-XVIIe siècles_](/publications.html#c2619 "Opens internal link in current window") (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Later this summer, national groups and libraries will have the opportunity to submit corrections and add new information. RISM is currently working on converting the rest of B/I and B/II (18th century) for incorporation into the database.
+- **Over one million records** : A huge data import of over 100,000 records enriched the RISM database with data on historical printed music taken from[A/I, _Individual Prints before 1800_](/publications.html#c36) (previously a CD-ROM); and [B/I, _Recueils imprimés, XVIe-XVIIe siècles_](/publications.html#c2619) (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Later this summer, national groups and libraries will have the opportunity to submit corrections and add new information. RISM is currently working on converting the rest of B/I and B/II (18th century) for incorporation into the database.
 
 -
 
@@ -47,14 +47,14 @@ Here are the highlights from the annual report. The full version can be read [on
 
 - **Series C** : RISM is working with the IAML working group [Access to Music Archives (AMA)](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to update Series C, Directory of Music Research Libraries, and make it available as an online database.
 
-- **RISM brochure** : A new, updated version of the brochure [RISM: An Overview](/publications/brochures.html "Opens internal link in current window") (English-German) was published in 2015. It can be downloaded from the website. Printed copies may be obtained from the Zentralredaktion at no charge. An English-Russian version is also available.
+- **RISM brochure** : A new, updated version of the brochure [RISM: An Overview](/publications/brochures.html) (English-German) was published in 2015. It can be downloaded from the website. Printed copies may be obtained from the Zentralredaktion at no charge. An English-Russian version is also available.
 
 
 And, as always:
 
 -
 
-**Corrections welcome** : The Zentralredaktion increasingly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by [sending us your feedback and corrections](/service/feedback.html "Opens internal link in current window").
+**Corrections welcome** : The Zentralredaktion increasingly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by [sending us your feedback and corrections](/service/feedback.html).
 
 
 -

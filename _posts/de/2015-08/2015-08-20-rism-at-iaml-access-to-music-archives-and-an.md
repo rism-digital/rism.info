@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Access_to_music_archives_9d0e0cfab1.jpg
 ---
 
 
-Die RISM Zentralredaktion arbeitet eng mit der Arbeitsgruppe [Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} der IAML zusammen, um die Daten der Serie C ([Directory of Music Research Libraries](/de/publikationen.html#c2620 "Opens internal link in current window")) zu aktualisieren. Die Arbeiten an der Serie C begannen in den 1960er Jahren, bislang sind fünf Bände veröffentlicht. Eine Aktualisierung der Daten ist dringend erforderlich. Die letzten Updates einiger europäischer Bibliotheken erfolgten im Jahr 2001, die anderen Bände sind jedoch deutlich älter, sie stammen noch aus den 1970er und 1980er Jahren. Mit der Aktualisierung sollen die Daten zugleich als freie Online-Datenbank publiziert werden und so für Jedermann frei zugänglich sein.
+Die RISM Zentralredaktion arbeitet eng mit der Arbeitsgruppe [Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} der IAML zusammen, um die Daten der Serie C ([Directory of Music Research Libraries](/de/publikationen.html#c2620)) zu aktualisieren. Die Arbeiten an der Serie C begannen in den 1960er Jahren, bislang sind fünf Bände veröffentlicht. Eine Aktualisierung der Daten ist dringend erforderlich. Die letzten Updates einiger europäischer Bibliotheken erfolgten im Jahr 2001, die anderen Bände sind jedoch deutlich älter, sie stammen noch aus den 1970er und 1980er Jahren. Mit der Aktualisierung sollen die Daten zugleich als freie Online-Datenbank publiziert werden und so für Jedermann frei zugänglich sein.
 
 
 

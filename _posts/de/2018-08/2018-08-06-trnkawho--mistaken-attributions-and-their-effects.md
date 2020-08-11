@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Trnka_eb89ed8f73.png
 ---
 
 
-Dass es Musikbibliographen immer wieder Schwierigkeiten bereitet, Komponisten mit häufig auftretenden Namen auseinander zu halten, ist nicht verwunderlich, dafür, dass dies aber auch bei etwas selteneren Namen passiert, sei hier ein Beispiel aus der [RISM A/I](/de/publikationen.html#c36 "Opens internal link in current window")-Reihe (_Einzeldrucke bis 1800_) genommen.
+Dass es Musikbibliographen immer wieder Schwierigkeiten bereitet, Komponisten mit häufig auftretenden Namen auseinander zu halten, ist nicht verwunderlich, dafür, dass dies aber auch bei etwas selteneren Namen passiert, sei hier ein Beispiel aus der [RISM A/I](/de/publikationen.html#c36)-Reihe (_Einzeldrucke bis 1800_) genommen.
 
 Unter der RISM A/I Nummer T 1262 ([RISM ID no. 992002574](https://opac.rism.info/search?id=00000992002574){:target="_blank"}) finden sich 12 dreistimmige Kanons des Komponisten und Arztes Wenzel Trnka von Krzowitz (1739-1791).Dieser ist der Musikwissenschaft nicht unbekannt, da er unter anderem die musikalische Vorlage für den berühmt berüchtigten Kanon KV 233 (382d) schaffte (siehe dazu Wolfgang Plaths Aufsatz, in RISM unter [PlathT 1991](https://opac.rism.info/search?id=lit41000475){:target="_blank"} oder den [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Wenzel_Trnka_von_Krzowitz){:target="_blank"} zu Trnka). Im A/I Supplement-Band findet man dann auch noch 12 vierstimmige Kanons von jenem Trnka (TT 1262a; [RISM ID no. 991004429](https://opac.rism.info/search?id=00000991004429){:target="_blank"}).
 

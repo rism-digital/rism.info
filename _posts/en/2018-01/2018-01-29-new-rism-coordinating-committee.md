@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg
 ---
 
 
-RISM relies on its international partners and benefits from several structures in place to maintain a close relationship between RISM, its sponsoring societies, and its working groups. One of these bodies is the [Advisory Council](/organisation/international-partners.html "Opens internal link in current window"), whose membership includes all active RISM contributors around the world. Five members from Advisory Council form the Coordinating Committee, which is charged with facilitating communication between the working groups and the Zentralredaktion, conveying suggestions and requests between both sides, and encouraging conversation among the working groups.
+RISM relies on its international partners and benefits from several structures in place to maintain a close relationship between RISM, its sponsoring societies, and its working groups. One of these bodies is the [Advisory Council](/organisation/international-partners.html), whose membership includes all active RISM contributors around the world. Five members from Advisory Council form the Coordinating Committee, which is charged with facilitating communication between the working groups and the Zentralredaktion, conveying suggestions and requests between both sides, and encouraging conversation among the working groups.
 
 We are happy to announce that there are five new members of the Coordinating Committee:
 

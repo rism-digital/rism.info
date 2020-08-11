@@ -15,12 +15,12 @@ Other highlights from 2014:
 
 -
 
-The [CD-ROM data](/publications/cd-rom-publications-1995-2011.html "Opens internal link in current window") for series A/I ([Einzeldrucke vor 1800/Individual Prints before 1800](/publications.html "Opens internal link in current window")) were transferred to the RISM database and will be published in the RISM online catalog in early 2015.
+The [CD-ROM data](/publications/cd-rom-publications-1995-2011.html) for series A/I ([Einzeldrucke vor 1800/Individual Prints before 1800](/publications.html)) were transferred to the RISM database and will be published in the RISM online catalog in early 2015.
 
 
 -
 
-For volume B/I ([Recueils imprimés, XVIe-XVIIe siècles/Printed collections of the 16th-18th centuries](/publications.html "Opens internal link in current window")), Howard Mayer Brown had prepared a revision of the entries for sources published between 1500 and 1550. Instead of appearing in book form, the revisions are scheduled to be published in the online catalog in early 2015.
+For volume B/I ([Recueils imprimés, XVIe-XVIIe siècles/Printed collections of the 16th-18th centuries](/publications.html)), Howard Mayer Brown had prepared a revision of the entries for sources published between 1500 and 1550. Instead of appearing in book form, the revisions are scheduled to be published in the online catalog in early 2015.
 
 
 -

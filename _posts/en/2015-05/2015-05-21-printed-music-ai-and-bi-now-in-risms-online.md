@@ -13,12 +13,12 @@ RISM is pleased to announce a major addition to its [free online catalog](https:
 
 -
 
-The entire contents of [A/I,](/publications.html#c36 "Opens internal link in current window")_[Individual Prints before 1800](/publications.html#c36 "Opens internal link in current window")_
+The entire contents of [A/I,](/publications.html#c36)_[Individual Prints before 1800](/publications.html#c36)_
 Released on CD-ROM in 2012 and previously in 14 printed volumes
 
 -
 
-A portion of [B/I,](/publications.html#c2619 "Opens internal link in current window")_[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619 "Opens internal link in current window")_ (Printed collections of the 16th-17th centuries), covering the years 1500-1550
+A portion of [B/I,](/publications.html#c2619)_[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619)_ (Printed collections of the 16th-17th centuries), covering the years 1500-1550
 
 
 

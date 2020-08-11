@@ -19,7 +19,7 @@ Dass es sich auch lohnt spätere Auflagen für eine nähere Betrachtung zu nutze
 
 Das sind nur ein paar kleine Beispiele von dem, was es bei Verovio alles zu entdecken gibt. Gehen Sie doch auch auf Entdeckungstour, zu den meisten Drucken von Verovio gibt es Digitalisate. Bei der Sammlung _[Lodi della musica](https://opac.rism.info/search?id=993122166&View=rism&Language=en){:target="_blank"}_ (1595|6) sind es sogar drei Digitalisate bei gerade einmal vier bekannten Exemplaren.
 
-Heute gibt Verovio seinen Namen dem von der RISM-Schweiz entwickelten [modernen digitalen Werkzeug](http://www.verovio.org/index.xhtml){:target="_blank"} zur Darstellung der Notenschrift. Auch wenn Sie das Projekt nicht kennen, wissen Sie, was es kann: Mit Verovio werden die Musikincipts sowohl im RISM-Online-Katalog als auch in unserem internen Katalogisierungsprogramm[Muscat](/de/community/muscat.html "Opens internal link in current window") angezeigt.
+Heute gibt Verovio seinen Namen dem von der RISM-Schweiz entwickelten [modernen digitalen Werkzeug](http://www.verovio.org/index.xhtml){:target="_blank"} zur Darstellung der Notenschrift. Auch wenn Sie das Projekt nicht kennen, wissen Sie, was es kann: Mit Verovio werden die Musikincipts sowohl im RISM-Online-Katalog als auch in unserem internen Katalogisierungsprogramm[Muscat](/de/community/muscat.html) angezeigt.
 
 Wer mehr zu Verovio erfahren möchte, sei auf die üblichen Lexika und die neue Veröffentlichung von Auguste Campagne, [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"} (= Wiener Veröffentlichungen zur Musikgeschichte vol. 13), Wien 2018 (zitiert in RISM unter CampagneV 2018) verwiesen.
 

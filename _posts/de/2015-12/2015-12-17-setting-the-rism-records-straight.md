@@ -39,7 +39,7 @@ _Dank an Michael Talbot_
 
 Mit jeder Identifizierung können wir die Quellen “ihren” Komponisten “zurückgeben” und so die große Anzahl anonymer Werke in der Datenbank reduzieren.
 
-Haben Sie ein anonymes Werk identifiziert oder sind auf einen Fehler in unserer Datenbank gestoßen? Bitte teilen Sie es uns mit! Bitte vergessen Sie dabei nicht Belege für Ihre Identifikation – wie Verweise auf andere RISM-Quellen, Werkverzeichnisse, Bücher oder Artikerl – anzugeben. Senden Sie einfach eine Mail an [contact@rism.info](mailto:contact@rism.info) oder verwenden Sie unser[Formular](/de/service/feedback.html "Opens internal link in current window").
+Haben Sie ein anonymes Werk identifiziert oder sind auf einen Fehler in unserer Datenbank gestoßen? Bitte teilen Sie es uns mit! Bitte vergessen Sie dabei nicht Belege für Ihre Identifikation – wie Verweise auf andere RISM-Quellen, Werkverzeichnisse, Bücher oder Artikerl – anzugeben. Senden Sie einfach eine Mail an [contact@rism.info](mailto:contact@rism.info) oder verwenden Sie unser[Formular](/de/service/feedback.html).
 
 Bildnachweis:
 Auf der Rückseite einer Violinstimme aus Dresden steht diese bc-Stimme, die aber zu einem anderen Werk gehört [SLUB Dresden,](http://digital.slub-dresden.de/id335684513){:target="_blank"}[Mus.2-R-8,50](http://digital.slub-dresden.de/id335684513){:target="_blank"} (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}). Javier Lupiáñez Ruiz konnte diese bc-Stimme dem zweiten Satz des D-Dur-Violinkonzertes RV 205 von Antonio Vivaldi zuordnen.

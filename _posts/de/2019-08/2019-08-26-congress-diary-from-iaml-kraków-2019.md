@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg
 ---
 
 
-_RISM nahm an dem jährlichen [Kongress der International Association of Music Libraries, Archives and Documentation Centres](/de/publikationen/iaml-konferenzen/2019.html "Opens internal link in current window") in Krakau (Polen) teil._ _Im traditionellen Stil des_ _[Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} bieten wir Ihnen einige Eindrücke aus Krakau, wobei jeder Teilnehmer in seiner Muttersprache schreibt._
+_RISM nahm an dem jährlichen [Kongress der International Association of Music Libraries, Archives and Documentation Centres](/de/publikationen/iaml-konferenzen/2019.html) in Krakau (Polen) teil._ _Im traditionellen Stil des_ _[Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} bieten wir Ihnen einige Eindrücke aus Krakau, wobei jeder Teilnehmer in seiner Muttersprache schreibt._
 
 **Klaus Keil:**
 Dass der IAML Kongress diesmal in Krakov statt fand, war für mich eine besondere Freude. Vor mehr als 40 Jahren war ich schon einmal hier, erinnerte mich aber nur noch an das historisches Stadtzentrum, das damals noch weit von einem Touristenmagnet entfernt war.

@@ -32,7 +32,7 @@ _Thanks to Michael Talbot_
 
 With each identification, we "return" the sources to their composers and reduce the number of anonymous pieces in the database. Every identification helps!
 
-Have you identified an anonymous work or noticed something that needs to be corrected? Please let us know and we'll thank you in a later post! Be sure to include evidence to support your identification, such as other RISM records, catalogs of works, books, or articles. Simply send an e-mail to [contact@rism.info](mailto:contact@rism.info) or [fill out this form](/service/feedback.html "Opens internal link in current window").
+Have you identified an anonymous work or noticed something that needs to be corrected? Please let us know and we'll thank you in a later post! Be sure to include evidence to support your identification, such as other RISM records, catalogs of works, books, or articles. Simply send an e-mail to [contact@rism.info](mailto:contact@rism.info) or [fill out this form](/service/feedback.html).
 
 Image credit:
 Bc part of the second movement from Vivaldi's Violin Concerto in D major (RV 205), written on the back of the violin part to a different, anonymous sonata. [SLUB Dresden,](http://digital.slub-dresden.de/id335684513){:target="_blank"}[Mus.2-R-8,50](http://digital.slub-dresden.de/id335684513){:target="_blank"} (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}).

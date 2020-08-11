@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg
 ---
 
 
-Der folgende Beitrag stammt von _Dr. JeongYoun Chang ([RISM South Korea](http://ewha.kor.rism.info/index.php?id=531#c2385 "Opens internal link in current window")):_
+Der folgende Beitrag stammt von _Dr. JeongYoun Chang ([RISM South Korea](http://ewha.kor.rism.info/index.php?id=531#c2385)):_
 
 Bessie Lim (林培世, 1897-1999) war eine begabte Musikerin im frühen modernen Korea. Häufig war sie auf der Bühne zu sehen und ihr _Temperance Song_ (금주가/禁酒歌, 1918; RISM ID no. [1001064244](https://opac.rism.info/search?id=1001064244&View=rism){:target="_blank"}) entstand zu einer Zeit, in der Komponistinnen in Korea noch kaum zu hören waren. Sie war berühmt für ihre schöne Stimme und eines ihrer Lieder, ein _chansong-ga_ (찬송가/讚頌歌; eine Art Hymne), wurde in den 1920er und 1930er Jahren oft gesungen. Bevor sie in die USA ging, arbeitete Bessie Lim als Dozentin an der Ewha Haktang (이화학당/梨花學堂), wo sie zuvor studiert hatte. Abgesehen von diesen Details blieben weitere Informationen, wie exakte Lebensdaten, weitere Tätigkeiten und oder über ihr Leben im Ausland bislang im Dunkeln.
 

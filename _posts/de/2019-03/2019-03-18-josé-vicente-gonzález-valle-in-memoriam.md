@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg
 ---
 
 
-Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/de/workgroups/spain-barcelona-consejo-superior-de-investigaciones-cientificas-institucion-mila-y-fontanals-u-ei-musicologia/home.html "Opens internal link in current window") Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
+Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/de/workgroups/spain-barcelona-consejo-superior-de-investigaciones-cientificas-institucion-mila-y-fontanals-u-ei-musicologia/home.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
 
 José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissenschaftler, ein guter Organisator und ein lieber, freundlicher Herr. Mit RISM kam er während seines Studiums in München bei Theodor Göllner in Berührung. Unser damaliger Präsident, Dr. Harald Heckmann, schreibt in einem Bericht vom 23. Janaur 1990 an seine Vorstandskollegen:
 
@@ -19,7 +19,7 @@ José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissensc
 
 Diese Zitate mögen belegen, wie verdienstvoll José Vicente González Valle für RISM in Spanien gewirkt hat.
 
-Seit 2004 war Herr González Valle Mitglied des Vereins ["Internationales Quellenlexikon der Musik e.V."](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html "Opens internal link in current window") .
+Seit 2004 war Herr González Valle Mitglied des Vereins ["Internationales Quellenlexikon der Musik e.V."](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html) .
 
 Wir werden sein Andenken in Ehre bewahren.
 

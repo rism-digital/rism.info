@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Rueckblick_2016_a6956ec9f6.jpg
 ---
 
 
-2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](http://www.rism.info/de/home/newsdetails/article/64/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](http://www.rism.info/de/publikationen/latin-america-conference-2016.html "Opens internal link in current window") über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](http://www.rism.info/de/home/newsdetails/article/64/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
+2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](http://www.rism.info/de/home/newsdetails/article/64/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](http://www.rism.info/de/publikationen/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](http://www.rism.info/de/home/newsdetails/article/64/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
 
 Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die beliebtesten Nachrichten des letzten Jahres:
 
@@ -45,7 +45,7 @@ Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über
 
 
 **RISM-Publikationen**
-RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer Aktualisierung des eigenen Artikels in _Grove Music Online_. Eine ausführliche Liste finden Sie unter [RISM Bibliographie](/de/publikationen/bibliographie.html#c2606 "Opens internal link in current window").
+RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer Aktualisierung des eigenen Artikels in _Grove Music Online_. Eine ausführliche Liste finden Sie unter [RISM Bibliographie](/de/publikationen/bibliographie.html#c2606).
 
 
 

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg
 ---
 
 
-_The following has reached us from Sonia Wronkowska of [RISM Poland](/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland.html "Opens internal link in current window"):_
+_The following has reached us from Sonia Wronkowska of [RISM Poland](/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland.html):_
 
 The workshop “Introduction to Kallisto” and a RISM seminar took place at the beginning of February in Warsaw, and was organised by the Polish RISM Centre (Music Department) and the Librarian Education Department of the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"}. Sonia Wronkowska and Guido Kraus conducted the workshop.
 

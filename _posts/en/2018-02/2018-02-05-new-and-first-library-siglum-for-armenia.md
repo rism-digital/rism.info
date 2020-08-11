@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Armenien_Sigel_f5ba135e79.jpg
 ---
 
 
-At RISM we [regularly receive requests](http://www.rism.info/en/home/newsdetails/browse/1/select/electronic_resources/article/47/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/sigla.html "Opens internal link in current window") to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
+At RISM we [regularly receive requests](http://www.rism.info/en/home/newsdetails/browse/1/select/electronic_resources/article/47/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/sigla.html) to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
 
 There is now an official RISM siglum for this institution: **ARM-Yakm**
 

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg
 ---
 
 
-_The following post is by TSENG Tzu-Chia from the RISM working group [Chinese Language Region](/workgroups/chinese-language-region/home.html "Opens internal link in current window"):_
+_The following post is by TSENG Tzu-Chia from the RISM working group [Chinese Language Region](/workgroups/chinese-language-region/home.html):_
 
 **2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”**
 

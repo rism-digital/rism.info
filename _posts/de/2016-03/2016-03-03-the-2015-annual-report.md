@@ -13,7 +13,7 @@ Das letzte Jahr war ein ereignisreiches für RISM, wie der kürzlich veröffentl
 
 Hier einige Highlights aus dem Jahresbericht, dessen ausführliche Fassung Sie auf der [RISM Webseite](/de/publikationen/jahresberichte/2015.html "Öffnet internen Link im aktuellen Fenster") nachlesen können.
 
-- **Über eine Million Einträge** : Ein großer Datenimport von über 100.000 Titeln hat die RISM-Datenbank um die historischen Notendrucke aus der Serie [_A/I: Einzeldrucke vor_ _1800_](/de/publikationen.html#c36 "Opens internal link in current window") (vormals als CD-ROM) und [B/I: _Recueils imprimés, XVIe-XVIIe siècles_](/de/publikationen.html#c2619 "Opens internal link in current window") (Sammeldrucke des 16. und 17. Jahrhunderts), die Jahre 1500-1550 umfassend, angereichert. Die Ländergruppen und Bibliotheken werden ab dem Sommer die Gelegenheit bekommen, Korrekturen und neue Informationen zu ergänzen. RISM arbeitet derzeit noch an der Konvertierung der Daten von B/I (Restbestand 1551-1699) und B/II (18. Jahrhundert) zur Einführung in die Datenbank.
+- **Über eine Million Einträge** : Ein großer Datenimport von über 100.000 Titeln hat die RISM-Datenbank um die historischen Notendrucke aus der Serie [_A/I: Einzeldrucke vor_ _1800_](/de/publikationen.html#c36) (vormals als CD-ROM) und [B/I: _Recueils imprimés, XVIe-XVIIe siècles_](/de/publikationen.html#c2619) (Sammeldrucke des 16. und 17. Jahrhunderts), die Jahre 1500-1550 umfassend, angereichert. Die Ländergruppen und Bibliotheken werden ab dem Sommer die Gelegenheit bekommen, Korrekturen und neue Informationen zu ergänzen. RISM arbeitet derzeit noch an der Konvertierung der Daten von B/I (Restbestand 1551-1699) und B/II (18. Jahrhundert) zur Einführung in die Datenbank.
 
 -
 
@@ -47,14 +47,14 @@ Hier einige Highlights aus dem Jahresbericht, dessen ausführliche Fassung Sie a
 
 - **Serie C** : RISM arbeitet mit der IAML Arbeitsgruppe[Access to Music Archives (AMA)](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} zur Überarbeitung der Serie C, Directory of Music Research Libraries zusammen, die als Online-Datenbank angeboten werden soll.
 
-- **RISM-Kurzporträt** : Eine neue aktualisierte Fassung der Broschüre [RISM-Kurzporträt](/de/publikationen/broschueren.html "Opens internal link in current window") (englisch-deutsch) wurde 2015 herausgegeben. Es kann von der Webseite heruntergeladen werden. Gedruckte Exemplare können kostenlos über die Zentralredaktion bezogen. Eine englisch-russische Version ist auch verfügbar.
+- **RISM-Kurzporträt** : Eine neue aktualisierte Fassung der Broschüre [RISM-Kurzporträt](/de/publikationen/broschueren.html) (englisch-deutsch) wurde 2015 herausgegeben. Es kann von der Webseite heruntergeladen werden. Gedruckte Exemplare können kostenlos über die Zentralredaktion bezogen. Eine englisch-russische Version ist auch verfügbar.
 
 
 Und wie immer:
 
 -
 
-**Korrekturhinweise willkommen** : Die Zentralredaktion erhält mehr und mehr Vorschläge und Korrekturen unserer Nutzer. Wenn Sie etwas finden, das korrigiert werden sollte,[teilen Sie es uns bitte mit](/de/service/feedback.html "Opens internal link in current window").
+**Korrekturhinweise willkommen** : Die Zentralredaktion erhält mehr und mehr Vorschläge und Korrekturen unserer Nutzer. Wenn Sie etwas finden, das korrigiert werden sollte,[teilen Sie es uns bitte mit](/de/service/feedback.html).
 
 
 -

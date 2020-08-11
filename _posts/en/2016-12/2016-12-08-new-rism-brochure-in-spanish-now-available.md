@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Broschuere_Spanisch_bc0742d113.jpg
 
 
 
-RISM is pleased to announce that the brochure "RISM: An Overview" is now available in an English-Spanish version entitled "RISM: Presentación general." It can be downloaded [from the RISM website](/publications/brochures.html "Opens internal link in current window").
+RISM is pleased to announce that the brochure "RISM: An Overview" is now available in an English-Spanish version entitled "RISM: Presentación general." It can be downloaded [from the RISM website](/publications/brochures.html).
 
 If you want professionally printed copies of the brochure, also at no charge, please contact us: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email"). Let us know how many you want. Feel free to request some copies to share with your colleagues, other staff or faculty members, and students.
 

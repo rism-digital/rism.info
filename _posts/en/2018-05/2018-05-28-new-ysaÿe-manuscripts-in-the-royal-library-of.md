@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Ysaye_manuscripts_KBR_De_Baerdemacker_Belgium_b5
 ---
 
 
-_We have received the following from Kris De Baerdemacker of [RISM Belgium](/workgroups/belgium-rism-belgium.html "Opens internal link in current window") and the [Koninklijke Bibliotheek van België, Muziekafdeling - Bibliothèque royale de Belgique, Section de la Musique](http://www.kbr.be){:target="_blank"}:_
+_We have received the following from Kris De Baerdemacker of [RISM Belgium](/workgroups/belgium-rism-belgium.html) and the [Koninklijke Bibliotheek van België, Muziekafdeling - Bibliothèque royale de Belgique, Section de la Musique](http://www.kbr.be){:target="_blank"}:_
 
 The Music Division of the Royal Library of Belgium has recently acquired three Eugène Ysaÿe manuscripts: the autograph score _Poème élégiaque_ arranged for two pianos, the complete score _Étude-Poème_ op. 9 and the autograph score of _Petite fantaisie romantique_. These manuscripts shed some new light on the existing sources of the fonds Eugène Ysaÿe. Until now, only the violin part of the _Etude Poème_ was known and the only source of the _Petite fantaisie romantique_ was a photocopy.
 

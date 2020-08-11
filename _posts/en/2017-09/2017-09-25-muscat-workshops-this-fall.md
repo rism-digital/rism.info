@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_muscat_03_df0154796c.png
 ---
 
 
-[Muscat](/community/muscat.html "Opens internal link in current window"), RISM's specialized software for cataloging musical sources, now has nearly 200 users. We continue to gain new contributors each month. Workshops are important ways of introducing contributors to the fundamentals of cataloging with RISM. This fall, four workshops will take place in three countries:
+[Muscat](/community/muscat.html), RISM's specialized software for cataloging musical sources, now has nearly 200 users. We continue to gain new contributors each month. Workshops are important ways of introducing contributors to the fundamentals of cataloging with RISM. This fall, four workshops will take place in three countries:
 
 **Muscat Workshop at the [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/){:target="_blank"}**
 

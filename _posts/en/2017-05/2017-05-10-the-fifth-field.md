@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Fifth_Field_card_01_d2af8ba1fa.png
 
 Here's a trick to help you get more out of searching in the [RISM online catalog](https://opac.rism.info/){:target="_blank"}. You might not have even noticed it before.
 
-In our [online survey](/community/survey-2014-2015.html "Opens internal link in current window"), we heard from many of you that you wish you could add more search fields in the [Advanced search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}. Well, you can, in a way—through the Fifth Field.
+In our [online survey](/community/survey-2014-2015.html), we heard from many of you that you wish you could add more search fields in the [Advanced search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}. Well, you can, in a way—through the Fifth Field.
 
 If you start an advanced search, you have three fields plus the field that is controlled by the keyboard for incipits.
 

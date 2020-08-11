@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg
 
 _The following has reached us from Park Jeong Suk (Ewha Womans University):_
 
-As the South Korea branch of [IAML](http://www.iaml.info/national-branches/south-korea){:target="_blank"} and [RISM](http://ewha.kor.rism.info/index.php?id=531 "Opens internal link in current window"), the EMRI ([Ewha Music Research Institute](http://my.ewha.ac.kr/musicieen/){:target="_blank"}) organized an international conference entitled “Keeping Music Alive: Women Composers in Digital Music Archives” on October 27 and 28, 2017.
+As the South Korea branch of [IAML](http://www.iaml.info/national-branches/south-korea){:target="_blank"} and [RISM](http://ewha.kor.rism.info/index.php?id=531), the EMRI ([Ewha Music Research Institute](http://my.ewha.ac.kr/musicieen/){:target="_blank"}) organized an international conference entitled “Keeping Music Alive: Women Composers in Digital Music Archives” on October 27 and 28, 2017.
 
 The EMRI has collected and digitally archived East Asian music educational materials and musicians/composers since 2011 as a part of research projects funded by NRF (National Research Foundation) of Korea. During the last three years of the project, the data has been categorized into historical periods, genres, and composers from each country, and can be found in our new database, EMDB II (East-Asian Music Database). In the process, it was found that women’s roles as teachers and composers in the early period of modernization process were much greater in forming our current contemporary music-scape than first thought.
 

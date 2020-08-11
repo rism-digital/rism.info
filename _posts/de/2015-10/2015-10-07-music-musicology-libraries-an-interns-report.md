@@ -31,7 +31,7 @@ Martina Falletta ermöglichte mir zudem Besuche in der Bibliothek der [Frankfurt
 
 
 
-Ein ganz aktuelles Projekt in der RISM-Zentralredaktion ist die Auswertung der [Nutzerumfrage](/de/community/rism-nutzerstudie.html "Opens internal link in current window"), die im vergangenen Winter/Frühjahr erstellt wurde. Neben der Anfertigung einer Liste mit technischen Verbesserungen für den RISM-OPAC, die von Nutzern in der Umfrage gewünscht wurden, bereiteten wir im Team einen Vortrag über erste Ergebnisse und Veränderungen vor. Dieser wurde von Martina Falletta und Jennifer Ward im Rahmen der [AIBM-Jahrestagung](http://www.aibm.info/tagungen/2015-stuttgart/vortragsfolien_aibm2015/){:target="_blank"} am 23. September 2015 in Stuttgart vorgetragen und erhielt dort sehr positive Resonanz.
+Ein ganz aktuelles Projekt in der RISM-Zentralredaktion ist die Auswertung der [Nutzerumfrage](/de/community/rism-nutzerstudie.html), die im vergangenen Winter/Frühjahr erstellt wurde. Neben der Anfertigung einer Liste mit technischen Verbesserungen für den RISM-OPAC, die von Nutzern in der Umfrage gewünscht wurden, bereiteten wir im Team einen Vortrag über erste Ergebnisse und Veränderungen vor. Dieser wurde von Martina Falletta und Jennifer Ward im Rahmen der [AIBM-Jahrestagung](http://www.aibm.info/tagungen/2015-stuttgart/vortragsfolien_aibm2015/){:target="_blank"} am 23. September 2015 in Stuttgart vorgetragen und erhielt dort sehr positive Resonanz.
 
 
 

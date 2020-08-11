@@ -25,7 +25,7 @@ Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](ht
 
 
 
-Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/development/rism-sigla-directory.html "Opens internal link in current window").
+Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/development/rism-sigla-directory.html).
 
 Mexico is represented the most with 28 library sigla, followed by Brazil with 17 and Cuba with 12.
 

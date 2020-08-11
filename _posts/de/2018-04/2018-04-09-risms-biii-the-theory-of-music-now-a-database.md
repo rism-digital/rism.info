@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Meyer_RISM_B_III_Einsiedeln_79_p12_fbcc8ed540.jp
 
 _Diesen Beitrag erhielten wir von unserem Kollegen Christian Meyer:_
 
-Die in der RISM Serie B/III ([The Theory of Music](/de/publikationen.html#c2619 "Opens internal link in current window"), 6 Bände, München: G. Henle, 1961-2003) beschriebenen Kataloge der Handschriften wurden 2001 durch das Lexicon musicum Latinum (LML) online veröffentlicht und sind jetzt [als Datenbank verfügbar](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.
+Die in der RISM Serie B/III ([The Theory of Music](/de/publikationen.html#c2619), 6 Bände, München: G. Henle, 1961-2003) beschriebenen Kataloge der Handschriften wurden 2001 durch das Lexicon musicum Latinum (LML) online veröffentlicht und sind jetzt [als Datenbank verfügbar](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.
 
 Die HTML-Seiten und die in pdf-Form vorliegenden Transkriptionen der Texte wurden im Herbst 2017 revidiert, veröffentlicht und aktualisiert. Sie sind nun über die Webseite [Musmed.fr](http://musmed.fr/RISM/rismindex01.htm){:target="_blank"} einsehbar.
 

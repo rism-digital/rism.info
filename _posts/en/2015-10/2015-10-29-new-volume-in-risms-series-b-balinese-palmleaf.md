@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_B_XVI-Bali_a84ebf0c97.jpg
 ---
 
 
-RISM announces the newest volume in its [publication series B](/publications.html#c2619 "Opens internal link in current window"), which presents bibliographies of musical sources organized by topic:
+RISM announces the newest volume in its [publication series B](/publications.html#c2619), which presents bibliographies of musical sources organized by topic:
 
 Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](http://henle.de/de/detail/index.html?Titel=Catalogue+raisonn%C3%A9+of+the+Balinese+Palm-Leaf+Manuscripts+with+Music+Notation_2530){:target="_blank"}_. RISM B/XVI. Munich: Henle, 2015. 309 p. ISBN 978-3-87328-155-4
 

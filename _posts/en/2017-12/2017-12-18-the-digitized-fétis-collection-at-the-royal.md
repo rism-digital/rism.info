@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Fetis_KBR_Monteverdi_Phalesius_cover_45f64f7b11.
 ---
 
 
-_We have received this announcement from Kris De Baerdemacker ([RISM Belgium](/workgroups/belgium-rism-belgium/home.html "Opens internal link in current window")/[Royal Library of Belgium](https://www.kbr.be/){:target="_blank"}):_
+_We have received this announcement from Kris De Baerdemacker ([RISM Belgium](/workgroups/belgium-rism-belgium/home.html)/[Royal Library of Belgium](https://www.kbr.be/){:target="_blank"}):_
 
 The Royal Library of Belgium (B-Br) has recently digitized over 1,000 sources from the Fétis collection (more information in [French](https://www.kbr.be/fr/fonds-francois-joseph-fetis){:target="_blank"} and [Dutch](https://www.kbr.be/nl/fonds-francois-joseph-fetis){:target="_blank"}). Old prints from his music library are now available online and include treatises on music theory, masses (Jacobus Obrecht, Alexander Agricola), motets (Giaches de Wert, Pierre de la Rue, Nicolas Gombert), madrigals (Adriaan Willaert, Philippus de Monte), operas by Monteverdi, Peri, Händel, Lully, Gluck, Grétry, catalogs of music publishers, libretti and much more. This is part of a larger project to entirely digitize the Fétis collection and new items will be added. Over [1,300 links](https://opac.rism.info/search?View=rism&siglum=B-Br&Language=en){:target="_blank"} have been added to printed editions in RISM (A/I and B/I) so far.
 

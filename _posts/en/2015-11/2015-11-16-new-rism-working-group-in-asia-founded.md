@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg
 
 RISM is delighted to announce that a new working group in Asia has been founded.
 
-The working group [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html "Opens internal link in current window") was planned at a conference concerning the [Collaborative Project on Chinese Music Resources (CPCMR)](http://www.rism.info/en/home/newsdetails/article/64/rism-conference-in-taiwan.html){:target="_blank"} held in October 2015, which RISM director Klaus Keil attended. CPCMR was launched to promote the collection of Chinese music literature, to develop technical standards for processing the archive, and to ultimately establish a collaborative network for resource sharing.
+The working group [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html) was planned at a conference concerning the [Collaborative Project on Chinese Music Resources (CPCMR)](http://www.rism.info/en/home/newsdetails/article/64/rism-conference-in-taiwan.html){:target="_blank"} held in October 2015, which RISM director Klaus Keil attended. CPCMR was launched to promote the collection of Chinese music literature, to develop technical standards for processing the archive, and to ultimately establish a collaborative network for resource sharing.
 
 Membership includes the following institutions and representatives:
 
@@ -22,7 +22,7 @@ Membership includes the following institutions and representatives:
 
 In addition, Dr. Nora Yeh (former archivist of the American Folklife Center, Library of Congress) and Prof. Judy Tsou (University of Washington) have been invited to serve as international advisers and Dr. CHANG Hok-yan (Hong Kong Central Library) will also be a liaison.
 
-RISM-Chinese Language Region joins [RISM Japan](/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html "Opens internal link in current window") and [RISM South Korea](http://ewha.kor.rism.info/index.php?id=531 "Opens internal link in current window") in documenting music sources in Asia. We are looking forward to working together with our new colleagues in Chinese-speaking Asia.
+RISM-Chinese Language Region joins [RISM Japan](/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html) and [RISM South Korea](http://ewha.kor.rism.info/index.php?id=531) in documenting music sources in Asia. We are looking forward to working together with our new colleagues in Chinese-speaking Asia.
 
 Photo: From left to right are WU Xu, HO Wing,Natalia Keil-Senserowa, Klaus Keil, HUANG Chun-Zen, Hyan Kyang Chae, Alan Thrasher, YANG Yandi,CHANGHok-yan, Nora YEH, WANG Ying-Fen, and HAN Bin.
 

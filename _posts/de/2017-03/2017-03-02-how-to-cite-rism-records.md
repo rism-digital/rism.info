@@ -38,7 +38,7 @@ Die RISM-Nummer kann aus neun oder mehr Ziffern bestehen, manchmal mit vorangest
 
 Verwenden Sie die RISM-Nummer unabhängig vom Quellentyp: Handschrift, Notendruck, Theoretikum oder Liberetto.
 
-**A/I und B/I Nummern:** Die Quellennachweise der Serien A/I (_[Einzeldrucke vor 1800](/de/publikationen.html#c41 "Opens internal link in current window")_) und B/I ([Sammeldrucke](/de/publikationen.html#c2619 "Opens internal link in current window"), gegenwärtig aus dem Zeitraum 1500-1550), die ursprünglich aus den gedruckten Publikationen stammen, haben ihre eigenen – immer noch gültigen – Kürzel sowie eine neunstellige Nummer des elektronischen Katalogs. Wenn Sie eine A/I oder B/I Nummer zitieren möchten, kombinieren Sie bitte den Seriennamen mit Buchstabe und Ziffern:
+**A/I und B/I Nummern:** Die Quellennachweise der Serien A/I (_[Einzeldrucke vor 1800](/de/publikationen.html#c41)_) und B/I ([Sammeldrucke](/de/publikationen.html#c2619), gegenwärtig aus dem Zeitraum 1500-1550), die ursprünglich aus den gedruckten Publikationen stammen, haben ihre eigenen – immer noch gültigen – Kürzel sowie eine neunstellige Nummer des elektronischen Katalogs. Wenn Sie eine A/I oder B/I Nummer zitieren möchten, kombinieren Sie bitte den Seriennamen mit Buchstabe und Ziffern:
 
 -
 

@@ -13,7 +13,7 @@ Mit dieser Hilfestellung können Sie Ihre Suchergebnisse im [RISM Online-Katalog
 
 
 
-In unserer [Nutzerumfrage](/de/community/rism-nutzerstudie.html "Opens internal link in current window") wurde oft der Wunsch geäußert, in der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} mehr Felder für eine Suche zu kombinieren. Sie können dies mit Hilfe des fünften Feldes.
+In unserer [Nutzerumfrage](/de/community/rism-nutzerstudie.html) wurde oft der Wunsch geäußert, in der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} mehr Felder für eine Suche zu kombinieren. Sie können dies mit Hilfe des fünften Feldes.
 
 Wenn Sie die Erweiterte Suche starten, stehen Ihnen drei Suchschlitze und jener für die Incipitsuche über die virtuelle Klaviatur zur Verfügung.
 

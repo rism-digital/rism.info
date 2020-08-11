@@ -17,12 +17,12 @@ Einige Höhepunkte des Jahres 2014:
 
 -
 
-Die [CD-ROM Daten](/de/publikationen/cd-rom-publikationen-1995-2011.html "Opens internal link in current window") der Serie A/I ([Einzeldrucke vor 1800](/de/publikationen.html "Opens internal link in current window")) wurden in die RISM-Datenbank übertragen und werden voraussichtlich im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
+Die [CD-ROM Daten](/de/publikationen/cd-rom-publikationen-1995-2011.html) der Serie A/I ([Einzeldrucke vor 1800](/de/publikationen.html)) wurden in die RISM-Datenbank übertragen und werden voraussichtlich im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
 
 
 -
 
-Für den Band B/I ([Recueils imprimés XVIe-XVIIe siècles)](/de/publikationen.html "Opens internal link in current window") hat Howard Mayer Brown eine Überarbeitung vorbereitet, die die Einträge zu den zwischen 1500 und 1550 publizierten Quellen betrifft. Diese Revision wird nicht in Buchform erscheinen, sondern ebenfalls im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
+Für den Band B/I ([Recueils imprimés XVIe-XVIIe siècles)](/de/publikationen.html) hat Howard Mayer Brown eine Überarbeitung vorbereitet, die die Einträge zu den zwischen 1500 und 1550 publizierten Quellen betrifft. Diese Revision wird nicht in Buchform erscheinen, sondern ebenfalls im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
 
 
 -

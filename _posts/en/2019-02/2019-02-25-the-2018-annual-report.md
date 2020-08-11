@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_13_79e5642f46.jpg
 ---
 
 
-The 2018 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2018.html "Opens internal link in current window"). Here are some of the highlights:
+The 2018 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2018.html). Here are some of the highlights:
 
 **Total records** : Our contributors from all over the world have worked hard this past year to catalog music manuscripts, printed editions, treatises, and libretti. The[RISM catalog](https://opac.rism.info/){:target="_blank"} currently has 1,115,800 records for musical sources.
 
@@ -27,13 +27,13 @@ On average, the online catalog was visited by about 8,683 people per month over 
 
 **Links to digitized music** : In the online catalog, you can get direct access to images of the sources through links to digitized music: either limit before your search ([Advanced search](https://opac.rism.info/index.php?id=3){:target="_blank"} --\> **Digital copies only** checkbox) or filter your results ( **Narrow results** --\> **Digitized music** ). There are currently ca. 57,000 such links available.
 
-**Muscat** : [RISM's cataloging program Muscat](/community/muscat.html "Opens internal link in current window") is running to the full satisfaction of its users. As a matter of course, it is continuously being developed, leading to new, smaller releases nearly every month. Muscat is developed and maintained through a partnership between the RISM Zentralredaktion and [RISM Switzerland](http://rism-ch.org/){:target="_blank"}, whose contribution to Muscat is supported by the Swiss National Science Foundation.
+**Muscat** : [RISM's cataloging program Muscat](/community/muscat.html) is running to the full satisfaction of its users. As a matter of course, it is continuously being developed, leading to new, smaller releases nearly every month. Muscat is developed and maintained through a partnership between the RISM Zentralredaktion and [RISM Switzerland](http://rism-ch.org/){:target="_blank"}, whose contribution to Muscat is supported by the Swiss National Science Foundation.
 
 Muscat is a platform-independent, web-based, open-source program. As such, it can be adapted to the needs of other projects so that the reuse of RISM data for scholarly projects can be made considerably easier. Concrete projects will try this out in 2019.
 
 **Social media** : RISM is active on [Facebook](https://www.facebook.com/pages/RISM-R%C3%A9pertoire-International-des-Sources-Musicales/103775449663308){:target="_blank"} and [Twitter](https://twitter.com/RISM_music){:target="_blank"}. A new article on RISM was added to [Wikipedia in Catalan](https://ca.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}. (Thank you, whoever that was!)
 
-**Articles mentioning RISM** : The RISM project continues to be presented, referenced, and described in publications, including newspapers, scholarly journals, and research articles. Please look at the [up-to-date bibliography here](/publications/bibliography.html "Opens internal link in current window").
+**Articles mentioning RISM** : The RISM project continues to be presented, referenced, and described in publications, including newspapers, scholarly journals, and research articles. Please look at the [up-to-date bibliography here](/publications/bibliography.html).
 
 **And, as always**
 :

@@ -13,7 +13,7 @@ RISM will be hosting a conference entitled Documenting Musical Sources in Latin 
 
 RISM has invited speakers from Latin America to share information about the state of musical sources in their countries. The conference is free and open to the public.
 
-Please see the program on [RISM's conference page](/publications/sources-in-latin-america-2016.html "Opens internal link in current window").
+Please see the program on [RISM's conference page](/publications/sources-in-latin-america-2016.html).
 
 _Image_: Latin America, taken by NASA, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Latin_America_terrain.jpg){:target="_blank"}
 

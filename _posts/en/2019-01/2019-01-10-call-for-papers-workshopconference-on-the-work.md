@@ -21,6 +21,6 @@ If you would like to contribute a presentation or paper on this topic, please su
 
 The conference will take place at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/startseite.html){:target="_blank"} in Mainz, Germany from May 9 to 11, 2019. RISM will make every effort to provide a subsidy for speakers to participate in the conference.
 
-Information will be posted on the [Conference Website](/publications/introducing-a-work-level-in-rism-2019.html "Opens internal link in current window").
+Information will be posted on the [Conference Website](/publications/introducing-a-work-level-in-rism-2019.html).
 
 <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
