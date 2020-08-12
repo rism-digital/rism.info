@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Odoevsky_vladimir_a87e8cb696.jpg
 ---
 
 
-Heute setzen wir unsere russische Woche (siehe auch den Post vom Montag zu [John Field in St. Petersburg](http://www.rism.info/de/home/newsdetails/article/2/john-fields-piano-nocturnes.html){:target="_blank"}) mit Buchstabe O der Reihe RISM-Abc fort und berichten über eine große Persönlichkeit des russischen Musik- und Kulturlebens im 19. Jahrhundert.
+Heute setzen wir unsere russische Woche (siehe auch den Post vom Montag zu [John Field in St. Petersburg](/self_representation/2017/09/11/john-fields-piano-nocturnes.html){:target="_blank"}) mit Buchstabe O der Reihe RISM-Abc fort und berichten über eine große Persönlichkeit des russischen Musik- und Kulturlebens im 19. Jahrhundert.
 
 Schriftsteller, Philosoph, Komponist, Kopist, Musikkritiker, Organologe, Lexikograph, Museumsdirektor, Bibliotheksvizedirektor und vieles mehr war Fürst Vladimir Fëdorovič Odoevskij (1803-1869), ein Vertreter der Russischen Romantik mit großem Einfluss auf die russische Kultur. Als Schriftsteller galt er als der „russische Hoffmann“. Er verfasste neben Kinderliteratur phantastische utopistische Novellen, Poweste, in denen z. B. Johann Sebastian Bach und Ludwig van Beethoven im Mittelpunkt standen, satirisch-ironische Erzählungen etc.
 

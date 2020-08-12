@@ -21,7 +21,7 @@ Die ungarische Website beschreibt die Hintergründe der Entdeckung:
 
 Für weitere Information wenden Sie sich bitte an Balázs Mikusi ([mikusi@oszk.hu](mailto:mikusi@oszk.hu)).
 
-Das neu entdeckte Manuskript ist bereits in einer modernen Edition berücksichtigt und im Henle Verlag publiziert worden. Unser RISM Präsident, Wolf-Dieter Seiffert berichtet davon in unserem Artikel "[Die Musikwelt wird staunen](http://www.rism.info/de/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html){:target="_blank"}," Juni 2015).
+Das neu entdeckte Manuskript ist bereits in einer modernen Edition berücksichtigt und im Henle Verlag publiziert worden. Unser RISM Präsident, Wolf-Dieter Seiffert berichtet davon in unserem Artikel "[Die Musikwelt wird staunen](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html){:target="_blank"}," Juni 2015).
 
 CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html#sthash.Riy1rxGi.dpuf)
 

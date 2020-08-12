@@ -13,7 +13,7 @@ Bevor wir weiter ins Jahr 2015 vorrücken, lassen Sie uns einen Blick zurück au
 
 Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren Websitestatistiken):
 
-1. [Neue Version des RISM Online-Katalogs](http://www.rism.info/de/home/newsdetails/article/64/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [Neue Version des RISM Online-Katalogs](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 
 
@@ -21,39 +21,39 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 1.
 
-[Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt](http://www.rism.info/de/home/newsdetails/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html){:target="_blank"}(unser Aprilscherz)
+[Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"}(unser Aprilscherz)
 
 2.
 
-[Mozart: Neue Dokumente](http://www.rism.info/de/home/newsdetails/article/64/mozart-new-documents.html){:target="_blank"}
+[Mozart: Neue Dokumente](/electronic_resources/2014/09/18/mozart-new-documents.html){:target="_blank"}
 
 3.
 
-[Das älteste Klavier der Welt](http://www.rism.info/de/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"}
+[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}
 
 4.
 
-[Niccolò Jommelli wiederentdeckt: Internationaler Preis für einen Aufsatz über ein an der Nationalbibliothek Portugal vorhandenen Autograph](http://www.rism.info/de/home/newsdetails/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html){:target="_blank"}
+[Niccolò Jommelli wiederentdeckt: Internationaler Preis für einen Aufsatz über ein an der Nationalbibliothek Portugal vorhandenen Autograph](/rediscovered/2014/11/17/niccolò-jommelli-rediscovered-international-award.html){:target="_blank"}
 
 5.
 
-[Ein Abend mit Musik aus Irland](http://www.rism.info/de/home/newsdetails/article/64/an-evening-of-irish-music.html){:target="_blank"}
+[Ein Abend mit Musik aus Irland](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}
 
 6.
 
-[Légende norvégienne: Unbekanntes Werk des belgischen Violinisten und Komponisten Eugène Ysaÿe in der königlichen Bibliothek von Belgien](http://www.rism.info/de/home/newsdetails/article/64/legende-norvegienne-unknown-work-by-the-belgian-violinist-and-composer-eugene-ysaye-at-the-roya.html){:target="_blank"}
+[Légende norvégienne: Unbekanntes Werk des belgischen Violinisten und Komponisten Eugène Ysaÿe in der königlichen Bibliothek von Belgien](/rediscovered/2014/04/11/légende-norvégienne-unknown-work-by-the-belgian.html){:target="_blank"}
 
 7.
 
-[RISM auf der AIBM-Tagung](http://www.rism.info/de/home/newsdetails/article/64/rism-at-the-aibm-conference.html){:target="_blank"}
+[RISM auf der AIBM-Tagung](/events/2014/10/20/rism-at-the-aibm-conference.html){:target="_blank"}
 
 8.
 
-[Coordinating Committee neu gewählt](http://www.rism.info/de/home/newsdetails/article/64/new-coordinating-committee-elected.html){:target="_blank"}
+[Coordinating Committee neu gewählt](/self_representation/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
 
 9.
 
-[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](http://www.rism.info/de/home/newsdetails/select/rediscovered/article/2/vivaldi-embedded.html){:target="_blank"}
+[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
 
 Diese Liste hebt auch die Arbeit von unseren Kollegen in verschiedenen Ländern hervor: Belgien, Deutschland, Irland, Portugal und das Vereinigte Königreich
 

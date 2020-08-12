@@ -12,18 +12,18 @@ image: /uploads/_processed_/csm_2017_Rueckblick_ed5d67ebed.jpg
 Letztes Jahr haben wir Ihnen zahlreiche Neuigkeiten aus der Welt der Musikquellen mitgeteilt: Neuentdeckungen, Wiederentdeckungen, neue Ressourcen und vieles mehr. Werfen wir einen Blick auf die beliebtesten Nachrichten des Jahres 2017:[
 ](/self_representation/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}
 
-1. [Jubliäen 2017](http://www.rism.info/de/home/newsdetails/article/64/musical-anniversaries-in-2017.html){:target="_blank"}: Es freut uns, dass es Ihnen gefallen hat, daher [hier die Ausgabe für 2018](http://www.rism.info/de/home/newsdetails/article/2/musical-anniversaries-in-2018.html){:target="_blank"}.
-2. [Musikhandschriften von Karl Friedrich Abel in Polen gefunden](http://www.rism.info/de/home/newsdetails/select/rediscovered/article/64/karl-friedrich-abel-manuscript-found-in-poland.html){:target="_blank"} von Sonia Wronkowska
-3. [Eine weitere Fehlzuschreibung (und Wiederentdeckung) zu Vivaldi in Dresden](http://www.rism.info/de/home/newsdetails/select/rism_online_catalog/article/2/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html){:target="_blank"} von Michael Talbot
-4. [Eine bisher unbekannte Lautentabulatur](http://www.rism.info/de/home/newsdetails/article/64/a-previously-unknown-lute-tablature.html){:target="_blank"} von Dieter Kirsch
-5. [Barbara Strozzi: eine venezianische Komponistin des 17. Jahrhunderts](http://www.rism.info/de/home/newsdetails/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html){:target="_blank"} von Vivian Tompkins
-6. [Die digitalisierte Fétis-Sammlung in der Königlichen Bibliothek von Belgien](http://www.rism.info/de/home/newsdetails/article/2/the-digitized-fetis-collection-at-the-royal-library-of-belgium.html){:target="_blank"} von Kris De Baerdemacker. _Nicht schlecht für einen Artikel, den wir vor knapp einem Monat veröffentlichten!_
-7. [Verzeichnis der Werke Giovanni Pierluigi da Palestrinas: Ein neues Projekt](http://www.rism.info/de/home/newsdetails/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html){:target="_blank"} von Carola Finkel
-8. [Eine neue Komponistin ist geboren](http://www.rism.info/de/home/newsdetails/article/64/a-new-woman-composer-is-born.html){:target="_blank"} von Nina Eichholz
-9. [Die Oboe: Instrument des Jahres](http://www.rism.info/de/home/newsdetails/article/189/the-oboe-instrument-of-the-year.html){:target="_blank"}
-10. [Acht weitere Komponistinnen](http://www.rism.info/de/home/newsdetails/article/64/eight-more-women-composers.html){:target="_blank"}
+1. [Jubliäen 2017](/self_representation/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}: Es freut uns, dass es Ihnen gefallen hat, daher [hier die Ausgabe für 2018](/self_representation/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}.
+2. [Musikhandschriften von Karl Friedrich Abel in Polen gefunden](/rediscovered/2017/01/19/karl-friedrich-abel-manuscripts-found-in-poland.html){:target="_blank"} von Sonia Wronkowska
+3. [Eine weitere Fehlzuschreibung (und Wiederentdeckung) zu Vivaldi in Dresden](/rediscovered/2017/04/25/yet-another-misattributed-and-rediscovered-vivaldi.html){:target="_blank"} von Michael Talbot
+4. [Eine bisher unbekannte Lautentabulatur](/rediscovered/2017/01/27/a-previously-unknown-lute-tablature.html){:target="_blank"} von Dieter Kirsch
+5. [Barbara Strozzi: eine venezianische Komponistin des 17. Jahrhunderts](/self_representation/2017/07/03/barbara-strozzi-a-woman-composer-in-17thcentury.html){:target="_blank"} von Vivian Tompkins
+6. [Die digitalisierte Fétis-Sammlung in der Königlichen Bibliothek von Belgien](/electronic_resources/2017/12/18/the-digitized-fétis-collection-at-the-royal.html){:target="_blank"} von Kris De Baerdemacker. _Nicht schlecht für einen Artikel, den wir vor knapp einem Monat veröffentlichten!_
+7. [Verzeichnis der Werke Giovanni Pierluigi da Palestrinas: Ein neues Projekt](/press_reviews/2017/02/02/catalog-of-the-works-of-giovanni-pierluigi-da.html){:target="_blank"} von Carola Finkel
+8. [Eine neue Komponistin ist geboren](/rediscovered/2017/01/30/a-new-woman-composer-is-born.html){:target="_blank"} von Nina Eichholz
+9. [Die Oboe: Instrument des Jahres](/events/2017/10/02/the-oboe-instrument-of-the-year.html){:target="_blank"}
+10. [Acht weitere Komponistinnen](/self_representation/2017/06/29/eight-more-women-composers.html){:target="_blank"}
 
-Aber 2017 — wie auch in den Jahren 2016 und 2015 — wurde wieder der Beitrag [Das älteste Klavier der Welt](http://www.rism.info/de/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 am meisten gelesen.
+Aber 2017 — wie auch in den Jahren 2016 und 2015 — wurde wieder der Beitrag [Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 am meisten gelesen.
 
 **Die Highlights der sozialen Medien:**
 

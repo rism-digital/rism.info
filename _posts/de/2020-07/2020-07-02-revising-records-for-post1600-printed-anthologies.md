@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Bericht_Update_B1_70c2221de6.jpg
 ---
 
 
-Die im November 2018 begonnene Überarbeitung der B/I-Einträge zu den Sammeldrucken von 1601 bis 1700, von denen die Drucke bis 1610 [seit März 2019 online verfügbar sind](http://www.rism.info/de/home/newsdetails/select/self_representation/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html){:target="_blank"}, nähert sich nun langsam, aber sicher dem Ende: Während die Einträge bis 1650 komplett online verfügbar sind, wurde auch die zweite Jahrhunderthälfte bis in die frühen 1690er Jahre bereits weitgehend überarbeitet.
+Die im November 2018 begonnene Überarbeitung der B/I-Einträge zu den Sammeldrucken von 1601 bis 1700, von denen die Drucke bis 1610 [seit März 2019 online verfügbar sind](/self_representation/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html){:target="_blank"}, nähert sich nun langsam, aber sicher dem Ende: Während die Einträge bis 1650 komplett online verfügbar sind, wurde auch die zweite Jahrhunderthälfte bis in die frühen 1690er Jahre bereits weitgehend überarbeitet.
 
 Generell lässt sich ab den späten 1620er Jahren ein deutlicher Rückgang der pro Jahr erschienenen Drucke (durchschnittlich 10 Stück anstatt vorher 25) feststellen – was natürlich vor allem durch die Wirren des Dreißigjährigen Krieges bedingt war. Gegen Ende des Jahrhunderts ist es wiederum eine deutliche Zunahme an Individualdrucken, die eine relativ geringe Anzahl an neuen Sammeldrucken pro Jahr bedingt. Ca. 80% der Sammeldrucke stammen zu dieser Zeit aus England und Frankreich; oft sind dies Reihen wie die Airs sérieux et à boire des Pariser Verlegers Christophe Ballard, die zwischen 1695 und 1724 erschien.
 

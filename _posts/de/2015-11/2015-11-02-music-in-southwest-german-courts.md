@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_
 ---
 
 
-Nachdem wir in der vergangenen Woche auf die Konferenz zur [Hofmusik in Dresden](http://www.rism.info/de/home/newsdetails/article/2/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html){:target="_blank"} hingewiesen haben, möchten wir nun Ihre Aufmerksamkeit auf ein Projekt zur [Hofmusik im Südwesten Deutschlands](http://www.hof-musik.de/){:target="_blank"} lenken. Ziel des 2006 gegründeten Landesprojektes ist vor allem die umfassende Sammlung und Aufbereitung der archivalischen und musikalischen Quellen zur Sozial- und Institutionsgeschichte der südwestdeutschen Hofkapellen.
+Nachdem wir in der vergangenen Woche auf die Konferenz zur [Hofmusik in Dresden](/events/2015/10/28/collecting--performing--exploring-dresdens.html){:target="_blank"} hingewiesen haben, möchten wir nun Ihre Aufmerksamkeit auf ein Projekt zur [Hofmusik im Südwesten Deutschlands](http://www.hof-musik.de/){:target="_blank"} lenken. Ziel des 2006 gegründeten Landesprojektes ist vor allem die umfassende Sammlung und Aufbereitung der archivalischen und musikalischen Quellen zur Sozial- und Institutionsgeschichte der südwestdeutschen Hofkapellen.
 
 
 

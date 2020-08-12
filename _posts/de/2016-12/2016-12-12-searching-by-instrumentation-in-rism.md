@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Besetzung_Bild_6d37d04324.jpg
 ---
 
 
-Mit der Einführung unseres neuen Erfassungsprogramm [Muscat](http://www.rism.info/de/home/newsdetails/article/64/welcome-muscat.html){:target="_blank"} haben wir auch die Richtlinien überarbeitet. Dazu zählt unter anderem auch die vollständige Abkürzungsliste für die Besetzungsangaben. Diese verbesserte Liste können Sie nun auch im RISM Online-Katalog verwenden.
+Mit der Einführung unseres neuen Erfassungsprogramm [Muscat](/self_representation/2016/11/14/welcome-muscat.html){:target="_blank"} haben wir auch die Richtlinien überarbeitet. Dazu zählt unter anderem auch die vollständige Abkürzungsliste für die Besetzungsangaben. Diese verbesserte Liste können Sie nun auch im RISM Online-Katalog verwenden.
 
 
 

@@ -13,7 +13,7 @@ _Die nachfolgende Mitteilung stammt von Gottfried Heinz-Kronberger ([RISM Deutsc
 
 
 
-Kurz nach Abschluss der Arbeiten am [Niederalteicher](http://www.rism.info/de/home/newsdetails/article/64/an-exciting-collection.html){:target="_blank"} Bestand ([RISM-Sigel: D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}) ergab sich das überraschende Angebot, einen weiteren Teilbestand, der vor Kurzem direkt in Spitz a. d. D. wiedergefunden worden war, zu erfassen und somit einen bisher nicht gekannten Teil von über 230 Musikalien zu erschließen.
+Kurz nach Abschluss der Arbeiten am [Niederalteicher](/rediscovered/2016/06/20/an-exciting-collection.html){:target="_blank"} Bestand ([RISM-Sigel: D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}) ergab sich das überraschende Angebot, einen weiteren Teilbestand, der vor Kurzem direkt in Spitz a. d. D. wiedergefunden worden war, zu erfassen und somit einen bisher nicht gekannten Teil von über 230 Musikalien zu erschließen.
 
 Diese einzigartige Möglichkeit konnte in Zusammenarbeit mit der Österreichischen Akademie der Wissenschaften (ÖAW) dann Ende 2016 durchgeführt werden. Ein Großteil der vorhandenen Musikalien war dabei in Art und Weise identisch mit dem Niederalteicher Bestand, erwies sich also als ergänzender Bestandteil, der irgendwo anders gelagert worden sein muss.
 
