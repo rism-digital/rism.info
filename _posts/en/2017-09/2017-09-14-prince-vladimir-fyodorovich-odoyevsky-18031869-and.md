@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Odoevsky_vladimir_a87e8cb696.jpg
 ---
 
 
-Today we are continuing our Russian Week (see also the post from Monday about [John Field in St. Petersburg](http://www.rism.info/en/home/newsdetails/article/2/john-fields-piano-nocturnes.html){:target="_blank"}) with letter O of the series RISM A-Z. The spotlight is on a prominent figure of Russian music and cultural life in the nineteenth century.
+Today we are continuing our Russian Week (see also the post from Monday about [John Field in St. Petersburg](/self_representation/2017/09/11/john-fields-piano-nocturnes.html){:target="_blank"}) with letter O of the series RISM A-Z. The spotlight is on a prominent figure of Russian music and cultural life in the nineteenth century.
 
 Author, philosopher, composer, copyist, music critic, organologist, lexicographer, museum director, assistant library director, and much more describe Prince Vladimir Fyodorovich Odoyevsky (1803-1869), a representative of Russian Romanticism who had great influence on Russian culture. He was known as the "Russian Hoffmann" and his output as a writer includes children's tales, fantastical utopian novels, satirical short stories, and literature in the _povest_ genre in which Johann Sebastian Bach, Ludwig van Beethoven, and others are central figures.
 

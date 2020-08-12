@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Nachzueglerinnen_3f80c883aa.jpg
 ---
 
 
-This past International Women's Day, 8 March 2017, [we published a list](http://www.rism.info/en/home/newsdetails/browse/1/article/64/international-womens-day-women-composers-in-rism.html){:target="_blank"} of 800 women composers who have sources in the RISM database. We are happy to say that since then, we have been able to add eight more names to the list. Some of the composers' works had been in the RISM database already, but the names were not on our list because they had not yet been fully edited by us and thus not searchable. The complete list, including the eight new composers, can be found on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"}.
+This past International Women's Day, 8 March 2017, [we published a list](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} of 800 women composers who have sources in the RISM database. We are happy to say that since then, we have been able to add eight more names to the list. Some of the composers' works had been in the RISM database already, but the names were not on our list because they had not yet been fully edited by us and thus not searchable. The complete list, including the eight new composers, can be found on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"}.
 
 Unfortunately we do not have very much biographical information about these women composers. (If you click on their name in each entry, you see what we have available.) If you can fill us in on any details, please let us know!
 

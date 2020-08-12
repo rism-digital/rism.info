@@ -21,11 +21,11 @@ The website describes the background of this discovery:
 
 For more information, please contact Balázs Mikusi ([mikusi@oszk.hu](mailto:mikusi@oszk.hu))
 
-This newly-discovered manuscript has already been incorporated into a modern edition, published by Henle Verlag and edited by Henle CEO and our very own RISM president, Wolf-Dieter Seiffert (see our article about this publication, "[The music world will sit up and listen](http://www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html){:target="_blank"}," June 2015).
+This newly-discovered manuscript has already been incorporated into a modern edition, published by Henle Verlag and edited by Henle CEO and our very own RISM president, Wolf-Dieter Seiffert (see our article about this publication, "[The music world will sit up and listen](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html){:target="_blank"}," June 2015).
 
-CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](http://www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html#sthash.Riy1rxGi.dpuf)
+CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html#sthash.Riy1rxGi.dpuf)
 
-CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](http://www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html#sthash.Riy1rxGi.dpuf)
+CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html#sthash.Riy1rxGi.dpuf)
 
 
 

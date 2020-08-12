@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Frederick_der_Grosse_01_d7d47ca716.jpg
 ---
 
 
-Music at the court of Frederick the Great has fascinated scholars for decades and a flury of activity arose when "Old Fritz" celebrated his tercentenary in 2012, with books, concerts, and conferences around the world. Work from our colleagues at RISM Germany even turned up an [autograph manuscript by the king](http://www.rism.info/en/home/newsdetails/select/rediscovered/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html){:target="_blank"}.
+Music at the court of Frederick the Great has fascinated scholars for decades and a flury of activity arose when "Old Fritz" celebrated his tercentenary in 2012, with books, concerts, and conferences around the world. Work from our colleagues at RISM Germany even turned up an [autograph manuscript by the king](/rediscovered/2012/11/08/new-music-from-old-fritz-manuscripts-by-frederick.html){:target="_blank"}.
 
 
 

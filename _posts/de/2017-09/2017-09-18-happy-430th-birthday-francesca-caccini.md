@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Caccini_430_a8a8fef1be.jpg
 ---
 
 
-Francesca Caccini (1587 – ca. 1640) ist neben [Barbara Strozzi](http://www.rism.info/de/startseite/newsdetails/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html){:target="_blank"} die einflussreichste und berühmteste Komponistin und Musikerin des frühen 17. Jahrhunderts.
+Francesca Caccini (1587 – ca. 1640) ist neben [Barbara Strozzi](/self_representation/2017/07/03/barbara-strozzi-a-woman-composer-in-17thcentury.html){:target="_blank"} die einflussreichste und berühmteste Komponistin und Musikerin des frühen 17. Jahrhunderts.
 
 
 

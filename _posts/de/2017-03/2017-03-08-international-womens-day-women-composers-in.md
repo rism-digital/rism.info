@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_International_Womens_Day_8bca1b1bc8.png
 
 Weltweit wird am 8. März der [Internationale Frauentag](https://www.internationalwomensday.com/About){:target="_blank"} begangen. Der Tag fordert zum Handeln auf, um die Gleichberechtigung zu beschleunigen.
 
-In der Musik haben sich die Komponistinnen immer angestrengt genauso wahrgenommen zu werden, wie ihre männlichen Kollegen. In der RISM-Datenbank befinden sich unter den Tausenden von Personen, die in den Musikquellen als Komponist, Schreiber, Interpret, Vorbesitzer etc. fungieren, 43.000 Männer aber nur 6.000 Frauen. Es gibt zweifellos mehr Frauen, die an der Entstehung einer Quelle beteiligt waren, nur blieb ihr Dazutun bisher unentdeckt oder nicht bestätigt. Unter den [200.000 anonymen Quellen](https://opac.rism.info/search?View=rism&author=anonymus){:target="_blank"} sind sicherlich noch einige verborgen. Gerade vor einigen Monaten wurde eine weitere Komponistin entdeckt: eine anonym überlieferte Quellewurde der [Prinzessin Maria Carolina von Savoyen](http://www.rism.info/en/home/newsdetails/article/2/a-new-woman-composer-is-born.html){:target="_blank"} zugeschrieben.
+In der Musik haben sich die Komponistinnen immer angestrengt genauso wahrgenommen zu werden, wie ihre männlichen Kollegen. In der RISM-Datenbank befinden sich unter den Tausenden von Personen, die in den Musikquellen als Komponist, Schreiber, Interpret, Vorbesitzer etc. fungieren, 43.000 Männer aber nur 6.000 Frauen. Es gibt zweifellos mehr Frauen, die an der Entstehung einer Quelle beteiligt waren, nur blieb ihr Dazutun bisher unentdeckt oder nicht bestätigt. Unter den [200.000 anonymen Quellen](https://opac.rism.info/search?View=rism&author=anonymus){:target="_blank"} sind sicherlich noch einige verborgen. Gerade vor einigen Monaten wurde eine weitere Komponistin entdeckt: eine anonym überlieferte Quellewurde der [Prinzessin Maria Carolina von Savoyen](/rediscovered/2017/01/30/a-new-woman-composer-is-born.html){:target="_blank"} zugeschrieben.
 
 Datenbanken bieten den Benutzern normalerweise keine Möglichkeiten nach dem Geschlecht einzugrenzen, um ausdrücklich nach Informationen zu Frauen zu suchen. Der RISM Online-Katalog bietet diesen Service momentan auch nicht - was sich aber hoffentlich in einer kommenden Version ändern wird -, aber das Geschlecht ist in den Personen-Normdaten angegeben (zu sehen wenn man in einem Eintrag auf den Namen klickt). Die Normdaten in unserer Datenbank wurden so gefiltert, dass wir alle Komponistinnen extrahieren konnten. Wir können Ihnen daher eine Liste mit ca. 800 Komponistinnen anbieten, die alle im Online-Katalog vertreten sind:
 
@@ -55,7 +55,7 @@ To start off the celebrations, here is a sampling of ten people (of the almost 9
 
 Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A** cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman[Gregor **Z** wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
 
-Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html?tx_ttnews%5Byear%5D=2016&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=44105fecde520c6bd391dee4a49c03ec#sthash.u1nEDzXk.dpuf)
+Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/self_representation/2016/01/04/musical-anniversaries-in-2016.html)
 
 **Born in xx17 or xx67 (click on any heading to sort):**
 
@@ -65,7 +65,7 @@ c = circa
 a = before
 p = after
 
-- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
+- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](/self_representation/2017/01/10/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
 
 
 

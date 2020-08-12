@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_ICCU_Daten_Nov19_f4ae5c2984.png
 ---
 
 
-The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](http://www.rism.info/en/home/newsdetails/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
+The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Records from the following libraries can now be found in RISM:
 

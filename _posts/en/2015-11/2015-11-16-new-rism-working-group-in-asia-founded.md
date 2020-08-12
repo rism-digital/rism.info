@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg
 
 RISM is delighted to announce that a new working group in Asia has been founded.
 
-The working group [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html) was planned at a conference concerning the [Collaborative Project on Chinese Music Resources (CPCMR)](http://www.rism.info/en/home/newsdetails/article/64/rism-conference-in-taiwan.html){:target="_blank"} held in October 2015, which RISM director Klaus Keil attended. CPCMR was launched to promote the collection of Chinese music literature, to develop technical standards for processing the archive, and to ultimately establish a collaborative network for resource sharing.
+The working group [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html) was planned at a conference concerning the [Collaborative Project on Chinese Music Resources (CPCMR)](/events/2015/10/12/rism-conference-in-taiwan.html){:target="_blank"} held in October 2015, which RISM director Klaus Keil attended. CPCMR was launched to promote the collection of Chinese music literature, to develop technical standards for processing the archive, and to ultimately establish a collaborative network for resource sharing.
 
 Membership includes the following institutions and representatives:
 

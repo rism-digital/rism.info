@@ -13,7 +13,7 @@ RISM freut sich, Ihnen die Gründung einer neuen Arbeitsgruppe in Asien ankündi
 
 
 
-Die [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](http://rism.info/?id=760){:target="_blank"} wurde im Oktober 2015 auf einer Konferenz über ein gemeinschaftlichen Projekt zu chinesischen Musikressourcen [Collaborative Project on Chinese Music Resources (CPCMR)](http://www.rism.info/en/home/newsdetails/article/64/rism-conference-in-taiwan.html){:target="_blank"}), an der Klaus Keil (Leiter der RISM Zentralredaktion) teilnahm, geplant. CPCMR wurde gestartet, um die Sammlung der chinesischen Musikliteratur zu fördern, technische Standards für das Archivieren zu entwickeln und schließlich um ein zusammenarbeitendes Netz für die gemeinsame Nutzung der Ressourcen zu gründen.
+Die [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](http://rism.info/?id=760){:target="_blank"} wurde im Oktober 2015 auf einer Konferenz über ein gemeinschaftlichen Projekt zu chinesischen Musikressourcen [Collaborative Project on Chinese Music Resources (CPCMR)](/events/2015/10/12/rism-conference-in-taiwan.html){:target="_blank"}), an der Klaus Keil (Leiter der RISM Zentralredaktion) teilnahm, geplant. CPCMR wurde gestartet, um die Sammlung der chinesischen Musikliteratur zu fördern, technische Standards für das Archivieren zu entwickeln und schließlich um ein zusammenarbeitendes Netz für die gemeinsame Nutzung der Ressourcen zu gründen.
 
 Als Mitglieder zeichnen die folgenden Einrichtungen und Vertreter:
 

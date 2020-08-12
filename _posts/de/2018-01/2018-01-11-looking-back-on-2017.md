@@ -10,7 +10,7 @@ image: /uploads/_processed_/csm_2017_Rueckblick_ed5d67ebed.jpg
 
 
 Letztes Jahr haben wir Ihnen zahlreiche Neuigkeiten aus der Welt der Musikquellen mitgeteilt: Neuentdeckungen, Wiederentdeckungen, neue Ressourcen und vieles mehr. Werfen wir einen Blick auf die beliebtesten Nachrichten des Jahres 2017:[
-](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html){:target="_blank"}
+](/self_representation/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}
 
 1. [Jubliäen 2017](http://www.rism.info/de/home/newsdetails/article/64/musical-anniversaries-in-2017.html){:target="_blank"}: Es freut uns, dass es Ihnen gefallen hat, daher [hier die Ausgabe für 2018](http://www.rism.info/de/home/newsdetails/article/2/musical-anniversaries-in-2018.html){:target="_blank"}.
 2. [Musikhandschriften von Karl Friedrich Abel in Polen gefunden](http://www.rism.info/de/home/newsdetails/select/rediscovered/article/64/karl-friedrich-abel-manuscript-found-in-poland.html){:target="_blank"} von Sonia Wronkowska

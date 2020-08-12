@@ -12,27 +12,27 @@ image: /uploads/_processed_/csm_Rueckblick_2019_dd73c5c5b5.jpg
 The year 2020 is still young, but let's take a moment to look back on 2019 at the most popular stories from the world of musical sources that we published here on the RISM blog. May 2020 be as rich with discoveries!
 
 1. [New Music Manuscripts from Italy (ICCU) in RISM
-](http://www.rism.info/en/home/newsdetails/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
-2. [New RISM Cataloging Tools for Librarians](http://www.rism.info/en/home/newsdetails/article/2/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
+](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
+2. [New RISM Cataloging Tools for Librarians](/self_representation/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
 
-3. [The Digital Interactive Mozart Edition](http://www.rism.info/en/home/newsdetails/article/64/the-digital-interactive-mozart-edition.html){:target="_blank"}
+3. [The Digital Interactive Mozart Edition](/electronic_resources/2019/01/24/the-digital-interactive-mozart-edition.html){:target="_blank"}
 
-4. [New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)](http://www.rism.info/en/home/newsdetails/select/new_publications/article/64/new-catalog-of-the-archivo-historico-de-la-arquidiocesis-de-antequera-oaxaca-mexico.html){:target="_blank"} by Edgar Alejandro Calderón Alcántar and Anastasia Krutitskaya
+4. [New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)](/new_publications/2019/02/11/new-catalog-of-the-archivo-histórico-de-la.html){:target="_blank"} by Edgar Alejandro Calderón Alcántar and Anastasia Krutitskaya
 
-5. [Books About Music Before 1800 Digitized and Online](http://www.rism.info/en/home/newsdetails/article/64/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} from the Library of Congress
+5. [Books About Music Before 1800 Digitized and Online](/electronic_resources/2019/08/01/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} from the Library of Congress
 
-6. [Musical Anniversaries in 2019](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}
-Don't miss [the 2020 edition](http://www.rism.info/en/home/newsdetails/article/64/2020-not-just-beethoven.html){:target="_blank"}!
+6. [Musical Anniversaries in 2019](/self_representation/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
+Don't miss [the 2020 edition](/events/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}!
 
-7. [2019 Upgrade of the RISM Catalog](http://www.rism.info/en/home/newsdetails/select/rism_online_catalog/article/64/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
+7. [2019 Upgrade of the RISM Catalog](/rism_online_catalog/2019/09/09/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
 
-8. [Newly discovered autograph of the cantata "Die Fischerin" by Engelbert Humperdinck](http://www.rism.info/en/home/newsdetails/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html){:target="_blank"} by Gottfried Heinz-Kronberger
+8. [Newly discovered autograph of the cantata "Die Fischerin" by Engelbert Humperdinck](/rediscovered/2019/04/11/newly-discovered-autograph-of-the-cantata-die.html){:target="_blank"} by Gottfried Heinz-Kronberger
 
-9. [Search Strategies for Printed Music](http://www.rism.info/en/home/newsdetails/select/rism_online_catalog/article/2/search-strategies-for-printed-music.html){:target="_blank"}
+9. [Search Strategies for Printed Music](/rism_online_catalog/2019/03/25/search-strategies-for-printed-music.html){:target="_blank"}
 
-10. [New Women Composers in 2019](http://www.rism.info/en/home/newsdetails/article/64/new-women-composers-in-2019.html){:target="_blank"}
+10. [New Women Composers in 2019](/self_representation/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
 
-But in 2019—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](http://www.rism.info/en/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
+But in 2019—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
 
 
 **Social Media Highlights**

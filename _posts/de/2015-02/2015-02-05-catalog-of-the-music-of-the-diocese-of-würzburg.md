@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_978-3-429-03715-4_01_b10e8eb99a.jpg
 
 Von unserer deutschen Arbeitsgruppe stammen die folgende Neuigkeiten:
 
-Ende 2014 hat Dieter Kirsch, ehemals Rektor und Professor an der Hochschule für MusikWürzburg und mittlerweile [Ehrendoktor](http://www.rism.info/en/home/newsdetails/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html){:target="_blank"} dieser Hochschule einen monumentalen "Katalog der Musikalien derDiözeseWürzburg" vorgelegt. Darin sind sowohl die Musikhandschriften als auch dieMusikdruckeaus dem Diözesanarchiv und seiner zahlreichen (ca. 170) Deposita aus Pfarrgemeinden der Diözese Würzburg enthalten.
+Ende 2014 hat Dieter Kirsch, ehemals Rektor und Professor an der Hochschule für MusikWürzburg und mittlerweile [Ehrendoktor](/self_representation/2014/07/28/congratulations-to-our-rism-colleague-dieter.html){:target="_blank"} dieser Hochschule einen monumentalen "Katalog der Musikalien derDiözeseWürzburg" vorgelegt. Darin sind sowohl die Musikhandschriften als auch dieMusikdruckeaus dem Diözesanarchiv und seiner zahlreichen (ca. 170) Deposita aus Pfarrgemeinden der Diözese Würzburg enthalten.
 
 Herr Kirsch hat in jahrelanger ehrenamtlicherTätigkeit die über 11.500 Quellenerfasst.Dabei bilden Musikalien des 19. Jahrhunderts den Hauptteil, wobei auch Stücke aus dem 18. Jahrhundert vorhanden sind.Im zweiten Band liegt der Fokus auf den gesammelten Drucküberlieferungen. Musikalien des 19. Jahrhunderts bilden den Hauptteil, wobei auch Stücke aus dem frühen 17. Jahrhundert vorhanden sind.
 

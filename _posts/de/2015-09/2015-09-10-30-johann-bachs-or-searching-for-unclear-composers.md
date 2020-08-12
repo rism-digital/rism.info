@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Johann_Bach_e908765f80.jpg
 ---
 
 
-Im März hatten wir Ihnen an dieser Stelle die Möglichkeit vorgestellt, Nachweise als [Links zum RISM Online-Katalog](http://www.rism.info/en/home/newsdetails/select/self_representation/article/2/how-can-you-link-to-rism-searches.html){:target="_blank"} einzubinden. In den meisten Fällen funktioniert dies auch problemlos, Sie können sogar Pseudonyme oder andere Namensformen verwenden, sofern diese als Variante bei RISM eingetragen ist (hier: [Melante](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} für Georg Philipp Telemann).
+Im März hatten wir Ihnen an dieser Stelle die Möglichkeit vorgestellt, Nachweise als [Links zum RISM Online-Katalog](/self_representation/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} einzubinden. In den meisten Fällen funktioniert dies auch problemlos, Sie können sogar Pseudonyme oder andere Namensformen verwenden, sofern diese als Variante bei RISM eingetragen ist (hier: [Melante](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} für Georg Philipp Telemann).
 
 Schwieriger ist die Suche nach Komponisten, deren Namen mehrfach vorkommt.
 Als Beispiel sei die Suche nach Johann Bach (1604-1673) genannt. Suchen Sie schlicht nach **Johann Bach** erhalten Sie [über 9.500 Treffer](https://opac.rism.info/metaopac/search?View=rism&author=Johann+Bach){:target="_blank"} und an erster Stelle stehen natürlich Johann Sebastian und Johann Christian Bach.

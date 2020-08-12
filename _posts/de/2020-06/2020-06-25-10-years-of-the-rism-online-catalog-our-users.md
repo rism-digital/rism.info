@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Hensel_01_fd9f56aa48.jpg
 ---
 
 
-Im Juni vor zehn Jahren ging der [RISM-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} online. Am Montag haben wir einen [Artikel des Leiters der RISM-Zentralredaktion](http://www.rism.info/de/startseite/newsdetails/article/2/10-years-of-the-rism-online-catalog.html){:target="_blank"} - Klaus Keil - über die Entwicklung des Katalogs vom Mikrofiche zum Open-Access-Katalog veröffentlicht.
+Im Juni vor zehn Jahren ging der [RISM-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} online. Am Montag haben wir einen [Artikel des Leiters der RISM-Zentralredaktion](/rism_online_catalog/2020/06/22/10-years-of-the-rism-online-catalog.html){:target="_blank"} - Klaus Keil - über die Entwicklung des Katalogs vom Mikrofiche zum Open-Access-Katalog veröffentlicht.
 
 Heute möchten wir Ihnen einige bestärkende Worte von einer sehr wichtigen Gruppe von Menschen mitteilen: unseren Katalognutzern. Wir fragten, wie der Katalog bei der Recherche geholfen hat, und erhielten unter anderem folgende Antworten:
 

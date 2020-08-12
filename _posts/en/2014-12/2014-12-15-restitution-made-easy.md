@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_75_will_vii_1425_001r_d00d9acfbf.jpg
 ---
 
 
-On the heels of our visit to Nuremberg for [AIBM conference](http://www.rism.info/en/home/newsdetails/article/64/rism-at-the-aibm-conference.html){:target="_blank"} in September comes this story by our colleague Guido Kraus about the history of some of the rare items at the [Nuremberg Public Library](http://www.nuernberg.de/internet/stadtbibliothek/){:target="_blank"}.
+On the heels of our visit to Nuremberg for [AIBM conference](/events/2014/10/20/rism-at-the-aibm-conference.html){:target="_blank"} in September comes this story by our colleague Guido Kraus about the history of some of the rare items at the [Nuremberg Public Library](http://www.nuernberg.de/internet/stadtbibliothek/){:target="_blank"}.
 
 
 

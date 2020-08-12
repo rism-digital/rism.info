@@ -85,7 +85,7 @@ Wir können die Antworten auf diese Frage auch nutzen, um Einblicke zu bekommen,
 
 **Ihre Kommentare**
 
-Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](http://www.rism.info/en/home/newsdetails/article/2/printed-music-ai-and-bi-now-in-risms-online-catalog.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
+Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
 
 Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/de/community/rism-nutzerstudie.html) veröffentlicht (Link auf unserer Website unten rechts).
 

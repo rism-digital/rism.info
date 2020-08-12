@@ -29,11 +29,11 @@ Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beli
 
 9. [Ausstellung in der Bayerischen Staatsbibliothek München über historische Tabulaturen](http://www.rism.info/de/startseite/newsdetails/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=01&cHash=484da59ffd1e4424a85eaf8b0478947b){:target="_blank"}
 
-10. [RISM - vor 500 Jahren](http://www.rism.info/de/startseite/newsdetails/select/new-at-rism/article/64/rism-500-years-ago.html){:target="_blank"}
+10. [RISM - vor 500 Jahren](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
 
-Aber auch in 2018 - wie in den voran gegangenen - war der Beitrag[Das älteste Klavier der Welt](http://www.rism.info/de/startseite/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 der meist gelesene.
+Aber auch in 2018 - wie in den voran gegangenen - war der Beitrag[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 der meist gelesene.
 
 
 

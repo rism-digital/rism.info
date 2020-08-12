@@ -31,6 +31,6 @@ Die neue Online-Sammlung von Lautenmusik umfasst hochauflösende Abbildungen von
 
 
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](http://www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](http://www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)

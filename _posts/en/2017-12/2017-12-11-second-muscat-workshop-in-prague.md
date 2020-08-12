@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg
 ---
 
 
-Zuzana Petrášková, the leader of the RISM Czech Republic national working group, organized a [Muscat](/community/muscat.html) workshop from 27 to 29 November 2017 at the [National Library of the Czech Republic](http://www.en.nkp.cz/){:target="_blank"} in Prague. A Muscat workshop had previously been held there [in November 2016](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-prague.html){:target="_blank"}.
+Zuzana Petrášková, the leader of the RISM Czech Republic national working group, organized a [Muscat](/community/muscat.html) workshop from 27 to 29 November 2017 at the [National Library of the Czech Republic](http://www.en.nkp.cz/){:target="_blank"} in Prague. A Muscat workshop had previously been held there [in November 2016](/events/2016/11/21/muscat-workshop-in-prague.html){:target="_blank"}.
 
 A total of ten people participated in the workshop, which was led by Guido Kraus of the RISM Central Office in Frankfurt. Members of RISM Czech Republic and three new contributors from RISM Slovakia were in attendance, including Dr. Janka Petőczová from the [Institute of Musicology](http://uhv.sav.sk/en/){:target="_blank"} of the Solvak Academy of Sciences in Bratislava. Dr. Petőczová will be working with the collection of the Protestant church in Levoča (SK-Le) with a focus on the local music tradition there.
 

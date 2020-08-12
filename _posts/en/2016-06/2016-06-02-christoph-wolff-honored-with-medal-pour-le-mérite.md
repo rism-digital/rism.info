@@ -13,7 +13,7 @@ Last Sunday, May 29, 2016, RISM honorary president Christoph Wolff was honored w
 
 In honor of Christoph Wolff, Johann Sebastian Bach's Cello Suite was performed by Miklós Perényi at the ceremony. [In his speech](http://www.bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2016/05/160529-Orden-Pour-le-merite.html;jsessionid=D349DCB8FF0A15CA7AC15A6C54534BAE.2_cid388?nn=1891550){:target="_blank"}, President Gauck recognized Wolff's Bach scholarship as well as the musical achievements of Daniel Barenboim.
 
-Christoph Wolff was president of RISM from 2004 to 2013. He is currently one of RISM's [honorary presidents](http://www.rism.info/en/home/newsdetails/article/71/christoph-wolff-named-honorary-president-of-rism.html){:target="_blank"}. Congratulations, Christoph Wolff!
+Christoph Wolff was president of RISM from 2004 to 2013. He is currently one of RISM's [honorary presidents](/self_representation/2014/11/14/christoph-wolff-named-honorary-president-of-rism.html){:target="_blank"}. Congratulations, Christoph Wolff!
 
 _Photo courtesy of Christoph Wolff._
 

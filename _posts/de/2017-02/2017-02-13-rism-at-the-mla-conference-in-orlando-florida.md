@@ -56,7 +56,7 @@ Für RISM Freunde und Fans könnten auch die folgenden Sektionen von Interesse s
 
 
 
-Diese Sektion gestalten André Guerra Cotta (Universidade Federal Fluminense Polo Rio das Ostras) und Beatriz Magalhães Castro (Universidade de Brasilia) von RISM Brasilien gemeinsam mit Yael Bitrán Goren von CENIDIM, die mit dem Conservatorio de las Rosas [2015 eine Konferenz](http://www.rism.info/en/home/newsdetails/article/64/rism-and-the-rs-in-mexico.html){:target="_blank"} zu den 4 R Projekten ausrichteten.
+Diese Sektion gestalten André Guerra Cotta (Universidade Federal Fluminense Polo Rio das Ostras) und Beatriz Magalhães Castro (Universidade de Brasilia) von RISM Brasilien gemeinsam mit Yael Bitrán Goren von CENIDIM, die mit dem Conservatorio de las Rosas [2015 eine Konferenz](/events/2015/09/14/rism-and-the-rs-in-mexico.html){:target="_blank"} zu den 4 R Projekten ausrichteten.
 
 **IAML Latin America Forum: Besserer Zugang zu den Musikquellen durch Kooperationen**
 

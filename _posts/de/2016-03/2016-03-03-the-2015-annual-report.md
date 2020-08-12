@@ -42,7 +42,7 @@ Hier einige Highlights aus dem Jahresbericht, dessen ausführliche Fassung Sie a
 
 -
 
-**Neue Publikation innerhalb der Serie B** : Der 32. Band der Serie ist erschienen: [B/XVI: _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_](http://www.rism.info/en/home/newsdetails/article/2/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html){:target="_blank"}. Beschrieben von Tilmann Seebass unter Mitwirkung von Hedwig I. R. Hinzler (Henle Verlag: München, 2015).
+**Neue Publikation innerhalb der Serie B** : Der 32. Band der Serie ist erschienen: [B/XVI: _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_](/new_publications/2015/10/29/new-volume-in-risms-series-b-balinese-palmleaf.html){:target="_blank"}. Beschrieben von Tilmann Seebass unter Mitwirkung von Hedwig I. R. Hinzler (Henle Verlag: München, 2015).
 
 
 - **Serie C** : RISM arbeitet mit der IAML Arbeitsgruppe[Access to Music Archives (AMA)](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} zur Überarbeitung der Serie C, Directory of Music Research Libraries zusammen, die als Online-Datenbank angeboten werden soll.

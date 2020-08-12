@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_International_Womens_Day_8bca1b1bc8.png
 
 Today, March 8, is celebrated around the world as [International Women's Day](https://www.internationalwomensday.com/About){:target="_blank"}. Among many other things the organizers support "a call to action for accelerating gender parity."
 
-In music, as we know, women musicians have struggled throughout history to be as visible as their male counterparts. In the RISM database, among the thousands of people that function as composers, copyists, performers, previous owners, etc. in the sources, there are 43,000 men but only 6,000 women. There are no doubt more women who were involved in the creation of a source, but their contributions are as yet undiscovered or unacknowledged. Women are also certainly hidden among the [200,000 anonymous sources](https://opac.rism.info/search?View=rism&author=anonymus){:target="_blank"} in RISM. Just a few months ago, one of these was identified: an anonymous source was [discovered to be by Princess Maria Carolina of Savoy](http://www.rism.info/en/home/newsdetails/article/2/a-new-woman-composer-is-born.html){:target="_blank"}, rescuing her from the clutches of anonymity and adding one more woman composer to the database.
+In music, as we know, women musicians have struggled throughout history to be as visible as their male counterparts. In the RISM database, among the thousands of people that function as composers, copyists, performers, previous owners, etc. in the sources, there are 43,000 men but only 6,000 women. There are no doubt more women who were involved in the creation of a source, but their contributions are as yet undiscovered or unacknowledged. Women are also certainly hidden among the [200,000 anonymous sources](https://opac.rism.info/search?View=rism&author=anonymus){:target="_blank"} in RISM. Just a few months ago, one of these was identified: an anonymous source was [discovered to be by Princess Maria Carolina of Savoy](/rediscovered/2017/01/30/a-new-woman-composer-is-born.html){:target="_blank"}, rescuing her from the clutches of anonymity and adding one more woman composer to the database.
 
 Databases typically do not offer users the possibility to search by gender, making it difficult to find information specifically relating to women. The RISM database does not currently offer this, either—though we hope enable it in the next version of the catalog—but gender is encoded in our authority files (visible when you click on a name while looking at a record). These authority files can be searched by us in our internal database, so to celebrate the achievements of women composers, here we offer you a list of the ca. 800 women composers that you can find in the RISM catalog:
 
@@ -56,7 +56,7 @@ To start off the celebrations, here is a sampling of ten people (of the almost 9
 
 Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A** cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman[Gregor **Z** wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
 
-Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html?tx_ttnews%5Byear%5D=2016&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=44105fecde520c6bd391dee4a49c03ec#sthash.u1nEDzXk.dpuf)
+Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/self_representation/2016/01/04/musical-anniversaries-in-2016.html)
 
 **Born in xx17 or xx67 (click on any heading to sort):**
 
@@ -66,7 +66,7 @@ c = circa
 a = before
 p = after
 
-- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
+- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](/self_representation/2017/01/10/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
 
 
 

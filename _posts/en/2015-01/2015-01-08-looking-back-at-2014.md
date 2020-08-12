@@ -15,31 +15,31 @@ Before we get too far into 2015, let's take a look back at 2014 and allow us to 
 
 The ten most popular stories on our website were (according to our website statistics):
 
-1. [New Version of the RISM Online Catalog](http://www.rism.info/en/home/newsdetails/article/64/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [New Version of the RISM Online Catalog](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 1.
 
-[Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered](http://www.rism.info/en/home/newsdetails/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html){:target="_blank"} (our April Fool's joke)
+[Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"} (our April Fool's joke)
 
 2.
 
-[Mozart: New Documents](http://www.rism.info/en/home/newsdetails/article/64/mozart-new-documents.html){:target="_blank"}
+[Mozart: New Documents](/electronic_resources/2014/09/18/mozart-new-documents.html){:target="_blank"}
 
 3.
 
 [Listen to the world's oldest piano
 
-](http://www.rism.info/en/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"}
+](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}
 
 4.
 
-[Niccolò Jommelli rediscovered: International award for essay on autograph extant at the National Library of Portugal](http://www.rism.info/en/home/newsdetails/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html "external-link-new-window")
+[Niccolò Jommelli rediscovered: International award for essay on autograph extant at the National Library of Portugal](/rediscovered/2014/11/17/niccolò-jommelli-rediscovered-international-award.html "external-link-new-window")
 
 5.
 
 [An Evening of Irish Music
 
-](http://www.rism.info/en/home/newsdetails/article/64/an-evening-of-irish-music.html){:target="_blank"}
+](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}
 
 6.
 
@@ -51,7 +51,7 @@ The ten most popular stories on our website were (according to our website stati
 
 [RISM at the AIBM Conference
 
-](http://www.rism.info/en/home/newsdetails/article/64/rism-at-the-aibm-conference.html){:target="_blank"}
+](/events/2014/10/20/rism-at-the-aibm-conference.html){:target="_blank"}
 
 8.
 
@@ -61,7 +61,7 @@ The ten most popular stories on our website were (according to our website stati
 
 9.
 
-[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](http://www.rism.info/en/home/newsdetails/select/rediscovered/article/2/vivaldi-embedded.html){:target="_blank"}
+[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
 
 This list also highlights the work of our colleagues in different countries: Belgium, Germany, Ireland, Portugal, and the United Kingdom.
 

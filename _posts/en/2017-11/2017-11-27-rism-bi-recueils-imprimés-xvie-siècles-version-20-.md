@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_RISM_Bericht_B_1_9c1400458b.jpg
 ---
 
 
-_Longtime RISM users know that expanded entries from series B/I (printed anthologies, covering the years 1500 to 1550) [were added to the online catalog](http://www.rism.info/en/home/newsdetails/article/64/printed-music-ai-and-bi-now-in-risms-online-catalog.html){:target="_blank"} in 2015. Our student worker Martin Bierwisch has been working on revising these records since April of this year, funded through support from the Kulturfond der [VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}, Kassel__. Martin gives us some insight into how he updates these entries:_
+_Longtime RISM users know that expanded entries from series B/I (printed anthologies, covering the years 1500 to 1550) [were added to the online catalog](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} in 2015. Our student worker Martin Bierwisch has been working on revising these records since April of this year, funded through support from the Kulturfond der [VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}, Kassel__. Martin gives us some insight into how he updates these entries:_
 
 There are currently over 550 collection parent records from B/I in the [RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and with a few exceptions these include publications only up to 1550. A further 2,200 entries, which comprise the remaining entries in B/I up to the year 1700, are in preparation. These will be imported into the online catalog and revised.
 

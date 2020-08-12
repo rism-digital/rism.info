@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Saxophone_InstrumentDesJahres_Landesarchiv_Baden
 ---
 
 
-_Den folgenden Beitrag schrieb unsere Praktikantin aus [Spanien - Carmen Álvarez](http://www.rism.info/en/home/newsdetails/article/64/welcome-carmen-alvarez.html){:target="_blank"} (Deutsch unten):_
+_Den folgenden Beitrag schrieb unsere Praktikantin aus [Spanien - Carmen Álvarez](/self_representation/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (Deutsch unten):_
 
 Cada año, en Alemania, un intrumento tiene el honor de ser elegido [el instrumento del año](https://www.instrument-des-jahres.de/){:target="_blank"}, y en 2019 el turno ha sido para el saxofón.
 

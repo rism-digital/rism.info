@@ -17,7 +17,7 @@ Ein geschlossener Bestand von besonderem Wert sind die Handschriften aus dem Nac
 
 
 
-Daneben besitzt die Bibliothek auch wertvolle Musikerautographe und Abschriften des späten 19. und frühen 20. Jahrhunderts, darunter Autographe des langjährigen Direktors des Kölner Konservatoriums, Ferdinand Hiller. Als besondere Sensation konnte Steffen Voss von der RISM-Arbeitsstelle München im Rahmen seiner Katalogisierungsarbeiten zudem[bisher unbekannte Lieder](http://www.rism.info/en/home/newsdetails/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html){:target="_blank"} der niederländischen Komponistin Anna Merkje Cramer (1873-1968) identifizieren.
+Daneben besitzt die Bibliothek auch wertvolle Musikerautographe und Abschriften des späten 19. und frühen 20. Jahrhunderts, darunter Autographe des langjährigen Direktors des Kölner Konservatoriums, Ferdinand Hiller. Als besondere Sensation konnte Steffen Voss von der RISM-Arbeitsstelle München im Rahmen seiner Katalogisierungsarbeiten zudem[bisher unbekannte Lieder](/rediscovered/2014/04/03/unknown-lieder-by-dutch-composer-anna-merkje.html){:target="_blank"} der niederländischen Komponistin Anna Merkje Cramer (1873-1968) identifizieren.
 
 
 

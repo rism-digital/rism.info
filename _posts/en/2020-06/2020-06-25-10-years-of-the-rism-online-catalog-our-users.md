@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Hensel_01_fd9f56aa48.jpg
 ---
 
 
-[The RISM Catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was released online ten years ago this month. On Monday we shared [a piece by the RISM director, Klaus Keil,](http://www.rism.info/en/home/newsdetails/article/2/10-years-of-the-rism-online-catalog.html){:target="_blank"} about the development of the catalog from microfiche to open access catalog.
+[The RISM Catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was released online ten years ago this month. On Monday we shared [a piece by the RISM director, Klaus Keil,](/rism_online_catalog/2020/06/22/10-years-of-the-rism-online-catalog.html){:target="_blank"} about the development of the catalog from microfiche to open access catalog.
 
 Today we’d like to share a few encouraging words from a very important group of people: our catalog users. When we asked how the catalog has helped research, these are some of the responses we received:
 

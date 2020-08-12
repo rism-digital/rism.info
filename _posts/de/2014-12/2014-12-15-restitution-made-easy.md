@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_75_will_vii_1425_001r_d00d9acfbf.jpg
 ---
 
 
-Im Nachklang unseres Besuchs in Nürnberg bei der [AIBM Konferenz](http://www.rism.info/en/home/newsdetails/article/64/rism-at-the-aibm-conference.html){:target="_blank"} im September stammt die Geschichte von unserem Kollegen Guido Kraus über den Verbleib von einigen der seltenen Exemplaren der [Nürnberger Stadtbibliothek](http://www.nuernberg.de/internet/stadtbibliothek/){:target="_blank"}.
+Im Nachklang unseres Besuchs in Nürnberg bei der [AIBM Konferenz](/events/2014/10/20/rism-at-the-aibm-conference.html){:target="_blank"} im September stammt die Geschichte von unserem Kollegen Guido Kraus über den Verbleib von einigen der seltenen Exemplaren der [Nürnberger Stadtbibliothek](http://www.nuernberg.de/internet/stadtbibliothek/){:target="_blank"}.
 
 
 

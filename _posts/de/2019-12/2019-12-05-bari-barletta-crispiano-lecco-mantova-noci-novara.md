@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_ICCU_Daten_Nov19_f4ae5c2984.png
 ---
 
 
-Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhandschriften freigeschaltet worden, die aus der italienischen Datenbank SBN Musica übernommen wurden. Wir hatten darüber bereits [im August berichtet](http://www.rism.info/de/startseite/newsdetails/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
+Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhandschriften freigeschaltet worden, die aus der italienischen Datenbank SBN Musica übernommen wurden. Wir hatten darüber bereits [im August berichtet](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Die Bestände folgender Bibliotheken sind nun im RISM-Katalog freigeschaltet:
 

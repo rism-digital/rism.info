@@ -11,29 +11,29 @@ image: /uploads/_processed_/csm_Rueckblick_2018_9ee996c7b2.jpg
 
 Before we get too far into 2019, let's take a look at our most popular stories on our blog that we published in 2018. In case you missed some of these discoveries and developments in the world of musical sources, here's your chance to catch up!
 
-1. [Musical Anniversaries in 2018](http://www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
+1. [Musical Anniversaries in 2018](/self_representation/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
 
-2. [The Music Printing History Online Museum](http://www.rism.info/en/home/newsdetails/select/electronic-resources/article/2/the-music-printing-history-online-museum.html){:target="_blank"}
+2. [The Music Printing History Online Museum](/electronic_resources/2018/03/12/the-music-printing-history-online-museum.html){:target="_blank"}
 
-3. [Bach Family Autographs Online](http://www.rism.info/en/home/newsdetails/select/electronic-resources/article/64/bach-family-autographs-online.html){:target="_blank"}
+3. [Bach Family Autographs Online](/electronic_resources/2018/04/16/bach-family-autographs-online.html){:target="_blank"}
 
-4. [Lili Boulanger (21 August 1893–15 March 1918)](http://www.rism.info/en/home/newsdetails/select/new_publications/article/64/lili-boulanger-21-august-1893-15-march-1918.html){:target="_blank"} by Anya Holland-Barry
+4. [Lili Boulanger (21 August 1893–15 March 1918)](/events/2018/03/15/lili-boulanger-21-august-189315-march-1918.html){:target="_blank"} by Anya Holland-Barry
 
-5. ["Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann](http://www.rism.info/en/home/newsdetails/select/rediscovered/article/2/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html){:target="_blank"} by Helmut Lauterwasser
+5. ["Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach--a-newly-discovered.html){:target="_blank"} by Helmut Lauterwasser
 
-6. [RISM's B/III (The Theory of Music) Now a Database](http://www.rism.info/en/home/newsdetails/select/electronic_resources/article/2/risms-biii-the-theory-of-music-now-a-database.html){:target="_blank"} by Christian Meyer
+6. [RISM's B/III (The Theory of Music) Now a Database](/electronic_resources/2018/04/09/risms-biii-the-theory-of-music-now-a-database.html){:target="_blank"} by Christian Meyer
 
-7. [Telemann digital](http://www.rism.info/en/home/newsdetails/select/library_stocks/article/64/telemann-digital.html){:target="_blank"} by Ann Kersting-Meuleman
+7. [Telemann digital](/library_stocks/2018/08/27/telemann-digital.html){:target="_blank"} by Ann Kersting-Meuleman
 
-8. [New FONCA-RISM project in Mexico City | FONCA-RISM: Nuevo Proyecto en la Ciudad de México](http://www.rism.info/en/home/newsdetails/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html){:target="_blank"} by John Lazos
+8. [New FONCA-RISM project in Mexico City | FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_stocks/2018/01/25/new-foncarism-project-in-mexico-city--foncarism.html){:target="_blank"} by John Lazos
 
-9. [Exhibit in the Bavarian State Library on Historic Tablatures](http://www.rism.info/en/home/newsdetails/select/events/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html){:target="_blank"}
+9. [Exhibit in the Bavarian State Library on Historic Tablatures](/events/2018/01/15/exhibit-in-the-bavarian-state-library-on-historic.html){:target="_blank"}
 
-10. [RISM—500 Years Ago](http://www.rism.info/en/home/newsdetails/select/self_representation/article/64/rism-500-years-ago.html){:target="_blank"}
+10. [RISM—500 Years Ago](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
 
-But in 2018—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](http://www.rism.info/en/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
+But in 2018—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
 
 
 

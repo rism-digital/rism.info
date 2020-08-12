@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png
 ---
 
 
-[Ten years ago this month](http://www.rism.info/en/home/newsdetails/select/rism_online_catalog/article/64/new-online-music-catalogue-over-700000-entries.html){:target="_blank"}, the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was first released free of charge. Not only has the amount of data significantly increased since then, but the catalog's software is regularly updated and improved.
+[Ten years ago this month](/press_reviews/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"}, the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was first released free of charge. Not only has the amount of data significantly increased since then, but the catalog's software is regularly updated and improved.
 
 The amount of data has increased from an initial 700,000 records with descriptions of music manuscripts to today's 1,215,413 records with descriptions of printed and manuscript sources, as well as an additional 138,639 personal names and 60,970 institutions from the authority files.
 

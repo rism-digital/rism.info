@@ -42,7 +42,7 @@ Here are the highlights from the annual report. The full version can be read [on
 
 -
 
-**New publication in series B** : The 32nd volume in this series was published: [B/XVI: _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_](http://www.rism.info/en/home/newsdetails/article/2/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html){:target="_blank"}. Described by Tilmann Seebass with the cooperation of Hedwig I. R. Hinzler (Henle Verlag: Munich, 2015).
+**New publication in series B** : The 32nd volume in this series was published: [B/XVI: _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_](/new_publications/2015/10/29/new-volume-in-risms-series-b-balinese-palmleaf.html){:target="_blank"}. Described by Tilmann Seebass with the cooperation of Hedwig I. R. Hinzler (Henle Verlag: Munich, 2015).
 
 
 - **Series C** : RISM is working with the IAML working group [Access to Music Archives (AMA)](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to update Series C, Directory of Music Research Libraries, and make it available as an online database.

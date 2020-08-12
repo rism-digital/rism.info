@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png
 ---
 
 
-[Im Juni vor zehn Jahren](http://www.rism.info/en/home/newsdetails/select/rism_online_catalog/article/64/new-online-music-catalogue-over-700000-entries.html){:target="_blank"} konnte zum ersten Mal der kostenlose [RISM Online-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} freigeschaltet werden. Seither ist nicht nur die Datenmenge erheblich angestiegen, auch wurde die Software regelmäßig upgedated und erweitert.
+[Im Juni vor zehn Jahren](/press_reviews/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"} konnte zum ersten Mal der kostenlose [RISM Online-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} freigeschaltet werden. Seither ist nicht nur die Datenmenge erheblich angestiegen, auch wurde die Software regelmäßig upgedated und erweitert.
 
 Die Datenmenge ist gestiegen von ursprünglich 700.000 Titel mit Beschreibungen von Musikhandschriften auf zuletzt 1.215.413 Titel mit Beschreibungen von gedruckten und handschriftlichen Quellen, sowie zusätzlich 138.639 Personennamen und 60.970 Institutionen aus den Normdateien.
 

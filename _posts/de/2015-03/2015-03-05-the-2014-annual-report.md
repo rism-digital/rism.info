@@ -66,7 +66,7 @@ Durchschnittlich wurde der Online-Katalog von ca. 6.500 Menschen pro Monat, insg
 
 -
 
-Die neue [im April](http://www.rism.info/en/home/newsdetails/article/64/new-version-of-the-rism-online-catalog.html?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=04&cHash=050d2daabf26e3b73ca969a239c2ee1f){:target="_blank"} veröffentlichte Version des Online-Katalogs bietet einen Filter, um die Ergebnisse auf digitalisierte Quellen einzugrenzen und Benutzern somit den direkten Zugang zu den Abbildungen zu erlauben. Es gibt derzeit ca. 12.000 solcher Verlinkungen im Katalog.
+Die neue [im April](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=04&cHash=050d2daabf26e3b73ca969a239c2ee1f){:target="_blank"} veröffentlichte Version des Online-Katalogs bietet einen Filter, um die Ergebnisse auf digitalisierte Quellen einzugrenzen und Benutzern somit den direkten Zugang zu den Abbildungen zu erlauben. Es gibt derzeit ca. 12.000 solcher Verlinkungen im Katalog.
 
 
 -

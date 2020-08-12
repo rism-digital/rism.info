@@ -66,7 +66,7 @@ On average, the online catalog was visited by about 6,500 people per month, a to
 
 -
 
-The new version of the online catalog, [released in April](http://www.rism.info/en/home/newsdetails/article/64/new-version-of-the-rism-online-catalog.html?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=04&cHash=050d2daabf26e3b73ca969a239c2ee1f){:target="_blank"}, has a filter to limit the results to records with links to digitized items, allowing users direct access to images of the source. There are currently ca. 12,000 such links in the catalog.
+The new version of the online catalog, [released in April](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=04&cHash=050d2daabf26e3b73ca969a239c2ee1f){:target="_blank"}, has a filter to limit the results to records with links to digitized items, allowing users direct access to images of the source. There are currently ca. 12,000 such links in the catalog.
 
 
 -

@@ -9,7 +9,7 @@ image: /uploads/_processed_/csm_Nutzerstudie_2_Bruch_D-B_024c56fa6e.png
 ---
 
 
-Today, we're continuing the conversation about comments we received from the [recent RISM survey](/community/survey-2014-2015.html). On Monday [we talked about](http://www.rism.info/en/home/newsdetails/article/2/the-rism-survey-we-respond-to-your-comments.html){:target="_blank"} countries represented in RISM and secondary literature. Today:
+Today, we're continuing the conversation about comments we received from the [recent RISM survey](/community/survey-2014-2015.html). On Monday [we talked about](/self_representation/2015/08/10/results-of-the-rism-user-study-part-ii-your.html){:target="_blank"} countries represented in RISM and secondary literature. Today:
 
 **"Do you still have the cataloging limit of 1850?"- Respondent 372**
 

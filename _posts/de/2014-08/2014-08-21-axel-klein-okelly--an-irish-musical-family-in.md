@@ -11,7 +11,7 @@ image: /uploads/_processed_/csm_Klein_O_Kelly_book_c7680f3a16.jpg
 
 
 
-Axel Klein, der uns bei unserem Frankfurter RISM-Konzert "[Ein Abend mit Musik aus Irland](http://www.rism.info/de/startseite/newsdetails/article/64/an-evening-of-irish-music.html){:target="_blank"}" im März 2014 unterstützte, hat folgende Monographie über die irische Musikerfamilie O’Kelly publiziert:
+Axel Klein, der uns bei unserem Frankfurter RISM-Konzert "[Ein Abend mit Musik aus Irland](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}" im März 2014 unterstützte, hat folgende Monographie über die irische Musikerfamilie O’Kelly publiziert:
 
 [O'Kelly - An Irish Musical Family in Nineteenth-Century France Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
 

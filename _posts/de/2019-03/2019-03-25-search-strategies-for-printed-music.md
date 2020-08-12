@@ -18,7 +18,7 @@ Wenn Sie eine A/I- oder B/I-Nummer vorliegen haben, bietet sich in der [**Erweit
 1684|3
 1684/3
 
-Wenn Sie nicht finden, wonach die suchten, geben Sie zusätzlich die Zahl in Anführungszeichen im Feld **Alle Felder** ein: "1684-3". Durch nicht indexierte Angaben des B/I-Materials können Sie dennoch zu einem Ergebnis kommen ([die Gründe dafür finden Sie hier](http://www.rism.info/de/startseite/newsdetails/select/new-at-rism/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html){:target="_blank"}), die nur durch die Stichwortsuche zu finden sind.
+Wenn Sie nicht finden, wonach die suchten, geben Sie zusätzlich die Zahl in Anführungszeichen im Feld **Alle Felder** ein: "1684-3". Durch nicht indexierte Angaben des B/I-Materials können Sie dennoch zu einem Ergebnis kommen ([die Gründe dafür finden Sie hier](/self_representation/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"}), die nur durch die Stichwortsuche zu finden sind.
 
 Musikdrucke von 1551 bis 1600 sind größtenteils im RISM-Katalog enthalten, leider noch nicht vollständig. Nach 1610 veröffentlichtes Material ist das nächste Projekt. Die Datensätze werden auch im Rahmen einzelner RISM-Projekte kontinuierlich überarbeitet. Es lohnt sich daher, zunächst im RISM-Katalog zu suchen, bevor man nach den blauen Bänden greift. Und natürlich gibt es RISM-Projekte, die sich auf die Musik des 19. Jahrhunderts konzentrieren (wie diese [Chopin-Editionen](https://opac.rism.info/metaopac/perma.do;jsessionid=634CDC3D78CC8963DC79AC6B958A979F.touch02?v=rism&q=-1%3d%22ks30080660%22){:target="_blank"}). Dieser Zeitraum gehörte in früheren Jahrzehnten nicht in den RISM-Bereich und erhielt dadurch auch keine A/I- oder B/I-Nummern.
 

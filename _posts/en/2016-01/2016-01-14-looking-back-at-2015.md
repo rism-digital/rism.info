@@ -13,17 +13,17 @@ The year 2015 is behind us, so we'd like take a moment to look at the stories th
 
 The five most popular stories that we published on our website in 2015 were:
 
-1. [New CD Box Set: The RISM Complete Incipits Edition](http://www.rism.info/en/home/newsdetails/article/2/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
-2. ['Earliest' polyphonic music discovered in British Library](http://www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html){:target="_blank"} - published in partnership with our colleagues at the British Library
-3. [New Discoveries of Vivaldi in Dresden](http://www.rism.info/en/home/newsdetails/article/64/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - by RISM user Francisco Javier Lupiáñez Ruiz
+1. [New CD Box Set: The RISM Complete Incipits Edition](/self_representation/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
+2. ['Earliest' polyphonic music discovered in British Library](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - published in partnership with our colleagues at the British Library
+3. [New Discoveries of Vivaldi in Dresden](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - by RISM user Francisco Javier Lupiáñez Ruiz
 
 Francisco Javier Lupiáñez Ruiz
 
-4. [Digitized Opera Scores at the German Historical Institute in Rome](http://www.rism.info/en/home/newsdetails/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
-5. [Antonio Cesti's Orontea](http://www.rism.info/en/home/newsdetails/article/64/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
+4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
+5. [Antonio Cesti's Orontea](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
 
 
-But in 2015, the story more popular than any other story (from any year), was "[Listen to the world's oldest piano](http://www.rism.info/en/home/newsdetails/article/64/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" from 2014.
+But in 2015, the story more popular than any other story (from any year), was "[Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" from 2014.
 
 These posts show the cooperation we enjoy with our RISM partner institutions as well as RISM users like you.
 

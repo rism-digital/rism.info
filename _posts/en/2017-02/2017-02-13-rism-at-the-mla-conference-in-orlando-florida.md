@@ -56,7 +56,7 @@ Friends and fans of RISM might want to check out these other sessions:
 
 
 
-This session features André Guerra Cotta (Universidade Federal Fluminense Polo Rio das Ostras) and Beatriz Magalhães Castro (Universidade de Brasilia) from RISM Brazil as well as Yael Bitrán Goren from CENIDIM, which co-organized with Conservatorio de las Rosas [a conference in 2015](http://www.rism.info/en/home/newsdetails/article/64/rism-and-the-rs-in-mexico.html){:target="_blank"} that featured the 4 R projects. This session will be streamed online.
+This session features André Guerra Cotta (Universidade Federal Fluminense Polo Rio das Ostras) and Beatriz Magalhães Castro (Universidade de Brasilia) from RISM Brazil as well as Yael Bitrán Goren from CENIDIM, which co-organized with Conservatorio de las Rosas [a conference in 2015](/events/2015/09/14/rism-and-the-rs-in-mexico.html){:target="_blank"} that featured the 4 R projects. This session will be streamed online.
 
 **IAML Latin America Forum: Improving access to music resources through cooperation**
 
