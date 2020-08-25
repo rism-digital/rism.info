@@ -29,19 +29,18 @@
         <section class="section">
             <div class="container">
                 <div class="columns is-multiline ">
+                    <div class="column {{ content_width }}">
+                        <div class="content">
+                        {{ content }}
+                        </div>
+                    </div>
                     {% if site.posts and show_posts %}
                     <div class="column is-7-desktop is-12-tablet">
                         <div class="content">
                             {% include latest-posts.html %}
                         </div>
                     </div>
-                    {% endif %}
-                    <div class="column {{ content_width }}">
-                        <div class="content">
-                        {{ content }}
-                        </div>
-                    </div>
-                    {% if menubar or sidepanel %}
+                    {% elsif menubar or sidepanel %}
                     <div class="column is-4-desktop is-4-tablet side-content">
                         {% if menubar %}{% include menubar.html %}{% endif %}
                         {% if sidepanel %}{% include sidepanel.html margin=menubar %}{% endif %}
