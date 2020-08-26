@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Erstes RISM-Sigel für Papua-Neuguinea"
+title: Erstes RISM-Sigel für Papua-Neuguinea
 date: 2020-03-23
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Siglum_Papua_New_Guinea_e69c8c66d2.png
+image: "/uploads/_processed_/csm_Siglum_Papua_New_Guinea_e69c8c66d2.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/first-rism-siglum-for-papua-new-guinea.html
+email: contact@rism.info
+author: ''
 ---
 
 

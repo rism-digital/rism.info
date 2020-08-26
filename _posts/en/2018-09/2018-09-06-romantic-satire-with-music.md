@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Romantic satire, \"With Music.\""
+title: Romantic satire, "With Music."
 date: 2018-09-06
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg
+image: "/uploads/_processed_/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/romantic-satire-with-music.html
+email: lkoehler@stud.uni-frankfurt.de
+author: Charlotte Köhler
 ---
 
 

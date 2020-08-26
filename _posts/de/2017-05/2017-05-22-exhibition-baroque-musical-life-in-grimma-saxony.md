@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ausstellung: Grimmaer Musik(leben) um 1700"
+title: 'Ausstellung: Grimmaer Musik(leben) um 1700'
 date: 2017-05-22
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg
+image: "/uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
+email: Andrea.Hartmann@slub-dresden.de
+author: Andrea Hartmann
 ---
 
 

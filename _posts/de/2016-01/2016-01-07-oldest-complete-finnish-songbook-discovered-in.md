@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ältestes vollständiges finnisches Gesangbuch entdeckt"
+title: Ältestes vollständiges finnisches Gesangbuch entdeckt
 date: 2016-01-07
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg
+image: "/uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
+email: ''
+author: ''
 ---
 
 

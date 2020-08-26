@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Does Christoph Willibald Gluck deserve better?"
+title: Does Christoph Willibald Gluck deserve better?
 date: 2014-07-07
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg
+image: "/uploads/_processed_/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/does-christoph-willibald-gluck-deserve-better.html
+email: ''
+author: ''
 ---
 
 

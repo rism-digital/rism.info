@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Tyrolean Christmas Concert 18-19 December 2010"
+title: Tyrolean Christmas Concert 18-19 December 2010
 date: 2010-12-12
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_reutte_2010_480_01_2e57216cc1.jpg
+image: "/uploads/_processed_/csm_reutte_2010_480_01_2e57216cc1.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tyrolean-christmas-concert-18-19-december-2010.html
+email: ''
+author: ''
 ---
 
 

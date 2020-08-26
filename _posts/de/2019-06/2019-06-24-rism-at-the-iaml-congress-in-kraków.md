@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM auf dem IAML Kongress in Krakau"
+title: RISM auf dem IAML Kongress in Krakau
 date: 2019-06-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png
+image: "/uploads/_processed_/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-krakow.html
+email: ''
+author: ''
 ---
 
 

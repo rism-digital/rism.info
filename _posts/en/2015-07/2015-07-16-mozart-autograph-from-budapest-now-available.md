@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mozart autograph from Budapest now available online"
+title: Mozart autograph from Budapest now available online
 date: 2015-07-16
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Ungarn_Mozart_Autograph_265b1618d5.png
+image: "/uploads/_processed_/csm_Ungarn_Mozart_Autograph_265b1618d5.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autograph-from-budapest-now-available-online.html
+email: mikusi@oszk.hu
+author: ''
 ---
 
 

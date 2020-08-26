@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eugène Ysaÿe's Manuscripts"
+title: Eugène Ysaÿe's Manuscripts
 date: 2016-07-14
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Ysaye_und_Bruessel_ee50e04932.jpg
+image: "/uploads/_processed_/csm_Ysaye_und_Bruessel_ee50e04932.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eugene-ysayes-manuscripts.html
+email: ''
+author: ''
 ---
 
 

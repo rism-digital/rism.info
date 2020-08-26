@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM on a Lark"
+title: RISM on a Lark
 date: 2019-11-25
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg
+image: "/uploads/_processed_/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-on-a-lark.html
+email: ''
+author: ''
 ---
 
 

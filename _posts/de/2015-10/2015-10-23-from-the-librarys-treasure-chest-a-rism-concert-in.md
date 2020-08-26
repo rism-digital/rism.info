@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Aus dem Schatzkästchen der Bibliothek: Ein RISM-Konzert in Köln"
+title: 'Aus dem Schatzkästchen der Bibliothek: Ein RISM-Konzert in Köln'
 date: 2015-10-23
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg
+image: "/uploads/_processed_/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-the-librarys-treasure-chest-a-rism-concert-in-cologne.html
+email: steffen.voss@bsb-muenchen.de
+author: Dr. Steffen Voss
 ---
 
 

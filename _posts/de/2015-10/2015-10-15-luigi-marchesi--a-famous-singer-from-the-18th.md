@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Luigi Marchesi - ein berühmter Sänger des 18. Jahrhunderts"
+title: Luigi Marchesi - ein berühmter Sänger des 18. Jahrhunderts
 date: 2015-10-15
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Luigi_Marchesi-1a_38ddab43d0.jpg
+image: "/uploads/_processed_/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/luigi-marchesi.html
+email: ''
+author: ''
 ---
 
 

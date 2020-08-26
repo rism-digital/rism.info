@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Workshop and Seminar in Warsaw (February 3-4, 2016)"
+title: RISM Workshop and Seminar in Warsaw (February 3-4, 2016)
 date: 2016-02-17
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg
+image: "/uploads/_processed_/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-workshop-and-seminar-in-warsaw-february-3-4-2016.html
+email: s.wronkowska@bn.org.pl
+author: Sonia Wronkowska
 ---
 
 

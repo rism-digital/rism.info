@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bamberger Kabinettausstellung zum Gedenken an Richard Wagner"
+title: Bamberger Kabinettausstellung zum Gedenken an Richard Wagner
 date: 2014-05-30
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg
+image: "/uploads/_processed_/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wagner-exhibit-in-bamberg.html
+email: ''
+author: ''
 ---
 
 

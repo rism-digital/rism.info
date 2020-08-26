@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bartók Kritische Gesamtausgabe startet"
+title: Bartók Kritische Gesamtausgabe startet
 date: 2015-10-01
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Bartok_Gesamtausgabe_aece471c51.jpg
+image: "/uploads/_processed_/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bartok-complete-critical-edition-launched.html
+email: info@henle.de
+author: G. Henle Verlag
 ---
 
 

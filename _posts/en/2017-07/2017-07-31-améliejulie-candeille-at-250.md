@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Amélie-Julie Candeille at 250"
+title: Amélie-Julie Candeille at 250
 date: 2017-07-31
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Candeille_Amelie_Julie_c19849bdce.jpg
+image: "/uploads/_processed_/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amelie-julie-candeille-at-250.html
+email: ''
+author: ''
 ---
 
 

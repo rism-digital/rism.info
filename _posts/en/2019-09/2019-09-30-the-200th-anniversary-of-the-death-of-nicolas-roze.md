@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 200th Anniversary of the Death of Nicolas Roze"
+title: The 200th Anniversary of the Death of Nicolas Roze
 date: 2019-09-30
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Roze_Nicolas_200_526cdfc026.png
+image: "/uploads/_processed_/csm_Roze_Nicolas_200_526cdfc026.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
+email: ''
+author: ''
 ---
 
 

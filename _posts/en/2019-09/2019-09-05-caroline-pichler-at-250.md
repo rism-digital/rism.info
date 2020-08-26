@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Caroline Pichler at 250"
+title: Caroline Pichler at 250
 date: 2019-09-05
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Pichler_Caroline_250_3c6ebb5579.png
+image: "/uploads/_processed_/csm_Pichler_Caroline_250_3c6ebb5579.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/caroline-pichler-at-250.html
+email: ''
+author: ''
 ---
 
 

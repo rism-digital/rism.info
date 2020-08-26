@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Modern Monday: Richard Strauss"
+title: 'RISM Modern Monday: Richard Strauss'
 date: 2016-01-18
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Strauss-Specht_01_01d99db60e.jpg
+image: "/uploads/_processed_/csm_Strauss-Specht_01_01d99db60e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-richard-strauss.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Aufführungsmaterialien zu „Tannhäuser“ und „Meistersinger von Nürnberg“ jetzt digital zugänglich"
+title: Aufführungsmaterialien zu „Tannhäuser“ und „Meistersinger von Nürnberg“ jetzt digital zugänglich
 date: 2019-07-25
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Wagner_Slub_blog_991559831b.png
+image: "/uploads/_processed_/csm_Wagner_Slub_blog_991559831b.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
+email: andrea.hammes@slub-dresden.de
+author: Andrea Hammes
 ---
 
 

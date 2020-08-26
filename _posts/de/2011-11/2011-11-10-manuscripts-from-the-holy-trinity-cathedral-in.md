@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Handschriften der Dreifaltigkeitskirche in Liepāja (Lettland)"
+title: Handschriften der Dreifaltigkeitskirche in Liepāja (Lettland)
 date: 2011-11-10
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_LibauDolesWeb_6ec3514d6a.jpg
+image: "/uploads/_processed_/csm_LibauDolesWeb_6ec3514d6a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscripts-from-the-holy-trinity-cathedral-in-liepaja-latvia.html
+email: contact@rism.info
+author: Frauke Heinze
 ---
 
 

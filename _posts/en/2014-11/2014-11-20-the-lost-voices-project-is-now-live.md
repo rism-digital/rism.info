@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Lost Voices Project is now live"
+title: The Lost Voices Project is now live
 date: 2014-11-20
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Lost_Voices_fdff2e5ba4.jpg
+image: "/uploads/_processed_/csm_Lost_Voices_fdff2e5ba4.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-lost-voices-project-is-now-live.html
+email: ''
+author: ''
 ---
 
 

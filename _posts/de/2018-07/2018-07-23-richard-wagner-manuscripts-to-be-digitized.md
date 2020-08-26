@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digitalisierung am Nationalarchiv der Richard-Wagner-Stiftung Bayreuth"
+title: Digitalisierung am Nationalarchiv der Richard-Wagner-Stiftung Bayreuth
 date: 2018-07-23
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg
+image: "/uploads/_processed_/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-wagner-manuscripts-to-be-digitized.html
+email: Laura.Schroeder@stadt.bayreuth.de
+author: Laura Schroeder
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A RISM Internship: Report from the Central Office in Frankfurt"
+title: 'A RISM Internship: Report from the Central Office in Frankfurt'
 date: 2018-06-21
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png
+image: "/uploads/_processed_/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-rism-internship-report-from-the-central-office-in-frankfurt.html
+email: ulrike.schaedel@gmx.net
+author: Ulrike Schädel
 ---
 
 

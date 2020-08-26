@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Schätze der Tudors"
+title: Die Schätze der Tudors
 date: 2014-10-16
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Luther_858925dff4.jpg
+image: "/uploads/_processed_/csm_Luther_858925dff4.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/tudor-treasures.html
+email: ''
+author: ''
 ---
 
 

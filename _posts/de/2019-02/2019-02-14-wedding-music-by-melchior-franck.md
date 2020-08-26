@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hochzeitsmusiken von Melchior Franck"
+title: Hochzeitsmusiken von Melchior Franck
 date: 2019-02-14
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Hochzeitsmusiken_b92266ed0b.jpg
+image: "/uploads/_processed_/csm_Hochzeitsmusiken_b92266ed0b.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wedding-music-by-melchior-franck.html
+email: ''
+author: ''
 ---
 
 

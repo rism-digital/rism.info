@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM-Artikel auf Wikipedia aktualisiert"
+title: RISM-Artikel auf Wikipedia aktualisiert
 date: 2019-10-10
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_wikipedia_logo_8efafa0864.png
+image: "/uploads/_processed_/csm_wikipedia_logo_8efafa0864.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/risms-wikipedia-articles-now-updated.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"In Frankfurt a/m zu haben bey Musikus Ludwig\": Identifying the Copyist Johann Wilhelm Ludwig"
+title: '"In Frankfurt a/m zu haben bey Musikus Ludwig": Identifying the Copyist Johann Wilhelm Ludwig'
 date: 2020-03-09
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Musikus_Ludwig_IB_5_AmZ_1805_ed447cb28e.jpg
+image: "/uploads/_processed_/csm_Musikus_Ludwig_IB_5_AmZ_1805_ed447cb28e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/in-frankfurt-am-zu-haben-bey-musikus-ludwig-identifying-the-copyist-johann-wilhelm-ludwig.html
+email: ''
+author: Kristina Krämer
 ---
 
 

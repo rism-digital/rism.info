@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Revising Records for Post-1600 Printed Anthologies: There is an End in Sight!"
+title: 'Revising Records for Post-1600 Printed Anthologies: There is an End in Sight!'
 date: 2020-07-02
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bericht_Update_B1_70c2221de6.jpg
+image: "/uploads/_processed_/csm_Bericht_Update_B1_70c2221de6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/revising-records-for-post-1600-printed-anthologies-there-is-an-end-in-sight.html
+email: contact@rism.info
+author: ''
 ---
 
 

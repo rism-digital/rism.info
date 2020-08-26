@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Oldest complete Finnish songbook discovered in Dresden"
+title: Oldest complete Finnish songbook discovered in Dresden
 date: 2016-01-07
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg
+image: "/uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikhandschriften von Ermanno Wolf-Ferrari online"
+title: Musikhandschriften von Ermanno Wolf-Ferrari online
 date: 2019-04-23
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png
+image: "/uploads/_processed_/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-manuscripts-by-ermanno-wolf-ferrari-online.html
+email: ''
+author: ''
 ---
 
 

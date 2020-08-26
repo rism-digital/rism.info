@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Thematischer Katalog der Musiksammlung des Prämonstratenser Klosters in Želiv"
+title: Thematischer Katalog der Musiksammlung des Prämonstratenser Klosters in Želiv
 date: 2017-01-23
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg
+image: "/uploads/_processed_/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
+email: Eliska.Sediva@nkp.cz
+author: Eliška Šedivá
 ---
 
 

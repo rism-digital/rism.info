@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eintrag Stift Lambach auf halbem Wege"
+title: Eintrag Stift Lambach auf halbem Wege
 date: 2015-07-20
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Lambach-Lecq_0af6a169e6.jpg
+image: "/uploads/_processed_/csm_Lambach-Lecq_0af6a169e6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/work-on-lambach-abbey-halfway-done.html
+email: lecqerbg@xs4all.nl
+author: Frank van der Lecq
 ---
 
 

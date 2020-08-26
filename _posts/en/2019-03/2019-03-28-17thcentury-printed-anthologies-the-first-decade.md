@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "17th-Century Printed Anthologies: The First Decade is Now Online"
+title: '17th-Century Printed Anthologies: The First Decade is Now Online'
 date: 2019-03-28
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bericht_1601-1610_fd03cb214e.png
+image: "/uploads/_processed_/csm_Bericht_1601-1610_fd03cb214e.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
+email: contact@rism.info
+author: ''
 ---
 
 

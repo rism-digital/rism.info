@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Glückwünsche an den RISM-Mitarbeiter Dieter Kirsch (Würzburg)"
+title: Glückwünsche an den RISM-Mitarbeiter Dieter Kirsch (Würzburg)
 date: 2014-07-28
 lang: de
 post: true
 category: self_representation
-image: /uploads/pics/Kirsch_Ehrendoktorwuerde.jpg
+image: "/uploads/pics/Kirsch_Ehrendoktorwuerde.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Konferenz mit Workshop: Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM"
+title: 'Konferenz mit Workshop: Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM'
 date: 2019-03-14
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg
+image: "/uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
+email: ''
+author: ''
 ---
 
 

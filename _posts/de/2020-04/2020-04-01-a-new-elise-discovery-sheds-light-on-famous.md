@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine neue Elise? Entdeckung beleuchtet berühmtes Beethoven-Werk"
+title: Eine neue Elise? Entdeckung beleuchtet berühmtes Beethoven-Werk
 date: 2020-04-01
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg
+image: "/uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
+email: ''
+author: ''
 ---
 
 

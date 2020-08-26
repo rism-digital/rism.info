@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Seminarbericht: Notierte Musik im digitalen Bereich"
+title: 'Seminarbericht: Notierte Musik im digitalen Bereich'
 date: 2018-11-26
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png
+image: "/uploads/_processed_/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/seminar-report-notated-music-in-the-digital-sphere.html
+email: ''
+author: ''
 ---
 
 

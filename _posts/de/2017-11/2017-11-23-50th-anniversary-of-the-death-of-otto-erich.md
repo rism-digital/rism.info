@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 50. Todestag von Otto Erich Deutsch"
+title: Zum 50. Todestag von Otto Erich Deutsch
 date: 2017-11-23
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg
+image: "/uploads/_processed_/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
+email: ''
+author: ''
 ---
 
 

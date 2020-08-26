@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musik in verschiedenen Sprachen am internationalen Tag der Muttersprache"
+title: Musik in verschiedenen Sprachen am internationalen Tag der Muttersprache
 date: 2018-02-21
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Muttersprache_6db58dc9cd.png
+image: "/uploads/_processed_/csm_Muttersprache_6db58dc9cd.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
+email: ''
+author: ''
 ---
 
 

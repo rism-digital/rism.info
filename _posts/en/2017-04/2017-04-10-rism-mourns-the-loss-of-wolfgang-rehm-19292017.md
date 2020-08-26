@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM mourns the loss of Wolfgang Rehm (1929-2017)"
+title: RISM mourns the loss of Wolfgang Rehm (1929-2017)
 date: 2017-04-10
 lang: en
 post: true
 category: in_memoriam
-image: /uploads/_processed_/csm_rism2_3c185d75bc.png
+image: "/uploads/_processed_/csm_rism2_3c185d75bc.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
+email: ''
+author: ''
 ---
 
 

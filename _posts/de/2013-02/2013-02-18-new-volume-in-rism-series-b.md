@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neuer RISM-Band in der Serie B erschienen"
+title: Neuer RISM-Band in der Serie B erschienen
 date: 2013-02-18
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_B_XIII_307_blau_83cbccccd1.jpg
+image: "/uploads/_processed_/csm_B_XIII_307_blau_83cbccccd1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-in-rism-series-b.html
+email: ''
+author: ''
 ---
 
 

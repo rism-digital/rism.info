@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "National anthems @RISM"
+title: National anthems @RISM
 date: 2014-06-16
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Niederlande_c13dc86004.jpg
+image: "/uploads/_processed_/csm_Niederlande_c13dc86004.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/national-anthems-rism.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Congress Diary from IAML Kraków 2019"
+title: Congress Diary from IAML Kraków 2019
 date: 2019-08-26
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg
+image: "/uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/congress-diary-from-iaml-krakow-2019.html
+email: ''
+author: ''
 ---
 
 

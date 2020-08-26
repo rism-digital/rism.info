@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jahresbericht 2017"
+title: Jahresbericht 2017
 date: 2018-02-26
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2017-annual-report.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Weihnachtsgrüße 2015!"
+title: Weihnachtsgrüße 2015!
 date: 2015-12-21
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Weihnachtsgruss_2015_dd1756a5cb.jpg
+image: "/uploads/_processed_/csm_Weihnachtsgruss_2015_dd1756a5cb.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-holidays-2015.html
+email: ''
+author: ''
 ---
 
 

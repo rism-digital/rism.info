@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Friedrich Nicolas Manskopf and His Museum"
+title: Friedrich Nicolas Manskopf and His Museum
 date: 2019-04-25
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Manskopf-2_01_b8875df1a6.jpg
+image: "/uploads/_processed_/csm_Manskopf-2_01_b8875df1a6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/friedrich-nicolas-manskopf-and-his-museum.html
+email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
+author: Ann Kersting-Meuleman
 ---
 
 

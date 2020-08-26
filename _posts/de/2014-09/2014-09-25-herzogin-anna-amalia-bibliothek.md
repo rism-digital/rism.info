@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Herzogin Anna Amalia Bibliothek"
+title: Herzogin Anna Amalia Bibliothek
 date: 2014-09-25
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg
+image: "/uploads/_processed_/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/herzogin-anna-amalia-bibliothek.html
+email: ''
+author: ''
 ---
 
 

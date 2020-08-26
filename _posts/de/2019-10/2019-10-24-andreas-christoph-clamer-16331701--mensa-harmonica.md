@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Andreas Christoph Clamer (1633-1701) – Mensa Harmonica – im Stift Heiligenkreuz"
+title: Andreas Christoph Clamer (1633-1701) – Mensa Harmonica – im Stift Heiligenkreuz
 date: 2019-10-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg
+image: "/uploads/_processed_/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
+email: p.roman@stift-heiligenkreuz.at
+author: P. Roman Nägele
 ---
 
 

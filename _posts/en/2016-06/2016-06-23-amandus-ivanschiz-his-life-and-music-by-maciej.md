@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"Amandus Ivanschiz: His Life and Music\" by Maciej Jochymczyk"
+title: '"Amandus Ivanschiz: His Life and Music" by Maciej Jochymczyk'
 date: 2016-06-23
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Ivanschiz_Amandus_f40a4e0251.jpg
+image: "/uploads/_processed_/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
+email: ''
+author: ''
 ---
 
 

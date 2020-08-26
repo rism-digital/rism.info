@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Christoph Wolff honored with Medal Pour le Mérite"
+title: Christoph Wolff honored with Medal Pour le Mérite
 date: 2016-06-02
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_ChWolff_klein_0360ffe331.jpg
+image: "/uploads/_processed_/csm_ChWolff_klein_0360ffe331.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
+email: ''
+author: ''
 ---
 
 

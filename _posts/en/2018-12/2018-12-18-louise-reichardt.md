@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "L(o)uise Reichardt"
+title: L(o)uise Reichardt
 date: 2018-12-18
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Reichardt-Louise_485bf1271e.png
+image: "/uploads/_processed_/csm_Reichardt-Louise_485bf1271e.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/louise-reichardt.html
+email: ''
+author: ''
 ---
 
 

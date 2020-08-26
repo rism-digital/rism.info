@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 500. Todestag von Pierre de la Rue"
+title: Zum 500. Todestag von Pierre de la Rue
 date: 2018-11-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_De_la_Rue_500_4455370fbf.png
+image: "/uploads/_processed_/csm_De_la_Rue_500_4455370fbf.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
+email: ''
+author: ''
 ---
 
 

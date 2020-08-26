@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Announcing a New RISM Working Group in Poznań, Poland"
+title: Announcing a New RISM Working Group in Poznań, Poland
 date: 2015-08-31
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Posen_54be13d6c0.jpg
+image: "/uploads/_processed_/csm_Posen_54be13d6c0.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
+email: almadry@poczta.onet.pl
+author: ''
 ---
 
 

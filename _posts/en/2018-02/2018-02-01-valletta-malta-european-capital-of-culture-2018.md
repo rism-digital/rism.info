@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Valletta, Malta: European Capital of Culture 2018"
+title: 'Valletta, Malta: European Capital of Culture 2018'
 date: 2018-02-01
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Valletta_2018_fa9ee0d7be.jpg
+image: "/uploads/_processed_/csm_Valletta_2018_fa9ee0d7be.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
+email: ''
+author: ''
 ---
 
 

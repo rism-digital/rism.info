@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A New Catalog of Works for Hector Berlioz"
+title: A New Catalog of Works for Hector Berlioz
 date: 2019-03-07
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Berlioz_Sterbetag_2019_1855372ada.jpg
+image: "/uploads/_processed_/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-catalog-of-works-for-hector-berlioz.html
+email: ''
+author: ''
 ---
 
 

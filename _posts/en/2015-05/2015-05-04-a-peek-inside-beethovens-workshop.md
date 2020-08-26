@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Peek Inside Beethoven's Workshop"
+title: A Peek Inside Beethoven's Workshop
 date: 2015-05-04
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Beethoven_0763003b24.jpg
+image: "/uploads/_processed_/csm_Beethoven_0763003b24.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-peek-inside-beethovens-workshop.html
+email: ''
+author: ''
 ---
 
 

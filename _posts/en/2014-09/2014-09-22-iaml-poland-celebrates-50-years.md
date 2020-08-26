@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "IAML Poland Celebrates 50 Years"
+title: IAML Poland Celebrates 50 Years
 date: 2014-09-22
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Polen_56a7071878.jpg
+image: "/uploads/_processed_/csm_Polen_56a7071878.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/iaml-poland-celebrates-50-years.html
+email: ''
+author: ''
 ---
 
 

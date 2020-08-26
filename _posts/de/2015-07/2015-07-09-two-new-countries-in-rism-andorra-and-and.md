@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Länder bei RISM: Andorra (AND) und Indonesien (RI)"
+title: 'Neue Länder bei RISM: Andorra (AND) und Indonesien (RI)'
 date: 2015-07-09
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Andorra_5fd8622c25.jpg
+image: "/uploads/_processed_/csm_Andorra_5fd8622c25.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-new-countries-in-rism-andorra-and-and-indonesia-ri.html
+email: contact@rism.info
+author: ''
 ---
 
 

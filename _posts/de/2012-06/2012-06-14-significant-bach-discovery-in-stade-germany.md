@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bedeutender Bach-Fund in Stade"
+title: Bedeutender Bach-Fund in Stade
 date: 2012-06-14
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_bachstade_df00d68338.jpg
+image: "/uploads/_processed_/csm_bachstade_df00d68338.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/significant-bach-discovery-in-stade-germany.html
+email: Steffen.Voss@bsb-muenchen.de
+author: Steffen Voss
 ---
 
 

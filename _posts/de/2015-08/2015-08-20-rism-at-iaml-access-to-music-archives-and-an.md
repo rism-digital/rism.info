@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM bei IAML: Zugang zu Musikarchiven und Update der RISM Serie C"
+title: 'RISM bei IAML: Zugang zu Musikarchiven und Update der RISM Serie C'
 date: 2015-08-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Access_to_music_archives_9d0e0cfab1.jpg
+image: "/uploads/_processed_/csm_Access_to_music_archives_9d0e0cfab1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-access-to-music-archives-and-an-update-of-rism-series-c.html
+email: ''
+author: ''
 ---
 
 

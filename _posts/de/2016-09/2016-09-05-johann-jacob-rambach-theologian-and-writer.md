@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Johann Jacob Rambach - Theologe und Textdichter"
+title: Johann Jacob Rambach - Theologe und Textdichter
 date: 2016-09-05
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Rambach_afbea77628.jpg
+image: "/uploads/_processed_/csm_Rambach_afbea77628.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-jacob-rambach-theologian-and-writer.html
+email: ''
+author: ''
 ---
 
 

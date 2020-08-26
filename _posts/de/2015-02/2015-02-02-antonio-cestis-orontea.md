@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Orontea von Antonio Cesti"
+title: Orontea von Antonio Cesti
 date: 2015-02-02
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg
+image: "/uploads/_processed_/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/antonio-cestis-orontea.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Broschüre “RISM-Kurzporträt”"
+title: Neue Broschüre “RISM-Kurzporträt”
 date: 2011-08-29
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_KurzportraitS1_25fe8723b0.jpg
+image: "/uploads/_processed_/csm_KurzportraitS1_25fe8723b0.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-brochure-rism-an-overview.html
+email: contact@rism.info
+author: ''
 ---
 
 

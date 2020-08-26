@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine Donizetti-Entdeckung"
+title: Eine Donizetti-Entdeckung
 date: 2014-10-09
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Donizetti_dd1e9e1237.jpg
+image: "/uploads/_processed_/csm_Donizetti_dd1e9e1237.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-donizetti-discovery.html
+email: ''
+author: ''
 ---
 
 

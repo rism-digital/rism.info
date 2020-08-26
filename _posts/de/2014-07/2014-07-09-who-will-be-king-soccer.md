@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Wer wird König Fußball?"
+title: Wer wird König Fußball?
 date: 2014-07-09
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Koning_Voetbal_56139cf205.jpg
+image: "/uploads/_processed_/csm_Koning_Voetbal_56139cf205.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/who-will-be-king-soccer.html
+email: ''
+author: ''
 ---
 
 

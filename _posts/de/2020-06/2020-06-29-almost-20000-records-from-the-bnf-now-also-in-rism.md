@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Fast 20.000 Einträge aus der BnF sind jetzt auch bei RISM recherchierbar"
+title: Fast 20.000 Einträge aus der BnF sind jetzt auch bei RISM recherchierbar
 date: 2020-06-29
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg
+image: "/uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
+email: francois-pierre.goy@bnf.fr
+author: François-Pierre Goy
 ---
 
 

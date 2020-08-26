@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM auf der MLA Konferenz in Orlando (Florida)"
+title: RISM auf der MLA Konferenz in Orlando (Florida)
 date: 2017-02-13
 lang: de
 post: true
 category: events
-image: /uploads/pics/MLA_Orlando.png
+image: "/uploads/pics/MLA_Orlando.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-mla-conference-in-orlando-florida.html
+email: ''
+author: ''
 ---
 
 

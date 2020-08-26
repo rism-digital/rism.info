@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Muscat-Workshop mit Guido Kraus in L'viv (12.-14. Februar 2019)"
+title: Muscat-Workshop mit Guido Kraus in L'viv (12.-14. Februar 2019)
 date: 2019-04-11
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_in_L_viv_002_070b499097.jpg
+image: "/uploads/_processed_/csm_RISM_in_L_viv_002_070b499097.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
+email: forschung@angelikamoths.com
+author: Angelika Moths
 ---
 
 

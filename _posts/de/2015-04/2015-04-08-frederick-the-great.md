@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Friedrich der Große"
+title: Friedrich der Große
 date: 2015-04-08
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Frederick_der_Grosse_01_d7d47ca716.jpg
+image: "/uploads/_processed_/csm_Frederick_der_Grosse_01_d7d47ca716.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/frederick-the-great.html
+email: ''
+author: ''
 ---
 
 

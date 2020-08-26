@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digitale Edition 4.0 der Weber-Gesamtausgabe veröffentlicht"
+title: Digitale Edition 4.0 der Weber-Gesamtausgabe veröffentlicht
 date: 2020-01-23
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png
+image: "/uploads/_processed_/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/version-40-of-weber-complete-edition-digital-edition-published.html
+email: ''
+author: ''
 ---
 
 

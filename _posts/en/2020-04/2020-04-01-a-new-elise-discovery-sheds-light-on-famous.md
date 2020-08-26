@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A New Elise? Discovery Sheds Light on Famous Beethoven Work"
+title: A New Elise? Discovery Sheds Light on Famous Beethoven Work
 date: 2020-04-01
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg
+image: "/uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
+email: ''
+author: ''
 ---
 
 

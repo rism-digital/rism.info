@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The R Projects in Beijing"
+title: The R Projects in Beijing
 date: 2018-08-16
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_China_2018_R-Projekte_a99c431507.png
+image: "/uploads/_processed_/csm_China_2018_R-Projekte_a99c431507.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-r-projects-in-beijing.html
+email: ''
+author: ''
 ---
 
 

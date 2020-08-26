@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM auf der MLA-Konferenz im Livestream"
+title: RISM auf der MLA-Konferenz im Livestream
 date: 2015-02-26
 lang: de
 post: true
 category: events
-image: /uploads/pics/RISM_MLA_conference.jpg
+image: "/uploads/pics/RISM_MLA_conference.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-mla-conference-live-stream.html
+email: ''
+author: ''
 ---
 
 

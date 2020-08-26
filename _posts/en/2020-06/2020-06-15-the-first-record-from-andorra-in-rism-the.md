@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The First Record from Andorra in RISM: The “Periodico de musica” of Maria Rosa d’Areny Jordana"
+title: 'The First Record from Andorra in RISM: The “Periodico de musica” of Maria Rosa d’Areny Jordana'
 date: 2020-06-15
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg
+image: "/uploads/_processed_/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
+email: jbenavent@uda.ad
+author: Joan Benavent Peiró
 ---
 
 

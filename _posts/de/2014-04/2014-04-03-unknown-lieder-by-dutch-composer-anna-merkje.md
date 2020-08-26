@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt"
+title: Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt
 date: 2014-04-03
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Anna_Cramer_65c1562c9d.jpg
+image: "/uploads/_processed_/csm_Anna_Cramer_65c1562c9d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
+email: steffen.voss@bsb.muenchen.de
+author: Steffen Voss
 ---
 
 

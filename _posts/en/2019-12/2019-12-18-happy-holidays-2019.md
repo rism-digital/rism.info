@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Happy Holidays 2019!"
+title: Happy Holidays 2019!
 date: 2019-12-18
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Feiertage_b88cd06392.jpg
+image: "/uploads/_processed_/csm_Feiertage_b88cd06392.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-holidays-2019.html
+email: ''
+author: ''
 ---
 
 

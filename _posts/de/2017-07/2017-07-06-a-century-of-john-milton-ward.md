@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "100 Jahre John Milton Ward"
+title: 100 Jahre John Milton Ward
 date: 2017-07-06
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg
+image: "/uploads/_processed_/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-century-of-john-milton-ward.html
+email: cawelti@fas.harvard.edu
+author: Andrea Cawelti
 ---
 
 

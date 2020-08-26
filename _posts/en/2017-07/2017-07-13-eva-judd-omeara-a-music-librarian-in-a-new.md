@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eva Judd O’Meara: A Music Librarian in a New Profession"
+title: 'Eva Judd O’Meara: A Music Librarian in a New Profession'
 date: 2017-07-13
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_EvaO_Meara_afe14a654f.jpg
+image: "/uploads/_processed_/csm_EvaO_Meara_afe14a654f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eva-judd-omeara-a-music-librarian-in-a-new-profession.html
+email: richard.boursy@yale.edu
+author: Richard Boursy
 ---
 
 

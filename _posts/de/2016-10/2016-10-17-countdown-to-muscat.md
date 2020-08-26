@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Der Countdown für Muscat läuft!"
+title: Der Countdown für Muscat läuft!
 date: 2016-10-17
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Muscat_Workshop_f9d349ff5a.jpg
+image: "/uploads/_processed_/csm_Muscat_Workshop_f9d349ff5a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/countdown-to-muscat.html
+email: ''
+author: ''
 ---
 
 

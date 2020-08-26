@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"Fontes Artis Musicae\"- freier Zugang bis 30. JuniArtikel mit RISM-Bezug Musikhandschriften, Notendrucke und LibrettiMusiksammlungen"
+title: '"Fontes Artis Musicae"- freier Zugang bis 30. JuniArtikel mit RISM-Bezug Musikhandschriften, Notendrucke und LibrettiMusiksammlungen'
 date: 2020-05-04
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Fontes_covers_free_4d9c4b7051.jpg
+image: "/uploads/_processed_/csm_Fontes_covers_free_4d9c4b7051.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/free-access-to-fontes-artis-musicae-through-june-30.html
+email: ''
+author: ''
 ---
 
 

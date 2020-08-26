@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zwei Quellen, viel Futter für die Forschung – Annaberger Chorbücher digital"
+title: Zwei Quellen, viel Futter für die Forschung – Annaberger Chorbücher digital
 date: 2016-07-28
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Annaberger_Chorbuecher_80a43029de.jpg
+image: "/uploads/_processed_/csm_Annaberger_Chorbuecher_80a43029de.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-sources-lots-of-material-for-research-the-digital-annaberger-chorbuecher.html
+email: andrea.hammes@slub-dresden.de
+author: Dr. Andrea Hammes
 ---
 
 

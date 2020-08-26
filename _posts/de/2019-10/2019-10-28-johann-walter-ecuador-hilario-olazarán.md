@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Johann Walter, Ecuador, Hilario Olazarán"
+title: Johann Walter, Ecuador, Hilario Olazarán
 date: 2019-10-28
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Walter_Fontes_front_cover_7329268bad.jpg
+image: "/uploads/_processed_/csm_Walter_Fontes_front_cover_7329268bad.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-walter-ecuador-hilario-olazaran.html
+email: ''
+author: Carmen Álvarez
 ---
 
 

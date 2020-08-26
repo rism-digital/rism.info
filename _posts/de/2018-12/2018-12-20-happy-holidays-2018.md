@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Weihnachtsgrüße 2018!"
+title: Weihnachtsgrüße 2018!
 date: 2018-12-20
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Weihnachten_2018_Christrose_de3ad64308.jpg
+image: "/uploads/_processed_/csm_Weihnachten_2018_Christrose_de3ad64308.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-holidays-2018.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mozart autograph in the music collections of Mariastein Abbey, Switzerland"
+title: Mozart autograph in the music collections of Mariastein Abbey, Switzerland
 date: 2014-07-18
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Mozart_Seite_A_4cb8dfa2cc.jpg
+image: "/uploads/_processed_/csm_Mozart_Seite_A_4cb8dfa2cc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autograph-in-the-music-collections-of-the-mariastein-abbey-switzerland.html
+email: ghk@hankeknaus.ch
+author: Gabriella Hanke Knaus
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jane Austen's Music Collection Now Online"
+title: Jane Austen's Music Collection Now Online
 date: 2016-03-21
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Jane_Austen_Musiksammlung_ae728c3047.jpg
+image: "/uploads/_processed_/csm_Jane_Austen_Musiksammlung_ae728c3047.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jane-austens-music-collection-now-online.html
+email: ''
+author: ''
 ---
 
 

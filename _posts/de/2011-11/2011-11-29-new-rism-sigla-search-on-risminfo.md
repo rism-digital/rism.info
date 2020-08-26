@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Sigla auf RISM.Info abfragbar"
+title: RISM Sigla auf RISM.Info abfragbar
 date: 2011-11-29
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_BibliotecaNacional_01_fdca822a68.jpg
+image: "/uploads/_processed_/csm_BibliotecaNacional_01_fdca822a68.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-sigla-search-on-risminfo.html
+email: contact@rism.info
+author: Klaus Keil
 ---
 
 

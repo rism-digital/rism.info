@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jubiläen 2019"
+title: Jubiläen 2019
 date: 2019-01-14
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Jubilare_2019_PNG13_53e197c73a.png
+image: "/uploads/_processed_/csm_Jubilare_2019_PNG13_53e197c73a.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2019.html
+email: ''
+author: ''
 ---
 
 

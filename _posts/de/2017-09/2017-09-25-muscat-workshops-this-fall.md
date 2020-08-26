@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Muscat Workshops im Herbst 2017"
+title: Muscat Workshops im Herbst 2017
 date: 2017-09-25
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_muscat_03_df0154796c.png
+image: "/uploads/_processed_/csm_muscat_03_df0154796c.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshops-this-fall.html
+email: coloquio.tallerdeedicion@gmail.com
+author: ''
 ---
 
 

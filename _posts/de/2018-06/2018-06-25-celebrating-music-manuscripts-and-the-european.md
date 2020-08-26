@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikhandschriften im europäischen Kulturerbejahr"
+title: Musikhandschriften im europäischen Kulturerbejahr
 date: 2018-06-25
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg
+image: "/uploads/_processed_/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
+email: ''
+author: ''
 ---
 
 

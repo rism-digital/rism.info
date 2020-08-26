@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Presentations from Latin America Conference Now Online"
+title: Presentations from Latin America Conference Now Online
 date: 2017-05-18
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Gruppenphoto_95435a4794.jpg
+image: "/uploads/_processed_/csm_Gruppenphoto_95435a4794.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/presentations-from-latin-america-conference-now-online.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Nachruf auf Danuta Szlagowska (1946-2018)"
+title: Nachruf auf Danuta Szlagowska (1946-2018)
 date: 2018-03-26
 lang: de
 post: true
 category: in_memoriam
-image: /uploads/_processed_/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg
+image: "/uploads/_processed_/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/remembering-danuta-szlagowska-1946-2018.html
+email: ''
+author: ''
 ---
 
 

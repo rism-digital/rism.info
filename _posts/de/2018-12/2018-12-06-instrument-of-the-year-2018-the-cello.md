@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Instrument des Jahres 2018: Das Violoncello"
+title: 'Instrument des Jahres 2018: Das Violoncello'
 date: 2018-12-06
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Cello_ecb14cd8f3.jpg
+image: "/uploads/_processed_/csm_Cello_ecb14cd8f3.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/instrument-of-the-year-2018-the-cello.html
+email: ''
+author: ''
 ---
 
 

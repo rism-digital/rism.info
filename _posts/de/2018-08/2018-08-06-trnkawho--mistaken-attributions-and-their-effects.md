@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Trnka - wer? Fehlzuschreibungen und ihre Auswirkungen"
+title: Trnka - wer? Fehlzuschreibungen und ihre Auswirkungen
 date: 2018-08-06
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Trnka_eb89ed8f73.png
+image: "/uploads/_processed_/csm_Trnka_eb89ed8f73.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/trnka-who-mistaken-attributions-and-their-effects.html
+email: ''
+author: ''
 ---
 
 

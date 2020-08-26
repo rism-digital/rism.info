@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue RISM-Arbeitsgruppe in Asien gegründet"
+title: Neue RISM-Arbeitsgruppe in Asien gegründet
 date: 2015-11-16
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg
+image: "/uploads/_processed_/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-working-group-in-asia-founded.html
+email: ''
+author: ''
 ---
 
 

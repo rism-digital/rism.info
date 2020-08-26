@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Abschluss der Bearbeitung der Musikhandschriften der Stiftsbibliothek St. Bonifaz, München (D-Mb)"
+title: Abschluss der Bearbeitung der Musikhandschriften der Stiftsbibliothek St. Bonifaz, München (D-Mb)
 date: 2012-02-10
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Mb_Kronberger_2012_4ec1262442.jpg
+image: "/uploads/_processed_/csm_Mb_Kronberger_2012_4ec1262442.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/processing-music-manuscripts-completed-at-the-st-boniface-abbey-library-munich-d-mb.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Drew Edward Davies, Catálogo de la Colección de música del Archivo Histórico de la Arquidiócesis de Durango"
+title: Drew Edward Davies, Catálogo de la Colección de música del Archivo Histórico de la Arquidiócesis de Durango
 date: 2014-08-04
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Davies_Catalogo_Cover_389d23d19d.jpg
+image: "/uploads/_processed_/csm_Davies_Catalogo_Cover_389d23d19d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/drew-edward-davies-catalogo-de-la-coleccion-de-musica-del-archivo-historico-de-la-arquidiocesi.html
+email: ''
+author: ''
 ---
 
 

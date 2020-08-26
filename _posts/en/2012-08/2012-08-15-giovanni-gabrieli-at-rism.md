@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Giovanni Gabrieli @ RISM"
+title: Giovanni Gabrieli @ RISM
 date: 2012-08-15
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg
+image: "/uploads/_processed_/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/giovanni-gabrieli-rism.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

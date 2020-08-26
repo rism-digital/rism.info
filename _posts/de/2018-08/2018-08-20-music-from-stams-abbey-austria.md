@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musik aus Stift Stams (Österreich)"
+title: Musik aus Stift Stams (Österreich)
 date: 2018-08-20
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_DVD_Stift_Stams_eda7b32d23.jpg
+image: "/uploads/_processed_/csm_DVD_Stift_Stams_eda7b32d23.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-from-stams-abbey-austria.html
+email: rism.hh@musikland-tirol.at
+author: Manfred Schneider
 ---
 
 

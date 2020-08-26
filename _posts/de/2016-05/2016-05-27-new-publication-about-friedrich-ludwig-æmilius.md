@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine Neuerscheinung zum Grenzgänger Friedrich Ludwig Æmilius Kunzen"
+title: Eine Neuerscheinung zum Grenzgänger Friedrich Ludwig Æmilius Kunzen
 date: 2016-05-27
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Kunzen-Boehlau_0a0420ffd6.jpg
+image: "/uploads/_processed_/csm_Kunzen-Boehlau_0a0420ffd6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-publication-about-friedrich-ludwig-aemilius-kunzen-a-composer-of-two-nations.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "2020: Not Just Beethoven!"
+title: '2020: Not Just Beethoven!'
 date: 2020-01-09
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_2020_year_PNG40_9c0e624551.png
+image: "/uploads/_processed_/csm_2020_year_PNG40_9c0e624551.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/2020-not-just-beethoven.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Scott Joplin's \"The Cascades\" and the St. Louis World's Fair"
+title: Scott Joplin's "The Cascades" and the St. Louis World's Fair
 date: 2017-03-30
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Scott_Joplin_6f7fefa327.png
+image: "/uploads/_processed_/csm_Scott_Joplin_6f7fefa327.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/scott-joplins-the-cascades-and-the-st-louis-worlds-fair.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Farewell Charles de Bériot!"
+title: Farewell Charles de Bériot!
 date: 2020-04-09
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Beriot_photo_55eea5347f.jpg
+image: "/uploads/_processed_/csm_Beriot_photo_55eea5347f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/farewell-charles-de-beriot.html
+email: richard.sutcliffe@ehb.be
+author: Richard Sutcliffe
 ---
 
 

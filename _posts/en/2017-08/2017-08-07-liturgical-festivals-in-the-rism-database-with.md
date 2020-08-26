@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Liturgical Festivals in the RISM Database with Three Examples"
+title: Liturgical Festivals in the RISM Database with Three Examples
 date: 2017-08-07
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Liturg._Feste_Foto_5_bfb6e05677.jpg
+image: "/uploads/_processed_/csm_Liturg._Feste_Foto_5_bfb6e05677.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New CD: Tiroler Weihnachtskonzert 2017"
+title: 'New CD: Tiroler Weihnachtskonzert 2017'
 date: 2018-12-13
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_CD_TWK17_CoverSm_93c3829926.jpg
+image: "/uploads/_processed_/csm_CD_TWK17_CoverSm_93c3829926.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-cd-tiroler-weihnachtskonzert-2017.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

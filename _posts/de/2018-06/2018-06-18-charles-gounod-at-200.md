@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 200. Geburtstag von Charles Gounod"
+title: Zum 200. Geburtstag von Charles Gounod
 date: 2018-06-18
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Gounod_200_Geb_Julliard_d875c22195.png
+image: "/uploads/_processed_/csm_Gounod_200_Geb_Julliard_d875c22195.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/charles-gounod-at-200.html
+email: ''
+author: ''
 ---
 
 

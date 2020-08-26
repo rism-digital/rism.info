@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zwölf neue Komponistinnen"
+title: Zwölf neue Komponistinnen
 date: 2017-10-19
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg
+image: "/uploads/_processed_/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/twelve-more-women-composers.html
+email: ''
+author: ''
 ---
 
 

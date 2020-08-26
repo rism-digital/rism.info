@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM at IAML, Part 2: What's New in 2016"
+title: 'RISM at IAML, Part 2: What''s New in 2016'
 date: 2016-08-15
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg
+image: "/uploads/_processed_/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
+email: ''
+author: ''
 ---
 
 

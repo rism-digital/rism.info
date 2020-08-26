@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vivaldi and a Search Engine"
+title: Vivaldi and a Search Engine
 date: 2013-08-23
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Vivaldi_gross_4a60f7382a.jpg
+image: "/uploads/_processed_/csm_Vivaldi_gross_4a60f7382a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vivaldi-and-a-search-engine.html
+email: mtalbot@liverpool.ac.uk
+author: Michael Talbot
 ---
 
 

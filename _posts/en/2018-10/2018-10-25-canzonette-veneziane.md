@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Canzonette veneziane"
+title: Canzonette veneziane
 date: 2018-10-25
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Canzonette_veneziane_1_page_ecc2748926.jpg
+image: "/uploads/_processed_/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/canzonette-veneziane.html
+email: rma2@cam.ac.uk
+author: Richard Andrewes
 ---
 
 

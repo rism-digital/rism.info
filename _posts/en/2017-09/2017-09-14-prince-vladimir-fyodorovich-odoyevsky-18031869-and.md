@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Prince Vladimir Fyodorovich Odoyevsky (1803-1869) and Music"
+title: Prince Vladimir Fyodorovich Odoyevsky (1803-1869) and Music
 date: 2017-09-14
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Odoevsky_vladimir_a87e8cb696.jpg
+image: "/uploads/_processed_/csm_Odoevsky_vladimir_a87e8cb696.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/prince-vladimir-fyodorovich-odoyevsky-1803-1869-and-music.html
+email: ''
+author: ''
 ---
 
 

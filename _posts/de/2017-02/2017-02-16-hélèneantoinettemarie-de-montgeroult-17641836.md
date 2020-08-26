@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hélène-Antoinette-Marie de Montgeroult (1764-1836)"
+title: Hélène-Antoinette-Marie de Montgeroult (1764-1836)
 date: 2017-02-16
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Montgeroult_02703b2ec0.jpg
+image: "/uploads/_processed_/csm_Montgeroult_02703b2ec0.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
+email: ''
+author: ''
 ---
 
 

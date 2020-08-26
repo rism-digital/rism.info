@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vom Improvisieren zum Komponieren"
+title: Vom Improvisieren zum Komponieren
 date: 2019-10-17
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Chopin_by_Bisson__1849_875251f5fe.png
+image: "/uploads/_processed_/csm_Chopin_by_Bisson__1849_875251f5fe.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-improvisation-to-composition.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Carlo Broschi (Farinelli)"
+title: Carlo Broschi (Farinelli)
 date: 2014-06-04
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Broschi_Farinelli___Metastasio_d4813e79c3.jpg
+image: "/uploads/_processed_/csm_Broschi_Farinelli___Metastasio_d4813e79c3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/carlo-broschi-farinelli.html
+email: ''
+author: ''
 ---
 
 

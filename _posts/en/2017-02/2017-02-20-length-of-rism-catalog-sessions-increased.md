@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Length of RISM Catalog Sessions Increased"
+title: Length of RISM Catalog Sessions Increased
 date: 2017-02-20
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg
+image: "/uploads/_processed_/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/length-of-rism-catalog-sessions-increased.html
+email: ''
+author: ''
 ---
 
 

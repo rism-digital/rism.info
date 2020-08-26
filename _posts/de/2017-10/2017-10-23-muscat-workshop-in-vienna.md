@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Muscat-Workshop in Wien"
+title: Muscat-Workshop in Wien
 date: 2017-10-23
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg
+image: "/uploads/_processed_/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-in-vienna.html
+email: stefan.engl@onb.ac.at
+author: Stefan Engl
 ---
 
 

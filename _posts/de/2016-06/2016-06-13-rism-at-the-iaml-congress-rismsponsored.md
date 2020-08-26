@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM auf dem IAML-Kongress RISM-SitzungenPräsentationen der RISM-Kollegen"
+title: RISM auf dem IAML-Kongress RISM-SitzungenPräsentationen der RISM-Kollegen
 date: 2016-06-13
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg
+image: "/uploads/_processed_/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iaml-congress.html
+email: ''
+author: ''
 ---
 
 

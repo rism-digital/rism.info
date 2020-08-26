@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue CD-Ausgabe im Set: Die vollständige RISM-Incipit Edition"
+title: 'Neue CD-Ausgabe im Set: Die vollständige RISM-Incipit Edition'
 date: 2015-04-01
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_CDs_01_3ac265972d.jpg
+image: "/uploads/_processed_/csm_CDs_01_3ac265972d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
+email: ''
+author: ''
 ---
 
 

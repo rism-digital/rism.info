@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Happy Birthday, Clara Wieck-Schumann!"
+title: Happy Birthday, Clara Wieck-Schumann!
 date: 2019-09-12
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg
+image: "/uploads/_processed_/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-clara-wieck-schumann.html
+email: Marina.Gordienko@sbb.spk-berlin.de
+author: Marina Schieke-Gordienko
 ---
 
 

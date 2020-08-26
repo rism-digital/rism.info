@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ferdinand Hiller @ RISM"
+title: Ferdinand Hiller @ RISM
 date: 2011-10-27
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_HillerBehrensWeb_cc376682b9.jpg
+image: "/uploads/_processed_/csm_HillerBehrensWeb_cc376682b9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ferdinand-hiller-rism.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

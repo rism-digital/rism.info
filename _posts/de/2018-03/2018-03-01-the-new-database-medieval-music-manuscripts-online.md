@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Datenbank mit mittelalterlichen Musikhandschriften online"
+title: Neue Datenbank mit mittelalterlichen Musikhandschriften online
 date: 2018-03-01
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_MMMO_Database_bd16d41df8.jpg
+image: "/uploads/_processed_/csm_MMMO_Database_bd16d41df8.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-new-database-medieval-music-manuscripts-online.html
+email: ''
+author: Dominique Gatté
 ---
 
 

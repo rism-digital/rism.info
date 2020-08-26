@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Be My (Robert) Valentine"
+title: Be My (Robert) Valentine
 date: 2018-02-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg
+image: "/uploads/_processed_/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/be-my-robert-valentine.html
+email: ''
+author: ''
 ---
 
 

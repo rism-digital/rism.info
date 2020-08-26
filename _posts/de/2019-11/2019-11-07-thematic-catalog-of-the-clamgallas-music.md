@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Thematischer Katalog der Musiksammlung Clam-Gallas"
+title: Thematischer Katalog der Musiksammlung Clam-Gallas
 date: 2019-11-07
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Clam-Gallas_626bb1ca12.jpg
+image: "/uploads/_processed_/csm_Clam-Gallas_626bb1ca12.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/thematic-catalog-of-the-clam-gallas-music-collection.html
+email: eliska.sediva@centrum.cz
+author: Eliška Šedivá
 ---
 
 

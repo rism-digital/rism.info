@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Rückblick auf 2017"
+title: Rückblick auf 2017
 date: 2018-01-11
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_2017_Rueckblick_ed5d67ebed.jpg
+image: "/uploads/_processed_/csm_2017_Rueckblick_ed5d67ebed.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2017.html
+email: ''
+author: ''
 ---
 
 

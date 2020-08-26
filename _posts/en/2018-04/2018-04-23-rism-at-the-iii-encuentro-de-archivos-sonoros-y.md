@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM at the III Encuentro de Archivos Sonoros y Musicales de Chile"
+title: RISM at the III Encuentro de Archivos Sonoros y Musicales de Chile
 date: 2018-04-23
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Chile_Bericht_2018_78274e8467.jpg
+image: "/uploads/_processed_/csm_Chile_Bericht_2018_78274e8467.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
+email: ''
+author: ''
 ---
 
 

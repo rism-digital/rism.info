@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Henry Vieuxtemps zum 200. Geburtstag"
+title: Henry Vieuxtemps zum 200. Geburtstag
 date: 2020-02-17
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Vieuxtemps_200_54b229b72f.jpg
+image: "/uploads/_processed_/csm_Vieuxtemps_200_54b229b72f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/henry-vieuxtemps-at-200.html
+email: marie.cornaz@kbr.be
+author: Marie Cornaz
 ---
 
 

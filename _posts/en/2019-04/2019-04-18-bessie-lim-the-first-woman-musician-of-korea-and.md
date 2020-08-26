@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bessie Lim, the First Woman Musician of Korea and her Newly Discovered Work"
+title: Bessie Lim, the First Woman Musician of Korea and her Newly Discovered Work
 date: 2019-04-18
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg
+image: "/uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
+email: jchangsfz@gmail.com
+author: Dr. JeongYoun Chang
 ---
 
 

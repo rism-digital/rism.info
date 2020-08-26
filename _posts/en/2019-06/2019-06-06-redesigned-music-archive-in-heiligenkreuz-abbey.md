@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Redesigned Music Archive in Heiligenkreuz Abbey"
+title: Redesigned Music Archive in Heiligenkreuz Abbey
 date: 2019-06-06
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg
+image: "/uploads/_processed_/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
+email: p.roman@stift-heiligenkreuz.at
+author: Pater Roman Nägele
 ---
 
 

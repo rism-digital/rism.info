@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hasse's Siroe in Versailles"
+title: Hasse's Siroe in Versailles
 date: 2014-11-24
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Hasse_ebb19dc698.jpg
+image: "/uploads/_processed_/csm_Hasse_ebb19dc698.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hasses-siroe-in-versailles.html
+email: ''
+author: ''
 ---
 
 

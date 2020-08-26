@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Geschichten aus dem Altbestand: Wann kam \"Così fan tutte\" nach Detmold?"
+title: 'Geschichten aus dem Altbestand: Wann kam "Così fan tutte" nach Detmold?'
 date: 2018-05-14
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg
+image: "/uploads/_processed_/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
+email: eberhardt@llb-detmold.de
+author: Joachim Eberhardt
 ---
 
 

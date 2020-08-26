@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Dutch Song Database"
+title: The Dutch Song Database
 date: 2015-11-19
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Liederdatenbank_12f3940890.png
+image: "/uploads/_processed_/csm_Liederdatenbank_12f3940890.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-dutch-song-database.html
+email: ''
+author: ''
 ---
 
 

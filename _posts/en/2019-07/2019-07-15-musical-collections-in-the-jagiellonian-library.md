@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musical Collections in the Jagiellonian Library Through the Ages"
+title: Musical Collections in the Jagiellonian Library Through the Ages
 date: 2019-07-15
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png
+image: "/uploads/_processed_/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-collections-in-the-jagiellonian-library-through-the-ages.html
+email: ''
+author: ''
 ---
 
 

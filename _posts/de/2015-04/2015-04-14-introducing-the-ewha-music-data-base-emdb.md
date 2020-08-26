@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Einführung in die Ewha Music Data Base (EMDB)"
+title: Einführung in die Ewha Music Data Base (EMDB)
 date: 2015-04-14
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Datenbank_Korea_f89c0ccbb8.png
+image: "/uploads/_processed_/csm_Datenbank_Korea_f89c0ccbb8.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/introducing-of-the-ewha-music-data-base-emdb.html
+email: hkchae@ewha.ac.kr
+author: Hyun Kyung Chae
 ---
 
 

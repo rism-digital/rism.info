@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon"
+title: '2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon'
 date: 2013-01-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_poster_01_e385b020e8.jpg
+image: "/uploads/_processed_/csm_poster_01_e385b020e8.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east-1.html
+email: ''
+author: Dr. Eun-Ha Kim
 ---
 
 

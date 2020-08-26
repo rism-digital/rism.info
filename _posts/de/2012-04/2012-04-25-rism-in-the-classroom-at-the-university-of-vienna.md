@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM an der Universität Wien"
+title: RISM an der Universität Wien
 date: 2012-04-25
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Schottenstift_02_39c3809699.jpg
+image: "/uploads/_processed_/csm_Schottenstift_02_39c3809699.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-the-classroom-at-the-university-of-vienna.html
+email: Stefan.Ikarus.Kaiser@oeaw.ac.at
+author: Ikarus Kaiser
 ---
 
 

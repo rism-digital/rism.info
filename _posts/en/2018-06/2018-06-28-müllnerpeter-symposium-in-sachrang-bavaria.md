@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Müllner-Peter Symposium in Sachrang (Bavaria)"
+title: Müllner-Peter Symposium in Sachrang (Bavaria)
 date: 2018-06-28
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_SachrangMuellerPeterSammlung_596d107067.jpg
+image: "/uploads/_processed_/csm_SachrangMuellerPeterSammlung_596d107067.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muellner-peter-symposium-in-sachrang-bavaria.html
+email: Steffen.Voss@bsb-muenchen.de
+author: Steffen Voss
 ---
 
 

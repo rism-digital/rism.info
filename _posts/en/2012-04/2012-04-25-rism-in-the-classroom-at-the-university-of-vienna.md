@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM in the Classroom at the University of Vienna"
+title: RISM in the Classroom at the University of Vienna
 date: 2012-04-25
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Schottenstift_02_39c3809699.jpg
+image: "/uploads/_processed_/csm_Schottenstift_02_39c3809699.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-in-the-classroom-at-the-university-of-vienna.html
+email: Stefan.Ikarus.Kaiser@oeaw.ac.at
+author: Ikarus Kaiser
 ---
 
 

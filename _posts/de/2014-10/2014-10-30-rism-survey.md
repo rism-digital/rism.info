@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Nutzerumfrage"
+title: RISM Nutzerumfrage
 date: 2014-10-30
 lang: de
 post: true
 category: self_representation
-image: /uploads/pics/A4_portrait_01.pdf
+image: "/uploads/pics/A4_portrait_01.pdf"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-survey.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Remembering Cheryl Martin"
+title: Remembering Cheryl Martin
 date: 2016-11-23
 lang: en
 post: true
 category: in_memoriam
-image: /uploads/_processed_/csm_Cheryl_Martin_kleines_Bild_cc090deb95.jpg
+image: "/uploads/_processed_/csm_Cheryl_Martin_kleines_Bild_cc090deb95.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cheryl-martin-in-memoriam.html
+email: ''
+author: ''
 ---
 
 

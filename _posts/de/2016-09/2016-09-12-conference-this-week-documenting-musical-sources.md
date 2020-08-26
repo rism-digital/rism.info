@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Konferenz: Dokumentation musikalischer Quellen in Lateinamerika"
+title: 'Konferenz: Dokumentation musikalischer Quellen in Lateinamerika'
 date: 2016-09-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Lateinamerika-Konferenz_Woche_27d0dc1016.jpg
+image: "/uploads/_processed_/csm_Lateinamerika-Konferenz_Woche_27d0dc1016.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/latin-america-conference-this-week.html
+email: ''
+author: ''
 ---
 
 

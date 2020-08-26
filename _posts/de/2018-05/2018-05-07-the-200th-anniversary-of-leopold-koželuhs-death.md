@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 200. Todestag von Leopold Koželuh"
+title: Zum 200. Todestag von Leopold Koželuh
 date: 2018-05-07
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Kozeluh_200_9b85facc4a.jpg
+image: "/uploads/_processed_/csm_Kozeluh_200_9b85facc4a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
+email: ''
+author: ''
 ---
 
 

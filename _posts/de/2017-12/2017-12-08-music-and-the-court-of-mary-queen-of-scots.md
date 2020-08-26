@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musik am Hofe von Maria Stuart, König von Schottland"
+title: Musik am Hofe von Maria Stuart, König von Schottland
 date: 2017-12-08
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg
+image: "/uploads/_processed_/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-the-court-of-mary-queen-of-scots.html
+email: ''
+author: ''
 ---
 
 

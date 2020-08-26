@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Rückblick auf 2014"
+title: Rückblick auf 2014
 date: 2015-01-08
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_2015_c5ba7a17dc.jpg
+image: "/uploads/_processed_/csm_2015_c5ba7a17dc.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2014.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Das Markgräfliche Opernhaus Bayreuth"
+title: Das Markgräfliche Opernhaus Bayreuth
 date: 2016-07-25
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Markgraefliches_Opernhaus_Bayreuth_2013_47e0aaa7d9.jpg
+image: "/uploads/_processed_/csm_Markgraefliches_Opernhaus_Bayreuth_2013_47e0aaa7d9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth.html
+email: ''
+author: ''
 ---
 
 

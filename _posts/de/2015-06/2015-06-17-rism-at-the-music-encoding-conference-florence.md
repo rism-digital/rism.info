@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM auf der Music Encoding Konferenz in Florenz (Italien)"
+title: RISM auf der Music Encoding Konferenz in Florenz (Italien)
 date: 2015-06-17
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_MEI-Konferenz_6d2457a1e8.png
+image: "/uploads/_processed_/csm_MEI-Konferenz_6d2457a1e8.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-music-encoding-conference-florence-italy.html
+email: jennifer.ward@rism.info
+author: Jennifer Ward
 ---
 
 

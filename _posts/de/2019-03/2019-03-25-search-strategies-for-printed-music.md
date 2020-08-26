@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Suchstrategien für Notendrucke"
+title: Suchstrategien für Notendrucke
 date: 2019-03-25
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM_Bde2_8dda4a934f.jpg
+image: "/uploads/_processed_/csm_RISM_Bde2_8dda4a934f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/search-strategies-for-printed-music.html
+email: ''
+author: ''
 ---
 
 

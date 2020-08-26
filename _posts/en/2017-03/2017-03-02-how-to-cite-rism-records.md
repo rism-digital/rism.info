@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "How to Cite RISM Records"
+title: How to Cite RISM Records
 date: 2017-03-02
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM_zitieren_de56a1bcd3.jpg
+image: "/uploads/_processed_/csm_RISM_zitieren_de56a1bcd3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/how-to-cite-rism-records.html
+email: ''
+author: ''
 ---
 
 

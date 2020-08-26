@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Der 430. Geburtstag der Francesca Caccini"
+title: Der 430. Geburtstag der Francesca Caccini
 date: 2017-09-18
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Caccini_430_a8a8fef1be.jpg
+image: "/uploads/_processed_/csm_Caccini_430_a8a8fef1be.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-430th-birthday-francesca-caccini.html
+email: ''
+author: ''
 ---
 
 

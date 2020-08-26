@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM beim International Music Council: Ausstellung \"70 Projects for 70 Years\""
+title: 'RISM beim International Music Council: Ausstellung "70 Projects for 70 Years"'
 date: 2019-09-16
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_IMC_Poster_a1ae8c175f.jpg
+image: "/uploads/_processed_/csm_IMC_Poster_a1ae8c175f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
+email: ''
+author: ''
 ---
 
 

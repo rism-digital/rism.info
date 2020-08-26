@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM bei re3data"
+title: RISM bei re3data
 date: 2020-04-06
 lang: de
 post: true
 category: self_representation
-image: /uploads/pics/re3datalogo_nosubtext_black.png
+image: "/uploads/pics/re3datalogo_nosubtext_black.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-re3data.html
+email: ''
+author: ''
 ---
 
 

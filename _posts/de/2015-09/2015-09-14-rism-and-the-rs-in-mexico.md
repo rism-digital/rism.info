@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM und die \"R\"s in Mexiko"
+title: RISM und die "R"s in Mexiko
 date: 2015-09-14
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Reise_Mexiko_convocatoria_a694cb5a4e.jpg
+image: "/uploads/_processed_/csm_Reise_Mexiko_convocatoria_a694cb5a4e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-the-rs-in-mexico.html
+email: ''
+author: ''
 ---
 
 

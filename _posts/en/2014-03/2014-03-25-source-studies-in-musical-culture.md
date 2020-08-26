@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Source Studies in Musical Culture"
+title: Source Studies in Musical Culture
 date: 2014-03-25
 lang: en
 post: true
 category: new_publications
-image: /uploads/pics/Einband_02.jpg
+image: "/uploads/pics/Einband_02.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/source-studies-in-musical-culture.html
+email: ''
+author: ''
 ---
 
 

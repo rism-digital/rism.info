@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New (for us) publications from Belgium and the Netherlands"
+title: New (for us) publications from Belgium and the Netherlands
 date: 2014-09-05
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Belgium_Buecher_880f8a82ec.jpg
+image: "/uploads/_processed_/csm_Belgium_Buecher_880f8a82ec.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-for-us-publications-from-belgium-and-the-netherlands.html
+email: ''
+author: ''
 ---
 
 

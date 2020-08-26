@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und seine Hofkapellmeister"
+title: Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und seine Hofkapellmeister
 date: 2011-02-14
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Cards_69f98ab616.jpg
+image: "/uploads/_processed_/csm_Cards_69f98ab616.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/no-chance-for-mozart-prince-archbishop-hieronymus-colloredo-and-the-musicians-of-his-court.html
+email: eva.neumayr@archiv.kirchen.net
+author: ''
 ---
 
 

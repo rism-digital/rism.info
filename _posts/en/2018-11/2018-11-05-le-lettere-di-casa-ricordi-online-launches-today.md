@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"Le lettere di Casa Ricordi online\" Launches Today"
+title: '"Le lettere di Casa Ricordi online" Launches Today'
 date: 2018-11-05
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Ricordi_Briefe_online_a9abba6ab5.png
+image: "/uploads/_processed_/csm_Ricordi_Briefe_online_a9abba6ab5.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/le-lettere-di-casa-ricordi-online-launches-today.html
+email: ''
+author: ''
 ---
 
 

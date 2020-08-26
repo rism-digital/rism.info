@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Arias from St. Petersburg"
+title: Arias from St. Petersburg
 date: 2014-12-08
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Petersburg_4e2be750b5.jpg
+image: "/uploads/_processed_/csm_Petersburg_4e2be750b5.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
+email: ''
+author: ''
 ---
 
 

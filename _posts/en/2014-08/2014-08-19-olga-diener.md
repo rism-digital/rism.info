@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Olga Diener"
+title: Olga Diener
 date: 2014-08-19
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_diener_bild_bc9bf5739c.jpg
+image: "/uploads/_processed_/csm_diener_bild_bc9bf5739c.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-olga-diener.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bringing the Past into the Future: Creating and Curating Digital Music Archives (Seoul, South Korea)"
+title: 'Bringing the Past into the Future: Creating and Curating Digital Music Archives (Seoul, South Korea)'
 date: 2016-11-28
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Ewha_campus_da35152378.jpg
+image: "/uploads/_processed_/csm_Ewha_campus_da35152378.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html
+email: ''
+author: ''
 ---
 
 

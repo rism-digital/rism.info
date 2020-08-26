@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "First Music Manuscript Discovered in Antarctica"
+title: First Music Manuscript Discovered in Antarctica
 date: 2016-04-01
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Pinguin-Entdeckung_280f0f5bbd.jpg
+image: "/uploads/_processed_/csm_Pinguin-Entdeckung_280f0f5bbd.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/first-music-manuscript-discovered-in-antarctica.html
+email: ''
+author: ''
 ---
 
 

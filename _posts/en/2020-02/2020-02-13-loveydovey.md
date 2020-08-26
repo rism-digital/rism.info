@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Lovey-Dovey"
+title: Lovey-Dovey
 date: 2020-02-13
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Turteltaube_2aea45a073.jpg
+image: "/uploads/_processed_/csm_Turteltaube_2aea45a073.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lovey-dovey.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Autograph der Kantate „Die Fischerin“ von Engelbert Humperdinck gefunden"
+title: Autograph der Kantate „Die Fischerin“ von Engelbert Humperdinck gefunden
 date: 2019-04-11
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg
+image: "/uploads/_processed_/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html
+email: gottfried.heinz-kronberger@bsb-muenchen.de
+author: Gottfried Heinz-Kronberger
 ---
 
 

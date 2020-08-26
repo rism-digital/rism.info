@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "No Chance for Mozart: Prince-Archbishop Hieronymus Colloredo and the Musicians of his Court"
+title: 'No Chance for Mozart: Prince-Archbishop Hieronymus Colloredo and the Musicians of his Court'
 date: 2011-02-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Cards_69f98ab616.jpg
+image: "/uploads/_processed_/csm_Cards_69f98ab616.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/no-chance-for-mozart-prince-archbishop-hieronymus-colloredo-and-the-musicians-of-his-court.html
+email: eva.neumayr@archiv.kirchen.net
+author: ''
 ---
 
 

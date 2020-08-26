@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 2014 Annual Report"
+title: The 2014 Annual Report
 date: 2015-03-05
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_03_67d53554dc.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_03_67d53554dc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2014-annual-report.html
+email: ''
+author: ''
 ---
 
 

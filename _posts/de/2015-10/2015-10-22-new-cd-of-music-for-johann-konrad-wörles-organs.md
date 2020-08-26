@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue CD: Die Orgel von Johann Konrad Wörle"
+title: 'Neue CD: Die Orgel von Johann Konrad Wörle'
 date: 2015-10-22
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg
+image: "/uploads/_processed_/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

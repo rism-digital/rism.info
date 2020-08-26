@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "4. Internationale Akademie Ferdinand Rebay im Stift Heiligenkreuz im Wienerwald/ NÖ / Österreich"
+title: 4. Internationale Akademie Ferdinand Rebay im Stift Heiligenkreuz im Wienerwald/ NÖ / Österreich
 date: 2018-07-26
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg
+image: "/uploads/_processed_/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
+email: p.roman@stift-heiligenkreuz.at
+author: P. Roman Nägele OCist
 ---
 
 

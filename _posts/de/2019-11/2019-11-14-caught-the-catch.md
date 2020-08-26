@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Finde den Fehler!"
+title: Finde den Fehler!
 date: 2019-11-14
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg
+image: "/uploads/_processed_/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/caught-the-catch.html
+email: ''
+author: Kristina Krämer
 ---
 
 

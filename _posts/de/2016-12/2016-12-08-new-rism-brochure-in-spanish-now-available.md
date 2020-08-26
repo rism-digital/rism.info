@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue RISM Broschüre auf Spanisch erhältlich"
+title: Neue RISM Broschüre auf Spanisch erhältlich
 date: 2016-12-08
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Broschuere_Spanisch_bc0742d113.jpg
+image: "/uploads/_processed_/csm_Broschuere_Spanisch_bc0742d113.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-brochure-in-spanish-now-available.html
+email: contact@rism.info
+author: ''
 ---
 
 

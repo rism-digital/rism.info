@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Holdings of the Berlin Sing-Akademie Cataloged"
+title: Holdings of the Berlin Sing-Akademie Cataloged
 date: 2011-05-13
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_677px-Gaertner2_d811bdda77.jpg
+image: "/uploads/_processed_/csm_677px-Gaertner2_d811bdda77.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/holdings-of-the-berlin-sing-akademie-cataloged.html
+email: Klaus.Keil@RISM.info
+author: Klaus Keil
 ---
 
 

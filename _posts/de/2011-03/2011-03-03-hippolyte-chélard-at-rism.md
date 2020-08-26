@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hippolyte Chélard @ RISM"
+title: Hippolyte Chélard @ RISM
 date: 2011-03-03
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_ChelardAndreHippolyte_7ced3ffc35.jpg
+image: "/uploads/_processed_/csm_ChelardAndreHippolyte_7ced3ffc35.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/hippolyte-chelard-rism.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Personen-Suche in der neuen OPAC-Version"
+title: Personen-Suche in der neuen OPAC-Version
 date: 2018-10-22
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png
+image: "/uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
+email: ''
+author: ''
 ---
 
 

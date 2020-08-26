@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 200. Geburtstag von Théodore Gouvy"
+title: Zum 200. Geburtstag von Théodore Gouvy
 date: 2019-07-04
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Theodore_Gouvy_33e4178f00.jpg
+image: "/uploads/_processed_/csm_Theodore_Gouvy_33e4178f00.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/theodore-gouvy-at-200.html
+email: ''
+author: ''
 ---
 
 

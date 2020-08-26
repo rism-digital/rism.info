@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Discoveries of Vivaldi in Dresden"
+title: New Discoveries of Vivaldi in Dresden
 date: 2015-10-08
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg
+image: "/uploads/_processed_/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-discoveries-of-vivaldi-in-dresden.html
+email: lupianbaroque@gmail.com
+author: Francisco Javier Lupiáñez Ruiz
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Alles Gute zum 410. Geburtstag, Kaiser Ferdinand III.!"
+title: Alles Gute zum 410. Geburtstag, Kaiser Ferdinand III.!
 date: 2018-07-09
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg
+image: "/uploads/_processed_/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
+email: ''
+author: ''
 ---
 
 

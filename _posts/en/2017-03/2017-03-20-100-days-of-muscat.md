@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "100 Days of Muscat"
+title: 100 Days of Muscat
 date: 2017-03-20
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_muscat_02_d52c22eeb7.png
+image: "/uploads/_processed_/csm_muscat_02_d52c22eeb7.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/100-days-of-muscat.html
+email: ''
+author: ''
 ---
 
 

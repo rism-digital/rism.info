@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Das älteste Klavier der Welt"
+title: Das älteste Klavier der Welt
 date: 2014-05-28
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Cristofori_Klavier_7994ffff72.jpg
+image: "/uploads/_processed_/csm_Cristofori_Klavier_7994ffff72.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/listen-to-the-worlds-oldest-piano.html
+email: ''
+author: ''
 ---
 
 

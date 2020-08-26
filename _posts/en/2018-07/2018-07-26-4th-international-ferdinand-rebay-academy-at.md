@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "4th International Ferdinand Rebay Academy at Heiligenkreuz Abbey (Austria)"
+title: 4th International Ferdinand Rebay Academy at Heiligenkreuz Abbey (Austria)
 date: 2018-07-26
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg
+image: "/uploads/_processed_/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
+email: p.roman@stift-heiligenkreuz.at
+author: P. Roman Nägele OCist
 ---
 
 

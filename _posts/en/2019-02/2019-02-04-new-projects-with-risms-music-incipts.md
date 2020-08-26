@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Projects with RISM's Music Incipts"
+title: New Projects with RISM's Music Incipts
 date: 2019-02-04
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Externe_Incipit_Suchen_6607098cf9.jpg
+image: "/uploads/_processed_/csm_Externe_Incipit_Suchen_6607098cf9.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-projects-with-risms-music-incipts.html
+email: ''
+author: ''
 ---
 
 

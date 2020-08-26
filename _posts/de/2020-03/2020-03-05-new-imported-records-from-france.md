@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue importierte Datensätze aus Frankreich"
+title: Neue importierte Datensätze aus Frankreich
 date: 2020-03-05
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Datenimport_Frankreich_cee122971f.png
+image: "/uploads/_processed_/csm_Datenimport_Frankreich_cee122971f.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-imported-records-from-france.html
+email: ''
+author: ''
 ---
 
 

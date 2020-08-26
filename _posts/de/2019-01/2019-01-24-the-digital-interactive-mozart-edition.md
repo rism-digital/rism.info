@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Digital-Interaktive Mozart-Edition"
+title: Die Digital-Interaktive Mozart-Edition
 date: 2019-01-24
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png
+image: "/uploads/_processed_/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-digital-interactive-mozart-edition.html
+email: ''
+author: ''
 ---
 
 

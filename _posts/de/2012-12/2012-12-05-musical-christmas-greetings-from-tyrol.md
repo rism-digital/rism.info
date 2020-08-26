@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikalische Weihnachtsgrüße aus Tirol"
+title: Musikalische Weihnachtsgrüße aus Tirol
 date: 2012-12-05
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_MissaPastoralis_Tirol_e95572532d.jpg
+image: "/uploads/_processed_/csm_MissaPastoralis_Tirol_e95572532d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-christmas-greetings-from-tyrol.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

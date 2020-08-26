@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Collectio operum musicalium quae in Bibliotheca Kinsky adservantur"
+title: Collectio operum musicalium quae in Bibliotheca Kinsky adservantur
 date: 2013-11-26
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_01_cover_of_catalogue_c8c897bdd0.jpg
+image: "/uploads/_processed_/csm_01_cover_of_catalogue_c8c897bdd0.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/collectio-operum-musicalium-quae-in-bibliotheca-kinsky-adservantur.html
+email: Eliska.Sediva@nkp.cz
+author: Eliška Šedivá
 ---
 
 

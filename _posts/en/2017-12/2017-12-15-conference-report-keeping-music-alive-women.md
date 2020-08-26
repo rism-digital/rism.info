@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Conference Report: \"Keeping Music Alive: Women Composers in Digital Music Archives\""
+title: 'Conference Report: "Keeping Music Alive: Women Composers in Digital Music Archives"'
 date: 2017-12-15
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg
+image: "/uploads/_processed_/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-report-keeping-music-alive-women-composers-in-digital-music-archives.html
+email: hyunkchang@ewha.ac.kr
+author: Hyun Kyung Chae
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Congratulations to our RISM colleague Dieter Kirsch (Würzburg)"
+title: Congratulations to our RISM colleague Dieter Kirsch (Würzburg)
 date: 2014-07-28
 lang: en
 post: true
 category: self_representation
-image: /uploads/pics/Kirsch_Ehrendoktorwuerde.jpg
+image: "/uploads/pics/Kirsch_Ehrendoktorwuerde.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html
+email: ''
+author: ''
 ---
 
 

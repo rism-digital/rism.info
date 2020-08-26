@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "CD-ROM of series A/I: Individual prints 1600 to 1800 has been published"
+title: 'CD-ROM of series A/I: Individual prints 1600 to 1800 has been published'
 date: 2011-12-15
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_BVK09502_00_1_co_std_01_ee5c1e8710.png
+image: "/uploads/_processed_/csm_BVK09502_00_1_co_std_01_ee5c1e8710.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cd-rom-of-series-ai-individual-prints-1600-to-1800-is-published.html
+email: ''
+author: ''
 ---
 
 

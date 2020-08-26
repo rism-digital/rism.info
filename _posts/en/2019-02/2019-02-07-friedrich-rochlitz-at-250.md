@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Friedrich Rochlitz at 250"
+title: Friedrich Rochlitz at 250
 date: 2019-02-07
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Rochlitz_250_9fbeb78fdc.png
+image: "/uploads/_processed_/csm_Rochlitz_250_9fbeb78fdc.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/friedrich-rochlitz-at-250.html
+email: ''
+author: ''
 ---
 
 

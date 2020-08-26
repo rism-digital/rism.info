@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Premieres of rediscovered Heinrich Schütz works"
+title: Premieres of rediscovered Heinrich Schütz works
 date: 2015-09-28
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg
+image: "/uploads/_processed_/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Helmut Lauterwasser
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Web Library of Seventeenth-Century Music (WLSCM)"
+title: Die Web Library of Seventeenth-Century Music (WLSCM)
 date: 2016-06-06
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/pics/Welb_Library_WLSCMicon2.jpg
+image: "/uploads/pics/Welb_Library_WLSCMicon2.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-web-library-of-seventeenth-century-music.html
+email: ''
+author: ''
 ---
 
 

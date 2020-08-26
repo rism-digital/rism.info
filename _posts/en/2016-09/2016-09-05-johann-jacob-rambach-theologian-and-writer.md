@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Johann Jacob Rambach, Theologian and Writer"
+title: Johann Jacob Rambach, Theologian and Writer
 date: 2016-09-05
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Rambach_afbea77628.jpg
+image: "/uploads/_processed_/csm_Rambach_afbea77628.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-jacob-rambach-theologian-and-writer.html
+email: ''
+author: ''
 ---
 
 

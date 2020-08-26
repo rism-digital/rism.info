@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "2017/11: The Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the RISM Cataloging Workshop are inaugurated at the Shanghai Conservatory of Music"
+title: '2017/11: The Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the RISM Cataloging Workshop are inaugurated at the Shanghai Conservatory of Music'
 date: 2017-11-20
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_DSC00327_60ecff1de3.jpg
+image: "/uploads/_processed_/csm_DSC00327_60ecff1de3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/201711-the-collaborative-project-on-chinese-music-resources-2017-annual-meeting-and-the-rism-catal.html
+email: tzchia22@gmail.com
+author: TSENG Tzu-Chia
 ---
 
 

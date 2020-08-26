@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Musiksammlung des Stiftes Melk stellt sich vor"
+title: Die Musiksammlung des Stiftes Melk stellt sich vor
 date: 2016-10-10
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Stift_Melk_Prominczel_d638112953.jpg
+image: "/uploads/_processed_/csm_Stift_Melk_Prominczel_d638112953.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/presenting-the-music-collection-at-melk-abbey.html
+email: musikarchiv@stiftmelk.at
+author: Johannes Prominczel
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Nutzerstudie III"
+title: Nutzerstudie III
 date: 2015-08-14
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg
+image: "/uploads/_processed_/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Friesisch und die Kulturhauptstadt Europas 2018"
+title: Friesisch und die Kulturhauptstadt Europas 2018
 date: 2018-03-05
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Leeuwarden_2_842320b067.jpg
+image: "/uploads/_processed_/csm_Leeuwarden_2_842320b067.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/frisian-and-the-european-capital-of-culture-2018.html
+email: S.H.Groot@uva.nl
+author: Simon Groot
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "First Phase of the RISM Ireland Database Launched"
+title: First Phase of the RISM Ireland Database Launched
 date: 2013-02-04
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Mercer_6dd0a601d6.jpg
+image: "/uploads/_processed_/csm_Mercer_6dd0a601d6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/first-phase-of-the-rism-ireland-database-launched.html
+email: catherine.ferris@dit.ie
+author: Dr Catherine Ferris
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM-Kolloquium und Tag der offenen Tür"
+title: RISM-Kolloquium und Tag der offenen Tür
 date: 2015-04-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg
+image: "/uploads/_processed_/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-colloquium-and-open-house.html
+email: ''
+author: ''
 ---
 
 

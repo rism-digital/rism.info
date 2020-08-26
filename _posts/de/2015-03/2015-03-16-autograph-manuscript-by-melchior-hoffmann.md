@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Autograph von Melchior Hoffmann entdeckt"
+title: Autograph von Melchior Hoffmann entdeckt
 date: 2015-03-16
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Hoffmann_1c79de896a.jpg
+image: "/uploads/_processed_/csm_Hoffmann_1c79de896a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
+email: julia.neumann@sbb.spk-berlin.de
+author: Julia Neumann
 ---
 
 

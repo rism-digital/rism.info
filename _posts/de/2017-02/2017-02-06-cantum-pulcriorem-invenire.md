@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Cantum Pulcriorem Invenire"
+title: Cantum Pulcriorem Invenire
 date: 2017-02-06
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg
+image: "/uploads/_processed_/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cantum-pulcriorem-invenire.html
+email: ''
+author: ''
 ---
 
 

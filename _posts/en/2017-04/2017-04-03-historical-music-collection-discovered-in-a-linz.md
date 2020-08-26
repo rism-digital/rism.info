@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Historical Music Collection Discovered in a Linz School (Austria)"
+title: Historical Music Collection Discovered in a Linz School (Austria)
 date: 2017-04-03
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Linzer_Realschule_c47c332708.jpg
+image: "/uploads/_processed_/csm_Linzer_Realschule_c47c332708.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/historical-music-collection-discovered-in-a-linz-school-austria.html
+email: ikarus_k@hotmail.com
+author: Stefan Ikarus Kaiser
 ---
 
 

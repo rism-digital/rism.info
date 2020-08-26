@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New RISM Publications in Chinese"
+title: New RISM Publications in Chinese
 date: 2016-08-01
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Chinese_Language_Region_Broschuere_Wikipedia_02_fc4349323c.jpg
+image: "/uploads/_processed_/csm_Chinese_Language_Region_Broschuere_Wikipedia_02_fc4349323c.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-publications-in-chinese.html
+email: tzchia22@gmail.com
+author: Tzu-Chia Tseng
 ---
 
 

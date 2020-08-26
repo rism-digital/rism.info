@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music Incipit Search(es)The Incipit Search in the Online CatalogAn Experimental Incipit Search"
+title: Music Incipit Search(es)The Incipit Search in the Online CatalogAn Experimental Incipit Search
 date: 2016-11-10
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_incipit_search_keyboard_965_415_65fdc94948.jpg
+image: "/uploads/_processed_/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-incipit-searches.html
+email: ''
+author: ''
 ---
 
 

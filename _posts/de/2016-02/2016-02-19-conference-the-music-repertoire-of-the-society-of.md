@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Konferenzbericht aus Warschau: Das Musikrepertoire der Gesellschaft Jesu in der Polnisch-Litauischen Adelsrepublik (1565-1773)"
+title: 'Konferenzbericht aus Warschau: Das Musikrepertoire der Gesellschaft Jesu in der Polnisch-Litauischen Adelsrepublik (1565-1773)'
 date: 2016-02-19
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg
+image: "/uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
+email: ''
+author: ''
 ---
 
 

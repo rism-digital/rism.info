@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Mozart-Dokumente"
+title: Neue Mozart-Dokumente
 date: 2014-09-18
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Mozart_New_Documents_0900ead507.jpg
+image: "/uploads/_processed_/csm_Mozart_New_Documents_0900ead507.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mozart-new-documents.html
+email: dexedge@gmail.com
+author: ''
 ---
 
 

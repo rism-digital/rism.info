@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New (and first) siglum for Monaco"
+title: New (and first) siglum for Monaco
 date: 2014-10-06
 lang: en
 post: true
 category: self_representation
-image: /uploads/pics/Monaco.png
+image: "/uploads/pics/Monaco.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-and-first-siglum-for-monaco.html
+email: ''
+author: ''
 ---
 
 

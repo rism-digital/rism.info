@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM and Katy Perry"
+title: RISM and Katy Perry
 date: 2020-01-20
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_KatyPerryBillboard_incipit_725f75b3c6.png
+image: "/uploads/_processed_/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-katy-perry.html
+email: ''
+author: ''
 ---
 
 

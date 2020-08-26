@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered"
+title: Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered
 date: 2014-04-01
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Katzen_Bild_e11bfb84d2.jpg
+image: "/uploads/_processed_/csm_Katzen_Bild_e11bfb84d2.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html
+email: ''
+author: ''
 ---
 
 

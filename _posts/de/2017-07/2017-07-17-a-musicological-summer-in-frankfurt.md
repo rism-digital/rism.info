@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein musikwissenschaftlicher Sommer in Frankfurt"
+title: Ein musikwissenschaftlicher Sommer in Frankfurt
 date: 2017-07-17
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg
+image: "/uploads/_processed_/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
+email: contact@rism.info
+author: Vivian Tompkins
 ---
 
 

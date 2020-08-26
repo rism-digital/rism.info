@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Upgrade des RISM-Katalogs 2019"
+title: Upgrade des RISM-Katalogs 2019
 date: 2019-09-09
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_OPAC_Drucke_September_2019_8d5c8cf833.jpg
+image: "/uploads/_processed_/csm_OPAC_Drucke_September_2019_8d5c8cf833.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/2019-upgrade-of-the-rism-catalog.html
+email: ''
+author: ''
 ---
 
 

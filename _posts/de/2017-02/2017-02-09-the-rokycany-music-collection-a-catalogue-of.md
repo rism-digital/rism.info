@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Rokycany-Musiksammlung. Ein Katalog franko-flämischer Sakralmusik aus den ältesten Teilen des Bestandes"
+title: Die Rokycany-Musiksammlung. Ein Katalog franko-flämischer Sakralmusik aus den ältesten Teilen des Bestandes
 date: 2017-02-09
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Katalog_Rokycany_Music_Collection_6f7eb13845.jpg
+image: "/uploads/_processed_/csm_Katalog_Rokycany_Music_Collection_6f7eb13845.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-rokycany-music-collection-a-catalogue-of-franco-netherlandish-sacred-works-preserved-in-the-old.html
+email: katerina_mayrova@nm.cz
+author: Katerina Mayrova
 ---
 
 

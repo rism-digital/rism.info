@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Happy 200th Birthday to Alexander Dreyschock!"
+title: Happy 200th Birthday to Alexander Dreyschock!
 date: 2018-10-15
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg
+image: "/uploads/_processed_/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-200th-birthday-to-alexander-dreyschock.html
+email: krkraeme@students.uni-mainz.de
+author: Kristina Krämer
 ---
 
 

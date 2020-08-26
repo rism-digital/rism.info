@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music for Advent"
+title: Music for Advent
 date: 2014-11-27
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Advent_wreath_70f72b1002.jpg
+image: "/uploads/_processed_/csm_Advent_wreath_70f72b1002.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-for-advent.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

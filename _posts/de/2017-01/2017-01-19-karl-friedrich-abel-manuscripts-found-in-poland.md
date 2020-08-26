@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikhandschriften von Karl Friedrich Abel in Polen gefunden"
+title: Musikhandschriften von Karl Friedrich Abel in Polen gefunden
 date: 2017-01-19
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Abel_-_Maltzan_1_3115b613b1.jpg
+image: "/uploads/_processed_/csm_Abel_-_Maltzan_1_3115b613b1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/karl-friedrich-abel-manuscript-found-in-poland.html
+email: s.wronkowska@bn.org.pl
+author: Sonia Wronkowska
 ---
 
 

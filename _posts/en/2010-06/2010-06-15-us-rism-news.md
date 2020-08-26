@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "US RISM news"
+title: US RISM news
 date: 2010-06-15
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_US-TelemannSeite1_dda1488dec.jpg
+image: "/uploads/_processed_/csm_US-TelemannSeite1_dda1488dec.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/us-rism-news.html
+email: linklat@fas.harvard.edu
+author: Christina Linklater
 ---
 
 

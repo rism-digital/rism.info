@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Conference this week: Documenting Musical Sources in Latin America"
+title: 'Conference this week: Documenting Musical Sources in Latin America'
 date: 2016-09-12
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Lateinamerika-Konferenz_Woche_27d0dc1016.jpg
+image: "/uploads/_processed_/csm_Lateinamerika-Konferenz_Woche_27d0dc1016.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/latin-america-conference-this-week.html
+email: ''
+author: ''
 ---
 
 

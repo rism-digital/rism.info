@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM bei der IAML/IMS-Konferenz in New York"
+title: RISM bei der IAML/IMS-Konferenz in New York
 date: 2015-08-17
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_IAML_Bericht_6fa7f9c416.jpg
+image: "/uploads/_processed_/csm_IAML_Bericht_6fa7f9c416.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iamlims-congress-in-new-york.html
+email: ''
+author: ''
 ---
 
 

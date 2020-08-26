@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Pedro António Avondano"
+title: Pedro António Avondano
 date: 2014-03-25
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg
+image: "/uploads/_processed_/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pedro-antonio-avondano.html
+email: ''
+author: ''
 ---
 
 

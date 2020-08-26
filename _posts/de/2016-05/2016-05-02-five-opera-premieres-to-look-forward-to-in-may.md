@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Fünf Opernpremieren im Wonnemonat Mai"
+title: Fünf Opernpremieren im Wonnemonat Mai
 date: 2016-05-02
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Opern-Premieren_-_Haydn_d2186a1ed9.jpg
+image: "/uploads/_processed_/csm_Opern-Premieren_-_Haydn_d2186a1ed9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/five-opera-premieres-to-look-forward-to-in-may.html
+email: ''
+author: ''
 ---
 
 

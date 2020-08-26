@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The European Capitals of Culture 2017: Paphos and Aarhus"
+title: 'The European Capitals of Culture 2017: Paphos and Aarhus'
 date: 2017-06-26
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Kulturhauptstadt_2017_4a3be311c5.jpg
+image: "/uploads/_processed_/csm_Kulturhauptstadt_2017_4a3be311c5.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-european-capitals-of-culture-2017-paphos-and-aarhus.html
+email: ''
+author: ''
 ---
 
 

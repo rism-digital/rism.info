@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein kurzer Blick 300 Jahre zurück – Matthesons \"Der brauchbare Virtuoso\" von 1720"
+title: Ein kurzer Blick 300 Jahre zurück – Matthesons "Der brauchbare Virtuoso" von 1720
 date: 2020-07-27
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_1720_Mattheson_659bbc0c6a.jpg
+image: "/uploads/_processed_/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
+email: ''
+author: ''
 ---
 
 

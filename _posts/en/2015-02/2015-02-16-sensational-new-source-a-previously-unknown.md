@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Sensational new source: A previously unknown Carnival song by Beethoven!"
+title: 'Sensational new source: A previously unknown Carnival song by Beethoven!'
 date: 2015-02-16
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg
+image: "/uploads/_processed_/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neuer Katalog zum Musikarchiv von Vizcaínas (Mexiko)"
+title: Neuer Katalog zum Musikarchiv von Vizcaínas (Mexiko)
 date: 2019-08-05
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Lazos_Vizcainas_f8f4548efa.jpg
+image: "/uploads/_processed_/csm_Lazos_Vizcainas_f8f4548efa.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-catalog-of-the-music-archive-of-vizcainas-mexico.html
+email: jlazos11@hotmail.com
+author: Dr. John G. Lazos
 ---
 
 

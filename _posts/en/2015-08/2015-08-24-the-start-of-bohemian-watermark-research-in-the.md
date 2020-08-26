@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Start of Bohemian Watermark Research in the RISM Working Group in Prague (National Library of the Czech Republic)"
+title: The Start of Bohemian Watermark Research in the RISM Working Group in Prague (National Library of the Czech Republic)
 date: 2015-08-24
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Watermark_Research_4f16332722.jpg
+image: "/uploads/_processed_/csm_Watermark_Research_4f16332722.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
+email: Eliska.Sediva@nkp.cz
+author: Eliška Šedivá
 ---
 
 

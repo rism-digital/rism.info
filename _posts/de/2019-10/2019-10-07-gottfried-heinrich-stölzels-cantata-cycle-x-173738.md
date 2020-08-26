@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Der Kantatenjahrgang X (1737/38) von Gottfried Heinrich Stölzel"
+title: Der Kantatenjahrgang X (1737/38) von Gottfried Heinrich Stölzel
 date: 2019-10-07
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg
+image: "/uploads/_processed_/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
+email: christian.ahrens@me.com
+author: Christian Ahrens
 ---
 
 

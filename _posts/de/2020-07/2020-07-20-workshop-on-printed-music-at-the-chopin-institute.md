@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Workshop zu Musikdrucken am Chopin Institut, Warschau"
+title: Workshop zu Musikdrucken am Chopin Institut, Warschau
 date: 2020-07-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Workshop_Drucke_Warschau_6f00aaf187.jpg
+image: "/uploads/_processed_/csm_Workshop_Drucke_Warschau_6f00aaf187.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/workshop-on-printed-music-at-the-chopin-institute-warsaw.html
+email: mchojecka@nifc.pl
+author: Marcelina Chojecka
 ---
 
 

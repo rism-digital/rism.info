@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music treasure lost and found"
+title: Music treasure lost and found
 date: 2018-05-24
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg
+image: "/uploads/_processed_/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-treasure-lost-and-found.html
+email: ''
+author: Caroline Shaw
 ---
 
 

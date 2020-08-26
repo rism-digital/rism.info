@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Historische Inventare der Dresdner Hofmusik online"
+title: Historische Inventare der Dresdner Hofmusik online
 date: 2015-11-09
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Dresden_Inventare_e4824639e3.png
+image: "/uploads/_processed_/csm_Dresden_Inventare_e4824639e3.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/historical-inventories-of-music-online.html
+email: nina.eichholz@slub-dresden.de
+author: Nina Eichholz
 ---
 
 

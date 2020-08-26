@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "François Couperin"
+title: François Couperin
 date: 2014-08-06
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Couperin_la_voluptueuse_22c2f11ecd.jpg
+image: "/uploads/_processed_/csm_Couperin_la_voluptueuse_22c2f11ecd.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-francois-couperin.html
+email: ''
+author: ''
 ---
 
 

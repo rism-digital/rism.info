@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vereinbarung zwischen ICCU, IAML-Italien und RISM unterzeichnet"
+title: Vereinbarung zwischen ICCU, IAML-Italien und RISM unterzeichnet
 date: 2016-09-26
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_ICCU_contract_logo_956efb3384.jpg
+image: "/uploads/_processed_/csm_ICCU_contract_logo_956efb3384.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/agreement-signed-between-iccu-iaml-italy-and-rism.html
+email: ''
+author: ''
 ---
 
 

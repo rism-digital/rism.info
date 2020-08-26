@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Nov. 2017: Jahrestreffen des Collaborative Project on Chinese Music Resources und ein RISM Katalogisierungs-Workshop am Shanghai Conservatory of Music"
+title: 'Nov. 2017: Jahrestreffen des Collaborative Project on Chinese Music Resources und ein RISM Katalogisierungs-Workshop am Shanghai Conservatory of Music'
 date: 2017-11-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_DSC00327_60ecff1de3.jpg
+image: "/uploads/_processed_/csm_DSC00327_60ecff1de3.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/201711-the-collaborative-project-on-chinese-music-resources-2017-annual-meeting-and-the-rism-catal.html
+email: tzchia22@gmail.com
+author: TSENG Tzu-Chia
 ---
 
 

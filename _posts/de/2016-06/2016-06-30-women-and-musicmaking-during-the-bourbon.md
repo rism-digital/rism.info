@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Frauen und Musikpraxis während der Bourbonischen Restauration"
+title: Frauen und Musikpraxis während der Bourbonischen Restauration
 date: 2016-06-30
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg
+image: "/uploads/_processed_/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/women-and-music-making-during-the-bourbon-restoration.html
+email: linklat@fas.harvard.edu
+author: Emerson Morgan
 ---
 
 

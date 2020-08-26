@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "George Frideric Handel at the British Library"
+title: George Frideric Handel at the British Library
 date: 2016-04-14
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Haendel-Autographe_635e1c9541.jpg
+image: "/uploads/_processed_/csm_Haendel-Autographe_635e1c9541.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
+email: ''
+author: ''
 ---
 
 

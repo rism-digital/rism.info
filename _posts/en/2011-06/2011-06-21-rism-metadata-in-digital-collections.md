@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Metadata in Digital Collections"
+title: RISM Metadata in Digital Collections
 date: 2011-06-21
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_17italianariasfront_77bd1b40fe.jpg
+image: "/uploads/_processed_/csm_17italianariasfront_77bd1b40fe.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-metadata-in-digital-collections.html
+email: ''
+author: ''
 ---
 
 

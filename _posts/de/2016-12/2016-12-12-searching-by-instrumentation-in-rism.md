@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Suche nach Besetzung im RISM Online-Katalog"
+title: Suche nach Besetzung im RISM Online-Katalog
 date: 2016-12-12
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Besetzung_Bild_6d37d04324.jpg
+image: "/uploads/_processed_/csm_Besetzung_Bild_6d37d04324.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-by-instrumentation-in-rism.html
+email: ''
+author: ''
 ---
 
 

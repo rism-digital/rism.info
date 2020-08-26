@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Niccolò Jommelli wiederentdeckt: Internationaler Preis für den Aufsatz über ein an der Nationalbibliothek Portugal vorhandenen Autograph"
+title: 'Niccolò Jommelli wiederentdeckt: Internationaler Preis für den Aufsatz über ein an der Nationalbibliothek Portugal vorhandenen Autograph'
 date: 2014-11-17
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Portugal_Jommeli_3a337a63af.jpg
+image: "/uploads/_processed_/csm_Portugal_Jommeli_3a337a63af.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html
+email: ''
+author: ''
 ---
 
 

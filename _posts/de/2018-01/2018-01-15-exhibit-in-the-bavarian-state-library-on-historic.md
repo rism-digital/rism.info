@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ausstellung in der Bayerischen Staatsbibliothek München über historische Tabulaturen"
+title: Ausstellung in der Bayerischen Staatsbibliothek München über historische Tabulaturen
 date: 2018-01-15
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_etlich_liedlein_nur_bild_247858f093.jpg
+image: "/uploads/_processed_/csm_etlich_liedlein_nur_bild_247858f093.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music from Stams Abbey (Austria)"
+title: Music from Stams Abbey (Austria)
 date: 2018-08-20
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_DVD_Stift_Stams_eda7b32d23.jpg
+image: "/uploads/_processed_/csm_DVD_Stift_Stams_eda7b32d23.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-from-stams-abbey-austria.html
+email: rism.hh@musikland-tirol.at
+author: Manfred Schneider
 ---
 
 

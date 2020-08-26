@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music History's Earliest Engraved Notes – Simone Verovio"
+title: Music History's Earliest Engraved Notes – Simone Verovio
 date: 2019-07-22
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Verovio_fruehe_Drucke_74bfaf3caa.png
+image: "/uploads/_processed_/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
+email: martin.bierwisch@rism.info
+author: Martin Bierwisch
 ---
 
 

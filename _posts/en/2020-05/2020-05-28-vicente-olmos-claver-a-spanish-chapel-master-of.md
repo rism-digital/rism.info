@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vicente Olmos Claver: A Spanish Chapel Master of the 18th Century"
+title: 'Vicente Olmos Claver: A Spanish Chapel Master of the 18th Century'
 date: 2020-05-28
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png
+image: "/uploads/_processed_/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
+email: angelmarzalraga@gmail.com
+author: Ángel Marzal
 ---
 
 

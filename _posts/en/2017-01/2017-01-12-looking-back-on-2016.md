@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Looking Back on 2016"
+title: Looking Back on 2016
 date: 2017-01-12
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Rueckblick_2016_a6956ec9f6.jpg
+image: "/uploads/_processed_/csm_Rueckblick_2016_a6956ec9f6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2016.html
+email: ''
+author: ''
 ---
 
 

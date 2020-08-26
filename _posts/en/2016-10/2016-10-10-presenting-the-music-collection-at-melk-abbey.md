@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Presenting the Music Collection at Melk Abbey"
+title: Presenting the Music Collection at Melk Abbey
 date: 2016-10-10
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Stift_Melk_Prominczel_d638112953.jpg
+image: "/uploads/_processed_/csm_Stift_Melk_Prominczel_d638112953.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/presenting-the-music-collection-at-melk-abbey.html
+email: musikarchiv@stiftmelk.at
+author: Johannes Prominczel
 ---
 
 

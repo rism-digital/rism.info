@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mark the Music! Musikquellen in Schweden entdecken"
+title: Mark the Music! Musikquellen in Schweden entdecken
 date: 2017-07-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Goeteborg_Mark_the_Music_Handscrift_0b45301c06.jpg
+image: "/uploads/_processed_/csm_Goeteborg_Mark_the_Music_Handscrift_0b45301c06.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
+email: ''
+author: ''
 ---
 
 

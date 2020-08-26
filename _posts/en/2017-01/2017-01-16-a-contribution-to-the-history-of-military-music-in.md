@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Contribution to the History of Military Music in the Kingdom of Hanover"
+title: A Contribution to the History of Military Music in the Kingdom of Hanover
 date: 2017-01-16
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Geschichte____D-HVl_37__Noviss._145_86_0f60174188.jpg
+image: "/uploads/_processed_/csm_Geschichte____D-HVl_37__Noviss._145_86_0f60174188.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-contribution-to-the-history-of-military-music-in-the-kingdom-of-hanover.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Helmut Lauterwasser
 ---
 
 

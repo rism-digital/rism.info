@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM—500 Years Ago"
+title: RISM—500 Years Ago
 date: 2018-09-17
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_1518_8828a712ad.png
+image: "/uploads/_processed_/csm_RISM_1518_8828a712ad.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-500-years-ago.html
+email: ''
+author: ''
 ---
 
 

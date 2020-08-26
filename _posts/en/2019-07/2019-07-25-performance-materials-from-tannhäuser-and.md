@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Performance Materials from \"Tannhäuser\" and \"Meistersinger von Nürnberg\" Now Online"
+title: Performance Materials from "Tannhäuser" and "Meistersinger von Nürnberg" Now Online
 date: 2019-07-25
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Wagner_Slub_blog_991559831b.png
+image: "/uploads/_processed_/csm_Wagner_Slub_blog_991559831b.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
+email: andrea.hammes@slub-dresden.de
+author: Andrea Hammes
 ---
 
 

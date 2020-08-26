@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM beim Coding da Vinci 2018 Hackathon"
+title: RISM beim Coding da Vinci 2018 Hackathon
 date: 2019-03-11
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Hackathon_e3d6e8cfa9.png
+image: "/uploads/_processed_/csm_Hackathon_e3d6e8cfa9.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-coding-da-vinci-2018-hackathon.html
+email: ''
+author: ''
 ---
 
 
