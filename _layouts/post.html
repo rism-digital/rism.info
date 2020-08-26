@@ -9,6 +9,8 @@ permalink: page.permalink
 
 {{ content }}
 
+{% include share.html %}
+
 <hr/>
 
 {% assign older = site.data.locales | where: "id", "older" | first %}
