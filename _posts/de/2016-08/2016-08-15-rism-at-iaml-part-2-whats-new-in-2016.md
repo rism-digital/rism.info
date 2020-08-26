@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM bei der IAML-Konferenz, Teil 2: Neuigkeiten 2016"
+title: 'RISM bei der IAML-Konferenz, Teil 2: Neuigkeiten 2016'
 date: 2016-08-15
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg
+image: "/uploads/_processed_/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
+email: ''
+author: ''
 ---
 
 

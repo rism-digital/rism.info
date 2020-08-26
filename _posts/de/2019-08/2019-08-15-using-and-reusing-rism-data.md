@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM-Daten nutzen und wiederverwenden"
+title: RISM-Daten nutzen und wiederverwenden
 date: 2019-08-15
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Edirom_RondoDB_0d4f6b6724.png
+image: "/uploads/_processed_/csm_Edirom_RondoDB_0d4f6b6724.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/using-and-reusing-rism-data.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New CD of Music for Johann Konrad Wörle's Organs"
+title: New CD of Music for Johann Konrad Wörle's Organs
 date: 2015-10-22
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg
+image: "/uploads/_processed_/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

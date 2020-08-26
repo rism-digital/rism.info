@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Insights into the collections of the Heiligenkreuz Monastery (Austria)"
+title: Insights into the collections of the Heiligenkreuz Monastery (Austria)
 date: 2018-10-18
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg
+image: "/uploads/_processed_/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/insights-into-the-collections-of-the-heiligenkreuz-monastery-austria.html
+email: p.roman@stift-heiligenkreuz.at
+author: P. Roman Nägele OCist
 ---
 
 

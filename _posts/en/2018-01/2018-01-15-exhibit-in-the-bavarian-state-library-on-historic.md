@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Exhibit in the Bavarian State Library on Historic Tablatures"
+title: Exhibit in the Bavarian State Library on Historic Tablatures
 date: 2018-01-15
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_etlich_liedlein_nur_bild_247858f093.jpg
+image: "/uploads/_processed_/csm_etlich_liedlein_nur_bild_247858f093.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
+email: ''
+author: ''
 ---
 
 

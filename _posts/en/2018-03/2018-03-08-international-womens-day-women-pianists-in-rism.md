@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "International Women's Day: Women Pianists in RISM"
+title: 'International Women''s Day: Women Pianists in RISM'
 date: 2018-03-08
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg
+image: "/uploads/_processed_/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-womens-day-women-pianists-in-rism.html
+email: alexander.marxen@rism.info
+author: ''
 ---
 
 

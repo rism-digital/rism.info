@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "From Dresden to Moscow and back: Works from the SLUB relocated during the war will be digitized"
+title: 'From Dresden to Moscow and back: Works from the SLUB relocated during the war will be digitized'
 date: 2018-12-10
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg
+image: "/uploads/_processed_/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
+email: barbara.wiermann@slub-dresden.de
+author: Barbara Wiermann
 ---
 
 

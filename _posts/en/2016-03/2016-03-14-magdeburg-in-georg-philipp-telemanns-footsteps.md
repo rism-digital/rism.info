@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Magdeburg in Georg Philipp Telemann's Footsteps"
+title: Magdeburg in Georg Philipp Telemann's Footsteps
 date: 2016-03-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Telemann-Ms_Ff_Mus_994_db21312961.jpg
+image: "/uploads/_processed_/csm_Telemann-Ms_Ff_Mus_994_db21312961.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/magdeburg-in-the-age-of-georg-philipp-telemann.html
+email: ''
+author: ''
 ---
 
 

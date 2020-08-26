@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Second Muscat Workshop in Prague"
+title: Second Muscat Workshop in Prague
 date: 2017-12-11
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg
+image: "/uploads/_processed_/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/second-muscat-workshop-in-prague.html
+email: ''
+author: ''
 ---
 
 

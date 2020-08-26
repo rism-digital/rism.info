@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music Manuscripts by Richard Strauss and Hans Pfitzner Online"
+title: Music Manuscripts by Richard Strauss and Hans Pfitzner Online
 date: 2020-05-25
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg
+image: "/uploads/_processed_/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
+email: ''
+author: ''
 ---
 
 

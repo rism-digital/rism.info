@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Muscat Workshop in Prague"
+title: Muscat Workshop in Prague
 date: 2016-11-21
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Gruppenfoto_I_klein_2232e87404.jpg
+image: "/uploads/_processed_/csm_Gruppenfoto_I_klein_2232e87404.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshop-in-prague.html
+email: ''
+author: ''
 ---
 
 

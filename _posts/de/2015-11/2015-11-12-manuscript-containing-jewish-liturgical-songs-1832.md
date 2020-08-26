@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Handschrift mit jüdischer liturgischer Musik (1832) katalogisiert und vorgestellt"
+title: Handschrift mit jüdischer liturgischer Musik (1832) katalogisiert und vorgestellt
 date: 2015-11-12
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Sulzer_Bericht_Voss_c491e54966.jpg
+image: "/uploads/_processed_/csm_Sulzer_Bericht_Voss_c491e54966.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
+email: steffen.voss@bsb-muenchen.de
+author: Steffen Voss
 ---
 
 

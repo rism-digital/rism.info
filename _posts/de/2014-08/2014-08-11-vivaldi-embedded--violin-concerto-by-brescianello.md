@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vivaldi embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio"
+title: Vivaldi embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio
 date: 2014-08-11
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Vivaldi_embeded_a19db0b2ca.jpg
+image: "/uploads/_processed_/csm_Vivaldi_embeded_a19db0b2ca.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vivaldi-embedded.html
+email: geck@slub-dresden.de
+author: Karl Wilhelm Geck
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM at the IMS Congress in Tokyo"
+title: RISM at the IMS Congress in Tokyo
 date: 2017-04-20
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_kirschblueten_32a2a59c12.jpg
+image: "/uploads/_processed_/csm_kirschblueten_32a2a59c12.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-ims-congress-in-tokyo.html
+email: ''
+author: ''
 ---
 
 

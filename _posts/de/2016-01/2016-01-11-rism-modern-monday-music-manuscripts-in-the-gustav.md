@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISMs moderner Montag: Musikhandschriften in der Gustav Mahler-Alfred Rosé Sammlung"
+title: 'RISMs moderner Montag: Musikhandschriften in der Gustav Mahler-Alfred Rosé Sammlung'
 date: 2016-01-11
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Canada_Mahler_370e57d212.jpg
+image: "/uploads/_processed_/csm_Canada_Mahler_370e57d212.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
+email: cmart29@uwo.ca
+author: Cheryl Martin
 ---
 
 

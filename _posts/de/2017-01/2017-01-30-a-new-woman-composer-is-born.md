@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine neue Komponistin ist geboren"
+title: Eine neue Komponistin ist geboren
 date: 2017-01-30
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png
+image: "/uploads/_processed_/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-woman-composer-is-born.html
+email: ninaeichholz234@gmail.com
+author: Nina Eichholz
 ---
 
 

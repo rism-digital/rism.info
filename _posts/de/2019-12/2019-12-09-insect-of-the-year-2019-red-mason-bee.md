@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Insekt des Jahres 2019: RISM und die rote Mauerbiene"
+title: 'Insekt des Jahres 2019: RISM und die rote Mauerbiene'
 date: 2019-12-09
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Biene_2019-Heinichen_51b2bdb705.jpg
+image: "/uploads/_processed_/csm_Biene_2019-Heinichen_51b2bdb705.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/insect-of-the-year-2019-red-mason-bee.html
+email: ''
+author: ''
 ---
 
 

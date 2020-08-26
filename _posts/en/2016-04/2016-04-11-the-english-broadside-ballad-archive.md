@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The English Broadside Ballad Archive"
+title: The English Broadside Ballad Archive
 date: 2016-04-11
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_EBBA_21cb4acf98.jpg
+image: "/uploads/_processed_/csm_EBBA_21cb4acf98.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-english-broadside-ballad-archive.html
+email: ''
+author: ''
 ---
 
 

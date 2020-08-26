@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 2016 RISM Bird Count"
+title: The 2016 RISM Bird Count
 date: 2016-02-15
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Vogelzaehlung_2d6af1517b.jpg
+image: "/uploads/_processed_/csm_Vogelzaehlung_2d6af1517b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2016-rism-bird-count.html
+email: ''
+author: ''
 ---
 
 

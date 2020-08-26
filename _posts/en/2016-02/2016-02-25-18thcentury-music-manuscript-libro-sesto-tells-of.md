@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "18th-Century Music Manuscript \"Libro Sesto\" Tells of Colonial History in Chile"
+title: 18th-Century Music Manuscript "Libro Sesto" Tells of Colonial History in Chile
 date: 2016-02-25
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Libro_sesto_Chile_3c93826d3e.jpg
+image: "/uploads/_processed_/csm_Libro_sesto_Chile_3c93826d3e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eighteenth-century-music-manuscript-el-libro-sesto-tells-of-colonial-history-in-chile.html
+email: ''
+author: ''
 ---
 
 

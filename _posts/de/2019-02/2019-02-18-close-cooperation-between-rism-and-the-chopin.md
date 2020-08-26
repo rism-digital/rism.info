@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Intensive Zusammenarbeit zwischen RISM und dem Chopin-Institut"
+title: Intensive Zusammenarbeit zwischen RISM und dem Chopin-Institut
 date: 2019-02-18
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Treffen1_99940fe63d.jpg
+image: "/uploads/_processed_/csm_Treffen1_99940fe63d.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/close-cooperation-between-rism-and-the-chopin-institute.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Heute vor 350 Jahren: Il pomo d'oro"
+title: 'Heute vor 350 Jahren: Il pomo d''oro'
 date: 2018-07-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg
+image: "/uploads/_processed_/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/350-years-ago-today-il-pomo-doro.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM-Konferenz"
+title: RISM-Konferenz
 date: 2012-01-18
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Logo_02_zur_Konferenz_links_fde5a9a1c0.jpg
+image: "/uploads/_processed_/csm_Logo_02_zur_Konferenz_links_fde5a9a1c0.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-conference.html
+email: contact@rism.info
+author: Klaus Keil
 ---
 
 

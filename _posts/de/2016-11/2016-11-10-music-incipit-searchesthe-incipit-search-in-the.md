@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikincipits suchenDie Incipitsuche im Online-KatalogEine experimentelle Incipitsuche"
+title: Musikincipits suchenDie Incipitsuche im Online-KatalogEine experimentelle Incipitsuche
 date: 2016-11-10
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_incipit_search_keyboard_965_415_65fdc94948.jpg
+image: "/uploads/_processed_/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-incipit-searches.html
+email: ''
+author: ''
 ---
 
 

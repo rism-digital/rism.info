@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Überarbeitung der Sammeldrucke ab 1601: Es ist ein Ende in Sicht!"
+title: 'Überarbeitung der Sammeldrucke ab 1601: Es ist ein Ende in Sicht!'
 date: 2020-07-02
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bericht_Update_B1_70c2221de6.jpg
+image: "/uploads/_processed_/csm_Bericht_Update_B1_70c2221de6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/revising-records-for-post-1600-printed-anthologies-there-is-an-end-in-sight.html
+email: contact@rism.info
+author: ''
 ---
 
 

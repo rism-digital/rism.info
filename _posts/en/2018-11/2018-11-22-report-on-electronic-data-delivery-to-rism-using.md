@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Report on Electronic Data Delivery to RISM using the Moravská zemská knihovna v Brně (Moravian Library; CZ-Bu) as an example: Requirements, Procedure, and Description of the Collection"
+title: 'Report on Electronic Data Delivery to RISM using the Moravská zemská knihovna v Brně (Moravian Library; CZ-Bu) as an example: Requirements, Procedure, and Description of the Collection'
 date: 2018-11-22
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png
+image: "/uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

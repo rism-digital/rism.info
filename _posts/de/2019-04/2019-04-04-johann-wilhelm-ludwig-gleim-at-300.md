@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 300. Geburtstag von Johann Wilhelm Ludwig Gleim"
+title: Zum 300. Geburtstag von Johann Wilhelm Ludwig Gleim
 date: 2019-04-04
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Gleim_10b7f2bb1f.png
+image: "/uploads/_processed_/csm_Gleim_10b7f2bb1f.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-wilhelm-ludwig-gleim-at-300.html
+email: ''
+author: ''
 ---
 
 

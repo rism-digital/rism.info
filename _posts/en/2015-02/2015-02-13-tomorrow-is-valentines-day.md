@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Tomorrow is Valentine's Day"
+title: Tomorrow is Valentine's Day
 date: 2015-02-13
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg
+image: "/uploads/_processed_/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tomorrow-is-valentines-day.html
+email: ''
+author: ''
 ---
 
 

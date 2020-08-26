@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Adriano Banchieri at 450"
+title: Adriano Banchieri at 450
 date: 2018-09-03
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Banchieri_1_ae56112754.png
+image: "/uploads/_processed_/csm_Banchieri_1_ae56112754.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/adriano-banchieri-at-450.html
+email: ''
+author: ''
 ---
 
 

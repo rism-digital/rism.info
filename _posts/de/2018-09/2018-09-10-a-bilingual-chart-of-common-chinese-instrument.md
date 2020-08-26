@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine zweisprachige Tabelle der gebräuchlichen chinesischen Instrumentennamen"
+title: Eine zweisprachige Tabelle der gebräuchlichen chinesischen Instrumentennamen
 date: 2018-09-10
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg
+image: "/uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-bilingual-chart-of-common-chinese-instrument-names.html
+email: tzchia22@gmail.com
+author: TSENG Tzu-Chia
 ---
 
 

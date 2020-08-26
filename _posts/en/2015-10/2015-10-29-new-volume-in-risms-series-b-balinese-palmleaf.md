@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Volume in RISM's Series B: Balinese Palm-Leaf Manuscripts"
+title: 'New Volume in RISM''s Series B: Balinese Palm-Leaf Manuscripts'
 date: 2015-10-29
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_B_XVI-Bali_a84ebf0c97.jpg
+image: "/uploads/_processed_/csm_B_XVI-Bali_a84ebf0c97.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html
+email: ''
+author: ''
 ---
 
 

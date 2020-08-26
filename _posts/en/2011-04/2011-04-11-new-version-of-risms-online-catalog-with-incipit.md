@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Version of RISM’s Online Catalog with Incipit Search Released"
+title: New Version of RISM’s Online Catalog with Incipit Search Released
 date: 2011-04-11
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Incipit_engl_2_beige_1003bd7c07.jpg
+image: "/uploads/_processed_/csm_Incipit_engl_2_beige_1003bd7c07.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-version-of-risms-online-catalog-with-incipit-search-released.html
+email: Klaus.Keil@RISM.info
+author: Klaus Keil
 ---
 
 

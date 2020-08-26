@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Results of the RISM User Study, Part III: Your Comments - Chronological Limits"
+title: 'Results of the RISM User Study, Part III: Your Comments - Chronological Limits'
 date: 2015-08-12
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Nutzerstudie_2_Bruch_D-B_024c56fa6e.png
+image: "/uploads/_processed_/csm_Nutzerstudie_2_Bruch_D-B_024c56fa6e.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-ii-your-comments-chronological-limits.html
+email: ''
+author: ''
 ---
 
 

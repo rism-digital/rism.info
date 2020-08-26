@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digital Musicology at Oxford Summer School"
+title: Digital Musicology at Oxford Summer School
 date: 2019-09-02
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg
+image: "/uploads/_processed_/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digital-musicology-at-oxford-summer-school.html
+email: ''
+author: Jennifer Ward (RISM Central Office)
 ---
 
 

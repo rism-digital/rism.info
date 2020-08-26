@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Call for Papers: International Conference Celebration and Sonority (14.-16. November 2019, Morelia, Mexiko)"
+title: 'Call for Papers: International Conference Celebration and Sonority (14.-16. November 2019, Morelia, Mexiko)'
 date: 2019-06-05
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_CfP_Edgar_8baeba5cc2.png
+image: "/uploads/_processed_/csm_CfP_Edgar_8baeba5cc2.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/call-for-papers-international-conference-celebration-and-sonority-morelia-mexico-14th-to-16th-nov.html
+email: euterpe@enesmorelia.unam.mx
+author: ''
 ---
 
 

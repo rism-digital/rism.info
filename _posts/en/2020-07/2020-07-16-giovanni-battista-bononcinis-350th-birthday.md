@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Giovanni (Battista) Bononcini’s 350th Birthday"
+title: Giovanni (Battista) Bononcini’s 350th Birthday
 date: 2020-07-16
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Bononcini_350_855abeaace.jpg
+image: "/uploads/_processed_/csm_Bononcini_350_855abeaace.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/giovanni-battista-bononcinis-350th-birthday.html
+email: ''
+author: ''
 ---
 
 

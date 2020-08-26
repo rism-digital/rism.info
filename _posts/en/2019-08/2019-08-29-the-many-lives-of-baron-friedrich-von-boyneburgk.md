@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Many Lives of Baron Friedrich von Boyneburgk"
+title: The Many Lives of Baron Friedrich von Boyneburgk
 date: 2019-08-29
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Boyneburgk_Rettinghaus_0ca3a29413.png
+image: "/uploads/_processed_/csm_Boyneburgk_Rettinghaus_0ca3a29413.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-many-lives-of-baron-friedrich-von-boyneburgk.html
+email: rettinghaus@bach-leipzig.de
+author: Klaus Rettinghaus
 ---
 
 

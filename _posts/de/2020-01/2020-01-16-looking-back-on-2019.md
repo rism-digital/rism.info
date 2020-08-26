@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Rückblick auf 2019"
+title: Rückblick auf 2019
 date: 2020-01-16
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Rueckblick_2019_dd73c5c5b5.jpg
+image: "/uploads/_processed_/csm_Rueckblick_2019_dd73c5c5b5.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2019.html
+email: ''
+author: ''
 ---
 
 

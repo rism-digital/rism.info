@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Kongresstagebuch zu IAML Krakau 2019"
+title: Kongresstagebuch zu IAML Krakau 2019
 date: 2019-08-26
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg
+image: "/uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/congress-diary-from-iaml-krakow-2019.html
+email: ''
+author: ''
 ---
 
 

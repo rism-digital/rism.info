@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musical Christmas Greetings from Tyrol"
+title: Musical Christmas Greetings from Tyrol
 date: 2013-12-18
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_weihnachtskonzert_2013_bild_de0b8a38b8.jpg
+image: "/uploads/_processed_/csm_weihnachtskonzert_2013_bild_de0b8a38b8.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-christmas-greetings-from-tyrol-1.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

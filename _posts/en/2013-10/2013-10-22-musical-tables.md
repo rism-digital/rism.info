@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musical Tables"
+title: Musical Tables
 date: 2013-10-22
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Liedertisch_Sexta_Vox_8e24c7a8d7.jpg
+image: "/uploads/_processed_/csm_Liedertisch_Sexta_Vox_8e24c7a8d7.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-tables.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Helmut Lauterwasser
 ---
 
 

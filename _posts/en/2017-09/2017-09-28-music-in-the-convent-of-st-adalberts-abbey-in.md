@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music in the Convent of St Adalbert's Abbey in Staniątki, Poland"
+title: Music in the Convent of St Adalbert's Abbey in Staniątki, Poland
 date: 2017-09-28
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Benedictine_Monastery_in_Staniatki_PL-STAb_a0a458a2b9.jpg
+image: "/uploads/_processed_/csm_Benedictine_Monastery_in_Staniatki_PL-STAb_a0a458a2b9.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-in-the-convent-of-st-adalberts-abbey-in-staniatki-poland.html
+email: marcin.konik@gmail.com
+author: Marcin Konik
 ---
 
 

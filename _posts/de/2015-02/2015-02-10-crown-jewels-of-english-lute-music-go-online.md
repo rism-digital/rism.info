@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die \"Kronjuwelen\" der englischen Lautenmusik gehen online"
+title: Die "Kronjuwelen" der englischen Lautenmusik gehen online
 date: 2015-02-10
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_141209-lute-music-mainimage_d0d7272391.jpg
+image: "/uploads/_processed_/csm_141209-lute-music-mainimage_d0d7272391.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/crown-jewels-of-english-lute-music-go-online.html
+email: ''
+author: ''
 ---
 
 

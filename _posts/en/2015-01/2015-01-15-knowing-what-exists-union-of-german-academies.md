@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Knowing what exists: Union of German Academies renews support for RISM Germany"
+title: 'Knowing what exists: Union of German Academies renews support for RISM Germany'
 date: 2015-01-15
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Geck_Knowing_4227350b19.jpg
+image: "/uploads/_processed_/csm_Geck_Knowing_4227350b19.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/knowing-what-exists-union-of-german-academies-renews-support-for-rism-germany.html
+email: geck@slub-dresden.de
+author: Karl Wilhelm Geck
 ---
 
 

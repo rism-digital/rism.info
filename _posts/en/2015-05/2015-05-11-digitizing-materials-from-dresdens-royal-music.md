@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digitizing Materials from Dresden's Royal Music Collections"
+title: Digitizing Materials from Dresden's Royal Music Collections
 date: 2015-05-11
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg
+image: "/uploads/_processed_/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitizing-materials-from-dresdens-royal-music-collections.html
+email: Nina.Eichholz@slub-dresden.de
+author: Nina Eichholz
 ---
 
 

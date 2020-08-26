@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Byzantine Music Archives join Muscat"
+title: Byzantine Music Archives join Muscat
 date: 2018-04-03
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Byzantine_Music_Archives_join_MUSCAT_Seite_2_42a9f3f6c7.jpg
+image: "/uploads/_processed_/csm_Byzantine_Music_Archives_join_MUSCAT_Seite_2_42a9f3f6c7.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/byzantine-music-archives-join-muscat.html
+email: arsinoi_i@hotmail.com
+author: Arsinoi Ioannidou
 ---
 
 

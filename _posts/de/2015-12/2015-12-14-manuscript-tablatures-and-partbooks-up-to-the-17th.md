@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Handschriftliche Tabulaturen und Stimmbücher bis zur Mitte des 17. Jahrhunderts der Bayerischen Staatsbliothek München"
+title: Handschriftliche Tabulaturen und Stimmbücher bis zur Mitte des 17. Jahrhunderts der Bayerischen Staatsbliothek München
 date: 2015-12-14
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Tabulaturen_231b764688.jpg
+image: "/uploads/_processed_/csm_Tabulaturen_231b764688.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscript-tablatures-and-partbooks-up-to-the-17th-century-in-the-bavarian-state-library.html
+email: giglberger@bsb-muenchen.de
+author: Veronika Giglberger
 ---
 
 

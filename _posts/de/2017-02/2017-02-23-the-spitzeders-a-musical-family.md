@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Musikerfamilie Spitzeder"
+title: Die Musikerfamilie Spitzeder
 date: 2017-02-23
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Spitzeder_9c8629735a.jpg
+image: "/uploads/_processed_/csm_Spitzeder_9c8629735a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-spitzeders-a-musical-family.html
+email: ''
+author: ''
 ---
 
 

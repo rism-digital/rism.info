@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM at the AIBM Conference"
+title: RISM at the AIBM Conference
 date: 2014-10-20
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Nuernberg_18fcb467ff.jpg
+image: "/uploads/_processed_/csm_Nuernberg_18fcb467ff.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-aibm-conference.html
+email: ''
+author: ''
 ---
 
 

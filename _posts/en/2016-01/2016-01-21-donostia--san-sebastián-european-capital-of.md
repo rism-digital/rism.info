@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Donostia / San Sebastián: European Capital of Culture 2016"
+title: 'Donostia / San Sebastián: European Capital of Culture 2016'
 date: 2016-01-21
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Donostia_Sarriegi_-Carnaval_de_San_Sebastian_23b9a186b0.jpg
+image: "/uploads/_processed_/csm_Donostia_Sarriegi_-Carnaval_de_San_Sebastian_23b9a186b0.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/donostia-san-sebastian-european-capital-of-culture-2016.html
+email: jbagues@eresbil.com
+author: ERESBIL-Basque Archives of Music
 ---
 
 

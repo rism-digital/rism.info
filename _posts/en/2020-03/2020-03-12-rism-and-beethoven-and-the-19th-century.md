@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM and Beethoven and the 19th Century"
+title: RISM and Beethoven and the 19th Century
 date: 2020-03-12
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_und_Beethoven_109_LC_fea5a7050b.png
+image: "/uploads/_processed_/csm_RISM_und_Beethoven_109_LC_fea5a7050b.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-beethoven-and-the-19th-century.html
+email: ''
+author: ''
 ---
 
 

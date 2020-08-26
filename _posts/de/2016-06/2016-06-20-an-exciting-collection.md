@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein hochinteressanter Bestand"
+title: Ein hochinteressanter Bestand
 date: 2016-06-20
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg
+image: "/uploads/_processed_/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-exciting-collection.html
+email: gottfried.heinz-kronberger@bsb-muenchen.de
+author: Gottfried Heinz-Kronberger
 ---
 
 

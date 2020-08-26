@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Celebrating 1,000 Facebook Fans!"
+title: Celebrating 1,000 Facebook Fans!
 date: 2014-06-06
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Luftballons_c7ad474b66.jpg
+image: "/uploads/_processed_/csm_Luftballons_c7ad474b66.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/celebrating-1000-facebook-fans.html
+email: ''
+author: ''
 ---
 
 

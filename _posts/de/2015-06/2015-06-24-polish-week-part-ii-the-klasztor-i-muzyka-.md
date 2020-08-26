@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Polnische Woche, Teil II: Zur Konferenz „Klasztor i muzyka/Monasteries and music“ in Tschenstochau"
+title: 'Polnische Woche, Teil II: Zur Konferenz „Klasztor i muzyka/Monasteries and music“ in Tschenstochau'
 date: 2015-06-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Jasna_Gora_870a2a9a55.jpg
+image: "/uploads/_processed_/csm_Jasna_Gora_870a2a9a55.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-week-part-ii-the-klasztor-i-muzyka-monasteries-and-music-conference-in-czestochowa.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

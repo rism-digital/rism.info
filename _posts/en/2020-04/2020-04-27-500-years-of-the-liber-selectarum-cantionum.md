@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "500 Years of the “Liber selectarum cantionum”"
+title: 500 Years of the “Liber selectarum cantionum”
 date: 2020-04-27
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_500_Jahre_Liber_selectarum_acab537a28.png
+image: "/uploads/_processed_/csm_500_Jahre_Liber_selectarum_acab537a28.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-years-of-the-liber-selectarum-cantionum.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dauer der RISM-Katalogsitzungen ausgebaut"
+title: Dauer der RISM-Katalogsitzungen ausgebaut
 date: 2017-02-20
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg
+image: "/uploads/_processed_/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/length-of-rism-catalog-sessions-increased.html
+email: ''
+author: ''
 ---
 
 

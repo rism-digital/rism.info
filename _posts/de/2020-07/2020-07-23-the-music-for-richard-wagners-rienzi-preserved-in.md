@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Das Notenmaterial zu Richard Wagners \"Rienzi\" in Dresden"
+title: Das Notenmaterial zu Richard Wagners "Rienzi" in Dresden
 date: 2020-07-23
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png
+image: "/uploads/_processed_/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
+email: ''
+author: ''
 ---
 
 

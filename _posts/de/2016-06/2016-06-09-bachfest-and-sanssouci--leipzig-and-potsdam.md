@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bachfest und Sanssouci – Leipzig und Potsdam"
+title: Bachfest und Sanssouci – Leipzig und Potsdam
 date: 2016-06-09
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg
+image: "/uploads/_processed_/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
+email: ''
+author: ''
 ---
 
 

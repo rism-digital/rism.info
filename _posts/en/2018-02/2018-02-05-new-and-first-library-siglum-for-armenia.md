@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New (and first) Library Siglum for Armenia"
+title: New (and first) Library Siglum for Armenia
 date: 2018-02-05
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Armenien_Sigel_f5ba135e79.jpg
+image: "/uploads/_processed_/csm_Armenien_Sigel_f5ba135e79.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-and-first-library-siglum-for-armenia.html
+email: ''
+author: ''
 ---
 
 

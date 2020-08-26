@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Quellen aus Kanada in RISM"
+title: Neue Quellen aus Kanada in RISM
 date: 2019-01-21
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg
+image: "/uploads/_processed_/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-sources-from-canada-in-rism.html
+email: shawbecky1@gmail.com
+author: Becky Shaw
 ---
 
 

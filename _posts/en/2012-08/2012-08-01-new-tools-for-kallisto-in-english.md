@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Tools for Kallisto in English"
+title: New Tools for Kallisto in English
 date: 2012-08-01
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Selection_of_Files_606cd09df5.jpg
+image: "/uploads/_processed_/csm_Selection_of_Files_606cd09df5.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-tools-for-kallisto-in-english.html
+email: contact@rism.info
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Georg Philipp Telemann – 250. Todestag"
+title: Georg Philipp Telemann – 250. Todestag
 date: 2017-06-22
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Telemann_250_-_Marsch_aaf1492561.jpg
+image: "/uploads/_processed_/csm_Telemann_250_-_Marsch_aaf1492561.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-250th-anniversary-of-the-death-of-georg-philipp-telemann.html
+email: ''
+author: ''
 ---
 
 

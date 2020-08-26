@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Der Kongressbericht ist da!"
+title: Der Kongressbericht ist da!
 date: 2010-08-20
 lang: de
 post: true
 category: new_publications
-image: /uploads/pics/Kongressbericht.jpg
+image: "/uploads/pics/Kongressbericht.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-congress-report-is-ready.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

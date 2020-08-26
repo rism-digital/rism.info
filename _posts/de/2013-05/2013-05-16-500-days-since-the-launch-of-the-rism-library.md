@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "500 Tage seit dem Onlinegang der RISM Bibliothekssigel-Datenbank"
+title: 500 Tage seit dem Onlinegang der RISM Bibliothekssigel-Datenbank
 date: 2013-05-16
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bibliothekssigel_Polen_2_18b35d183f.jpg
+image: "/uploads/_processed_/csm_Bibliothekssigel_Polen_2_18b35d183f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/500-days-since-the-launch-of-the-rism-library-sigla-database.html
+email: contact@rism.info
+author: ''
 ---
 
 

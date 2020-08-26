@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Two significant Hanover collections now in RISM"
+title: Two significant Hanover collections now in RISM
 date: 2015-07-30
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_D-HVfmg-Juliane_Benda_104_1500x2000_600KB_01_3d0a6343cb.jpg
+image: "/uploads/_processed_/csm_D-HVfmg-Juliane_Benda_104_1500x2000_600KB_01_3d0a6343cb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/two-significant-hanover-collections-now-in-rism.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Helmut Lauterwasser
 ---
 
 

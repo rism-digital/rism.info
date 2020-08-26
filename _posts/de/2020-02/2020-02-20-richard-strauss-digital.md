@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Richard Strauss digital"
+title: Richard Strauss digital
 date: 2020-02-20
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Strauss_digital_SLUB_f0096ef363.jpg
+image: "/uploads/_processed_/csm_Strauss_digital_SLUB_f0096ef363.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-strauss-digital.html
+email: ''
+author: SLUB Dresden
 ---
 
 

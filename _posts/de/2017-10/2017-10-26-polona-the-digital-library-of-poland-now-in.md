@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Polona, die Digitale Bibliothek Polens, jetzt auch auf Englisch"
+title: Polona, die Digitale Bibliothek Polens, jetzt auch auf Englisch
 date: 2017-10-26
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Polona_relaunch_11402675a1.jpg
+image: "/uploads/_processed_/csm_Polona_relaunch_11402675a1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polona-the-digital-library-of-poland-now-in-english.html
+email: ''
+author: ''
 ---
 
 

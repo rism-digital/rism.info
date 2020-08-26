@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jubiläen 2016"
+title: Jubiläen 2016
 date: 2016-01-04
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Jubilare_2016-2_75b89f7b92.jpg
+image: "/uploads/_processed_/csm_Jubilare_2016-2_75b89f7b92.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2016.html
+email: ''
+author: ''
 ---
 
 

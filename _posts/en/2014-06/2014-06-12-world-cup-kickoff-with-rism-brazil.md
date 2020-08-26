@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "World Cup Kickoff with RISM Brazil"
+title: World Cup Kickoff with RISM Brazil
 date: 2014-06-12
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_Brasilien_249d695321.jpg
+image: "/uploads/_processed_/csm_RISM_Brasilien_249d695321.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/world-cup-kickoff-with-rism-brazil.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Morales Mass Book"
+title: Morales Mass Book
 date: 2017-12-04
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Morales_Mass_Book_tp_032616cbd3.jpg
+image: "/uploads/_processed_/csm_Morales_Mass_Book_tp_032616cbd3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/morales-mass-book.html
+email: kijas@bc.edu
+author: Anna E. Kijas
 ---
 
 

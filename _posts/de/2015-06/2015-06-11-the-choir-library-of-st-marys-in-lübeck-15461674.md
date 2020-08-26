@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Chorbibliothek der Marienkirche in Lübeck (1546-1674)"
+title: Die Chorbibliothek der Marienkirche in Lübeck (1546-1674)
 date: 2015-06-11
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Choir_Library_Luebeck_9b046ee41e.jpg
+image: "/uploads/_processed_/csm_Choir_Library_Luebeck_9b046ee41e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-choir-library-of-st-marys-in-luebeck-1546-1674.html
+email: ''
+author: ''
 ---
 
 

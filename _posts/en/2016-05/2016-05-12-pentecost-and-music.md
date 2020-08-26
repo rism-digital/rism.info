@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Pentecost and Music"
+title: Pentecost and Music
 date: 2016-05-12
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg
+image: "/uploads/_processed_/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pentecost-and-music.html
+email: ''
+author: ''
 ---
 
 

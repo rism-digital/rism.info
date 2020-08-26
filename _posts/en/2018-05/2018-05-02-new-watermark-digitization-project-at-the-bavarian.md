@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Watermark Digitization Project at the Bavarian State Library"
+title: New Watermark Digitization Project at the Bavarian State Library
 date: 2018-05-02
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Lutz_Abbildung_Projektstart_Wasserzeichen_M_02_95acceb577.jpg
+image: "/uploads/_processed_/csm_Lutz_Abbildung_Projektstart_Wasserzeichen_M_02_95acceb577.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-watermark-digitization-project-at-the-bavarian-state-library.html
+email: Bernhard.Lutz@bsb-muenchen.de
+author: Bernhard Lutz
 ---
 
 

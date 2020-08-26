@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Sources from the Archivo Musical del Colegio de Vizcaínas (Mexico)"
+title: New Sources from the Archivo Musical del Colegio de Vizcaínas (Mexico)
 date: 2018-09-24
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Vizcainas_Lazos_2018_Herbst_1_3c45d0c50c.png
+image: "/uploads/_processed_/csm_Vizcainas_Lazos_2018_Herbst_1_3c45d0c50c.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-sources-from-the-archivo-musical-del-colegio-de-vizcainas-mexico.html
+email: jlazos11@hotmail.com
+author: Dr. John Lazos
 ---
 
 

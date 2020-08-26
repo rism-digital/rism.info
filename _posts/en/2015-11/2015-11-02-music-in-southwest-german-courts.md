@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Music in Southwest German Courts"
+title: Music in Southwest German Courts
 date: 2015-11-02
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_Schloss_Ehrenhof_44e230d082.jpg
+image: "/uploads/_processed_/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_Schloss_Ehrenhof_44e230d082.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-in-southwest-german-courts.html
+email: ''
+author: ''
 ---
 
 

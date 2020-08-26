@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Symphony and Ireland: A Symposium"
+title: 'The Symphony and Ireland: A Symposium'
 date: 2013-03-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Alday_405b12bf2a.jpg
+image: "/uploads/_processed_/csm_Alday_405b12bf2a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-symphony-and-ireland-a-symposium.html
+email: catherine.ferris@dit.ie
+author: Catherine Ferris
 ---
 
 

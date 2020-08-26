@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt"
+title: Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt
 date: 2014-04-01
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Katzen_Bild_e11bfb84d2.jpg
+image: "/uploads/_processed_/csm_Katzen_Bild_e11bfb84d2.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Diese Woche: Perspektiven der Einführung einer Werkebene bei RISM"
+title: 'Diese Woche: Perspektiven der Einführung einer Werkebene bei RISM'
 date: 2019-05-06
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Logo_05_06920253fc.jpg
+image: "/uploads/_processed_/csm_Logo_05_06920253fc.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/this-week-perspectives-on-introducing-a-work-level-in-rism.html
+email: ''
+author: ''
 ---
 
 

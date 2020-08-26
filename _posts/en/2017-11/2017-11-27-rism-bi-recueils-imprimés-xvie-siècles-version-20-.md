@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - A Report from the Central Office"
+title: RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - A Report from the Central Office
 date: 2017-11-27
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_RISM_Bericht_B_1_9c1400458b.jpg
+image: "/uploads/_processed_/csm_RISM_Bericht_B_1_9c1400458b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Survey"
+title: RISM Survey
 date: 2014-10-30
 lang: en
 post: true
 category: self_representation
-image: /uploads/pics/A4_portrait_01.pdf
+image: "/uploads/pics/A4_portrait_01.pdf"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-survey.html
+email: contact@rism.info
+author: ''
 ---
 
 

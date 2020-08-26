@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM bei IAML, Teil I"
+title: RISM bei IAML, Teil I
 date: 2014-07-30
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_2014_antwerp-logo_0d8dc53c3b.jpg
+image: "/uploads/_processed_/csm_2014_antwerp-logo_0d8dc53c3b.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-i.html
+email: ''
+author: ''
 ---
 
 

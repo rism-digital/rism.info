@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Margarethe Susanna Kayser: \"die Kayserin\""
+title: 'Margarethe Susanna Kayser: "die Kayserin"'
 date: 2016-07-06
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg
+image: "/uploads/_processed_/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/margarethe-susanna-kayser-the-kayserin.html
+email: ''
+author: ''
 ---
 
 

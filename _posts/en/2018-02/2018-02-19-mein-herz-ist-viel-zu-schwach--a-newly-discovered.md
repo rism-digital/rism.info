@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"Mein Herz ist viel zu schwach\" – A Newly Discovered Aria by Georg Philipp Telemann"
+title: '"Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann'
 date: 2018-02-19
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Telemann-neueArie_d58b4e47bc.jpg
+image: "/uploads/_processed_/csm_Telemann-neueArie_d58b4e47bc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Helmut Lauterwasser
 ---
 
 

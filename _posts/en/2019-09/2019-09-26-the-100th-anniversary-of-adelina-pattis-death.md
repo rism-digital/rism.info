@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 100th Anniversary of Adelina Patti's Death"
+title: The 100th Anniversary of Adelina Patti's Death
 date: 2019-09-26
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Adelina_Patti._7875156beb.jpg
+image: "/uploads/_processed_/csm_Adelina_Patti._7875156beb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-100th-anniversary-of-adelina-pattis-death.html
+email: ''
+author: ''
 ---
 
 

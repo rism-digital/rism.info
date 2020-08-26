@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM beim Helsinki Cataloging Seminar"
+title: RISM beim Helsinki Cataloging Seminar
 date: 2019-11-18
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg
+image: "/uploads/_processed_/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-helsinki-cataloging-seminar.html
+email: ''
+author: Jennifer Ward
 ---
 
 

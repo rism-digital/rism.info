@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Unknown Work by Johann Christoph Friedrich Bach Discovered"
+title: Unknown Work by Johann Christoph Friedrich Bach Discovered
 date: 2012-02-21
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_JCFBach-Ausschnitt-1_bcc4c00e9d.jpg
+image: "/uploads/_processed_/csm_JCFBach-Ausschnitt-1_bcc4c00e9d.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-work-by-johann-christoph-friedrich-bach-discovered.html
+email: ''
+author: ''
 ---
 
 

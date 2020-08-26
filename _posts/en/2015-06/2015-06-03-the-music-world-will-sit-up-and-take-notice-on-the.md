@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The music world will sit up and take notice! On the new Urtext edition of Mozart’s Piano Sonata in A Major KV 331"
+title: The music world will sit up and take notice! On the new Urtext edition of Mozart’s Piano Sonata in A Major KV 331
 date: 2015-06-03
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Mozart-KV-331-EA-Artaria-1784_erste-Auflage_73146a8a1b.jpg
+image: "/uploads/_processed_/csm_Mozart-KV-331-EA-Artaria-1784_erste-Auflage_73146a8a1b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html
+email: seiffert@henle.de
+author: Wolf-Dieter Seiffert
 ---
 
 

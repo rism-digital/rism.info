@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Arbeitshilfen für Kallisto auf Englisch"
+title: Neue Arbeitshilfen für Kallisto auf Englisch
 date: 2012-08-01
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Selection_of_Files_606cd09df5.jpg
+image: "/uploads/_processed_/csm_Selection_of_Files_606cd09df5.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-tools-for-kallisto-in-english.html
+email: jennifer.ward@rism.info
+author: Jennifer Ward
 ---
 
 

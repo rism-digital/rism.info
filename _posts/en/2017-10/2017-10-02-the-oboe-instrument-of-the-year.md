@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Oboe: Instrument of the Year"
+title: 'The Oboe: Instrument of the Year'
 date: 2017-10-02
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Oboe_f3843d94ca.jpg
+image: "/uploads/_processed_/csm_Oboe_f3843d94ca.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-oboe-instrument-of-the-year.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Das Künstlerehepaar Maddalena Lombardini und Lodovico Sirmen"
+title: Das Künstlerehepaar Maddalena Lombardini und Lodovico Sirmen
 date: 2015-11-26
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Lombardini-2_256faadd47.jpg
+image: "/uploads/_processed_/csm_Lombardini-2_256faadd47.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-musical-couple-maddalena-lombardini-and-lodovico-sirmen.html
+email: ''
+author: ''
 ---
 
 

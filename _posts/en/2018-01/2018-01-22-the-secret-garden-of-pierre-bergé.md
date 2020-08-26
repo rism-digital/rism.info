@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The secret garden of Pierre Bergé"
+title: The secret garden of Pierre Bergé
 date: 2018-01-22
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg
+image: "/uploads/_processed_/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-secret-garden-of-pierre-berge.html
+email: ''
+author: ''
 ---
 
 

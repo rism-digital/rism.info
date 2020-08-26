@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "American Vernacular Music Manuscripts"
+title: American Vernacular Music Manuscripts
 date: 2015-07-06
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_American_Vernacular_2c15207140.jpg
+image: "/uploads/_processed_/csm_American_Vernacular_2c15207140.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/american-vernacular-music-manuscripts.html
+email: ''
+author: ''
 ---
 
 

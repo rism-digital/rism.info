@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Adelsfamilie Kinsky"
+title: Die Adelsfamilie Kinsky
 date: 2016-08-29
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Kinsky-Wappen_3220e11f9d.png
+image: "/uploads/_processed_/csm_Kinsky-Wappen_3220e11f9d.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-house-of-kinsky.html
+email: ''
+author: ''
 ---
 
 

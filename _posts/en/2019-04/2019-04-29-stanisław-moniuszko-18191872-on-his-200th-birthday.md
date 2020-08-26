@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Stanisław Moniuszko (1819-1872) on his 200th Birthday"
+title: Stanisław Moniuszko (1819-1872) on his 200th Birthday
 date: 2019-04-29
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Moniuszko_200_01_9514602a76.jpg
+image: "/uploads/_processed_/csm_Moniuszko_200_01_9514602a76.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
+email: ''
+author: ''
 ---
 
 

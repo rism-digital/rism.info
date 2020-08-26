@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)"
+title: DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)
 date: 2012-04-14
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Benda_16f1579a7e.jpg
+image: "/uploads/_processed_/csm_Benda_16f1579a7e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitization-project-at-the-staatsbibliothek-zu-berlin.html
+email: musikabt@sbb.spk-berlin.de
+author: Dr. Martina Rebmann
 ---
 
 

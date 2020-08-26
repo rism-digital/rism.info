@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bach 330: The Brandenburg Concerto Manuscript at the Library of Congress"
+title: 'Bach 330: The Brandenburg Concerto Manuscript at the Library of Congress'
 date: 2015-03-19
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Bach_330_dbc29bb6ca.jpg
+image: "/uploads/_processed_/csm_Bach_330_dbc29bb6ca.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
+email: ''
+author: ''
 ---
 
 

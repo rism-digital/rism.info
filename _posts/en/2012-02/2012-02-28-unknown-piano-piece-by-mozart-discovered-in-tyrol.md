@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Unknown piano piece by Mozart discovered in Tyrol, Austria"
+title: Unknown piano piece by Mozart discovered in Tyrol, Austria
 date: 2012-02-28
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_mozart_tirol_1158be7f80.jpg
+image: "/uploads/_processed_/csm_mozart_tirol_1158be7f80.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria.html
+email: rism.hh@musikland-tirol.at
+author: Hildegard Herrmann-Schneider
 ---
 
 

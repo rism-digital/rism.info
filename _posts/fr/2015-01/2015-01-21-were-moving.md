@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Nous déménageons!"
+title: Nous déménageons!
 date: 2015-01-21
 lang: fr
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Umzug_7521db8844.jpg
+image: "/uploads/_processed_/csm_Umzug_7521db8844.jpg"
+old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/were-moving.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Exhibition: Baroque Musical Life in Grimma, Saxony"
+title: 'Exhibition: Baroque Musical Life in Grimma, Saxony'
 date: 2017-05-22
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg
+image: "/uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
+email: Andrea.Hartmann@slub-dresden.de
+author: Andrea Hartmann
 ---
 
 

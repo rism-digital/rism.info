@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Twelve More Women Composers"
+title: Twelve More Women Composers
 date: 2017-10-19
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg
+image: "/uploads/_processed_/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/twelve-more-women-composers.html
+email: ''
+author: ''
 ---
 
 

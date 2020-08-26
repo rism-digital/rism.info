@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010"
+title: Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
 date: 2010-12-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_reutte_2010_480_01_2e57216cc1.jpg
+image: "/uploads/_processed_/csm_reutte_2010_480_01_2e57216cc1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/tyrolean-christmas-concert-18-19-december-2010.html
+email: ''
+author: ''
 ---
 
 

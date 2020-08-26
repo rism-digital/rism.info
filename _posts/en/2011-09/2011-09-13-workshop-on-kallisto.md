@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Workshop on Kallisto"
+title: Workshop on Kallisto
 date: 2011-09-13
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_kallisto_bild_915023e407.jpg
+image: "/uploads/_processed_/csm_kallisto_bild_915023e407.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/workshop-on-kallisto.html
+email: contact@rism.info
+author: Klaus Keil
 ---
 
 

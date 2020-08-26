@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Adriano Banchieri zum 450. Geburtstag"
+title: Adriano Banchieri zum 450. Geburtstag
 date: 2018-09-03
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Banchieri_1_ae56112754.png
+image: "/uploads/_processed_/csm_Banchieri_1_ae56112754.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/adriano-banchieri-at-450.html
+email: ''
+author: ''
 ---
 
 

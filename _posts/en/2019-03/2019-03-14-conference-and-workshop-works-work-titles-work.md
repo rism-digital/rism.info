@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM"
+title: 'Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM'
 date: 2019-03-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg
+image: "/uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
+email: ''
+author: ''
 ---
 
 

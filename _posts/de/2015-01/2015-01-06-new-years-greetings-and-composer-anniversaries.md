@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neujahrsgruß mit Jubilaren"
+title: Neujahrsgruß mit Jubilaren
 date: 2015-01-06
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Neujahrsgruss_01_47be7de03b.jpg
+image: "/uploads/_processed_/csm_Neujahrsgruss_01_47be7de03b.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-years-greetings-and-composer-anniversaries.html
+email: ''
+author: ''
 ---
 
 

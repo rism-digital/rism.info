@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Zum 100. Todestag von Debussy"
+title: Zum 100. Todestag von Debussy
 date: 2018-03-22
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg
+image: "/uploads/_processed_/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/100th-anniversary-of-claude-debussys-death.html
+email: ''
+author: ''
 ---
 
 

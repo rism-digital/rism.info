@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 250th Birthday of Bernhard Heinrich Romberg"
+title: The 250th Birthday of Bernhard Heinrich Romberg
 date: 2017-11-09
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_RombergBernhard_1314d2b2f6.jpg
+image: "/uploads/_processed_/csm_RombergBernhard_1314d2b2f6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
+email: ''
+author: ''
 ---
 
 

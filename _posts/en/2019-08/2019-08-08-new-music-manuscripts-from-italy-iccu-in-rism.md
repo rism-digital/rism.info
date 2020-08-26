@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Music Manuscripts from Italy (ICCU) in RISM"
+title: New Music Manuscripts from Italy (ICCU) in RISM
 date: 2019-08-08
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_ICCU_Krise_OPAC_df925a41aa.png
+image: "/uploads/_processed_/csm_ICCU_Krise_OPAC_df925a41aa.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
+email: ''
+author: ''
 ---
 
 

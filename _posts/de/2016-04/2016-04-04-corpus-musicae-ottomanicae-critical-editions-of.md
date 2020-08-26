@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Corpus Musicae Ottomanicae: Kritische Editionen vorderorientalischer Musikhandschriften"
+title: 'Corpus Musicae Ottomanicae: Kritische Editionen vorderorientalischer Musikhandschriften'
 date: 2016-04-04
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg
+image: "/uploads/_processed_/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/corpus-musicae-ottomanicae.html
+email: ''
+author: ''
 ---
 
 

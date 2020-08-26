@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Matthew Dubourg"
+title: Matthew Dubourg
 date: 2014-09-15
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Bild_castle-of-dublin_d2a11c9904.jpg
+image: "/uploads/_processed_/csm_Bild_castle-of-dublin_d2a11c9904.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/matthew-dubourg.html
+email: alexander.marxen@rism.info
+author: ''
 ---
 
 

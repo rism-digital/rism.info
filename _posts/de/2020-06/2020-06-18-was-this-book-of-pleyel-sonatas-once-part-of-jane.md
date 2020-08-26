@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Gehörte dieser Druck mit Pleyel-Sonaten zum Kreis von Jane Austen?"
+title: Gehörte dieser Druck mit Pleyel-Sonaten zum Kreis von Jane Austen?
 date: 2020-06-18
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_pleyel_austen_music_00430bd055.jpg
+image: "/uploads/_processed_/csm_pleyel_austen_music_00430bd055.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
+email: ''
+author: ''
 ---
 
 

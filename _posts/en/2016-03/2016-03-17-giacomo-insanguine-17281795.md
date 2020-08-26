@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Giacomo Insanguine (1728-1795)"
+title: Giacomo Insanguine (1728-1795)
 date: 2016-03-17
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Giacomo_Insanguine_77d24601f0.jpg
+image: "/uploads/_processed_/csm_Giacomo_Insanguine_77d24601f0.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-giacomo-insanguine-1728-1795.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Unknown lieder by Dutch composer Anna Merkje Cramer discovered in Cologne"
+title: Unknown lieder by Dutch composer Anna Merkje Cramer discovered in Cologne
 date: 2014-04-03
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Anna_Cramer_65c1562c9d.jpg
+image: "/uploads/_processed_/csm_Anna_Cramer_65c1562c9d.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
+email: steffen.voss@bsb.muenchen.de
+author: Steffen Voss
 ---
 
 

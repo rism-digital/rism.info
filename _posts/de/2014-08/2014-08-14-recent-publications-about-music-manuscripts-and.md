@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Artikel über Musikhandschriften und -institutionen"
+title: Neue Artikel über Musikhandschriften und -institutionen
 date: 2014-08-14
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/recent-publications-about-music-manuscripts-and-music-institutions.html
+email: ''
+author: ''
 ---
 
 

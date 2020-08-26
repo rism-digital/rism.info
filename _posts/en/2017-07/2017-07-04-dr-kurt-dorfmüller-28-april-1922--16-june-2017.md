@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dr. Kurt Dorfmüller (28 April 1922 – 16 June 2017)"
+title: Dr. Kurt Dorfmüller (28 April 1922 – 16 June 2017)
 date: 2017-07-04
 lang: en
 post: true
 category: in_memoriam
-image: /uploads/_processed_/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg
+image: "/uploads/_processed_/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/dr-kurt-dorfmueller-28-april-1922-16-june-2017.html
+email: ''
+author: ''
 ---
 
 

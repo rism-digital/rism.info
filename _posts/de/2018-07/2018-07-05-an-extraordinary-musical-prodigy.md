@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein außergewöhnliches musikalisches Wunderkind"
+title: Ein außergewöhnliches musikalisches Wunderkind
 date: 2018-07-05
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg
+image: "/uploads/_processed_/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-extraordinary-musical-prodigy.html
+email: ''
+author: ''
 ---
 
 

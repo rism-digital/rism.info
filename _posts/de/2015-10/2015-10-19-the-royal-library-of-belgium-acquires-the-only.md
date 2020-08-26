@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Bibliothèque royale de Belgique erwirbt das einzig bekannte Manuskript von Le Retour des plaisirs (1719) von André Vaillant"
+title: Die Bibliothèque royale de Belgique erwirbt das einzig bekannte Manuskript von Le Retour des plaisirs (1719) von André Vaillant
 date: 2015-10-19
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg
+image: "/uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
+email: marie.cornaz@kbr.be
+author: Marie Cornaz
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Most Excellent Selection of RISM Activities."
+title: A Most Excellent Selection of RISM Activities.
 date: 2019-04-01
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm__Titelseite_Bild_9413cdf091.png
+image: "/uploads/_processed_/csm__Titelseite_Bild_9413cdf091.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-most-excellent-selection-of-rism-activities.html
+email: ''
+author: ''
 ---
 
 

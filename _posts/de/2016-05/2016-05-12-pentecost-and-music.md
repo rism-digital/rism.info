@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Pfingsten und Musik"
+title: Pfingsten und Musik
 date: 2016-05-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg
+image: "/uploads/_processed_/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pentecost-and-music.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Nativity of the Blessed Virgin Mary: Mariae (B.V.) Nativitas"
+title: 'Nativity of the Blessed Virgin Mary: Mariae (B.V.) Nativitas'
 date: 2014-09-08
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Mariae_Geburt_d969d78f72.jpg
+image: "/uploads/_processed_/csm_Mariae_Geburt_d969d78f72.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
+email: ''
+author: ''
 ---
 
 

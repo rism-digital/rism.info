@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Morgen ist Valentinstag"
+title: Morgen ist Valentinstag
 date: 2015-02-13
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg
+image: "/uploads/_processed_/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/tomorrow-is-valentines-day.html
+email: ''
+author: ''
 ---
 
 

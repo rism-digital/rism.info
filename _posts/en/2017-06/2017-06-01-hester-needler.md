@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hester Needler"
+title: Hester Needler
 date: 2017-06-01
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Needler_Hester_e14b18b521.jpg
+image: "/uploads/_processed_/csm_Needler_Hester_e14b18b521.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hester-needler.html
+email: ''
+author: ''
 ---
 
 

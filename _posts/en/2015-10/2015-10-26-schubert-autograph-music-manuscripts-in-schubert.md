@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Schubert Autograph Music Manuscripts in Schubert Online"
+title: Schubert Autograph Music Manuscripts in Schubert Online
 date: 2015-10-26
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Schubert_online_01_9a6a396202.jpg
+image: "/uploads/_processed_/csm_Schubert_online_01_9a6a396202.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/schubert-autograph-music-manuscripts-in-schubert-online.html
+email: ''
+author: ''
 ---
 
 

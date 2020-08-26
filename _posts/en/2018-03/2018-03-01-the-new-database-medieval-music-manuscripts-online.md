@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The new database Medieval Music Manuscripts Online"
+title: The new database Medieval Music Manuscripts Online
 date: 2018-03-01
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_MMMO_Database_bd16d41df8.jpg
+image: "/uploads/_processed_/csm_MMMO_Database_bd16d41df8.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-new-database-medieval-music-manuscripts-online.html
+email: ''
+author: Dominique Gatté
 ---
 
 

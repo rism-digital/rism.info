@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Call for Papers: Workshop/Conference on the Work Level in RISM"
+title: 'Call for Papers: Workshop/Conference on the Work Level in RISM'
 date: 2019-01-10
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Logo_03_3a0acca260.jpg
+image: "/uploads/_processed_/csm_Logo_03_3a0acca260.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/call-for-papers-workshopconference-on-the-work-level-in-rism.html
+email: ''
+author: ''
 ---
 
 

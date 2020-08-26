@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Johann Stamitz zum 300. Geburtstag"
+title: Johann Stamitz zum 300. Geburtstag
 date: 2017-06-16
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Stamitz_300_eca465eacf.jpg
+image: "/uploads/_processed_/csm_Stamitz_300_eca465eacf.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-stamitz-at-300.html
+email: ''
+author: ''
 ---
 
 

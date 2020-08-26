@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Research on Mexican Sources"
+title: New Research on Mexican Sources
 date: 2015-04-23
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Lazos_April_2015_0cb0b2f27c.jpg
+image: "/uploads/_processed_/csm_Lazos_April_2015_0cb0b2f27c.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-research-on-mexican-sources.html
+email: jlazos11@hotmail.com
+author: John Lazos
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musical Greetings for Mother's Day"
+title: Musical Greetings for Mother's Day
 date: 2016-05-06
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Muttertag_e894bbeb23.jpg
+image: "/uploads/_processed_/csm_Muttertag_e894bbeb23.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-greetings-for-mothers-day.html
+email: ''
+author: ''
 ---
 
 

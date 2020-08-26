@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM and the R Projects"
+title: RISM and the R Projects
 date: 2014-06-02
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_R_Projects_2_01_d45333da8e.jpg
+image: "/uploads/_processed_/csm_R_Projects_2_01_d45333da8e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-the-r-projects.html
+email: ''
+author: ''
 ---
 
 

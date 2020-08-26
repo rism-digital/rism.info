@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Musik-Editionsreihe im Stift Wilhering (Oberösterreich) gegründet: Matthias Pernsteiner, Messa posta in musica, hrsg. von Ikarus Kaiser"
+title: 'Neue Musik-Editionsreihe im Stift Wilhering (Oberösterreich) gegründet: Matthias Pernsteiner, Messa posta in musica, hrsg. von Ikarus Kaiser'
 date: 2016-10-24
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Kaiser_Pernsteiner_Messa_a3fab7301d.png
+image: "/uploads/_processed_/csm_Kaiser_Pernsteiner_Messa_a3fab7301d.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-music-edition-series-founded-at-wilhering-abbey-in-upper-austria-matthias-pernsteiner-missa-po.html
+email: musikarchiv@stiftwilhering.at
+author: Ikarus Kaiser
 ---
 
 

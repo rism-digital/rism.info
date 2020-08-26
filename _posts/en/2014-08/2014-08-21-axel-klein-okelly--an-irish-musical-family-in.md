@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Axel Klein, O'Kelly - An Irish Musical Family in Nineteenth-Century France"
+title: Axel Klein, O'Kelly - An Irish Musical Family in Nineteenth-Century France
 date: 2014-08-21
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Klein_O_Kelly_book_c7680f3a16.jpg
+image: "/uploads/_processed_/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/axel-klein-okelly-an-irish-musical-family-in-nineteenth-century-france.html
+email: ''
+author: ''
 ---
 
 

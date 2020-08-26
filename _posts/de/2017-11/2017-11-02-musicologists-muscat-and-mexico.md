@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikwissenschaftler, Muscat und Mexiko"
+title: Musikwissenschaftler, Muscat und Mexiko
 date: 2017-11-02
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Conservatorio_logo_2da0b93118.jpg
+image: "/uploads/_processed_/csm_Conservatorio_logo_2da0b93118.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musicologists-muscat-and-mexico.html
+email: ''
+author: ''
 ---
 
 

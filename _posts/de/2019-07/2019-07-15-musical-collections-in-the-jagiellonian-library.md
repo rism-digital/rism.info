@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Musiksammlungen der Jagiellonenbibliothek im Wandel der Zeit"
+title: Die Musiksammlungen der Jagiellonenbibliothek im Wandel der Zeit
 date: 2019-07-15
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png
+image: "/uploads/_processed_/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-collections-in-the-jagiellonian-library-through-the-ages.html
+email: ''
+author: ''
 ---
 
 

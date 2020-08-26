@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Erste Präsentationsmaterialien der RISM-Konferenz jetzt online"
+title: Erste Präsentationsmaterialien der RISM-Konferenz jetzt online
 date: 2019-07-08
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Logo_07_189d7e8765.jpg
+image: "/uploads/_processed_/csm_Logo_07_189d7e8765.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/presentation-materials-from-rism-conference-now-online.html
+email: ''
+author: ''
 ---
 
 

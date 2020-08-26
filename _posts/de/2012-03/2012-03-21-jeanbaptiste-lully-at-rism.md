@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jean-Baptiste Lully @ RISM"
+title: Jean-Baptiste Lully @ RISM
 date: 2012-03-21
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_JBLully-UBFfm-Ganzfigurbildnis_ad036c1d0e.jpg
+image: "/uploads/_processed_/csm_JBLully-UBFfm-Ganzfigurbildnis_ad036c1d0e.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jean-baptiste-lully-rism.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

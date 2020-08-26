@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Autographe der Bach-Familie online"
+title: Autographe der Bach-Familie online
 date: 2018-04-16
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Bach_digital_III_AMB_cb47f32ca5.jpg
+image: "/uploads/_processed_/csm_Bach_digital_III_AMB_cb47f32ca5.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bach-family-autographs-online.html
+email: ''
+author: ''
 ---
 
 

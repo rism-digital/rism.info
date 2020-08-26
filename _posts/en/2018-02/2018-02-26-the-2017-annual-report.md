@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The 2017 Annual Report"
+title: The 2017 Annual Report
 date: 2018-02-26
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2017-annual-report.html
+email: ''
+author: ''
 ---
 
 

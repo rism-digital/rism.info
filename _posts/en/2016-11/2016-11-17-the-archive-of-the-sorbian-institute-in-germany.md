@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Archive of the Sorbian Institute in Germany"
+title: The Archive of the Sorbian Institute in Germany
 date: 2016-11-17
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg
+image: "/uploads/_processed_/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-archive-of-the-sorbian-institute-in-germany.html
+email: bresan@serbski-institut.de
+author: Annett Bresan
 ---
 
 

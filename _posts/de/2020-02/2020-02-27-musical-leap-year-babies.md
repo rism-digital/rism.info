@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Schalttag-Geburtstagskinder"
+title: Schalttag-Geburtstagskinder
 date: 2020-02-27
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png
+image: "/uploads/_processed_/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-leap-year-babies.html
+email: ''
+author: ''
 ---
 
 

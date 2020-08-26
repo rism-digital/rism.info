@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein Jahr mit Muscat"
+title: Ein Jahr mit Muscat
 date: 2017-11-16
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_muscat_Geburtstag_52bc35581a.png
+image: "/uploads/_processed_/csm_muscat_Geburtstag_52bc35581a.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/one-year-of-muscat.html
+email: ''
+author: ''
 ---
 
 

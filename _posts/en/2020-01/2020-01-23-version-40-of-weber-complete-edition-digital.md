@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Version 4.0 of Weber Complete Edition Digital Edition Published"
+title: Version 4.0 of Weber Complete Edition Digital Edition Published
 date: 2020-01-23
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png
+image: "/uploads/_processed_/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/version-40-of-weber-complete-edition-digital-edition-published.html
+email: ''
+author: ''
 ---
 
 

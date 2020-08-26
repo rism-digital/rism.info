@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "\"From Bologna to Beromünster\" – Maurizio Cazzati: Messa e Salmi, op. 36"
+title: '"From Bologna to Beromünster" – Maurizio Cazzati: Messa e Salmi, op. 36'
 date: 2016-03-10
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg
+image: "/uploads/_processed_/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-bologna-to-beromuenster-maurizio-cazzati-messa-e-salmi-op-36.html
+email: cedric.gueggi@rism-ch.org
+author: Cédric Güggi
 ---
 
 

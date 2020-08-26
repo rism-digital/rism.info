@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Polish Sources in RISM since 2017"
+title: Polish Sources in RISM since 2017
 date: 2019-07-18
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Polen_Titel_nach_2017_fc909847db.png
+image: "/uploads/_processed_/csm_Polen_Titel_nach_2017_fc909847db.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-sources-in-rism-since-2017.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue Funde zur französischen polyphonen Messe (1587-1626)"
+title: Neue Funde zur französischen polyphonen Messe (1587-1626)
 date: 2017-05-15
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Guillo_-_Title_page_klein_75aaf59cd6.jpg
+image: "/uploads/_processed_/csm_Guillo_-_Title_page_klein_75aaf59cd6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-findings-on-french-polyphonic-masses-1587-1626.html
+email: lguillo223@orange.fr
+author: Laurent Guillo
 ---
 
 

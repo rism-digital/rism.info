@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Unterstützen Sie uns bei der Verlinkung auf Digitalisate"
+title: Unterstützen Sie uns bei der Verlinkung auf Digitalisate
 date: 2016-05-30
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg
+image: "/uploads/_processed_/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/help-rism-link-to-digitized-music.html
+email: contact@rism.info
+author: ''
 ---
 
 

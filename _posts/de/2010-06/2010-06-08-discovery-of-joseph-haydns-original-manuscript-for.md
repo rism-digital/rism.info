@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Joseph Haydns Originalmanuskript zu Hob. XIX:1 und XIX:2 wiederentdeckt (Bibliothèque Royale de Belgique, Brüssel)"
+title: Joseph Haydns Originalmanuskript zu Hob. XIX:1 und XIX:2 wiederentdeckt (Bibliothèque Royale de Belgique, Brüssel)
 date: 2010-06-08
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_HaydnVieuxtempsKBRfolio2_45f6b9457f.jpg
+image: "/uploads/_processed_/csm_HaydnVieuxtempsKBRfolio2_45f6b9457f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/discovery-of-joseph-haydns-original-manuscript-for-the-pieces-hob-xix1-and-hob-xix2-royal-libr.html
+email: marie.cornaz@kbr.be
+author: Marie Cornaz
 ---
 
 

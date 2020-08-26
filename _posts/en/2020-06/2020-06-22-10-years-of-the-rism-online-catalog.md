@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "10 Years of the RISM Online Catalog"
+title: 10 Years of the RISM Online Catalog
 date: 2020-06-22
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png
+image: "/uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog.html
+email: klaus.keil@rism.info
+author: Klaus Keil
 ---
 
 

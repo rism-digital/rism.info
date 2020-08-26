@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Polish Week, Part II: The Klasztor i muzyka / Monasteries and Music conference in Częstochowa"
+title: 'Polish Week, Part II: The Klasztor i muzyka / Monasteries and Music conference in Częstochowa'
 date: 2015-06-24
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Jasna_Gora_870a2a9a55.jpg
+image: "/uploads/_processed_/csm_Jasna_Gora_870a2a9a55.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-ii-the-klasztor-i-muzyka-monasteries-and-music-conference-in-czestochowa.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

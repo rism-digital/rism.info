@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM would like to hear your opinion!"
+title: RISM would like to hear your opinion!
 date: 2014-07-10
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_01_301e5e00d0.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_01_301e5e00d0.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-would-like-to-hear-your-opinion.html
+email: contact@rism.info
+author: ''
 ---
 
 

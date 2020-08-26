@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval"
+title: The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval
 date: 2010-06-27
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_MagritteDanvalKBR_479f7ab93b.jpg
+image: "/uploads/_processed_/csm_MagritteDanvalKBR_479f7ab93b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-royal-library-of-belgium-brussels-acquires-the-music-collection-of-the-belgian-jazz-specialist.html
+email: marie.cornaz@kbr.be
+author: Marie Cornaz
 ---
 
 

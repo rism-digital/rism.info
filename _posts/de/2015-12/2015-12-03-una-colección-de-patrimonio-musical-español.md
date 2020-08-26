@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Una colección de patrimonio musical español"
+title: Una colección de patrimonio musical español
 date: 2015-12-03
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Patromonio_musical_espanol_9241af500a.jpg
+image: "/uploads/_processed_/csm_Patromonio_musical_espanol_9241af500a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/una-coleccion-de-patrimonio-musical-espanol.html
+email: ''
+author: ''
 ---
 
 

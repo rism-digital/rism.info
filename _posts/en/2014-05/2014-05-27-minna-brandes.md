@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Minna Brandes"
+title: Minna Brandes
 date: 2014-05-27
 lang: en
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Brandes_309617fec5.jpg
+image: "/uploads/_processed_/csm_Brandes_309617fec5.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/minna-brandes-1.html
+email: ''
+author: ''
 ---
 
 

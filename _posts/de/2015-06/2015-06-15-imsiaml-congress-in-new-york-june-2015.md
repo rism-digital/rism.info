@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "IMS/IAML Kongress in New York im Juni 2015"
+title: IMS/IAML Kongress in New York im Juni 2015
 date: 2015-06-15
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_IAML_New_York_4fdcb24cc5.png
+image: "/uploads/_processed_/csm_IAML_New_York_4fdcb24cc5.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/imsiaml-congress-in-new-york-june-2015.html
+email: ''
+author: ''
 ---
 
 

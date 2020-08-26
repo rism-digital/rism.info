@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Wilhelm Friedemann Bach @ RISM"
+title: Wilhelm Friedemann Bach @ RISM
 date: 2010-12-06
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg
+image: "/uploads/_processed_/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wilhelm-friedemann-bach-rism.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New RISM Brochure Now Available"
+title: New RISM Brochure Now Available
 date: 2015-06-08
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_KurzportraitS1_01_67ccaf6ee6.jpg
+image: "/uploads/_processed_/csm_KurzportraitS1_01_67ccaf6ee6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-brochure-now-available.html
+email: contact@rism.info
+author: ''
 ---
 
 

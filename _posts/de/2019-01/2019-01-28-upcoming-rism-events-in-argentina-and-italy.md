@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM-Veranstaltungen in Argentinien und Italien"
+title: RISM-Veranstaltungen in Argentinien und Italien
 date: 2019-01-28
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_12_2d4d92754c.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_12_2d4d92754c.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/upcoming-rism-events-in-argentina-and-italy.html
+email: ''
+author: ''
 ---
 
 

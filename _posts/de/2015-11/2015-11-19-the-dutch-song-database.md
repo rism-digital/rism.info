@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "De Nederlandse Liederenbank"
+title: De Nederlandse Liederenbank
 date: 2015-11-19
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Liederdatenbank_12f3940890.png
+image: "/uploads/_processed_/csm_Liederdatenbank_12f3940890.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dutch-song-database.html
+email: ''
+author: ''
 ---
 
 

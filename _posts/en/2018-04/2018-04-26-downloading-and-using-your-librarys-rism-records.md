@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Downloading and Using Your Library's RISM Records"
+title: Downloading and Using Your Library's RISM Records
 date: 2018-04-26
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg
+image: "/uploads/_processed_/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/downloading-and-using-your-librarys-rism-records.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Volume in Series B Published: Trio sonatas"
+title: 'New Volume in Series B Published: Trio sonatas'
 date: 2016-12-02
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Triosonate_ffd47d31b6.jpg
+image: "/uploads/_processed_/csm_Triosonate_ffd47d31b6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-series-b-published-trio-sonatas.html
+email: ''
+author: ''
 ---
 
 

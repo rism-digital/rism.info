@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ankündigung der böhmischen Wasserzeichen-Datenbank"
+title: Ankündigung der böhmischen Wasserzeichen-Datenbank
 date: 2016-02-22
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Wasserzeichen_Sediva_ac2ce820b9.jpg
+image: "/uploads/_processed_/csm_Wasserzeichen_Sediva_ac2ce820b9.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/announcing-the-the-bohemian-watermark-database.html
+email: eliska.sediva@nkp.cz
+author: Eliška Šedivá
 ---
 
 

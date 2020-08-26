@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Christoph Wolff zum Ehrenpräsidenten des RISM ernannt"
+title: Christoph Wolff zum Ehrenpräsidenten des RISM ernannt
 date: 2014-11-14
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_ChWolff_512d53ba0f.jpg
+image: "/uploads/_processed_/csm_ChWolff_512d53ba0f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christoph-wolff-named-honorary-president-of-rism.html
+email: ''
+author: ''
 ---
 
 

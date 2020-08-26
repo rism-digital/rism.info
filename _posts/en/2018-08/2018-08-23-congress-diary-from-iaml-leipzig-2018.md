@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Congress Diary from IAML Leipzig 2018"
+title: Congress Diary from IAML Leipzig 2018
 date: 2018-08-23
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg
+image: "/uploads/_processed_/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/congress-diary-from-iaml-leipzig-2018.html
+email: ''
+author: ''
 ---
 
 

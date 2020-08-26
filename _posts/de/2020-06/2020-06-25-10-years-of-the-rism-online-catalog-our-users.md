@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "10 Jahre RISM Online-Katalog: Unsere Nutzer"
+title: '10 Jahre RISM Online-Katalog: Unsere Nutzer'
 date: 2020-06-25
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Hensel_01_fd9f56aa48.jpg
+image: "/uploads/_processed_/csm_Hensel_01_fd9f56aa48.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog-our-users.html
+email: ''
+author: ''
 ---
 
 

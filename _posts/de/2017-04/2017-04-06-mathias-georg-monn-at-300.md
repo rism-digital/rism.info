@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mathias Georg Monn zum 300. Geburtstag"
+title: Mathias Georg Monn zum 300. Geburtstag
 date: 2017-04-06
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Monn_300_D-B_4780e94726.jpg
+image: "/uploads/_processed_/csm_Monn_300_D-B_4780e94726.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mathias-georg-monn-at-300.html
+email: ''
+author: ''
 ---
 
 

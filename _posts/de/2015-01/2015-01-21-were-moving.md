@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Wir ziehen um!"
+title: Wir ziehen um!
 date: 2015-01-21
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Umzug_7521db8844.jpg
+image: "/uploads/_processed_/csm_Umzug_7521db8844.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/were-moving.html
+email: ''
+author: ''
 ---
 
 

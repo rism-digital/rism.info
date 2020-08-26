@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Searching for People in the New RISM Catalog"
+title: Searching for People in the New RISM Catalog
 date: 2018-10-22
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png
+image: "/uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
+email: ''
+author: ''
 ---
 
 

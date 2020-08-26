@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Compositions Attributed to G. F. Handel, 1700-1800"
+title: The Compositions Attributed to G. F. Handel, 1700-1800
 date: 2018-03-19
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Haendel_Incerta_2ecd3ef55e.png
+image: "/uploads/_processed_/csm_Haendel_Incerta_2ecd3ef55e.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
+email: ''
+author: ''
 ---
 
 

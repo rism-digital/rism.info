@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neuer Band der Schriftenreihe „Musikhandschriften in Deutschland“ erschienen"
+title: Neuer Band der Schriftenreihe „Musikhandschriften in Deutschland“ erschienen
 date: 2011-06-01
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Katalog_HER_2_679ca829d1.jpg
+image: "/uploads/_processed_/csm_Katalog_HER_2_679ca829d1.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-published-in-the-music-manuscripts-in-germany-series.html
+email: Andrea.Hartmann@slub-dresden.de
+author: Andrea Hartmann
 ---
 
 

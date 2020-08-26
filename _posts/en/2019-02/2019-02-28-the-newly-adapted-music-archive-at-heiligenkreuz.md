@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Newly Adapted Music Archive at Heiligenkreuz Abbey"
+title: The Newly Adapted Music Archive at Heiligenkreuz Abbey
 date: 2019-02-28
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg
+image: "/uploads/_processed_/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-newly-adapted-music-archive-at-heiligenkreuz-abbey.html
+email: p.roman@stift-heiligenkreuz.at
+author: P. Roman Nägele OCist
 ---
 
 

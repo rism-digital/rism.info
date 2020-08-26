@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM von A bis Z: Robert Eitner"
+title: 'RISM von A bis Z: Robert Eitner'
 date: 2014-09-29
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Eitner_cbaf4952ad.jpg
+image: "/uploads/_processed_/csm_Eitner_cbaf4952ad.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-from-a-to-z-robert-eitner.html
+email: ''
+author: ''
 ---
 
 

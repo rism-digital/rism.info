@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musikverlagswiki: A Source for Dating Printed Music"
+title: 'Musikverlagswiki: A Source for Dating Printed Music'
 date: 2018-10-11
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Musikverlagswiki_137892576f.png
+image: "/uploads/_processed_/csm_Musikverlagswiki_137892576f.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
+email: ''
+author: ''
 ---
 
 

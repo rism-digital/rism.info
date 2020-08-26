@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Earliest Manuscript Source of Lasso Requiem Found in Augsburg"
+title: Earliest Manuscript Source of Lasso Requiem Found in Augsburg
 date: 2017-10-05
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg
+image: "/uploads/_processed_/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Polish Week, Part 3: Using the RISM Online Catalog's Filters with Monastic Collections"
+title: 'Polish Week, Part 3: Using the RISM Online Catalog''s Filters with Monastic Collections'
 date: 2015-06-26
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_D-FW_0931485874.jpg
+image: "/uploads/_processed_/csm_D-FW_0931485874.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Surprise Publication from 1619"
+title: A Surprise Publication from 1619
 date: 2019-08-19
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_1619_Thoene_051c516a06.png
+image: "/uploads/_processed_/csm_1619_Thoene_051c516a06.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-surprise-publication-from-1619.html
+email: johanna.thoene@rism.info
+author: Johanna Thöne
 ---
 
 

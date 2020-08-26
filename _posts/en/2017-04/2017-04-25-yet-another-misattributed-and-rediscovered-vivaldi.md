@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Yet another misattributed (and rediscovered) Vivaldi work in Dresden"
+title: Yet another misattributed (and rediscovered) Vivaldi work in Dresden
 date: 2017-04-25
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg
+image: "/uploads/_processed_/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
+email: mtalbot@liverpool.ac.uk
+author: Michael Talbot
 ---
 
 

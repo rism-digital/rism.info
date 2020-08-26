@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Composers identified in Dresden's royal music collections"
+title: Composers identified in Dresden's royal music collections
 date: 2015-04-02
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Dresden_Hofkirche_009fed7010.jpg
+image: "/uploads/_processed_/csm_Dresden_Hofkirche_009fed7010.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/composers-identified-in-royal-dresden-music-collections.html
+email: Nina.Eichholz@slub-dresden.de
+author: Nina Eichholz
 ---
 
 

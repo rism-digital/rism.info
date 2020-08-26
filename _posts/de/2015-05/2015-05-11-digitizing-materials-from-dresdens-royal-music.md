@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digitalisierte Materialien aus der Dresdner Königlichen Musikaliensammlung"
+title: Digitalisierte Materialien aus der Dresdner Königlichen Musikaliensammlung
 date: 2015-05-11
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg
+image: "/uploads/_processed_/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitizing-materials-from-dresdens-royal-music-collections.html
+email: Nina.Eichholz@slub-dresden.de
+author: Nina Eichholz
 ---
 
 

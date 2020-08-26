@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Die Turteltaube"
+title: Die Turteltaube
 date: 2020-02-13
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Turteltaube_2aea45a073.jpg
+image: "/uploads/_processed_/csm_Turteltaube_2aea45a073.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/lovey-dovey.html
+email: ''
+author: ''
 ---
 
 

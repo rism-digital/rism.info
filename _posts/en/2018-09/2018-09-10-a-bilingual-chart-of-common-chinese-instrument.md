@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Bilingual Chart of Common Chinese Instrument Names"
+title: A Bilingual Chart of Common Chinese Instrument Names
 date: 2018-09-10
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg
+image: "/uploads/_processed_/csm_CLR_IAML_2018_45ed98b26a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-bilingual-chart-of-common-chinese-instrument-names.html
+email: tzchia22@gmail.com
+author: TSENG Tzu-Chia
 ---
 
 

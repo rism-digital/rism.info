@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein neues Werkverzeichnis zu Hector Berlioz"
+title: Ein neues Werkverzeichnis zu Hector Berlioz
 date: 2019-03-07
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Berlioz_Sterbetag_2019_1855372ada.jpg
+image: "/uploads/_processed_/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-catalog-of-works-for-hector-berlioz.html
+email: ''
+author: ''
 ---
 
 

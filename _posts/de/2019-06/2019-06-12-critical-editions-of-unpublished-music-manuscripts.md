@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Kritische Ausgaben unveröffentlichter Musikhandschriften des Königlichen Konservatoriums in Brüssel"
+title: Kritische Ausgaben unveröffentlichter Musikhandschriften des Königlichen Konservatoriums in Brüssel
 date: 2019-06-12
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Brussels_Publications_Castejon_c45636c12b.png
+image: "/uploads/_processed_/csm_Brussels_Publications_Castejon_c45636c12b.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/critical-editions-of-unpublished-music-manuscripts-from-the-royal-conservatory-of-brussels-b-bc.html
+email: bibliotheque@conservatoire.be
+author: Olivia Wahnon de Oliveira
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM Colloquium and Open House"
+title: RISM Colloquium and Open House
 date: 2015-04-20
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg
+image: "/uploads/_processed_/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-colloquium-and-open-house.html
+email: ''
+author: ''
 ---
 
 

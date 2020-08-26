@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neue RISM Arbeitsgruppe in Seoul (Südkorea) gegründet"
+title: Neue RISM Arbeitsgruppe in Seoul (Südkorea) gegründet
 date: 2011-11-25
 lang: de
 post: true
 category: self_representation
-image: /uploads/pics/Logo_Suedkorea_01.jpg
+image: "/uploads/pics/Logo_Suedkorea_01.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
+email: 64ehkim@ewha.ac.kr
+author: Dr. Eun-Ha Kim
 ---
 
 

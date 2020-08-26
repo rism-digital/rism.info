@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Muscat Workshops this Fall"
+title: Muscat Workshops this Fall
 date: 2017-09-25
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_muscat_03_df0154796c.png
+image: "/uploads/_processed_/csm_muscat_03_df0154796c.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-this-fall.html
+email: coloquio.tallerdeedicion@gmail.com
+author: ''
 ---
 
 

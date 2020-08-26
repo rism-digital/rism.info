@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)"
+title: New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)
 date: 2019-02-11
 lang: en
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Katalog_MEX-Oc_Sumaya_Pedro_es_el_maestro_8ba87caf93.jpg
+image: "/uploads/_processed_/csm_Katalog_MEX-Oc_Sumaya_Pedro_es_el_maestro_8ba87caf93.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-catalog-of-the-archivo-historico-de-la-arquidiocesis-de-antequera-oaxaca-mexico.html
+email: edgaralex78@hotmail.com
+author: Edgar Alejandro Calderón Alcántar
 ---
 
 

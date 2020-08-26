@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Results of the RISM User Study, Part II: Your Comments - Coverage in RISM and Citing Literature"
+title: 'Results of the RISM User Study, Part II: Your Comments - Coverage in RISM and Citing Literature'
 date: 2015-08-10
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg
+image: "/uploads/_processed_/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-rism-survey-we-respond-to-your-comments.html
+email: jennifer.ward@rism.info
+author: ''
 ---
 
 

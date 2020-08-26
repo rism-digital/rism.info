@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Johann Adolph Scheibe (1706–1776) – Ein Katalog seiner Werke"
+title: Johann Adolph Scheibe (1706–1776) – Ein Katalog seiner Werke
 date: 2017-11-30
 lang: de
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png
+image: "/uploads/_processed_/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
+email: ph@kb.dk
+author: Peter Hauge
 ---
 
 

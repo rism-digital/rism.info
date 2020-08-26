@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Opernpartiturabschriften in der Library of Congress und ein identifizierter Kopist"
+title: Opernpartiturabschriften in der Library of Congress und ein identifizierter Kopist
 date: 2020-02-24
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png
+image: "/uploads/_processed_/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/copies-of-opera-scores-at-the-library-of-congress-and-an-identified-copyist.html
+email: ''
+author: Martin Bierwisch und Kristina Krämer
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Books About Music Before 1800 Digitized and Online"
+title: Books About Music Before 1800 Digitized and Online
 date: 2019-08-01
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg
+image: "/uploads/_processed_/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/books-about-music-before-1800-digitized-and-online.html
+email: ''
+author: Library of Congress, Music Division
 ---
 
 

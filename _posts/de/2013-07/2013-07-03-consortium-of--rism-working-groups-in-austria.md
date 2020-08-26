@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Arbeitsgemeinschaft Österreichischer RISM-Arbeitsgruppen"
+title: Arbeitsgemeinschaft Österreichischer RISM-Arbeitsgruppen
 date: 2013-07-03
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Mozart_89968ae304.jpg
+image: "/uploads/_processed_/csm_Mozart_89968ae304.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/consortium-of-rism-working-groups-in-austria.html
+email: brinzing@mozarteum.at
+author: Armin Brinzing
 ---
 
 

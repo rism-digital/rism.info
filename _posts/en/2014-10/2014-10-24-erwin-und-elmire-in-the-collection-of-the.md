@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Erwin und Elmire in the Collection of the Deutsches Nationaltheater,  Weimar: For the 275th Birthday of Anna Amalia, Duchess of Sachsen-Weimar-Eisenach"
+title: 'Erwin und Elmire in the Collection of the Deutsches Nationaltheater,  Weimar: For the 275th Birthday of Anna Amalia, Duchess of Sachsen-Weimar-Eisenach'
 date: 2014-10-24
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg
+image: "/uploads/_processed_/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
+email: ''
+author: ''
 ---
 
 

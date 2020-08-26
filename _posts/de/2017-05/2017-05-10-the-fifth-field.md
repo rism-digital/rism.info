@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Das fünfte Feld"
+title: Das fünfte Feld
 date: 2017-05-10
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Fifth_Field_card_01_d2af8ba1fa.png
+image: "/uploads/_processed_/csm_Fifth_Field_card_01_d2af8ba1fa.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-fifth-field.html
+email: ''
+author: ''
 ---
 
 

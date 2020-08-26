@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM beim Kongress der International Musicological Society in Tokio"
+title: RISM beim Kongress der International Musicological Society in Tokio
 date: 2017-03-13
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_IMS_Tokyo_b997ce8e0b.png
+image: "/uploads/_processed_/csm_IMS_Tokyo_b997ce8e0b.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
+email: ''
+author: ''
 ---
 
 

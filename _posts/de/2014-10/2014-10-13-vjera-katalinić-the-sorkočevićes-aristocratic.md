@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vjera Katalinić: The Sorkočevićes, Aristocratic Musicians from Dubrovnik"
+title: 'Vjera Katalinić: The Sorkočevićes, Aristocratic Musicians from Dubrovnik'
 date: 2014-10-13
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg
+image: "/uploads/_processed_/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html
+email: ''
+author: ''
 ---
 
 

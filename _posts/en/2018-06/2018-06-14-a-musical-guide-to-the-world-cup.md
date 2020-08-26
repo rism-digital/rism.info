@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Musical Guide to the World Cup"
+title: A Musical Guide to the World Cup
 date: 2018-06-14
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Fussball_WM_2018_F_9752f6344f.jpg
+image: "/uploads/_processed_/csm_Fussball_WM_2018_F_9752f6344f.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-musical-guide-to-the-world-cup.html
+email: ''
+author: ''
 ---
 
 

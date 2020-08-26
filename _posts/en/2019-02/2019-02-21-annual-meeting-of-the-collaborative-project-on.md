@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Annual Meeting of the Collaborative Project on Chinese Music Resources in Shanghai"
+title: Annual Meeting of the Collaborative Project on Chinese Music Resources in Shanghai
 date: 2019-02-21
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_IMG_1784_875b2775ab.jpg
+image: "/uploads/_processed_/csm_IMG_1784_875b2775ab.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
+email: tzchia22@gmail.com
+author: Tzu-Chia Tseng
 ---
 
 

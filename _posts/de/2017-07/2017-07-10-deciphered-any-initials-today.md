@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Heute schon eine Initiale entschlüsselt?"
+title: Heute schon eine Initiale entschlüsselt?
 date: 2017-07-10
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM_A1_Initialen_ALINE_bdf832e831.jpg
+image: "/uploads/_processed_/csm_RISM_A1_Initialen_ALINE_bdf832e831.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/deciphered-any-initials-today.html
+email: mbierwis@students.uni-mainz.de
+author: Martin Bierwisch
 ---
 
 

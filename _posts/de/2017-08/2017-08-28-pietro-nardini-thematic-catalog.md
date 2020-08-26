@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein Werkverzeichnis zu Pietro Nardini"
+title: Ein Werkverzeichnis zu Pietro Nardini
 date: 2017-08-28
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg
+image: "/uploads/_processed_/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pietro-nardini-thematic-catalog.html
+email: ''
+author: ''
 ---
 
 

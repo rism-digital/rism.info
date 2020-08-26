@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Major Acquisition in Belgium: Fonds Toots Thielemans"
+title: 'Major Acquisition in Belgium: Fonds Toots Thielemans'
 date: 2017-01-24
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_FondsTootsThielemans_02_dd537f6adb.jpg
+image: "/uploads/_processed_/csm_FondsTootsThielemans_02_dd537f6adb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/major-acquisition-in-belgium-fonds-toots-thielemans.html
+email: marie.cornaz@kbr.be
+author: Marie Cornaz
 ---
 
 

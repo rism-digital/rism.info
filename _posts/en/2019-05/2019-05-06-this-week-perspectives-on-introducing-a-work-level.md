@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "This week: Perspectives on Introducing a Work Level in RISM"
+title: 'This week: Perspectives on Introducing a Work Level in RISM'
 date: 2019-05-06
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Logo_05_06920253fc.jpg
+image: "/uploads/_processed_/csm_Logo_05_06920253fc.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/this-week-perspectives-on-introducing-a-work-level-in-rism.html
+email: ''
+author: ''
 ---
 
 

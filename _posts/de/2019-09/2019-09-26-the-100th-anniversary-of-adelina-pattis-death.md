@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Adelina Patti – Zum 100. Todestag"
+title: Adelina Patti – Zum 100. Todestag
 date: 2019-09-26
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Adelina_Patti._7875156beb.jpg
+image: "/uploads/_processed_/csm_Adelina_Patti._7875156beb.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-100th-anniversary-of-adelina-pattis-death.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Timothy Swan (1758-1842): Ein früher amerikanischer Komponist"
+title: 'Timothy Swan (1758-1842): Ein früher amerikanischer Komponist'
 date: 2017-07-20
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Timothy_Swan_composer_01_7b82dbcdb2.jpg
+image: "/uploads/_processed_/csm_Timothy_Swan_composer_01_7b82dbcdb2.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/timothy-swan-an-early-american-composer.html
+email: ''
+author: ''
 ---
 
 

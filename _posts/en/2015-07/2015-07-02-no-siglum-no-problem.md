@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "No siglum? No problem!"
+title: No siglum? No problem!
 date: 2015-07-02
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/no-siglum-no-problem.html
+email: ''
+author: ''
 ---
 
 

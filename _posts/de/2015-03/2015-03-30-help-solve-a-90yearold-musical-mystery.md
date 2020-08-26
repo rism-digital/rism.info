@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Helfen Sie ein 90 Jahre altes Musikgeheimnis zu lüften!"
+title: Helfen Sie ein 90 Jahre altes Musikgeheimnis zu lüften!
 date: 2015-03-30
 lang: de
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Zanni_9306c2f180.jpg
+image: "/uploads/_processed_/csm_Zanni_9306c2f180.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/help-solve-a-90-year-old-musical-mystery.html
+email: ''
+author: ''
 ---
 
 

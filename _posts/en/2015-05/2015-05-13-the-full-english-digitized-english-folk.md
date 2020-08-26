@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Full English: Digitized English Folk Manuscripts"
+title: 'The Full English: Digitized English Folk Manuscripts'
 date: 2015-05-13
 lang: en
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Full_English_55000003a8.jpg
+image: "/uploads/_processed_/csm_Full_English_55000003a8.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-full-english-digitized-english-folk-manuscripts.html
+email: ''
+author: ''
 ---
 
 

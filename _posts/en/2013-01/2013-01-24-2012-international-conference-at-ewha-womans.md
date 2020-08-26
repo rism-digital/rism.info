@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "2012 International Conference at Ewha Womans University in Seoul: The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond"
+title: '2012 International Conference at Ewha Womans University in Seoul: The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond'
 date: 2013-01-24
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_poster_01_e385b020e8.jpg
+image: "/uploads/_processed_/csm_poster_01_e385b020e8.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east-1.html
+email: ''
+author: Dr. Eun-Ha Kim
 ---
 
 

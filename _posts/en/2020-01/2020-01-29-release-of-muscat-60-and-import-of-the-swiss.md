@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Release of Muscat 6.0 and Import of the Swiss dataset"
+title: Release of Muscat 6.0 and Import of the Swiss dataset
 date: 2020-01-29
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_News_CH_vom_2020-01-28_11-06-36_0b38e1efba.png
+image: "/uploads/_processed_/csm_News_CH_vom_2020-01-28_11-06-36_0b38e1efba.png"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Neues RISM Tutorial auf Deutsch"
+title: Neues RISM Tutorial auf Deutsch
 date: 2020-04-20
 lang: de
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png
+image: "/uploads/_processed_/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-tutorial-in-german.html
+email: ''
+author: ''
 ---
 
 

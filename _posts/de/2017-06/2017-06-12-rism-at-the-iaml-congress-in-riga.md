@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RISM beim IAML-Kongress in Riga"
+title: RISM beim IAML-Kongress in Riga
 date: 2017-06-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_riga_IAML_2017_76157193c2.jpg
+image: "/uploads/_processed_/csm_riga_IAML_2017_76157193c2.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-riga.html
+email: contact@rism.info
+author: ''
 ---
 
 

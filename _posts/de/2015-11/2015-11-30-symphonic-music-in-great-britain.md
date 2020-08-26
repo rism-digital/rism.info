@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Symphonische Musik in Großbritannien"
+title: Symphonische Musik in Großbritannien
 date: 2015-11-30
 lang: de
 post: true
 category: new_publications
-image: /uploads/_processed_/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg
+image: "/uploads/_processed_/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/symphonic-music-in-great-britain.html
+email: ''
+author: ''
 ---
 
 

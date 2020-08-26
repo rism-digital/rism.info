@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Christian Ignatius Latrobe (12. Februar 1758 – 6. Mai 1836)"
+title: Christian Ignatius Latrobe (12. Februar 1758 – 6. Mai 1836)
 date: 2016-12-15
 lang: de
 post: true
 category: rism_a_z
-image: /uploads/_processed_/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg
+image: "/uploads/_processed_/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
+email: ''
+author: ''
 ---
 
 

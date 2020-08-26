@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bericht über elektronische Datenlieferungen für das RISM am Beispiel von CZ-Bu: Voraussetzungen, Vorgehensweise und Bestandsbeschreibung"
+title: 'Bericht über elektronische Datenlieferungen für das RISM am Beispiel von CZ-Bu: Voraussetzungen, Vorgehensweise und Bestandsbeschreibung'
 date: 2018-11-22
 lang: de
 post: true
 category: library_stocks
-image: /uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png
+image: "/uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
+email: guido.kraus@rism.info
+author: Guido Kraus
 ---
 
 

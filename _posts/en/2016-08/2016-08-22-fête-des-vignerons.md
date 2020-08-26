@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Fête des Vignerons"
+title: Fête des Vignerons
 date: 2016-08-22
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg
+image: "/uploads/_processed_/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/fete-des-vignerons.html
+email: ''
+author: ''
 ---
 
 

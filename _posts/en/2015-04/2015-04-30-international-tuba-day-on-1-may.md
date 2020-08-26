@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "International Tuba Day on 1 May"
+title: International Tuba Day on 1 May
 date: 2015-04-30
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Tuba_296eed917b.jpg
+image: "/uploads/_processed_/csm_Tuba_296eed917b.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-tuba-day-on-1-may.html
+email: ''
+author: ''
 ---
 
 

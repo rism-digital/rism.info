@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Eine seltene Aufführung von Mangolds Tanhäuser"
+title: Eine seltene Aufführung von Mangolds Tanhäuser
 date: 2014-10-27
 lang: de
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Carl_Amand_Mangold_24a3327394.jpg
+image: "/uploads/_processed_/csm_Carl_Amand_Mangold_24a3327394.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rare-performance-of-mangolds-tanhaeuser.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Wiedereröffnung des Markgräflichen Opernhauses in Bayreuth in barockem Glanz"
+title: Wiedereröffnung des Markgräflichen Opernhauses in Bayreuth in barockem Glanz
 date: 2018-04-12
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg
+image: "/uploads/_processed_/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
+email: ''
+author: ''
 ---
 
 

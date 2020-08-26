@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "In memoriam: Joachim Schlichte-Bierbaum (1947-2015)"
+title: 'In memoriam: Joachim Schlichte-Bierbaum (1947-2015)'
 date: 2015-04-28
 lang: de
 post: true
 category: in_memoriam
-image: /uploads/_processed_/csm_foto_Schlichte_092310008c.jpg
+image: "/uploads/_processed_/csm_foto_Schlichte_092310008c.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
+email: ''
+author: ''
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Digitized Music from Christ Church Library"
+title: Digitized Music from Christ Church Library
 date: 2016-03-24
 lang: en
 post: true
 category: electronic_resources
-image: /uploads/_processed_/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg
+image: "/uploads/_processed_/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-music-from-christ-church-library.html
+email: ''
+author: ''
 ---
 
 

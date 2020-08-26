@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Taller de Muscat en Córdoba, Argentina / Muscat-Workshop in Córdoba, Argentinien"
+title: Taller de Muscat en Córdoba, Argentina / Muscat-Workshop in Córdoba, Argentinien
 date: 2019-06-03
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Workshop_Vormittag_6c24af8a5f.jpg
+image: "/uploads/_processed_/csm_Workshop_Vormittag_6c24af8a5f.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html
+email: lucianagsh@gmail.com
+author: Luciana Giron Sheridan and Lucas Reccitelli
 ---
 
 

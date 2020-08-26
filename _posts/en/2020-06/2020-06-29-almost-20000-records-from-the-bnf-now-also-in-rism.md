@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Almost 20,000 Records from the BnF Now Also in RISM"
+title: Almost 20,000 Records from the BnF Now Also in RISM
 date: 2020-06-29
 lang: en
 post: true
 category: rism_online_catalog
-image: /uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg
+image: "/uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
+email: francois-pierre.goy@bnf.fr
+author: François-Pierre Goy
 ---
 
 

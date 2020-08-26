@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Using RISM for Genealogy"
+title: Using RISM for Genealogy
 date: 2015-08-06
 lang: en
 post: true
 category: press_reviews
-image: /uploads/_processed_/csm_Teuthorn_BSB_06d077a232.jpg
+image: "/uploads/_processed_/csm_Teuthorn_BSB_06d077a232.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
+email: p@teu-net.de
+author: Peter Teuthorn
 ---
 
 

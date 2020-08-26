@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Collecting – Performing – Exploring. Dresden’s Eighteenth-Century Court Music"
+title: Collecting – Performing – Exploring. Dresden’s Eighteenth-Century Court Music
 date: 2015-10-28
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Hofmusik-Konferenz_cf2282e4d7.jpg
+image: "/uploads/_processed_/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html
+email: hofmusikkonferenz@slub-dresden.de
+author: Nina Eichholz
 ---
 
 

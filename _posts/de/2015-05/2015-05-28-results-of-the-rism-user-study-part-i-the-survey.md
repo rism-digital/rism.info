@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ergebnisse der RISM Nutzerstudie, Teil 1: Die Umfrage"
+title: 'Ergebnisse der RISM Nutzerstudie, Teil 1: Die Umfrage'
 date: 2015-05-28
 lang: de
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
+email: ''
+author: ''
 ---
 
 

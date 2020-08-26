@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The congress report is ready!"
+title: The congress report is ready!
 date: 2010-08-20
 lang: en
 post: true
 category: new_publications
-image: /uploads/pics/Kongressbericht.jpg
+image: "/uploads/pics/Kongressbericht.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-congress-report-is-ready.html
+email: martina.falletta@rism.info
+author: Martina Falletta
 ---
 
 

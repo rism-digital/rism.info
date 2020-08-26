@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Augsburg, A Musical City"
+title: Augsburg, A Musical City
 date: 2019-10-21
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_IAML_DE_Augsburg_2019_5ba5bc4844.jpg
+image: "/uploads/_processed_/csm_IAML_DE_Augsburg_2019_5ba5bc4844.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/augsburg-a-musical-city.html
+email: ''
+author: ''
 ---
 
 

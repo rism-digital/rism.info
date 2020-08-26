@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Ein Abend mit Musik aus Irland"
+title: Ein Abend mit Musik aus Irland
 date: 2014-02-24
 lang: de
 post: true
 category: events
-image: /uploads/_processed_/csm_Alday_Titelblatt_Klein_23c69faad7.jpg
+image: "/uploads/_processed_/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-evening-of-irish-music.html
+email: ''
+author: ''
 ---
 
 

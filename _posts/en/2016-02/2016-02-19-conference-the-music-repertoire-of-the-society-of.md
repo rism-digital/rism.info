@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Conference: The Music Repertoire of the Society of Jesus in the Polish-Lithuanian Commonwealth (1565–1773)"
+title: 'Conference: The Music Repertoire of the Society of Jesus in the Polish-Lithuanian Commonwealth (1565–1773)'
 date: 2016-02-19
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg
+image: "/uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
+email: ''
+author: ''
 ---
 
 

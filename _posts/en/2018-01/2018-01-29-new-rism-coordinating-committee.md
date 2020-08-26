@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New RISM Coordinating Committee"
+title: New RISM Coordinating Committee
 date: 2018-01-29
 lang: en
 post: true
 category: self_representation
-image: /uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg
+image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-coordinating-committee.html
+email: ''
+author: ''
 ---
 
 

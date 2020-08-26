@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "500 Years of the Protestant Reformation"
+title: 500 Years of the Protestant Reformation
 date: 2017-10-30
 lang: en
 post: true
 category: events
-image: /uploads/_processed_/csm_Reformation_500_c5d204eca4.jpg
+image: "/uploads/_processed_/csm_Reformation_500_c5d204eca4.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-years-of-the-protestant-reformation.html
+email: ''
+author: ''
 ---
 
 

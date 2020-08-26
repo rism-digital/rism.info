@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Previously Unknown Lute Tablature"
+title: A Previously Unknown Lute Tablature
 date: 2017-01-27
 lang: en
 post: true
 category: rediscovered
-image: /uploads/_processed_/csm_Lautentabulatur_Kirsch_Braunschweig04_6502ace6fb.jpg
+image: "/uploads/_processed_/csm_Lautentabulatur_Kirsch_Braunschweig04_6502ace6fb.jpg"
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-previously-unknown-lute-tablature.html
+email: Helmut.Lauterwasser@bsb-muenchen.de
+author: Dr. Helmut Lauterwasser
 ---
 
 
