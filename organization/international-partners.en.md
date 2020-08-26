@@ -1,8 +1,8 @@
 ---
 title: "International Partners"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/international-partners.html
+permalink: /organization/international-partners.html
 ---
 
 # International Partners of the Project
@@ -18,7 +18,7 @@ RISM is sponsored under the auspices of two international professional associati
 
 The Commission Mixte consists of ten members, five each from IAML and IMS. Together with the Board of the association, the Commission Mixte forms the executive committee that determines the strategic goals of the organization.
 
-Members of the Commission Mixte are listed on the [Association](/organisation/the-association.html) page.
+Members of the Commission Mixte are listed on the [Association](/organization/the-association.html) page.
 
 ## Advisory Council
 

@@ -1,8 +1,8 @@
 ---
 title: "RISM for Libraries"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/rism-for-libraries.html
+permalink: /organization/rism-for-libraries.html
 ---
 
 # RISM for Libraries
@@ -25,7 +25,7 @@ Also look at past [IAML congresses](/publications/iaml-congresses.html){:target=
 
 **Logos**: Logos are available below for download or for direct copying and pasting onto your library's website. Right-click on the image to either copy it or save it as a local file.
 
-**Poster**: This [RISM poster]( /organisation/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
+**Poster**: This [RISM poster]( /organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
 
 **Reviews of RISM**: RISM's publications have been reviewed in the scholarly literature. See the [RISM bibliography](/publications/bibliography.html) for exact citations.
 
@@ -59,14 +59,14 @@ As an example, these records from the Princeton University Library cite the A/I 
 **Example 1**: Giaches de Wert, Il secondo libro de madregali a cinque voci:  
 ([Public view](https://catalog.princeton.edu/catalog/10096131){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/10096131/staff_view){:target="_blank"})
 
-![csm_510_w862_princeton](/images/organisation/csm_510_w862_princeton.jpg)
+![csm_510_w862_princeton](/images/organization/csm_510_w862_princeton.jpg)
 
 **Example 2**: Giovanni Bononcini, Cantate e duetti:  
 ([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
 
-![csm_510_b3601_princeton](/images/organisation/csm_510_b3601_princeton.jpg)
+![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /organisation/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
+Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
@@ -76,6 +76,6 @@ The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} 
 
 ## RISM Logos
 
-![rism-logo-with-text](/images/organisation/rism-logo-with-text.png)
+![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
 
-![rism-logo](/images/organisation/rism-logo.png)
+![rism-logo](/images/organization/rism-logo.png)

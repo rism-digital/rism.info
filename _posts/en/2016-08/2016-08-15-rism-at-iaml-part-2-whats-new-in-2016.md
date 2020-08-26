@@ -43,7 +43,7 @@ RISM continues to collaborate with the [Working Group on the Access to Music Arc
 
 
 
-The rest of the session, as well as much of the [Advisory Council session](/organisation/international-partners.html), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
+The rest of the session, as well as much of the [Advisory Council session](/organization/international-partners.html), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
 
 - Every group/contributor will have access to the final Muscat version one month before the switch to Muscat (probably mid-September to mid-October). During this time, Kallisto will still be the only cataloging system; data entered into Muscat during this time will be lost. There will be no period in which both systems will run parallel. Kallisto will end at a specified time and Muscat will be working after that within probably a few days (over the weekend).
 

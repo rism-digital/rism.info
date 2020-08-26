@@ -1,8 +1,8 @@
 ---
 title: "Internationale Partner"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/international-partners.html
+permalink: /organization/international-partners.html
 ---
 
 # Internationale Partner des Projekts
@@ -20,7 +20,7 @@ Zusammen mit dem Vorstand des Vereins bildet die Commission Mixte des RISM das L
 
 Mitglieder der Commission Mixte:
 
-siehe: [Verein](/organisation/the-association.html)
+siehe: [Verein](/organization/the-association.html)
 
 ## Advisory council
 

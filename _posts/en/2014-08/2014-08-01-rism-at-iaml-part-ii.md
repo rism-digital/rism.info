@@ -15,7 +15,7 @@ Highlights include:
 
 -
 
-There is a new [Board of Directors](/organisation/the-association.html) and a new [Coordinating Committee](/organisation/international-partners.html#c32)
+There is a new [Board of Directors](/organization/the-association.html) and a new [Coordinating Committee](/organization/international-partners.html#c32)
 
 
 -

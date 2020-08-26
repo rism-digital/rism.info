@@ -4,10 +4,10 @@
     fr: "Accueil"
   link: /index.html
 - name:
-    en: "Organisation"
+    en: "Organization"
     de: "Unternehmen"
     fr: "Organisation"
-  link: /organisation.html
+  link: /organization.html
 - name:
     en: "International"
     de: "International"

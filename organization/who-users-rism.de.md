@@ -1,8 +1,8 @@
 ---
 title: "Who uses RISM?"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/who-uses-rism.html
+permalink: /organization/who-uses-rism.html
 ---
 
 # Wer nutzt RISM?

@@ -1,8 +1,8 @@
 ---
 title: "The Association"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/the-association.html
+permalink: /organization/the-association.html
 ---
 
 # The Association "Internationales Quellenlexikon der Musik"
@@ -18,7 +18,7 @@ Vice President: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Austria)<br>
 Secretary: Dr. Laurent Pugin, Bern (Switzerland)<br>
 Treasurer: Jane Gottlieb, New York (USA)
 * Coopted Board Members: Prof. Dr. Ulrich Konrad, Würzburg (Germany); Prof. Dr. John H. Roberts, Berkeley (USA)
-* Members of the [Commission Mixte](/organisation/international-partners.html):
+* Members of the [Commission Mixte](/organization/international-partners.html):
   - IAML delegates: Mathias Auclair, Paris (France); Richard Chesser, London (UK); Prof. Dr. Beatriz Magalhães Castro, Brasilia (Brazil); Dr. Barbara Wiermann, Dresden (Germany)
   - IMS delegates: Prof. Dr. Egberto Bermudez Cujar, Bogotá (Colombia); Prof. Dr. Dinko Fabris, Rome (Italy), Prof. Dr. Markus Grassl, Vienna (Austria); Prof. Dr. Thomas Schmidt, Manchester (UK); Prof. Dr. Christiane Wiesenfeldt, Weimar (Germany)
 

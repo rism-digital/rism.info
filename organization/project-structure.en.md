@@ -1,8 +1,8 @@
 ---
 title: "Project Structure"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/project-structure.html
+permalink: /organization/project-structure.html
 ---
 
 # Project Structure

@@ -1,8 +1,8 @@
 ---
 title: "Praktikum"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/internships.html
+permalink: /organization/internships.html
 ---
 
 # Ein Praktikum in der RISM Zentralredaktion

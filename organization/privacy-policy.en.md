@@ -1,8 +1,8 @@
 ---
 title: "Privacy Policy"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/privacy-policy.html
+permalink: /organization/privacy-policy.html
 ---
 
 # Privacy Policy
@@ -33,7 +33,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[www.rism.info/en/organisation/editorial-office.html](http://www.rism.info/en/organisation/editorial-office.html)
+[www.rism.info/en/organization/editorial-office.html](http://www.rism.info/en/organization/editorial-office.html)
 
 contact@rism.info 
 

@@ -1,8 +1,8 @@
 ---
 title: "Geschichte des Projekts"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/project-history.html
+permalink: /organization/project-history.html
 ---
 
 # Geschichte des Projekts
@@ -14,7 +14,7 @@ permalink: /organisation/project-history.html
 | 1952 | First conference of the Commission Mixte set up by both organizations. Elaboration of a master plan |
 | 1953 | Establishment of the first secretariat in Paris. Director: François Lesure |
 | :---: |
-| |![1953](/images/organisation/history-1953.png) *1st RISM meeting, Paris 1953: François Lesure, Vladimir Fedorov, Nanie Bridgman, Nino Pirotta*
+| |![1953](/images/organization/history-1953.png) *1st RISM meeting, Paris 1953: François Lesure, Vladimir Fedorov, Nanie Bridgman, Nino Pirotta*
 | 1960 | Zentralredaktion in Kassel established |
 | 1960–1967 | Director of the Zentralredaktion: Friedrich W. Riedel |
 | 1960/64 | First publications of series B:1960 B/I: François Lesure: *Recueils Imprimés XVIe-XVIIe Siècles*1964 B/II: François Lesure: *Recueils Imprimés XVIIIe Siècle*Since then more than 30 volumes have been published;see the [RISM publications](/publikationen.html#c2619) |
@@ -32,7 +32,7 @@ permalink: /organisation/project-history.html
 | 1980 | Inclusion of the Zentralredaktion in the "Akademienprogramm" financed by state and federal governments through the Conference of the Academies of Sciences |
 | 1981 | Publication of the guidelines for series A/II in  *Fontes* |
 | :---: |
-| |![1981](/images/organisation/history-fontes.png) *Meeting of the Commission mixte, Budapest 1981: Israel Adler, Pierluigi Petrobelli, Barry S. Brook, Clemens von Gleich, Helmut Rösing, Wolfgang Rehm, Harald Heckmann*
+| |![1981](/images/organization/history-fontes.png) *Meeting of the Commission mixte, Budapest 1981: Israel Adler, Pierluigi Petrobelli, Barry S. Brook, Clemens von Gleich, Helmut Rösing, Wolfgang Rehm, Harald Heckmann*
 | 1982–1990 | Director of the Zentralredaktion: Joachim Schlichte |
 | 1984 | First microfiche edition of series A/II |
 | 1986 | Second microfiche edition of series A/II |

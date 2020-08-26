@@ -13,7 +13,7 @@ We're just three weeks away from the annual congress of the [International Assoc
 
 This year, RISM is hosting a [Muscat](/community/muscat.html) workshop in two parts for participants to learn about how RISM catalogs musical sources: one that is for beginners and a second one that continues the skills leaned in the first part. Whether you are merely curious about Muscat, or you want to actively contribute to RISM, you are welcome to attend one or both workshops.
 
-Also on the program are two RISM sessions, where we will hear about the latest RISM developments and listen to reports from our contributors and users in Brazil, Greece, Poland, Portugal, Romania, Slovakia, and Switzerland. The meeting of the [Advisory Council](/organisation/international-partners.html) will offer an opportunity for RISM contributors to meet face-to-face and talk about their work. The [Commission Mixte](/organisation/the-association.html) meeting is a closed meeting for Commission Mixte members only.
+Also on the program are two RISM sessions, where we will hear about the latest RISM developments and listen to reports from our contributors and users in Brazil, Greece, Poland, Portugal, Romania, Slovakia, and Switzerland. The meeting of the [Advisory Council](/organization/international-partners.html) will offer an opportunity for RISM contributors to meet face-to-face and talk about their work. The [Commission Mixte](/organization/the-association.html) meeting is a closed meeting for Commission Mixte members only.
 
 [Please see our Krakow Congress page](/publications/iaml-congresses/2019.html) for more details about the workshops and the other RISM activities on the program. Slides will be posted there after the congress.
 

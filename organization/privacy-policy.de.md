@@ -1,8 +1,8 @@
 ---
 title: "Datenschutzerklärung"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/privacy-policy.html
+permalink: /organization/privacy-policy.html
 ---
 
 # Datenschutzerklärung
@@ -31,7 +31,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[www.rism.info/de/organisation/editorial-office.html](http://www.rism.info/de/organisation/editorial-office.html)
+[www.rism.info/de/organization/editorial-office.html](http://www.rism.info/de/organization/editorial-office.html)
 
 contact@rism.info 
 

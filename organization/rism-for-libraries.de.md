@@ -1,8 +1,8 @@
 ---
 title: "RISM für Bibliothekare"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/rism-for-libraries.html
+permalink: /organization/rism-for-libraries.html
 ---
 
 # RISM für Bibliothekare
@@ -25,7 +25,7 @@ Von vergangenen [IAML Kongressen](/publications/iaml-congresses.html){:target="_
 
 **Logos**: Logos stehen weiter unten zum Download bereit.
 
-**Poster**: Hier gibt es ein [RISM poster]( /organisation/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
+**Poster**: Hier gibt es ein [RISM poster]( /organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
 
 **Rezensionen zu RISM**: Veröffentlichungen des RISM wurden in der wissenschaftlichen Literatur rezensiert. Siehe die [RISM Bibliographie](/publications/bibliography.html).
 
@@ -57,14 +57,14 @@ In dieser Auflistung der Princeton University Library werden bweispiewlsweise di
 Giaches de Wert, Il secondo libro de madregali a cinque voci:  
 ([Public view](https://catalog.princeton.edu/catalog/10096131){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/10096131/staff_view){:target="_blank"})
 
-![csm_510_w862_princeton](/images/organisation/csm_510_w862_princeton.jpg)
+![csm_510_w862_princeton](/images/organization/csm_510_w862_princeton.jpg)
 
 Giovanni Bononcini, Cantate e duetti:  
 ([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
 
-![csm_510_b3601_princeton](/images/organisation/csm_510_b3601_princeton.jpg)
+![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Nicht alles aus den Büchern befindet sich im OPAC (eine Übersicht finden Sie auf der Seite Publikationen). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform]( /organisation/RISM_Citation_Styles_2019_06.pdf), die A/I, alle Bände der B-Serie und den OPAC enthält.
+Nicht alles aus den Büchern befindet sich im OPAC (eine Übersicht finden Sie auf der Seite Publikationen). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform]( /organization/RISM_Citation_Styles_2019_06.pdf), die A/I, alle Bände der B-Serie und den OPAC enthält.
 
 Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstützung bei der Entwicklung dieser Tools.
 
@@ -74,6 +74,6 @@ The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} 
 
 ## RISM Logos
 
-![rism-logo-with-text](/images/organisation/rism-logo-with-text.png)
+![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
 
-![rism-logo](/images/organisation/rism-logo.png)
+![rism-logo](/images/organization/rism-logo.png)

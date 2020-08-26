@@ -1,8 +1,8 @@
 ---
 title: "Verein"
-layout: organisation
+layout: organization
 lang: de
-permalink: /organisation/the-association.html
+permalink: /organization/the-association.html
 ---
 
 # Verein "Internationales Quellenlexikon der Musik"
@@ -18,7 +18,7 @@ Vizepräsidentin:Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Österreich)<br>
 Sekretär: Dr.Laurent Pugin, Bern (Schweiz)<br>
 Schatzmeisterin: Jane Gottlieb, New York (USA)
 * kooptierte Vorstandsmitglieder: Prof. Dr. Ulrich Konrad, Würzburg (Deutschland); Prof. Dr. John H. Roberts, Berkeley (USA)
-* Mitglieder der [Commission Mixte](/organisation/international-partners.html):
+* Mitglieder der [Commission Mixte](/organization/international-partners.html):
   - IAML Delegierte: Mathias Auclair, Paris (Frankreich); Richard Chesser, London (Vereinigtes Königreich); Prof. Dr. Beatriz Magalhães Castro, Brasilia (Brasilien); Dr. Barbara Wiermann, Dresden (Deutschland)
   - IMS Delegierte: Prof. Dr. Egberto Bermudez Cujar, Bogotá (Kolumbien); Prof. Dr. Dinko Fabris, Rome (Italien); Prof. Dr.  Markus Grassl, Wien (Österreich); Prof. Dr. Thomas Schmidt, Manchester (Vereinigtes Königreich); Prof. Dr. Christiane Wiesenfeldt, Weimar (Deutschland)
 

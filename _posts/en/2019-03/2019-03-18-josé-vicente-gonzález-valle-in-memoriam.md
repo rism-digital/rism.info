@@ -17,7 +17,7 @@ To open the conference, González Valle brought together "important people from 
 
 These quotations show how commendable José Vicente González Valle's work was for RISM in Spain.
 
-González Valle was a member in the [Association "Internationales Quellenlexikon der Musik e.V."](/organisation/the-association.html) beginning in 2004.
+González Valle was a member in the [Association "Internationales Quellenlexikon der Musik e.V."](/organization/the-association.html) beginning in 2004.
 
 We will always honor his memory.
 

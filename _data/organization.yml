@@ -1,5 +1,5 @@
 - label: 
-    en: "Organisation"
+    en: "Organization"
     de: "Unternehmen"
     fr: "Organisation"
   items:
@@ -7,44 +7,44 @@
         en: "Central Editorial Office"
         de: "Zentralredaktion"
         fr: "Centrale Editoriale"
-      link: /organisation/editorial-office.html
+      link: /organization/editorial-office.html
     - name:
         en: "Association"
         de: "Verein"
         fr: "Association"
-      link: /organisation/the-association.html
+      link: /organization/the-association.html
     - name:
         en: "International Partners"
         de: "Internationale Partner"
         fr: "Partenaires Internationaux"
-      link: /organisation/international-partners.html
+      link: /organization/international-partners.html
     - name:
         en: "Internships"
         de: "Praktikanten/Praktikantinnen"
         fr: "Stages"
-      link: /organisation/internships.html
+      link: /organization/internships.html
     - name:
         en: "Project Structure and Funding"
         de: "Struktur und Finanzierung"
         fr: "Structure et Financement"
-      link: /organisation/project-structure.html
+      link: /organization/project-structure.html
     - name:
         en: "Who uses RISM?"
         de: "Wer nutzt RISM?"
         fr: "Qui utilise le RISM"
-      link: /organisation/who-uses-rism.html
+      link: /organization/who-uses-rism.html
     - name:
         en: "RISM for Libraries"
         de: "RISM für Bibliothekare"
         fr: "RISM pour les Bibliothèques"
-      link: /organisation/rism-for-libraries.html
+      link: /organization/rism-for-libraries.html
     - name:
         en: "Project History"
         de: "Projektgeschichte"
         fr: "Historique du Projet"
-      link: /organisation/project-history.html
+      link: /organization/project-history.html
     - name:
         en: "Privacy Policy"
         de: "Datenschutzerklärung"
         fr: "Protection des Données"
-      link: /organisation/privacy-policy.html
+      link: /organization/privacy-policy.html

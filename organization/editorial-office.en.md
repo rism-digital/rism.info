@@ -1,13 +1,13 @@
 ---
 title: "Editorial Office"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/editorial-office.html
+permalink: /organization/editorial-office.html
 ---
 
 # RISM Zentralredaktion
 
-{% include image file="/images/organisation/building.jpg" pos="right" %}
+{% include image file="/images/organization/building.jpg" pos="right" %}
 
 The Zentralredaktion (Central Editorial Office) is the contact point for participants and other interested people from all over the world. It is available for advice or anything else related to music sources. The office primarily provides support to working groups by making available technical and subject-specific help for tools such as the cataloguing program Muscat and the use of the data server, guidelines for documenting music sources, the online catalogue, and more.
 
@@ -30,7 +30,7 @@ IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}
 
 ## Address
 
-{% include image file="/images/organisation/map.jpg" pos="right" %}
+{% include image file="/images/organization/map.jpg" pos="right" %}
 
 RISM Zentralredaktion  
 Johann Wolfgang Goethe-Universität  

@@ -1,8 +1,8 @@
 ---
 title: "Internships"
-layout: organisation
+layout: organization
 lang: en
-permalink: /organisation/internships.html
+permalink: /organization/internships.html
 ---
 
 # Internships at the RISM Central Office
