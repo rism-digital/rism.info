@@ -9,6 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.0"
 
+gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
+
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
