@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/ahankins/Documents/code/rism/rism-theme
+GIT
+  remote: https://github.com/rism-digital/rism-theme
+  revision: fdb768bd64b20dde5b922a865a0ba5c568b1b1a2
   specs:
     rism-theme (0.1.19)
       jekyll (~> 4.1)
