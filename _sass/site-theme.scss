@@ -1,0 +1,8 @@
+$rism-editorial-center-primary: hsl(207, 100%, 28%); /* equivalent #005091 */
+$rism-editorial-center-highlight: lighten($rism-editorial-center-primary, 20%);
+$rism-editorial-center-white: #fff;
+
+$navbar-background-color: $rism-editorial-center-primary;
+$navbar-item-color: $rism-editorial-center-white;
+$navbar-item-active-background-color: $rism-editorial-center-highlight;
+$navbar-item-active-color: $rism-editorial-center-white;
