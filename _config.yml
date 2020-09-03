@@ -8,6 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://website-test.rism.digital" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RISM_Music
 
+exclude: ['.idea']
+
 languages: ["en", "de", "fr"]
 default_lang: "en"
 exclude_from_localization: ["assets", "javascript", "images", "css", "README.md"]
