@@ -13,6 +13,8 @@ default_lang: "en"
 exclude_from_localization: ["assets", "javascript", "images", "css", "README.md"]
 parallel_localization: false
 lang_from_path: false
+sass:
+  sourcemap: never
 
 theme: rism-theme
 
