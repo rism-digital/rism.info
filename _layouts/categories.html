@@ -1,0 +1,26 @@
+---
+layout: home
+sidepanel: "sidepanels/post"
+---
+
+{% assign labels = site.data.categories %}
+{% assign label = labels | where: "id", "all" | first %}
+{% if page.pagination.category %}
+  {% assign label = labels | where: "id", page.pagination.category | first %}
+{% endif %}
+
+<h1>{{ label.name[site.active_lang] }}</h1>
+
+{% include paginator.html %}
+
+<div class="columns is-multiline">
+  {% for post in paginator.posts %}
+  <div class="column is-12">
+      {% include post-card.html %}
+  </div>
+  {% endfor %}
+</div>
+
+{% if paginator.posts.size > 5 %}
+  {% include paginator.html %}
+{% endif %}
