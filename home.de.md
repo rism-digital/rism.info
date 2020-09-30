@@ -1,6 +1,7 @@
 ---
 title: RISM
 layout: home
+hide_navbar: true
 show_posts: true
 lang: de
 permalink: /index.html
