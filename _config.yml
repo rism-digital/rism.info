@@ -8,6 +8,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://website-test.rism.digital" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RISM_Music
 
+follow-us:
+  facebook: https://www.facebook.com/RISM.info/
+  twitter: https://twitter.com/RISM_music
+  youtube: https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w
+
+sponsors:
+  - url: https://www.musicology.org/
+    logo: logo_ims.png
+  - url: https://www.iaml.info/
+    logo: logo_iaml.png
+  - url: http://www.adwmainz.de/
+    logo: logo_akademie.png
+
 exclude: ['.idea']
 
 languages: ["en", "de", "fr"]
