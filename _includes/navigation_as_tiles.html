@@ -1,7 +1,7 @@
 {% comment %}shift one because we do not want to have tile for the homepage{% endcomment %}
-{% assign menus = site.data.navigation | shift %}
+{% assign tiles = site.data.navigation | shift %}
 <div class="tile is-ancestor tile is-block-desktop is-flex-widescreen">
-    {% for item in menus %}
+    {% for item in tiles %}
     {% assign mod = forloop.index | modulo: 2 %}
     {% if mod == 1 %}
 </div>
@@ -19,7 +19,10 @@
             </a>
         </div>
     </div>
-    {% endfor %}   
+    {% endfor %}
+    {% assign extra = tiles.size | modulo: 2 %}
+    {% if extra == 1 %} 
     <div class="tile is-parent">
     </div>
+    {% endif %}
 </div>
