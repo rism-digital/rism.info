@@ -1,0 +1,68 @@
+<div class="hero-body">
+    {% if hero_height == "is-small" %}
+    <div class="container">
+        <img src="/images/logo.png">
+    </div>
+    {% else %}
+    <div class="container">
+        <div class="level">
+            <div class="level-left ">
+                <img src="/images/logo-large.png" class="mr-20 is-hidden-touch">
+                <img src="/images/logo.png" class="mr-10 is-hidden-desktop is-hidden-mobile">
+            </div>
+            <div class="level-item ml-30">
+                <div>
+                    <div class="columns opac-search">
+                        <div class="column">
+                            <h1 class="is-hidden-mobile">Online Catalogue of Musical Sources</h1>
+                            <h2 class="is-hidden-tablet">Online Catalogue of Musical Sources</h2>
+                        </div>
+                    </div>
+                    <div class="columns is-desktop opac-search">
+                        <div class="column is-narrow">
+                            <div class="field is-grouped mr-3">
+                                <div class="field has-addons">
+                                    <div class="control">
+                                        <input id="opac-search-term" class="input is-primary" type="text" placeholder="Search ...">
+                                    </div>
+                                    <div class="control">
+                                        <a class="button is-primary" href="javascript:opac()">Go</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column">
+                            <div class="field is-grouped">
+                                <div class="control">
+                                    <a class="button is-primary" href="https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en">Advanced search</a>
+                                </div>
+                                <div class="control">
+                                    <a class="button is-primary" href="https://opac.rism.info/index.php?id=8">?</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<script>
+    document.getElementById("opac-search-term").addEventListener("keyup", function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.keyCode === 13) {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            opac();
+        }
+    }); 
+
+    function opac() {
+        var search = document.getElementById("opac-search-term").value;
+        var link = "https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=" + search + "&View=rism&Language={{ site.active_lang }}"
+        window.location.href = link; 
+    }
+</script>
