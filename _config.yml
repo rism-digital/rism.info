@@ -21,7 +21,7 @@ sponsors:
   - url: http://www.adwmainz.de/
     logo: logo_akademie.png
 
-exclude: ['.idea', '_posts']
+exclude: ['.idea']
 
 languages: ["en", "de", "fr"]
 default_lang: "en"
