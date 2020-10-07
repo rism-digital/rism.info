@@ -1,0 +1,100 @@
+#siglaCatalog {
+  margin-top: 20px;
+  margin-left: 20px;
+
+  .siglaQuery {
+    display:inline-block;
+  }
+  
+  .siglaQueryInput {
+    display:inline-block;
+  }
+  
+  .siglaQuerySelect {
+    display:inline-block;
+  }
+  
+  .siglaQuerySubmit {
+    color: red;
+    display:inline-block;
+  }
+  
+  .siglaResultSize {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  .siglaResultTables {
+    margin-top: 20px;
+  }
+  
+  .queryTerm {
+    font-weight: bold;
+  }
+  
+  .resultItem {
+    position: relative;
+    display: block;
+    color: black;
+    background-color: #efefef;
+    //height: 32px;
+    padding: 4px;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+    cursor:pointer;
+  }
+  
+  .resultItem:hover {
+      background-color: #dee7ec;
+  }
+  
+  .itemSigla {
+    color: #005091;
+    font-weight: normal;
+    display: table-row;
+  }
+  
+  .itemDetails {
+    font-weight: normal;
+    font-size: 0.8em;
+    display: none;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding: 4px;
+    //margin-left: 10px;
+    background-color: snow;
+  }
+  
+  .siglaPager {
+    margin-top: 10px;
+  }
+  
+  .pagerItem {
+    cursor:pointer;
+    color: -webkit-link;
+  }
+  
+  .sourceSize {
+    color: goldenrod;
+    float: right;
+    font-size: 1.4em;
+    padding: 4px;
+  
+  }
+  .sourceButton {
+    position: relative;
+    background-color: #005091;
+    color: #dee7ec;
+    border: medium;
+    width: 78px;
+    top: 3px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    float: left;
+    margin-right: 6px;
+    font-size: 14px;
+  }  
+}
