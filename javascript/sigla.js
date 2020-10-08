@@ -22,7 +22,7 @@ var markup = `
           <select id="siglaQuerySelect" name="advanced">
             <option value="any">All</option>
             <option value="bath.corporateName">Name</option>
-            <option value="librarySiglum">Library Siglum</option>
+            <option value="librarySiglum">Library siglum</option>
             <option value="rism.place">City</option>
             <option value="rism.libraryCountry">Country</option>             
           </select>
@@ -51,7 +51,7 @@ var addListeners = function(){
 };
 
 var buildQueryString = function(obj){
-  term = obj.term;
+  term = obj.term.replace(" ", "-");
   startRecord = obj.offset;
   field = obj.field;
   queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=${field}=${term}%20AND%20librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
@@ -126,7 +126,7 @@ var createElements = function(collection){
     var div = 
       `<div id="${record.id}" onclick="showDetails(${record.id})" class="resultItem">${record.position}. ${record._110a}${record._110c ? ", " + record._110c : ""}
           ${record.sourceSize ? `<span class="sourceSize">★</span>` : ""}
-        <div class="itemSigla">(${record._110g})</div>
+        <div class="itemSigla">${record._110g}</div>
       </div>`
     var details = `
         <div id="details_${record.id}" class="itemDetails">
@@ -163,10 +163,13 @@ var buildRecord = function(xml) {
       for (let i = 0; i < subfields.length; i++) {
         subfield = subfields[i];
         if (subfield.getAttribute("code") == "c") {
-          record._043c = subfield.innerHTML;
+          if (countryCodes.hasOwnProperty(subfield.innerHTML)) {
+            record._043c = subfield.innerHTML;
+          }
         }
       }
     }
+
  
     if (field.getAttribute("tag") == "110") {
       subfields = field.children;
