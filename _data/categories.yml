@@ -48,6 +48,11 @@
     en: "RISM online catalog"
     de: "RISM Online-Katalog"
     fr: "Catalogue RISM en ligne"
+- id: rism_digital_center
+  name:
+    en: "RISM Digital Center"
+    de: "RISM Digital Center"
+    fr: "RISM Digital Center"
 - id: in_memoriam
   name:
     en: "In memoriam"
