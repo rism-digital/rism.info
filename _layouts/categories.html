@@ -7,10 +7,14 @@ sidepanel: "sidepanels/post"
 {% assign labels = site.data.categories %}
 {% assign label = labels | where: "id", "all" | first %}
 {% if page.pagination.category %}
-  {% assign label = labels | where: "id", page.pagination.category | first %}
+  {% assign category = labels | where: "id", page.pagination.category | first %}
 {% endif %}
 
+{% if category %}
+<h1>{{ label.name[site.active_lang] }} – {{ category.name[site.active_lang] }}</h1>
+{% else %}
 <h1>{{ label.name[site.active_lang] }}</h1>
+{% endif %}
 
 {% include paginator.html %}
 
