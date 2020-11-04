@@ -58,3 +58,8 @@
     en: "In memoriam"
     de: "In memoriam"
     fr: "In memoriam"
+- id: musical_anniversaries
+  name:
+    en: "Musical anniversaries"
+    de: "Jubiläen"
+    fr: "Anniversaires"
