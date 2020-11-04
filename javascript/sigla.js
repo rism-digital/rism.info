@@ -2,7 +2,7 @@
 * RISM sigla catalog plugin.
 * This JS is building html nodes from a RISM-SRU request.to sigla.
 * @author: Stephan Hirsch
-* @version: 0.1 (september 2020)
+* @version: 0.2.1 (october 2020)
 *
 */
 
@@ -124,25 +124,90 @@ var createElements = function(collection){
   for (let i = 0; i < collection.length; i++) {
     record = collection[i];
     var div = 
-      `<div id="${record.id}" onclick="showDetails(${record.id})" class="resultItem">${record.position}. ${record._110a}${record._110c ? ", " + record._110c : ""}
-          ${record.sourceSize ? `<span class="sourceSize">★</span>` : ""}
+      `<div id="${record._001}" onclick="showDetails(${record._001})" class="resultItem">${record.position}. ${record._110a}${record._110c ? ", " + record._110c : ""}
+          ${record._667a ? `<span class="sourceSize">★</span>` : ""}
         <div class="itemSigla">${record._110g}</div>
       </div>`
     var details = `
-        <div id="details_${record.id}" class="itemDetails">
+        <div id="details_${record._001}" class="itemDetails">
           <b>Information:</b>
-          ${record._410a ? `<div><span class="fieldName">Other names: </span><span class="fieldValue">${record._410a}</span></div>` : ""}
+          ${tagToDiv(record, '_410a', 'Other names')}
           ${record._043c ? `<div><span class="fieldName">Country: </span><span class="fieldValue">${countryCodes[record._043c]}</span></div>` : ""}
-          ${record._371a ? `<div><span class="fieldName">Address: </span><span class="fieldValue">${record._371a}</span></div>` : ""}
-          ${record._580x ? `<div><span class="fieldName">Now in: </span><span class="fieldValue">${record._580x}</span></div>` : ""}
+          ${tagToDiv(record, '_371a', 'Adress')}
+          ${tagToDiv(record, '_034f', 'Map')}
+          ${tagToDiv(record, '_368a', 'Type')}
+          ${tagToDiv(record, '_580x', 'Now in')}
+          ${tagToDiv(record, '_680a', 'Comment')}
+          ${tagToDiv(record, '_670a', 'References')}
+          ${tagToDiv(record, '_678a', 'History of institution')}
+          ${tagToDiv(record, '_700a', 'Person')}
+          ${tagToDiv(record, '_710a', 'Related institution')}
+          ${tagToDiv(record, '_024a', 'Authority Reference')}
           ${record._371u ? `<div><span class="fieldName">URL: </span><span class="fieldValue"><a href="${record._371u}" target="_blank">${record._371u}</a></span></div>` : ""}
-          ${record.sourceSize ? `<a class="sourceButton" target="_blank" title="See musical sources in RISM Online Catalogue" href="https://opac.rism.info/metaopac/search?View=rism&amp;siglum=${record._110g}">Sources</a>` : ""}
+          ${record._667a ? `<a class="sourceButton" target="_blank" title="See musical sources in RISM Online Catalogue" href="https://opac.rism.info/metaopac/search?View=rism&amp;siglum=${record._110g}">Sources</a>` : ""}
       </div>`
     var element = new DOMParser().parseFromString(div, 'text/html');
     var details_element = new DOMParser().parseFromString(details, 'text/html');
     parent.append(element.body.firstElementChild);
     parent.append(details_element.body.firstElementChild);
    }
+}
+
+// Helper function to build div nodes from record 
+var tagToDiv = function(record, tag, name){
+  if (record.hasOwnProperty(tag)) {
+    if (tag === '_024a'){
+      var div = `<div><span class="fieldName">${name}: </span>`;
+      var res = [];
+      for (let i = 0; i < record._024a.length; i++) {
+        if (record._0242[i]==='DNB'){
+          res.push(`<span class="fieldValue">${record._0242[i]}: <a href="http://d-nb.info/gnd/${record._024a[i]}" target="_blank"> ${record._024a[i]}</a> </span>`);
+        } else {
+          res.push(`<span class="fieldValue">${record._0242[i]}: ${record._024a[i]}</span>`);
+        }
+      }
+      return `${div}${res.join("; ")}</div>`;
+      
+    } else if (tag === '_034f') {
+        var div = `<div><span class="fieldName">${name}: </span>`;
+        var res = [];
+        for (let i = 0; i < record._034f.length; i++) {
+          res.push(`<span class="fieldValue"><a href="http://www.openstreetmap.org/?mlat=${record._034f[i]}&mlon=${record._034d[i]}longitude&zoom=18" target="_blank">Show in OpenStreetMap</a> </span>`);
+        }
+        return `${div}${res.join("; ")}</div>`;
+    } else if (tag === '_580x') {
+        var div = `<div><span class="fieldName">${name}: </span>`;
+        var res = [];
+        for (let i = 0; i < record._580x.length; i++) {
+          res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=ks${record._5800[i]}&View=rism/" target="_blank"> ${record._580x[i]}</a> </span>`);
+        }
+        return `${div}${res.join("; ")}</div>`;
+    } else if (tag === '_670a') {
+        var div = `<div><span class="fieldName">${name}: </span>`;
+        var res = [];
+        for (let i = 0; i < record._670a.length; i++) {
+          res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=lit${record._6700[i]}&View=rism/" target="_blank"> ${record._670a[i]}</a> </span>`);
+        }
+        return `${div}${res.join("; ")}</div>`;
+    } else if (tag === '_700a') {
+        var div = `<div><span class="fieldName">${name}: </span>`;
+        var res = [];
+        for (let i = 0; i < record._700a.length; i++) {
+          res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=pe${record._7000[i]}&View=rism/" target="_blank"> ${record._700a[i]}</a> </span>`);
+        }
+        return `${div}${res.join("; ")}</div>`;
+    } else if (tag === '_710a') {
+        var div = `<div><span class="fieldName">${name}: </span>`;
+        var res = [];
+        for (let i = 0; i < record._710a.length; i++) {
+          res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=ks${record._7100[i]}&View=rism/" target="_blank"> ${record._710a[i]}</a> </span>`);
+        }
+        return `${div}${res.join("; ")}</div>`;
+    } else {
+      return `<div><span class="fieldName">${name}: </span><span class="fieldValue">${record[tag].join(";")}</span></div>`
+    }
+  }
+  return "";
 }
 
 //Function to build a record object from marcxml-record
@@ -154,87 +219,22 @@ var buildRecord = function(xml) {
   let _410ary = [];
   for (let i = 0; i < fields.length; i++) {
     field = fields[i];
-    if (field.getAttribute("tag") == "001") {
-      record.id = field.innerHTML;
-    }
-
-    if (field.getAttribute("tag") == "043") {
-      subfields = field.children;
+    tag = field.getAttribute("tag");
+    subfields = field.children;
+    if (subfields.length > 0) {
       for (let i = 0; i < subfields.length; i++) {
         subfield = subfields[i];
-        if (subfield.getAttribute("code") == "c") {
-          if (countryCodes.hasOwnProperty(subfield.innerHTML)) {
-            record._043c = subfield.innerHTML;
-          }
+        code = subfield.getAttribute("code");
+        tag_with_code = `_${tag}${code}`;
+        if (record[tag_with_code]) {
+          record[tag_with_code].push(subfield.innerHTML);
+        } else {
+          record[tag_with_code] = [subfield.innerHTML];
         }
       }
+    } else {
+      record[`_${tag}`] = field.innerHTML;
     }
-
- 
-    if (field.getAttribute("tag") == "110") {
-      subfields = field.children;
-      for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        if (subfield.getAttribute("code") == "a") {
-          record._110a = subfield.innerHTML;
-        }
-        if (subfield.getAttribute("code") == "c") {
-          record._110c = subfield.innerHTML;
-        }
-        if (subfield.getAttribute("code") == "g") {
-          record._110g = subfield.innerHTML;
-        }
-      }
-    }
-
-    if (field.getAttribute("tag") == "371") {
-      subfields = field.children;
-      for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        if (subfield.getAttribute("code") == "a") {
-          record._371a = subfield.innerHTML;
-        }
-        if (subfield.getAttribute("code") == "u") {
-          record._371u = subfield.innerHTML;
-        }
-      }
-    }
-
-    if (field.getAttribute("tag") == "410") {
-      subfields = field.children;
-      for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        if (subfield.getAttribute("code") == "a") {
-          _410ary.push(subfield.innerHTML);
-        }
-      }
-    }
-    if (_410ary.length > 0) {
-    record._410a = _410ary.join("; ");
-    }
- 
-    if (field.getAttribute("tag") == "580") {
-      subfields = field.children;
-      for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        if (subfield.getAttribute("code") == "x") {
-          record._580x = subfield.innerHTML;
-        }
-      }
-    }
-
-
-    if (field.getAttribute("tag") == "667") {
-      subfields = field.children;
-      for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        if (subfield.getAttribute("code") == "a") {
-          record.sourceSize = parseInt(subfield.innerHTML.replace("Published sources: ", ""));
-        }
-      }
-    }
-
-
   }
   console.log(record);
   return record;
