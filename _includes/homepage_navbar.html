@@ -1,0 +1,10 @@
+{% comment %}shift one because we do not want to have tile for the homepage{% endcomment %}
+{% assign tiles = site.data.navigation | shift %}
+
+<div style="flex-direction: column; display: flex;">
+    {% for item in tiles %}
+    <div class="sidenavbar">
+        <a href="{{ item.link }}" class="navbar-item is-expanded" {% if item.blank %}target="_blank"{% endif %}>{{ item.name[site.active_lang] }}</a>
+    </div>
+    {% endfor %}
+</div>

@@ -17,7 +17,7 @@ RISM has a long tradition of working with libraries. We would like to strengthen
 
 Also look at past [IAML congresses](/publications/iaml-congresses.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
 
-**Live demonstrations**: A member of the RISM Zentralredaktion (Central Editorial Office) can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info "Opens window for sending email") to schedule a demonstration. Possible topics include:
+**Live demonstrations**: A member of the RISM Editorial Center can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info "Opens window for sending email") to schedule a demonstration. Possible topics include:
 
 * An overview of the RISM project
 * Tutorial of the RISM [online catalog](https://opac.rism.info/){:target="_blank"} (manuscripts and printed music)

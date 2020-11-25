@@ -16,6 +16,22 @@ $navbar-item-active-color: $rism-editorial-center-white;
 //$navbar-item-active-background-color: darken($rism-editorial-center-primary, 5%);
 //$navbar-item-active-color: $rism-editorial-center-white;
 
+$notification-radius: 3px;
+$notification-padding-ltr: 0.75rem;
+
+.sidenavbar {
+    @extend .navbar;
+    display: flex;
+    border-bottom: none !important;
+    border-radius: 3px;
+    margin-bottom: 8px;
+
+    .navbar-item {
+        display: flex;
+        align-items: center;
+    }
+}
+
 .card { 
     a {
     color: inherit;
