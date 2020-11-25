@@ -8,29 +8,29 @@
     de: "Unternehmen"
     fr: "Organisation"
   link: /organization.html
-  image: organization.png
 - name:
-    en: "International"
-    de: "International"
-    fr: "International"
+    en: "Editorial Center"
+    de: "Zentral Redaktion"
+    fr: "Editorial Center"
+  link: /editorial-center.html
+- name:
+    en: "Working Groups"
+    de: "Arbeitsgruppen"
+    fr: "Groupes de travail"
   link: /international.html
-  image: international.png
 - name:
-    en: "Publications"
-    de: "Publikationen"
-    fr: "Publications"
-  link: /publications.html
-  image: publications.png
+    en: "Digital Center"
+    de: "Digital Center"
+    fr: "Digital Center"
+  link: https://stage.rism.digital
+  blank: true
 - name:
     en: "Community"
     de: "Community"
     fr: "Communauté"
   link: /community.html
-  image: community.png
 - name:
-    en: "RISM Digital Center"
-    de: "RISM Digital Center"
-    fr: "RISM Digital Center"
-  link: https://stage.rism.digital
-  blank: true
-  image: rism-digital.png
+    en: "Publications"
+    de: "Publikationen"
+    fr: "Publications"
+  link: /publications.html

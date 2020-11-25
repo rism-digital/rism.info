@@ -4,11 +4,6 @@
     fr: "Organisation"
   items:
     - name:
-        en: "Central Editorial Office"
-        de: "Zentralredaktion"
-        fr: "Centrale Editoriale"
-      link: /organization/editorial-office.html
-    - name:
         en: "Association"
         de: "Verein"
         fr: "Association"

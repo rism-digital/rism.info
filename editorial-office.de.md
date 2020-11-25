@@ -1,8 +1,8 @@
 ---
 title: "Zentralredaktion"
-layout: organization
+layout: editorial-center
 lang: de
-permalink: /organization/editorial-office.html
+permalink: /editorial-center.html
 ---
 
 # RISM Zentralredaktion
@@ -16,7 +16,7 @@ Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und 
 
 ## MitarbeiterInnen der Zentralredaktion
 
-Leitung: [Klaus Keil](mailto:klaus.keil@rism.info){:target="_blank"} (bis 31. August 2020); Balázs Mikusi (ab 1. September 2020)
+Leitung: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Stellvertr. Leitung: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
 
