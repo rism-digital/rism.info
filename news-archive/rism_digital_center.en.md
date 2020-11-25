@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: categories-rism-info
 lang: en
 permalink: /news-archive/rism_digital_center
 pagination: 
