@@ -1,0 +1,26 @@
+- label: 
+    en: "Community"
+    de: "Community"
+    fr: "Communauté"
+  items:
+    - name:
+        en: Muscat
+        de: Muscat
+        fr: Muscat
+      link: "/community/muscat.html"
+      items:
+        - name:
+            en: Tutorials
+            de: Tutorials
+            fr: Tutoriels
+          link: "/community/muscat/tutorials.html"
+        - name:
+            en: Workshops
+            de: Schulungen
+            fr: Ateliers
+          link: "/community/muscat/workshops.html"
+    - name:
+        en: RISM Sigla Directory
+        de: RISM Bibliothekssigel
+        fr: Sigle de Bibliothèques RISM
+      link: "/community/sigla.html"
