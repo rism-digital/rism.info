@@ -22,18 +22,18 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Configure staging build
-          run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
-          if: endsWith(github.ref, '/staging')
+        run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
+        if: endsWith(github.ref, '/staging')
 
-        - name: Install packages
-          working-directory: ${{ github.workspace }}
-          run: |
+      - name: Install packages
+        working-directory: ${{ github.workspace }}
+        run: |
             sudo echo "${{ secrets.VPN_CONFIGURATION }}" > wg0.conf
             sudo apt install openresolv wireguard
 
-        - name: Set up Wireguard VPN
-          working-directory: ${{ github.workspace }}
-          run: |
+      - name: Set up Wireguard VPN
+        working-directory: ${{ github.workspace }}
+        run: |
             sudo wg-quick up ./wg0.conf
       
       - uses: actions/setup-ruby@v1
@@ -52,14 +52,14 @@ jobs:
       - uses:  lemonarc/jekyll-action@1.0.0
 
       - name: Set server to deployment if on staging branch
-          if: endsWith(github.ref, '/staging')
-          run: |
+        if: endsWith(github.ref, '/staging')
+        run: |
             echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
             echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
 
-        - name: Set server to production if on master branch
-          if: endsWith(github.ref, '/master')
-          run: |
+      - name: Set server to production if on master branch
+        if: endsWith(github.ref, '/master')
+        run: |
             echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
             echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
       
