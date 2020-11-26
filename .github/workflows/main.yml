@@ -1,9 +1,7 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Test jekyll integration
+name: Jekyll deployment
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch and the staging branch
+# events but only for the master branch
 on:
   push:
     branches: [ master, staging ]
@@ -28,18 +26,18 @@ jobs:
       - name: Install packages
         working-directory: ${{ github.workspace }}
         run: |
-            sudo echo "${{ secrets.VPN_CONFIGURATION }}" > wg0.conf
-            sudo apt install openresolv wireguard
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > wg0.conf
+          sudo apt install openresolv wireguard
 
       - name: Set up Wireguard VPN
         working-directory: ${{ github.workspace }}
         run: |
-            sudo wg-quick up ./wg0.conf
-      
+          sudo wg-quick up ./wg0.conf
+
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: '2.6'
-      
+
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2.1.0
         with:
@@ -47,22 +45,22 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      
-      # Tun the jekyll action
+
+      # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.0
 
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
         run: |
-            echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
-            echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
 
       - name: Set server to production if on master branch
         if: endsWith(github.ref, '/master')
         run: |
-            echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
-            echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
-      
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
+
       # Deploy to remote server
       - name: Deploy with rsync
         uses: burnett01/rsync-deployments@4.1
@@ -73,8 +71,8 @@ jobs:
           remote_host: ${{ env.DEPLOY_SERVER }}
           remote_user: ${{ secrets.DEPLOY_USER }}
           remote_key: ${{ secrets.DEPLOY_KEY }}
-      
+
       - name: Disconnect VPN
         working-directory: ${{ github.workspace }}
         run: |
-            sudo wg-quick down ./wg0.conf
+          sudo wg-quick down ./wg0.conf
