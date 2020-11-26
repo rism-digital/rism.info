@@ -5,7 +5,7 @@ date: 2016-05-17
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Blumen_8ef8eabd25.jpg"
+image: "/images/news-old-website/csm_Blumen_8ef8eabd25.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-survey-published.html
 email: contact@rism.info
 author: ''

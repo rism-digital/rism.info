@@ -5,7 +5,7 @@ date: 2016-11-28
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Ewha_campus_da35152378.jpg"
+image: "/images/news-old-website/csm_Ewha_campus_da35152378.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html
 email: ''
 author: ''
@@ -33,14 +33,14 @@ In addition to projects, we heard about database design and theory from:
 
 For RISM, Klaus Keil gave an overview of the structure of the RISM database and focused on linking out to digital resources and collaboration with other international projects. Jennifer Ward talked about the format of the RISM data and ways these are reused in digital music archives and other projects. Chun-Zen Huang (National Taiwan Normal University) spoke as a representative of our newest RISM working group, [RISM Chinese Language Region](/workgroups/chinese-language-region/home.html), and emphasized the need for digital initiatives to meet international standards for description and preservation. He told us how many projects in the region have been quick to digitize without paying attention to preserving the physical item. Challenges include training professionals and the lack of people with music backgrounds involved in the digitization process. RISM is therefore an important partner for his working group and provides well-established guidelines and a clear structure for describing and preserving important cultural heritage items.
 
-![Conference in Seoul](http://rism.info/fileadmin/content/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
+![Conference in Seoul](http://rism.info/resources-old-website/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
 _Photo courtesy of JeongYoun Chang_
 
 
 
 
 
-![Muscat workshop in Seoul](http://rism.info/fileadmin/content/news/Workshop_webinar_960_557.jpg)
+![Muscat workshop in Seoul](http://rism.info/resources-old-website/news/Workshop_webinar_960_557.jpg)
 _Muscat workshop_
 
 

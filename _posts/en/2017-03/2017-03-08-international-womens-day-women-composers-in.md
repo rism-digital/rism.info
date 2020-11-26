@@ -5,7 +5,7 @@ date: 2017-03-08
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_International_Womens_Day_8bca1b1bc8.png"
+image: "/images/news-old-website/csm_International_Womens_Day_8bca1b1bc8.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-womens-day-women-composers-in-rism.html
 email: alexander.marxen@rism.info
 author: ''

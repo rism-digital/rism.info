@@ -5,7 +5,7 @@ date: 2015-08-27
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Corsi-stravaganza_8e01e290b2.jpg"
+image: "/images/news-old-website/csm_Corsi-stravaganza_8e01e290b2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/giuseppe-corsi-new-catalog-of-works-cited-in-rism.html
 email: martina.falletta@rism.info
 author: ''

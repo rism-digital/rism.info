@@ -5,7 +5,7 @@ date: 2018-07-19
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Neumeyer_Katalog_Sbg_Dommusikarchiv_bild_a413b1b122.jpg"
+image: "/images/news-old-website/csm_Neumeyer_Katalog_Sbg_Dommusikarchiv_bild_a413b1b122.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-sources-in-the-salzburg-cathedral-archive-a-sd.html
 email: Eva.Neumayr@archiv.kirchen.net
 author: MMag. Dr. Eva Neumayr

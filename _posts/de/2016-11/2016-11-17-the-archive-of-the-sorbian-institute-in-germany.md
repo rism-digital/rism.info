@@ -5,7 +5,7 @@ date: 2016-11-17
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg"
+image: "/images/news-old-website/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-archive-of-the-sorbian-institute-in-germany.html
 email: bresan@serbski-institut.de
 author: Annett Bresan
@@ -22,7 +22,7 @@ Das [Sorbische Kulturarchiv](http://www.serbski-institut.de/de/Archiv/){:target=
 
 
 
-![Representatives of Sorbian choirs, 1929](http://rism.info/fileadmin/content/news/SORBISCHES_Chor1929_Nacoln._ch_-row_.jpg)
+![Representatives of Sorbian choirs, 1929](http://rism.info/resources-old-website/news/SORBISCHES_Chor1929_Nacoln._ch_-row_.jpg)
 
 _Vertreter sorbischer Chöre 1929 am Denkmal für Kocor vor dessen Geburtshaus in Berge (Großpostwitz)_
 
@@ -34,7 +34,7 @@ Kocor, 1822 als Sohn eines Häuslers in dem kleinen Dorf Berge bei Großpostwitz
 
 
 
-![Rjana Łužica](http://rism.info/fileadmin/content/news/SORBISCHES_ZM_XVIII_4A_Kocor_022-1.jpg)
+![Rjana Łužica](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_4A_Kocor_022-1.jpg)
 
 _"Rjana Łužica" („Schöne Lausitz“) Die heutige sorbische Hymne von Kocor auf einen Text von Handrij Zejler. (SKA, ZM XVIII 4 A)_
 
@@ -50,12 +50,12 @@ Ansprechpartnerin im Sorbischen Kulturarchiv zu Fragen der Benutzung ist Dr. Ann
 
 
 
-![3 Sonatinen für Geige und Klavier](http://rism.info/fileadmin/content/news/SORBISCHES_ZM_XVIII_10J_Kocor_003.jpg)
+![3 Sonatinen für Geige und Klavier](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_10J_Kocor_003.jpg)
 _Aus: 3 Sonatinen für Geige und Klavier (SKA, ZM XVIII 10 J)_
 
 
 
-![Podlěćo](http://rism.info/fileadmin/content/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
+![Podlěćo](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
 _Aus: "Podlěćo" ("Der Frühsommer") (SKA, ZM XVIII 6 E)_
 
 

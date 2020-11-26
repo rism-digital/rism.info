@@ -5,7 +5,7 @@ date: 2017-11-30
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
+image: "/images/news-old-website/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
 email: ph@kb.dk
 author: Peter Hauge

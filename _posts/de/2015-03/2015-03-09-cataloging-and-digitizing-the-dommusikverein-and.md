@@ -5,7 +5,7 @@ date: 2015-03-09
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_A-Sm_Brinzing_f092b1cec9.jpg"
+image: "/images/news-old-website/csm_A-Sm_Brinzing_f092b1cec9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cataloging-and-digitizing-the-dom-musikverein-and-mozarteum-collection-in-salzburg-to-1881.html
 email: brinzing@mozarteum.at
 author: Dr. Armin Brinzing

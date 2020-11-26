@@ -5,7 +5,7 @@ date: 2016-12-08
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Broschuere_Spanisch_bc0742d113.jpg"
+image: "/images/news-old-website/csm_Broschuere_Spanisch_bc0742d113.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-brochure-in-spanish-now-available.html
 email: contact@rism.info
 author: ''

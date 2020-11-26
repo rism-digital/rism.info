@@ -7,7 +7,7 @@ permalink: /publications/conferences/conference-2012.html
 
 # RISM-Konferenz 2012
 
- ![](/fileadmin/_processed_/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg "Logo 02 zur Konferenz links")
+ ![](/images/news-old-website/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg "Logo 02 zur Konferenz links")
 
 ## **Musikdokumentation in Bibliothek, Wissenschaft und Praxis**
 

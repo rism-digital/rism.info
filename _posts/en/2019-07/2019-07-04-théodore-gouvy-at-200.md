@@ -5,7 +5,7 @@ date: 2019-07-04
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Theodore_Gouvy_33e4178f00.jpg"
+image: "/images/news-old-website/csm_Theodore_Gouvy_33e4178f00.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/theodore-gouvy-at-200.html
 email: ''
 author: ''

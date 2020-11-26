@@ -5,7 +5,7 @@ date: 2016-12-15
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
+image: "/images/news-old-website/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
 email: ''
 author: ''
@@ -19,7 +19,7 @@ Latrobe war nicht nur ein begabter Verwalter, sondern auch ein vollendeter Musik
 
 Die [211 Einträge im RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=100611354){:target="_blank"} geben einen guten Überblick über Latrobes kompositorisches Schaffen. Die handschriftlich überlieferten Werke werden überwiegend im Unitätsarchiv der Evangelischen Brüder-Unität Herrnhut (D-HER) aufbewahrt. Von den 22 verzeichneten Musikdrucken hat er elf im Selbstverlag herausgegeben.
 
-![Music by Latrobe](http://rism.info/fileadmin/content/news/Latrobe_Christian_Ignatius-1.JPG)
+![Music by Latrobe](http://rism.info/resources-old-website/news/Latrobe_Christian_Ignatius-1.JPG)
 _Selection of Sacred Music_[RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
 
 Dieses Video ist zeigt die Südafrikareise mit Latrobes eigenen Zeichnungen aus dem Reisebericht:

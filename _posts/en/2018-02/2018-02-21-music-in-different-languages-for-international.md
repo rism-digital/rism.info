@@ -5,7 +5,7 @@ date: 2018-02-21
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Muttersprache_6db58dc9cd.png"
+image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
@@ -16,7 +16,7 @@ Today, February 21, is officially [International Mother Language Day](http://www
 
 In the RISM online catalog, go to the [**Advanced Search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select **Language**. Enter the name of the language in English (though some have to be searched instead by their three-letter [ISO code](https://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"}).
 
-![Mozart title page](http://rism.info/fileadmin/content/news/Muttersprache_OPAC.png)
+![Mozart title page](http://rism.info/resources-old-website/news/Muttersprache_OPAC.png)
 
 
 

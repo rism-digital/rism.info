@@ -5,7 +5,7 @@ date: 2018-12-06
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Cello_ecb14cd8f3.jpg"
+image: "/images/news-old-website/csm_Cello_ecb14cd8f3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/instrument-of-the-year-2018-the-cello.html
 email: ''
 author: ''

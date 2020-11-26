@@ -5,7 +5,7 @@ date: 2017-05-10
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Fifth_Field_card_01_d2af8ba1fa.png"
+image: "/images/news-old-website/csm_Fifth_Field_card_01_d2af8ba1fa.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-fifth-field.html
 email: ''
 author: ''
@@ -20,15 +20,15 @@ If you start an advanced search, you have three fields plus the field that is co
 
 Let's say you search for Haydn quartets in D...
 
-![Advanced search](http://rism.info/fileadmin/content/news/Fuenftes_Feld1.jpg)
+![Advanced search](http://rism.info/resources-old-website/news/Fuenftes_Feld1.jpg)
 
 ...but you don't find what you need. Go back to the advanced search and a fifth field has appeared! All of your previous searches from the session are saved here.
 
-![Fifth field](http://rism.info/fileadmin/content/news/Fuenftes_Feld2_1010_x_395.jpg)
+![Fifth field](http://rism.info/resources-old-website/news/Fuenftes_Feld2_1010_x_395.jpg)
 
 You can select your Haydn quartets in D, but now add a fourth element, such as sources in Austria.
 
-![Fifth field with more search terms](http://rism.info/fileadmin/content/news/Fuenftes_Feld3_1007_x_363.jpg)
+![Fifth field with more search terms](http://rism.info/resources-old-website/news/Fuenftes_Feld3_1007_x_363.jpg)
 
 
 And after you return again to the advanced search, you can continue to take advantage of your previous search terms. It's like adding extra search fields to your search.

@@ -5,7 +5,7 @@ date: 2015-09-21
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Stuttgart_7a236e2a1f.jpg"
+image: "/images/news-old-website/csm_Stuttgart_7a236e2a1f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-aibm-conference-in-stuttgart.html
 email: contact@rism.info
 author: Anne-Marie Wurster

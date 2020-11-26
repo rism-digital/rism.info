@@ -5,7 +5,7 @@ date: 2016-10-31
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Moralt_-_Kalkant_25a5279a8f.jpg"
+image: "/images/news-old-website/csm_Moralt_-_Kalkant_25a5279a8f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/moralt-a-muscial-family.html
 email: ''
 author: ''

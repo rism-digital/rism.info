@@ -5,7 +5,7 @@ date: 2018-04-19
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
+image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''

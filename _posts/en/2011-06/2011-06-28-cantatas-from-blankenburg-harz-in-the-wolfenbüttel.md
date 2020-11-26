@@ -5,7 +5,7 @@ date: 2011-06-28
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_BLAbk1_004_01_72f1f378d2.jpg"
+image: "/images/news-old-website/csm_BLAbk1_004_01_72f1f378d2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cantatas-from-blankenburg-harz-in-the-wolfenbuettel-regional-church-archives.html
 email: ''
 author: ''

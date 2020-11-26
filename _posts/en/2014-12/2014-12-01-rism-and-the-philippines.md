@@ -5,7 +5,7 @@ date: 2014-12-01
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_20141017_093055_4f66f31cca.jpg"
+image: "/images/news-old-website/csm_20141017_093055_4f66f31cca.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-the-philippines.html
 email: ''
 author: ''

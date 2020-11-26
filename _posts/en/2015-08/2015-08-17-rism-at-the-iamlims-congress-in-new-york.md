@@ -5,7 +5,7 @@ date: 2015-08-17
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_IAML_Bericht_6fa7f9c416.jpg"
+image: "/images/news-old-website/csm_IAML_Bericht_6fa7f9c416.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iamlims-congress-in-new-york.html
 email: ''
 author: ''

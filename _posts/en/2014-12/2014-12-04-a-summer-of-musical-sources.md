@@ -5,7 +5,7 @@ date: 2014-12-04
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Logo_02_c93d056fa5.jpg"
+image: "/images/news-old-website/csm_Logo_02_c93d056fa5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-summer-of-musical-sources.html
 email: contact@rism.info
 author: ''

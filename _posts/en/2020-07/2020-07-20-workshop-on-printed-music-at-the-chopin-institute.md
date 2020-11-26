@@ -5,7 +5,7 @@ date: 2020-07-20
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Workshop_Drucke_Warschau_6f00aaf187.jpg"
+image: "/images/news-old-website/csm_Workshop_Drucke_Warschau_6f00aaf187.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/workshop-on-printed-music-at-the-chopin-institute-warsaw.html
 email: mchojecka@nifc.pl
 author: Marcelina Chojecka

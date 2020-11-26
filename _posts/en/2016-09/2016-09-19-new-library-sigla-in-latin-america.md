@@ -5,7 +5,7 @@ date: 2016-09-19
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Sigel-Latin_America_f0d963cbcd.png"
+image: "/images/news-old-website/csm_Sigel-Latin_America_f0d963cbcd.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-library-sigla-in-latin-america.html
 email: ''
 author: ''

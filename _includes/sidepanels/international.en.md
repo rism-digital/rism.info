@@ -13,5 +13,5 @@ Telephone: +49 69 706231
 Fax: +49 69 706026  
 Email: [contact@rism.info](contact@rism.info)
 
-**Director of the Zentralredaktion:**  
-Klaus Keil 
+**Director of the Editorial Center:**  
+Balázs Mikusi 

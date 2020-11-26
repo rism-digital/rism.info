@@ -5,7 +5,7 @@ date: 2018-07-30
 lang: en
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Carlos_Gomes_62dbc726c8.jpg"
+image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''

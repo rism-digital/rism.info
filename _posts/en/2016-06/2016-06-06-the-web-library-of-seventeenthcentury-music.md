@@ -5,7 +5,7 @@ date: 2016-06-06
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/pics/Welb_Library_WLSCMicon2.jpg"
+image: "/resources-old-website/pics/Welb_Library_WLSCMicon2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-web-library-of-seventeenth-century-music.html
 email: ''
 author: ''

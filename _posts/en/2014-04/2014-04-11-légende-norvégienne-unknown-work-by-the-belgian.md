@@ -5,7 +5,7 @@ date: 2014-04-11
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Partitur_bf80300c0a.jpg"
+image: "/images/news-old-website/csm_Partitur_bf80300c0a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/legende-norvegienne-unknown-work-by-the-belgian-violinist-and-composer-eugene-ysaye-at-the-roya.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz

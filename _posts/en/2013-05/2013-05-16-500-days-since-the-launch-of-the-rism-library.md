@@ -5,7 +5,7 @@ date: 2013-05-16
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bibliothekssigel_Polen_2_18b35d183f.jpg"
+image: "/images/news-old-website/csm_Bibliothekssigel_Polen_2_18b35d183f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-days-since-the-launch-of-the-rism-library-sigla-database.html
 email: contact@rism.info
 author: ''

@@ -5,7 +5,7 @@ date: 2018-07-02
 lang: fr
 post: true
 category: events
-image: "/uploads/_processed_/csm_IAML_Leipzig_logo_2018_3205319617.png"
+image: "/images/news-old-website/csm_IAML_Leipzig_logo_2018_3205319617.png"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-leipzig.html
 email: contact@rism.info
 author: ''

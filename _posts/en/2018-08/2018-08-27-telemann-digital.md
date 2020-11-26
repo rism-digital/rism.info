@@ -5,7 +5,7 @@ date: 2018-08-27
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
+image: "/images/news-old-website/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/telemann-digital.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman

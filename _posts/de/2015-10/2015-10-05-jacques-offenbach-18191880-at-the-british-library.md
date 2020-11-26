@@ -5,7 +5,7 @@ date: 2015-10-05
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Offenbach_c870cb859d.jpg"
+image: "/images/news-old-website/csm_Offenbach_c870cb859d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jacques-offenbach-1819-1860-at-the-british-library.html
 email: ''
 author: Susan Halstead
@@ -32,14 +32,14 @@ Vom Erfolg inspiriert, griff Offenbach ein weiteres klassisches Thema auf: Die G
 
 
 
-![La belle Hélène](http://rism.info/fileadmin/content/news/Offenbach_Zweig.jpg)
+![La belle Hélène](http://rism.info/resources-old-website/news/Offenbach_Zweig.jpg)
 _Der Chor begleitet Orests Auftritt, aus Jacques Offenbach,La belle Hélène, autographe Partitur, 1864. Zweig MS 72_
 
 Am aufsehenerregendsten ist wohl Orests Auftritt als frühreifer Lebemann, von zwei leichten Mädchen Parthénis und Léoena flankiert, und zum Refrain „Tsing-la-la! Tsing-la-la! Oyé Kephalé, Kephalé oh-la-la!“ tanzend, mit der Absicht seinem Streben nach Vergnügen ungezügelt nachzugeben. Die Rolle wurde von der Sopranistin Léa Silly gesungen, die Offenbach große Kopfschmerzen bereitete. In einer an Mozarts _Der Schauspieldirektor_, den Offenbach einige Jahre zuvor inszeniert hatte, erinnernden Situation verärgerte sie Hortense Schneider, einem schon lange der Truppe zugehörigen Star. Bei deren Darstellung der Helena stahl Silly ihr die Show, äffte sie nach und tanzte hinter ihrem Rücken Cancan, während Schneider ihre Hauptarie sang. Schneider hat daraufhin wutentbrannt gedroht, nicht nur die Produktion sondern auch Paris zu verlassen.
 
 
 
-![Schneider](http://rism.info/fileadmin/content/news/Offenbach_Schneider.jpg)
+![Schneider](http://rism.info/resources-old-website/news/Offenbach_Schneider.jpg)
 _Hortense Schneider als Helen inLa belle Hélène, aus Louis Schneider,Offenbach(Paris, 1923) 7896.t.20._
 
 

@@ -5,7 +5,7 @@ date: 2015-09-17
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Poesie_Gallica_7ab9d3eb38.jpg"
+image: "/images/news-old-website/csm_Poesie_Gallica_7ab9d3eb38.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/37-livres-dairs-de-differents-auteurs-digitized-and-free-online-from-gallica.html
 email: ''
 author: ''

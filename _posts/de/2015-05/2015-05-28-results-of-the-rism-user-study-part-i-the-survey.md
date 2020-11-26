@@ -5,7 +5,7 @@ date: 2015-05-28
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
 author: ''
@@ -18,7 +18,7 @@ Zur Zeit werten wir die erste von RISM durchgeführte Nutzerstudie zum Online-Ka
 
 Einen ersten Eindruck möchten wir mit der Veröffentlichung einiger Ergebnisse bereits heute präsentieren:
 
-![Frage 1](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_1.jpg)
+![Frage 1](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_1.jpg)
 
 **1. Seit wieviel Jahren benutzen Sie RISM?**
 
@@ -26,7 +26,7 @@ Wir erhielten 538 Antworten auf diese Frage. 13 Personen machten keine Angabe.
 
 Etwa die Hälfte der Befragten (48%, 258 Personen) antworteten, dass Sie RISM (entweder die Bücher, CD-ROM, EBSCO Datenbank oder unseren Online-Katalog) seit über 10 Jahren nutzen. Die Mehrheit der Antwortenden (66%, 356 Personen) nutzen RISM seit mehr als 6 Jahren. Somit zählen die meisten der Befragten zu den erfahrenen RISM-Nutzern, aber es gibt auch eine bedeutende Anzahl von Personen, die relativ neu dazugekommen sind.
 
-![Frage 3](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
+![Frage 3](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
 
 \<media 938\>_Click for a larger image._\</media\>
 
@@ -40,7 +40,7 @@ Die Mehrheit der Befragten (68%, 367 Personen) besuchen den RISM Online-Katalog 
 
 Von den 258 Personen, die RISM seit mehr als 10 Jahren nutzen, nutzen es 125 (48%) mehrmals im Monat.
 
-![Frage 43](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
+![Frage 43](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
 
 \<media 934\>_Click for a larger image._\</media\>
 
@@ -63,7 +63,7 @@ Wenn wir die Auswertung der Antworten auf diese Frage fortsetzen, werden wir bes
 
 
 
-![Frage 55](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
+![Frage 55](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
 
 **55. In welchem Land wohnen Sie?
 56. Falls Ihr Land nicht genannt ist, geben Sie es bitte hier an.**
@@ -76,7 +76,7 @@ Obwohl die Umfrage in Englisch und Deutsch zur Verfügung stand, antworteten 123
 
 
 
-![Frage 59](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_59.jpg)
+![Frage 59](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_59.jpg)
 
 **59. In welche Gruppe(n) würden Sie sich einordnen?**
 

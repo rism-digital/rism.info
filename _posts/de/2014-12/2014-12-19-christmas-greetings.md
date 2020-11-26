@@ -5,7 +5,7 @@ date: 2014-12-19
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Christmas_e3100b2502.jpg"
+image: "/images/news-old-website/csm_Christmas_e3100b2502.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christmas-greetings.html
 email: ''
 author: ''

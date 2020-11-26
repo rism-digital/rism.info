@@ -5,7 +5,7 @@ date: 2018-05-07
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Kozeluh_200_9b85facc4a.jpg"
+image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''

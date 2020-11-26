@@ -5,7 +5,7 @@ date: 2019-11-04
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Neue_Komponistinnen_2019_347354dd2b.png"
+image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-women-composers-in-2019.html
 email: ''
 author: ''

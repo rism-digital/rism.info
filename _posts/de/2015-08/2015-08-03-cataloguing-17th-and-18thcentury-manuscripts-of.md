@@ -5,7 +5,7 @@ date: 2015-08-03
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Pforzheimer_8c3bab02dc.jpg"
+image: "/images/news-old-website/csm_Pforzheimer_8c3bab02dc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cataloguing-17th-and-18th-century-manuscripts-of-french-music-in-the-ward-collection-us-caward.html
 email: linklat@fas.harvard.edu
 author: Natasha Roule

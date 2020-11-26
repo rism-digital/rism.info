@@ -5,7 +5,7 @@ date: 2011-12-22
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Weihnachtskarte_c797b14bea.jpg"
+image: "/images/news-old-website/csm_Weihnachtskarte_c797b14bea.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/merry-christmas.html
 email: ''
 author: ''

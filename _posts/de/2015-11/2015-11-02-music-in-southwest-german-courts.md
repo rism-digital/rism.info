@@ -5,7 +5,7 @@ date: 2015-11-02
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_Schloss_Ehrenhof_44e230d082.jpg"
+image: "/images/news-old-website/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_Schloss_Ehrenhof_44e230d082.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-southwest-german-courts.html
 email: ''
 author: ''

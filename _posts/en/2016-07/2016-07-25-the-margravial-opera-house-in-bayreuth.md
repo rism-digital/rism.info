@@ -5,7 +5,7 @@ date: 2016-07-25
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Markgraefliches_Opernhaus_Bayreuth_2013_47e0aaa7d9.jpg"
+image: "/images/news-old-website/csm_Markgraefliches_Opernhaus_Bayreuth_2013_47e0aaa7d9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth.html
 email: ''
 author: ''

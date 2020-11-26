@@ -5,7 +5,7 @@ date: 2012-10-31
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Giovanni_Palestrina_and_Pope_Julius_III_b60d437135.jpg"
+image: "/images/news-old-website/csm_Giovanni_Palestrina_and_Pope_Julius_III_b60d437135.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-massdatabase-mdb-is-online.html
 email: plaksin@uni-mainz.de
 author: Anna Plaksin

@@ -5,7 +5,7 @@ date: 2015-07-02
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/no-siglum-no-problem.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2012-11-16
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_vieuxtemps_a603b964d3.jpg"
+image: "/images/news-old-website/csm_vieuxtemps_a603b964d3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/henry-vieuxtemps-at-the-royal-library-of-belgium.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz

@@ -5,7 +5,7 @@ date: 2019-04-18
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg"
+image: "/images/news-old-website/csm_Lim__korea_Chang_family_8875715a5b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
 email: jchangsfz@gmail.com
 author: Dr. JeongYoun Chang

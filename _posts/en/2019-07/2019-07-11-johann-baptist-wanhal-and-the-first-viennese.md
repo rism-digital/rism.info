@@ -5,7 +5,7 @@ date: 2019-07-11
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Wanhal_1_fb4acaf107.png"
+image: "/images/news-old-website/csm_Wanhal_1_fb4acaf107.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-baptist-wanhal-and-the-first-viennese-school.html
 email: ''
 author: Paul Sommerfeld

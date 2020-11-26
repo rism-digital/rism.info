@@ -5,7 +5,7 @@ date: 2015-10-28
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
+image: "/images/news-old-website/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html
 email: hofmusikkonferenz@slub-dresden.de
 author: Nina Eichholz

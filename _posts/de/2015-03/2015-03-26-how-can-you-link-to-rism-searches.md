@@ -5,7 +5,7 @@ date: 2015-03-26
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/how-can-you-link-to-rism-searches.html
 email: ''
 author: ''

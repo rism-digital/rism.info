@@ -5,7 +5,7 @@ date: 2016-09-01
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Wojnowska_Liegnitz_Bibliotheca_Rudolphina_thematic_catalogue_dff8d43d08.jpg"
+image: "/images/news-old-website/csm_Wojnowska_Liegnitz_Bibliotheca_Rudolphina_thematic_catalogue_dff8d43d08.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/thematic-catalogue-of-17th-century-organ-tablatures-from-the-liegnitz-bibliotheca-rudolphina-by-el.html
 email: ''
 author: ''

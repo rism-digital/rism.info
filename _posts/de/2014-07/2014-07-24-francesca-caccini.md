@@ -5,7 +5,7 @@ date: 2014-07-24
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Caccini_d64e608671.jpg"
+image: "/images/news-old-website/csm_Caccini_d64e608671.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/francesca-caccini.html
 email: ''
 author: ''

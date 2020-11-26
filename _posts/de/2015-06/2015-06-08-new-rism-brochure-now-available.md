@@ -5,7 +5,7 @@ date: 2015-06-08
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_KurzportraitS1_01_67ccaf6ee6.jpg"
+image: "/images/news-old-website/csm_KurzportraitS1_01_67ccaf6ee6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-brochure-now-available.html
 email: contact@rism.info
 author: ''

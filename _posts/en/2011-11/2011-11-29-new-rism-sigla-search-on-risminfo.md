@@ -5,7 +5,7 @@ date: 2011-11-29
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_BibliotecaNacional_01_fdca822a68.jpg"
+image: "/images/news-old-website/csm_BibliotecaNacional_01_fdca822a68.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-sigla-search-on-risminfo.html
 email: contact@rism.info
 author: Klaus Keil

@@ -5,7 +5,7 @@ date: 2020-04-20
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
+image: "/images/news-old-website/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-tutorial-in-german.html
 email: ''
 author: ''

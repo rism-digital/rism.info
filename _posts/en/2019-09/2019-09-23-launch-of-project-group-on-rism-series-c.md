@@ -5,7 +5,7 @@ date: 2019-09-23
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Logo_08_5add72044a.jpg"
+image: "/images/news-old-website/csm_Logo_08_5add72044a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/launch-of-project-group-on-rism-series-c.html
 email: ''
 author: ''

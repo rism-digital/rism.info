@@ -5,7 +5,7 @@ date: 2011-02-14
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Cards_69f98ab616.jpg"
+image: "/images/news-old-website/csm_Cards_69f98ab616.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/no-chance-for-mozart-prince-archbishop-hieronymus-colloredo-and-the-musicians-of-his-court.html
 email: eva.neumayr@archiv.kirchen.net
 author: ''

@@ -5,7 +5,7 @@ date: 2019-02-18
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Treffen1_99940fe63d.jpg"
+image: "/images/news-old-website/csm_Treffen1_99940fe63d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/close-cooperation-between-rism-and-the-chopin-institute.html
 email: ''
 author: ''

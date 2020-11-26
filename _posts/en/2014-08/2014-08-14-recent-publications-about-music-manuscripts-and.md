@@ -5,7 +5,7 @@ date: 2014-08-14
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/recent-publications-about-music-manuscripts-and-music-institutions.html
 email: ''
 author: ''

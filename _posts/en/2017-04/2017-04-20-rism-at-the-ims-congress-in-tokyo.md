@@ -5,7 +5,7 @@ date: 2017-04-20
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_kirschblueten_32a2a59c12.jpg"
+image: "/images/news-old-website/csm_kirschblueten_32a2a59c12.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-ims-congress-in-tokyo.html
 email: ''
 author: ''
@@ -28,7 +28,7 @@ One highlight of the conference was seeing our RISM Japan colleagues. On one of 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1547960328578139%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-[Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"} ![Manuscript music by Kosaku](http://rism.info/fileadmin/content/news/IMS_Tokyo_2017_Kosaku.jpg)
+[Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"} ![Manuscript music by Kosaku](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_Kosaku.jpg)
 _Manuscript music by Yamada Kosaku on display at the Archive Center_
 
 Next I visited the [university library](http://www.lib.geidai.ac.jp/Eguide.html){:target="_blank"} of our host institution. The library supports the mission of the university and with around 490,000 volumes it is at the same time one of the foremost arts libraries in Japan. Within the music reference section I easily found an entire run of printed RISM books, including the very newest one from 2016!
@@ -50,7 +50,7 @@ Next I visited the [university library](http://www.lib.geidai.ac.jp/Eguide.html)
 
 The NDL collects, preserves, restores, and makes available all publications issued in Japan, including material published electronically. Of course this includes manga and the library's collection of these Japanese comics makes up a very colorful section of the stacks. The library started systematically collecting manga in the late 1960s.
 
-![Magna at the NDL](http://rism.info/fileadmin/content/news/IMS_Tokyo_2017_magna_960_x_720.jpg)
+![Magna at the NDL](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_magna_960_x_720.jpg)
 _The manga collection at the NDL_
 
 My tour guide was Yuko Kumakura. Throughout the excellent tour, she made extra efforts to show us music materials and use music examples when telling us about the NDL's collections. Ms. Kumakura took us through the public areas and into several reading rooms (including humanities and the listening center), followed by a trip to the stacks. When we visited the reading room for music, she took us to where the library's copies of the RISM publications were kept!
@@ -65,7 +65,7 @@ The library has some special collections related to music. A collection of 600 m
 
 The final library I visited on this trip was the [Tokyo Metropolitan Central Library](http://www.library.metro.tokyo.jp/english/tabid/2437/Default.aspx){:target="_blank"}. There were no formal tours available, but I was allowed to look around on my own after receiving a reader's card from the reception counter. This is a non-circulating public library that is one of the largest in Japan. The library acts as a research library for Tokyo residents and offers about 1,000 seats for people to study. The library's collection contains two million items with a special emphasis on information about cities around the world, census reports, and cultural assets. A few shelves containing books about music and music history are in the Humanities Room. A Special Collections department preserves over 243,000 items related to the early history of Tokyo. The Tokyo Metropolitan Central Library has a significant collection of materials in foreign languages (10% of the collection).
 
-![Manuscript music by Kosaku](http://rism.info/fileadmin/content/news/IMS_Tokyo_2017_central_library.jpg)
+![Manuscript music by Kosaku](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_central_library.jpg)
 
 _The music section of the Tokyo Metropolitan Central Library_
 

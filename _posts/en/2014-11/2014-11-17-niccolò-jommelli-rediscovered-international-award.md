@@ -5,7 +5,7 @@ date: 2014-11-17
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Portugal_Jommeli_3a337a63af.jpg"
+image: "/images/news-old-website/csm_Portugal_Jommeli_3a337a63af.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2015-10-15
 lang: en
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
+image: "/images/news-old-website/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/luigi-marchesi.html
 email: ''
 author: ''

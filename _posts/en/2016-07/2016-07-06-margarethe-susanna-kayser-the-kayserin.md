@@ -5,7 +5,7 @@ date: 2016-07-06
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
+image: "/images/news-old-website/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/margarethe-susanna-kayser-the-kayserin.html
 email: ''
 author: ''

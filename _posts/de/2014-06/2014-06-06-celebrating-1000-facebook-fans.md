@@ -5,7 +5,7 @@ date: 2014-06-06
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Luftballons_c7ad474b66.jpg"
+image: "/images/news-old-website/csm_Luftballons_c7ad474b66.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/celebrating-1000-facebook-fans.html
 email: ''
 author: ''

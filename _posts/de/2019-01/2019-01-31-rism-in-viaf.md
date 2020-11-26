@@ -5,7 +5,7 @@ date: 2019-01-31
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
+image: "/images/news-old-website/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-viaf.html
 email: ''
 author: ''

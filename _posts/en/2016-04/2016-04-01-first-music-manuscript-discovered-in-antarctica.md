@@ -5,7 +5,7 @@ date: 2016-04-01
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Pinguin-Entdeckung_280f0f5bbd.jpg"
+image: "/images/news-old-website/csm_Pinguin-Entdeckung_280f0f5bbd.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/first-music-manuscript-discovered-in-antarctica.html
 email: ''
 author: ''
@@ -22,7 +22,7 @@ The unusual manuscript was brought by members of the [British Antarctic Survey](
 
 
 
-![Not amused](http://rism.info/fileadmin/content/news/Pinguin-Entdeckung_2.JPG)
+![Not amused](http://rism.info/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
 
 _Penguin: Not amused by the visitor._
 

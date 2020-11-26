@@ -5,7 +5,7 @@ date: 2015-10-08
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
+image: "/images/news-old-website/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-discoveries-of-vivaldi-in-dresden.html
 email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
@@ -18,7 +18,7 @@ Vor zwei Jahren startete ich mit den Vorbereitungen zu einem Konzertprogramm mit
 
 Während den Vorbereitungen zu meinem “Anonymous Programm” galt der **Sonate in A-Dur für Violine und Continuo** ([RISM no. 212001952](https://opac.rism.info/search?id=212001952)) meine Aufmerksamkeit, wegen ihrer angeblichen Nähe zur Musik Vivaldis. Obwohl mir das Stück bekannt vorkam, wurde es bei RISM als anonyme Komposition geführt und nicht in den Vivaldi Werkverzeichnissen erwähnt. Schließlich habe ich den ersten Satz der anonymen Sonate als eine Version des zweiten Satzes von Vivaldis Violinkonzert RV 205 ([RISM no. 212000134](https://opac.rism.info/search?id=212000134)) identifiziert.
 
-![RV 205](http://rism.info/fileadmin/content/news/New_discoveries_of_Vivaldi_EXAMPLE_1_RV_205_and_RV_205-2.JPG)
+![RV 205](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_1_RV_205_and_RV_205-2.JPG)
 
 Nach dieser Entdeckung kehrte ich zu den Vorbereitungen meines Anonymus-Programm zurück. Ein weiteres Werk - eine **Triosonate für Violine, Violoncello und Basso continuo** ([RISM no. 212002034](https://opac.rism.info/search?id=212002034)) erregte meine Aufmerksamkeit. Ich spielte diese Sonate meinem ehemaligen Lehrer Enrico Gatti vor und er bemerkte sofort, dass die Gigue dieser Triosonate der Gigue aus Vivaldis Dresdener Sonate für Violine und Continuo RV 10 ([RISM no. 212001817](https://opac.rism.info/search?id=212001817)) sehr ähnlich ist.
 
@@ -30,13 +30,13 @@ Die durch RISM zur Verfügung gestellten Informationen und Werkzeuge waren eine 
 
 Das folgende Beispiel stammt aus RV 820 des RISM Online-Katalogs:
 
-![RV 820](http://rism.info/fileadmin/content/news/New_discoveries_of_Vivaldi_EXAMPLE_2_Rism_Rv_820_material.JPG)
+![RV 820](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_2_Rism_Rv_820_material.JPG)
 
 
 
 Die durch RISM gegebenen Informationen sind wichtig und leicht zugänglich. Dank des Wasserzeichens, der Datierung und anderer Informationen, können wir die Handschrift in einen Zusammenhang stellen. Diese Sonate wurde insbesondere von Johann Georg Pisendel vor seiner Ankunft in Dresden, vermutlich während seiner Studien bei Torelli in Ansbach (von 1697 bis 1712), geschrieben. Über die Suche im RISM Online-Katalog findet man noch weitere von Pisendel geschriebene und nach Dresden mitgebrachte Manuskripte mit demselben Wasserzeichen aus dem gleichen Zeitraum. Die Verbindungen zwischen Torelli (dem vermutlichen Lehrer Vivaldis), Pisendel und Vivaldi nehmen hier deutlichere Züge an:
 
-![Torelli](http://rism.info/fileadmin/content/news/New_discoveries_of_Vivaldi_EXAMPLE_3_Rism_Watermark.jpg)
+![Torelli](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_3_Rism_Watermark.jpg)
 
 
 

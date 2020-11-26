@@ -5,7 +5,7 @@ date: 2020-04-27
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_500_Jahre_Liber_selectarum_acab537a28.png"
+image: "/images/news-old-website/csm_500_Jahre_Liber_selectarum_acab537a28.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/500-years-of-the-liber-selectarum-cantionum.html
 email: ''
 author: ''

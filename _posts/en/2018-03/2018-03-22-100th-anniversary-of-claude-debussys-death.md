@@ -5,7 +5,7 @@ date: 2018-03-22
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
+image: "/images/news-old-website/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/100th-anniversary-of-claude-debussys-death.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2020-01-20
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
+image: "/images/news-old-website/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-katy-perry.html
 email: ''
 author: ''

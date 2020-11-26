@@ -5,7 +5,7 @@ date: 2017-03-02
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_zitieren_de56a1bcd3.jpg"
+image: "/images/news-old-website/csm_RISM_zitieren_de56a1bcd3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/how-to-cite-rism-records.html
 email: ''
 author: ''
@@ -61,7 +61,7 @@ Bei den neu in der Datenbank erfassten Notendrucken wird das Nummerierungssystem
 
 **Elektronische Publikationen:** Jeder Eintrag im Online-Katalog hat einen Permalink. Der Permalink kann zum zitieren in elektronischen Veröffentlichungen verwendet werden (wie in diesem Post zu sehen). Den Permalink finden Sie über dem Komponistennamen:
 
-![RISM permalink](http://rism.info/fileadmin/content/news/RISM_zitieren_permalink_1029_x_397.jpg)
+![RISM permalink](http://rism.info/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
 
 
 -

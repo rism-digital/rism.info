@@ -5,7 +5,7 @@ date: 2018-05-17
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
+image: "/images/news-old-website/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/royal-wedding-fever.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2019-03-28
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bericht_1601-1610_fd03cb214e.png"
+image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
 email: contact@rism.info
 author: ''

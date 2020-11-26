@@ -5,7 +5,7 @@ date: 2019-06-19
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Offenbach_-_Cover_a84006ab7c.jpg"
+image: "/images/news-old-website/csm_Offenbach_-_Cover_a84006ab7c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-jacques-offenbach-year-cliches-and-legends.html
 email: Ralf-Olivier.Schwarz@hfmdk-frankfurt.de
 author: Dr. Ralf-Olivier Schwarz

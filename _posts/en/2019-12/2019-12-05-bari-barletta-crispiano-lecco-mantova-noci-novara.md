@@ -5,7 +5,7 @@ date: 2019-12-05
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
+image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''

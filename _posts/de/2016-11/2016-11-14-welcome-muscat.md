@@ -5,7 +5,7 @@ date: 2016-11-14
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_muscat_01_bd2a4aa088.png"
+image: "/images/news-old-website/csm_muscat_01_bd2a4aa088.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/welcome-muscat.html
 email: ''
 author: ''

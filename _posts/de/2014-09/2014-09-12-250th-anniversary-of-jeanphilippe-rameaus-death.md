@@ -5,7 +5,7 @@ date: 2014-09-12
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_jean-jacques-caffieri-bust-of-jean-philippe-rameau_da7acb38b5.jpg"
+image: "/images/news-old-website/csm_jean-jacques-caffieri-bust-of-jean-philippe-rameau_da7acb38b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
 email: ''
 author: ''

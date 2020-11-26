@@ -5,7 +5,7 @@ date: 2020-03-18
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
+image: "/images/news-old-website/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-central-office-temporarily-closed.html
 email: contact@rism.info
 author: ''

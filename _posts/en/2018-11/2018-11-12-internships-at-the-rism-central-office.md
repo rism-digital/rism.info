@@ -5,7 +5,7 @@ date: 2018-11-12
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Logo_01_8fbaddb081.jpg"
+image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/internships-at-the-rism-central-office.html
 email: martina.falletta@rism.info
 author: ''

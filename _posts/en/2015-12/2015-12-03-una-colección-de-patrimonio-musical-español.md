@@ -5,7 +5,7 @@ date: 2015-12-03
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Patromonio_musical_espanol_9241af500a.jpg"
+image: "/images/news-old-website/csm_Patromonio_musical_espanol_9241af500a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/una-coleccion-de-patrimonio-musical-espanol.html
 email: ''
 author: ''

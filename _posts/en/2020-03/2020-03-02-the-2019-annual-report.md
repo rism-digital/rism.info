@@ -5,7 +5,7 @@ date: 2020-03-02
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2019-annual-report.html
 email: ''
 author: ''

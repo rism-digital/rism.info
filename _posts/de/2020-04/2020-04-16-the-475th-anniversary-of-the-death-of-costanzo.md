@@ -5,7 +5,7 @@ date: 2020-04-16
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Festa_Costanzo_475_33012218ef.jpg"
+image: "/images/news-old-website/csm_Festa_Costanzo_475_33012218ef.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
 email: ''
 author: ''

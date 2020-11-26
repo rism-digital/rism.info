@@ -5,7 +5,7 @@ date: 2011-10-17
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Groenland_6dc9566333.jpg"
+image: "/images/news-old-website/csm_Groenland_6dc9566333.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/peter-groenland-rism.html
 email: ''
 author: ''

@@ -13,7 +13,7 @@ Die Serie A/I: Einzeldrucke vor 1800 wird voraussichtlich 2011 als Datenbank auf
 
 
 
- ![](/fileadmin/_processed_/csm_AIICD-ROM_b70cfdd3ab.jpg "AIICD-ROM")
+ ![](/images/news-old-website/csm_AIICD-ROM_b70cfdd3ab.jpg "AIICD-ROM")
 
 ## Serie A/II: Musikhandschriften nach 1600
 

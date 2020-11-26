@@ -5,7 +5,7 @@ date: 2017-10-05
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
+image: "/images/news-old-website/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
 email: ''
 author: ''

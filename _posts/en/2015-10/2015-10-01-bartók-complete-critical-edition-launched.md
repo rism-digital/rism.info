@@ -5,7 +5,7 @@ date: 2015-10-01
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
+image: "/images/news-old-website/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bartok-complete-critical-edition-launched.html
 email: info@henle.de
 author: G. Henle Verlag

@@ -5,7 +5,7 @@ date: 2014-03-25
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
+image: "/images/news-old-website/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pedro-antonio-avondano.html
 email: ''
 author: ''

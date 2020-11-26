@@ -5,7 +5,7 @@ date: 2016-03-29
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Kindermann_S-Uu_f8a3f14584.jpg"
+image: "/images/news-old-website/csm_Kindermann_S-Uu_f8a3f14584.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-johann-erasmus-kindermann-1616-1655.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2019-02-04
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Externe_Incipit_Suchen_6607098cf9.jpg"
+image: "/images/news-old-website/csm_Externe_Incipit_Suchen_6607098cf9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-projects-with-risms-music-incipts.html
 email: ''
 author: ''

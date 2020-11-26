@@ -5,7 +5,7 @@ date: 2016-09-08
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
+image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-data-big-data.html
 email: ''
 author: ''

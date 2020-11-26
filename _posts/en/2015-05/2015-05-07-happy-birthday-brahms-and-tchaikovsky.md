@@ -5,7 +5,7 @@ date: 2015-05-07
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
+image: "/images/news-old-website/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-brahms-and-tchaikovsky.html
 email: ''
 author: ''

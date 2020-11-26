@@ -5,7 +5,7 @@ date: 2018-01-08
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Jubilaeen_2018_6bcd9ba1bb.png"
+image: "/images/news-old-website/csm_Jubilaeen_2018_6bcd9ba1bb.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2018.html
 email: ''
 author: ''

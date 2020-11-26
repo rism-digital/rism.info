@@ -5,7 +5,7 @@ date: 2014-11-11
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Musik-Nachlaesse_Reger_a0cc20a445.jpg"
+image: "/images/news-old-website/csm_Musik-Nachlaesse_Reger_a0cc20a445.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-archival-collections-at-the-bavarian-state-library.html
 email: Uta.Schaumberg@bsb-muenchen.de
 author: Uta Schaumberg

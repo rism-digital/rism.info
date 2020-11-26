@@ -5,7 +5,7 @@ date: 2017-06-16
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Stamitz_300_eca465eacf.jpg"
+image: "/images/news-old-website/csm_Stamitz_300_eca465eacf.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-stamitz-at-300.html
 email: ''
 author: ''

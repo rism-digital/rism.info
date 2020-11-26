@@ -5,7 +5,7 @@ date: 2018-02-01
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Valletta_2018_fa9ee0d7be.jpg"
+image: "/images/news-old-website/csm_Valletta_2018_fa9ee0d7be.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
 email: ''
 author: ''

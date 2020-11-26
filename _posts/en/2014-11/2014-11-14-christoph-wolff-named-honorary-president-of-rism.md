@@ -5,7 +5,7 @@ date: 2014-11-14
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_ChWolff_512d53ba0f.jpg"
+image: "/images/news-old-website/csm_ChWolff_512d53ba0f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christoph-wolff-named-honorary-president-of-rism.html
 email: ''
 author: ''

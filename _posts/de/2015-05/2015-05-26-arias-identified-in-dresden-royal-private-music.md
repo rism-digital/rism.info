@@ -5,7 +5,7 @@ date: 2015-05-26
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
+image: "/images/news-old-website/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/arias-identified-in-dresden-royal-private-music-collection.html
 email: Roberto.Scoccimarro@slub-dresden.de
 author: Roberto Scoccimarro

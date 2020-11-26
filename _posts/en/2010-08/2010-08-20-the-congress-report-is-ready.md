@@ -5,7 +5,7 @@ date: 2010-08-20
 lang: en
 post: true
 category: new_publications
-image: "/uploads/pics/Kongressbericht.jpg"
+image: "/resources-old-website/pics/Kongressbericht.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-congress-report-is-ready.html
 email: martina.falletta@rism.info
 author: Martina Falletta
@@ -16,4 +16,4 @@ In March 2002, RISM celebrated 50 years of existence with a congress in Frankfur
 
 RISM - Wissenschaftliche und technische Herausforderung musikhistorischer Quellenforschung im internationalen Rahmen. Academic and Technical Challenges of Musicological Source Research in an International Framework, hg. von Martina Falletta, Renate Hüsken und Klaus Keil, Hildesheim: Olms 2010 (= Studien und Materialien zur Musikwissenschaft 58), 380 S. mit s/w Abbildungen, ISBN 978-3-487-14431-3, € 58,00, [www.olms.de](http://www.olms.de/){:target="_blank"}
 
-[Table of Contents](/fileadmin/content/site-content/Inhaltsverzeichnis_FERTIG_2009-12-03.pdf "Initiates file download")
+[Table of Contents](/resources-old-website/site-content/Inhaltsverzeichnis_FERTIG_2009-12-03.pdf)

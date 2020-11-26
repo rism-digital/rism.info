@@ -5,7 +5,7 @@ date: 2014-06-05
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Egerton_9cf7c2a2f3.jpg"
+image: "/images/news-old-website/csm_Egerton_9cf7c2a2f3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/blog-roundup.html
 email: ''
 author: ''

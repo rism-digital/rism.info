@@ -5,7 +5,7 @@ date: 2018-11-05
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Ricordi_Briefe_online_a9abba6ab5.png"
+image: "/images/news-old-website/csm_Ricordi_Briefe_online_a9abba6ab5.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/le-lettere-di-casa-ricordi-online-launches-today.html
 email: ''
 author: ''

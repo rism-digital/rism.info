@@ -5,7 +5,7 @@ date: 2013-06-03
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Buechner_Ausschnitt_3bdd780f6f.jpg"
+image: "/images/news-old-website/csm_Buechner_Ausschnitt_3bdd780f6f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/zampa-by-herold-rism.html
 email: ''
 author: ''

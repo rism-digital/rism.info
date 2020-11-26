@@ -5,7 +5,7 @@ date: 2011-06-21
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_17italianariasfront_77bd1b40fe.jpg"
+image: "/images/news-old-website/csm_17italianariasfront_77bd1b40fe.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-metadata-in-digital-collections.html
 email: contact@rism.info
 author: ''

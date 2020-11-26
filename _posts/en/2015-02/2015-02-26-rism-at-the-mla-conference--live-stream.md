@@ -5,7 +5,7 @@ date: 2015-02-26
 lang: en
 post: true
 category: events
-image: "/uploads/pics/RISM_MLA_conference.jpg"
+image: "/resources-old-website/pics/RISM_MLA_conference.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-mla-conference-live-stream.html
 email: ''
 author: ''

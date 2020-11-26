@@ -5,7 +5,7 @@ date: 2019-04-29
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Moniuszko_200_01_9514602a76.jpg"
+image: "/images/news-old-website/csm_Moniuszko_200_01_9514602a76.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
 email: ''
 author: ''

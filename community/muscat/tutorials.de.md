@@ -24,7 +24,7 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 * Übergang von [Rules for Archival Description](http://www.cdncouncilarchives.ca/archdesrules.html){:target="_blank"} (Kanada) zu RISM: [Allgemeine Anweisungen](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} zum Ergänzen von Beschreibungen in RISM aus RAD oder einem anderen Archivstandard (von Rebecca Shaw, Dalhousie University)
 * [Die Personennormdatei](https://youtu.be/A130dB8I62k){:target="_blank"}: Wie kann man einen Namen hinzufügen und bearbeiten, welche Informationen enthalten sein müssen, Verlinkung zu VIAF
 * [Konvolute](https://youtu.be/46_agb6-K_0){:target="_blank"}: Wie kann man zeigen, dass gedruckte (und handschriftliche) Materialen zusammengebunden sind
-* **Verweise auf Sekundärliteratur:**[Kurzanleitung (PDF)](/fileadmin/content/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
+* **Verweise auf Sekundärliteratur:**[Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
 
 # Tutorials: Musikhandschriften
 
@@ -32,23 +32,23 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 **Schritt für Schritt-Anleitung** zur Erfassung einer Quelle
 
-1. Partitur: [PDF](/fileadmin/content/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) [Video auf YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
-2. Nur Stimmenmaterial: [PDF](/fileadmin/content/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
-3. Partitur und Stimmen: [PDF](/fileadmin/content/community-content/Muscat_EN/Cataloging_scores_and_parts_in_Muscat_01.pdf)
-4. Partitur mit mehreren Werken (Sammlung): [PDF](/fileadmin/content/community-content/Muscat_EN/Cataloging_collections_in_Muscat.pdf)
-5. Besondere Regeln für nichtlateinische Alphabete: [PDF](/fileadmin/content/community-content/Muscat_EN/Cataloging_with_non-Latin_scripts_in_Muscat_01.pdf)
+1. Partitur: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) [Video auf YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
+2. Nur Stimmenmaterial: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
+3. Partitur und Stimmen: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_and_parts_in_Muscat_01.pdf)
+4. Partitur mit mehreren Werken (Sammlung): [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_collections_in_Muscat.pdf)
+5. Besondere Regeln für nichtlateinische Alphabete: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_with_non-Latin_scripts_in_Muscat_01.pdf)
 
 **Download der in den Videos verwendeten Beispiele**:
 
-[Partitur](/fileadmin/content/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)
+[Partitur](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)
 
-[Partitur und Stimme](/fileadmin/content/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
+[Partitur und Stimme](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
 
 **Weitere Übungsbeispiele:**:
 
-1. Beispiel 1: Partitur [Karte](/fileadmin/content/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) [Eintrag in Muscat](/fileadmin/content/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
-2. Beispiel 2: Partitur und Stimme [Karte](/fileadmin/content/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) [Eintrag in Muscat](/fileadmin/content/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
-3. Beispiel 3: Sammlung [Karte](/fileadmin/content/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) [Eintrag in Muscat](/fileadmin/content/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
+1. Beispiel 1: Partitur [Karte](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
+2. Beispiel 2: Partitur und Stimme [Karte](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
+3. Beispiel 3: Sammlung [Karte](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
 
 # Tutorials: Musikdrucke
 
@@ -62,15 +62,15 @@ Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](h
 
 1. **Ergänzen und bearbeiten Ihres Exemplars**
 
-Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](http://www.rism.info/fileadmin/content/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
-Kurzversion: [PDF](/fileadmin/content/community-content/Muscat_EN/Holdings_1_page.pdf)\
+Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](http://www.rism.info/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an.
     - Bitte beachten Sie: B/I-Einträge der Jahre 1600-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten).
 
 2. **Überarbietung existierender RISM-Einträge**
 
-Ausführliche Anleitung: [PDF](/fileadmin/content/community-content/Muscat_EN/revised_printed_edition.pdf)\
-Kurzversion: [PDF](/fileadmin/content/community-content/Muscat_EN/Revised_record_1_page.pdf)\
+Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
+Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
 Die aus den gedruckten RISM [A/I](/de/publikationen.html#c36) (Einzeldrucke vor 1800) und [B/I](/de/publikationen.html#c2619)-Bänden (Sammeldrucke bis 1700) importierten Daten sind in Muscat. Bitte beachten Sie das Folgende, bevor Sie mit der Überarbeitung der Datensätze beginnen:
   - **A/I**: Die Mehrheit der A/I-Titel muss überarbeitet werden. Die meisten Drucke enthalten mehrere Werke, so dass der A/I-Eintrag einen Sammel- und mehrere Einzeleinträge benötigt. A/I ist bereits im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
   - **B/I to 1550**: Auch die Mehrheit der B/I-Einträge bis zum Jahr 1550 muss überarbeitet werden. Hier sind es vor allem die Teileinträge, die bereits an den Stammdatensatz angehängt sind. Es ist häufig der Fall, dass Folgedrucke keine Teileinträge im Gegensatz zu den sogenannten Erstdrucke (d.h. die im gedruckten Band zuerst genannten) haben. Diese sind ebenfalls bereits im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
@@ -79,8 +79,8 @@ Die aus den gedruckten RISM [A/I](/de/publikationen.html#c36) (Einzeldrucke vor 
 
 3. **Neue Musikdrucke hinzufügen**
 
-Ausführliche Anleitung: [PDF](/fileadmin/content/community-content/Muscat_EN/new_printed_edition.pdf)\
-Kurzversion: [PDF](/fileadmin/content/community-content/Muscat_EN/New_record_2_pages.pdf)\
+Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
+Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 Wenn Ihr Musikdruck nicht in den Bereich der Serien A/I und B/I fällt, ist er vermutlich noch nicht in Muscat enthalten. Führen Sie dennoch bitte immer vorab eine Suche durch, um zu sehen, ob nicht schon jemand anderes den Eintrag erstellt hat. Wenn Sie ihn nicht finden, erstellen See einen neuen Eintrag.
 
 **Einige Einschränkungen**

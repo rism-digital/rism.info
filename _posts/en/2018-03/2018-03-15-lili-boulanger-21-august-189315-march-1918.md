@@ -5,7 +5,7 @@ date: 2018-03-15
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
+image: "/images/news-old-website/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lili-boulanger-21-august-1893-15-march-1918.html
 email: abholland@uwalumni.com
 author: Dr. Anya Holland-Barry

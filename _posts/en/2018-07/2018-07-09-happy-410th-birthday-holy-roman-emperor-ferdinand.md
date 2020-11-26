@@ -5,7 +5,7 @@ date: 2018-07-09
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
+image: "/images/news-old-website/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
 email: ''
 author: ''

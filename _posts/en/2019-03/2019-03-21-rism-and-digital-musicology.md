@@ -5,7 +5,7 @@ date: 2019-03-21
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
+image: "/images/news-old-website/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-digital-musicology.html
 email: ''
 author: ''

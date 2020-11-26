@@ -5,7 +5,7 @@ date: 2019-05-02
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Martinez_01_35a146d721.jpg"
+image: "/images/news-old-website/csm_Martinez_01_35a146d721.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/marianna-von-martines-1744-1812-at-275.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2014-08-25
 lang: de
 post: true
 category: self_representation
-image: "/uploads/pics/MusMig.jpg"
+image: "/resources-old-website/pics/MusMig.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-migrations-in-the-early-modern-age-the-meeting-of-the-european-east-west-and-south.html
 email: ''
 author: ''

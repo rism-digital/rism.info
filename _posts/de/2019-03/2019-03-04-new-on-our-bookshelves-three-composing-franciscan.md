@@ -5,7 +5,7 @@ date: 2019-03-04
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Franziskanermoenche_aad8814261.png"
+image: "/images/news-old-website/csm_Franziskanermoenche_aad8814261.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-on-our-bookshelves-three-composing-franciscan-monks.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2011-08-02
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_TagVorsehung_2be77f5aac.jpg"
+image: "/images/news-old-website/csm_TagVorsehung_2be77f5aac.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-gotthilf-tag-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta

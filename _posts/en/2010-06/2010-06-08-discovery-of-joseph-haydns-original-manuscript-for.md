@@ -5,7 +5,7 @@ date: 2010-06-08
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_HaydnVieuxtempsKBRfolio2_45f6b9457f.jpg"
+image: "/images/news-old-website/csm_HaydnVieuxtempsKBRfolio2_45f6b9457f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/discovery-of-joseph-haydns-original-manuscript-for-the-pieces-hob-xix1-and-hob-xix2-royal-libr.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz

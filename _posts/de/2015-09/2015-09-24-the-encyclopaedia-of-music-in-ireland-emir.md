@@ -5,7 +5,7 @@ date: 2015-09-24
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
+image: "/images/news-old-website/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-encyclopaedia-of-music-in-ireland-emir.html
 email: ''
 author: ''

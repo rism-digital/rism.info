@@ -5,7 +5,7 @@ date: 2020-05-13
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
+image: "/images/news-old-website/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/300-years-of-radamisto-by-george-frideric-handel.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2014-08-21
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
+image: "/images/news-old-website/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/axel-klein-okelly-an-irish-musical-family-in-nineteenth-century-france.html
 email: ''
 author: ''

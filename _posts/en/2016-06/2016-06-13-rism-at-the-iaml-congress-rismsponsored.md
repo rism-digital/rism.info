@@ -5,7 +5,7 @@ date: 2016-06-13
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
+image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2016-01-14
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
+image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2015.html
 email: contact@rism.info
 author: ''

@@ -5,7 +5,7 @@ date: 2017-07-17
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
+image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
@@ -22,17 +22,17 @@ I also had the opportunity to take a closer look at the different areas of work 
 
 As an American student, I particularly enjoyed visiting seminars and other classes at the universities in Frankfurt. Dr. Martina Falletta made it possible for me to sit in on a seminar at the [Frankfurt University of Music and Performing Arts](http://www.hfmdk-frankfurt.info/){:target="_blank"} as well as multiple classes at [Goethe University](http://www.uni-frankfurt.de/43265859/muwi?legacy_request=1){:target="_blank"}. Since 25 June 2017 marked the [250th anniversary](/events/2017/06/22/the-250th-anniversary-of-the-death-of-georg.html){:target="_blank"} of the death of Georg Philipp Telemann, most of the seminars and classes focused on the life and works of this prolific Baroque composer. The lectures and student presentations were not only highly engaging but also relevant to my own research interests, since I plan to study music of the Baroque era. I was also able to join a group of students from the Johannes Gutenburg University in Mainz during their visit to the Johann Christian Senckenberg Library at Goethe University (D-F), where we heard from one of the editors of the [Frankfurter Telemann-Ausgaben](https://www.habsburgerverlag.de/startseite/frankfurter-telemann-ausgaben/){:target="_blank"} and viewed manuscript copies of Telemann’s church cantatas. This opportunity, as well as my visit to the offices of the [Gluck Gesamtausgabe](http://www.gluck-gesamtausgabe.de/){:target="_blank"}, served as a helpful insight into the preparation of a critical edition. Other exciting excursions included visits to the [Hindemith Institute](http://www.hindemith.info/de/home/){:target="_blank"} (D-Fhi) and the [Archiv Frau und Musik](http://www.archiv-frau-musik.de/cms/){:target="_blank"} (D-Fafm).
 
-![Hindemith Kuhhirtenturm](http://rism.info/fileadmin/content/news/Tompkins_Bericht_Hindemith_1_378x504.jpg)
+![Hindemith Kuhhirtenturm](http://rism.info/resources-old-website/news/Tompkins_Bericht_Hindemith_1_378x504.jpg)
 _The [Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} in Frankfurt, where Hindemith lived from 1923 to 1927_
 
 
 
-![Printed edition at Archiv Frau und Musik](http://rism.info/fileadmin/content/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)
+![Printed edition at Archiv Frau und Musik](http://rism.info/resources-old-website/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)
 _One of the many artifacts concerning women in music at Archiv Frau und Musik_
 
 During the fourth week of my internship I attended the 66th Annual Congress of the [International Association of Music Libraries, Archives, and Documentation Centres](http://www.iaml.info/congresses/2017-riga){:target="_blank"}. This year’s congress took place at the [National Library of Latvia](http://lnb.lv/en){:target="_blank"} in Riga. The four-day event was an amazing opportunity to meet librarians and archivists from around the world and to learn about different collections and ongoing projects. I am particularly interested in library projects that involve the digital humanities, so it was exciting to hear about the digitalization of collections from institutions such as the Mozarteum Foundation Salzburg (A-Sm), the Royal Library of Belgium (B-Br), and the Leipzig Bach Archive (D-LEb). Also of great interest was the presentation from the RISM working group in the [Chinese language region](/workgroups/chinese-language-region/home.html), who spoke about the efforts to document and preserve musical sources in their countries.
 
-![National Library of Latvia](http://rism.info/fileadmin/content/news/Tompkins_Bericht_Riga_1_378x504.jpg)
+![National Library of Latvia](http://rism.info/resources-old-website/news/Tompkins_Bericht_Riga_1_378x504.jpg)
 _The National Library of Latvia in Riga_
 
 It’s hard to believe that five weeks have already passed since I arrived in Frankfurt. I would like to thank the staff of the Central Office, particularly Jennifer Ward and Dr. Martina Falletta, who made this internship possible and enabled me to have so many invaluable scholarly and musical experiences during my time in Frankfurt. This internship was a wonderful chance to get a closer look at the work of RISM and in doing so to gain a deeper understanding of the vital relationship between the fields of musicology and librarianship.

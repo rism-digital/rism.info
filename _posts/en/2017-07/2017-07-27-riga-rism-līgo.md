@@ -5,7 +5,7 @@ date: 2017-07-27
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Rigaerfahrung_IAML_2017_Guido_Bibliothek_656188bfbd.jpg"
+image: "/images/news-old-website/csm_Rigaerfahrung_IAML_2017_Guido_Bibliothek_656188bfbd.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/riga-rism-ligo.html
 email: ''
 author: ''

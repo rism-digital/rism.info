@@ -5,7 +5,7 @@ date: 2010-10-20
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_cherubini_0658ee83ca.jpg"
+image: "/images/news-old-website/csm_cherubini_0658ee83ca.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/luigi-cherubini-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
@@ -16,7 +16,7 @@ This year marks the 250th birthday of Luigi Cherubini (14 September 1760, Floren
 
 Cherubini’s musical legacy contained many works in the form of autographs, manuscript copies or prints. It was an unusually complete portfolio which, at the instigation of Cherubini’s widow, found its way to the Royal Library of Berlin, the present-day State Library of Berlin (D-B), in 1878. As is well-known, the holdings of the library were transferred to various places for safekeeping during the Second World War. The sources connected with Cherubini, especially those works composed before 1794, went to the Biblioteka Jagiellońska (PL-Kj) in Krakow, where they are now once again available for researchers to study.
 
-Where the additional sources are preserved can be found, among other places, in the various RISM publications. Series A/I “Individual Prints before 1800” records 497Luigi Cherubini documents, and there are 27 entries in Series B/II “Recueil imprimés du XVIIIe siècle” and approximately 1,000 in the [online catalogue](https://opac.rism.info/search?View=rism&author=Luigi+Cherubini){:target="_blank"}. The Cherubini source documents recorded in the online catalogue are clearly summarised with various indices in the attached [pdf catalogue](/fileadmin/content/news/Cherubini_Katalog.pdf "Initiates file download") (22 MB).
+Where the additional sources are preserved can be found, among other places, in the various RISM publications. Series A/I “Individual Prints before 1800” records 497Luigi Cherubini documents, and there are 27 entries in Series B/II “Recueil imprimés du XVIIIe siècle” and approximately 1,000 in the [online catalogue](https://opac.rism.info/search?View=rism&author=Luigi+Cherubini){:target="_blank"}. The Cherubini source documents recorded in the online catalogue are clearly summarised with various indices in the attached [pdf catalogue](/resources-old-website/news/Cherubini_Katalog.pdf) (22 MB).
 
 This documentation is only a sample because, as is generally known, the RISM project is itself a work in progress. For example, neither the extensive holdings of the French National Library (F-Pn), nor those of the Krakow Biblioteka Jagiellońska mentioned above nor the autograph collection in the State Library of Berlin have so far been recorded in the online catalogue. On the other hand, the catalogue contains a lot of documentation that has not attracted the attention of Cherubini scholars so far.
 

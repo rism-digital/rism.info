@@ -5,7 +5,7 @@ date: 2011-02-14
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Cards_69f98ab616.jpg"
+image: "/images/news-old-website/csm_Cards_69f98ab616.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/no-chance-for-mozart-prince-archbishop-hieronymus-colloredo-and-the-musicians-of-his-court.html
 email: eva.neumayr@archiv.kirchen.net
 author: ''
@@ -20,6 +20,6 @@ Conference location: Kardinal-Schwarzenberg-Haus, Kapitelplatz 3, Salzburg
 
 Opening remarks: March 4, 2011, 1:30
 
-For further information aboutthe program and concerts,please [consult theflyer](/fileadmin/content/workgroups/salzburg/Keine_Chance_Cover.pdf "Initiates file download") (in German).
+For further information aboutthe program and concerts,please [consult theflyer](/resources-old-website/workgroups/salzburg/Keine_Chance_Cover.pdf) (in German).
 
 If you wish to attend the **chamber concert on March 5th,** please senda short e-mail to [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) as seating is limited.

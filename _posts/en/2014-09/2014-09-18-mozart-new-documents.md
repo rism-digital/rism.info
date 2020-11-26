@@ -5,7 +5,7 @@ date: 2014-09-18
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Mozart_New_Documents_0900ead507.jpg"
+image: "/images/news-old-website/csm_Mozart_New_Documents_0900ead507.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-new-documents.html
 email: dexedge@gmail.com
 author: ''

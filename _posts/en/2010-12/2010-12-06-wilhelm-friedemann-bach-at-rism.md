@@ -5,7 +5,7 @@ date: 2010-12-06
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
+image: "/images/news-old-website/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wilhelm-friedemann-bach-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
@@ -72,4 +72,4 @@ Musikalisches Journal, Berlin: Günther 1800
 
 Six documents in Series A/I _Einzeldrucke bis 1800_ (_Individual Prints to 1800_) only mention instrumental works by Wilhelm Friedemann (including Fk 3, 5, 12). In one case, he also acts as the publisher for his father Johann Sebastian’s “Sechs Choräle von verschiedener Art auf einer Orgel mit 2. Clavieren und Pedal vorzuspielen.”
 
-The 330 entries in the [online catalogue](https://opac.rism.info/search?View=rism&author=Wilhelm+Friedemann+Bach){:target="_blank"} from Series A/II also show a clear emphasis on the transmission of the instrumental works of Wilhelm Friedemann Bach. A catalogue of these source documents in [pdf format](/fileadmin/content/community-content/Zentralredaktion/Wilhelm_Friedemann_Bach-Katalog.pdf){:target="_blank"} offers additional indexes (text and title, name, watermarks, library sigla, call numbers, literature).
+The 330 entries in the [online catalogue](https://opac.rism.info/search?View=rism&author=Wilhelm+Friedemann+Bach){:target="_blank"} from Series A/II also show a clear emphasis on the transmission of the instrumental works of Wilhelm Friedemann Bach. A catalogue of these source documents in [pdf format](/resources-old-website/community-content/Zentralredaktion/Wilhelm_Friedemann_Bach-Katalog.pdf){:target="_blank"} offers additional indexes (text and title, name, watermarks, library sigla, call numbers, literature).

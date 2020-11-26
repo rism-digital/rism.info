@@ -5,7 +5,7 @@ date: 2015-02-23
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
+image: "/images/news-old-website/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-from-a-z-elizaveta-elisabeth-and-elizabeth.html
 email: ''
 author: ''

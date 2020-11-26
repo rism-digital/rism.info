@@ -5,7 +5,7 @@ date: 2017-11-06
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Schreivogel_06a7c82d46.jpg"
+image: "/images/news-old-website/csm_Schreivogel_06a7c82d46.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-small-clutch-of-schreivogel-manuscripts.html
 email: ''
 author: ''

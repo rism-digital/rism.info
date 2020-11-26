@@ -5,7 +5,7 @@ date: 2015-05-04
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Beethoven_0763003b24.jpg"
+image: "/images/news-old-website/csm_Beethoven_0763003b24.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-peek-inside-beethovens-workshop.html
 email: ''
 author: ''

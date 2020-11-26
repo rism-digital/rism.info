@@ -5,7 +5,7 @@ date: 2015-04-16
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-data-as-open-data-and-linked-open-data.html
 email: contact@rism.info
 author: ''
@@ -22,7 +22,7 @@ Open Data bedetuet, dass alle Daten des RISM Online-Katalogs laut der [Creative 
 
 Das [Detmolder Hoftheater Projekt](http://hoftheater-detmold.de/){:target="_blank"} verwendet die Open Data des RISM als Basis für die kontextuelle Tiefenerschließung der Musikalienbestände mit MEI (Music Encoding Initiative) und TEI (Text Encoding Initiative). Kristina Richts und Peter Stadler werden über dieses Projekt während der RISM Sitzung auf dem [IAML Kongress im Juni](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015 "external-link-new-window") berichten. Viele andere Digitalprojekte verwenden Open Data wie [Europeana](http://labs.europeana.eu/api/linked-open-data/introduction/){:target="_blank"}, [DBpedia](http://wiki.dbpedia.org/Interlinking){:target="_blank"}, [Getty vocabularies](http://www.getty.edu/research/tools/vocabularies/lod/){:target="_blank"} und das [Sheet Music Consortium](http://digital2.library.ucla.edu/sheetmusic/lod.html){:target="_blank"}.
 
-Wenn Sie Fragen zur Benutzun der Daten haben, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Bitte schauen Sie sich auch auf die [RISM Data Services Seite](/de/community/entwicklung/dataservice.html), die[Broschüre (PDF)](http://www.rism.info/fileadmin/content/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} können Sie ausdrucken.
+Wenn Sie Fragen zur Benutzun der Daten haben, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Bitte schauen Sie sich auch auf die [RISM Data Services Seite](/de/community/entwicklung/dataservice.html), die[Broschüre (PDF)](http://www.rism.info/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} können Sie ausdrucken.
 
 
 

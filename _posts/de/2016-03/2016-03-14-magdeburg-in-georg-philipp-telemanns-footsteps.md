@@ -5,7 +5,7 @@ date: 2016-03-14
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Telemann-Ms_Ff_Mus_994_db21312961.jpg"
+image: "/images/news-old-website/csm_Telemann-Ms_Ff_Mus_994_db21312961.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/magdeburg-in-the-age-of-georg-philipp-telemann.html
 email: ''
 author: ''

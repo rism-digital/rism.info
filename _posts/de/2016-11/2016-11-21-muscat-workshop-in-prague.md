@@ -5,7 +5,7 @@ date: 2016-11-21
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Gruppenfoto_I_klein_2232e87404.jpg"
+image: "/images/news-old-website/csm_Gruppenfoto_I_klein_2232e87404.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-in-prague.html
 email: ''
 author: ''
@@ -18,13 +18,13 @@ Vom 14. bis 16. November führte Guido Kraus von der RISM Zentralredaktion die K
 
 
 
-![Group photo](http://rism.info/fileadmin/content/news/Gruppenfoto_II.jpg)
+![Group photo](http://rism.info/resources-old-website/news/Gruppenfoto_II.jpg)
 _Endlich Kaffeepause!_
 
-![Training in progress](http://rism.info/fileadmin/content/news/Workshop_training.jpg)
+![Training in progress](http://rism.info/resources-old-website/news/Workshop_training.jpg)
 _Finale am letzten Tag_
 
-![Workshop room](http://rism.info/fileadmin/content/news/Seminarraum.jpg)
+![Workshop room](http://rism.info/resources-old-website/news/Seminarraum.jpg)
 _Schulungsraum_
 
 
