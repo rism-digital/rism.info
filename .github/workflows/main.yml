@@ -69,8 +69,8 @@ jobs:
         with:
           switches: -avzr --delete --exclude="uploads" --exclude="fileadmin"
           path: _site/
-          remote_path: ${{ secrets.DEPLOY_PATH }}
-          remote_host: ${{ secrets.DEPLOY_SITE }}
+          remote_path: ${{ env.DEPLOY_PATH }}
+          remote_host: ${{ env.DEPLOY_SERVER }}
           remote_user: ${{ secrets.DEPLOY_USER }}
           remote_key: ${{ secrets.DEPLOY_KEY }}
       
