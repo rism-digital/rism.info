@@ -5,7 +5,7 @@ date: 2016-02-25
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Libro_sesto_Chile_3c93826d3e.jpg"
+image: "/images/news-old-website/csm_Libro_sesto_Chile_3c93826d3e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/eighteenth-century-music-manuscript-el-libro-sesto-tells-of-colonial-history-in-chile.html
 email: ''
 author: ''

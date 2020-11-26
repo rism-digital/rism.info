@@ -5,7 +5,7 @@ date: 2015-11-16
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg"
+image: "/images/news-old-website/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-working-group-in-asia-founded.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2015-01-19
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Bagues_Map_musical_heritage_ee08d8fec7.jpg"
+image: "/images/news-old-website/csm_Bagues_Map_musical_heritage_ee08d8fec7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-online-resource-with-the-map-of-musical-heritage-in-spain.html
 email: jbagues@eresbil.com
 author: Jon Bagüés

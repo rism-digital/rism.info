@@ -5,7 +5,7 @@ date: 2017-12-04
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Morales_Mass_Book_tp_032616cbd3.jpg"
+image: "/images/news-old-website/csm_Morales_Mass_Book_tp_032616cbd3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/morales-mass-book.html
 email: kijas@bc.edu
 author: Anna E. Kijas

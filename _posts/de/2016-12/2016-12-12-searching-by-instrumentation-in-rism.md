@@ -5,7 +5,7 @@ date: 2016-12-12
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Besetzung_Bild_6d37d04324.jpg"
+image: "/images/news-old-website/csm_Besetzung_Bild_6d37d04324.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-by-instrumentation-in-rism.html
 email: ''
 author: ''
@@ -28,7 +28,7 @@ Das Feld **Besetzung** durchsucht den sogenannten **Besetzungshinweis**. Wie der
 
 Nach einer Suche werden alle Ergebnisse aufgelistet, in denen der Suchbegriff im Besetzungshinweis enthalten ist.
 
-![Scoring summary](http://rism.info/fileadmin/content/news/Besetzung_Suche_ex_1_779_x_736.jpg)
+![Scoring summary](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
 
 
 
@@ -36,7 +36,7 @@ Nach einer Suche werden alle Ergebnisse aufgelistet, in denen der Suchbegriff im
 
 Mit den Suchfiltern auf der linken Seite lässt sich das Ergebnis auf den Besetzungshinweis eingrenzen.
 
-![Filter by instrumentation](http://rism.info/fileadmin/content/news/Besetzung_Suche_ex_2_162_x_237.jpg)
+![Filter by instrumentation](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
 
 
 

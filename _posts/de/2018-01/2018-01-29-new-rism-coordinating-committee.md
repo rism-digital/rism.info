@@ -5,7 +5,7 @@ date: 2018-01-29
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-coordinating-committee.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2020-05-25
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
+image: "/images/news-old-website/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
 email: ''
 author: ''

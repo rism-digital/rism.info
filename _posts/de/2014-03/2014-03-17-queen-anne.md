@@ -5,7 +5,7 @@ date: 2014-03-17
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Anne__Queen_statue_8e56f801b0.jpg"
+image: "/images/news-old-website/csm_Anne__Queen_statue_8e56f801b0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-queen-anne.html
 email: ''
 author: ''

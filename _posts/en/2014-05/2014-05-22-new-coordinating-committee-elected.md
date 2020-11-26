@@ -5,7 +5,7 @@ date: 2014-05-22
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_RISM_und_Flaggen_6618ee1583.jpg"
+image: "/images/news-old-website/csm_RISM_und_Flaggen_6618ee1583.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-coordinating-committee-elected.html
 email: ''
 author: ''

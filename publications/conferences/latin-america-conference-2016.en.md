@@ -71,7 +71,7 @@ Supported by the DAAD (German Academic Exchange Service) withfunding from the Ge
 
 # RISM at GfM
 
- ![](/fileadmin/_processed_/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg "Eitner-Lieder - Programmheft - Deckblatt")
+ ![](/images/news-old-website/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg "Eitner-Lieder - Programmheft - Deckblatt")
 
 You may also join RISM at the following events at the Gesellschaft für Musikforschung congress:
 
@@ -89,7 +89,7 @@ Jakob-Welder-Weg 18
 55128 Mainz
 
 **11:30** : Klaus Keil, Jennifer Ward: The RISM online catalog for instructors and advanced users  
-[The slides are available here](/fileadmin/content/community-content/events/RISM_for_instructors_presentation_PDF.pdf).
+[The slides are available here](/resources-old-website/community-content/events/RISM_for_instructors_presentation_PDF.pdf).
 
 - **Abstract:** This presentation is directed at instructors who teach RISM to students–such as part of courses on research methods, musicology, or library skills–as well as users of the online catalog who go beyond simple keyword searches.  
   

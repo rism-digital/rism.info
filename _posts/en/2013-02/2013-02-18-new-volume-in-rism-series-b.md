@@ -5,7 +5,7 @@ date: 2013-02-18
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_B_XIII_307_blau_83cbccccd1.jpg"
+image: "/images/news-old-website/csm_B_XIII_307_blau_83cbccccd1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-rism-series-b.html
 email: ''
 author: ''

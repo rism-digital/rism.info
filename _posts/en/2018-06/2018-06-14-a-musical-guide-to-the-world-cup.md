@@ -5,7 +5,7 @@ date: 2018-06-14
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Fussball_WM_2018_F_9752f6344f.jpg"
+image: "/images/news-old-website/csm_Fussball_WM_2018_F_9752f6344f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-musical-guide-to-the-world-cup.html
 email: ''
 author: ''
@@ -22,7 +22,7 @@ For example, a [search for](https://opac.rism.info/search?View=rism&siglum=RUS-*
 
 
 
-![](/fileadmin/content/news/Fussball_WM_2018_Suche.png)
+![](/resources-old-website/news/Fussball_WM_2018_Suche.png)
 
 
 What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/international.html) who have made the RISM project so international.

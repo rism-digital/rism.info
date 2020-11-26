@@ -5,7 +5,7 @@ date: 2020-07-16
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Bononcini_350_855abeaace.jpg"
+image: "/images/news-old-website/csm_Bononcini_350_855abeaace.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/giovanni-battista-bononcinis-350th-birthday.html
 email: ''
 author: ''

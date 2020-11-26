@@ -5,7 +5,7 @@ date: 2016-04-11
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_EBBA_21cb4acf98.jpg"
+image: "/images/news-old-website/csm_EBBA_21cb4acf98.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-english-broadside-ballad-archive.html
 email: ''
 author: ''

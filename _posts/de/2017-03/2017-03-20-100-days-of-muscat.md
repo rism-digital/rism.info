@@ -5,7 +5,7 @@ date: 2017-03-20
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_muscat_02_d52c22eeb7.png"
+image: "/images/news-old-website/csm_muscat_02_d52c22eeb7.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/100-days-of-muscat.html
 email: ''
 author: ''

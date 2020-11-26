@@ -5,7 +5,7 @@ date: 2018-09-06
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
+image: "/images/news-old-website/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/romantic-satire-with-music.html
 email: lkoehler@stud.uni-frankfurt.de
 author: Charlotte Köhler

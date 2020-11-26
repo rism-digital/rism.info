@@ -5,7 +5,7 @@ date: 2016-05-23
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Digitized_Irish_Music_Project_9c7f404b4a.jpg"
+image: "/images/news-old-website/csm_Digitized_Irish_Music_Project_9c7f404b4a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitized-irish-music-project.html
 email: ''
 author: ''

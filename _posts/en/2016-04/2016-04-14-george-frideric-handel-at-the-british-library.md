@@ -5,7 +5,7 @@ date: 2016-04-14
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Haendel-Autographe_635e1c9541.jpg"
+image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
 author: ''
@@ -20,7 +20,7 @@ To find the British Library's Handel holdings, go to the [RISM online database](
 **Composer** : Handel (a list will automatically appear to help you with the name, and you can pick any of them that look like Handel)
 **Library siglum** : GB-Lbl
 
-![Advanced search](http://rism.info/fileadmin/content/news/Haendel-Autographe_advanced_search.jpg)
+![Advanced search](http://rism.info/resources-old-website/news/Haendel-Autographe_advanced_search.jpg)
 
 
 You will see over 2,800 results, and on the left you can filter based on a number of criteria, such as genre, scoring, or source type. The British Library holds an impressive number of Handel autograph manuscripts thanks to [a gift from Queen Elizabeth II](http://www.bl.uk/eblj/2009articles/article2.html){:target="_blank"} in 1957. Ninety-seven autographs were part of this acquisition. In the RISM database, each individual piece in a manuscript has a separate record, so you'll notice 339 autographs at the moment and over 1,900 manuscript copies.

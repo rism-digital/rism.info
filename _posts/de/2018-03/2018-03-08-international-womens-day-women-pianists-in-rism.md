@@ -5,7 +5,7 @@ date: 2018-03-08
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
+image: "/images/news-old-website/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/international-womens-day-women-pianists-in-rism.html
 email: alexander.marxen@rism.info
 author: ''

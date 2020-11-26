@@ -5,7 +5,7 @@ date: 2016-04-28
 lang: en
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Breslau_60048_Muz._b59a94f4f9.jpg"
+image: "/images/news-old-website/csm_Breslau_60048_Muz._b59a94f4f9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vratislavia-brassel-breslau-wroclaw-or-wroclove.html
 email: ''
 author: ''

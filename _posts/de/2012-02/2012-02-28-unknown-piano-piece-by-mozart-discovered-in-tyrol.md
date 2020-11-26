@@ -5,7 +5,7 @@ date: 2012-02-28
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_mozart_tirol_1158be7f80.jpg"
+image: "/images/news-old-website/csm_mozart_tirol_1158be7f80.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider

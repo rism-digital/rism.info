@@ -5,7 +5,7 @@ date: 2017-09-18
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Caccini_430_a8a8fef1be.jpg"
+image: "/images/news-old-website/csm_Caccini_430_a8a8fef1be.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-430th-birthday-francesca-caccini.html
 email: ''
 author: ''

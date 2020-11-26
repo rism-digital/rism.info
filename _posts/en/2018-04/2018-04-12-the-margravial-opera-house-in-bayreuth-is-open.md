@@ -5,7 +5,7 @@ date: 2018-04-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg"
+image: "/images/news-old-website/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2017-06-09
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Jasna_Gora_01_42801628cd.jpg"
+image: "/images/news-old-website/csm_Jasna_Gora_01_42801628cd.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
 email: ''
 author: ''

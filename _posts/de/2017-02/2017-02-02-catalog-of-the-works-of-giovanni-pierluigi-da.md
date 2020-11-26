@@ -5,7 +5,7 @@ date: 2017-02-02
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Palestrina-1_b6437c0fbf.jpg"
+image: "/images/news-old-website/csm_Palestrina-1_b6437c0fbf.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html
 email: carola.finkel@hfmdk-frankfurt.de
 author: Carola Finkel
@@ -32,7 +32,7 @@ Das DFG-Projekt erfolgt in Zusammenarbeit mit den Kooperationspartnern [Schott M
 
 
 
-![Palestrina catalog](http://rism.info/fileadmin/content/news/Palestrina-2.jpg)
+![Palestrina catalog](http://rism.info/resources-old-website/news/Palestrina-2.jpg)
 _En kleiner Einblick in die Software_
 
 

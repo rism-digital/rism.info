@@ -5,7 +5,7 @@ date: 2016-10-17
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Muscat_Workshop_f9d349ff5a.jpg"
+image: "/images/news-old-website/csm_Muscat_Workshop_f9d349ff5a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/countdown-to-muscat.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2015-10-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Taiwan_Conference_44d24a6e80.jpg"
+image: "/images/news-old-website/csm_Taiwan_Conference_44d24a6e80.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-conference-in-taiwan.html
 email: ''
 author: ''

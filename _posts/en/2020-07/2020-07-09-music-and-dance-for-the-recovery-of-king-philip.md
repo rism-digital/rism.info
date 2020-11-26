@@ -5,7 +5,7 @@ date: 2020-07-09
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Festa_a_ballo_1_7466823bc6.jpg"
+image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: contact@rism.info
 author: ''

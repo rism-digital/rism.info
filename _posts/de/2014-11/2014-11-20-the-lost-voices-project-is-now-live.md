@@ -5,7 +5,7 @@ date: 2014-11-20
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Lost_Voices_fdff2e5ba4.jpg"
+image: "/images/news-old-website/csm_Lost_Voices_fdff2e5ba4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-lost-voices-project-is-now-live.html
 email: ''
 author: ''

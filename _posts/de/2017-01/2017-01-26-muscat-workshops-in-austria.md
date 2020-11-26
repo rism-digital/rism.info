@@ -5,7 +5,7 @@ date: 2017-01-26
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Muscat-Schulungen_in_OEsterreich_Wien_2_737aa0dc99.jpg"
+image: "/images/news-old-website/csm_Muscat-Schulungen_in_OEsterreich_Wien_2_737aa0dc99.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshops-in-austria.html
 email: stefan.engl@onb.ac.at
 author: Stefan Engl

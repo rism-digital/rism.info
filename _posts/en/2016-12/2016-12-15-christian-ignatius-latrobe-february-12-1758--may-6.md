@@ -5,7 +5,7 @@ date: 2016-12-15
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
+image: "/images/news-old-website/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
 email: ''
 author: ''
@@ -20,7 +20,7 @@ Latrobe was not only a capable administrator, he was also an accomplished musici
 
 The [211 entries in the RISM online catalog](https://opac.rism.info/search?View=rism&author=100611354){:target="_blank"} give a good overview of Latrobe's compositional output. Most of the manuscripts are housed at the Moravian Church's Unity Archives in Herrnhut (D-HER). Of the 22 music prints in RISM, 11 were self-published.
 
-![Music by Latrobe](http://rism.info/fileadmin/content/news/Latrobe_Christian_Ignatius-1.JPG)
+![Music by Latrobe](http://rism.info/resources-old-website/news/Latrobe_Christian_Ignatius-1.JPG)
 _Selection of Sacred Music_[RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
 
 This video is about Latrobe's missionary trip to South Africa and is complete with illustrations from his account of the journey:

@@ -5,7 +5,7 @@ date: 2018-02-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Karneval-250936_1920_32a664a472.jpg"
+image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ecco-carnevale.html
 email: ''
 author: ''

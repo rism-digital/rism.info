@@ -5,7 +5,7 @@ date: 2012-09-24
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Michaelhaydn2_ef4d655a82.jpg"
+image: "/images/news-old-website/csm_Michaelhaydn2_ef4d655a82.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/michael-haydn-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta

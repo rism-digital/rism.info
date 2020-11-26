@@ -5,7 +5,7 @@ date: 2019-09-12
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
+image: "/images/news-old-website/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-clara-wieck-schumann.html
 email: Marina.Gordienko@sbb.spk-berlin.de
 author: Marina Schieke-Gordienko

@@ -5,7 +5,7 @@ date: 2016-10-10
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Stift_Melk_Prominczel_d638112953.jpg"
+image: "/images/news-old-website/csm_Stift_Melk_Prominczel_d638112953.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/presenting-the-music-collection-at-melk-abbey.html
 email: musikarchiv@stiftmelk.at
 author: Johannes Prominczel
@@ -22,12 +22,12 @@ The focus of the collection is on sources dating from between 1750 and 1850, tho
 
 The Benedictine monks in Melk have had excellent contacts with musical life in Vienna, especially during the First Viennese School and Biedermeier periods. Robert Kimmerling was a pupil of Haydn, and Abbé Maximilian Stadler knew the great composers of the Wiener Klassik personally and frequented the Biedermeier musical salons. For these reasons, many early manuscript copies of music by Haydn, Mozart, and Beethoven can be found in Melk. Also worth mentioning are manuscripts of the composers who were active in the abbey, especially those by Johann Georg Albrechtsberger and Franz Schneider.
 
-![Cover of the](http://rism.info/fileadmin/content/news/Stift_Melk_IV_133_Studentenvalete.jpg)
+![Cover of the](http://rism.info/resources-old-website/news/Stift_Melk_IV_133_Studentenvalete.jpg)
 _Cover of the "Studentenvalete" by Abbé Maximilian Stadler, 1781 (shelfmark: IV 133)._
 
 The archive is also well stocked with historic printed music. Some Benedictines were passionate collectors, particularly of piano and chamber music: an inventory from 1850 of the papers left by P. Robert Stipa, for example, counts around 600 works, most of them prints. A part of the music collection (the exact extent is difficult to estimate) left by Ignaz Ritter von Seyfried, including two prints with handwritten dedications from Robert Schumann, ended up in the Melk music archive. Regrettably, complete inventories were not made of such collections and they can only be reconstructed using older shelfmarks.
 
-![Viola in Melk collection](http://rism.info/fileadmin/content/news/Stift_Melk_Viola.jpg)
+![Viola in Melk collection](http://rism.info/resources-old-website/news/Stift_Melk_Viola.jpg)
 
 _Viola with lion's head by Georg Aman, early eighteenth century_
 

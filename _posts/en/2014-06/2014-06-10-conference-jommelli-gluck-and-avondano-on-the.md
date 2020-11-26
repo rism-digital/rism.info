@@ -5,7 +5,7 @@ date: 2014-06-10
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Jommelli-Konferenz_5f12729883.jpg"
+image: "/images/news-old-website/csm_Jommelli-Konferenz_5f12729883.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-jommelli-gluck-and-avondano-on-the-occasion-of-their-300th-anniversary.html
 email: cesmpqueluz@yahoo.com
 author: ''

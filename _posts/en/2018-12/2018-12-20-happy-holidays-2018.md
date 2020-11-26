@@ -5,7 +5,7 @@ date: 2018-12-20
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Weihnachten_2018_Christrose_de3ad64308.jpg"
+image: "/images/news-old-website/csm_Weihnachten_2018_Christrose_de3ad64308.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-holidays-2018.html
 email: ''
 author: ''

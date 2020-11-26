@@ -5,7 +5,7 @@ date: 2017-08-03
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Brochure_EN_PT_234ca2a80e.jpg"
+image: "/images/news-old-website/csm_Brochure_EN_PT_234ca2a80e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-brochure-available-in-portuguese.html
 email: contact@rism.info
 author: ''

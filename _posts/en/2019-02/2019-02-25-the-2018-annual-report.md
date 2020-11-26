@@ -5,7 +5,7 @@ date: 2019-02-25
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_13_79e5642f46.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_13_79e5642f46.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2018-annual-report.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2012-04-10
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_vieuxtemps_ms_5114399174.jpg"
+image: "/images/news-old-website/csm_vieuxtemps_ms_5114399174.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-unique-collection-of-music-manuscripts-by-the-belgian-composer-henry-vieuxtemps-in-the-music-depar.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz

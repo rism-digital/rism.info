@@ -5,7 +5,7 @@ date: 2020-03-20
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Ho__lderlin_Egermann_SLUB_702be13270.jpg"
+image: "/images/news-old-website/csm_Ho__lderlin_Egermann_SLUB_702be13270.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/friedrich-hoelderlin-at-250.html
 email: ''
 author: ''

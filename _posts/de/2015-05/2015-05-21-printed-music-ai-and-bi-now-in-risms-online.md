@@ -5,7 +5,7 @@ date: 2015-05-21
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Rameau_Original_fc9a4c28c2.jpg"
+image: "/images/news-old-website/csm_Rameau_Original_fc9a4c28c2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/printed-music-ai-and-bi-now-in-risms-online-catalog.html
 email: contact@rism.info
 author: ''

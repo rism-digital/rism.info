@@ -5,7 +5,7 @@ date: 2014-08-08
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_music-cats_fb2ca4a7a1.jpg"
+image: "/images/news-old-website/csm_music-cats_fb2ca4a7a1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cats-in-music.html
 email: ''
 author: ''

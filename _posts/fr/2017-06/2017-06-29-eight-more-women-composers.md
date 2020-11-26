@@ -5,7 +5,7 @@ date: 2017-06-29
 lang: fr
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Nachzueglerinnen_3f80c883aa.jpg"
+image: "/images/news-old-website/csm_Nachzueglerinnen_3f80c883aa.jpg"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/eight-more-women-composers.html
 email: ''
 author: ''

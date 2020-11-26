@@ -5,7 +5,7 @@ date: 2014-12-15
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_75_will_vii_1425_001r_d00d9acfbf.jpg"
+image: "/images/news-old-website/csm_75_will_vii_1425_001r_d00d9acfbf.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/restitution-made-easy.html
 email: stb-handschriftenabteilung@stadt.nuernberg.de
 author: ''

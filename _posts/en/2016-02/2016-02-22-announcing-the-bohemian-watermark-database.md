@@ -5,7 +5,7 @@ date: 2016-02-22
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Wasserzeichen_Sediva_ac2ce820b9.jpg"
+image: "/images/news-old-website/csm_Wasserzeichen_Sediva_ac2ce820b9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/announcing-the-the-bohemian-watermark-database.html
 email: eliska.sediva@nkp.cz
 author: Eliška Šedivá

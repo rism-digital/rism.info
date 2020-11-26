@@ -5,7 +5,7 @@ date: 2015-03-12
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/pics/Logo_Suedkorea_03.jpg"
+image: "/resources-old-website/pics/Logo_Suedkorea_03.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-the-first-to-the-best-ewha-music-research-institute.html
 email: hkchae@ewha.ac.kr
 author: Hyun Kyung Chae

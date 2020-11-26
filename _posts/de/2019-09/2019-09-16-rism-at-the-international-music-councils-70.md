@@ -5,7 +5,7 @@ date: 2019-09-16
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_IMC_Poster_a1ae8c175f.jpg"
+image: "/images/news-old-website/csm_IMC_Poster_a1ae8c175f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
 email: ''
 author: ''

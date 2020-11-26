@@ -5,7 +5,7 @@ date: 2019-01-10
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Logo_03_3a0acca260.jpg"
+image: "/images/news-old-website/csm_Logo_03_3a0acca260.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/call-for-papers-workshopconference-on-the-work-level-in-rism.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2015-09-03
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Kazan_IntMuseumforum_cd1cd3319b.jpg"
+image: "/images/news-old-website/csm_Kazan_IntMuseumforum_cd1cd3319b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-international-museum-forum-in-kazan-russia.html
 email: ''
 author: ''

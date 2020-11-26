@@ -88,11 +88,11 @@ RISM Workshop 2: Continuation\
 
 * October 4-6, 2018: Cataloging Printed Music, Frankfurt\
 *RISM Central Office staff*\
-[Schedule (PDF)](/fileadmin/content/community-content/Muscat_EN/Programm_DE_EN_FINAL_Drucke_October_2018.pdf "Initiates file download")
+[Schedule (PDF)](/resources-old-website/community-content/Muscat_EN/Programm_DE_EN_FINAL_Drucke_October_2018.pdf)
 
 * July 24, 2018:[IAML Congress in Leipzig](http://iaml2018.info/programme/workshops/ "Opens external link in new window"), Germany\
 *Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward*\
-[Slides](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf "Initiates file download"),[Practice examples](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf "Initiates file download"),[Handout](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf "Initiates file download") (all English)
+[Slides](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf),[Practice examples](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf),[Handout](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf) (all English)
 
 * March 5-8, 2018: Fryderyk Chopin Institute, Warsaw, Poland\
 *Guido Kraus*
@@ -116,14 +116,14 @@ RISM Workshop 2: Continuation\
 
 * June 20, 2017,[IAML Congress in Riga, Latvia](https://iaml2017.lnb.lv/programme/20-june/ "Opens external link in new window")\
 *Klaus Keil, Jennifer Ward*\
-[Slides](/fileadmin/content/community-content/Muscat_EN/Workshop_slides_Riga_expanded_01.pdf "Initiates file download")
+[Slides](/resources-old-website/community-content/Muscat_EN/Workshop_slides_Riga_expanded_01.pdf)
 
 * June 19-23, 2017,[VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/blank-3 "Opens external link in new window"), Goiânia, Goiás, Brazil\
 *André Guerra Cotta*
 
 * June 15, 2017,[Mark the Music course, Gothenburg, Sweden](http://www.smbf.nu/dok/Program.mark_the_music.pdf "Opens external link in new window")\
 *Jennifer Ward*\
-[Slides](/fileadmin/content/community-content/Muscat_EN/Ward_Workshop_slides_Gothenburg_expanded_01.pdf "Initiates file download")
+[Slides](/resources-old-website/community-content/Muscat_EN/Ward_Workshop_slides_Gothenburg_expanded_01.pdf)
 
 * February 24, 2017,[MLA Conference, Orlando, Florida, USA](http://www.rism.info/en/home/newsdetails/select/events/article/2/rism-at-the-mla-conference-in-orlando-florida.html "Opens external link in new window")\
 *Sarah Adams, Christina Linklater*
@@ -153,4 +153,4 @@ Guido Kraus
 
 * October 12-14, 2016,[Frankfurt, Germany](http://www.rism.info/en/home/newsdetails/select/events/article/2/countdown-to-muscat.html "Opens external link in new window")\
 *Central Office Staff*\
-[Schedule (PDF)](/fileadmin/content/community-content/Muscat_EN/Zeitplan_Workshop_Oktober_2016_EN.pdf "Initiates file download")
+[Schedule (PDF)](/resources-old-website/community-content/Muscat_EN/Zeitplan_Workshop_Oktober_2016_EN.pdf)

@@ -5,7 +5,7 @@ date: 2019-09-09
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_OPAC_Drucke_September_2019_8d5c8cf833.jpg"
+image: "/images/news-old-website/csm_OPAC_Drucke_September_2019_8d5c8cf833.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/2019-upgrade-of-the-rism-catalog.html
 email: ''
 author: ''

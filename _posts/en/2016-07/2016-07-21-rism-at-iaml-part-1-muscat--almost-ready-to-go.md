@@ -5,7 +5,7 @@ date: 2016-07-21
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Muscat_87a096eb84.jpg"
+image: "/images/news-old-website/csm_Muscat_87a096eb84.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
 email: ''
 author: ''

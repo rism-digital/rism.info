@@ -5,7 +5,7 @@ date: 2014-11-24
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Hasse_ebb19dc698.jpg"
+image: "/images/news-old-website/csm_Hasse_ebb19dc698.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/hasses-siroe-in-versailles.html
 email: ''
 author: ''

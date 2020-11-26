@@ -5,7 +5,7 @@ date: 2019-08-22
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Logo_06_a7764d2790.jpg"
+image: "/images/news-old-website/csm_Logo_06_a7764d2790.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-digital-musicology-utrecht-2019.html
 email: ''
 author: ''

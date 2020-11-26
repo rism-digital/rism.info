@@ -5,7 +5,7 @@ date: 2016-01-07
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
+image: "/images/news-old-website/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
 email: ''
 author: ''

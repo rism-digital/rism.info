@@ -5,7 +5,7 @@ date: 2017-05-10
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Fifth_Field_card_01_d2af8ba1fa.png"
+image: "/images/news-old-website/csm_Fifth_Field_card_01_d2af8ba1fa.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-fifth-field.html
 email: ''
 author: ''
@@ -22,7 +22,7 @@ Wenn Sie die Erweiterte Suche starten, stehen Ihnen drei Suchschlitze und jener 
 
 Angenommen Sie suchen nach Streichquartetten von Haydn in D-Dur ...
 
-![Advanced search](http://rism.info/fileadmin/content/news/Fuenftes_Feld1.jpg)
+![Advanced search](http://rism.info/resources-old-website/news/Fuenftes_Feld1.jpg)
 
 … aber Sie finden nicht, das was Sie brauchen. Sie gehen zurück zur Erweiterten Suche und das fünfte Feld erscheint! Alle bisherigen Suchen einer Sitzung werden hier gespeichert.
 
@@ -30,11 +30,11 @@ Angenommen Sie suchen nach Streichquartetten von Haydn in D-Dur ...
 
 
 
-![Fifth field](http://rism.info/fileadmin/content/news/Fuenftes_Feld2_1010_x_395.jpg)
+![Fifth field](http://rism.info/resources-old-website/news/Fuenftes_Feld2_1010_x_395.jpg)
 
 Sie können die Haydn Quartette in D auswählen und nun eine viertes Element hinzufügen, beispielsweise alle Quellen aus Österreich.
 
-![Fifth field with more search terms](http://rism.info/fileadmin/content/news/Fuenftes_Feld3_1007_x_363.jpg)
+![Fifth field with more search terms](http://rism.info/resources-old-website/news/Fuenftes_Feld3_1007_x_363.jpg)
 
 Und wenn Sie wieder zur Erweiterten Suche zurückkehren, können Sie genauso fortfahren die vorherigen Suchanfragen wiederzuverwenden. So als würden Sie Ihrer Anfrage Extrasuchfelder hinzufügen.
 

@@ -5,7 +5,7 @@ date: 2017-04-10
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_rism2_3c185d75bc.png"
+image: "/images/news-old-website/csm_rism2_3c185d75bc.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
 email: ''
 author: ''

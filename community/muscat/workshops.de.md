@@ -84,7 +84,7 @@ RISM Workshop 2: Continuation\
 
 * 24\. Juli 2018: [IAML Kongress in Leipzig](http://iaml2018.info/programme/workshops/){:target="_blank"}, Deutschland\
 Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
-[Folien](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf "Initiates file download"), [Übungsbeispiele](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf "Initiates file download"), [Handout](/fileadmin/content/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf "Initiates file download") (alle Englisch)
+[Folien](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf), [Übungsbeispiele](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf), [Handout](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf) (alle Englisch)
 
 * 5\.-8\. März 2018: [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/){:target="_blank"}, Warschau, Polen\
 *Guido Kraus*

@@ -5,7 +5,7 @@ date: 2014-06-23
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/pics/Klarinettist.jpg"
+image: "/resources-old-website/pics/Klarinettist.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-collections-in-berlin-and-munich.html
 email: ''
 author: ''

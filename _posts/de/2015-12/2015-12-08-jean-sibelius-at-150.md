@@ -5,7 +5,7 @@ date: 2015-12-08
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_sibelius_7fa9d878af.jpg"
+image: "/images/news-old-website/csm_sibelius_7fa9d878af.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jean-sibelius-at-150.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2019-04-23
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png"
+image: "/images/news-old-website/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-manuscripts-by-ermanno-wolf-ferrari-online.html
 email: ''
 author: ''

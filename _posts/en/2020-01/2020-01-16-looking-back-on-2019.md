@@ -5,7 +5,7 @@ date: 2020-01-16
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Rueckblick_2019_dd73c5c5b5.jpg"
+image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2019.html
 email: ''
 author: ''

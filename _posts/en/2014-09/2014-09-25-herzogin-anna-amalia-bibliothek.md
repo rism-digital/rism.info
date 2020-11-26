@@ -5,7 +5,7 @@ date: 2014-09-25
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
+image: "/images/news-old-website/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/herzogin-anna-amalia-bibliothek.html
 email: ''
 author: ''

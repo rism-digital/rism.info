@@ -5,7 +5,7 @@ date: 2015-04-30
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Tuba_296eed917b.jpg"
+image: "/images/news-old-website/csm_Tuba_296eed917b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/international-tuba-day-on-1-may.html
 email: ''
 author: ''

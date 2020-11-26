@@ -5,7 +5,7 @@ date: 2017-08-10
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_09_6b2be4d148.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_09_6b2be4d148.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-commission-mixte-announced.html
 email: ''
 author: ''

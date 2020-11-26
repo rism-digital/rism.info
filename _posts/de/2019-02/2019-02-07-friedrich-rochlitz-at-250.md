@@ -5,7 +5,7 @@ date: 2019-02-07
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Rochlitz_250_9fbeb78fdc.png"
+image: "/images/news-old-website/csm_Rochlitz_250_9fbeb78fdc.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/friedrich-rochlitz-at-250.html
 email: ''
 author: ''

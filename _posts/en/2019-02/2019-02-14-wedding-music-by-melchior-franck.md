@@ -5,7 +5,7 @@ date: 2019-02-14
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Hochzeitsmusiken_b92266ed0b.jpg"
+image: "/images/news-old-website/csm_Hochzeitsmusiken_b92266ed0b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wedding-music-by-melchior-franck.html
 email: ''
 author: ''

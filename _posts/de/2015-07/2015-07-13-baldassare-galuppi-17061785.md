@@ -5,7 +5,7 @@ date: 2015-07-13
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Galuppi_0316ebe6da.png"
+image: "/images/news-old-website/csm_Galuppi_0316ebe6da.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/baldassare-galuppi-1706-1785.html
 email: ''
 author: ''

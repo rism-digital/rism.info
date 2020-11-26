@@ -5,7 +5,7 @@ date: 2013-11-21
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Stift_2332bee5a6.jpg"
+image: "/images/news-old-website/csm_Stift_2332bee5a6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/performance-musical-rarity-from-wilhering-abbey-1.html
 email: stefan.ikarus.kaiser@univie.ac.at
 author: Ikarus Kaiser

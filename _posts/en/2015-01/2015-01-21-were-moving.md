@@ -5,7 +5,7 @@ date: 2015-01-21
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Umzug_7521db8844.jpg"
+image: "/images/news-old-website/csm_Umzug_7521db8844.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/were-moving.html
 email: ''
 author: ''

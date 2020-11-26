@@ -5,7 +5,7 @@ date: 2019-07-18
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Polen_Titel_nach_2017_fc909847db.png"
+image: "/images/news-old-website/csm_Polen_Titel_nach_2017_fc909847db.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-sources-in-rism-since-2017.html
 email: ''
 author: ''

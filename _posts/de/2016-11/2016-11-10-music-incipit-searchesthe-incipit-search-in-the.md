@@ -5,7 +5,7 @@ date: 2016-11-10
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
+image: "/images/news-old-website/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-incipit-searches.html
 email: ''
 author: ''
@@ -25,7 +25,7 @@ Der Online-Katalog bietet zwei verschiedene Suchmöglichkeiten an, die jeweils m
 **1.Suche mit Tonbuchstaben**
 
 1. In der **Erweiterten Suche** das Feld **Notenanfang** oder **Notenanfang (mit Transposition)** auswählen.
-![Incipit search in online catalog](http://rism.info/fileadmin/content/news/incipit_search_field_993_184.jpg)
+![Incipit search in online catalog](http://rism.info/resources-old-website/news/incipit_search_field_993_184.jpg)
 
 2. Die Suche funktioniert unabhängig von Groß- und Kleinschreibung. Es kann sowohl der international übliche Tonbuchstabe **B** als auch das in Deutschland verwendete **H** eingesetzt werden.
 
@@ -36,7 +36,7 @@ Der Online-Katalog bietet zwei verschiedene Suchmöglichkeiten an, die jeweils m
 **2. Suche mit Hilfe der Virtuellen Klaviatur**
 
 Unterhalb der Suchschlitze ist eine virtuelle Klaviertastatur angebracht, über die mit Hilfe der Maus ebenfalls Notenincipits eingegeben werden können.
-![Incipit search with keyboard](http://rism.info/fileadmin/content/news/incipit_search_keyboard_965_415.jpg)
+![Incipit search with keyboard](http://rism.info/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
 
 -
 
@@ -130,7 +130,7 @@ Das Angebot geht über das den RISM Online-Katalogs hinaus, da es eine Schätzun
 
 Nehmen wir als Beispiel das Incipit des Volkslieds "Roslin Castle" ([RISM ID no. 900005286](https://opac.rism.info/search?id=900005286){:target="_blank"}). Nach Eingabe der RISM ID-Nummer in die entsprechende Suchbox erhalten Sie [50 Treffer](https://www.projects.science.uu.nl/monochord/risma2/results/db/1142439/s200){:target="_blank"}. Ab dem 23. Incipit sind die Incipits nicht mehr exakt gleich, aber die Liste bietet weitere Incipits mit dem Titel "Roslin Castle" an. Berücksichtigt wurde auch Incipits, die der Melodie von "Roslin Castle" folgen oder rhythmische Ähnlichkeiten aufweisen. Die Suche findet auch Unterschiede in der Transposition, Tonhöhe, rhythmische Veränderungen, eingefügte und ausgelassene Noten und Verzierungen.
 
-![Incipit search from Utrecht](http://rism.info/fileadmin/content/news/incipit_search_Utrecht_example_817_708.jpg)
+![Incipit search from Utrecht](http://rism.info/resources-old-website/news/incipit_search_Utrecht_example_817_708.jpg)
 
 Das Experimentieren mit der Seite bringt interessante Ergebnisse – [schauen Sie mal](https://www.projects.science.uu.nl/monochord/risma2/results/db/885184/s200){:target="_blank"} auf die Komponistennamen, die nach der Suche eines [anonymen Stabat mater](https://opac.rism.info/search?View=rism&documentid=650009813){:target="_blank"} angezeigt werden.
 

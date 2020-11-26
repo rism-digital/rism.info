@@ -5,7 +5,7 @@ date: 2013-06-19
 lang: en
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Rauch_R_351_be7983603a.jpg"
+image: "/images/news-old-website/csm_Rauch_R_351_be7983603a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-site-in-germany-tower-library-nuertingen.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser

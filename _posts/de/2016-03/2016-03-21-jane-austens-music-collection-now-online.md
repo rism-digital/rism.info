@@ -5,7 +5,7 @@ date: 2016-03-21
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Jane_Austen_Musiksammlung_ae728c3047.jpg"
+image: "/images/news-old-website/csm_Jane_Austen_Musiksammlung_ae728c3047.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jane-austens-music-collection-now-online.html
 email: ''
 author: ''

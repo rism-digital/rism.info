@@ -5,7 +5,7 @@ date: 2016-08-25
 lang: en
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
+image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2015-06-26
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_D-FW_0931485874.jpg"
+image: "/images/news-old-website/csm_D-FW_0931485874.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
 email: guido.kraus@rism.info
 author: Guido Kraus

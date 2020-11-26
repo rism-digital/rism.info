@@ -5,7 +5,7 @@ date: 2018-02-21
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Muttersprache_6db58dc9cd.png"
+image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
@@ -18,7 +18,7 @@ Im RISM Online-Katalog können Sie in der **Erweiterten Suche** über den Index 
 
 
 
-![Mozart title page](http://rism.info/fileadmin/content/news/Muttersprache_OPAC.png)
+![Mozart title page](http://rism.info/resources-old-website/news/Muttersprache_OPAC.png)
 
 
 

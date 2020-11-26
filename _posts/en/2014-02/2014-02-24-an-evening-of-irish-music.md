@@ -5,7 +5,7 @@ date: 2014-02-24
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
+image: "/images/news-old-website/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/an-evening-of-irish-music.html
 email: ''
 author: ''

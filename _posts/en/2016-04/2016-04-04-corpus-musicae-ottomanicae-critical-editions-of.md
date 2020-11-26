@@ -5,7 +5,7 @@ date: 2016-04-04
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
+image: "/images/news-old-website/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/corpus-musicae-ottomanicae.html
 email: ''
 author: ''

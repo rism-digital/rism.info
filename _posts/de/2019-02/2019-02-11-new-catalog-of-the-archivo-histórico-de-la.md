@@ -5,7 +5,7 @@ date: 2019-02-11
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Katalog_MEX-Oc_Sumaya_Pedro_es_el_maestro_8ba87caf93.jpg"
+image: "/images/news-old-website/csm_Katalog_MEX-Oc_Sumaya_Pedro_es_el_maestro_8ba87caf93.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-catalog-of-the-archivo-historico-de-la-arquidiocesis-de-antequera-oaxaca-mexico.html
 email: edgaralex78@hotmail.com
 author: Edgar Alejandro Calderón Alcántar
@@ -24,23 +24,23 @@ Hinsichtlich der Komponisten enthält der Korpus vier Werke von Antonio de Salaz
 
 
 
-![De la Costa composition](http://rism.info/fileadmin/content/news/Katalog_MEX-Oc_de_la_costa.JPG)
+![De la Costa composition](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_de_la_costa.JPG)
 _Aria a Duo Con Violines_
 
 
-![Juan Matias](http://rism.info/fileadmin/content/news/Katalog_MEX-Oc_Juan_Matias.JPG)
+![Juan Matias](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Juan_Matias.JPG)
 _Cantada_
 
 
-![Salazar escuchen](http://rism.info/fileadmin/content/news/Katalog_MEX-Oc_Salazar_escuchen.JPG)
+![Salazar escuchen](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Salazar_escuchen.JPG)
 _Escuchen, escuchen_
 
 
-![Sumaya](http://rism.info/fileadmin/content/news/Katalog_MEX-Oc_Sumaya_corrientes_que_al_mar.JPG)
+![Sumaya](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Sumaya_corrientes_que_al_mar.JPG)
 _Corrientes que al mar_
 
 
-![Sumaya recitado](http://rism.info/fileadmin/content/news/Katalog_MEX-Oc_Sumaya_recitado.JPG)
+![Sumaya recitado](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Sumaya_recitado.JPG)
 
 
 

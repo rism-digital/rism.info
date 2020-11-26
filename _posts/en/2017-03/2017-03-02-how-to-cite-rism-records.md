@@ -5,7 +5,7 @@ date: 2017-03-02
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_zitieren_de56a1bcd3.jpg"
+image: "/images/news-old-website/csm_RISM_zitieren_de56a1bcd3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/how-to-cite-rism-records.html
 email: ''
 author: ''
@@ -59,7 +59,7 @@ As new imprints are added to the database, however, the numbering system used in
 
 **Electronic publications:** Each record in the online catalog has a permalink. Permalinks can be used to link to the RISM record in electronic publications (as I've done throughout this post). The permalink is linked above the composer's name in a record:
 
-![RISM permalink](http://rism.info/fileadmin/content/news/RISM_zitieren_permalink_1029_x_397.jpg)
+![RISM permalink](http://rism.info/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
 
 
 -

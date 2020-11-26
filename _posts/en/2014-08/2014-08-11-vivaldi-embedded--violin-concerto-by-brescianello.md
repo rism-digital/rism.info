@@ -5,7 +5,7 @@ date: 2014-08-11
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Vivaldi_embeded_a19db0b2ca.jpg"
+image: "/images/news-old-website/csm_Vivaldi_embeded_a19db0b2ca.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vivaldi-embedded.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck

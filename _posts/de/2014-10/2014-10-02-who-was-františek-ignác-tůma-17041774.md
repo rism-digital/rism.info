@@ -5,7 +5,7 @@ date: 2014-10-02
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Frantisek_Tuma_by_Anton_Hickel_4aa4179ca3.jpg"
+image: "/images/news-old-website/csm_Frantisek_Tuma_by_Anton_Hickel_4aa4179ca3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/who-was-frantisek-ignac-tuma-1704-1774.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2010-06-23
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Brahms-Ms-001-web_98728df419.jpg"
+image: "/images/news-old-website/csm_Brahms-Ms-001-web_98728df419.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-previously-unknown-works-by-johannes-brahms-discovered.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser

@@ -5,7 +5,7 @@ date: 2017-09-11
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Field_John_dcb2de03f2.png"
+image: "/images/news-old-website/csm_Field_John_dcb2de03f2.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/john-fields-piano-nocturnes.html
 email: ''
 author: ''

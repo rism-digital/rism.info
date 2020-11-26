@@ -5,7 +5,7 @@ date: 2018-08-02
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Rebay_Ferdinand_84f8b63176.jpg"
+image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele

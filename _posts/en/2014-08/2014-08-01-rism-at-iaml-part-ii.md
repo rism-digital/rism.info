@@ -5,7 +5,7 @@ date: 2014-08-01
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_IAML-Schokolade_b149819c3a.jpg"
+image: "/images/news-old-website/csm_IAML-Schokolade_b149819c3a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-ii.html
 email: ''
 author: ''

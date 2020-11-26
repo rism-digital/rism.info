@@ -13,7 +13,7 @@ _Series A/I:_ _Individual Prints Before 1800_ was published in 2011 as a databas
 
 In 2015, the contents of this CD-ROM were transferred to the free online catalog.
 
- ![](/fileadmin/_processed_/csm_AIICD-ROM_b70cfdd3ab.jpg "AIICD-ROM")
+ ![](/images/news-old-website/csm_AIICD-ROM_b70cfdd3ab.jpg "AIICD-ROM")
 
 ## Series A/II: Music Manuscripts after 1600
 

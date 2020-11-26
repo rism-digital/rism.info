@@ -5,7 +5,7 @@ date: 2020-07-13
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
+image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org
 author: Barbara Strauss

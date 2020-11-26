@@ -5,7 +5,7 @@ date: 2016-12-22
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Weihnachten_2016_8ac6e52ab8.jpg"
+image: "/images/news-old-website/csm_Weihnachten_2016_8ac6e52ab8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-holidays-2016.html
 email: ''
 author: ''

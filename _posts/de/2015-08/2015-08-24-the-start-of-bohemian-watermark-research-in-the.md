@@ -5,7 +5,7 @@ date: 2015-08-24
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Watermark_Research_4f16332722.jpg"
+image: "/images/news-old-website/csm_Watermark_Research_4f16332722.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá

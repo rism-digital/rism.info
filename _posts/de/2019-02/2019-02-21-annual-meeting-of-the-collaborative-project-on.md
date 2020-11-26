@@ -5,7 +5,7 @@ date: 2019-02-21
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_IMG_1784_875b2775ab.jpg"
+image: "/images/news-old-website/csm_IMG_1784_875b2775ab.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
 email: tzchia22@gmail.com
 author: Tzu-Chia Tseng
@@ -26,7 +26,7 @@ Als eingeladene Vertreterin der Konferenz stellte Jennifer Ward den Teilnehmern 
 
 
 
-![](/fileadmin/_processed_/csm_IMG_1767_2ef4c9dc51.jpg)
+![](/images/news-old-website/csm_IMG_1767_2ef4c9dc51.jpg)
 
 
 

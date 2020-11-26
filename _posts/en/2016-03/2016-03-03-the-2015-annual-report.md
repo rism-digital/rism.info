@@ -5,7 +5,7 @@ date: 2016-03-03
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Jahresbericht_2015_Graupner_bf7a17b880.jpg"
+image: "/images/news-old-website/csm_Jahresbericht_2015_Graupner_bf7a17b880.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2015-annual-report.html
 email: ''
 author: ''

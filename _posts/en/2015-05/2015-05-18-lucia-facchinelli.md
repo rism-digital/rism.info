@@ -5,7 +5,7 @@ date: 2015-05-18
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Facchinelli_b5c7163c23.jpg"
+image: "/images/news-old-website/csm_Facchinelli_b5c7163c23.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lucia-facchinelli.html
 email: ''
 author: ''

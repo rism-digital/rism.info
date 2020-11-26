@@ -5,7 +5,7 @@ date: 2019-07-29
 lang: de
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
+image: "/images/news-old-website/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
 email: emily.hopkins@mcgill.ca
 author: Emily Hopkins

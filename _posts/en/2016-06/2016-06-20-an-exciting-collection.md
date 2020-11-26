@@ -5,7 +5,7 @@ date: 2016-06-20
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
+image: "/images/news-old-website/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/an-exciting-collection.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger

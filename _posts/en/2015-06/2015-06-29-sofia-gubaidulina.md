@@ -5,7 +5,7 @@ date: 2015-06-29
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Gubaidulina_f1311d6a7a.jpg"
+image: "/images/news-old-website/csm_Gubaidulina_f1311d6a7a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-sofia-gubaidulina.html
 email: ''
 author: ''

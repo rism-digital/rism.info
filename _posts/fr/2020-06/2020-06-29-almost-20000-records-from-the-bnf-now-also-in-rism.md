@@ -5,7 +5,7 @@ date: 2020-06-29
 lang: fr
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
+image: "/images/news-old-website/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
 email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy

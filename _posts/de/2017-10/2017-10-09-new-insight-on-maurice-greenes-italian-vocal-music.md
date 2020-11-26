@@ -5,7 +5,7 @@ date: 2017-10-09
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Greenes_Italian_2ae50396f0.jpg"
+image: "/images/news-old-website/csm_Greenes_Italian_2ae50396f0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
 email: ''
 author: ''

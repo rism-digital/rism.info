@@ -5,7 +5,7 @@ date: 2015-12-17
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Anonymus_identifiziert_von_Nutzern_usw_5560e90474.jpg"
+image: "/images/news-old-website/csm_Anonymus_identifiziert_von_Nutzern_usw_5560e90474.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/setting-the-rism-records-straight.html
 email: contact@rism.info
 author: ''

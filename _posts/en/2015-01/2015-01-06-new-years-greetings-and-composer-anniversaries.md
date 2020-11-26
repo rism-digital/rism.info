@@ -5,7 +5,7 @@ date: 2015-01-06
 lang: en
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Neujahrsgruss_01_47be7de03b.jpg"
+image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2013-02-04
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Mercer_6dd0a601d6.jpg"
+image: "/images/news-old-website/csm_Mercer_6dd0a601d6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/first-phase-of-the-rism-ireland-database-launched.html
 email: catherine.ferris@dit.ie
 author: Dr Catherine Ferris

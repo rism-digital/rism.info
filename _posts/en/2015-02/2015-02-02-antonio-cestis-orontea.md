@@ -5,7 +5,7 @@ date: 2015-02-02
 lang: en
 post: true
 category: press_reviews
-image: "/uploads/_processed_/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg"
+image: "/images/news-old-website/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/antonio-cestis-orontea.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2016-08-22
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
+image: "/images/news-old-website/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/fete-des-vignerons.html
 email: ''
 author: ''

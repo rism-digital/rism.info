@@ -5,7 +5,7 @@ date: 2015-09-10
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Johann_Bach_e908765f80.jpg"
+image: "/images/news-old-website/csm_Johann_Bach_e908765f80.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-bach-or-searching-for-unclear-composers.html
 email: alexander.marxen@rism.info
 author: ''

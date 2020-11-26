@@ -5,7 +5,7 @@ date: 2010-10-20
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_cherubini_0658ee83ca.jpg"
+image: "/images/news-old-website/csm_cherubini_0658ee83ca.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/luigi-cherubini-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta

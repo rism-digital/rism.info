@@ -5,7 +5,7 @@ date: 2017-11-02
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Conservatorio_logo_2da0b93118.jpg"
+image: "/images/news-old-website/csm_Conservatorio_logo_2da0b93118.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musicologists-muscat-and-mexico.html
 email: ''
 author: ''
@@ -16,7 +16,7 @@ RISM was invited to the conference "[Celebración y Sonoridad en Hispanoamérica
 
 The conference included participants from all over Latin America and included talks on current research, book presentations, and concerts. Over 30 people took part in the Muscat workshop, which took place over three days. I was especially glad to see John Lazos (RISM Canada/Mexico) and Antonio Ezquerro (RISM Spain) there, who were both a great help during the workshop and were able to answer many questions concerning RISM description guidelines. Antonio's _Normas internacionales para la catalogación de fuentes musicales históricas_ (Madrid: Arco/Libros, 1996) was published over 20 years ago and is still widely known in the Spanish-speaking Americas. A revision of the guidelines in Spanish, specific to Muscat, is planned.
 
-During the conference, I heard many references to our [RISM A/I numbers (printed music)](/publications.html#c36), saw evidence for concordant sources in European libraries, especially in Portugal and Spain, and in general heard about many documentation projects that aim to catalog holdings of important libraries, archives, and cathedrals. My presentation ([slides available here](/fileadmin/content/community-content/Zentralredaktion/Ward_RISM_in_Latin_America_Morelia_for_web.pdf "Initiates file download")) focused on how Latin American countries are represented in RISM. The RISM online catalog currently contains sources from these Latin American countries:
+During the conference, I heard many references to our [RISM A/I numbers (printed music)](/publications.html#c36), saw evidence for concordant sources in European libraries, especially in Portugal and Spain, and in general heard about many documentation projects that aim to catalog holdings of important libraries, archives, and cathedrals. My presentation ([slides available here](/resources-old-website/community-content/Zentralredaktion/Ward_RISM_in_Latin_America_Morelia_for_web.pdf)) focused on how Latin American countries are represented in RISM. The RISM online catalog currently contains sources from these Latin American countries:
 
 - Mexico: [557 records](https://opac.rism.info/search?View=rism&siglum=MEX-*&Language=en){:target="_blank"}
 - Brazil: [459 records](https://opac.rism.info/search?View=rism&siglum=BR-*&Language=en){:target="_blank"}

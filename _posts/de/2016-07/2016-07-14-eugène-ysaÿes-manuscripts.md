@@ -5,7 +5,7 @@ date: 2016-07-14
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Ysaye_und_Bruessel_ee50e04932.jpg"
+image: "/images/news-old-website/csm_Ysaye_und_Bruessel_ee50e04932.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/eugene-ysayes-manuscripts.html
 email: ''
 author: ''

@@ -5,7 +5,7 @@ date: 2012-03-23
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Allegro_WolfgangoMozart_ReproITMf_1024_378f6903e1.jpg"
+image: "/images/news-old-website/csm_Allegro_WolfgangoMozart_ReproITMf_1024_378f6903e1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria-1.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
@@ -34,6 +34,6 @@ Listen to the first recording of the new Mozart piece beginning Saturday, March 
 
 
 
-Complete press release [English](/fileadmin/content/news/PM_E_HermannSchneider20120323.pdf "Initiates file download")
+Complete press release [English](/resources-old-website/news/PM_E_HermannSchneider20120323.pdf)
 
-[Modern edition](/fileadmin/content/news/NOTEN_MWA_A-RTgh_111014_p0178_Version1_Mozart_c_Hildegard_HermannSchneider.pdf "Initiates file download") of the piece (© Hildegard Herrmann-Schneider, 2012)
+[Modern edition](/resources-old-website/news/NOTEN_MWA_A-RTgh_111014_p0178_Version1_Mozart_c_Hildegard_HermannSchneider.pdf) of the piece (© Hildegard Herrmann-Schneider, 2012)

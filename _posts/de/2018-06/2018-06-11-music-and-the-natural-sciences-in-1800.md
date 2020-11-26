@@ -5,7 +5,7 @@ date: 2018-06-11
 lang: de
 post: true
 category: library_stocks
-image: "/uploads/_processed_/csm_Peale_Ode_Hawkins_9b711e1b78.jpg"
+image: "/images/news-old-website/csm_Peale_Ode_Hawkins_9b711e1b78.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-the-natural-sciences-in-1800.html
 email: ''
 author: ''

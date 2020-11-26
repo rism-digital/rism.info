@@ -5,7 +5,7 @@ date: 2016-02-19
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
+image: "/images/news-old-website/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
 email: ''
 author: ''

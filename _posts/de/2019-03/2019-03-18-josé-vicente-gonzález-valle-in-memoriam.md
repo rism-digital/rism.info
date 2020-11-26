@@ -5,7 +5,7 @@ date: 2019-03-18
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
+image: "/images/news-old-website/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jose-vicente-gonzalez-valle-in-memoriam.html
 email: ''
 author: ''

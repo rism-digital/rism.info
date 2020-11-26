@@ -5,7 +5,7 @@ date: 2015-12-18
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Belgium_institutions_map_5e425bebe5.jpg"
+image: "/images/news-old-website/csm_Belgium_institutions_map_5e425bebe5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-interactive-map-of-musical-institutions-in-belgium.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz

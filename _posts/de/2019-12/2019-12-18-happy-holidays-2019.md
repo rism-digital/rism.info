@@ -5,7 +5,7 @@ date: 2019-12-18
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Feiertage_b88cd06392.jpg"
+image: "/images/news-old-website/csm_Feiertage_b88cd06392.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-holidays-2019.html
 email: ''
 author: ''

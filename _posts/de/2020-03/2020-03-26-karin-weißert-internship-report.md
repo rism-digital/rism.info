@@ -5,7 +5,7 @@ date: 2020-03-26
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Logo_09_d0bbb2c881.jpg"
+image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert

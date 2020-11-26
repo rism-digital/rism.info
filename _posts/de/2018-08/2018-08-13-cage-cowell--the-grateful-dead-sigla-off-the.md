@@ -5,7 +5,7 @@ date: 2018-08-13
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Neue_Sigel_Aug_2018_2efb1ce1f6.png"
+image: "/images/news-old-website/csm_Neue_Sigel_Aug_2018_2efb1ce1f6.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cage-cowell-the-grateful-dead-sigla-off-the-beaten-rism-track.html
 email: ''
 author: ''

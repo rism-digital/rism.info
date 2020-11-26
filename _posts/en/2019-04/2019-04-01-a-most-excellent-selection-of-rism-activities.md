@@ -5,7 +5,7 @@ date: 2019-04-01
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm__Titelseite_Bild_9413cdf091.png"
+image: "/images/news-old-website/csm__Titelseite_Bild_9413cdf091.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-most-excellent-selection-of-rism-activities.html
 email: ''
 author: ''
@@ -16,7 +16,7 @@ We humbly announce the Immediate Availability of a most excellent and outstandin
 
 The Mind will be challenged and the Sprit will be most satisfied through Exercises such as Transposition, Composition, Drawing, Seeke & Finde, Spott the Difference && c. and all the Occupations befitting of all honorable and noble Peers. We assert that Connoisseurs and friends of music will be pleased with the pieces in the collection, all of which are newly compos'd for this Occasion.
 
-The Entirety of said Volume [may be down-loaded from this Site](/fileadmin/content/news/pdfaprilscherz.pdf "Initiates file download").
+The Entirety of said Volume [may be down-loaded from this Site](/resources-old-website/news/pdfaprilscherz.pdf).
 
 The Public is asked to share their Solutions with the Editors for assessment.
 

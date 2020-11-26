@@ -5,7 +5,7 @@ date: 2014-10-06
 lang: de
 post: true
 category: self_representation
-image: "/uploads/pics/Monaco.png"
+image: "/resources-old-website/pics/Monaco.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-and-first-siglum-for-monaco.html
 email: ''
 author: ''

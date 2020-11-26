@@ -5,7 +5,7 @@ date: 2017-12-21
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Weihnachtsgruss_2017_7573db1267.jpg"
+image: "/images/news-old-website/csm_Weihnachtsgruss_2017_7573db1267.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-holidays-2017.html
 email: ''
 author: ''

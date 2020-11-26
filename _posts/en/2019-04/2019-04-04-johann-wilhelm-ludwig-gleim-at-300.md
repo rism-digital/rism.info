@@ -5,7 +5,7 @@ date: 2019-04-04
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Gleim_10b7f2bb1f.png"
+image: "/images/news-old-website/csm_Gleim_10b7f2bb1f.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-wilhelm-ludwig-gleim-at-300.html
 email: ''
 author: ''

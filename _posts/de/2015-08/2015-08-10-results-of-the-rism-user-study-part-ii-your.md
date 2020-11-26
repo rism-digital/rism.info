@@ -5,7 +5,7 @@ date: 2015-08-10
 lang: de
 post: true
 category: self_representation
-image: "/uploads/_processed_/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg"
+image: "/images/news-old-website/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-rism-survey-we-respond-to-your-comments.html
 email: jennifer.ward@rism.info
 author: ''
