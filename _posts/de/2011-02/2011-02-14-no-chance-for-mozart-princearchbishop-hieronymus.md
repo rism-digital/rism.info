@@ -16,6 +16,4 @@ Der von seinen Zeitgenossen hoch verehrte Komponist Luigi Gatti (1740−1817) wi
 Tagungsort: Kardinal-Schwarzenberg-Haus, Kapitelplatz 3, Salzburg
 Beginn: 4. März 2011, 13:30 Uhr
 
-Nähere Informationen zu Programm und Rahmenprogramm \<media 315\>siehe angehängten Folder\</media\>!
-
 Um **Anmeldung zum Kammerkonzert** wird wegender beschränkten Zahl der Sitzplätze unter [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net "mailto:eva.neumayr@archiv.kirchen.net") gebeten!

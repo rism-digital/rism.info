@@ -20,19 +20,3 @@ Muscat is the open source program that RISM is developing along with RISM Switze
 Muscat will be launched in early November. Information about the program, along with a timeline and tutorials, can be found [on the Muscat page](/community/muscat.html).
 
 The new program will also be available at no charge to newcomers who are interested in collaborating with RISM. We will have more information about that later.
-
-Enjoy these pictures from the workshop!
-
-
-<script>
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-

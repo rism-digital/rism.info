@@ -25,7 +25,7 @@ Von vergangenen [IAML Kongressen](/publications/iaml-congresses.html){:target="_
 
 **Logos**: Logos stehen weiter unten zum Download bereit.
 
-**Poster**: Hier gibt es ein [RISM poster]( /organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
+**Poster**: Hier gibt es ein [RISM poster]( /resources/organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
 
 **Rezensionen zu RISM**: Veröffentlichungen des RISM wurden in der wissenschaftlichen Literatur rezensiert. Siehe die [RISM Bibliographie](/publications/bibliography.html).
 
@@ -64,7 +64,7 @@ Giovanni Bononcini, Cantate e duetti:
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Nicht alles aus den Büchern befindet sich im OPAC (eine Übersicht finden Sie auf der Seite Publikationen). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform]( /organization/RISM_Citation_Styles_2019_06.pdf), die A/I, alle Bände der B-Serie und den OPAC enthält.
+Nicht alles aus den Büchern befindet sich im OPAC (eine Übersicht finden Sie auf der Seite Publikationen). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), die A/I, alle Bände der B-Serie und den OPAC enthält.
 
 Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstützung bei der Entwicklung dieser Tools.
 

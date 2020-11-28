@@ -30,7 +30,3 @@ In der Datenbank des RISM ist das Klavierbuch „Sterzing 1780“ bereits vollst
 Die Stiftung Mozarteum Salzburg präsentiert dieses Klavierstück öffentlich am 23. März 2012 um 11.00 Uhr im Tanzmeistersaal des Mozart-Wohnhauses in Salzburg. Florian Birsak interpretiert es dabei an Mozarts originalem Hammerklavier.
 
 Hören Sie ab Samstag den 24.3.2012 die erste Einspielung des neuen Mozart Stücks mit Florian Birsak am originalen Mozart Hammerklavier auf iTunes und bereits jetzt einen Ausschnitt auf [http://allegro.mozarteum.at/](http://allegro.mozarteum.at/)
-
-Vollständiger Pressetext \<media 445\>deutsch\</media\>
-
-\<media 443\>Noten-Edition\</media\> (© Hildegard Herrmann-Schneider, 2012)

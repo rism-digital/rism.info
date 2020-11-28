@@ -13,6 +13,4 @@ author: Hildegard Herrmann-Schneider
 
 Am 22. und 23. Dezember 2012 erklingt zum alljährlichen _Tiroler Weihnachtskonzert_ in Innsbruck wieder eine neue Folge von Tiroler Weihnachtsmusik, zum vierten Mal aus dem reichen Musikschatz von Stift Stams (A-ST).
 
-\<media 520\>weiterlesen \</media\>(PDF)
-
 Bild: _Missa pastoralis_ von Fabian Sebastian Lanzinger ([RISM-ID-Nr.](http://opac.rism.info/search?documentid=650013332){:target="_blank"}[650013332](http://opac.rism.info/search?documentid=650013332){:target="_blank"})

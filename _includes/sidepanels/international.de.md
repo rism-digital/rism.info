@@ -14,4 +14,4 @@ Telefax +49 69 706026
 E-Mail: [contact@rism.info](contact@rism.info)
 
 **Leiter der Zentralredaktion:**  
-Klaus Keil 
+Dr. Balázs Mikusi 
