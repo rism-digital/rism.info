@@ -40,7 +40,7 @@ Von vergangenen [IAML Kongressen](/publications/iaml-congresses.html){:target="_
 * Direkte URL für die Erweiterte Suche in Deutsch:  
 [https://opac.rism.info/index.php?id=3&L=1](https://opac.rism.info/index.php?id=3&L=1){:target="_blank"}
 * Schneller Link zu allen Einträgen im RISM-OPAC:  
-[https://opac.rism.info/search?View=rism&q=*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
+[https://opac.rism.info/search?View=rism&q=\*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
 * Permalinks finden Sie in jedem RISM-Datensatz oben links, wenn Sie auf das Kettengliedsymbol klicken. Die in der Adressleiste des Browsers angezeigten URLs sind nicht stabil.
 * Informationen zum Erstellen stabiler URLs für bestimmte Suchstrings finden Sie unter "[Link zum Eintrag oder zur Suche](https://opac.rism.info/index.php?id=8&L=1#c49){:target="_blank"}" auf der OPAC-Seite.
 

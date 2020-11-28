@@ -40,7 +40,7 @@ Also look at past [IAML congresses](/publications/iaml-congresses.html){:target=
 * Direct URL of the Advanced Search in English:  
 [https://opac.rism.info/index.php?id=3](https://opac.rism.info/index.php?id=3)
 * Quick link to all records in the RISM OPAC:  
-[https://opac.rism.info/search?View=rism&q=*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
+[https://opac.rism.info/search?View=rism&q=\*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
 * Permalinks are found in each RISM record in the top left when you click on the chain link symbol. The URLs that appear in the browser's address bar are not stable.
 * To make a permalink go directly to the page in English, add this to the end of the permalink:`&Language=en`  
 Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](https://opac.rism.info/search?id=453009722&View=rism&Language=en){:target="_blank"}
