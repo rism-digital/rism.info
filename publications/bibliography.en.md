@@ -559,7 +559,7 @@ Falletta, Martina, Renate Hüsken, and Klaus Keil. _RISM - Wissenschaftliche und
 
 Geck, Karl Wilhelm and Andrea Hartmann. "Musikmanuskripte en détail et en gros." _BIS – Das Magazin der Bibliotheken in Sachsen_ 3 (2010): 180-182. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-61283){:target="_blank"}.
 
-**Heckmann,**  **Harald. "** Das Répertoire International des Souces Musicales **(RISM) in Geschichte und Gegenwart."** _Fontes Artis Musicae_ 57 (2010): 140-147.
+**Heckmann,**  **Harald. "** Das Répertoire International des Souces Musicales **(RISM) in Geschichte und Gegenwart."**Fontes Artis Musicae_ 57 (2010): 140-147.
 
 Petrobelli, Pierluigi. "Towards a RISM series for libretti."_Fontes artis musicae_57, no. 2 (April-June, 2010): 135-139. [Link to JSTOR](http://www.jstor.org/stable/23512324){:target="_blank"}
 
@@ -569,7 +569,7 @@ Urbano, Julián, Mónica Marrero, Diego Martín, and Juan Lloréns. "Improving t
 
 Van Kranenburg, Peter. "A Computational Approach to Content-Based Retrieval." PhD diss., Universiteit Utrecht, 2010. [Available online](https://pure.knaw.nl/ws/files/482404/pvankranenburg_proefschrift.pdf){:target="_blank"}.
 
-Zappalà, Pietro, ed. "RISM B/I (Recueils imprimés XVI-XVII siècles): Indice dei compositori." 2005-2010. [Available online](http://www.rism.info/resources-old-website/community-content/Zentralredaktion/RecueilsKomponistenindex.pdf){:target="_blank"}.
+Zappalà, Pietro, ed. "RISM B/I (Recueils imprimés XVI-XVII siècles): Indice dei compositori." 2005-2010. [Available online](/resources-old-website/community-content/Zentralredaktion/RecueilsKomponistenindex.pdf){:target="_blank"}.
 
 **2011:**  
 Brinzing, Armin. "RISM und Bibliotheken – Stand und Perspektiven der Musikhandschriftenerschließung in Deutschland." _Forum Musikbibliothek_ 32 (2011): 9-14.
@@ -602,28 +602,28 @@ Kraus, Guido. "Sixty years of the RISM." In_Source Studies in Musical Culture_, 
   
 "[Music Documentation in Libraries, Scholarship, and Practice](/en/publications/music-documentation-2012.html)": RISM 60th Anniversary Conference. The following papers are available online:
 
-- Adams, Sarah. "Update on the US Working Group." [Available online](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Adams.pdf).
-- Diet, Jürgen. "Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources." [Slides](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)[available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)
-- Ferris, Catherine. "RISM Activity in the UK and Ireland." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Ferris.pdf)
+- Adams, Sarah. "Update on the US Working Group." [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Adams.pdf).
+- Diet, Jürgen. "Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources." [Slides](/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)[available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)
+- Ferris, Catherine. "RISM Activity in the UK and Ireland." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Ferris.pdf)
 - Gentili-Tedeschi, Massimo. "Music Manuscripts as a Special Case toward the Extension of Bibliographic Descriptive Standards for Unpublished Resources." [Available online.](http://www.urfm.braidense.it/rism2012)
-- Gialdroni, Teresa M. "Clori, Archivio della cantata italiana: Current State of Progressand New Perspectives." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Gialdroni.pdf)
-- Graham, Anne and Deborah Pierce. "RISM Data as Metadata for Digital Collections." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Graham_Pierce.pdf)
-- Hartmann, Andrea. "The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden."(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden.) [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Hartmann.pdf)
-- Herrmann-Schneider, Hildegard. "'Die Musikbibliographie ist die Grundlage alles historischen Wissens.' On Today'sRelevance of Robert Eitner's CentralIdea from 1898." ('Die Musikbibliographie ist die Grundlage alles historischen Wissens'. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute.) [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf)
-- Heinmaa, Heidi. "Musical Sources in Estonian Collections." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Heinmaa.pdf)
-- Kaiser, Stefan Ikarus. "The Music Collection at Wilhering Abbey." (Musiksammlung des Stiftes Wilhering.) [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf)
-- Katalinic, Vjera and Lucija Konfic. "Project RISM in Croatia: The Past Decade." [Available online (paper)](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf)[(slides)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf)
-- Kokole, Metoda and Klemen Grabnar. "RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks." [Available online](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf)
-- Krabbe, Niels and Axel Teich Geertinger. "MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf)
-- Loos, Helmut. "Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities." (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen.)[Available online](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf)[(German)](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) [(English summary)](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf)
-- Lundberg, Mattias. "The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?" [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf)
-- Mądry, Alina. "Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena." (A Collection of Music Manuscripts from the Archive of the Archdiocese in Poznań: St. Maria Magdalena Collegiate Church.) [Available online (p](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)[aper](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)[)](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)  [(s](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf)[lides)](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf)
-- Oustachev, Stanislav. "The RISM Project atthe Glinka Museum." [Available online](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf).
-- Pugin, Laurent. "The Use of METS for Delivering Digital Objects together with RISM Catalog Records." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf)
-- Rassina, Emilia. "Current Work of RISM in Russia." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf)
-- Sawicka, Ludmiła. "The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)." (Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement--Breslau, Warschau und Grüssau.) [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf)
-- Tröster, Sonja and Birgit Lodes. "Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment." [Available online.](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Troester.pdf)
-- Wagner, Undine. "Archives of Lay Musicians as Evidence of Church Music Practice in Thuringia: Holdings atthe Thuringian Regional Music Archive and Cataloging for RISM." (Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM.) [Available online](http://www.rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf).
+- Gialdroni, Teresa M. "Clori, Archivio della cantata italiana: Current State of Progressand New Perspectives." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Gialdroni.pdf)
+- Graham, Anne and Deborah Pierce. "RISM Data as Metadata for Digital Collections." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Graham_Pierce.pdf)
+- Hartmann, Andrea. "The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden."(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Hartmann.pdf)
+- Herrmann-Schneider, Hildegard. "'Die Musikbibliographie ist die Grundlage alles historischen Wissens.' On Today'sRelevance of Robert Eitner's CentralIdea from 1898." ('Die Musikbibliographie ist die Grundlage alles historischen Wissens'. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf)
+- Heinmaa, Heidi. "Musical Sources in Estonian Collections." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Heinmaa.pdf)
+- Kaiser, Stefan Ikarus. "The Music Collection at Wilhering Abbey." (Musiksammlung des Stiftes Wilhering.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf)
+- Katalinic, Vjera and Lucija Konfic. "Project RISM in Croatia: The Past Decade." [Available online (paper)](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf)[(slides)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf)
+- Kokole, Metoda and Klemen Grabnar. "RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks." [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf)
+- Krabbe, Niels and Axel Teich Geertinger. "MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf)
+- Loos, Helmut. "Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities." (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen.)[Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf)[(German)](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) [(English summary)](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf)
+- Lundberg, Mattias. "The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?" [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf)
+- Mądry, Alina. "Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena." (A Collection of Music Manuscripts from the Archive of the Archdiocese in Poznań: St. Maria Magdalena Collegiate Church.) [Available online (p](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)[aper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)[)](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)  [(s](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf)[lides)](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf)
+- Oustachev, Stanislav. "The RISM Project atthe Glinka Museum." [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf).
+- Pugin, Laurent. "The Use of METS for Delivering Digital Objects together with RISM Catalog Records." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf)
+- Rassina, Emilia. "Current Work of RISM in Russia." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf)
+- Sawicka, Ludmiła. "The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)." (Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement--Breslau, Warschau und Grüssau.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf)
+- Tröster, Sonja and Birgit Lodes. "Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Troester.pdf)
+- Wagner, Undine. "Archives of Lay Musicians as Evidence of Church Music Practice in Thuringia: Holdings atthe Thuringian Regional Music Archive and Cataloging for RISM." (Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM.) [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf).
 
 Pugin, Laurent, Andrew Hankinson, and Ichiro Fujinaga. "Digital Preservation and Access Strategies for Musical Heritage: The Swiss RISM Experience." _OCLC Systems & Services: International Digital Library Perspectives_ 28, no. 1 (2012): 43-55. [doi:10.1108/10650751211197068](https://doi.org/10.1108/10650751211197068){:target="_blank"}.  
   
@@ -765,7 +765,7 @@ Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fon
   
 Falletta, Martina, Alexander Marxen, and Jennifer Ward. "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse." _Forum Musikbibliothek_ 37 (2016): 7-15.  
   
-Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](http://www.rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
+Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](/resources-old-website/community-content/Zentralredaktion/Umfrage/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
   
 Giezeman, Geert-Jan. "RISM incipit retrieval: Architecture of the software and data." 2016. Technical documentation for the [RISM search by Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.   
   
@@ -981,10 +981,6 @@ Henry, Stephen. _Notes_ (December 2012): 392-396. [Link to JSTOR](http://www.jst
 
 Rose, Stephen. "RISM in the Digital Age." _Early Music_ (February 2013): 158-160. [Link to article](http://em.oxfordjournals.org/content/41/1/158.full.pdf+html){:target="_blank"}
 
-
-
-
-
 ### Series A/II: Musical Manuscripts after 1600
 
 **Microfiche edition:**  
@@ -1010,10 +1006,6 @@ Balz, Nina. "RISM-Katalog kostenlos online." _Ars Organi: Zeitschrift für das O
 Colvin, Jenny._Music Reference Services Quarterly_14, no. 3 (2011): 170-171. [Link to article](http://dx.doi.org/10.1080/10588167.2011.597247){:target="_blank"}
 
 Tsou, Judy. _Notes_ (June 2011): 789-792. [Link to JSTOR](http://www.jstor.org/stable/23012840){:target="_blank"}
-
-
-
-
 
 ### Series B
 
