@@ -117,10 +117,10 @@ Die Referate sind alphabetisch sortiert.
 
 **Ludmiła Sawicka** (RISM Poland):The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)   
 (Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement--Breslau, Warschau und Grüssau)  
-\<media 571\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf) (PDF)
 
 **Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf) (PDF)
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Troester.pdf) (PDF)
 
 **Steffen Voss** (RISM Germany): The Instrumental Repertoire of the Dresden Court: AReport onthe DFG Project at the SLUB Dresden (Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden)
 

@@ -27,9 +27,6 @@ Etwa die Hälfte der Befragten (48%, 258 Personen) antworteten, dass Sie RISM (e
 
 ![Frage 3](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
 
-\<media 938\>_Click for a larger image._\</media\>
-
-
 **3. Wie oft benutzen Sie den Online-Katalog?**
 
 Wir erhielten 538 gültige Antworten auf diese Frage (12 Antworten waren leer und eine war irrelevant).
@@ -39,8 +36,6 @@ Die Mehrheit der Befragten (68%, 367 Personen) besuchen den RISM Online-Katalog 
 Von den 258 Personen, die RISM seit mehr als 10 Jahren nutzen, nutzen es 125 (48%) mehrmals im Monat.
 
 ![Frage 43](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
-
-\<media 934\>_Click for a larger image._\</media\>
 
 **43. Ihrer Meinung nach, welche 3 Worte beschreiben RISM am besten?**
 
