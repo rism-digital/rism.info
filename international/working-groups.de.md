@@ -26,7 +26,7 @@ Section de la Musique\
 B-1000 Bruxelles\
 Telefon: +32 2 5195663\
 Fax: +32 2 5195760\
-E-Mail: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)\
+E-Mail: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)
 
 Arbeitsgruppe Leuven
 
@@ -37,7 +37,7 @@ Parijsstraat 72 B\
 B-3000 Leuven\
 Telefon: +32 16 32 99 54\
 Fax: +32 16 32 99 53\
-E-Mail: [mariet.calsius@resonant.be](mailto:mariet.calsius@resonant.be)\
+E-Mail: [mariet.calsius@resonant.be](mailto:mariet.calsius@resonant.be)
 
 ## BRASILIEN
 
@@ -67,8 +67,8 @@ Central Conservatory of Music Library\
 Baojia Street No.43, Xicheng District, Beijing, 100031\
 China\
 Telefon: +86 10 66425609\
-E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn), [wingho@ccom.edu.cn](mailto:wingho@ccom.edu.cn)\
-Webseite: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/)
+E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn), [wingho@ccom.edu.cn](mailto:wingho@ccom.edu.cn)
+Webseite: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/){:target="_blank"}
 
 Dr. Huang Chun-Zen (Director)\
 Tseng Tzu-Chia\
@@ -77,7 +77,7 @@ Digital Archive Center for Music of National Taiwan Normal University \
 Taiwan (R.O.C.)\
 Telefon: +886 2 7734 1692\
 E-Mail: [tzchia22@gmail.com](mailto:tzchia22@gmail.com), [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw),\
-Webseite: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
+Webseite: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/){:target="_blank"}
 
 Dr. Yang Yandi (Director)\
 Han Bin\
@@ -86,7 +86,7 @@ Shanghai Conservatory of Music Library\
 China\
 Telephone: +86 21 64315745\
 Email: [hanbin@shcmusic.edu.cn](mailto:hanbin@shcmusic.edu.cn), [yyd@shcmusic.edu.cn](mailto:yyd@shcmusic.edu.cn)\
-Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/)
+Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/){:target="_blank"}
 
 Weng Chih-Tsung (Director)\
 Huang Hsin-Ying\
@@ -95,7 +95,7 @@ No. 751, Wenlin Rd., Shilin Dist., Taipei City, 111\
 Taiwan (R.O.C.)\
 Telefon: +886 2 25550288 #305\
 E-Mail: [bhsinying@ncfta.gov.tw](mailto:bhsinying@ncfta.gov.tw), [won540505@gmail.com](mailto:won540505@gmail.com), \
-Webseite: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)\
+Webseite: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/){:target="_blank"}
 
 Dr. Nora Yeh, International advisor\
 E-Mail: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
@@ -118,7 +118,7 @@ Postboks 2149\
 DK-1016 Kopenhagen K\
 Telefon: +45 33 930111\
 E-Mail: [aoj@kb.dk](mailto:aoj@kb.dk)\
-Webseite: [http://www.kb.dk/en/nb/materialer/musik/](http://www.kb.dk/en/nb/materialer/musik/){:target="_blank"}\
+Webseite: [http://www.kb.dk/en/nb/materialer/musik/](http://www.kb.dk/en/nb/materialer/musik/){:target="_blank"}  
 
 ## DEUTSCHLAND
 
@@ -162,7 +162,7 @@ Biskopsgatan 17\
 Telefon: +358 2 2654340\
 Fax: +358 2 2518528\
 E-Mail: [ijakobss@abo.fi](mailto:ijakobss@abo.fi)\
-Webseite: [http://www.sibeliusmuseum.abo.fi/](http://www.sibeliusmuseum.abo.fi/){:target="_blank"}\
+Webseite: [http://www.sibeliusmuseum.abo.fi/](http://www.sibeliusmuseum.abo.fi/){:target="_blank"}
 
 ## FRANKREICH
 
@@ -211,7 +211,7 @@ Viale Castro Pretorio 105\
 I-00185 Roma\
 Telefon & Fax: +39 06 491325\
 E-Mail: [ibimus@libero.it](mailto:ibimus@libero.it)\
-Webseite: [http://www.ibimus.it/](http://www.ibimus.it/){:target="_blank"}\
+Webseite: [http://www.ibimus.it/](http://www.ibimus.it/){:target="_blank"}  
 
 Dr. Attilio Rossi\
 Ufficio Ricerca Fondi Musicali\
@@ -220,7 +220,7 @@ I-20122 Milano\
 Telefon: +39 0276 011 822\
 Fax: +39 0276 003 097\
 E-Mail: [b-brai.urfm@beniculturali.it](mailto:b-brai.urfm@beniculturali.it)\
-Webseite: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidense.it/index/index.php){:target="_blank"}\
+Webseite: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidense.it/index/index.php){:target="_blank"}  
 
 ## JAPAN
 
@@ -232,7 +232,7 @@ Japan\
 Telefon: +81 425 36 0799\
 Fax: +81 425 35 7590\
 E-Mail: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
-Webseite: [https://www.lib.kunitachi.ac.jp/default_e.htm](https://www.lib.kunitachi.ac.jp/default_e.htm){:target="_blank"}\
+Webseite: [https://www.lib.kunitachi.ac.jp/default_e.htm](https://www.lib.kunitachi.ac.jp/default_e.htm){:target="_blank"}  
 
 ## KANADA
 
@@ -252,7 +252,7 @@ Departamento de Música  \
 Calle 19A n° 1-37 E - Bogotá  \
 Telefon +571 339 4949 ext. 3436  \
 E-Mail: rf.torres20@uniandes.edu.co  \
-Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/)
+Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/){:target="_blank"}
 
 ## KROATIEN
 
@@ -288,7 +288,7 @@ Lithuania\
 Telefon: +370 5 239 8695\
 Fax: +370 5  249 6129\
 E-Mail: [Zivile.Casaite@lnb.lt](mailto:Zivile.Casaite@lnb.lt)\
-Webseite: [http://www.lnb.lt/en/](http://www.lnb.lt/en/){:target="_blank"}\
+Webseite: [http://www.lnb.lt/en/](http://www.lnb.lt/en/){:target="_blank"}  
 
 ## NIEDERLANDE
 
@@ -304,8 +304,8 @@ Margrethe S. Bue\
 Music Section\
 National Library of Norway\
 Telefon: + 47 23 27 63 15\
-Webseite: [www.nb.no](http://www.nb.no/)\
-E-Mail: [Margrethe.Bue@nb.no](mailto:Margrethe.Bue@nb.no)
+E-Mail: [Margrethe.Bue@nb.no](mailto:Margrethe.Bue@nb.no)\
+Webseite: [www.nb.no](http://www.nb.no/){:target="_blank"}
 
 ## ÖSTERREICH
 
@@ -327,7 +327,7 @@ Rumer Str. 51d\
 A - 6063 Innsbruck / Post Rum\
 Telefon & Fax +43 512 263272\
 E-Mail: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
-Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)
+Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}
 
 RISM Arbeitsgruppe Salzburg\
 Internationale Stiftung Mozarteum &\
@@ -339,7 +339,7 @@ Schwarzstr. 26\
 5020 Salzburg\
 Telefon: +43 662 8894014\
 E-Mail: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
-Webseite: [https://mozarteum.at/home](https://mozarteum.at/home){:target="_blank"}\
+Webseite: [https://mozarteum.at/home](https://mozarteum.at/home){:target="_blank"}  
 
 Mag. Dr. Eva Neumayr\
 Kapitelplatz 3\
@@ -347,8 +347,8 @@ A - 5020 Salzburg\
 Telefon: +43 662 8047 1505 and -1507\
 Fax: +43 662 8047 1509\
 Univ. Doz. Dr. Ernst Hintermaier (Head), E-Mail: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
-E-Mail: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net)  und  [eva.neumayr@mozarteum.at](mailto:eva.neumayr@mozarteum.at)\
-Webseite: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)
+E-Mail: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) und  [eva.neumayr@mozarteum.at](mailto:eva.neumayr@mozarteum.at)\
+Webseite: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv){:target="_blank"}
 
 RISM Arbeitsgruppe Vorarlberg\
 Dr. Annemarie Bösch-Niederer\
@@ -358,8 +358,8 @@ A-6900 Bregenz\
 Telefon: +43 5574 511-45015\
 Fax: +43 5574 511-45095\
 E-Mail: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
-Webseite: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}\
-Siehe: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung)
+Webseite: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}  
+Siehe: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:target="_blank"}
 
 ## POLEN
 
@@ -379,8 +379,10 @@ University of Warsaw Library, Music Department\
 ul. Dobra 56/66\
 PL 00-312 Warszawa \
 Telefon: +48 22 552 574\
-Ewa Hauptman-Fischer [e.hauptman@uw.edu.pl\](mailto:e.hauptman@uw.edu.pl)Katarzyna Spurgjasz [katarzyna.spurgjasz@gmail.com\](mailto:katarzyna.spurgjasz@gmail.com)Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.maculewicz@uw.edu.pl)\
-Webseite: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/)\
+Ewa Hauptman-Fischer [e.hauptman@uw.edu.pl](mailto:e.hauptman@uw.edu.pl)\
+Katarzyna Spurgjasz [katarzyna.spurgjasz@gmail.com](mailto:katarzyna.spurgjasz@gmail.com)\
+Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.maculewicz@uw.edu.pl)\
+Webseite: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/){:target="_blank"}
 
 Miroslav Osowski\
 Aniela Kolbuszewska\
@@ -425,7 +427,7 @@ PL 20-950 Lublin\
 Telefon: +48 81 4453977\
 Mobil: +48 604 820847\
 E-Mail: [darismol@wp.pl](mailto:darismol@wp.pl)\
-Webseite: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek)
+Webseite: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek){:target="_blank"}
 
 The Fryderyk Chopin Institute\
 Narodowy Instytut Fryderyka Chopina\
@@ -436,7 +438,7 @@ Mitarbeiter: Dr Marcin Konik\
 Mitarbeiter: Mgr Jacek Iwaszko\
 Telefon: +48 22 44 16 185\
 E-Mail: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Webseite: [www.chopin.nifc.pl](http://www.chopin.nifc.pl)
+Webseite: [www.chopin.nifc.pl](http://www.chopin.nifc.pl){:target="_blank"}
 
 ## PORTUGAL
 
@@ -447,7 +449,7 @@ Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
 Telefon: +351 21 798 20 32 \
 E-Mail: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt) \
-Webseite: [[www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/)](http://www.bnportugal.gov.pt/)
+Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
 
@@ -458,7 +460,7 @@ RO-011824 Bucuresti\
 Telefon.: +40 31 71 00 627 oder -606\
 Fax: +40 31 71 00 607\
 E-Mail: [icr@icr.ro](mailto:icr@icr.ro)\
-Webseite: [http://www.icr.ro/bucuresti/muzica~4/](http://www.icr.ro/bucuresti/muzica%7E4/){:target="_blank"}\
+Webseite: [http://www.icr.ro/bucuresti/muzica~4/](http://www.icr.ro/bucuresti/muzica%7E4/){:target="_blank"}  
 
 ## RUSSLAND
 
@@ -469,7 +471,7 @@ Geyzen Stz. 13\
 Telefon: +7 095 2296062\
 Fax: +7 095 2299659\
 E-Mail: [nmbt@lib.mosconsv.ru](mailto:nmbt@lib.mosconsv.ru) [http://www.mosconsv.ru/](http://www.mosconsv.ru/)\
-Webseite: [http://www.mosconsv.ru/](http://www.mosconsv.ru/)
+Webseite: [http://www.mosconsv.ru/](http://www.mosconsv.ru/){:target="_blank"}
 
 Alla Semenyuk\
 Russian State Library\
@@ -480,7 +482,8 @@ Telefon: +7 095 202 41 31\
 Fax: +7 095 913 69 33\
 E-Mail: [mz@rsl.ru](mailto:mz@rsl.ru)\
 E-Mail: [roscomifla@rsl.ru](mailto:roscomifla@rsl.ru)\
-Webseite: [http://www.rsl.ru/\](http://www.rsl.ru/){:target="_blank"}\
+Webseite: [http://www.rsl.ru/](http://www.rsl.ru/){:target="_blank"}  
+
 Nataly Emelina\
 Glinka State Museum of Musical Culture\
 ul. Fadejeva 4\
@@ -542,7 +545,7 @@ Telefon: +386 1 4706196 (Kokole)\
 Fax: +386 1 4257799\
 E-Mail: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
 E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Webseite: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/)
+Webseite: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}
 
 ## SPANIEN
 
@@ -556,7 +559,7 @@ E-08001 Barcelona\
 Tel: +34 3 442 65 76\
 Fax: +34 3 4430071\
 E-Mail: [ezquerro@bicat.csic.es](mailto:ezquerro@bicat.csic.es)\
-Webseite: [https://www.imf.csic.es/](https://www.imf.csic.es/)
+Webseite: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}
 
 ## SÜDKOREA
 
@@ -569,9 +572,9 @@ Ewha Womans University\
 Seoul 120-750\
 Südkorea\
 Telefon: +82 3277 2439\
-E-Mail: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com\](mailto:hyunkchae@gmail.com) [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
-Webseite: [musicie.ewha.ac.kr](http://musicie.ewha.ac.kr/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}\
-[http://musicie.ewha.ac.kr](http://musicie.ewha.ac.kr)\
+E-Mail: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
+Webseite: [musicie.ewha.ac.kr](http://musicie.ewha.ac.kr/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}  
+[http://musicie.ewha.ac.kr](http://musicie.ewha.ac.kr){:target="_blank"}
 
 ## TSCHECHISCHE REPUBLIK
 
@@ -595,7 +598,7 @@ Maçka Campus\
 TR- 34347 Beşiktaş- İstanbul\
 Turkey\
 Telefon: +90 531 942 41 68\
-Webseite: [http://www.tmdk.itu.edu.tr\](http://www.tmdk.itu.edu.tr/){:target="_blank"}
+Webseite: [http://www.tmdk.itu.edu.tr](http://www.tmdk.itu.edu.tr/){:target="_blank"}
 
 ## UKRAINE
 
@@ -626,7 +629,7 @@ Budavári Palota "F" épület\
 H -1827 Budapest\
 Telefon & Fax: +36 1 2243779\
 E-Mail: [hanvay.hajnalka@oszk.hu](mailto:hanvay.hajnalka@oszk.hu)\
-Webseite:  [http://www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collection)
+Webseite:  [http://www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collection){:target="_blank"}
 
 ## VEREINIGTES KÖNIGREICH
 
@@ -638,7 +641,7 @@ UK-London NW1 2DB\
 Telefon: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
 E-Mail: [Richard.Chesser@bl.uk](mailto:Richard.Chesser@bl.uk)\
-[Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
+[Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}  
 
 ## VEREINIGTE STAATEN
 
