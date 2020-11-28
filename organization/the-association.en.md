@@ -12,10 +12,10 @@ The RISM Zentralredaktion is sponsored by the association "Internationales Quell
 Members of the Association:
 
 * Honorary President: Dr. Harald Heckmann, Ruppertshain (Germany), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Germany)
-* Board of Directors<br>
-President: Prof. Dr. Klaus Pietschmann, Mainz (Germany)<br>
-Vice President: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Austria)<br>
-Secretary: Dr. Laurent Pugin, Bern (Switzerland)<br>
+* Board of Directors\
+President: Prof. Dr. Klaus Pietschmann, Mainz (Germany)\
+Vice President: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Austria)\
+Secretary: PD Dr. Laurent Pugin, Bern (Switzerland)\
 Treasurer: Jane Gottlieb, New York (USA)
 * Coopted Board Members: Prof. Dr. Ulrich Konrad, Würzburg (Germany); Prof. Dr. John H. Roberts, Berkeley (USA)
 * Members of the [Commission Mixte](/organization/international-partners.html):
