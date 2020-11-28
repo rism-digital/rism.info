@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Muscat 6.0 - die neueste Version des [Erfassungsprogramms von RISM](/de/community/muscat.html "Opens internal link in new window") für musikalische Quellen - kann als Höhepunkt der mehrmonatigen Arbeit durch das Entwicklerteam bezeichnet werden. Diese neue Version bringt viele "versteckte" Verbesserungen und enthält verschiedene neue Funktionen.
+Muscat 6.0 - die neueste Version des [Erfassungsprogramms von RISM](/de/community/muscat.html) für musikalische Quellen - kann als Höhepunkt der mehrmonatigen Arbeit durch das Entwicklerteam bezeichnet werden. Diese neue Version bringt viele "versteckte" Verbesserungen und enthält verschiedene neue Funktionen.
 
 **Import des Schweizer Datenbestands**
 

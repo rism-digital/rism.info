@@ -54,7 +54,7 @@ Workshop nach dem [Congress of the Asociación Regional para América Latina y e
 * 17\. September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](http://www.aibm.info/tagungen/2019-augsburg/){:target="_blank"}, Augsburg\
 *Guido Kraus, Jennifer Ward*
 
-* 16\. Juli 2019: [IAML Kongress, Krakau, Polen](/de/publikationen/iaml-konferenzen/2019.html "Opens internal link in current window")\
+* 16\. Juli 2019: [IAML Kongress, Krakau, Polen](/de/publikationen/iaml-konferenzen/2019.html)\
 RISM Workshop 1: Muscat basics\
 RISM Workshop 2: Continuation\
 *Klaus Keil, Jennifer Ward*

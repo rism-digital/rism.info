@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Muscat 6.0-the latest version of [RISM's central cataloging program](/community/muscat.html "Opens internal link in new window") for musical sources-is the culmination of several months of work from the development team. This new version brings many “under the hood” improvements and includes various new features.
+Muscat 6.0-the latest version of [RISM's central cataloging program](/community/muscat.html) for musical sources-is the culmination of several months of work from the development team. This new version brings many “under the hood” improvements and includes various new features.
 
 **Import of the Swiss dataset**
 
