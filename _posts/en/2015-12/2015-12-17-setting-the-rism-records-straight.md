@@ -39,7 +39,3 @@ Have you identified an anonymous work or noticed something that needs to be corr
 
 Image credit:
 Bc part of the second movement from Vivaldi's Violin Concerto in D major (RV 205), written on the back of the violin part to a different, anonymous sonata. [SLUB Dresden,](http://digital.slub-dresden.de/id335684513){:target="_blank"}[Mus.2-R-8,50](http://digital.slub-dresden.de/id335684513){:target="_blank"} (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}).
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

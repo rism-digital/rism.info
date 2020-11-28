@@ -28,10 +28,6 @@ Composer, pianist, and music teacher in Rostock and Berlin.
 
 “[Das Glöckchen](https://opac.rism.info/search?id=1001021064&Language=en){:target="_blank"},” autograph manuscript (1903)
 
-
-
-
-
 **Sophie Dülken (1781-1863)**
 Composer and pianist. She was the daughter of Ludwig August and Franziska Lebrun. In RISM, she is only known as the dedicatee of Philipp Carl Hoffmann’s _Deux Rondos_ ([manuscript](https://opac.rism.info/search?id=452018997&Language=en){:target="_blank"} and [print](https://opac.rism.info/search?id=00000990029850&Language=en){:target="_blank"}).
 
@@ -62,10 +58,6 @@ Member of the Berliner Singakademie beginning in 1826 (this could be an indicati
 
 “[Das Kind und die Najade](https://opac.rism.info/search?id=1001016121&Language=en){:target="_blank"},” in a mid-19th-century collection of lieder
 
-
-
-
-
 **S. M. Hutchinson**
 
 - “[La gloire de Napoleon](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}” (see image)
@@ -79,10 +71,6 @@ Composer and pianist. She was a pupil of Adolf Henselt in Stuttgart and composed
 -
 
 “[Balder's Lied](https://opac.rism.info/search?q=Elisabeth+Kirchner+balders&Language=en){:target="_blank"}” (1896), two copies
-
-
-
-
 
 **Elisabeth Knauth (born 1894, died unknown)**
 
@@ -118,10 +106,6 @@ Composer and pianist.
 
 [_5 Schilflieder_](https://opac.rism.info/search?id=1001021024&Language=en){:target="_blank"}, autograph manuscript (1876), available online
 
-
-
-
-
 **Marie Mathilde Weiss**
 Biographical information about this composer is given in an issue of the popular journal _Flora, ein Unterhaltungsblatt_ (no. 78, April 10, 1827, p. 329). Here, there is a notice for a concert at the Royal Court Theater in Munich by _Kammersängerin_ Princess of Thurn und Taxis, Marie Weiß. She is described as a pupil of Tomaselli in Vienna and a Ms. Borgondio.
 
@@ -129,12 +113,7 @@ Biographical information about this composer is given in an issue of the popular
 
 “[Vater unser](https://opac.rism.info/search?id=1001008602&Language=en){:target="_blank"},” autograph manuscript (1840-1860).
 
-
-
-
-
 _Image_: S. M. Hutchinson, “La gloire de Napoleon,” ca. 1810 (RISM A/I: [HH 8040 I,1](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}). From the [Badische Landesbibliothek](https://digital.blb-karlsruhe.de/blbihd/content/pageview/512229){:target="_blank"}.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -23,4 +23,3 @@ Die in Bach Digital dokumentierten Quellen sind auch in RISM katalogisiert. Bach
 
 _Abbildung_: Eine Seite aus J. S. Bachs [Cello Suite in G](https://www.bach-digital.de/receive/BachDigitalSource_source_00001200){:target="_blank"} (BWV 1007), in der Handschrift von Anna Magdalena Bach (RISM ID no. [467026901](https://opac.rism.info/search?id=467026901){:target="_blank"}). In Berlin, Staatsbibliothek zu Berlin – PK (D-B), Mus.ms. Bach P 269. Permalink: [resolver.staatsbibliothek-berlin.de/SBB0001DAD700000000](http://resolver.staatsbibliothek-berlin.de/SBB0001DAD700000000)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

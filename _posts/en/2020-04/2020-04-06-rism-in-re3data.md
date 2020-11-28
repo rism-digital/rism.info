@@ -20,8 +20,3 @@ Other music projects in re3data include the [Digital Image Archive of Medieval M
 
 _Portions of this text have been adapted from re3data.org ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"})._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

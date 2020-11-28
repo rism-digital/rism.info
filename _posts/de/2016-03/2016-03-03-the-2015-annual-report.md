@@ -76,4 +76,3 @@ Auf ein erfolgreiches und produktives 2016!
 _Abbildung_: Christoph Graupners unvollendeter (!) Kanon mit 5.626 Umkehrungen, das vielleicht interessanteste Manuskript, auf das wir 2015 gestoßen sind (ca. 1730, Universitäts- und Landesbibliothek in Darmstadt. [RISM ID no. 450007135](https://opac.rism.info/search?id=450007135){:target="_blank"})
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

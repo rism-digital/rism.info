@@ -44,10 +44,6 @@ Atom-feed
 
 präzisere Darstellung der Komponistenzuschreibungen
 
-
-
-
-
 Eine wichtige neue Funktion ist die Suche nach Digitalisaten. Sie steht über die Erweiterte Suche zur Verfügung. Unter Suche eingrenzen können Sie beim Dokumententyp anschließend nur Digitalisate auswählen. Kombinieren Sie dieses Feld mit einem Suchbegriff, um nur Datensätze mit einem Link zu digitalisierten Musikquellen abzurufen.
 
 In der Erweiterten Suche finden Sie auch die Klaviertastatur am unteren Bildschirmrand. Sie ermöglicht eine chromatische Suche, ein Suche mit Halbtonschritten und schließt die enharmonischen Töne mit ein. Zur Erinnerung: die bisher verfügbare Incipitsuche über das Feld Notenanfang oder Notenanfang (mit Transposition) war nur in Ganztonschritten möglich. Die Klaviertastatur erlaubt eine spezifischere Suche.
@@ -64,4 +60,3 @@ Wir wünschen Ihnen viel Spaß mit den neuen RISM Online-Katalog. Zögern Sie ni
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

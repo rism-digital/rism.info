@@ -31,10 +31,6 @@ Below are highlights of a performance of _La liberazione_ from the Australian pr
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pXozGldzMLY" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 Bibliography: Suzanne G. Cusick, _Francesca Caccini at the Medici court: Music and the Circulation of Power_ (Chicago: University of Chicago Press, 2009), with CD of excerpts from Caccini's compositions.
 
 Francesca Caccini, [Musik und Gender im Internet](http://mugi.hfmt-hamburg.de/A_lexartikel/lexartikel.php?id=cacc1587){:target="_blank"}
@@ -43,4 +39,3 @@ Image credit: Anonymous cameo, [Wikimedia Commons](http://commons.wikimedia.org/
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -24,10 +24,6 @@ The last castrato was Alessandro Moreschi, who died in 1922, but he is the only 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/GIPQtelKN28" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 Bibliography: Ellen T. Harris, New Grove (2001).
 
 Image: Jacopo Amigoni, _Il cantante Farinelli con amici_, ca. 1750–1752
@@ -35,4 +31,3 @@ From left to right: Metastasio, the singer Teresa Castellini, Farinelli, the pai
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

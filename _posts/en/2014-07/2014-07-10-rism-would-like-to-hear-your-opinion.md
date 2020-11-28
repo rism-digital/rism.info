@@ -18,4 +18,4 @@ Whether you are a music librarian or a student, a database pro or just someone w
 
 You are invited to visit us in the exhibits area, or we can arrange to meet at a different time and place during the conference. We will be carrying out our user studies again in the fall, so if you will not be in Antwerp, there will still be opportunities to participate later.
 
-Questions? [contact@rism.info](mailto:contact@rism.info "Opens window for sending email")
+Questions? [contact@rism.info](mailto:contact@rism.info)

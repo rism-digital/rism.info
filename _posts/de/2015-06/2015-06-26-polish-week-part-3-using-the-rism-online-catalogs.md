@@ -26,12 +26,3 @@ Auch bei [D-FW](https://opac.rism.info/search?View=rism&siglum=D-FW){:target="_b
 
 Für alle diese Besonderheiten in den Beständen, die die Suchfilter im RISM-OPAC aufzeigen, gibt es Gründe und vielfältige Ursachen. Hier beginnt nun die weiterführende Arbeit des Musikwissenschaftlers, Fragen nach dem Warum zu beantworten und die Ergebnisse herzuleiten. Dabei stellt die Online-Datenbank des RISM neben all ihrem dokumentarischen Nutzen zu Beginn der musikwissenschaftlichen Arbeit ein unverzichtbares Instrument dar.
 
-
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

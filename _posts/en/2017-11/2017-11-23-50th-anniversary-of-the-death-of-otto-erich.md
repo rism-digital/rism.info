@@ -24,4 +24,3 @@ In RISM, Deutsch is of course most visible thanks to his Schubert catalog: it is
 
 _Image_: Otto Erich Deutsch circa 1928, from the [Radio Wien program guide](http://anno.onb.ac.at/cgi-content/anno?aid=raw&datum=19280326&seite=23&zoom=33){:target="_blank"} of 26 March 1928, p. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

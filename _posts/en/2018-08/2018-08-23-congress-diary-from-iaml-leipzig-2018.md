@@ -48,10 +48,6 @@ Eine Dienstreise in die traditionsreiche Musikstadt Leipzig lässt man sich nich
 
 Das Hauptgebäude am Deutschen Platz wurde im September 1916 eingeweiht. Der allgemeine Lesesaal hat ein ganz eigenes Flair und wirkt sehr imposant (siehe Foto). Bis heute hat das Gebäude mehrere Erweiterungsbauten erfahren, die sich in ihrer Gestaltung sehr voneinander abheben. Neue Arbeits- und Magazinbereiche für das DMA wurden im vierten Erweiterungsbau realisiert. Das Foyer zum Musiklesesaal ist einladend mit Tonträgern, Noten und Tonabspielgeräten gestaltet und die Hörkabine mit Surroundsystem sowie der Tonstudiokomplex sind auf höchstem technischen Niveau. Der flauschige Teppichboden vermeidet ungeliebte Schrittgeräusche. Die Atmosphäre ist insgesamt sehr gedämpft. Im Musiklesesaal stehen 18 Audioarbeitsplätze zur Verfügung, an vier davon stehen auch Klaviaturen zum Anspielen von Noten bereit.
 
-
-
-
-
 **Von Guido Kraus:**
 Für mich war der Leipziger IAML-Kongress in diesem Jahr eine willkommene Urlaubsunterbrechung schon alleine wegen der Attraktivität der Veranstaltung und des Veranstaltungsortes. Ursprünglich dachte ich daran, meinen Sommerurlaub mit den letzten IAML-Tagen zu beenden, um an den Veranstaltungen des RISM teilzunehmen, wobei die beiden geplanten Muscat-Workshops des RISM auf den Beginn des Kongresses gelegt waren. Doch im Vorfeld stiegen die Anmeldungen für die Workshops so stark an, dass wir uns gezwungen sahen, insgesamt sechs Workshops anzubieten: vier in englischer und zwei in deutscher Sprache. Also warf ich meine Pläne um und reiste bereits montags an, um zwei der Workshops übernehmen zu können.
 Nach meiner Anreise ging es am Montagabend gleich in die Deutsche Nationalbibliothek zu einer Führung mit Empfang. Was mir besonders gefiel, waren die einzelnen Gebäudeabschnitte, die die Zeitläufte an Architektur und Innenausstattung von der Kaiserzeit bis heute sichtbar machten. Es war ästhetisch zum Teil sehr reizvoll. Die Prägungen durch das Bauhaus zum Beispiel oder durch den Brutalismus waren unübersehbar.
@@ -73,4 +69,3 @@ These ideal acoustics were on full display in the two concerts Song gave. The se
 
 In between the organ tours, we had a small break in which I wandered around the town to look at the historic water tower (alas, covered by scaffolding) and find some postcard stamps. I also saw an outdoor yellow tiled mural that reminded me of the _Fürstenzug_ in Dresden. The Rötha version is a chronology of the town and if you look at the 1700s you can find the two Silbermann organs featured prominently (see picture).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

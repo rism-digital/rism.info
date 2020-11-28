@@ -37,7 +37,3 @@ Die Handschrift wird gerade in die RISM Datenbank eingegeben (RISM ID no. [39000
 Hier finden Sie eine Aufführung, die während der Übergabe der Handschrift 2014 an die Bibliothek stattfand. Das Ensamble Alta Voce spielt Ausschnitte aus dem_Libro sesto._
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yhfqhUC-wS4" frameborder="0" allowfullscreen></iframe>
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

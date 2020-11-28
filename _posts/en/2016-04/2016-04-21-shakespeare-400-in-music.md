@@ -37,4 +37,3 @@ As the world commemorates [Shakespeare 400](http://www.shakespeare400.org/){:tar
 
 _Image_: Hendrick ter Brugghen (1588 - 1629), "A Man playing a Lute" (1624). Photo © [The National Gallery](http://www.nationalgallery.org.uk/paintings/hendrick-ter-brugghen-a-man-playing-a-lute){:target="_blank"}, London. [RIdIM 395](http://db.ridim.org/display.php?ridim_id=395){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

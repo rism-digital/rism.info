@@ -16,4 +16,4 @@ Immer wieder kommt es vor, dass Archive und Bibliotheken mit seltenen und intere
 
 Bei Fragen zur[Turmbibliothek](http://www.stadtkirche-nuertingen.de/cms/startseite/stadtkirche-st-laurentius/turmbibliothek/){:target="_blank"}in der evangelischen Stadtkirche St. Laurentius in Nürtingen wenden Sie sich bitte an den Kurator der Bibliothek, Studiendirektor i.R. [Albrecht Braun.](mailto:turmbibliothek@evkint.de){:target="_blank"}
 
-Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. [Helmut Lauterwasser](mailto:Helmut.Lauterwasser@bsb-muenchen.de "Öffnet ein Fenster zum Versenden der E-Mail").
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. [Helmut Lauterwasser](mailto:Helmut.Lauterwasser@bsb-muenchen.de).

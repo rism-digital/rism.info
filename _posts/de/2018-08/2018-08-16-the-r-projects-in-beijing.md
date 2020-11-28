@@ -22,4 +22,3 @@ Das Forum insgesamt wurde getragen von sechs internationalen Gesellschaften: [In
 
 Die gemeinsamen Auftritte der Projektvertreter sind für alle von großem Nutzen. RISM konnte in deren Folge Initiativen in China, Mexiko, Kuba und Chile anstoßen. Eine Folge dieser Besuche war auch die Konferenz “[Documenting Musical Sources in Latin America](http://www.rism.info/publications/latin-america-conference-2016/){:target="_blank"}” im September 2016 in Mainz.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

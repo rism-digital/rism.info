@@ -20,10 +20,5 @@ In the first session, presentations fromMaria José González Ribot (Centro de D
 
 In the second session, Jennifer Ward (RISM Central Office, Frankfurt) talked about RISM's role in this project: RISM will host the database using its new open source MARC-based cataloging program called Muscat, which is currently being developed and will be released in 2016. This Muscat development phase is an ideal time to integrate series C with its current index of institution authority files, meaning thatMuscat can be developed to fit series C's needs.Preliminary testing shows that Muscat is a viable home for series C.Klaas Jaap van der Meijdenand Jon Bagüéstalked about implementing the[ISDIAH standards](http://www.ica.org/10198/standards/isdiah-international-standard-for-describing-institutions-with-archival-holdings.html){:target="_blank"}, ISIL codes,and MARC format, and initial discussions were held to determine mandatory, required, and optional fields. We also discussed how to note when updates to the database are made and how to organize the work when updating the data. Guidelines to inputting data for series C in Muscat will be developed this summer. AMA will meet again with RISM later this year. Information on how to participate will be available later.
 
-
-
-
-
 Image: Manhattan skyline at night (courtesy J. Ward)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

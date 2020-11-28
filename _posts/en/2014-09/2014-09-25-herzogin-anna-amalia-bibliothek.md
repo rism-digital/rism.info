@@ -20,16 +20,8 @@ A [report](http://www.anna-amalia-bibliothek.de/pdf/140815_Factsheet_Brand_final
 
 “The ducal music collection was especially hard hit by the fire. It originally consisted of almost 3,000 items (ca. 2,200 printed music editions and 800 manuscripts). Of this, 68 items that were especially valuable had been stored elsewhere and remained safe. In the last few years, it has been possible to acquire microfilms of 130 manuscripts and 520 prints that had been created for researchers since the 1960s. These items have been digitized and are available online. This means that about one fifth of the original collection is accessible again. Replacement copies for 60 items could be acquired. During the course of the initial steps taken after the blaze to reconstruct and restore the collection (which included publishing the card catalog with notes about fire damage, loss, and microfilms/copies), it became clear that the volumes that were salvaged from the debris also sometimes contained perfectly readable pages of music. The library hopes that in the coming years, more originals can be identified and restored than originally thought.”
 
-
-
-
-
 Currently, the [RISM online catalog](https://opac.rism.info/){:target="_blank"} has 246 sources from the Anna Amalia Bibliothek. No doubt some of those were lost in the fire. A [catalog of musical works that were lost](http://haab.weimar-klassik.de/Musikalienkatalog/){:target="_blank"} can be found on the library's website. We are working on incorporating this information into the RISM online database.
 
 Photo credit: The Green Castle that Duchess Anna Amalia turned into the Ducal Library in 1761-66 in the late Baroque style. Here the southwest view in 2004 just before the fire. Photo taken by R. Möhler. Licensed under [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gr%C3%BCnes_Schloss_(Herzogin-Anna-Amalia-Bibliothek)_in_Weimar.jpg){:target="_blank"}.
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

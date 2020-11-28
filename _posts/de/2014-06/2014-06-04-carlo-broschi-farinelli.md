@@ -24,10 +24,6 @@ Der letzte Kastrat - Alessandro Moreschi - starb 1922. Er ist der einzige Kastra
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/GIPQtelKN28" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 Literatur: Ellen T. Harris, New Grove (2001).
 
 Bild: Jacopo Amigoni, Il cantante Farinelli con amici, ca. 1750–1752

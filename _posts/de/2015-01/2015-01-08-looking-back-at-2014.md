@@ -18,10 +18,6 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 1. [Neue Version des RISM Online-Katalogs](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
-
-
-
-
 1.
 
 [Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"}(unser Aprilscherz)
@@ -76,10 +72,6 @@ Die beliebtesten Links auf unserer Facebook-Seite waren:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/LAa-Tro_FPU?list=UUSw7Qu4OQujixCfIlKETdkQ" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 4. [Canadian musicologist makes 900 year old discovery, Radio Canada International](http://www.rcinet.ca/en/2014/10/22/canadian-musicologist-make-900-year-old-discovery/){:target="_blank"}: Über frühe Musiknotation
 
 
@@ -108,8 +100,3 @@ RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliog
 
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

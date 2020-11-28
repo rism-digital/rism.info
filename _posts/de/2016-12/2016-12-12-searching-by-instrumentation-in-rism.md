@@ -30,10 +30,6 @@ Nach einer Suche werden alle Ergebnisse aufgelistet, in denen der Suchbegriff im
 
 ![Scoring summary](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
 
-
-
-
-
 Mit den Suchfiltern auf der linken Seite lässt sich das Ergebnis auf den Besetzungshinweis eingrenzen.
 
 ![Filter by instrumentation](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
@@ -45,7 +41,3 @@ Sie können auch über die Einfache Suche nach Besetzungsangaben suchen. Diese f
 Ist diese neue Liste hilfreich für Sie? Haben Sie Fragen zu Besetzungsangaben? Bitten schreiben Sie uns im Kommentarfeld unten!
 
 _Abbildung_: Historische Tuben Sammlung, Tuba Exchange, Durham, North Carolina. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_tuba_collection_(8635531700).jpg){:target="_blank"}.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -33,7 +33,3 @@ Conductor: Beatrice-Maria Weinberger
 
 
 _Image_: Matthias Pernsteiner (1795–1851), artist unknown (reproduced in Johann Hölzl, "Kirchenkomponist Matthias Pernsteiner. Zum 170. Geburtstag," _Z __eit__ s__chrift_ _Glaube und Heimat_ no. 5 _(_1965): 188.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

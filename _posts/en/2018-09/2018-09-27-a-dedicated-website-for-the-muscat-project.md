@@ -29,7 +29,3 @@ Muscat has nine prominent technical features, including:
 - Muscat keeps [track of all changes](http://muscat-project.org/data-versioning.html) made to the single records in the database.
 - The data is linked to [international authority files](http://muscat-project.org/data-interoperability.html), such as VIAF.
 - Finally, Muscat provides a [dynamic visualization](http://muscat-project.org/visualization.html) on a geographic map of the search results.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

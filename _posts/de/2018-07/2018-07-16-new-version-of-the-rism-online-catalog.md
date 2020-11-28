@@ -38,4 +38,4 @@ Der neue Katalog wird während des [IAML Kongresses](https://iamlleipzig2018.sch
 Detaillierte Anleitungen zu diesen neuen Funktionen werden in Kürze auf der Hilfeseite des Online-Katalogs und der RISM-Webseite erscheinen.
 
 In diesem [kurzen Video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} erhalten Sie einen Überblick zu den neuen Funktionen (_ohne Ton bis 0:29_):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

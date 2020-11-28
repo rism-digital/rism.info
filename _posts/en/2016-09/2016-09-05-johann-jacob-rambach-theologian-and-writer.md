@@ -22,8 +22,3 @@ Julian Heigel offers an overview of all known cantatas that use Rambach's texts 
 
 _Image_: Title page from Rambach's Geistliche Poesien (1720), from the [Bayerische Staatsbibliothek München](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10116678-9){:target="_blank"} (D-Mbs, P.o.germ. 1118 n)
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

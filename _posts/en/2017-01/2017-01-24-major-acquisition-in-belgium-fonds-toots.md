@@ -18,8 +18,3 @@ The Music Division of the [Royal Library of Belgium](http://www.kbr.be/language_
 
 The collection consists of hundreds of sound recordings (78 rpm, vinyl records and CDs) and thousands of documents such as photographs, press articles, scores, letters and concert programmes. The “Fonds Toots Thielemans” offers the possibility to discover and study the career of this world-famous musician who conquered the world with his harmonica and guitar on numerous recordings (records, CDs, films) and in concerts.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

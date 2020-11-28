@@ -46,7 +46,3 @@ Haben Sie ein anonymes Werk identifiziert oder sind auf einen Fehler in unserer 
 
 Bildnachweis:
 Auf der Rückseite einer Violinstimme aus Dresden steht diese bc-Stimme, die aber zu einem anderen Werk gehört [SLUB Dresden,](http://digital.slub-dresden.de/id335684513){:target="_blank"}[Mus.2-R-8,50](http://digital.slub-dresden.de/id335684513){:target="_blank"} (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}). Javier Lupiáñez Ruiz konnte diese bc-Stimme dem zweiten Satz des D-Dur-Violinkonzertes RV 205 von Antonio Vivaldi zuordnen.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

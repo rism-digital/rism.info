@@ -18,8 +18,4 @@ The RISM Central Office wishes you and your family all the best for a festive ho
 
 We look forward to working with you again in 2015.
 
-
-
-
-
 Photo credit: NYPL Digital Gallery

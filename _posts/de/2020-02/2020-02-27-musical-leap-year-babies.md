@@ -40,12 +40,7 @@ An einem 29. Februar gestorben sind:
 - [Philippe Rogier](https://opac.rism.info/search?View=rism&q=Philippe%20Rogier){:target="_blank"} (ca. 1561-1596)
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio){:target="_blank"} (ca. 1536-1592)
 
-
-
-
-
 _Abbildung_: Gioachino Rossini, _Lieder_, [Lithographie von C. Constans, 19. Jahrhundert](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

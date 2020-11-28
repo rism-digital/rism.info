@@ -38,10 +38,6 @@ But in 2016—as in 2015—the post more often read than any other story, from a
 <iframe src="https://player.vimeo.com/video/101737669" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
-
-
-
-
 **RISM in publications**
 RISM was also mentioned in a number of articles in 2016, including an update of the article in _Grove Music Online_, but also articles where RISM is used as a resource in digital humanities projects. See the full list [in the RISM bibliography](/publications/bibliography.html#c2606).
 
@@ -53,4 +49,3 @@ _Image_: [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

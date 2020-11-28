@@ -18,8 +18,3 @@ Die Musikabteilung der [Königlichen Bibliothek in Belgien](http://www.kbr.be/la
 
 Die Sammlung besteht aus Hunderten von Tonaufnahmen (Schellackplatten, Schallplatten und CDs) sowie Tausenden von Dokumenten wie Fotografien, Zeitungsartikeln, Partituren, Briefen und Konzertprogrammen. Der "Fonds Toots Thielemans" bietet die Möglichkeit, die Karriere des berühmten Musikers, der die Welt mit seiner Mundharmonika und Gitarre mit zahlreichen Aufnahmen (Schallplatte, CDs, Filme) und in Konzerten erorberte, zu entdecken und zu studieren.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

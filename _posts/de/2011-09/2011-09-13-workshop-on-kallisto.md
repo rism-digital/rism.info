@@ -22,7 +22,7 @@ Beginn: ca. 11:00 Uhr am 4. Oktober
 Ende: 17:00 Uhr am 6. Oktober
 Ort: **RISM Zentralredaktion in Frankfurt am Main**
 
-Dieses Training ist für Interessenten geeignet, _ **die aktiv Quellen mit Kallisto beschreiben wollen** _. Alle Arten von Beschreibungen werden vorgestellt: Einzelwerke, Sammlungen, Opern, Compilations und vieles mehr.
+Dieses Training ist für Interessenten geeignet, **die aktiv Quellen mit Kallisto beschreiben wollen**. Alle Arten von Beschreibungen werden vorgestellt: Einzelwerke, Sammlungen, Opern, Compilations und vieles mehr.
 
 Bitte lassen Sie es uns bis zum 23. September wissen, wenn Sie teilnehmen wollen.
 Wir helfen gerne bei der Suche nach Übernachtungsmöglichkeiten.

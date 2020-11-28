@@ -48,8 +48,4 @@ Sources:
 
 [Anne Somerset, Queen Anne: The Politics of Passion (New York: Knopf, 2012)](http://opac.rism.info/index.php?id=6&tx_bsbsearch_pi1%5Bsmode%5D=advanced&L=1&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=sauthorlink&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=Anne%2C+Queen+of+England&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=sauthor&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=stitle&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Search){:target="_blank"}
 
-
-
-
-
 Bildnachweis:[Foto von Paul Farmer](http://www.geograph.org.uk/photo/1142443){:target="_blank"}. Statue der Queen Anne in London. © Copyright [Paul Farmer](http://www.geograph.org.uk/profile/32427) and licensed for reuse under this [Creative Commons Licence.](http://creativecommons.org/licenses/by-sa/2.0/)

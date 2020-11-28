@@ -44,8 +44,3 @@ And, as always:
 - External databases welcome: RISM is interested in further partnerships with institutions and projects to import data, such as library OPACs or critical editions.
 - Open data and linked open data: [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

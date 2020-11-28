@@ -26,8 +26,3 @@ The complete text can be read and downloaded [here](https://noa.gwlb.de/receive/
 
 _Image_: First page of the score _Das Königreich Hannover_ by King George V, arranged by and in the hand of Johann Viktor Gerold. D-HVl, Noviss. 145 : 2, No 86 (RISM ID no. [450118289](https://opac.rism.info/search?id=450118289&Language=en){:target="_blank"}).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

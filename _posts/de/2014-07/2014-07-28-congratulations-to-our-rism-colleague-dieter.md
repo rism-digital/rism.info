@@ -34,9 +34,5 @@ Kirsch hat viele Sammlungen von [Bibliotheken (rund 100) in Franken für RISM ka
 
 “Zur Geschichte der Würzburger Hofmusik im 19. Jahrhundert”, in: _Mainfränkisches Jahrbuch für Geschichte und Kust: Archiv des Historischen Vereins für Unterfranken und Aschaffenburg_ 48 (1996), S. 199-232.
 
-
-
-
-
 Bildnachweis: Hochschule für Musik Würzburg
 [http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html](http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html)

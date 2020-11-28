@@ -30,4 +30,3 @@ There is much more you can discover [in the RISM catalog from this CZ-Bu import]
 
 _Image_: Árie italských mistrů ze 2. pol. 17. století pro soprán a basso continuo / Italian arias from the second half of the 17th century, p. 5. CZ-Bu RKPMus-0763.835; [RISM ID No. 553013031](https://opac.rism.info/search?id=553013031&View=rism&Language=en){:target="_blank"}. [Available online](http://www.digitalniknihovna.cz/mzk/view/uuid:87aea16e-b81c-41eb-890f-1756110e822e?page=uuid:19842e34-37f3-41b1-82b6-e55597d3d33e){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

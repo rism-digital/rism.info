@@ -38,10 +38,6 @@ Next I visited the [university library](http://www.lib.geidai.ac.jp/Eguide.html)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865161620989%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 [digitized and available online](http://images.lib.geidai.ac.jp/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-
-
-
-
 [National Diet Library](http://www.ndl.go.jp/en/){:target="_blank"}
 
 
@@ -73,4 +69,3 @@ The congress was the first IMS congress to take place in Asia. It was an excelle
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

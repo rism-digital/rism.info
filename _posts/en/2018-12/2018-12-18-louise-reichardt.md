@@ -23,4 +23,3 @@ She liked to select words by her friends to set to music: Achim von Arnim, Cleme
 
 _Image_: Title page from _XII Deutsche und italiänische romantische Gesänge_ (Berlin: Realschul-Buchhandlung, 1806), from the copy in the Bayerische Staatsbibliothek (D-Mbs 4 Mus.pr. 354; [RISM ID no. 1001052654](https://opac.rism.info/search?id=1001052654&View=rism&Language=en){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

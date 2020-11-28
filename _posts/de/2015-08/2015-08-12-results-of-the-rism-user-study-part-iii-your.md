@@ -24,4 +24,3 @@ Dies stellt aber keine Barriere für andere Institutionen oder Projekte bei der 
 
 _Abbildung_: Max Bruch (1838-1920), autographe Handschrift der 18 Lieder (ca. 1916-1919). [D-B](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN776494082&PHYSID=PHYS_0005){:target="_blank"} Mus.ms.autogr. Bruch, M. 18 (RISM ID no. [464000858](https://opac.rism.info/search?id=464000858){:target="_blank"})
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

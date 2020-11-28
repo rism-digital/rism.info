@@ -26,4 +26,3 @@ The digitized sources can now also be found through the RISM catalog.
 
 _Image_: Hans Pfitzner, sketches to _Urworte orphisch_, D-Mbs [Mus.coll. 7.52](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00062205-1){:target="_blank"}, RISM ID no. [1001086879](https://opac.rism.info/search?id=1001086879&View=rism&Language=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

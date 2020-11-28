@@ -23,4 +23,3 @@ RISM is an essential tool not only for musicologists, but also for performers. R
 For IAML, the 6th World Forum of Music will be a double commemoration. It was this very same time in 1949 that the first exploratory meeting of music libraries took place in Florence. That meeting, together with another one at Lüneburg in 1950, preceded the official establishment of IAML the following year in Paris.
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -20,8 +20,3 @@ Die chinesische Version des RISM-Kurzportraits ist in zwei zweisprachigenAusgabe
 
 Der Artikel “RISM” derChinesischen Wikipedia ist[hier abrufbar](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E6%96%87%E7%8D%BB%E8%B3%87%E6%BA%90%E7%B8%BD%E7%9B%AE){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

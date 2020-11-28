@@ -40,12 +40,7 @@ Catherine Massip (Frankreich): "La nouvelle de la disparition de Kurt Dormüller
 
 José Vicente González Valle (Spanien): "Es tut mir sehr Leid vom Tod des guten Freundes Dr. Dorfmüller zu hören. Der liebe Gott sei mit ihm, dem guten Musikwissenschaftler und Menschen, der mild und gütig war."
 
-
-
-
-
 _Foto vonJuan Martin Koch._
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

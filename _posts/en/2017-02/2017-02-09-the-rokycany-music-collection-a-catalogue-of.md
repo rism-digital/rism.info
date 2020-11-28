@@ -21,8 +21,3 @@ The Rokycany Music Collection (CZ-ROk) comprises a valuable set of musical manus
 From this collection the catalogue selects Franco-Netherlandish composers, including a total of 210 compositions, primarily motets and masses, by a total of 43 composers identified to date. It includes overviews of possible printed models, of available concordances of manuscripts, and of critical editions.
 
 The catalogue itself is preceded by an introductory study, a sketch of the history of the former literati brotherhood of Rokycany, and a separate study devoted to Franco-Netherlandish musical repertoire. Appended to the scholarly music-historical portion are descriptions of musical manuscripts and prints and of copyists' hands according to individual shelf marks. Included as well are a bibliography and indexes.
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

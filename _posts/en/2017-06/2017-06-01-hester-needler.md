@@ -25,4 +25,3 @@ The [manuscripts Needler owned](https://opac.rism.info/search?View=rism&q=hester
 
 _Image_ : Drawing of Montagu House, the old British Museum, by Michael Angelo Rooker (1746 - 1801), 1778. From the [British Museum Collection Online](http://www.britishmuseum.org/research/collection_online/search.aspx){:target="_blank"}, Museum number 1868,0328.334 ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

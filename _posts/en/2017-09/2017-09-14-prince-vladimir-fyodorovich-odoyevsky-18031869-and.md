@@ -27,8 +27,3 @@ More can be read about Odoyevsky in the [Russian Wikipedia](https://ru.wikipedia
 
 _Image_: Portrait of Odoyevsky from the 1840s. The artist was Kirill Gorbunov. Via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/7b/Odoevsky_vladimir.jpg){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

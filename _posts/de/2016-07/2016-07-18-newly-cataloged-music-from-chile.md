@@ -14,7 +14,7 @@ author: ''
 
 Ein Artikel im neuesten Heft von _[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_ lenkt die Aufmerksamkeit auf vor kurzem katalogisierte Musiksammlungen in Chile.
 
-**Laura Fahrenkrog und Fernanda Vera: Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries, in: [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63 (April-Juni 2016), Nr. 2, S. 100-119.** _RISM Kurztitel: FahrenkrogS 2016_
+**Laura Fahrenkrog und Fernanda Vera: Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries, in: [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63 (April-Juni 2016), Nr. 2, S. 100-119.**RISM Kurztitel: FahrenkrogS 2016_
 
 Fahrenkrog und Vera beschreiben Projekte, die sich vor kurzem mit der Organisation und Katalogisierung der Musiksammlungen folgender Institutionen beschäftigten:
 
@@ -56,7 +56,3 @@ Am Ende des Aufsatzes fordern die Autoren dazu auf, dass die Beschreibung des mu
 
 
 _Abbildung_: Joseph Haydn, _Die Worte des Erlösers am Kreuze_ (Leipzig: Breitkopf & Härtel, 1801). Katalog der Biblioteca Patrimonial de la Recoleta Dominica von Santiago, SIC\_062. "The first choral edition [...] commissioned by the city of Cádiz, which is the revision by the composer from the orchestral version he composed" (Fahrenkrog und Vera, p. 115).
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

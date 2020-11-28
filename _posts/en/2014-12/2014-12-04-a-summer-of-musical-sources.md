@@ -12,7 +12,7 @@ author: ''
 ---
 
 
-_Martin Bierwisch, a musicology student at the Universität Mainz, spent the summer with us as an intern. Read on about his experiences. If you are interested in an internship with RISM, please get in touch: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email")_
+_Martin Bierwisch, a musicology student at the Universität Mainz, spent the summer with us as an intern. Read on about his experiences. If you are interested in an internship with RISM, please get in touch: [contact@rism.info](mailto:contact@rism.info)_
 
 
 
@@ -49,9 +49,5 @@ I also had the opportunity to look through the cards in RISM's old card catalog 
 All in all, I can say that with the help of individuals at the Central Office, especially Dr. Martina Falletta, I got a good overview of day-to-day work. This improved my skills on both a theoretical and practical level.
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

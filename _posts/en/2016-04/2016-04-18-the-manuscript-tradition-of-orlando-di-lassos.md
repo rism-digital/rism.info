@@ -27,8 +27,3 @@ See also Bernhold Schmid, "Orlando di Lasso. Seine Werke in handschriftlicher Ü
 
 _Image_: Orlando di Lasso, Att känna dig vår Gud, copy in the hand of Johan Helmich Roman (after 1759), [Musik- och teaterbiblioteket](http://roman.musikverket.se/browselarge.php?lang=sw&volymid=Ro+95&bildnr=00096){:target="_blank"}, Stockholm (S-Skma) Ro 95, [RISM ID no. 190020485](https://opac.rism.info/search?id=190020485){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

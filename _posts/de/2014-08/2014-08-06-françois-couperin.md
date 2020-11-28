@@ -24,12 +24,4 @@ Sartain sah sich auch die mehrfach überlieferten Kompositionen an. Mit Hilfe de
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1LJaPa_YqDSSDzrsIriPvKNKNVKV9cETPVpYI3P_0&amp;viz=MAP&amp;h=false&amp;lat=49.91817071907786&amp;lng=8.697899640050991&amp;t=1&amp;z=6&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-
-
-
-
 Bildnachweis: Couperin, La Voluptueuse (aus Pièces de calvecin), Bibliothèque municipale de Toulouse (F-TLm), Res. Mus. Cons. 943 (1 et 2), f.124. [Online über Rosalis, la bibliothèque numérique de Toulouse erreichbar.](http://numerique.bibliotheque.toulouse.fr/ark:/74899/B315556101_RMCONS0943){:target="_blank"}
-
-
-
-

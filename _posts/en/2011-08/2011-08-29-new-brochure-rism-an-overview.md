@@ -20,4 +20,4 @@ The brochure may be employed for educational purposes in the classroom. It shoul
 
 The brochure contains English and German text.
 
-We would be happy to send the brochure to anyone who is interested. Please [contact us](mailto:contact@rism.info "Opens window for sending email") to receive a copy.
+We would be happy to send the brochure to anyone who is interested. Please [contact us](mailto:contact@rism.info) to receive a copy.

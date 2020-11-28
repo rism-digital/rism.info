@@ -31,10 +31,6 @@ Geschwister-Scholl-Str. 2
 Wegbeschreibungen:
 [GfM](http://www.gfm2016.uni-mainz.de/zur-akademie-to-venue-i-akademie/){:target="_blank"} oder [Akademie](http://www.adwmainz.de/anfahrt.html){:target="_blank"}
 
-
-
-
-
 Weitere Angebote des RISM auf dem Kongress der Gesellschaft für Musikforschung:
 
 **Freitag, 16. September 2016**
@@ -52,4 +48,3 @@ Philosophicum, Musiksaal (01-153) (siehe oben)
 
 Yuliya Shein, Sopran - Natalia Keil-Senserowa, Klavier
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

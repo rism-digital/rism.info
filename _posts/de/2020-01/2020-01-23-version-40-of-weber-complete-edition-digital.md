@@ -21,7 +21,3 @@ Auf inhaltlicher Seite wurden beispielsweise die eigenhändigen Werklisten von C
 Alle [Neuerungen finden Sie in der Projekt-Beschreibung](https://weber-gesamtausgabe.de/de/A009001/Aktuelles/A050218.html){:target="_blank"} der Seite.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

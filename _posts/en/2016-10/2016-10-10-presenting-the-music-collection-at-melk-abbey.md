@@ -39,8 +39,3 @@ Apart from the fact that only a few manuscripts are [cataloged in RISM (siglum: 
 
 _All photos (c) Stift Melk and used with permission._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

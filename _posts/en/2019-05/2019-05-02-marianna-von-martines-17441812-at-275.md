@@ -19,4 +19,3 @@ Martines mainly composed church music, but her oeuvre also includes arias, piano
 
 _Image_: Marianna von Martines, "Per pietà bell'idol mio," SLUB Dresden (D-Dl Mus.1-F-82,16-7; [RISM ID no. 212008189](https://opac.rism.info/search?id=212008189&Language=en){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

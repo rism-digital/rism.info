@@ -25,4 +25,3 @@ The RISM catalog has about [20 entries for musical sources that are connected wi
 
 _Image_: Moritz Hauptmann, Quintett from _Mathilde_, opera in 3 acts, [D-Dl Mus.4800-F-2](http://digital.slub-dresden.de/id383785243){:target="_blank"} ([RISM ID no. 270002797](https://opac.rism.info/search?id=270001797&View=rism&Language=en){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

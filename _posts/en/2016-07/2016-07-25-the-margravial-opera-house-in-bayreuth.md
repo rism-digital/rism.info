@@ -23,7 +23,3 @@ Operas have been performed in Bayreuth since 1662, including _Die Fuertrefflichk
 _Image_: Margravial Opera House in Bayreuth (2013) by Avda, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Markgr%C3%A4fliches_Opernhaus_-_Bayreuth_-_2013.jpg?uselang=de){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

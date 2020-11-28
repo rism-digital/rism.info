@@ -18,7 +18,7 @@ Im Nachklang unseres Besuchs in Nürnberg bei der [AIBM Konferenz](/events/2014/
 
 Eine Nürnberger Graduale-Handschrift aus St. Sebald von 1599 und zwei gedruckten Schriften Johann Cochläus’, die für Willibald Pirckheimer mit Zeichnungen Albrecht Dürers zusammengebunden wurden, fanden ihren Weg zurück aus Amerika. Beide Bände sind Teil der Sammlung Bibliotheca Norica Williana. Im Pirckheimer-Einband befindet sich das „Quadrivium grammatices“, eine Lateingrammatik sowie die Singschule „Tetrachordum musices“. Beides sind Nürnberger Erstdrucke aus dem Jahre 1511. Die Singschule ist beim RISM in der Serie B/VI¹ („Ecrits imprimés concernant la musique“) auf S. 227 vielfach nachgewiesen.
 
-Unsere Kollegin Frau [Dr. Christine Sauer](mailto:stb-handschriftenabteilung@stadt.nuernberg.de "Opens window for sending email") von der Nürnberger Stadtbibliothek beschreibt in einer Broschüre des Vereins für Geschichte der Stadt Nürnberg die Restitution der Bände, die sich seit 2001 wieder im Besitz der Nürnberger Stadtbibliothek (RISM-Sigel: D-Nst) befinden. Frau Dr. Sauer ist die Leiterin der Historisch-Wissenschaftlichen Abteilung.
+Unsere Kollegin Frau [Dr. Christine Sauer](mailto:stb-handschriftenabteilung@stadt.nuernberg.de) von der Nürnberger Stadtbibliothek beschreibt in einer Broschüre des Vereins für Geschichte der Stadt Nürnberg die Restitution der Bände, die sich seit 2001 wieder im Besitz der Nürnberger Stadtbibliothek (RISM-Sigel: D-Nst) befinden. Frau Dr. Sauer ist die Leiterin der Historisch-Wissenschaftlichen Abteilung.
 
 
 
@@ -30,16 +30,4 @@ Der Musikwissenschaftler Volker Schier, der Teile der Nürnberger Bibliotheca Wi
 
 Bildnachweis: Manuskript (1599). Mit freundlicher Genehmigung der Nürnberger Stadtbibliothek.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 Photo credit
-
-
-
-

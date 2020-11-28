@@ -10,10 +10,6 @@ old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pre
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
-
-
-
 _Dieser Beitrag stammt von Helmut Lauterwasser (RISM Deutschland):_
 
 
@@ -30,4 +26,3 @@ Abbildung: Ausschnitt aus der Sammelhandschrift Mus.Pi.57 (Bassus) in D-Dl mit d
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

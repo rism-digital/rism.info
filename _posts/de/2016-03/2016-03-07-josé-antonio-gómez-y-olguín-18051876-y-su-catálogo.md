@@ -31,7 +31,3 @@ Alle beschriebenen Musikquellen sind auch in der RISM-Datenbank dokumentiert. De
 Der Katalog bietet eine Einleitung in spanischer und englischer Sprache mit Erklärungen zu den Feldern und der verwendeten Terminologie, so dass auch nicht Spanischsprechende die Publikation gut nutzen können. Jeder der sieben Katalogteile beginnt mit einem Überblick zum folgenden Archiv und den dort aufbewahrten Quellen zu Gómez. Zu jeder Quelle gibt Lazos eine Abbildung, eine detaillierte Beschreibung (nach den Richtlinien des RISM), die RISM-Nummer und Incipits.
 
 Der Katalog von Lazos präsentiert einen Einblick in Mexikos Vergangenheit und bildet eine Basis für die wiederzuentdeckende Musik.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

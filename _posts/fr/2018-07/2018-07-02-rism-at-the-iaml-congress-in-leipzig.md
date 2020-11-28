@@ -45,6 +45,5 @@ RISM news, including a presentation of the newly released RISM online catalog
 
 In addition, don’t miss RISM-related presentations and talks from our RISM contributors throughout the week. The full program is [available online](http://iaml2018.info/programme/){:target="_blank"}.
 
-**After the congress** : Come visit us in Frankfurt! [Contact us](mailto:contact@rism.info "Opens window for sending email") and let us know if you will be coming. You can visit us Monday through Friday between 9 and 5.
+**After the congress** : Come visit us in Frankfurt! [Contact us](mailto:contact@rism.info) and let us know if you will be coming. You can visit us Monday through Friday between 9 and 5.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

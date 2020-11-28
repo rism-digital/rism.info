@@ -39,8 +39,3 @@ Your browser does not support the audio element.
 
 _Nachweise: Unbekannter Fotograf, Schriften des William Speirs Bruce, University of Edinburgh, via Europeana (CC-BY), Fotos [0001495](http://europeana.eu/portal/record/9200271/BibliographicResource_3000058904671.html){:target="_blank"} und [0001492](http://www.europeana.eu/portal/record/9200271/BibliographicResource_3000058904679.html){:target="_blank"}. Audio: Southern Rockhopper Penguin (Eudyptes chrysocome), aufgenommen von Günter Tembrock, via [Tierstimmenarchiv Berlin](http://www.tierstimmenarchiv.de/){:target="_blank"}, Museum für Naturkunde Berlin (CC BY-NC-SA)_
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

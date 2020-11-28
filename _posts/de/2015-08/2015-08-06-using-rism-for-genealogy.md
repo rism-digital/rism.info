@@ -28,4 +28,3 @@ Auskunft zum RISM mit Katalog-Zugang auch unter[https://www.bsb-muenchen.de/die-
 
 Kopien der Romance und der Polonaise für Clavcin oder Pianoforte hatte mir bereits früher freundlicherweise ganz unbürokratisch die [Statsbiblioteket Arhus](http://www.statsbiblioteket.dk/){:target="_blank"} überlassen.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

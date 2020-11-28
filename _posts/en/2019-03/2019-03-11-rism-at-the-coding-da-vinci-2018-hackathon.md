@@ -50,4 +50,3 @@ Can you figure out which melody will calm the monster?
 
 More information can be found on [hackdash.org](https://hackdash.org/projects/5bd4a33096a2952c33e302c9){:target="_blank"} and [Twitter](https://twitter.com/search?q=%23monstermelodies&src=typd&lang=de){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

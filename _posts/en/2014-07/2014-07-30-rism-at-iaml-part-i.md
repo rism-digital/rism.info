@@ -25,10 +25,6 @@ Fr. Hartmann von An der Lan‐Hochbrunn OFM (1863‐1914): A Tyrolean Franciscan
 
 This report was a fascinating biography of Father Hartmann, a composer and musician who was once called--next to Winston Churchill--one of the “Männer vom Tage” by a German newspaper in 1913. There are 114 pieces by [Father Hartmann in the RISM database](https://opac.rism.info/search?View=rism&author=Hartmann+von+An){:target="_blank"} and 9 pieces of ephemera.
 
-
-
-
-
 **André Guerra Cotta (RISM Brazil, Universidade Federal Fluminense, Niterói, Rio de Janeiro)**
 
 Report on the First Brazilian Seminar of the Project Répertoire Internationale des Sources Musicales (RISM)

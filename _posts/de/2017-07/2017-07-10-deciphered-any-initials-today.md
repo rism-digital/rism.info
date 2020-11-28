@@ -35,8 +35,7 @@ Ein weiteres Beispiel zeigt einen nicht unüblichen Nebeneffekt der Anonymisieru
 Rückschlüsse auf Namen sind über vielerlei Wege möglich, sei es nun über Spezialstudien zu Musikverlagen oder durch Zeitungslektüre. Der A/I Band 9 führt 276 Nummern unter den Drucken mit Initialen, mit dem Band 14 konnten bereits einige aufgelöst werden, doch kamen eben auch wieder fast 50 neue dazu. In einem nächsten Beitrag werden weitere Beispiele erläutert werden.
 
 So stellt sich die Frage: Haben Sie heute auch schon ein paar Initialen entschlüsselt?
-Dann [schreiben Sie uns](mailto:contact@rism.info "Öffnet ein Fenster zum Versenden der E-Mail")! Das gleiche gilt natürlich auch für anonyme Kompositionen.
+Dann [schreiben Sie uns](mailto:contact@rism.info)! Das gleiche gilt natürlich auch für anonyme Kompositionen.
 
 _Abbildung_: _Sechs Gesänge mit Begleitung der Guitarre_ von Caroline von Egloffstein (RISM A/I: IN 16; [RISM ID no. 990072864](https://opac.rism.info/search?id=00000990072864&Language=en){:target="_blank"}), aus der Privat-Bibliothekvon Axel Beer (D-KWbeer). Das Exemplar der Anna Amalia Bibliothek (D-WRtl) ist dem Bibliotheksbrand 2004 zum Opfer gefallen, allerings ist ein[Digitalisat des Mikrofilms](http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10001489844){:target="_blank"}zu finden.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

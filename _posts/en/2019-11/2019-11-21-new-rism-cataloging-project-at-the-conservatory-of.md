@@ -12,7 +12,7 @@ author: Dr. John Lazos
 ---
 
 
-**Proyecto de catalogación del Conservatorio de Querétaro, México** _(English below)_
+**Proyecto de catalogación del Conservatorio de Querétaro, México**(English below)_
 
 John G. Lazos, nuestro colaborador está a punto de comenzar el proyecto de catalogación del acervo musical del Fondo reservado del [Conservatorio “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} en Querétaro, México (siendo su clave en RISM: MEX-SQamc). Durante su visita de este mes, Dr. Lazos ha podido reunirse con el bibliotecario y las autoridades para asegurar el permiso de este proyecto.
 
@@ -30,8 +30,3 @@ Dr. Lazos will be cataloging with Mariana Iniesta, Jazmin M. Villalobos Soto and
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

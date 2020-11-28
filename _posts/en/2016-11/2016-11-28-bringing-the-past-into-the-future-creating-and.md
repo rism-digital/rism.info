@@ -36,16 +36,7 @@ For RISM, Klaus Keil gave an overview of the structure of the RISM database and 
 ![Conference in Seoul](http://rism.info/resources-old-website/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
 _Photo courtesy of JeongYoun Chang_
 
-
-
-
-
 ![Muscat workshop in Seoul](http://rism.info/resources-old-website/news/Workshop_webinar_960_557.jpg)
 _Muscat workshop_
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

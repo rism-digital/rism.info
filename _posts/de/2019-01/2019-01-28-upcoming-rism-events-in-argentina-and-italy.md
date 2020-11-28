@@ -27,8 +27,3 @@ Juni-Juli 2019; Bewerbungsschluss: 1. März 2019**
 
 Der Schwerpunkt dieses Praktikums liegt auf den riechen Beständen der Morrill Music Library, Biblioteca Berenson ([I-Fb](https://opac.rism.info/metaopac/perma.do;jsessionid=6A8D39A7A923D2A7A28903E0DEF1BC98.touch01?v=rism&q=-1%3d%22ks30004727%22&Language=en){:target="_blank"}) der Villa I Tatti in Florenz (Italien). Der Hauptbestand der Bibliothek betrifft die westliche Musik vor 1640. Ergänzend zu den Kenntnissen im Umgang mit musikwissenschaftlichen Hilfsmitteln werden die Praktikanten die Musikquellen von I Tatti mit RISM vergleichen und sicherstellen, dass sie in der Datenbank korrekt wiedergegeben werden. Informationen zur Bewerbung (nur für Harvard Studenten) [finden Sie hier.](https://itatti.harvard.edu/internships){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -40,8 +40,3 @@ At the same time, the launch of Muscat is an opportunity for people – whether 
 
 To our current contributors, national groups, partners, and future colleagues: We look forward to working with you!
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -46,4 +46,3 @@ _The Collegium Musicum Salem: The Development of a Catalogue of Its Library and 
 
 _Image_ : Johann Ernst Bach, Symphony in B-flat major (cover, 1st page of 1st violin). Moravian Music Foundation, Archie K. Davis Center, Winston-Salem, NC (US-WS) SCM 123. [RISM ID no. 240643](https://opac.rism.info/search?id=240643&View=rism){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

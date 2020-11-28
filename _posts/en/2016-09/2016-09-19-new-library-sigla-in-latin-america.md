@@ -61,16 +61,7 @@ Uruguay: [21 records](https://opac.rism.info/search?View=rism&siglum=ROU-*){:tar
 -
 
 Venezuela: [37 records](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
-
-
-
-
 In total, there are 1,165 records from Latin America in RISM.
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

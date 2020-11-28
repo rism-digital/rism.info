@@ -51,8 +51,3 @@ _Am 2. Dezember 1843. Joseph Pirazzi._
 
 _Abbildung_: Alexander Dreyschock, Kniestück, Lithografie von Josef Kriehuber. Universitätsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Online verfügbar](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

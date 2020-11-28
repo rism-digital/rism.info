@@ -65,8 +65,3 @@ to improve the visibility of the OPAC SBN and RISM online catalogues by promotin
 
 RISM's partners in the agreement are [ICCU](http://www.iccu.sbn.it/){:target="_blank"}, the Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche, and [IAML Italy](http://www.iamlitalia.it/){:target="_blank"}, the Italian branch of the International Association of Music Libraries, Archives and Documentation Centres.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

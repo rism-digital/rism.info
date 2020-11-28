@@ -22,7 +22,7 @@ In unclear cases such as these, a trick that will help you to search for - or li
 
 Now back to Bach. To find the Johann Bach who was born in 1604 and died in 1673, you can simply search using the GND number 123841690. GND numbers can be retrieved from the websites of either the [German National Library](https://portal.dnb.de/opac.htm?method=showOptions#top){:target="_blank"} or [VIAF](http://viaf.org/){:target="_blank"}. To make this even easier, we hope to release a database of our personal names authority files in the near future (similar to what we did with the database of RISM library sigla.)
 
-If you have any questions or comments, feel free to contact me directly: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email")
+If you have any questions or comments, feel free to contact me directly: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
 
 And now here are all nineteen of the Johann Bachs in RISM, linked using the GND number:
 
@@ -84,4 +84,3 @@ Bach, Johann Valentin (1669-1720)
 Bachofen, Johann Caspar (1695-1755) - also as "Johann Caspar Bach"
 [https://opac.rism.info/metaopac/search?View=rism&author=119477688](https://opac.rism.info/metaopac/search?View=rism&author=119477688)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

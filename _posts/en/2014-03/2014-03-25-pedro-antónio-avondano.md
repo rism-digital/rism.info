@@ -23,10 +23,6 @@ Today, Avondano's manuscripts are held in places as far apart as Paris, New York
 
 A conference called ["Niccolò Jommelli, Christoph Willibald Gluck and Pedro António Avondano, in the occasion of their 300th anniversary: The circulation of musical repertoires in 18th-century Europe"](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"} will take place in June 2014 in Lisbon, Portugal. The call for papers has been extended to April 5.
 
-
-
-
-
 **Bibliography**
 Manuel Carlos de Brito, _New Grove_ 2nd ed., vol.2
 
@@ -36,4 +32,3 @@ Image credit: "Gedaente en ... vant Landt van Portugal" from _Mariner’s Mirror
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

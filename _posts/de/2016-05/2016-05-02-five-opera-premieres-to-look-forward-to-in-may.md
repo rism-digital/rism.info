@@ -18,7 +18,7 @@ Vincenzo Bellini: _Adelson e Salvini_
 11. Mai, [The Barbican](http://www.barbican.org.uk/music/event-detail.asp?ID=17510){:target="_blank"}, London
 Autographe Skizzen in Berlin (RISM ID no. [464120091](https://opac.rism.info/search?id=464120091){:target="_blank"})
 
-**Die Oper**  **_Adelson e Salvini_** von Vincenzo Bellini (1801-1835) erlebte ihre Uraufführung am 12. Februar im Teatro Carlo in Neapel. Die autographe Skizze gehört zur Arie des Struley aus der ersten Szene des zweiten Akts und liegt heute in der Staatsbibliothek zu Berlin (D-B).
+**Die Oper**  **Adelson e Salvini** von Vincenzo Bellini (1801-1835) erlebte ihre Uraufführung am 12. Februar im Teatro Carlo in Neapel. Die autographe Skizze gehört zur Arie des Struley aus der ersten Szene des zweiten Akts und liegt heute in der Staatsbibliothek zu Berlin (D-B).
 
 Georg Benda: _Romeo und Julie_
 13. Mai, [Centre lyrique](http://www.centre-lyrique.com/site/content/saison-lyrique-2015-2016-5){:target="_blank"}, Clermont-Auvergne, Frankreich
@@ -50,4 +50,3 @@ _Abbildung_: Haydn, "Quel tuo visetto amabile." London, Edinburgh, Corri, Dussek
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

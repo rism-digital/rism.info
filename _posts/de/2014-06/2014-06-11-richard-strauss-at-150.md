@@ -26,10 +26,6 @@ Einige seiner Werke wurden in Frankfurt am Main uraufgeführt. So dirigierte Ric
 
 Unten, der erste Teil von Strauss' _Die Frau ohne Schatten_ mit dem Radio Filharmonisch Orkest, Groot Omroepkoor und Nationaal Kinderkoor, Vladimir Jurowski, Dirigent.
 
-
-
-
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/675hQxETKC8" frameborder="0" allowfullscreen></iframe>
 
 

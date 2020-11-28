@@ -24,4 +24,3 @@ _Image_: _Musica enchiriadis_ (10th century), p. 12. Einsiedeln Stiftsbibliothek
 
 Update, 13 April 2018: [Information in Spanish](https://ferranescrivallorca.com/blog/2018/04/12/nueva-base-de-datos-de-risms-b-iii-teoria-de-la-musica/){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

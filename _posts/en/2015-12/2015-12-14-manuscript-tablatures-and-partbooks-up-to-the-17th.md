@@ -24,6 +24,5 @@ Digitization and cataloguing will enable the scholarly exploration of the collec
 
 The picture shows the manuscript D-Mbs, Mus.ms. 263, fol. 35v, Benediktinerkloster Irsee?, ca. 1600-1605, with an intabulations by Jacob Reiner (ca. 1560–1606) _Cantate Domino canticum novum_ in 6 voices.
 
-Contact: [Veronika Giglberger](mailto:giglberger@bsb-muenchen.de "Opens window for sending email") and [Bernhard Lutz](mailto:Bernhard.Lutz@bsb-muenchen.de "Opens window for sending email")
+Contact: [Veronika Giglberger](mailto:giglberger@bsb-muenchen.de) and [Bernhard Lutz](mailto:Bernhard.Lutz@bsb-muenchen.de)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

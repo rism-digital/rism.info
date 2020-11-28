@@ -132,8 +132,3 @@ Nach einer kurzen Einführung zu Instrument und Raum ist die Wörle-Orgel in ein
 Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung, Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

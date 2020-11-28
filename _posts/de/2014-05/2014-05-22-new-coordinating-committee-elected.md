@@ -44,4 +44,3 @@ Zur Zeit entwickelt die RISM Zentralredaktion zusammen mit RISM Schweiz ein neue
 
 In der vorigen Amtsperiode waren Sarah Adams (USA), Armin Brinzing (damals Deutschland) , Richard Chesser (UK), Laurent Pugin (Schweiz) und Eleonor Selfridge-Field (USA) Mitglieder des Coordinating Committes. Wir danken ihnen für ihre Arbeit.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

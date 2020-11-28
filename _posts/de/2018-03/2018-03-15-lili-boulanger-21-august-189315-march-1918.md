@@ -36,20 +36,12 @@ _Abbildung_: Agence de presse Meurisse: "Lili Boulanger, 1er Grand Prix de Rome 
 
 
 
-_ **Notes:** _
+**Notes:**
 
 Note 1: “Procés-Verbal 1913-1914,” Institut de France, Académie des Beaux Arts 66 (July 5, 1913); quoted in Carole Bertho Woolliams, _[Lili Boulanger Compositrice du XXe siècle](http://www.worldcat.org/oclc/610662483){:target="_blank"}_ (Paris: Le Jardin d’Essai, 2009), 34. “Intelligence du sujet. Justesse de la declamation. De la sensibilité et de la chaleur. Sentiment poétique. Orchestre intelligent et coloré. Cantate remarquable.”
 
 Note 2: Auguste Mangeot, “Mlle Lili Boulanger,” _Le Monde musical_ 25 no. 13–14 (July 1913): 173; quoted in Rosenstiel, [_The Life and Works of Lili Boulanger_](http://www.worldcat.org/oclc/903332196){:target="_blank"} (London: Associated University Press, 1978), 80.
 
 Note 3: Rosenstiel, _Life and Works of Lili Boulanger_, 215.
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
 
 

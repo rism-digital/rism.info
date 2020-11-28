@@ -29,4 +29,3 @@ Für Anfragen können Sie sich telefonisch an die +44 (0)20 7841 3606 wenden ode
 
 Bildnachweis für das erste Bild: Photographer Peter Dazeley. Copyright Foundling Museum. Für das fünfte: Photo GG Archard. Copyright Foundling Museum
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

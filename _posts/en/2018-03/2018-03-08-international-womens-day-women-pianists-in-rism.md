@@ -30,12 +30,7 @@ p = after
 
 The full list can also be [viewed here](https://www.google.com/fusiontables/DataSource?docid=1n_oOky_F-B1bWWvUZ-egP-RgbymvtP3UAYdytHX5){:target="_blank"} and is linked on the online catalog's [Help page](https://opac.rism.info/index.php?id=4&L=1#c147){:target="_blank"} (see Question #3).
 
-This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email")
+This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
 
 _Image_: Clara Schumann, circa 1853, photographer unknown, from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=507751){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

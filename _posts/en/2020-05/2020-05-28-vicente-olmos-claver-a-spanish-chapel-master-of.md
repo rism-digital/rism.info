@@ -103,4 +103,3 @@ MARZAL (2019): A. Marzal Raga, _La música de Vicent Olmos i Claver_, Vols. I i 
 
 _Image_: The score of _Lamentación â Solo. 2ª del miercoles_. (ACV): PM 152/9, (f. 1 r.). Year: 1789. [RISM ID no. 1001111577](https://opac.rism.info/search?id=1001111577&View=rism){:target="_blank"}. Courtesy of the author.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

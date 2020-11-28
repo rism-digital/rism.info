@@ -17,8 +17,3 @@ Mehr erfahren Sie[hier](http://www.mozarteum.at/wissenschaft/bibliothek/biblioth
 
 Bild: Wolfgang Amadé Mozart / Gottfried von Jacquin(?): Io ti lascio, o cara, addio. KV 621a (Anh. 245). A-Sm M.N. 53a (Abschrift aus dem Nachlass von Mozarts Sohn Franz Xaver Wolfgang)
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

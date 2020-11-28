@@ -40,4 +40,3 @@ Detailed guidance on these new features will soon appear on the catalog's help p
 Watch [this short video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} for an overview of the new features (_no sound until 0:29_):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

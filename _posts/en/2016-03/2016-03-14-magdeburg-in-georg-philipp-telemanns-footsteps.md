@@ -22,4 +22,4 @@ Telemann was not only an extremely productive composer. He was also a music entr
 
 Since Telemann composed for just about every instrument and genre, and since a large number of musical sources have luckily survived, the RISM online catalog offers a rich variety of his compositions.
 
-_Image_: Autograph manuscript of Telemann, _Es ist umsonst daß ihr früh aufsteht_(TVWV 1:1753), Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F), Ms. Ff. Mus. 994 (RISM ID no. [450004277](https://opac.rism.info/search?View=rism&documentid=450004277){:target="_blank"})<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+_Image_: Autograph manuscript of Telemann, _Es ist umsonst daß ihr früh aufsteht_(TVWV 1:1753), Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F), Ms. Ff. Mus. 994 (RISM ID no. [450004277](https://opac.rism.info/search?View=rism&documentid=450004277){:target="_blank"})

@@ -27,10 +27,6 @@ Heute werden Avondanos Handschriften an weit auseinanderliegenden Orten, wie Par
 
 Eine Konferenz aus Anlass der 300-jährigen Jubiläen zu "[Niccolò Jommelli, Christoph Willibald Gluck und Pedro António Avondano: die Verbreitung des musikalischen Repertoires im Europa des 18. Jahrhunderts](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"}" findet im Juni 2014 in Lissabon (Portugal) statt.
 
-
-
-
-
 **Literatur**
 Manuel Carlos de Brito, _New Grove_ 2nd ed., Bd.2
 

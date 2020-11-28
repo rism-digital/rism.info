@@ -21,7 +21,7 @@ This blinkered approach represents a serious failure to acknowledge non-German r
 
 **"I feel like there is too much of a focus on German sources and not enough on sources from Britain (for example). There are great inconsistencies with regards to the sources of particular composers that are available, and some information presented is often inaccurate or poorly cited. I would like to see RISM broaden its focus to be less biased towards German musical sources, and to allow for greater referencing and checking abilities." -Respondent 161**
 
-Short answer: (1.) You're right, there's a lot from Germany, and (2.) please send us your articles or other citations so we can add them! ([jennifer.ward@rism.info](mailto:jennifer.ward@rism.info "Opens window for sending email"))
+Short answer: (1.) You're right, there's a lot from Germany, and (2.) please send us your articles or other citations so we can add them! ([jennifer.ward@rism.info](mailto:jennifer.ward@rism.info))
 
 
 
@@ -31,9 +31,9 @@ Keep in mind that RISM working groups operate independently, meaning there is no
 
 You can help us tip the balance toward other countries: if you know of a music collection that is not in RISM, perhaps you would be interested in cataloging it? Training and software are free. Contact your [national RISM representative](/international.html#c14) or drop us a line: [contact@rism.info
 
-](mailto:contact@rism.info "Opens window for sending email")
+](mailto:contact@rism.info)
 
-The situation of literature in the online catalog is related to the work carried out by our working groups. RISM contributors cite relevant literature, and it makes sense that German musical sources would likely be referenced in the German secondary literature. As part of our editorial work, we at the Central Office cast a wide net and try to enter references to the secondary literature as we become aware of them. Just to name two recent publications, we took note of Maciej Jochymczyk's catalog of works by Amandus Ivanschiz, [cited in our records as JocI](https://opac.rism.info/search?View=rism&q=JocI){:target="_blank"}, and the "Catalogo della produzione musicale di Giuseppe Corsi" by Giovanni Tribuzio, [cited as TriCo](https://opac.rism.info/search?View=rism&q=TriCo){:target="_blank"}, both from 2014.\* But, inevitably, there are some things we miss. This isn't intentional; we likely just haven't come across them yet. If you would like to call our attention to relevant literature, old or new, we'd love to hear from you. Write to [jennifer.ward@rism.info](mailto:jennifer.ward@rism.info "Opens window for sending email").
+The situation of literature in the online catalog is related to the work carried out by our working groups. RISM contributors cite relevant literature, and it makes sense that German musical sources would likely be referenced in the German secondary literature. As part of our editorial work, we at the Central Office cast a wide net and try to enter references to the secondary literature as we become aware of them. Just to name two recent publications, we took note of Maciej Jochymczyk's catalog of works by Amandus Ivanschiz, [cited in our records as JocI](https://opac.rism.info/search?View=rism&q=JocI){:target="_blank"}, and the "Catalogo della produzione musicale di Giuseppe Corsi" by Giovanni Tribuzio, [cited as TriCo](https://opac.rism.info/search?View=rism&q=TriCo){:target="_blank"}, both from 2014.\* But, inevitably, there are some things we miss. This isn't intentional; we likely just haven't come across them yet. If you would like to call our attention to relevant literature, old or new, we'd love to hear from you. Write to [jennifer.ward@rism.info](mailto:jennifer.ward@rism.info).
 
 In addition, you can find [Jennifer Ward](https://independent.academia.edu/Jennifer_A_Ward){:target="_blank"} and [Martina Falletta](https://independent.academia.edu/MFalletta){:target="_blank"} on Academia.edu and share your research.
 
@@ -43,8 +43,3 @@ Image: Countries around the world with sources in the [RISM online catalog](http
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

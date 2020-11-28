@@ -31,16 +31,7 @@ Paweł Podejko, geboren am 23.12.1914 im heute lettischen Daugavpils (pol.: Dyne
 
 Mehr zu Podejko finden Sie auf [Gedanopedia](http://www.gedanopedia.pl/index.php?title=PODEJKO_PAWE%C5%81){:target="_blank"}.
 
-
-
-
-
 _Abbildung_: Jasna Góra, photo by Damian27 via [Wikimedia Commons](https://de.wikipedia.org/wiki/Jasna_G%C3%B3ra_(Cz%C4%99stochowa)#/media/File:Jasna_G%C3%B3ra_-_widok_do_NE.jpg){:target="_blank"}
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -23,7 +23,7 @@ Der beste Weg, um eine bestimmte Person zu suchen (oder auf sie zu verlinken) is
 
 Um nun nach Johann Bach (1604-1673) zu suchen, können Sie einfach nach der GND-Nummer 123841690 suchen. Die GND-Nummer können Sie über die Seite der [DNB](https://portal.dnb.de/opac.htm?method=showOptions#top){:target="_blank"} oder der [VIAF](http://viaf.org/){:target="_blank"} herausfinden. Wir planen außerdem eine Veröffentlichung unserer Personen-Normdatei als Datenbank - analog zum Katalog der RISM-Bibliotheks-Sigel.
 
-Bei weiteren Fragen oder Anregungen können Sie sich gerne direkt an mich wenden: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email")
+Bei weiteren Fragen oder Anregungen können Sie sich gerne direkt an mich wenden: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
 
 Und nun alle 19 Johann Bachs in RISM unter Verwendung der GND-Nummer:
 
@@ -93,8 +93,3 @@ _Abbildung_: Stammbaum der Familie Bach, Ohrdrufer Linie, 1773. Staatsbibliothek
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

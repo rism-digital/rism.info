@@ -20,10 +20,6 @@ Unterstützen Sie uns bei der Verlinkung auf die RISM-Einträge und weiten Sie d
 
 Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre digitalen Sammlungen aufmerksam. Für die Beschreibungen im RISM Online-Katalog, senden Sie uns bitte ein Excel-Tabellenblatt mit den RISM Nummern und einem Permalink zur digitalen Kopie (entweder einen direkten Link zum Scan oder einen bibliographischen Eintrag, der den Link enthält):
 
-
-
-
-
 |  |
 |
 
@@ -80,10 +76,6 @@ Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre
 [imslp.org/wiki/Special:ReverseLookup/307092](http://imslp.org/wiki/Special:ReverseLookup/307092)
 
 |
-
-
-
-
 
 
 Der RISM Online-Katalog enthält die Serie [A/II](/de/publikationen.html#c41) (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/de/publikationen.html#c41) (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/de/publikationen.html#c41) (Sammeldrucke).
@@ -169,8 +161,3 @@ Bitte senden Sie die Tabelle(n) an: [contact@rism.info](mailto:contact@rism.info
 
 Sollten Sie Unterstützung benötigen, werden wir Ihnen gerne weiterhelfen.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

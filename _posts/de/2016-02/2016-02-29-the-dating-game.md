@@ -32,7 +32,3 @@ In diesem Fall haben wir einen weiteren Beweis, dass KielsRequiem 1862 gedruckt 
 _Friedrich Hofmeister. Mit freundlicher Genehmigung von Hofmeister XIX_
 
 [QED](https://de.wikipedia.org/wiki/Quod_erat_demonstrandum){:target="_blank"}im Falle von Kiels Requiem? Nicht ganz. Es ist auch möglich, dass diese Ausgabe, die sich in unserem Besitz befindet, mit der selben Plattennummer viel später erschien. Dafür gibt es weitere Hinweise. Währungen in Europa veränderten sich und schwankten im 19. Jahrhundert. Auf Kiels Requiem beispielsweise ist der Preis von 7 Thlr (d.h. 7 Thaler) genannt. Der Gebrauch von Thaler sagt uns sofort, dass die Veröffentlichung vor 1874 - vor der Einführung der Mark - liegen muss. Aber Dank Hofmeister können wir noch genauer werden. Das Werk wurde mit 7 Thaler im Hofmeister-Katalog von Oktober 1862 angezeigt, in späteren Ausgaben hat sich der Preis geändert. Daher muss Sommer / Herbst 1862 für die uns vorliegende Edition zutreffen. QED.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

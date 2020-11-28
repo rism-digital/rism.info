@@ -30,10 +30,6 @@ CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See
 
 CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html#sthash.Riy1rxGi.dpuf)
 
-
-
-
-
 Image credit: First page of the sonata, used with kind permission of the National Széchényi Library.
 
 Balázs Mikusi
@@ -44,4 +40,3 @@ Balázs Mikusi
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -26,14 +26,6 @@ Julia Craig-McFeely (University of Oxford, [DIAMM](https://www.diamm.ac.uk/){:ta
 
 Die Nationalbibliothek in Oslo ist eine relativ junge Einrichtung (gegründet 1989), aber das Sammeln und Bewahren des Kulturerbes hat natürlich schon eine längere Tradition. Die Institution hat ihren Sitz im früheren Gebäude der Universitätsbibliothek von Oslo (gebaut 1914). Die Nationalbibliothek hat viele ihre Bestände [online verfügbar](https://www.nb.no/nbsok/search){:target="_blank"} gemacht. Ich möchte Margrethe Bue für die freundliche Einladung, im Rahmen des Seminars zu sprechen, danken.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
-
-
-
-
 
 
 

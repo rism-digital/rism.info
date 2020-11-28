@@ -26,10 +26,6 @@ Angenommen Sie suchen nach Streichquartetten von Haydn in D-Dur ...
 
 … aber Sie finden nicht, das was Sie brauchen. Sie gehen zurück zur Erweiterten Suche und das fünfte Feld erscheint! Alle bisherigen Suchen einer Sitzung werden hier gespeichert.
 
-
-
-
-
 ![Fifth field](http://rism.info/resources-old-website/news/Fuenftes_Feld2_1010_x_395.jpg)
 
 Sie können die Haydn Quartette in D auswählen und nun eine viertes Element hinzufügen, beispielsweise alle Quellen aus Österreich.
@@ -47,4 +43,3 @@ In diesem kurzen Video wird der Einsatz des fünften Felds noch einmal gezeigt:
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

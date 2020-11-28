@@ -32,8 +32,7 @@ Die Biblioteca del Conservatorio di Musica S. Pietro a Majella in Neapel hat ein
 
 
 
-Haben Sie selbst eine Publikation verfasst oder vermissen Sie in unseren Daten eine bestimmte Literatur? Dann schreiben Sie bitte an: [martina.falletta@rism.info](mailto:martina.falletta@rism.info "Opens window for sending email")
+Haben Sie selbst eine Publikation verfasst oder vermissen Sie in unseren Daten eine bestimmte Literatur? Dann schreiben Sie bitte an: [martina.falletta@rism.info](mailto:martina.falletta@rism.info)
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -22,7 +22,3 @@ The turtle dove is the [Bird of the Year for 2020](https://www.nabu.de/tiere-und
 _Images_: Page from Sebastian Knüpfer, "Die Turteltaube lässet sich hören" (manuscript, ca. 1683). Dresden, Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) (D-Dl) Mus.1825-E-518. [RISM ID no. 211004692](https://opac.rism.info/search?id=211004692&View=rism&Language=en){:target="_blank"}. [Available online](https://sachsen.digital/werkansicht/dlf/87610/1/){:target="_blank"}.
 
 Photograph of a turtle dove by Revital Salomon ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_turtle_dove.JPG){:target="_blank"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en){:target="_blank"}).
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

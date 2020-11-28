@@ -21,10 +21,10 @@ The nine songs by Cramer, which were previously completely unknown, were catalog
 Contact:
 
 Steffen Voss M.A., RISM Deutschland, Munich Office, Bavarian State Library
-E-mail: [steffen.voss@bsb.muenchen.de](mailto:steffen.voss@bsb.muenchen.de "Opens window for sending email")
+E-mail: [steffen.voss@bsb.muenchen.de](mailto:steffen.voss@bsb.muenchen.de)
 
 Markus Ecker, Hochschule für Musik und Tanz Köln Library
-E-mail: [markus.ecker@hfmt-koeln.de](mailto:markus.ecker@hfmt-koeln.de "Opens window for sending email")
+E-mail: [markus.ecker@hfmt-koeln.de](mailto:markus.ecker@hfmt-koeln.de)
 
 
 

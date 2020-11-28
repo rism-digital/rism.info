@@ -17,7 +17,3 @@ The annual Tyrolean Christmas Concerts will once again sound on 22-23 December 2
 [Concert program](/resources-old-website/news/2012_tirolerweihnachtskonzert.pdf) (PDF; in German)
 
 Image: _Missa pastoralis_ by Fabian Sebastian Lanzinger ([RISM ID no.65001333](http://opac.rism.info/search?documentid=650013332){:target="_blank"})
-
-
-
-

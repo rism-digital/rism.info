@@ -1102,10 +1102,6 @@ Witzendorf
 Rottensteiner2013
 
 |
-
-
-
-
 Abbreviations:
 [D-B (Imagekat I)](http://musikipac.staatsbibliothek-berlin.de/catalog/toc){:target="_blank"}: Alphabetischer Imagekatalog I der Musikabteilung
 [HofmeisterMB](http://hofmeister.rhul.ac.uk){:target="_blank"}: Hofmeister Monatsberichte online
@@ -1114,4 +1110,3 @@ MGG1: Hilde Hellmann-Stojan, "Trnka, Johann Wenzel," _Musik in Geschichte und Ge
 WeinmannX 19XX: Complete publisher's catalog (of any given publisher. Abbreviations are as they are in RISM).
 WZ: Wiener Zeitung, searchable online through [ANNO](http://anno.onb.ac.at/){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

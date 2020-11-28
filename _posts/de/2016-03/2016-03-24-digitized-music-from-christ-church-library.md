@@ -24,4 +24,3 @@ Im RISM-Onlinekatalog sind zur Zeit über 2.600 handschriftliche und gedruckte M
 
 _Abbildung_: [Mus 45](http://viewer.bodleian.ox.ac.uk/christchurch/page.php?book=mus._45&page=8){:target="_blank"}, Tafelbuch, spätes 16. Jahrhundert, f. 2v. "O vos omnes" von Robert White. Mit freundlicher Genehmigung der Christ Church Library.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

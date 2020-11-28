@@ -20,8 +20,3 @@ Herr Kirsch hat in jahrelanger ehrenamtlicherTätigkeit die über 11.500 Quellen
 
 In Zusammenarbeit mit dem Répertoire International des Source Musicales (RISM), Arbeitsstelle München und der Arbeitsgemeinschaft Mainfränkische Musikgeschichte entstand dieser Katalog, dessen Drucklegung mit Unterstützung der RISM Zentralredaktion in Frankfurt/Main nun eine Zusammenfassung des überregional beachtenswerten Bestands bietet. Erschienen sind die Bändeim [Echter-Verlag](http://www.echter.de/index.html/die-musikalien-der-dioezese-wuerzburg/f3373a87-3350-4282-bc8a-79b1562bed51?mode=detail){:target="_blank"}, Würzburg.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

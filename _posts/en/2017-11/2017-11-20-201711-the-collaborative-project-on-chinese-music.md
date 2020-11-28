@@ -48,4 +48,4 @@ Meeting participants also planned the 2018 RISM-CLR working process, including a
 
 两天的会议中，RISM华语区工作小组也规划了明年的工作进程，包括：协助各成员管完成定量数据的上传、Muscat中文翻译、持续进行技术讨论、投稿2018 IAML会议论文发表、推动中国民族乐器英译名统一等，Mr. Keil也建议工作小组成立区域办公室，统筹协助愈来愈多华语地区相关音乐机构与团体欲加入RISM之需求。
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+

@@ -24,8 +24,3 @@ The sensitive aria by Maria Carolina, which is in rondò form, is the only work 
 
 _Image_: Maria Carolinas von Savoyen, "Per costume o mio bel nume," f. 1. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) D-Dl [Mus.1-F-49,12-12](http://digital.slub-dresden.de/id434532886){:target="_blank"}. RISM ID no. [212008692](https://opac.rism.info/search?id=212008692&Language=en){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

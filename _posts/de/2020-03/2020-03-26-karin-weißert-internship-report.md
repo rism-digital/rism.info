@@ -26,4 +26,3 @@ Allein in meiner kurzen Praktikumszeit von fünf Wochen bin ich in acht verschie
 
 Beides, die Vielseitigkeit und die Selbständigkeit haben die Zeit wie im Fluge vergehen lassen, sodass keinerlei Langeweile oder das Gefühl, überflüssig zu sein, aufkam. Die Zeit bei RISM hat mir eine anregende und äußerst zufriedenstellende Erweiterung meiner Kenntnisse gebracht, und ich konnte dabei ein interessantes Umfeld für eine berufliche Tätigkeit näher kennenlernen.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -29,11 +29,3 @@ Wir bedanken uns bei allen, die sich die Zeit genommen haben, um den Fragebogen 
 _Abbildung: Recueil d'Airs sérieux et à boire de différents auteurs_, bei Christophe Ballard (in Paris), 1713, S.20. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}. RISM B/II: p.313.
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

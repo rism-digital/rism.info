@@ -22,8 +22,3 @@ Im Video singt Joyce DiDonato die Aria "Intorno all'idol mio", die drei Mal im R
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/2L9zwTfq2CQ" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

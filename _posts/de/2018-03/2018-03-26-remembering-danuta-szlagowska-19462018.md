@@ -33,7 +33,3 @@ Sie war Mitglied in der Sektion Musikwissenschaft der polnischen Komponistengewe
 Für ihre jahrzehntelangen Verdienste als Pädagogin und Musikwissenschaftlerin erhielt Danuta Szlagowska Preise der Danziger Musikakademie und der Chopin-Musikuniversität, eine Medaille der polnischen Bildungskommission, Preise der Stadt Danzig sowie das Goldene Verdienstkreuz der Republik Polen. 2016 erhielt sie den Professorentitel ehrenhalber von der Abteilung für Dirigieren, Komposition und Musiktheorie der Fryderyk-Chopin-Musikuniversität Warschau.
 
 Die Zentralredaktion trauert mit den Angehörigen, den Kolleginnen und Kollegen. Wir werden prof. Danuta Szlagowska immer in guter Erinnerung behalten. Wir vermissen eine aktive, fachlich breit aufgestellte Kollegin, die uns allen durch ihr kontinuierliches wissenschaftliches Arbeiten ein großes Vorbild bleibt.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

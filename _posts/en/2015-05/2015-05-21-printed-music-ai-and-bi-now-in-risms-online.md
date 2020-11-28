@@ -31,18 +31,10 @@ We would like to express our gratitude to Bärenreiter and Henle Verlag for allo
 
 This addition of over 100,000 prints to the online catalog is an initial step towards revitalizing coverage of printed music in RISM. There are certainly many additions and corrections to be made to the A/I and B/I data and we ask for your patience as we work out a procedure for reporting new information. Institutions or individuals with additions or corrections to prints already in A/1 or B/1 are welcome to report them to us but for larger amounts of corrections, as well as new printed items without entries in A/1 or B/1, it will probably be easier to wait until the new cataloging program, Muscat, is available (expected in late 2015).
 
-Any questions can be directed to: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email")
+Any questions can be directed to: [contact@rism.info](mailto:contact@rism.info)
 
 Watch this brief video for an overview of what is new:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vXXkhsOCgZ0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
 
 Image: Jean-Philippe Rameau, _Pieces de clavecin en concerts_, Paris, auteur; Vve Boivin; Le Clair (gravé par Huë), 1741. [A/1: R 190](https://opac.rism.info/search?id=00000990053610){:target="_blank"}

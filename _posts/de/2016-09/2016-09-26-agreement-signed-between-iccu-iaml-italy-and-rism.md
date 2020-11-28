@@ -65,8 +65,3 @@ Erhöhung der Sichtbarkeit beider Online-Kataloge (SBN und RISM) durch spezielle
 
 Die Partner des RISM zu dieser Vereinbarung sind [ICCU](http://www.iccu.sbn.it/){:target="_blank"}, das Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche, und [IAML Italien](http://www.iamlitalia.it/){:target="_blank"}, die italienische Gruppe der International Association of Music Libraries, Archives and Documentation Centres.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

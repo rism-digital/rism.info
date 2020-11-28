@@ -18,7 +18,7 @@ To celebrate its first year of activity, CEMSP organizes an international confer
 
 June 20-21, Queluz National Palace
 
-For more information, see the [website of the CEMSP](http://cemsp.blogspot.pt/){:target="_blank"} or contact [cesmpqueluz@yahoo.com.](mailto:cesmpqueluz@yahoo.com "Opens window for sending email")
+For more information, see the [website of the CEMSP](http://cemsp.blogspot.pt/){:target="_blank"} or contact [cesmpqueluz@yahoo.com.](mailto:cesmpqueluz@yahoo.com)
 
 
 

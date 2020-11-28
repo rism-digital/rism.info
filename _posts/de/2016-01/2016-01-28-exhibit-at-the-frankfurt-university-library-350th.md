@@ -34,4 +34,4 @@ Genießen Sie das "Probasti Domine" aus Vinko Jelićs Sammmlung (beginnen Sie au
 
 _Abbildung_ : Sebastian Furck, Johann Andreas Herbst, Kupferstich, Frankfurt am Main, 1635. Universitätsbibliothek Frankfurt am Main, S36\_G04115.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+

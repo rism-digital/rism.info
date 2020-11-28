@@ -20,4 +20,3 @@ Users can browse and search the EMDB’s contents either by a simple search (usi
 
 We hope the database will become one of the new and powerful research tools in providing much needed materials and serves as the foundation of a unified primary source repository for modern music of East Asia.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

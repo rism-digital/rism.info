@@ -43,8 +43,3 @@ Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralr
 - Externe Datenbanken: RISM ist an weiteren Kooperationen auch mit Quellendatenbanken von Editionsinsti­tuten oder Bibliotheks-OPACs interessiert.
 - Open Data und Linked Open Data: Die [RISM Daten](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz wiederverwendet werden. Bibliotheken können somit ihreTitel in den eigenen lokalen Online-Katalog übertragen. Um die Belieferung mit den Daten zu vereinfachen, hat die Zentralredaktion Tools entwickelt, wie z.B. eine SRU-Schnittstelle.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

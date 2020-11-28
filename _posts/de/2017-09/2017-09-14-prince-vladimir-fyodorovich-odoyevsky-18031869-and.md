@@ -27,8 +27,3 @@ Als Literaturnachweis dient der Eintrag zur Person Odoevskijs in der [russischen
 
 _Abbildung_: Porträt Odoevskijs aus den 1840ern. Der Künstler war Kirill Gorbunov. Via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/7b/Odoevsky_vladimir.jpg){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

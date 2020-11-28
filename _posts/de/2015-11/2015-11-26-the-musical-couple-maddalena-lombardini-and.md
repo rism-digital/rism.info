@@ -26,7 +26,7 @@ Von Lodovico Sirmen sind eine Violinsonate, Duette für zwei Violinen, Trios fü
 
 Der RISM Online-Katalog bietet 77 Einträge zu den Kompositionen von [Maddalena Lombardini Sirmen](https://opac.rism.info/search?View=rism&author=maddalena+laura+syrmen "external-link-new-window") und 44 zu [Lodovico Simen](https://opac.rism.info/search?View=rism&author=lodovico+maria+gaspar+syrmen "external-link-new-window").
 
-**Weitere Nachweise und viele biographische Informationen finden sich im Werkverzeichnis** _[Catalogo tematico delle composizioni di Maddalena Lombardini e Ludovico Sirmen](http://www.solistiveneti.it/home.php?lang=Eng&home=s&news=s&tp=claudioscimone&file=edizioni.php){:target="_blank"}_, **das Francesco Passadore 2008 veröffentlichte und uns vom Autor freundlicherweise zugesandt wurde.** Sie finden die Angaben[in RISM unter dem Kürzel **PasS**](https://opac.rism.info/search?View=rism&q=PasS&author=syrmen "external-link-new-window").
+**Weitere Nachweise und viele biographische Informationen finden sich im Werkverzeichnis**[Catalogo tematico delle composizioni di Maddalena Lombardini e Ludovico Sirmen](http://www.solistiveneti.it/home.php?lang=Eng&home=s&news=s&tp=claudioscimone&file=edizioni.php){:target="_blank"}_, **das Francesco Passadore 2008 veröffentlichte und uns vom Autor freundlicherweise zugesandt wurde.** Sie finden die Angaben[in RISM unter dem Kürzel **PasS**](https://opac.rism.info/search?View=rism&q=PasS&author=syrmen "external-link-new-window").
 
 Hören Sie hinein in Maddalenas op.1: Trio a deux violins et violoncello, op. 1, Nr. 3 in D-Dur (PasSL.2.3.):
 
@@ -38,4 +38,3 @@ Abbildung: Maddalena Lombardini, Titelblatt zu op. 2, Trois Concerts (Amsterdam:
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

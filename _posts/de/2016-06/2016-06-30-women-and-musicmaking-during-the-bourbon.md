@@ -48,15 +48,3 @@ Fußnote 3: _Généalogie historique de la maison de Chanaleilles,…_ ([Paris:]
 Abbildung 1: Titelseite “LA | Naissance | DU SAUVEUR. | CANTATE | à quatre voix avec des chœurs, | offerte à S. A. R. | M|e LA DUCHESSE DE Berry. | Paroles et Musique par Mad|e la C|t|e|s|s|e 8|e | de Chanaleilles de Lasaumès Née Gerbier”
 
 
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

@@ -43,10 +43,6 @@ Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über
 <iframe src="https://player.vimeo.com/video/101737669" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
-
-
-
-
 **RISM-Publikationen**
 RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer Aktualisierung des eigenen Artikels in _Grove Music Online_. Eine ausführliche Liste finden Sie unter [RISM Bibliographie](/de/publikationen/bibliographie.html#c2606).
 
@@ -56,8 +52,3 @@ Wir freuen uns auf ein produktives und interessantes 2017!
 
 _Abbildung_: [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=189368&picture=background-wallpaper-20172016){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

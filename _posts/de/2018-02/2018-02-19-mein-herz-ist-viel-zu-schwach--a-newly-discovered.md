@@ -28,8 +28,3 @@ Helmut Lauterwasser, 'Mein Herz ist viel zu schwach, Euch zu verlassen.' Eine ne
 
 _Abbildung_: "Aria del Opera Telemann." Stadtarchiv Braunschweig (D-BSsta), H V: 196 (Sacksche Sammlung) "Jahrhundert XVII"; RISM ID no. [1001015280](https://opac.rism.info/search?id=1001015280){:target="_blank"}. Mit freundlicher Genehmigung von Helmut Lauterwasser.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -22,8 +22,3 @@ Unter den RISM-Quellen befindet sich auch zwei Kontrafakturen: Die Arie der Eris
 
 Bildnachweis: Seite aus einer später gedruckten Version des Librettos mit einer Darstellung aus Akt III, Szene XII: "Ferma. È tempo di morte, e non d’amori.“ (Paris: Herissant, 1780). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png#/media/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

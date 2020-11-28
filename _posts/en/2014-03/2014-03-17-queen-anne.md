@@ -36,15 +36,7 @@ To find music mentioning Queen Ann in the RISM online catalog, perform an [Advan
 
 Below is a performance of the first alto solo from Handel's birthday ode to the Queen of 1714 (composed 1713), her last. This is "Eternal source of light divine" (HWV 74; [autograph manuscript at the British Library](http://opac.rism.info/search?documentid=804002342){:target="_blank"}), featuring Kathleen Battle and Wynton Marsalis.
 
-
-
-
-
 <iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/2MuCCbg0k_0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
 
 
 
@@ -52,4 +44,3 @@ Picture credit: [Photo by Paul Farmer](http://www.geograph.org.uk/photo/1142443)
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

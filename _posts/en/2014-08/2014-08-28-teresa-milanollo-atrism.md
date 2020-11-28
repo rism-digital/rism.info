@@ -26,4 +26,3 @@ Below is the "Coldstream March," written by [Johann Valentin Hamm](https://opac.
 
 Photo credit: [Bibliothèque nationale de France](http://gallica.bnf.fr/ark:/12148/btv1b84226699){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

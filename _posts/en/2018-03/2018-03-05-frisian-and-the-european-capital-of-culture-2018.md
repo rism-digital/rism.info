@@ -23,4 +23,3 @@ Another edition from the same period is _Friesche Lust-hof_ (RISM-A/I: [S 4708](
 
 _Photographs_: _Musica miscella_, title page and first piece in Frisian from the Canto partbook. Photos courtesy of Simon Groot.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

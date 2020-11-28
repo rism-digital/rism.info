@@ -36,4 +36,3 @@ Additional events and information about this anniversary:
 
 Photo source: Bust of Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, France. Sculpture, terracotta, 75 cm. From [Friends of Art](http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

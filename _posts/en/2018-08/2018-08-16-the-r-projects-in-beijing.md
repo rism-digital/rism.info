@@ -18,4 +18,3 @@ In addition, representatives from each of the organizations travel to conference
 
 Having project representatives appear together at conferences is of great benefit to everyone. As a result, RISM has been able to launch initiatives in Chile, China, Cuba, and Mexico. One result of attending these events was the conference “[Documenting Musical Sources in Latin America](http://www.rism.info/publications/latin-america-conference-2016/){:target="_blank"}” in September 2016 in Mainz.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

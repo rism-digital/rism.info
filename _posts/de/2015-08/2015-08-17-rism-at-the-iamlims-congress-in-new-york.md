@@ -16,10 +16,6 @@ Klaus Keil und Jennifer Ward von der RISM Zentralredaktion und RISM-Präsident W
 
 
 
-
-
-
-
 Die Woche begann mit einer wunderschönen Kreuzfahrt um die Insel von Manhattan anlässlich des 50jährigen Bestehens von [RILM](http://rilm.org/){:target="_blank"}, gesponsert unter anderem von den [R-Projekten](http://www.r-musicprojects.org/){:target="_blank"}.
 
 Wie üblich veranstaltete RISM eine große Sitzung am Donnerstag mit fünf Präsentationen sowie die Treffen des Advisory Council und der Commission Mixte. In diesem Jahr veranstalteten wir zusätzlich einen Runden Tisch zur Musikdokumentation mit zwei Präsentationen.
@@ -40,4 +36,3 @@ Im Rahmen des Runden Tisches zur Musikdokumentation sprach Jennifer Ward über d
 
 Bildnachweis: Manhattan skyline (mit freundlicher Genehmigung von J. Ward)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

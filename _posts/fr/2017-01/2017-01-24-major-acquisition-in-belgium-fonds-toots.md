@@ -20,8 +20,3 @@ Ce fonds rassemble des centaines d’enregistrements sonores (disques 78 tours, 
 
 Le «Fonds Toots Thielemans» offre dorénavant à tous l’opportunité de découvrir et d’étudier l’ensemble de la carrière de celui qui a fait chanter sa guitare et son harmonica aux quatre coins du monde, sur de nombreux enregistrements (disques, CD, films) et en concert.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

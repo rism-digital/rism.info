@@ -23,7 +23,3 @@ Gegenwärtig hat der [RISM Online-Katalog](https://opac.rism.info/){:target="_bl
 Bild: Das Grüne Schloss, das Herzog Anna Amalia 1761-66 als herzogliche Bibliothek im Spätbarock umbauen ließ. Hier die Südwestansicht im Jahre 2004 noch vor dem Brand. Foto aufgenommen von R.Möhler. Lizenziert unter [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"} via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gr%C3%BCnes_Schloss_%28Herzogin-Anna-Amalia-Bibliothek%29_in_Weimar.jpg?uselang=de){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

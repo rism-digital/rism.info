@@ -26,13 +26,8 @@ In the future you will also find numbers that reference the projects [VD 16](htt
 **B/I from 1551**
 The revision of the B/I entries beginning from 1551 has also begun now. From 1551 to 1599 there are ca. 1,100 entries (with a lot of A/I duplicates) and from 1600 to 1700 there is around the same amount. The first part is now the focus of editing work.
 
-Information concerning any mistakes, new copies, digitized copies, and other details such as important literature is most welcome! Just send an email to: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email") or [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info "Opens window for sending email").
+Information concerning any mistakes, new copies, digitized copies, and other details such as important literature is most welcome! Just send an email to: [contact@rism.info](mailto:contact@rism.info) or [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info).
 
 
 _Image_: Daniel Megel, _Scenica progymnasmata_ (Basel: Bergmann, 1498). A/I: M 1738. RISM ID no. [990040426](https://opac.rism.info/search?id=00000990040426&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) 4 Inc.c.a. 1542 n, [available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303249-7){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

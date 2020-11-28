@@ -26,12 +26,7 @@ Dieses Video ist zeigt die Südafrikareise mit Latrobes eigenen Zeichnungen aus 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSwTJHTlqIU" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 _Abbildung_: Porträt von Latrobe von Samuel Bellin, nach Thomas Barber, Mitte 19. Jahrhundert. National Portrait Gallery, London, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christian_Ignatius_Latrobe_by_Samuel_Bellin,_after_Thomas_Barber_cropped.jpg){:target="_blank"}.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

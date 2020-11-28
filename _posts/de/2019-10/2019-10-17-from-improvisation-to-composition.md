@@ -24,4 +24,3 @@ Bei RISM sind mittlerweile fast [1.900 Katalogisate](https://opac.rism.info/sear
 
 _AbbiIdung_: Frédéric Chopin (1810-1849) in einer Fotografie von Louis-Auguste Bisson, um 1849, über [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/800px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

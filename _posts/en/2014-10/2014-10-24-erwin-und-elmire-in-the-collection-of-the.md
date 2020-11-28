@@ -34,4 +34,3 @@ One of the copies of the piano score was used as a production book and another a
 
 Image: No. 6, Duet, Elmire/Bernardo:“Ein Veilchen auf der Wiese stand”(measures 4–28), from_Erwin und Elmire_by Anna Amalia von Sachsen-Weimar-Eisenach, D-WRha DNT 6b, Elmire's part, f.7r
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

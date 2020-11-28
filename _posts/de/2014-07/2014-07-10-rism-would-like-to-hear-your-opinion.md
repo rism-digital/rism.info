@@ -18,4 +18,4 @@ Egal, ob Sie Musikbibliothekar, Student, erfahrener Datenbanknutzer sindoder wen
 
 Besuchen Sie uns im Ausstellungsbereich.Falls Sie keine Gelegenheit haben, in Antwerpen an der Nutzerstudie teilzunehmen: Wir werden die Nutzerstudie im Herbst fortsetzen, so dass Siesichauch zu einem späteren Zeitpunkt daranbeteiligenkönnen.
 
-Fragen? [contact@rism.info](mailto:contact@rism.info "Opens window for sending email")
+Fragen? [contact@rism.info](mailto:contact@rism.info)

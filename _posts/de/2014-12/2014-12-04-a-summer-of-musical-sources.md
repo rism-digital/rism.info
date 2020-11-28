@@ -12,11 +12,7 @@ author: ''
 ---
 
 
-_Martin Bierwisch,_ _ein Student der Musikwissenschaft an der Universität Mainz, verbrachte den Sommer als Praktikant bei uns. Lesen Sie im folgenden seinen Erfahrungsbericht. Wenn Sie sich für ein Praktikum bei RISM interessieren, setzen Sie sich bitte mit uns in [Verbindung](mailto:contact@rism.info "Öffnet ein Fenster zum Versenden der E-Mail")._
-
-
-
-
+_Martin Bierwisch,_ _ein Student der Musikwissenschaft an der Universität Mainz, verbrachte den Sommer als Praktikant bei uns. Lesen Sie im folgenden seinen Erfahrungsbericht. Wenn Sie sich für ein Praktikum bei RISM interessieren, setzen Sie sich bitte mit uns in [Verbindung](mailto:contact@rism.info)._
 
 Die Idee ein Praktikum in der Zentralredaktion von RISM zu machen, kam durch mehrere Faktoren zu Stande. Zum einen hatte ich mich schon vorher mit dem OPAC aber auch den Bänden wie A/1 beschäftigt. Zum anderen erweckte die [Tagung 2012](http://www.rism.info/en/publications/conference-2012.html){:target="_blank"} mein Interesse dafür.
 
@@ -25,10 +21,6 @@ Die Idee ein Praktikum in der Zentralredaktion von RISM zu machen, kam durch meh
 Meine Arbeit in der Zentralredaktion war abwechslungsreich und vielfältig. Dabei spielte das Programm Kallisto eine zentrale Rolle. Mit diesem bearbeitete ich Einträge welche im RISM-OPAC erscheinen. Einer der ersten Aufgaben war es Einträge zu Carl Philipp Emanuel Bach zu bearbeiten. Dabei sollte in den Einträgen Werkverzeichnisse mit ihren jeweiligen Nummer ergänzt oder ggf. berichtigt werden. Erstaunlich war zu erfahren, dass selbst das älteste der Verzeichnisse, das Wotquenne-Verzeichnis (Wq) immer noch sehr genutzt wird, obwohl es bereits 1905 erschien und durch das um einiges ausführlichere Helm-Verzeichnis (HelB) eigentlich abgelöst wurde. Es konnte auch teilweise das neue Verzeichnis der Vokalwerke (BR-CPEB) von 2014 ergänzt werden und es war dabei ersichtlich, dass hier schon RISM-Nummern in den Quellenbeschreibungen Einzug hielten. Darüber hinaus hatte ich auch Berührung mit dem Skrjabin-Werkverzeichnis (BosS) und zwei verschiedenen Čajkovskij-Werkverzeichnissen (ČW , PozČ). Dadurch standen auch Besuche in der nahegelegenen Universitätsbibliothek J. C. Senckenberg auf dem Plan um Literatur, wie Werkverzeichnisse und anderes einzusehen.
 
 Ein besonderes Ereignis war der Besuch der mexikanischen RISM-Gruppe am [Seminario de Música en la Nueva España y el México Independiente](http://musicat.unam.mx/v2013/index.html){:target="_blank"}. Dadurch wurde mir unmittelbar deutlich, welchen internationalen Anspruch RISM besitzt und wie wichtig die enge Zusammenarbeit mit den einzelnen Ländergruppen ist. Außerdem wurde mir deutlich wie viele Quellen noch auf ihre Erschließung warten.
-
-
-
-
 
 Ein großer Teil meiner Arbeit war es Incipits mithilfe des [Plain & Easie Code](http://www.iaml.info/activities/projects/plain_and_easy_code){:target="_blank"} einzugeben. Hierbei griff ich auf Digitalisate der [TU Darmstadt](http://tudigit.ulb.tu-darmstadt.de/show/sammlung23){:target="_blank"} und der [Berliner Staatsbibliothek](http://digital.staatsbibliothek-berlin.de/suche/?DC=musiknoten){:target="_blank"} zurück. Diese waren meist sogar von Autographen. Darunter waren Werke von Johann Schelle, Georg Joseph Vogler, Georg Philipp Telemann und Georg Österreich. Meine Kenntnisse im Lesen von Kurrentschrift konnte ich dabei nutzen und verbessern. Ich lernte aber auch die Handhabung und Schreibweisen von alten Schlüsseln besser kennen. Ich musste darüber nachdenken, wie lang ein Incipit, sei es nun vom Text oder von den Noten, überhaupt sein muss, sodass eine Identifikation später möglichst einfach und sicher ist.
 
@@ -59,7 +51,3 @@ Insgesamt kann ich sagen, dass ich mit Hilfe der einzelnen Mitarbeiter der Zentr
 
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

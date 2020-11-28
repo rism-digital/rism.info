@@ -29,8 +29,3 @@ This DFG project is being carried out in cooperation with [Schott Music](https:/
 ![Palestrina catalog](http://rism.info/resources-old-website/news/Palestrina-2.jpg)
 _A view of the search screen_
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

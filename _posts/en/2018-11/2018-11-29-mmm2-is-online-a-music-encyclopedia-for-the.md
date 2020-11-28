@@ -20,6 +20,5 @@ As a result, a completely forgotten music teacher from Mainz such as [Frohwald T
 
 Articles include a biographical sketch and an overview of works; when applicable, locations of course include RISM library sigla and links to digitized versions of works (see, for example, [the article on Adolph Herget](http://www.mmm2.mugemir.de/doku.php?id=herget){:target="_blank"}). For printed editions from the RISM A/I series or individual manuscripts, links are also provided directly to the RISM catalog (see the article on [Franz Heinrich Ehrenfried](http://www.mmm2.mugemir.de/doku.php?id=ehrenfried){:target="_blank"}). Internal links connect individual articles.
 
-Additional articles will be added gradually. If you are interested in supporting the editors with articles or suggestions, please write to [kontakt@mugemir.de](mailto:kontakt@mugemir.de "Opens window for sending email").
+Additional articles will be added gradually. If you are interested in supporting the editors with articles or suggestions, please write to [kontakt@mugemir.de](mailto:kontakt@mugemir.de).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

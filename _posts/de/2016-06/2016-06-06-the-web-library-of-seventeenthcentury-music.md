@@ -18,8 +18,3 @@ Der [Katalog WLSCM](http://www.sscm-wlscm.org/main-catalogue/full-catalogue-list
 
 Sie haben ein Werk oder einen Komponisten im Kopf, der noch nicht in der Web Library of Seventeenth-Century Music zu finden ist? WLSCM [begrüßt neue Beiträge](http://www.sscm-wlscm.org/about-us/8-guidelines-for-contributors){:target="_blank"} jederzeit. Der [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} hilft Ihnen Handschriften und Notendrucke zu finden, die online zur Verfügung stehen und die mehr als 100.000 Einträge zu historischen Notendrucken helfen vollständige Exemplare ausfindig zu machen, Ausgaben miteinander zu vergleichen und lange vergessene Musik wieder zum Leben zu erwecken.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

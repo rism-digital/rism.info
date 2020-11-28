@@ -35,7 +35,3 @@ During the breaks and at a reception there were opportunities to talk to people 
 All in all, I am very happy about the experiences that I had during my internship. I learned about composers and works that had previously been completely unknown to me and it was exciting to see how the work of a project with networks worldwide goes forward. I spent ample time cataloging music in the database and got to know a lot of interesting people in the process. I also saw that it is very wise to have a background in both musicology and librarianship. Both fields together are a perfect combination and open up a wide world of career possibilities.
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

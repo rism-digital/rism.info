@@ -22,20 +22,8 @@ Telemann is high on the list of composers whose works appear most frequently in 
 
 Many of the manuscripts of Telemann’s works are accessible in digitized form; there are at present 973 links to digitized versions of these manuscripts in the RISM online catalog. The libraries that offer the largest collections of digitized manuscripts include the University and State Library Darmstadt (D-DS, 334 manuscripts), the Saxon State and University Library Dresden (D-Dl, 326 manuscripts), and the Berlin State Library (D-B, 181 manuscripts). Telemann manuscripts that are currently being added to digital collections include the autographs from the Berlin State Library as well as the manuscript collection of the [Adjuvantenarchiv Goldbach](https://opac.rism.info/search?View=rism&author=Telemann+Georg+Philipp&siglum=D-WRha&language=en){:target="_blank"}, which is presently located in the University Archive of the University of Music Franz Liszt Weimar ([D-WRha](http://www.hfm-weimar.de/index.php?id=343#joPageDown){:target="_blank"}).
 
-
-
-
-
 _Image_: March (TWV 50:43), autograph, D-F Ms.Ff.Mus. 1588, (RISM ID no. [4500004844](https://opac.rism.info/search?id=450004844){:target="_blank"})
 
 _Translated by Vivian Tompkins (intern, summer 2017)._
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

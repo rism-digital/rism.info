@@ -22,8 +22,3 @@ Nach vielen Jahrzehnten konnte die Handschrift nun im Rahmen des DFG-Projekts �
 
 Die Quellenbeschreibung sowie das zugehörige Digitalisat sind im RISM-OPAC ([RISM ID no. 464131272](https://opac.rism.info/search?id=464131272&db=251&View=rism){:target="_blank"}) zu finden; von dort aus führen weitere Verlinkungen zur maßstabgetreuen Abbildung des Wasserzeichens, das mit dem neuartigen Thermographie-Verfahren aufgenommen wurde. Ein Kurzbericht über die Korrektur der Zuschreibung ist im aktuellen [Bach-Jahrbuch](http://www.neue-bachgesellschaft.de/bach-jahrbuch-2014/){:target="_blank"} enthalten (BJ 2014, Jg. 100, S. 213 – 219).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

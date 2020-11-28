@@ -26,4 +26,3 @@ In conclusion, let's point out the mission of RISM. RISM wants to make a vital c
 
 _Photo caption: The music to Vivaldi's Violin Concerto RV 66 ([RISM ID no.212001392](https://opac.rism.info/search?id=212001392&db=251&View=rism){:target="_blank"}) can be recognized by the movement's “Adagio” heading._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

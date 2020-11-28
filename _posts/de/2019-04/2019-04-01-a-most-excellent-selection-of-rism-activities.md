@@ -23,7 +23,3 @@ Die Öffentlichkeit wird gebeten, ihre Lösungen zur Bewertung mit den Redakteur
 Sollte dieser Band in günstiger Weise bei der Öffentlichkeit ankommen, werden die Redakteure veranlasst, die Arbeit an demselben Plan fortzusetzen und Abonnements anzubieten, die durch Versendung der entsprechenden Summe an den Drucker erworben werden können.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

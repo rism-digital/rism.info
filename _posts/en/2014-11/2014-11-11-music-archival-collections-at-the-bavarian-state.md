@@ -27,7 +27,3 @@ The autograph music manuscripts of the most prominent composers have already bee
 
 
 Picture credit: Max Reger, Gesänge, op. 144, "Der Einsiedler," [BSB Mus.ms. 21233](http://daten.digitale-sammlungen.de/bsb00049593/image_7){:target="_blank"}
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

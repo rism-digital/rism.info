@@ -26,4 +26,3 @@ There are [ten sources](https://opac.rism.info/search?View=rism&q=sanssouci){:ta
 
 _Image_: Frederick the Great, Concerto for 2 Flutes and Cembalo, D major. Darmstadt, Universitäts- und Landesbibliothek, Musikabteilung (D-DS) Mus. ms. 320 (RISM ID no. [450001960](https://opac.rism.info/search?id=450001960){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

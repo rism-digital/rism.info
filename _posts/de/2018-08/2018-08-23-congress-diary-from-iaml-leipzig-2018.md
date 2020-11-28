@@ -71,4 +71,3 @@ These ideal acoustics were on full display in the two concerts Song gave. The se
 
 In between the organ tours, we had a small break in which I wandered around the town to look at the historic water tower (alas, covered by scaffolding) and find some postcard stamps. I also saw an outdoor yellow tiled mural that reminded me of the _Fürstenzug_ in Dresden. The Rötha version is a chronology of the town and if you look at the 1700s you can find the two Silbermann organs featured prominently (see picture).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

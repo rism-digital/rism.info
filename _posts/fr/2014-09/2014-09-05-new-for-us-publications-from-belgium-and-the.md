@@ -10,15 +10,7 @@ old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/new-for-u
 email: ''
 author: ''
 ---
-
-
-
-
 We have recently acquired four publications about Belgian and Dutch musical sources that we would like to share with you:
-
-
-
-
 
 
 
@@ -41,7 +33,3 @@ RISM short title: BastiaensA 2007
 This volume contains many articles related to musical sources and features pieces written by our RISM contributors Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs, and Veronique Verspeurt.
 
 With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}for sending us the books.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

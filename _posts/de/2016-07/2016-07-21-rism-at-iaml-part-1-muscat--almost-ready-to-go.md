@@ -31,10 +31,6 @@ Die Arbeiten sind so weit fortgeschritten, dass wir guter Hoffnungsind, dasProgr
 - Es ist einfach, weitere Sprachversionen von Muscat zu erstellen. Das Programm wird zunächst inEnglisch, Französisch, Deutsch und Italienisch angeboten,andere Übersetzungen sind Willkommen! Bitte melden Sie sich bei uns, falls Sie helfen können.
 - MUSCAT kam in früheren Versionen in der [britischen](http://www.rism.org.uk/){:target="_blank"} und schweizerischen Arbeitsgruppe zum Einsatz und läuft in der neusten Version bereits in der Schweiz. Das Programm hat sich also bereits bewährt; größere Programmfehler sind nicht zu erwarten.
 
-
-
-
-
 **Aktueller Stand von Muscat:**
 
 
@@ -58,10 +54,5 @@ Die Testphase läuft bis zum 5. September. Die Zentralredaktion hat bereits alle
 - **Achtung: Die Umstellung von KALLISTO auf MUSCAT muss aus technischen Gründen an einem festgelegten Tag geschehen. Kallisto kann nicht parallel weiter benutzt werden.**
 - Nach der Veröffentlichung vonMuscat stellen wir gerne allen Interessierten einen Zugang zur Verfügung, die einen Beitrag für RISM leisten möchten.
 
-
-
-
-
 Das Feedback auf der IAML-Konferenzwarsehr positiv, so dass wir optimistisch der Veröffentlichung von Muscat entgegensehen.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

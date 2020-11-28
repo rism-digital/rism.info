@@ -38,4 +38,3 @@ Titelseite aus Cherubinis _Wasserträger_, arrangiert von Boyneburgk ([CC 2028 I
 (noch nicht in RISM) [GB-Lbl E.824.](http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01018681487){:target="_blank"} _Shakespeare's Lieder, mit Begleitung des Piano-Forté ... Erste (zweite) Lieferung 16tes. Werk_, Offenbach a/M , J. André, ca. 1830.
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

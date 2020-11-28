@@ -20,10 +20,6 @@ _- Musikarchiv_ (music manuscripts and printed music before 1850)
 
 _- Notenbibliothek_ (printed music after 1850)
 
-
-
-
-
 These offer a broad view of the musical life of the monastery of St. Mary in the Rock from the 17th century until today.
 
 In the _Musikarchiv_ collection you will also find all music manuscripts such as an autograph fragment of Wolfgang Amadeus Mozart's "Kyrie eleison" (KV 73x). This autograph came into the possession of the Benedictine cloister Mariastein through Julius André (1808-1880, son of the publisher Johann Anton André) and his friendly contact with the composer and later abbot father Leo Stöcklin (1808-1873). In the_Musikarchiv_ collection you will also find music manuscripts by the following composers of the monastery:
@@ -52,8 +48,4 @@ In the catalogue of the _Notenbibliothek_ collection you will find indications o
 
 [http://www.musiccollections.ch](http://www.musiccollections.ch/) (E)
 
-
-
-
-
-The music collections can be consulted in Mariastein. Users are kindly requested to ask for an appointment at least 15 days in advance: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch "Opens window for sending email")
+The music collections can be consulted in Mariastein. Users are kindly requested to ask for an appointment at least 15 days in advance: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch)

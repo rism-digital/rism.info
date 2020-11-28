@@ -26,8 +26,3 @@ Für das restliche Frankreich wird das Inventar der Bestände mit frühen Musikq
 
 _Abbildung_: Giovanni Lorenzo Lulier, "La fortuna con eccessi," Kantate aus _Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item){:target="_blank"}, [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

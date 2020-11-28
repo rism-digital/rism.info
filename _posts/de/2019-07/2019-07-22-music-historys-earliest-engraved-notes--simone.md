@@ -28,4 +28,3 @@ Wer mehr zu Verovio erfahren möchte, sei auf die üblichen Lexika und die neue 
 
 _Abbildung_: Titelblatt von CANZONETTE | A quattro Voci, | Composte da diuersi | Ecc.ti Musici. Copy in [Bayerische Staatsbibliothek](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00074058-8){:target="_blank"} (D-Mbs, 4 Mus.pr. 10), [RISM ID no. 993120915](https://opac.rism.info/search?id=993120915){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

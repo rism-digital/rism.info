@@ -10,10 +10,6 @@ old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mark-the-mu
 email: ''
 author: ''
 ---
-
-
-
-
 Last month, the week before the [IAML Congress in Riga](http://www.iaml.info/congresses/2017-riga){:target="_blank"}, the [Svenska musikbiblioteksföreningen](http://www.smbf.nu/){:target="_blank"} (the Swedish branch of IAML) hosted a course called [Mark the Music — a course for librarians working with music](http://www.smbf.nu/dok/Program.mark_the_music.pdf){:target="_blank"}. Pia Shekhter (University of Gothenburg's [Music and Drama Library](http://www.ub.gu.se/bibliotek/Gumu/){:target="_blank"}) invited me (Jennifer Ward) to give a presentation about RISM.
 
 Since I had never spent a lot of time in Sweden before, Pia generously invited me and another speaker, Carolyn Dow, to spend some time before the course exploring the Swedish countryside. One highlight was a visit to the historic town of Skara, home to one of the oldest cathedrals in Sweden. Pia wanted to show us the famous [Stifts- och landsbiblioteket](http://www.skara.se/se--gora/bibliotek.html){:target="_blank"} (S-SK), which houses a significant collection of music materials (with over [1,000 records in the RISM online catalog](https://opac.rism.info/metaopac/search?View=rism&siglum=S-SK){:target="_blank"}). We got there just before the library closed for lunch. Pia explained that we were music librarians and that I work for RISM. I showed the librarian my business card and his face immediately lit up and he pointed to the [blue RISM volumes](/publications.html#c36) behind him on the shelves. We were then treated to a tour of the library, including its digitization center and a special peek at the vault where the rare materials are kept. The librarian went straight to the music materials and showed us highlights from the printed music and manuscripts collection (see image). RISM opens doors! The tour ended with a display of the famous [Skara Missal](http://www.omifacsimiles.com/brochures/skara.html){:target="_blank"}, a twelfth-century illuminated manuscript that contains chant notation and is one of the oldest books in Sweden.
@@ -56,4 +52,3 @@ The course included a study visit to the [Herbert Blomstedt Collection](http://w
 
 Many thanks go to Pia Shekhter for the kind invitation to speak in Gothenburg and for the excellent organization of the course. Tusen tack!
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

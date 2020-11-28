@@ -18,10 +18,6 @@ Nach 26 Jahren verlassen wir dieses Gebäude und wechseln in Räumlichkeiten der
 
 
 
-
-
-
-
 Unsere neue Postadresse lautet:
 
 RISM Zentralredaktion
@@ -45,13 +41,5 @@ Mertonstraße, Hauptgebäude (Bauteil D), Räume 401 – 407
 Wir bitten um Verständnis, wenn wir die ein oder andere Mail nicht unverzüglich beantworten und auch telefonisch momentan nicht gut erreichbar sind.
 
 _Bildnachweis: JeongYoun Chang, RISM-Korea_
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

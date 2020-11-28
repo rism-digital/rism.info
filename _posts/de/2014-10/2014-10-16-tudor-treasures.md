@@ -41,7 +41,3 @@ Ansonsten haben wir in der UL Kopien von Thoinot Arbeaus _[Orchesographie](http:
 
 
 Wenn Ihnen diese Schätze nicht ausreichen, gibt es auch noch eine ungewöhnliche Einspielung von Macbeth, dem Tölpel; eine der esoterischeren Exemplare des 21. Jahrhunderts im Rahmen der nationalen Meldepflicht. Also, wenn Sie einen freien Moment haben, kommen Sie bitte zu den Tudor-Schätzen in der UL.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

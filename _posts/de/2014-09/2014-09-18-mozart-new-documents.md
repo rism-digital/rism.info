@@ -24,14 +24,10 @@ URLs:
 [http://sites.google.com/site/mozartdocuments](http://sites.google.com/site/mozartdocuments)
 [http://dx.doi.org/10.7302/Z20P0WXJ](http://dx.doi.org/10.7302/Z20P0WXJ)
 
-[Dexter Edge](mailto:dexedge@gmail.com "Opens window for sending email") und [David Black](mailto:davidblack@post.harvard.edu "Opens window for sending email")
+[Dexter Edge](mailto:dexedge@gmail.com) und [David Black](mailto:davidblack@post.harvard.edu)
 
 Bild: Bericht über die Premiere von _Le nozze di Figaro, Münchner Staats=gelehrte und vermischte Nachrichten aus Journalen, Zeitungen, und Correspondenzen_ (= _Münchner_ Zeitung_)_, no. 73, Dienstag 9. Mai 1786
 
 [https://sites.google.com/site/mozartdocuments/documents/1786-05-03](https://sites.google.com/site/mozartdocuments/documents/1786-05-03)
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

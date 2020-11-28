@@ -22,13 +22,8 @@ Our focus is on ensuring improved clarity of the RISM records when merging entri
 
 The Union Catalogue of Books Printed in German Speaking Countries in the 17th Century ([VD 17](http://www.vd17.de/){:target="_blank"}) has also proven to be a gold mine. When we look there for shelfmarks and digitized copies, it is not a rare occurrence to discover exemplars in VD 17 that have not even been reported in RISM. A good example is Ludwig Helmbold's_Crepundia Sacra_(Erfurt: Singe, 1608; [B|I 1608|6 and A/I B 4976](https://opac.rism.info/search?id=00000990007573&View=rism&Language=en){:target="_blank"}). Whereas B/I only listed copies in Halle/Saale (D-HAu), Wolfenbüttel (D-W), and London (GB-Lbl), A/I was able to add a copy from the Schneider private collection (D-Fschneider). Upon consulting VD 17 ([39:149280Z](https://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=%2739:149280Z%27){:target="_blank"}) we now have three additional copies: in Munich (D-Mbs), Göttingen (D-Gs), and Gotha (D-GOl); at the same time, VD 17 does not list the Schneider and London copies. So where can you look in the future when you want to see all (known) copies of an anthology? That's right! [In the RISM catalog](https://opac.rism.info/){:target="_blank"}.
 
-We are always happy to hear from you when you notice mistakes or know of additional copies and indispensable secondary literature. Just send an email to: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email"), [johanna.thoene@rism.info](mailto:j.thoene@gmx.net "Opens window for sending email") or [martin.bierwisch@rism.info.](mailto:martin.bierwisch@rism.info)
+We are always happy to hear from you when you notice mistakes or know of additional copies and indispensable secondary literature. Just send an email to: [contact@rism.info](mailto:contact@rism.info), [johanna.thoene@rism.info](mailto:j.thoene@gmx.net) or [martin.bierwisch@rism.info.](mailto:martin.bierwisch@rism.info)
 
 
 _Image_: Ludwig Helmbold,_Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

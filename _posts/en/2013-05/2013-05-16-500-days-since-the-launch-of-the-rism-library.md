@@ -22,4 +22,4 @@ User statistics show 5,800 visits for 2012--an impressive number--and confirm th
 
 With new, user-friendly URLs ([http://www.rism.info/sigla](http://www.rism.info/sigla/){:target="_blank"} and [http://www.rism.info/de/rism-bibliothekssigel.html](http://www.rism.info/de/rism-bibliothekssigel.html)) the database is even easier to access and cite. A [short video tutorial](/sigla/help.html#c2138) is available online to demonstrate the basics of searching.
 
-Please let us know if you have any suggestions or corrections to the database. If you cannot find a library sigla or an institution, do not hesitate to [contact us](mailto:contact@rism.info "Opens window for sending email").
+Please let us know if you have any suggestions or corrections to the database. If you cannot find a library sigla or an institution, do not hesitate to [contact us](mailto:contact@rism.info).

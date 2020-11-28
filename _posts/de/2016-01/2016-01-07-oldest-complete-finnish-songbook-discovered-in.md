@@ -22,8 +22,3 @@ Das Gesangbuch wurde digitalisiert und steht [online](http://digital.slub-dresde
 
 Bildnachweis: Titelblatt von _Yxi Wähä Suomenkielinen Wirsikiria_, SLUB Dresden, Lit.var.167,misc.1, [http://digital.slub-dresden.de/id425718670](http://digital.slub-dresden.de/id425718670) (CC-BY-SA 4.0).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

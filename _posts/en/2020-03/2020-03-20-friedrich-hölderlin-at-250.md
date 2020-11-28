@@ -21,4 +21,3 @@ Only a portion of Hölderlin’s lyric works were published during his lifetime.
 
 _Image_: Eberhard Egermann (born 1953), “Die Schönheit ist den Kindern eigen,” from _Vier Lieder für Bariton und Klavier nach Gedichten von Friedrich Hölderlin, [SLUB Dresden (D-Dl)](https://digital.slub-dresden.de/werkansicht/dlf/205749/3/){:target="_blank"} Mus.15530-K-500 ([RISM ID no. 1001019452](https://opac.rism.info/search?id=1001019452&View=rism){:target="_blank"})._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

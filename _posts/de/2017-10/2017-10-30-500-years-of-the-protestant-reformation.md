@@ -14,10 +14,6 @@ author: ''
 
 Der Reformationstag oder das Reformationsfest wird von evangelischen Christen vorrangig im deutschsprachigem Raum gefeiert. In Deutschland und Österreich gilt der 31. Oktober als Gedenktag an die Reformation der Kirche durch Martin Luther. Der erste Sonntag im November wird in der Schweiz als Reformationssonntag begangen.
 
-
-
-
-
 Am 31. Oktober 2017 jährt sich zum 500. Mal die Veröffentlichung der 95 Thesen, die Martin Luther – der Überlieferung nach – in lateinischer Sprache an die Tür der Schlosskirche in Wittenberg schlug. Er leitete damit die Reformation der Kirche ein. Aus Anlass diese bedeutenden Jubiläums ist der Reformationstag einmalig ein gesamtdeutscher gesetzlicher Feiertag.
 
 
@@ -55,7 +51,3 @@ Und wer wissen möchte, welche Kompositionen sich für das liturgische Fest [**R
 _Abbildung_: Wilhelm Schneider (1783-1843), Ein' feste Burg ist unser Gott. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), Dresden (D-Dl Mus.4646-E-501, RISM ID no. 211005300).
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

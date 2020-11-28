@@ -42,14 +42,6 @@ Die weiteren Marienfeste sind:
 
 Und noch ein Hinweis zu guter Letzt: Die Suchfilter in der linken Spalte helfen Ihnen die Trefferliste einzugrenzen.
 
-
-
-
-
 Bild: Domenico Ghirlandaio, _Natività di Mari__a,_ Cappella Tornabuoni, 1485-1490, Fresko,Firenze,basilica di Santa Maria Novella, [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
 
 

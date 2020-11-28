@@ -30,15 +30,7 @@ Darüber hinaus hatte ich Einblick in die Pflege der Personen-, Thesaurus- und B
 
 Martina Falletta ermöglichte mir zudem Besuche in der Bibliothek der [Frankfurter Oper](http://www.oper-frankfurt.de/){:target="_blank"} und bei Frankfurter Arbeitsstelle der [Gluck-Gesamtausgabe](http://www.gluck-gesamtausgabe.de/){:target="_blank"}, sodass ich meinen Aufenthalt in Frankfurt auch nutzen konnte, um weitere interessante Projekte kennenzulernen.
 
-
-
-
-
 Ein ganz aktuelles Projekt in der RISM-Zentralredaktion ist die Auswertung der [Nutzerumfrage](/de/community/rism-nutzerstudie.html), die im vergangenen Winter/Frühjahr erstellt wurde. Neben der Anfertigung einer Liste mit technischen Verbesserungen für den RISM-OPAC, die von Nutzern in der Umfrage gewünscht wurden, bereiteten wir im Team einen Vortrag über erste Ergebnisse und Veränderungen vor. Dieser wurde von Martina Falletta und Jennifer Ward im Rahmen der [AIBM-Jahrestagung](http://www.aibm.info/tagungen/2015-stuttgart/vortragsfolien_aibm2015/){:target="_blank"} am 23. September 2015 in Stuttgart vorgetragen und erhielt dort sehr positive Resonanz.
-
-
-
-
 
 Die Teilnahme an dieser Fachtagung für Musikbibliothekare aus dem gesamten deutschsprachigen Raum war nicht nur ein Highlight meines Praktikums, sondern bildete auch dessen stimmigen Abschluss. Zuerst stellte sich hier die Stadt Stuttgart mit ihrem reichen Musikleben dar, unter anderem durch Beiträge der [Stuttgarter Staatsoper](http://www.oper-stuttgart.de/){:target="_blank"}, der [Hymnus Chorknaben](http://www.hymnus.de/){:target="_blank"}, das Integrationsprojekt Labyrinth und das Musiklabel TACET. Auch das Studium des Bibliotheks- und Informationsmanagement an der [Hochschule der Medien](https://www.hdm-stuttgart.de/){:target="_blank"} Stuttgart sowie die dortigen Möglichkeiten zur Weiterqualifizierung im Bereich der Musikbibliotheken wurden vorgestellt. Im abwechslungsreichen Tagungsprogramm waren öffentliche und wissenschaftliche Musikbibliotheken, Musikhochschul-, Rundfunk- und Orchesterbibliotheken vertreten. Mitarbeiter berichteten aus ihrem täglichen Geschehen und stellten beispielsweise Ansätze zur Inklusion von Blinden und Senioren in den Bibliotheksbetrieb vor.
 
@@ -54,18 +46,6 @@ Die Tagung schloss ihr öffentliches Programm mit einem intensiven Block zur Ums
 
 In den Pausen und bei einem Empfang bestand außerdem auch die Gelegenheit, mit Menschen aus den unterschiedlichsten Bibliotheken und Fachbereichen ins Gespräch zu kommen. Die angenehme, offene Atmosphäre hat mich hier sehr positiv überrascht und ich konnte einige interessante Kontakte knüpfen.
 
-
-
-
-
 Insgesamt bin ich froh um die Erfahrungen, die ich während meines Praktikums machen konnte. Ich habe Komponisten und Werke kennengelernt, die mir zuvor gänzlich unbekannt waren und es war spannend zu sehen, wie die Arbeit eines weltweit vernetzten Projektes vorangeht. Ich habe mich ausgiebig mit der Katalogisierung der Musikalien und deren Erfassung in einer Datenbank beschäftigt und nebenbei viele interessante Menschen kennengelernt. Außerdem habe ich gesehen, dass es für viele Bereiche sehr sinnvoll ist, sowohl eine musikwissenschaftliche als auch eine bibliothekarische Ausbildung zu haben. Beide Bereiche lassen sich hervorragend kombinieren und eröffnen vielseitige berufliche Möglichkeiten.
 
 
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

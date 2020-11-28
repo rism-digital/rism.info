@@ -14,10 +14,6 @@ author: ''
 
 _Four people from the RISM Central Office attended the annual IAML Congress in Riga, Latvia in June 2017. The following is a congress diary from all four participants that was [originally published on the IAML website](http://www.iaml.info/news/iaml-riga-congress-diary-5-riga-rism-ligo-germany-usa){:target="_blank"}. In keeping with the Congress Diary tradition, the reflections are presented in the native languages of the writers. Here are two German and two American perspectives._
 
-
-
-
-
 **Klaus Keil: Opernsammlung in der Nationalbibliothek**
 
 Der Tagungsort, die Lettische Nationalbibliothek, ist ein imposantes Gebäude. Besonders beeindruckend ist der Blick aus dem 14. Stock, quasi ein Panorama der Stadt Riga.
@@ -79,4 +75,3 @@ _The entrance to the Mežaparks (photo: J. Ward)_
 _Art Nouveau off the beaten track_ _(photo: J. Ward)_
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

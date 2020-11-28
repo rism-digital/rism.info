@@ -26,12 +26,7 @@ We would like to mention in particular the presentation of our esteemed colleagu
 
 _Guido will describe his own presentation in part 3 of this series, which will appear on Friday._
 
-
-
-
-
 Photo credit: Jasna Góra, photo by Damian27 via Wikimedia Commons
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

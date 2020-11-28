@@ -14,11 +14,7 @@ author: ''
 
 _Der folgende Artikel ist zuerst auf der Website des [Biblioteca Nacional de Portugal](http://www.bnportugal.pt/index.php?option=com_content&view=article&id=972:noticia-noccollo-jommelli&catid=164:2014&Itemid=994&lang=en){:target="_blank"} erschienen ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}):_
 
-
-
 _Niccolò Jommelli rediscovered: a new autograph of a 16 voice Laudate pueri_ von António Jorge Marques hat eine spezielle Erwähnung im [6. Principe Francesco Maria Ruspoli Internationaler Preis für musikwissenschaftliche Studien](http://www.centrostudisgm.com/sito/?cat=10){:target="_blank"} erhalten.
-
-
 
 Der Aufsatz analysiert das einzige Autograph von Niccolò Jommelli, das auf der iberischen Halbinsel noch vorhanden ist und zum Fundo Conde de Redondo in der Nationalbibliothek Portugals (P-Ln FCR 549) gehört.
 
@@ -32,4 +28,3 @@ Das _Laudate pueri Dominum_ wurde wahrscheinlich von den Schwestern des Komponis
 
 Bild: 16-stimmiges _Laudate pueri Dominum_: S.18-19
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

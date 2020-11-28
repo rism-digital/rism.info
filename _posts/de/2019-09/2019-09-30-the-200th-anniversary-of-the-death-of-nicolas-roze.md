@@ -24,8 +24,3 @@ Zur Krönung von Napoleon I. am 2. Dezember 1804 in der Eglise Metropolitaine vo
 
 _Abbildung_: "C'est dans nos boccages" aus[_Deux Ariettes_](https://gallica.bnf.fr/ark:/12148/btv1b90640733){:target="_blank"} (Paris, ca. 1780; [RISM ID no. 990056304](https://opac.rism.info/search?id=990056304&View=rism&Language=en){:target="_blank"}).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

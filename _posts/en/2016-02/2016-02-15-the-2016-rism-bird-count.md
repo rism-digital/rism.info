@@ -69,4 +69,3 @@ Does anyone else have other sightings they'd like to report? Let us know in the 
 _Image_: Athanasius Kircher, _Musurgia universalis_, Rome 1650, lib. I, between p.30-31. Book held by the Music Library at University of North Carolina at Chapel Hill (US-CHH), via the [Internet Archive](https://archive.org/details/athanasiikircherkirc){:target="_blank"}.
 See also the brand-new [revised translation](http://www.hmt-leipzig.de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis/){:target="_blank"} (in German) currently in progress at the Hochschule für Musik und Theater Leipzig and the Deutsches Historisches Institut in Rome.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

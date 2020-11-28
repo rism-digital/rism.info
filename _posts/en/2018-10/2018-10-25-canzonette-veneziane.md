@@ -39,10 +39,6 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 ****
 
 |
-
-
-
-
 Both collections I had worked on are in manuscript. One is in the University Library (MS.Add.9324.14) and contains 49 songs, and the other is in the Fitzwilliam Museum (MU.MS.130) and contains a collection of 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. The second of these is extremely unusual in that very, very few songs in the Venetian dialect are ascribed to any composer even to one as unknown as Angelo Colonna (a spelling found on some minuets by the same composer in the same manuscript, and the usual spelling of this surname). However a search of the RISM database of the first line of the first song in the Travis & Emery manuscript, “La mia Ninetta” (as a phrase in inverted commas) revealed a surprising result:
 
 [https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
@@ -92,4 +88,3 @@ _\*Note from RISM: This has been clarified in the RISM records._
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -20,4 +20,3 @@ Nach 1880 lebte Gomes abwechselnd in Brasilien und Italien und wurde so zum „K
 
 _Abbildung_: Titelblatt der Partitur zur Oper_Il Guarany_, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Guarany_Score_Front_Cover.jpg?uselang=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

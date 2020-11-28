@@ -24,4 +24,3 @@ Bei RISM ist Deutsch natürlich vor allem dank des Schubert-Werkverzeichnisses p
 
 _Abbildung_: Otto Erich Deutsch circa 1928, aus [Programmzeitschrift der RAVAG „Radio Wien“](https://de.wikipedia.org/wiki/Radio_Wien_(1924)) vom 26. März 1928, S. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

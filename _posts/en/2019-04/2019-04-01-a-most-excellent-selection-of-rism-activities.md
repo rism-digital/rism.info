@@ -23,7 +23,3 @@ The Public is asked to share their Solutions with the Editors for assessment.
 Should this Volume be received by the Public in a Favorable Manner, the Editors will be induced to continue Work on the same plan and will offer Subscriptions which may be procured through dispatch of the appropriate Summe to the Printer.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

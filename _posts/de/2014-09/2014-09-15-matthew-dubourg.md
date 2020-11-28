@@ -22,12 +22,7 @@ Die nachfolgende Biographie stammt von [Axel Klein](http://axelklein.de/){:targe
 
 **Matthew Dubourg (1703-1767)** wurde in London geboren, gastierte erstmals 1724 als Violinvirtuose in Dublin und trat 1728 die Nachfolge Kussers am Dublin Castle an. Diese Position hielt er bis 1752. Er war u.a. Kapellmeister bei der Uraufführung von Händels _Messias_ 1742 in Dublin. Das hohe Streicherniveau in Dublin, das Händel in einem Brief hervorhob, dürfte maßgeblich auf Dubourgs Einfluss zurückzuführen sein. Dubourg hat überwiegend Vokalmusik komponiert; seine Werke für Violine schrieb er vor allem für seine eigenen Auftritte. Sein Violinkonzert in D-Dur hat als undatierte Handschrift in der Sächsischen Landesbibliothek Dresden überlebt. Die Orchesterpartitur wurde eigens für diese Aufführung hergestellt.
 
-
-
-
-
 Bildnachweis: Castle of Dublin. Die Zeichnung stammt aus dem frühen 19. Jahrhundert. [Mit freundlicher Genehmigung der Dublin City Public Libraries](http://www.askaboutireland.ie/learning-zone/primary-students/looking-at-places/dublin-city/dublin-castle/independence-and-beyond/buildings-at-dublin-castl/index.xml){:target="_blank"} © Dublin City Library and Archive
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

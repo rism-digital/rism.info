@@ -64,16 +64,7 @@ Johann Christian Friedrich Schneiders Lied "[Mutterliebe](https://opac.rism.info
 
 Leo Kunzs Melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?id=401000325){:target="_blank"}
 
-
-
-
-
 Wir hoffen, dass Ihnen diese Musik hilft, Ihrer Mutter an diesem speziellen Tag ein Ständchen zu bringen!
 
 _Abbildung_: "Dem Mütterlein!" Postkarte, undatiert. Universität Osnabrück, [Historische Bildpostkarten](http://www.bildpostkarten.uni-osnabrueck.de/displayimage.php?pos=-5485){:target="_blank"} Sammlung. Via [Europeana](http://europeana.eu/portal/record/2048043/ProvidedCHO_Universit_t_Osnabr_ck___Historische_Bildpostkarten_5485.html){:target="_blank"}. ([CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/){:target="_blank"})
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

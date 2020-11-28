@@ -27,7 +27,3 @@ Georg Rüger, Sohn des fürstlich sächsischen Forstmeisters, und seine Frau Kun
 _Abbildung_: Titelblatt der Hochzeitsmusik “Das Himmelreich ist gleich einem Kaufmann” von Melchior Franck. Leipziger Stadtbibliothek (D-LEm II. 4. 42), RISM ID no. 990018862. Online bverfügbar über [SACHSEN.digital](https://sachsen.digital/werkansicht/dlf/197709/3/0/#){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

@@ -20,4 +20,4 @@ Die Broschüre kann zu Unterrichtszwecken bei Studenten eingesetzt werden. Sie s
 
 Die Texte sind zweisprachig: Englisch und Deutsch.
 
-Gerne schicken wir die Broschüre allen Interessenten zu. Bitte nehmen Sie mit uns [Kontakt](mailto:contact@rism.info "Öffnet ein Fenster zum Versenden der E-Mail") auf.
+Gerne schicken wir die Broschüre allen Interessenten zu. Bitte nehmen Sie mit uns [Kontakt](mailto:contact@rism.info) auf.

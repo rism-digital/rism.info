@@ -50,12 +50,7 @@ RISM wurde in den folgenden Aufsätzen erwähnt, die wir in der [RISM-Bibliograp
 - Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in:Early Music (2015).[Online verfügbar](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}.
 - Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment, in:Zeitschrift für Bibliothekswesen und Bibliographie 62 (2015), S. 49-53. [Online in 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
-Wir sind immer daran interessiert, Nachrichten über die Arbeit aus den RISM-Ländergruppen oder über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas berichten möchten, [bitte schreiben Sie uns](mailto:contact@rism.info "Opens window for sending email").
+Wir sind immer daran interessiert, Nachrichten über die Arbeit aus den RISM-Ländergruppen oder über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas berichten möchten, [bitte schreiben Sie uns](mailto:contact@rism.info).
 
 _Bildnachweis_: Postkarte, 1909. Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4d00-a3d9-e040-e00a18064a99){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

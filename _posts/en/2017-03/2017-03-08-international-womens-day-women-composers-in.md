@@ -75,10 +75,6 @@ p = after
 
 The full list can be [viewed here](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"}.
 
-This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email")
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
 
 

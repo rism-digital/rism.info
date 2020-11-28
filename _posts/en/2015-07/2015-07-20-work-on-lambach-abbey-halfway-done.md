@@ -12,7 +12,7 @@ author: Frank van der Lecq
 ---
 
 
-**_Frank van der Lecq_** _of the Netherlands describes his work cataloging the collection of Lambach Abbey (A-LA) for RISM:_
+**Frank van der Lecq**of the Netherlands describes his work cataloging the collection of Lambach Abbey (A-LA) for RISM:_
 
 Cataloging the music collection of the Benedictine monastery Lambach Abbey (A-LA) in Austria is almost halfway completed. Only small details need to be added to the instrumental music and the masses. Entries for the smaller vocal works are well underway. The project is expected to be completed in 2018. All records entered so far can be found through this link ([click here](https://opac.rism.info/search?View=rism&siglum=A-LA){:target="_blank"}).
 
@@ -34,4 +34,3 @@ Photo: Frank van der Lecq hard at work (courtesy of the author).
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

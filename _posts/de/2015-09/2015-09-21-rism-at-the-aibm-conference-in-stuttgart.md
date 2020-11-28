@@ -22,8 +22,3 @@ Martina Falletta und Jennifer Ward von der RISM Zentralredaktion freuen sich dar
 
 Ein attraktives Rahmenprogramm, das unter anderem Führungen durch die neue[Stadtbibliothek Stuttgart](http://www1.stuttgart.de/stadtbibliothek/){:target="_blank"} und die [Stuttgarter Oper](http://www.oper-stuttgart.de/ "external-link-new-window") beinhaltet, rundet das Tagungsprogramm ab.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

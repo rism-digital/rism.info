@@ -16,10 +16,6 @@ _Vier Personen aus der RISM-Zentralredaktion nahmen im Juni 2017 am jährlichen 
 
 
 
-
-
-
-
 **Klaus Keil: Opernsammlung in der Nationalbibliothk**
 
 Der Tagungsort, die Lettische Nationalbibliothek, ist ein imposantes Gebäude. Besonders beeindruckend ist der Blick aus dem 14. Stock, quasi ein Panorama der Stadt Riga.
@@ -81,4 +77,3 @@ _The entrance to the Mežaparks (Foto: J. Ward)_
 _Art Nouveau off the beaten track_ _(Foto: J. Ward)_
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

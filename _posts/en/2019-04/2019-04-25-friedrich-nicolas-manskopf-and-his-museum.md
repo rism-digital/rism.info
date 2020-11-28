@@ -53,4 +53,3 @@ Interior of the Manskopfschen Musikhistorischen Museum, ca. 1925 (Universitätsb
 
 _All images courtesy of Ann Kersting-Meuleman._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

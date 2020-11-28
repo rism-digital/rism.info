@@ -42,10 +42,6 @@ _Excerpt from 3 Sonatinen für Geige und Klavier (SKA, ZM XVIII 10 J)_
 ![Podlěćo](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
 _Excerpt from "Podlěćo" (Early Summer) (SKA, ZM XVIII 6 E)_
 
-
-
-
-
 **Sources** :
 
 Mětšk, Frido: _K. A._ _Kocorowe zawostajenstwo w Serbskim kulturnym archiwje_ (The K. A. Kocor Collection in the Sorbisches Kulturarchiv), Budyšin 1971.
@@ -54,8 +50,3 @@ Sorbisches Kulturarchiv, [www.serbski-institut.de/de/Archiv/](http://www.serbski
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

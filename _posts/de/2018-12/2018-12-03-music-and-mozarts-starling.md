@@ -28,12 +28,7 @@ Hören Sie selbst und hören Sie auch Mozarts andere Werke aus dieser Zeit. Kön
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nx-N9I1eZyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 _Abbildung_: Letzte Seite von _Ein musikalischer Spaß_ in einer Abschrift, die in der Tschechischen Nationalbibliothek aufbewahrt wird. [RISM ID no. 1001011179](https://opac.rism.info/search?id=1001011179&View=rism){:target="_blank"}. [Online einsehbar](http://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR __M_I_26______ 2GLXWZ7-cs){:target="_blank"} (CC-BY).
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

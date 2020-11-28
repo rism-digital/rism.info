@@ -31,7 +31,3 @@ All of the musical sources described are also documented in the RISM database. T
 The catalog includes an introduction in Spanish and English with an explanation of the fields and terminology used, so non-Spanish speakers will be able to use the catalog efficiently. Each of the seven parts of the catalog begin with an overview of the archive followed by the Gómez sources housed there. Lazos includes a representative image of each source, a detailed description according to RISM guidelines, the RISM number, and incipits.
 
 Lazos's catalog presents a glimpse into Mexico's past and forms a basis for this music to be rediscovered.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

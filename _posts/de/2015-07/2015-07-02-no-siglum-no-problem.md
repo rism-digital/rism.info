@@ -35,11 +35,3 @@ Wenn Sie uns darum bitten, ein neues Sigel zu erstellen, bereichern Sie unsere D
 2014 wurden 189 neue Bibliothekssigel für Länder in Europa, Nordamerika und Asien erstellt. Die Anfragen kamen von unseren RISM-Mitarbeitern, die die musikalischen Quellen in neuen Institutionen katalogisieren und Forschern, die eine Institution für ihre Veröffentlichung angeben müssen.
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

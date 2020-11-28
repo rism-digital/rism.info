@@ -43,7 +43,3 @@ Neu im Sigel-Verzeichnis sind auch Institutionen mit Quellen in der RISM-Datenba
 - [Bartók Archiv](http://zti.hu/index.php/hu/bartok){:target="_blank"} (Bartók Archívum), Institute for Musicology of the Research Centre for the Humanities, Hungarian Academy of Sciences: **H-Bbba**
 - [Zoltán Kodály Archiv](http://kodaly.hu/hu/muzeum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
 - [Bartók Béla Memorial House](http://www.bartokmuseum.hu/){:target="_blank"} (Bartók Béla Emlékház): **H-Bbeh**
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

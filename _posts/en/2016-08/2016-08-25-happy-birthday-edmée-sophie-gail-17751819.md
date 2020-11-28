@@ -20,8 +20,4 @@ Gail died in Paris on 24 July 1819 and was buried at Père-Lachaise cemetery. He
 
 _Image_: Portrait of Edmée Sophie Gail by Auguste Delvaux, after Eugène Isabey (1840). Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8418085x){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

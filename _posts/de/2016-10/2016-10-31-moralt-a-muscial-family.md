@@ -83,20 +83,8 @@ Komponist und Violinist
 Sohn von Johann Baptist Moralt (1777-1825)
 In [RISM](https://opac.rism.info/search?id=453005312){:target="_blank"}: Drei Werke für Zither
 
-
-
-
-
-
-
-
-
 _Abbildung_: Darstellung eines Kalkanten, Kupferstich aus [Bédos de Celles](https://de.wikipedia.org/wiki/B%C3%A9dos_de_Celles), _L'art du Facteur d'Orgues_ (1776), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OrganumFollis.jpg){:target="_blank"}
 
 
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

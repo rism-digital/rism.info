@@ -24,10 +24,9 @@ Darüber hinaus werden Sie im RISM-Katalog nun auch (unter den Literaturverweise
 
 **B/I ab 1551**
 
-Die Bearbeitung der B/I-Titel ab 1551 hat nun auch begonnen. Von 1551-1599 gilt es allein ca. 1100 Titel mit jeder Menge A/I-Dubletten zu bearbeiten. Von 1600-1700 sind es noch einmal so viele Titel. Der erste Abschnitt steht nun im Fokus der Bearbeitung. Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbarer Literatur sind immer willkommen. Einfach eine Mail senden an: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email") oder [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info "Opens window for sending email").
+Die Bearbeitung der B/I-Titel ab 1551 hat nun auch begonnen. Von 1551-1599 gilt es allein ca. 1100 Titel mit jeder Menge A/I-Dubletten zu bearbeiten. Von 1600-1700 sind es noch einmal so viele Titel. Der erste Abschnitt steht nun im Fokus der Bearbeitung. Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbarer Literatur sind immer willkommen. Einfach eine Mail senden an: [contact@rism.info](mailto:contact@rism.info) oder [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info).
 
 _Abbildung_: Daniel Megel, _Scenica progymnasmata_ (Basel: Bergmann, 1498). A/I: M 1738. RISM ID no. [990040426](https://opac.rism.info/search?id=00000990040426){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) 4 Inc.c.a. 1542 n, [online verfügbar](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303249-7){:target="_blank"}.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

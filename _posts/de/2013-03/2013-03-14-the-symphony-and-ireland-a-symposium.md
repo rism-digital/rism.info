@@ -82,4 +82,4 @@ Chair: Dr Philip Graydon
 
 \*\*\*\*
 
-Kontakt: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie "Opens window for sending email")
+Kontakt: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie)

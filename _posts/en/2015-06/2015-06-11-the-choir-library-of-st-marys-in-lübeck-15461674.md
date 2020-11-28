@@ -20,8 +20,3 @@ Snyder writes, "While Petrus Hasse, Franz Tunder, and Dieterich Buxtehude were s
 
 The database can be searched through numerous fields, including standard publication information, binding, and dedication information. RISM [A/I and B/I numbers](https://opac.rism.info/search?View=rism&siglum=A-Wgm){:target="_blank"} are included. The database links to external projects dealing with printed music, such as the [Printed Sacred Music Database](http://www.printed-sacred-music.org/){:target="_blank"} and the JSCM's [Catalogue of Mass, Office, and Holy Week Music Printed in Italy, 1516-1770](http://sscm-jscm.org/instrumenta/instrumenta-volumes/instrumenta-volume-2/){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

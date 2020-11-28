@@ -14,7 +14,7 @@ author: ''
 
 Dr. [Maciej Jochymczyk](http://jagiellonian.academia.edu/MaciejJochymczyk){:target="_blank"}, Dozent am Musikwissenschaftlichen Institut der Krakauer Jagiellonen-Universität, hat kürzlich sein zweites Buch zum Werk des Amandus Ivanschiz vorgelegt, nachdem er 2014 einen Band über dessen Sakralmusik in polnischer Sprache publiziert hatte: [_Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727-1758)_](http://www.polihymnia.pl/polihymniaS/sklep/index.php?products=product&prod_id=711){:target="_blank"} [Geistliche Musik an der Schwelle des klassischen Zeitalters. Amandus Ivanschiz OSPPE (1727-1758)], (Lublin: Wydawnictwo Polihymnia, 2014).
 
-**_Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
+**Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
 
 Dieses Buch wird sicher breitere Beachtung finden, zumal es über diesen Komponisten geboren in Wiener Neustadt mit familiären Wurzeln im Burgenland bis dato wenig einschlägige Fachliteratur gab. Das Buch ist zweiteilig und enthält neben gesicherten neuen Erkenntnissen über Leben und Werk des Komponisten, die auf eine breite Quellenbasis gestellt sind, einen umfangreichen thematischen Werkkatalog, der sowohl Ivanschiz' Sakralmusik, als auch die Instrumentalwerke mit einschließt.
 
@@ -26,4 +26,3 @@ Der vorliegende Band ist der erste, der eine kritische Bestandsaufnahme des Werk
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

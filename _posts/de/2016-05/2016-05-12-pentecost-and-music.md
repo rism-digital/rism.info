@@ -16,12 +16,7 @@ Bei "Pfingsten" und "Musik" denken Viele heute sicherlich vor allem an die eindr
 
 Noch häufiger als der Pfingsthymnus wurde die Pfingstsequenz _[Veni Sancte Spiritus](https://opac.rism.info/search?View=rism&title=Veni+sancte+spiritus){:target="_blank"}_ vertont. Bei RISM finden wir über 1.600 Nachweise, besonders viele von Niccolò Jommelli und Michael Haydn. Im Falle von Michael Haydn ist es vor allem seine Vertonung in Es-Dur (MH 366), die sich äußerster Beliebtheit erfreute und von der wir heute Quellen in Österreich, Deutschland, Ungarn, Tschechien, Italien und der Schweiz finden.
 
-Weitere Musikquellen zu Pfingsten – insgesamt 4.341 – finden Sie, wenn Sie in der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} unter **Liturgische Feste** nach **_Pentecostes_** suchen. Dort haben Sie auch die Möglichkeit, differenzierter zu suchen, beispielsweise nach Musik für den Pfingstmontag: **_pentecostes, feria ii._**
+Weitere Musikquellen zu Pfingsten – insgesamt 4.341 – finden Sie, wenn Sie in der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} unter **Liturgische Feste** nach **Pentecostes** suchen. Dort haben Sie auch die Möglichkeit, differenzierter zu suchen, beispielsweise nach Musik für den Pfingstmontag: **pentecostes, feria ii.**
 
 _Abbildung_: Melodie von _Veni Creator Spiritus_ von Der wahre Jakob via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Veni_creator_spiritus.jpg){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -46,15 +46,7 @@ w / f = female
 
 Since the Google FusionTable is no longer supported, we offer an alternative [Google spreadsheet](https://docs.google.com/spreadsheets/d/1S2a8yfSkNXQFWQDN7Jb2BiAKRmP0reI1dmTpgNgaPr8/edit?usp=sharing){:target="_blank"}.
 
-
-
-
-
 Image from [pngimg.com](http://pngimg.com/download/68427){:target="_blank"} ([CC 4.0 BY-NC](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}).
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 
 

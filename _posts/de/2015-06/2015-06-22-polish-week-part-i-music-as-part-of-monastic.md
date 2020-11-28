@@ -26,14 +26,5 @@ Bei der Online-Dokumentation von Musikquellen wirken eine Reihe polnischer RISM-
 
 Die Online-Datenbank ist in polnischer Sprache gehalten. Unter den Stichwörtern[**Cystersi, Lubiąż**](http://pw.kasaty.pl/klasztor/Monastery/489.html){:target="_blank"} finden sich zum Beispiel folgende Katalogisate von Musikquellen. Rechter Hand zeigt ein Suchfilter eine Liste der katalogisierten Objekte an, die Musikalien unter dem Stichwort **Muzykalia**. Viel Spaß beim Stöbern.
 
-
-
-
-
 _Was gibt es noch Neues aus der polnischen Quellenforschung? Teil 2 folgt am Mittwoch mit einer Beschreibung der Konferenz Klasztor i muzyka / Klöster und Musik - bleiben Sie dran._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

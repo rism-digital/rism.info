@@ -22,8 +22,3 @@ Als Triosonate verstanden und erfasst wurde ein Werk für zwei Oberstimmen und B
 
 Im Katalog werden die Sonaten nach Sätzen aufgeschlüsselt, die Satzbezeichnungen und Taktangaben entsprechen dem Original. Die möglichst kurzen Kommentare enthalten Anmerkungen zum Repertoire und in Einzelfällen biografische Hinweise zum Komponisten. Die komplexe Datenbank bietet differenzierte Suchmöglichkeiten. Neben der Suche nach Verlegern, Verlagsorten und Widmungsträgern kann auch nach Publikationsjahr, Tonart oder Satzbezeichnungen recherchiert werden. (Die Datenbank erreichen Sie unter [http://www.uzh.ch/musik/ssl-dir/mwitriosonate/](http://www.uzh.ch/musik/ssl-dir/mwitriosonate/), der Freischaltungcode zur Registrierung lautet **3Sona10** ). Die Datenbank wird zu einem späteren Zeitpunkt in den RISM Online-Katalog übernommen.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

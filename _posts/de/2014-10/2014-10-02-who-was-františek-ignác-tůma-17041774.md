@@ -26,12 +26,4 @@ Ob Tůma wohl den jungen Mozart auf eine Tasse Schokolade eingeladen hat?
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/V3GUpD1MJ3A" frameborder="0" allowfullscreen></iframe>
 
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
-
-
 Bildnachweis: František Ignác Tůma von Anton Hickel, [Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Franti%C5%A1ek_Ign%C3%A1c_T%C5%AFma?uselang=de#mediaviewer/File:Franti%C5%A1ek_Tuma_by_Anton_Hickel.jpg){:target="_blank"}

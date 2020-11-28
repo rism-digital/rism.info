@@ -1106,10 +1106,6 @@ Witzendorf
 Rottensteiner2013
 
 |
-
-
-
-
 Abkürzungen:
 [D-B (Imagekat I)](http://musikipac.staatsbibliothek-berlin.de/catalog/toc){:target="_blank"}: Alphabetischer Imagekatalog I der Musikabteilung
 [HofmeisterMB](http://hofmeister.rhul.ac.uk){:target="_blank"}: Hofmeister Monatsberichte online
@@ -1118,4 +1114,3 @@ MGG1: Hilde Hellmann-Stojan, Artikel Trnka, Johann Wenzel, in: _Musik in Geschic
 WeinmannX 19XX:Vollständiges Verlagsverzeichnis (zum jeweiligen Verlag, Abkürzungen wie in RISM).
 WZ: Wiener Zeitung,online durchsuchbar bei [ANNO](http://anno.onb.ac.at/){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

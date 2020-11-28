@@ -59,6 +59,6 @@ The second tour through the library took us through the individual departments. 
 
 AIBM member Manfred Ullrich took lovely pictures of Nuremberg and the conference and can be seen on Flickr ([part 1](https://www.flickr.com/photos/14172859@N06/sets/72157648512908495/){:target="_blank"}) ([part 2](https://www.flickr.com/photos/14172859@N06/sets/72157648758442795/){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
 
 Photo (c) Brett Sterly.

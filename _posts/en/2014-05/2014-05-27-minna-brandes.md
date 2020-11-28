@@ -18,10 +18,6 @@ RISM's index of printed music (series A/I) records that copies of this musical m
 
 Brandes's ability as a singer may be attested by the fact that she sang the role of Konstanze in the Hamburg performance of Mozart's _Die Entführung aus dem Serail_ in 1787. In [seven RISM sources](https://opac.rism.info/search?View=rism&q=minna+brandes "external-link-new-window"), all stage works, she is mentioned as a performer. So far, there are no known recordings of Brandes's music.
 
-
-
-
-
 Bibliography:
 
 Minna Brandes, [Musik und Gender im Internet](https://mugi.hfmt-hamburg.de/artikel/Minna_Brandes.html){:target="_blank"}
@@ -30,4 +26,3 @@ Matthew Head,_Sovereign Feminine: Music and Gender in Eighteenth-Century Germany
 
 Image: Lithograph by Heinrich Sintzenich and Rudolf Christian Schade, ca. 18/19th century? Muller Collection, [The New York Public Library for the Performing Arts/Music Division](http://digitalgallery.nypl.org/nypldigital/id?1106184){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

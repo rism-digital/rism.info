@@ -26,10 +26,9 @@ The edition is divided into three parts, which represent all of the components o
 
 The health of the king, which was already weakened due to extensive Habsburg inbreeding, was not to last. He died almost one year later, on 31 March 1621 in Madrid.
 
-Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info "Opens window for sending email") or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
+Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info) or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
 
 Images from _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Available online](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

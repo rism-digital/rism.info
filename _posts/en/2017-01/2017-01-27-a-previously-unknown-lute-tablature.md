@@ -42,4 +42,3 @@ Telephone: +49 (0) 531 470-6835.
 
 Image of C 39 2° courtesy of the Stadtbibliothek Braunschweig, published with kind permission.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

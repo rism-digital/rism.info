@@ -30,7 +30,7 @@ _The Symphony and Ireland_ symposium aims to examine the context and trajectory 
 
 The catalyst for this symposium was the recent discovery of the parts for the first-known symphony composed in Ireland, uncovered in the National Library of Ireland by RISM Ireland/DIT researchers. The symphony was composed in Dublin by the French composer Paul Alday _c_1816 and was one of two he wrote during this period. Prior to this discovery, the library of the Royal Irish Academy of Music held only incomplete parts, but the newly uncovered parts provide a complete set for performance. These parts have been digitally transcribed by students of the DIT Conservatory of Music & Drama in preparation for the first performance of this symphony since the early nineteenth century.
 
-This event is free of charge but registration is required. Please email [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie "Opens window for sending email") by Friday 12 April to confirm attendance.
+This event is free of charge but registration is required. Please email [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie) by Friday 12 April to confirm attendance.
 
 **Provisional Programme**
 
@@ -96,4 +96,4 @@ Dr John Buckley, John Kinsella, Dr Grainne Mulvey and Dr Kevin O'Connell, _Panel
 
 \*\*\*\*
 
-Contact: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie "Opens window for sending email")
+Contact: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie)

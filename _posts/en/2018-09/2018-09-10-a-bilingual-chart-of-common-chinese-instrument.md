@@ -44,4 +44,3 @@ For now, we have already finished both the Chinese and English versions of this 
 
 [《常用中国乐器中英文对照表与缩略语表》连结在此](/resources-old-website/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -14,10 +14,6 @@ author: ''
 
 We have recently acquired four publications about Belgian and Dutch musical sources that we would like to share with you:
 
-
-
-
-
 - Gilbert Huybens and Leo van Buyten: "WillemGommaar Kennis: (Lier 1717-Leuven 1789), leven en werk; zijn muzikale betekenis in de 18. eeuw.” _Arca Lovaniensis_. Leuven: Vrienden van de Leuvense Stedelijke Musea, 1983.
 RISM short title: HuyK
 Biography and thematic catalog, with incipits. 57 works in the [RISM online database](https://opac.rism.info/search?View=rism&author=Gommaar+Kennis){:target="_blank"}
@@ -37,7 +33,3 @@ RISM short title: BastiaensA 2007
 This volume contains many articles related to musical sources and features pieces written by our RISM contributors Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs, and Veronique Verspeurt.
 
 With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}for sending us the books.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -35,10 +35,9 @@ A further example shows a not uncommon side effect of anonymization: Caroline vo
 
 Deciphering puzzling names is possible through a number of approaches, be it specialized studies about music publishers or by reading historical newspapers. Volume 9 in the original A/I series lists 276 items published under initials. In the supplement volume 14, a few could be identified but almost 50 new ones were added. A follow-up post will shed light on additional examples of names we've identified.
 
-The question remains: Have _you_ deciphered any initials today? If you have, then [let us know](mailto:contact@rism.info "Opens window for sending email")! The same is also true for anonymous compositions.
+The question remains: Have _you_ deciphered any initials today? If you have, then [let us know](mailto:contact@rism.info)! The same is also true for anonymous compositions.
 
 
 _Image_: _Sechs Gesänge mit Begleitung der Guitarre_ by Caroline von Egloffstein (RISM A/I: IN 16; [RISM ID no. 990072864](https://opac.rism.info/search?id=00000990072864&Language=en){:target="_blank"}), from the private library of Axel Beer (D-KWbeer). The copy from the Anna Amalia Bibliothek (D-WRtl) was unfortunately lost in the fire of 2004, but a [digitized version of the microfilm](http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10001489844){:target="_blank"} can be viewed online.
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

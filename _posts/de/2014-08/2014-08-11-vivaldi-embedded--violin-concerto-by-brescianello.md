@@ -42,10 +42,6 @@ Zu Talbots Überraschung umfasste das Rechercheergebnis nicht nur die beiden "Il
 
 Der Fund zeigt zwingend, was für ein mächtiges Suchinstrument der RISM-Onlinekatalog ist, dessen Incipitrecherche sogar transponierte Themen mühelos aufzuspüren vermag.
 
-
-
-
-
 Bildnachweis: [Mus.2364-O-7, 2. Satz](http://digital.slub-dresden.de/id307162303){:target="_blank"}: Satz von Vivaldi in einem Konzert von Brescianello. (RISM [212001392](https://opac.rism.info/metaopac/search?db=251&View=rism&q=rism212001392))
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+

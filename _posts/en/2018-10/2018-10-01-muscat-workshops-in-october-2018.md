@@ -18,4 +18,3 @@ Printed music will be at the focus of a Muscat workshop for the first time that 
 
 The second October workshop is being organized thanks to an initiative from Miriam Das Lehotská from the Slovenské Národné Muzeum. Guido Kraus will hold a Muscat workshop in Bratislava from 9–12 October 2018. Twelve people from institutions in Bratislava, Banská Bystrica, Martin, and Prešov have registered. The focus will be on cataloging music manuscripts and printed editions.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -39,10 +39,6 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 ****
 
 |
-
-
-
-
 Beide Sammlungen, an denen ich gearbeitet hatte, sind Handschriften. Eine befindet sich in der University Library (MS.Add.9324.14) und enthält 49 Lieder, die andere ist im Fitzwilliam Museum (MU.MS.130) und enthält eine Sammlung von 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. Die zweite Canzonetta daraus ist insofern ungewöhnlich, weil sehr, sehr wenige Lieder im venezianischen Dialekt einem Komponisten zugeschrieben werden, auch so einem unbekannten wie Angelo Colonna. Eine Suche in der RISM-Datenbank nach der ersten Zeile des ersten Songs im Travis & Emery Manuskript "La mia Ninetta" (als Ausdruck in Anführungszeichen) ergab jedoch ein überraschendes Ergebnis:
 
 [https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
@@ -91,4 +87,3 @@ _\*Anmerkung von RISM: Die Zuschreibung wurde in den RISM-Datensätzen geändert
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

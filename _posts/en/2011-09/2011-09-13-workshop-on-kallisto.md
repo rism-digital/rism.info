@@ -22,7 +22,7 @@ Begin: ca. 11:00 am on October 4
 End: 5:00 pm on October 6
 Place: **RISM Zentralredaktion in Frankfurt am Main**
 
-This training session is intended for anyone **_who wants to actively describe sources for RISM_** with Kallisto. All types of cataloguing will be covered, such as describing individual pieces, collections, operas, compilations, and much more.
+This training session is intended for anyone **who wants to actively describe sources for RISM** with Kallisto. All types of cataloguing will be covered, such as describing individual pieces, collections, operas, compilations, and much more.
 
 Please let us know by September 23 if you wish to attend.
 We are happy to help you secure accommodation as well.

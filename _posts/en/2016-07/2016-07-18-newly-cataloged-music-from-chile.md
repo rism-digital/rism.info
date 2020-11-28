@@ -14,7 +14,7 @@ author: ''
 
 A new article in the current issue of _[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_ calls attention to recently cataloged music collections in Chile:
 
-**Laura Fahrenkrog and Fernanda Vera, "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63, no. 2 (April-June 2016): 100-119.** _RISM short title: FahrenkrogS 2016_
+**Laura Fahrenkrog and Fernanda Vera, "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63, no. 2 (April-June 2016): 100-119.**RISM short title: FahrenkrogS 2016_
 
 Fahrenkrog and Vera describe projects that recently organized and cataloged music collections in the following institutions:
 
@@ -59,7 +59,3 @@ The music was cataloged according to RISM guidelines. RISM is working with Fahre
 At the end of the article, the authors call for the need "to undertake in a serious manner the task of describing our musical heritage" in Latin America. RISM strongly supports and encourages such work. We hope to see more like it in the future!
 
 _Image_: Joseph Haydn, _Die Worte des Erloesers am Kreuze_ (Leipzig: Breitkopf & Härtel, 1801). Catalog of the Biblioteca Patrimonial de la Recoleta Dominica of Santiago, SIC\_062. "The first choral edition...commissioned by the city of Cádiz, which is the revision by the composer from the orchestral version he composed" (Fahrenkrog and Vera, p. 115).
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

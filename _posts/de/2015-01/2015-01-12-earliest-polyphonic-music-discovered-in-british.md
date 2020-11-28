@@ -41,4 +41,3 @@ Alles spricht dafür, dass diese ungewöhnlichen Zeichen zur selben Zeit wie der
 
 Somit ist - innerhalb dieses besonderen Rahmens - dies das allererste Musikmanuskript in der Geschichte der Harmonie in der westlichen Tradition und lenkt unsere Kenntnisse von der Praxis dieser Tradition vom Jahr 1000 auf etwa 900.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -32,4 +32,3 @@ To summarize this past week, the comments that we have discussed are only a smal
 
 Photo credit: Österreichische Nationalbibliothek, Prunksaal. Manfred Morgner, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Nationalbibliothek2.jpg){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -32,7 +32,3 @@ In this case we have further proof that Kiel’sRequiemwas published in 1862, as
 _Friedrich Hofmeister. Courtesy of Hofmeister XIX_
 
 So [QED](https://en.wikipedia.org/wiki/Q.E.D.)in the case of the KielRequiem? Well, not quite. It’s possible, of course, that the edition we have is one that used the same plates but is later, perhaps much later. In this case though there’s a further clue. Currencies in Europe changed and fluctuated throughout the nineteenth century. On the KielRequiem, for example, the music is priced 7 Thlr (i.e. 7 Thaler). The use of Thaler tells us straightaway that the publication must pre-date the change to the Mark in 1874. But, thanks to Hofmeister, we can be even more accurate than this. The work is priced at 7 Thaler in the October 1862 edition of Hofmeister, in later editions of the catalogue the price has changed. Therefore summer / autumn 1862 must be the publication date of the edition we have. QED.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

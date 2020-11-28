@@ -20,8 +20,3 @@ Also on the program are two RISM sessions, where we will hear about the latest R
 
 [Please see our Krakow Congress page](/publications/iaml-congresses/2019.html) for more details about the workshops and the other RISM activities on the program. Slides will be posted there after the congress.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

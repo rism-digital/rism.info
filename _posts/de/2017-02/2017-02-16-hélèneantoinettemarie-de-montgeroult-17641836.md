@@ -30,8 +30,3 @@ Eine ausführliche Biographie zur heute nahezu vergessenen Hélène de Montgerou
 
 [Nicolas Stavy: 8e Sonate d'Hélène de Montgeroult‏](https://vimeo.com/29382724) from [CM Culture](https://vimeo.com/user5129702) on [Vimeo](https://vimeo.com).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

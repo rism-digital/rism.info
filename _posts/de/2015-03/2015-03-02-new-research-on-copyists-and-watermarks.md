@@ -24,15 +24,7 @@ Das Projekt wird in Zusammenarbeit mit der RISM-Zentralredaktion, der Bayerische
 
 Technisch aufwendiger ist die Digitalisierung der Wasserzeichen, die mit Hilfe einer Wärmebildkamera aus dem Hintergrund hervorgeholt werden. Die Abbildungen der Wasserzeichen werden zum [Wasserzeichen Information System (WZIS)](http://www.wasserzeichen-online.de/){:target="_blank"} geliefert, sind damit auch im [Wasserzeichenportal Bernstein](http://www.memoryofpaper.eu/){:target="_blank"} auffindbar und werden mit den RISM Titeln verlinkt.
 
-
-
-
-
 Der Online Katalog des RISM wird mit diesen Maßnahmen erfreulich bereichert und das Projektziel „Catalog enrichement“ erreicht.
-
-
-
-
 
 Das von der Staatsbibliothek zu Berlin veranstaltete Kolloquium sollte im dritten Jahr der Förderphase erste Ergebnisse resümieren. Programm und Abdrucke von einigen Referaten sind [hier](http://staatsbibliothek-berlin.de/en/about-the-library/departments/musik/projekte/dfg-projekt-kofim-berlin/tagung-2014/){:target="_blank"} zu finden.
 
@@ -40,8 +32,3 @@ Ein Bericht zur Konferenz erschien auch in der _Zeitschrift für Bibliothekswese
 
 Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62:1 (2015): 49-53. [Online ab 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

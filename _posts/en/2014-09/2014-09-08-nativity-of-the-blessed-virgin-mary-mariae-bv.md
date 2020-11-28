@@ -36,8 +36,4 @@ December 8:  Immaculate Conception - **Mariae (B.V.) Conceptio Immaculata**
 
 Photo source: Domenico Ghirlandaio, _Natività di Maria,_ Cappella Tornabuoni, 1485-1490, fresco,Firenze,basilica di Santa Maria Novella, from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

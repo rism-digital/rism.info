@@ -22,19 +22,11 @@ Im 19. Jahrhundert wurde die Hamparsum Notation (siehe Abbildung) entwickelt, um
 
 In einer ersten Projektphase werden kritische Editionen der zentralen Handschriften in Hamparsum-Notation angefertigt und eine zweite Projektphase widmet sich vornehmlich in westlicher Notation geschriebener Manuskripte. Die Manuskripte umfassen sowohl instrumentale als auch vokale Werke. Die Edition der Liedtexte erfolgt in Zusammenarbeit mit dem [Institut für Arabistik und Islamwissenschaft](https://www.uni-muenster.de/ArabistikIslam/){:target="_blank"} der Universität Münster. Die [Editionen](http://www.uni-muenster.de/CMO-Edition/publikationen/publikationen.html){:target="_blank"} werden Open-Source-Publikationen sein und als Book-on-Demand verfügbar gemacht. Bisher hat das CMO eine standardisierte Liste der relevanten musikalischen Termini veröffentlicht.
 
-
-
-
-
 Das CMO-Projekt arbeitet mit Wissenschaftlern, Bibliotheken und Archiven zusammen, um Musikmanuskripte zu lokalisieren. Ein Quellenkatalog wurde vom Orient-Institut Istanbul entwickelt, das Information über gedruckte Ausgaben des 19. und 20. Jahrhunderts als auch handschriftliche Quellen sammelt. Dieser Katalog wird mit CMO vernetzt. Das CMO ist ein spannendes Projekt und wir werden ein Auge darauf werden, wenn diese Manuskripte dann weit verbreitet sind.
 
 
 
 Abbildung: „Ṣabā pīşrevi” [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 – 1885)], Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5; mit freundlicher Genehmigung von Corpus Musicae Ottomanicae veröffentlicht.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 
 

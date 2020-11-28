@@ -68,19 +68,11 @@ Bei den neu in der Datenbank erfassten Notendrucken wird das Nummerierungssystem
 
 [https://opac.rism.info/search?id=450031804](https://opac.rism.info/search?id=450031804){:target="_blank"}
 
-
-
-
-
 Extratipp: Wenn Sie eine Musikhandschrift zitieren, können Sie zur besseren Identifizierung auch das RISM-Bibliothekssigel und die Signatur hinzufügen. Für das eben verwendete Beispiel, würden wir folgende Zitierweise empfehlen:
 
 -
 
 Schleswig-Holsteinische Landesbibliothek (D-KIl), Signatur C Wn 866 (RISM ID no. 450031804)
-
-
-
-
 
 Extratipp 2: Die URL des RISM Online-Katalogs wird wie folgt angegeben:
 
@@ -88,8 +80,3 @@ Extratipp 2: Die URL des RISM Online-Katalogs wird wie folgt angegeben:
 
 [https://opac.rism.info](https://opac.rism.info/)
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

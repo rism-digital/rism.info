@@ -20,6 +20,6 @@ Alle Manuskripte sind bei RISM verzeichnet. Die RISM-Zentralredaktion bietet die
 
 Ähnliche Projekte wurden auch in Deutschland mit digitalen Sammlungen durchgeführt: [Karlsruhe](http://digital.blb-karlsruhe.de/Musikalien/nav/classification/20952){:target="_blank"}, [Dresden](http://www.slub-dresden.de/sammlungen/digitale-sammlungen/kollektionen/){:target="_blank"} (auf Musik klicken) und [Berlin](http://digital.staatsbibliothek-berlin.de/dms/suche/?DC=musiknoten){:target="_blank"}. Die digitalisierten Handschriften sind auch aus dem RISM Online-Katalog über Links aufrufbar.
 
-Wenn Sie auch RISM-Daten aus Ihrer Institution im Rahmen von ähnlichen Projekten, digitale Sammlungen, Buchkataloge oder eigene Online-Kataloge nutzen wollen, [nehmen Sie Kontakt auf](mailto:contact@rism.info "Öffnet ein Fenster zum Versenden der E-Mail").
+Wenn Sie auch RISM-Daten aus Ihrer Institution im Rahmen von ähnlichen Projekten, digitale Sammlungen, Buchkataloge oder eigene Online-Kataloge nutzen wollen, [nehmen Sie Kontakt auf](mailto:contact@rism.info).
 
 (Bild: University of Washington Libraries. Nutzung mit freundlicher Genehmigung.)

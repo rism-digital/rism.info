@@ -22,7 +22,7 @@ Open Data bedetuet, dass alle Daten des RISM Online-Katalogs laut der [Creative 
 
 Das [Detmolder Hoftheater Projekt](http://hoftheater-detmold.de/){:target="_blank"} verwendet die Open Data des RISM als Basis für die kontextuelle Tiefenerschließung der Musikalienbestände mit MEI (Music Encoding Initiative) und TEI (Text Encoding Initiative). Kristina Richts und Peter Stadler werden über dieses Projekt während der RISM Sitzung auf dem [IAML Kongress im Juni](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015 "external-link-new-window") berichten. Viele andere Digitalprojekte verwenden Open Data wie [Europeana](http://labs.europeana.eu/api/linked-open-data/introduction/){:target="_blank"}, [DBpedia](http://wiki.dbpedia.org/Interlinking){:target="_blank"}, [Getty vocabularies](http://www.getty.edu/research/tools/vocabularies/lod/){:target="_blank"} und das [Sheet Music Consortium](http://digital2.library.ucla.edu/sheetmusic/lod.html){:target="_blank"}.
 
-Wenn Sie Fragen zur Benutzun der Daten haben, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Bitte schauen Sie sich auch auf die [RISM Data Services Seite](/de/community/entwicklung/dataservice.html), die[Broschüre (PDF)](http://www.rism.info/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} können Sie ausdrucken.
+Wenn Sie Fragen zur Benutzun der Daten haben, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Bitte schauen Sie sich auch auf die [RISM Data Services Seite](/de/community/entwicklung/dataservice.html), die [Broschüre (PDF)](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} können Sie ausdrucken.
 
 
 
@@ -32,4 +32,3 @@ Beachten Sie die Videoeinführung zu Linked Open Data von Europeana:
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

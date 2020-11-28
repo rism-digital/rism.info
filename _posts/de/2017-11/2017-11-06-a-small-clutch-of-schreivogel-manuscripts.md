@@ -24,8 +24,3 @@ Michael Talbot, Certainly Milanese, possibly Swiss: the violinist and composer J
 
 _Abbildung_: Zuschreibung an Schreivogel auf dem Manuskript: _del Sig. Giov Federico | Schraifoghel detto | il Tedeschino_. Konzert d-Moll in der SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076){:target="_blank"}).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

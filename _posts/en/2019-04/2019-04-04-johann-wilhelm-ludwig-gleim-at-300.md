@@ -18,7 +18,3 @@ Johann Wilhelm Ludwig Gleim (1719-1803) was a German poet of the Enlightenment w
 
 
 _Image_: Title page from Carl Philipp Emanuel Bach (1714-1788): _Der Wirth und die Gäste. Eine Singode vom Herrn Gleim_ ([RISM A/I: B 141](https://opac.rism.info/search?id=00000990003108&View=rism&Language=en){:target="_blank"}, D-Mbs 2 Mus.pr. 1146).
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

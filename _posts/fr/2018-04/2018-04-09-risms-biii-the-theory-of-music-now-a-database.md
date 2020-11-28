@@ -22,4 +22,3 @@ Voir aussi Christian Meyer, "[RISM B III : Les sources manuscrites de la théori
 
 _Crédit photo: Musica enchiriadis_ (Xe siècle), page 12. Einsiedeln Stiftsbibliothek (CH-E), [Codex 79(522)](http://www.e-codices.unifr.ch/en/list/one/sbe/0079 "Ouvre un lien externe dans une nouvelle fenêtre"). CC-BY.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

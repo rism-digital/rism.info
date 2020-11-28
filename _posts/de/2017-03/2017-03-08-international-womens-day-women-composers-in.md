@@ -23,10 +23,6 @@ Datenbanken bieten den Benutzern normalerweise keine Möglichkeiten nach dem Ges
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTWAMOx1y2InkZOyHsA6g3y-qKLKpjFB4aBFTHMiAp-AA27ePArb1l81vGwCX8Z21IbTlpMQhYF2yY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
 
-
-
-
-
 c = circa
 a = before
 p = after
@@ -74,8 +70,4 @@ p = after
 
 Die gesamte Liste können Sie [hier](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"} einsehen; sie ist auch mit der [Hilfe-Seite](https://opac.rism.info/index.php?id=4&L=1#c147){:target="_blank"} des Online-Katalogs verlinkt (siehe Frage #3).
 
-Diese Liste wird weiter wachsen und jede Korrekur oder weitere Informationen zu biografischen Details können an [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email") gesendet werden.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
+Diese Liste wird weiter wachsen und jede Korrekur oder weitere Informationen zu biografischen Details können an [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info) gesendet werden.

@@ -36,4 +36,3 @@ Esto resume la música en el México actual.
 
 _Image_: José Antonio Gómez y Olguín, Mass in C (1839). Catedral, Ciudad de México, E10.25/ C2/ LEGBd4/ AM0811; E10.25/ C2/ LEGBd4/ AM0812. RISM ID no. [120000569](https://opac.rism.info/search?id=120000569){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

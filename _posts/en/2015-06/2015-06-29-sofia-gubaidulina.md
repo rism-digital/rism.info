@@ -26,20 +26,7 @@ Joseph Stevenson writes on [AllMusic.com](http://www.allmusic.com/composition/si
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/jIMJB92Hifc" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
-
-
-
-
 Image credit: Gubaidulina in 1981, by Dmitri N. Smirnov (Own work) ([GFDL](http://www.gnu.org/copyleft/fdl.html){:target="_blank"},[CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"} or[CC BY 2.5](http://creativecommons.org/licenses/by/2.5){:target="_blank"}), via[Wikimedia Commons](http://rism.info/http:// "external-link-new-window")
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

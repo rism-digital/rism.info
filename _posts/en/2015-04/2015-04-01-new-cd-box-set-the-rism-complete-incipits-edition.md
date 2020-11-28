@@ -25,14 +25,6 @@ Who can forget the classic opening to [Anton Diabelli's _Tantum Ego_](https://op
 ![Tantum ergo](http://rism.info/resources-old-website/news/Aprilscherz_2015/tantum.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573766&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-
-
-
-
-
-
-
-
 Or the exciting tenor entrance in [Felice Alessandri's _Dario_](https://opac.rism.info/search?id=452002250){:target="_blank"}?
 
 
@@ -44,14 +36,6 @@ This [trombone lick](https://opac.rism.info/search?id=851000292){:target="_blank
 
 ![Trombone lick](http://rism.info/resources-old-website/news/Aprilscherz_2015/trombone.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573785&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-
-
-
-
-
-
-
 
 You will never listen to [solfeggio](https://opac.rism.info/search?id=850507984 "external-link-new-window") the same again after hearing it on the **RISM Complete Incipits Edition**! Sing along and add your own words.
 
@@ -67,10 +51,6 @@ _1.1.1vl 1,c; 3/4; c/Ouverture. Più moto;b; B_
 
 
 and
-
-
-
-
 _1.6.16/4;e Tell him Apollo greets him well_
 
 
@@ -87,16 +67,7 @@ Also available on iTunes and Spotify.
 
 
 
-
-
-
-
 _Photo credit: Adapted from "Muro de CDs" by Feans, via [Flickr](https://www.flickr.com/photos/endogamia/3305384139/){:target="_blank"} ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/){:target="_blank"})_
 
 
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

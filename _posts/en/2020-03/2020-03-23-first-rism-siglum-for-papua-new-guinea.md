@@ -24,14 +24,10 @@ RISM assigns an abbreviation, [called a library siglum](/sigla/about-sigla.html)
 
 
 **Do you need a siglum?**
-Please [contact us](mailto:contact@rism.info "Opens window for sending email") if you need a RISM siglum for your research. We will create one for you.
+Please [contact us](mailto:contact@rism.info) if you need a RISM siglum for your research. We will create one for you.
 
 
 
 _Image_: Flag of Papua New Guinea, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg){:target="_blank"}.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

@@ -34,7 +34,3 @@ This Berlin manuscript helps you get a good idea how visible external factors he
 _Image_: Secene XIII (after no. 29): "Ah poveretto me" and no. 30: Andante "Tutte accusan le donne" from Act II of _Così fan tutte._ Universitätsbibliothek Johann Christian Senckenberg (D-F), [Mus Hs 2350](http://nbn-resolving.de/urn:nbn:de:hebis:30:2-223771){:target="_blank"}. [RISM ID no. 455002350](https://opac.rism.info/search?id=455002350&Language=en){:target="_blank"}.
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

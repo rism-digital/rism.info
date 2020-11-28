@@ -26,7 +26,7 @@ This piece lends itself uniquely to the practice of the Rheinish pronunciation a
 
 ![Excerpt from Ludwig van Beethoven](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg)
 
-_**[Click for full size](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
+**[Click for full size](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
 Excerpt from Ludwig van Beethoven "Eschte Fründe stonn zesamme" Posth. WoO 4711 (for English translation see below)_
 
 
@@ -85,4 +85,3 @@ Now you can see who rightfully called himself your true friend.
 
 \*\* “as a god and a pot” is a short form of the Cologne credo “we pray to God and eat out of one pot” meaning something like “we are so close that closer is not even possible.”
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

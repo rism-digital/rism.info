@@ -22,15 +22,7 @@ _Musikarchiv_ (Musikmanuskripte und Musikdrucke bis ca. 1850)
 
 _Notenbibliothek_ (Musikdrucke ab ca. 1850 bis heute)
 
-
-
-
-
 Beide Teilbestände repräsentieren das Musikleben des Konvents von Mariastein vom 17. Jahrhundert bis zur Gegenwart.
-
-
-
-
 
 Im Teilbestand Musikarchiv finden sich nunmehr sämtliche Musikmanuskripte der Sammlung, u. a. das Autograph von Wolfgang Amadeus Mozart, Kyrie eleison, Fragment KV 73x. Dieses Autograph ist über Julius André (1808-1880, Sohn des Verlegers Johann Anton André), und dessen freundschaftlicher Verbindung zum Klosterkomponisten und späteren Abt Pater Leo Stöcklin (1808-1873) in den Besitz des Benediktinerklosters Mariastein gelangt. Im Teilbestand Musikarchiv finden sich zudem alle Musikhandschriften der Mariasteiner Klosterkomponisten
 
@@ -50,14 +42,6 @@ Der Katalog des Teilbestands Notenbibliothek folgt in derdetaillierten Angabe de
 
 
 
-
-
-
-
-
-
-
-
 **Online-Katalog**
 
 [http://www.musiksammlung.ch](http://www.musiksammlung.ch/) (D)
@@ -68,6 +52,6 @@ Der Katalog des Teilbestands Notenbibliothek folgt in derdetaillierten Angabe de
 
 
 
-Die Musiksammlung des Benediktinerklosters ist nach Voranmeldung für Forscher und Interpreten zugänglich: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch "Öffnet ein Fenster zum Versenden der E-Mail")
+Die Musiksammlung des Benediktinerklosters ist nach Voranmeldung für Forscher und Interpreten zugänglich: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch)
 
 

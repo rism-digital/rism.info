@@ -46,10 +46,6 @@ It is easy to create versions of Muscat in different languages. Muscat will init
 
 Earlier versions of Muscat were used by [RISM UK](http://www.rism.org.uk/){:target="_blank"} and RISM Switzerland and the newest version is already being used in Switzerland. The program has thus proven to be fully functional and major programming issues should not come up.
 
-
-
-
-
 **Current state of Muscat:**
 
 -
@@ -88,10 +84,5 @@ The switch to Muscat will take place at the beginning of November.
 
 After Muscat is released, we will be happy to grant access to anyone new who wants to start contributing to RISM.
 
-
-
-
-
 Feedback at the IAML congress was very positive and we are looking forward to the Muscat release.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

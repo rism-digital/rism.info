@@ -33,4 +33,3 @@ Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library [on the 
 
 _Image_: Theodor Anton Blumer: _Hampelmanns groteskes Tanzduett_ (1930). [SLUB Dresden](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/theodor-blumer/){:target="_blank"} (D-Dl) Mus.10621-J-502 Mus.10621-I-502. [RISM ID no. 290002218](https://opac.rism.info/search?id=290002218){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -24,4 +24,3 @@ _Updated 20 April 2020._
 
 _Image_: Christoph Demantius, _Corona harmonica_ (Leipzig, 1610). Leipziger Stadtbibliothek (D-LEm) II. 4. 28. [RISM ID no. 990013375](https://opac.rism.info/search?id=990013375&View=rism){:target="_blank"}. [Availbale online](http://digital.slub-dresden.de/id455638314){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -22,4 +22,4 @@ Die Benutzerstatistik weist für das Jahr 2012 die stattliche Zahl von 5.800 Zug
 
 Mit den neuen, benutzerfreundlichen Link-Adressen ([http://www.rism.info/en/sigla.html](http://www.rism.info/en/sigla.html) und [http://www.rism.info/de/rism-bibliothekssigel.html](http://www.rism.info/de/rism-bibliothekssigel.html)) ist die Datenbank nun leichter erreichbar. Wir bieten eine [kleine Videoanleitung](http://www.rism.info/en/community/development/rism-sigla-catalogue/help.html "Öffnet internen Link im aktuellen Fenster") auf Englisch zum Thema "RISM Bibliothekssigel" auf der Webseite an.
 
-Für jegliche Hinweise und Korrekturvorschläge sind wir dankbar. Sollten Sie ein Bibliothekssigel oder eine Institution nicht finden, zögern Sie nicht uns zu [kontaktieren](mailto:contact@rism.info "Öffnet ein Fenster zum Versenden der E-Mail").
+Für jegliche Hinweise und Korrekturvorschläge sind wir dankbar. Sollten Sie ein Bibliothekssigel oder eine Institution nicht finden, zögern Sie nicht uns zu [kontaktieren](mailto:contact@rism.info).

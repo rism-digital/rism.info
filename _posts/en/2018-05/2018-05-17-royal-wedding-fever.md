@@ -39,12 +39,7 @@ We will leave you with the brilliant Toccata by Charles-Marie Widor–played by 
 
 
 
-
-
-
-
 _Image_: Christoph Graupner, "Bei Pauken und Trompeten," autograph manuscript, 1748, Universitäts- und Landesbibliothek Darmstadt (D-DS), shelfmark Mus.ms 416/17. [RISM ID no. 450005709](https://opac.rism.info/search?id=450005709){:target="_blank"}. [Available online](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-416-17/0004){:target="_blank"} (CC-0). With help from [PhotoFunny.net](https://www.photofunny.net/out/615269829531550542){:target="_blank"}.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

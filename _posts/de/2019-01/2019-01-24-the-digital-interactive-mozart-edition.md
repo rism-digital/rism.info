@@ -22,4 +22,3 @@ Das Webangebot steht auf englisch und deutsch zur Verfügung. Wir sind gespannt 
 
 _Abbildung_: [_Ave verum corpus_](https://dme.mozarteum.at/movi){:target="_blank"} für gemischten Chor, Orchester und Orgel, KV 618
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -28,4 +28,3 @@ The primary goal of the HSC, which sees itself as a facilitator in this process,
 
 After completion of the above-mentioned pilot project, the results will be summarized in a presentation that can then be used by other libraries as a basis for work and encouragement to catalog their music in RISM and thus make it internationally visible. We hope that this will lead to further international cooperation with other European libraries so we can search for financing together and thus expand RISM's work in Ukraine.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

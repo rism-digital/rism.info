@@ -23,8 +23,3 @@ Die Transkriptionen sind mit Hilfe von [MEI](http://music-encoding.org/home){:ta
 
 Der Austausch mit anderen Forschern wird gewünscht. Benutzer können sich über Werke äußern und von anderen Wissenschaftlern gemachte Anmerkungen ansehen. Das Projekt ist ein open source Projekt und wird mit der [Creative Commons Namensnennung-Nicht kommerziell 3.0 Unported Lizenz](http://creativecommons.org/licenses/by-nc/3.0/deed.de){:target="_blank"}lizenziert, so sind alle frei, diese Materialien zu teilen und zu bearbeiten.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

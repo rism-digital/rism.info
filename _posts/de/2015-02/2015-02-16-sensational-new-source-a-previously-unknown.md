@@ -14,10 +14,6 @@ author: ''
 
 _Die nachfolgende extrem wichtige Nachricht erreichte uns vom [](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/#more-4378){:target="_blank"}_[_Henle Verlag_](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/){:target="_blank"} _und wird hier mit freundlicher Genehmigung veröffentlicht:_
 
-
-
-
-
 Die neue Reihe **Am KlavierPlus** ist der ideale Einstieg in die Welt der klassischen Klaviermusik, besonders geeignet für alle Jecken und Nicht-Jecken, die gerne gemeinsam mit anderen Musik machen möchten.
 
 Wie ein sensationeller, neuer Quellenfund belegt, war Ludwig van Beethoven – man mag es kaum glauben – närrischer Natur und dem Karneval nicht abgeneigt. Man nimmt an, dass das Lied, das vor Kurzem auf dem Dachboden des Kölner _[Gürzenich](http://www.koelnkongress.de/wDeutsch/locations/guerzenich/historie.php)_ entdeckt worden ist, während Beethovens Bonner Zeit entstand, jedoch nie veröffentlicht worden ist.
@@ -32,12 +28,8 @@ An diesem Stück lässt sich die rheinische Aussprache besonders gut üben, so w
 
 
 
-_**[Zum Vergrößern hier klicken](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
+**[Zum Vergrößern hier klicken](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
 Ausschnitt aus Ludwig van Beethoven "Eschte Fründe stonn zesamme" Posth. WoO 4711_
-
-
-
-
 
 _Bemerkungen_
 
@@ -64,4 +56,3 @@ _Einzelbemerkungen_
 Köln/München, Wieverfastelovend 2015
 G. Henle Verlag
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

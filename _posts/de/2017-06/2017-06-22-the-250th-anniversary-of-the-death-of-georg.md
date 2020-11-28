@@ -20,20 +20,8 @@ Im RISM Online-Katalog steht Telemann weit oben in der Liste der Komponisten, vo
 
 Die Handschriften mit Telemanns Werken sind zu weiten Teilen digitalisiert (973 Links zu Digitalisaten). Allen voran stehen die Universitäts- und Landesbibliothek Darmstadt (D-DS, 334), die Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) Dresden (D-Dl, 326) und die Staatsbibliothek zu Berlin - Preußischer Kulturbesitz (D-B, 181). Zur Zeit wird - neben den Telemann-Autographen aus D-B - auch der Bestand des [Adjuvantenarchivs Goldbach](https://opac.rism.info/search?View=rism&author=Telemann+Georg+Philipp&siglum=D-WRha){:target="_blank"} bei Gotha, der heute als Depositum in der Hochschule für Musik Franz Liszt Weimar, Hochschularchiv – Thüringisches Landesmusikarchiv ([D-WRha](http://www.hfm-weimar.de/index.php?id=343#joPageDown){:target="_blank"}) aufbewahrt wird, erfasst.
 
-
-
-
-
 _Abbildung_: Marsch (TWV 50:43), Autograph, D-F Ms.Ff.Mus. 1588, (RISM ID no. [4500004844](https://opac.rism.info/search?id=450004844){:target="_blank"})
 
 
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

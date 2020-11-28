@@ -34,4 +34,3 @@ For her decades of service as a teacher and musicologist, Prof. Szlagowska recei
 
 The RISM Central Office mourns the loss of Danuta Szlagowska together with her family, friends, and colleagues. We will always keep her in our memory. We will miss our colleague, who was active in the field and had a wide range of academic interests. Through her unceasing scholarly work she will remain great role model for us all.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -32,10 +32,6 @@ Bereits ausverkauft ist das beliebte [Fahrrad-Konzert](http://www.musikfestspiel
 
 Es gibt [zehn Nachweise](https://opac.rism.info/search?View=rism&q=sanssouci){:target="_blank"} im RISM Online-Katalog zum Stichwort „Sanssouci“. Der preußische König Friedrich der Große (1712-1786) ist mit vielfältigen Funktionen [360 Mal](https://opac.rism.info/search?View=rism&q=134378261){:target="_blank"} im Online-Katalog vertreten. Alleine 121 Mal als Komponist, aber auch als Textdichter, Schreiber (seiner eigenen Werke), Vorbesitzer und Widmungsträger.
 
-
-
-
-
 _Abbildung_: Friedrich der Große, Konzert für 2 Flöten und Cembalo D-Dur, Darmstadt, Universitäts- und Landesbibliothek, Musikabteilung (D-DS) Mus. ms. 320 (RISM ID no. [450001960](https://opac.rism.info/search?id=450001960){:target="_blank"}).
 
 ###teilen###

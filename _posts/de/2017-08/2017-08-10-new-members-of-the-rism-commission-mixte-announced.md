@@ -34,12 +34,7 @@ Beide Gesellschaften haben bei ihren Kongressen in diesem Jahr neue Delegierte b
 - Prof. Dr. Markus Grassl, Wien (Österreich)
 - Prof. Dr. Thomas Schmidt, Manchester(UK)
 - Prof. Dr. Christiane Wiesenfeldt, Weimar(Deutschland)
-
-
-
-
 RISM freut sich auf eine gute Zusammenarbeit und viele interessante Anregungen.
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

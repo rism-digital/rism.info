@@ -28,7 +28,3 @@ Andrew H. Weaver, “A recently rediscovered motet by Holy Roman Emperor Ferdina
 _Image_: Portrait of Ferdinand III, ca. 1628 - 1670, Rijksmuseum, from [Europeana](http://data.europeana.eu/item/90402/RP_P_OB_9022){:target="_blank"} (public domain).
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

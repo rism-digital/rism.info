@@ -14,10 +14,6 @@ author: ''
 
 Viele kleinere Institutionen wie Bibliotheken, Archive, Privatbesitzer etc. verfügen nicht über einen eigenen Online-Katalog ihrer Bestände, wollen aber die Einträge ihrer Bestände bei RISM auf der ihrer Website präsentieren. Dazu bietet die Bayerische Staatsbibliothek, München, eine Query-Schnittstelle an, die zuletzt so erweitert wurde, dass nach RISM Bibliothekssigeln gefragt werden kann.
 
-
-
-
-
 Zum Beispiel: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
 
 Mit dieser Abfrage bekommt man alle Titel des Musikarchive des Österreichischen Zisterzienserstifts Wilhering. DieWebsite des Stiftes bietet diesen Link an und man hat quasi einen Online-Katalog des historischen Musikarchivs des Stiftes.
@@ -90,4 +86,3 @@ Alle Quellen zu Gustav Mahler in Kanada:
 
 
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

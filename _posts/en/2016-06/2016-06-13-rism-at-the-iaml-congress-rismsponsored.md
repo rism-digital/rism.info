@@ -81,14 +81,6 @@ Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 9:00-10:30: Commission Mixte (closed working meeting; open only for members or by invitation)
 Chair: Wolf‐Dieter Seiffert (President of RISM, RISM Commission Mixte, München)
 
-
-
-
-
-
-
-
-
 # Presentations by RISM colleagues
 
 **Monday, July 4**
@@ -133,4 +125,3 @@ After a short introduction to the instrument and room, the Wörle organ will be 
 Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung,Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
