@@ -31,4 +31,4 @@ Gerne senden wir Ihnen auch ein oder mehrere Exemplare in gedruckter Form auf de
 
 {% include image file="/images/news-old-website/csm_Datendienstebroschuere_86b376f1cd.jpg" pos="right" %}
 
-RISM bietet interessierten Bibliotheken und Institutionen zahlreiche zusätzliche Möglichkeiten der Datenanalyse und Verwendung der Daten in anderen Projekten. Bitte laden Sie die [Broschüre hier]((/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"}) herunter.
+RISM bietet interessierten Bibliotheken und Institutionen zahlreiche zusätzliche Möglichkeiten der Datenanalyse und Verwendung der Daten in anderen Projekten. Bitte laden Sie die [Broschüre hier](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} herunter.
