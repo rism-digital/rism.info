@@ -26,10 +26,7 @@ Program
 
 **2:00 – 3:30 PM: Session 2**
 
--  
-
-**Annemarie Bösch-Niederer** (RISM Österreich, Vorarlberg): Klosterbestände im Vorarlberg
-
+-  **Annemarie Bösch-Niederer** (RISM Österreich, Vorarlberg): Klosterbestände im Vorarlberg
 - **Zuzana Petrášková / Eliška Šedivá** (RISM Czech Republic, Prague): Stand der Arbeiten der Tschechischen Arbeitsgruppe / The Start of Bohemian Watermark Research in the Czech RISM Working Group in Prague 
 - **Massimo Gentili-Tedeschi** (Ufficio Ricerca Fondi Musicali, Milan): Converting RISM Data and Importing into SBN: A Case Study 
 

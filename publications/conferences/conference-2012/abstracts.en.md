@@ -173,10 +173,6 @@ This well-known observation from the fundamental work _Biographisch-Bibliographi
    
  The music catalog, based on scholarly criteria, is much more than a register of manuscripts or printed works. With its perspective and representation of sources in their local and regional context, it very often provides new, insightful knowledge about known and unknown compositions, personalities and music institutions. It is thus itself also a piece of written music history. The RISM office Tyrol-South Tyrol & OFM Austria can easily provide evidence for this. Here just recently, during cataloging work, a previously unknown Allegro molto for piano by Wolfgang Amadeus Mozart was identified (see H. Herrmann-Schneider, “Das Allegro molto in C ‘del Signore Giovane Wolfgango Mozart’ [...]”, in _Mozart-Jahrbuch_, 2012). The latest source findings in Tyrol allow us to shed new light on, for example in this paper, the question of authorship of the Mass in B-flat major by Wolfgang Amadeus Mozart (KV C1.24), Franz Xaver Suessmayr (SmWV 816) or Kajetán Vogel (WeiVo deest), or to enrich the chapter “X: Dances” in the Leopold Mozart catalog of works (2010).
 
-
-
-
-
 **„Die Musikbibliographie ist die Grundlage alles historischen Wissens“. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahr 1898 heute**
 
 Die bekannte Feststellung aus dem fundamentalen Werk _Biographisch-Bibliographisches Quellen-Lexikon der Musiker und Musikgelehrten [...]_ des Pioniers musikhistorischer Quellendokumentation (1. Auflage Leipzig, Bd. 1 o. J., "Vorwort", datiert 1898, S. 5) besitzt auch heute noch, nach mehr als einem Jahrhundert, Gültigkeit. Nachdem sich die Prämissen für die Quellendokumentation insbesondere durch revolutionäre technische Neuentwicklungen hinsichtlich Erfassung, Präsentation und Nutzung grundlegend vorteilhaft verändert haben, kommt dem Statement von Robert Eitner gegenwärtig eine große Herausforderung mit dem bestmöglichen Einbezug aller erreichbaren fächerübergreifenden Ressourcen zu.

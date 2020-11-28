@@ -23,10 +23,6 @@ More comprehensive exploration is precluded by the fact that to a great extent s
 
 At the conference, respected musicologists and librarians from throughout Latin America will report on the current state of describing sources in their countries and the state of research on cultural exchange. In addition, the organizers will discuss continued progress and arrange ways of exchanging data.
 
-
-
-[Jump to: Other RISM events at GfM](#c3292)
-
 # Program
 
 **Chairs** : Klaus Pietschmann (Professor of Musicology, Johannes Gutenberg-Universität Mainz) P  
@@ -57,28 +53,24 @@ Klaus Keil (Director, RISM Zentralredaktion, Frankfurt am Main)
 - **Pablo Sotuyo Blanco** (Professor of Musicology,Universidade Federal da Bahia, Brazil): The RISM Brazil Database: Concept, Research, and Development ([view on YouTube](https://youtu.be/mwbE5XK1j6M){:target="_blank"})
 - **Federica Riva** (IAML Italy, Conservatorio di Musica "L. Cherubini", Firenze): On the Way Towards an International Libretto Project: An Overview of Collections in Cuba
 
-
-
 **Muscat presentation**
 
 - **Martina Falletta, Jennifer Ward** (RISM Zentralredaktion): Muscat: ANew Program for Music Documentation 
 
 **Roundtable discussion of possible further steps**
 
-
-
 Supported by the DAAD (German Academic Exchange Service) withfunding from the German Foreign Office (Auswärtiges Amt) and Bibliothek & Information International (BII).
 
 # RISM at GfM
 
- ![](/images/news-old-website/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg "Eitner-Lieder - Programmheft - Deckblatt")
+{% include image file="/images/news-old-website/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg" pos="right" %}
 
 You may also join RISM at the following events at the Gesellschaft für Musikforschung congress:
 
 **Thursday, September 15, 2016**
 
 Christoph Willibald Gluck: _Atto d'Orfeo_  
-A concert performance of this opera will be held at the [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Free tickets must be reserved in advance by writing: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de "Opens window for sending email")
+A concert performance of this opera will be held at the [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Free tickets must be reserved in advance by writing: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
 
 **Friday, September 16, 2016**
 

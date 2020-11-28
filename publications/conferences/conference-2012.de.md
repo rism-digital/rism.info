@@ -7,9 +7,9 @@ permalink: /publications/conferences/conference-2012.html
 
 # RISM-Konferenz 2012
 
- ![](/images/news-old-website/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg "Logo 02 zur Konferenz links")
+## Musikdokumentation in Bibliothek, Wissenschaft und Praxis
 
-## **Musikdokumentation in Bibliothek, Wissenschaft und Praxis**
+{% include image file="/images/news-old-website/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg" pos="right" %}
 
 Aus Anlass des 60-jährigen Bestehens des RISM findet vom 4. bis 6. Juni 2012 in der [Akademie der Wissenschaften und der Literatur Mainz](http://www.adwmainz.de/){:target="_blank"} ([Geschwister-Scholl-Straße 2, 55131 Mainz, Deutschland](http://maps.google.de/maps?q=Geschwister-Scholl-Stra%C3%9Fe+2,+55131+Mainz&hl=de&ie=UTF8&ll=49.976397,8.271332&spn=0.2676,0.617294&sll=51.151786,10.415039&sspn=16.735226,39.506836&hnear=Geschwister-Scholl-Stra%C3%9Fe+2,+55131+Mainz,+Rheinland-Pfalz&t=m&z=11){:target="_blank"}) eine internationale Konferenz statt.
 
@@ -22,15 +22,13 @@ Diese Entwicklungen sind Grund genug, 10 Jahre nach der Tagung zum 50. Bestehen 
 * [Programm](/publications/conferences/conference-2012/program.html)
 * [Abstracts](/publications/conferences/conference-2012/abstracts.html)
 
-
-
 Die Referate sind alphabetisch sortiert.
 
 **Peter Ackermann** (Frankfurt University of Music and Performing Arts): Innovative Methods for Producing Catalogs of Works on the Basis of Sources Indexed in RISM Using the Example of G.P. da Palestrina (Innovative Verfahren zur Herstellung von Werkverzeichnissen auf der Basis der bei RISM nachgewiesenen Quellen am Beispiel G. P. da Palestrina)  
-\<media 499 - - "TEXT, Ackermann, Ackermann.pdf, 545 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ackermann.pdf) (PDF)
 
 **Sarah Adams** (RISM US): Update on the US Working Group  
-\<media 473 - - "TEXT, Adams, Adams.pdf, 57 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Adams.pdf) (PDF)
 
 **Annemarie Bösch-Niederer** (RISM Austria-Vorarlberg): "… haben diese Klosterfrauen eine schöne Musicam von Stimmen und Instrumenten." On Music in Convents: New Discoveries from Vorarlberg, Austria (Zur Musik in Frauenklöstern – neue Funde aus Vorarlberg/A)
 
@@ -39,44 +37,44 @@ Die Referate sind alphabetisch sortiert.
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)
 
 **Jürgen Diet** (Bavarian State Library, Munich): Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources  
-\<media 483 - - "TEXT, Diet Slides, Diet\_Slides.pdf, 246 KB"\>Folien (PDF)\</media\>
+[Slides](/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf) (PDF)
 
 **Antonio Ezquerro Esteban** (RISM Spain): Cataloging Musical Sources: Spain and RISM. From Higinio Anglés to New Challenges
 
 **Catherine Ferris** (RISM Ireland): RISM Activity in the UK and Ireland  
-\<media 504 - - "TEXT, Ferris, Ferris.pdf, 369 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ferris.pdf) (PDF)  
 
 **Massimo Gentili-Tedeschi** (URFM Italy): Music Manuscripts as a Special Case toward the Extension of Bibliographic Descriptive Standards for Unpublished Resources  
 [Link to presentation](http://www.urfm.braidense.it/rism2012){:target="_blank"}
 
 **Teresa M. Gialdroni** (Italy): [Clori](http://www.cantataitaliana.it/), Archivio della cantata italiana: Current State of Progressand New Perspectives  
-\<media 536 - - "TEXT, Gialdroni, Gialdroni.pdf, 680 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Gialdroni.pdf) (PDF)
 
 **Franz Jürgen Götz** (RISM Germany): Musical Figures: The Transmission of Music Notation in the Visual Arts (Notenbilder – Überlieferung von musikalischer Notation in der bildenden Kunst)
 
 **Anne Graham and Deborah Pierce** (University of Washington): RISM Data as Metadata for Digital Collections  
-\<media 496 - - "TEXT, Graham Pierce, Graham\_Pierce.pdf, 1.5 MB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Graham_Pierce.pdf) (PDF)
 
 **Andrea Hartmann** (RISM Germany): The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden)  
-\<media 508 - - "TEXT, Hartmann, Hartmann.pdf, 62 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Hartmann.pdf) (PDF)
 
 **Hildegard Herrmann-Schneider** (RISM Tyrol - South Tyrol & OFM Austria): "Die Musikbibliographie ist die Grundlage alles historischen Wissens." On Today'sRelevance of Robert Eitner's CentralIdea from 1898 ("Die Musikbibliographie ist die Grundlage alles historischen Wissens". Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute)  
-\<media 507 - - "TEXT, Herrmann-Schneider, Herrmann-Schneider.pdf, 130 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf) (PDF)
 
 **Heidi Heinmaa** (National Library of Estonia): Musical Sources in Estonian Collections  
-\<media 482 - - "TEXT, Heinmaa, Heinmaa.pdf, 88 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Heinmaa.pdf) (PDF)
 
 **Stefan Ikarus Kaiser** (RISM - Austrian Academy of Sciences): The Music Collection at Wilhering Abbey (Musiksammlung des Stiftes Wilhering)   
-\<media 475 - - "TEXT, Kaiser, Kaiser.pdf, 49 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf) (PDF)
 
 **Vjera Katalinic und** Lucija Konfic (RISM Croatia): Project RISM in Croatia: The Past Decade  
-\<media 533 - - "TEXT, Katalinic Konfic, KatalinicKonfic.pdf, 135 KB"\>Vortrag (PDF)\</media\>[Folien (PDF)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf){:target="_blank"}
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF)[Slides (PDF)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf){:target="_blank"}
 
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
-\<media 505 - - "TEXT, Grabnar, Grabnar.pdf, 116 KB"\>Vortrag (PDF)\</media\>  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
   
 **Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
-\<media 481 - - "TEXT, Teich Geertinger Final, TeichGeertinger\_Final.pdf, 1.0 MB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf) (PDF)
 
 **Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
 
@@ -85,15 +83,15 @@ Die Referate sind alphabetisch sortiert.
 **John G. Lazos** (Canada/Mexico): A Portrait of the Composer José Antonio Gómez: Encountering Independent Mexico through New Technologies
 
 **Helmut Loos** (University of Leipzig): Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen)  
-\<media 476 - - "TEXT, Loos DE, Loos\_DE.pdf, 80 KB"\>Vortrag (PDF; Deutsch)\</media\> \<media 477 - - "TEXT, Loos EN, Loos\_EN.pdf, 34 KB"\>Vortrag (PDF; Zusammenfassung auf Englisch)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) (PDF; German)  [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf) (PDF; English summary)
 
 **Mattias Lundberg** (RISM Sweden): The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?  
-\<media 486 - - "TEXT, Lundberg, Lundberg.pdf, 240 KB"\>Vortrag (PDF)\</media\>  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf) (PDF)
   
 **Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval
 
 **Alina Mądry** (Poland): Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena  
-\<media 523 - - "TEXT, Madry, Madry.pdf, 623 KB"\>Vortrag (PDF)\</media\>   [Folien (PDF)](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf){:target="_blank"}
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) (PDF)   [Slides (PDF)](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf){:target="_blank"}
 
 **Cheryl Martin** (RISM Canada): Canadian Music Resources in RISM
 
@@ -102,17 +100,17 @@ Die Referate sind alphabetisch sortiert.
 **Eva Neumayr** (RISM Salzburg): Using Watermarks to Identify Related Sources
 
 **Stanislav Oustachev** (Russia, Glinka Museum Moscow): The RISM Project atthe Glinka Museum  
-\<media 479 - - "TEXT, Ousatchev, Ousatchev.pdf, 40 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf) (PDF)
 
 **Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology,Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)
 
 **Laurent Pugin** (RISM Switzerland): The Use of METS for Delivering Digital Objects together with RISM Catalog Records  
-\<media 532 - - "TEXT, Pugin, Pugin.pdf, 547 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf) (PDF)
 
 **Jaime Quevedo** (Columbia): Music Documentation, Identification and Characterization: A Challenge to Catalog and Become Acquainted with the Musical Heritage of Columbia
 
 **Emilia Rassina** (RISM Russia): Current Work of RISM in Russia  
-\<media 480 - - "TEXT, Rassina, Rassina.pdf, 36 KB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf) (PDF)  
 
 **Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and[Edirom](http://www.edirom.de/)Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/) online)
@@ -122,11 +120,11 @@ Die Referate sind alphabetisch sortiert.
 \<media 571\>Vortrag (PDF)\</media\>
 
 **Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
-\<media 522 - - "TEXT, Troester, Troester.pdf, 0.9 MB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf) (PDF)
 
 **Steffen Voss** (RISM Germany): The Instrumental Repertoire of the Dresden Court: AReport onthe DFG Project at the SLUB Dresden (Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden)
 
 **Undine Wagner** (RISM Germany): Archives of Lay Musicians as Evidence of Church Music Practice in Thuringia: Holdings atthe Thuringian Regional Music Archive and Cataloging for RISM (Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM)  
-\<media 497 - - "TEXT, Wagner, Wagner.pdf, 1.1 MB"\>Vortrag (PDF)\</media\>
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf) (PDF)
 
 **Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](http://www.memoryofpaper.eu:8080/BernsteinPortal/appl_start.disp): A Portal for Watermark Research

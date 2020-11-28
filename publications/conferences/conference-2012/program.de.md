@@ -69,10 +69,6 @@ Vorsitz: Richard Chesser
 **Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2275)
 
-
-
-
-
 # Dienstag, 5. Juni 2012
 
 09.00 - 11.00 **Workshop**  **für RISM Ländergruppen**. Gestaltung eigener Websites im Rahmen von rism.info  

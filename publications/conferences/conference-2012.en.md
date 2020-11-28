@@ -7,9 +7,9 @@ permalink: /publications/conferences/conference-2012.html
 
 # RISM Conference 2012
 
- ![](/images/news-old-website/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg "Logo 02 zur Konferenz links")
-
 **Music Documentation in Libraries, Scholarship, and Practice**
+
+{% include image file="/images/news-old-website/csm_Logo_02_zur_Konferenz_links_00937fe050.jpg" pos="right" %}
 
 To mark the 60th anniversary of RISM, an international conference took place from 4-6 June 2012 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"} in Mainz, Germany (Academy of Sciences and Humanities; [Geschwister-Scholl-Straße 2, 55131 Mainz](http://maps.google.com/maps?q=Geschwister-Scholl-Stra%C3%9Fe+2,+55131+Mainz&hl=de&ie=UTF8&ll=50.000678,8.258286&spn=0.267465,0.617294&sll=37.0625,-95.677068&sspn=42.03917,79.013672&hnear=Geschwister-Scholl-Stra%C3%9Fe+2,+55131+Mainz,+Rheinland-Pfalz,+Deutschland&t=m&z=11){:target="_blank"}).
 
@@ -22,11 +22,7 @@ These developments are reason enough, ten years after the conference that marked
 * [Program](/publications/conferences/conference-2012/program.html)
 * [Abstracts](/publications/conferences/conference-2012/abstracts.html)
 
-
-
 The presentations, in alphabetical order:
-
-
 
 **Peter Ackermann** (Frankfurt University of Music and Performing Arts): Innovative Methods for Producing Catalogs of Works on the Basis of Sources Indexed in RISM Using the Example of G.P. da Palestrina (Innovative Verfahren zur Herstellung von Werkverzeichnissen auf der Basis der bei RISM nachgewiesenen Quellen am Beispiel G. P. da Palestrina)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ackermann.pdf) (PDF)
