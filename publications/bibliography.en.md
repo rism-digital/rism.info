@@ -24,7 +24,6 @@ Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicolo
 Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Link to JSTOR](http://www.jstor.org/stable/889991){:target="_blank"}
 
 
-
 **1953:**  
 In Federov, Vladimir, editor._Troisième Congrès international des bibliothèques musicales Paris : 22-25 juillet 1951_.Kassel: Bärenreiter-Verlag, 1953:
 
@@ -638,7 +637,6 @@ Voss, Steffen."Musikdokumentation in Bibliothek, Wissenschaft und Praxis. Konfer
 Wolf, Ulrike. "60 Jahre RISM: Interview mit dem Präsidenten Christoph Wolff." _Forum Musikbibliothek_ 33, no. 2 (2012): 16-20. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/137){:target="_blank"}.
 
 
-
 **2013:**
 
 Giglberger, Veronika. "Zeugen einer Blütezeit europäischer Musikkultur in München:Chorbuch-Handschriften mit mehrstimmiger Musik werden digitalisiert."Bibliotheks-Magazin8, no.1 (2013):38-42. [Available online](http://rism.info/http:// "external-link-new-window").
@@ -696,7 +694,6 @@ Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komp
 Wagner, Undine. "Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen."_Musicologica brunensia_49, no. 2 (2014): 139-167. [Available online](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}.
 
 
-
 **2015:**
 
 Chae, Hyun Kyung. "From the First [最初] to the Best [最高]: Ewha Music Research Institute." _Ewha's Research Power for Humanities, Arts & Social Sciences_ (February 2015). [Available online](http://researchpower1.ewha.ac.kr/bbs/board.php?bo_table=2015s&wr_id=7){:target="_blank"}.  
@@ -726,7 +723,6 @@ Rose, Stephen, Sandra Tuppen, and Loukia Drosopoulou. "Writing a Big Data histor
 Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62:1 (2015): 49-53. [Available online](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
 Shanahan, Daniel and Eamonn Bell. "Re-Examining National Influences and Stylistic Shifts with the RISM Dataset." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 159-161. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
-
 
 
 **2016:**
@@ -828,7 +824,6 @@ Ward, Jennifer A. "Getting Back to the Source, Virtually: RISM as a Tool in the 
 Ward, Jennifer A. "Notes for Notes." _Notes_ 73, no. 4 (June 2017): 698-699. [doi:10.1353/not.2017.0038](https://doi.org/10.1353/not.2017.0038){:target="_blank"}.   
   
 Ward, Jennifer A. "RISM for Librarians." _Musikbiblioteksnytt_no. 3 (2017): 10-11. [Available online](http://www.smbf.nu/dok/mbn/mbn_2017_03.pdf){:target="_blank"}.
-
 
 
 **2018:**
@@ -1291,7 +1286,6 @@ Schlichte, Joachim. _Thematischer Katalog der kirchlichen Musikhandschriften des
 (Compiled by RISM Germany-Munich; catalog data in A/II)
 
 
-
 ##### DK - Denmark
 
 Schiødt, Nanna and Sybille Reventlow. _RISM-Katalogen: Manuskripter i danske samlinger: En introduktion / The Danish RISM Catalogue: Manuscripts. An introduction._ 20 microfiches., Copenhagen: Kongelige Bibliothek, 1977.  
@@ -1418,6 +1412,5 @@ Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátske
 
 Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove._ Martin: Matica slovenská, 1977.  
 (Compiled in cooperation with RISM)
-
 
 

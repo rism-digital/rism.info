@@ -57,3 +57,5 @@ Von der Bockenheimer Warte:
 
 In der Station folgen Sie der Beschilderung zur Universität.  
 Gehen Sie am alten Wachturm vorbei und beim Café Extrablatt links in die Gräfstraße. Folgen Sie der Gräfstraße bis zur Tiefgarage und gehen Sie dort links in die Mertonstraße. Das lange Gebäude auf der rechten Seite ist das Hörsaalgebäude. Gehen Sie zum zweiten Türpaar und betreten Sie das Haus bei dem Schild **Hörsaalgebäude / Eingang Mertonstraße**. Gehen Sie direkt links in das Treppenhaus. Mit Treppe oder Aufzug erreichen Sie den 4. Stock. Der Haupteingang zu RISM ist bezeichnet **401 D-407 D**.
+
+

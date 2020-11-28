@@ -7,7 +7,6 @@
 
 Librarians, [see here](/organization/rism-for-libraries.html) what RISM has to offer you
 
-
 ## Library Sigla
 
 [Search](/community/sigla.html) sigla for libraries, archives and collections with historical music holdings

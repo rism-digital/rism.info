@@ -7,7 +7,6 @@
 
 Bibliotécaires, [trouvez ici](/organization/rism-for-libraries.html) ce que le RISM vous offre
 
-
 ## Sigles de bibliothèques
 
 [Chercher](/community/sigla.html) par sigle pour les bibliothèques, archives et collections possédant des fonds musicaux historiques

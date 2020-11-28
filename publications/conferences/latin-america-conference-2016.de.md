@@ -64,7 +64,6 @@ Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
 
 Gefördert vom DAAD (Deutscher Akademischer Austauschdienst)aus Mitteln des Auswärtigen Amts (AA) und von Bibliothek International (BII)
 
-
 # RISM auf der GfM-Tagung
 
 {% include image file="/images/news-old-website/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg" pos="right" %}

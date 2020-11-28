@@ -76,7 +76,6 @@ Die aus den gedruckten RISM [A/I](/de/publikationen.html#c36) (Einzeldrucke vor 
   - **B/I to 1550**: Auch die Mehrheit der B/I-Einträge bis zum Jahr 1550 muss überarbeitet werden. Hier sind es vor allem die Teileinträge, die bereits an den Stammdatensatz angehängt sind. Es ist häufig der Fall, dass Folgedrucke keine Teileinträge im Gegensatz zu den sogenannten Erstdrucke (d.h. die im gedruckten Band zuerst genannten) haben. Diese sind ebenfalls bereits im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
   - **B/I von 1551 bis 1700**: Diese Einträge sind nur in Muscat aber **nicht** im Online-Katalog, weil sie noch sehr spärliche Angaben enthalten. Die RISM ID beginnt mit 993. Diese Einträge müssen grundlegend überarbeitet und Teileinträge ergänzt werden. Wenn SIe einen solchen Eintrag überarbeiten, lassen Sie ihn **unpublished** (unveröffentlicht) und schreiben uns einen kurzen Kommentar, dass der Titel überarbeitet wurde. Die Zentralredaktion wird einen Blick darauf werfen und den Datensatz veröffentlichen. Vielen Dank für Ihr Verständnis.
 
-
 3. **Neue Musikdrucke hinzufügen**
 
 Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\

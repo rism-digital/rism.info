@@ -72,7 +72,6 @@ Chair: **Jürgen Diet** (Bavarian State Library, Munich)
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2275)
 
 
-
 # Tuesday, June 5, 2012
 
 9:00-11:00 AM **Workshop for RISM Country Groups**   
@@ -113,7 +112,6 @@ Chair: Christoph Wolff (President, RISM Commission Mixte)
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2279)
 
 
-
 **Andrea Hartmann** (RISM Germany): The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2317)
 
@@ -148,7 +146,6 @@ Chair: Catherine Massip (Bibliothèque nationale de France)
 7:30 PM Concert
 
 Members of Barock vokal and the Neumeyer Consort, directed by Felix Koch, will play works by Johann Christian Bach in arrangements by Wolfgang Amadeus Mozart, Giovanni Battista Bononcini, Arcangelo Corelli, Georg Friedrich Händel and Georg Philipp Telemann.
-
 
 
 # Wednesday, June 6, 2012

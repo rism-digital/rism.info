@@ -56,7 +56,6 @@ The study proposes an approach regarding how IFLA LRM can best communicate the s
 As part of the Mellon-funded Linked Data for Production grant, Stanford Library led a sub-project with the aim of developing an extension to BIBFRAME to address the modelling of music resources. While aimed primarily at performed music resources, the most substantial work of this group also could be applied equally to notated music, particularly in the areas of medium of performance, musical events, and musical works. In this presentation I discuss the modelling developed by the project group to link and cluster works and work components in a way that better represents work to work relationships in music, while remaining compatible with standard BIBFRAME, FRBR and IFLA-LRM. Further, I will further discuss how a similar model is being applied to works of all types in MARC data conversion and transformation that will provide a data pool for catalogers working in Sinopia, the editor being developed for Linked Data for Production 2: The path to implementation.
 
 
-
 ## <a name="c3898"></a>André Guerra Cotta (UFF-CAPES/UNL-CESEM, Brazil)
 
 **Considerations on the Work Level, International Standards and ISWC**  

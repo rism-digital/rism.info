@@ -12,7 +12,6 @@ Das von der RISM-Zentralredaktion in Frankfurt am Main herausgegebene "Info RISM
 Alle Zeitschriften-Hefte sind als PDF-Datein erhältlich.
 
 
-
 [Nr. 1, 1989](/../resources-old-website/site-content/Info-RISM/InfoRISM_01.pdf "TEXT, Info RISM 01, InfoRISM\_01.pdf, 1.4 MB"): Einführung, Libretti, die Zentralredaktion
 
 [Nr. 2, 1990](/../resources-old-website/site-content/Info-RISM/InfoRISM_02.pdf "TEXT, Info RISM 02, InfoRISM\_02.pdf, 1.8 MB"): Editorial, Die Zentralredaktion stellt sich vor, EDV in der ZR, Notizen aus Deutschland, Italien, Spanien und den USA

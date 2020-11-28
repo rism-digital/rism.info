@@ -153,7 +153,6 @@ Over 500 sources of Arabic music theory from its beginnings to the end of the ni
 
 * **B/X/A:** Amnon Shiloah, *The theory of music in Arabic writings (c. 900-1900). Descriptive catalog of manuscripts in libraries of Egypt, Israel, Morocco, Russia, Tunisia, Uzbekistan, and supplement to B/X *, 2003.
 
-
 **B/XI: Ancient Greek music theory**
 
 Descriptions for nearly 300 codices, extending from the 11th through the 17th centuries. Countries included: Austria, Denmark, East Germany, Egypt, France, Great Britain, Greece, Italy, Netherlands, Spain, Sweden, Switzerland, United States, West Germany.

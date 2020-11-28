@@ -12,7 +12,6 @@ _Info RISM_ was an annual newsletter published from 1989 to 2001 by the RISM Zen
 PDFs of the entire series is now available. The text is in English and German with some parts in French and Italian.
 
 
-
 [No. 1, 1989](/resources-old-website/site-content/Info-RISM/InfoRISM_01.pdf): Introduction, Libretti, the Zentralredaktion
 
 [No. 2, 1990](/resources-old-website/site-content/Info-RISM/InfoRISM_02.pdf): Editorial, meet the staff, computers in the Zentralredaktion, RISM-US libretto project, notes from Germany, Italy and Spain

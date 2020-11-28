@@ -10,7 +10,6 @@ permalink: /publications/bibliography.html
 Hier finden Sie eine chronologische Liste aller Publikationen.
 
 
-
 **Inhalt**
 
 - [Publikationen über RISM](#publikationen-über-rism)
@@ -540,7 +539,6 @@ Schneider, Oliver: Auf Entdeckungsreise in Schweizer Musikbibliotheken, in: Schw
 Urbano, Julián, Mónica Marrero, Diego Martín und Juan Lloréns: Improving the Generation of Ground Truths Based on Partially Ordered Lists, in: Proceedings of the 11th International Society for Music Information Retrieval Conference, ISMIR 2010, Utrecht, Netherlands, August 9-13, 2010, hrsg. v. J. Stephen Downie und Remco C. Veltkamp, International Society for Music Information Retrieval: 2010, S. 285-290. [Online verfügbar](http://dblp.org/rec/conf/ismir/UrbanoMML10){:target="_blank"}.
 
 
-
 **2011:**  
 Brinzing, Armin: RISM und Bibliotheken – Stand und Perspektiven der Musikhandschriftenerschließung in Deutschland, in: Forum Musikbibliothek 32 (2011), S. 9-14.
 
@@ -594,7 +592,6 @@ Kraus, Guido: Sixty years of the RISM, in: Source Studies in Musical Culture, ed
 - Sawicka, Ludmiła:Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement--Breslau, Warschau und Grüssau. [online](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf)
 - Tröster, Sonja und Birgit Lodes: Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment. [online](/resources-old-website/community-content/events/RISM_Conference_2012/Troester.pdf)
 - Wagner, Undine: Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM. [online](/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf)
-
 
 
 Pugin, Laurent, Andrew Hankinson und Ichiro Fujinaga: Digital Preservation and Access Strategies for Musical Heritage: The Swiss RISM Experience, in: OCLC Systems & Services: International Digital Library Perspectives 28 (2012), S. 43-55. [doi:10.1108/10650751211197068](https://doi.org/10.1108/10650751211197068){:target="_blank"}.
@@ -686,7 +683,6 @@ Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeich
 Shanahan, Daniel und Eamonn Bell: Re-Examining National Influences and Stylistic Shifts with the RISM Dataset, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 159-161. [Online erhältlich](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
 
 
-
 **2016:**
 
 Benton, Rita und Jennifer A. Ward: Répertoire International des Sources Musicales, in: _Grove Music Online_. _Oxford Music Online_. Oxford University Press,[http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216.](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}
@@ -714,7 +710,6 @@ Astudillo Rojas, Cecilia: Historical Music Scores in Chile and their Documentati
 - Sotuyo Blanco, Pablo: The RISM Brazil Database: Concept, Research, and Development. [YouTube](https://youtu.be/mwbE5XK1j6M)
 - Urchueguía, Cristina: The Concept of an International Repertory of Musical Sources.[YouTube](https://youtu.be/1ROti64TIUc)
 - Waisman,Leonardo: Spanish-American Colonial Musical Sources: Catalogues and Studies. [YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm)
-
 
 
 Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger und Alexander Staub: Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München11 (2016), Heft 1, S. 36-40. [Online erhältlich](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.
@@ -752,7 +747,6 @@ Ward, Jennifer A. und Axel Klein: An Evening of Irish Music: The Emerald Isle Co
 Ward, Jennifer: The use and reuse of RISM data in libraries, in: Journal of Electronic Resources Librarianship 28 (2016), S. 129-133. [Online erhältlich](http://dx.doi.org/10.1080/1941126X.2016.1167551){:target="_blank"}.
 
 
-
 **2017:**
 
 A Protocol between the Istituto Centrale per il Catalogo Unico (ICCU), IAML-Italia and RISM has been signed (Briefs/Feuilletons), in: Fontes Artis Musicae 64 (2017), S. 68-69.
@@ -788,7 +782,6 @@ Ward, Jennifer A.: Notes for Notes, in: Notes__73, Nr. 4 (Juni 2017), S. 698-699
 Ward, Jennifer A.: RISM for Librarians, in: Musikbiblioteksnytt 3 (2017), S. 10-11. [online verfügbar](http://www.smbf.nu/dok/mbn/mbn_2017_03.pdf){:target="_blank"}.
 
 
-
 **2018:**
 
 Bicher, Katrin und Barbara Wiermann: Normdaten zu „Werken der Musik“ und ihr Potenzial für die digitale Musikwissenschaft, in: _Bibliothek Forschung und Praxis_ 42, Nr. 2 (2018), p. 222-235. [online verfügbar](https://doi.org/10.1515/bfp-2018-0043){:target="_blank"}.
@@ -810,7 +803,6 @@ Román, Miguel A., Antonio Pertusa und Jorge Calvo-Zaragoza: An End-to-End Frame
 Veit, Joachim und Kristina Richts: Stand und Perspektiven der Nutzung von MEI in der Musikwissenschaft und in Bibliotheken, in: _Bibliothek Forschung und Praxis_ 42, Nr.. 2 (2018), p. 292-301. [online verfügbar](https://doi.org/10.1515/bfp-2018-0026){:target="_blank"}.
 
 
-
 **2019:**
 
 Benavent i Peiró, Joan: El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra, in: _Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya_, S. 151-188. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019. DOI: [10.2436/20.8060.03.93](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf){:target="_blank"}.
@@ -826,7 +818,6 @@ Keil, Klaus und Jennifer A. Ward: Applications of RISM data in digital libraries
 Köppl, Chantal: "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22. September 2019. [online verfügbar](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}.
 
 Ward, Jennifer: Répertoire International des Sources Musicales/International Inventory of Musical Sources, in: _Historic Libraries Forum Bulletin_ 44 (April 2019), S. 3-4. [online verfügbar](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}.
-
 
 
 **Anmerkung:**
@@ -943,7 +934,6 @@ Rose, Stephen: RISM in the Digital Age, in: Early Music (February 2013), p. 158-
 
 **Microfiche-Ausgabe:**  
 Bibliographies, in: Early Music News, June 1988.
-
 
 
 **CD-ROM-Ausgabe:**  
@@ -1093,7 +1083,6 @@ Solomon, John: in: Fontes Artis Musicae 36 (1989), p. 332-333.
 Ingendaay, Paul: Schätze der Kirchenmusik, Reiche iberische Quellenkunde, in: Frankfurter Allgemeine Zeitung 5.12.2005
 
 
-
 ### Serie C: Directory of Music Research Libraries
 
 **Vol. 1:**  
@@ -1208,7 +1197,6 @@ Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris 
 Bastlová, Eliška: Collectio operum musicalium quae in Bibliotheca Kinsky adservantur. (Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8), Prag: Národní knihovna České Repubiky, 2013.
 
 Semerádová, Pavla und Eliška Šedivá: Catalogus collectionis operum artis musicae de Monasterii Siloensis. (Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2), Prag: Národní knihovna České republiky, 2016.
-
 
 
 ##### D – Deutschland
@@ -1373,6 +1361,5 @@ Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeh
 
 Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove , Martin: Matica slovenská 1977.  
 (erstellt in Zusammenarbeit mit RISM)
-
 
 

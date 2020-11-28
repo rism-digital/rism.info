@@ -74,7 +74,6 @@ This is RISM's priority for printed music and is the easiest way for a library t
 
   - Please note: Most B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below).
 
-
 2. **Revise existing RISM records**
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
@@ -88,7 +87,6 @@ Records imported from RISM's printed volumes [A/I](/publications.html#c36) (musi
 Even the published records can usually be improved by adding individual entries and music incipits.
 
 The unpublished records must be completely revised and individual entries must be added. If you revise a record,**leave it unpublished** but add a quick comment to the record saying the record has been revised (save the record, then go to the bottom under "Comments"). Central Office staff will look at the record and we will publish it.
-
 
 3. **Add new records for printed music**
 
