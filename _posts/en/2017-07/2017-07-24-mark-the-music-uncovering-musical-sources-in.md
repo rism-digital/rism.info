@@ -32,20 +32,7 @@ Other speakers included:
 - Judy Tsou (University of Washington), who shared her experience contributing to national registries for sound preservation in the United States
 - Tine Vind (Danish Agency for Culture), who talked about public libraries in Denmark
 
-Slides are [available online](http://smbf.nu/arkivet/markthemusic/markthemusic.html){:target="_blank"}. Photos have been posted to the IAML Facebook page.
-
-<script>
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-
+Slides are [available online](http://smbf.nu/arkivet/markthemusic/markthemusic.html){:target="_blank"}.
 
 The course included a study visit to the [Herbert Blomstedt Collection](http://www.ub.gu.se/samlingar/blomstedt/){:target="_blank"}, which is housed at the university and open for researchers. It includes the conductor's personal book collection plus an impressive collection of rare manuscripts that Blomstedt has collected over the course of his many travels. Since Blomstedt is still an active conductor, his personal scores are still in his possession. The curator of the collection told us of how Blomstedt still actively seeks out rare materials and buys them knowing that he will be able to entrust them to the care of the university library.
 

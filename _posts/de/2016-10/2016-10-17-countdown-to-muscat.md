@@ -20,19 +20,3 @@ Muscat ist ein Open Source-Programm, das RISM gemeinsam mit RISM Schweiz zur Kat
 Muscat wird Anfang November in Betrieb genommen. Informationen zum Erfassungsprogramm sowie einen Zeitplan und Videos finden Sie auf der [Muscat-Seite](/de/community/muscat.html).
 
 Das neue Programm ist kostenfrei und wird allen zur Vefügung gestellt, die RISM beitragen möchten.
-
-Hier einige Fotos vom Workshop!
-
-
-<script>
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-

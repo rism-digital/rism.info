@@ -13,22 +13,11 @@ author: ''
 
 Diese Woche sind wir in unsere neuen Büroräume umgezogen. Wir sind jetzt auf dem Campus Bockenheim der Johann Wolfgang Goethe-Unviersität. Während wir noch die letzen Kisten auspacken und einige Details erledigen, genießen Sie bitte die Fotos, die wir vor, während und nach dem Umzug gemacht haben.Mehr ist auf unserer[Facebookseite](https://www.facebook.com/RISM.info){:target="_blank"} (eine Anmeldung ist nicht erforderlich) zu sehen. Wir freuen uns darauf, Sie hier begrüßen zu können!
 
-
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-
 [Post](https://www.facebook.com/media/set/?set=a.902365976470914.1073741834.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
-
-
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 
 [Post](https://www.facebook.com/media/set/?set=a.900206696686842.1073741832.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
 
-
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-
 [Post](https://www.facebook.com/media/set/?set=a.900204173353761.1073741831.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
-
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 
 [Post](https://www.facebook.com/media/set/?set=a.901231746584337.1073741833.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
 
