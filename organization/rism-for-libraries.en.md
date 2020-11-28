@@ -25,7 +25,7 @@ Also look at past [IAML congresses](/publications/iaml-congresses.html){:target=
 
 **Logos**: Logos are available below for download or for direct copying and pasting onto your library's website. Right-click on the image to either copy it or save it as a local file.
 
-**Poster**: This [RISM poster]( /organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
+**Poster**: This [RISM poster]( /resources/organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
 
 **Reviews of RISM**: RISM's publications have been reviewed in the scholarly literature. See the [RISM bibliography](/publications/bibliography.html) for exact citations.
 
@@ -66,7 +66,7 @@ As an example, these records from the Princeton University Library cite the A/I 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
+Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
