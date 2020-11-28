@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ursprüngliche Ankündigung der AMS:
 
 Center for Popular Music veröffentlicht American Music Manuscripts Website
@@ -23,8 +22,6 @@ Die sich ergänzenden Sammlungen des Center for Popular Music und der American A
 Die Manuskripte wurden alle in hoher Auflösung – den Archivierungsnormen zur Erhaltung entsprechend – gescannt. Die AVMM-Website dient auch als Suchmaschine für die Abbildungen. Benutzer können nach Jahr, Liedtitel, Thema, Ursprung, Urheber und Schlüsselwort suchen. Alle Projektmanuskripte wurden außerdem im MARC-Bibliotheksformat katalogisiert und dem WorldCat zugänglich gemacht. Eine Zusammenstellung der Richtlinien erlaubt es anderen Institutionen, ähnliche Manuskripte in ihren Sammlungen zu katalogisieren.
 
 
-
 Für weitere Informationen besuchen Sie bitte die[AVMM Website](http://popmusic.mtsu.edu/ManuscriptMusic){:target="_blank"}.
-
 
 

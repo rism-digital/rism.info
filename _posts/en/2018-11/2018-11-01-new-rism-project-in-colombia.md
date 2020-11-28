@@ -11,7 +11,6 @@ email: rf.torres20@uniandes.edu.co
 author: Rondy F. Torres López
 ---
 
-
 _We have received the following announcement from Dr. Rondy F. Torres López (RISM Colombia). English follows:_
 
 Rondy Torres, doctor en musicología, profesor de la Universidad de los Andes (Bogotá, Colombia), ha iniciado un nuevo proyecto de catalogación de un fondo hasta ahora desconocido: la música del siglo XIX del archivo musical de la catedral de Bogotá (CO-B).
@@ -24,10 +23,8 @@ Más información: [https://rondytorres.wordpress.com/2018/03/15/la-musica-de-lo
 
 Video sobre el archivo musical: [vimeo.com/220685932/d33d5c8c79](https://vimeo.com/220685932/d33d5c8c79)
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MWTWz2W6pqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _The hymn "Gloria, Laus" by Valentín Franco﻿_
-
 
 Rondy Torres, Ph.D. in musicology, professor at the Universidad de los Andes (Bogota, Colombia), has begun a new cataloguing project on an unknown archive: the nineteenth-century music from the musical archive of Bogota's Cathedral (RISM siglum: CO-B).
 

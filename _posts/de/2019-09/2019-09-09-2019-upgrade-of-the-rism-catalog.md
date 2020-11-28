@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM und die Bayerische Staatsbibliothek ([BSB München](https://www.bsb-muenchen.de/){:target="_blank"}) kündigen eine größeres Upgrade des RISM Online-Katalogs auf [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"} an.
 
 Vor einem Jahr wurden die [Oberfläche des RISM-Katalogs neu gestaltet und zahlreiche Verbesserungen](http://www.rism.info/de/startseite/newsdetails/article/64/new-version-of-the-rism-online-catalog-1.html){:target="_blank"} vorgenommen. Die heutige Veröffentlichung erfolgt ein Jahr nach diesem wichtigen Upgrade. Der Schwerpunkt der Entwicklung lag auf der Präsentation von den Notendrucken. Seit heute sind die fast 180.000 RISM-Datensätze für Drucke übersichtlicher strukturiert und unterscheiden deutlich zwischen der Publikationseinheit und den exemplarspezifischen Informationen, die für die weltweit existierenden Exemplare einzigartig sind.
@@ -25,6 +24,5 @@ Unsere internationalen Mitarbeiter überarbeiten ständig den Informationsstand 
 Weitere Verbesserungen sind für die nächsten Monate geplant. Wir werden Sie über die Entwicklungen auf dem Laufenden halten.
 
 _Abbildung_: Joseph Haydn, _Die sieben letzten Worte unseres Erlösers am Kreuze_ (Leipzig, 1801), [RISM ID no. 990026684](https://opac.rism.info/search?id=990026684&View=rism){:target="_blank"}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), D-Dl Mus.3356.D.506. [Online verfügbar](http://digital.slub-dresden.de/id477566804){:target="_blank"}.
-
 
 

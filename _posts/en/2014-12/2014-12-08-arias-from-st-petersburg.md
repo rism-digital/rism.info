@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The new CD [_St. Petersburg_ by Cecilia Bartoli](http://ceciliabartolionline.com/st-petersburg/){:target="_blank"} will certainly be a present under many Christmas trees this year.
 
 The Italian singer consulted the archives of the Mariinsky Theater Library in St. Petersburg (RUS-SPtob) for this album. These holdings are not yet cataloged in RISM but many of the arias by Italian and German composers who were employed at the Russian court can be found in other libraries.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die RISM Zentralredaktion wünscht Ihnen und Ihrer Familie ein frohes Weihnachtsfest und ein gutes Neues Jahr.
 
 Wir freuen uns auf die weitere Zusammenarbeit im kommenden Jahr!

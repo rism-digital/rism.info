@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Leipzig'sfirst **Bach Festival** took place in 1908. [Bachfest](http://www.bachfestleipzig.de/en/bachfest){:target="_blank"} has been held annually there since 1999, with a different theme each year. This year, from June 10 to 19, the theme is Secrets of Harmony ([program in PDF](http://www.bachfestleipzig.de/sites/default/files/files/Bachfest2016_Programm.pdf){:target="_blank"}).
 
 Over 100 events will take place at more than 30 venues. New for this year Cantata Day, June 18, which will feature ten cantatas from the 1723/24 annual cycle. In addition, different versions of famous Bach works will be performed: the St. Matthew and St. Mark Passions and the cantata "Ich hatte viel Bekümmernis." To mark the 100th anniversary of the death of Max Reger, many of Reger's works[are on the Bachfest program](http://www.bachfestleipzig.de/en/bach-festival/works-max-reger-2016-bach-festival){:target="_blank"} because of their close connections with the history of Bach reception.

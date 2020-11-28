@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The high point of every summer for RISM is [the annual IAML congress](https://www.iaml.info/congresses/2018-leipzig){:target="_blank"}, which as you may know was in Leipzig this year (you can read [our reflections on the congress](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1691&cHash=91961d9568789b15639bf9fae2afe12c){:target="_blank"}). [One session in particular](http://sched.co/FOsb){:target="_blank"} sponsored by the [IAML Bibliography Section](https://www.iaml.info/bibliography){:target="_blank"} focused on three current bibliographic projects that are sure to be of interest to RISM users. A full report of the session, which this post is partially based on, will soon appear on the Bibliography Section's page.
 
 **"The ‘new’ Köchel catalogue – from the librarian’s perspective"**
@@ -23,8 +22,6 @@ Eva Neumayr ([Internationale Stiftung Mozarteum](https://mozarteum.at/en/bibliot
 **"Boosting the core: revision and expansion of Muzio Clementi's Thematic Catalogue. New evidence"**
 The paper by Luca Sala (Université de Montréal) gave us a taste of the new Clementi thematic catalog that is in progress. Alan Tyson's thematic catalog appeared in 1967 and was a major step forward at the time (it is cited [in RISM over 400 times](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22lit104%22&Language=en){:target="_blank"}). New sources have emerged since then—some in RISM (such as the manuscript in the image above), some not (yet)— and the [Italian National Edition](http://www.muzioclementi.com/critical.php){:target="_blank"} of Muzio Clementi's complete works is currently underway. One of the goals of the new catalog is to list all known sources relevant to the primary and secondary dissemination of a work, many more than Tyson included, and to reflect new knowledge about sources, attributions, and recent scholarship.
 
-
 _Image_: Muzio Clementi, _Sonate a quarte mains pour le Piano Forte_, in the hand of C. F. Kindermann, 1801. Sing-Akademie zu Berlin, Notenarchiv (D-Bsa) SA 4140. [RISM ID no. 469414000](https://opac.rism.info/search?id=469414000&View=rism&Language=en){:target="_blank"}. Staatsbibliothek zu Berlin - PK. [http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000) . [CC 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/de/){:target="_blank"}.
-
 
 

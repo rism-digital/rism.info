@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Sonntag, 16. März 2014, 18 Uhr** , Ev.-Luth. Wartburgkirche
 [Hartmann-Ibach-Straße 108, 60389 **Frankfurt am Main**](https://maps.google.de/maps?q=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&hl=de&ie=UTF8&sll=51.175806,10.454119&sspn=8.281019,23.269043&hnear=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&t=m&z=16){:target="_blank"}
 
@@ -44,6 +43,5 @@ Ein Konzert in Zusammenarbeit mit der Zentralredaktion des Répertoire Internati
 Eintritt frei
 
 Bildnachweis von oben nach unten: Titelseite zu Aldays Grand Symphony, Sharon Carty, Jonathan Ware, Frank Plieninger. Bild zu Alday mit freundlicher Genehmigung des RFMI; Fotos mit freundlicher Genehmigung der Künstler.
-
 
 

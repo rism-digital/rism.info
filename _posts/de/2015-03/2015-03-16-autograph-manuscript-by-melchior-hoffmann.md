@@ -11,9 +11,7 @@ email: julia.neumann@sbb.spk-berlin.de
 author: Julia Neumann
 ---
 
-
 _Der folgende Beitrag stammt von Julia Neumann, Staatsbibliothek zu Berlin:_
-
 
 
 In der Staatsbibliothek zu Berlin konnte kürzlich im Rahmen des DFG-Projekts „KoFIM“ (Kompetenzzentrum Forschung und Information Musik) eine Leopold Hofmann zugewiesene Handschrift als Kompositionsautograph des Bach-Zeitgenossen Melchior Hoffmann identifiziert werden. Das Autograph der Kurzmesse in C-Dur ist anonym überliefert und trug in der Musikabteilung der Berliner Staatsbibliothek zunächst die Signatur „Mus.ms.anon. 747“. Zu Beginn der 1960er Jahre wurde dann offenbar eine irrtümliche Zuweisung des Autographs an den Wiener Mozart-Zeitgenossen Leopold Hofmann vorgenommen, wobei nicht auszuschließen ist, dass bereits damals eine Namensverwechslung mit Melchior Hoffmann vorlag. Jedenfalls erfolgte eine Umsignierung der Quelle auf „Mus.ms.autogr. Hofmann, L. 1 M“ und das Manuskript wurde im Magazin entsprechend umgestellt.

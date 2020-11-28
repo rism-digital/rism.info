@@ -11,7 +11,6 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-
 _We have received the following from Helmut Lauterwasser ([RISM Germany, Munich](http://de.rism.info/en/home.html){:target="_blank"}):_
 
 In 2017, numerous concerts and other events marked the 250th anniversary of Georg Philipp Telemann's death, especially in the places where he lived and worked. In [_CONCERTO_](http://concerto-magazin.de/index.php/aktuelle-ausgabe/items/concerto-das-magazin-fuer-alte-musik-nr-277-januarfebruar-2018.html){:target="_blank"} magazine's first issue of 2018, there is an article about a previously unknown aria from a lost Telemann opera that was discovered in the course of RISM research last year in the Braunschweig City Archive.
@@ -25,7 +24,6 @@ Previously, only two arias in arrangements for voice and harp were known from th
 The complete article describing the discovery includes images of the source and a transcription of the aria in modern notation. See:
 
 Helmut Lauterwasser, "'Mein Herz ist viel zu schwach, Euch zu verlassen.' Eine neu entdeckte Arie von Georg Philipp Telemann," _CONCERTO – Das Magazin für Alte Musik_ no. 277 (January/February 2018): 22-25.
-
 
 _Image_: "Aria del Opera Telemann." Stadtarchiv Braunschweig (D-BSsta), H V: 196 (Sacksche Sammlung) "Jahrhundert XVII"; RISM ID no. [1001015280](https://opac.rism.info/search?id=1001015280&Language=en){:target="_blank"}. Image courtesy of Helmut Lauterwasser.
 

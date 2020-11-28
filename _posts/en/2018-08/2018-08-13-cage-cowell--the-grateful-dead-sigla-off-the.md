@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Most of our readers will be familiar with our RISM Library Sigla, which are basically abbreviations that refer to an institution in a concise way. We try to document the existence of every institution worldwide that holds materials related to music research, and these institutions are assigned a siglum from us. All institutions with sigla can be searched in our Online Directory of RISM Library Sigla: [http://www.rism.info/sigla/](/sigla.html)
 
 By "every institution worldwide," we really mean _every_ institution. We do not require sources to be in the RISM catalog in order for a siglum to be created, and the materials do not necessarily have to be old.

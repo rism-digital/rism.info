@@ -11,7 +11,6 @@ email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
 
-
 _Der nachfolgende Beitrag erreichte uns vom Projekt [Hofmusik in Dresden](https://hofmusik.slub-dresden.de/news/details/single/historische-inventare-online/){:target="_blank"}:_
 
 Seit kurzem stehen [8 historische Inventare](https://hofmusik.slub-dresden.de/themen/hofkirche-koenigliche-privat-musikaliensammlung/historische-kataloge-und-altsignaturen/#c37043) der Dresdner Hofmusik als Digitalisate frei einsehbar im Netz für Forscher und alle Musikinteressierte zur Verfügung.
@@ -23,6 +22,5 @@ Unter den historischen Katalogen befinden sich u. a. drei chronologisch aufeinan
 Sieben der Inventare stammen direkt aus dem Besitz der SLUB Dresden, das achte konnte in Kooperation mit der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz digital zugänglich gemacht werden.
 
 Abbildung: Seite aus dem [Catalogo della Musica di Chiesa](http://digital.slub-dresden.de/id425373169){:target="_blank"}, ca. 1780
-
 
 

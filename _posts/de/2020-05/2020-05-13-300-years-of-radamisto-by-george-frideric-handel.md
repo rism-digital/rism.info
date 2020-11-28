@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am 27. April 1720 erfolgt in Anwesenheit von König George I. die Uraufführung der Oper [_Radamisto_](https://opac.rism.info/search?View=rism&author=H%C3%A4ndel+Georg+Friedrich&q=Radamisto){:target="_blank"}[von Georg Friedrich Händel](https://opac.rism.info/search?View=rism&author=H%C3%A4ndel+Georg+Friedrich&q=Radamisto){:target="_blank"} mit dem Libretto von Nicola Francesco Haym am King's Theatre in London.
 
 _Radamisto_ ist Händels erste Oper für die 1719 gegründete Royal Academy of Music - einem privatwirtschaftlichen Opernunternehmen. Im Mai 1719 erhielt Händel vom Vorstand den Auftrag, sich auf dem Kontinent nach guten Sängern umzusehen. Er bereiste Deutschland und Italien, kehrte erfolgreich zurück und wurde im Herbst zum Orchesterleiter der Royal Academy of Music berufen.
@@ -23,8 +22,6 @@ Die Handlung bezieht sich auf eine tatsächliche antike Begebenheit in Armenien 
 Händels Musik besteht aus einer Ouvertüre im französischen Stil und je nach Fassung knapp 30 Arien, 2–3 Ariosi, 1–2 Duetten, einem Quartett und dem für das Solistenensemble gedachten Schlusschor.
 
 
-
 _Abbildung_: Partiturseite der Arie "Son lievi le catene," Lund, Universitetsbiblioteket (S-L) Engelhart 40, [RISM ID no. 190002687](https://opac.rism.info/search?id=190002687&View=rism){:target="_blank"}. [Online verfügbar](https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:283654){:target="_blank"} (public domain).
-
 
 

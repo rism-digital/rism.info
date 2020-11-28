@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Viele kleinere Institutionen wie Bibliotheken, Archive, Privatbesitzer etc. verfügen nicht über einen eigenen Online-Katalog ihrer Bestände, wollen aber die Einträge ihrer Bestände bei RISM auf der ihrer Website präsentieren. Dazu bietet die Bayerische Staatsbibliothek, München, eine Query-Schnittstelle an, die zuletzt so erweitert wurde, dass nach RISM Bibliothekssigeln gefragt werden kann.
 
 Zum Beispiel: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
@@ -21,7 +20,6 @@ Mit dieser Abfrage bekommt man alle Titel des Musikarchive des Österreichischen
 Der angezeigte Bestand ist immer auf dem jeweils aktuellen Stand des RISM Katalogs, weil die Anfrage bei jedem Anklicken neu aufgebaut wird.
 
 Das[RISM Bibliothekssigel](http://www.rism.info/en/sigla.html){:target="_blank"}finden Sie auf der Website des RISM.
-
 
 
 Weitere Abfragemöglichkeiten können gebildet werden.
@@ -65,7 +63,6 @@ und ergänzen dann:
 **siglum=**   für Bibliothekssigel
 
 
-
 Trunkieren (\*) ist in manchen Fällen möglich. Leerzeichen müssen mit einem Plus (+) gefüllt werden.
 
 Beispiele:
@@ -79,10 +76,8 @@ Alle Quellen aus den Vereinigten Staaten:
 [https://opac.rism.info/search?View=rism&siglum=US\*](https://opac.rism.info/search?View=rism&siglum=US*){:target="_blank"}
 
 
-
 Alle Quellen zu Gustav Mahler in Kanada:
 [https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler
 ](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler)
-
 
 

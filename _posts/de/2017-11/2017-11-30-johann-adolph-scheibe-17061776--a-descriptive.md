@@ -11,7 +11,6 @@ email: ph@kb.dk
 author: Peter Hauge
 ---
 
-
 _Der folgende Beitrag stammt von Peter Hauge ([Königlich Dänische Bibliothek](http://www.kb.dk/en/index.html){:target="_blank"}):_
 
 Erstmals erscheint ein Werkkatalog zu Johann Adolph Scheibe [als Datenbank](http://www.kb.dk/dcm/schw/preface.xq){:target="_blank"}. Scheibe war sehr produktiv, nicht nur als Komponist – von großangelegten Kantaten und Oratorien bis zu Sinfonien, Kammermusik und Gemeindeliedern – sondern auch als Übersetzer literarischer Texte sowie von wissenschaftlichen Studien. Außerdem trat er selbst als Autor in Erscheinung. Obwohl er nur kurze Zeit Hofkapellmeister in Kopenhagen war, blieb er bis zu seinem Tod 1776 in Dänemark. Scheibe nahm an Diskussionen unter den Intellektuellen in Kopenhagen teil, zu denen Schlegel, Klopstock, Gerstenberg, Basedow, Hagedorn, Münter und Cramer zählten. Mit Telemann, Gottsched und C.P.E. Bach - um nur einige zu nennen - stand er im Briefwechsel.

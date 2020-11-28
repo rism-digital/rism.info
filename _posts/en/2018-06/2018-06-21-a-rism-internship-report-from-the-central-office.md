@@ -11,7 +11,6 @@ email: ulrike.schaedel@gmx.net
 author: Ulrike Schädel
 ---
 
-
 _The following is by Ulrike Schädel, who was an intern in the Central Office in the winter/spring of 2018._
 
 I encountered RISM for the first time in the course of musicological research. By chance, I happened to hear about an opportunity to complete a five-week internship at RISM.
@@ -29,8 +28,6 @@ The Central Office is also responsible for public relations and outreach. It is 
 At first, I found it difficult to transition from studying to the working world and fitting in with the demands of an office. Entering data in the RISM database itself required careful work and patience. Over time, I recognized the importance of this activity. It was valuable to me to be able to contribute something to it. Initially, I found the organization of RISM to be strangely institutionalized in contrast to the idealism of the idea. But it creates space for the attentive cultivation of musical culture as historical heritage, naturally networked with scholars in over 35 countries around the world, beyond war and politics.
 
 
-
 _Image_: Georg Philipp Telemann, _Das Blut Jesu Christi_, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F Ms.Ff.Mus 820), RISM ID no. [450003788](https://opac.rism.info/search?id=450003788&Language=en){:target="_blank"}.
-
 
 

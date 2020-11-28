@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Timothy Swan ist vermutlich einer der ersten amerikanischen Komponisten. Geboren am 23. Juli 1758 in der britischen Kolonie Massachuesetts, arbeitete Swan zunächst als Kaufmann und lernte des Handwerk des Hutmachers. Seine musikalische Ausbildung war eher rudimentär (wir wissen von einer dreiwöchigen Gesangsausbildung) und er hatte auch keinerlei Berührung mit den europäischen Traditionen der Komposition oder Stimmführung.
 
 Allerdings war er ständig von britischen Melodien umgeben, sei es durch den Gemeindegesang in der Kirche, wo er sie neben einheimischen Kompositionen aus Neu England hörte, oder in der Kontinentalarmee, wo er als Soldat die Querpfeife erlernte. Möglicherweise konnte er auch die Fiddle spielen. Er probierte seine Kompositionen aus, indem er sie niederschrieb und an seine Freunde verteilte, die sie sangen und ihm einen Eindruck vermittelten, wie sie klangen. So wurden die Handschriften von Swans Kompositionen recht weit verbreitet und so kam es, dass er beim Besuch einer Stadt feststellte, dass seine Musik dort bereits bekannt war, bevor sie im Druck erschienen war.
@@ -33,8 +32,6 @@ Hören Sie eine Aufführung von"Montague" gesungen vomOregon State University Ch
 _Timothy Swan: Psalmody and Secular Songs_
 _The core repertory of early American psalmody_
 
-
 _Abbildung_[American Antiquarian Society](http://www.americanantiquarian.org/Inventories/Portraits/118.htm){:target="_blank"}
-
 
 

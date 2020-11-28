@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Inspired by a blog series at the [National Library of the Netherlands](https://www.kb.nl/blogs/nederlandse-poezie/gedichten-van-a-tot-z-annabel){:target="_blank"}, this year we would like to invite you to accompany us on an alphabetical journey through the rich and varied treasures that await you in the RISM database. Throughout the year, we will present you with something drawn from over 860,000 sources in the database, representing nearly 80,000 people and 13,000 institutions.
 
 We will begin with [Queen Anne of Great Britain (1665-1714)](https://www.royal.uk/anne-r-1702-1714){:target="_blank"}, who died 300 years ago this August. During her reign (1702-1714), Scotland and England were united and the territory became known as Great Britain. A recent [biography of Queen Anne by Anne Somerset](http://books.google.de/books?id=ZsmNffLx1OEC&lpg=PP1&dq=Queen%20Anne%3A%20The%20Politics%20of%20Passion&hl=de&pg=PP1#v=onepage&q&f=false){:target="_blank"} depicts the typical entertainment of the day that the queen would have witnessed: annual birthday balls, ballets, and plays. She enjoyed performances by visiting musicians and George Frideric Handel benefited from a pension of £200 from her as well.
@@ -39,8 +38,6 @@ Below is a performance of the first alto solo from Handel's birthday ode to the 
 <iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/2MuCCbg0k_0" frameborder="0" allowfullscreen></iframe>
 
 
-
 Picture credit: [Photo by Paul Farmer](http://www.geograph.org.uk/photo/1142443){:target="_blank"}. Statue of Queen Anne in London. Statue stands against the north wall of 15 Queen Anne's Gate but was situated on the east side of Queen Anne's Square when first recorded in 1708. © Copyright [Paul Farmer](http://www.geograph.org.uk/profile/32427) and licensed for reuse under this [Creative Commons Licence.](http://creativecommons.org/licenses/by-sa/2.0/)
-
 
 

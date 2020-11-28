@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _We bring you a post today by our colleagues at the [MusiCB3 Blog](https://musicb3.wordpress.com/2016/02/19/the-dating-game/){:target="_blank"} of Cambridge University ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}):_
 
 What? Has MusiCB3 gone mad? TWO [Valentine’s Day](https://musicb3.wordpress.com/2016/02/12/valentines-day-at-musicb3/){:target="_blank"} posts this year? Actually no. This is about a much more important topic – dating printed music.Now, I know this may not sound wildly exciting, but bear with me; trying to work out when exactly a piece of music was actually written down on paper, or published, sometimes needs the nose of a bloodhound, the detective skills of a Sherlock Holmes, and an inbuilt joy of puzzles.

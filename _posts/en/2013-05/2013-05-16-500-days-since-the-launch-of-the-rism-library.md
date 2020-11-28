@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 The RISM library sigla have been used to designate repositories of musical sources since the first publications were issued in the 1960s. The library sigla are made up of a country code followed by a library code. The latter is formed from a combination of abbreviations for the city and the library itself. Originally conceived to save space in publications, today they are recognized as the scholarly standard when it comes to describing sources.
 
 A good 500 days ago—in November 2011—the RISM library sigla database was launched with an initial 7,080 sigla. In the meantime, 205 new libraries, archives, institutions, etc. have been added through monthly updates. Among these are now in countries such as China, Mexico, South Korea, and Venezuela.

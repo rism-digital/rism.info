@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute feiern wir den 400. Geburtstag von Johann Erasmus Kindermann. Der Sohn eines Kammmachers wirkte als Lehrer und Organist an verschiedenen Nürnberger Kirchen, kam aber über Nürnberg nie hinaus. Seine vielen "Bewerbungsmusiken" zeugen von seinem Interesse Nürnberg verlassen zu wollen. So komponierte er groß besetzte (geistliche) Konzerte für den Rat der Stadt [Breslau](https://opac.rism.info/search?id=466000368){:target="_blank"} (das heutige Wrocław und [Kulturhauptstadt Europas 2016](http://www.wroclaw2016.pl/){:target="_blank"}), [Frankfurt am Main](https://opac.rism.info/search?id=450037033){:target="_blank"} und Schwäbisch Hall. Die handschriftlich überlieferten Kompositionen sind kalligraphisch aufwendig gestaltet.
 
 Im RISM Online-Katalog ist Kindermann mit 74 Nachweisen vertreten. Die Anzahl der Musikdrucke und -Handschriften hält sich hier fast die Waage (31 Drucke zu 43 Handschriften). Zahlreiche Kompositionen Kindermanns wurden bereits zu Lebzeiten gedruckt und spiegeln seine Vielfältigkeit wider. Orgelkompositionen, Choralvorspiele für den liturgischen Gebrauch, Sonaten, Tänze und Generalbaßlieder sowie Motetten zeugen von seiner Vielseitigkeit.
@@ -21,7 +20,6 @@ Auch wenn Kindermann seine Heimatstadt nicht dauerhaft verlassen hat, profitiert
 Johann Erasmus Kindermann, „Du sollst lieben Gott, deinen Herren“ vorgetragen vom Windsbacher Knabenchor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qRL6uSjujo" frameborder="0" allowfullscreen></iframe>
-
 
 
 Image: Johann Erasmus Kindermann, Sonata in g-Moll für Violine und bc (S-Uu, Instr. mus. i hs. 5:4, [RISM ID no. 190014254](https://opac.rism.info/search?id=190014254){:target="_blank"}.)

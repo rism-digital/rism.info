@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 Die RISM Zentralredaktion wünscht Ihnen und Ihrer Familie eine schöne Weihnachtszeit und ein gutes Neues Jahr.
 
 
-
 Wir freuen uns auf die weitere Zusammenarbeit in 2015.
-
 
 
 Bildnachweis: NYPL Digital Gallery

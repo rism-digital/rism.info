@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Recently we told you about [current bibliographic projects about Mozart and Clementi](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1709&cHash=27ebcbd4438ffec144c40bf8992626f3){:target="_blank"}, which we learned about during this year's IAML Congress in Leipzig. Today we're sharing information about another resource we heard about in detail, from Sabine Koch (Leipzig University of Applied Sciences): [the Musikverlagswiki (Music Publishers Wiki)](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
 
 We all know how difficult it can be to track down publication dates for historical printed music, which has the pesky habit of sometimes being completely absent. The Musikverlagswiki was launched in 2011 to help fill the need for a resource in dating printed music.
@@ -21,6 +20,5 @@ The wiki is currently only in German. If you have the name of a publisher or pri
 If you have one of those "orphan" prints that doesn't have a title page, you can go to the page **Plattennummern** and look at sample plate numbers for dozens of publishers, even ones without further entries in the wiki, to help identify who the publisher might be. The page **Literatur** lists authentic primary sources and reliable secondary sources.
 
 Since the resource is a wiki, new information can be added, and contributions are in fact encouraged. The page **Musterseiten** can be used to add new pages for either publishers or printers.
-
 
 

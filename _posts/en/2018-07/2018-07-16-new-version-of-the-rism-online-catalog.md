@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM and the [Bavarian State Library](https://www.bsb-muenchen.de/){:target="_blank"} (BSB, Bayerische Staatsbibliothek) announce the release of a new version of the RISM online catalog at [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"}. This release represents the first phase of a development project that will include additional new features in the upcoming months.
 
 Today's release is therefore an initial step that will lead to a complete renewal of the RISM online catalog. Many ideas and suggestions from our users were included, but not all have been integrated yet. Over the course of the next development phases, these will be incorporated and further improvements will be made, such as displaying the records for printed editions (A/I, B/I, and B/II) in a more sophisticated way.

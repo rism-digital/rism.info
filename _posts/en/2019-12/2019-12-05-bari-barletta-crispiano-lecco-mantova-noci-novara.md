@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Records from the following libraries can now be found in RISM:
@@ -30,8 +29,6 @@ The collection from the [Biblioteca del Conservatorio statale di musica Guido Ca
 
 The library is part of the project "In-audita musica," which supports the study and performance of works by women composers from all time periods. In so doing, they are building up a bibliographic and sound archive for women composers, which was recently put on depost at the [Istituto dell’Archivio dell‘Associazione Suonodonne Italia](http://inauditamusica.consno.it/ "external-link-new-window").
 
-
 _Image_: Record for Luigi Rossi, [_Sovra una verde riva_](https://opac.rism.info/search?id=850736349&View=rism), I-MAc [MSS.MUS.113.43](http://id.sbn.it/bid/MSM0141670){:target="_blank"} (there anonymous)
-
 
 

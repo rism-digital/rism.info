@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Dieses Jahr feiern nicht nur unzählige Komponisten ihr rundes Jubiläum, sondern auch Kompositionen. Als erstes denkt man bei Johann Mattheson vielleicht an seine in Hamburg erschienenen Schriften _Der vollkommene Capellmeister_ (1739) oder der _Grundlage einer Ehren-Pforte_ (1740). Doch es sei diesmal ein kleiner Blick auf die zwölf Sonaten geworfen, welche 1720 in Hamburg erschienen. Eigentlich waren die Sonaten bereits 1717 fertiggestellt, doch erschienen sie erst drei Jahre später.
 
 Der RISM-Eintrag wurde bereits überarbeitet und mit Teileinträgen zu jeder Sonate inclusive Musikincipits versehen (RISM A/I: M 1400; MM 1400; [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}). Schauen Sie sich doch auch das Digitalisat des vollständig in Typen gesetzten Druck der Staats- und Universitätsbibliothek Hamburg an.
@@ -25,12 +24,9 @@ Wenn Sie mehr zu den zwölf Sonaten von 1720 erfahren möchten, sei Ihnen beispi
 Wundern Sie sich übrigens nicht, wenn Sie Aufnahmen mit unterschiedlichen Instrumentierungen hören, Mattheson gibt die Wahl des begleitenden Instruments selbst frei. Hier beispielsweise in der Version mit Harpischord und Traversflöte:
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fj_TRHdImhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 _Abbildung_: Titelblatt vov Johann Mattheson _Der brauchbare Virtuoso_, Exemplar in [Staats- und Universitätsbibliothek Hamburg](https://resolver.sub.uni-hamburg.de/kitodo/PPN805164146){:target="_blank"} (CC BY-SA 4.0) [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}.
-
 
 

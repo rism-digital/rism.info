@@ -11,7 +11,6 @@ email: brinzing@mozarteum.at
 author: Armin Brinzing
 ---
 
-
 The Consortium of RISM Working Groups in Austria, which was founded in November 2012, met in Salzburg on June 19 at the International Mozarteum Foundation.
 
 One finds on the [RISM Zentralredaktion's website](/international/working-group-overview.html#c2428) five independent working groups that are currently operating in Austria. There are also several individual projects being carried out that are not listed there. In light of these diverse activities, the consortium would like to offer a forum to exchange ideas and information for anyone in Austria who is interested in cataloging musical sources. Meetings of the consortium will henceforth take place annually.

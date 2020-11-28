@@ -11,7 +11,6 @@ email: ghk@hankeknaus.ch
 author: Gabriella Hanke Knaus
 ---
 
-
 Seit 2010 wird die Musiksammlung des Benediktinerklosters Mariastein reorganisiert. Die Sammlung wurde neu aufgebaut und besteht nun aus den Teilbeständen
 
 -
@@ -41,7 +40,6 @@ Die Erschliessung folgt dem Standard des **RISM** (Musikincipits etc.).
 Der Katalog des Teilbestands Notenbibliothek folgt in derdetaillierten Angabe der Besetzung ebenfalls den RSIM-Standards.
 
 
-
 **Online-Katalog**
 
 [http://www.musiksammlung.ch](http://www.musiksammlung.ch/) (D)
@@ -51,7 +49,5 @@ Der Katalog des Teilbestands Notenbibliothek folgt in derdetaillierten Angabe de
 [http://www.musiccollections.ch](http://www.musiccollections.ch/) (E)
 
 
-
 Die Musiksammlung des Benediktinerklosters ist nach Voranmeldung für Forscher und Interpreten zugänglich: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch)
-
 

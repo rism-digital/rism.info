@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 [The Registry of Research Data Repositories (re3data)](https://www.re3data.org/about){:target="_blank"} is a global registry that covers research data repositories from different academic disciplines. It presents repositories for the permanent storage and access of data sets to researchers, funding bodies, publishers, and scholarly institutions. re3data.org promotes a culture of sharing, increased access, and better visibility of research data.
 
 We are pleased to announce that the RISM dataset has been added to the re3data repository (doi: [http://doi.org/10.17616/R31NJMO6](http://doi.org/10.17616/R31NJMO6){:target="_blank"}). The presence of the RISM data in re3data demonstrates RISM’s commitment to open access data and helps other projects identify RISM as a potential suitable repository for their data.

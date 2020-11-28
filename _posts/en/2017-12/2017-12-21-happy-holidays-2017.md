@@ -14,4 +14,3 @@ The RISM Central Office wishes you and your family all the best for a festive ho
 
 _Image_: Postcard circa 1900 from [Furman University, Special Collections and Archives](http://cdm16821.contentdm.oclc.org/cdm/ref/collection/p16821coll9/id/767){:target="_blank"}.
 
-

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Jean-Philippe Rameau died 250 years ago today. The RISM online catalog has [230 works by him](https://opac.rism.info/search?View=rism&author=Jean+Philippe+Rameau){:target="_blank"} in over 40 libraries. The sources are widely disseminated throughout Europe and the United States and are mostly of Rameau's stage works. There is also one [autograph manuscript](https://opac.rism.info/search?id=402005262&db=251&View=rism){:target="_blank"} among them: sketches to a keyboard suite in A minor that are held today by the University Library in Basel, Switzerland.
 
 Many commemorations took place in the days after Rameau's death in 1764, not only in Paris, where he had lived, but also throughout France: Avignon, Dijon, Marseille, Orléans, and Rouen.
@@ -29,9 +28,7 @@ Additional events and information about this anniversary:
 [The Rameau Project](http://www.music.ox.ac.uk/research/projects/oae-rameau/){:target="_blank"}
 
 
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/1zzbaABSpGQ" frameborder="0" allowfullscreen></iframe>
-
 
 
 Photo source: Bust of Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, France. Sculpture, terracotta, 75 cm. From [Friends of Art](http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau){:target="_blank"}

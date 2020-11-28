@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Der folgende Beitrag erschien in den [University of Cambridge Research News](http://www.cam.ac.uk/research/news/crown-jewels-of-english-lute-music-go-online){:target="_blank"} und wird hier mit freundlicher Genehmigung übernommen._
 
 Partiturabschriften englischer Lautenmusik wurden digitalisiert, um ein wertvolles Erbe für Berufs- und Amateurmusiker auf der ganzen Welt zur Verfügung zu stellen,

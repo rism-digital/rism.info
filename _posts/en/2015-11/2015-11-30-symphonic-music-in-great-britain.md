@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A new book crossed our desks recently:
 
 Jürgen Schaarwächter. _[Two Centuries of British Symphonism from the Beginnings to 1945: A Preliminary Survey](http://www.olms.de/search/Detail.aspx?pr=2008684){:target="_blank"}._ Hildesheim: Georg-Olms-Verlag, 2015. 2 volumes, 1201 p. ISBN: 978-3-487-15227-1

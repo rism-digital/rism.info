@@ -11,7 +11,6 @@ email: ''
 author: Dominique Gatté
 ---
 
-
 _[Diese Ankündigung](http://gregorian-chant.ning.com/group/lesmanuscritsduweb/forum/topics/the-new-database-music-manuscripts-online){:target="_blank"} erhielten wir von Dominique Gatté. Sie wird mit freundlicher Genehmigung wiedergegeben:_
 
 Wir freuen uns mitteilen zu können, dass die neue Datenbank MMMOd (Medieval music manuscripts online database) jetzt online ist.
@@ -23,6 +22,5 @@ Im Juni 2017 veröffentlichte ich eine erste Version mit [Google Fusion Tables](
 Neben der Suche nach [Quelle](http://musmed.eu/sources){:target="_blank"} und [Bibliothek](http://musmed.eu/archives){:target="_blank"} stehen bereits eine Reihe von Suchkriterien zur Verfügung, wie die Suche nach Quellentyp, Jahrhundert und religiöser Verwendung. Einige Suchen werden noch entwickelt, z. B. die Suche nach [Notation](http://musmed.eu/notation){:target="_blank"} und [Repertoire](http://musmed.eu/repertoire){:target="_blank"}.
 
 Zögern Sie nicht, sich für MMMOd zu registrieren, um Ihre Kommentare zu dieser oder jener Quelle zu schreiben ...
-
 
 

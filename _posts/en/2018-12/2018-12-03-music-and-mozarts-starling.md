@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The European Starling (_Sturnus vulgaris_) is wrapping up its final weeks as Bird of the Year here in Germany. The environmental organization NABU hopes to [call attention to the familiar songbird](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/star/index.html){:target="_blank"} and its extremely versatile vocal chords, but unfortunately the species is also facing loss of habitat and declining numbers.
 
 The bird takes center stage in last year's book _Mozart's Starling_ by naturalist [Lyanda Lynn Haupt](https://www.lyandalynnhaupt.com/){:target="_blank"}. As an American author, Haupt has a different perspective than European conservation groups, because where she lives the starling is considered an invasive species and is not necessarily appreciated as the talented mimic whose impressive displays in murmurations numbering hundreds of thousands of individuals count as one of the spectacular sights of nature. Which makes her decision to keep the pest as a pet all the more unusual. But Haupt rears a baby starling in the hopes of understanding the bird's behavior because a famous person had the same pet around 230 years ago: Wolfgang Amadeus Mozart.
@@ -27,6 +26,5 @@ Listen for yourself, and listen to Mozart's other music from this period. Can yo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nx-N9I1eZyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Image_: Last page of _Ein musikalischer Spaß_ in a copy held by the Czech National Library, [RISM ID no. 1001011179](https://opac.rism.info/search?id=1001011179&View=rism&Language=en){:target="_blank"}. [Available online](http://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR __M_I_26______ 2GLXWZ7-cs){:target="_blank"} (CC-BY).
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today is Valentine's Day, and the perfect Valentine for all music lovers is the music of Robert Valentine.
 
 Robert Valentine (1674-1747) was an English composer who spent most of his career in Rome beginning in the 1790s. In his publications, Valentine Italianized his name to "Roberto Valentine" yet also qualified that with "Inglese." Many [Italian manuscripts](https://opac.rism.info/search?id=850003937&Language=en){:target="_blank"} go further, calling him "Sigr Roberto Valentini."
@@ -26,8 +25,6 @@ See:
 Michael Talbot, "Robert Valentine and the Roman Concerto Grosso," _[Ad Parnassum:](http://www.adparnassum.org/issues_contents.php?num=27){:target="_blank"} A Journal of Eighteenth- and Nineteenth-Century Instrumental Music_ 14 (April 2016): 1-36. We are grateful to Prof. Talbot for calling our attention to this article.
 
 
-
 _Image_: Robert Valentine, _Sonate di flauto a solo col basso per il cimbalo o violone_, op. 2, 1st sonata, in F, p. 2. RISM A/I: [V 50](https://opac.rism.info/search?id=00000990065089&Language=en){:target="_blank"}. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90790357){:target="_blank"}, with the help of [PhotoFunny.net](https://www.photofunny.net/out/568380950381200201){:target="_blank"}.
-
 
 

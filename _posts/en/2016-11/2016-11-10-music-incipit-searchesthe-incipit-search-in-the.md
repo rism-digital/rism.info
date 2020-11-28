@@ -11,11 +11,9 @@ email: ''
 author: ''
 ---
 
-
 The incipit search is one of the most popular features of the RISM online catalog. The over 1.7 million incipits (which are the first few bars of a work or movement) lead to new identifications, new discoveries, and rediscoveries.
 
 But just how does the incipit search work? In this post I'll show you what the RISM online catalog offers and then – for the adventurous among us – point to an experimental incipit search run from Utrecht University.
-
 
 
 # The Incipit Search in the Online Catalog
@@ -42,21 +40,17 @@ Underneath the search boxes is a virtual piano keyboard. This can also be used t
 
 The piano keyboard enablesa chromatic search and takes into account exact half steps.
 
-
 -
 
 All enharmonic tones are also searched: the black key for the note **F-sharp** also searches for the note **G-flat** - even when **xF** appears in the search field.
-
 
 -
 
 Here it is also possible to search for incipits using the original notes or you canselect the transposition option.
 
-
 -
 
 You can combine this field with other fields, such as composer or title.
-
 
 
 More incipit search tips:
@@ -65,51 +59,41 @@ More incipit search tips:
 
 Rhythm, intervals, and octaves are ignored
 
-
 -
 
 The search is truncated right, meaning that music incipits are retrieved that are longer than the search string.
-
 
 -
 
 Grace notes and ornaments are searched if you enter them and ignored if you do not.
 
-
 -
 
 Start with a longer incipit and delete notes until you get results of a reasonable size.
-
 
 -
 
 To increase your chances of a match, search using**Music incipit (with transposition)**
 
-
 -
 
 Combine the incipit search with other fields and make use of the search filters
-
 
 -
 
 You can use upper case or lower case letters
 
-
 -
 
 You may enter either an H or a B
-
 
 -
 
 Tied notes do not have to be entered twice
 
-
 -
 
 To search for enharmonic notes or accidentals, use the keyboard
-
 
 
 **And remember:**
@@ -120,7 +104,6 @@ Not every source described in the RISM catalog includes a music incipit. Sometim
 This information can also be found on the [catalog's help page](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"}, and videos are available on [RISM's YouTube channel](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgXFyiXZq5M" frameborder="0" allowfullscreen></iframe>
-
 
 # An Experimental Incipit Search
 

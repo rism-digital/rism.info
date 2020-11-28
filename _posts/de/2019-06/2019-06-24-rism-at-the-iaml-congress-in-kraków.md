@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Es sind nur noch drei Wochen bis zum jährlichen Kongress der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/congresses/2019-krakow){:target="_blank"} (IAML) vom 14. bis 19. Juli 2019. In diesem Jahr werden wir uns im charmanten und historischen Krakau (Polen) an der Jagiellonian Universität treffen.
 
 In diesem Jahr veranstaltet RISM einen zweiteiligen Muscat-Workshop, in dem die Teilnehmer lernen, wie RISM Musikquellen katalogisiert: einen für Anfänger und einen zweiten, der die im ersten Teil erlernten Fähigkeiten fortsetzt. Egal, ob Sie sich nur für Muscat interessieren oder aktiv an RISM mitwirken möchten, Sie sind herzlich eingeladen, an einem oder beiden Workshops teilzunehmen.
@@ -19,6 +18,5 @@ In diesem Jahr veranstaltet RISM einen zweiteiligen Muscat-Workshop, in dem die 
 Außerdem stehen zwei RISM-Sitzungen auf dem Programm, in denen wir über die neuesten RISM-Entwicklungen informieren und Berichte unserer Mitarbeiter und Nutzer in Brasilien, Griechenland, Polen, Portugal, Rumänien, der Slowakei und der Schweiz anhören. Die Sitzung des [Advisory Council](/de/unternehmen/internationale-partner.html) bietet RISM-Mitarbeitern die Möglichkeit, sich persönlich zu treffen und über ihre Arbeit zu sprechen. Die [Commission Mixte](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html)-Sitzung ist eine geschlossene Sitzung, an der nur Mitglieder der Commission Mixte teilnehmen.
 
 Weitere Informationen zu den Workshops und den anderen RISM-Aktivitäten im Programm finden Sie auf unserer [Krakauer Kongressseite](/de/publikationen/iaml-konferenzen/2019.html). Folien werden dort nach dem Kongress veröffentlicht.
-
 
 

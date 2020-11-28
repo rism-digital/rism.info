@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 On 27 April 1720, in the presence of King George I, the opera [_Radamisto_ by George Frideric Handel](https://opac.rism.info/search?View=rism&author=H%C3%A4ndel+Georg+Friedrich&q=Radamisto){:target="_blank"} with a libretto by Nicola Francesco Haym received its premiere at the King's Theatre in London.
 
 _Radamisto_ was Handel’s first opera for the Royal Academy of Music, a private opera company that was founded in 1719. In May 1719, Handel was asked by the Academy's directors to look for good singers on the Continent. He traveled to Germany and Italy, found what he needed, and became the Academy's orchestra director that fall.
@@ -23,8 +22,6 @@ The plot draws on actual incidents from ancient Armenia and Thrace, events that 
 Handel’s music consists of an overture in the French style and, depending on the version, around 30 arias, two or three ariosos, one or two duets, a quartet, and the closing chorus for the soloists.
 
 
-
 _Image_: Page from a score of the aria "Son lievi le catene," Lund, Universitetsbiblioteket (S-L) Engelhart 40, [RISM ID no. 190002687](https://opac.rism.info/search?id=190002687&View=rism&Language=en){:target="_blank"}. [Available online](https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:283654){:target="_blank"} (public domain).
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Mit diesen Weihnachtsgrüßen möchten wir uns für die freundliche Zusammenarbeit bedanken und wünschen Ihnen ein fruchtbares und erfolgreiches neues Jahr.**
 
 RISM-Zentralredaktion

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute setzen wir unsere russische Woche (siehe auch den Post vom Montag zu [John Field in St. Petersburg](/self_representation/2017/09/11/john-fields-piano-nocturnes.html){:target="_blank"}) mit Buchstabe O der Reihe RISM-Abc fort und berichten über eine große Persönlichkeit des russischen Musik- und Kulturlebens im 19. Jahrhundert.
 
 Schriftsteller, Philosoph, Komponist, Kopist, Musikkritiker, Organologe, Lexikograph, Museumsdirektor, Bibliotheksvizedirektor und vieles mehr war Fürst Vladimir Fëdorovič Odoevskij (1803-1869), ein Vertreter der Russischen Romantik mit großem Einfluss auf die russische Kultur. Als Schriftsteller galt er als der „russische Hoffmann“. Er verfasste neben Kinderliteratur phantastische utopistische Novellen, Poweste, in denen z. B. Johann Sebastian Bach und Ludwig van Beethoven im Mittelpunkt standen, satirisch-ironische Erzählungen etc.
@@ -23,7 +22,6 @@ Er gilt bei all seinen Aktivitäten als der Gründer der russischen Musikwissens
 Insgesamt finden sich dort 179 Werke, die Odoevskij zugewiesen sind. Aus seiner Notensammlung, die in RUS-Mcm unter der Fondnummer Ф.73 geführt wird, hat das RISM bis dato [440 Einträge](https://opac.rism.info/search?View=rism&q=Odoevskij){:target="_blank"} dokumentiert.
 
 Als Literaturnachweis dient der Eintrag zur Person Odoevskijs in der [russischen Wikipedia](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87){:target="_blank"}.
-
 
 _Abbildung_: Porträt Odoevskijs aus den 1840ern. Der Künstler war Kirill Gorbunov. Via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/7b/Odoevsky_vladimir.jpg){:target="_blank"}.
 

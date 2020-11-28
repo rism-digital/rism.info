@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We were saddened to hear of the death of our dear colleague Prof. Dr. Hab. Danuta Szlagwoska, who passed away on 13 March 2018.
 
 Prof. Szlagwoska had been a member of the RISM Poland working group in Gdańsk since 1997. Through her extensive documentation work there, she contributed immensely to the success of RISM in Poland.

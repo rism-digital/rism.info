@@ -11,7 +11,6 @@ email: musikarchiv@stiftwilhering.at
 author: Ikarus Kaiser
 ---
 
-
 _Der folgende Beitrag stammt von unserem Kollegen Ikarus Kaiser von RISM Österreich:_
 
 Kürzlich wurde eine neue Musik-Editionsreihe mit dem Titel "Geistliche Musik im Stift Wilhering" gegründet. Ihr Schwerpunkt liegt auf der reichhaltigen Musiktradition der oberösterreichischen Zisterzienserabtei Wilhering und deren Musikarchiv. Ikarus Kaiser, Stiftsorganist seit 2001 und Musikarchivar seit 2010 zeichnet für die RISM-Dokumentation dieser reichhaltigen Musiksammlung mit über 4000 Musikhandschriften und Musikdrucken verantwortlich.
@@ -32,6 +31,5 @@ ISMN 979-0-000-00190-9
 ISBN 978-3-903040-13-7
 
 Weitere Informationen finden Sie auf den Websiten vom [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"}, der [Abtei Wilhering](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} und [Musiksammlung der Abtei Wilhering](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
-
 
 

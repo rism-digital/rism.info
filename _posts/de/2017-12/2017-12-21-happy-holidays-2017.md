@@ -14,4 +14,3 @@ Die RISM Zentralredaktion wünscht Ihnen und Ihrer Familie ein besinnliches Weih
 
 _Abbildung:_ Postkarte ca. 1900 aus der [Furman University, Special Collections and Archives](http://cdm16821.contentdm.oclc.org/cdm/ref/collection/p16821coll9/id/767){:target="_blank"}.
 
-

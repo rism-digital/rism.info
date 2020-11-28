@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Dem Abt der Abtei St. Bonifaz in München; Hw. Herr Abt Johannes Eckert, konnte am 20.Januar 2012 ein Katalog der Musikhandschriften seiner Stiftsbibliothek als Handexemplar überreicht werden. Damit wurde der Abschluss der Aufnahme der Handschriften durch Dr. Gottfried Heinz-Kronberger von der Deutschen Arbeitsgruppe des RISM besiegelt.
 
 Alle Bibliotheken, die ihre Musikhandschriften von RISM erfassen lassen oder selbst mit dem Erfassungsprogramm des RISM erfassen, können kostenlos solche Handkataloge zum eigenen Gebrauch erhalten. Natürlich fließen die Daten aber auch unmittelbar in den Online-Katalog des RISM ein.

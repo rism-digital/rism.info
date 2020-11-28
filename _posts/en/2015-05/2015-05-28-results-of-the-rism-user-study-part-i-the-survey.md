@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We are currently going through the results of the first-ever RISM user study about the online catalog.An online survey with 62 questions was available from 30 October 2014 until 28 February 2015. Our goal is to get to know our users better (such as where they are from, what kind of experience they have with RISM, and how they use RISM) and find out how they use the online catalog (both available for free from [www.rism.info](http://www.rism.info) and [opac.rism.info](http://opac.rism.info)).
 
 We are very pleased to report that 551 people filled out the survey (342 in English and 209 in German). We'd like to thank every participant for sharing their opinions and comments with us!

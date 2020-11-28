@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 It is not surprising that music bibliographers find it difficult enough to distinguish between composers with common names, but that this also happens with somewhat rarer names is something we are going to illustrate today using an example from the [RISM A/I series](/publications.html#c36) (works by a single composer printed to 1800).
 
 RISM A/I number T 1262 ([RISM ID no. 992002574](https://opac.rism.info/search?id=00000992002574&Language=en){:target="_blank"}) is a volume of twelve three-part canons by the composer and doctor [Wenzel Trnka von Krzowitz](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30004766%22&Language=en){:target="_blank"} (1739-1791). This man is not unknown to musicology because he created, among other things, the musical model for Mozart's notorious canon KV 233 (382d) (see Wolfgang Plath's essay on the subject, cited in RISM as [PlathT 1991](https://opac.rism.info/search?id=lit41000475&Language=en){:target="_blank"}, or Trnka's article on [Wikipedia](https://en.wikipedia.org/wiki/Wenzel_Trnka){:target="_blank"}). In the supplement volume to A/I, another twelve four-voice canons (TT 1262a; [RISM ID no. 991004429](https://opac.rism.info/search?id=00000991004429&Language=en){:target="_blank"}) are by the same Trnka.
@@ -102,7 +101,6 @@ Cappi & Diabelli (PN 1189)
 1823
 
 
-
 WZ: 26.2.1824
 
 |
@@ -123,7 +121,6 @@ Grande Polonaise, pf
 Diabelli
 
 |
-
 
 
 |
@@ -360,7 +357,6 @@ WZ: 7.2.1835
 |
 
 
-
 |
 |
 
@@ -369,17 +365,13 @@ WZ: 7.2.1835
 |
 
 
+|
+
 
 |
 
 
-
 |
-
-
-
-|
-
 
 
 |
@@ -394,13 +386,10 @@ WZ: 7.2.1835
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -562,7 +551,6 @@ WeinmannS 1972 | D-Dl
 |
 
 ?
-
 
 
 Bei Haslinger z.h.
@@ -861,13 +849,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -882,13 +867,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -924,13 +906,10 @@ MGG1 | WeinmannM 1964 (A-Wgm)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -1029,13 +1008,10 @@ WeinmannS 1972 | A-Wn
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |

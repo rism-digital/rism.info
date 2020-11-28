@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Tommaso Banchieri (1568-1624) kennen wir heute unter dem Vornamen Adriano, den er 1589 bei Eintritt in den Benediktinerorden - genauer gesagt in den Olivetanerorden - annahm. Er zeichnete auch unter den Pseudonymen Attabalibba dal Perù, Camillo Scaligeri della Fratta und il Dissonante.
 
 Banchieri war als Organist und Komponist in Bosco (in der Nähe von Bologna), Siena, Venedig und Verona tätig. Seine musiktheoretischen Schriften spiegeln die Erfahrungen als praktischer Musiker wider. Banchieri war maßgeblich an der Gründung der Accademia die Floridi beteiligt und trug den Namen „Il Dissonante“ in deren Nachfolgeorganisation Accademia dei Filomusici.
@@ -21,6 +20,5 @@ Ab 1596 erschienen seine ersten Musikdrucke. Banchieri gilt als einer der wichti
 Die [239 Nachweise im RISM-Katalog](https://opac.rism.info/search?View=rism&author=Banchieri+Adriano){:target="_blank"} zeigen die heutige Verteilung der Musikquellen, die sich überwiegend auf italienische und deutsche Bibliotheken beschränkt. Für 13 Musikdrucke steht bereits eine digitalisierte Version zur Einsicht bereit.
 
 _Abbildung_: Titelseite von _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; RISM ID no. [990003769](https://opac.rism.info/search?id=00000990003769&View=rism){:target="_blank"}).
-
 
 

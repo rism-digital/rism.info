@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Before we get too far into 2019, let's take a look at our most popular stories on our blog that we published in 2018. In case you missed some of these discoveries and developments in the world of musical sources, here's your chance to catch up!
 
 1. [Musical Anniversaries in 2018](/self_representation/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
@@ -35,9 +34,7 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 10. [RISM—500 Years Ago](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
-
 But in 2018—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
-
 
 
 **Social media highlights:**
@@ -55,9 +52,7 @@ But in 2018—as in years past—the post more often read than any other story, 
 - [Time-lapse Video of a Digital Reconstruction of a Tudor Music Manuscript](https://youtu.be/yQ5bfI9BR7E){:target="_blank"}
 
 
-
 We would like to thank our readers and supporters throughout the year for your contributions, opinions, tips, hard work, and discoveries!
-
 
 
 _Image_: Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-47c3-a3d9-e040-e00a18064a99){:target="_blank"}.

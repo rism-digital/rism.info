@@ -11,7 +11,6 @@ email: ulrike.schaedel@gmx.net
 author: Ulrike Schädel
 ---
 
-
 _D__er folgende Beitrag stammt von Ulrike Schädel, die im Wintersemester 2017/18 ein Praktikum in der Zentralredaktion machte._
 
 Der Begriff RISM ist mir bei musikwissenschaftlichen Recherchen erstmals begegnet. Ein Zufall bot dann die Möglichkeit, ein fünfwöchiges Praktikum bei RISM zu absolvieren.
@@ -29,8 +28,6 @@ Die Zentralredaktion ist auch viel mit Öffentlichkeitsarbeit beschäftigt. Es g
 Zunächst fiel mir die Umstellung vom Studium in die Arbeitswelt schwer: Die Einordnung in die Arbeitserfordernisse im Büro. Die Eingabe in die RISM-Datenbank selbst verlangte sorgfältige Arbeit und ruhige Geduld. Mit der Zeit erkannte ich die Tragweite dieser Tätigkeit. Es war mir kostbar, dazu etwas beizutragen. Die Organisation von RISM, erschien mir im Gegensatz zu dem Idealismus der Idee zunächst befremdlich institutionalisiert. Doch sie schafft den Raum für die achtsame Pflege von Musikkultur als historisches Erbe, ganz selbstverständlich vernetzt mit Wissenschaftlern 35 weiteren Ländern rund um die Welt, jenseits von Krieg und Politik.
 
 
-
 _Abbildung_: Georg Philipp Telemann, _Das Blut Jesu Christi_, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F Ms.Ff.Mus 820), RISM ID no. [450003788](https://opac.rism.info/search?id=450003788){:target="_blank"}.
-
 
 

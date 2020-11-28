@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 "RISM owes a great debt of gratitude to Herr Dorfmüller for his long-time service as a member of the Commission Mixte and as chair of his Advisory Research Committee." So wrote the then-president of the Association Internationales Quellenlexikon der Musik e.V., Harald Heckmann, in 1998.
 
 The Advisory Research Committee, under Dorfmüller's leadership beginning in 1973, was concerned with planning and carrying out the project A/II: Music Manuscripts after 1600, for which the cataloging standards had to be determined. Dorfmüller was probably asked to join the Association during this time. In the Association's register, he is listed as a co-opted board member beginning in 1988. He was likely named to the Board of Directors three years previously, as the minutes from the Membership Meeting on 13 February 1988 suggest, after which he was again co-opted into the Board.
@@ -41,6 +40,5 @@ Catherine Massip (France): "La nouvelle de la disparition de Kurt Dormüller m'a
 José Vicente González Valle (Spain): "Es tut mir sehr Leid vom Tod des guten Freundes Dr. Dorfmüller zu hören. Der liebe Gott sei mit ihm, dem guten Musikwissenschaftler und Menschen, der mild und gütig war."
 
 _Photograph by Juan Martin Koch._
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 "Das ist ein gewaltiges Weib – in der Kunst mein Ideal!" urteilte Clara Schumann über die bedeutendste deutsche Sängerdarstellerin des 19. Jahrhunderts [Wilhelmine Schröder-Devrient](https://opac.rism.info/search?View=rism&q=Schr%C3%B6der+Devrient+Wilhelmine&Language=en){:target="_blank"} (geboren 6. Dezember 1804 in Hamburg, gestorben 26. Januar 1860 in Coburg).
 
 Der Tochter eines Künstlerehepaars war die Karriere als Sängerin und Schauspielerin quasi vorbestimmt. Wilhelmine stand schon als Kind auf der Bühne und wechselte mit 15 Jahren vom Ballett zum Schauspiel. Am Wiener Burgtheater debütierte sie als Schauspielerin (als Aricia in Friedrich von Schillers _Phädra_) und studierte dann Gesang. 1822 übernahm sie die Titelrolle in Ludwig van Beethovens _Fidelio_. Clara Schumann wohnte 1839 einer solchen Aufführung bei und fällt o.g. Aussage. Die beiden Frauen verband daraufhin eine lebenslange Freundschaft.
@@ -22,8 +21,6 @@ Gastspiele führten die Sängerin während ihrer Dresdner Zeit nach Paris (1830,
 
 Als Konzertsängerin trat Wilhelmine Schröder-Devrient 1856 wieder mit Liedern von Franz Schubert, Beethoven und Felix Mendelssohn Bartholdy auf. 1859 nahm sie endgültig Abschied von der Bühne und starb am 26. Januar 1860 in Coburg.
 
-
 _Abbildung_: Madame Schröder als Adriano in Richard Wagners _Rienzi_, aus: Johann Jacob Weber (Hrsg.), 1803–1880 - _Illustrirte Zeitung_ no. 7, 12. August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (gemeinfrei).
-
 
 

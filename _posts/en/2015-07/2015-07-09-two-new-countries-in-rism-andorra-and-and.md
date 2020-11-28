@@ -11,9 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-
 The [siglum database](http://www.rism.info/en/sigla.html){:target="_blank"} continues to grow! Thanks to requests made by researchers, we have added two new countries: Andorra and Indonesia.
-
 
 
 - AND-AVan: [Arxiu Nacional d’Andorra](http://www.cultura.ad/arxiu-nacional-andorra){:target="_blank"}, Andorra la Vella, Andorra

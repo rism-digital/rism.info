@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The [Dutch Song Database](http://www.liederenbank.nl/){:target="_blank"} is a resource for song texts in Dutch, Flemish, and Frisian from the Middle Ages through the twentieth century. The database, which was launched last year, contains descriptions for over 170,000 songs. Links to song text transcriptions, notated music, and sound recordings are included if available. Songs in languages such as French, German, and Latin are included if they were sung in the Netherlands.
 
 Searching is available in Dutch and English. [Search tips](http://www.liederenbank.nl/index.php?actie=zoekstrategie&lan=en){:target="_blank"} are available. Links in the records take you to pieces with similar stanza form, melody, and text.
@@ -20,8 +19,6 @@ Different [collections and repertoires of songs](http://www.liederenbank.nl/inde
 
 You also don't want to miss the [murder ballads](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=moordlied+lbl&submit=zoek&enof=EN-zoeken&zoekop=allewoordenlied&sorteer=jaar&lan=en){:target="_blank"}, [drinking songs](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=drinklied&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=jaar&lan=en){:target="_blank"}, and [songs about dogs](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=hond&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=beginregel&lan=en){:target="_blank"}.
 
-
 _Image_: Cover of _Een schoon liedekens_, also known as the Antwerps Liedboek (source: AntwLb1544). Scan contributed by the [Digitale Bibliotheek voor de Nederlandse Letteren](http://www.dbnl.org/tekst/_ant001antw01_01/){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Eine erweiterte Version der Einträge aus der Serie B/I bis 1550 wurde 2015 in den RISM [Online-Katalog](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} eingespielt. Dank der Unterstützung durch den Kulturfonds der_ _[VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"} (Kassel) erfolgt seit April dieses Jahres_ _eine Überarbeitung der Einträge durch unseren studentischen Mitarbeiter Martin Bierwisch. Im Folgenden ein kurzer Bericht seiner Eindrücke und Erfahrungen:_
 
 Über 550 Collection-Einträge aus der B/I-Reihe verzeichnet der [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} zurzeit und das sind bis auf wenige Ausnahmen nur die bis 1550. Weitere 2.200 Titel, also die restlichen Einträge des B/I-Bandes bis 1700, sind in Vorbereitung. Diese sollen auch noch eingespielt und überarbeitet werden.

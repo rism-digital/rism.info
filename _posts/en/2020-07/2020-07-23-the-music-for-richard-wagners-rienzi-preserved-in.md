@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 This weekend was supposed to see the opening of the Wagner Festival in Bayreuth. Instead, [a full, alternative program](https://www.bayreuther-festspiele.de/en/festspiele/news/2020/virtual-festival-season-and-the-cultural-summer-live-on-site/){:target="_blank"} is planned.
 
 We'll take this opportunity to take a look at the music preserved for Richard Wagner's _Rienzi_, which was used in Dresden over a long period of time. The music material is held in two groups in the music archive of the Saxon State Opera (D-Ds): [instrumental/vocal parts](https://opac.rism.info/search?id=270000984&View=rism){:target="_blank"} and the [stage music](https://opac.rism.info/search?id=270002738&View=rism){:target="_blank"}.
@@ -23,6 +22,5 @@ The parts contain numerous performance markings, including from the premiere on 
 Of course, parts that were used over the course of such a long period of time reveal much about the performance practice of the 19th and 20th centuries in the form of numerous handwritten entries, cuts, pasteovers, performance notes, and even [a taped-in newspaper article](https://sachsen.digital/werkansicht/dlf/361862/314/){:target="_blank"}. The detailed descriptions in the RISM catalog adds information about the singers and conductors when they are mentioned in the music.
 
 _Image_ : Richard Wagner: Rienzi. Excerpt from the finale of Act I (bassoon 1) with cuts and pasteovers (Dresden, [Sächsische Staatsoper, Notenarchiv](https://sachsen.digital/werkansicht/dlf/361862/664/){:target="_blank"}; D-Ds).
-
 
 

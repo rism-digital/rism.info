@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The week concludes with another close look at the comments you made in the [recent RISM survey](/community/survey-2014-2015.html).
 
 **"I just wish some very important institutions like A-Wgm [Vienna, Gesellschaft der Musikfreunde] were also listed." - Respondent 135**

@@ -11,7 +11,6 @@ email: lguillo223@orange.fr
 author: Laurent Guillo
 ---
 
-
 _The following is a guest post by Laurent Guillo:_
 
 In November 2016, a volume gathering 26 music prints published by the Ballard workshop in Paris between 1587 and 1626 was discovered in the early books collection of the [Bibliothèque de Fels](http://www.icp.fr/){:target="_blank"} (Institut catholique de Paris; RISM siglum: F-Pic). At the beginning are 14 polyphonic masses by Orlando di Lasso, printed between 1587 and 1617, including five previously unknown editions (Missa _Ad placitum_ 4v and _Dic Domina_ 5v of 1607, Missa _Jager_ 4v and _Domine Dominus noster_ 6v of 1613, Missa _Quinti toni_ 4v of 1617). Nearly all of these 14 copies are unique in France (others are only found in London and Cologne).
@@ -22,8 +21,6 @@ This volume probably reflects what was sung in French churches of this time: a m
 
 Bibliographical details can be found in: Laurent Guillo, “Découverte à la bibliothèque de Fels (Institut catholique de Paris)d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626),” [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102/2 (2016), p. 379-394.
 
-
 _Image_ : Jehan Titelouze, _Missa Simpli corde_ 6v. Paris: Pierre I Ballard, 1626. Paris, Institut Catholique: b.258(24).
-
 
 

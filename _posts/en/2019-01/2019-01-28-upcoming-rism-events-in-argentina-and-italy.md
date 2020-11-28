@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Thanks to the efforts of our colleagues in other countries, two events will enable the close study of musical sources: a workshop and an internship.
 
 [**Muscat Workshop**](/community/muscat.html#c3432)
@@ -19,7 +18,6 @@ Thanks to the efforts of our colleagues in other countries, two events will enab
 March 25-29, 2019**
 
 This workshop is being hosted by Leonardo Waisman and the Grupo de Musicología Histórica Córdoba with the Secretaría de Investigación y Producción de la Facultad de Artes, UNC. The workshop is directed at musicians, musicologists, librarians, and archivists. This workshop will also support the new RISM project in Córdoba that is focusing on sources in the Archivo Histórico Convento San Jorge ([RA-Ccsj](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22ks51001614%22&Language=en){:target="_blank"}) and the library of the Universidad Nacional de Córdoba, Facultad de Filosofía y Humanidades, Biblioteca "Elma Kohlmeyer de Estrabou" ([RA-Cff](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22ks51000008%22&Language=en){:target="_blank"}). Information in Spanish [is available here](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/){:target="_blank"}.
-
 
 **Internship: Musicology: Past and Present
 I Tatti, Harvard University, Florence, Italy

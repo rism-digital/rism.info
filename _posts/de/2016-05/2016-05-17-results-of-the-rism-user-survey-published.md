@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Wir freuen uns, Ihnen die ausführlichen Ergebnisse der RISM-Nutzerumfrage auf der RISM Website präsentieren zu können:
 
 [Die RISM-Nutzerumfrage: Auswertung](/de/community/rism-nutzerstudie.html#c3127) (Mai 2016; auch in Englisch verfügbar)
@@ -25,7 +24,5 @@ Wir haben viel über Sie – liebe Katalogbenutzer und Katalogbenutzerinnen – 
 Wir bedanken uns bei allen, die sich die Zeit genommen haben, um den Fragebogen auszufüllen. Wenn Sie Fragen oder Kommentare zur Umfrage oder RISM haben, zögern Sie nicht und [kontaktieren](mailto:contact@rism.info) Sie uns.
 
 
-
 _Abbildung: Recueil d'Airs sérieux et à boire de différents auteurs_, bei Christophe Ballard (in Paris), 1713, S.20. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}. RISM B/II: p.313.
-
 

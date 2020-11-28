@@ -11,7 +11,6 @@ email: ''
 author: Kristina Krämer
 ---
 
-
 Durch einen glücklichen Zufall ließ sich vor einiger Zeit der bislang unbekannte „Musikus Ludwig“, der zu Beginn des 19. Jahrhunderts in Frankfurt am Main eigens angefertigte Abschriften italienischer und deutscher Vokalmusik vertrieb, identifizieren. Ausgehend von einer Anzeige im Intelligenzblatt der _Allgemeinen musikalischen Zeitung_ war es mithilfe der Frankfurter Kirchenbücher und verschiedener Theater-Almanache möglich, herauszufinden, dass es sich um Johann Wilhelm Ludwig (1765–1838), Kontrabassist im Frankfurter Theaterorchester, handeln musste.
 
 Ludwig schaltete im Januar 1805 eine Anzeige in der AmZ, in der er seine Dienste als Kopist anbot (siehe Abbildung). Dadurch, dass Ludwig auf seinen Abschriften stets Vermerke wie „Se trouve a Francfort s/m chez le Musicien Ludwig“ anbrachte, konnten unter den bei RISM verzeichneten Handschriften [über 50 Einträge](https://opac.rism.info/metaopac/perma.do;jsessionid=DD73EF53B1C23D16CD921E798BD6369E.touch01?v=rism&q=-1%3d%22pe41023353%22){:target="_blank"} eindeutig zugeordnet werden.
@@ -21,8 +20,6 @@ Ein Beispiel für eine seiner Abschriften ist [RISM ID no. 450012930](https://op
 Zur Biographie Johann Wilhelm Ludwigs siehe den Artikel in [_Musik und Musiker am Mittelrhein 2_](http://mmm2.mugemir.de/doku.php?id=ludwigjw){:target="_blank"}.
 
 
-
 _Abbildung_: _Intelligenzblatt_ Nr. 5, [AmZ 16. Januar 1805](http://anno.onb.ac.at/cgi-content/anno?aid=aml&datum=18050116&seite=9){:target="_blank"}.
-
 
 

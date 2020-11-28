@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _The following post is by Ulrike Schädel, our intern for winter 2018:_
 
 This Sunday, 25 March 2018, marks the 100th anniversary of Claude Debussy's death. He was born in a little French village in 1862 and died at the age of 56 in 1918 in Paris. The [RISM database](https://opac.rism.info/search?View=rism&author=debussy&Language=en){:target="_blank"} reveals Debussy's innermost dark side during his final years. In this case Debussy's opera _La chute de la maison Usher_ gives an indication of this, as seen in [six sketches of an autograph score](https://opac.rism.info/search?id=806250140&Language=en){:target="_blank"} kept in the British Library in London.
@@ -32,6 +31,5 @@ Kabisch, Thomas. “Debussy, Claude.” In _Die Musik in Geschichte und Gegenwar
 Orledge, Robert. “Debussy’s House of Usher Revisited.” _The Musical Quarterly_ 65, no. 4 (1976): 536-553.
 
 _Image_: "The House of Usher" by Ciaran Laval, from [Flickr](https://www.flickr.com/photos/ciaran_laval/19019843280/){:target="_blank"} ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/){:target="_blank"}).
-
 
 

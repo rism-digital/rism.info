@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Gestern feierten wir den 200. Geburtstag des französischen Komponisten, Kapellmeisters und Organisten Charles Gounod (17. Juni 1818 – 18 Oktober 1893).
 
 Gounod ist uns heute insbesondere als Opernkomponist (_Faust_ (1859) und _Roméo et Juliette_ (1867)) bekannt. Dies wird allerdings seinem umfangreichen_,_ alle Gattungen berücksichtigenden Œuvre nicht gerecht.
@@ -25,6 +24,5 @@ Sehr bekannt ist auch Gounods [Méditation sur le 1er prélude de Bach](https://
 Charles Gounod komponierte 12 Opern, Schauspielmusiken, Oratorien, Kantaten, etwa 15 Messen (incl. Requiem), Orchesterwerke, Kammermusik sowie zahlreiche weitere Chorwerke, Klavierlieder, Klavier- und andere Instrumentalstücke, von denen sich viele im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=Gounod+Charles-Francois){:target="_blank"} wiederfinden. Der Suchfilter **Schlagwort** listet die verschiedenen Gattungen auf und hilft beim Eingrenzen der 180 Nachweise zu Charles Gounod.
 
 _Abbildung_: _Roméo et Juliette. Deux scènes_ von Charles Gounod, autographes Manuskript, S. 160c. Juilliard Library (US-NYj), RISM ID no. [900004919](https://opac.rism.info/search?id=900004919){:target="_blank"}. From the [Juilliard Manuscript Collection](http://juilliardmanuscriptcollection.org/manuscript/romeo-et-juliette/){:target="_blank"}.
-
 
 

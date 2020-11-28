@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 Am 8. März 2017 haben wir eine Liste mit 800 Komponistinnen [veröffentlicht](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"}, die bei RISM mit Quellennachweisen vertreten sind. Wir freuen uns, dass wir die Liste inzwischen um acht weitere Namen erweitern konnten. Einige dieser Einträge waren schon zuvor in der RISM-Datenbank vorhanden, die Komponistinnen waren allerdings noch nicht auf der Liste, da sie bislang noch nicht bearbeitet wurden und daher nicht suchbar waren. Die vervollständigte Liste können Sie über [diesen Link](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"} abrufen.
-
 
 Leider gibt es nur wenige biographische Angaben zu den Komponistinnen. Wenn Sie uns auf irgendwelche Details hinweisen können, lassen Sie es uns wissen!
 
@@ -54,8 +52,6 @@ _Rondeau brillant pour le piano-forte_
 Printed Wien, Pietro Mechetti qdm. Carlo. RISM A/I: [ZZ 223 I,1](https://opac.rism.info/search?id=00000991007438){:target="_blank"}
 
 
-
 _Abbildung_: Comtesse de Vidampierre, "L'heureuse securité" in _Mercure de France_, Juli 1771, S. 80. Via [Bayerische Staatsbibliothek](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10407393-8){:target="_blank"}. RISM A/I: [V 1456](https://opac.rism.info/search?id=00000990066466){:target="_blank"}
-
 
 

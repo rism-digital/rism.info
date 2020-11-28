@@ -11,7 +11,6 @@ email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
 
-
 _Ann Kersting-Meuleman ([Universitätsbibliothek Frankfurt am Main](http://www.ub.uni-frankfurt.de/musik/){:target="_blank"}) has written this post in honor of the 150th birthday today of Friedrich Nicolas Manskopf:_
 
 Jakob Friedrich Nicolas Manskopf (25 April 1869–2 July 1928) was a wine merchant by trade in Frankfurt but was best known for the museum of music and theater history that he founded and operated.
@@ -43,7 +42,6 @@ Jakob Friedrich Nicolas Manskopf, _Das musikhistorische Museum von Nicolas Mansk
 Georg Otto Kahse: "Das musikhistorische Museum von Nicolas Manskopf zu Frankfurt am Main," _Musikalische Rundschau_ (Düsseldorf): vol. 1/4 (1913): [23]-29
 
 [Exhibition booklet from 1978](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/25266){:target="_blank"}
-
 
 _Images_:
 

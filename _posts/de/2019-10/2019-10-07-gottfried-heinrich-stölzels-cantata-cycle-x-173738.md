@@ -11,7 +11,6 @@ email: christian.ahrens@me.com
 author: Christian Ahrens
 ---
 
-
 _Wir_ _haben den folgenden Beitrag von Christian Ahrens (Berlin) erhalten:_
 
 **Bemerkungen zu den Kantaten des Jahrgangs X (1737/38) von Gottfried Heinrich Stölzel in der Sammelhandschrift Mus.ms 40370 der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz**
@@ -31,8 +30,6 @@ Eine wichtige Quelle für den Kantatenjahrgang X ist die [Handschrift Am.B 568](
 Eingangschöre von Kantaten des Stölzelschen Jahrgangs X finden sich in einer weiteren Sammelhandschrift der Staatsbibliothek Berlin: [Am.B 597](https://opac.rism.info/search?View=rism&id=452506520&Language=de){:target="_blank"} – Hennenberg hatte sie in seiner Arbeit nicht berücksichtigte; auch Hell erwähnt sie nicht. Der handschriftliche Titel aus späterer Zeit auf dem Umschlag lautet: „Fünfundzwanzig Kirchenmusiken für bestimmte Sonntage“, ein Komponistenname fehlt. Wie bekannt, stammen alle Kantaten, von denen ebenfalls nur die Eingangschöre notiert sind, von Stölzel. Vier Kantaten zählen zum Jahrgang X (Nummern des Textdrucks 9; 10; 18; 19<sup>;</sup> Am.B 597 (3–6). Für diese und weitere Hinweise auf Doppelüberlieferungen danke ich dem Kollegen Bert Siegmund, Stiftung Kloster Michaelstein, der derzeit ein Stölzel-Werkverzeichnis vorbereitet. Es handelt sich ausnahmslos um Dubletten, die Kantaten sind in Mus.ms. 40370 jeweils vollständig überliefert. Die restlichen 21 Eingangschöre gehören zum Jahrgang XII (1743/44). Ein Textdruck zu diesem Jahrgang befindet sich in der Forschungsbibliothek Gotha der Universität Erfurt; Signatur Cant.spir 8° 876.
 
 
-
 _Abbildung_: Titelseite des Librettos des Kantatenzyklus. Forschungsbibliothek Gotha der Universität Erfurt, Cant.spir 8° 878. Abbildung mit freundlicher Genehmigung des Autors (CC BY-SA).
-
 
 

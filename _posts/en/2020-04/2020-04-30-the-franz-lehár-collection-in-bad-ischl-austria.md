@@ -11,7 +11,6 @@ email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
 
-
 _We have received the following from our RISM contributor Sandra Föger (RISM Austria):_
 
 April 30, 2020 marks the 150th birthday of [Franz Lehár](https://opac.rism.info/search?View=rism&author=Lehar+Franz&Language=en){:target="_blank"}. His works are still very much alive on stages worldwide even today. His operettas such as _The Merry Widow_, _The Count of Luxemburg_, _Gipsy Love_, _Paganini_, _Der Zarewitsch_, _The Land of Smiles_, and _Giuditta_ are among the most performed of the genre.
@@ -27,6 +26,5 @@ A comprehensive music collection from the Viennese publisher Glocken, which Leh�
 So far, over 700 shelfmarks for music in the Lehár Collection have been documented in the RISM database. The bulk of the collection can already be searched by the public. The entire collection should be in RISM by the end of the year.
 
 _Image_: The Franz Lehár Villa in Bad Ischl. Photo by Toffel from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
-
 
 

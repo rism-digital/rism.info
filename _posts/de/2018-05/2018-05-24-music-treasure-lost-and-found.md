@@ -11,7 +11,6 @@ email: ''
 author: Caroline Shaw
 ---
 
-
 _Der folgende Beitrag erschien zuerst im [Music Blog der British Library](http://blogs.bl.uk/music/2017/05/music-treasure-lost-and-found.html){:target="_blank"} unter dem Copyright des British Library Board und wird hier mit der_ _Creative Commons Attribution Licence wiedergegeben._
 
 Die Katalogisierung von Musik in der [British Library](http://www.bl.uk) hatte eine eher zaghaften Anfang. In den ersten Jahren als die Bibliothek noch [Teil des British Museum](http://www.bl.uk/aboutus/quickinfo/facts/history/) war, gab es keine separate Musikabteilung. Noten, die nur sporadisch ins Museum eingingen, galten als Problem: Es war schwierig sie wie Bücher zu katalogisieren (das gilt auch heute noch), sie sind schwer zu lagern (trifft heute auch noch zu) und wurden, da Musik noch nicht als geeignetes Fach für akademische Studien galt, nicht besonders wertgeschätzt.
@@ -34,6 +33,5 @@ Caroline Shaw, Music Processing and Cataloguing Team Manager
 31. Mai 2017
 
 Basierend auf einer Präsentation von James Clements (2004) mit Informationen aus: Alec Hyatt King, _Printed music in the British Museum_ (London, 1979). YA.1997.a.10519
-
 
 

@@ -11,11 +11,9 @@ email: jbagues@eresbil.com
 author: ERESBIL-Basque Archives of Music
 ---
 
-
 _Donostia, the Basque name for San Sebastián in Spain, is one of the two [European Capitals of Culture](http://dss2016.eu/en/){:target="_blank"} in 2016. Donostia joins [Wrocław, Poland](http://www.wroclaw2016.pl/){:target="_blank"} for year-long festivities of theater, music, dance, exhibitions, and more.
 
 Our colleagues at **ERESBIL-Basque Archives of Music** ([E-RE](http://www.eresbil.com/){:target="_blank"}) have written an overview of music life in Donostia ([Spanish version here](http://www.iaml.info/news/donostia-san-sebastian-european-capital-culture-2016#espanol){:target="_blank"}):_
-
 
 Sometimes there are composers that are known by one work. This is the case of Mateo Albéniz (1755-1831), whose keyboard _Sonata en D_ was introduced by Joaquin Nin in 1925. Today the original is lost, as are his previous works up to 1813. On that day, under the Napoleonic wars, English and Portuguese troops set fire to the city of San Sebastián, with great loss of lives and property, including the parish music archives, whose chapel-master was Albéniz. It was from that date that the city reinvented itself, converting music into one of the preferred popular activities. Pedro Albéniz, son of the chapel-master and piano teacher at the Conservatory of Madrid, composed popular music for Carnival. Festive music was reinvented throughout the 19th century by José Antonio Santesteban and [Raimundo Sarriegui](http://www.eresbil.com/web/sarriegui/presentacion.aspx).
 

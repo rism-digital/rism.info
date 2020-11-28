@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das Jahr 2020 ist noch jung, aber lassen Sie uns einen Moment auf 2019 zurückblicken und die beliebtesten Beiträge aus der Welt der musikalischen Quellen betrachten, die wir hier auf dem RISM-Blog veröffentlicht haben. Möge das Jahr 2020 ebenso reich an Entdeckungen sein!
 
 1. [Neue Musikhandschriften aus Italien (ICCU) in RISM](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
@@ -37,7 +36,6 @@ Verpassen Sie nicht die [2020 Ausgabe](/events/2020/01/09/2020-not-just-beethove
 
 Im Jahr 2019 lautete - wie in den vergangenen Jahren - die am häufigsten gelesene Nachricht [Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014.
 
-
 **Highlights der sozialen Medien**
 
 - [Musical 15th-century frescoes](https://twitter.com/Gregoire_Ichou/status/1116657535879208960?fbclid=IwAR3lQAqZGWhgLLeEqSCFD_n7TYFtMJN-6Csgdxh7QzUALPasl7R5BBlkrmM){:target="_blank"} in der BasiliKa Saint-Quentin, Frankreich
@@ -47,7 +45,6 @@ Im Jahr 2019 lautete - wie in den vergangenen Jahren - die am häufigsten gelese
 - Analyse von [30,000 chord annotations in Beethoven's string quartets
 ](https://arstechnica.com/science/2019/08/roll-over-beethoven-decoding-the-maestros-musical-style-with-statistics/){:target="_blank"}
 - [The Music of Notre-Dame](https://www.br-klassik.de/aktuell/news-kritik/notre-dame-paris-brand-musikgeschichte-mehrstimmigkeit-notation-epoche-notre-dame-schule-100.html){:target="_blank"}
-
 
 
 Ein großes Dankeschön an unsere Leser und Unterstützer für Ihre Beiträge, Meinungen, Tipps, harte Arbeit und Entdeckungen!

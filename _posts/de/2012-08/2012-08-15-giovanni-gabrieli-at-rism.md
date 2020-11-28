@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Am 12. August jährt sich der Todestag von Giovanni Gabrieli (1554 ca. - 1612) zum 400. Mal. Seine Musik repräsentiert den Höhepunkt der venezianischen Schule. Gemeinsam mit Claudio Monteverdi steht er in der italienischen Musik für den Übergang von der Renaissance hin zum Barock. Schon früh machte er in seinen Kompositionen vom Basso Continuo Gebrauch und begründete mit seinen Kanzonen eine neue Epoche.
 
 Gabrielis Karriere begann in Deutschland als er 1576-1579 unter Orlando di Lasso Mitglied der Hofkapelle in München war. Während seines 33-jährigen Wirkens in Venedig vollendete er - veranlasst durch die in der Basilika S. Marco einander gegenüberliegenden großen Orgeln - , die Mehrchörigkeit mit zum Teil großer Instrumentalbesetzung.

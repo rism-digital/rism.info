@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Tomorrow, the first Friday in May, is International Tuba Day! This day recognizes "tubists in musical organizations around the world who have to go through the hassle of handling a tuba," according to the [official website](http://www.tubaday.com/homepage.php){:target="_blank"}.
 
 [
@@ -36,6 +35,5 @@ There are links to over 50 digitized scores with tuba in the online catalog, inc
 Happy Tuba Day!
 
 Photo credit: Elongated tuba made by Emil Körner, via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Tubajuri_2004.jpg?uselang=de){:target="_blank"}. The instrument is in the Musikinstrumenten-Museum Markneukirchen.
-
 
 

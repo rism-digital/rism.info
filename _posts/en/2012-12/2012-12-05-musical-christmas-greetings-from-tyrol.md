@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 The annual Tyrolean Christmas Concerts will once again sound on 22-23 December 2012 in Innsbruck, Austria. For the fourth time, the music will come from the rich treasures found at Stams Abbey (A-ST).
 
 [Concert program](/resources-old-website/news/2012_tirolerweihnachtskonzert.pdf) (PDF; in German)

@@ -11,7 +11,6 @@ email: ''
 author: Martin Bierwisch and Kristina Krämer
 ---
 
-
 Research on musicians of the Central Rhine region in Germany sometimes leads to the Library of Congress. Hugo Willemsen (1844-1918), who was born in Elberfeld and whose career took him to Bingen, Speyer, and Saarbrücken, settled in London around 1895. Beginning around 1907, he received orders through [Oscar Sonneck](https://en.wikipedia.org/wiki/Oscar_Sonneck){:target="_blank"} to create handwritten copies of numerous opera scores for the Music Division of the Library of Congress. Sonneck had copies made from all over Europe for the library, with the intention of building a solid base for opera research in the United States.
 
 The Library of Congress did not hire the copyists directly but rather negotiated through antiquarian dealers. For Great Britain, the firm of B. F. Stevens and Brown hired people like Willemsen to produce the copies. (We would like to thank Paul Sommerfeld from the Library of Congress for this information.)
@@ -21,6 +20,5 @@ One can usually determine exactly what score was used to copy from. For the 1915
 Susan J. Clermont has compiled a list of the scores that were part of this initiative ("[Transcripts of Dramatic Musical Works in Full Score at the Library of Congress Music Division](https://www.loc.gov/rr/perform/fabiblgds.html){:target="_blank"}," 2013; RISM abbreviation: ClermontT 2013). Willemsen copied predominantly operas from the 18th century found in British libraries. Italian composers are particularly prominent.
 
 If you are curious about what Willemsen did and also composed before his time in London, you can read about it in the online encyclopedia [_Musik und Musiker am Mittelrhein_](http://mmm2.mugemir.de/doku.php?id=willemsen).
-
 
 

@@ -11,13 +11,11 @@ email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---
 
-
 _The following is by Barbara Wiermann and originally appeared on the [SLUB Dresden Blog](https://blog.slub-dresden.de/beitrag/2018/11/18/von-dresden-nach-moskau-und-zurueck-kriegsbedingt-verlagerte-werke-aus-der-slub-werden-digitalisier/){:target="_blank"} of the Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden on 18 November 2018 ([CC-BY](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}):_
 
 Top-class concerts, exhibitions, a jazz festival, readings, discussions, and congresses - the International Cultural Forum in St. Petersburg is bringing together thousands of people in culture and the arts from all over the world and prominent representatives from business and politics this weekend [18 November 2018]. Also present: the SLUB. General Director Achim Bonte and Vadim V. Duda, General Director of the Russian State Library in Moscow, have signed a groundbreaking cooperation agreement during the forum. This will enable, for the first time, library holdings from Dresden that were relocated as a result of World War II to be accessible digitally to the general public.
 
 **A new chapter in German-Russian relations**
-
 
 As a result of World War II, the Soviet Trophy Commission confiscated numerous works from the collection of the Saxon State Library from 1945 onwards. Most of the items were taken from their temporary storage locations in Saxon castles and manors directly to Russia via the Radeberg freight depot. Their whereabouts are still not known for every case. For some years now, [representatives of German and Russian libraries](https://www.preussischer-kulturbesitz.de/schwerpunkte/kooperationen/deutsch-russischer-bibliotheksdialog.html){:target="_blank"} have been working together to locate and document the items that were relocated as a result of the war. Now that an agreement has been signed to digitize 250 music manuscripts, the SLUB and the Russian State Library Moscow have taken a decisive further step in their cooperation.
 

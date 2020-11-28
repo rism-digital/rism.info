@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Christian Gotthilf Tag (2 April 1735 – 19 July 1811) was a notable German cantor, organist, and composer of the 18th century. Although his influence was only felt in Saxony, a variety of copies and commissions from Hamburg, Berlin, and Danzig have lead to his works being preserved today throughout Germany, Poland, Denmark, and the United States (see the records in the [RISM online catalog](https://opac.rism.info/search?View=rism&author=Christian+Gotthilf+Tag){:target="_blank"}).
 
 Tag was educated at the Kreuzschule in Dresden and in 1755 took on the vacant post of cantor and schoolteacher in nearby Hohenstein, which he held until 1808. Throughout his life, he remained in regular contact with the leading musicians of his time and maintained amicable relationships with his teacher Gottfried August Homilius, Johann Adam Hiller, and the scholar Carl Heinrich Ludwig Pölitz. Among his pupils was Christian Gottlob Neffe, who was later Ludwig van Beethoven’s composition teacher. Tag thus can be placed exactly between Bach and Beethoven in the genealogy of teachers and students (Bach – Homilius – Tag – Neefe – Beethoven).

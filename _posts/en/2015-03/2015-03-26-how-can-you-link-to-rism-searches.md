@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 Many smaller institutions, including libraries, archives, private collectors, etc. do not maintain an online catalog of their collections but want to present the RISM records for their items on their own websites. To facilitate this, the Bavarian State Library in Munich offers a query interface based on different parameters.
-
 
 
 For example: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
@@ -79,7 +77,6 @@ All sources by Hugo Distler:
 All sources in the United States:
 
 [https://opac.rism.info/search?View=rism&siglum=US\*](https://opac.rism.info/search?View=rism&siglum=US*){:target="_blank"}
-
 
 
 All sources by Gustav Mahler that are in Canada (with interface in English):

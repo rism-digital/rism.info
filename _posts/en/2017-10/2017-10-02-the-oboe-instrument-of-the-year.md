@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 This year, the oboe has pride of place as [Instrument of the Year](http://www.instrument-des-jahres.de/){:target="_blank"} according the state music council in Germany. This honor is meant to call more attention to an instrument that, in the view of the music councils, needs more young players. In the RISM database, we have plenty of music to keep oboists young and old busy.
 
 RISM uses these abbreviations for instruments from the oboe family:
@@ -35,7 +34,6 @@ To find music that prominently features the oboe (concertos, duets, etc.), do an
 
 ![Search for oboe concertos](http://rism.info/resources-old-website/news/oboe_search_concerto_1005x355.jpg)
 
-
 In the search results, look at the filters on the left. At the top you can see that 51 records contain links to digitized music, giving you immediate access to the original manuscript or printed edition. **Scoring** will give a summarized instrumentation of the piece:
 
 ![Search results](http://rism.info/resources-old-website/news/oboe_Scoring_results_1004x767.jpg)
@@ -46,8 +44,6 @@ The RISM catalog of course contains music where oboes are included but aren't fe
 
 Browsing through music for the oboe family in the RISM catalog will turn up a host of undiscovered gems, many of which lack modern performing editions or don't even make an appearance in recitals. Take a look at the RISM catalog and bring these works back to life!
 
-
 _Image_: The oboe through the ages, by OboeCrack (from [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cu_oboe.jpg){:target="_blank"})
-
 
 

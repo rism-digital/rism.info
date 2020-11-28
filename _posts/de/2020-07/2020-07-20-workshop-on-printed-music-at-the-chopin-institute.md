@@ -11,7 +11,6 @@ email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---
 
-
 _Wir erhielten den folgenden Beitrag von Marcelina Chojecka ([Narodowy Instytut Fryderyka Chopina](https://nifc.pl/pl){:target="_blank"}, Warschau):_
 
 Am 10. Juli 2020 organisierte das Fryderyk-Chopin-Institut, im Rahmen des Digitalisierungsprojekts „Offener Zugang zu Chopins Nachlass“, einen Vortrag und eine Schulung zum Thema „Verschiedene Methoden zur Identifizierung von Musikdrucken aus dem 18., 19. und 20. Jahrhundert". Die Teilnehmer, unter der Leitung von Herrn Jeremiusz Glensk, befassten sich mit den Begriffen Bearbeitung, Ausgabe, Nachdruck, Erstausgabe sowie Korrekturen von Musikdrucken. Außerdem wurden Themen wie Datierung, Notensatz, Paginierung, Stempel, Papier, Verlagsgewohnheiten und verwendete Techniken wie Lithographie, Notenstich, Offsetdruck oder Ozalidkopien angesprochen. Die Teilnehmer erörterten anhand ausgewählter Exemplare der NIFC-Bibliothek, Methoden zur Identifizierung von Musikdrucken, unter anderem der [Etüden](https://opac.rism.info/search?id=1001029041&View=rism){:target="_blank"}[op. 10 Fryderyk Chopins](https://opac.rism.info/search?id=1001029041&View=rism){:target="_blank"}, um diese danach in der RISM-Datenbank zu katalogisieren.

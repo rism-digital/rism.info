@@ -11,7 +11,6 @@ email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
 ---
 
-
 _Den folgenden Gastbeitrag schrieb Francisco Javier Lupiáñez Ruiz:_
 
 Vor zwei Jahren startete ich mit den Vorbereitungen zu einem Konzertprogramm mit anonymen Werken aus der [Schrank II-Sammlung](http://hofmusik.slub-dresden.de/en/themen/schrank-ii/) in der [Sächsischen Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB)](http://www.slub-dresden.de/). Der _Schrank II_ enthält eine große Sammlung von Kompositionen, die der Konzertmeister Johann Georg Pisendel während der 1. Hälfte des 18. Jahrhunderts sammelte. Die enge Beziehung zwischen Pisendel und Vivaldi macht den _Schrank II_ zu einem Fundus von Vivaldis Musik und ist eine Quelle für zahlreiche Neuentdeckungen.
@@ -33,16 +32,13 @@ Das folgende Beispiel stammt aus RV 820 des RISM Online-Katalogs:
 ![RV 820](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_2_Rism_Rv_820_material.JPG)
 
 
-
 Die durch RISM gegebenen Informationen sind wichtig und leicht zugänglich. Dank des Wasserzeichens, der Datierung und anderer Informationen, können wir die Handschrift in einen Zusammenhang stellen. Diese Sonate wurde insbesondere von Johann Georg Pisendel vor seiner Ankunft in Dresden, vermutlich während seiner Studien bei Torelli in Ansbach (von 1697 bis 1712), geschrieben. Über die Suche im RISM Online-Katalog findet man noch weitere von Pisendel geschriebene und nach Dresden mitgebrachte Manuskripte mit demselben Wasserzeichen aus dem gleichen Zeitraum. Die Verbindungen zwischen Torelli (dem vermutlichen Lehrer Vivaldis), Pisendel und Vivaldi nehmen hier deutlichere Züge an:
 
 ![Torelli](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_3_Rism_Watermark.jpg)
 
 
-
 Es gibt über 60 Sonaten für Violine und Continuo, ungefähr zwölf Triosonaten für Streicher und mehr als 50 Konzerte, die in _Schrank II_ anonym bleiben; die meisten davon sind online verfügbar und mit RISM verlinkt. Die Hilfsmittel der SLUB und des RISM sind bestens für weitere Neuentdeckungen geeignet und werden helfen den ein oder anderen Namen auf die bisher nicht namentlich gekennzeichneten Handschriften zu setzen.
 
 Bildnachweis: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden, Kadenz zum Konzert [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
-
 
 

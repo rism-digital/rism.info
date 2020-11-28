@@ -11,7 +11,6 @@ email: christian.ahrens@me.com
 author: Christian Ahrens
 ---
 
-
 _We have received the following from Christian Ahrens (Berlin):_
 
 **Observations on the Cantatas from Gottfried Heinrich Stölzel's Cantata Cycle X (1737/38) in the Manuscript Mus.ms 40370, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz**
@@ -31,6 +30,5 @@ An important source for cantata cycle X is [manuscript Am.B 568](https://opac.ri
 Opening choruses from cantatas belonging to Stölzel's cycle X can be found in another collective manuscript at the Staatsbibliothek Berlin: [Am.B 597](https://opac.rism.info/search?View=rism&id=452506520&Language=en){:target="_blank"}, which was not considered in Hennenberg's study and also goes unmentioned by Hell. The handwritten title on the cover, added later, reads: "Fünfundzwanzig Kirchenmusiken für bestimmte Sonntage." The name of the composer is missing. As we know, all cantatas, of which only the opening choruses are notated, are by Stölzel. Four cantatas belong to cycle X (numbers in the libretto: 9, 10, 18, and 19; Am.B 597 numbers 3–6). These are all duplicates, and the cantatas in Mus.ms. 40370 are preserved in full. (For these and additional references to duplicate copies I would like to thank my colleauge Bert Siegmund, Stiftung Kloster Michaelstein, who is currently preparing a catalog of works for Stölzel.) The remaining 21 opening choruses belong to cycle XII (1743/44). A libretto to this cycle can be found in the Forschungsbibliothek Gotha of the Universität Erfurt with the shelfmark Cant.spir 8° 876.
 
 _Image_: Title page of the libretto to the cantata cycle. Forschungsbibliothek Gotha der Universität Erfurt, Cant.spir 8° 878. Image courtesy of the author (CC BY-SA).
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das RISM steht unter dem Patronat der beiden internationalen Vereinigungen [International Musicological Society](https://ims-international.ch/){:target="_blank"} (IMS) und [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/){:target="_blank"} (IAML). Mit der Gründung des RISM wurde eine [Commission Mixte](/de/unternehmen/internationale-partner.html) (CM) eingerichtet, die aus Delegierten dieser beiden Gesellschaften besteht. 2007 hat der damalige Präsident Christoph Wolff die CM reorganisiert. Dabei wurde festgelegt, dass sie aus je fünf Deligierten der beiden Gesellschaften, also 10 Mitgliedern besteht. Ihre Amtzeit beläuft sich auf 5 Jahre.
 
 Die Aufgabe der CM ist es, den Vorstand des [Vereins](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html) und die Zentralredaktion in strategischen und praktischen Fragen aus Sicht der Bibliotheken und der Wissenschaft zu beraten. Aus ihrem Kreis können auch zukünftige Vorstandsmitglieder hervorgehen.
@@ -26,7 +25,6 @@ Beide Gesellschaften haben bei ihren Kongressen in diesem Jahr neue Delegierte b
 - Prof. Dr.Beatriz Magalhães Castro, Brasilia(Brasilien)
 - Dr. Balázs Mikusi, Budapest(Ungarn)
 
-
 **IMS Delegierte**
 
 - Prof. Dr. Egberto Bermudez Cujar, Bogotá(Kolumbien)
@@ -35,6 +33,5 @@ Beide Gesellschaften haben bei ihren Kongressen in diesem Jahr neue Delegierte b
 - Prof. Dr. Thomas Schmidt, Manchester(UK)
 - Prof. Dr. Christiane Wiesenfeldt, Weimar(Deutschland)
 RISM freut sich auf eine gute Zusammenarbeit und viele interessante Anregungen.
-
 
 

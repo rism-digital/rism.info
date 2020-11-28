@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _The following originally appeared on [RILM's Bibliolore blog](http://bibliolore.org/2015/03/28/una-coleccion-de-patrimonio-musical-espanol/){:target="_blank"} and has been reprinted here with kind permission:_
 
 The Fons de Música Tradicional at the[Institució Milà i Fontanals](http://www.imf.csic.es/) (CSIC-IMF) in Barcelona has more than 20.000 melodies, copied on paper, collected between 1944 and 1960 throughout Spain; most of them were compiled through the 65 folkloric missions and 62 notebooks presented to competitions organized by the Folklore Section of the former Instituto Español de Musicología of the CSIC, in which 47 researchers participated.

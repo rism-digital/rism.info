@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In our series RISM Modern Monday, we mustn't omit composer archives - collections of personal papers and/or manuscripts that are left to a library - particularly because they contain a large share of the twentieth-century musical sources that are documented in RISM. Processing these archival collections is done by the owning institution using a special part of our cataloging program Kallisto, so these automatically become part of the RISM online catalog.
 
 The Sächsische Landes- und Universitätsbibliothek in Dresden ([D-Dl](https://opac.rism.info/metaopac/search?View=rism&siglum=D-Dl){:target="_blank"}) and the Bayerische Staatsbibliothek in Munich ([D-Mbs](https://opac.rism.info/metaopac/search?View=rism&siglum=D-Mbs){:target="_blank"}) house a number of musical _Nachlässe_, which are to an extent already in RISM. You can find an overview of all composer archives at the SLUB Dresden [on their website](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/uebersicht-musiknachlaesse/){:target="_blank"}. Some of these twentieth-century composers that are in RISM are:
@@ -29,7 +28,6 @@ Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library [on the 
 - [Joseph Haas](https://opac.rism.info/metaopac/search?View=rism&author=134394372){:target="_blank"} (1879-1960); 359 sources
 - [Karl Amadeus Hartmann](https://opac.rism.info/metaopac/search?View=rism&author=118546309){:target="_blank"} (1905-1963); 239 sources
 - [Ermanno Wolf-Ferrari](https://opac.rism.info/metaopac/search?View=rism&author=118634879){:target="_blank"} (1876-1948); 210 sources
-
 
 _Image_: Theodor Anton Blumer: _Hampelmanns groteskes Tanzduett_ (1930). [SLUB Dresden](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/theodor-blumer/){:target="_blank"} (D-Dl) Mus.10621-J-502 Mus.10621-I-502. [RISM ID no. 290002218](https://opac.rism.info/search?id=290002218){:target="_blank"}.
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Auch wenn sich das Jahr dem Ende neigt, reicht die Zeit noch, um einen Blick auf das Instrument des Jahres zu werfen. Nach der [Oboe](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5Byear%5D=2017&tx_ttnews%5Bmonth%5D=10&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1435&cHash=a982f2d3d6c9de4bffdb14b30d136d5b){:target="_blank"} im vergangenen Jahr kürten die Landesmusikräte in diesem Jahr das [Cello](https://www.instrument-des-jahres.de/){:target="_blank"} zum Instrument des Jahres.
 
 Bei RISM führt eine Suche nach ["vlc"](https://opac.rism.info/search?View=rism&q=vlc&Language=en){:target="_blank"} (der RISM Abkürzung für Cello) zu über 102.000 Treffern. Aus dieser Fülle an Quellen haben wir einige Solokonzerte und Quartette herausgesucht.
@@ -27,5 +26,4 @@ Sehr viel angenehmer liest sich das Autograph von Emilie Mayers [Quartett in A-D
 Bei der Suche nach Cellisten in der RISM-Personendatenbank zeigt sich: Das Cello war bis ins 20. Jahrhundert ein „Männer-Instrument“; von den über 500 Cellisten sind lediglich 7 weiblich.Unter dem Vorwand die Haltung des Instruments (zwischen den Beinen!) sei für die Damen unschicklich, blieb es Frauen lange Zeit verwehrt. Eine Ausnahme ist die französische Cellistin [Lisa Cristiani](https://opac.rism.info/search?id=550503869&View=rism){:target="_blank"} (1827-1853), bei RISM ist sie als Widmungsträgerin von Mendelssohns _Lied ohne Worte_ op. 109 vertreten (CZ-Pu 59 C 311).
 
 _Abbildung via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cello_study.jpg){:target="_blank"}._
-
 

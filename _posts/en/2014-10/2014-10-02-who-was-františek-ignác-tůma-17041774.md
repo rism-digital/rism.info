@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today marks the 310th birthday of František Ignác Tůma. But who is celebrating? Probably nobody, because only a few people today have heard of him.
 
 [A stele with organ pipes](http://commons.wikimedia.org/wiki/File:Kostelec_nad_Orlic%C3%AD-Franti%C5%A1ek_Ign%C3%A1c_T%C5%AFma.jpg?uselang=de){:target="_blank"} commemorates the Czech composer at his birthplace Adlerkosteletz (today Kostelec nad Orlicí).
@@ -21,7 +20,6 @@ Tůma received his musical education in Prague and entered the service of the co
 František Ignác Tůma's extensive compositional body of works, with 65 masses, numerous motets, litanies, and antiphones, as well as sonatas and symphonies, is reflected in the [RISM database with over 200 entries](https://opac.rism.info/search?View=rism&author=tuma+frantisek){:target="_blank"}. The sources can be found mainly in Austria and the Czech Republic.
 
 I wonder if Tůma ever treated a young Mozart to a cup of hot chocolate in Vienna...
-
 
 
 Below is Tůma's Suite in A.

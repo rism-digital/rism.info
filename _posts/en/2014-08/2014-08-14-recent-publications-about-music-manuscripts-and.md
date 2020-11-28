@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We (relatively) recently received two journal issues from the organizations that co-sponsor RISM, [IAML](http://www.iaml.info/){:target="_blank"} and [IMS](http://ims-international.ch/){:target="_blank"}. Both contain articles that discuss musical sources or institutions and could be of interest to the RISM community. They have been cataloged in Kallisto and can be cited by our RISM contributors.
 
 **From _Acta musicologica_ 85/2 (2013)**
@@ -27,7 +26,6 @@ Manuscript discussed: US-MAL Ms. Ludwig XII 5 (Phillipps 12145)
 
 - Allan Badley, “How foreign is foreign? On the origins of Leopold Hofmann's smaller liturgical works,” p. 30-41.
 RISM short title: BadleyH 2014
-
 
 - Jorid Nordal Baumann, “The Norwegian Music Heritage Project,” p. 48-50.
 RISM short title: BaumannN 2014

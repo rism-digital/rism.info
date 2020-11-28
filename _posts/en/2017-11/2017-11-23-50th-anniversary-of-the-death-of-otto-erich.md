@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Otto Erich Deutsch (1883-1967), who died 50 years ago today, shares a common destiny with Ludwig von Köchel (1800-1877) and Anthony van Hoboken (1887-1983): he is remembered largely thanks to a thematic catalog. Even more connects Deutsch with Hoboken: from 1926 to 1935 Deutsch was the librarian of Hoboken's music collection.
 
 But first things first. Music played at most an indirect role at the beginning of Deutsch's career. After studying art history and literature, he worked as an art critic and was employed at the Institute of Art at the University of Vienna, where he focused on the Viennese Biedermeier period. His first publication, _Schubert-Brevier_ (1905), was dedicated to the composer that would occupy the center of his scholarly research for the rest of his life. In 1913-1914 he wrote his acclaimed biography _Franz Schubert: Die Dokumente seines Lebens und Schaffens_.

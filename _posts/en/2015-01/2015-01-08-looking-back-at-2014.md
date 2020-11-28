@@ -11,9 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Before we get too far into 2015, let's take a look back at 2014 and allow us to share some stories from the past year.
-
 
 
 The ten most popular stories on our website were (according to our website statistics):
@@ -79,7 +77,6 @@ The most popular links on our Facebook page were:
 <iframe width="560" height="315" src="//www.youtube.com/embed/LAa-Tro_FPU?list=UUSw7Qu4OQujixCfIlKETdkQ" frameborder="0" allowfullscreen></iframe>
 
 
-
 4. [Canadian musicologist makes 900 year old discovery (Radio Canada International)](http://www.rcinet.ca/en/2014/10/22/canadian-musicologist-make-900-year-old-discovery/){:target="_blank"}: About early music notation
 
 5. [Joseph Haydn's Real Wife](http://michaelorenz.blogspot.de/2014/09/joseph-haydns-real-wife_11.html){:target="_blank"}: Michael Lorenz has identified Haydn's wife as Maria Anna Theresia Keller (born 25 September 1730), not Maria Anna Aloysia Apollonia Keller
@@ -101,6 +98,5 @@ RISM was also mentioned in the following articles, which we have listed on the [
 - Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info). Visitors to the RISM website come from all over the world, as you can see from the blue on the map on the left.
-
 
 

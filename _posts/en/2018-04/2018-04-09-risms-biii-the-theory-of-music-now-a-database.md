@@ -11,7 +11,6 @@ email: chr.meyer@wanadoo.fr
 author: Christian Meyer
 ---
 
-
 _We have received this announcement from our colleague Christian Meyer:_
 
 The catalogs of manuscripts described in RISM's series B/III ([The Theory of Music](/publications.html#c2619), 6 vol., Munich: G. Henle, 1961-2003), published online in 2001 through the Lexicon musicum Latinum (LML), is now [available as a database](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.

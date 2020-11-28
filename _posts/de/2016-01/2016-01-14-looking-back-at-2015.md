@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Das Jahr 2015 liegt hinter uns und wir möchten einen Blick auf die Nachrichten werfen, die uns die letzten zwölf Monate beschäftigt haben. Wir genossen ein Jahr mit Tausenden von neuen Musikquellen im RISM Online-Katalog, aufregenden Entdeckungen von unseren Nutzern und phantastischen neuen Datenbanken und digitalen Sammlungen.
 
 Die fünf beliebtesten Nachrichten, die wir auf unserer Webseite 2015 veröffentlichten, waren:
@@ -24,7 +23,6 @@ Francisco Javier Lupiáñez Ruiz
 
 4. [Digitalisierung von Opernpartituren am Deutschen Historischen Institut in Rom](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - von unserem Kollegen Roland Pfeiffer am DHI
 5. [Orontea von Antonio Cesti](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"} - unser Blick auf eine in Frankfurt gespielte Oper
-
 
 Aber die beliebteste Nachricht aller Jahre überhaupt war auch 2015 "[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" von 2014.
 

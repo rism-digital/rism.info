@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The Red Mason Bee was chosen as the 2019 Insect of the Year by the [environmental organization NABU](https://www.nabu.de/news/2018/11/25571.html){:target="_blank"} for Germany, Austria, and Switzerland. It is the most common mason bee in Germany.
 
 When we think about bees, we usually think of the busy honey bee. But there are actually many species of bees. Not all of them live in colonies. They are often solitary.
@@ -26,8 +25,6 @@ The Italian bee “[l'ape](https://opac.rism.info/search?View=rism&q=l'ape&Langu
 
 We are looking forward to the bees next spring!
 
-
 Image: Johann David Heinichen, _Le nozze di Nettuno e di Teti_, [D-Dl Mus.2398-L-4](https://digital.slub-dresden.de/werkansicht/dlf/126042/){:target="_blank"} (RISM ID no.: [212006372](https://opac.rism.info/search?id=212006372&View=rism&Language=en){:target="_blank"})
-
 
 

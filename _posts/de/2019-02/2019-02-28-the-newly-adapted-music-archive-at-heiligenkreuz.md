@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
 
-
 _Wir erhielten diesen Beitrag von Pater Roman Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 Im klösterlichen Alltag spielt Musik eine beträchtliche Rolle. Es vergeht kein Tag, an dem wir hier im Kloster nicht mit Musik in Berührung kommen.
@@ -28,6 +27,5 @@ Im Zuge der vielfältigen Aktivitäten im Musikarchiv war die Notwendigkeit gege
 
 _Abbildung_: Grammophone von 1937
 ©Zisterzienserabtei Stift Heiligenkreuz - Kustodiat
-
 
 

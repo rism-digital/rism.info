@@ -11,11 +11,9 @@ email: ''
 author: ''
 ---
 
-
 Die Suche nach dem Musikincipit (Notenanfang) ist eines der beliebtesten Angebote des RISM Online-Katalogs. Die über 1,7 Millionen Incipits (also die ersten Takte eines Werks oder Satzes) führen zu neuen Zuschreibungen, Entdeckungen und Wiederentdeckungen.
 
 Aber wie funktioniert die Suche nach dem Musikincipit? In diesem Beitrag zeigen wir Ihnen was der RISM Online-Katalog anbietet und – für die Abenteuerlustigen unter uns – zeigen wir eine experimentelle Incipitsuche der Universität Utrecht.
-
 
 
 # Die Incipitsuche im Online-Katalog
@@ -42,21 +40,17 @@ Unterhalb der Suchschlitze ist eine virtuelle Klaviertastatur angebracht, über 
 
 Diese Suche berücksichtigt die exakten Halbtonschritte.
 
-
 -
 
 Die einzelnen Tasten sind mit allen enharmonischen Varianten belegt: die schwarze Taste für den Ton **Fis** findet also auch den Ton **Ges**.
-
 
 -
 
 Auch hier ist es möglich, entweder nur nach Incipits in der originalen Tonhöhe zu suchen oder eine Transpositions-Option zu wählen.
 
-
 -
 
 Die Suche kann mit anderen Feldern kombiniert werden.
-
 
 
 Weitere Tipps für die Incipitsuche:
@@ -65,51 +59,41 @@ Weitere Tipps für die Incipitsuche:
 
 Rhythmische Werte, Intervalle und Oktavlagen werden ignoriert.
 
-
 -
 
 Voreingestellt ist eine Rechtstrunkierung des Suchbegriffs, d.h. es werden auch Notenincipits gefunden, die länger als der eingegebene Suchbegriff sind.
-
 
 -
 
 Vorschlags- bzw. Verzierungsnoten können fakultativ eingegeben werden.
 
-
 -
 
 Beginnen Sie zunächst mit einem längeren Incipit und löschendann Tonbuchstaben bis Sie eine vernünftige Treffermenge erhalten.
-
 
 -
 
 Um die Treffermenge zu erhöhen, wählen Sie Suche **Notenanfang (mit Transposition)**
 
-
 -
 
 Kombinieren Sie die Incipitsuche mit anderen Feldern und nutzen Sie die Suchfilter
-
 
 -
 
 Sie können Klein- und Großbuchstaben verwenden
 
-
 -
 
 Sie können H oder B eintragen
-
 
 -
 
 Übergebundene Noten müssen nicht zweimal eingegeben werden
 
-
 -
 
 Verwenden Sie die Klaviatur für die Suche mit enharmonischen Noten und Akzidentien
-
 
 
 **Zur Erinnerung:**
@@ -120,7 +104,6 @@ Nicht jede Quellenbeschreibung in RISM enthält ein Musikincipit. Gelegentlich s
 Diese Informationenbefinden sich auch auf der [Hilfeseite des Online-Katalogs](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"} und als Video auf dem [RISM YouTube-Kanal](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgXFyiXZq5M" frameborder="0" allowfullscreen></iframe>
-
 
 # Eine experimentelle Incipitsuche
 

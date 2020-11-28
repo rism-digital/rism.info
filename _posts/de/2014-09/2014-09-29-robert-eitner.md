@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Wir freuen uns, Ihnen den folgenden Beitrag unseres Pratikanten Martin Bierwisch präsentieren zu können:_
 
 Wer kennt nicht Robert Eitner (1832-1905)? Um ihn und sein Biographisch-Bibliographisches Quellenlexikon kommt man als Musikwissenschaftler wohl nicht herum. Dieses ist übrigens [auch online z.B. über die Universität Zürich verfügbar](http://www.musik.uzh.ch/research/eitner-digital.html){:target="_blank"}.

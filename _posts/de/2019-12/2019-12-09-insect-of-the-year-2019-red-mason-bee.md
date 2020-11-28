@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die rote Mauerbiene wurde vom [NABU](https://www.nabu.de/news/2018/11/25571.html){:target="_blank"} zum „Insekt des Jahres 2019“ in Deutschland, Österreich und der Schweiz gewählt. Sie ist die häufigste einheimische Art aus der Gattung der Mauerbienen.
 
 Mit der Bezeichnung Biene meinen wir meistens die fleißige Honigbiene. Dabei handelt es sich bei den Bienen um eine recht große Gruppe mit sehr unterschiedlichen Arten, die nicht alle Staaten bilden, sondern auch oft solitär leben.
@@ -25,7 +24,6 @@ Die englischen Bienen lassen sich am besten über die Erweiterte Suche und den S
 Die italienische Biene “l['ape](https://opac.rism.info/search?View=rism&q=l'ape){:target="_blank"}” hat sich etwa 50 Mal im RISM-Katalog versteckt.
 
 Wir freuen uns auf die Bienen im nächsten Frühjahr!
-
 
 _Abbildung_: Johann David Heinichen, _Le nozze di Nettuno e di Teti_, [D-Dl Mus.2398-L-4](https://digital.slub-dresden.de/werkansicht/dlf/126042/){:target="_blank"} (RISM ID no.: [212006372](https://opac.rism.info/search?id=212006372&View=rism){:target="_blank"})
 

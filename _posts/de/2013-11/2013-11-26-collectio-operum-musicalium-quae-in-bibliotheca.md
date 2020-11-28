@@ -11,9 +11,7 @@ email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 Thematischer Katalog der Musiksammlung der Kinsky-Bibliothek
-
 
 
 Die Musiksammlung der Kinsky-Bibliothek, die in der Bibliothek des Nationalmuseums (CZ-Pn) aufbewahrt wird, wurde 2010 erstmals durchgesehen. Mehr als 1.000 einzelne musikalische Dokumente, die vom Ende des 18. Jahrhunderts und der ersten Hälfte des 19. Jahrhunderts stammen und entweder in umfangreichen Bänden oder lose in einzelnen Ordnern versammelt sind, wurden in einem der großen Kabinette im Imperialstil gefunden, die sich in den rekonstruierten Bereichen der Bibliothekshalle im Golz-Kinsky-Palast auf dem alten Stadtplatz in Prag befinden. Die Handschriften, die fast die Hälfte der Sammlung ausmachen (373 Sígnaturen), sind in die RISM-Datenbank aufgenommen worden. Mit den 274 Signaturen der Musikdrucke sind sie in diesem thematischen Katalog vereint.

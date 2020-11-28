@@ -21,8 +21,6 @@ Bononcinis Zusammenarbeit mit dem Librettisten Silvio Stampiglia war nicht nur f
 **Insgesamt bietet der RISM-Katalog 2.400 Einträge zu Giovanni Bononcini, davon ist er [in ca. 1.900 Einträgen als Komponist](https://opac.rism.info/metaopac/perma.do;jsessionid=3213172D11BC04DAE0D26B50E2C612C8.touch02?v=rism&q=-1%3d%22pe20000426%22){:target="_blank"} genannt.**
 
 
-
 _Abbildung_: Kantate _Io son lungi alla mia vita_, I-Nc Canate 69@21; [RISM ID no. 850021395](https://opac.rism.info/search?id=850021395&View=rism){:target="_blank"}
-
 
 

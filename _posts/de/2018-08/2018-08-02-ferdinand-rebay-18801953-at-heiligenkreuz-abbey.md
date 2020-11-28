@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
 
-
 _Dieser Beitrag erreichte uns von Pater Roman_ _Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 Ferdinand Rebay (1880–1953) war ein österreichischer Komponist, Pianist, Dirigent und Klavierpädagoge.
@@ -33,6 +32,5 @@ Viele Werke werden bei Komponistenporträts-Konzerten in Heiligenkreuz und Wien 
 Ein weiterer Teil von Rebays Kompositionen ist im Besitz der Österreichischen Nationalbibliothek.
 
 Seine letzte Ruhestätte befindet sich auf demWiener Zentralfriedhof.
-
 
 

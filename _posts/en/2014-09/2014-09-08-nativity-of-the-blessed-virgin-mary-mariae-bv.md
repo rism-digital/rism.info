@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The birth of the Virgin Mary is commemorated on September 8 in the Catholic Church, the Orthodox Church, and the Anglican Church. The feast of the Nativity of the Blessed Virgin Mary(_In Nativitate B.M.V._) is also called the Nativity of Our Lady. It probably evolved from the festival of the consecration of St. Anna’s Church near the Pool of Bethesda in Jerusalem. The church was built on the location thought to be the home of Anne and Joachim, Mary’s parents, and is considered to be the birthplace of Mary. Celebrations of the feast spread in the eleventh century, although no exact date is known.
 
 In the RISM online catalog, there are numerous compositions written for the occasion of this liturgical feast. In the **Advanced Search** screen, select **Liturgical festival** and enter **Mariae Nativitas**. When you press **Search** , you will find over 400 sources. ([Link](https://opac.rism.info/metaopac/search.do?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&refine=false&submitButtonCall_submitSearch=Suchen&searchCategories%5B0%5D=6010&searchString%5B0%5D=mariae+nativitas&combinationOperator%5B1%5D=AND&searchCategories%5B1%5D=200&searchString%5B1%5D=&combinationOperator%5B2%5D=AND&searchCategories%5B2%5D=100&searchString%5B2%5D=&combinationOperator%5B3%5D=AND&searchCategories%5B3%5D=6015&searchString%5B3%5D=&searchHistoryCombinationOperator=AND&searchHistory=&searchRestrictionValue1%5B0%5D=&searchRestrictionID%5B0%5D=14&searchRestrictionValue1%5B1%5D=&searchRestrictionID%5B1%5D=13){:target="_blank"} to search, but please note the catalog must [already be open](https://opac.rism.info){:target="_blank"}.)
@@ -33,7 +32,5 @@ August 15: Assumption of Mary - **Mariae (B.V.) Assumptio**
 December 8:  Immaculate Conception - **Mariae (B.V.) Conceptio Immaculata**
 
 
-
 Photo source: Domenico Ghirlandaio, _Natività di Maria,_ Cappella Tornabuoni, 1485-1490, fresco,Firenze,basilica di Santa Maria Novella, from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-
 

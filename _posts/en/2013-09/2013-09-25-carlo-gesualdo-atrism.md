@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Wagner and Verdi are not the only big musical names marking anniversaries this year. Carlo Gesualdo died on 8 September 1613 – 400 years ago. The Principe di Venosa was noted in his time for his bold chromaticisms and was a champion of polyphony in an era when others like Monteverdi tended to allow one voice to dominate.
 
 Gesualdo also went down in history as a jealous spouse, murderer, and eccentric nobleman. He was born in 1566, likely in or around Naples. He came from a wealthy family, which allowed him to receive a good musical education (lute, voice, counterpoint, and composition) and was brought up wholly in line with Baldassare Castiglione’s _The Book of the Courtier_. When his older brother died, he moved up in succession and in 1586 he became the Prince of Venosa. In the same year, he married his cousin Maria d‘Avalos (ca. 1560-1590) for political reasons. To this day, it is still uncertain whether Gesualdo himself murdered his wife and her lover or merely ordered it to be done. Initially he fled, probably in fear of revenge from the d’Avalos family. In 1594, he married Leonora d‘Este from Ferrara, where he remained for two years and where many of his madrigals were probably written.

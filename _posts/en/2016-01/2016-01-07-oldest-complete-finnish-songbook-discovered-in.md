@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 New year, new discovery: musicologist Suvi-Päivi Koski has uncovered the oldest known complete Finnish songbook at the SLUB in Dresden, according to the [SLUBlog](http://blog.slub-dresden.de/beitrag/2016/01/04/aeltestes-vollstaendiges-finnisches-gesangbuch-entdeckt/){:target="_blank"}. It is entitled _Yxi Wähä Suomenkielinen Wirsikiria_ ("A small Finnish songbook"), published by Hemmingius Henrici Maschoensis, and was printed in 1607 in Rostock, Germany.
 
 The first Finnish songbook was published around 1583 by Jacobus Petri (Jaakko) Finno, but the only known copy - held by the [University Library in Uppsala](http://www.uu.se/en/){:target="_blank"}- is incomplete. Finno's songbook contains mostly German and Swedish hymns that were adapted and translated into Finnish.

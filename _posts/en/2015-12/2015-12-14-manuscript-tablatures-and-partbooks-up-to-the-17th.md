@@ -11,7 +11,6 @@ email: giglberger@bsb-muenchen.de
 author: Veronika Giglberger
 ---
 
-
 The [manuscript tablatures and partbooks of the Bavarian State Library (BSB)](http://www.digitale-sammlungen.de/index.html?c=sammlung&projekt=1448525517&l=en){:target="_blank"} up to the seventeenth century are, in addition to early printed music and choirbooks, the third and final type of universal music collection owned by the dukes of Bavaria in the sixteenth and seventeenth centuries.
 
 The collection includes two groups of manuscripts, which are linked by their origin and their contents: vocal partbooks and tablatures with instrumental music.

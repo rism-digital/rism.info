@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM ist eines von vier großen internationalen musikbibliographischen Unternehmungen, den sogenannten R-Projekten. Während RISM Quellen zur Musk verzeichnet, weist [RILM](http://www.rilm.org/){:target="_blank"} Literatur nach, [RIdIM](http://www.ridim.org/){:target="_blank"} befasst sich mit Musikikonographie und [RIPM](http://www.ripm.org/){:target="_blank"} mit Musikzeitschriften. Seit einiger Zeit haben diese Projekte ihre Zusammenarbeit verstärkt und bieten eine gemeinsame Website an: [http://www.r-musicprojects.org/](http://www.r-musicprojects.org/), die Kurzdarstellungen für jedes R-Projekt bietet.
 
 Darüber hinaus reisen Vertreter zu Konferenzen und präsentieren in einer gemeinsamen Sitzung ihre Projekte. Inzwischen konnte das bereits auf 13 Konferenzen geschehen, wie auf der Website unter [Presentations](http://www.r-musicprojects.org/presentations.html){:target="_blank"} nachzulesen ist. Zur letzten Konferenz wurde ein gemeinsames Poster entworfen, das hier wiedergegeben wird.

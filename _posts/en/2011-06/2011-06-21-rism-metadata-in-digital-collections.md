@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The University of Washington Library (US-Su) is the first library in the United States to undertake a project in which RISM metadata are harvested for use in digital collections.\*
 
 Their [Music Library Digital Scores Collection](http://content.lib.washington.edu/mmweb/index.html){:target="_blank"} currently includes digital images of manuscripts held in the Music Library's Rare Book Collection. The scores date from the 17th-19th centuries, with the majority of the collection containing 17th and 18th-century operas, opera excerpts, and other vocal music. All of the manuscripts are indexed in RISM A/II. The RISM Zentralredaktion provided the metadata for the description of each digitized score as MARC XML files, which were then modified by the library according to the needs of the project.

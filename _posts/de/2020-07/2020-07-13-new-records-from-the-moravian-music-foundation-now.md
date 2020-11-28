@@ -11,7 +11,6 @@ email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---
 
-
 _Der folgende Beitrag stammt von Barbara Strauss, [Moravian Music Foundation](https://moravianmusic.org/){:target="_blank"} (Winston-Salem, North Carolina, USA). Die Salem Collegium Musicum Collection ist jetzt bei RISM ([Bibliotheks-Sigel: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS){:target="_blank"}). Die deutsche Übersetzung ist gekürzt._
 
 Die Sammlung des Salem Collegium Musicum beinhaltet überwiegend Kammermusik und klein besetzte Orchesterwerke sowie einige Oratorien, Vokal- und Klaviermusik. Die Mehrheit der Stücke - sowohl Handschriften als auch Drucke - stammt aus der Feder von europäischen Komponisten des späten 18. und frühen 19. Jahrhunderts.
@@ -27,6 +26,5 @@ Zur Sammlung gehören auch 33 Handschriften, kopiert von [Johann Friedrich Peter
 Ende des 18. Jahrhunderts und am Beginn des 19. Jahrhunderts wurden Musikdrucke in größerem Umfang nach Salem importiert; sie stammen von mindestens 38 Musikverlagen. Von einigen Ausnahmen abgesehen handelt es sich meist um Stimmen und seltener um Partituren. Viele aufführungspraktische Eintragungen sind ein Beleg dafür, dass die Noten aus benutzt wurden.
 
 _Abbildung_: Johann Ernst Bach, Sinfonie in B-Dur (Titelseite, erste Seite der 1. Violine). Moravian Music Foundation, Archie K. Davis Center, Winston-Salem, NC (US-WS) SCM 123. [RISM ID no. 240643](https://opac.rism.info/search?id=240643&View=rism){:target="_blank"}.
-
 
 

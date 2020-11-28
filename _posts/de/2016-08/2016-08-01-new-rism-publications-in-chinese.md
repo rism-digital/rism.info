@@ -11,7 +11,6 @@ email: tzchia22@gmail.com
 author: Tzu-Chia Tseng
 ---
 
-
 **Die chinesische Version des RISM-Kurzportraitsund der Artikel“RISM” auf der chinesischenWikipedia-Seite sindonline!**
 
 MitHilfeder RISM-Zentralredaktion und der internationalen Unterstützung durch Dr. Nora YEH und Prof. Judy TSOU hat die [Chinesisch-sprachige RISM-Arbeitsgruppe](http://www.rism.info/de/international/arbeitsgruppen-uebersicht.html "Öffnet internen Link im aktuellen Fenster") die chinesische Übersetzung der Broschüre und des Wikipedia-Artikels über RISMfertiggestellt. Sie sind nun für alle Interessierten verfügbar.

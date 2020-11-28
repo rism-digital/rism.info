@@ -11,7 +11,6 @@ email: seiffert@henle.de
 author: Wolf-Dieter Seiffert
 ---
 
-
 _Dieser Beitrag stammt vom Geschäftsführer des Henle Verlags und unserem geschätzten RISM Präsidenten Wolf-Dieter Seiffert. Er wird hier mit freundlicher Genehmigung aus dem[Henle blog](http://www.henle.de/blog/en/2015/05/25/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozart%E2%80%99s-piano-sonata-in-a-major-kv-331/){:target="_blank"} veröffentlicht._
 
 Vermutlich kennen Sie Mozarts [A-dur-Klaviersonate KV 331](https://www.youtube.com/watch?v=6X6zE_YiOvM) (mit dem „alla turca“-Rondo). Eine der bekanntesten Sonaten des gesamten Klavierrepertoires, wenn nicht gar die bekannteste. Und doch ist es die bittere Wahrheit, dass wir alle diese berühmte Sonate bis heute falsch spielen, jedenfalls nicht so, wie es Mozart wollte. Warum? Bis heute gibt es keine einzige fehlerfreie Notenausgabe dieses berühmten Stücks. Das 19. Jahrhundert hatte die Sonate fast bis zur Unkenntlichkeit entstellt; Urtextausgaben des 20. Jahrhunderts (auch unsere bisherige) mussten im Wesentlichen die Erstausgabe („Opus 6“ im Verlag Artaria, Wien 1784) als beste verfügbare Textgrundlage heranziehen, weil Mozarts Autograph (bis auf die Schlussseite des „alla turca“) verloren war.

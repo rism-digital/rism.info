@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mary, Queen of Scots (1542-1587) is a complicated figure and in many ways a tragic one. After a childhood in France, Mary Stuart began her personal reign in Scotland at the age of 18 in a country that she barely knew. During her rule she showed no gift for leadership, could not gain control of the political situation, and as a ruler did very little. She was implicated in the murder of her second husband, Henry Stuart, Lord Darnley, through her close association with James Hepburn, Earl of Bothwell, who was suspected to be behind Darnley's murder and whom Mary married three months later. Underneath this specter of conspiracy, murder, and adultery, Mary was forced to abdicate in 1567 and she escaped to England to seek assistance from her cousin Queen Elizabeth. Here in Protestant England the Catholic Mary was once again viewed with suspicion and dogged by political intrigue, causing Elizabeth to keep Mary imprisoned for nearly two decades. Mary, Queen of Scots was found guilty of treason and beheaded in 1587.
 
 It is no wonder that the life of Mary, whose 475th birthday is today, has provided enough dramatic material to keep composers (not to mention poets, playwrights, and artists) busy up to our present times. But let's begin with Mary's own era. Mary was herself a musician and was known to have filled her court with music. Having spent her formative years in France, Mary could sing and play lute, virginal, and harp. Her court was filled with the sounds of viol, lute, recorders, reed instruments, trumpets, and cornets. The RISM online catalog has sources for two pieces called "[Queen Mary's dumpe](https://opac.rism.info/search?View=rism&q=queen+mary+dumpe&Language=en){:target="_blank"}," which were short instrumental dances characteristic of the time.
@@ -28,6 +27,5 @@ D. James Ross, _Musick Fyne: Robert Carver and the Art of Music in Sixteenth Cen
 Jenny Wormald, _Mary, Queen of Scots: Politics, Passion and a Kingdom Lost_ (London: Tauris Parke, 2001).
 
 _Image_: "Mary, Queen of Scots, 1542 - 1587. Reigned 1542 - 1567," artist unknown, about 1610 - 1615. [Scottish National Portrait Gallery](https://www.nationalgalleries.org/art-and-artists/3235/6004/mary-queen-scots-1542-1587-reigned-1542-1567){:target="_blank"}, PG 1073, CC-BY-NC 3.0.
-
 
 

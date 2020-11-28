@@ -11,7 +11,6 @@ email: ikarus_k@hotmail.com
 author: Stefan Ikarus Kaiser
 ---
 
-
 _We have received the following from Ikarus Kaiser (RISM Austria):_
 
 At a secondary school in Linz, Austria ([Bundesrealgymnasium Linz, Fadingerstraße](http://www.fadi.at/){:target="_blank"}), a historical music collection was discovered that dates from the late nineteenth and early twentieth centuries. This Linz _Realschule_ is steeped in tradition, though an emphasis on a humanities-centered education that includes music might not be expected, especially when compared with other _Realschulen_ of its day.
@@ -21,8 +20,6 @@ The school was founded in 1851 by Adalbert Stifter. The famous pianist, conducto
 The music collection, which is in parts incompletely preserved, goes from the mid-twentieth century backto the time of the school's founding. It comprises approximately 70 works, mainly historical music imprints and some manuscript copies and autograph manuscripts. The collection includes works by Friedrich Arnleitner, Martin Einfalt (1858-1917), Franz Neuhofer (1870-1949), and Ludwig Paupié (1813-1864) and bears witness to the respectable music tradition at the erstwhile _Realschule_. RISM contributor Ikarus Kaiser has recently begun cataloging this collection for the RISM database and the first sources are already [in the online catalog](https://opac.rism.info/search?View=rism&siglum=A-LIbrgf&Language=en){:target="_blank"} (RISM library siglum A-LIbrgf).
 
 
-
 _Image_: Bundesrealgymnasium Linz Fadingerstraße, from [linzwiki.at](http://www.linzwiki.at/wiki/BRG_Fadingerstra%C3%9Fe/){:target="_blank"}
-
 
 

@@ -11,7 +11,6 @@ email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---
 
-
 **Proyecto de catalogación del Conservatorio de Querétaro, México**(English below)_
 
 John G. Lazos, nuestro colaborador está a punto de comenzar el proyecto de catalogación del acervo musical del Fondo reservado del [Conservatorio “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} en Querétaro, México (siendo su clave en RISM: MEX-SQamc). Durante su visita de este mes, Dr. Lazos ha podido reunirse con el bibliotecario y las autoridades para asegurar el permiso de este proyecto.
@@ -20,13 +19,11 @@ Hasta el momento hay [seis entradas en RISM sobre este conservatorio](https://op
 
 Dr. Lazos estará catalogando con Mariana Iniesta, Jazmín M. Villalobos Soto y Jorge Vargas, todos estudiantes del Conservatorio de Querétaro.
 
-
 **New RISM Cataloging Project at the Conservatory of Queretaro, Mexico**
 Our RISM contributor John G. Lazos will soon launch a new project to catalog the musical holdings of the archive of the [Conservatorio de Música “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} in Queretaro, Mexico (RISM library siglum: MEX-SQamc). During a trip to Mexico this month, Dr. Lazos was able to meet with the archivist and the authorities there and secure permission to catalog the archive.
 
 So far, there are [six records in RISM from this conservatory](https://opac.rism.info/search?View=rism&siglum=MEX-SQamc&Language=en){:target="_blank"}, which Dr. Lazos cataloged in the course of a previous project that focused on the music of José Antonio Gómez y Olguín (1805-1876). The entire archive is very extensive, but at the end of all the work, a foundation will be available to enable the musical story of this archive to be told.
 
 Dr. Lazos will be cataloging with Mariana Iniesta, Jazmin M. Villalobos Soto and Jorge Vargas, all students of the Conservatory of Queretaro.
-
 
 

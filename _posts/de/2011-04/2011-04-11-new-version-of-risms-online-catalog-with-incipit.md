@@ -11,7 +11,6 @@ email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---
 
-
 Ende März 2011 wurde eine neue OPAC-Version des Internationalen Quellenlexikons der Musik (RISM) freigeschaltet. Als neue Features kamen in dieser Version die Musikincipitsuche, Links zu Digitalisaten und diverse kleinere Korrekturen (Anzeige der besitzenden Bibliothek bei überführten Beständen, Anzeige bisher nicht darstellbarer Musikincipits, usw.) hinzu.
 
 Für die Musikincipitsuche stehen zwei neue Suchfelder zur Verfügung. Damit ist es möglich, musikalisch ähnliche Werke aufzufinden. Die Suche geht dabei über den Tonverlauf des Kompositionsbeginns. Man braucht also nur die Tonbuchstaben (C, D, E, F, G, A, H) einzugeben. Bei Eingabe im ersten Suchfeld erhält man nur Ergebnisse, die dem Tonverlauf entsprechen, beim zweiten Feld auch solche die dem Verlauf transponiert entsprechen. Die Datenbank weist über eine Million Musikincipits auf.

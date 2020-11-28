@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Begleitend zur diesjährigen Digital Humanities Konferenz in Utrecht versammelten sich im Juli 2019 Musikwissenschaftler und Informatiker zu einer Tagung, bei der zahlreiche Kurzreferate vorgestellt wurden. Dieses Treffen einer ca. 50 Personen umfassenden Study Group, das in der Utrechter Universität stattfand, stand unter dem Motto Digital Musicology und wurde wesentlich von [Frans Wiering](https://www.uu.nl/medewerkers/FWiering){:target="_blank"} organisiert. Das internationale Teilnehmerfeld stellte dabei aktuelle Projekte vor, die an der Schnittstelle zwischen Forschung und Informationstechnologie im Bereich der Musikforschung angesiedelt sind.
 
 Wichtige Entwicklungen betreffen hierbei vor allem die Auswertung und Verbesserung von [Optical Music Recognition (OMR)](https://en.wikipedia.org/wiki/Optical_music_recognition){:target="_blank"}-Daten mit Hilfe neuronaler Netze und die Anbindung solcher Daten an das semantische Web.

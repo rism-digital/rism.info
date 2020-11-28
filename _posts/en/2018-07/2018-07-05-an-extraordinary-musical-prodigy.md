@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 This spaniel hasn't just hopped on the piano stool to howl at whatever noise comes out of that wooden box. If the title of the painting is any indication, _Portrait of an Extraordinary Musical Dog_, this pooch has some real talent. The artist Philip Reinagle (1749-1833) depicts a dog whose paws are poised to play from the music manuscript that is opened up in front of him. He looks like he has been caught in the act of performing—or maybe he just needs some help turning the page.
 
 Though the square piano is likely an English Broadwood piano from ca. 1795 and the music is recognizable as “God Save the King” (fitting for the King Charles Spaniel depicted), the piano omits details such as strings and a name on the nameplate. Given this discrepancy between the real and imagined—and given the fact that we're talking about a piano-playing dog, after all—how seriously is one to take the subject of this artwork? Laurence Libin, who identifies the above details about the piano and the music in [a 1998 article](http://www.jstor.org/stable/41561907){:target="_blank"}, sees a possible connection between the trained pup in the painting and the English pianist and composer William Crotch (1775-1847), who was born 243 years ago today.
@@ -35,6 +34,5 @@ Laurence Libin, “Philip Reinagle's 'Extraordinary Musical Dog',” Music in Ar
 Nicholas Temperley andSimon Heighes, “Crotch, William,” [_Grove Music Online_](https://doi.org/10.1093/gmo/9781561592630.article.06886){:target="_blank"}, retrieved 12 June 2018.
 
 _Image_: Philip Reinagle, _Portrait of an Extraordinary Musical Dog_, 1805. [Virginia Museum of Fine Arts](https://www.vmfa.museum/piction/6027262-8151754/){:target="_blank"}, Richmond. [CC BY-NC.](https://creativecommons.org/licenses/by-nc/4.0/) RIdIM record ID: [5041](http://db.ridim.org/display.php?ridim_id=5041){:target="_blank"}
-
 
 

@@ -11,7 +11,6 @@ email: hkchae@ewha.ac.kr
 author: Hyun Kyung Chae
 ---
 
-
 _The following is by Hyun Kyung Chae, director of [RISM South Korea](http://ewha.kor.rism.info/index.php?id=528):_
 
 The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’sEducational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the EMRI’s work of collecting and digitizing music education materials of East Asia: over 12,000 items of various types of music materials are listed. Its website ([eMUSICdb.info](http://emusicdb.info/)) has been open to the public since November 1, 2014.

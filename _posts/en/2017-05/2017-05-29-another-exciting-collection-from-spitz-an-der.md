@@ -11,7 +11,6 @@ email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 _We have received the following from Gottfried Heinz-Kronberger ([RISM Germany, Munich Office](http://de.rism.info/de/home.html){:target="_blank"}):_
 
 Soon after completing work on [a collection of musical sources from Niederalteich](/rediscovered/2016/06/20/an-exciting-collection.html){:target="_blank"} in southwest Germany ([RISM siglum: D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}), an unexpected offer arose to describe an additional collection that had recently come to light right in Spitz an der Donau (in Austria), thereby cataloging a previously unknown portion of the collection that comprises over 230 items.
@@ -25,6 +24,5 @@ _Images_: Seals of the Pfarre Spitz and stamp of the Niederaltaich Abbey Archive
 Niederaltaich Abbey
 
 Niederaltaich Abbey
-
 
 

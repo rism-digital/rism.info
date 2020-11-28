@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der 30. September 2019 ist der 200. Todestag des französischen Musikpädagogen und Komponisten [Nicolas Roze](https://opac.rism.info/search?View=rism&author=Roze+Nicolas&Language=de){:target="_blank"} (17. Januar 1745, Bourg-Neuf - 30. September 1819, Saint-Mandé).
 
 Schon früh war er für die Priesterlaufbahn bestimmt und fungierte 1752 als Chorknabe an der Kollegiatskirche von Beaune. Wenig später erhielt Roze Kompositionsunterricht bei Jean-Marie Rousseau in Dijon. Nach mehreren Anstellungen als Kapellmeister an verschiedenen Kirchen in Beaune, Angers und Paris wirkte er ab 1779 als privater Generalbass- und Harmonielehrer. Roze verfasste eine Schrift zur Harmonielehre _Système d‘harmonie_, die von Jean-Benjamin de Laborde im _Essai sur la musique ancienne et moderne_ (Paris 1780) veröffentlicht wurde.

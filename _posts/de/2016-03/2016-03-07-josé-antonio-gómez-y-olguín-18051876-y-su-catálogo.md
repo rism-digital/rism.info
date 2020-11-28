@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 [John G. Lazos](/de/workgroups/mexico-dr-john-g-lazos.html), der für RISM schon Hunderte von Musikhandschriften [in Mexico](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} erfasst hat, veröffentlichte einen Katalog zu José Antonio Gómez y Olguíns Kompositionen in mexikanischen Archiven:
 
 John G. Lazos: [_José Antonio Gómez y Olguín (1805-1876) y su Catálogo musical: Un acercamiento a la práctica musical del México decimonónico_](https://www.academia.edu/20043921/Jos%C3%A9_Antonio_G%C3%B3mez_y_Olgu%C3%ADn_1805-1876_y_su_Cat%C3%A1logo_musical_Un_acercamiento_a_la_pr%C3%A1ctica_musical_del_M%C3%A9xico_decimon%C3%B3nico_English_introduction_included_){:target="_blank"}. Montreal: John G. Lazos, 2016.

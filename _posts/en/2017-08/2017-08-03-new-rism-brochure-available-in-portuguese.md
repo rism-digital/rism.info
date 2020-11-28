@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 RISM is pleased to announce that the brochure "RISM: An Overview" is now available in an English-Portuguese version entitled "RISM: Uma visão Geral." It can be downloaded [from the RISM website](/publications/brochures.html).
 
 We would like to thank Beatriz Magalhães Castro (RISM Brazil) and Sílvia Sequeira (RISM Portugal) for translating the brochure into Portuguese.
@@ -21,6 +20,5 @@ The publication of the brochure coincides with the [Third Conference of the IMS 
 If you want professionally printed copies of the brochure, at no charge, please contact us: [contact@rism.info](mailto:contact@rism.info). Let us know how many you want. Feel free to request some copies to share with your colleagues, other staff or faculty members, and students.
 
 "RISM: Uma visão Geral" joins RISM brochures available in English, German, Traditional Chinese, Simplified Chinese, Russian, and Spanish. Please let us know if you are interested in translating the brochure into an additional language.
-
 
 

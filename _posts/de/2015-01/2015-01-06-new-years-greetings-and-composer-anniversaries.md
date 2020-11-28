@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir wünschen allen ein gutes Neues Jahr! Wir freuen uns darauf, die Jahrestage der folgenden Musiker und anderer Personen, die Sie im RISM Online-Katalog finden, zu feiern:
 
 [opac.rism.info](http://opac.rism.info/#sthash.wWudmywh.dpuf)
@@ -341,7 +340,6 @@ Engelhardt, Hinrich Christoph 1694-1765 Sammler
 Hurlebusch, Conrad Friedrich 1691-1765 Komponist
 Molter, Johann Melchior 1696-1765 Komponist
 Rolli, Paolo 1687-1765 Librettist
-
 
 **225. Geburtstag**
 Aßmayer, Ignaz 1790-1862 Komponist

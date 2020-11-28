@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM and the Bavarian State Library ([BSB, Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/){:target="_blank"}) announce a major upgrade of the RISM online catalog at [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"}.
 
 One year ago, the [RISM Catalog interface was redesigned and many improvements were added](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}. Today's release comes one year after that major upgrade. The main focus of development was on the display of music printed editions. Starting today, RISM's nearly 180,000 records for printed editions have a more straightforward structure and clearly differentiate between the printed item as a published unit and the copy-specific information unique to exemplars held around the world.
@@ -24,8 +23,6 @@ Our international contributors are constantly improving the level of detail in t
 
 More improvements are planned over the next few months and we will keep you informed of the developments.
 
-
 _Image_: Joseph Haydn, _Die sieben letzten Worte unseres Erlösers am Kreuze_ (Leipzig, 1801), [RISM ID no. 990026684](https://opac.rism.info/search?id=990026684&View=rism&Language=en){:target="_blank"}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), D-Dl Mus.3356.D.506. [Available online](http://digital.slub-dresden.de/id477566804){:target="_blank"}.
-
 
 

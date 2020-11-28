@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In der neuen Ausgabe des _Journal of the [American Musicological Society](http://www.ams-net.org/){:target="_blank"}_ wird über fünf Choral-Datenbanken berichtet:
 
 - [Cantus Planus Regensburg](http://www.uni-regensburg.de.proxy.ub.uni-frankfurt.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/cantus/){:target="_blank"}

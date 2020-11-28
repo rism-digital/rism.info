@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Sicherlich liegt dieses Jahr die neue CD [St. Petersburg von Cecilia Bartoli](http://ceciliabartolionline.com/st-petersburg/){:target="_blank"} als Geschenk unter vielen Weihnachtsbäumen.
 
 Die Archivbestände der Bibliothek des Mariinsky-Theaters in St. Petersburg (RUS-SPtob), auf die Cecilia Bartoli zurückgriff, sind zwar noch nicht bei RISM erfasst, aber viele Arien der italienischen und deutschen Komponisten, die am russischen Zarenhof tätig waren, finden sich auch in anderen Bibliotheken.

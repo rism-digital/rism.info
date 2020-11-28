@@ -11,7 +11,6 @@ email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
 
-
 _Der folgende Beitrag stammt von Michael Talbot_ _(University of Liverpool, Department of Music, Emeritus):_
 
 Vielen ist das ehrgeizige Projekt “[Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/){:target="_blank"}” – gefördert durch die Deutsche Forschungsgemeinschaft (DFG) und 2016 beendet – ein Begriff. Ein in der Tat außergewöhnlichesProjekt, da nicht nur die Bereitstellung einer Unmenge an Digitalisaten sondern auch eine detaillierte Katalogisierung mit – sofern möglich –Wasserzeichenbeschreibung und Schreiberidentifizierung zum Forschungsauftrag gehörten. Es ermöglicht den Nutzern des [RISM Portals](https://opac.rism.info/){:target="_blank"} mit einem einzigen Klick alle Handschriften dieser bedeutenden Gruppe mit einer Wasserzeichen- und/oder Schreiberangaben zu isolieren und zu berücksichtigen. In der Mehrzahl der Fälle bringt die Verwendung der Suchfilter keine Überraschungen. Nur wenn die Incipits weitere Untersuchungen erforderlich machen, wird man durch den unglaublich schnellen Zugang zur digitalen Ressource ermutigt, weiter zu forschen (ansonsten müsstemanStunden damit verbringen und die Geduld der Bibliotheksmitarbeiter überstrapazieren, um die gleiche Arbeitin situ zu machen.) Das „Was wäre wenn ...?“ und die Entwicklungvon Hypothesen ist fast immer heikel und benötigt viel Zeit in den eigentlichen Bibliothekswänden.
@@ -33,13 +32,11 @@ So wie die Dinge jetzt – Mitte April 2017 – stehen, wird eine Edition des ne
 Ich bin zuversichtlich, dass das, was ich hier an diesem individuellen Beispiel zeigen konnte, in den kommenden Jahren im Zusammenhang mit verschiedenen anderen Komponisten des Hofkirchen-Repertoires sein Gegenstück finden wird. Ich möchte auch erwähnen, dass diese Entdeckung mich dazu veranlasst hat, eine weitere Hypothese mit einer viel breiteren Bedeutung in Betracht zu ziehen: Dass die „Baldan-Lieferung” (oder eine Reihe von Lieferungen) um 1760 an den sächsisch-polnischen Hof nicht für den Dresdener Sitz bestimmt war, sondern während des Siebenjährigen Krieges (1756–1763) an den Zufluchtsort Warschau geschickt wurde. Der Grund, warum die Galuppi zugeschriebenen Werke so zahlreich und überwiegend für die Liturgie bestimmt waren, könnte darin liegen, dass ein komplett neues Repetoire (in der polnischen Hauptstadt) aufgebaut werden sollte, und nicht das bereits vorhandene (in der sächsischen Hauptstadt) zu erweitern. Seitdem diese Idee in mir aufkam, habe ich erfahren, dass mindestens zwei weitere Forscher der gleichen Meinung sind, somit sind auch auf diesem Gebiet weitere Ergebnisse zu erwarten. Der Nachweis einer konkreten Verbindung nach Polen neben der bereits bekannten nach Deutschland würde mich angesichts des wachsenden Interesses junger polnischer Musiker und Musikwissenschaftler am Repertoire der Wettiner Monarchen freuen.
 
 
-
 _Michael Talbot,
 18. April 2017._
 
 Abbildung: _Laetatus sum_ C-Dur, kürzlich von Michael Talbot als Werk von Vivaldi identifiziert und fortan unter RV 827 verzeichnet (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095){:target="_blank"}). Auf der ersten Notenseite verleitete die Namensnennung "Buranello" zur Zuschreibung an Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
 
 
 

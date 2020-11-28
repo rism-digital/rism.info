@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 "RISM [ist] Herrn Dorfmüller als Mitglied der Commission Mixte und als Vorsitzendem seines Advisory Research Committees in vielen Jahren zu besonderem Dank verpflichtet."so der damalige Vorsitzende des Vereins Internationales Quellenlexikon der Musik e.V., Harald Heckmann, 1998.
 
 Das Advisory Research Committee beschäftigte sich unter Herrn Dorfmüllers Vorsitz seit 1973 mit der Planung und Durchführung des Projektes A/II: "Musikhandschriften nach 1600", wozu es die Bearbeitungsregeln festzulegen galt. Wahrscheinlich ist Herr Dorfmüller schon in dieser Zeit in den Verein gebeten worden und eingetreten. Im Vereinsregister ist er seit 1988 als Kooptiertes Vorstandsmitglied eingetragen. Vermutlich war er schon drei Jahre früher in den Vorstand aufgenommen worden, wie das Protokoll der Mitgliederversammlung vom 13. Februar 1988 nahelegt, wonach er "erneut" in den Vorstand kooptiert wurde.
@@ -41,6 +40,5 @@ Catherine Massip (Frankreich): "La nouvelle de la disparition de Kurt Dormüller
 José Vicente González Valle (Spanien): "Es tut mir sehr Leid vom Tod des guten Freundes Dr. Dorfmüller zu hören. Der liebe Gott sei mit ihm, dem guten Musikwissenschaftler und Menschen, der mild und gütig war."
 
 _Foto vonJuan Martin Koch._
-
 
 

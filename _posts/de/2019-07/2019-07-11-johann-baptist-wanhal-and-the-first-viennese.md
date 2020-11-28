@@ -11,7 +11,6 @@ email: ''
 author: Paul Sommerfeld
 ---
 
-
 _Der folgende Beitrag erschien zuerst im ["In the Muse" Blog der Library of Congress](https://blogs.loc.gov/music/2019/05/johann-baptist-wanhal-and-the-first-viennese-school){:target="_blank"} und stammt von Paul Sommerfeld,_ _der derzeit die reichen Bestände an Musikdrucken seiner Bibliothek in RISM überarbeitet._
 
 Die Erwähnung Wiens im späten 18. Jahrhundert erinnert häufig an bekannte Komponisten wie Mozart, Haydn und Beethoven. Da ich aber an einem Projekt beteiligt bin, das Musikdrucke vor 1800 und Musikhandschriften an RISM meldet (Répertoire International des Sources Musicales, eine Open-Access-Datenbank mit der Sie sehen können, welche Bibliothek eine bestimmte gedruckte Partitur oder einzigartige Notenhandschrift besitzt), möchte ich einen vierten Namen der Liste hinzufügen: Johann Baptist Wanhal (1739-1813).
@@ -34,7 +33,6 @@ Die Abbildungen in diesem Blog-Beitrag [stammen alle aus Partituren, die kürzli
 
 [1] Paul Bryan, Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment (Stuyvesant, NY: Pendragon, 1997), xix.
 
-
 _Abbildungen von oben nach unten:_
 
 1: Johann Baptist Wanhal. Ölgemälde von Joseph Willibrod Mähler im Besitz der Gesellschaft der Musikfreunde, Wien, in: [_Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment_](https://lccn.loc.gov/97025760).
@@ -44,6 +42,5 @@ _Abbildungen von oben nach unten:_
 3: Artaria war einer der ersten Wiener Verleger, der Wanhals Musik veröffentlichte. Johann Baptist Wanhal, _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
 
 4: Die erste Seite eines besonders erlesenen Adagio-Satzes in einer Klaviersonate von Wanhal, gedruckt in _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
-
 
 

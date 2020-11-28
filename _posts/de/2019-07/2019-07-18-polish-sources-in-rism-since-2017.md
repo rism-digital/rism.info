@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die Einführung des RISM spezifischen Erfassungsprogramms Muscat Ende 2016 ist in den polnischen Arbeitsgruppen und Katalogisierungsprojekten auf großes Interesse gestoßen. Seitdem sind viele neue Mitarbeiter eingearbeitet und mehr als 5.000 zusätzliche Nachweise aus Polen in die RISM-Datenbank aufgenommen worden. Neue gemeinsame Projekte wurden begonnen, wie z. B. mit dem Chopin-Institut oder mit der RISM-Arbeitsgruppe an der Posener Universität.
 
 Projekte des Chopin-Instituts:
@@ -52,7 +51,5 @@ Die Arbeitsgruppe an der Warschauer Universitätsbibliothek arbeitet schon seit 
 Viele Bestände befinden sich noch in Arbeit. Es lohnt sich also immer wieder einmal im RISM-Katalog vorbei zuschauen.
 
 
-
 _Image_: Poland in the European Union on the globe via [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg/1200px-Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg.png){:target="_blank"}
-
 

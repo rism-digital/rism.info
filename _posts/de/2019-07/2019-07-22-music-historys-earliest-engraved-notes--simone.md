@@ -11,7 +11,6 @@ email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---
 
-
 Während im 16. Jahrhundert Musikdrucke hauptsächlich im Typendruck hergestellt werden und dadurch ein typisch verwackeltes Druckbild erhalten (Ottaviano Petrucci einmal ausgenommen), fallen die Drucke Simone Verovios besonders durch ihr handschriftlich anmutendes Aussehen auf. Die im Stich hergestellten Musikdrucke sind leicht durch ihren charakteristischen Plattenrand zu erkennen.
 
 Die ersten Drucke, welche bei [Verovio (gest. 1607 in Rom](https://opac.rism.info/search?id=pe30092268&Language=en){:target="_blank"} erschienen, sind von 1586. Bis 1608 finden sich [Einzel- und Sammeldrucke](https://opac.rism.info/search?View=rism&q=Verovio+simone){:target="_blank"}, bei denen er mit seinem Namen zeichnet. In diesem Zusammenhang muss auch [Martin van Buyten](https://opac.rism.info/search?View=rism&q=Buyten+Martin&Language=en){:target="_blank"} genannt werden, der mit Verovio zusammengearbeitet hat und selbst als Stecher tätig war. In einem Flugblatt von 1587 mit dem Titel _Essemplare di XIII lingue principalissime_ demonstrieren sie die Möglichkeiten für Schriften im Stich. Die verschiedensten Alphabete von 14 Schriftsprachen sind kein Problem, von deutscher Kurrentschrift über Griechisch bis Hebräisch ist alles möglich.

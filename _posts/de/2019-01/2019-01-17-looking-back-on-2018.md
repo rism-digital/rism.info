@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beliebtesten Beiträge in unserem Blog, die wir 2018 veröffentlichten. Falls Sie einige dieser Entdeckungen und Entwicklungen in der Welt der musikalischen Quellen verpasst haben, haben Sie hier die Chance, es nachzuholen!
 
 1. [Jubiläen im Jahr 2018](http://www.rism.info/de/startseite/newsdetails/article/64/musical-anniversaries-in-2018.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=01&cHash=ecc1c0c9c1ca777863c5a496b285f6be){:target="_blank"}: Wir freuen uns, dass dies so nützlich ist! Hier ist die [Ausgabe 2019](http://www.rism.info/de/startseite/newsdetails/article/2/musical-anniversaries-in-2019.html){:target="_blank"}.
@@ -35,9 +34,7 @@ Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beli
 10. [RISM - vor 500 Jahren](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
-
 Aber auch in 2018 - wie in den voran gegangenen - war der Beitrag[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 der meist gelesene.
-
 
 
 **Highlights der sozialen Medien:**
@@ -55,11 +52,8 @@ Aber auch in 2018 - wie in den voran gegangenen - war der Beitrag[Das älteste K
 - [Time-lapse Video of a Digital Reconstruction of a Tudor Music Manuscript](https://youtu.be/yQ5bfI9BR7E){:target="_blank"}
 
 
-
 Wir möchten unseren treuen Lesern und Unterstützern das ganze Jahr hindurch für Ihre Beiträge, Meinungen, Tipps, harte Arbeit und Entdeckungen danken!
 
 
-
 _Abbildung_: Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-47c3-a3d9-e040-e00a18064a99){:target="_blank"}.
-
 

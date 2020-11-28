@@ -11,7 +11,6 @@ email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-
 _The following post is by TSENG Tzu-Chia from the RISM working group [Chinese Language Region](/workgroups/chinese-language-region/home.html):_
 
 **2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”**
@@ -33,7 +32,6 @@ For now, we have already finished both the Chinese and English versions of this 
 華人音樂家的創作裡，民族器樂作品是很重要的一部分，但是在RISM的編目工作上，中國傳統樂器的譯名一直困擾著工作小組。因此，2018年4月，工作小組成員之一的上海音樂學院召開了一個學術會議，由香港中樂團藝術總監暨指揮家閻惠昌主導，邀請上海音樂學院前民樂系主任王建民，柳琴演奏家暨指揮吳強，北京、臺灣與香港民族器樂作曲家姜瑩、陸枟以及陳明志，香港中樂團行政總監錢敏華，香港演藝學院音樂學科系主任白得雲，以及新加坡鼟樂團研究部主任王辰威，共同討論解決方案，最終擬定一份《常用中國樂器中英文對照表與縮略語表》，同時成立「中國樂器名稱縮略語編輯委員會」，對該份表單定期進行修訂，提供給RISM、華人地區各民族管弦樂團以及全世界的音樂圖書館與檔案館做參考。這份由職業樂團、指揮家與作曲家共同擬定的表單，在實務上更能符合華語區在當代傳統器樂創作的現況；RISM華語區工作小組衷心期望，此表能夠對於各音樂圖書館與檔案館於中國民族器樂作品編目上有所助益，在面臨中國傳統樂器的譯名時亦能有所參考。
 
 [《常用中國樂器中英文對照表與縮略語表》連結在此](/resources-old-website/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf)
-
 
 
 2018/08 RISM华语区工作小组于IAML莱比锡会议进行发表并提出《常用中国乐器中英文对照表与缩略语表》

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das Lost Voices Projekt ist jetzt online:
 
 [http://digitalduchemin.org/](http://digitalduchemin.org/)

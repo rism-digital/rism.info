@@ -11,13 +11,11 @@ email: eliska.sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 _Die nachfolgende Meldung erreichte uns von Eliška Šedivá (Nationalbibliothek, Prag):_
 
 Die Musikabteilung der [tschechischen Nationalbibliothek](http://www.en.nkp.cz/about-us/professional-activities/music){:target="_blank"} präsentiert eine Datenbank der böhmischen Wasserzeichen, die kontinuierlich wachsen wird durch die Katalogisierung und Überprüfung der Musikquellen, die in der elektronischen Musikdatenbank der tschechischen Nationalbibliothek von der RISM-Arbeitsgruppe in Prag bearbeitet werden. Weitere Informationen erhalten Sie direkt auf der Seite der Datenbank:[http://aleph.nkp.cz/web/watermarks/eng/intro.htm](http://aleph.nkp.cz/web/watermarks/eng/intro.htm)
 
 Wir schätzen Ihre Anmerkungen und Kommentare!
-
 
 
 _Abbildung_: Wasserzeichen 4 | WAB / [Lilie (klein)] (no. 1) ([ID 8876](http://aleph.nkp.cz/web/watermarks/_8876.htm){:target="_blank"}),aus der Stříbro Papiermühle vom Papierhersteller Ondřej I. Bayer (Wirkungszeit 1762-ca. 1796). Gefunden in einem anonymen Manuskript _Buď pozdrawena na Sto tisiz_ (Národní knihovna České republiky [CZ-Pu] 59 R 3422. RISM ID no.: [550500459](https://opac.rism.info/search?id=550500459){:target="_blank"})

@@ -11,11 +11,9 @@ email: ''
 author: ''
 ---
 
-
 The RISM Central Office wishes you and your family all the best for a festive holiday season and a Happy New Year.
 
 We look forward to working with you again in 2016.
 
 Image: [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-6996-a3d9-e040-e00a18064a99){:target="_blank"}, postcard from early 1900s.
-
 

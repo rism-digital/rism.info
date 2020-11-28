@@ -11,7 +11,6 @@ email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
 
-
 _Den folgenden Beitrag erhielten wir von unserer RISM-Mitarbeiterin Sandra Föger (RISM Österreich):_
 
 Am 30. April 2020 jährt sich zum 150. Mal [Franz Lehárs](https://opac.rism.info/search?View=rism&author=Lehar+Franz){:target="_blank"} Geburtstag. Seine Werke sind bis heute auf den Bühnen der Welt sehr präsent. Seine Operetten wie die _Lustige Witwe, Graf von Luxemburg, Zigeunerliebe, Paganini, Zarewitsch, Das Land des Lächelns_ oder _Giuditta_ gehören noch heute zu den meist gespielten dieser Gattung.
@@ -27,6 +26,5 @@ Seit den 1990er Jahren ergänzt ein umfangreicher Notenbestand des Wiener Glocke
 Bisher sind in der RISM-Datenbank aus dem Notenbestand des Lehár-Nachlasses über 700 Signaturen dokumentiert. Der Großteil des Bestandes ist bereits öffentlich abrufbar. Bis Ende des Jahres soll der gesamte Bestand auf RISM abrufbar sein.
 
 _Abbildung_: Die Franz Lehár Villa in Bad Ischl. Foto von Toffel über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
-
 
 

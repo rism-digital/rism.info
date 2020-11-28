@@ -11,7 +11,6 @@ email: jennifer.ward@rism.info
 author: ''
 ---
 
-
 In unserer [Nutzerstudie zum Online-Katalog](/de/community/rism-nutzerstudie.html#c3122 "Öffnet internen Link im aktuellen Fenster") erhielten wir Hunderte von Kommentaren. Wir gehen nun alle sorgfältig durch und mit der Zeit werden wir einige der vorgebrachten Anliegen angehen - in dieser Woche möchten wir schon einmal exemplarisch einige Fragen herausgreifen. Heute klären wir dieFrage, aus welchen Ländern Quellenerfasstsindund warum überdurchschnittlich viele Quellen aus Deutschland stammen. Außerdem beschäftigen wir uns mit der Frage nach Sekundärliteratur. Im Laufe der Woche behandeln wir außerdemdie Frage nach derZeit-Grenze und Bibliotheken, die unterrepräsentiert sind, und warum.
 
 Stellvertretend für viele ähnliche Kommentare seien diese zwei Beispiele genannt:
@@ -24,7 +23,6 @@ This blinkered approach represents a serious failure to acknowledge non-German r
 Kurze Antwort: (1.) Ja, Sie haben Recht, es gibt sehr viele Quellen aus Deutschland und (2.) bitte schicken Sie uns Ihre Aufsätze oder andere Veröffentlichungen, damit wir sie ergänzen können! ([jennifer.ward](mailto:jennifer.ward@rism.info)[@rism.info](mailto:jennifer.ward@rism.info))
 
 Ausführliche Antwort: Ihr Verdacht ist richtig: Ca. 42% aller Quellen des [RISM Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} stammen aus Deutschland. Der Grund dafür lässt sich in drei Worten erklären: Geld, Zeit und Personal. Es gibt eine vollständig finanzierte [deutsche Arbeitsgruppe](http://de.rism.info/de/home.html){:target="_blank"} mit acht Mitarbeitern und zwei Büros. Hinzu kommen einige fremdfinanzierte Projekte in Deutschland, die regelmäßig Titel für RISM beitragen. Die Situation in Deutschland ist einzigartig, und zudem eine, von der viele andere Länder nur träumen können.
-
 
 
 Sie können uns helfen, das Gleichgewicht auszubalancieren: Sie kennen eine Musiksammlung, die noch nicht in RISM erfasst ist, und sind an einer Katalogisierung interessiert? Einarbeitung und Software sind kostenlos. Kontaktieren Sie ihre [nationale Arbeitsgruppe](/de/international.html#c20 "Öffnet internen Link im aktuellen Fenster") oder schreiben Sie uns eine Mitteilung: [contact@rism.info](mailto:contact@rism.info).
@@ -41,8 +39,6 @@ Außerdem können Sie uns über Academia.edu kontaktieren, um uns auf IhreLitera
 \* Maciej Jochymczyk, _Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727–1758)_ (Lublin: Wydawnictwo Polihymnia, 2014); Giovanni Tribuzio, "Catalogo della produzione musicale di Giuseppe Corsi", in: _"E nostra guida sia la stravaganza". Giuseppe Corsi da Celano musicista del Seicento: Atti della Giornata di Studio. Celano Auditorium "Enrico Fermi", 7 dicembre 2013_ (Bari: Florestano edizioni, 2014).
 
 
-
 Abbildung: Länder mit Quellenim[RISM-Onlinekatalog](https://opac.rism.info/){:target="_blank"}.
-
 
 

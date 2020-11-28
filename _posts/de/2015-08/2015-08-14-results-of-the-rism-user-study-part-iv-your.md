@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir beschließen die Woche mit einem weiteren Blick auf die Kommentare, die wir im Rahmen [unserer Nutzer-Studie](/de/community/rism-nutzerstudie.html#c3122 "Öffnet internen Link im aktuellen Fenster") erhalten haben.
 
 **„I just wish some very important institutions like A-Wgm [Wien, Gesellschaft der Musikfreunde] were also listed ...“ - Antwort 135**

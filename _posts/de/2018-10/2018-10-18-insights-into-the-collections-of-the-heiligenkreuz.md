@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
 
-
 _Die folgende Ankündigung erhielten wir von P. Roman Nägele OCist (Stift Heiligenkreuz, Österreich):_
 
 **Einblicke in Sammlungen des Stiftes Heiligenkreuz**  **- Musikpflege im Stift Heiligenkreuz**
@@ -24,7 +23,6 @@ Für die oben erwähnte Veranstaltung konnte das renommierte Wiener Ensemble _do
 
 [Einblicke in Sammlungen des Stiftes Heiligenkreuz](/resources-old-website/news/Einblicke_in_Sammlungen_-_Einladung.pdf)
 Freitag, 26. Okt. 2018, 15:00 Uhr im Kaisersaal des Stiftes Heiligenkreuz/Niederösterreich
-
 
 
 Die reichhaltigen Bestände des Stiftes Heiligenkreuz ([A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) sind auch in der RISM-Datenbank erfasst und online recherchierbar.

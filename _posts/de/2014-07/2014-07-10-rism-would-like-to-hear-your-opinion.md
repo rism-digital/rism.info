@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 RISM wird im Rahmen der IAML-Konferenz in Antwerpen eine Nutzerstudie durchführen. Ziel ist es, Ihre Meinung über den Online-Katalog (opac.rism.info) zu erfahren und Ihre Suchstrategien kennen zu lernen, um unsere Dienste optimieren zu können.
 
 Egal, ob Sie Musikbibliothekar, Student, erfahrener Datenbanknutzer sindoder weniger mit RISM vertraut sind, wir sind an Ihrer Meinung interessiert!

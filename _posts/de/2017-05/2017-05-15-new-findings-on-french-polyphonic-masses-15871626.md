@@ -11,7 +11,6 @@ email: lguillo223@orange.fr
 author: Laurent Guillo
 ---
 
-
 _Der folgende Beitrag stammt von Laurent Guillo:_
 
 Im November 2016 wurde in der [Bibliothèque de Fels](http://www.icp.fr/){:target="_blank"} (Institut catholique de Paris; RISM-Sigel: F-Pic) ein Band mit 26 Musikdrucken des Pariser Verlegers Ballard aus den Jahren 1587 bis 1626 wiederentdeckt. Zu Beginn befinden sich 14 polyphone Massen von Orlando di Lasso - gedruckt zwischen 1587 und 1617 - darunter fünf bisher unbekannte Ausgaben (Missa _Ad placitum_ 4v. und _Dic Domina_ 5v. von 1607, Missa _Jager_ 4v. und _Domine Dominus noster_ 6v. von 1613, Missa _Quinti toni_ 4v. von 1617). Für fast alle diese 14 Werke ist es die einzige Überlieferung in Frankreich (andere finden sich nur in London und Köln).
@@ -22,8 +21,6 @@ Dieser Band spiegelt das Repertoire wider, das vermutlich in den französischen 
 
 Bibliographische Details finden Sie in: Laurent Guillo, Découverte à la bibliothèque de Fels (Institut catholique de Paris)d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626), in: [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102 (2016), S. 379-394.
 
-
 _Abbilidung_ : Jehan Titelouze, _Missa Simpli corde_ 6v. Paris: Pierre I Ballard, 1626. Paris, Institut Catholique: b.258(24).
-
 
 

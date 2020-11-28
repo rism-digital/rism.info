@@ -11,7 +11,6 @@ email: richard.boursy@yale.edu
 author: Richard Boursy
 ---
 
-
 _Unsere Reihe RISM A-Z erreicht heute den Buchstaben O und führt uns zu Eva Judd O‘Meara. O‘Meara ist die erste Musikbibliothekarin, die wir in unserer Reihe vorstellen. [Richard Boursy](mailto:richard.boursy@yale.edu), Archivar an der Gilmore Music Library (Yale University), berichtet uns vom Leben und Wirken einer Frau, die bemerkenswert oft mit dem Attribut „zum ersten Mal“ verbunden ist: Sie war erste [Musikbibliothekarin an der Yale University](http://web.library.yale.edu/music){:target="_blank"}, eine der Gründerinnen der [MLA](http://www.musiclibraryassoc.org/){:target="_blank"} und erste Herausgeberin der Zeitschrift [Notes](http://www.musiclibraryassoc.org/?page=Notes){:target="_blank"}._
 
 Eva Judd O’Meara (1884-1979) nahm nicht den gewöhnlichen Weg einer Musikbibliothekarin. Sie hatte keine musikalische Ausbildung, hatte keinen College-Abschluss und wurde eher zufällig Musikbibliothekarin. Allerdings war sie nicht einfach zur rechten Zeit am rechten Ort: Ihre Geistesschärfe, unermüdliche Arbeit und außergewöhnlichen organisatorischen Fähigkeiten ermöglichten ihr, eine der größten Musikbibliotheken aufzubauen und zu einer zentralen Figur in einem neuen Beruf zu werden.
@@ -33,6 +32,5 @@ O‘Meara ging offiziell 1952 in Ruhestand, aber arbeitete noch ein Viertel-Jahr
 Ungeachtet des Fehlens einer formalen Ausbildung erntete O‘Meara Respekt und Anerkennung von denen, die sie kannten - selbst von renommierten Professoren wie Paul Hindemith und Ralph Kirkpatrick, die beide nicht leicht zu beeindrucken waren. 1965 erhielt O‘Meara von der MLA eine Auszeichnung und wurde zum Ehrenmitglied ernannt. Der [Preis](http://rism.info/http:// "external-link-new-window") für die beste Rezension in _Notes_ wurde nach ihr benannt. Yale ehrte sie 1975 mit der _Friends of Music_-Medaille und eine Stiftung, die in ihrem Namen gegründet wurde, unterstützt noch immer die heutige Irving S. Gilmore Music Library.
 
 _Fotografie von O’Meara mit freundlicher Genehmigung derIrving S. Gilmore Music Library, Yale University_
-
 
 

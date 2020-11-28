@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A thematic catalog by Elżbieta Wojnowska (1949-2012) has just been published by the [National Library of Poland](http://bn.org.pl/){:target="_blank"}:
 
 **Elżbieta Wojnowska, [_Thematic Catalogue of 17th-Century Organ Tablatures from the Liegnitz Bibliotheca Rudolphina_](http://www.bn.org.pl/aktualnosci/1178-katalog-tematyczny-utworow-w-siedemnastowiecznych-tabulaturach-organowych-z-legnickiej-kolekcji-bibliotheca-rudolphina.html){:target="_blank"}, ed. Tomasz Jeż. Warsaw: Biblioteka Narodowa, 2016.**
@@ -29,7 +28,6 @@ The three extant tablatures are completely in RISM:
 - Biblioteka Narodowa (PL-Wn), Mus.327 Cim. (olim Libr.Mus. 98) [RISM ID no.: 300505000](https://opac.rism.info/search?id=300505000){:target="_blank"}
 - Biblioteka Narodowa (PL-Wn), Mus.326 Cim. (olim Libr.Mus. 100) [RISM ID no.: 300042629](https://opac.rism.info/search?id=300042629){:target="_blank"}
 - Biblioteka Towarzystwa Przyjaciół Nauk (PL-LEtpn), S/5 (olim Libr.Mus.101). [RISM ID no.: 301012250](https://opac.rism.info/search?id=301012250){:target="_blank"}
-
 
 
 In the RISM catalog, references to Wojnowska's catalog are included using the abbreviation WojnowskaC 2016.

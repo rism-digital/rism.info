@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 Die Musikwissenschaftlerin Univ.-Doz. Mag.art. Dr.phil. Hildegard Herrmann-Schneider stieß während ihres RISM-Arbeitsalltags in Tirol zufällig auf ein handschriftliches Notenbuch aus der Zeit um 1780. Dieser Band enthält unter anderem ein bislang unbekanntes Klavierstück, das ausdrücklich dem jungen „Wolfgango Mozart“ zugeschrieben ist.
 
 Auf S. 12-14 steht ein Stück mit der Tempobezeichnung „Allegro molto“ und der Verfasserangabe „Del Signore Giovane Wolfgango Mozart“.

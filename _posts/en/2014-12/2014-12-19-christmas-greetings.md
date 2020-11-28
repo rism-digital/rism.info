@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 The RISM Central Office wishes you and your family all the best for a festive holiday season and a happy New Year.
-
 
 
 We look forward to working with you again in 2015.

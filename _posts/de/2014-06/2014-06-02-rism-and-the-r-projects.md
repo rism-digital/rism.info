@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM ist derzeit auch auf der Website der[Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"} (USA) abgebildet. Es erscheint neben seinen Schwester-Projekten:
 
 - Répertoire International de Littérature Musicale (RILM)
@@ -24,7 +23,6 @@ RISM ist derzeit auch auf der Website der[Music Library Association](http://www.
 Zusammen werden diese vier Projekte als die R-Projekte der Musikwissenschaft bezeichnet. Auf der[Website der R Projekte](http://www.r-musicprojects.org/index.html){:target="_blank"} ist zu lesen: "the principal function of the Rs is to create the necessary bibliographical research tools that identify and facilitate access to this extensive body of primary sources."
 
 Alle vier R Projekte werden gemeinsam von der [International Musicological Society (IMS)](http://ims-international.ch/){:target="_blank"} und der [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"} unterstützt.
-
 
 
 Bildnachweis:[Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"}.

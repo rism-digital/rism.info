@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The annual [Music Library Association conference](http://www.musiclibraryassoc.org/mpage/mla_2017){:target="_blank"} (US branch of [IAML](http://www.iaml.info/){:target="_blank"}) will be held from 22-26 February 2017 in sunny Orlando, Florida. This conference will be the first [Pan American regional IAML meeting](http://www.iaml.info/news/mla-goes-pan-american){:target="_blank"} and many of our colleagues from the entire Latin American region will be in attendance.
 
 The timing of the conference is especially fitting given the conference [Documenting Musical Sources in Latin America](/publications/sources-in-latin-america-2016.html#c3287) that we hosted this past September. The MLA conference is therefore an excellent opportunity to reconnect with our Latin American colleagues and share information about the state of source documentation in the region.
@@ -27,16 +26,13 @@ Please stop by these RISM sessions, both on Friday, February 24:
 [Friday, February 24, 11:00am-12:25pm (live streaming)](http://www.musiclibraryassoc.org/mpage/mla_2017_fr_1_2){:target="_blank"}
 
 
-
 Klaus Keil, director of the RISM Central Office in Frankfurt, will speak as part of a panel on music collections in Latin America. Klaus will give an overview of RISM activities in Latin America to date. He will be joined by others including John Lazos, our RISM colleague from Canada, and Cecilia Astudillo Rojas of the Biblioteca Nacional de Chile. Both John and Cecilia spoke at the RISM conference in September. This panel will be streamed online.
-
 
 **RISM updates and Muscat demonstration**
 
 -
 
 [Friday, February 24, 2:00pm-2:25pm](http://www.musiclibraryassoc.org/mpage/mla_2017_fr_2_4){:target="_blank"}
-
 
 
 Sarah Adams and Christina Linklater from the US RISM office will give a brief presentation on [Muscat](http://www.rism.info/en/community/muscat.html){:target="_blank"}, our browser-based, open-access program for cataloging and reporting musical sources, including manuscripts, printed music, libretti, and treatises. This lightening-fast session will include a demonstration of the tool and some important points about training and documentation.
@@ -58,7 +54,6 @@ Friends and fans of RISM might want to check out these other sessions:
 [Thursday, February 23, 9:00am-10:25am (live stream)](http://www.musiclibraryassoc.org/mpage/mla_2017_th_1_1){:target="_blank"}
 
 
-
 This session features André Guerra Cotta (Universidade Federal Fluminense Polo Rio das Ostras) and Beatriz Magalhães Castro (Universidade de Brasilia) from RISM Brazil as well as Yael Bitrán Goren from CENIDIM, which co-organized with Conservatorio de las Rosas [a conference in 2015](/events/2015/09/14/rism-and-the-rs-in-mexico.html){:target="_blank"} that featured the 4 R projects. This session will be streamed online.
 
 **IAML Latin America Forum: Improving access to music resources through cooperation**
@@ -68,13 +63,10 @@ This session features André Guerra Cotta (Universidade Federal Fluminense Polo 
 [Thursday, February 23, 3:30pm-4:25pm (live stream)](http://www.musiclibraryassoc.org/mpage/mla_2017_th_1_5){:target="_blank"}
 
 
-
 This panel discussion among colleagues from six Latin American countries will explore opportunities for international cooperation and provide an opportunity for learning and sharing about the musical landscape and cultural heritage of Latin American countries among all in attendance. This session will be streamed online.
 
 ##
 
-
 ###
-
 
 ##

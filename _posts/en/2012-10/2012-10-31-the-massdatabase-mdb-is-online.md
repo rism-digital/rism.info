@@ -11,7 +11,6 @@ email: plaksin@uni-mainz.de
 author: Anna Plaksin
 ---
 
-
 In June, the MassDataBase was presented at the international RISM Conference, still in the stages of preparation. It has been open to the public since the beginning of October.
 
 The database records around 40,000 settings of the Ordinary to range from the closing years of the 14th century up to the present day. In addition to general information on the works and fundamental biographic data, it also contains information on the source material and modern editions for each individual composition. The information provided is built ona systematic compilation of the established encyclopedias and source catalogues (MGG 1 and 2, New Grove, and RISM) as well as the specialist literature.

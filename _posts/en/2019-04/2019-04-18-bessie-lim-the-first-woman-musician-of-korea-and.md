@@ -11,7 +11,6 @@ email: jchangsfz@gmail.com
 author: Dr. JeongYoun Chang
 ---
 
-
 _We have received the following from Dr. JeongYoun Chang ([RISM South Korea](http://ewha.kor.rism.info/index.php?id=531#c2128)):_
 
 Bessie Lim (林培世, 1897-1999) was a talented woman musician in early modern Korea. She made lots of stage appearances as a soprano and composed "Temperance Song" (금주가/禁酒歌, 1918; [RISM ID no. 1001064244](https://opac.rism.info/search?id=1001064244&View=rism&Language=en){:target="_blank"}) when it was rare to see female composers in Korea. She was famous for her beautiful voice and a song by her was widely sung by people as a _chansong-ga_ (찬송가/讚頌歌), a kind of hymn, in the 1920 and 30s. Before going abroad to the U.S.A., she served as a teacher at Ewha Haktang (이화학당/梨花學堂) where she had studied. Except for these facts, her exact life dates, personal history, specific activities and life after going abroad all had remained in the shade.

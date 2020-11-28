@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In den internationalen Bibliotheken wird die Einführung von Werktiteln immer nachdrücklicher diskutiert. Die Übertragung dieser Idee auf musikalische Werke erscheint auf den ersten Blick besonders plausibel, hat doch die Herstellung von Werkverzeichnissen in der Musikwissenschaft eine über 100jährige Tradition.
 
 Allerdings ist gerade in den letzten Jahrzehnten der Werkbegriff selbst als Konstrukt des 19. Jahrhunderts entlarvt worden. Vielfach wurde der Blick auf die Gattungen geworfen, die sich gerade nicht in eine festgelegte Werkgestalt pressen lassen. Das ist vor allem die Oper, deren Werkgestalt von Aufführung zu Aufführung wechseln kann. Es betrifft aber auch Kammermusik, die manchmal schon bei der Erstveröffentlichung in verschiedenen Fassungen, verschieden instrumentiert usw., vorgelegt wird. Die Beispiele ließen sich leicht fortsetzen.

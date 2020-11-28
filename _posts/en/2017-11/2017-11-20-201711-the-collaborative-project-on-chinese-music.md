@@ -11,7 +11,6 @@ email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-
 _The following has reached us from TSENG Tzu-Chia of the [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html) working group:_
 
 The annual meeting of the Collaborative Project on Chinese Music Resources and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China took place on November 8, 2017. At the same time, a RISM Cataloging Workshop was organized. Klaus Keil, Director of the RISM Central Office; Nora Yeh, International Consultant of the RISM-Chinese Language Region; HUANG Chun-Zen, Director of Digital Archive Center for Music (DACM), NTNU; TSENG Tzu-Chia, a researcher at DACM; YANG Yandi, Vice President of the Shanghai Conservatory of Music (SHCM); SHI Yin,ViceDirector of SHCM Library; HAN Bin, the associate researcher of SHCM Library; and colleagues from the Hong Kong Chinese Orchestra and SHCM Library attended these related activities.
@@ -37,7 +36,6 @@ Meeting participants also planned the 2018 RISM-CLR working process, including a
 兩天的會議中，RISM華語區工作小組也規劃了明年的工作進程，包括：協助各成員管完成定量數據的上傳、Muscat中文翻譯、持續進行技術討論、投稿2018 IAML會議論文發表、推動中國民族樂器英譯名統一等，Mr. Keil也建議工作小組成立區域辦公室，統籌協助愈來愈多華語地區相關音樂機構與團體欲加入RISM之需求。
 
 
-
 2017/11年华人音乐文献集藏计划年度会议暨RISM工作坊顺利于上海音乐学院举行
 
 2017年11月8日至11日，《华人音乐文献集藏计划》年度会议与《反哺归家：中国早期录音的历史与意义》国际工作坊共同于上海音乐学院开幕，同时举办国际音乐文献资源总目（RISM）专题工作坊。RISM现任主席Klaus Keil、RISM华语区工作小组国际顾问叶娜博士、工作小组成员：台师大音乐数位典藏中心黄均人主任、曾子嘉研究员、上音杨燕迪副院长、图书馆史寅副馆长、韩斌副研究员，以及与会的香港中乐团与上音图书馆同仁们都参加了相关活动。
@@ -47,5 +45,4 @@ Meeting participants also planned the 2018 RISM-CLR working process, including a
 这一年来，RISM平台上逐渐增加了新的中文资源条目。为求数据的标准一致，华语区工作小组中的技术小组在香港中央图书馆郑学仁馆长、曾丽满高级馆长的统筹下，由专业编目人员Angie主导，逐渐统一编目规范，并一一克服相关著录问题，期待每条上传的数据都能提供可靠的信息。
 
 两天的会议中，RISM华语区工作小组也规划了明年的工作进程，包括：协助各成员管完成定量数据的上传、Muscat中文翻译、持续进行技术讨论、投稿2018 IAML会议论文发表、推动中国民族乐器英译名统一等，Mr. Keil也建议工作小组成立区域办公室，统筹协助愈来愈多华语地区相关音乐机构与团体欲加入RISM之需求。
-
 

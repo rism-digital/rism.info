@@ -11,7 +11,6 @@ email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---
 
-
 _Den folgenden Beitrag erhielten wir von François-Pierre Goy (Bibliothèque Nationale de France, [Département de la Musique](https://www.bnf.fr/fr/departement-de-la-musique){:target="_blank"}):_
 
 Auch wenn noch nicht alle Musikhandschriften der BnF bei RISM erschlossen sind, ist F-Pn nun das Sigel mit den fünftmeisten Nachweisen in der RISM-Datenbank.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 [Polona](https://polona.pl/){:target="_blank"}, the digital library administered by the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"}, has published its 2 millionth work and has just released an interface in English. (Look at the bottom of the page for a link to the English version.)
 
 Polona includes treasures of Polish culture from the National Library and a number of other institutions. You can find books, old prints, manuscripts, graphics, maps, photographs, flyers, posters, postcards—and of course music. So far, over 12,000 music items are included.
@@ -25,10 +24,8 @@ For **music manuscripts** , select the category "[manuscripts](https://polona.pl
 
 High-resolution images are available and items in the public domain may be reused without asking for permission.
 
-
 _Image_ : Fryderyk Chopin, _4 Mazurkas_. Biblioteka Narodowa. Public domain, from [Polona](https://polona.pl/item/4-mazurkas-pour-le-piano-dediees-a-mlle-rose-mostowska-op-33,MTEyNDgwNA/){:target="_blank"}
 
 _With thanks to Sonia Wronkowska (RISM Poland)_
-
 
 

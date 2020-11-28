@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Maria Stuart, Königin von Schottland (1542-1587) ist eine komplexe und in vielerlei Hinsicht tragische Figur. Nach einer Kindheit in Frankreich, übernahm sie im Alter von 18 Jahren die persönliche Regentschaft über Schottland - einem Land, das sie kaum kannte. Während ihrer Herrschaft konnte sie keine Kontrolle über die politische Situation gewinnen und trat als Herrscherin wenig hervor. Sie war durch die enge Verbindung zu James Hepburn, Earl of Bothwell in den Mord an ihrem zweiten Ehemann Henry Stuart, Lord Darnley verwickelt. Nur drei Monate nach dessen Tod heirateten Maria Stuart und James Hepburn. Unter dem Verdacht der Verschwörung, des Mordes und des Ehebruchs musste Maria Stuart 1567 abdanken und floh nach England zu ihrer Cousine Queen Elizabeth. Im protestantischen England wurde die katholische Maria erneut mit Argwohn betrachtet und von politischen Intrigen verfolgt, was Elizabeth veranlasste Maria für fast zwei Jahrzehnte zu inhaftieren. Maria Stuart, Königin von Schottland wurde 1587 des Hochverrats für schuldig befunden und enthauptet.
 
 Das Leben von Maria Stuart, deren 475. Geburtstag heute ist, bietet genügend dramatisches Material, um Komponisten (ganz zu schweigen von den Poeten, Dramatikern und anderen Künstlern) bis in unsere Gegenwart zu beschäftigen. Aber fangen wir mit Marias eigener Zeit an. Maria war selbst eine Musikerin und dafür bekannt, ihren Hof mit Musik zu erfüllen. Nachdem sie prägende Jahre in Frankreich verbracht hatte, konnte Maria singen und Laute, Virginal und Harfe spielen. Ihr Hof war erfüllt von Gamben, Lauten, Blockflöten, Rohrblattinstrumenten, Trompeten und Hörnern. Der RISM Online-Katalog bietet zwei Quellen zum sogenannten "[Queen Mary's dumpe](https://opac.rism.info/search?View=rism&q=queen+mary+dumpe){:target="_blank"}", charakteristischen Instrumentaltänzen der Zeit.
@@ -23,13 +22,11 @@ In den vergangenen Jahrhunderten haben Komponisten Ereignisse aus Maria Stuarts 
 Das dramatische Leben der Maria Stuart, Königin von Schottland hat sich auch erfolgreich auf die Bühne transferiert. Friedrich Schillers Schauspiel _Maria Stuart_ (1800) war die Vorlage für zahlreiche Opernvertonungen. Die berühmtesteist wohl die[_Maria Stuarda_](https://opac.rism.info/search?View=rism&author=Donizetti&q=maria+stuarda){:target="_blank"} (1835) von Gaetano Donizetti. Weitere Komponosten, die sich auf Schillers Werk stützten, sind [Rudolf Zumsteeg](https://opac.rism.info/search?View=rism&author=Zumsteeg&q=maria+stuart){:target="_blank"} (1801), [Karl Rungenhagen](https://opac.rism.info/search?id=469493802){:target="_blank"} (1817), [Saverio Mercadante](https://opac.rism.info/search?id=852032047){:target="_blank"} (1821), [Friedrich Wollank](https://opac.rism.info/search?id=201005446){:target="_blank"} (19. Jahrhundert), [Werner Egk](https://opac.rism.info/search?id=1001020698){:target="_blank"} (1932) und [Günther Könitzer](https://opac.rism.info/search?id=280001535){:target="_blank"} (1956). Thea Musgraves Oper (1977), basierend auf ihrem eigenen Libretto, ist nicht in RISM.
 
 
-
 _Literatur:_
 Jayne Elizabeth Lewis, _Mary Queen of Scots: Romance and Nation_ (London: Routledge, 1998).
 D. James Ross, _Musick Fyne: Robert Carver and the Art of Music in Sixteenth Century Scotland_ (Edinburgh: Mercat Press, 1993).
 Jenny Wormald, _Mary, Queen of Scots: Politics, Passion and a Kingdom Lost_ (London: Tauris Parke, 2001)
 
 _Abbildung_: "Mary, Queen of Scots, 1542-1587. Reigned 1542-1567," unbekannter Künstler, um 1610-1615. [Scottish National Portrait Gallery](https://www.nationalgalleries.org/art-and-artists/3235/6004/mary-queen-scots-1542-1587-reigned-1542-1567){:target="_blank"}, PG 1073, CC-BY-NC 3.0.
-
 
 

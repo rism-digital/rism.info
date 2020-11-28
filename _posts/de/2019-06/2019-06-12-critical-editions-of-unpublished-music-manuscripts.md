@@ -11,7 +11,6 @@ email: bibliotheque@conservatoire.be
 author: Olivia Wahnon de Oliveira
 ---
 
-
 _Den folgenden Beitrag haben wir von Olivia Wahnon de Oliveira ([Conservatoire royal de Bruxelles](http://www.conservatoire.be){:target="_blank"}) erhalten:_
 
 Das Königliche Konservatorium in Brüssel (B-Bc) informiert über seine redaktionelle Arbeit zu den [Castejon-Music-Editions](http://www.castejon-music-editions.com/){:target="_blank"}.
@@ -47,6 +46,5 @@ _Musikhandschrift B-Bc ARC-M-99/1-4_
 
 8. ZARTH, Georg, Solo a Flauto Traverso con Cembalo, 2019.
 [_Musikhandschrift_ B-Bc 13.365](https://opac.rism.info/search?id=701002457&View=rism){:target="_blank"}
-
 
 

@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 _This announcement has come to us from Hildegard Herrmann-Schneider of RISM Landesleitung Tirol-Südtirol & OFM Austria:_
 
 Premieres of new sounds: Presenting music from the [Biblioteca dell'Accademia nazionale dei Lincei e Corsiniana](https://opac.rism.info/search?View=rism&siglum=I-Rli){:target="_blank"} in Rome (I-Rli), the [Biblioteca nazionale centrale in Rome](https://opac.rism.info/search?View=rism&siglum=I-Rn){:target="_blank"} (I-Rn), and the [Santini-Bibliothek](https://opac.rism.info/search?View=rism&siglum=D-M%C3%9Cs){:target="_blank"} in Münster (D-MÜs) on an organ built by the Tyrolean organ builder Johann Konrad Wörle (also known as Giovanni Corrado Verlè) in 1744 at the Oratorio del Crocifisso in Rome.

@@ -11,7 +11,6 @@ email: ghk@hankeknaus.ch
 author: Gabriella Hanke Knaus
 ---
 
-
 Starting in 2010, the music collections of the Abbey of St. Mary in the Rock (Mariastein; CH-MSbk) have been reorganized in the form of rebuilding the _Musikarchiv_ and _Notenbibliothek_ collections. A highlight of the collection is an autograph manuscript by Wolfgang Amadeus Mozart. The online catalog is also available in three languages.
 
 The music holdings consist of two separate collections:
@@ -37,7 +36,6 @@ In the _Musikarchiv_ collection you will also find all music manuscripts such as
 The catalogue follows rules according to RISM (incipits, etc.)
 
 In the catalogue of the _Notenbibliothek_ collection you will find indications of scoring according to RISM standards.
-
 
 
 **Online catalogue:**

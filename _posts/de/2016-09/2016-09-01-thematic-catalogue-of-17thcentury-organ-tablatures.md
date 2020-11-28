@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In diesem Jahr erschien posthum der thematische Katalog von Orgeltabulaturen des 17. Jahrhunderts aus der Liegnitzer Bibliotheca Rudolphina von Elżbieta Wojnowska (1949-2012) durch die [Nationalbibliothek von Polen](http://bn.org.pl/){:target="_blank"}.
 
 **Elżbieta Wojnowska, [_Thematic Catalogue of 17th-Century Organ Tablatures from the Liegnitz Bibliotheca Rudolphina_](http://www.bn.org.pl/aktualnosci/1178-katalog-tematyczny-utworow-w-siedemnastowiecznych-tabulaturach-organowych-z-legnickiej-kolekcji-bibliotheca-rudolphina.html){:target="_blank"}, hrsg. von Tomasz Jeż. Warschau: Biblioteka Narodowa, 2016.**
@@ -29,8 +28,6 @@ Es finden sich in den Warschauer Tabulaturen nur sehr wenige anonym überliefert
 - Biblioteka Towarzystwa Przyjaciół Nauk (PL-LEtpn), S/5 (olim Libr.Mus.101). [RISM ID no.: 301012250](https://opac.rism.info/search?id=301012250){:target="_blank"}
 
 
-
 Das Kürzel WojnowskaC 2016 verweist auf den Literatureintrag des Kataloges in unserer Datenbank.
-
 
 

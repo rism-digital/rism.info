@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Congratulations to our RISM colleague Dieter Kirsch (Würzburg), who was awarded an honorary doctorate from the Hochschule für Musik in Würzburg.
 
 He was recognized for his contributions to research in the areas of the musical history of Mainfranken (Bavaria) and the history of the Hochschule and its forerunners. In a ceremony on July 9, 2014, Kirsch was honored in speeches by his colleagues and a concert featuring viola da gamba, lute, Biedermeier guitar, and flute.

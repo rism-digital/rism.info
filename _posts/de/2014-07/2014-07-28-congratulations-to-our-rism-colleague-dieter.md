@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Glückwünsche an den RISM-Mitarbeiter Dieter Kirsch (Würzburg), der die Ehrendoktorwürde erhalten hat.
 
 In einer Feierstunde am 09. Juli 2014 wurde Herrn Prof. Dieter Kirsch, ehemaliger Rektor/Präsident der Hochschule für Musik Würzburg, die Ehrendoktorwürde verliehen. In der Laudatio wurden seine Forschungsbeiträge zur musikalischen Geschichte von Mainfranken (Bayern) und der Institutionengeschichte der Hochschule und ihrer Vorläufer hervorgehoben. Geehrt wurde er auch mit musikalischen Beiträgen für Gambe, Laute, Biedermeiergitarre und Flöte.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 New on our bookshelves is a thematic catalog for Pietro Nardini:
 
 **Federico Marri and Marie Rouquié, _Pietro Nardini (1722-1793) da Livorno all’Europa: Catalogo tematico delle opere_ (Treviso: Diastema 2017). 764 p., ISBN 978-88-96988-46-6.**
@@ -33,7 +32,6 @@ Comprehensive information is provided for each work. The descriptions for imprin
 The RISM online catalog has [280 listings for Pietro Nardini](https://opac.rism.info/search?View=rism&author=Nardini+Pietro){:target="_blank"}. Included here are two questionable attributions: one for Pietro Nazari and one for Pietro Antonio Locatelli. RISM's entries for Nardini have been edited and references to this new thematic catalog have been added.
 
 We would like to thank the authors and the publisher for kindly providing us with an examination copy of the catalog.
-
 
 
 Image: Portrait of Pietro Nardini (ca. 1782), from [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8422944h/f1.item){:target="_blank"}.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Alle autographe Musikhandschriften von Franz Schubert (1797-1828), die in der Staatsbibliothek zu Berlin (SBB; rund 60 Autographe) aufbewahrt werden, - wurden als Teil des Projektes "Schubert online" digitalisiert und in der RISM-Datenbank katalogisiert. Die digitalisierten Werke sind in [Schubert Online](http://www.schubert-online.at/activpage/index.php){:target="_blank"}, in den [digitalen Sammlungen der SBB](http://digital.staatsbibliothek-berlin.de/){:target="_blank"} und im [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} verfügbar.
 
 Über Schubert online können kostenlos digitale Reproduktionen von Schuberts Notenautographe sowie Erst- und Frühdrucke als auch eine Briefauswahl und biografische Dokumente eingesehen werden. Hunderte von Einträgen stammen aus den Sammlungen der [Wienbibliothek im Rathaus](http://www.wienbibliothek.at/bestaende-und-sammlungen/musiksammlung/){:target="_blank"}, österreichischen [Nationalbibliothek](http://www.onb.ac.at/sammlungen/musik.htm){:target="_blank"}, [SBB](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/){:target="_blank"} und der [Norwegischen Nationalbibliothek](http://www.nb.no/){:target="_blank"}.
@@ -24,9 +23,7 @@ Die umfangreichste Sammlung von Schubert-Autographen befindet sich heute in der 
 
 Angesichts des vielfach komplementären Verhältnisses der Wiener und Berliner Bestände beteiligt sich die Staatsbibliothek zu Berlin an dem Portal Schubert online, das bereits seit einigen Jahren die Wiener Quellen online zugänglich macht und durch die Beteiligung der SBB und weiterer Bibliotheken nach und nach zu einem zentralen Anlaufpunkt für das virtuelle Studium der Eigenschriften Franz Schuberts ausgebaut werden soll.
 
-
 _Abbildung:_ Franz Schubert: Erlkönig, D 328. Autographe Reinschrift im Liederheft für Johann Wolfgang von Goethe (D-B Mus.ms.autogr. Schubert, F. 1, p. 25. [RISM ID no. 464000243](https://opac.rism.info/search?id=464000243){:target="_blank"})
-
 
 
 _Teile des Textes wurden mit freundlicher Genehmigung von der[Schubert Online Projektseite](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"} der SBB übernommen._

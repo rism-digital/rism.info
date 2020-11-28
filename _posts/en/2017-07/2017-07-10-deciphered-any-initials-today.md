@@ -11,7 +11,6 @@ email: mbierwis@students.uni-mainz.de
 author: Martin Bierwisch
 ---
 
-
 _The following article is by Martin Bierwisch, a student worker at the Central Office._
 
 From time to time, diligent users of the RISM online catalog send us information regarding the identification of pieces, particularly printed editions, where the composers are named only by initials (these are the pieces with [A/I numbers](/publications.html#c36) beginning with IN and ININ). This post will briefly go into a few examples of composers that we have been able to identify.
@@ -37,7 +36,5 @@ Deciphering puzzling names is possible through a number of approaches, be it spe
 
 The question remains: Have _you_ deciphered any initials today? If you have, then [let us know](mailto:contact@rism.info)! The same is also true for anonymous compositions.
 
-
 _Image_: _Sechs Gesänge mit Begleitung der Guitarre_ by Caroline von Egloffstein (RISM A/I: IN 16; [RISM ID no. 990072864](https://opac.rism.info/search?id=00000990072864&Language=en){:target="_blank"}), from the private library of Axel Beer (D-KWbeer). The copy from the Anna Amalia Bibliothek (D-WRtl) was unfortunately lost in the fire of 2004, but a [digitized version of the microfilm](http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10001489844){:target="_blank"} can be viewed online.
-
 

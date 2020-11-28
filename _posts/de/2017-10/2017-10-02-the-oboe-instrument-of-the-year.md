@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der Landesmusikrat Deutschlands hat die Oboe zum [Instrument des Jahres](http://www.instrument-des-jahres.de/){:target="_blank"} erkoren. Diese Ehre lenkt die Aufmerksamkeit auf ein Instrument, das nach Ansicht der Landesmusikräte mehr junge Spieler benötigt. In der RISM-Datenbank gibt es viel Musik, um Oboisten - jung wie alt - zu beschäftigen.
 
 RISM verwendet folgende Abkürzungen für die Instrumente der Oboen-Familie:
@@ -35,7 +34,6 @@ Um Kompositionen mit dem Hauptinstrument Oboe (Konzerte, Duette, etc.) zu finden
 
 ![Search for oboe concertos](http://rism.info/resources-old-website/news/oboe_search_concerto_1005x355.jpg)
 
-
 In der Ergebnisliste sehen Sie links eine Spalte mit weiteren Filtermöglichkeiten. Ganz oben stehen 51 Einträge, die Links zu Digitalisaten enthalten und Ihnen direkten Zugriff auf das Originalmanuskript oder den Musikdruck bieten. Die **Besetzung** gibt eine zusammenfasssende Angabe zur Instrumentation des Werks:
 
 ![Search results](http://rism.info/resources-old-website/news/oboe_Scoring_results_1004x767.jpg)
@@ -46,8 +44,6 @@ Natürlich finden Sie im RISM Online-Katalog auch Werke mit Oboe, in denen sie k
 
 Die Suche im RISM Online-Katalog nach Musik für die Oboenfamilie wird einige unentdeckte Edelsteine ans Licht bringen, von denen es noch keine moderne Edition oder Aufführungen im Konzertsaal gibt. Werfen Sie einen Blick in den RISM Online-Katalog und erwecken Sie diese Werke wieder zu Leben!
 
-
 _Abbildung_: Die Oboe durch die Jahrhunderte, von OboeCrack (über [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cu_oboe.jpg){:target="_blank"})
-
 
 

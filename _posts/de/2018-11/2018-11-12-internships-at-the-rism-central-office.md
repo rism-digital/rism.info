@@ -11,12 +11,10 @@ email: martina.falletta@rism.info
 author: ''
 ---
 
-
 Die RISM Zentralredaktion in Frankfurt am Main bietet Praktika für Personen an, die an der täglichen Arbeit eines großen bibliographischen und musikwissenschaftlichen Projekts interessiert sind. Diese Praktika sind besonders geeignet für alle, die einen Beruf oder ein weiteres Studium im Musikbibliothekswesen oder in der Musikwissenschaft anstreben.
 
 Bitte beachten Sie unsere [Praktikumsseite](/de/unternehmen/praktikantenpraktikantinnen.html) für weitere Informationen zu den Anforderungen und dem Bewerbungsverfahren.
 
 Bewerbungen werden jederzeit angenommen. Fragen richten Sie bitte an Dr. Martina Falletta, [martina.falletta@rism.info.](mailto:martina.falletta@rism.info)
-
 
 

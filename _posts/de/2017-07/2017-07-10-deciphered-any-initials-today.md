@@ -11,7 +11,6 @@ email: mbierwis@students.uni-mainz.de
 author: Martin Bierwisch
 ---
 
-
 _Der folgendeArtikel stammt vonMartin Bierwisch,studentischer Mitarbeiter in der Zentralredaktion._
 
 Gelegentlich erhalten wir von fleißigen Nutzern des RISM Online-Katalog Hinweise auf Identifizierungen von Musikalien, besonders zu Musikdrucken, welche mit Initialen für die Autorenangabe versehen sind (also A/I: IN und ININ). Im Folgenden soll kurz auf einige Beispiele eingegangen werden, bei denen es schon möglich war, die Komponisten zu identifizieren.

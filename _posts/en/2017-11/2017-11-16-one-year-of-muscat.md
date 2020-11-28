@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 [Muscat](/community/muscat.html) has been in use by the wider RISM community for one year!
 
 [One year ago](/self_representation/2016/11/14/welcome-muscat.html){:target="_blank"}, RISM released its specialized cataloging program for describing musical sources to RISM contributors worldwide. Muscat provides users with a web-based, platform-independent program that can be used to describe music manuscripts, printed music, treatises, and libretti. Muscat has been developed through a collaboration between the RISM Central Office and RISM Switzerland and was based on a program jointly developed by RISM Switzerland and RISM UK. In use by these two national groups for nearly 10 years, this [open-source program](https://github.com/rism-ch/muscat){:target="_blank"} continues to adapt to RISM's cataloging needs with regular releases.
@@ -23,8 +22,6 @@ Muscat users appreciate the intuitive interface, improved incipit display, integ
 RISM encourages people at universities, libraries, archives, or other interested individuals to directly contribute to the documentation of musical sources worldwide by using Muscat. If your library has holdings in RISM that need to be updated, if you are working on sources related to a specific composer, or if you are in a position to add sources to RISM, we would be interested in hearing from you.
 
 
-
 _Image_: Balloons adapted from [Sweet Clip Art](http://sweetclipart.com/seven-rainbow-birthday-party-balloons-239){:target="_blank"}.
-
 
 

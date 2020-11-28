@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Happy New Year!**
 
 We start the year by looking ahead and getting ready to celebrate people in the RISM database who will have a major birthday this year or to remember those who died. We would like to begin 2017 with an overview of these people: they are not only composers but also include librettists, musicians, dedicatees, or people who are in other ways related to a source. They were born or died in a year ending in 17 or 67.
@@ -48,6 +47,5 @@ m = male
 w / f = female
 
 _Image from [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
-
 
 

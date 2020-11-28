@@ -11,11 +11,9 @@ email: ''
 author: ''
 ---
 
-
 February 14 – Valentine's Day – is the day of love in many countries. Today we're featuring a small selection of[Romeo and Juliet](https://opac.rism.info/search?View=rism&title=Romeo){:target="_blank"} compositions from our online catalog for all you romantics out there (and also non-romantics).
 
 The results list shows almost 400 entries. Among these are Vincenzo Bellini's well-known setting "I Capuleti e i Montecchi," Georg Benda's opera "Romeo und Julie," and Charles Gounod's "Roméo et Juliette."Girolamo Crescentini's insert aria "Ombra adorata apetta" in Nicola Antonio Zingarelli's opera "Giulietta e Romeo" also enjoys special popularity. But have you also heard of the operas by Johann Gottlieb Schwanenberg and Daniel Gottlieb Steibelt? Take a look at the catalog and find inspiration.
 
 Photo credit: Georg Benda: Romeo und Julia ([Universitäts- und Landesbibliothek Darmstadt, Mus. Ms. 94](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-094-01/0002){:target="_blank"})
-
 

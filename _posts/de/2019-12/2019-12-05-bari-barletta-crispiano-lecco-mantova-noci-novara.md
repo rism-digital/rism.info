@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhandschriften freigeschaltet worden, die aus der italienischen Datenbank SBN Musica übernommen wurden. Wir hatten darüber bereits [im August berichtet](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Die Bestände folgender Bibliotheken sind nun im RISM-Katalog freigeschaltet:
@@ -30,8 +29,6 @@ Der Bestand aus der [Biblioteca del Conservatorio statale di musica Guido Cantel
 
 Die Bibliothek ist Teil des Projekts „In-audita musica“, welches das Studium und die Aufführung der Werke von Komponistinnen jeden Zeitalters fördern soll. So wurde ein bibliographisches und klangliches Archiv für Komponistinnen geschaffen, das kürzlich als Depositum im [Istituto dell’Archivio dell‘Associazione Suonodonne Italia](http://inauditamusica.consno.it/ "external-link-new-window") hinterlegt wurde.
 
-
 _Abbildung_: Datensatz zu Luigi Rossi, [_Sovra una verde riva_](https://opac.rism.info/search?id=850736349&View=rism), I-MAc [MSS.MUS.113.43](http://id.sbn.it/bid/MSM0141670){:target="_blank"} (hier anonym überliefert)
-
 
 

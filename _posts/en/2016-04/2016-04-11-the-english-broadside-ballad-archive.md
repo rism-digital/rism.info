@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In its heyday, broadside ballads were everywhere in England. In the seventeenth century, these sheets, which were commonly printed with a woodcut illustration and printed in heavy black-letter type (what we call Gothic today), were highly visible - posted at the alehouse or hawked on the streets - and audible - sung in the fields or at work.
 
 The [English Broadside Ballad Archive (EBBA)](http://ebba.english.ucsb.edu/){:target="_blank"} is a project that seeks to make all extant "broadside ballads of the seventeenth century fully accessible as texts, art, music, and cultural records." The project dates from 2003 and has been growing steadily. The EBBA estimates that there are 11,000 extant works. Currently, there are just over 7,100 ballads in the database, meaning the catalog is about 65% complete.
@@ -24,7 +23,6 @@ A quick search is available on the archive's homepage, and an [advanced search](
 <source src="http://ebba.english.ucsb.edu/recordings/P4.254.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </source></audio>
-
 
 _Image_: "['Tis Money makes a Man](http://ebba.english.ucsb.edu/ballad/21811/citation){:target="_blank"}," Houghton Library - Huth EBB65H 2.191 (EBBA ID: 34705). [CC BY NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 

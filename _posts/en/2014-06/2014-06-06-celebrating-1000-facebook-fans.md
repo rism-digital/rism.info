@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today RISM reached a new milestone: 1,000 Facebook fans!
 
 Thank you to everyone who has liked the [RISM Facebook page](https://www.facebook.com/RISM.info){:target="_blank"}!
@@ -28,7 +27,6 @@ Poland **Dziękuję!**
 United Kingdom **Cheers!**
 Netherlands **Bedankt!**
 Brazil **Valeu!**
-
 
 
 _As always, a Facebook account is not required to view the RISM Facebook page._

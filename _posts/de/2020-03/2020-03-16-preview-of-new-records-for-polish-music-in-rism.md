@@ -11,7 +11,6 @@ email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---
 
-
 _Den folgenden Beitrag erhielten wir von Marcelina Chojecka (RISM Polen, [Narodowy Instytut Fryderyka Chopina](https://nifc.pl/pl){:target="_blank"}):_
 
 Von August 2019 bis Januar 2020 hat das Fryderyk Chopin Institut 771 Handschriften und Autographe von polnischen Komponisten in die RISM-Datenbank eingegeben:
@@ -36,12 +35,9 @@ Von August 2019 bis Januar 2020 hat das Fryderyk Chopin Institut 771 Handschrift
 - Ignacy Feliks Dobrzyński (1807–1867) – 62.
 
 
-
 Die Quellen werden in der Library, Museum and Archive of Warszawskie Towarzystwo Muzyczne im. S. Moniuszki in Warschau (bei [RISM unter PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm){:target="_blank"}) aufbewahrt. Dank eines Zuschusses aus Mitteln der Europäischen Union nimmt das Fryderyk-Chopin-Institut am Projekt POPC „Polnisches Musikerbe im Open Acces" teil, das es ermöglicht, alle Musikquellen aus Warszawskie Towarzystwo Muzyczne im. S. Moniuszki zu katalogisieren. Die Katalogisierung ist derzeit im Gange, so dass diese Datensätze noch nicht im RISM-Online-Katalog veröffentlicht werden. In einem Jahr wollen wir alle Musikdrucke und -Manuskripte fertigstellen und dann die Daten veröffentlichen.
 
 
-
 _Abbildung_: Józef Elsner, "Muzyka do Mszy polskiej" op. 79 (1843), autographe Handschrift, die sich 1882 im Besitz des polnischen Komponisten Adam Münchheimer befand. PL-Wtm, R 926 (RISM ID no. 1001082488)
-
 
 

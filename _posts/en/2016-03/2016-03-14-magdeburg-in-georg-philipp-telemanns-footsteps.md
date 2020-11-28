@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 These days, illustrious performers are expected once again in Magdeburg. The 23rd [Magdeburg Telemann Festival](http://telemann.org/veranstaltungen/telemannfesttage.html){:target="_blank"} focuses this year on Telemann and the concert, spotlighting works that Georg Philipp Telemann (1681-1767) himself once presented as a concert promoter.
 
 Beginning last Friday and continuing until March 20, there are numerous events taking place in Telemann's home town. There is something for everybody, from a walking tour in Georg Philipp Telemann's footsteps to a performance of the opera _Damon_. In all, 500 musicians from 20 countries will make Telemann's music come to life.

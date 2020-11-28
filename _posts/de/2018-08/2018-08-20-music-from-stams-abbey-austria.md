@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Manfred Schneider
 ---
 
-
 Das Musikarchiv von Stift Stams ist die musikalische Schatzkammer Tirols. Die Sammlung enthält mehrere tausend Musikhandschriften und -drucke, die sich im Stift trotz wiederholter Gefährdung des Bestandes glücklicherweise erhalten haben. Die über die lokale Musikforschung hinausreichende Bedeutung des Archivs liegt vor allem darin, dass sich für das Zeitalter des Umbruchs vom barocken zum klassischen Musikstil in der zweiten Hälfte des 18. Jahrhunderts eine ungemein dichte Quellenlage vorfindet. Die Musikwissenschaftlerin Hildegard Herrmann-Schneider hat diesen großartigen Bestand minutiös erschlossen und über RISM (RISM-Bibliothekssigel: [A-ST](https://opac.rism.info/search?View=rism&siglum=A-ST){:target="_blank"}) zugänglich gemacht. So konnte Manfred Schneider eine Vielzahl der Kompositionen im Rahmen seines Projekts einer akustischen Musikgeschichte Tirols in Form von Konzerten mit begleitender CD-Produktion öffentlich präsentieren.
 
 [Eine neue DVD](http://cdeditionen.musikland-tirol.at/content/cd-_dvd-editionen-2017/dvd_-musik-aus-stift-stams.html){:target="_blank"} enthält alle diesbezüglichen Aktivitäten, so die 26 CDs, die in der Reihe"Musik aus Stift Stams" seit 1994 produziert wurden sowie weitere Editionen der CD-Folge "Klingende Kostbarkeiten aus Tirol", die auch Musik aus Stift Stams enthalten.
@@ -26,6 +25,5 @@ Foto und ©: Hildegard Herrmann-Schneider (2015)
 Technische Realisierung der DVD: Michael Steiner-Schweissgut
 Edition mit Förderung der Kulturabteilung der Tiroler Landesregierung.
 © Institut für Tiroler Musikforschung Innsbruck 2017 - Alle Rechte vorbehalten - [www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der [International Music Council](http://www.imc-cim.org/){:target="_blank"} (Internationaler Musikrat, IMC) feiert in diesem Jahr sein 70-jähriges Bestehen und nimmt aus diesem Anlass am 6. [Weltmusikforum](https://imc70.org/){:target="_blank"} teil, das vom 27. September bis 1. Oktober 2019 in Paris stattfindet.
 
 Im Zentrum des Forums stehen die fünf Musikrechte ([5 Music Rights](http://www.imc-cim.org/about-imc-separator/five-music-rights.html){:target="_blank"}) des IMC, eine Erklärung, die "den Zugang zur Musik für alle" befürwortet. Das IMC zeigt eine Ausstellung mit dem Titel "70 Projects for 70 Years", in der die Bemühungen der IMC-Mitglieder zur Umsetzung der fünf Musikrechte beleuchtet werden. Als Mitglied des IMC nominierte die [International Association of Music Libraries, Archives and Documentation Centres (IAML)](https://www.iaml.info/){:target="_blank"} das älteste seiner ["R"-Projekte](https://www.iaml.info/r-projects){:target="_blank"} - RISM -, um die fünf Musikrechte zu vertreten. RISM wurde akzeptiert und wird bei den Feierlichkeiten in Paris vorgestellt. Stanisław Hrabia (IAML-Präsident), Pia Shekhter (IAML-Präsident) und Klaus Keil (Leiter der RISM-Zentralredaktion) werden anwesend sein.
@@ -23,5 +22,4 @@ RISM wurde 1952 in Paris gegründet und war von Anfang an international ausgeric
 RISM ist nicht nur für Musikwissenschaftler, sondern auch für Interpreten ein unverzichtbares Werkzeug. RISM ist das Portal zu einer Schatztruhe, die durch Musiker wieder zum Leben erweckt wird. Dank Partnern in über 35 Ländern weltweit machen Musikbibliotheken und Archive die Musik von gestern zu einem lebendigen Erbe. RISM steht daher beispielhaft für Nummer 3 der fünf Musikrechte: To have access to musical involvement through participation, listening, creation and information.
 
 Für IAML ist das 6. Weltmusikforum eine doppelte Erinnerung. Genau zu diesem Zeitpunkt fand 1949 in Florenz das erste Sondierungstreffen der Musikbibliotheken statt. Dieses Treffen, zusammen mit einem weiteren in Lüneburg 1950, ging der offiziellen Gründung von IAML im folgenden Jahr in Paris voraus.
-
 

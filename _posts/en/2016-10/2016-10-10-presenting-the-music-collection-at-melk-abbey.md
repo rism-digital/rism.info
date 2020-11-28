@@ -11,9 +11,7 @@ email: musikarchiv@stiftmelk.at
 author: Johannes Prominczel
 ---
 
-
 _The following is a guest post by one of our RISM contributors Johannes Prominczel, music archivist at Melk Abbey._
-
 
 
 The music archive of [Melk Abbey](http://www.stiftmelk.at/){:target="_blank"} in Austria consists of around 10,000 items of notated music and books as well as about 50 musical instruments.
@@ -32,7 +30,6 @@ The archive is also well stocked with historic printed music. Some Benedictines 
 _Viola with lion's head by Georg Aman, early eighteenth century_
 
 Apart from the fact that only a few manuscripts are [cataloged in RISM (siglum: A-M)](https://opac.rism.info/search?View=rism&siglum=A-M&Language=en){:target="_blank"}, the Melk music collection is by and large well documented; nearly all works are listed in inventories and can be found in the archive's card catalogs. As the archive is being processed, differentiating and identifying individual hands is the top priority. Subsequently, gradual cataloging in RISM is planned. At the same time, the music history of the abbey will progressively be appraised. Since the time period 1681–1826 has been well researched thanks to the work of Robert N. Freeman, the focus will be on the time from 1827 to 1900.
-
 
 
 **Johannes Prominczel, music archivist**

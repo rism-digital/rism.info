@@ -11,7 +11,6 @@ email: dexedge@gmail.com
 author: ''
 ---
 
-
 Von der[AMS](http://rism.info/http:// "external-link-new-window") erhielten wir folgende Ankündigung:
 
 Wir freuen uns, eine neue online Ressource bekannt geben zu können: Mozarts Neue Dokumente. Die Seite präsentiert Dokumente zu Mozart und seiner Musik, die zu Lebzeiten des Komponisten aber bisher noch nicht in der wissenschaftlichen Literatur erscheinen sind. Viele Dokumente sind durch ausgedehnte Suchen – insbesondere in Digitalisierungsprojekten wie Google-Books - lokalisiert worden, während andere mit traditionellen Methoden gefunden wurden.
@@ -29,5 +28,4 @@ URLs:
 Bild: Bericht über die Premiere von _Le nozze di Figaro, Münchner Staats=gelehrte und vermischte Nachrichten aus Journalen, Zeitungen, und Correspondenzen_ (= _Münchner_ Zeitung_)_, no. 73, Dienstag 9. Mai 1786
 
 [https://sites.google.com/site/mozartdocuments/documents/1786-05-03](https://sites.google.com/site/mozartdocuments/documents/1786-05-03)
-
 

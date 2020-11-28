@@ -11,9 +11,7 @@ email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 _This report has come to us from Eliška Šedivá, RISM Czech Republic:_
-
 
 
 A year ago we started to develop a proper and systematic method for researching watermarks as an important indication of the provenance and time determination of musical sources. Furthermore, we believe that correct watermark description and identification can be very useful not only for individual scholars in concrete research, but also for us during the cataloging and evaluation of music collections. This way we can find lots of connections between particular documents in one music collection or between different collections in our country. Thanks to the complete works by František Zuman, who dealt with the history of Bohemian paper mills very intensively (see Zuman\* in the RISM bibliographic catalog), we can identify and locate the watermarks from our sources.

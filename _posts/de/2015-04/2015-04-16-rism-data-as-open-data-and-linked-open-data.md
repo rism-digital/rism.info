@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die RISM-Daten sind seit 2013 als Open Data und als Linked Open Data seit Sommer 2014 verfügbar. Die RISM Open Data sind über die Seite[linked open data](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} des RISM Online-Katalogs erreichbar. Diese Verbindung erlaubt Ihnen, die kompletten Daten herunterzuladen.
 
 Was heißt das genau?
@@ -25,10 +24,8 @@ Das [Detmolder Hoftheater Projekt](http://hoftheater-detmold.de/){:target="_blan
 Wenn Sie Fragen zur Benutzun der Daten haben, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Bitte schauen Sie sich auch auf die [RISM Data Services Seite](/de/community/entwicklung/dataservice.html), die [Broschüre (PDF)](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} können Sie ausdrucken.
 
 
-
 Beachten Sie die Videoeinführung zu Linked Open Data von Europeana:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/I17KxXVCrvw" frameborder="0" allowfullscreen></iframe>
-
 
 

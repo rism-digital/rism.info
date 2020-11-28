@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Libraries worldwide have been discussing work titles with increasing intensity. Transferring this idea to musical works seems particularly plausible at first glance, as the production of catalogs of works has a tradition of more than 100 years in musicology.
 
 However, especially in recent decades, the concept of the work itself has been uncovered as a construct of the 19th century. In many cases, attention has been drawn to those genres that cannot be forced into a fixed form. This especially applies to operas, whose form can change from performance to performance. But it also concerns chamber music, which is sometimes presented in different versions and with different instruments, etc., when it is first published. The examples could easily be continued.

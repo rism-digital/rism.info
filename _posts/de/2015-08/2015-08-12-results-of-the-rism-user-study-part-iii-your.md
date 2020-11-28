@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute setzen wir unsere Diskussion ausgewählter Kommentare, die wir im Rahmen der [Nutzerstudie](/de/community/rism-nutzerstudie.html#c3122 "Öffnet internen Link im aktuellen Fenster") erhalten haben, fort. Am Montag beschäftigten wir uns mit den bei RISM vertretenen Ländern und die verwendete Sekundär-Literatur. Heute geht es um die Frage nach der Zeitgrenze:
 
 **„Gibt es die Katalogisierungsgrenze 1850 noch?“- Antwort 372**

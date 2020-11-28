@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Leonie Storz
 ---
 
-
 Not much is known about the life of Johannes Tinctoris, although he was the most famous music theorist of his time. What is known is the year of his death, even if the exact date is unclear: Tinctoris died before 12 October 1511—500 years ago.
 
 This son of a magistrate was born Jehan de Taintenier around 1436 in Braine-l'Alleud, Belgium. For four months of 1460, he was employed as _petit vicaire_ at the Cambrai Cathedral, where he most likely met Guillaume Dufay, the cathedral's _maître des petits vicaires_. In 1462-1463, Tinctoris was registered as succentor at Orléans Cathedral; at some point soon after, he spent seven years at Chartres Cathedral as (by his own account) director of the choirboys.

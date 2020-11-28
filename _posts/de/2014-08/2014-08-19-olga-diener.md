@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wer war Olga Diener?
 
 Die RISM-Datenbank verzeichnet [236 Werke der Schweizer Komponistin Olga Diener](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=olga+diener){:target="_blank"} (1890-1963). Die meisten Quellen liegen als Autographe vor. Ihr Nachlass befindet sich in der Schweizer Nationalbibliothek zu Bern (CH-BEl). Ein Großteil ihrer Werke wurde für Streichquartett oder Klavier allein gesetzt.

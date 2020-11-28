@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Nach einer Datenlieferung der Bibliothèque nationale de France in Paris und einer intensiven technischen Vorbereitungszeit, konnten Erfahrungen und inzwischen auch Wege für eine automatisierte Konvertierung gefunden werden. Im Herbst 2019 wurden dann ca. 19.000 Datensätze zu handschriftlichen Musikquellen in die interne RISM-Datenbank Muscat übernommen. Im RISM Katalog sind sie damit aber noch nicht. Darin ist erst nur ein Teil recherchierbar:
 
 - Die Handschriftendatensätze aus der [Bibliothèque de l'Arsenal Paris (F-Pa)](https://opac.rism.info/search?View=rism&siglum=F-Pa){:target="_blank"} bestehen nur aus einer Sammlung mit Auszügen aus 15 verschiedenen Opern von Jean-Baptiste Rameau (RISM ID no. [840017895](https://opac.rism.info/search?id=840017895&View=rism){:target="_blank"}).
@@ -23,6 +22,5 @@ Um die Handschriften im RISM-Katalog separat von den Musikdrucken ansehen oder d
 - Vor dem Datenimport waren bereits 800 Handschriftendatensätze aus dem Département de la Musique der [Bibliothèque nationale de France (F-Pn)](https://opac.rism.info/search?View=rism&siglum=F-Pn){:target="_blank"} in der RISM-Datenbank vorhandenen gewesen. Inzwischen sind weitere knapp 1.000 Einträge dazugekommen. Darunter befinden sich vorwiegend Nachweise zu Jean-Baptiste Rameau, Wolfgang Amadeus Mozart, François-Joseph Gossec, Charles-Hubert Gervais und Christoph Willibald Gluck.
 
 Wir werden in Kürze alle weiteren Daten freischalten. Alle importierten Datensätze enthalten einen Link zum französischen Originaleintrag.
-
 
 

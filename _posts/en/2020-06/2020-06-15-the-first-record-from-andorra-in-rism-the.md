@@ -11,7 +11,6 @@ email: jbenavent@uda.ad
 author: Joan Benavent Peiró
 ---
 
-
 _We have received the following from [Joan Benavent Peiró](https://orcid.org/0000-0002-8856-9335){:target="_blank"}, PhD student in musicology at University of Andorra._
 
 The Principality of Andorra has recently been incorporated into the RISM database with the cataloging of “El Periódico de música de la S. D. Maria Rosa de Areny” ([RISM ID no.: 1001050169](https://opac.rism.info/metaopac/search?View=rism&id=1001050169&View=rism)). The discovery of the new documentary source expands our knowledge of musical keyboard notebooks played in private gatherings, a reflection of the musical practices of wealthy families around 1820.
@@ -29,6 +28,5 @@ In summary, the Andorran musical source collects different pieces that were in v
 The cataloging of the manuscript was carried out thanks to a research grant from the Government of Andorra (AM058-AND-2017). From this work the article [“El periòdic musical de Maria Rosa d'Areny i Jordana de la Casa Museu d'Areny Plandolit d'Andorra](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf)” was published by the Societat Andorrana de ciències, and included the results of the research in the R + D + I project (HAR2017-86039-C2-1-P) _El patrimonio musical de la España moderna (siglos XVII-XVIII): recuperación, digitalización, análisis, recepción y estructuras retóricas de los discursos musicales_, directed by Antonio Ezquerro.
 
 _Image_: Arxiu Nacional d’Andorra – Biblioteca Nacional d’Andorra. Cover, AND-AVbn ACAP.LP.154. RISM ID no. 001050169. Courtesy of the author.
-
 
 

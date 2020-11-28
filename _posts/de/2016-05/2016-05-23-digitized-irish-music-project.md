@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _DerfolgendeArtikel wurde ursprünglich auf der Seite der[Research Foundation for Music in Ireland](http://www.musicresearch.ie/?q=irishmusiccollection){:target="_blank"}veröffentlicht und wird hiermit freundlicher Genehmigung der RFMInachgedruckt:_
 
 Die Bibliothek des DIT (Dublin Institute of Technology)Conservatory of Music & Drama beherbergt eine ganz besondere Sammlung, entstanden ausgroßzügigen Schenkungen und Nachlässen: Musik, die in Irland komponiert wurde, in der Irland thematisiert wird und/oder von irischen Komponisten geschrieben wurde.
@@ -26,7 +25,6 @@ Projektmanagerin:Ann Wrigley
 Digitalisierung:Sharon Hoefig
 Copyright:Wanda Carin
 Katalogisierung:Catherine Ferris
-
 
 _Abbildung_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Available online](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.
 

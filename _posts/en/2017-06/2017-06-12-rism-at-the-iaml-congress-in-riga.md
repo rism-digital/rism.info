@@ -11,11 +11,9 @@ email: contact@rism.info
 author: ''
 ---
 
-
 RISM is heading to the Baltic coast this month to participate in the annual congress of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/congresses/2017-riga){:target="_blank"}. From 18-22 June 2017, we will see our colleagues around the world at the stunning [National Library of Latvia](http://lnb.lv/en){:target="_blank"} in Riga.
 
 As usual, RISM is sponsoring a number of sessions. Abstracts are available on the [congress website](https://iaml2017.lnb.lv/programme/abstracts/){:target="_blank"}. Presentations will be linked on [RISM's congress page](/publications/iaml-congresses/2017.html) and on the IAML website.
-
 
 Tuesday, June 20
 
@@ -54,6 +52,5 @@ Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
 14.00-15.30, Commission Mixte (closed)
 Chair: John Roberts (Member of the RISM board)
-
 
 

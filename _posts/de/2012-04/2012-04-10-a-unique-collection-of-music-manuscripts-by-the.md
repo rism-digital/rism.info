@@ -11,7 +11,6 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 Die King Baudouin Foundation hat eine außergewöhnliche Reihe von Musikhandschriften des Geigers Henry Vieuxtemps (1820-1881), Belgiens berühmtestem Komponisten des 19. Jahrhunderts, gekauft. Die Manuskripte waren Musikern und Musikwissenschaftlern bisher unbekannt und wurden erst kürzlich in die Musikabteilung der Königlichen Bibliothek von Belgien verbracht. Diese wurde damit zum weltweit wichtigsten Ort für die Aufbewahrung der Kompositionen Vieuxtemps.
 
 Die Sammlung enthält nicht weniger als 20 Autographe, einschließlich des weltberühmten _Concerto pour Violon Cinquième_, ein Hauptwerk im Repertoire der Violinkonzerte, und zehn handschriftlichen Kopien, von denen einige autographe Anmerkungen des Komponisten enthalten.

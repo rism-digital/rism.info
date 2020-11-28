@@ -11,7 +11,6 @@ email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---
 
-
 _We have received the following from Barbara Strauss, [Moravian Music Foundation](https://moravianmusic.org/){:target="_blank"} (Winston-Salem, North Carolina, USA). The Salem Collegium Musicum Collection is now in RISM ([library siglum: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS){:target="_blank"})._
 
 The Salem Collegium Musicum collection includes primarily instrumental chamber and small-orchestra music, as well as some oratorios, vocal collections, keyboard music and band music. The majority of pieces, both manuscript and printed, are by European composers active in the late eighteenth and early nineteenth centuries.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We have just published the 2016 annual report on our website, [available here](/publications/annual-reports.html). Here we'll give you the highlights from the report. The release of Muscat was without a doubt the major accomplishment of the year, so we'll begin with that...
 
 **Muscat!:** Our new, platform-independent cataloging program called [Muscat](/community/muscat.html#c3306) was released in November 2016. Over 150 people around the world are using Muscat. Training sessions, workshops, and tutorials have been developed to ease the transition from Kallisto to the new program.
@@ -43,6 +42,5 @@ We have just published the 2016 annual report on our website, [available here](/
 **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=8&L=1){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface. RISM data have been reused in the local catalogs of the Bibliotheksservicezentrum (Library Service Centre) in Konstanz, the Staatsbibliothek zu Berlin, the SLUB Dresden, the Koninklijk Conservatorium Brussel, and the Moravian Music Foundation.
 
 **Here's to a successful and productive 2017!**
-
 
 

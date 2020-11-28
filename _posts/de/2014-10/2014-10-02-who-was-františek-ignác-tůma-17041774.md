@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute wird der 310. Geburtstag von František Ignác Tůma gefeiert. Aber wer feiert ihn? Vermutlich keiner, da ihn kaum noch jemand kennt.
 
 [Eine Stele mit Orgelpfeifen](http://commons.wikimedia.org/wiki/File:Kostelec_nad_Orlic%C3%AD-Franti%C5%A1ek_Ign%C3%A1c_T%C5%AFma.jpg?uselang=de){:target="_blank"} erinnert an den tschechischen Komponisten in seinem Geburtsort Adlerkosteletz (heute: Kostelec nad Orlicí).
@@ -21,7 +20,6 @@ Tuma erhielt seine musikalische Ausbildung in Prag und ging als Gambist an den H
 František Ignác Tůmas umfangreiches kompositorisches Schaffen mit 65 Messen, zahlreichen Motetten, Litaneien und Antiphonen sowie Sonaten und Sinfonien spiegelt sich auch im [RISM Online-Katalog mit über 200 Einträgen](https://opac.rism.info/search?View=rism&author=tuma+frantisek){:target="_blank"} wieder. Die Quellen liegen heute hauptsächlich in Österreich und Tschechien.
 
 Ob Tůma wohl den jungen Mozart auf eine Tasse Schokolade eingeladen hat?
-
 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/V3GUpD1MJ3A" frameborder="0" allowfullscreen></iframe>

@@ -11,7 +11,6 @@ email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---
 
-
 _Der folgende Beitrag stammt von Stefan Engl (Präsident, [IAML Austria](https://www.iaml.at/){:target="_blank"}):_
 
 Der [Muscat](/de/community/muscat.html)-Workshop in Wien fand am 17. Oktober 2017 in den neuen Räumlichkeiten der Ausbildungsabteilung der [Österrreichischen Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}. Als Vortragender konnte wieder Dr. Ikarus Kaiser, Stiftsorganist von Wilhering und langjähriger RISM-Mitarbeiter, gewonnen werden.
@@ -21,13 +20,10 @@ Nach einer kurzen Vorstellung der TeilnehmerInnen (Name, Tätigkeitsfeld und Mot
 Im 2. Teil der Schulung konnten dann die TeilnehmerInnen anhand von Musikhandschriften aus dem historischen Pfarrarchiv Maria Hietzing, welches sich seit 2006 in der Musiksammlung der ÖNB befindet, selbständig ihre ersten Probe-Einträge in Muscat erstellen.
 
 
-
 ![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien2_816x458.jpg)
 
 
-
 ![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien3_344x612.jpg)
-
 
 
 ![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)

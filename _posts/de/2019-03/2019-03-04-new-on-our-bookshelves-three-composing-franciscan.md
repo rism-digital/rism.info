@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Drei komponierende Franziskanermönche des 17. und frühen 18. Jahrhunderts haben das Interesse von Ivano Bettin geweckt. Zu Francesco Antonio Vannarelli (1615-1679), Francesco Antonio Urio (ca. 1631 - ca. 1719) und Francesco Maria Benedetti (1683-1746) entstanden drei kleinere Studien und verschiedene Editionen. Bereits Ende letzten Jahres stellte uns Ivano Bettin seine Publikationen zur Verfügung. Besonders dankbar sind wir vor allem für die drei Werkverzeichnisse (RISM-Kurztitel: BetB, BetU und BetV), die nun in den RISM-Daten ergänzt wurden.
 
 Die drei Komponisten gehörten dem Minoriten-Orden an und wirkten als Kapellmeister in verschiedenen Städten.
@@ -31,6 +30,5 @@ Während von Benedetti nur handschriftliche Musikquellen überliefert sind, wurd
 [**BetV**](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22lit41001757%22){:target="_blank"}: Ivano Bettin, Francesco Antonio Vannarelli: La vita e il catalogo tematico delle opere, in: _Barocco Padano 9: Barocco padano e musici francescani, II. L'apporto dei maestri conventuali. Atti del XVII Convegno Internazionale sul Barocco Padano (Secoli XVII - XVIII), Padova, 1 - 3 luglio 2016_, hrsg. von Alberto Colzani, Andrea Luppi und Maurizio Padoan (Como: AMIS, 2018), S. 437-484.
 
 _Abbildung_: _Poesie heroiche morali e sacre_ (s.l., 1646). Museo internazionale e biblioteca della musica di Bologna (I-Bc Z.52; [RISM ID no. 992002440](https://opac.rism.info/search?id=00000992002440&View=rism){:target="_blank"}).
-
 
 

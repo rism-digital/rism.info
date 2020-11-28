@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 Am 22. und 23. Dezember 2012 erklingt zum alljährlichen _Tiroler Weihnachtskonzert_ in Innsbruck wieder eine neue Folge von Tiroler Weihnachtsmusik, zum vierten Mal aus dem reichen Musikschatz von Stift Stams (A-ST).
 
 \<media 520\>weiterlesen \</media\>(PDF)

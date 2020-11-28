@@ -11,7 +11,6 @@ email: alexander.marxen@rism.info
 author: ''
 ---
 
-
 Weltweit wird am 8. März der [Internationale Frauentag](https://www.internationalwomensday.com/About){:target="_blank"} begangen. Der Tag fordert zum Handeln auf, um die Gleichberechtigung zu beschleunigen.
 
 In der Musik haben sich die Komponistinnen immer angestrengt genauso wahrgenommen zu werden, wie ihre männlichen Kollegen. In der RISM-Datenbank befinden sich unter den Tausenden von Personen, die in den Musikquellen als Komponist, Schreiber, Interpret, Vorbesitzer etc. fungieren, 43.000 Männer aber nur 6.000 Frauen. Es gibt zweifellos mehr Frauen, die an der Entstehung einer Quelle beteiligt waren, nur blieb ihr Dazutun bisher unentdeckt oder nicht bestätigt. Unter den [200.000 anonymen Quellen](https://opac.rism.info/search?View=rism&author=anonymus){:target="_blank"} sind sicherlich noch einige verborgen. Gerade vor einigen Monaten wurde eine weitere Komponistin entdeckt: eine anonym überlieferte Quellewurde der [Prinzessin Maria Carolina von Savoyen](/rediscovered/2017/01/30/a-new-woman-composer-is-born.html){:target="_blank"} zugeschrieben.
@@ -21,7 +20,6 @@ Datenbanken bieten den Benutzern normalerweise keine Möglichkeiten nach dem Ges
 **Nachname — Lebensdaten — Anzahl der Quellen:**
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTWAMOx1y2InkZOyHsA6g3y-qKLKpjFB4aBFTHMiAp-AA27ePArb1l81vGwCX8Z21IbTlpMQhYF2yY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="1000"></iframe>
-
 
 c = circa
 a = before
@@ -65,7 +63,6 @@ a = before
 p = after
 
 - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](/self_representation/2017/01/10/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
-
 
 
 Die gesamte Liste können Sie [hier](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"} einsehen; sie ist auch mit der [Hilfe-Seite](https://opac.rism.info/index.php?id=4&L=1#c147){:target="_blank"} des Online-Katalogs verlinkt (siehe Frage #3).

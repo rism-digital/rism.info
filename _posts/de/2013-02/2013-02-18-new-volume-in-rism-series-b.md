@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Hymnologica Slavica. Band I. Hymnologica Bohemica, Slavica (HBS), Polonica (HP), Sorabica (HS). Notendrucke des 16. bis 18. Jahrhunderts
 
 Bearbeitet von Jan Kouba und Marie Skalická (redaktionell bearbeitet von Gerhard Schuhmacher) (HBS), Karol Hławiczka und Leon Witkowski (revidiert und ergänzt von Teresa Krukowski und Gerhard Schuhmacher) (HP), Jan Raupp (HS).

@@ -11,7 +11,6 @@ email: ninaeichholz234@gmail.com
 author: Nina Eichholz
 ---
 
-
 _We received the following from Nina Eichholz. It originally appeared on the website [Hofmusik in Dresden](http://hofmusik.slub-dresden.de/news/details/single/eine-neue-komponistin-ist-geboren){:target="_blank"} and is published with kind permission._
 
 In the course of the project [Court Church and Royal Private Music Collection](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/){:target="_blank"} at the [SLUB Dresden](http://www.slub-dresden.de/en/home/){:target="_blank"}, the anonymous aria "[Per costume o mio bel Nume](http://digital.slub-dresden.de/id434532886){:target="_blank"}" (D-Dl Mus.1-F-49,12-12; RISM ID no. [212008692](https://opac.rism.info/search?id=212008692&Language=en){:target="_blank"}) could recently be identified as a work by [Princess Maria Carolina of Savoy](https://en.wikipedia.org/wiki/Princess_Maria_Carolina_of_Savoy){:target="_blank"} (1764–1782).

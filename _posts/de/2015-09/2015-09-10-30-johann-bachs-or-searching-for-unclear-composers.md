@@ -11,7 +11,6 @@ email: alexander.marxen@rism.info
 author: ''
 ---
 
-
 Im März hatten wir Ihnen an dieser Stelle die Möglichkeit vorgestellt, Nachweise als [Links zum RISM Online-Katalog](/self_representation/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} einzubinden. In den meisten Fällen funktioniert dies auch problemlos, Sie können sogar Pseudonyme oder andere Namensformen verwenden, sofern diese als Variante bei RISM eingetragen ist (hier: [Melante](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} für Georg Philipp Telemann).
 
 Schwieriger ist die Suche nach Komponisten, deren Namen mehrfach vorkommt.
@@ -90,6 +89,5 @@ Bachofen, Johann Caspar (1695-1755) - auch "Johann Caspar Bach"
 [https://opac.rism.info/metaopac/search?View=rism&author=119477688](https://opac.rism.info/metaopac/search?View=rism&author=119477688)
 
 _Abbildung_: Stammbaum der Familie Bach, Ohrdrufer Linie, 1773. Staatsbibliothek zu Berlin – PK (D-B) [Mus.ms.theor.1046](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN629531420){:target="_blank"}
-
 
 

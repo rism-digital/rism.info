@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Klaus Keil
 ---
 
-
 For describing musical sources, RISM has developed the database program Kallisto. It is offered to RISM working groups and individuals who want to contribute to the RISM database. Records made by means of the program will be added directly to the RISM online catalogue with the next update.
 
 To familiarise participants with the program, the Zentralredaktion offers workshops on Kallisto. The next workshop will take place:

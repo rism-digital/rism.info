@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Neues Jahr, neue Entdeckungen: die Hymnologin Suvi-Päivi Koski hat das alteste vollständige finnische Gesangbuch in der SLUB Dresden entdeckt: siehe den [SLUBlog](http://blog.slub-dresden.de/beitrag/2016/01/04/aeltestes-vollstaendiges-finnisches-gesangbuch-entdeckt/){:target="_blank"}. Die Ausgabe mit dem Titel "Yxi Wähä Suomenkielinen Wirsikiria" ("Ein kleines finnisches Gesangbuch") wurde 1607 von Hemmingius Henrici Maschoensis in Rostock gedruckt.
 
 Das erste finnische Gesangbuch wurde um 1583 von Jacobus Petri (Jaakko) Finno veröffentlicht, von dem heute nur noch ein einziges unvollständiges Exemplar in der [Universitätsbibliothek in Uppsala](http://www.uu.se/en/){:target="_blank"} existiert. Finnos Gesangbuch enthält zumeist Adaptationen oder Übersetzungen deutscher und schwedischer Originale.

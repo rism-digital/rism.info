@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Fifteen musicologists from institutions around the world have come together to argue that singer-songwriter Katy Perry was wrongly convicted of copyright infringement. What is their evidence? Music found in the RISM database, among other things.
 
 In 2019, Perry was ordered to pay $2.8 million when a [jury found her guilty](https://www.nytimes.com/2019/07/29/arts/music/katy-perry-dark-horse-copyright.html){:target="_blank"} of using an ostinato melody in her song "Dark Horse" that was allegedly taken from rapper Flame’s song “Joyful Noise” without permission. The musicologists, who are calling themselves Amici Musicologists, argue in a [brief of amicus curiae](https://www.digitalmusicnews.com/wp-content/uploads/2020/01/Katy_Perry_Flame_514_Amici_Brief_Filed.pdf){:target="_blank"} submitted on 9 January 2020 to the U.S. District Court, Central District of California that the ostinato lacks originality in pitch sequence, rhythm, timbre, and phrase length, and therefore is not protected by copyright law.
@@ -31,8 +30,6 @@ Below you can listen to Katy Perry’s and Flame’s Songs. You are also invited
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCcW-guAs_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 

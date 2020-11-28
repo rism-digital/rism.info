@@ -11,7 +11,6 @@ email: carmenalvarezescandell@gmail.com
 author: Carmen Álvarez
 ---
 
-
 _The following was written by our [intern from Spain, Carmen Álvarez](/self_representation/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (English below):_
 
 Cada año, en Alemania, un intrumento tiene el honor de ser elegido [el instrumento del año](https://www.instrument-des-jahres.de/){:target="_blank"}, y en 2019 el turno ha sido para el saxofón.
@@ -48,6 +47,5 @@ In our database it is also possible to find digitized sources: in the case of th
 
 _Image_: “Vier Saxophone,” 1928.
 Landesarchiv Baden-Württemberg: Staatsarchiv Freiburg, Sammlung Willy Pragher I: Glasplattennegative. CC-BY. From [Europeana](https://www.europeana.eu/portal/de/record/00737/plink__f_5_90992.html?q=saxophone){:target="_blank"}.
-
 
 

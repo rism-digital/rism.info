@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am heutigen Rosenmontag machen wir einen Karnevalsspaziergang durch die Jahrhunderte.
 
 Karneval wird schon seit Jahrhunderten und in vielen Ländern und Regionen ganz unterschiedlich gefeiert. Für Opernaufführungen war der Karneval seit dem 17. Jahrhundert die wichtigste Zeit des Jahres und dauerte vom 26. Dezember bis zum Tag vor Aschermittwoch. Der RISM Online-Katalog bietet zahlreiche Belege dafür, von denen wir Ihnen heute einige - recht wahllos ausgesuchte - vorstellen möchten.
@@ -35,8 +34,6 @@ Und zu guter Letzt noch ein Beispiel aus dem 20. Jahrhundert, denn auch der beka
 Nachtrag zur Überschrift: _Ecco carnevale_ stammt übrigens von Pier Francesco Valentini (1586-1654; RISM ID no. [850015550](https://opac.rism.info/search?id=850015550){:target="_blank"}).
 
 
-
 _Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
-
 
 

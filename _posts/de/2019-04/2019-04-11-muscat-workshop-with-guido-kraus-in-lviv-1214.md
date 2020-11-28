@@ -11,7 +11,6 @@ email: forschung@angelikamoths.com
 author: Angelika Moths
 ---
 
-
 _Der folgende Beitrag stammt von Angelika Moths:_
 
 Initiiert von der [Haliciana Schola Cantorum (HSC)](http://hsc.lviv.ua/en/){:target="_blank"} – einem Schweizer Verein zur Förderung der Kultur in der Westukraine – fand im November 2017 das internationale musikwissenschaftliche Symposium „Ex umbra in solem“ an der Katholischen Universität in L'viv statt. Dabei wurde deutlich, dass es für die ukrainische Musikwissenschaft dringend nötig sei, die Musikalien, die in den ukrainischen Bibliotheken und Archiven aufbewahrt werden, in der RISM-Datenbank zu dokumentieren. Prof. Dr. Christoph Wolff hat dankenswerterweise dafür gesorgt, dass ein direkter Kontakt zwischen der HSC und der RISM-Zentralredaktion in Frankfurt am Main zustande kam.Angelika Moths – Mitorganisatorin des Symposiums und Mitglied der HSC – fuhr daraufhin nach Frankfurt, um mit Klaus Keil über die Möglichkeiten zu sprechen. Herr Keil schlug vor, einen Workshop anzubieten, der alle Interessierten in die Arbeit mit dem Katalogisierungsprogramm Muscat einführt.
@@ -27,6 +26,5 @@ Nach Erhalt ihrer persönlichen Logindaten für Muscat können die Kolleginnen u
 Das primäre Ziel der HSC, die sich als Vermittlerin in diesem Prozess sieht, ist zunächst die Katalogisierung der Bibliotheksbestände in L’viv. Da durch die Wiederaufnahme der Arbeit in Galizien aber auch wieder positive Signale aus Kiew gekommen sind, ist nicht auszuschließen, dass ein weiterer Muscat-Workshop für die Kollegen und Kolleginnen dort angeboten wird. Guido Kraus hat bereits Interesse bekundet.
 
 Nach Abschluss des oben erwähnten Pilotprojektes sollen die Ergebnisse in einer Präsentation zusammengefasst werden, die dann weitere Bibliotheken als Grundlage und Ermutigung verwenden können, ihre Musikalien bei RISM zu erfassen und somit international sichtbar zu machen. Wir erhoffen uns davon weitere internationale Kooperationen mit anderen europäischen Bibliotheken, um gemeinsam nach Finanzen suchen zu können und damit die RISM-Arbeit in der Ukraine auszuweiten.
-
 
 

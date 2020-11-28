@@ -11,7 +11,6 @@ email: kontakt@mugemir.de
 author: Martin Bierwisch
 ---
 
-
 Are you familiar with the online encyclopedia _Musik und Musiker am Mittelrhein 2_? It is a publication from the Arbeitsgemeinschaft für mittelrheinische Musikgeschichte e. V. and as of Saturday, October 20, the first 250 articles are freely available online at [www.mmm2.mugemir.de](http://www.mmm2.mugemir.de/doku.php?id=start){:target="_blank"}.
 
 Numerous entries feature people who are the subject of an encyclopedia article now for the first time, but more famous names can also be found here. The aim of the encyclopedia is to cover, as comprehensively as possible, people who were not only active as composers, instrument makers, academics, or publishers in the Central Rhine region, but who also left behind "works" in a broad sense of the word.

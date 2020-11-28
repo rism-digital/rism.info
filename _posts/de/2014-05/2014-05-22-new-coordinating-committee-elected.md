@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die RISM-Ländergruppen und andere zu den Projekten des RISM beitragende Personen oder Institutionen können sich an der Arbeit der RISM-Zentralredaktion und den strategischen Entscheidungen des Vorstandes in vielfältiger Weise beteiligen. Um diese Beteiligung zu institutionalisieren, bilden sie ein sog. Advisory Council. Aus diesen Kreisen werden fünf Vertreter für eine Amtszeit von fünf Jahren in ein Coordinating Committee gewählt und können sozusagen als Sprecher der Ländergruppen gegenüber dem Vorstand und der Zentralredaktion auftreten, um deren Interessen zu vertreten.
 
 Die Mitglieder des Committees sind Mitarbeiter von Ländergruppen oder arbeiten in Institutionen, die mit RISM kooperieren.
@@ -37,7 +36,6 @@ Ewa Hauptman-Fischer (Polen)
 -
 
 Gottfried Heinz-Kronberger (Deutschland)
-
 
 
 Zur Zeit entwickelt die RISM Zentralredaktion zusammen mit RISM Schweiz ein neues Erfassungsprogramm in Nachfolge von Kallisto. Dabei ist es besonders wichtig, dass die Bedürfnisse der RISM-Ländergruppen so weit wie möglich einfließen. Das Coordinating Committee wird die Entwicklung beobachten und begleiten. Es steht allen MitarbeiternInnen der RISM-Ländergruppen aber auch allen anderen, die dem RISM beitragen, zur Verfügung und freut sich auf deren Anregungen.

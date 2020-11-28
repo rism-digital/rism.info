@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Happy New Year!**
 
 As in past years, we would like to take a look at musical anniversaries for the next twelve months. It goes without saying that [Beethoven](https://opac.rism.info/search?View=rism&q=Beethoven,%20Ludwig%20van){:target="_blank"} will play a large role at RISM in 2020 but there are also over other 1,300 people to discover: composers, librettists, performers, dedicatees, or people who are in other ways connected to a musical source who were born or died in a year ending in 20 or 70.

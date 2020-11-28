@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Manche Bibliotheken haben ihre Musikhandschriften in der [RISM Datenbank](https://opac.rism.info/){:target="_blank"} erfasst, aber nicht im bibliothekseigenen Katalog verzeichnet. Wussten Sie, dass Sie Ihre RISM-Datensätze herunterladen und in den OPAC Ihrer Bibliothek importieren können?
 
 Die [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (MMF) hat genau das für über 900 Einträge getan, die zuvor nur in der RISM Datenbank vorhanden waren. Die MMF mit Sitz in Winston-Salem, North Carolina und einem weiteren in Bethlehem, Pennsylvania, bewahrt eine der wichtigsten Musiksammlungen des 18. und 19. Jahrhunderts in den Vereinigten Staaten auf. Die historischen Bestände haben ihren Ursprung in den frühen Siedlungen von Mitgliedern der Herrnhuter Brüdergemeine in den amerikanischen Kolonien, die bis ins Jahr 1740 zurückdatieren. Über 10.000 Einheiten werden dort heute aufbewahrt. Die Sammlung besteht aus Werken von Herrnhuter Komponisten,ist aber auch reich an Quellen europäischer Komponisten, einige davon einzigartig für den MMF. Unter den Komponisten sind die Bach Söhne, Hasse, Stamitz und Haydn zu nennen.
@@ -30,8 +29,6 @@ Die ursprünglichen RISM-Datensätze wurden von der [RISM-Arbeitsgruppe in den U
 
 RISM ist natürlich sehr daran interessiert, die eigene Datenbank zu pflegen, in dem aktuelle Informationen aufgenommen werden. Die MMF hat uns die korrigierten Datensätze geschickt und wir werden die neuen Information in unsere Daten einarbeiten. David Blum wird auf dem [IAML Kongress in Leipzig](http://iaml2018.info/programme/){:target="_blank"} mehr zu diesem Projekt berichten.
 
-
 _Abbildung_: Eintrag zu “Siehe wie fein ist’s und lieblich” von Christian Friedrich Gregor in RISM (RISM ID no. [000107824](https://opac.rism.info/search?id=000107824){:target="_blank"}). Manuskript der Moravian Music Foundation, Archie K. Davis Center [(US-WS), shelmark 28](https://moravianmusic.on.worldcat.org/oclc/932481449){:target="_blank"}.
-
 
 

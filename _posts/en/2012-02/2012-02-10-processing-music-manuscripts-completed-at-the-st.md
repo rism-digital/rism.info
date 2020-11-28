@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The abbot of the St. Boniface Abbey in Munich, RR Johannes Eckert, was presented with a catalog of the music manuscripts in his abbey library on January 20, 2012. This brought to a close the inventorying of manuscripts by Dr. Gottfried Heinz-Kronberger, from the RISM working group in Germany.
 
 All libraries that have their music manuscripts indexed by RISM or do it themselves with RISM’s cataloging program can receive such a catalog free of charge for their own use. The data are, of course, also directly incorporated into the RISM online catalog.

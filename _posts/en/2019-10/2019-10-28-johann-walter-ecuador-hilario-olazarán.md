@@ -11,7 +11,6 @@ email: ''
 author: Carmen Álvarez
 ---
 
-
 We were happy when this very [RISM-rich issue](https://muse.jhu.edu/issue/40183){:target="_blank"} of IAML's journal _Fontes Artis Musicae_ crossed our desks, featuring the following articles:
 
 • "[Johann Walter Werke Verzeichnis [JWWV]](https://muse.jhu.edu/article/721665){:target="_blank"}" by Robin A. Leaver
@@ -27,7 +26,6 @@ We currently do not have any records from Ecuador, which makes knowing about the
 Lastly, the article by José Francisco Sánchez Salsamendi casts light on current research on the life and musical activities of Father Hilario Olazarán of Estella, who was active in Spain (Basque country) and Chile. We hope that a full account of his compositions will be made available.
 
 
-
 Estamos [muy contentos en RISM](https://muse.jhu.edu/issue/40183){:target="_blank"} de que la publicación de la revista IAML _Fontes Artis Musicae_ haya aterrizado en nuestra mesa, compuesta por los siguientes artículos:
 
 • "[Johann Walter Werke Verzeichnis [JWWV]](https://muse.jhu.edu/article/721665){:target="_blank"}" de Robin A. Leaver
@@ -41,6 +39,5 @@ El catálogo JWWV es una lista de los 293 trabajos de Walter. Está centrado en 
 Actualmente no tenemos registros de Ecuador, lo que convierte al artículo de Jesús Estévez en muy valioso para nosotros: descripciones detalladas de los 38 manuscritos encontrados en la iglesia. En febrero de 2020, tendrá lugar en Loja, Ecuador, una conferencia. [Sigue este PDF](/resources-old-website/user_upload/JOIM_2020_Conference.pdf)para más detalles. Gracias a nuestro grupo de trabajo en Córdoba, Argentina, un grupo de trabajo RISM será presentado en la conferencia, cosa que se convertirá en una oportunidad inestimable para comenzar nuevos proyectos de RISM en este pais musicalmente tan rico. Sigue este espacio para más información.
 
 Finalmente, el artículo de José Francisco Sánchez Salsamendi arroja luz sobre la investigación en la vida y actividad musical del Padre Hilario Olazarán de Estella, quien estuvo activo en España (País Vasco) y Chile. Esperamos que un trabajo completo de sus composiciones esté pronto disponible.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A new project has started that aims to prepare critical editions of important Ottoman music manuscripts from the nineteenth century. The project [Corpus Musicae Ottomanicae](http://www.uni-muenster.de/CMO-Edition/cmo/cmo.html){:target="_blank"} (CMO) began in October 2015 and their website was launched this March. The project is based in Münster, Bonn, and Istanbul with partners at the University of Münster ([Institute for Musicology](https://www.uni-muenster.de/Musikwissenschaft/){:target="_blank"}), the [Oriental Institute](http://www.maxweberstiftung.de/en/institute/institute-oi-istanbul.html){:target="_blank"} in Istanbul, and the publishing platform [perspectivia.net](http://www.perspectivia.net/){:target="_blank"}, and is funded by the Deutsche Forschungsgemeinschaft.
 
 In the nineteenth century, the development of Hamparsum notation (see image) enabled Ottoman music for court and municipal use to be written down with increasing frequency. Istanbul was the first center of this activity, followed by other cities in Turkey, Syria, and Egypt. The Western system of music notation came into use for this repertory particularly in the 1830s. Ottoman music has therefore been handed down in both notational systems, preserving a musical tradition that was alive up through the early twentieth century.
@@ -20,8 +19,6 @@ In the first phase of the CMO project, critical editions will be prepared based 
 
 The CMO project involves working with scholars, libraries, and archives to locate music manuscripts. A catalog of sources is being developed by the Oriental Institute in Istanbul that will organize information about printed editions of the nineteenth and twentieth centuries as well as handwritten sources. This catalog will be linked with the CMO. The CMO will be an exciting project to keep our eyes on as they make these manuscripts widely accessible.
 
-
 _Image:_ "Ṣabā pīşrevi" [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 - 1885)]. Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5. Published with kind permission from CMO.
-
 
 

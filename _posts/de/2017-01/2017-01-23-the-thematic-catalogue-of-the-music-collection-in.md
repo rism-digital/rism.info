@@ -11,7 +11,6 @@ email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 _Von Eliška Šedivá (RISM Tschechische Republik) erhielten wir folgende Publikationsankündigung:_
 
 **Pavla Semerádová und Eliška Šedivá: [_Catalogus collectionis operum artis musicae de Monasterii Siloensis_](http://www.cupress.cuni.cz/ink2_ext/index.jsp?include=podrobnosti&id=277126){:target="_blank"}** **(= Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2)**, Prag: Národní knihovna České republiky, 2016. 2 Bände, 660 Seiten, ISBN 978-80-7050-664-6.
@@ -31,6 +30,5 @@ Der Katalog ist in drei Teile gegliedert: ein Autorenkatalog, ein Katalog der an
 In der Einführung behandelt Pavla Semerádová die Musikgeschichte des Klosters Želiv im 18. und der ersten Hälfte des 19. Jahrhunderts, die Musik während der Liturgie in der Abteikirche Mariä Geburt, an den Fest- und Feiertagen des Kanonikats, der Grammatikschule im Kloster Želiv, die Orgel der Klosterkirche und die Musiksammlung..
 
 Im Anhang des Katalogs findet man eine Aufstellung der Chorleiter, Kantoren und Nachfolger der Klosterkirche in Želiv von 1663 bis 1856. Die Register zu den Schülern und Kopisten sowie ein vollständiger Katalog der Wasserzeichen, das Personenverzeichnis, das Titel- und Textregister, ein Index der Verlagsorte und Verleger runden den Katalog ab.
-
 
 

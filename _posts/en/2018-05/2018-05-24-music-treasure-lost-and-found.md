@@ -11,7 +11,6 @@ email: ''
 author: Caroline Shaw
 ---
 
-
 _The following originally appeared on the [Music Blog of the British Library](http://blogs.bl.uk/music/2017/05/music-treasure-lost-and-found.html){:target="_blank"} and is © British Library Board and posted here under a Creative Commons Attribution Licence._
 
 Music cataloguing had a rather shaky beginning in the [British Library](http://www.bl.uk). In the Library's early years when it was [part of the British Museum](http://www.bl.uk/aboutus/quickinfo/facts/history/), no separate music department existed. The sheet music which did come sporadically into the Museum was regarded as a problem: it was hard to catalogue by the rules appropriate to books (this remains true today), difficult to store (this also remains true), and, as music was not yet regarded as a proper subject for academic study, not particularly valued.
@@ -34,6 +33,5 @@ Caroline Shaw, Music Processing and Cataloguing Team Manager
 31 May 2017
 
 Based on a presentation by James Clements, 2004, with information from: Alec Hyatt King, _Printed music in the British Museum_ (London, 1979). YA.1997.a.10519
-
 
 

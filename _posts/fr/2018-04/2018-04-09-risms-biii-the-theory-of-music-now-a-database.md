@@ -11,7 +11,6 @@ email: chr.meyer@wanadoo.fr
 author: Christian Meyer
 ---
 
-
 _Nous avons reçu cette annonce de notre colleague Christian Meyer que nous vous relayons:_
 
 Le catalogue sommaire des manuscrits décrits dans la série B III du Répertoire international des sources musicales (The Theory of Music, 6 vol., München, 1961-2003), mis en ligne vers 2001 sur le portail du Lexicon musicum Latinum (LML) est désormais consultable en mode de [base de données](http://www.lml.badw.de/lml-digital/datenbanken.html "Ouvre un lien externe dans une nouvelle fenêtre").

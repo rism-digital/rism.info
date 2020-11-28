@@ -11,7 +11,6 @@ email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---
 
-
 While printed music in the 16th century was primarily produced using type printing, which gave it a typically blurry overall look (except with Ottaviano Petrucci), the printed editions by Simone Verovio are particularly striking because of their handwritten appearance. The engraved printed music is easily recognizable through its characteristic platemark.
 
 The first prints that were published by [Verovio (died 1607 in Rome)](https://opac.rism.info/search?id=pe30092268&Language=en){:target="_blank"} appeared in 1586. Up to 1608 you can find [anthologies and individual editions](https://opac.rism.info/search?View=rism&q=Verovio+simone&Language=en){:target="_blank"} where he signs his name. [Martin van Buyten](https://opac.rism.info/search?View=rism&q=Buyten+Martin&Language=en){:target="_blank"} should also be mentioned in this context, who worked with Verovio and was himself an engraver. In a broadsheet from 1587 titled _Essemplare di XIII lingue principalissime_, they demonstrate the possibilities of engraved lettering. A variety of alphabets from 14 writing systems are no problem for the engravers and everything is possible including German handwritten Kurrent, Greek, and Hebrew.
@@ -25,7 +24,6 @@ Those are just a few small examples of what you can discover. Go exploring with 
 Today Verovio lends his name to the [modern digital engraving library](http://www.verovio.org/index.xhtml){:target="_blank"} developed by the Swiss RISM office. Even if you don't know the project, you know what it can do: Verovio is used to display the music incipts in both the RISM online catalog and our internal cataloging program [Muscat](/community/muscat.html).
 
 If you want to learn more about Verovio (the person), you can look at the usual encyclopedias as well as a new publication by Auguste Campagne: [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"}. Wiener Veröffentlichungen zur Musikgeschichte, vol. 13 (Vienna: Böhlau Verlag, 2018; cited in RISM as CampagneV 2018).
-
 
 _Image_: Title page from CANZONETTE | A quattro Voci, | Composte da diuersi | Ecc.ti Musici. Copy in [Bayerische Staatsbibliothek](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00074058-8){:target="_blank"} (D-Mbs, 4 Mus.pr. 10), [RISM ID no. 993120915](https://opac.rism.info/search?id=993120915&Language=en){:target="_blank"}.
 

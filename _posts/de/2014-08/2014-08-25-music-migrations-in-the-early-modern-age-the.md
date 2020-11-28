@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das [MusMig (Music Migrations)](http://musmig.hypotheses.org/) ist ein auf drei Jahre angelegtes internationales Forschungsprojekt, das vom Joint Research Programme “Cultural Enconters” der HERA (Humanities in the European Research Area) gegründet wurde. Das Projekt versucht die Verbreitung von Musik und die Wanderbewegungen von Musikern im Osten, Westen und Süden Europas zu dokumentieren. Es werden das 17. und 18. Jahrhundert untersucht. Neben Instrumentalisten und Komponisten widmet sich das Projekt auch anderen musikbezogenen Berufsgruppen wie Kopisten, Instrumentenbauern, Notenstechern etc.
 
 Die Projektteilnehmer kommen aus Berlin, Ljubljana, Mainz, Warschau und Zagreb. Zwei der Teilnehmer sind RISM-Mitarbeiter: Vjera Katalinić, Projektleiterin der [Croatian Academy of Sciences and Arts, Department for the History of Croatian Music](http://info.hazu.hr/odsjek_za_povijest_hrvatske_glazbe) und Metoda Kokole vom [Scientific Research Centre of the Slovenian Academy of Sciences and Arts, Institute of Musicology](http://mi.zrc-sazu.si/en/predstavitev#v).

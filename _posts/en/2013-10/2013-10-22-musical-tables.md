@@ -11,7 +11,6 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-
 The multifaceted nature of music transmission can be seen in an unusual musical source at the Berchtesgaden Royal Palace, in the southeastern corner of Germany. A song table (Liedertisch)--an etched slab of stone depicting music and set in a wooden frame--is now indexed in the RISM database (RISM no. [450113059](http://opac.rism.info/search?documentid=450113059){:target="_blank"}).
 
 The two-part motet "Solve jubente Deo" for six voices by Giovanni Pierluigi da Palestrina (1525-1594) forms the outer edge of the richly decorated and once colored stonework, so that the motet could be sung if the singers are grouped around the table. The music is nearly complete except for the _bassus_ part, which is slightly shortened at the end, presumably due to lack of space.
@@ -25,5 +24,4 @@ The song table can be seen any time during a tour of the Berchtesgaden Royal Pal
 Bibliography: Bertha Antonia Wallner, _Musikalische Denkmäler der Steinätzkunst des 16. und 17. Jahrhunderts nebst Beiträgen zur Musikpflege dieser Zeit_. München: 1912, p. 154-338.
 
 Photo credit: Wittelsbacher Ausgleichfonds, Munich
-
 

@@ -11,7 +11,6 @@ email: katharine@foundlingmuseum.org.uk
 author: Katharine Hogg
 ---
 
-
 Der folgende Beitrag stammt von _Katharine Hogg ([The Foundling Museum](http://www.foundlingmuseum.org.uk/){:target="_blank"}, [GB-Lfom](https://opac.rism.info/search?View=rism&siglum=GB-Lfom&Language=en){:target="_blank"}) und erschien ursprünglich im [IAML UK & Ireland blog](https://iamlukirl.wordpress.com/2020/05/07/the-gerald-coke-handel-collection-at-the-foundling-museum/){:target="_blank"}. Er wird hier mit freundlicher Genehmigung widergegeben; die deutsche Version ist gekürzt._
 
 Die Gerald Coke Handel Collection im Londoner Foundling Museum umfasst über 12.000 Einheiten vom 18. Jahrhundert bis zur Gegenwart und ist eine bedeutende Quelle für die Händel-Forschung. Händel war ein wichtiger Stifter des Foundling Hospital, einem 1739 von Thomas Coram gegründeten Kinderheim. Händel gab Wohltätigkeitskonzerte, zahlte für die erste Orgel der Hospital-Kapelle und komponierte die Foundling Hospital-Hymne für sein erstes Benefizkonzert. Seine Aufführungen des _Messias_ im Foundling Hospital leisteten einen wichtigen Beitrag für die heutige Popularität des Werkes.
@@ -24,7 +23,6 @@ Der [Onlinekatalog](https://foundling.soutron.net/Portal/){:target="_blank"} ent
 
 Für Anfragen können Sie sich telefonisch an die +44 (0)20 7841 3606 wenden oder per Mail an [handel@foundlingmuseum.org.uk
 ](mailto:handel@foundlingmuseum.org.uk)Für weitere Details besuchen Sie unsere Webseite [www.foundlingmuseum.org.uk](http://www.foundlingmuseum.org.uk/).
-
 
 
 Bildnachweis für das erste Bild: Photographer Peter Dazeley. Copyright Foundling Museum. Für das fünfte: Photo GG Archard. Copyright Foundling Museum

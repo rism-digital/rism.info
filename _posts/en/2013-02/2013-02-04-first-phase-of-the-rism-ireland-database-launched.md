@@ -11,7 +11,6 @@ email: catherine.ferris@dit.ie
 author: Dr Catherine Ferris
 ---
 
-
 [http://www.rism-ie.org/](http://www.rism-ie.org/){:target="_blank"}
 
 RISM Ireland is delighted to announce the launch of a new Irish-focused free-to-access database of pre-twentieth century musical materials held in repositories throughout the island of Ireland.

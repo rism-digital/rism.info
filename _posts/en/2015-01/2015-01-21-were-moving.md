@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Goodbye, Sophienstraße! We're moving!
 
 After 26 years of being in our office at Sophienstraße 26, we moving...about half a mile away to a building on the Goethe Universität Frankfurt campus.

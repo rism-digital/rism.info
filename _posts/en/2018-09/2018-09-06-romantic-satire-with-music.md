@@ -11,7 +11,6 @@ email: lkoehler@stud.uni-frankfurt.de
 author: Charlotte Köhler
 ---
 
-
 _The following was written by Charlotte Köhler, our intern from summer 2018:_
 
 At the end of the 18th century, the first thinkers of the German Romantic era—in particular [the group centered in Jena](https://www.romantikerhaus-jena.de/de//778482){:target="_blank"} around the brothers [August Wilhelm](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe129203%22&Language=en){:target="_blank"} (1767-1845) and [Friedrich Schlegel](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30101868%22&Language=en){:target="_blank"} (1772-1829)—developed the idea of a "universal poetry," meaning a form of art without the boundaries of genre that constantly evolves through a continuous interplay coming from different directions. The early Romantics liked to mix different literary genres not only with each other, but also with music and the fine arts.

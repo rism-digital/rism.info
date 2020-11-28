@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Zum 280. Geburtstag des kroatischen Komponisten Luka Sorgo (1734-1789) hat Vjera Katalinić, Leiterin der kroatischen RISM-Ländergruppe, ein Buch über die Musikerfamilie veröffentlicht:
 
 Vjera Katalinić: Sorkočevići, dubrovački plemići i diplomati (The Sorkočevićes, Aristocratic Musicians from Dubrovnik). [Zagreb: Muzički informativni centar, 2014](http://mic.hr/products/the-sorkocevices-aristocratic-musicians-from-dubrovnik-book-and-cd){:target="_blank"}.
@@ -21,6 +20,5 @@ Das Buch „entdeckt neues und bringt bisherige Forschungen zu den Musikerkarrie
 Das Buch ist auf Kroatisch und Englisch verfasst und schließt eine CD-Aufnahme mit Symphonien von Luka Sorkočević ein. Wolfgang Brunner leitet das Ensemble Salzburger Hofmusik und hat alle Instrumentalwerke, die Luka Sorgo mit der Gewissheit zugeschrieben werden können, eingespielt.
 
 Das Buch von Katalinić ist mit Musikbeispielen und Abbildungen archivalischer Quellen großzügig ausgestattet. [Eine Werkliste für Luka](https://opac.rism.info/search?View=rism&author=Sorgo+Luca "external-link-new-window") und [Antun Sorgo](https://opac.rism.info/search?View=rism&author=Sorgo+Antun "external-link-new-window") einschließlich der zweifelhaften Autorschaft mit Verweisungen auf die RISM-Einträge ist ebenfalls enthalten.
-
 
 

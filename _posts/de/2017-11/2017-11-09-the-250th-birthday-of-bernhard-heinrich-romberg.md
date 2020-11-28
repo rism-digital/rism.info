@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Bernhard Heinrich Romberg (bapt. 13 November 1767, Dinklage – 13 August 1841, Hamburg) war ein deutscher Cellist und Komponist.
 
 Gemeinsam mit seinem etwa gleichaltrigen Cousin Andreas Romberg (1767–1821), der Violine spielte, trat Bernhard Romberg schon im Alter von sieben Jahren in Münster öffentlich auf. Ihre Konzertreisen durch Europa führten sie 1776 in die Niederlande, 1782 nach Frankfurt am Main sowie 1784 und 1785 nach Paris. Dort lernte Bernhard Romberg die Werke von Joseph Haydn und die Opern von Christoph Willibald Gluck kennen.
@@ -27,6 +26,5 @@ Von dem umfangreichen Briefwechsel Rombergs werden etwa[70 Briefe](https://samml
 Zu der Sammlung Romberg der Universitätsbibliothek Münster zählen auch viele [Erst- und Frühdrucke](https://sammlungen.ulb.uni-muenster.de/ulbms/nav/classification/4180434){:target="_blank"} der Kompositionen von Andreas und Bernhard Romberg. 167 Titel werden auf deren Webseite aufgelistet.
 
 _Abbildung_: Bernhard Heinrich Romberg, _Le bal masqué_ für Cello und Orchester (Wien: Tobias Haslinger ca. 1836), [Universitäts- und Landesbibliothek Münster](https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4276781){:target="_blank"} (D-MÜu AA 932-1\_2; RISM ID no. [991008830](https://opac.rism.info/search?id=00000991008830&Language=en){:target="_blank"}).
-
 
 

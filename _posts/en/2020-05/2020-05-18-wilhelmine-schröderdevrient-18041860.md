@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 "This is a formidable woman - my ideal in art!" said Clara Schumann about the most important German singer of the 19th century, [Wilhelmine Schröder-Devrient](https://opac.rism.info/search?View=rism&q=Schr%C3%B6der+Devrient+Wilhelmine&Language=en){:target="_blank"} (born 6 December 1804 in Hamburg, died 26 January 1860 in Coburg).
 
 As the daughter of artistic parents, she seemed destined for a career as a singer and actress. Wilhelmine appeared on stage as a child and switched from ballet to theater at the age of 15. She made her acting debut at the Burgtheater in Vienna (playing Aricia in Friedrich von Schiller's _Phädra_) and then studied voice. In 1822 she took on the title role in Ludwig van Beethoven's _Fidelio_. Clara Schumann was present at one of Schröder-Devrient's performances in 1839, where she made the remark quoted above. The two women then became lifelong friends.
@@ -22,8 +21,6 @@ During her Dresden period, guest appearances took the singer to Paris (1830, 183
 
 As a concert singer, Wilhelmine Schröder-Devrient appeared once again on stage in 1856, performing lieder by Franz Schubert, Beethoven, and Felix Mendelssohn Bartholdy. In 1859 she took leave of the stage and died on 26 January 1860 in Coburg.
 
-
 _Image_: Madame Schröder as Adriano in Richard Wagner's _Rienzi_, from Johann Jacob Weber, ed., 1803–1880 - _Illustrirte Zeitung_ no. 7, 12 August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (public domain).
-
 
 

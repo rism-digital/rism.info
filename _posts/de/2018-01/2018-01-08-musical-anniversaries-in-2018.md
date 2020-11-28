@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Ein frohes neues Jahr!**
 
 Wie in den vergangenen Jahren möchten wir den Jahresbeginn nutzen, um schon einmal einen Blick auf die runden Geburts- und Todes-Tage des noch jungen Jahres zu werfen. Zu den Gefeierten gehören nicht nur Komponisten, sondern auch Librettisten, Interpreten, Widmungsträger oder Personen, die nur indirekt mit einer Musikquelle in Verbindung stehen. Sie wurden geboren oder sind gestorben in einem Jahr, das mit der Ziffer 18 oder 68 endet.
@@ -30,7 +29,6 @@ Unter den über 900 Jubilaren, die in unserem [RISM Online-Katalog](https://opac
 - [Juventino Rosas](https://opac.rism.info/search?View=rism&q=123093848){:target="_blank"} (1868-1894), mexikanischer Komponist und Carillonneur
 
 
-
 Von den Jubilaren mit den meisten Quellen-Verknüpfungen steht an erster Stelle mit 2.837 Einträgen [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=118602985){:target="_blank"} (1792-1868), der vor 150 Jarhen starb, gefolgt von den Komponisten [Leopold Koželuh](https://opac.rism.info/search?View=rism&q=11635190X){:target="_blank"} (1747-1818; 1.302 Quellen) und [Nicola Porpora](https://opac.rism.info/search?View=rism&q=123494591){:target="_blank"} (1686-1768; 1.273 Quellen). [Ernst II.](https://opac.rism.info/search?View=rism&q=118685279){:target="_blank"}, Herzog von Sachsen-Coburg und Gotha (1818-1893) schließt mit 1.095 Einträgen an ebenso wie der Librettist [Apostolo Zeno](https://opac.rism.info/search?View=rism&q=116980257){:target="_blank"} (1668-1750) mit 1.094 Nachweisen.
 
 Hier folgt die vollständige Liste.
@@ -38,7 +36,6 @@ Hier folgt die vollständige Liste.
 **Geboren in xx18 oderr xx68** (zum Sortieren Überschrift anklicken):
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1Yl3qbQzkv-og7QRRYCyc8JCk6bhCKZirWbFOiptY&amp;containerId=googft-gviz-canvas"></iframe>
-
 
 
 **Gestorben in xx18 oder xx68** (zum Sortieren Überschrift anklicken):
@@ -52,6 +49,5 @@ m = männlich
 w / f = weiblich
 
 _Abbildung von_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
-
 
 

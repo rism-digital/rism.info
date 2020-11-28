@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today, our series RISM from A-Z takes us on a journey that spans three centuries as we visit the lives of an Elizaveta, Elisabeth, and Elizabeth.
 
 The first is Elizaveta Alexievna (1779-1826), the Empress of Russia. She was born Princess Louise of Baden (Germany) and married [Alexander I of Russia](https://opac.rism.info/search?View=rism&q=Aleksandr+I+Imperator+Rossii){:target="_blank"}. In the RISM online catalog, [there are six pieces](https://opac.rism.info/search?View=rism&q=Elizaveta+Alexievna "external-link-new-window") (printed music and music manuscripts) that were dedicated to her, all while she was the "Empress of all the Russians," as it is stated on some of the sources. Her German roots were not forgotten. There are three manuscript copies of Peter Josef von Lindpaintner's _Deutscher Heldensinn_ for voice and piano, based on poems by Jakob Ignaz Sendtner.
@@ -25,7 +24,6 @@ Next we move to the legendary Empress Elisabeth of Austria (1837-1898), known by
 If only the RISM database had been available to the filmmakers of the classic [film trilogy Sissi](http://www.imdb.com/title/tt0048624/?ref_=fn_al_tt_1){:target="_blank"} in the 1950s. They would have found the _Österreichische Jubel-Ouverture_ that was written for the occasion. Instead, they used the “Hallelujah Chorus” from Handel's Messiah. You can watch this scene from the film below:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/8IErjmH0h4A" frameborder="0" allowfullscreen></iframe>
-
 
 
 Lastly, there is one manuscript in the online catalog that takes us all the way up to the 20th century and today's living members of royalty. There is one piece dedicated to Queen Elizabeth of England, the late Queen Mother, mother of the current Queen Elizabeth II. It is [incidental music](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} to the fairy tale _Der Rubin_ by [Olga Diener](/rism_a_z/2014/08/19/olga-diener.html){:target="_blank"}.

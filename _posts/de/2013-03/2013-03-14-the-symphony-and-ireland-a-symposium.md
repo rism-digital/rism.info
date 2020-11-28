@@ -11,7 +11,6 @@ email: catherine.ferris@dit.ie
 author: Catherine Ferris
 ---
 
-
 **Die Sinfonie und Irland: Ein Symposion**
 
 **20. April 2013**

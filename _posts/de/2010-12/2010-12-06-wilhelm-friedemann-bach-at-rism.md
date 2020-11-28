@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Verkannt, unterschätzt, gescheitert, enfant terrible, der am meisten missbrauchte Komponist: Mit diesen Attributen wird Wilhelm Friedemann Bach (1710-1784) immer wieder charakterisiert. Sein 300. Geburtstag ist in den letzten Monaten auf vielfältige Weise begangen worden.
 
 -
@@ -37,7 +36,6 @@ Innerhalb des „Bach-Repertorium“ ist der 2. Band Wilhelm Friedemann gewidmet
 -
 
 Ebenfalls beim Carus Verlag wird unter der Editionsleitung von Peter Wollny die Gesamtausgabe der Werke Wilhelm Friedemann Bachs seit 2009 veröffentlicht.
-
 
 
 RISM verzeichnet in seinen verschiedenen Publikationsreihen zahlreiche Werke von Wihelm Friedemann Bach.
@@ -67,7 +65,6 @@ Musikalisches Mancherley, Berlin: G. L. Winter 1762-1763
 -
 
 Musikalisches Journal, Berlin: Günther 1800
-
 
 
 Sechs Dokumente innerhalb der Serie A/I „Einzeldrucke bis 1800“ nennen nur Instrumentalwerke von Wilhelm Friedemann (darunter Fk 3, 5, 12). Einmal fungiert er auch als Verleger für die „Sechs Choräle von verschiedener Art auf einer Orgel mit 2. Clavieren und Pedal vorzuspielen“ seines Vaters Johann Sebastian.

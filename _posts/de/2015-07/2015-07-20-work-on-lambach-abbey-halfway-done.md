@@ -11,7 +11,6 @@ email: lecqerbg@xs4all.nl
 author: Frank van der Lecq
 ---
 
-
 **Frank van der Lecq**aus den Niederlanden beschreibt seine Katalogisierungsarbeiten des Stifts Lambach (A-LA) für RISM:_
 
 Der Eintrag in RISM der Musiksammlung des Oberösterreichischen Benediktinerstifts Lambach (A-LA) ist fast zur Hälfte abgeschlossen. Von der instrumentalen Musik und den Messen brauchen nur noch Einzelheiten ergänzt zu werden. Der Eintrag der kleineren Vokalwerke ist in vollem Gang. Der Abschluß des Projekts wird 2018 erwartet. Alle bisher eingegebenen Titel finden Sie [hier](https://opac.rism.info/search?View=rism&siglum=A-LA){:target="_blank"}.

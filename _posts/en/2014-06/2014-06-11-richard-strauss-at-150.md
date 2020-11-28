@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today marks the 150th birthday of Richard Strauss (1864-1949). The Bavarian town of Garmisch-Partenkirchen, where the composer lived for over 40 years, will begin its celebration with the [Richard Strauss Festival](http://www.richard-strauss-festival.de/rsi/index.php/en/){:target="_blank"}. In numerous other events, the music of Strauss, one of the most performed composers in the world, will be honored.
 
 The RISM online catalog has [almost 700 sources by Richard Strauss](https://opac.rism.info/search?View=rism&author=Richard+Strauss){:target="_blank"}. Most of his manuscripts can today be found in German-speaking countries. Among the few digitized sources are sketches to the opera "Die Frau ohne Schatten" from the collection of the Juilliard School ([US-NYj, RISM ID no. 900005650](https://opac.rism.info/search?id=900005650&db=251&View=rism "external-link-new-window")). RISM has an ongoing partnership with the [Richard Strauss Quellenverzeichnis](http://www.richard-strauss-institut.de/rsqv.php3){:target="_blank"} project, which is why we have so many sources in the database by this modern composer.
@@ -27,7 +26,6 @@ Strauss also has connections to Frankfurt, where some of his works were premiere
 Below, the first part of Strauss's _Die Frau ohne Schatten_. Follow along with the Juilliard sketchbook! With the Radio Filharmonisch Orkest, Groot Omroepkoor, and Nationaal Kinderkoor, Vladimir Jurowski, conductor.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/675hQxETKC8" frameborder="0" allowfullscreen></iframe>
-
 
 
 Image credit: Sketchbook to _Die Frau ohne Schatten_, Juilliard School (without shelfmark, inside front cover), dedication to Richard Specht.

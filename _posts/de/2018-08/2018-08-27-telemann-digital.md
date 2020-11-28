@@ -11,7 +11,6 @@ email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
 
-
 _Den nachfolgenden Beitrag erhielten wir von Ann Kersting-Meuleman ([Universitätsbibliothek Frankfurt am Main](http://www.ub.uni-frankfurt.de/musik/){:target="_blank"}):_
 
 Fast 800 musikalische Handschriften des Komponisten [Georg Philipp Telemann](https://opac.rism.info/search?View=rism&author=Telemann+Philipp&siglum=D-F&callno=Ms.Ff.Mus.&subject=Cantatas){:target="_blank"} (1681-1767) in der Universitätsbibliothek Johann Christian Senckenberg werden mit Mitteln der Deutschen Forschungsgemeinschaft (DFG) digitalisiert. Das Projekt ist auf anderthalb Jahre angelegt und umfasst die Digitalisierung und Erschließung von rund 48.000 Seiten der Frankfurter Kantatensammlung aus dem 18. Jahrhundert.
@@ -21,6 +20,5 @@ Telemann war von 1712 bis 1721 als städtischer Musikdirektor und Kirchen-Kapell
 Ziel des Projekts ist, die Autographen und Handschriften der Kirchenkantaten sowie einiger weltlicher Werke dieser einzigartigen Sammlung für die wissenschaftliche Forschung, für wissenschaftliche Editionen sowie für Aufführungen in Kirche und Konzertsaal zur Verfügung zu stellen. Es bildet eine sinnvolle Ergänzung zu ähnlichen Musik-Digitalisierungsprojekten in anderen wissenschaftlichen Bibliotheken.
 
 Die Kantaten-Handschriften werden in den [Digitalen Sammlungen](http://sammlungen.ub.uni-frankfurt.de/musiktheater/nav/index/all){:target="_blank"} der Universitätsbibliothek zu finden sein.
-
 
 

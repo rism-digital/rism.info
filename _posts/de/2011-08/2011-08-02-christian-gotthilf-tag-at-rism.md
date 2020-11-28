@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Christian Gotthilf Tag (2. April 1735 – 19. Juli 1811) war ein namhafter Kantor, Organist und Komponist des 18. Jahrhunderts. Sein Wirken war zwar ausschließlich auf Sachsen begrenzt, aber durch vielfältige Abschriften und Auftragskompositionen aus Hamburg, Berlin und Danzig sind seine Werke noch heute in ganz Deutschland, Polen, Dänemark und den USA überliefert (vergleiche die Nachweise im RISM [Online-Katalog](http://opac.rism.info/index.php?id=6&tx_bsbsearch_pi1%5Bsmode%5D=simple&L=1&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=Tag%2C+Christian+Gotthilf&tx_bsbsearch_pi1%5Bsubmit_button%5D=Search){:target="_blank"}).
 
 Tag wurde an der Dresdner Kreuzschule ausgebildet und nahm 1755 in Hohenstein die vakante Stelle eines "Kantors und Schulkollegen" an, die er bis 1808 inne hatte. Zu seinen Schülern zählte u. a. Christian Gottlob Neefe, der spätere Kompositionslehrer Ludwig van Beethovens. Somit steht Tag in der Lehrer-Schüler-Linie genau zwischen Bach und Beethoven (Bach – Homilius – Tag – Neefe – Beethoven). Zeit seines Lebens hielt er regen Kontakt zu den führenden Musikern seiner Zeit und pflegte freundschaftliche Beziehungen zu seinem Lehrer Gottfried August Homilius, Johann Adam Hiller und dem Gelehrten Carl Heinrich Ludwig Pölitz.

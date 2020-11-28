@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir freuen uns, Ihnen mitteilen zu können, dass es einige neue Katalogisierungstools gibt, die dazu beitragen, die Präsenz von RISM in lokalen Bibliothekskatalogen zu verbessern.
 
 Sie finden diese neuen Ressourcen im Abschnitt [Katalogisierungstools](/de/unternehmen/rism-fuer-bibliothekare.html#c3947) auf der Seite RISM für Bibliotheken.

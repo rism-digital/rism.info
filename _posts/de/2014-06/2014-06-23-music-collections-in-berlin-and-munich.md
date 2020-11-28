@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 C. P. E. Bach, Wilhelm Killmayer, Ruth Zechlin, Richard Strauss, Manfred Schubert und RISM: Die neueste Ausgabe des Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München bündelt mehrere Artikel über verschiedene Musiksammlungen und enthält einen Beitrag unseres Kollegen Steffen Voss von der RISM Arbeitsgruppe Deutschland zur Verlängerung des Projekt bis 2025.
-
 
 
 [_Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}[2 (2014)](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
@@ -47,7 +45,6 @@ Seite 48
 FRIEDRICH DER GROSSE WÜRDE SICH FREUEN
 Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert
 Steffen Voss
-
 
 
 Bildnachweis:

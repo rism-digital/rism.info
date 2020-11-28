@@ -11,11 +11,9 @@ email: Bernhard.Lutz@bsb-muenchen.de
 author: Bernhard Lutz
 ---
 
-
 _We have received the following from Bernhard Lutz of RISM Germany:_
 
 **Indexing and digitization of watermarks in the music manuscripts of the Bavarian State Library up to the end of the 17th century**
-
 
 The [Bavarian State Library](https://www.bsb-muenchen.de/en/) holds an internationally important collection of music manuscripts from the late Middle Ages and the Renaissance. These include the large-format choirbooks from the Munich court chapel of the 16th century as well as monastic manuscripts and music manuscripts from the private libraries of humanists, patricians and merchants.
 

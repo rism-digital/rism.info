@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Maddalena Lombardini Sirmen (1745-1818) grew up in Venice's Ospedale dei Mendicanti and was a composer, violinist, and cellist. In 1759, she took violin lessons from [Giuseppe Tartini](https://opac.rism.info/search?View=rism&author=Giuseppe+Tartini "external-link-new-window"), and [Ferdinando Bertoni](https://opac.rism.info/search?View=rism&author=Ferdinando+Bertoni){:target="_blank"} taught her in composition.
 
 In 1768, Maddalena went on tour with her husband Lodovico Sirmen (1738-1812), who was also a violinist and concertmaster at the Basilika S. Maria Maggiore in Bergamo. The very next year they published six string quartets that they composed together: "Composti Da Lodovico, E Madelena Laura Syrmen" ([RISM A/I: S 3529](https://opac.rism.info/search?id=00000990059887){:target="_blank"}). Of compositions by Maddalena alone, six violin concertos were published in London in 1772-1773 ([RISM A/I: S 3535](https://opac.rism.info/search?id=00000990059893){:target="_blank"}) followed by six duets for two violins ([RISM A/I: S 3546](https://opac.rism.info/search?id=00000990059904){:target="_blank"}). Her very first opus consisted of six trios for two violins and cello and was published in Paris ([RISM A/I: S 3544](https://opac.rism.info/search?id=00000990059902){:target="_blank"}). Her works were known from Stockholm to Salzburg and were played frequently. This can still be observed today given the broad dissemination of her works in printed and handwritten form.
@@ -27,8 +26,6 @@ Enjoy Maddalena's op.1: Trio a deux violins et violoncello, op. 1, no. 3 in D (P
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovKfheo1vzM" frameborder="0" allowfullscreen></iframe>
 
 
-
 Image: Maddalena Lombardini, title page from op. 2, Trois Concerts (Amsterdam: J.J. Hummel, 1770?). [RISM A/I: S 3538](https://opac.rism.info/search?id=00000990059896){:target="_blank"}. Biblioteca Nacional de España [(E-Mn) M/709(18)](http://bdh-rd.bne.es/viewer.vm?id=0000009725&page=1){:target="_blank"}
-
 
 

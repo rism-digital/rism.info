@@ -11,7 +11,6 @@ email: musikabt@sbb.spk-berlin.de
 author: Dr. Martina Rebmann
 ---
 
-
 Zu den herausragenden Schätzen der Musikabteilung der Staatsbibliothek zu Berlin zählt die insgesamt rund 10.000 Signatureneinheiten umfassende Sammlung autographer Musikhandschriften. Neben den zum Weltkulturerbe zählenden, weltweit größten Autographenkollektionen aus der Familie Bach, von Wolfgang Amadeus Mozart, Ludwig van Beethoven, Felix Mendelssohn Bartholdy und Carl Maria von Weber umfasst sie ein breites Spektrum von Eigenschriften weiterer Komponisten.
 
 Im Rahmen des durch die DFG geförderten Projektes _KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)_ soll der Kernbestand dieser Autographensammlung, nämlich die Eigenschriften vom 17. bis zum mittleren 19. Jahrhundert, mit Kallisto, der Datenbank des RISM, wissenschaftlich erschlossen und über den RISM-OPAC recherchierbar gemacht werden. Zugleich geht das Projekt über konventionelle Erschließungsmethoden weit hinaus, indem erstmals flächendeckend anhand eines größeren Bestandssegments eine digitale Dokumentation von Schreiberhänden und Wasserzeichen unternommen wird. Dabei ist zu erwarten, dass Querbeziehungen innerhalb dieses Bestandes sowie zu anderen wertvollen Beständen der Abteilung zu Tage treten, die wichtige Aufschlüsse für die chronologische Einordnung und geografische Verortung der Werke geben. Somit werden der Erforschung von Rezeptions- und Überlieferungswegen wie auch allgemein der Biographik neue Impulse gegeben.

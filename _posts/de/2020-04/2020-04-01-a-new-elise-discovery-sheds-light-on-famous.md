@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Eine kürzlich entdeckte Musikhandschrift aus dem frühen 19. Jahrhundert lässt Musikwissenschaftler aus aller Welt spekulieren, ob sie der wahren Identität der Widmungsträgerin von Ludwig van Beethovens berühmter Bagatelle Für Elise einen Schritt näher gekommen sind.
 
 Das bisher unbekannte Stück für Orgel und Akkordeon wurde Anfang des Jahres in einer Kirche in der norddeutschen Hafenstadt Kiel entdeckt. Musikwissenschaftler, die in einem interdisziplinären Team die historische Kuneus-Gesellschaft für Seenotrettung vom Delphin (KuGeSeDe) untersuchen, waren in der Pfarrkirche St. Ausonia (RISM-Bibliothekssigel: D-KIaus), als sie eine überraschende Entdeckung machten.

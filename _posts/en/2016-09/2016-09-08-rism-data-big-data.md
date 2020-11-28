@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The RISM online catalog currently contains [over 1,052,000 records](https://opac.rism.info/search?View=rism&q=*&Language=en){:target="_blank"}. When you count these along with 101,000 authority files for people, 63,000 for institutions, and 32,000 for secondary literature, that's a lot of data!
 
 All of it is freely available as [linked open data](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} under a Creative Commons license, but what can you do with it?
@@ -29,8 +28,6 @@ The RISM data are now available as [open data and linked open data](https://opac
 Anyone is welcome to take our data out for a spin. If you do so, we'd love to hear about it!
 
 
-
 _Image: From the British Library's open data_
-
 
 

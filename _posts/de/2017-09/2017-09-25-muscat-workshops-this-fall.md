@@ -11,13 +11,11 @@ email: coloquio.tallerdeedicion@gmail.com
 author: ''
 ---
 
-
 [Muscat](/de/community/muscat.html), das spezielle Erfassungsprogramm des RISM zur Katalogierung der Musikquellen, wird inzwischen von 200 Personen genutzt. Wir sind bemüht jeden Monat neue Nutzer zu gewinnen. Workshops sind dabei ein wichtiger Teil, um neue Mitabeiter mit den Grundlagen der Katalogisierung mit RISM vertraut zu machen. Diesen Herbst finden vier Workshops in drei Ländern statt:
 
 **Muscat Workshop am [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/){:target="_blank"}**
 
 Dieser Workshop ist für Mitglieder der RISM Arbeitsgruppe am Chopin-Institut. Guido Kraus von der RISM-Zentralredkationentral hält diesen Workshop am 26. und 27. September 2017 ab.
-
 
 
 **Muscat Workshop in Morelia, Mexiko**
@@ -38,6 +36,5 @@ Ort: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg
 Workshopleitung: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)
 Uhrzeit: 10.30 – 16.30
 Ort: [Österreichische Nationalbibliothek](https://www.onb.ac.at/de/bibliothek/ausbildung/universitaetslehrgang/neuer-standort/){:target="_blank"}, Ausbildungsabteilung
-
 
 

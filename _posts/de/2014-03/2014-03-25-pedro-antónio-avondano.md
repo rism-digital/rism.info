@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Diese Woche möchten wir die Werke von Pedro António Avondano (1714-1782), einem portugiesischen Komponisten, der im April vor 300 Jahren geboren wurde, hervorheben.
 
 Obwohl er in Lissabon geboren wurde und dort auch starb, haben seine Werke mehr von der Welt gesehen als er selbst.
@@ -22,7 +21,6 @@ Heute werden Avondanos Handschriften an weit auseinanderliegenden Orten, wie Par
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1XaHwakNAaV3hAenyvznzDbrb9p8audBCUHXa1NU&amp;viz=MAP&amp;h=false&amp;lat=40.699139457097&amp;lng=53.89859691989818&amp;t=1&amp;z=2&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 [Link zur Karte](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1XaHwakNAaV3hAenyvznzDbrb9p8audBCUHXa1NU&viz=MAP&h=false&lat=40.699139457097&lng=53.89859691989818&t=1&z=3&l=col0&y=2&tmplt=2&hml=ONE_COL_LAT_LNG){:target="_blank"}
-
 
 
 Eine Konferenz aus Anlass der 300-jährigen Jubiläen zu "[Niccolò Jommelli, Christoph Willibald Gluck und Pedro António Avondano: die Verbreitung des musikalischen Repertoires im Europa des 18. Jahrhunderts](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"}" findet im Juni 2014 in Lissabon (Portugal) statt.

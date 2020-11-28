@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM und die [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/){:target="_blank"} (BSB) kündigen die Veröffentlichung einer neuen Version des RISM Online-Katalogs unter [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"} an. Diese Version stellt die erste Phase eines Entwicklungsprojekts dar, das in den kommenden Monaten zusätzliche neue Funktionen enthalten wird.
 
 Dies ist ein erster Schritt zu einer vollkommenen Erneuerung des Online Katalogs des RISM. Dabei wurden viele Anregungen von Nutzern berücksichtigt, aber noch nicht alle. Im Laufe des nächsten Jahres werden weitere Verbesserungen angebracht. Dann werden z.B. auch die Drucke (A/I, B/I und B/II) in ausgereifter Form angezeigt.

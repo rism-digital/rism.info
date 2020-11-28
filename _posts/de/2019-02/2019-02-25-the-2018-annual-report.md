@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der Jahresbericht 2018 ist von der RISM-Zentralredaktion veröffentlicht worden. Er kann auf der [RISM Webseite](/de/publikationen/jahresberichte/2018.html) eingesehen werden. Hier einige Punkte vorab:
 
 **Titelanzahl** : Unsere weltweit aktiven Mitarbeiter haben letztes Jahr fleißig Musikhandschriften, Musikdrucke, Theoretika und Libretti katalogisiert. Der [RISM Katalog](https://opac.rism.info/){:target="_blank"} weist momentan 1.115.800 Einträge für Musikquellen.
@@ -46,6 +45,5 @@ Muscat ist ein plattformunabhängiges, webbasiertes, open-source Programm. Es is
 - **Open Data und Linked Open Data:** Die [RISM Daten](https://opac.rism.info/index.php?id=8&L=1) können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz wiederverwendet werden. Bibliotheken können somit ihreTitel in den eigenen lokalen Online-Katalog übertragen. Um die Belieferung mit den Daten zu vereinfachen, hat die Zentralredaktion Tools entwickelt, wie z.B. eine SRU-Schnittstelle.
 
 Auf ein erfolgreiches und produktives 2019!
-
 
 

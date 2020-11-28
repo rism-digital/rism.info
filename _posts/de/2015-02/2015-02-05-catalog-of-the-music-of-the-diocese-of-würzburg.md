@@ -11,7 +11,6 @@ email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 Von unserer deutschen Arbeitsgruppe stammen die folgende Neuigkeiten:
 
 Ende 2014 hat Dieter Kirsch, ehemals Rektor und Professor an der Hochschule für MusikWürzburg und mittlerweile [Ehrendoktor](/self_representation/2014/07/28/congratulations-to-our-rism-colleague-dieter.html){:target="_blank"} dieser Hochschule einen monumentalen "Katalog der Musikalien derDiözeseWürzburg" vorgelegt. Darin sind sowohl die Musikhandschriften als auch dieMusikdruckeaus dem Diözesanarchiv und seiner zahlreichen (ca. 170) Deposita aus Pfarrgemeinden der Diözese Würzburg enthalten.

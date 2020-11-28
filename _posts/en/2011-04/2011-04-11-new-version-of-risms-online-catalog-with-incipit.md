@@ -11,7 +11,6 @@ email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---
 
-
 A new version of the OPAC for the International Inventory of Musical Sources (RISM) was released at the end of March 2011. New features in this version are a music incipit search, links to digital objects, and various minor improvements, including display of holding libraries in cases of ownership transfer and corrected errors in incipit displays.
 
 For the music incipit search, two search fields are available. This makes it possible to find works that are musically similar. The search is based on the progression of the beginning notes of a composition. One only needs to enter the note names (C, D, E, F, G, A, B). Searching using the field “Music incipit” delivers results based on the exact note progression; the field “Music incipit (with transposition)” also includes the series of notes transposed. The database contains over one million incipits.

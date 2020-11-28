@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die [RISM-Artikel auf Wikipedia](https://de.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}auf Englisch und Deutsch wurden aktualisiert, um die heutige Struktur des Projektes besser darzustellen und den Online-Katalog in den Mittelpunkt zu stellen.
 
 Die Wikipedia-Artikel sind insgesamt in elf Sprachen verfügbar: Katalanisch, Chinesisch, Tschechisch, Niederländisch, Englisch, Französisch, Deutsch, Italienisch, Russisch, Spanisch und Schwedisch. Der tschechische Artikel wurde erst kürzlich hinzugefügt -- herzlichen Dank an den (uns unbekannten) Autor! Falls Sie eine dieser Sprachen sprechen, möchten wir Sie ermutigen, die entsprechenden Artikel zu aktualisieren, und es wäre natürlich wunderbar, RISM-Artikel auch in anderen Sprachen vorzufinden.
@@ -21,6 +20,5 @@ Die Wikipedia-Artikel sind wichtige Informationsquellen über RISM für Leser in
 Die Wikipedia-Artikel werden auch oft gelesen: 2018 wurde der RISM-Artikel[über 7000 Mal gelesen](https://tools.wmflabs.org/langviews?project=en.wikipedia.org&platform=desktop&agent=user&start=2018-01-01&end=2018-12-31&page=R%C3%A9pertoire_International_des_Sources_Musicales&sort=views&direction=1&view=list&page=R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}.
 
 Jeder kann Beiträge zu Wikipedia leisten, aber es ist wichtig, die Wikipedia-Richtlinien zu beachten. Die Zentralredaktion hilft Ihnen gerne bei Fragen weiter und wir helfen auch gerne bei der Koordinierung, falls mehrere Personen aus einer Sprache beitragen möchten.
-
 
 

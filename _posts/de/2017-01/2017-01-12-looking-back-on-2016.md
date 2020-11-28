@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](/self_representation/2016/11/14/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](http://www.rism.info/de/publikationen/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
 
 Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die beliebtesten Nachrichten des letzten Jahres:
@@ -28,7 +27,6 @@ Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die 
 10. [Ankündigung der böhmischen Wasserzeichen-Datenbank](/electronic_resources/2016/02/22/announcing-the-bohemian-watermark-database.html){:target="_blank"}: Ein fortdauerndes Projekt an der Nationalbibliothek in Prag
 
 
-
 Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über [Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} an erster Stelle.
 
 **Highlights in den s**** ozialen Medien:**
@@ -39,13 +37,11 @@ Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über
 - [How early music was printed using movable type](https://www.facebook.com/RISM.info/posts/1104831692891007){:target="_blank"} - über Druckverfahren der Renaissance
 
 
-
 <iframe src="https://player.vimeo.com/video/101737669" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
 **RISM-Publikationen**
 RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer Aktualisierung des eigenen Artikels in _Grove Music Online_. Eine ausführliche Liste finden Sie unter [RISM Bibliographie](/de/publikationen/bibliographie.html#c2606).
-
 
 
 Wir freuen uns auf ein produktives und interessantes 2017!

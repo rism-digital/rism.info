@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In March 2017, [we published a list](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} with 800 women composers who appear in RISM records. In 2019 alone, we have had over 50 new names, so in total there are over 1,000. As a sampling, here are 17 of them.
 
 Some of the new ones are from the [records we have imported from ICCU](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
@@ -41,8 +40,6 @@ From South Korea:
 [Shirley Dean Nevin](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Nevin+Shirley+Dean&Language=en){:target="_blank"} (1894-1982)
 and [Bessie Lim](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Lim+Bessie&Language=en){:target="_blank"} (1897-1999), whom we [reported on back in April](/rediscovered/2019/04/18/bessie-lim-the-first-woman-musician-of-korea-and.html){:target="_blank"}.
 
-
 _Image_: Beginning of the sacred song “Occhi io vissi di voi” by Claudia Sessa (ca. 1570-ca. 1619), from _Canoro pianto di Maria Vergine_ (RISM 1613|3 ). Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.125.
-
 
 

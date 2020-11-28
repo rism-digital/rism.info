@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 [Polona](https://polona.pl/){:target="_blank"}, die Digitale Bibliothek der [Nationalbibliothek Polens](http://bn.org.pl/en/){:target="_blank"}, hat inzwischen zwei Millionen Werke veröffentlicht und steht jetzt auch in einer englischen Oberfläche zur Verfügung (siehe Schaltfläche ganz unten links).
 
 Polona zeigt die Schätze polnischer Kultur der Nationalbibliothek und einer Reihe anderer Institutionen. Sie finden dort Bücher, alte Drucke, Handschriften, Grafiken, Kartenmaterial, Fotografien, Plakate, Postkarten und natürlich Musikalien – davon sind bereits 12.000 Einheiten enthalten.
@@ -25,10 +24,8 @@ Für **Musikhandschriften** wählen Sie die Kategorie "[manuscripts](https://pol
 
 Hochauflösende Abbildungen sind verfügbar und lizenzfreie Objekte können wiederverwendt werden, ohne um Erlaubnis bitten zu müssen.
 
-
 _Abbildung_ : Fryderyk Chopin, _4 Mazurkas_. Biblioteka Narodowa. Lizenzfrei von [Polona](https://polona.pl/item/4-mazurkas-pour-le-piano-dediees-a-mlle-rose-mostowska-op-33,MTEyNDgwNA/){:target="_blank"}
 
 _Wir danken Sonia Wronkowska (RISM Polen)._
-
 
 

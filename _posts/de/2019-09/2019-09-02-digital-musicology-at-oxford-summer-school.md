@@ -11,7 +11,6 @@ email: ''
 author: Jennifer Ward (RISM Zentralredaktion)
 ---
 
-
 Ich wollte schon seit einiger Zeit an der [Digital Humanities at Oxford Summer School (DHOxSS)](https://www.dhoxss.net/){:target="_blank"} teilnehmen, dank der begeisterten Rezensionen von Bibliotheksfreunden. Ich war froh, als meine Sommerpläne endlich auf die diesjährige Summer School abgestimmt wurden, und ich direkt nach dem [IAML-Kongress in Krakau](/events/2019/08/26/congress-diary-from-iaml-kraków-2019.html){:target="_blank"} nach Oxford fahren konnte. Ich hatte das Glück, ein Stipendium für den [Digital Musicology Strang](https://www.dhoxss.net/digital-musicology){:target="_blank"} zu erhalten, der von Kevin Page einberufen wurde. Ein Bericht, der meine Woche zusammenfasst, wurde auf der [DHOxSS-Webseite](https://www.dhoxss.net/jennifer-ward){:target="_blank"} veröffentlicht. An dieser Stelle möchte ich näher auf die von uns verwendeten Werkzeuge und Techniken eingehen.
 
 Die Woche war grob in drei Module unterteilt, die sich auf digitales Audio, digitale Notation und digitale Beschreibungen konzentrierten. Das Format der Unterrichtseinheiten wurde so gemischt, dass sich die Vorlesungen mit viel Zeit abwechselten, um mit den neuen Werkzeugen zu üben. Eine Vielzahl von Wissenschaftlern und Praktikern teilten mit, wie digitale Werkzeuge in ihrer Forschung verwendet werden, und dann konnten wir die Werkzeuge selbst ausprobieren.

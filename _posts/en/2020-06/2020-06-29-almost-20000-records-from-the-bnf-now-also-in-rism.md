@@ -11,7 +11,6 @@ email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---
 
-
 _We have received the following from François-Pierre Goy (Bibliothèque Nationale de France, [Département de la Musique](https://www.bnf.fr/fr/departement-de-la-musique){:target="_blank"}):_
 
 Even though not all music manuscripts from the Bibliothèque nationale de France are in RISM, F-Pn is now the siglum with the fifth highest number of records in the database.
@@ -23,7 +22,6 @@ In the 1980s, the department started to describe its pre-1800 music manuscripts 
 The retrospective and current cataloguing of music manuscripts continues. [This link](https://catalogue.bnf.fr/affiner.do?motRecherche=rismmss&index=&numNotice=&listeAffinages=FacEnLigne_gallicaintramurosrech&afficheRegroup=false&trouveDansFiltre=NoticePRO&nbResultParPage=10&triResultParPage=1&critereRecherche=0&typeNotice=) allows you to follow its progress until the records have been uploaded in the RISM catalogue.
 
 For the remainder of France, the census of early musical holdings, now available online through the [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) (besides the book version), will be enriched in the near future by new regional catalogues.
-
 
 _Image_: Giovanni Lorenzo Lulier, "La fortuna con eccessi," cantata from _Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item){:target="_blank"}, [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism){:target="_blank"}.
 

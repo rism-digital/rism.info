@@ -11,7 +11,6 @@ email: ''
 author: Dr. Eun-Ha Kim
 ---
 
-
 The Music Research Institute at Ewha Womans University in Seoul, South Korea organized an international conference from 19-20 October 2012. The title of the conference was “The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond.” The conference consisted of five parts:
 
 Part 1: Keeping the Past Alive: Digitization of Primary Resources

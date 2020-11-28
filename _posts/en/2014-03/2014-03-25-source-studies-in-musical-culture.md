@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We would like to announce the recent publication of papers presented at a conference organized by the Department of Musicology of Adam Mickiewicz University and the Archdiocesan Archive in Poznań, Poland in September 2011:
 
 Alina Mądry and Magdalena Walter-Mazur, eds. _Source Studies in Musical Culture_. Interdisciplinary Studies in Musicology 11. Poznań: [Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu](http://www.muzykologia.amu.edu.pl/68_interdisciplinary-studies-in-musicology.html){:target="_blank"}, 2012. 304 p. ISBN 978-83-7654-248-5.

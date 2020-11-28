@@ -11,7 +11,6 @@ email: dsmolar@kul.pl
 author: Dariusz Smolarek
 ---
 
-
 Eine neue RISM Arbeitsgruppe wurde in Polen eingerichtet. Sie ist dem Lehrstuhl für polyphone geistliche Musik an dem Musikwissenschaftlichen Institut der katholischen Johannes Paul II. Univeristät in Lublin angegliedert. Der Direktor der neuen Arbeitsgruppe ist Dariusz Smolarek. Zusammen mit Frau Aleksandra Czech wird er an den Beständen der Diözesanbibliothekin Sandomierz (PL-SA) arbeiten. Letztere beinhalten etwa 1000 Einheiten.
 
 Kontaktadresse:

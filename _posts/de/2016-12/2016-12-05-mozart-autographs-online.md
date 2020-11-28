@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am heutigen (nicht ganz) runden 225. Todestag von Wolfgang Amadeus Mozart (1756-1791) kommt natürlich auch RISM nicht vorbei. Mittlerweile sind in unserer Datenbank etwa [340 autographe](https://opac.rism.info/search?View=rism&author=118584596&Language=en){:target="_blank"} Nachweise verzeichnet, davon sind fast 50 auch als Digitalisat abrufbar. Stellvertretend seien an dieser Stelle vier davon hervorgehoben:
 
 **Musik zu einer Faschings-Pantomime KV 446**
@@ -27,8 +26,6 @@ Das Autograph liegt heute in der Universitätsbibliothek der Eberhard Karls Univ
 An dieser Berliner Quelle lässt sich gut nachvollziehen, wie schenbare Äußerlichkeiten Anhaltspunkte für die Entstehungsgeschichte eines Werkes geben können ([RISM ID no. 464001748](https://opac.rism.info/search?id=464001748&Language=en){:target="_blank"}). In diesem Fall zeigt das unterschiedliche Papierformat, dass Mozart nicht kontinuierlich an dem Werk gearbeitet hat.
 
 
-
 _Abbildung_: Szene XIII (nach No. 29): "Ah poveretto me" und No. 30: Andante "Tutte accusan le donne" aus dem 2. Akt von _Così fan tutte._ Universitätsbibliothek Johann Christian Senckenberg (D-F), [Mus Hs 2350](http://nbn-resolving.de/urn:nbn:de:hebis:30:2-223771){:target="_blank"}. [RISM ID no. 455002350](https://opac.rism.info/search?id=455002350&Language=en){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 New on our bookshelves is:
 
 Harry White and Barra Boydell, eds. [_The Encyclopaedia of Music in Ireland_](http://www.ucdpress.ie/display.asp?isbn=9781906359782&){:target="_blank"}. Dublin: University College Dublin Press, 2013. ISBN: 9781906359782
@@ -63,6 +62,5 @@ EMIR provides a wealth of information about the people who shaped Irish musical 
 [Wallace, Vincent](https://opac.rism.info/search?View=rism&author=Wallace+Vincent){:target="_blank"} (1812-1865)
 [Walsh, George](https://opac.rism.info/search?View=rism&author=Walsh+George){:target="_blank"} (1720p-1765)
 [Woodward, Richard](https://opac.rism.info/search?View=rism&author=Woodward+Richard){:target="_blank"} (1743c-1777)
-
 
 

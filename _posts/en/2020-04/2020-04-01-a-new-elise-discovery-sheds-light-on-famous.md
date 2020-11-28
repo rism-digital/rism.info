@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A recently discovered music manuscript dating from the early 19th century has musicologists from all over the world speculating whether they are one step closer to finding out the true identity of the dedicatee of Ludwig van Beethoven's famous bagatelle _Für Elise_.
 
 The previously unknown piece, written for organ and accordion, was discovered at the beginning of the year in a church in the northern German port city of Kiel. Musicologists part of an interdisciplinary team investigating the historical Kuneus-Gesellschaft für Seenotrettung vom Delphin (Kuneus Society for Maritime Rescue by Dolphins, or KuGeSeDe) were in the Parish Church of St. Ausonia (RISM library siglum: D-KIaus) when they made a surprising discovery.

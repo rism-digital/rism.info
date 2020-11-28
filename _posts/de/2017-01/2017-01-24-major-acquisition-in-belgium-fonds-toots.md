@@ -11,7 +11,6 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 _Diese Nachricht erreichte uns von der Arbeitsgruppe [RISM Belgien](/de/workgroups/belgium-rism-belgium/home.html):_
 
 Die Musikabteilung der [Königlichen Bibliothek in Belgien](http://www.kbr.be/language_selection){:target="_blank"} hat im Dezember 2016 eine wichtige Sammlung erworben - den Fonds Toots Thielemans, benannt nach dem belgischen Musiker, der am 22. August 2016 im Alter von 94 Jahren verstarb.

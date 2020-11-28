@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die Bibliothek der University of Washington (US-Su) ist in den Vereinigten Staaten die erste, die Metadaten von RISM für den Einsatz in digitalen Sammlungen verwendet.
 
 Ihre [Music Library Digital Scores Collection](http://content.lib.washington.edu/mmweb/index.html){:target="_blank"} umfasst derzeit digitale Bilder von Handschriften der Rare Book Collection. Die Noten stammen aus dem 17. bis 19. Jahrhundert. Ein Großteil der Sammlung umfasst Opern, Opern-Auszüge und andere Vokalmusik aus dem 17. und 18. Jahrhundert.

@@ -11,7 +11,6 @@ email: almadry@poczta.onet.pl
 author: ''
 ---
 
-
 A new RISM working group was founded this past June at the Institute for Musicology at the Adam Mickiewicz University in Poznań, Poland. Under the direction of Dr. habil. Alina Mądry and with the support of Dr. habil. Magdalena Walter-Mazur, the new [RISM group in Poznań](/workgroups/poland-poznan-adam-mickiewicz-university/home.html) will work with interested students in the historical musicology program to document music collections in Poznań for RISM. Currently, the new working group is occupied with music manuscripts that are housed at the diocesan archive in Poznań (PL-Pa), in particular those from the Poznań provenance Kościół farny pw. św. Marii Magdaleny (parish church of St. Mary Magdalene). The Poznań working group is using RISM's cataloging program Kallisto to document this collection. We are looking forward to making the results of their work available to everyone soon in the online catalog and to share these sources with the international musicological community.
 
 Full contact information:
@@ -28,7 +27,5 @@ E-mail: [almadry@poczta.onet.pl](mailto:almadry@poczta.onet.pl) (Mądry)
 Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/)
 
 
-
 Image: Title page from Wojciech Dankowski, _Regina caeli_
-
 

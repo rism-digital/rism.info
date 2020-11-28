@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Luigi Marchesi (1754-1829) – one of the most famous singers at the end of the eighteenth century – will be the focus of attention in the next few days with large celebrations in Italy. An exhibit dedicated to the Italian castrato, whose career began in 1765 as a choirboy at the Milan cathedral and ended in 1805 at La Scala, opens today in his hometown of Inzago (some 25 km northeast of Milan). The singer's last will and testament, contemporary printed editions, music with his embellishments, letters, and other documents related to Marchesi are on display.
 
 Gaetano Donizetti's birthplace in Bergamo will host the conference **Luigi Marchesi (1754-1829), “L’Oceano dei soprani”: carriera di un evirato cantore** on October 16 and 17, 2015. Nineteen presentations will illuminate the composer and performer from all sides.
@@ -21,7 +20,6 @@ Those interested in the art of embellishments by castrati of this period should 
 These initiatives are all outgrowths of the [Luigi Marchesi Project](http://www.luigimarchesimusic.com/home.html){:target="_blank"}, which is also planning lectures, critical editions, and a comprehensive study of the singer's life and works.
 
 If you want to get an idea of the various compositions by Luigi Marchesi and the arias that he sang, take a look at the RISM online catalog. In total, [140 sources](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} are listed relating to Luigi Marchesi.
-
 
 Image: Portrait of Luigi Marchesi by his friend Richard Cosway (London, 1790).
 

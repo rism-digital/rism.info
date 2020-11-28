@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 In unserer Reihe Modern Monday dürfen die Musiknachlässe nicht fehlen, zumal sie einen großen Anteil an Musikquellen des 20. Jahrhunderts beinhalten, die bei RISM verzeichnet sind. Die Erfassung dieser Nachlässe erfolgt durch die besitzenden Bibliotheken. Da sie mit dem Erfassungsprogramm „Kallisto“ katalogisiert werden, werden sie quasi automatisch auch Teil des RISM Onlinekataloges.
 
 
-
 Insbesondere die Sächsische Landes- und Universitätsbibliothek in Dresden ([D-Dl](https://opac.rism.info/metaopac/search?View=rism&siglum=D-Dl){:target="_blank"}) und die Bayerische Staatsbibliothek in München ([D-Mbs](https://opac.rism.info/metaopac/search?View=rism&siglum=D-Mbs){:target="_blank"}) verfügen über eine große Anzahl von Musiknachlässen, die teilweise schon bei RISM nachgewiesen sind.
-
 
 
 Einen Überblick über sämtliche Musiknachlässe der SLUB Dresden gibt es auf deren eigener [Seite.](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/uebersicht-musiknachlaesse/){:target="_blank"}
@@ -37,7 +34,6 @@ Bereits Ende 2014 stellte Uta Schaumberg die Nachlässe in der Bayerischen Staat
 - [Joseph Haas](https://opac.rism.info/metaopac/search?View=rism&author=134394372){:target="_blank"} (1879-1960); 359 Quellen
 - [Karl Amadeus Hartmann](https://opac.rism.info/metaopac/search?View=rism&author=118546309){:target="_blank"} (1905-1963); 239 Quellen
 - [Ermanno Wolf-Ferrari](https://opac.rism.info/metaopac/search?View=rism&author=118634879){:target="_blank"} (1876-1948); 210 Quellen
-
 
 _Abbildung_: Theodor Anton Blumer: _Hampelmanns groteskes Tanzduett_ (1930). [SLUB Dresden](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/theodor-blumer/){:target="_blank"} (D-Dl) Mus.10621-J-502 Mus.10621-I-502. [RISM ID no. 290002218](https://opac.rism.info/search?id=290002218){:target="_blank"}.
 

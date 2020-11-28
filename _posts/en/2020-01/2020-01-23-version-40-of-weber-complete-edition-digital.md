@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The digital edition of the [Carl Maria von Weber Complete Edition](https://weber-gesamtausgabe.de/){:target="_blank"} has just released its Version 4.0. It offers a number of interesting new developments from both technical and content points of view.
 
 From the technical side, the site's responsive web design was improved so that the pages can be displayed even better on small devices. A filter allows you to limit the search to a specific document type with just one click.
@@ -19,5 +18,4 @@ From the technical side, the site's responsive web design was improved so that t
 From the content side, Weber's own work lists have been integrated. Furthermore, some previously unknown letters have been newly incorporated and many records for people, letters, and writings have now been added.
 
 A [description of all of the new features](https://weber-gesamtausgabe.de/de/A009001/Aktuelles/A050218.html){:target="_blank"} can be found on the project page.
-
 

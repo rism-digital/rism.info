@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 _Diese Ankündigung sandte uns Hildegard Herrmann-Schneider von RISM Landesleitung Tirol-Südtirol & OFM Austria:_
 
 Neue Klangpremieren: Präsentiert wird Musik aus der [Biblioteca dell'Accademia nazionale dei Lincei e Corsiniana](https://opac.rism.info/search?View=rism&siglum=I-Rli){:target="_blank"} in Rom (I-Rli), der [Biblioteca nazionale centrale in Rom](https://opac.rism.info/search?View=rism&siglum=I-Rn){:target="_blank"} (I-Rn) und der [Santini-Bibliothek](https://opac.rism.info/search?View=rism&siglum=D-M%C3%9Cs){:target="_blank"} in Münster (D-MÜs) auf einer Orgel des Tiroler Orgelmachers Johann Konrad Wörle (auch bekannt als Giovanni Corrado Verlè) von 1744 im Oratorio del Crocifisso Rom.

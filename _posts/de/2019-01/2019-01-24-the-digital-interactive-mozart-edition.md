@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Anlässlich des 263. Geburtstags von [Wolfgang Amadeus Mozart](https://opac.rism.info/search?View=rism&author=Mozart+Wolfgang+Amadeus&Language=en){:target="_blank"} am 27. Januar weisen wir auf die [Digitale Mozart-Edition](https://dme.mozarteum.at){:target="_blank"} (DME), ein Gemeinschaftsprojekt der Stiftung Mozarteum Salzburg und des Packard Humanities Institute in Los Altos (CA), und die Veröffentlichung der Digital-Interaktiven Mozart-Edition hin. Das großangelegte Projekt beabsichtigt das gesamte Schaffen von Wolfgang Amadé Mozart in digitaler Form kostenfrei anzubieten.
 
 Die [Musikedition (DME::Music)](https://dme.mozarteum.at/en/music/){:target="_blank"} versteht sich als Nachfolgeprojekt der Neuen Mozart-Ausgabe (NMA), die seit 2006 als NMA Online in neuem Gewand zur Verfügung steht. Und die Digital-Interaktive Mozart-Edition (DIME) ist der logische nächste Schritt. Ein Visualisierungsprogramm überträgt den maschinenlesbaren XML-Code in reguläre Musiknotation. Varianten und Eingriffe des Herausgebers in den Notentext werden sichtbar gemacht. Das für DIME entwickelte Web Interface, MoVi – The Digital Mozart Score Viewer, beruht auf dem von RISM-Schweiz entwickelten Programm Verovio zur Visualisierung von digitalem Musik-Code und ermöglicht somit das gleichzeitige Hören und Mitlesen.

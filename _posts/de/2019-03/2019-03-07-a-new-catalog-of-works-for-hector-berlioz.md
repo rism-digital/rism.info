@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Morgen jährt sich der Todestag von Hector Berlioz zum 150. Mal. Pünktlich zu diesem großen Jubiläum wurde eine überarbeitete Ausgabe des _Catalogue of the Works of Hector Berlioz_ (ursprünglich 1987 publiziert) als digitale Online-Ressource veröffentlicht.
 
 **D. Kern Holoman und Jonathan Minnick: _Catalogue of the Works of Hector Berlioz_. Davis, CA: University of California at Davis Department of Music, 2018. [Online-Ressource](https://escholarship.org/uc/item/1gh3t989){:target="_blank"}.**
@@ -24,8 +23,6 @@ In die zweite Ausgabe wurden nicht nur Korrekturen und Ergänzungen aufgenommen 
 
 RISM verwendet den Kurztitel HolBe|1 für die erste Ausgabe des Berlioz Katalogs. [HolBe|2 ist der Kurztitel für die zweite Ausgabe](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe13803%22&){:target="_blank"} und wird zukünftig der bevorzugte Katalog sein. Es gibt etwas mehr als 60 Berlioz-Quellen in RISM, darunter einige neue: ein Arrangement der Ouverture zu _Benvenuto Cellini_ für Klavier vierhändig in einer Abschrift von Hans von Bülow (RISM ID no. [1001049142](https://opac.rism.info/search?id=1001049142&View=rism){:target="_blank"}), einige Autographe in Braunschweig (RISM ID no. [1001007637](https://opac.rism.info/search?id=1001007637&View=rism){:target="_blank"} und [1001007633](https://opac.rism.info/search?id=1001007633&View=rism){:target="_blank"}) sowie [eine Handvoll italienischer Manuskripte](https://opac.rism.info/search?View=rism&author=berlioz&siglum=I-*&Language=en){:target="_blank"} dank eines aktuellen Datenimportprojekts aus [SBN Musica/ ICCU](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}.
 
-
 _Abbildung_: Portrait von Hector Berlioz, Lithographie von Étienne Carjat (1828-1906). Bibliothèque nationale de France, département Musique, EST MACNUTT GF 004, [über Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8454326z){:target="_blank"} (public domain).
-
 
 

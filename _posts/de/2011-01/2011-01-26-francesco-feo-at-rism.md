@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Wer kennt Francesco Feo (1691-1761)?
 
 Er gehört zu den diesjährigen Jubilaren, denn am 28. Januar jährt sich sein Todestag zum 250. Mal. Feo gilt als bedeutender Vertreter der neapolitanischen Schule in der ersten Hälfte des 18. Jahrhunderts. Sein Name fällt oft im Zusammenhang mit Giovanni Battista Pergolesi, Leonardo Leo und Francesco Durante. Das kompositorische Oeuvre umfasst neben etwa 20 Opern und einigen Arien, Duetten und Terzetten überwiegend kirchenmusikalische Werke aller Gattungen.
@@ -25,7 +24,6 @@ Passio Domini nostri Jesu Christi secundum Joannem (Johannes-Passion) mit Doron 
 -
 
 Missa defunctorum und fünfstimmiges Confitebor (Psalm 110) mit Anja Zügner, Dorothea Wagner, Dominika Hirschler, Tobias Hunger, Tobias Berndt, Sächsisches Vocalensemble, Batzdorfer Hofkapelle, Matthias Jung, Label: CPO, DDD, 2007
-
 
 
 Der italienische [OPAC SBN](http://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}des Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche wirft über 200 Einträge zu Francesco Feo aus. Dort werden beispielsweise die zahlreichen Autographe Feos aus dem Archivio musicale della Congregazione dell'Oratorio in Neapel (I-Nf) sowie die Dokumente aus einigen anderen Bibliotheken aufgelistet, die bei RISM nicht verzeichnet sind.

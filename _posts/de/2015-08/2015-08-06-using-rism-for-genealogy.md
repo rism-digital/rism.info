@@ -11,7 +11,6 @@ email: p@teu-net.de
 author: Peter Teuthorn
 ---
 
-
 _Dass RISM neben seiner offensichtlichen Bedeutung für Musikwissenschaftler, Bibliothekare und Musiker auch für andere Forschungszweige nützlich sein kann, konnten wir kürzlich im Blog "[Genealogie-Feuilleton](http://teuthorn.net/feuilleton/?p=4716){:target="_blank"}" nachlesen. Wir danken dem Autor Peter Teuthorn für die freundliche Genehmigung, seinen Text an dieser Stelle verwenden zu dürfen:_
 
 Heutige Genealogie erschöpft sich nicht mehr in der Aneinanderreihung von Ahnendaten. Familien(geschichts)forscher suchen den sozialgeschichtlichen Hintergrund der jeweiligen Lebenszeit ihrer Vorfahren. Wenn Digitalisierung jetzt den Zugang zu Bibliotheken erleichtert, Archivgut über zeitgemäße Findmittel erschließt und virtuelle Themensammlungen ermöglicht, dann öffnen sich für den Familienforscher Hilfsmittel für einen Blick in die Vergangenheit von Lebensalltag, aber auch zum kulturellen Umfeld seiner Vorfahren. Solche Quellen waren in der vordigitalen Welt nur mühsam zu erschließen.Dass dabei auch die Musik eine Rolle spielen kann, zeigt ein aktueller Blog-Beitrag.

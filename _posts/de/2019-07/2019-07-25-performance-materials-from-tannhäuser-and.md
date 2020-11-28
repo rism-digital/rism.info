@@ -11,7 +11,6 @@ email: andrea.hammes@slub-dresden.de
 author: Andrea Hammes
 ---
 
-
 _Dieser Beitrag von Andrea Hammes erschien erstmals im [SLUB Blog](https://blog.slub-dresden.de/beitrag/2019/05/22/geburtstagsgeschenk-fuer-richard-wagner-einzigartige-auffuehrungsmaterialien-zu-tannhaeuser-und-me/){:target="_blank"} ([CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}):_
 
 Zum 206. Geburtstag des Komponisten am 22. Mai 2019 haben das Landesdigitalisierungsprogramm Sachsen (LDP) und die Sächsische Staatsoper Dresden allen Wagner-Liebhabern ein besonderes Geschenk vorbereitet: Pünktlich zum Ehrentag werden hochwertige Digitalisate von Aufführungsmaterialien zu Wagner-Opern auf sachsen.digital frei zugänglich gemacht.
@@ -25,7 +24,6 @@ Das nun digital verfügbare [Material zum "Tannhäuser"](https://sachsen.digital
 Die SLUB Dresden koordiniert, unterstützt vom Freistaat Sachsen, seit 2015 das Landesdigitalisierungsprogramm, welches Kulturgut aus sächsischen Wissenschafts- und Kultureinrichtungen digitalisiert und online zugänglich macht. Ziel ist ein möglichst umfassender Zugang zu Informationen und Objekten der kulturellen und wissenschaftlichen Überlieferung des Freistaates für Zwecke der Lehre und Forschung sowie für die breite Öffentlichkeit.
 
 Die digitalisierten Quellen zu "Die Meistersinger von Nürnberg" sind unter [www.slubdd.de/meistersinger](https://sachsen.digital/werkansicht/dlf/322496/1/){:target="_blank"} zugägnlich und jene zu "Tannhäuser" unter [www.slubdd.de/tannhaeuser](https://sachsen.digital/werkansicht/dlf/322452/1/){:target="_blank"}.
-
 
 _Abbildung_: Richard Wagner, Tannhäuser, Paukenstimme, Handschrift in D-Dl Mus.5876-F-510 ([RISM ID no. 270002005](https://opac.rism.info/search?id=270002005&View=rism&Language=en){:target="_blank"}); [online einsehbar](https://digital.slub-dresden.de/werkansicht/dlf/72230/262/0/){:target="_blank"}.
 

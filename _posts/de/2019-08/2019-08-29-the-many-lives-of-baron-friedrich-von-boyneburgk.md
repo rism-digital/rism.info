@@ -11,7 +11,6 @@ email: rettinghaus@bach-leipzig.de
 author: Klaus Rettinghaus
 ---
 
-
 _Wir freuen uns sehr über den uns zugesandten Beitrag von Klaus Rettinghaus, Leipzig. Die RISM-Daten wurden inzwischen überarbeitet und bereinigt. Sie erscheinen nach der nächsten Aktualisierung des RISM-Katalogs._
 
 Normdaten können eine große Hilfe sein beim Auffinden von Materialien, die zu bestimmten Entitäten, zumeist Personen, in Beziehung stehen. Insbesondere bei den Personen im RISM-Katalog, da vor allem bei Individuen der Zeit vor dem 19. Jahrhundert die vielen Namensvarianten Verwirrung stiften können. Teils weil Komponisten in latinisierten, italienisierten oder gar in französischen Schreibweisen auftauchen, teils weil die ohnehin schon vielfältigen historischen Schreibweisen in jüngerer Zeit noch durch übereifrige Bibliothekare oder Forscher vermehrt wurden. Allerdings kann es natürlich auch zu Problemen führen, wenn Personen eben nicht eindeutig identifiziert wurden.
@@ -31,10 +30,8 @@ Der RISM Serie A/I zugeordnet finden sich unterdessen noch drei undatierte Druck
 - [CC 2028 I,143](https://opac.rism.info/search?id=00000991015762&View=rism){:target="_blank"} (nach Hofmeister 1829 erschienen)
 
 
-
 _Abbildungen_:
 Titelseite aus Cherubinis _Wasserträger_, arrangiert von Boyneburgk ([CC 2028 I,143](https://opac.rism.info/search?id=00000991015762&View=rism){:target="_blank"}). [Online einsehbar](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074844-2){:target="_blank"} das Exemplar aus D-Mbs 2 Mus.pr. 4404.
 
 (noch nicht in RISM) [GB-Lbl E.824.](http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01018681487){:target="_blank"} _Shakespeare's Lieder, mit Begleitung des Piano-Forté ... Erste (zweite) Lieferung 16tes. Werk_, Offenbach a/M , J. André, ca. 1830.
-
 

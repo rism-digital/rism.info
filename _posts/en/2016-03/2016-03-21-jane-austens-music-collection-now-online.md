@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 "When that business was over, he applied to Miss Bingley and Elizabeth for an indulgence of some music. Miss Bingley moved with some alacrity to the pianoforte; and, after a polite request that Elizabeth would lead the way which the other as politely and more earnestly negatived, she seated herself.
 
 "Mrs. Hurst sang with her sister, and while they were thus employed, Elizabeth could not help observing, as she turned over some music-books that lay on the instrument, how frequently Mr. Darcy's eyes were fixed on her."
@@ -24,8 +23,6 @@ The collection includes around 600 pieces in 18 albums, mostly songs and pieces 
 
 The digitized albums may be viewed online through the [Internet Archive](https://archive.org/details/austenfamilymusicbooks&tab=collection){:target="_blank"}. Jeanice Brooks of the University of Southampton writes that "the books present a vivid picture of domestic musical culture in England in the years around 1800, furnishing valuable insights on music making in the homes of gentry families as well as essential contextualisation for musical episodes in Austen’s fiction."
 
-
 _Image_: "Ouverture des Pretendus" for keyboard instrument, p.1, c.1790-1810, by Jean-Baptiste Lemoyne, arr. by M. Blattman. In album [CHWJA/19/2](https://archive.org/details/austen1671983-2001){:target="_blank"}, entitled _Juvenile Songs & Lessons for young beginners who don't know enough to practise._
-
 
 

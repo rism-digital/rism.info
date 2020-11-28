@@ -11,9 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die [Datenbank der Bibliothekssigel](http://www.rism.info/de/sigla.html){:target="_blank"} wächst! Aufgrund der Anfragen von Musikwissenschaftlern haben wir zwei neue Länder aufgenommen: Andorra und Indonesien.
-
 
 
 - AND-AVan: [Arxiu Nacional d’Andorra](http://www.cultura.ad/arxiu-nacional-andorra){:target="_blank"}, Andorra la Vella, Andorra
@@ -25,5 +23,4 @@ Die [Datenbank der Bibliothekssigel](http://www.rism.info/de/sigla.html){:target
 - RI-Jpn: [Perpustakaan Nasional Republik Indonesia](http://www.pnri.go.id/){:target="_blank"}, Jakarta, Indonesien
 
 Diese Bibliothekssigel können nun von allen verwendet werden. Wir freuen uns, neue Sigel für Sie einrichten zu dürfen: [contact@rism.info](mailto:contact@rism.info)
-
 

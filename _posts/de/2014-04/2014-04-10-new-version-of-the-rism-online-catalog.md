@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM präsentiert Ihnen eine neue Version des [Online-Katalogs](http://opac.rism.info/){:target="_blank"}. Der Inhalt ist der gleiche, aber es gibt eine neue Schnittstelle mit Features, die die Suche nach musikalischen Quellen erleichtert.
 
 Die neuen Features betreffen:
@@ -57,6 +56,5 @@ Einige Funktionen, z. B. die Option e-Mail-Benachrichtigungen an sich selbst, we
 Wir wünschen Ihnen viel Spaß mit den neuen RISM Online-Katalog. Zögern Sie nicht uns zu kontaktieren, wenn Sie irgendwelche Fragen haben.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
-
 
 

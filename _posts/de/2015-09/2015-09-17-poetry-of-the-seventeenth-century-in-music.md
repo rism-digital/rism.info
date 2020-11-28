@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Dieser Beitrag stammt von_ _Clotilde Angleys (Département de la Musique) und erschien erstmals in dem[Gallica Blog](http://blog.bnf.fr/gallica/index.php/2015/02/06/la-poesie-du-xviieme-siecle-en-musique/){:target="_blank"} der Bibliotheque national de France (BnF). Wir veröffentlichen ihn hier nach den Grundsätzen der[Creative Commons](http://blog.bnf.fr/gallica/index.php/credits/){:target="_blank"}._
 
 Die 37 _Livres d’airs de différents auteurs_, herausgegeben von den Musikverlegern Robert und Christophe Ballard, sind jetzt kostenlos zugänglich auf [Gallica](http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q=LivresDAir&x=0&y=0){:target="_blank"}.
@@ -27,11 +26,9 @@ In dieser Anthologie von vertonten Gedichten werden Sie Werke großer Dichter au
 _Oben: Der erste Band dieser Serie: Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
 
 
-
 Viele Werke diser Sammlung sind ohne Namensnennung des Dichters oder Komponisten überliefert. Das Centre de Musique Baroque de Versailles, Partner der BnF, hat eine elektronische [moderne wissenschaftliche Edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} der 1220 Airs herausgegeben.
 
 Eine [neue Online-Sammlung](http://gallica.bnf.fr/html/partitions/les-livres-dairs-de-differents-auteurs){:target="_blank"} erlaubt Ihnen zwischen dem Gallica-Faksimile und der kritischen Edition, von der die ersten acht Bände zur Verfügung stehen, hin und her zu navigieren.
-
 
 
 

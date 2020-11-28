@@ -11,7 +11,6 @@ email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---
 
-
 _We have received the following from Laurent Pugin ([RISM Switzerland](http://rism-ch.org/){:target="_blank"}):_
 
 Every RISM working group knows [Muscat](/community/muscat.html) - it is the familiar interface with which each contributor has catalogued musical sources in the RISM database since 2016. But what is the history and the philosophy of this software project? What are its technical components? What does it offer? In fact, the cataloguing software was not entirely developed from scratch, but brings together a number of features that are all freely accessible, combining and adapting them to the needs of the RISM project. A recently launched, dedicated website offers insight into the development and the different components of Muscat: [http://muscat-project.org](http://muscat-project.org/)

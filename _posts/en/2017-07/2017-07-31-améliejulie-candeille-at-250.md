@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Child prodigy, singer, actress, composer, librettist, harpist, pianist, playwright, comedian, or maybe simply polymath...few of the people in the RISM database can lay claim to so many roles. Amélie-Julie Candeille (1767-1834), who was born 250 years ago today, found success on a number of fronts in Parisian musical life and was one of the most successful women composers at the time of the French Revolution.
 
 Amélie-Julie Candeille received most of her musical instruction from her father, [himself a composer](https://opac.rism.info/search?View=rism&author=Candeille+Pierre+Joseph&Language=en){:target="_blank"}. By the time she was 13, Candeille had been touted as a child prodigy, appeared in public as a singer, pianist, and harpist, and performed in front of the king. Within just a few years, she was performing lead roles at the Opéra and she debuted her own fortepiano concerto in concert. Her star kept rising as she joined the [Comédie Française](https://www.comedie-francaise.fr/fr/artiste/julie-candeille){:target="_blank"} in 1785 as both an actress and a playwright, culminating with her success at the Théâtre de la République.
@@ -23,7 +22,6 @@ _Catherine_ was extremely popular in Paris and abroad (it was performed in Amste
 As might be expected with a composer whose career was made in Paris, a third of RISM's sources for Candeille are found at the Bibliothèque nationale de France (F-Pn). [Gallica](http://gallica.bnf.fr/){:target="_blank"} has seven scores available digitally, which actually gives a good overview of Candeille's oeuvre: three excerpts from Catherine, music from _La jeune hôtesse_, piano sonatas (including [one](http://gallica.bnf.fr/ark:/12148/btv1b9078684g){:target="_blank"} dedicated to [Hélène de Montgeroult](/rism_a_z/2017/02/16/hélèneantoinettemarie-de-montgeroult-17641836.html){:target="_blank"}), and a [piano concerto](http://gallica.bnf.fr/ark:/12148/btv1b9057901c){:target="_blank"}. Links to the items in Gallica have been added to the RISM records, which will be visible with the next catalog update.
 
 
-
 Sources:
 
 Barbara Garvey Jackson, _"Say can you deny me". A guide to surviving music by women from the 16th through the 18th centuries_ (Fayetteville: The University of Arkansas Press, 1994).
@@ -33,6 +31,5 @@ Anja Herold, "[Candeille, Amélie-Julie](http://www.sophie-drinker-institut.de/c
 Julian Rushton, et al. "Candeille, Julie." [Grove Music Online. Oxford Music Online](http://www.oxfordmusiconline.com/subscriber/article/grove/music/04725){:target="_blank"}. Oxford University Press.
 
 _Image_: Rose Dupuis performing the role of Catherine in _Catherine ou La belle fermière_ by Julie Candeille. Illustration by Atelier Maleuvre, Paris, 1818. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b6400634h/f1.item){:target="_blank"} (Bibliothèque nationale de France).
-
 
 

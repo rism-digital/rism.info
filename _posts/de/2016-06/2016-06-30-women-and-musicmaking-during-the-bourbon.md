@@ -11,7 +11,6 @@ email: linklat@fas.harvard.edu
 author: Emerson Morgan
 ---
 
-
 _Emerson Morgan von der amerikanischen RISM-Arbeitsgruppean der Harvard University hat diesenArtikelüber eine kürzlich für RISM katalogisierte Partitur verfasst, La naissance du sauveur ([RISM ID no. 900022067](https://opac.rism.info/search?id=900022067){:target="_blank"})._
 
 Diese Handschrift einer einzigartigen Weihnachtskantate komponiert von einer Komponistin und einer Mäzenin gewidmet, bietet einen Einblick in die Praxis der Hausmusik während der Bourbonischen Restauration in den 1820er Jahren.
@@ -25,15 +24,12 @@ Die Kantate ist mit vier solistischen Gesangs-Stimmen und einem Instrumental-Ens
 ![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
 
 
-
 Man kann verschlüsselte Verweise auf die Widmungsträgerin als fromme Marien-Figur finden: Der GesangderSchäfer "comme l’étoile du matin vient proteger" (Nr. 10) lässt sich als Anspielung auf den Namen Marias im mittelalterlichen Hymnus_Ave Maris Stella_ hören, ebenso dieParallelität "ô ma patrie … une autre marie" (Nr. 20).
 
 ![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
 
 
-
 ![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
-
 
 
 _Fußnoten_
@@ -44,7 +40,5 @@ Fußnote 2: Klára Hamburger, Unbekannte Liszt-Dokumente aus deutschen Bibliothe
 Fußnote 3: _Généalogie historique de la maison de Chanaleilles,…_ ([Paris:] Impr. de Bonaventure et Ducessois, 1856), S. 25. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k5543453r/f32.image){:target="_blank"}.
 
 
-
 Abbildung 1: Titelseite “LA | Naissance | DU SAUVEUR. | CANTATE | à quatre voix avec des chœurs, | offerte à S. A. R. | M|e LA DUCHESSE DE Berry. | Paroles et Musique par Mad|e la C|t|e|s|s|e 8|e | de Chanaleilles de Lasaumès Née Gerbier”
-
 

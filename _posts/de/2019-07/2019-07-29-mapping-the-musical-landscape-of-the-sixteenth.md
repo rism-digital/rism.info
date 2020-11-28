@@ -11,7 +11,6 @@ email: emily.hopkins@mcgill.ca
 author: Emily Hopkins
 ---
 
-
 _Den folgenden Beitrag erhielten wir von Emily Hopkins (McGill University):_
 
 Die Erfindung des Musikdrucks veränderte die europäische Musiklandschaft im 16. Jahrhundert. Der Zugang zu erschwinglichen gedruckten Noten ermöglichte es weitaus mehr Menschen, das Lesen von Musik zu erlernen und in ihren eigenen vier Wänden zu spielen. Die enorme Zunahme der Kopien einzelner Werke führte dazu, dass dass Musik von Land zu Land und auf der ganzen Welt von Missionaren, Reisenden, Kaufleuten und Musikern getragen wurde. Neue Technologien veränderten die Rolle der Musik in einem Jahrhundert, das von großen religiösen und kulturellen Konflikten geprägt war.
@@ -23,6 +22,5 @@ Um diese Fragen zu beantworten, bedarf es einer umfassenden Erschliessung des er
 Zu den Zielen gehört eine frei zugängliche Website für die Inventarisierung musikalischen Quellen polyphoner Musik, die im 16. Jahrhundert gedruckt oder geschrieben wurden, mit Angaben zu Datum, Herkunft und Art der Quelle. Informationen aus der RISM-Datenbank für Drucke und Manuskripte werden in andere Datenbanken aufgenommen und enthalten Links zu RISM und anderen Online-Beständen und Katalogen. OMR (Optical Music Recognition) wird für die mensurale Notation eingesetzt, um automatische Transkriptionen zu ermöglichen, die mit den Inventaren verknüpft werden. Es werden Visualisierungstools entwickelt, die zeigen, wie sich Musik über Raum und Zeit bewegt.
 
 Das Projekt wird zu einem wesentlich erweiterten Verständnis der musikalischen Landschaft des 16. Jahrhunderts beitragen. Die vier Forschungsthemen untersuchen die Rolle der Musik in den Bereichen religiöser Konflikt, Kolonisation und Konversion, regionale und internationale Identität sowie sakrale und säkulare Musik. Das Projekt wird nicht nur für das Studium der Renaissancemusik von Vorteil sein, sondern auch für Studien zur Geschichte des Buches, Religionswissenschaften, optische Musikerkennung und digitale Geisteswissenschaften.
-
 
 

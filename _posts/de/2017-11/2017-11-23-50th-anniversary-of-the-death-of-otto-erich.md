@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Otto Erich Deutsch (1883-1967), dessen Todestag sich heute zum 50. Mal jährt, teilt mit Ludwig von Köchel (1800-1877) und Anthony van Hoboken (1887-1983) das Schicksal, der Nachwelt vor allem durch ein Werkverzeichnis im Gedächtnis zu bleiben. Mit Hoboken verbindet ihn sogar noch mehr: Von 1926 bis 1935 war er Bibliothekar von dessen Musiksammlung.
 
 Doch der Reihe nach: Deutschs Karriere hatte zu Beginn bestenfalls einen indirekten Bezug zur Musik. Nach seinem Studium der Kunst- und Literaturgeschichte arbeitete er zunächst als Kunstkritiker und Assistent am kunsthistorischen Institut der Universität Wien und widmete sich in seinen Studien vor allem dem Wiener Biedermeier. Seine erste Publikation, das Schubert-Brevier aus dem Jahr 1905, widmete sich allerdings bereits dem Komponisten, der zeitlebens der Mittelpunkt seiner wissenschaftlichen Studien sein sollte. Bereits in den Jahren 1913-1914 entstand seine viel beachtete Schubert-Biographie Franz Schubert: Die Dokumente seines Lebens und Schaffens.

@@ -11,7 +11,6 @@ email: krkraeme@students.uni-mainz.de
 author: Kristina Krämer
 ---
 
-
 _The following article was contributed by Kristina Krämer, who is currently writing her master's thesis on Alexander Dreyschock at the Johannes Gutenberg University of Mainz: _
 
 Born on 15 October 1818 near Prague, pianist Alexander Dreyschock spent most of his life travelling throughout Europe and competing with the likes of Liszt and Thalberg. At first only known as a pupil of Václav Jan Tomášek, he soon became famous for his strong yet dexterous left hand and overall fiery piano playing. Furthermore, he was a productive composer—until his death in 1869, he published more than 140 compositions with opus numbers.
@@ -46,7 +45,6 @@ Zum Lebewohl die Hand Dir jetzt, die flinke,
 Doch nicht die rechte nur, auch Deine linke.
 
 Am 2. Dezember 1843. Joseph Pirazzi._
-
 
 
 _Image_: "Alexander Dreyschock, Kniestück," lithograph by Josef Kriehuber. Universitaetsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Available online](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.

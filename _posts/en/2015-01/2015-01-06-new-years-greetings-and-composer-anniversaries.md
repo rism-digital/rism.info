@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Happy New Year! We are looking forward to celebrating the anniversaries of the following musicians and other people that you can find in the RISM online catalog. We've listed their names, dates, and function in the catalog:
 
 [http://opac.rism.info/](http://opac.rism.info/)

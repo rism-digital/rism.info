@@ -11,13 +11,11 @@ email: ''
 author: ''
 ---
 
-
 Today, February 21, is officially [International Mother Language Day](http://www.unesco.org/new/en/international-mother-language-day/){:target="_blank"}. This day was first commemorated in 2000 by the United Nations in order to highlight the significance of native languages as a cultural asset and to foster the linguistic and cultural diversity of people around the world. Over 6,000 languages are spoken worldwide. Just some of them can be found in the RISM database when they are used as words to a song or other piece of music. Which ones are they, and how do you find them?
 
 In the RISM online catalog, go to the [**Advanced Search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select **Language**. Enter the name of the language in English (though some have to be searched instead by their three-letter [ISO code](https://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"}).
 
 ![Mozart title page](http://rism.info/resources-old-website/news/Muttersprache_OPAC.png)
-
 
 
 RISM has music in the following languages:

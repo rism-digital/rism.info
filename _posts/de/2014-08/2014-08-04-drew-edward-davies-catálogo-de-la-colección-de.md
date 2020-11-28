@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ein neuer thematischer Katalog ist von [Drew Edward Davies](http://www.drewedwarddavies.com/Publications.html){:target="_blank"} ([Northwestern University](http://www.music.northwestern.edu/faculty/profiles/drew-edward-davies.html){:target="_blank"}) herausgegeben worden, der zum ersten Mal den vollständigen musikalischen Bestand von Mexikos Durango Kathedrale (MEX-Dc) dokumentiert:
 
 Drew Edward Davies. _Catálogo de la Colección de música del Archivo Histórico de la Arquidiócesis de Durango_(Mexico City: [Instituto de Investigaciones Estéticas - Universidad Nacional Autónoma de México, Apoyo al Desarrollo de Archivos y Bibliotecas de México](http://www.adabi.org.mx/content/Notas.jsfx?id=2311){:target="_blank"}, 2013), ISBN 978-607-02-4521-3
@@ -23,5 +22,4 @@ In einem Vorwort auf Spanisch beschreibt Davies die Sammlung und erklärt die Kr
 Davies sagte Northwestern: „Wir können und werden das Ausmaß des mexikanischen Kolonialrepertoires oder seinen wahren Charakter nicht kennen, bis wir die Inhalte der Archive kennen.”
 
 Bildnachweis: [Northwestern University](http://www.music.northwestern.edu/about/news/2014/drew-edward-davies-publishes-scholarly-catalog-of-18th-century-mexican-church-music.html){:target="_blank"}
-
 

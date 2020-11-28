@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das Jahr 2018 wurde zum[Europäischen Kulturerbejahr](http://europa.eu/cultural-heritage/european-year-cultural-heritage_de){:target="_blank"}erklärt. Über den ganzen Kontinent richtet sich der Fokus auf Denkmäler in ganz verschiedenen Formen: Monumente, Bücher, Kleidung, historische Städte, mündliche Überlieferungen, Landschaften, digitalisierte Objekte - sogar auch Aufführungen von darstellender Kunst und Musik - und Vieles mehr. Ziel ist es, die Menschen zu ermuntern, das europäische Kulturerbe zu entdecken, sich darauf einzulassen und so das Gefühl zu stärken, ein Teil des vereinigten Europas zu sein.
 
 Musik spielt für die Definition von Kultur eine große Rolle, dies zeigt sich auch in einer Reihe von EU- und UNESCO-Initiativen, wie beispielsweise dem[Memory of the World-Programm](http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/about-the-programme/objectives/){:target="_blank"}oder dem[Immateriellen Kulturerbe](https://ich.unesco.org/en/lists){:target="_blank"}. Ziel dieses Programms ist die Erhaltung und den Zugang zum Weltdokumentenerbe zu ermöglichen und das Bewusstsein dafür zu stärken.
@@ -47,6 +46,5 @@ Handschriften wie diese zeigen, wie gut die Idee des europäischen Kulturerbejah
 
 _Abbildung von der [Website](http://europa.eu/cultural-heritage/toolkits/logotype_en){:target="_blank"}_
 _des europäischen Kulturerbejahrs_
-
 
 

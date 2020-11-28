@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wenn Sie den [RISM-Katalog](https://opac.rism.info/){:target="_blank"} verwenden, wissen Sie das die Musikincipits ein Element ist, das RISM von anderen Musikprojekten und Katalogen abhebt: Die Möglichkeit die ersten Noten zu sehen und danach zu suchen. In der [Erweiterten Suche](https://opac.rism.info/index.php?id=3){:target="_blank"} können Sie nach Notennamen suchen oder mit dem On-Screen-Piano nach Noten oder Intervallen suchen, die irgendwo in unseren über 1,7 Millionen Musikincipits vorkommen.
 
 Unsere Daten sind als offene Daten unter einer Creative Commons 3. 0 Lizenz (CC-BY) frei verfügbar, so dass die Daten in anderen Projekten kostenlos verwendet werden können. Hier sind einige externe Projekte, die sich mit Musik-Incipits beschäftigen.
@@ -31,8 +30,6 @@ Abschließend sind kürzlich einige Artikel aus dem Bereich Music Information Re
 - Zitellini, Rodolfo, Geert-Jan Giezeman, Frans Wiering und Laurent Pugin: "Incipit Melodic Similarity Matching in Muscat", in: 19th International Society for Music Information Retrieval Conference, Paris, France, 2018. [Abstrakt hier verfügbar](http://ismir2018.ircam.fr/pages/events-lbd.html){:target="_blank"}.
 
 
-
 _Abbildung: Beispielsuche auf musicalsources.org._
-
 
 

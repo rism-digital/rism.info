@@ -11,7 +11,6 @@ email: katerina_mayrova@nm.cz
 author: Katerina Mayrova
 ---
 
-
 _We have received the following announcement from Katerina Mayrova from the [National Museum in Prague](http://www.nm.cz/Publications/Electronic-Publications/The-Rokycany-Music-Collection-A-Catalogue-of-Franco-Netherlandish-Sacred-Works-Preserved-in-the-Oldest-Layer-of-the-Repertoire.html){:target="_blank"} (CZ-Pnm):_
 
 Kateřina Maýrová, Stephanie P. Schlagel, Hana Hrachová. _The Rokycany Music Collection. A Catalogue of Franco-Netherlandish Sacred Works Preserved in the Oldest Layer of the Repertoire_. Prague: Národní muzeum, 2016. ISBN 978-80-7036-513-7. 461 p. [Available online here](http://www.nm.cz/admin/files/File/download/epublikace/Rokycanska-hudebni-sbirka.pdf){:target="_blank"}.

@@ -11,7 +11,6 @@ email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---
 
-
 Das für die Musikwissenschaft und –praxis überaus bedeutende Archiv der Sing-Akademie zu Berlin, welches nach dem Zweiten Weltkrieg jahrzehntelang als verschollen galt, jedoch 1999 in der Ukraine entdeckt und 2001 nach Berlin zurückgeführt wurde, ist jetzt vollständig erschlossen. Alle Titel sind im [RISM Online-Katalog](http://opac.rism.info/index.php?id=6&no_cache=1&tx_bsbsearch_pi1%5Bsmode%5D=advanced&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=ssiglum&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=sauthor&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=stitle&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=D-Bsa&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Search){:target="_blank"} vorhanden.
 
 Siehe die [Pressemitteilung](http://staatsbibliothek-berlin.de/nc/ueber-uns/presse/detail/article/2011-05-12-4729.html){:target="_blank"} der Staatsbibliothek zu Berlin

@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Haben Sie sich schon oft geärgert, dass man für das 17. Jahrhundert kaum Einträge zu Sammeldrucken im RISM-Katalog finden kann? Wir sind dabei, das zu ändern!
 
 Die seit [April 2017](/self_representation/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"} laufende Überarbeitung der Einträge aus der RISM Serie B/I ab 1500, die mittlerweile weit in die [zweite Jahrhunderthälfte](http://www.rism.info/de/startseite/newsdetails/browse/1/select/new-at-rism/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html){:target="_blank"} vorgedrungen ist, findet nun seit November 2018 endlich eine Fortsetzung für die Einträge ab 1601. Die ersten 217 von rund 1100 Einträgen, das heißt, die Jahrgänge 1601-1610, sind jetzt online abrufbar.

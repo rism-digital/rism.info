@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The annual report for the RISM Central Office has been [published on our website](/publications/annual-reports/2017.html#c3550). Here are some of the highlights:
 
 **Total records:** Thanks to the hard work of our international contributors, the [RISM online catalog](https://opac.rism.info/){:target="_blank"} currently has 1,090,000 records.

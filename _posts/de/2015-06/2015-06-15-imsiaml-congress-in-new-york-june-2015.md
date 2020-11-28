@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 Bitte weitersagen: RISM nimmt am IMS/IAML Kongress “[Musikforschung im Digitalen Zeitalter](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"}“ vom 21. bis 26. Juni 2015 in New York teil.
 
 
-
 Bitte besuchen Sie unseren Tisch im Ausstellungsbereich während der Pausen! Außerdem laden wir Sie zu folgenden Veranstaltungen ein:
-
 
 
 **Montag, 22. Juni**
@@ -33,7 +30,6 @@ RISM on a shoestring: How small country groups can contribute to RISM
 - Ewa Hauptman‐Fischer (Music Department, University of Warsaw Library, Warsaw)
 Musical gifts with dedications in Silesian musical manuscripts of monastery provenance
 - Round Table discussion (topics can be proposed in advance or during the session)
-
 
 **Donnerstag, 25. Juni**
 

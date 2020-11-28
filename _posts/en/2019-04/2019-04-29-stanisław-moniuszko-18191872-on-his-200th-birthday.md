@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 May 5, 2019 marks the 200th birthday of Stanisław Moniuszko. As a composer, he is considered one of the founders of Polish music at a time when the Polish state had long since ceased to exist. He was born in Ubiel, near Minsk, as a member of the Polish aristocracy. As a child Moniuszko had private music lessons in Warsaw with Karl August Freyer. He studied composition from 1837 to1839 in Berlin at the Academy of Arts with Carl Friedrich Rungenhagen, received instruction in conducting, and found early success as a composer of songs. In 1839 he went to Vilnius, got married there, and found a position as an organist. In addition, Moniuszko organized a series of concerts in which he conducted and played.
 
 From 1840 on, Moniuszko's compositional activities intensified. He composed a large number of Polish songs and some cantatas. He continuously composed works for the stage and he is known as the father of Polish national opera. His first major opera was _Halka_. The premiere of the first version in two acts was directed by the composer in a concert performance in Vilnius on 1 January 1848. The second version, in four acts, was performed exactly ten years later in Warsaw.

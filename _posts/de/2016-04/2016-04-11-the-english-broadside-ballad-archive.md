@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 In ihrer Blütezeit warenBänkellieder überall in England zu hören. Im 17. Jahrhundert wurden diese Lieder auf Flugblättern mit Holzschnittillustrationen und großen schwarzen Typen gedruckt, in den Wirtshäusern aufgehängt oder auf den Straßen kolpotiert und bei der Arbeit oder auf dem Feld gesungen.
 
 Das [English Broadside Ballad Archive (EBBA)](http://ebba.english.ucsb.edu/){:target="_blank"} ist ein Projekt, das sich darumbemüht, alle noch vorhandenen Bänkellieder des 17. Jahrhunderts als Text, Kunstwerk, Musik und Aufnahme zur Verfügung zustellen. Das Projekt begann im Jahr 2003 und wuchs ständig. EBBA schätzt, dass es noch 11.000 vorhandene Werke gibt. Momentan gibt es 7.100 Balladen in der Datenbank, sie ist also zu 65% komplett.
@@ -24,7 +23,6 @@ Eine Einfache Suche ist über die Archivwebsite möglich und die [Erweiterte Suc
 <source src="http://ebba.english.ucsb.edu/recordings/P4.254.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </source></audio>
-
 
 _Abbildung_: "['Tis Money makes a Man](http://ebba.english.ucsb.edu/ballad/21811/citation){:target="_blank"}," Houghton Library - Huth EBB65H 2.191 (EBBA ID: 34705). [CC BY NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 

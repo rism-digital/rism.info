@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Letztes Jahr haben wir Ihnen zahlreiche Neuigkeiten aus der Welt der Musikquellen mitgeteilt: Neuentdeckungen, Wiederentdeckungen, neue Ressourcen und vieles mehr. Werfen wir einen Blick auf die beliebtesten Nachrichten des Jahres 2017:[
 ](/self_representation/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}
 
@@ -39,8 +38,6 @@ Aber 2017 — wie auch in den Jahren 2016 und 2015 — wurde wieder der Beitrag 
 - [Earliest Protestant music manuscript in Wittenberg](https://www.ub.uni-leipzig.de/ueber-uns/pressemitteilungen/2017-10-05/){:target="_blank"}
 
 
-
 Abbildung: _Theaterpubliek_ (ca. 1840 - 1886) von Hippolyte Michaud. Rijksmuseum, via [Europeana](http://europeana.eu/portal/record/90402/SK_A_1745.html){:target="_blank"}
-
 
 

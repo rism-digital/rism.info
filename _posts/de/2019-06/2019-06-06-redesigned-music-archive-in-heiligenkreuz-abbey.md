@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
 
-
 _Wir erhielten den folgenden Beitrag von Pater Roman Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 [Das Heiligenkreuzer Musikarchiv](http://www.stift-heiligenkreuz-sammlungen.at/){:target="_blank"} ist der zentrale Sammlungsort für Notenausgaben und Tonwiedergabegeräte. Basis der Sammlung sind handschriftliche und gedruckte Noten, die bis in das erste Drittel des 18. Jahrhunderts zurückreichen. Somit ist unser Musikarchiv ein musik-bibliografisches Informationszentrum der Region. Das musikalische und kulturelle Erbe war bis vor einigen Monaten in einem unerfreulich Zustand, der nun beseitigt wurde.
@@ -23,6 +22,5 @@ Zur anschließenden Feierstunde waren viele geladen, die dazu beigetragen haben,
 Nach der Segnung des Raumes lud Abt Maximilian zu einer Feierstunde in den Salon der Prälatur. Dies war eine seltene Gelegenheit, diese Räumlichkeiten zu sehen. Der Abt hob in seiner Begrüßung die Bedeutung des Archivs sowie die Leistung von P. Roman hervor. Ebenso betonte er die Tatsache, dass in Zukunft für Wissenschaftler und Musiker die Möglichkeit besteht, das Archivmaterial unkompliziert nutzen zu können.
 
 Die Feierstunde wurde in alter Tradition mit klösterlicher Hausmusik bereichert. Abschließend gab P. Roman seiner Freude Ausdruck, wie umfangreich und gut sortiert der Bestand des Musikarchivs ([RISM-Bibliothekssigel: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) ist, und stellte die Absicht seiner Arbeit in den Vordergrund: Die Noten sollen benützt und die Musik zum Klingen gebracht werden. Raritäten und Wiederentdeckungen für Messgestaltungen und interessante Konzerte erwarten uns in Zukunft.
-
 
 

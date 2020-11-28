@@ -11,7 +11,6 @@ email: cedric.gueggi@rism-ch.org
 author: Cédric Güggi
 ---
 
-
 _We have received the following from Cédric Güggi of [RISM Switzerland](http://rism-ch.org/){:target="_blank"}:_
 
 The music library of Beromünster Abbey (CH-BM) houses the _Bonus Ordo Musicus_, a handwritten inventory from 1696 which lists a music collection from the time that is largely lost today. In a separate project, [Historical Music Inventories 1500-1800](http://inventories.rism-ch.org/){:target="_blank"}, RISM Switzerland digitized, indexed, and published online this and other inventories. The inventory registers a printed edition of _Messa e Salmi_, op. 36, by Maurizio Cazzati (1616-1678), who in his time as _Maestro_ of the Basilika San Petronio in Bologna held a distinguished position within the musical life of the city.
@@ -21,6 +20,5 @@ On the occasion of the 20th anniversary of the RISM Switzerland Association – 
 Listening samples and complete information about the CD](http://www.claves.ch/collections/new-releases/products/from-bologna-to-beromunster-maurizio-cazzati-mass-psalms-op-36){:target="_blank"}
 [
 Download CD booklet (PDF)](http://docs.rism-ch.org/press/CD_1605_booklet.pdf){:target="_blank"}
-
 
 

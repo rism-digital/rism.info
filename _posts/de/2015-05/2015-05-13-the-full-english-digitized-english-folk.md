@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Es gibt eine neue digitale Ressource für Manuskripte englischer Volksmusik:
 
 [The Full English](http://www.efdss.org/efdss-the-full-english "external-link-new-window")

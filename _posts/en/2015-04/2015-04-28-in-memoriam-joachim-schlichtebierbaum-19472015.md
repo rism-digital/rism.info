@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 On Monday, April 20, 2015, Dr. Joachim Schlichte-Bierbaum died of heart disease at the age of 68. From 1982 to 1990, he was the director of the RISM Central Office.
 
 Schlichte was born in Lübeck in 1947 and studied music education, choral conducting, German studies, art history, and musicology in Frankfurt am Main. His doctoral dissertation in musicology was entitled "Thematischer Katalog der kirchlichen Musikhandschriften in der Liebfrauenkirche zu Schotten." Prior to this, he had compiled the catalog _Thematischer Katalog der Kirchlichen Musikhandschriften des 17. und 18. Jahrhunderts_, which included the Telemann sources, based on the holdings of the (at that time) Stadt- und Universitätsbibliothek Frankfurt. He was also involved with producing the catalog of the opera collection there.
@@ -23,6 +22,5 @@ In his time as director of the Zentralredaktion, he continuously encouraged the 
 We shall always treasure his memory.
 
 The RISM Zentralredaktion
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _The following was originally published on the [blog of the Bavarian State Library](https://www.bsb-muenchen.de/article/musikhandschriften-von-richard-strauss-und-hans-pfitzner-online-3448/){:target="_blank"} and is reprinted here with kind permission._
 
 For years, the Bavarian State Library (BSB) has been making music manuscripts from its most prominent composer archival collections available online, including the autograph manuscripts of Gustav Mahler, Josef Rheinberger, Max Reger, Heinrich Kaminski, Hugo Distler, and Ermanno Wolf-Ferrari. The beginning of 2020 saw the works of two of the most important German composers of the first half of the 20th century enter the public domain: [Richard Strauss](https://opac.rism.info/search?View=rism&siglum=D-Mbs&author=Strauss+Richard){:target="_blank"} (1864 – 1949) and [Hans Pfitzner](https://opac.rism.info/search?View=rism&siglum=D-Mbs&author=Pfitzner+Hans){:target="_blank"} (1869 – 1949).

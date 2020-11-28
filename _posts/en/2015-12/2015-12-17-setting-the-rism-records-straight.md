@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Since it's the season for giving, we'd like to share what you, our RISM users, have given us recently: numerous corrections and identifications of anonymous compositions.
 
 Misattributions occur occasionally in the database, sometimes because of the wrong composer's name on the source itself or misidentifications by later catalogers. And "anonymous" is perhaps misleading, of course, because the composers are only anonymous to us--their names have been lost over time. But the RISM online catalog contains over [200,000 anonymous sources](https://opac.rism.info/search?View=rism&author=anonymous){:target="_blank"}, around 20% of the whole database, making Mr. or Ms. Anonymous the most prolific composer in RISM.
@@ -31,7 +30,6 @@ _Thanks to Michael O'Loghlin_
 _Thanks to Michael Talbot_
 - **Antonio Vivaldi** : Previously unidentified works at the SLUB Dresden were identified by Francisco Javier Lupiáñez Ruiz, who [wrote about it for our website](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} in October. Recently, he noticed that the bc part to a Vivaldi violin concerto (RV 205), also in Dresden, was written on the back of a different, anonymous violin sonata (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}; see image).
 - **Multiple composers** : [In the course of RISM cataloging](/library_stocks/2015/07/30/two-significant-hanover-collections-now-in-rism.html){:target="_blank"} of items from the Forschungszentrum Musik und Gender in Hanover (D-HVfmg), Helmut Lauterwasser could identify the composers of many anonymous works. See the collections [450115681](https://opac.rism.info/search?id=450115681){:target="_blank"}, [450116005](https://opac.rism.info/search?id=450116005){:target="_blank"}, [450115923](https://opac.rism.info/search?id=450115923){:target="_blank"}, [450116049](https://opac.rism.info/search?id=450116049){:target="_blank"}.
-
 
 With each identification, we "return" the sources to their composers and reduce the number of anonymous pieces in the database. Every identification helps!
 

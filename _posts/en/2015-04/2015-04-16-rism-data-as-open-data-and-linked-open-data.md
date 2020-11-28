@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 RISM data have been available asopendatasince 2013, and as linked open data since the summer of 2014. The RISM open data are available on the [linked open data page](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} of the RISM online catalog. This link allows you to download the entire batch.
 
 What does this mean?
@@ -25,10 +24,8 @@ The [Detmold Court Theater project](http://hoftheater-detmold.de/){:target="_bla
 If you have any questions about using the data, please contact us: [contact@rism.info](mailto:contact@rism.info). Please also see the [RISM Data Services page](/community/development/data-services.html), with a [brochure (PDF)](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} that you can print out.
 
 
-
 Watch this video introduction to linked open data from Europeana:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uju4wT9uBIA" frameborder="0" allowfullscreen></iframe>
-
 
 

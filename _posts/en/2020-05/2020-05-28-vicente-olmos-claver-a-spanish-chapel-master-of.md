@@ -11,7 +11,6 @@ email: angelmarzalraga@gmail.com
 author: Ángel Marzal
 ---
 
-
 _We have received the following from Ángel Marzal, who recently cataloged the works of [Vicente Olmos Claver](https://opac.rism.info/search?View=rism&author=Vicente+Olmos+Claver){:target="_blank"} for RISM._
 
 Vicente Olmos Claver was born around 1744 in Catarroja, a Spanish town located near Valencia. According to documentation in the Metropolitan Cathedral of Valencia, our chapel master began singing as an _infantillo_ in the Cathedral's choir of the chapel of music in 1754 [footnote 1]. Later, he was named _mosso de capella_ on June 22, 1762, as stated in one of the notarial protocols of the archive of the Cathedral of Valencia [footnote 2].
@@ -37,7 +36,6 @@ Our study of Vicente Olmos Claver has allowed us to corroborate that his music i
 Indeed, the archive of Segorbe preserves twelve liturgical compositions; six Psalms, one Verse, two Lamentations, one Mass, one "Magnificat" and the _Completas_. Moreover, it holds all the output of paraliturgical music by our author, specifically 36 liturgical _villancicos_, a “Quatro”, the "Misterios" and an Aria _â Duo_ composed especially for the feast of the _Santísima Trinidad_. There is no doubt that in Vicente Olmos's paraliturgical production, liturgical _villancicos_ predominate, which we will often find grouped in series of four compositions for each shelfmark. All in all, we can say that, at present, we have in these archives 53 musical compositions by our author.
 
 To conclude, we must point out that it has not been our purpose in this brief review to go into stylistic matters in depth, but rather to outline the creative career of a Valencian chapel master whose contribution to Spanish music will undoubtedly be valued by future generations. All the research on Vicente Olmos Claver is included both in our PhD thesis (MARZAL 2013) and in the recent publication _La música de Vicent Olmos i Claver_ (MARZAL 2019). In both works we will find numerous unpublished documentary sources about the author.
-
 
 **FOOTNOTES**
 

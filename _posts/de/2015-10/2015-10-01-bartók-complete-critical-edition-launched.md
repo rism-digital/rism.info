@@ -11,7 +11,6 @@ email: info@henle.de
 author: G. Henle Verlag
 ---
 
-
 _Diese Nachricht erschien erstmals auf der Website des [G. Henle Verlages](http://www.henle.de/de/startseite/bartk-gesamtausgabe-startet.html){:target="_blank"} (dessen Geschäftsführer Wolf-Dieter Seiffert unser RISM Präsident ist) und wird hier mit freundlicher Genehmigung wiedergegeben._ _RISM listet gerade eine Handvoll von Bartóks Werken im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"} auf._
 
 Am 26. September 2015 jährte sich Béla Bartóks Todestag zum 70. Mal. Zugleich wurde er zu einem großen Tag für die Bartók-Forschung. In Budapest konnte der Beginn der Kritischen Gesamtausgabe Béla Bartók bekanntgegeben werden.
@@ -42,6 +41,5 @@ _Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász(Übersetzer) and Malcolm
 
 ![Henle Bartók 3](http://www.henle.de/files/bartok_vertragsunterschrift_300breit.jpg)
 _Am 25. September 2015 unterzeichneten Wolf-Dieter Seiffert und Antal Boronkay den Kooperationsvertrag beider beteiligten Verlage._
-
 
 

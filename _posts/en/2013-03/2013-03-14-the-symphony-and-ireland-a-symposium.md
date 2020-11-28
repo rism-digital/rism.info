@@ -11,7 +11,6 @@ email: catherine.ferris@dit.ie
 author: Catherine Ferris
 ---
 
-
 **The Symphony and Ireland:
 A Symposium**
 
@@ -35,7 +34,6 @@ This event is free of charge but registration is required. Please email [catheri
 **Provisional Programme**
 
 
-
 9.30 – 10.00  Registration and Tea/Coffee
 
 10.00 – 10.30 Sesssion 1
@@ -45,14 +43,12 @@ This event is free of charge but registration is required. Please email [catheri
 **Dr Axel Klein** , Symphonies and Accompaniments - 200 Years of Irish Symphonies
 
 
-
 10.30 – 11.30 Session 2
 Chair: Dr Maria McHale
 
 **Dr Catherine Ferris** , Paul Alday, the Anacreontic Society and the Birth of the Symphony in Ireland
 
 **Basil Walsh & Dr Michael Murphy** , Rossini and Michael Balfe's _Sinfonietta_ (Bologna 1829)
-
 
 
 11.30 – 12.00 Tea & Coffee
@@ -71,7 +67,6 @@ Chair: Professor Jan Smaczny
 **Dr Ita Beausang** , From Glencree to Amalfi - Ina Boyle’s Symphonic Journey
 
 
-
 1.30 – 2.30 Lunchbreak
 
 2.30 – 3.30  Session 4
@@ -87,11 +82,9 @@ Chair: Dr Philip Graydon
 Dr John Buckley, John Kinsella, Dr Grainne Mulvey and Dr Kevin O'Connell, _Panel Discussion_
 
 
-
 4.30 – 5.00 **Professor Harry White** , _Closing Address_
 
 5.00 _Reception_
-
 
 
 \*\*\*\*

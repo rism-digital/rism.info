@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute erreichte RISM einen weiteren Meilenstein: 1.000 Facebook Fans!
 
 Vielen Dank allen, die die [RISM Facebook-Seite](https://www.facebook.com/RISM.info){:target="_blank"} mögen!
@@ -28,7 +27,6 @@ Polen **Dziękuję!**
 Großbritannien **Cheers!**
 Niederlande **Bedankt!**
 Brasilien **Valeu!**
-
 
 
 _Sie müssen nicht angemeldet sein, um die RISM Facebook-Seite zu sehen._

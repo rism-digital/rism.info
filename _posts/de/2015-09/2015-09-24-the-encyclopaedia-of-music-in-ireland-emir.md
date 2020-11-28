@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ein neues Lexikon steht in unserem Bücherregal:
 
 Harry White und Barra Boydell (Hrsg.), [_The Encyclopaedia of Music in Ireland_](http://www.ucdpress.ie/display.asp?isbn=9781906359782&){:target="_blank"}, Dublin: University College Dublin Press, 2013. ISBN: 9781906359782

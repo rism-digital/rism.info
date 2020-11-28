@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
 
-
 _D __er Leiter des Musikarchivs des Stiftes Heiligenkreuz, P. Roman Nägele OCist möchte auf eine interessante Veranstaltung im Stift Heiligenkreuz hinweisen. Ein detaillierter Artikel über das Leben des Komponisten__ Ferdinand Rebay folgt nächste Woche._
 
 Kurse in den Sparten GITARRE - FLÖTE – GESANG
@@ -26,7 +25,6 @@ Das geschieht nun auch schon zum 4. Mal mit einer Musikakademie: Die Musik von F
 
 **Spätromantisch - impressionistisch - modern**
 Zahlreiche Konzerte gab es in den letzten Jahren, so wurden etwa im Alten Rathaus und im Musiksalon der ÖNB teilweise von Rebays Musik echt überrascht: Trotz der guten Kontakte Rebays zu den Komponisten um Arnold Schönberg (2. Wr. Schule) blieben Rebays Werke [spätromantisch, impressionistisch](http://www.stift-heiligenkreuz-sammlungen.at/musikarchiv/ferdinand-rebay/hoerbeispiele/){:target="_blank"}.
-
 
 **Öffentliches Schlusskonzert im Kaisersaal**
 Auch am Schluss der 4. Internationalen Musikakademie Ferdinand Rebay steht ein öffentliches Konzert der teilnehmenden MusikerInnen mit ihren Dozenten und Dozentinnen, und zwar im einzigartigen Ambiente des Kaisersaals im Stift (Sa., 25. August 2018 um 16:00 Uhr, Eintritt frei)

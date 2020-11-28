@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Anne-Marie Wurster
 ---
 
-
 _We just said farewell to our intern Anne-Marie Wurster, who spent five weeks with us here at the the RISM Central Office in Frankfurt. She has submitted this reflection of her time here:_
 
 At the intersection of musicology and librarianship - that's right where I wanted to be. And that is how I decided to do an internship at the RISM Central Office in Frankfurt am Main. For five weeks this summer I was in Frankfurt and learned about the different aspects of day-to-day work. Dr. Martina Falletta, who is in charge of the internship program, put together various activities that gave me insight into all areas of RISM. After a short training phase I was able to complete tasks independently. This included adding catalog of works numbers, locations, and copyists to the Kallisto and Muscat (series A/1) databases - after checking of course that the information was still true - and adding new works of secondary literature to the database. I also did research for some of the Central Office staff, such as when I gathered literature about the identity of Antonio Rosetti. Learning about public relations work using [Facebook](https://www.facebook.com/RISM.info/timeline/){:target="_blank"}, [Twitter](https://twitter.com/RISM_music){:target="_blank"}, [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}, and the website was also part of the program - which for a social media grump like myself was not without its merits.
@@ -33,5 +32,4 @@ The conference closed its formal program with an intensive panel that concerned 
 During the breaks and at a reception there were opportunities to talk to people from various libraries and areas of concentration. The pleasant, open atmosphere was a welcome surprise and I could make a few interesting new contacts.
 
 All in all, I am very happy about the experiences that I had during my internship. I learned about composers and works that had previously been completely unknown to me and it was exciting to see how the work of a project with networks worldwide goes forward. I spent ample time cataloging music in the database and got to know a lot of interesting people in the process. I also saw that it is very wise to have a background in both musicology and librarianship. Both fields together are a perfect combination and open up a wide world of career possibilities.
-
 

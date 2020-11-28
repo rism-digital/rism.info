@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute ist Valentinstag und das ist der perfekte Tag für alle Musikliebhaber, um sich mit der Musik von Robert Valentine zu beschäftigen.
 
 Der englische Komponist Robert Valentine (1674-1747) verbrachte einen Großteil seines Lebens (bereits ab den 1790er Jahren) in Rom. In seinen Drucken verwendete er daher oft die italienisierte Form "Roberto Valentine" z.T. mit dem Zusatz"Inglese." In vielen[italienischen Handschriften](https://opac.rism.info/search?id=850003937&Language=de){:target="_blank"}wurde auch noch der Nachname angeglichen:"Sigr Roberto Valentini."
@@ -26,9 +25,7 @@ Siehe:
 Michael Talbot, "Robert Valentine and the Roman Concerto Grosso," _[Ad Parnassum:](http://www.adparnassum.org/issues_contents.php?num=27){:target="_blank"} A Journal of Eighteenth- and Nineteenth-Century Instrumental Music_ 14 (April 2016): 1-36. Wir danken Prof. Talbot, der uns auf diesen Artikel aufmerksam gemacht hat.
 
 
-
 _Abbildung_: Robert Valentine, _Sonate di flauto a solo col basso per il cimbalo o violone_, op. 2, Erste Sonate, in F, p. 2. RISM A/I: [V 50](https://opac.rism.info/search?id=00000990065089&Language=de){:target="_blank"}. Aus [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90790357){:target="_blank"}, mit der Hilfevon[PhotoFunny.net](https://www.photofunny.net/out/568380950381200201){:target="_blank"}.
-
 
 
 Heute ist Valentinstag und das ist der perfekte Tag für alle Musikliebhaber, um sich mit der Musik von Robert Valentine zu beschäftigen.
@@ -45,9 +42,7 @@ Siehe:
 Michael Talbot, "Robert Valentine and the Roman Concerto Grosso," _[Ad Parnassum:](http://www.adparnassum.org/issues_contents.php?num=27){:target="_blank"} A Journal of Eighteenth- and Nineteenth-Century Instrumental Music_ 14 (April 2016): 1-36. Wir danken Prof. Talbot, der uns auf diesen Artikel aufmerksam gemacht hat.
 
 
-
 _Abbildung_: Robert Valentine, _Sonate di flauto a solo col basso per il cimbalo o violone_, op. 2, Erste Sonate, in F, p. 2. RISM A/I: [V 50](https://opac.rism.info/search?id=00000990065089&Language=de){:target="_blank"}. Aus [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90790357){:target="_blank"}, mit der Hilfevon[PhotoFunny.net](https://www.photofunny.net/out/568380950381200201){:target="_blank"}.
-
 
 
 ###teilen###

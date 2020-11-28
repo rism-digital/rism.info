@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We are counting down to our conference and workshops in just a few days: **Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM** at the [Akademie der Wissenschaften und Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"} in Mainz.
 
 For three days, 9–11 May 2019, we are going to swap ideas, have discussions, and take a look at how RISM can successfully implement authority records for works and how it will advance our project.

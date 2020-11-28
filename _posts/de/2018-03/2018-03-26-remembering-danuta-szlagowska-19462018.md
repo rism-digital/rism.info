@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit großem Bedauern haben wir vom Tode unserer lieben Kollegin prof. dr hab. Danuta Szlagwoska erfahren, die am 13. März 2018 von uns gegangen ist.
 
 Sie war seit 1997 Mitglied der Danziger RISM-Arbeitsgruppe und hat vor Ort durch ihre umfangreiche Dokumentationstätigkeit sehr viel zum Erfolg des RISM in Polen beigetragen.

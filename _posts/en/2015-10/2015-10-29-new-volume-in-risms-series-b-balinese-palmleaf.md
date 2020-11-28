@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM announces the newest volume in its [publication series B](/publications.html#c2619), which presents bibliographies of musical sources organized by topic:
 
 Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](http://henle.de/de/detail/index.html?Titel=Catalogue+raisonn%C3%A9+of+the+Balinese+Palm-Leaf+Manuscripts+with+Music+Notation_2530){:target="_blank"}_. RISM B/XVI. Munich: Henle, 2015. 309 p. ISBN 978-3-87328-155-4
@@ -23,6 +22,5 @@ Seebass, who himself copied lontars for over a decade, uses Latin letters to dif
 If you are curious about what palm-leaf manuscripts look like, watch this brief video that was filmed at Udayana University in Bali:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-lCIwWwPP0I" frameborder="0" allowfullscreen></iframe>
-
 
 

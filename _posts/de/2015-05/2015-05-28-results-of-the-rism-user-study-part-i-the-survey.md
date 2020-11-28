@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Zur Zeit werten wir die erste von RISM durchgeführte Nutzerstudie zum Online-Katalog aus. Vom 30. Oktober 2014 bis 28. Februar 2015 konnte ein Fragebogen mit 62 Fragen online beantwortet werden. Mit der Studie möchten wir unsere Nutzer besser kennenlernen (z.B. aus welchen Ländern kommen sie, welche Erfahrung haben sie bislang mit RISM gemacht oder zu welchem Zweck nutzen sie RISM) und besser verstehen, wie der Online-Katalog ([www.rism.info](http://www.rism.info) und [opac.rism.info](http://opac.rism.info)) genutzt wird und was wir verbessern können.
 
 551 Personen nutzten die Gelegenheit ihre Meinung zum Online-Katalog und RISM allgemein zu äußern. Für die überwältigende Beteiligung möchten wir uns sehr herzlich bedanken. Wir erhielten 209 deutschsprachige und 341 englischsprachige Antworten.
@@ -29,7 +28,6 @@ Etwa die Hälfte der Befragten (48%, 258 Personen) antworteten, dass Sie RISM (e
 ![Frage 3](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
 
 \<media 938\>_Click for a larger image._\</media\>
-
 
 
 **3. Wie oft benutzen Sie den Online-Katalog?**
@@ -62,7 +60,6 @@ Nichtsdestotrotz finden wir es aufbauend, dass die drei ersten Antworten auf die
 Wenn wir die Auswertung der Antworten auf diese Frage fortsetzen, werden wir besonders die negativen Wahrnehmungen von RISM beachten (einerseits die Worte der Auswahlliste wie beispielsweise "kompliziert", "altmodisch", "überladen" andererseits die als Kommentar hinzugefügten "nicht intuitiv", "inkonsistent", "unklar").
 
 
-
 ![Frage 55](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
 
 **55. In welchem Land wohnen Sie?
@@ -73,7 +70,6 @@ Wenn wir die Auswertung der Antworten auf diese Frage fortsetzen, werden wir bes
 Wir sind erfreut, diese Antworten von Menschen aus der ganzen Welt erhalten zu haben, sogar aus Ländern, aus denen keine Musikquellen in der RISM Datenbank verzeichnet sind (beispielsweise Armenien, Island, Malta, die Philippinen und Südafrika: vielleicht können wir zukünftig zusammen arbeiten!).
 
 Obwohl die Umfrage in Englisch und Deutsch zur Verfügung stand, antworteten 123 Personen aus einem Land, das keine der beiden Sprachen als offizielle Landessprache hat. Wir können daraus schließen, dass viele Menschen RISM in einer Fremdsprache benutzen. Das hilft uns Wege zu berücksichtigen, um RISM für Menschen verschiedener Kulturen und mit unterschiedlichen sprachlichen Hintergründen verständlicher zu gestalten.
-
 
 
 ![Frage 59](http://rism.info/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_59.jpg)
@@ -91,6 +87,5 @@ Wir können die Antworten auf diese Frage auch nutzen, um Einblicke zu bekommen,
 Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
 
 Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/de/community/rism-nutzerstudie.html) veröffentlicht (Link auf unserer Website unten rechts).
-
 
 

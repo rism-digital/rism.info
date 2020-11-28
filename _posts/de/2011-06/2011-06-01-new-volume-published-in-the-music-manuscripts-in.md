@@ -11,7 +11,6 @@ email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
 
-
 RISM-Arbeitsgruppe Deutschland und RISM-Zentralredaktion veröffentlichen seit 2009 Kataloge in einer eigenen Schriftenreihe „Musikhandschriften in Deutschland“. Diese Teilveröffentlichungen aus der RISM-Datenbank sind für die besitzenden Institutionen und ihre Benutzer bestimmt, sowie für Wissenschaftler und Musiker, die sich schwerpunktmäßig mit dem jeweiligen Bestand beschäftigen. Für Bibliotheken/Archive werden ausgedruckte Exemplare in Buchform hergestellt, desweiteren besteht die Möglichkeit, sich die Kataloge als pdf-Datei kostenlos über den Dokumentenserver [Qucosa](http://www.qucosa.de/){:target="_blank"} herunterzuladen.
 
 Als Band 3 der Schriftenreihe ist aktuell erschienen:

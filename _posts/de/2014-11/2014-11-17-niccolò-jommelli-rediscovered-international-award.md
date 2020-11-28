@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Der folgende Artikel ist zuerst auf der Website des [Biblioteca Nacional de Portugal](http://www.bnportugal.pt/index.php?option=com_content&view=article&id=972:noticia-noccollo-jommelli&catid=164:2014&Itemid=994&lang=en){:target="_blank"} erschienen ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}):_
 
 _Niccolò Jommelli rediscovered: a new autograph of a 16 voice Laudate pueri_ von António Jorge Marques hat eine spezielle Erwähnung im [6. Principe Francesco Maria Ruspoli Internationaler Preis für musikwissenschaftliche Studien](http://www.centrostudisgm.com/sito/?cat=10){:target="_blank"} erhalten.

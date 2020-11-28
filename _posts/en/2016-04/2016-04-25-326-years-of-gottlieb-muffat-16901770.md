@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today we are celebrating the 326th anniversary of the day that Gottlieb Muffat (1690-1770) was baptized, the closest we have to a date of birth. "The Famously Little-Known Gottlieb Muffat" is the name of an essay by Alison J. Dunlop that nicely sums up the contradiction between the fame of Muffat's works and the largely unknown circumstances of his life (_[Bach Perspectives](http://www.jstor.org/stable/10.5406/j.ctt3fh4gn){:target="_blank"}_ 9 [2013]: 77-119).
 
 Even if you haven't heard of Gottlieb Muffat, you might be able to recognize a melody or two by him: George Frideric Handel borrowed thematic material by Muffat in numerous works, including the Concerti grossi (op. 6) and some oratorios.
@@ -24,7 +23,6 @@ Below, enjoy _Componimenti musicali_ performed by Naoko Akutagawa.
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874&amp;start=1868">
 <param name="allowscriptaccess" value="always">
 <embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
-
 
 
 _Image_: Title page of _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitized and available from the [Austrian National Library](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.

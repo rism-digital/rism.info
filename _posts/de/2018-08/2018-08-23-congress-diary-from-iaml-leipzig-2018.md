@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Vier Mitarbeiter der RISM-Zentralredaktion nahmen am jährlich stattfindenden Kongress der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/congresses/2018-leipzig){:target="_blank"} in Leipzig teil. Der Tradition des [Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} folgend schildern wir - jeder in seiner Muttersprache - unsere Eindrücke._
 
 **Von Klaus Keil:**
@@ -21,33 +20,27 @@ Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie mögli
 
 Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
 
-
 -
 
 Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
 
-
 -
 
 Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
-
 
 -
 
 Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
 
 
-
 Neben diesen "offiziellen" RISM-Veranstaltungen waren RISM Ländergruppen MitarbeiterInnen beteiligt an sechs weiteren Veranstaltungen, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
 
 RISM wurde ansonsten bei vielen Vorträgen genannt, angefangen vom Eröffnungsvortrag durch Peter Wollny, bei Roland Schmidt-Hensels und Sabine Kurths Bericht über das Archiv des Schott Verlags und vielen mehr.
-
 
 **Von Martina Falletta:**
 Eine Dienstreise in die traditionsreiche Musikstadt Leipzig lässt man sich nicht entgehen. Es war schön, so viele Kollegen wieder getroffen und neue Kontakte geknüpft zu haben. Neben den zahlreichen informativen und interessanten Vorträgen begeisterte mich vor allem eine gut 30-minütige Führung durch die Deutsche Nationalbibliothek (DNB). Der Leipziger Standort ist seit 2010 auch Sitz des Deutschen Musikarchivs (DMA).
 
 Das Hauptgebäude am Deutschen Platz wurde im September 1916 eingeweiht. Der allgemeine Lesesaal hat ein ganz eigenes Flair und wirkt sehr imposant (siehe Foto). Bis heute hat das Gebäude mehrere Erweiterungsbauten erfahren, die sich in ihrer Gestaltung sehr voneinander abheben. Neue Arbeits- und Magazinbereiche für das DMA wurden im vierten Erweiterungsbau realisiert. Das Foyer zum Musiklesesaal ist einladend mit Tonträgern, Noten und Tonabspielgeräten gestaltet und die Hörkabine mit Surroundsystem sowie der Tonstudiokomplex sind auf höchstem technischen Niveau. Der flauschige Teppichboden vermeidet ungeliebte Schrittgeräusche. Die Atmosphäre ist insgesamt sehr gedämpft. Im Musiklesesaal stehen 18 Audioarbeitsplätze zur Verfügung, an vier davon stehen auch Klaviaturen zum Anspielen von Noten bereit.
-
 
 
 **Von Guido Kraus:**

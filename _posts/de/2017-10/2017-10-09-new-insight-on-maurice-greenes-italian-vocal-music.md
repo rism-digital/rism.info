@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ein kürzlich erschienener Artikel von Michael Talbot gibt Einblicke in die "italienische" Vokalmusik von Maurice Greene (1696-1755) und zwei bisher unbeachtete Werke. Weiterhin hat Talbot einige bei RISM anonym verzeichnete Werke identifiziert.
 
 In "[Maurice Greene’s Vocal Chamber Music on Italian Texts](http://dx.doi.org/10.1080/14723808.2016.1271573){:target="_blank"}" (_Royal Musical Association Research Chronicle_ 48 (2017), p. 91-124) konzentriert sich Talbot auf zwei Manuskripte, die mehrheitlich Greenes 37 italienischsprachige Kompositionen überliefern: MS. Mus. d.52 der Bodleian Library in Oxford (GB-Ob; RISM ID no. [800159943](https://opac.rism.info/search?id=800159943&Language=en){:target="_blank"}) und A.Ms.3728 der Bibliomediateca dell'Accademia nazionale di S. Cecilia in Rom (I-Rama, RISM ID no. [850032891](https://opac.rism.info/search?id=850032891&Language=en){:target="_blank"}). Einzelne Werke erschienen auch in drei anderen britischen Handschriften, vier von ihnen waren unter Anonymus bei RISM verzeichnet (RISM ID no. [806156974](https://opac.rism.info/search?id=806156974&Language=en){:target="_blank"}, [806156972](https://opac.rism.info/search?id=806156972&Language=en){:target="_blank"}, [806252615](https://opac.rism.info/search?id=806252615&Language=en){:target="_blank"} und [806252616](https://opac.rism.info/search?id=806252616&Language=en){:target="_blank"}).
@@ -24,8 +23,6 @@ Außerdem hat Talbot viele literarische Quellen für diese Werke identifiziert. 
 
 Die RISM-Einträge zu Green wurden überarbeitet und zeigen bereits diese neuen Informationen. Wir danken Professor Talbot, dass er uns seine Forschungsergebnisse mitgeteilt hat.
 
-
 _Abbildung_ : Frontispiz und Titelblatt von Di canzonette e di cantate libri due von Paolo Rolli (London, 1727), aus dem [Internet Archive](https://archive.org/details/bub_gb_pICeIHxNG-YC){:target="_blank"}.
-
 
 

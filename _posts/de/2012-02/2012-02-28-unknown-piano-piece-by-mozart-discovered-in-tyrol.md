@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 Bei der Erfassung von Musikhandschriften für das Répertoire International des SourcesMusicales (RISM) stieß Univ.-Doz. Mag.art. Dr.phil. Hildegard Herrmann-Schneider in Tirolauf ein Notenbuch aus der Zeit um 1780. Diese Handschrift enthält unter anderem ein bislangunbekanntes Klavierstück, das ausdrücklich dem jungen „Wolfgango Mozart“ zugeschriebenist.
 
 **Das Klavierstück wird von der Stiftung Mozarteum Salzburg am 23. März 2012 um11.00 Uhr im Tanzmeistersaal des Mozart-Wohnhauses (Makartplatz) vorgestellt.**

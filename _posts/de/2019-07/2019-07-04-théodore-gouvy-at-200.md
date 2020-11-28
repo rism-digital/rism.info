@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Nachdem wir erst kürzlich den [200. Geburtstag von Jacques Offenbach](/events/2019/06/19/the-jacques-offenbach-year-clichés-and-legends.html){:target="_blank"} gefeiert haben, widmen wir uns heute einem Komponisten, der nicht nur das Jubiläums-Jahr mit ihm teilt:
 (Louis) Théodore Gouvy (1819-1898) hat - wie Offenbach - quasi eine „französisch-deutsche“ Biographie. Geboren in Goffontaine (heute der Saarbrücker Stadtteil Schafbrücke) widmete er sich nach einem abgebrochenen Jura-Studium der Musik. Fast sein gesamtes Leben pendelte er zwischen Leipzig, Paris, Berlin und seiner Heimatstadt. Während zu Lebzeiten seine Mischung aus französischem Esprit und deutscher Gründlichkeit gerühmt wurde, wurde ihm gerade dies später zum Verhängnis: Mit dem deutsch-französischen Krieg 1870-1871 verlor Gouvy gewissermaßen seine musikalische Heimat und ist heute fast in Vergessenheit geraten. Das [Institut Théodore Gouvy](https://www.institut-gouvy.fr/){:target="_blank"} möchte die Gelegenheit des Jubiläums nutzen, um sein Werk wieder bekannter zu machen.
 
@@ -20,6 +19,5 @@ Zu den bei [RISM nachgewiesenen Quellen](https://opac.rism.info/search?View=rism
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr8ytXurSkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Abbildung_: Porträt von Théodore Gouvy, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theodore_Gouvy.JPG){:target="_blank"}
-
 
 

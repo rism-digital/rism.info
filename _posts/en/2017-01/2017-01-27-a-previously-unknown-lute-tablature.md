@@ -11,7 +11,6 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Dr. Helmut Lauterwasser
 ---
 
-
 _We have received the following from Dieter Kirsch:_
 
 It doesn't happen too often nowadays for objects to turn up in public collections that have so far managed to elude researchers. Such a case will be described below.

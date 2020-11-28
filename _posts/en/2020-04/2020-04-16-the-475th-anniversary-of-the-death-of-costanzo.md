@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The Italian composer Costanzo Festa (born between 1480 and 1490 in Piedmont, died 10 April 1545 in Rome) was a member of the papal choir beginning in 1517 and later directed and composed for the Cappella Sistina.
 
 Not much is known for certain about his life. [His oeuvre](https://opac.rism.info/search?View=rism&author=Festa+costanzo){:target="_blank"} spans numerous vocal genres. Tenor motets as well as imitative works without a cantus firms are among his 40 motets. He only composed a few settings of the mass and no chansons. Festa is especially famous for his ca. 100 madrigals that are notable for their varying styles.
@@ -22,6 +21,5 @@ Another _Magnificat_ settings seem to have been printed ten years after Festa’
 
 _Image_: Costanzo Festa, “Se per forza di doglia” from _Il primo libro d'i Madregali de diversi eccelentissimi autori a cinque voci_, Venice 1542 ([RISM ID no. 993102197](https://opac.rism.info/search?id=993102197&View=rism){:target="_blank"}).
 Copy: [Bayerische Staatsbibliothek München (D-Mbs) 4 Mus.pr. 155](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00080881-2){:target="_blank"}
-
 
 

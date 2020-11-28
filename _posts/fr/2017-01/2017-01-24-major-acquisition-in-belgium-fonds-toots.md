@@ -11,7 +11,6 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 _Nous avons reçu cette contribution de [RISM Belgique](/fr/workgroups/belgium-rism-belgium/home.html "Ouvre un lien interne dans la fenêtre courante"):_
 
 Au mois de décembre dernier, la section de la Musique de la [Bibliothèque royale de Belgique](http://www.kbr.be/fr "Ouvre un lien externe dans une nouvelle fenêtre") s’est enrichie d’un nouvel ensemble exceptionnel, le «Fonds Toots Thielemans», du nom de ce musicien belge disparu le 22 août 2016, à l’âge de 94 ans.

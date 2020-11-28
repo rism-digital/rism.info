@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Here's a trick to help you get more out of searching in the [RISM online catalog](https://opac.rism.info/){:target="_blank"}. You might not have even noticed it before.
 
 In our [online survey](/community/survey-2014-2015.html), we heard from many of you that you wish you could add more search fields in the [Advanced search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}. Well, you can, in a way—through the Fifth Field.
@@ -30,14 +29,11 @@ You can select your Haydn quartets in D, but now add a fourth element, such as s
 
 ![Fifth field with more search terms](http://rism.info/resources-old-website/news/Fuenftes_Feld3_1007_x_363.jpg)
 
-
 And after you return again to the advanced search, you can continue to take advantage of your previous search terms. It's like adding extra search fields to your search.
-
 
 
 Watch this short video to see the fifth field in action:
 
 <iframe src="https://www.youtube.com/embed/Qboev7w_QJI?ecver=2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
 
 

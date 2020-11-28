@@ -11,7 +11,6 @@ email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---
 
-
 _Nous avons reçu cette annonce de François-Pierre Goy (Bibliothèque Nationale de France, [Département de la Musique](https://www.bnf.fr/fr/departement-de-la-musique "Ouvre un lien externe dans une nouvelle fenêtre")):_
 
 Même si tous les manuscrits musicaux de la BnF n'ont pas encore été indexés par le RISM, F-Pn est à présent le cinquième sigle de bibliothèque en nombre d'entrées dans la base de données.
@@ -23,7 +22,6 @@ Dans les années 80, le département a entrepris de décrire selon les directive
 Le catalogage rétrospectif ou courant des manuscrits de la BnF continue: [ce lien](https://catalogue.bnf.fr/affiner.do?motRecherche=rismmss&index=&numNotice=&listeAffinages=FacEnLigne_gallicaintramurosrech&afficheRegroup=false&trouveDansFiltre=NoticePRO&nbResultParPage=10&triResultParPage=1&critereRecherche=0&typeNotice=) permet d’en suivre l’évolution en attendant un chargement complémentaire.
 
 Pour le reste de la France, le recensement des fonds musicaux anciens, à présent disponible en ligne dans le [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) en plus de la version imprimée, s’enrichira prochainement de nouveaux catalogues régionaux.
-
 
 
 _Image_: Giovanni Lorenzo Lulier, _La fortuna con eccessi,_ _Cantate du Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item "Ouvre un lien externe dans une nouvelle fenêtre"), [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism "Ouvre un lien externe dans une nouvelle fenêtre").

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Bevor wir weiter ins Jahr 2015 vorrücken, lassen Sie uns einen Blick zurück auf 2014 werfen und Anteil an einige Geschichten des letzten Jahres nehmen.
 
 Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren Websitestatistiken):
@@ -59,13 +58,10 @@ Diese Liste hebt auch die Arbeit von unseren Kollegen in verschiedenen Ländern 
 Die beliebtesten Links auf unserer Facebook-Seite waren:
 
 
-
 1. ["Frère Jacques" a été composé par Jean Philippe Rameau ! (Radio France)](http://www.francemusique.fr/actu-musicale/frere-jacques-ete-compose-par-jean-philippe-rameau-49327){:target="_blank"}: Die Entdeckung der Musikwissenschftlerin Sylvie Bouissou, dass der berühmte Kanon "Frère Jacques" von Jean-Philippe Rameau stammt
 
 
-
 2. [Long-lost original score of Mozart masterpiece found in Budapest (CTV News)](http://www.ctvnews.ca/entertainment/long-lost-original-score-of-mozart-masterpiece-found-in-budapest-1.2029216#ixzz3EzxB7wtb){:target="_blank"}: Unser ungarischer RISM-Kollege Balazs Mikusi entdeckte ein Mozart-Autograph in Budapest
-
 
 
 3. Und ein Video der Feier auf der das Autograph der Öffentlichkeit gezeigt wurde:
@@ -75,9 +71,7 @@ Die beliebtesten Links auf unserer Facebook-Seite waren:
 4. [Canadian musicologist makes 900 year old discovery, Radio Canada International](http://www.rcinet.ca/en/2014/10/22/canadian-musicologist-make-900-year-old-discovery/){:target="_blank"}: Über frühe Musiknotation
 
 
-
 5. [Joseph Haydn's Real Wife](http://michaelorenz.blogspot.de/2014/09/joseph-haydns-real-wife_11.html){:target="_blank"}: Michael Lorenz hat Haydns Ehefrau als Maria Anna Theresia Keller (geboren 25 September 1730) identifiziert, nicht Maria Anna Aloysia Apollonia Keller
-
 
 
 Anhand der Liste bemerken Sie, dass 2014 ein Jahr der aufregenden Entdeckungen war.
@@ -95,7 +89,6 @@ RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliog
 - Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 2 (2014): 48-52. [Online erhältlich](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
 
 - Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Online erhältlich](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
-
 
 
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.

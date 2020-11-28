@@ -11,7 +11,6 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 The King Baudouin Foundation bought an exceptional set of music manuscripts by the violinist Henry Vieuxtemps (1820-1881), Belgium’s most famous composer of the 19th century. The manuscripts, unknown so far to musicians and musicologists, have been recently brought to the Music Department of the Royal Library of Belgium, which has become the world’s most important place for the preservation of Vieuxtemps’s work.
 
 The collection contains as many as twenty autograph manuscripts including the world-famous _Cinquième concerto pour violon_, a major work of the violin concerto repertoire since its premiere, and ten handwritten copies, some of which bear autograph annotations by the composer.

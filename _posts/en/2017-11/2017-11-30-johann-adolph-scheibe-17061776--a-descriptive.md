@@ -11,7 +11,6 @@ email: ph@kb.dk
 author: Peter Hauge
 ---
 
-
 _The following has reached us from Peter Hauge ([Royal Danish Library](http://www.kb.dk/en/index.html){:target="_blank"}):_
 
 For the first time ever a detailed descriptive catalogue of Johann Adolph Scheibe's works has been [published as a database](http://www.kb.dk/dcm/schw/preface.xq){:target="_blank"}. Scheibe was very productive, not only as a composer – ranging from large-scale cantatas and oratorios to sinfonias, chamber music and communal songs – but also as a translator of literary works as well as academic studies, in addition to being an author himself. Though he was only Court Kapellmeister in Copenhagen for a brief period, he remained in Denmark until he died in 1776. Scheibe participated in discussions among the intellectuals in Copenhagen, including Schlegel, Klopstock, Gerstenberg, Basedow, Hagedorn, Münter and Cramer, and he maintained a correspondence with Telemann, Gottsched, and C.P.E. Bach, to mention a few.

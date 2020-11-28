@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 The brochure “RISM: An Overview” was fully revised and was published in July 2011, right in time for the IAML conference in Dublin.
 
 This overview is intended to represent RISM as an international joint project. It provides information about RISM’s purpose and goals as well as its most important projects. It also lists the particular services that the RISM Zentralredaktion offers to participating international working groups, libraries that hold the musical sources, and other interested individuals in the field.

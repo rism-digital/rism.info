@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 From February 5 to 6, 2016, Guido Kraus from the RISM Central Office attended an international musicological conference at the [University of Warsaw Library](http://www.buw.uw.edu.pl/en/){:target="_blank"} entitled "[The Music Repertoire of the Society of Jesusin the Polish-Lithuanian Commonwealth (1565–1773).Sources – Editing – Cataloguing](http://fontesmusicae.pl/conferences/our-conference-on-5th-6th-february-already/){:target="_blank"}." The conference was hosted by the [Institute of Musicology](http://www.imuz.uw.edu.pl/index.php/en/){:target="_blank"} at the University of Warsaw and organized by the project's leader, Dr. hab. Tomasz Jeż.
 
 The conference was in support of a [project of the same name](http://fontesmusicae.pl/projects/){:target="_blank"} which focuses on the music repertoire that originated in Jesuit circles and aims to document this music and make it known through critical editions and monographs. RISM, one of the partners of this project, has made its free manuscript cataloging program Kallisto available to participants. Records will be published in the [RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} during the course of the project.
@@ -27,6 +26,5 @@ A third outcome of the project is musicological monographs. Aleksandra Patalas f
 The five-year project is financed by the Ministry of Science and Higher Education within the Tradition 1a module of the National Programme for the Development of Humanities.
 
 _Image:_ Canisius in Vienna, Ars Jesuitica, Institute of Jesuit Sources (public domain).
-
 
 

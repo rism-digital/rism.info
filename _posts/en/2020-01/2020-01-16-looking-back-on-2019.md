@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The year 2020 is still young, but let's take a moment to look back on 2019 at the most popular stories from the world of musical sources that we published here on the RISM blog. May 2020 be as rich with discoveries!
 
 1. [New Music Manuscripts from Italy (ICCU) in RISM
@@ -37,7 +36,6 @@ Don't miss [the 2020 edition](/events/2020/01/09/2020-not-just-beethoven.html){:
 
 But in 2019—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
 
-
 **Social Media Highlights**
 
 - [Musical 15th-century frescoes](https://twitter.com/Gregoire_Ichou/status/1116657535879208960?fbclid=IwAR3lQAqZGWhgLLeEqSCFD_n7TYFtMJN-6Csgdxh7QzUALPasl7R5BBlkrmM){:target="_blank"} at the Basilica Saint-Quentin, France
@@ -48,9 +46,7 @@ But in 2019—as in years past—the post more often read than any other story, 
 - [The Music of Notre-Dame](https://www.br-klassik.de/aktuell/news-kritik/notre-dame-paris-brand-musikgeschichte-mehrstimmigkeit-notation-epoche-notre-dame-schule-100.html){:target="_blank"}
 
 
-
 A big thank you goes out to our readers and supporters throughout the year for your contributions, opinions, tips, hard work, and discoveries!
-
 
 _Image_: Postcard from [The New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4783-a3d9-e040-e00a18064a99){:target="_blank"}.
 

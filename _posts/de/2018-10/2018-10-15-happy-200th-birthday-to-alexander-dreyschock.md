@@ -11,7 +11,6 @@ email: krkraeme@students.uni-mainz.de
 author: Kristina Krämer
 ---
 
-
 _Der folgende Beitrag stammt von Kristina Krämer,_ _welche zurzeit ihre Masterarbeit zu Alexander Dreyschock an der Johannes Gutenberg-Universität Mainz verfasst:_
 
 Der Pianist Alexander Dreyschock, geboren am 15. Oktober 1818 nahe Prag, verbrachte einen großen Teil seines Lebens auf Konzertreisen durch ganz Europa und maß sich mit Größen wie Liszt und Thalberg. Zunächst nur als Schüler Václav Jan Tomášeks bekannt, erlang er bald größere Berühmtheit durch sein kraftvolles und trotzdem geschicktes Spiel mit der linken Hand sowie seinem insgesamt als feurig empfundenen Klavierspiel. Auch als Komponist war er produktiv – bis zu seinem Tod 1869 erschienen mehr als 140 Werke mit Opuszahl.
@@ -46,7 +45,6 @@ Zum Lebewohl die Hand Dir jetzt, die flinke,
 Doch nicht die rechte nur, auch Deine linke._
 
 _Am 2. Dezember 1843. Joseph Pirazzi._
-
 
 
 _Abbildung_: Alexander Dreyschock, Kniestück, Lithografie von Josef Kriehuber. Universitätsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Online verfügbar](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 It's not only numerous composers who are celebrating major anniversaries: compositions are too. When you think of Johann Mattheson, you might first think of his writings that appeared in Hamburg, _Der vollkommene Capellmeister_ (1739) or his _Grundlage einer Ehren-Pforte_ (1740). But this time we're going to look at the twelve sonatas that were published in Hamburg in 1720. The sonatas were actually finished in 1717 but appeared three years later.
 
 The RISM entry has already been revised and has individual entries for each sonata plus incipits (RISM A/I: M 1400; MM 1400; [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}). Take a look at the digitized copy from the Staats- und Universitätsbibliothek Hamburg. The printed edition was entirely set with movable type.
@@ -25,12 +24,9 @@ If you want to know more about the twelve sonatas from 1720, we recommend Jane A
 Don't be surprised if you hear recordings with different instruments. Mattheson leaves the choice of instruments up to the performers. Here is a version with harpsichord and flute:
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fj_TRHdImhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 _Image_: Title page for Johann Mattheson's _Der brauchbare Virtuoso_, copy in [Staats- und Universitätsbibliothek Hamburg](https://resolver.sub.uni-hamburg.de/kitodo/PPN805164146){:target="_blank"} (CC BY-SA 4.0) [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Letzte Woche wurde der 300. Geburtstag von einem der bedeutendsten Opernkomponisten und -reformer der 2. Hälfte des 18. Jahrhunderts gefeiert: Christoph Willibald Gluck (1714 - 1787). Sein Geburtstag ist Anlass für diverse Veranstaltungen im In- und Ausland: In Berching, dem Geburtsort Glucks, wurde eine Sonderbriefmarke vorgestellt, in Frankfurt am Main ist es eine neu gestaltete Medaille. Zahlreiche Konzerte, Opernaufführungen, Vorträge, Publikationen und Ausstellungen kommen hinzu. Alle Veranstaltungen zum Gluck-Jahr 2014 finden sie zusammengestellt auf der Webseite der [Internationalen Gluck-Gesellschaft](http://www.gluck-gesellschaft.org/hp96/Gluck-Jahr-2014.htm){:target="_blank"}.
 
 Die in Frankfurt vorgestellte Kunstmedaille wurde von der Künstlerin Silvia Klöde gestaltet, ist unglasiert und handgegossen, hat einen Durchmesser von ca. 11 cm und erscheint in einer Auflage von 125 Stück, als [Lettin-Medaille No. 12](http://www.lettiner-porzellan.de/){:target="_blank"}. Inhaltlich wurde Frau Klöde von der Frankfurter Arbeitsstelle der Gluck-Gesamtausgabe (ein Projekt der Akademie Mainz) unterstützt. Die Ausstellung _[Der Opernreformer Christoph Willibald Gluck - Überlieferung und Rezeption seiner Werke](http://www.uni-frankfurt.de/51081122/Gluck-Ausstellung-2014-Meldung.pdf){:target="_blank"}_ ist noch bis zum 9. August in der Universitätsbibliothek, Zentralbibliothek, Bockenheimer Landstr. 134–138, 3. Stock, Flur vor dem Lesesaal Musik, Theater, Film zu sehen.

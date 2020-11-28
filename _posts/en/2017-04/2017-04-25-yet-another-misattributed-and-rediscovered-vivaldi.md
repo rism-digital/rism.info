@@ -11,7 +11,6 @@ email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
 
-
 _The following is a guest post by Michael Talbot (University of Liverpool, Department of Music, Emeritus):_
 
 Regular Dresden-watchers will be aware of the ambitious project “[Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/){:target="_blank"}” supported by the Deutsche Forschungsgemeinschaft (DFG), which was brought to a successful conclusion in 2016. This project was unusual in being not only a “mass” digitization programme but also a vast exercise in analytical cataloguing that supplied for every item a detailed bibliographical description including, wherever possible, a watermark ID and a scribe ID. It enables visitors to the [RISM portal](https://opac.rism.info/){:target="_blank"}, by means of a single click, to isolate and consider as a potentially significant group all the manuscripts belonging to this corpus that share a watermark and/or a scribe. In the majority of instances, applying these filters produces no great revelations, but since the process of calling up these lists and (if the incipits provoke further investigation) accessing digital reproductions of the sources is so unbelievably swift – one would have to spend hours, and perhaps overtax the patience of busy library staff, to do the equivalent _in situ_ – one is encouraged to move into “What if ...?” mode and test out hypotheses that within actual library walls would nearly always appear too precarious and time-consuming to pursue.
@@ -33,14 +32,12 @@ As things now stand, in mid-April 2017, an edition of this new _Laetatus sum_ (t
 I am confident that what I have been able to do in this individual instance will in coming years find its counterparts, in connection with quite different composers, in studies of the same Hofkirche repertory. I should also mention, as a concluding flourish, that this discovery has prompted me to consider a further hypothesis of much broader import: that the “Baldan consignment” (or series of consignments), executed around 1760, was originally sent to the Saxon-Polish court not in its normal seat at Dresden, but in its place of refuge during the Seven Years’ War (1756–1763), Warsaw. The reason why the Galuppi-attributed works were so numerous and so comprehensive liturgically could have been because they were designed to create an entire performing repertory from scratch (in the Polish capital) rather than merely to update an already existing one (in the Saxon capital). Since this idea occurred to me, I have learnt that it has been in the minds of at least two other scholars, so one can expect future developments on this front as well. A tangible Polish connection in addition to the known German one would appeal to me in the light of the growing interest shown by modern Polish musicians and musicologists in the repertory belonging to the period of the Wettin monarchs.
 
 
-
 _Michael Talbot_
 
 _18 April 2017._
 
 Image: _Laetatus sum_ in C major, newly discovered by Michael Talbot to be a piece by Vivaldi and henceforth known as RV 827 (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095&Language=en){:target="_blank"}). On the first page of music, shown here, the heading names "Buranello" as the composer—a false attribution on the source to Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
 
 
 

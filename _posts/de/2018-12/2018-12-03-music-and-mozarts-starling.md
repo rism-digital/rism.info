@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Für den Star (_Sturnus vulgaris_) laufen die letzten Wochen als Vogel des Jahres in Deutschland. Die Umweltorganisation NABU hofft die [Aufmerksamkeit auf den bekannten Singvogel](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/star/index.html){:target="_blank"} und seine extrem vielseitigen Stimmbänder zu lenken, aber leider verliert die Art an Lebensraum und der Bestand nimmt ab.
 
 The Vogel steht im Mittelpunkt des Buches _Mozart's Starling_ der Naturforscherin [Lyanda Lynn Haupt](https://www.lyandalynnhaupt.com/){:target="_blank"}. Als Amerikanerin hat Haupt eine andere Perspektive als europäische Naturschutzgruppen, da der Star dort, wo sie lebt, als invasive Spezie und nicht die talentierte Nachahmung des Murmelns von Hunderttausend Individuen als Naturschauspiel gesehen wird. Umso ungewöhnlicher ist ihre Entscheidung, die Plage als Haustier zu halten. Aber Haupt zieht einen Babyvogel in der Hoffnung groß, das Verhalten des Vogels zu verstehen, weil eine berühmte Person vor etwa 230 Jahren das gleiche Haustier hatte: Wolfgang Amadeus Mozart.
@@ -29,6 +28,5 @@ Hören Sie selbst und hören Sie auch Mozarts andere Werke aus dieser Zeit. Kön
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nx-N9I1eZyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Abbildung_: Letzte Seite von _Ein musikalischer Spaß_ in einer Abschrift, die in der Tschechischen Nationalbibliothek aufbewahrt wird. [RISM ID no. 1001011179](https://opac.rism.info/search?id=1001011179&View=rism){:target="_blank"}. [Online einsehbar](http://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR __M_I_26______ 2GLXWZ7-cs){:target="_blank"} (CC-BY).
-
 
 

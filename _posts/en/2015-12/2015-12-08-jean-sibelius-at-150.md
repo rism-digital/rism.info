@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _"We can say that Jean Sibelius is one of the most brilliant tone poets of the present time."_
 Erik Furuhjelm, 1916
 
@@ -35,8 +34,6 @@ Listen to this recording performed by the Sinfonia Lahti and conducted by Osmo V
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zaVTsGZ67IM" frameborder="0" allowfullscreen></iframe>
 
 
-
 Image: Santeri Levas, Jean Sibelius, 1940-1945, Järvenpää. From the Finnish Museum of Photography, via [Flickr](https://www.flickr.com/photos/valokuvataiteenmuseo/11064165894/in/album-72157638075319113/){:target="_blank"}.
-
 
 

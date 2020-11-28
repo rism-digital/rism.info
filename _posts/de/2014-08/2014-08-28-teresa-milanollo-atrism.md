@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute ist der Geburtstag der italienischen Violinistin und Komponistin Teresa Milanollo (1827-1904).
 
 Teresa faszinierte schon als Neunjährige mit ihrem Geigenspiel die Zuhörer. Gemeinsam mit ihrer Schwester Maria (1832-1848) galten sie als geigende Wunderkinder. Doch bereits 1848 starb Maria an Tuberkulose und die umjubelten Auftritte hatten ein Ende. Außerdem war Teresa mit 21 Jahren dem Wunderkind-Alter entwachsen. Entgegen allen Konventionen der bürgerlichen Gesellschaft setzte sie ihre Karriere als Virtuosin fort und bereiste vor allem Frankreich und den deutschsprachigen Raum. Ende der 1850er Jahre zog sie sich vom Konzertleben zurück und heiratete eine französischen General. Teresa Milanollo starb im Alter von 77 Jahren in Paris. Die für ihre eigenen Konzerte geschriebenen Kompositionen werden leider schon lange nicht mehr gespielt.
@@ -23,6 +22,5 @@ Untenstehend findet Ihr den „Coldstream March“, den [Johann Valentin Hamm](h
 <iframe width="420" height="315" src="//www.youtube.com/embed/b_kGZt4pZeE" frameborder="0" allowfullscreen></iframe>
 
 Bildnachweis: [Bibliothèque nationale de France](http://gallica.bnf.fr/ark:/12148/btv1b84226699){:target="_blank"}
-
 
 

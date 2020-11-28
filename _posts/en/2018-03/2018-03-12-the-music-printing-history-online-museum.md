@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We stumbled upon this interesting online museum: [Music Printing History](http://www.musicprintinghistory.org/){:target="_blank"}. It details different technological aspects concerning printing music and is richly illustrated.
 
 You can see examples of the technology that brought about the historical printed music that RISM currently covers (to about 1800): woodblocks, movable type (image, left), and engraving. The virtual museum also dips into lithography and more modern technologies, such as photoreproductive processes and even [music typewriters](http://www.musicprintinghistory.org/music-typewriters){:target="_blank"}. These are all put into the specialized context of printing music. Brief narration guides you through the objects.
@@ -24,7 +23,5 @@ We'll leave you with one of our favorite videos that the site links to, a closeu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 Image: Movable type from [Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-
 

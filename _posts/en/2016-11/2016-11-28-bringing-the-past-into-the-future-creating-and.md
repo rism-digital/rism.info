@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 On October 28 and 29, 2016, our colleagues from [RISM South Korea](http://ewha.kor.rism.info/index.php?id=528) were our hosts for the conference [Bringing the Past into the Future: Creating and Curating Digital Music Archives](http://www.emri2016.com/){:target="_blank"}, held at [Ewha Womans University](https://www.ewha.ac.kr/){:target="_blank"} in Seoul. The conference had a twofold purpose: a symposium and concert on October 28 to celebrate 50 years of the compositional career of Younghi Pagh-Paan (born 1945), a Korean-born composer who has lived in Germany since the 1970s, and a conference on October 29 with a focus on digital music archives.
 
 In addition to conference speakers from Taiwan, Europe, and North America, attendees included students from Ewha, librarians from Seoul, and some of our IAML and RISM colleagues from Japan and Taiwan—affording us a direct and rare opportunity to hold discussions face-to-face. Members of the RISM Chinese Language Region working group, our newest RISM working group, were in attendance.
@@ -38,5 +37,4 @@ _Photo courtesy of JeongYoun Chang_
 
 ![Muscat workshop in Seoul](http://rism.info/resources-old-website/news/Workshop_webinar_960_557.jpg)
 _Muscat workshop_
-
 

@@ -11,7 +11,6 @@ email: klaus.keil@rism.info
 author: Klaus Keil
 ---
 
-
 Colloquium: Researching Copyists and Watermarks in the Digital Age: Between Academic Specialization and Catalog Enrichment
 Staatsbibliothek zu Berlin, 6-8 October 2014
 

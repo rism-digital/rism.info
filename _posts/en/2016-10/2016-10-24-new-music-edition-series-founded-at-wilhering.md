@@ -11,7 +11,6 @@ email: musikarchiv@stiftwilhering.at
 author: Ikarus Kaiser
 ---
 
-
 _The following guest post is by our colleague Ikarus Kaiser of RISM Austria:_
 
 Recently the new music edition series "Sacred Music in Wilhering Abbey" was founded. It is focused on the music tradition of the Upper Austrian Cistercian abbey Wilhering and its large music collection. Ikarus Kaiser, titular organist since 2001 and also music archivist since 2010, is responsible for the RISM documentation of this large archive containing over 4,000 music manuscripts and prints.

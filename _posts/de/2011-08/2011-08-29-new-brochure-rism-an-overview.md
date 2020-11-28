@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die Broschüre RISM – Kurzporträt wurde vollständig überarbeitet und ist im Juli 2011 pünktlich zur IAML-Tagung in Dublin neu aufgelegt worden.
 
 Dieses Kurzporträt soll das RISM als Gemeinschaftsprojekt repräsentieren. Es informiert über Ziele und Aufgaben sowie die wichtigsten Vorhaben des RISM. Es nennt auch die speziellen Serviceleistungen, die die RISM-Zentralredaktion den teilnehmenden internationalen Arbeitsgruppen, den die Quellen besitzenden Bibliotheken und dem interessierten Fachpublikum bietet.

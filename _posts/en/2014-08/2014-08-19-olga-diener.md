@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Who was Olga Diener?
 
 The RISM database contains [236 works by Swiss composer Olga Diener](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=olga+diener){:target="_blank"} (1890-1963), most in her own hand, all held by the Swiss National Library (CH-BEl). Many of the pieces are either for string quartet or piano.
@@ -33,6 +32,5 @@ There is no reference to her in the web resource [Musik und Gender im Internet](
 With her musical works all in one place, this would be the perfect opportunity for someone to dedicate some musicological energy to her legacy. Who wants to take up this challenge?
 
 Photo source: [Nachlass Olga Diener](http://ead.nb.admin.ch/html/diener.html){:target="_blank"}, Schweizer Nationalbibliothek zu Bern
-
 
 

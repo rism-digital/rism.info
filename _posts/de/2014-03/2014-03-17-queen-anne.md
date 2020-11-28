@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Angeregt durch eine [Blog-Serie der Nationalbibliothek der Niederlande](https://www.kb.nl/blogs/nederlandse-poezie/gedichten-van-a-tot-z-annabel){:target="_blank"}, möchten wir Sie in diesem Jahr einladen, uns auf einer alphabetische Reise durch die reichen und vielfältigen Schätze zu begleiten, die Sie in der RISM-Datenbank erwarten. Das ganze Jahr über präsentieren wir Ihnen etwas Ausgefallenes von über 860.000 Quellen der RISM-Datenbank, die etwa auch 80.000 Personennamen und 13.000 Institutionen enthält.
 
 Wir beginnen mit Queen Anne von Großbritannien (1665–1714), die im August vor 300 Jahren starb. Während ihrer Regierungszeit (1702–1714) wurden Schottland und England vereinigt und das Gebiet wurde als Großbritannien bekannt. Eine kürzlich erschienene [Biografie über Queen Anne](http://books.google.de/books?id=ZsmNffLx1OEC&lpg=PP1&dq=Queen%20Anne%3A%20The%20Politics%20of%20Passion&hl=de&pg=PP1#v=onepage&q&f=false){:target="_blank"} von Anne Somerset beschreibt das typische Leben bei Hofe des frühen 18. Jahrhunderts, das die Königin erlebt haben wird: jährliche Geburtstagsbälle, Ballette und Spiele sowie Darbietungen von gastierenden Musikern. Georg Friedrich Händel profitierte von einer Pension über £ 200 durch sie.
@@ -37,9 +36,7 @@ Um Musikquellen im RISM Online-Katalog zu finden, die in Zusammenhang mit Queen 
 Nachfolgend sehen Sie eine Aufführung von dem ersten Alt-Solo aus Händels Geburtstagsode für Queen Anne von 1714 (komponiert 1713), ihrem letzten Geburtstag. Es handelt sich um "Eternal source of light divine" ([HWV 74; Autograph in der British Library](http://opac.rism.info/search?documentid=804002342){:target="_blank"}) mit Kathleen Battle und Wynton Marsalis.
 
 
-
 <iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/2MuCCbg0k_0" frameborder="0" allowfullscreen></iframe>
-
 
 
 Sources:

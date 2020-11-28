@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 We are pleased to present the results of the RISM catalog survey, available on the RISM Survey page:
 
 [The RISM Online User Survey: Report](/community/survey-2014-2015.html#c3127) (May 2016; also available in German)
@@ -25,6 +24,5 @@ We learned more about who you are, dear catalog users, and what your experiences
 We would like to thank everyone who took the time to fill out the survey. If you ever have any questions or comments about RISM or this survey, please do not hesitate to get in touch with us: [contact@rism.info](mailto:contact@rism.info).
 
 _Image: Recueil d'Airs sérieux et à boire de différents auteurs_, Chez Christophe Ballard (A Paris), 1713, p.20. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}. RISM B/II: p.313.
-
 
 

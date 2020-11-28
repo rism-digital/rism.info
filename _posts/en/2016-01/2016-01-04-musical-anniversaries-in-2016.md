@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Happy New Year!
 
 Once again, the new year brings us many opportunities to celebrate musicians who have big (sometimes very big) birthdays and remember those who have died. We've found over 800 people in the RISM database who will have their semicentennials, centennials, and various combinations thereof in 2016. These include not only composers but also librettists, performers, dedicatees, and people who are in other ways related to a source.

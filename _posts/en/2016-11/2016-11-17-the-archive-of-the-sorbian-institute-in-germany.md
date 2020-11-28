@@ -11,7 +11,6 @@ email: bresan@serbski-institut.de
 author: Annett Bresan
 ---
 
-
 _The following has reached us from Annett Bresan:_
 
 **Sorbisches Kulturarchiv / Sorbische Zentralbibliothek am Sorbischen Institut Bautzen**
@@ -33,10 +32,8 @@ _"Rjana Łužica" (Beautiful Lausitz), the present-day Sorbian hymn. Music by Ko
 [siglum: D-BAUscb](https://opac.rism.info/search?View=rism&siglum=D-BAUscb){:target="_blank"}
 
 
-
 [bresan@serbski-institut.de](mailto:bresan@serbski-institut.de) ![3 Sonatinen für Geige und Klavier](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_10J_Kocor_003.jpg)
 _Excerpt from 3 Sonatinen für Geige und Klavier (SKA, ZM XVIII 10 J)_
-
 
 
 ![Podlěćo](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
@@ -47,6 +44,5 @@ _Excerpt from "Podlěćo" (Early Summer) (SKA, ZM XVIII 6 E)_
 Mětšk, Frido: _K. A._ _Kocorowe zawostajenstwo w Serbskim kulturnym archiwje_ (The K. A. Kocor Collection in the Sorbisches Kulturarchiv), Budyšin 1971.
 
 Sorbisches Kulturarchiv, [www.serbski-institut.de/de/Archiv/](http://www.serbski-institut.de/de/Archiv/)
-
 
 

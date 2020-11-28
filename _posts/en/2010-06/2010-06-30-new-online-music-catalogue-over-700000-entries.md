@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **The new catalogue of the International Inventory of Musical Sources (RISM) provides insight into treasures of music history largely inaccessible until now**
 
 A new music catalogue has been freely available online since June 2010. This database offers around 700,000 sources, mainly in manuscript, catalogued in detail according to academic criteria. The manuscripts are currently housed in hundreds of libraries and archives around the world. They pass down to later generations the musical works of 30,000 composers.

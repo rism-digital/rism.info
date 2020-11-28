@@ -11,7 +11,6 @@ email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---
 
-
 _Der folgende Beitrag stammt von Barbara Wiermann und erschien zuerst im [SLUB Dresden Blog](https://blog.slub-dresden.de/beitrag/2018/11/18/von-dresden-nach-moskau-und-zurueck-kriegsbedingt-verlagerte-werke-aus-der-slub-werden-digitalisier/){:target="_blank"} der Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden am 18. November 2018 ([CC-BY](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}):_
 
 Hochkarätige Konzerte, Ausstellungen, ein Jazz-Festival, Lesungen, Diskussionen und Kongresse - beim International Cultural Forum in Sankt Petersburg sind an diesem Wochenende tausende Kulturschaffende aus aller Welt und prominente Vertreter aus Wirtschaft und Politik versammelt. Mit dabei: die SLUB. Generaldirektor Achim Bonte und Vadim V. Duda, Generaldirektor der Russischen Staatsbibliothek Moskau, haben im Rahmen des Forums einen wegweisenden Kooperationsvertrag unterzeichnet. Erstmals werden dadurch kriegsbedingt verlagerte Dresdner Bibliotheksbestände digital allgemein zugänglich.

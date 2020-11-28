@@ -11,7 +11,6 @@ email: jennifer.ward@rism.info
 author: Jennifer Ward
 ---
 
-
 Ferdinand Hiller (October 24, 1811 – May 10, 1885) was born only two days after Franz Liszt (October 22, 1811 – July 31, 1886). Since Hiller is from Frankfurt am Main, maintained contact with his hometown throughout his life, and because his musical _Nachlass_ is housed at the university library, an exhibit in his honor has been set up. Its contents and structure were developed by professors and students from the Institute for Musicology at the University of Frankfurt. The exhibit **Ferdinand Hiller (1811-1885) aus Frankfurt am Main** will be on display from October 26 to November 30, 2011 on the third floor of the university library (Bockenheimer Landstraße 134-138). A digital version of the exhibit is [available online](http://www.ub.uni-frankfurt.de/musik/hiller_jubilaeum.html){:target="_blank"}.
 
 In addition, an international symposium in honor of Hiller called [**Ferdinand Hiller (1811-1885): Komponist - Interpret - Musikvermittler**](http://www.hfmdk-frankfurt.info/globales/aktuelles/aktuelles.html){:target="_blank"} will take place from 27-29 October 2011 at the Frankfurt University of Music and Performing Arts and the Cologne University of Music. Furthermore, there are numerous concerts as well as several radio broadcasts with music to celebrate Hiller.

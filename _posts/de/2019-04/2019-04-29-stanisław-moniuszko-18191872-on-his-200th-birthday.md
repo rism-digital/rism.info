@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am 5. Mai 2019 jährt sich der Geburtstag Stanisław Moniuszkos zum 200. Mal. Als Komponist gilt er als ein Begründer der polnischen Musik in einer Zeit, als der polnische Staat schon lange nicht mehr existierte. Geboren wurde er in Ubiel in der Nähe von Minsk als Angehöriger des polnischen Kleinadels. Bereits als Kind erhielt Moniuszko privaten Musikunterricht in Warschau bei Karl August Freyer. Er studierte von 1837-1839 in Berlin an der Akademie der Künste Komposition bei Carl Friedrich Rungenhagen, wurde im Dirigieren unterwiesen und hatte erste Erfolge als Liederkomponist. 1839 ging er nach Vilnius, heiratete dort und erhielt eine Stelle als Organist. Darüber hinaus organisierte Moniuszko dort eine Reihe von Konzerten, in denen er als Dirigent und Instrumentalist mitwirkte.
 
 Ab 1840 intensivierte sich Moniuszkos kompositorische Tätigkeit. Er schuf eine Vielzahl polnischer Lieder und eine Reihe von Kantaten. Als „Vater der polnischen Nationaloper“ komponierte er kontinuierlich Werke für die Bühne. Seine erste große Oper war _Halka_. Die erste Version in zwei Akten hatte ihre konzertante Uraufführung in Vilnius am 1. Januar 1848 durch den Komponisten. Die zweite Version in vier Akten exakt zehn Jahre später in Warschau.

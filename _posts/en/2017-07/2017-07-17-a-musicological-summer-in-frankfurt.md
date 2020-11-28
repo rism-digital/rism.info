@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Vivian Tompkins
 ---
 
-
 _Our intern in the summer of 2017 was Vivian Tompkins, and what follows is a report of her experiences:_
 
 Musicology, music librarianship, and German language study are the three main interests that I discovered in the course of my undergraduate career, so it was thrilling for me to find out during my final semester of college that I would be able to undertake an internship at the [RISM Central Office](/organization/rism-zentralredaktion.html#c34) in Frankfurt. Such an internship was the perfect opportunity to combine my academic interests. This summer I spent a total of four weeks at the Central Office, where the staff helped me to learn more about the work of RISM and about the international community of music libraries.
@@ -24,7 +23,6 @@ As an American student, I particularly enjoyed visiting seminars and other class
 
 ![Hindemith Kuhhirtenturm](http://rism.info/resources-old-website/news/Tompkins_Bericht_Hindemith_1_378x504.jpg)
 _The [Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} in Frankfurt, where Hindemith lived from 1923 to 1927_
-
 
 
 ![Printed edition at Archiv Frau und Musik](http://rism.info/resources-old-website/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)

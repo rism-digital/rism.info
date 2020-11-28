@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Fünfzehn Musikwissenschaftler aus Institutionen auf der ganzen Welt haben sich zusammengetan, um zu argumentieren, dass die Sängerin und Songwriterin Katy Perry zu Unrecht wegen Urheberrechtsverletzung verurteilt wurde. Was sind ihre Beweise? Musik, die u. a. in der RISM-Datenbank gefunden wurde.
 
 2019 wurde Perry zur Zahlung von 2,8 Millionen Dollar verurteilt, als eine [Jury sie für schuldig](https://www.nytimes.com/2019/07/29/arts/music/katy-perry-dark-horse-copyright.html){:target="_blank"} befand, eine Ostinato-Melodie in ihrem Song „Dark Horse" verwendet zu haben, die angeblich ohne Erlaubnis aus dem Song „Joyful Noise" des Rappers Flame stammt. Die Musikwissenschaftler, die sich selbst Amici-Musikwissenschaftler nennen, argumentieren in einem [Schriftsatz von amicus curiae](https://www.digitalmusicnews.com/wp-content/uploads/2020/01/Katy_Perry_Flame_514_Amici_Brief_Filed.pdf){:target="_blank"}, der am 9. Januar 2020 beim U. S. District Court, Central District of California eingereicht wurde, dass es dem Ostinato an Originalität in der Tonfolge, dem Rhythmus, der Klangfarbe und der Phrasenlänge mangelt und es daher nicht durch das Urheberrecht geschützt ist.
@@ -31,8 +30,6 @@ Unten können Sie sich die Lieder von Katy Perry und Flame anhören. Sie sind au
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCcW-guAs_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 

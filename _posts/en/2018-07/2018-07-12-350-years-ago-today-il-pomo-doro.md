@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 On this day 350 years ago, the opera _Il pomo d'oro_ (The Golden Apple) premiered in Vienna. The first performance of this opera, with music by Antonio Cesti (1623-1669) after a libretto by Francesco Sbarra (1611-1668), was originally intended for the wedding celebrations of Holy Roman Emperor Leopold I (1640-1705) with Margaret Theresa of Spain (1651-1673) in 1666 but the performance was delayed by two years.
 
 In essence, the libretto is based on the Judgment of Paris story from Greek mythology: Paris, the son of the Trojan king Priam, is to pass judgment on which of the three goddesses (Venus, Athena, and Juno in the opera) is the most beautiful and should thus receive the golden apple. Sbarra and Cesti add numerous subplots and in the end Paris awards the apple to Margaret Theresa of Spain. Due to its length, the first performance was spread over two days. In total, the spectacle lasted ten hours. No less demanding are the logistics. The cast is almost 50 roles strong, there are a total of 23 scene changes, and the stage technology required extremely elaborate machinery.
@@ -23,6 +22,5 @@ The ballets are by Johann Heinrich Schmelzer. Copies can be found in the Czech c
 Some of the sets were designed by Ludovico Ottavio Burnacini (1636-1707), including the underworld scene in the image above, and can be viewed on the website of the [Theatermuseum in Vienna](https://www.theatermuseum.at/onlinesammlung/?query=all_persons%3AAntonio%20Cesti){:target="_blank"}.
 
 _Image_: Lodovico Ottavio Burnacini, engraved by Matthäus Küsel: Stage set for the underworld scene in Antonio Cesti's opera _Il pomo d'oro,_ ca. 1666, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Wirgeben heute einen Beitrag unserer Kollegen vom [MusiCB3 Blog](https://musicb3.wordpress.com/2016/02/19/the-dating-game/){:target="_blank"} der Cambridge University ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}) wieder:_
 
 Was? Ist MusiCB3 verrückt geworden? ZWEI Beiträge zum [Valentinstag](https://musicb3.wordpress.com/2016/02/12/valentines-day-at-musicb3/){:target="_blank"} in diesem Jahr? Eigentlich nein. Hier geht es um ein sehr wichtiges Thema – die Datierung gedruckter Musik. Ich weiß, dass das nicht sonderlich aufregend klingt, aber üben Sie Nachsicht mit mir ...

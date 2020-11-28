@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 Klaus Keil and Jennifer Ward from the RISM Zentralredaktion and Wolf-Dieter Seiffert, the president of the Association, attended the [IAML/IMS Congress in New York](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"} from June 21 to 26, 2015. We were happy to see our colleagues from around the world and hear about their projects. The theme of this year's congress was Music Research in the Digital Age.
-
 
 
 The week kicked off with a beautiful evening cruise around the island of Manhattan, which was in honor of [RILM](http://rilm.org/){:target="_blank"}'s 50th anniversary. The cruise was co-sponsored by the [R projects](http://www.r-musicprojects.org/){:target="_blank"}.

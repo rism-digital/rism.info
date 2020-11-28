@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 Wir freuen uns, Ihnen mitteilen zu können, dass die CD-ROM zur Serie A/I erschienen ist. Damit liegt die komplette Serie – veröffentlicht von 1971 bis 2003 in 14 Buchbänden – erstmals als Datenbank vor.
-
 
 
 Näheres siehe auf der Website des [Bärenreiter-Verlages](https://www.baerenreiter.com/aktuelles/news/article/100000-quellenverweise-auf-einer-scheibe/){:target="_blank"}.

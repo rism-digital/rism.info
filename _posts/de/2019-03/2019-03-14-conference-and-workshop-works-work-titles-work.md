@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Termin: 9. - 11. Mai 2019
 Ort: Akademie der Wissenschaften und der Literatur
 Geschwister-Scholl-Str. 2
@@ -20,7 +19,6 @@ Geschwister-Scholl-Str. 2
 Anmeldung: [Anmeldeformular](https://goo.gl/forms/PcmsxMznK8EWFaFV2)
 
 _Die Konferenz ist kostenfrei und öffentlich. Wir bitten um Anmeldung bis 5. April 2019._
-
 
 
 **Konferenz mit Workshop:**  **Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM**
@@ -34,6 +32,5 @@ Dennoch sind die Werktitel im Bibliotheksbereich ein wichtiges Hilfsmittel, mit 
 Die Konferenz mit Workshop soll die unterschiedlichen Standpunkte und Erwartungen von Musikwissenschaftlern und Bibliothekaren zur Sprache bringen und Lösungsansätze für RISM als Projekt zwischen beiden Seiten erarbeiten.
 
 Weitere Information befinden sich auf der [Konferenz-Webseite](/de/publikationen/werkebene-2019.html).
-
 
 

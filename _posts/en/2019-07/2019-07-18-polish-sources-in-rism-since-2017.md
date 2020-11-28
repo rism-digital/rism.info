@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The introduction of the RISM-specific Muscat cataloging program at the end of 2016 was met with great interest in the Polish working groups and cataloging projects. Since then, many new contributors have been trained and more than 5,000 additional records from Poland have been added to the RISM database. New collaborative projects have been started, such as with the Chopin Institute and the RISM working group at Poznań University.
 
 Projects at the Chopin Institute:
@@ -52,7 +51,5 @@ The working group at the Warsaw University Library has been working with RISM fo
 It is always worth looking at the RISM catalog from time to time to find the latest from these projects. Many collections are still in the process of being cataloged.
 
 
-
 _Image_: Poland in the European Union on the globe via [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg/1200px-Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg.png){:target="_blank"}
-
 

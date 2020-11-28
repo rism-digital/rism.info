@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 The RISM online catalog offers over 18,000 links to digitized music: scores, parts, and printed editions from all around the world. This ease of access to the sources is one of the most popular features of the catalog.
 
 Current RISM contributors add links to digital objects (when available) when creating new RISM records, but there are thousands of older records without links. We at the Central Office try to link to digital collections when we hear about them, but invariably we miss some.
@@ -19,7 +18,6 @@ Current RISM contributors add links to digital objects (when available) when cre
 Help us add links to RISM records and broaden exposure to your institution's holdings! Has your institution undertaken a digital project in recent years? Are the digital surrogates linked to their corresponding RISM records? To check, start an [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}, select the field **Library siglum** , and enter your institution's siglum. (To find the siglum, search the [Sigla Database](http://www.rism.info/en/sigla.html){:target="_blank"}). If there are digital scans linked in the records, you will find a link in the filters under **Narrow results** , then **Digitized music** (see image).
 
 If RISM hasn't linked to your scans yet, please alert us to your digital collections so we can do so. For items in the RISM database, send us an Excel spreadsheet of RISM numbers with a permalink to the digital copy (either a direct link to the scan or a bibliographic record that contains a link to the scan):
-
 
 
 |  |
@@ -71,13 +69,11 @@ If RISM hasn't linked to your scans yet, please alert us to your digital collect
 | 00000990000383 | [http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078){:target="_blank"} |
 | 00000993103826 | [http://imslp.org/wiki/Special:ReverseLookup/307092](http://imslp.org/wiki/Special:ReverseLookup/307092){:target="_blank"} |
 
-
 The RISM database contains all of series [A/II](/publications.html#c36) (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36) series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619) (printed anthologies).
 
 But wait, there's more! We are planning to add the remainder of **B/I** and all of **B/II** (through the eighteenth century) to the online catalog in the near future, so while you're at it please send us links to those items as well, but in a separate spreadsheet.
 
 For items from B/I that are not in the online catalog, please make sure to send us the B/I number (a year plus a superscript number) and a permalink. Type the superscript number as a vertical pipe (|) followed by the number in normal type:
-
 
 
 | |
@@ -109,7 +105,6 @@ For items from B/I that are not in the online catalog, please make sure to send 
 
 |
 
-
 Items from B/II do not have unique reference numbers. For these, please indicate the title, page number, and permalink:
 
 | |
@@ -139,7 +134,6 @@ Recueil d'Airs sérieux et à boire de différents auteurs ; pour l'année 1713
 [http://gallica.bnf.fr/ark:/12148/bpt6k856381j#](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}
 
 |
-
 
 Please note:
 

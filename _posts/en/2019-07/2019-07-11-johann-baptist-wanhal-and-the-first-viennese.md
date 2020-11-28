@@ -11,7 +11,6 @@ email: ''
 author: Paul Sommerfeld
 ---
 
-
 _The following post originally appeared on the ["In the Muse" blog from the Library of Congress](https://blogs.loc.gov/music/2019/05/johann-baptist-wanhal-and-the-first-viennese-school){:target="_blank"} and is by Paul Sommerfeld, who is currently updating the holdings of his library's rich collection of printed music in RISM._
 
 The mention of late-eighteenth century Vienna frequently conjures thoughts of well-known composers like Mozart, Haydn, and Beethoven. But since I joined a project reporting pre-1800 imprints and manuscripts to RISM (Répertoire International des Sources Musicales, an open-access database that lets you see which libraries have a certain published score or unique manuscript), I would like to add a fourth name to that list: Johann Baptist Wanhal (1739-1813).
@@ -34,7 +33,6 @@ The images in this blog post [all come from scores recently reported to RISM](ht
 
 [1] Paul Bryan, Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment (Stuyvesant, NY: Pendragon, 1997), xix.
 
-
 _Images, top to bottom:_
 
 1: Johann Baptist Wanhal. Oil Painting by Joseph Willibrod Mähler in possession of the Gesellschaft der Musikfreunde, Vienna. In [_Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment_](https://lccn.loc.gov/97025760).
@@ -44,6 +42,5 @@ _Images, top to bottom:_
 3: Artaria was one of the earliest Viennese publishers to issue Wanhal’s music. Johann Baptist Wanhal, _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
 
 4: The first page of an especially exquisite Adagio movement in a piano sonata by Wanhal, published in _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
-
 
 

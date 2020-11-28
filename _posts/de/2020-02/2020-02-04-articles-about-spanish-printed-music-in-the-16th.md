@@ -11,9 +11,7 @@ email: ''
 author: Carmen Álvarez
 ---
 
-
 _Spanische Version s.u. (Dank an Carmen Álvarez Escandell)_
-
 
 
 Kürzlich sind wir bei RISM auf interessante Artikel zu spanischen Musikdrucken des 16. Jahrhunderts gestoßen:

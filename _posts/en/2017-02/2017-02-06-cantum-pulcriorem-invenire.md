@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The RISM online catalog has only a few pieces that dip into the Medieval period, but some of our users might be interested in the **[Cantum Pulcriorem Invenire](http://catalogue.conductus.ac.uk/){:target="_blank"}** (CPI-I) database of 12th- and 13th-century conductus, from the University of Southampton.
 
 CPI-I focuses on the poetry of this kind of song. Since text is front and center, there are a variety of ways to search it, including by form, number of stanzas, lines per stanza, language, poet, and the stanza rhyme structure. Musical aspects can be searched too, such as composer, notation, and format.

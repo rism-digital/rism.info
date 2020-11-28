@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"}, a co-sponsor of RISM, held its annual meeting in Antwerp, Belgium from 13-18 July 2014. Members of three national groups presented during the RISM Open Session.
 
 **Marie Cornaz (RISM Belgium, Bibliothèque royale de Belgique, Brussels)**
@@ -34,7 +33,6 @@ André Guerra Cotta traveled to Belgium just for IAML and reported on a conferen
 Below is Father Hartmann's _Coro trionfale_ for organ, Felix Bräuer, organ.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/WAFreDYxAUw" frameborder="0" allowfullscreen></iframe>
-
 
 
 Image credit: [IAML Antwerp 2014](http://www.libraryconservatoryantwerp.be/iaml2014/index.php){:target="_blank"}

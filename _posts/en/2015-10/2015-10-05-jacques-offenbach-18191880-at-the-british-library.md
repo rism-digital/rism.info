@@ -11,11 +11,9 @@ email: ''
 author: Susan Halstead
 ---
 
-
 _Jacques Offenbach_ _died 135 years ago today. To mark the occasion we're bringing you this post by Susan Halstead, which originally appeared on the British Library's [European Studies Blog](http://britishlibrary.typepad.co.uk/european/2014/12/a-dish-fit-for-the-gods.html){:target="_blank"} ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}). The RISM database has [125 works relating to Offenbach](https://opac.rism.info/search?View=rism&author=Jacques+Offenbach){:target="_blank"}._
 
 ## A dish fit for the gods: 150 years of Offenbach’s ‘La belle Hélène’
-
 
 
 When in the 1690s the Académie Française was rocked by the so-called[_Querelle des anciens et des modernes_](http://en.wikipedia.org/wiki/Quarrel_of_the_Ancients_and_the_Moderns%20 "Querelle des anciens et des modernes")between two factions headed by Nicolas Boileau and Charles Perrault respectively, history might have regarded it as a short-lived conflict unlikely to have much lasting influence on the development of French culture. However, in a society with a long tradition of respect for classical learning and its place within the educational system, it was never completely extinguished, and continued to flare up in the most unlikely places – such as the Paris comic opera stage.
@@ -30,7 +28,6 @@ Inspired by this success, Offenbach proceeded to tackle another classical subjec
 _The chorus which accompanies Orestes’ entrance, from Jacques Offenbach,La belle Hélène, autograph score, 1864. Zweig MS 72_
 
 Most startlingly of all, perhaps, Orestes makes his entrance as a precocious playboy, flanked by two good-time girls, Parthénis and Léoena, dancing in to the refrain ‘Tsing-la-la! Tsing-la-la! Oyé Kephalé, Kephalé oh-la-la!’ and intent on emptying his father’s coffers in the pursuit of pleasure. The role is sung by a soprano, and its creator, the all-too-aptly-named Léa Silly, proved a major headache to Offenbach. In a situation reminiscent of Mozart’s_Der Schauspieldirektor_(The Impresario), a skit involving a hapless director and his two warring prima donnas which Offenbach had staged some years earlier, she antagonized the diva Hortense Schneider, a long-term star of the company who was cast as Helen, by upstaging and mimicking her, dancing a cancan behind her back as she sang a major aria, and so enraging Schneider that she threatened to quit not only the production but Paris altogether.
-
 
 
 ![Schneider](http://rism.info/resources-old-website/news/Offenbach_Schneider.jpg)

@@ -11,7 +11,6 @@ email: richard.sutcliffe@ehb.be
 author: Richard Sutcliffe
 ---
 
-
 _This year marks the 150th anniversary of the death of Belgian composer and violinist [Charles de Bériot](https://opac.rism.info/search?View=rism&author=Charles+de+B%C3%A9riot){:target="_blank"}. We bring you an excerpt from a piece by Richard Sutcliffe (Koninklijk Conservatorium Brussel) and invite you to read the post in its entirety at his [19c Belgian Music Blog](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}._
 
 Charles de Bériot, violinist, composer, teacher, philosopher, artist, died on either 8 or 9 April 1870. This sesquicentennial has sadly been eclipsed by the 250th anniversary of Beethoven’s birth, both of which have been recently pushed aside due to the worldwide Covid-19 epidemic. While most of us are currently spending our days at home, I wanted to draw attention to this remarkable musician who made an enormous contribution to the history of violin playing. His significant catalogue of compositions and pedagogical works (somewhere between 150 and 200 works), most importantly the five volumes of his violin method, have lost popularity with the passage of time and sadly most young violinists today only know his name in association with the handful of pieces which have been included in the Suzuki Violin Method.

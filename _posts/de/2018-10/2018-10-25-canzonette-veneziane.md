@@ -11,11 +11,9 @@ email: rma2@cam.ac.uk
 author: Richard Andrewes
 ---
 
-
 _Dieser Beitrag erschien zuerst im [MusiCB3 Blog](https://musicb3.wordpress.com/2018/07/13/canzonette-veneziane/){:target="_blank"} der Cambridge University (CC-BY):_
 
 Im vergangenen Oktober brachte der Musikantiquar Travis & Emery seinen Musikkatalog _Sarum no. 58_ heraus. Ein Punkt fiel mir sofort auf, weil ich im letzten Jahr die online-Einträge für zwei Sammlungen von venezianischen Volksliedern – also Lieder im venezianischen Dialekt - aktualisiert hatte.
-
 
 
 |
@@ -33,7 +31,6 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 |
 
 £500
-
 
 
 ****
@@ -60,7 +57,6 @@ Nachdem es ankam, erhielt es die Signatur MS.Add.10246, wurde vollständig katal
 
 Der Vergleich bestätigt, dass jeder Eintrag in unserem Manuskript auch in der Handschrift des British Museum enthalten ist (Add.31758) und dass die Musik praktisch identisch ist. Unser Manuskript trägt den Titel "Canzonette veneziane e Canoni", das der British Library hat ein Titelblatt "Ariette veneziane e duetti". Unser Manuskript besteht aus 12 Cazonette/Ariette (für Stimme und unbezifferten Bass) und sechs Duette (für zwei Stimmen entweder mit oder ohne unbezifferten Bass), gefolgt von zwei Opernarien im Klavierauszug (Stimme und Bass) ("Quando vi sara gente" und "Una piccolo bambinella"), während die British Library die gleichen 12 Arietten hat, gefolgt von 12 Duetten und Liedern, deren erste sechs Duette die gleichen sind wie in Cambridge. Es folgen zwei Versionen (reduzierte Partitur auf zwei Notensystemen für Alt in E-Dur und eine Partitur für Alt und Streichorchester in A-Dur) von Cambridges erster Opernarie ("Quando vi sara gente", das für Tenor und Bass in A-Dur steht).
 
-
 ![Book cover](http://rism.info/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
 
 Keine der Arietten oder Duette in Add.31758 sind zugeschreiben außer das letzte Werk. Die Partitur der Arie “Quando vi sara gente” ist überschrieben “In S. Moise 1763 – Del Sigr. Mattia Vento”.
@@ -84,6 +80,5 @@ Obwohl Galuppis Musik populär und in ganz Europa verbreitet war, ist es unwahrs
 Richard Andrewes
 
 _\*Anmerkung von RISM: Die Zuschreibung wurde in den RISM-Datensätzen geändert._
-
 
 

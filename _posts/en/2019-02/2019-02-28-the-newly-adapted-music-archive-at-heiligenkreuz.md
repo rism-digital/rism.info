@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
 
-
 _We received this post from Father Roman Nägele (RISM Austria, [Heiligenkreuz Abbey](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 Music plays a considerable role in monastic everyday life. Not a day goes by without us coming into contact with music here.
@@ -28,6 +27,5 @@ In the course of the various activities in the music archive, it became necessar
 
 Image: Gramaphone from 1937
 ©Zisterzienserabtei Stift Heiligenkreuz - Kustodiat
-
 
 

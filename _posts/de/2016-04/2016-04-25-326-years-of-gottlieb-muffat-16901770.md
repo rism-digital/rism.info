@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am heutigen 25. April jährt sich die Taufe von Gottlieb Muffat (1690-1770) zum 326. Mal. _The Famously Little-Known Gottlieb Muffat_ ist der Titel eines Aufsatzes von Alison J. Dunlop, der treffend den Widerspruch zwischen der Bekanntheit seines Werkes einerseits und den in weiten Teilen unklaren Lebensumständen andererseits auf den Punkt bringt (_[Bach Perspectives](http://www.jstor.org/stable/10.5406/j.ctt3fh4gn){:target="_blank"}_ 9 (2013), S. 77-119).
 
 Selbst wer mit dem Werk von Gottlieb Muffat nicht so vertraut ist, könnte die ein oder andere Melodie wiedererkennen: Denn Georg Friedrich Händel hat in zahlreichen Werken (unter anderem in den Concerti grossi op.6 und einigen Oratorien) thematisches Material Muffats wiederverwertet.
@@ -24,7 +23,6 @@ Hier hören Sie die _Componimenti musicali_ interpretiert von Naoko Akutagawa.
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874&amp;start=1868">
 <param name="allowscriptaccess" value="always">
 <embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
-
 
 
 _Abbildung_: Titelseite der _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitalisiert und verfügbar über die [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.

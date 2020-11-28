@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Unter den zahlreichen Opernpremieren des Monats Mai haben wir fünf herausgesucht, die eher selten zu hören sind und zu denen bei RISM auch Autographe nachgewiesen sind.
 
 Vincenzo Bellini: _Adelson e Salvini_
@@ -33,7 +32,6 @@ Teilautograph in Budapest (RISM ID no.[530005260](https://opac.rism.info/search?
 Der Anlass für die Entstehung der Oper _Orlando paladino_ war ein Besuch des russischen Großfürsten im Schloss Esterházy im Jahr 1782, der allerdings kurzfristig abgesagt wurde, ein Teilautograph liegt heute in der Nationalbibliohtek in Budapest (Országos Széchényi Könyvtár, H-Bn). Das Duett "Quel tuo visetto amabile" (siehe Abbildung) wurde 1786 in Vicente Martin y Solers Oper _Il burbero di buon cuore_ eingelegt.
 
 
-
 Niccolò Jommelli: _Vologeso_
 16. Mai, [Oper Stuttgart](http://www.oper-stuttgart.de/spielplan/2015-2016/berenike/){:target="_blank"}
 Fragliches Autograph des Rezitativs "Berenice ove sei" und der Arie "Ombra cara del dolce mio sposo" in Mantova, Italien (RISM ID no. [850002145](https://opac.rism.info/search?id=850002145){:target="_blank"})
@@ -47,6 +45,5 @@ Autographe Skizzen in München (RISM ID no. [456082202](https://opac.rism.info/s
 Eine sehr umfangreiche Sammlung autographer Skizzen zur Oper _Sly_ von Ermanno Wolf-Ferrari befindet sich heute in der Bayerischen Staatsbibliothek in München (D-Mbs). Die größeren Abweichungen gegenüber der endgültigen Fassung erlauben einen Einblick in den Entstehungsprozess.
 
 _Abbildung_: Haydn, "Quel tuo visetto amabile." London, Edinburgh, Corri, Dussek & Co. Musikabteilung der New York Public Library for the Performing Arts (US-NYp), Drexel 4810.19.RISM A/I: [H 2573](https://opac.rism.info/search?id=00000990026737){:target="_blank"}. Via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:%22Quel_cor_umano_e_tenero%22_-_insertion_aria_composed_by_Joseph_Haydn.jpg){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: Bibliolore
 ---
 
-
 _The following first appeared in [Bibliolore – The RILM Blog](https://bibliolore.org/2019/05/20/michele-pesenti-complete-works/){:target="_blank"} and is reproduced here with kind permission:_
 
 In 2019 [A-R Editions](https://www.areditions.com/) published [_M__ichele Pesenti: Complete works_](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2){:target="_blank"}, a critical edition produced by an editorial team including a musicologist, a linguist, and a musicologist-performer.
@@ -27,8 +26,6 @@ Above, a page from an early edition of Pesenti’s [_Dal lecto me levava_](http:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xkJ-yTzmX6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 _Michele Pesenti is [in the RISM Catalog ca. 50 times](https://opac.rism.info/search?View=rism&author=Pesenti+Michele&Language=en){:target="_blank"}.The above image is from_ _Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504_ _([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
-
 
 

@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 _The following extremely important announcement has reached us from_ [_Henle Verlag_](http://www.henle.de/blog/en/2015/02/12/2582/){:target="_blank"} _and is published here with kind permission:_
-
 
 
 The new series **PianoPlus** is an ideal entry and re-access to the world of classical music, and likewise for all carnival enthusiasts and carnival grouches, who would like to make music with others.
@@ -28,7 +26,6 @@ This piece lends itself uniquely to the practice of the Rheinish pronunciation a
 
 **[Click for full size](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
 Excerpt from Ludwig van Beethoven "Eschte Fründe stonn zesamme" Posth. WoO 4711 (for English translation see below)_
-
 
 
 _Comments_
@@ -51,7 +48,6 @@ _Individual Comments_
 
 Cologne/Munich, Thursday before Shrove Tuesday 2015
 G. Henle Publishers
-
 
 **English translation of text:**
 

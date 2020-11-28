@@ -11,9 +11,7 @@ email: marcin.konik@gmail.com
 author: Marcin Konik
 ---
 
-
 _Marcin Konik (RISM Poland) has completed a project that investigated the music of the Benedictine Monastery in Staniątki, Poland (PL-STAb), resulting in [250 new records](https://opac.rism.info/search?View=rism&siglum=PL-STAb&Language=en){:target="_blank"} in the RISM database. The RISM records were entered by Ludmiła Sawicka. Here is a summary of a [newly published article](https://doi.org/10.5281/zenodo.846546){:target="_blank"} that reveals more about musical culture at this monastery:_
-
 
 
 **Music in the Convent Life of the St Adalbert's Abbey in Staniątki**
@@ -28,8 +26,6 @@ What remains an extremely interesting issue is the matter of the possible engage
 
 The article was written as part of a research project funded by Narodowe Centrum Nauki (National Science Centre Poland), grant no. 2011/03/D/HS2/01824.
 
-
 _Image_ : The Benedictine Monastery in Staniątki by Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
-
 
 

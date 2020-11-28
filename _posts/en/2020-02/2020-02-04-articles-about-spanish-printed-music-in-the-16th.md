@@ -11,7 +11,6 @@ email: ''
 author: Carmen Álvarez
 ---
 
-
 _Spanish below (thanks to Carmen Álvarez Escandell)_
 
 Recently, we at RISM have read three interesting articles about Spanish printed music in the 16th century:
@@ -41,9 +40,7 @@ All this new information is already available in our database, widening our know
 Image: Toledo 1572, in: Georg Braun; Frans Hogenberg: Civitates Orbis Terrarum, Beschreibung vnd Contrafactur der vornembster Stät der Welt, Band 1, Köln 1582; [VD16-B7188] [Universitätsbibliothek Heidelberg](http://diglit.ub.uni-heidelberg.de/diglit/braun1582bd1){:target="_blank"}
 
 
-
 \*\*\*\*\*
-
 
 
 Esta semana hemos leído en RISM cuatro interesantes artículos sobre música impresa española del siglo XVI:

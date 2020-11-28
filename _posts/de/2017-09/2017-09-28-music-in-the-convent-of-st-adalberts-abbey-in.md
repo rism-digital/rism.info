@@ -11,9 +11,7 @@ email: marcin.konik@gmail.com
 author: Marcin Konik
 ---
 
-
 _Marcin Konik (RISM Polen) hat ein Projekt zur Musikpflege im Benediktinerinnenkloster in Staniątki, Polen (PL-STAb)_ _abgeschlossen. Daraus resultieren [250 neue Einträge](https://opac.rism.info/search?View=rism&siglum=PL-STAb){:target="_blank"} in der RISM-Datenbank, die von Ludmiła Sawicka eingearbeitet wurden. Dies ist eine Zusammenfassung eines [neu veröffentlichten Aufsatzes](https://doi.org/10.5281/zenodo.846546){:target="_blank"}, der ausführlich über die Musikkultur an diesem Kloster berichtet:_
-
 
 
 **Musik im Klosterleben**  **der Abtei St. Adalbert in Staniątki**
@@ -28,8 +26,6 @@ Das Hauptanliegen des Aufsatzes ist es, anhand verschiedener Beispiele zu zeigen
 
 Der Artikel entstand im Rahmen des Forschungsprojekts Nr. 2011/03/D/HS2/01824 finanziert durch das Nationale Zentrum der Wissenschaften (Narodowe Centrum Nauki).
 
-
 _Abbildung_ : Die Benediktinerinnenabtei in Staniątki von Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
-
 
 

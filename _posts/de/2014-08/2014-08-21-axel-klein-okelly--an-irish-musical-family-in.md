@@ -15,11 +15,9 @@ Axel Klein, der uns bei unserem Frankfurter RISM-Konzert "[Ein Abend mit Musik a
 [O'Kelly - An Irish Musical Family in Nineteenth-Century France Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
 
 
-
 Axel Klein über sein Buch:
 
 "Ich beschreibe in meinem neuen Buch, wie vier Generationen einer irischen Musikerfamilie im Frankreich des 19. und frühen 20. Jahrhunderts ihren Weg gegangen sind, wie sie Karriere als Musiker und Komponisten machten und sich als Familie mehr und mehr in der französischen Gesellschaft integrierten. Es ist faszinierend zu sehen, wie Hoffnung und Enttäuschung, Erfolg und Misserfolg einander abwechselten, wie sich musikalisches Talent und Musikgeschmack entwickelten. Das Buch dokumentiert alle Familienmitglieder der O’Kellys mit vielen Illustrationen und vielen Musikbeispielen. Es ist nicht nur eine Studie über „Durchschnittskomponisten” in einer der europäischen Musikmetropolen, sondern auch über Identitäten, Anschauungen und Veränderungen, denen die Familie im Exil ausgesetzt war. Darüberhinaus widmet sich das Buch auch den Aspekten irischer und französischer Musikgeschichte."
-
 
 
 Der zweite Teil des Buches ist für unsere RISM-Mitarbeiter sicher von Interesse. Er beinhaltet den „O'Kelly Catalogue of Works (OKC)“. Die Werke aller fünf komponierenden Familienmitglieder sind dort gelistet. Informationen zur Besetzung der Stücke, zu ihrer Publikation, zu Aufführungen und Widmungen sind enthalten.

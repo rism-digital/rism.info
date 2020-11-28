@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Nach mehrjährigen Gesprächen und Verhandlungen mit dem [Istituto Centrale per il Catalogo unico delle Biblioteche Italiane](https://www.iccu.sbn.it/it/){:target="_blank"} (ICCU) und einer intensiven technischen Vorbereitungszeit sind Anfang 2019 mehr als 200.000 Datensätze aus der Datenbank [SBN Musica](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} zu handschriftlichen Musikquellen in die interne RISM-Datenbank übernommen worden. Die Einträge werden in einigen Punkten den RISM-Richtlinien entsprechend überarbeitet und nun nach und nach für den Online-Katalog freigeschaltet. Der RISM-Datensatz verlinkt dabei immer auf den originalen Katalogeintrag des SBN-OPAC.
 
 Auf die ersten veröffentlichten Titel möchten wir heute hinweisen. Darunter befinden sich kleine interessante Bestände wie [I-Rvcc](https://opac.rism.info/search?View=rism&siglum=I-Rvcc){:target="_blank"} (Roma, Archivio e Biblioteca del Nobile Collegio Chimico Farmaceutico (Universitas Aromatariorum Urbis)) mit sechs Einträgen oder [I-SGc](https://opac.rism.info/search?View=rism&siglum=I-SGc){:target="_blank"} (San Gimignano, Biblioteca Comunale) mit zwölf Nachweisen.
@@ -25,6 +24,5 @@ Unter den neuen Daten befinden sich auch viele Nachweise zu Werken von zeitgenö
 Mit dem Datenimport erhielt die RISM-Datenbank alleine 27.000 neue Personendatensätze! Deren Bearbeitung wird – ganz unabhängig von den Handschriften – einige Zeit in Anspruch nehmen. 4.600 davon wurden bereits bearbeitet.
 
 Nach dieser Erprobungsphase streben wir eine Freischaltung der Daten pro Bibliothek, vor allem auch von größeren Datenbeständen, an. Von den mehr als 86.000 Handschriftendatensätzen aus 98 italienischen Bibliotheken, die vor dem Datenimport in der RISM-Datenbank vorhanden waren, sind noch nicht alle in der Datenbank SBN Musica verzeichnet. Diese können im Rahmen der [Linked Open Data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} übernommen werden.
-
 
 

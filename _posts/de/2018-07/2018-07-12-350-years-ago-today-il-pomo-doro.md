@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Heute vor 350 Jahren feierte in Wien die Oper _Il pomo d‘oro_(Der goldene Apfel) Premiere. Die Uraufführung der Oper von Antonio Cesti (1623-1669) nach einem Libretto von Francesco Sbarra (1611-1668) war ursprünglich für die Hochzeitsfeierlichkeiten von Leopold I. (1640-1705) mit Margarita Theresa von Spanien (1651-1673) im Jahr 1666 vorgesehen, verzögerte sich aber um zwei Jahre.
 
 Im Kern basiert das Libretto auf dem Urteil des Paris aus der griechischen Mythologie: Der Sohn des trojanischen Königs Priamos soll das Urteil fällen, welche der drei Göttinnen (Aphrodite, Athene oder Hera) die Schönste ist und dieser den goldenen Apfel übergeben. Der Handlung wird bei Sbarra/Cesti um zahlreiche Stränge erweitert und schließlich überreicht Paris den Apfel an Margarita Theresa von Spanien. Aufgrund der Länge wurde die Aufführung auf zwei Tage verteilt: Insgesamt dauerte das Spektakel zehn Stunden. Beinahe fünfzig Rollen sind zu besetzen, es gibt insgesamt 23 Szenenwechsel und die Bühnentechnik erforderte eine äußerst aufwändige Maschinerie.
@@ -23,6 +22,5 @@ Die Ballette stammen von Johann Heinrich Schmelzer; Abschriften davon befinden s
 Einige Szenenbilder des von Ludovico Ottavio Burnacini (1636-1707) entworfenen Bühnenbildes kann man auf der Seite des[Theatermuseums in Wien](https://www.theatermuseum.at/onlinesammlung/?query=all_persons%3AAntonio%20Cesti){:target="_blank"}sehen.
 
 _Abbildung_: Lodovico Ottavio Burnacini, gestochen von Matthäus Küsel: Bühnenbild für die Unterwelt-Szene in Antonio Cestis Oper_Il pomo d'oro,_ ca. 1666, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
-
 
 

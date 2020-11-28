@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: Father Roman Nägele
 ---
 
-
 _We received this post from Father Roman Nägele (RISM Austria, [Heiligenkreuz Abbey](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 Ferdinand Rebay (1880 – 1953) was an Austrian composer, pianist, conductor, and piano teacher.
@@ -33,6 +32,5 @@ Many works can be heard as part of "Composer Portraits" concerts in Heiligenkreu
 A further portion of Rebay's compositions are housed at the Austrian National Library.
 
 His final resting place is in the Vienna Central Cemetery.
-
 
 

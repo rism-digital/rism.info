@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 ImRISM-Online-Katalogsind zur Zeit[über 1.052.000 Einträge](https://opac.rism.info/search?View=rism&q=*&Language=de){:target="_blank"}nachgewiesen. Zusammen mit den Normdaten für Personen (101.000 Datensätze), Körperschaften (63.000) und Sekundärliteratur (32.000) ist dies eine gewaltige Datenmenge!
 
 Alle Daten sind unter einerCreative Commons Lizenzfrei verfügbar als[linked open data](https://opac.rism.info/index.php?id=8&L=0&id=8){:target="_blank"}, aber wie genau kann man die Daten nutzen?
@@ -29,6 +28,5 @@ Die RISM-Daten sind nun als[open data und linked open data](https://opac.rism.in
 Sie können unsere Daten gerne für ähnliche (oder ganz andere) Projekte nutzen. Wenn Sie dies tun, würden wir gerne davon erfahren!
 
 _Abbildung: Ausschnitt aus den open data derBritish Library_
-
 
 

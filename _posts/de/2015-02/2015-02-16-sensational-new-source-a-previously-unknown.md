@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Die nachfolgende extrem wichtige Nachricht erreichte uns vom [](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/#more-4378){:target="_blank"}_[_Henle Verlag_](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/){:target="_blank"} _und wird hier mit freundlicher Genehmigung veröffentlicht:_
 
 Die neue Reihe **Am KlavierPlus** ist der ideale Einstieg in die Welt der klassischen Klaviermusik, besonders geeignet für alle Jecken und Nicht-Jecken, die gerne gemeinsam mit anderen Musik machen möchten.
@@ -23,9 +22,7 @@ Dieses Werk eröffnet somit unsere neue Reihe – selbstverständlich nach stren
 An diesem Stück lässt sich die rheinische Aussprache besonders gut üben, so wie es auch in vielen Werken Beethovens gefordert wird (vgl. Ludwig van Beethoven, 9. Sinfonie d-moll, op. 125, 4. Satz, T. 241 ff. „Fründe schöner Jöttterfunke“). Hierzu singe man lautstark mit. Auch den komplizierten Rhythmus sollte man beim Üben nicht vernachlässigen und in gleichmäßigen Viertelschlägen mitzählen.
 
 
-
 ![Excerpt from Ludwig van Beethoven](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg)
-
 
 
 **[Zum Vergrößern hier klicken](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
@@ -50,7 +47,6 @@ _Einzelbemerkungen_
 41–63 Klav o Nur teilweise ausgeschrieben. Ergänzt nach Parallelstelle.
 
 69–76 Klav u Nur teilweise ausgeschrieben. Ergänzt nach Parallelstelle.
-
 
 
 Köln/München, Wieverfastelovend 2015

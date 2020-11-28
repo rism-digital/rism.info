@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 This year marks the 250th birthday of Luigi Cherubini (14 September 1760, Florence – 15 March 1842, Paris). Luigi Cherubini was admired by his contemporaries, but it is rare nowadays to find his works on concert programmes or among the repertoires of the world’s opera houses. Cherubini dominated Parisian musical life for half a century; he was a successful operatic composer and for many years director of the Paris Conservatory. His significance as a composer rests principally on his achievement in the fields of opera and sacred music.
 
 Cherubini’s musical legacy contained many works in the form of autographs, manuscript copies or prints. It was an unusually complete portfolio which, at the instigation of Cherubini’s widow, found its way to the Royal Library of Berlin, the present-day State Library of Berlin (D-B), in 1878. As is well-known, the holdings of the library were transferred to various places for safekeeping during the Second World War. The sources connected with Cherubini, especially those works composed before 1794, went to the Biblioteka Jagiellońska (PL-Kj) in Krakow, where they are now once again available for researchers to study.

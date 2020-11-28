@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 RISM would like to announce the release of a new version of the [online catalog](http://opac.rism.info/){:target="_blank"}. The content is the same, but there is a new interface with features that will make it easier to find musical sources.
 
 
-
 New features include:
-
 
 
 -
@@ -49,7 +46,6 @@ Atom feeds
 Clearer attributions
 
 
-
 One major new feature is the search for digitized music. This is available through the **Advanced search**. Under **Limit search** , go to **Document type** , then select **Digital versions exclusively**. Combine this field with a keyword to retrieve only records with a link to digitized music. After performing any search, on the left-hand side you will see different filters under **Narrow results**. If there are any records with links to digitized music, a link to those records will appear at the top.
 
 In the **Advanced search** , you will probably notice the on-screen keyboard at the bottom of the screen. The piano keyboard enablesa chromatic search and takes into account half steps, including enharmonic tones. Recall that the original incipit search, available when you select the field **Music incipit** or **Music incipit (with transposition)**, only searches whole note names. The on-screen keyboard therefore allows you to perform a more specific search.
@@ -63,6 +59,5 @@ Some features, such as the option to **e-mail** records to yourself, will be exp
 We hope you enjoy using the new RISM catalog. Please don't hesitate to contact us if you have any questions. Below is a brief video highlighting the major changes.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
-
 
 

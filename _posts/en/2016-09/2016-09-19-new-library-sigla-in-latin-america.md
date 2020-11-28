@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Three new countries in Latin America have been added to the RISM database of library sigla:
 
 -
@@ -25,7 +24,6 @@ Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca
 -
 
 Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
-
 
 
 Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/development/rism-sigla-directory.html).
@@ -42,26 +40,21 @@ Latin American countries with musical sources in the RISM online catalog are:
 
 Brazil: [459 records](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}
 
-
 -
 
 Chile: [91 records](https://opac.rism.info/search?View=rism&siglum=RCH-*){:target="_blank"}
-
 
 -
 
 Mexico: [557 records](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}
 
-
 -
 
 Uruguay: [21 records](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"}
-
 
 -
 
 Venezuela: [37 records](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
 In total, there are 1,165 records from Latin America in RISM.
-
 
 

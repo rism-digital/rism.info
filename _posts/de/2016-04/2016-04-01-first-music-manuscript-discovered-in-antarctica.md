@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM verzeichnet Quellen aus fünf Kontinenten – bislang fehlen auf unserer Landkarte nur Afrika und Antarktika. Dass nun in naher Zukunft ausgerechnet Antarktika mit Musikquellen-Nachweisen aufwarten kann, hat auch uns überrascht.
 
 In einer Höhle unweit der [norwegischen Forschungsstation Troll](http://www.npolar.no/en/about-us/stations-vessels/troll/index.html){:target="_blank"} fand ein Forscherteam unter der Leitung von Dr. Solveig Spøk nun zunächst unverständliche Zeichen auf einer gegerbten Tierhaut im Format 150 x 80 cm, die sich später als Seehundfell entpuppte. Es zeigte sich bald, dass die Schriftzeichen eine bislang unbekannte Form musikalischer Transkription darstellen.
@@ -21,15 +20,12 @@ Mithilfe von Parallelquellen konnte bislang ein "Oulde and Favourite Marche of y
 Die ungewöhnliche Handschrift wurde für weitere Untersuchungen und zur Konservierung in das benachbarte[Britische Antarktik-Territorium](https://www.gov.uk/government/world/organisations/british-antarctic-territory){:target="_blank"} gebracht. Sie wird künftig im[Rothera](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rothera/){:target="_blank"} Research Repository (RISM Bibliotheks-Sigel: AQ-Brrr) aufbewahrt. Bei der Untersuchung fiel ein kleiner Fleck auf, der nach Angaben des leitenden Konservators von Rothera frappierend den Wasserzeichen im Papier ähnelt, das bei der Schottischen Antarktis-Expedition in den Jahren 1902-1904 verwendet wurde, welches am gleichen Ort aufbewahrt wird. Diese Resultate passen wiederum zu einem Foto des britischen Entdeckers William Speirs Bruce, das offensichtlich exakt den Moment festhält, an dem die Bewohner der Antarktis die Forscher zu genau der Höhle führten, wo später der „Marsch der Pinguine“ entdeckt wurde (Foto oben links). Die Forscher fügten desweiteren zusammen, dass dieser Vorfall nach einem ersten erfolglosen Versuch von kulturellem Austausch zwischen Bruce und seinem Team (siehe unten) stattgefunden haben muss.
 
 
-
 ![Not amused](http://rism.info/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
 
 _Pinguin:_ _Nicht gerade begeistert vom Besucher._
 
 
-
 Obwohl die Entdeckung dieses Manuskripts viele Fragen offen lässt, wird der Marsch für RISM katalogisiert und erschient nach der nächsten Aktualisierung im RISM Online-Katalog mit einem Link auf eine digitale Version. Eine Faksimileausgabe wird diesen Sommer im Aves Verlag gefolgt von einer CD-Aufnahme erscheinen. Zwischenzeitlich können Sie sich an diesem Audioauszug des Marsches (mit freundlicher Genehmigung des Aves Verlags) erfreuen:
-
 
 
 <audio controls>

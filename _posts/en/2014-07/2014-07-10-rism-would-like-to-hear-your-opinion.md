@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 RISM will be conducting user studies at the IAML conference in Antwerp in order to learnwhat people think about the [online catalog of musical sources](http://opac.rism.info/){:target="_blank"} and what search strategies are used so that we can improve our services.
 
 Whether you are a music librarian or a student, a database pro or just someone with casual knowledge of RISM, we are interested in what you think.

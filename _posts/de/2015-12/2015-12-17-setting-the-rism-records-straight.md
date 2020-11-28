@@ -11,15 +11,12 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Es ist die Zeit des Geschenke machens, daher möchten wir mit Ihnen teilen, was Sie - RISM-Nutzer - uns in lezter Zeit gegeben haben: zahlreiche Korrekturen und Identifizierungen von anonym überlieferten Kompositionen.
 
 Fehlzuschreibungen sind leider auch in unserer Datenbank zu finden, manchmal weil auf der Quelle ein falscher Komponisten-Name steht, oder aber weil ein Werk irrtümlich einem falschen Komponisten zugeschrieben wurde. Aktuell befinden sich in der RISM-Datenbank über [200.000](https://opac.rism.info/search?View=rism&author=anonymous){:target="_blank"}[Quellen](https://opac.rism.info/search?View=rism&author=anonymous){:target="_blank"} eines Komponisten (oder einer Komponistin?) namens Anonymus – also etwa 20% aller Einträge.
 
 
-
 Glücklicherweise haben wir Unterstützung, nicht nur von RISM-Kollegen, sondern auch von Nutzern unserer Datenbank, die uns regelmäßig über Fehler oder Zuschreibungen anonymer Werke informieren. Eine große Hilfe ist dabei in jedem Fall die [Incipitsuche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} ([Hilfe zur Suche nach Musik-Incipits](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"}), aber es gibt auch eine Reihe von Nutzern, die anonym überlieferte Werke in unserer Datenbank wiedererkannt haben und uns den entscheidenden Hinweis geben konnten.
-
 
 
 Hier einige Beispiele von Identifizierungen, die wir im Laufe dieses Jahres, auch Dank Ihrer Hilfe vornehmen konnten:
@@ -37,7 +34,6 @@ _Dank an Michael O'Loghlin_
 _Dank an Michael Talbot_
 - **Antonio Vivaldi** : Zuvor unidentifizierte Werke in der SLUB Dresden sowie eine bc-Stimme zu einem Violinkonzert, die auf der Rückseite eines anderen Stückes notiert wurde (RISM [212001984](https://opac.rism.info/search?id=212001984){:target="_blank"}; siehe Abbildung). Identifiziert von Francisco Javier Lupiáñez Ruiz, der im Oktober darüber[auf unserer Website](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html)schrieb.
 - **Multiple composers** :[Im Rahmen der Erfassung](/library_stocks/2015/07/30/two-significant-hanover-collections-now-in-rism.html) von Quellen des Forschungszentrums Musik und Gender in Hanover (D-HVfmg) für RISM konnte Helmut Lauterwasser die Komponisten zahleicher anonym überlieferter Werke identifizieren. Siehe die Sammlungen [450115681](https://opac.rism.info/search?id=450115681){:target="_blank"}, [450116005](https://opac.rism.info/search?id=450116005){:target="_blank"}, [450115923](https://opac.rism.info/search?id=450115923){:target="_blank"}, [450116049](https://opac.rism.info/search?id=450116049){:target="_blank"}.
-
 
 
 Mit jeder Identifizierung können wir die Quellen “ihren” Komponisten “zurückgeben” und so die große Anzahl anonymer Werke in der Datenbank reduzieren.

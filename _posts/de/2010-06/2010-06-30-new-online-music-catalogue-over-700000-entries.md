@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 ## Der neue Katalog des Internationalen Quellenlexikons der Musik (RISM) gibt einen Einblick in bisher unerreichbare Schätze der Musikgeschichte.
 
 Seit Juni 2010 wird ein neuer, kostenfreier Online-Katalog zur Musik angeboten. Etwa 700.000 Nachweise von meist handschriftlichen Quellen werden in dieser Datenbank ausführlich nach wissenschaftlichen Kriterien katalogisiert angeboten. Die Handschriften werden heute in Hunderten von Bibliotheken und Archiven weltweit aufbewahrt. In ihnen sind musikalische Werke von 30.000 Komponisten überliefert.

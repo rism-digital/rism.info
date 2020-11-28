@@ -11,7 +11,6 @@ email: mikusi@oszk.hu
 author: ''
 ---
 
-
 Der Leiter der ungarischenRISM-Arbeitsgruppe Balázs Mikusi ([National Széchényi Library](http://regi.oszk.hu/index_en.htm){:target="_blank"}, Budapest; [H-Bn](https://opac.rism.info/search?View=rism&siglum=H-Bn){:target="_blank"}), hat angekündigt , dass das neu entdeckte Autograph von Mozarts berühmter Sonate in A-Dur (KV 331, mit dem "Alla Turca"-Finale) jetzt online zur Verfügung steht. Die ungarische Nationalbibliothek hat eine Website für dieses wertvolle Manuskript freigeschaltet:
 
 [http://mozart.oszk.hu/index\_en.html](http://mozart.oszk.hu/index_en.html){:target="_blank"}
@@ -31,6 +30,5 @@ CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See
 CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, - See more at: [www.rism.info/en/home/newsdetails/browse/1/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html](/rediscovered/2015/06/03/the-music-world-will-sit-up-and-take-notice-on-the.html#sthash.Riy1rxGi.dpuf)
 
 Bildnachweis: Erste Seite der Sonate, mit freundlicher Genehmigung der National Széchényi Library.
-
 
 

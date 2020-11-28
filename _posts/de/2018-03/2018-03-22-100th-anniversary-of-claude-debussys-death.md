@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Diesen Beitrag schrieb Ulrike Schädel, unsere Praktikantin des Wintersemesters 2017/18:_
 
 Am 25. März jährt sich Debussys 100. Todestag. 1862 in einem kleinen französischen Dorf geboren starb er mit 56 Jahren 1918 in Paris. Ein Blick in die [RISM-Datenbank](https://opac.rism.info/search?View=rism&author=debussy){:target="_blank"} offenbart die düstere Seite Debussys in seinen letzten Lebensjahren und liefert einen Hinweis auf seine Oper La chute de la maison Usher. Es handelt sich hierbei um [sechs Skizzen](https://opac.rism.info/search?id=806250140){:target="_blank"} einer Partitur, die als Autograph aus den Jahren 1908 bis 1918 in der Londoner British Library aufbewahrt wird.
@@ -29,15 +28,12 @@ Die Witwe Debussys, Emma Claude verschenkte einzelne vorhandene Skizzen. Der dip
 Erst im Jahr 1976, 58 Jahre nach Debussys Tod, recherchierte der chilenische Komponist Juan Allende-Blin systematisch die überall verteilten Skizzenblätter und trug sie zusammen. Anschließend orchestrierte er aus dem vorhandenen Material eine spielbare Fassung in der die unvollendeten Lücken bestehen blieben. In dieser Fassung wurde die Oper 1977 konzertant und 1979 szenisch in Berlin uraufgeführt.
 
 
-
 _Literatur_:
 Kabisch, Thomas, Art. »Debussy«, in _Die Musik in Geschichte und Gegenwart. Allgemeine Enzyklopädie der Musik,_ 2., neubearbeitete Ausgabe, hrsg. von Ludwig Fischer, Personenteil, Bd. 5, Kassel und Stuttgart 2001, Sp. 566-640.
 
 Orledge, Robert, »Debussy’s ›House of Usher‹ Revisited«, in: _The Musical Quarterly,_ 65/4 (1976), S.536-553.
 
 
-
 _Abbildung_: "The House of Usher" von Ciaran Laval, über [Flickr](https://www.flickr.com/photos/ciaran_laval/19019843280/){:target="_blank"} ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/){:target="_blank"}).
-
 
 

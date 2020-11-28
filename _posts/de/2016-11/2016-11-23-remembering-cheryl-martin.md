@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit großerBestürzung haben wir vom Tod vonCheryl Martin am 15. Juli diesen Jahres erfahren. Martin hatte 2011 dieLeitung der kanadischen RISM-Arbeitsgruppe von William Guthrie übernommen.
 
 Cheryl Martin war Bibliothekarin an der Western University in Ontario. Mit ihremFachwissen im Bereich Katalogisierung war sie jederzeit Ansprechpartnerin, sowohl für kurze Anfragen als auch für längerfristige Überlegungen - beispielsweise zur Frage der Strukturierung des Verzeichnisses der RISM-Serie C. In ihrem ersten RISM-Jahr erstellte sie eine Übersicht der kanadischen Musikquellen und Pläne, wie diese in die RISM-Datenbank übernommen werden sollen. Diese stellte sie 2012 im Rahmen unserer Konferenz[Musikdokumentation in Bibliothek, Wissenschaft und Praxis](/de/publikationen/konferenz-2012.html#c2371)in Mainz sowie auf der IAML-Konferenz in Montreal im selben Jahr vor.
@@ -23,5 +22,4 @@ Eine Gedenkzeremonie fand letzten Monat an der Western University in Ontario sta
 Wir sind sehr traurig, von Cheryl Martin Abschied nehmen zu müssen und hoffen, dass die Arbeit des RISM in Kanada in ihrem Sinne fortgeführt werden kann.
 
 _Verwendung der Fotografie mit freundlicher Genehmigung vonJohn Lazos._
-
 

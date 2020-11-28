@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Jean-Baptiste Lully wurde als Giovanni Battista Lulli am 28. November 1632 in Florenz geboren, war aber den größten Teil seines Lebens für König Ludwig XIV. tätig. 1661 wurde er französischer Bürger. Seine Karriere am französischen Hof begann Lully zunächst als Tänzer bis ihm 1657 mit dem „Ballet de l'amour malade“ auch der Durchbruch als Komponist gelang. 1664 begann die fruchtbare Zusammenarbeit mit Molière. Bis 1671 schufen Molière und Lully die musikalisch immer anspruchsvoller werdenden Comédie-ballets für den Hof und die großen Hoffeste in Versailles. Lully standen zeitweise 54 Instrumentalisten und 16 Sänger zur Verfügung. Später kaufte er der Académie royale de musique das Opernprivilieg ab und es schlossen sich die erfolgreichsten Jahre Lullys an. Bis 1686 wurde jedes Jahr eine neue Tragédie en musique aufgeführt. Lullys tragisches Ende ist hinlänglich bekannt: Er verletzte sich bei einer Aufführung seines Te Deum mit dem spitzen Dirigierstab am Fuß und starb an den Folgen einer Infektion in Paris. Sein Todestag jährt sich am 22. März zum 325. Mal.
 
 Die Formen, die Lully dem Ballett, der Oper und der geistlichen Musik gab, wurden nach seinem Tod nicht angetastet. Auch ein Text, den Lully bereits vertont hatte, wurde nicht noch einmal für die Bühne verwendet. Erst ca. 100 Jahre nach seinem Tod wurden die Traditionen von einer neuen Komponistengeneration aufgebrochen.

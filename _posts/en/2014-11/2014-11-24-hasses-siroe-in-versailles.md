@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 On November 26, the opera_Siroe, re di Persia_by Johann Adolf Hasse will premiere at the [Opera Royal de Versailles](http://www.chateauversailles-spectacles.fr/fr/spectacles/2014/hasse-siroe){:target="_blank"}. This is a nice opportunity to take a look at the more than [150 sources for this opera](https://opac.rism.info/search?View=rism&q=Siroe+hasse){:target="_blank"} that are in the RISM database.
 
 Two sources from Dresden are available in digital form. One is a [full score](https://opac.rism.info/search?id=270000654&db=251&View=rism){:target="_blank"} that comes from the Royal Private Music Collection and [the other one is the overture](https://opac.rism.info/search?id=270000694&db=251&View=rism "external-link-new-window") from the court orchestra archives (part of Schrank II).
@@ -23,7 +22,6 @@ It was not only this opera by Hasse that enjoyed popularity. The libretto by Pie
 The upcoming performances in Versailles are based on Hasse's reworked Dresden version. Below is a video about the production:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Su6tW2-0SpQ" frameborder="0" allowfullscreen></iframe>
-
 
 
 Photo credit: Portrait of Hasse from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Johann_Adolf_Hasse.jpg){:target="_blank"}.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am vergangenen Montag (20. April) verstarb Dr. Joachim Schlichte-Bierbaum, der von 1982 bis 1990 Leiter der RISM-Zentralredaktion war, im Alter von 68 Jahren an einem Herzleiden.
 
 Der in Lübeck geborene Joachim Schlichte studierte in Frankfurt am Main Musikpädagogik, Chordirigieren, Germanistik, Kunstwissenschaften und Musikwissenschaft. Im Fach Musikwissenschaft wurde er promoviert mit dem „Thematischen Katalog der kirchlichen Musikhandschriften in der Liebfrauenkirche zu Schotten“. Zuvor hatte er den „Thematischen Katalog der Kirchlichen Musikhandschriften des 17. und 18. Jahrhunderts“ (darunter die Telemannquellen) in der (damals noch) Stadt- und Universitätsbibliothek Frankfurt bearbeitet und war auch an der Herstellung des Katalogs der Opernsammlung dieser Bibliothek beteiligt.

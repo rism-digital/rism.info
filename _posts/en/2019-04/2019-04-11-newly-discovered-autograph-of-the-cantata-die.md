@@ -11,7 +11,6 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 _We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](http://de.rism.info/de/home.html){:target="_blank"}):_
 
 An autograph manuscript by Engelbert Humperdinck (1854-1921) has been discovered in the library collections of the Universität der Künste in Berlin: the dramatic cantata _Die Fischerin_ for three solo voices and orchestra with words by Johann Wolfgang von Goethe, which previously had only been known in fragments.
@@ -29,5 +28,4 @@ Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Ma
 The newly discovered, complete version of the cantata allows us once more to analyze the works of Humperdinck and to acquaint ourselves with one further Goethe setting. It is surprising that the prologue of Goethe's _Die Fischerin_, which in an excerpted form became famous as "Der Erlkönig," was not used in Humperdinck's setting.
 
 A record for the cantata, with incipits, can be seen in the RISM catalog ([RISM ID no. 1001053670](https://opac.rism.info/search?id=1001053670&View=rism&Language=en){:target="_blank"}).
-
 

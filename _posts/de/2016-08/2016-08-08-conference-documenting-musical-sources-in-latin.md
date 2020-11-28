@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am Rande des Kongresses der[Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"}in Mainz wirdRISM am 15. September 20116 ein Symposium mit dem Titel "Documenting Musical Sources in Latin America" (Dokumentation musikalischer Quellen in Lateinamerika) veranstalten.
 
 RISM hat Referenten aus Lateinamerika eingeladen, um Informationen über den aktuellen Stand der Musikquellen-Dokumentation auszutauschen. Die Teilnahme an diesem öffentlichenSymposion ist kostenlos.

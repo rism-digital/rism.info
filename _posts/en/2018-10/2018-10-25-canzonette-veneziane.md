@@ -11,11 +11,9 @@ email: rma2@cam.ac.uk
 author: Richard Andrewes
 ---
 
-
 _This post originally appeared on the [MusiCB3 Blog](https://musicb3.wordpress.com/2018/07/13/canzonette-veneziane/){:target="_blank"} of Cambridge University (CC-BY):_
 
 Last October the second hand and antiquarian music dealer Travis & Emery circulated their occasional antiquarian music catalogue _Sarum no. 58_. One item caught my eye because in the last year or so I had updated the online records for two collections of Venetian popular songs – i.e. songs in the Venetian dialect.
-
 
 
 |
@@ -33,7 +31,6 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 |
 
 £500
-
 
 
 ****
@@ -81,10 +78,8 @@ It turns out to be an aria from a comic opera by Baldassare Galuppi to a text by
 Though Galuppi’s music was popular and spread round Europe fairly widely, Vento’s operas are less likely to have had very much exposure after the first performances. It is therefore reasonable to assume that both the London and Cambridge copies of these collections date from soon after 1763. There is nothing in either manuscript (paper quality, watermark or copyist hand) that strongly suggests a later date.
 
 
-
 Richard Andrewes
 
 _\*Note from RISM: This has been clarified in the RISM records._
-
 
 

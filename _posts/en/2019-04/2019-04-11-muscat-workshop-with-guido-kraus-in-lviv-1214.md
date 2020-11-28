@@ -11,7 +11,6 @@ email: forschung@angelikamoths.com
 author: Angelika Moths
 ---
 
-
 _We have received the following from Angelika Moths:_
 
 Initiated by the [Haliciana Schola Cantorum (HSC)](http://hsc.lviv.ua/en/){:target="_blank"}, a Swiss association for the promotion of culture in Western Ukraine, an international musicology symposium called "Ex umbra in solem" was held at the Ukrainian Catholic University in L'viv in November 2017. During the event, the urgent need became clear for Ukrainian musicology to have music materials documented in the RISM database that are preserved in Ukrainian libraries and archives. Prof. Dr. Christoph Wolff generously ensured that direct contact was established between the HSC and the RISM Central Office in Frankfurt am Main.Angelika Moths, co-organizer of the symposium and a member of the HSC, went to Frankfurt to talk to Klaus Keil about the possibilities. Keil suggested offering a workshop to introduce the cataloging program Muscat to anyone who is interested.

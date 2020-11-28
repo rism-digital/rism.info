@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der Leipziger Schriftsteller und Musikpublizist [Johann Friedrich Rochlitz](https://opac.rism.info/search?id=pe154394&Language=en){:target="_blank"} (12. Februar 1769 - 16. Dezember 1842) war nach einem Theologie- und Philosophiestudium als Hauslehrer tätig. 1798 begründete er die [_Allgemeine Musikalische Zeitung_](https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000037){:target="_blank"} im Verlag Breitkopf & Härtel, deren Redakteur er bis 1818 war und die sich zur bedeutendsten Musikzeitschrift im deutschsprachigen Raum entwickelte.
 
 Durch die Heirat mit Henriette Winkler, der Witwe eines reichen Patriziers, wurde Rochlitz 1809 materiell unabhängig und gelangte in den Besitz einer nicht unbedeutenden Gemäldesammlung.
@@ -23,6 +22,5 @@ Rochlitz gab eine mehrbändige _Sammlung_ _vorzüglicher Gesangstücke_ _der ane
 Von [Rochlitz' eigenen Kompositionen](https://opac.rism.info/search?View=rism&author=Rochlitz+Friedrich&Language=en){:target="_blank"} sind einige im RISM-Katalog verzeichnet.
 
 _Abbildung_: Titelblatt der _Sammlung vorzüglicher Gesangstücke_, Band 3, Exemplar aus der Bayerischen Staatsbibliothek München ([D-Mbs 2 Mus.pr. 317-2](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131406-1){:target="_blank"}).
-
 
 

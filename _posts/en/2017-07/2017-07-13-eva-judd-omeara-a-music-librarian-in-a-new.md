@@ -11,7 +11,6 @@ email: richard.boursy@yale.edu
 author: Richard Boursy
 ---
 
-
 _The series RISM A-Z brings us to the letter O, which today stands for Eva Judd O’Meara. Miss O’Meara is the first music librarian that features in our series. Richard Boursy, archivist at the[Gilmore Music Library](http://web.library.yale.edu/music){:target="_blank"}, Yale University, tells us about the life and career of someone who was notable for a number of firsts:Yale University's first music librarian, one of the "founding parents" of the [Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"}, and the first editor of_ [Notes](http://www.musiclibraryassoc.org/?page=Notes){:target="_blank"}_._
 
 Eva Judd O’Meara (1884-1979) did not take the conventional road to a career in music librarianship. She had no musical training, she lacked a college degree, and she became a music librarian by accident. But it was not just a matter of being in the right place at the right time; her keen intelligence, tireless labor, and exceptional organizational skills enabled her to build one of the world’s great music libraries and become a central figure in a new profession.
@@ -32,8 +31,6 @@ O’Meara officially retired in 1952, but she continued to work on library proje
 
 Despite her lack of formal education, O’Meara earned the respect and admiration of those who knew her, even renowned Yale professors such as Paul Hindemith and Ralph Kirkpatrick, both of whom were not easily impressed. In 1965, the MLA gave O’Meara a Citation and Honorary Membership. The [award](https://www.musiclibraryassoc.org/?JuddOMearaAward) for the best review in Notes is named after her. Yale honored her with a medal from the Friends of Music (1975), and an endowment established in her name still helps support what is now known as the Irving S. Gilmore Music Library.
 
-
 _Photograph of O’Meara courtesy of the Irving S. Gilmore Music Library, Yale University, and used with kind permission._
-
 
 

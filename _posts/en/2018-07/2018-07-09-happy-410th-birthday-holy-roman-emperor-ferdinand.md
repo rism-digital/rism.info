@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 This Friday is the 410th birthday of Ferdinand III, Holy Roman Emperor from 1637 to 1657. Like many members of royalty, [he dabbled in composition](https://opac.rism.info/search?View=rism&author=135163781&Language=en){:target="_blank"}—as did his successors [Leopold I](https://opac.rism.info/search?View=rism&author=118571869&Language=en){:target="_blank"} and [Joseph I](https://opac.rism.info/search?View=rism&author=118558390&Language=en){:target="_blank"}.
 
 Andrew H. Weaver published an edition of [all known motets by Ferdinand III](https://www.areditions.com/publications/collegium-musicum/motets-by-emperor-ferdinand-iii-et-al-y2-018.html){:target="_blank"} in 2012. In a recent article in _Early Music_, [Weaver writes](https://doi.org/10.1093/em/cav001){:target="_blank"}:
@@ -26,5 +25,4 @@ See:
 Andrew H. Weaver, “A recently rediscovered motet by Holy Roman Emperor Ferdinand III." _Early Music_ 43, no. 2 (2015): 281–289. [Available online](https://doi.org/10.1093/em/cav001){:target="_blank"}.
 
 _Image_: Portrait of Ferdinand III, ca. 1628 - 1670, Rijksmuseum, from [Europeana](http://data.europeana.eu/item/90402/RP_P_OB_9022){:target="_blank"} (public domain).
-
 

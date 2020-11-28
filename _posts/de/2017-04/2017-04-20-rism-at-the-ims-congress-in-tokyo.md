@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ich (Jennifer Ward) nahm am [Kongress der International Musicological Society (IMS) in Tokio](http://ims2017-tokyo.org/){:target="_blank"} vom 19. bis 23. März 2017 teil, unterstützt von [Bibliothek & Information International/Goethe-Institut](http://www.bi-international.de/english){:target="_blank"}. Der Kongress wurde von der Tokyo University of the Arts veranstaltet und beschäftgite sich mit Themen zu [Musicology: Theory and Practice, East and West](http://ims2017-tokyo.org/Theme/){:target="_blank"}.
 
 RISM (und die anderen drei [R Projekte](http://www.r-musicprojects.org/){:target="_blank"}) wird von der [IMS](https://ims-international.ch/){:target="_blank"} und [IAML](http://www.iaml.info/){:target="_blank"} (der International Association of Music Libraries, Archives and Documentation Centres) unterstützt. Während IAML-Treffen jährlich stattfinden, sind IMS-Kongresse eine seltenere Angelegenheit, da sie nur alle fünf Jahre ausgerichtet werden. Dieser war mein erster IMS-Kongress und er kann als riesig beschrieben werden: über 600 Teilnehmer; eine Unmenge an Vorträgen, Roundtables, Sitzungen und Referaten; manchmal 10 Veranstaltungen und mehr gleichzeitig. Es war unmöglich alles aufzunehmen.
@@ -34,7 +33,6 @@ _Musikhandschrift von Yamada Kosaku auf dem Bildschirm des Archive Center_
 Danach besuchte ich die [Universitätsbibliothek](http://www.lib.geidai.ac.jp/Eguide.html){:target="_blank"} unserer gastgebenden Institution. Die Bibliothek unterstützt den Auftrag der Universität und ist mit ca. 490.000 Bänden einer der größten Kunstbibliotheken Japans. In der Musikabteilung fand ich die lange Reihe der gedruckten RISM Bände, einschließlich des neuesten von 2016!
 
 
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865161620989%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 [digitalisiert und stehen online](http://images.lib.geidai.ac.jp/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
@@ -50,7 +48,6 @@ Meine Bibliotheksführerin war Yuko Kumakura. Sie gestaltete eine ausgezeichnete
 Frau Kumakura präsentierte uns den [Online-Katalog](http://iss.ndl.go.jp/?locale=en&ar=4e1f){:target="_blank"}, der auch auf Englisch zur verfügung steht, und zeigte uns wie man nach Musikalien über die Klassifikation YM\* suchen kann. Sie führte uns auch eine separates System für eine tiefergehende Suche nach den Inhalten der Musikpartituren vor; wobei hier Japanischkenntnisse von Vorteil sind. Wir Bibliothekare lernten somit einige über die [NDL's Normdaten](https://id.ndl.go.jp/auth/ndla){:target="_blank"}, das Klassifikationsschema und die Struktur der OPAC-Einträge.
 
 
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865154954323%2F%3Ftype%3D3&amp;width=500" width="500" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 Die Bibliothek hat einige Spezialsammlungen zur Musik. Eine Sammlung von 600 Musikhandschriften aus dem Besitz des Komponisten Hikaru Hayashi (1931–2012) wurde kürzlich den Wissenschaftlern durch die NDL zur Verfügung gestellt. ([Hier](http://ndl.go.jp/en/publication/ndl_newsletter/207/20702.html){:target="_blank"} finden Sie einige Fotos der Präsentation der Sammlung im Jahr 2016.) Einige Handschriften wurden digitalisiert, können aber aus urheberrechtlichen Gründen nur vor Ort eingesehen werden. Eine andere Sammlung ist die [Historical Recordings Collection](http://rekion.dl.ndl.go.jp/?_lang=en){:target="_blank"}, die als Ergebnis einer Partnerschaft zwischen der NDL und verschiedenen anderen Institutionen (auch des Japanischen Kulturinstituts in Köln) mehr als 50.000 frühe japanische Tonaufnahmen bewahrt. Die NDL bieten diesen Dienst an, während die Aufnahmen selbst Eigentum der jeweiligen Institution sind.
@@ -62,6 +59,5 @@ Die letzte Bibliothek, die ich besuchte, war die [Tokyo Metropolitan Central Lib
 _Die Musikabteilung der Tokyo Metropolitan Central Library_
 
 Es war der erste IMS-Kongress, der in Asien stattfand. Er bot die Möglichkeit unsere japanischen Kollegen zu sehen, die wir selten persönlich treffen, und viele andere Musikwissenschaftler aus der ganzen Welt. Ich danke dem BI-International für die Unerstützung meiner Teilnahme an diesem Kongress. Weiterhin danke ich den Organisatoren des IMS Kongresses für die Gastfreundschaft. Ich hoffe, alle 2022 in Athen wiederzusehen!
-
 
 

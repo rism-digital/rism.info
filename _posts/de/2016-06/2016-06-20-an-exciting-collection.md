@@ -11,7 +11,6 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 _Der folgende Beitrag stammt von_ _Gottfried Heinz-Kronberger ([RISM Deutschland)](http://de.rism.info/de/home.html){:target="_blank"}:_
 
 Der Notenbestand aus Spitz a. d. Donau liegt im Archiv des Benediktinerklosters Niederaltaich ([D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}). Dieser Umstand hat seine historische Bewandtnis, liegt doch Spitz in Österreich und Niederaltaich in Deutschland. Das im Jahre 741 gegründete Kloster Niederaltaich weitete im Zuge der Herrschaft der Karolinger seinen Einflussbereich entlang der Donau bis in die Wachau aus. In einem Schreiben vom 6. Oktober 830 Ludwigs des Deutschen wird die Schenkung des Gebiets um Spitz an das Kloster bestätigt. Diese Propstei Spitz war dann bis zur Säkularisation im Jahr 1803 im Besitz des Klosters Niederaltaich. Zur näheren Betrachtung siehe Erich Schöner in seiner „Geschichte des Marktes Spitz a. d. Donau“ in 2 Bänden aus dem Jahr 1979. Das Kloster Niederaltaich wurde erst 1918 wieder begründet.

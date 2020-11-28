@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit dem letzten Eintrag in unserer Reihe RISM A-Z für dieses Jahr haben wir etwa die Mitte des Alphabets erreicht.
 Christian Ignatius Latrobe wurde in der Herrnhuter Brüdergemeine Fulneck (Großbritannien) geboren und kam 1771 nach Niesky in Sachsen, wo er die Herrnhuter Schule besuchte. Bis 1784 wirkte dort als Englischlehrer. Nach seiner Rückkehr nach England fungierte er 50 Jahre lang als Sekretär der Society for the Furtherance of the Gospel. 1796 begann er verschiedene Missionszeitschriften herauszugeben. Über seinen offiziellen Missionarsbesuch in Südafrika erschien 1818 der Reisebericht[_Journal of a Visit to South Africa in 1815 and 1816 with Some Account of the Missionary Settlements of the United Brethren Near the Cape of Good Hope_](https://archive.org/details/journalofvisitto01latr){:target="_blank"}, den er mit zahlreichen beeindruckenden Zeichnungen ausschmückte.
 
@@ -27,6 +26,5 @@ Dieses Video ist zeigt die Südafrikareise mit Latrobes eigenen Zeichnungen aus 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSwTJHTlqIU" frameborder="0" allowfullscreen></iframe>
 
 _Abbildung_: Porträt von Latrobe von Samuel Bellin, nach Thomas Barber, Mitte 19. Jahrhundert. National Portrait Gallery, London, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christian_Ignatius_Latrobe_by_Samuel_Bellin,_after_Thomas_Barber_cropped.jpg){:target="_blank"}.
-
 
 

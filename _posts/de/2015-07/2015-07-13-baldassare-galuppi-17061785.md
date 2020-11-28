@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die Spielzeit 2014/2015 nähert sich dem Ende und so ergreifen wir die Gelegenheit, die Reihe RISM A-Z mit einer aktuellen Inszenierung zu kombinieren:
 
 Am 20. Juni hatte die Oper _Alessandro nell'Indie_ von Baldassare Galuppi (Libretto von Pietro Metastasio) am [Mainfranken-Theater in Würzburg](https://www.theaterwuerzburg.de/index.php?option=com_mftplayground&view=play&play_id=984&Itemid=116){:target="_blank"} Premiere, eine letzte Vorstellung gibt es noch am 14. Juli.

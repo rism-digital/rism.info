@@ -11,7 +11,6 @@ email: ''
 author: SLUB Dresden
 ---
 
-
 _Den [folgenden Beitrag](https://digital.slub-dresden.de/kollektionen/1227/){:target="_blank"} veröffentlichen wir mit freundlichen Genehmigung der SLUB Dresden:_
 
 Es ist soweit: Richard Strauss ist gemeinfrei. Seit 1. Januar 2020 dürfen seine Werke ohne besondere Genehmigung oder Zahlungsverpflichtung der Öffentlichkeit zugänglich gemacht werden.
@@ -27,9 +26,7 @@ Musikalien und Textdokumente lassen sich über die [Digitale Kollektion "Richard
 Siehe auch [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/](https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/){:target="_blank"}
 
 
-
 _Abbildung_: Richard Strauss, Bühnenmusikpartitur zu _[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
-
 
 

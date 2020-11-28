@@ -11,7 +11,6 @@ email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 The Thematic Catalogue for the Kinsky Library’s Music Collection
 
 The music collection at the Kinsky Library, which is administered by the National Museum Library (CZ-Pn), was first examined in detail in 2010. More than one thousand individual musical documents dating from the end of the 18<sup>th</sup> and the first half of the 19<sup>th</sup> centuries, either bound into extensive albums or gathered loosely in individual folders, were found in one of the tall Empire-style cabinets located in the reconstructed areas of the library hall in the Golz-Kinsky Palace on the Old Town Square in Prague. The manuscript section, which constitutes almost half of the collection (373 shelfmarks), has been included in the RISM A/II database. Together with the 274 shelfmarks allocated to the printed music, it has been compiled in the form of the thematic catalogue.

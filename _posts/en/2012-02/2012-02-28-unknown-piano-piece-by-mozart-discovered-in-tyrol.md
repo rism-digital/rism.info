@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 During the ongoing work being done for the Répertoire International des SourcesMusicales (RISM/International Inventory of Musical Sources),Dr.Hildegard Herrmann-Schneider came across a music book from around 1780in Tyrol. This manuscript contains, among other titles, a hitherto unknown pianopiece that is expressly attributed to the young "Wolfgango Mozart".
 
 **This piece for piano will be presented at 11:00 AMon March 23rd, 2012, by theStiftung Mozarteum Salzburg in the Tanzmeistersaal of the Mozart Residence(Makartplatz).**

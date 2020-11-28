@@ -11,7 +11,6 @@ email: Eva.Neumayr@archiv.kirchen.net
 author: MMag. Dr. Eva Neumayr
 ---
 
-
 _Die folgende Ankündigung erhielten wir von Eva Neumayr ([RISM Salzburg](http://salzburg.rism.info/index.php?id=82)):_
 
 Der [_Thematische Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}, hrsg. von Eva Neumayr und Lars Laubhold, Wien: Hollitzer Verlag, 2018, ist soeben erschienen.

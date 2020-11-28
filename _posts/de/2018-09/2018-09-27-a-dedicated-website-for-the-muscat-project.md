@@ -11,7 +11,6 @@ email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---
 
-
 _Der folgende Beitrag erreichte uns von Laurent Pugin ([RISM Schweiz](http://rism-ch.org/){:target="_blank"}):_
 
 Jede RISM-Arbeitsgruppe kennt [Muscat](/de/community/muscat.html) - es ist die vertraute Oberfläche, mit der jeder Mitarbeiter seit 2016 Musikquellen in der RISM-Datenbank katalogisiert. Aber was ist die Geschichte und die Philosophie dieses Softwareprojekts? Was sind seine technischen Komponenten? Was bietet es? Tatsächlich wurde die Katalogisierungssoftware nicht ganz neu entwickelt, sondern vereint eine Reihe von Funktionen, die alle frei zugänglich sind, kombiniert sie und passt sie an die Bedürfnisse des RISM-Projekts an. Eine kürzlich freigeschaltete Website bietet Einblicke in die Entwicklung und die verschiedenen Komponenten von Muscat: [http://muscat-project.org](http://muscat-project.org/)
@@ -29,7 +28,6 @@ Muscat weist unter anderem neun markante technische Merkmale auf:
 - Muscat verfolgt [alle Änderungen](http://muscat-project.org/data-versioning.html), die an den einzelnen Datensätzen in der Datenbank gemacht werden.
 - Die Daten sind mit [internationalen Authoritätsdateien](http://muscat-project.org/data-interoperability.html), wie biespielsweise VIAF, verknüpft.
 - Schließlich bietet Muscat eine [dynamische Visualisierung](http://muscat-project.org/visualization.html) der Suchergebnisse auf einer geographischen Karte.
-
 
 
 

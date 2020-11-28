@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Klaus Keil
 ---
 
-
 Für die Beschreibung von Musikquellen hat RISM das Datenbankprogramm Kallisto entwickelt. Es wird den RISM Arbeitsgruppen und Personen, die Beiträge zur RISM-Datenbank liefern wollen angeboten. Titel, die mit Hilfe des Programms hergestellt werden, werden direkt beim nächsten Update dem RISM Online-Katalog hinzugefügt.
 
 Um Teilnehmer mit dem Programm vertraut zu machen, bietet die Zentralredaktion Kallisto-Workshops an. Der nächste findet statt:

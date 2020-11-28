@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The RISM Zentralredaktion wishes you a Merry Christmas and a Happy New Year!
 
 We invite you to flip through our large selection of predominantly unfamiliar Christmas music sources from our [online catalogue](https://opac.rism.info/search?View=rism&q=nativitas+domini){:target="_blank"}.

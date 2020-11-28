@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Around exactly 400 years ago, the printed music anthology _Breve Racconto della Festa a Ballo_ was published in Naples by Costantino Vitale, of which only one copy is known today, held by the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k321253t){:target="_blank"} (F-Pn).
 
 The _Festa a Ballo_ is one of the few examples of Italian court dance with music, corresponding to the French _ballet de cour_ (see, for example, the _Discours au vray du Ballet_, B/I1617|7, [RISMIDno.993121467](https://opac.rism.info/search?id=993121467&View=rism){:target="_blank"}, dedicated to LouisXIII of France) and the English masques.
@@ -29,6 +28,5 @@ The health of the king, which was already weakened due to extensive Habsburg inb
 Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info) or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
 
 Images from _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Available online](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
-
 
 

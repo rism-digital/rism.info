@@ -11,7 +11,6 @@ email: ''
 author: Karin Weißert
 ---
 
-
 Im Rahmen des Bachelor-Studienganges im Fach Musikwissenschaft an der Goethe-Universität Frankfurt am Main gehört ein kleines Praktikum von 150 Stunden mit zum Ausbildungsgang.
 
 Für mein Praktikum hatte ich mir vorgenommen, nicht an eine Oper oder an ein Konzerthaus zu gehen, um die organisatorischen Erfordernisse der Veranstaltungen kennenzulernen. Diesen, gemeinhin als Eventmanagement bekannten Aufgabenbereich, kannte ich unter anderem aus meiner früheren Berufstätigkeit, sodass ich etwas gesucht habe, was sich mehr mit der Musik selbst und/oder ihrer Aufbewahrung, Verarbeitung bzw. Dokumentation beschäftigt. Dafür kamen Musikverlage, Bibliotheken und eben RISM, das Internationale Quellenlexikon der Musik, in Frage. RISM, das ich von meinen Uni-Recherchen her kannte und als eine hervorragende Quelle für meine Aufgaben während des Studiums kennengelernt hatte, schien mir besonders geeignet zu sein, verbindet es nicht nur Musik, Text und Notentext, sondern bezieht auch in Gestalt der Digitalisierung eine Technik mit ein, die Wissen nicht nur dokumentiert, sondern auch weltweit verbreitet und weiterträgt.

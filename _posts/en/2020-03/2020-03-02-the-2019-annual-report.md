@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The 2019 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2019.html). Here are some of the highlights:
 
 **New Board of Directors:**

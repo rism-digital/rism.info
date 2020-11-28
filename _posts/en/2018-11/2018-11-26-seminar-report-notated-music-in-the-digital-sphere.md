@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Will there ever be a Google Books for music? Can motivic searches of a fugue be automated? Are partbooks plagued by iron gall ink deterioration lost forever? These were some of the questions posed last month in Oslo at the seminar [Notated Music in the Digital Sphere: Possibilities and Limitations](https://www.nb.no/hva-skjer/notated-music-in-the-digital-sphere/){:target="_blank"} at the [National Library of Norway](https://www.nb.no/en/the-national-library-of-norway/){:target="_blank"}. It was organized by our RISM Norway colleague Margrethe Bue of the Music Section.
 
 I (Jennifer Ward) from the RISM Central Office was invited to talk about the role that RISM plays in the digital landscape. I emphasized the data structure and utility of [Muscat](/community/muscat.html), our cataloging program, in order to show how it and the RISM data can be used as a tool for a variety of research projects. Coming from this perspective, it was interesting to hear about some projects that seem very far away from RISM, such as preserving the music and performances of 20th-century electronic compositions, but that are also concerned with questions of description and access.
@@ -23,5 +22,4 @@ Julia Craig-McFeely (University of Oxford, [DIAMM](https://www.diamm.ac.uk/){:ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yQ5bfI9BR7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [available online](https://www.nb.no/nbsok/search){:target="_blank"}
-
 

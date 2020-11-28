@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Mit unserer Reihe RISM A-Z haben wir den Buchstaben M erreicht._
 
 Die französische Komponistin und Pianistin Hélène de Montgeroult (1764 Lyon – 1836 Florenz) war eine Schülerin von Jan Ladislav Dussek und Muzio Clementi. Sie trat als Pianistin allerdings nicht öffentlich auf, sondern nur in den Salons. 1784 heiratete Hélène de Nervo den Offizier im Ruhestand André Marie Gautier, Marquis de Montgeroult. Dieser Ehe folgten noch zwei weitere.
@@ -21,9 +20,7 @@ Sie unterrichtete von 1795 bis 1830 mit Unterbrechungen am Konservatorium in Par
 Bisher verzeichnet der RISM Online-Katalog noch keine Abschriften, aber sechs Drucke aus der Serie A/I (M 3507-3511; MM 3511a) von Hélène de [Montgeroult](https://opac.rism.info/search?View=rism&q=133166821){:target="_blank"}, darunter auch der Cours complet ([M 3510](https://opac.rism.info/search?id=00000990042107){:target="_blank"} und [M 3511](https://opac.rism.info/search?id=00000990042108){:target="_blank"}).
 
 
-
 Eine ausführliche Biographie zur heute nahezu vergessenen Hélène de Montgeroult bietet das[Sophie Drinker Institut](http://www.sophie-drinker-institut.de/cms/index.php/montgeroult-helene-de){:target="_blank"}. Hören Sie hier Montgeroults Klaviersonate Nr. 8 mit Nicolas Stavy:
-
 
 
 <iframe src="https://player.vimeo.com/video/29382724" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Announcing the publication of a new database by Kerala J. Snyder (Eastman School of Music, University of Rochester):
 
 [The Choir Library of St. Mary's in Lübeck, 1546-1674: A Database Catalogue](http://goart-vas-1.it.gu.se/webgoart/goart/Snyder.php){:target="_blank"}

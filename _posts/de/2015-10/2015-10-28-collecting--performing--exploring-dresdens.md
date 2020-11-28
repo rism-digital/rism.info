@@ -11,7 +11,6 @@ email: hofmusikkonferenz@slub-dresden.de
 author: Nina Eichholz
 ---
 
-
 _Die nachfolgende Ankündigung erreichte uns von der [Sächsischen Landes- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/startseite/){:target="_blank"} (SLUB):_
 
 21. bis 23. Januar 2016

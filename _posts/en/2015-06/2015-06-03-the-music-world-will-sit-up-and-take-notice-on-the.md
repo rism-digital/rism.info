@@ -11,7 +11,6 @@ email: seiffert@henle.de
 author: Wolf-Dieter Seiffert
 ---
 
-
 _This post is by the CEO of Henle Verlag and our very own RISM president, Wolf-Dieter Seiffert, and is reprinted from the [Henle blog](http://www.henle.de/blog/en/2015/05/25/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozart%E2%80%99s-piano-sonata-in-a-major-kv-331/){:target="_blank"} with kind permission._
 
 You presumably know Mozart’s[A-major Piano Sonata KV 331](https://www.youtube.com/watch?v=6X6zE_YiOvM) (with the “alla turca” rondo). One of the best-known sonatas, if not THE best-known, of the entire piano repertoire. And yet it is the bitter truth that to this day we all play this famous sonata incorrectly, not in any event like Mozart wanted it. How so? Up to now there has been no single error-free music edition of this famous piece. The 19<sup>th</sup>century had garbled the sonata almost beyond recognition: Urtext editions of the 20<sup>th</sup>century (even ours so far) have essentially had to make use of the first edition (“opus 6” in the Artaria publishing house, Vienna, 1784) as the best available basis for the text because Mozart’s autograph (up to the last page of the “alla turca”) was lost.

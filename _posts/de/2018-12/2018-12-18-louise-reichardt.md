@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Lieder, Lieder und nochmal Lieder – komponierte Louise Reichardt (11. April 1779, Berlin — 17. November 1826, Hamburg).
 
 Die Komponistin und Gesangslehrerin wurde zunächst von ihrem Vater - dem Kapellmeister, Komponist und Musikschriftsteller Johann Friedrich Reichardt (1752–1814) – musikalisch unterwiesen und bildete sich weitgehend autodidaktisch weiter. Um 1814 gründete sie eine der ersten Musikschulen Hamburgs. Gemeinsam mit Johann Heinrich Clasing folgte 1816 die Gründung eines Musikvereins, wobei sie die Leitung des Chores übernahm. Bei der Einstudierung von hauptsächlich geistlichen Chorwerken waren ihr die Händelschen Kompositionen besonders wichtig.

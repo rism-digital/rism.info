@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Vivian Tompkins
 ---
 
-
 _UnserePraktikantinim Sommer 2017 Vivian Tompkins berichtet von ihren Erfahrungen:_
 
 Musikwissenschaft, Bibliothekswesen, und die deutsche Sprache sind drei Hauptinteressen, die ich im Lauf meines Bachelorstudiums entdeckte. Deshalb war ich ganz begeistert, als ich vor einigen Monaten Bescheid bekam, dass ich ein Praktikum in der [RISM Zentralredaktion](/de/unternehmen/zentralredaktion.html#c2852 "Öffnet internen Link im aktuellen Fenster") in Frankfurt machen könnte. So ein Praktikum war die perfekte Gelegenheit, diese drei Interessen zu kombinieren. Seit vier Wochen bin ich zu Gast in der Zentralredaktion gewesen, und die Mitarbeiter/innen der Redaktion haben mir geholfen, viel über die Arbeit der Zentralredaktion und die internationale Gemeinschaft von Musikbibliotheken zu lernen.

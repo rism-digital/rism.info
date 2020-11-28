@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die RISM-Bibliothekssigel finden seit den ersten Publikationen für die Bezeichnung der Aufbewahrungsorte der musikalischen Quellen Verwendung. Die sogenannten Bibliothekssigel bestehen aus einem Länder- und einem Bibliothekskürzel, wobei das letztere wiederum aus einem Kürzel für die Stadt und einem für die Bibliothek zusammengesetzt ist. Ursprünglich nur um in den Publikationen Platz zu sparen gedacht, zählen sie heute zum wissenschaftlichen Standard bei der Quellenbeschreibung.
 
 Vor gut 500 Tagen – im November 2011 – startete die RISM-Bibliotheksdatenbank mit anfänglich 7080 Sigeln. Inzwischen sind durch die monatlichen Updates 205 neue Bibliotheken, Archive, Institutionen etc. hinzugekommen. Darunter befinden sich jetzt auch Länder wie Südkorea, China, Venezuela und Mexiko.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Beginning today, [Muscat](/community/muscat.html) is available to RISM contributors as a central cataloging program for musical sources. Muscat includes sources from the various RISM series A/I, A/II, and B/I, which are in one database for the first time after having previously been managed in separate places. The new Muscat program contains in total 1,076,244 musical sources, 108,563 authority records for personal names, 73,527 institutions, and 32,983 records for secondary literature.
 
 The initial requirements of Muscat were clearly exceeded: develop a multilingual, web-based program on the basis of [free, open-source software](https://github.com/rism-ch/muscat) that, using MARC21, has an internationally widespread and standardized data model at its core. Additional features include:

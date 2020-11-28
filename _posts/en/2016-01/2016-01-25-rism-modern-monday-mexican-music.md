@@ -11,7 +11,6 @@ email: jlazos11@hotmail.com
 author: John G. Lazos
 ---
 
-
 _Our third entry in our RISM Modern Monday series is by[John G. Lazos](/workgroups/mexico-dr-john-g-lazos.html), who contributes Mexican sources to RISM (Spanish follows):_
 
 Mexican music is generally recognized as the music from the first decades of the twentieth century, a perception which was influenced by a twentieth-century Mexican cultural nationalideology. The main premise was to combine the classical forms of music with pre-Columbian sounds and instrumental content.Thecomposers who best exemplify thisapproach areManuel M. Ponce(1886-1948),Silvestre Revueltas(1899-1940),and Carlos Chávez (1899-1978) and it is the latter's_Sinfonia India_thatisthe most emblematiccomposition from this period. The sounds of thismusic have become identified with Mexican music.
@@ -21,7 +20,6 @@ By contrast, the music that originated from the period of Mexico's independence 
 In the late twentieth century and these early decades of this century, Mexico has seen a vast number of composers and performers, many of them who havestudied and worked abroad, continue to redefine the musical idea of Mexican musicthrough a variety oftraditional and contemporary techniques.
 
 This sums up the present music in Mexico.
-
 
 
 **Música Mexicana**

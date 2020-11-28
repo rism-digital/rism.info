@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Dates: May 9-11, 2019
 Location: Akademie der Wissenschaften und der Literatur
 Geschwister-Scholl-Str. 2
@@ -21,7 +20,6 @@ Registration: [Registration form
 ](https://goo.gl/forms/PcmsxMznK8EWFaFV2){:target="_blank"}
 
 _The conference is free and open to the public. Please help us plan by registering by 5 April 2019._
-
 
 
 **Conference and Workshop:**  **Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**
@@ -35,6 +33,5 @@ Nevertheless, work titles in libraries are an important tool with which musical 
 The conference and workshop is intended to enable a dialogue for the different points of view and expectations of musicologists and librarians and to develop solutions for RISM as a project between the two sides.
 
 More information can be found [on the conference website](/publications/introducing-a-work-level-in-rism-2019.html).
-
 
 

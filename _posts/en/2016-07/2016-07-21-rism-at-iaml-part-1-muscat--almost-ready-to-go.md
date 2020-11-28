@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 For RISM insiders, Muscat will be the must-have item this fall! Our new cataloging program was a topic of discussion at the recent [IAML congress in Rome](/publications/iaml-congresses/2016.html).
 
 A group of developers has been at work for about three years to create a new cataloging program called Muscat, which will replace the current program, Kallisto. The group is made up of Laurent Pugin and Rodolfo Zittelini from [RISM Switzerland](http://rism-ch.org/infrastructure/muscat.html){:target="_blank"} and Stephan Hirsch and Harald Wingerter from the [RISM Central Office](/organization/rism-zentralredaktion.html).
@@ -59,7 +58,6 @@ The guidelines are currently being revised and integrated into Muscat.
 -
 
 A beta version is currently available for testing by current RISM contributors.
-
 
 
 **Timeline** :

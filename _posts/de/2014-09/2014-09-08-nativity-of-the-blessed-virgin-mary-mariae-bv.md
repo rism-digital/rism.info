@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am 8. September wird im Kirchenjahr der katholischen Kirche, den orthodoxen Kirchen und der anglikanischen Kirche an die Geburt Mariens erinnert. Das Fest Mariä Geburt (In Nativitate B.M.V.) wird auch Kleiner Frauentag genannt und hat seine Ursprünge im Orient. Es ist wahrscheinlich aus dem Kirchweihfest der St. Anna-Kirche am Teich Bethesda in Jerusalem hervorgegangen, die am überlieferten Wohnort von Anna und Joachim errichtet wurde, der auch als Geburtsort Mariens gilt. Allgemeine Verbreitung fand das Fest im 11. Jahrhundert, wobei das Datum dieses Festes kein historisch bewiesenes, sondern ein mögliches Datum ist.
 
 Im RISM OPAC finden Sie zahlreiche Kompositionen zu diesem liturgischen Fest.
@@ -39,9 +38,7 @@ Die weiteren Marienfeste sind:
 8. Dezember - Maria Empfängnis - Mariae (B.V.) Conceptio Immaculata
 
 
-
 Und noch ein Hinweis zu guter Letzt: Die Suchfilter in der linken Spalte helfen Ihnen die Trefferliste einzugrenzen.
 
 Bild: Domenico Ghirlandaio, _Natività di Mari__a,_ Cappella Tornabuoni, 1485-1490, Fresko,Firenze,basilica di Santa Maria Novella, [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-
 

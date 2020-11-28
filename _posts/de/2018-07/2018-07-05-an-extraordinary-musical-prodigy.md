@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Dieser Spaniel ist nicht einfach auf den Klavierhocker gesprungen, um Alles, was das Instrument an Klängen erzeugt, jaulend zu kommentieren. Denn wenn wir dem Titel des Gemäldes "Portrait eines außergewöhnlich musikalischen Hundes" Glauben schenken dürfen, hat dieser Vierbeiner wirklich Talent. Der Künstler Philip Reinagle (1749-1833) zeigt einen Hund, dessen Pfoten schon auf den Tasten liegen, um aus der vorliegenden Musikhandschrift zu spielen. Er sieht aus, als ob man ihn beim Spielen ertappt hätte, vielleicht braucht er auch einfach nur Hilfe beim Umblättern.
 
 Beim Tafelklavier handelt es sich wahrscheinlich um ein englisches Broadwood-Klavier, etwa aus dem Jahr 1795 und bei den Noten um "God Save the King" (passend zum abgebildeten King Charles Spaniel), allerdings fehlen beim Klavier Details, wie Saiten oder ein Name auf dem Namensschild. Angesichts dieser Diskrepanz zwischen Realität und Vorstellung - und ganz abgesehen davon, dass wir hier über einen klavierspielenden Hund reden - stellt sich die Frage, wie ernst kann/darf man das Thema dieses Kunstwerkes nehmen? Laurence Libin, der die oben genannten Details zum Klavier und der Musik 1998 in einem[Artikel](http://www.jstor.org/stable/41561907){:target="_blank"}identifizierte, sieht eine mögliche Verbindung zwischen dem dressierten Hündchen und dem englischen Pianisten und Komponisten William Crotch (1775-1847), der heute vor 243 Jahren geboren wurde.
@@ -35,6 +34,5 @@ Laurence Libin, “Philip Reinagle's 'Extraordinary Musical Dog',” Music in Ar
 Nicholas Temperley undSimon Heighes, “Crotch, William,” [_Grove Music Online_](https://doi.org/10.1093/gmo/9781561592630.article.06886){:target="_blank"}, retrieved 12 June 2018.
 
 _Abbildung_: Philip Reinagle, _Portrait of an Extraordinary Musical Dog_, 1805. [Virginia Museum of Fine Arts](https://www.vmfa.museum/piction/6027262-8151754/){:target="_blank"}, Richmond. [CC BY-NC.](https://creativecommons.org/licenses/by-nc/4.0/) RIdIM record ID: [5041](http://db.ridim.org/display.php?ridim_id=5041){:target="_blank"}
-
 
 

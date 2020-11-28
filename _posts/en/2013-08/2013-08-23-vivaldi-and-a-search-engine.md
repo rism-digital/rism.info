@@ -11,7 +11,6 @@ email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
 
-
 Guest post by Michael Talbot (Liverpool, UK)
 
 Anyone my age (seventy) has, as it were, “grown up” in parallel with RISM in the various phases of its, and our, evolution. Especially since the transfer of the manuscripts database to an [OPAC on the internet](http://opac.rism.info/){:target="_blank"}, the potentiality to make discoveries, either through serendipity or through targeted trawling, has increased by leaps and bounds. The recent addition of a musical incipits search engine, to add to that already existing for textual incipits, is the latest leap forward, and one from which I have already profited greatly. Only a few months ago, I used this search engine to uncover new sources of two concertos by Vivaldi. A full description and evaluation of both discoveries is contained in my _Miscellany_ column (a kind of annual round-up) in the yearbook [_Studi vivaldiani_](http://www.cini.it/publications/studi-vivaldiani-rivista-annuale-dellistituto-italiano-antonio-vivaldi){:target="_blank"} for 2012 (vol. 12).

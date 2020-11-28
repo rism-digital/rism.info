@@ -11,7 +11,6 @@ email: jennifer.ward@rism.info
 author: ''
 ---
 
-
 We received hundreds of comments in our [recent survey of the online catalog](http://www.rism.info/en/community/survey.html){:target="_blank"}. We are carefully considering each one of them and would like to take some time to address some of the larger issues raised. Today we are talking about coverage in RISM and citing literature. Later this week, we will discuss the chronological limits of RISM and why some libraries have more sources in RISM than others.
 
 This type of comment came up a couple times:
@@ -22,7 +21,6 @@ This blinkered approach represents a serious failure to acknowledge non-German r
 **"I feel like there is too much of a focus on German sources and not enough on sources from Britain (for example). There are great inconsistencies with regards to the sources of particular composers that are available, and some information presented is often inaccurate or poorly cited. I would like to see RISM broaden its focus to be less biased towards German musical sources, and to allow for greater referencing and checking abilities." -Respondent 161**
 
 Short answer: (1.) You're right, there's a lot from Germany, and (2.) please send us your articles or other citations so we can add them! ([jennifer.ward@rism.info](mailto:jennifer.ward@rism.info))
-
 
 
 Long answer: Your suspicions are correct: in the [RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}, about 42% of the sources are from Germany, more than any other country. The reason for this can be explained in short in three words: money, time, and staff. There is a fully funded [national German working group](http://de.rism.info/en/home.html){:target="_blank"} with eight staff members and two offices. In addition, a number of ongoing grant-funded projects in Germany have stipulations that enable regular contribution of records to RISM. The situation in Germany is unique and is one that, we admit, many countries can only dream of.
@@ -40,6 +38,5 @@ In addition, you can find [Jennifer Ward](https://independent.academia.edu/Jenni
 \* Maciej Jochymczyk, _Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727–1758)_ (Lublin: Wydawnictwo Polihymnia, 2014); and Giovanni Tribuzio, "Catalogo della produzione musicale di Giuseppe Corsi," in _"E nostra guida sia la stravaganza". Giuseppe Corsi da Celano musicista del Seicento: Atti della Giornata di Studio. Celano Auditorium "Enrico Fermi", 7 dicembre 2013_ (Bari: Florestano edizioni, 2014).
 
 Image: Countries around the world with sources in the [RISM online catalog](https://opac.rism.info/){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **With these Christmas greetings we would like to thank you for your kind support this year and wish you a prosperous, successful new year.**
 
 RISM Zentralredaktion

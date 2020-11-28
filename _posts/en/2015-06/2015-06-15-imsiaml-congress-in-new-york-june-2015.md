@@ -11,11 +11,9 @@ email: ''
 author: ''
 ---
 
-
 Start spreading the news: RISM will be heading to New York to take part in the IMS/IAML Congress [Music Research in the Digital Age](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"}, June 21-26, 2015.
 
 Please visit our table in the exhibits area during the breaks. In addition, you are invited to join us at the following events:
-
 
 
 **Monday, 22 June**
@@ -31,7 +29,6 @@ RISM on a shoestring: How small country groups can contribute to RISM
 - Ewa Hauptman‐Fischer (Music Department, University of Warsaw Library, Warsaw)
 Musical gifts with dedications in Silesian musical manuscripts of monastery provenance
 - Round Table discussion (topics can be proposed in advance or during the session)
-
 
 **Thursday, 25 June**
 
@@ -55,6 +52,5 @@ Putting Mozart autographs online: Thoughts about the collaboration between a lib
 Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 - 11.00–12.30: Commission Mixte (closed working meeting; open only to members or by invitation)
 Chair: Wolf‐Dieter Seiffert (President of RISM, RISM Commission Mixte, München)
-
 
 

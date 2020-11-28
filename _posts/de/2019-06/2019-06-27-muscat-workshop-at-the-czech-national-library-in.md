@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Vom 12.-14. Juni 2019 fand an der [Tschechischen Nationalbibliothek](https://www.en.nkp.cz/){:target="_blank"} in Prag ein Muscat-Workshop für Fortgeschrittene statt. Muscat ist das Erfassungsprogramm zur Beschreibung musikalischer Quellen des RISM.
 
 Die erfahrenen Katalogisierer der Prager RISM-Arbeitsgruppe unter Leitung von Frau Zuzana Petrášková wurden von unserem RISM-Mitarbeiter Guido Kraus in der Katalogisierung von Musikdrucken und Konvoluten geschult.
@@ -22,6 +21,5 @@ Im Detail ging es um Möglichkeiten, Katalogisate aus den RISM-Serien [A/I](/de/
 Darüber hinaus wurde das Katalogisieren von Neueinträgen eingeübt, dass heißt von Individualeinträgen und von Sammlungen mit Teileinträgen.
 
 Zum Abschluss trainierten die Teilnehmerinnen und Teilnehmer die Katalogisierung von Konvoluten mit zum Teil verschiedenen Materialtypen wie handschriftlichen und gedruckten Musikalien, von Individualeinträgen und Sammlungen in einem Band.
-
 
 

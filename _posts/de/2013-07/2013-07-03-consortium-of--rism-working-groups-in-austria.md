@@ -11,7 +11,6 @@ email: brinzing@mozarteum.at
 author: Armin Brinzing
 ---
 
-
 Am 19. Juni traf sich in Salzburg die im November 2012 gegründete Arbeitsgemeinschaft Österreichischer RISM-Arbeitsgruppen in der Internationalen Stiftung Mozarteum.
 
 Derzeit sind auf der [Homepage der RISM Zentralredaktion](/de/international/arbeitsgruppen-uebersicht.html#c108 "Öffnet internen Link im aktuellen Fenster") fünf unabhängig von einander agierende Arbeitsgruppen in Österreich zu finden, hinzu kommen mehrere dort nicht erfasste Einzelprojekte. Angesichts dieser vielfältigen Aktivitäten möchte die Arbeitsgemeinschaft allen in Österreich an der Quellenerschließung Interessierten ein Forum für den Meinungs- und Informationsaustausch bieten. Treffen der Arbeitsgemeinschaft sollen künftig jährlich stattfinden.

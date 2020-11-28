@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 C.P.E. Bach, Wilhelm Killmayer, Ruth Zechlin, Richard Strauss, Manfred Schubert, and RISM itself. The latest edition of _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ is packed with articles about music collections and includes an article by our colleague Steffen Voss of RISM Germany about the continuation of the project until 2025.
 
 [_Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}[2 (2014)](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}

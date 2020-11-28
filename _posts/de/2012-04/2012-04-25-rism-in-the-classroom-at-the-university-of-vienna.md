@@ -11,7 +11,6 @@ email: Stefan.Ikarus.Kaiser@oeaw.ac.at
 author: Ikarus Kaiser
 ---
 
-
 An der Universität Wien wurde erstmals von Ikarus Kaiser eine Lehrveranstaltung zur Arbeit mit der RISM-Datenbank abgehalten, die von insgesamt zehn Studenten der Musikwissenschaft besucht wurde.
 
 Dank der hervorragenden Zusammenarbeit mit dem Archivleiter des Wiener Schottenstiftes Herrn Martin Czernin wurden nach einer Einführungsphase im Oktober 2011 insgesamt neun Praktikums-Sitzungen im Archiv vom November 2011 bis zum Januar 2012 abgehalten. Die Lehrveranstaltung war auf die konkrete Forschungsarbeit anhand der Musik-Handschriften dieses Archives ausgelegt (RISM-Bibliothekssigel: A-Ws). Ziel war die Einschulung und Arbeit mit dem "Kallisto"-Programm, über das Einträge in die weltweit verwendete RISM-Datenbank vorgenommen werden. Zu diesem Zweck wurde von der Zentralredaktion des RISM ein Sammelzugang eingerichtet, über den die Teilnehmer der Lehrveranstaltung direkt und gleichzeitig auf die Datenbank zugreifen konnten. Die Studenten installierten den für das Programm erforderlichen "Kallisto-Client" zum Großteil auf ihren eigenen Notebooks, zusätzlich stand je ein weiterer Computer mit diesem Client im Archiv des Schottenstifts sowie im Seminarraum des Instituts für Musikwissenschaft zur Verfügung. Generell traten keine groben technischen Schwierigkeiten auf, lediglich zwei Studenten, deren Notebooks auf Apple-Basis konzipiert sind, mussten sich anderweitig behelfen, da der Client auf Windows-Systeme ausgelegt ist.

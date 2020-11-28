@@ -11,7 +11,6 @@ email: hyunkchang@ewha.ac.kr
 author: Hyun Kyung Chae
 ---
 
-
 _The following has reached us from Park Jeong Suk (Ewha Womans University):_
 
 As the South Korea branch of [IAML](http://www.iaml.info/national-branches/south-korea){:target="_blank"} and [RISM](http://ewha.kor.rism.info/index.php?id=531), the EMRI ([Ewha Music Research Institute](http://my.ewha.ac.kr/musicieen/){:target="_blank"}) organized an international conference entitled “Keeping Music Alive: Women Composers in Digital Music Archives” on October 27 and 28, 2017.
@@ -63,7 +62,6 @@ The attendees of the conference were women scholars and composers from the U.S.,
 · Cross Culture Music Encounters (Chihchun Chi-sun Lee, Ewha Womans University)
 
 · Thoughts on Composing, Composers, and Composers’ Groups (Hyo-shin Na 나효신, San Francisco-Based Composer)
-
 
 
 **Photos, top to bottom:**

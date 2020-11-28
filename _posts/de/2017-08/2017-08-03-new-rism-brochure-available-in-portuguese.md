@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Die RISM-Broschüre "RISM: An Overview" ist nun einer englisch-portugiesischen Fassung unter dem Titel "RISM: Uma visão Geral" verfügbar. Sie steht auf [der RISM Website](/de/publikationen/broschueren.html) zum Download bereit.
 
 Wir danken Beatriz Magalhães Castro (RISM Brasilien) und Sílvia Sequeira (RISM Portugal) für die Übersetzung des Kurzporträts ins Portugiesische.
@@ -21,6 +20,5 @@ Die Veröffentlichung der Broschüre fällt mit der dritten Konferenz der [IMS R
 Gerne senden wir Ihnen auch ein oder mehrere Exemplare in gedruckter Form auf dem Postweg zu. Bitte nehmen Sie mit uns [Kontakt](mailto:contact@rism.info) auf. Bitte teilen Sie uns mit, wie viele Exemplare Sie benötigen.
 
 "RISM: Uma visão Geral"schließt an die RISM-Broschüren in Englisch, Deutsch, Traditionelles Chinesisch, Vereinfachtes Chinesisch, Spanisch und Russisch an. Bitte teilen Sie uns mit, ob Sie daran interessiert sind, das Kurzporträt in eine zusätzliche Sprache zu übersetzen.
-
 
 

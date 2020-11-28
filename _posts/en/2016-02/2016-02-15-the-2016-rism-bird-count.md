@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The winter months keep most of us indoors, but this time of the year is greeted by birdwatchers on both sides of the Atlantic as they grab their binoculars and head outside for annual bird counts. There is the [Christmas Bird Count](http://www.audubon.org/conservation/science/christmas-bird-count){:target="_blank"} in North America, the [Big Garden Birdwatch](https://www.rspb.org.uk/birdwatch/){:target="_blank"} in the UK, the [Stunde der Wintervögel](http://www.nabu.de/aktionenundprojekte/stundederwintervoegel/ "external-link-new-window") in Germany, and a garden bird count organized by the [Ligue pour la Protection des Oiseaux](https://www.lpo.fr/actualites/les-30-et-31-janvier-2016-4e-edition-du-comptage-national-des-oiseaux-des-jardins){:target="_blank"} in France.
 
 As the results from these events come in, why don't we conduct our own RISM bird count? You can leave your binoculars behind and go straight to the [RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}!
@@ -30,16 +29,13 @@ The database does not offer a subject heading for birds in music, so full-text s
 
 One [starling](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
 
-
 -
 
 A flock of [thrush](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [cuckoo](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"}, and French [_pigeons_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
 
-
 -
 
 A [wild goose](https://opac.rism.info/search?id=350000507){:target="_blank"}
-
 
 
 The most abundant species this time of year seems to be the nightingale, if you total all sightings in [English](https://opac.rism.info/search?View=rism&q=Nightingale){:target="_blank"}, [German](https://opac.rism.info/search?View=rism&q=nachtigall){:target="_blank"}, and [French](https://opac.rism.info/search?View=rism&q=rossignol "external-link-new-window") - well over 800!
@@ -55,7 +51,6 @@ _The Bird Fancyer's Delight, or Choice Observations And Directions Concerning th
 
 Image from the_
 [_University of Cardiff_](http://www.cardiff.ac.uk/insrv/libraries/scolar/digital/music.html){:target="_blank"}
-
 
 
 A version is available digitized from [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} and Angliss has recorded some excerpts [here](https://soundcloud.com/spacedoguk/sets/the-bird-fancyers-delight){:target="_blank"}.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM und das Chopin-Institut (PL-Wbfc) arbeiten jetzt noch enger zusammen. Am Dienstag, dem 5. Februar 2019 haben Vertreter des Warschauer Chopin-Institutes und Mitarbeiter der RISM Zentralredaktion bei einem Treffen in Frankfurt am Main weitere Einzelheiten ihres gemeinsamen Projektes besprochen.
 
 Seit 2016 katalogisieren unsere Kolleginnen und Kollegen an der Bibliothek des Chopin-Institutes in Warschau ([PL-Wbfc](https://opac.rism.info/search?View=rism&siglum=PL-Wbfc&Language=de){:target="_blank"}) die Musikalienbestände ihres Hauses und des Chopinmuseums ([PL-Wmfc](https://opac.rism.info/search?View=rism&siglum=PL-Wmfc&Language=de){:target="_blank"}) im Erfassungsprogramm Muscat. Zusätzlich konnten sie 2016 weitere Gelder für die Katalogisierung anderer wertvoller Bestände in Polen akquirieren. Das sind die Musikalien des Schlosses Kozłówka in der Nähe von Lublin ([PL-KOZmzk](https://opac.rism.info/search?View=rism&siglum=PL-KOZmzk&Language=de){:target="_blank"}) und des Benediktinerinnenklosters von Staniątki in Kleinpolen ([PL-STAb](https://opac.rism.info/search?View=rism&siglum=PL-STAb&Language=de){:target="_blank"}). Außerdem wurde begonnen, den Bestand der Warschauer Musikalischen Gesellschaft zu katalogisieren ([PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm&Language=de){:target="_blank"}).

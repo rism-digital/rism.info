@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 After several years of discussions and negotiations with the [Istituto Centrale per il Catalogo unico delle Biblioteche Italiane](https://www.iccu.sbn.it/it/){:target="_blank"} (ICCU) and an intensive technical preparatory phase, more than 200,000 records of music manuscripts from the [SBN Musica](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} database were transferred to the internal RISM database at the beginning of 2019. The entries are currently being edited in certain points to align them with RISM guidelines and they are gradually being published in the online catalog. The RISM record always links to the original catalog entry in SBN.
 
 Today we would like to point out the first of the records that have been published. These include small collections such as [I-Rvcc](https://opac.rism.info/search?View=rism&siglum=I-Rvcc&Language=en){:target="_blank"} (Rome, Archivio e Biblioteca del Nobile Collegio Chimico Farmaceutico [Universitas Aromatariorum Urbis]) with six entries and [I-SGc](https://opac.rism.info/search?View=rism&siglum=I-SGc&Language=en){:target="_blank"} (San Gimignano, Biblioteca Comunale) with twelve entries.
@@ -25,6 +24,5 @@ Among the new records are also many for pieces by contemporary composers such as
 With this data import, we received 27,000 new personal names alone! Editing this data—which is happening independent of the manuscripts, and are already in the RISM catalog—will take some time. Around 4,600 names have already been processed.
 
 After this trial phase, we are aiming to publish data library by library, especially from larger data pools. RISM had more than 86,000 records for music manuscripts from 98 Italian libraries prior to the data import, and some of these are not yet in the SBN Musica catalog, but the records are available as [linked open data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"}.
-
 
 

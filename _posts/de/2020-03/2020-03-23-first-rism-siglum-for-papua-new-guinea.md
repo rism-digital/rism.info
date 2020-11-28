@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Ein Teil unserer Arbeit bei RISM betrifft die Vergabe neuer [Bibliothekssigel](/de/rism-bibliothekssigel.html) für jede Institution auf der Welt, die Materialien zur Erforschung der Musik besitzt. Wir erhalten regelmäßig monatliche Anfragen von Wissenschaftlern, Archivaren und Bibliothekaren. Im Laufe unserer täglichen Arbeit stoßen wir auch auf Institutionen, für die wir kein Sigel haben.
 
 Ein kürzlich erschienener [Artikel von Maureen Russell](https://www.tandfonline.com/doi/full/10.1080/10588167.2019.1668129){:target="_blank"} in der Zeitschrift _Music Reference Services Quarterly_ machte uns auf die Existenz des Musikarchivs am Institut für Papua-Neuguinea-Studien aufmerksam. Darin interviewt sie den Direktor, Dr. Don Niles. Die Stärke des 1974 gegründeten Musikarchivs ist seine Sammlung an Tonaufnahmen von insgesamt 12.000 Stunden sowie eine große Sammlung von Fotografien und Büchern. Die frühesten Tonaufnahmen stammen aus dem Jahr 1898. Das Musikarchiv befasst sich auch mit der Tanz- und Oralgeschichte.
@@ -25,7 +24,5 @@ RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materia
 Bitte [kontaktieren Sie uns](mailto:contact@rism.info), wenn Sie ein neues RISM-Sigel für Ihre Forschungen brauchen. Wir werden es erstellen.
 
 
-
 _Abbildung_: Flagge von Papua-Neuguinea, von [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg){:target="_blank"}.
-
 

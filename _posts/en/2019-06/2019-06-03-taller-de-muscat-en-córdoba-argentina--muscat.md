@@ -11,7 +11,6 @@ email: lucianagsh@gmail.com
 author: Luciana Giron Sheridan and Lucas Reccitelli
 ---
 
-
 _We have received the following from Luciana Giron Sheridan and Lucas Reccitelli ([Universidad Nacional de Córdoba](https://www.unc.edu.ar/){:target="_blank"}). English below:_
 
 Durante la última semana del mes de marzo 2019 se llevó a cabo un taller de Muscat en Córdoba, Argentina. El taller tuvo lugar en el campus de la Universidad Nacional de Córdoba y fue co-organizado por el Grupo de Musicología Histórica Córdoba (grupo de investigación dirigido por el Dr. Leonardo Waisman y la DEA Marisa Restiffo) y la Secretaría de Investigación y Producción de la Facultad de Artes (SeIP).
@@ -24,9 +23,7 @@ En cuanto a los anfitriones, el GMH comenzó a catalogar en Muscat en 2016, y en
 
 El taller RISM fue el más largo hasta el momento (40hs en total) e incluyó trabajo muy intenso. Todo esto no hubiera sido posible sin la excelente predisposición y paciencia de Jennifer. Fue una experiencia significativa para el GMH, que está encantado y dispuesto a continuar trabajando con RISM.
 
-
 \*\*\*\*\*
-
 
 During the last week in March 2019, a Muscat workshop was carried out in Córdoba, Argentina. The workshop took place at the Universidad Nacional de Córdoba campus, and was jointly organized by the Grupo de Musicología Histórica Córdoba (GMH, research group directed by Dr Leonardo Waisman and DEA Marisa Restiffo) and the Research Office of the Facultad de Artes (Faculty of Arts).
 

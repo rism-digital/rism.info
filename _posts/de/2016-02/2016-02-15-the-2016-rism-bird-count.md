@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Die Wintermonate verbringen die meisten von uns drinnen. Aber jetzt grüßen die Vogelbeobachter von beiden Seiten des Atlantiks, greifen zum Fernglas und gehen raus zur jährlichen Vogelzählung. In Nordamerika gibt es die [Weihnachtsvogelzählung](http://www.audubon.org/conservation/science/christmas-bird-count){:target="_blank"}, im Vereinigten Königreich die [Big Garden Birdwatch](https://www.rspb.org.uk/birdwatch/){:target="_blank"}, in Deutschland die [Stunde der Wintervögel](http://www.nabu.de/aktionenundprojekte/stundederwintervoegel/ "external-link-new-window") und in Frankreich eine Gartenvogelzählung organisiert von der [Ligue pour la Protection des Oiseaux](https://www.lpo.fr/actualites/les-30-et-31-janvier-2016-4e-edition-du-comptage-national-des-oiseaux-des-jardins){:target="_blank"}.
 
 Warum führen wir nicht als Ergebnis dieser Ereignisse eine eigeme RISM-Vogelzählung durch? Sie können Ihre Ferngläser runter nehmen und direkt zum [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} gehen!
@@ -31,16 +30,13 @@ Die Datenbank bietet keine Themenüberschrift für Vögel in der Musik, daher la
 Ein [starling (Star)
 ](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
 
-
 -
 
 Eine Schar von [Drosseln](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [Kuckuck](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"} und französischen Tauben ([_pigeons)_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
 
-
 -
 
 Eine [Wildgans](https://opac.rism.info/search?id=350000507){:target="_blank"}
-
 
 
 Die am meisten vertretene Vogelart dieser Zeit scheint die Nachtigall mit all ihrem Vorkommen in [englisch](https://opac.rism.info/search?View=rism&q=Nightingale){:target="_blank"}, [deutsch](https://opac.rism.info/search?View=rism&q=nachtigall){:target="_blank"} und [französisch](https://opac.rism.info/search?View=rism&q=rossignol "external-link-new-window") zu sein - weit mehr als 800 Mal!
@@ -64,7 +60,6 @@ Hat irgendjemand andere Beobachtungen gemacht, die Sie uns mitteilen möchten? L
 **Suchtipp** : Benutzen Sie die Bool'schen Operatoren, um Quellen auszuschliessen, in denen der Vogel im Namen einer Person enthalten ist. Verwenden Sie die Erweiterte Suche und geben Sie die Vogelart in **Alle Felder** ein, dann sowohl in den Feldern **Weitere Personen** und **Komponist**. Wählen Sie **und nicht** aus dem Drop-down-Menu, das den Feldern voransteht:
 
 ![advanced search](http://rism.info/resources-old-website/news/Vogelzaehlung_opac.jpg)
-
 
 
 _Abbildung oben_: Athanasius Kircher, _Musurgia universalis_, Rome 1650, lib. I, zwischen p.30-31. Exemplar der Music Library at University of North Carolina at Chapel Hill (US-CHH), via [Internet Archive](https://archive.org/details/athanasiikircherkirc){:target="_blank"}.

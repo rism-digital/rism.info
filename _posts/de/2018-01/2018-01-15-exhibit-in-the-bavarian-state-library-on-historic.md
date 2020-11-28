@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Seit 23. November 2017 zeigt die Bayerische Staatsbibliothek (BSB) München eine Ausstellung zu Tabulaturhandschriften mit dem Titel "[Etlich Liedlein zu singen oder uff der Orgeln und Lauten zu schlagen](https://www.bsb-muenchen.de/veranstaltungen-und-ausstellungen/article/etlich-liedlein-zu-singen-oder-uff-der-orgeln-und-lauten-zu-schlagen-tabulaturhandschriften-in-der-bayerischen-staatsbibliothek-2164/){:target="_blank"}". Die handschriftlichen Tabulaturen und Stimmbücher aus dem 16. und 17. Jahrhundert sind noch bis 28. März 2018 zu sehen.
 
 Die Tabulaturen stellen speziell für die Instrumentalmusik eine besondere Notationsform dar und sind dank der Sammelleidenschaft mehrerer bayerischer Herzöge in den Bestand der Bayerischen Staatsbibliothek gelangt.
@@ -23,8 +22,6 @@ Hier ein kurzes Video mit Hintergrundinformationen zum Digitalisierungsprojekt (
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9MQI8SH8-AU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-
 _Abbildung_: _Bildmotiv des Plakats zur Kabinettpräsentation_
-
 
 

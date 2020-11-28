@@ -11,7 +11,6 @@ email: brinzing@mozarteum.at
 author: Dr. Armin Brinzing
 ---
 
-
 In Salzburg startete die Internationale Stiftung Mozarteum ein neues Projekt in Kooperation mit dem Archiv der Erzdiözese Salzburg. Ziel ist die Erschließung des wertvollen historischen Bestands des "Dom-Musikvereins und Mozarteums". Diese Institution wurde 1841 - mit Unterstützung von Mozarts Witwe Constanze - in Salzburg gegründet. Als sich dieser Verein 1880 in den "Dommusikverein" auf der einen und die "Internationale Stiftung Mozarteum" auf der anderen Seite aufspaltete, wurde auch der Bibliotheksbestand getrennt. Im Rahmen des Projekts soll diese bedeutende historische Sammlung nun virtuell wieder zusammen geführt und in den wichtigsten Teilen auch digitalisiert werden.
 Mehr erfahren Sie[hier](http://www.mozarteum.at/wissenschaft/bibliothek/bibliotheca-mozartiana/aktuelles-projekte.html){:target="_blank"}.
 

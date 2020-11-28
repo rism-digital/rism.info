@@ -11,7 +11,6 @@ email: eliska.sediva@centrum.cz
 author: Eliška Šedivá
 ---
 
-
 _Die folgende Ankündigung einer Neuerscheinung erhielten wir von unserer Kollegin Eliška Šedivá (RISM Tschechische Republik):_
 
 **Catalogus collectionis operum artis musicae comitis Clam-Gallas_ (ed. Eliška Šedivá, translation of the introduction by Andy Letham), Prague: [National Library of the Czech Republic](https://www.nkp.cz/o-knihovne/zakladni-informace/vydane-publikace/prave-vyslo-cele#catalogus){:target="_blank"}, 2018. 4 vols (1456 pp.), in: Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum series; vol. X/1-4, ISBN 978-80-7050-698-1.**

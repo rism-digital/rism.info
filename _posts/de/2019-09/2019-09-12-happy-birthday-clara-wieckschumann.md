@@ -11,7 +11,6 @@ email: Marina.Gordienko@sbb.spk-berlin.de
 author: Marina Schieke-Gordienko
 ---
 
-
 _Wir haben den folgenden Beitrag von Marina Schieke-Gordienko, Referantsleiterin der [Musikabteilung, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/){:target="_blank"} erhalten. Eine ausführliche Version ist in [Bibliotheksmagazin](https://staatsbibliothek-berlin.de/die-staatsbibliothek/publikationen-der-staatsbibibliothek/bibliotheksmagazin/){:target="_blank"} (2/2019) erschienen._
 
 Clara Wieck-Schumann war die wohl berühmteste Pianistin des 19. Jahrhunderts, aber auch Komponistin, Herausgeberin, Klavierpädagogin und Konzertagentin.
@@ -27,7 +26,6 @@ Am 20. Mai 1896 starb Clara Schumann in Frankfurt am Main.
 **Der Schumann-Nachlass**
 
 Der umfangreiche Schumann Nachlass kam durch Clara Schumann in die Königliche Bibliothek, die sie als „eine würdige und sichere Stätte“ (vgl. “Acta betreffend den handschriftlichen Nachlass von Robert Schumann. 1887,” SBB, Handschriftenabteilung, PSB, III H.23, S. 3) zur Aufbewahrung der Autographen ihres Mannes ansah. Hier befanden sich schon die Autographen herausragender Komponisten, wie Johann Sebastian Bach, Wolfgang Amadeus Mozart und Ludwig van Beethoven. Robert Schumanns Musikautographen kamen zunächst als Depositum in die Handschriftenabteilung der Königlichen Bibliothek und konnten 1904 dank einer privaten Stiftung erworben werden. Den Grundstock der Schumann-Sammlung bildeten 18 Bände, darunter die drei Liederbände aus den Jahren 1840-1847, die _Sinfonie Nr. 3_ (_Rheinische_) und nicht zuletzt die 28 Bände mit Familienkorrespondenz, die kriegsbedingt in die Biblioteka Jagiellońska Kraków gelangt sind, wo sie sich noch heute befinden. Eine wichtige Ergänzung bildete die Erwerbung von weiteren Originalhandschriften im Jahr 1924 von der ältesten Tochter Marie Schumann, worunter sich auch Clara Schumanns _Klavierkonzert_ _Nr. 1_ (1836), zahlreiche Briefe von Johannes Brahms sowie der Briefwechsel zwischen Robert und Clara Schumann befanden. Schließlich gelangten im Jahr 1940 die drei _Haushaltbücher_ (1837-1856) und einzelne Gegenstände aus dem privaten Gebrauch des Ehepaars Schumann durch den Enkel Ferdinand Schumann in die Preußische Bibliothek. Zur Berliner Schumann-Sammlung gehören weiterhin 13 Bände mit Musikautographen Clara Schumanns, 7 Korrespondenzbände sowie das legendäre _Berliner Blumentagebuch_ für Johannes Brahms von den gemeinsamen Konzertreisen 1857-1859, das liebevoll arrangierte Pflanzen und Blätter enthält.
-
 
 
 _Abbildungen_:

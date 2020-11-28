@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 Wir haben kürzlich vier Veröffentlichungen über belgische und holländische Musikquellen erhalten, die wir gern mit Ihnen teilen würden:
-
 
 
 - Gilbert Huybens und Leo van Buyten:_Willem__Gommaar Kennis: (Lier 1717 - Leuven 1789), leven en werk; zijn muzikale betekenis in de 18. eeuw._ Arca Lovaniensis. Leuven: Vrienden van de Leuvense Stedelijke Musea, 1983.
@@ -29,11 +27,9 @@ TeilII: [Orgelkunst](http://www.orgelkunst.be/cd-s-en-uitgaven/2007-nr-3){:targe
 RISM Kurztitel: BastiaensA 2007
 
 
-
 - Maarten Beirens, Ellen Kempers und Heidi Moyson: _[Achter de muziek aan. Muzikaal erfgoed in Vlaanderen en Nederland](https://www.acco.be/nl-be/items/9789033482472/Achter-de-muziek-aan){:target="_blank"}_. Leuven: Acco, 2010.
 Dieser Band enthält viele Artikel über Musikquellen, die von den RISM Mitarbeitern Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs und Veronique Verspeurt geschrieben wurden.
 
 Wir dankenKlaas Jaap van der Meijden von [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}für die Zusendung der Bücher.
-
 
 

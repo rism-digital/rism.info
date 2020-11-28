@@ -11,7 +11,6 @@ email: shawbecky1@gmail.com
 author: Becky Shaw
 ---
 
-
 _The following is by Becky Shaw (Dalhousie University):_
 
 The Killam Memorial Library at Dalhousie University (Halifax, Nova Scotia, Canada; [CDN-Hu](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=CDN-Hu&Language=en)) is pleased to announce the addition of their music manuscripts and first edition publications to RISM. These materials are located within the [University Archive](https://libraries.dal.ca/find/university-archives.html) collection at the Library and their addition to RISM was part of a larger project to increase accessibility to these items, undertaken by Rebecca Shaw (a Student Intern at the Archives).
@@ -21,8 +20,6 @@ Music is one of several areas addressed in the University Archives’ collection
 As part of this project, we also developed guidelines for transferring descriptive metadata from the Canadian standard for archival description (Rules for Archival Description, or [RAD](http://www.cdncouncilarchives.ca/archdesrules.html)) to MARC. These instructions are available in our Documentation Wiki, and include [general instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat) for adding descriptions to RISM from RAD (or another archival standard); specific instructions for [music manuscripts](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/105054209/Archival+description+of+music+manuscripts); and instructions for [published music](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/701038593/Archival+description+of+published+music+scores+and+sheet+music). We hope that these guidelines will be of use to other archival institutions, both within Canada and internationally.
 
 
-
 _Image_: Heitor Villa-Lobos, _Concerto para piano e orquestra_ (1945), [RISM ID no.: 1001044620](https://opac.rism.info/search?id=1001044620&View=rism)
-
 
 

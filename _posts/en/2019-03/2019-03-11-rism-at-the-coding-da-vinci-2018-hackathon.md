@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM was one of the data providers at last year's [Coding da Vinci Rhein-Main Hackathon](https://codingdavinci.de/events/rheinmain/){:target="_blank"}, which had participation from colleges and universities in Aschaffenburg, Darmstadt, Frankfurt am Main, Gießen, Mainz, Offenbach, Wiesbaden and Worms and was organized in part by the Deutsche Digitale Bibliothek and Wikimedia Deutschland and supported by the Kulturstiftung des Bundes.
 
 The extensive data collections on the most various of topics from the region's museums, libraries, and archives--our collective digital cultural heritage--should be made known to a wider audience. According to the website, "the Coding da Vinci cultural hackathon opens the possibility to get to know and use the data and thus to create new connections between institutions, their cultural heritage, and the public."
@@ -24,26 +23,21 @@ A variety of data pools were used to create the game:
 
 [Monsters from the Martinus-Bibliothek in Mainz](https://codingdavinci.de/daten/#martinus_bibliothek)
 
-
 -
 
 Using the [RISM catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}, information on digitized autograph manuscripts of symphonies by Christoph Graupner, which are preserved in the [ULB Darmstadt](https://codingdavinci.de/daten/#ulb_darmstadt)
-
 
 -
 
 A random selection from the [List of Medieval Names](https://www.mithrilandmages.com/utilities/MedievalBrowse.php) by Mark Hassman
 
-
 -
 
 Adjectives from the [openthesaurus.de](https://www.openthesaurus.de/about/api) API
 
-
 -
 
 ["Kleider in Bewegung"](https://codingdavinci.de/daten/#histmus_ffm) from the Historisches Museum Frankfurt
-
 
 
 Can you figure out which melody will calm the monster?

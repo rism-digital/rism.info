@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das Projekt MUSE bietet freien Zugang zu einer Reihe von wissenschaftlichen Zeitschriften, um den Zugang für eine qualitativ hochwertige Lehre und Forschung während der COVID-19-Krise zu erleichtern. So sind [Artikel in](https://muse.jhu.edu/journal/688){:target="_blank"}_[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_, der Zeitschrift der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/){:target="_blank"} (IAML, eine der Patronatsgesellschaften des RISM) ab dem Publikationsjahr 2016 [bis Ende Juni kostenlos verfügbar](https://www.iaml.info/news/free-access-fontes-artis-musicae){:target="_blank"}.
 
 Es gibt eine Reihe von Artikeln, die besonders für an musikalischen Quellen interessierte Personen relevant sind. Nutzen Sie die Gelegenheit, die folgenden Artikel zu lesen:
@@ -24,7 +23,6 @@ Jennifer A. Ward, Axel Klein
 Sandra Tuppen, Stephen Rose, Loukia Drosopoulou
 - [The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM](https://muse.jhu.edu/article/680345){:target="_blank"}
 David Blum
-
 
 
 # Musikhandschriften, Notendrucke und Libretti
@@ -57,7 +55,6 @@ Jesus Estevez
 Marta Walkusz
 - [Unearthing Catalan Musical Heritage: The IFMuC Project](https://muse.jhu.edu/article/680343){:target="_blank"}
 Aurèlia Pessarrodona, Josep Maria Gregori
-
 
 
 # Musiksammlungen

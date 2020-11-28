@@ -11,7 +11,6 @@ email: mikusi@oszk.hu
 author: ''
 ---
 
-
 The head of the RISM national working group in Hungary, Balázs Mikusi ([National Széchényi Library](http://regi.oszk.hu/index_en.htm){:target="_blank"}, Budapest; [H-Bn](https://opac.rism.info/search?View=rism&siglum=H-Bn){:target="_blank"}), has announced that the newly discovered autograph fragment of Mozart's famous Sonata in A major (K. 331, with the 'Alla Turca' finale) is now available online. The National Széchényi Library has just launched a website to make this valuable manuscript freely accessible to all:
 
 [http://mozart.oszk.hu/index\_en.html](http://mozart.oszk.hu/index_en.html){:target="_blank"}
@@ -37,6 +36,5 @@ Balázs Mikusi
 Balázs Mikusi
 
 .
-
 
 

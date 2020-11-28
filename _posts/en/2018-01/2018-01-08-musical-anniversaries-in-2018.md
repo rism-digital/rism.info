@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Happy New Year!**
 
 It has become something of a tradition for us to kick off the year by taking a look at musical anniversaries for the next twelve months. The people whose birthdays or anniversaries of death we mark are not only composers but they can also be librettists, performers, dedicatees, or people who are in other ways connected to a music manuscript or printed edition. They were born or died in a year ending in 18 or 68.
@@ -38,7 +37,6 @@ Here are the full lists.
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1Yl3qbQzkv-og7QRRYCyc8JCk6bhCKZirWbFOiptY&amp;containerId=googft-gviz-canvas"></iframe>
 
 
-
 **Died in xx18 or xx68** (click on any heading to sort):
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1fr_jL-iwB4Jsgzh2ocz14Cc0F8_orZAR6dpUKB_a&amp;containerId=googft-gviz-canvas"></iframe>
@@ -50,6 +48,5 @@ m = male
 w / f = female
 
 _Image from_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
-
 
 

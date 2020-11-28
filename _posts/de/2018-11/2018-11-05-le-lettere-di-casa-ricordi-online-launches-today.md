@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Das [Archivio Storico Ricordi](https://www.archivioricordi.com/){:target="_blank"} bewahrt die historischen Materialien eines der bedeutendsten Musikverlagshäuser aller Zeiten. Die Ricordi-Verleger prägten mehr als 200 Jahre nicht nur durch ihre Verlagstätigkeit, sondern auch als Impresarios, Kulturförderer und -manager das italienische Musikleben.
 
 Das Archivio Storico Ricordi erweitert nun seine [digitale Sammlungen](https://digital.archivioricordi.com/){:target="_blank"} um die Veröffentlichung der Briefsammlung, die seit heute [online](https://letters.archivioricordi.com/){:target="_blank"} zur Verfügung steht.
@@ -21,6 +20,5 @@ Rund 30.000 an die Casa Ricordi gerichtete autographe Schreiben von Komponisten,
 Die Verlegerfamilie Ricordi und ihre Tätigkeiten spielen auch im RISM-Katalog eine große Rolle. [Über 500 Einträge](https://opac.rism.info/search?View=rism&institution=ricordi){:target="_blank"} verweisen auf die Publikationstätigkeit und die eventuell daraus resultierende handschriftliche Verbreitung. (Wir empfehlen eine [**Erweiterte Suche**](https://opac.rism.info/index.php?id=22){:target="_blank"} über den Index **Verlagsname**.)
 
 _Abbildung_: Marco Aurelio Marliani, Il bravo, Milano: Ricordi, 1836; [RISM ID no. 1001026401](https://opac.rism.info/search?id=1001026401&View=rism&Language=en){:target="_blank"}.
-
 
 

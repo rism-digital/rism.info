@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Not much is known about Mathias Georg Monn, a composer of the Viennese Early Classic period who was born 300 years ago this Sunday. Monn (9 April 1717 – 3 October 1750) is named in the records of the Klosterneuburg Monastery as _Discantist_ for the years 1731/32. In 1738 or later he was the organist of the Karlskirche in Vienna. An autograph collection of thoroughbass exercises is preserved at the Austrian National Library, which points to some sort of teaching activity on his part. He died at the age of 33.
 
 Most of his symphonies show a string quartet-influenced instrumentation and are usually in three movements. Instrumental music predominates Monn's oeuvre. Only a few masses count among his vocal music. For concertos, Monn favored the piano as a solo instrument, as was common practice in eighteenth-century Vienna. The transmission of his works is limited to the former lands of the Hapsburg Empire.
@@ -25,5 +24,4 @@ As far as the scholarly literature is concerned: Volume 39 of the series _Denkm�
 Treat yourself to the Cello Concerto in G minor by Mathias Georg Monn in this recording with Jacqueline du Pré:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
-
 

@@ -11,7 +11,6 @@ email: andrea.hammes@slub-dresden.de
 author: Andrea Hammes
 ---
 
-
 _This post by Andrea Hammes has been adapted from the [original that appeared on the SLUB Blog](https://blog.slub-dresden.de/beitrag/2019/05/22/geburtstagsgeschenk-fuer-richard-wagner-einzigartige-auffuehrungsmaterialien-zu-tannhaeuser-und-me/){:target="_blank"} ([CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}):_
 
 For Richard Wagner's 206th birthday on 22 May 2019, the Landesdigitalisierungsprogramm Sachsen (LDP) and the Sächsische Staatsoper Dresden (Semper Oper) had a special present for all Wagner fans: High-quality digital copies of performance materials for Wagner operas were made freely accessible online through sachsen.digital.
@@ -25,7 +24,6 @@ The material on "Tannhäuser" that is now available online](https://sachsen.digi
 Since 2015, the SLUB Dresden, supported by the Free State of Saxony, has been coordinating the statewide digitization program, which digitizes cultural assets from Saxon scientific and cultural institutions and makes them accessible online. The aim is to provide the widest possible access to Saxony's scientific and cultural information and objects for teaching and research purposes as well as for the general public.
 
 The digitized sources for "Die Meistersinger von Nürnberg" are available at [www.slubdd.de/meistersinger](https://sachsen.digital/werkansicht/dlf/322496/1/){:target="_blank"} and those for "Tannhäuser" at [www.slubdd.de/tannhaeuser](https://sachsen.digital/werkansicht/dlf/322452/1/){:target="_blank"}.
-
 
 _Image_: Richard Wagner, Tannhäuser, timpani part. Manuscript in D-Dl Mus.5876-F-510 ([RISM ID no. 270002005](https://opac.rism.info/search?id=270002005&View=rism&Language=en){:target="_blank"}); [available online](https://digital.slub-dresden.de/werkansicht/dlf/72230/262/0/){:target="_blank"}.
 

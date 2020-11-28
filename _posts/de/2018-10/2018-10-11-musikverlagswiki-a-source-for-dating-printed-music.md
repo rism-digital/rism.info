@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Kürzlich berichteten wir über[laufende bibliographische Projekte zu Mozart und Clementi](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1709&cHash=27ebcbd4438ffec144c40bf8992626f3){:target="_blank"}, die wir bei der diesjährigen IAML-Konferenz in Leipzig kennengelernt haben. Heute möchten wir Informationen zu einem anderen Hilfsmittel teilen, über das Sabine Koch (Hochschule für Technik, Wirtschaft und Kultur Leipzig) berichtete: [das Musikverlagswiki](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
 
 Wir alle wissen um die Schwierigkeiten, die Publikationsdaten von gedruckten Musikquellen zu ermitteln, die leider oft komplett fehlen. Das Musikverlagswiki ging 2011 an den Start um genau diese Lücke zu füllen.
@@ -21,6 +20,5 @@ Wenn Sie den Namen des Verlegers oder Druckers kennen, können Sie direkt auf de
 Wenn Sie einen dieser "verwaisten" Drucke ohne Titelblatt haben, können Sie auf der Seite **Plattennummern** nach Beispiel-Plattennummern von dutzenden Verlegern suchen, selbst nach solchen, die bislang keine weiteren Einträge im Wiki haben, um zu identifizieren, wer der Verleger sein könnte. Die Seite **Literatur** listet authentische Primär- und verlässliche Sekundär-Quellen auf.
 
 Da dieses Hilfsmittel ein Wiki ist, können neue Informationen ergänzt werden und neue Beiträge sind stets willkommen. Die Seite **Musterseiten** kann verwendet werden, um neue Seiten für Verleger oder Drucker anzulegen.
-
 
 

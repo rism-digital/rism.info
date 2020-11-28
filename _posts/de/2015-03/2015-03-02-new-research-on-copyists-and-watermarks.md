@@ -11,7 +11,6 @@ email: klaus.keil@rism.info
 author: Klaus Keil
 ---
 
-
 Wissenschaftliches Kolloquium „Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichement“ Staatsbibliothek zu Berlin, 6. bis 8. Oktober
 
 In der deutschen musikphilologischen Tradition sind Schreiber- und Wasserzeichenforschung tief verankert. Beide Forschungszweige entstammen der Editionspraxis der Gesamtausgaben, vor allem der ältesten unter Ihnen, der Bach-Gesamtausgabe.
@@ -19,7 +18,6 @@ In der deutschen musikphilologischen Tradition sind Schreiber- und Wasserzeichen
 Die Staatsbibliothek zu Berlin arbeitet im Rahmen des DFG-geförderten Projektes KoFim = „Kompetenzzentrum Forschung und Information Musik“ den Quellenbestand ihrer sog. Autographensammlung auf. Hier kommen also Quellen nicht als Werküberlieferung eines Komponisten in Betracht, sondern im Zusammenhang verschiedener Sammlungen, die im späten 18. und im 19. Jahrhundert zusammengetragen wurden.
 
 Das Projekt wird in Zusammenarbeit mit der RISM-Zentralredaktion, der Bayerischen Staatsbibliothek München und der Staatsbibliothek zu Berlin durchgeführt. Dabei kommen für die Beschreibung der Quellen die Standards des RISM zur Anwendung, auch indem das Erfassungsprogramm Kallisto der Zentralredaktion benutzt wird. In der Intensität der Beschreibung und in einigen technischen Details werden aber die üblichen Kriterien des RISM überschritten: So werden Schreiber und Provenienzen genauer untersucht – lassen sich aber auch im Sammlungszusammenhang leichter erschließen. Digitalisate der Handschriften werden mit den Beschreibungen verlinkt, digitalisierte Schriftproben an die Normsätze der Schreiber angehängt.
-
 
 
 Technisch aufwendiger ist die Digitalisierung der Wasserzeichen, die mit Hilfe einer Wärmebildkamera aus dem Hintergrund hervorgeholt werden. Die Abbildungen der Wasserzeichen werden zum [Wasserzeichen Information System (WZIS)](http://www.wasserzeichen-online.de/){:target="_blank"} geliefert, sind damit auch im [Wasserzeichenportal Bernstein](http://www.memoryofpaper.eu/){:target="_blank"} auffindbar und werden mit den RISM Titeln verlinkt.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The [Biblioteca Nacional de Chile](http://www.bibliotecanacional.cl/){:target="_blank"} in Santiago (RCH-Sbnc) is home to a rare music manuscript from ca. 1790, which it has had in its possession since January 2014. It was a gift from the descendants of the Chilean musicologist Guillermo Marchant Espinoza (1950-2009), who rescued it from the rubble during a house demolition. The manuscript is titled _Libro sesto_, implying that at least five other similar manuscripts must have existed that have not yet come to light.
 
 As was [announced when the book was presented to the library](http://www.bibliotecanacional.cl/615/w3-article-28491.html){:target="_blank"}, the _Libro Sesto_ is one of the few documents that bears witness to colonial instrumental music in South America. It contains 165 works for keyboard and/or organ that the African slave Maria Antonia Palacios copied out for her own use, as she was responsible for music at her master's home and church.

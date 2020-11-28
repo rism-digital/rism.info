@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Neben der niederländischen Stadt Leeuwarden ist Maltas Hauptstadt Valletta Kulturhauptstadt 2018. Valletta ist die kleinste Hauptstadt der Europäischen Union und in ihrer Gesamtheit UNESCO-Weltkulturerbe.
 
 In der ab 1566 von Malteserrittern erbauten Stadt sind alle Sehenswürdigkeiten bequem zu Fuß zu erreichen. Doch „d_iese Kulturhauptstadt ist anders als andere Kulturhauptstädte. Es geht nicht nur um Valletta, sondern um ganz Malta und auch um Gozo.“_ (Alexiej Dingli, Bürgermeister von Valletta). Kulturfans erwartet das ganze Jahr über ein prall gefüllter [Kulturkalender](https://valletta2018.org/){:target="_blank"}.
@@ -42,7 +41,6 @@ Quellennachweise aus Malta gibt es noch nicht in der RISM-Datenbank, aber das ka
 **Francesco Vincenzo Schira** wurde 1809 auf Malta geboren, verbrachte aber die meiste Zeit seines Lebens in London, wo er 1883 starb. Von den vielen Opern, Arien und Romanzen sind heute [nur noch wenige Werke](https://opac.rism.info/search?View=rism&author=Schira+Francesco){:target="_blank"} bekannt.
 
 **Michelangelo Vella** (1710, Senglea – 1792, Cospicua) erhielt seine musikalische Ausbildung ebenfalls in Neapel und kehrte 1738 nach Malta zurück, um als Musiklehrer, Organist und Kapellmeister zu wirken. Die sechs Sonaten für drei Violinen und Bass zählen zu seinen beliebstesten Werken und erschienen zu Lebzeiten in Paris im Druck (RISM A/I: [V 1107, VV 1107, VV 1107a](https://opac.rism.info/search?View=rism&author=Vella+Michelangelo){:target="_blank"}).
-
 
 
 _Abbildung_: Blick auf Valletta, Foto von Joergsam, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A workshop for advanced users of Muscat, RISM's cataloging program for describing musical sources, took place from 12 to 14 June 2019 at the [National Library of the Czech Republic](https://www.en.nkp.cz/){:target="_blank"} in Prague.
 
 Guido Kraus from the RISM Central Office led the workshop for experienced catalogers from the RISM Prague working group, which is under the leadership of Zuzana Petrášková. The focus was on printed music and composite volumes.
@@ -22,6 +21,5 @@ The workshop went into detail about how to edit and revise catalog records from 
 In addition, the group practiced creating new records, including records for anthologies (collections with individual records) and compositions issued individually.
 
 At the end, the participants practiced cataloging composite volumes, which sometimes have different materials such as handwritten and printed items or collections and individual items together in one volume.
-
 
 

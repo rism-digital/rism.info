@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://rism.info/?id=861) veröffentlicht worden. Einige Punkte sollen hier hervorgehoben werden:
 
 **Titelanzahl:** Dank der unermüdlichen Arbeit unserer international agierenden Kollegen hat der [RISM Online Katalog](https://opac.rism.info/){:target="_blank"} momentan 1.090.000 Einträge.

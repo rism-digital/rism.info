@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Im Juni vor zehn Jahren ging der [RISM-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} online. Am Montag haben wir einen [Artikel des Leiters der RISM-Zentralredaktion](/rism_online_catalog/2020/06/22/10-years-of-the-rism-online-catalog.html){:target="_blank"} - Klaus Keil - über die Entwicklung des Katalogs vom Mikrofiche zum Open-Access-Katalog veröffentlicht.
 
 Heute möchten wir Ihnen einige bestärkende Worte von einer sehr wichtigen Gruppe von Menschen mitteilen: unseren Katalognutzern. Wir fragten, wie der Katalog bei der Recherche geholfen hat, und erhielten unter anderem folgende Antworten:
@@ -28,8 +27,6 @@ _Maria Christina Cleary, Italy_
 Vielen Dank an unsere Nutzer für die freundlichen Worte, und danke, dass Sie RISM benutzen! Wir hoffen, dass der Katalog auch weiterhin ein wichtiges Hilfsmittel für die Forschung ist.
 
 
-
 _Abbildung_: Fanny Hensels Morgengruß, vermutlich ein Geschenk der Komponistin für ihren Ehemann Wilhelm Hensel. Staatsbibliothek zu Berlin - PK (D-B) MA Ms. 174. [RISM ID no. 462017400](https://opac.rism.info/search?id=462017400&View=rism){:target="_blank"}. [Available online](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN779294270){:target="_blank"}.
-
 
 

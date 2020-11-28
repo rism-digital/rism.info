@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 A new book has been published by Axel Klein, who was our Ireland consultant when RISM presented[An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"} in March 2014.
 
 [O'Kelly - An Irish Musical Family in Nineteenth-Century France Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}

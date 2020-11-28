@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 We are delighted to announce that there are some new cataloging tools available that will help improve the presence of RISM in local library catalogs.
 
 You can find these new resources in the [Cataloging Tools](/organization/rism-for-libraries.html#c3947) section of the RISM for Libraries page.

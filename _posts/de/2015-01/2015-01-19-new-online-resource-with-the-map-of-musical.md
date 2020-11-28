@@ -11,15 +11,12 @@ email: jbagues@eresbil.com
 author: Jon Bagüés
 ---
 
-
 Autor des folgenden Beitrags ist Jon Bagüés, ERESBIL - Baskisches Musikarchiv:
-
 
 
 Das[Dokumentationszentrum für Musik und Tanz](http://musicadanza.es/){:target="_blank"}des spanischen Kulturministeriums stellte in Zusammenarbeit mit[AEDOM](http://www.aedom.org/){:target="_blank"}, der[spanischeh Abteilung der IAML](http://www.iaml.info/activities/projects/access_to_music_archives){:target="_blank"} (AMA-Projekt) und [RISM Spanien](http://www.rism.info/en/workgroups/spain-barcelona-consejo-superior-de-investigaciones-cientificas-institucion-mila-y-fontanals-u-ei-musicologia/home.html){:target="_blank"}, im November letzten Jahres eine Karte mit 350 spanischen öffentlichen Institutionen vor. Diese Archive, Bibliotheken und Dokumentationszentren beherbergen verschiedene Sammlungen aus dem Musikbereich, wie Musikhandschriften, Aufnahmen oder Musikinstrumente.
 
 Die Informationen umfassen eine kurze Geschichte der Institution, eine Auflistung der jeweiligen Kulturgüter und eine Bibliographie zu jeder Institution.
-
 
 
 Die Karte ist [hier](http://musicadanza.es/mapatrimoniomusical/){:target="_blank"} zu finden.

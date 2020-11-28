@@ -11,7 +11,6 @@ email: cmart29@uwo.ca
 author: Cheryl Martin
 ---
 
-
 **Wußten Sie, dass die RISM-Datenbank auch Musik nach 1800 verzeichnet? An den kommenden Montagen werden wir einige dieser Werke vorstellen.**
 
 **Der erste Beitrag stammt von Cheryl Martin ([RISM Kanada](/de/workgroups/canada-london-university-of-western-ontario-the-university-library.html)) und betrifft Gustav Mahler Manuskripte in Kanada.**
@@ -24,46 +23,37 @@ Die Handschriften sind bereits für [RISM](https://opac.rism.info/search?View=ri
 
 das früheste bekannte Manuskript von Mahlers Sinfonie Nr. 1 _(siehe Abbildung)_; es handelt sich um eine Abschrift mit Bemerkungen von Mahler
 
-
 -
 
 Mahlers Klavier-Quartett, 1. Satz; Abschrift von Alfred Rosé
-
 
 -
 
 Text zu _Des Knaben Wunderhorn_ in Mahlers eigener Hand, drei Seiten geschrieben auf Papier der Wiener Staatsoper
 
-
 -
 
 _Josephinen Lieder_ für Tenor und Klavier
-
 
 -
 
 verschiedene Lieder
 
-
 -
 
 einige Takte des zweiten Satzes zur Sinfonie Nr. 4 (1. Januar 1902) mit einem Vermerk von Mahler
 
-
 -
 
 der originale erste Satz zu _Das Klagende Lied (Waldmärchen)_; Abschrift von Alfred Rosé
-
 
 -
 
 Chorstimmen und ein Klavierauszug vorbereitet von Alfred Rosé zur Weltpremiere vom _Waldmärchen_, die er 1934 dirigierte
 
 
-
 Einige dieser Werke sind[digitalisiert worden](https://archive.org/details/mahlerrose){:target="_blank"} und die Links dazu werden auch in den RISM-Einträgen ergänzt. Weitere Informationen zur Sammlung und einen Link zum Inventar der ganzen Sammlung, finden Sie [hier](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"}.
 
 _Abbildung_: Mahlers Sinfonie Nr. 1 (mit freundlicher Genehmigung der Western University). RISM ID no. [820000232.](https://opac.rism.info/search?id=820000232){:target="_blank"}
-
 
 

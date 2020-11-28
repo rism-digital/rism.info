@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 Am 27./28. Juli 2013 erklingen zu den 16. _Tiroler Tagen für Kirchenmusik_ im Stift Stams drei Messvertonungen mit besonderem Tirol-Bezug:
 
 die _Spaur-Messe_ KV 257 nach der Brixner Quelle mit eigenhändigen Eintragungen von Wolfgang Amadé und Leopold Mozart ([I-BREd](http://opac.rism.info/search?documentid=650004848){:target="_blank"}),
@@ -21,7 +20,5 @@ die _Esterházy-Messe_ des Tiroler Komponisten Johann Gänsbacher (komponiert 18
 die franziskanische Bearbeitung einer Messe des Stamser Musiklehrers Johann Malzat (um 1790, [A-ST](http://opac.rism.info/search?documentid=650008766){:target="_blank"}).
 
 
-
 [weiterlesen](http://www.musikland-tirol.at/downloads/jahresprogramm-2013_web.pdf "2012\_tirolerweihnachtskonzert.pdf (1.9 MB)") (PDF)
-
 

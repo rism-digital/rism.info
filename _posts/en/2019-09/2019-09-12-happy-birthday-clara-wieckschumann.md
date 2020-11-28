@@ -11,7 +11,6 @@ email: Marina.Gordienko@sbb.spk-berlin.de
 author: Marina Schieke-Gordienko
 ---
 
-
 _We have received the following from Marina Schieke-Gordienko, Division Head, [Music Department, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/){:target="_blank"}. A longer version of this appeared in [Bibliotheksmagazin](https://staatsbibliothek-berlin.de/die-staatsbibliothek/publikationen-der-staatsbibibliothek/bibliotheksmagazin/){:target="_blank"} (2/2019)._
 
 Clara Wieck-Schumann was probably the most famous pianist of the 19th century, but she was also a composer, editor, piano teacher, and concert agent.
@@ -27,7 +26,6 @@ Clara Schumann died on 20 May 1896 in Frankfurt.
 **The Schumann Collection**
 
 The extensive Schumann Collection came to the Royal Library through Clara Schumann, who considered the institution to be a “worthy and safe place” to preserve the autograph manuscripts of her husband (see “Acta betreffend den handschriftlichen Nachlass von Robert Schumann. 1887,” SBB, Handschriftenabteilung, PSB, III H.23, p. 3). The library already held the autograph manuscripts of prominent composers such as Johann Sebastian Bach, Wolfgang Amadeus Mozart, and Ludwig van Beethoven. Robert Schumann’s autograph music manuscripts were first kept in the Manuscripts Department of the Royal Library on deposit, and could be acquired in 1904 thanks to a private foundation. Eighteen volumes formed the core of the Schumann Collection, including three volumes of lieder from 1840-1847, Symphony no. 3 (_Rheinische_), and also including 28 volumes of family correspondence, which ended up at the Biblioteka Jagiellońska in Kraków after the war, where they are still to be found today. An important addition was made in 1924 when further original manuscripts were acquired from the oldest daughter, Marie Schumann, which included Clara Schumann’s Piano Concerto no. 1 (1836), numerous letters from Johannes Brahms, and correspondence between Robert and Clara Schumann. Finally, in 1940, three household account books (1837-1856) and assorted objects from the Schumann home ended up in the Prussian Library through a grandson, Ferdinand Schumann. Additional material in the Berlin Schumann Collection includes another 13 volumes with autograph music manuscripts by Clara Schumann, seven volumes of correspondence, and the famous Berlin Flower Diary (_Berliner Blumentagebuch_) containing lovingly arranged plants and leaves for Johannes Brahms from his concert travels with Clara Schumann from 1857 to 1859.
-
 
 
 _Images_:

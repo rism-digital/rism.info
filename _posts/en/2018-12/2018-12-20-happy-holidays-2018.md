@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 The RISM Central Office wishes you and your family all the best for a festive holiday season. We would like to thank you for your valuable work this year and we wish you all the best for a happy and successful 2019.
 
 Our office will be closed beginning December 24 and will reopen January 7, 2019.
 
-
 _Image: Christmas rose, from [pixabay.com](https://pixabay.com/de/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
-
 
 

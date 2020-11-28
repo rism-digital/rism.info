@@ -11,13 +11,10 @@ email: ''
 author: ''
 ---
 
-
 An diesem Sonntag wird in vielen Ländern der Welt der Muttertag begangen – auch in Deutschland. Grußkarten und Blumen sind zumeist ein Muss am zweiten Sonntag im Mai und wir von RISM haben auch noch ein paar Vorschläge um den Tag musikalisch zu verschönern.
 
 
-
 Der Muttertag wird seit etwa 100 Jahren gefeiert. Er begann in den Vereinigten Staaten und breitete sich von dort in der ganzen Welt aus, obwohl viele andere Länder ihre eigenen Traditionen der Verehrung der Mutter beibehielten. Es überrascht daher nicht, dass die Musik zum Muttertag im [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} aus dem letzten Jahrhundert stammt. In der Schweiz gibt es eine Skizze zu "Pour la fête des mères" von Carlo Boller (1896-1952; RISM ID no. [402009535](https://opac.rism.info/search?id=402009535){:target="_blank"}), "Zum Muttertag" von Otto Rehm (1887-1971; RISM ID no. [403013726](https://opac.rism.info/search?id=403013726){:target="_blank"}) und "Heim zur Mutter" von Alfred Leonz Gassmann (1876-1962; RISM ID no. [403006358](https://opac.rism.info/search?id=403006358){:target="_blank"}).
-
 
 
 Die Schweizer haben scheinbar die Führung bei den Kompositionen zum Muttertag übernommen, aber der RISM-Katalog hat noch weitere Werke – unabhängig vom Muttertag – zur Verehrung der Mütter zu bieten. Eine Stichwortsuche kann hier weiterhelfen. Die Suche nach [_mother_](https://opac.rism.info/search?View=rism&q=mother){:target="_blank"}, [_Mutter_](https://opac.rism.info/search?View=rism&q=mutter){:target="_blank"}, [_mère_](https://opac.rism.info/search?View=rism&q=m%C3%A8re){:target="_blank"} und anderen Varianten bietet viele Ergebnisse, aber die meisten betreffen die Marien-Verehrung der Muttergottes – also geistliche Musik. Mit dem bekannteren _[mama](https://opac.rism.info/search?View=rism&q=mama){:target="_blank"}_ oder _[mamma](https://opac.rism.info/search?View=rism&q=mamma){:target="_blank"}_ läßt sich die Auswahl der Werke auf jene eingrenzen, die sich mit der Beziehung zwischen Müttern und den Angehörigen befassen:
@@ -28,19 +25,15 @@ Die Schweizer haben scheinbar die Führung bei den Kompositionen zum Muttertag �
 
 Karl Gramm: "[Die liebsten Silbenpaare sind mir Mama](https://opac.rism.info/search?id=450021266){:target="_blank"}"
 
-
 -
 
 Gottlob Gottwalt Hungers "[Auf das Bildniß einer geliebten Mutter](https://opac.rism.info/search?id=220033265){:target="_blank"}"
-
 
 -
 
 Teodoro Riccio: "[Mama mia cara dolc'e bella](https://opac.rism.info/search?id=455017785){:target="_blank"}"
 
-
 - Rudolf Förster: "[Das hat Mama gesagt](https://opac.rism.info/search?id=451026583){:target="_blank"}"
-
 
 
 Bei der Suche nach Mutterliebe kann man folgendes finden:
@@ -49,16 +42,13 @@ Bei der Suche nach Mutterliebe kann man folgendes finden:
 
 Gustav Dippes Oper [_Mutterliebe_](https://opac.rism.info/search?View=rism&q=mutterliebe+gustav+dippe){:target="_blank"}
 
-
 -
 
 Heinrich Pfeils Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=heinrich+pfeil){:target="_blank"}"
 
-
 -
 
 Johann Christian Friedrich Schneiders Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=Johann+Christian+Friedrich+Schneider){:target="_blank"}"
-
 
 -
 

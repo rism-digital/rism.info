@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir sind auf ein interessantes Online-Museum gestoßen: [Music Printing History](http://www.musicprintinghistory.org/){:target="_blank"}. Es beschreibt die verschiedenen Techniken des Musikdrucks und ist reich bebildert.
 
 Sie können Beispiele der Techniken zum historischen Notendruck sehen, wie sie bei RISM gegenwärtig bis 1800 vorkommen: Holzschnitt, bewegliche Typen (Abbildung links) und Kupferstich. Das virtuelle Museum beschäftigt sich auch mit der Lithografie und moderneren Technologien, wie fotoreproduktive Prozesse und sogar [Musikschreibmaschinen](http://www.musicprintinghistory.org/music-typewriters){:target="_blank"}. Diese werden alle in den speziellen Kontext des Musikdrucks gestellt. Ein kurzer Kommentar führt Sie durch die Objekte.
@@ -24,7 +23,5 @@ Unser Lieblingsvideo, auf das diese Seite verlinkt, ist die Nahaufnahme der bewe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 Abbildung: Bewegliche Type von[Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-
 

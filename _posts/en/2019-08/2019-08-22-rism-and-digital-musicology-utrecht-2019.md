@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 To accompany this past July's Digital Humanities conference in Utrecht, musicologists and computer scientists gathered for a meeting in which numerous short presentations were given. Digital musicology was the theme of the study group, which comprised around 50 people and met at Utrecht University, and the event was primarily organized by [Frans Wiering](https://www.uu.nl/medewerkers/FWiering){:target="_blank"}. The international group of participants presented current initiatives in the field of music research, projects that can be placed at the intersection between research and information technology.
 
 Important developments include evaluating and improving data produced through [optical music recognition (OMR)](https://en.wikipedia.org/wiki/Optical_music_recognition){:target="_blank"} with the help of neural networks and connecting such data to the semantic web.

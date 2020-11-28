@@ -11,9 +11,7 @@ email: euterpe@enesmorelia.unam.mx
 author: ''
 ---
 
-
 _Unsere Kollegen der RISM-Arbeitsgruppe in Morelia (Mexiko) möchten auf diesen Call for Papers aufmerksam machen:_
-
 
 
 **INTERNATIONAL CONFERENCE CELEBRATION AND SONORITY**

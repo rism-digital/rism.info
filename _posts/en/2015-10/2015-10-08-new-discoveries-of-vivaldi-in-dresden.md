@@ -11,7 +11,6 @@ email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
 ---
 
-
 _The following is a guest post by Francisco Javier Lupiáñez Ruiz:_
 
 Two years ago I started to prepare a concert program based on anonymous pieces from the [Schrank II](http://hofmusik.slub-dresden.de/en/themen/schrank-ii/) collection from [Die Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB)](http://www.slub-dresden.de/). The _Schrank II_ contains a large collection of musical works compiled by the Concertmaster Johann Georg Pisendel during the first half of the eighteenth century. The close relationship between Pisendel and Vivaldi makes the _Schrank II_ a great reservoir of Vivaldi’s music and a source of new musical discoveries.
@@ -33,16 +32,13 @@ The following example is taken from RV 820 in the RISM online catalog:
 ![RV 820](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_2_Rism_Rv_820_material.JPG)
 
 
-
 The information given by RISM is of high value and is easily accessible. Thanks to the watermark, date and other information, we can put this manuscript into context. This sonata in particular was copied by Johan Georg Pisendel before he arrived to Dresden, probably during his studies with Torelli in Ansbach (from 1697 to 1712), and Pisendel brought this manuscript with him to Dresden. It is also possible to find other manuscripts with the same watermark using the search box in the RISM online catalog and to find other manuscripts copied by Pisendel and brought to Dresden in the same period. The links between Torelli (supposed teacher of Vivaldi), Pisendel and Vivaldi become clearer just after this short search:
 
 ![Torelli](http://rism.info/resources-old-website/news/New_discoveries_of_Vivaldi_EXAMPLE_3_Rism_Watermark.jpg)
 
 
-
 There are still more than sixty sonatas for violin and continuo, approximately twelve string trio sonatas, and more than fifty concertos that remain anonymous in _Schrank II_; most of them are available online and linked in RISM. The tools developed by the SLUB and RISM will serve as an essential catalyst for new discoveries and will help, among other things, to put a name to other unsigned manuscripts.
 
 Image credit: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden,Cadenza from the Concerto [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
-
 
 

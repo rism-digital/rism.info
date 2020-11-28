@@ -11,13 +11,11 @@ email: ''
 author: ''
 ---
 
-
 Alle Wege führen nach Rom - sehen wir uns dort? RISM freut sich auf die Jahreskonferenz der [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml2016.org/){:target="_blank"} vom 3. bis 8. Juli 2016.
 
 RISM wird folgende Sitzungen anbieten. Abstracts befinden sich auf der [IAML Website](http://www.iaml.info/congresses/2016-rome){:target="_blank"}.
 
 Besuchen Sie auch den RISM-Tisch während der Konferenz.
-
 
 
 # RISM-Sitzungen
@@ -29,26 +27,21 @@ Besuchen Sie auch den RISM-Tisch während der Konferenz.
 9:00-10:30: Workshop (offen): The Ins and Outs of the RISM OPAC
 Dieser Workshop stellt verschiedene Aspekte des RISM Online-Katalogs vor, der seit 2010 frei zugänglich ist. Für alle Interessenten, die mit dem RISM-OPAC arbeiten oder ihn Studenten und Fakultätsmitgliedern vermitteln wollen.
 
-
 -
 
 Klaus Keil (RISM Zentralredaktion, Frankfurt am Main): The RISM OPAC: Contents and development
-
 
 -
 
 Jennifer Ward (RISM Zentralredaktion, Frankfurt am Main): RISM like a Pro: Tips, Tricks, and Mistakes to Avoid
 
-
 -
 
 Zuzana Petrášková (Národní knihovna České republiky): OPAC RISM = Hilfe für die Forschung, Edition und Interpretation der überlieferten Musik. Erfahrungen aus der Nationalbibliothek der Tschechischen Republik
 
-
 -
 
 Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM and ICCU Musica
-
 
 
 **Donnerstag, 7. Juli**
@@ -57,16 +50,13 @@ Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM a
 
 9:00-10:30: RISM Open Session
 
-
 -
 
 Klaus Keil (RISM Zentralredaktion): News and information
 
-
 -
 
 Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer Ward (RISM Zentralredaktion): Presentation of the new program for source documentation: Muscat 3.0
-
 
 
 -
@@ -75,14 +65,12 @@ Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer W
 Vorsitz: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
 
-
 **Freitag, 8. Juli**
 
 -
 
 9:00-10:30: Commission Mixte (geschlossenes Arbeitstreffen; offen nur für Mitglieder oder auf Einladung)
 Vorsitz: Wolf‐Dieter Seiffert (Präsident des RISM, RISM Commission Mixte, München)
-
 
 
 # Präsentationen der RISM-Kollegen
@@ -109,7 +97,6 @@ Géo‐localisation des institutions belges liées au RISM
 - Klaas Jaap van der Meijden (Resonant, Leuven)
 Open discussion “Towards the future of AMA‐WG” and News of the updating of RISM‐C Directory
 
-
 **Mittwoch, 6. Juli, 15.30: Guided tours**
 
 - 7–Organs in Roman Churches
@@ -123,7 +110,6 @@ Hildegard Herrmann-Schneider (RISM Tirol-Südtirol & OFM Austria/Institut für T
 Die Orgel, errichtet 1744 von einem der besten Orgelbauer Roms des 18. Jahrhunderts, zugewandert aus Österreich bzw. Tirol, befindet sich in dem Sakralraum, von dem die musikalische Gattung Oratorium ihren Anfang nahm. Das Oratorio del Crocifisso ist komplett ausgeziert mit Fresken der repräsentativsten Künstler Roms aus der Zeit um 1580/90 und sonst für Besichtigungen kaum zugänglich.
 
 Nach einer kurzen Einführung zu Instrument und Raum ist die Wörle-Orgel in einem kleinen Konzert live zu hören, mit römischem Repertoire des 18. Jahrhunderts aus römischen Bibliotheken (Biblioteca dell’Accademia Nazionale dei Lincei e Corsiniana/I-Rli und Biblioteca Nazionale Centrale/I-Rn): u. a. Werke von Girolamo Chiti, ab 1726 Kapellmeister an der Basilika S. Giovanni in Laterano und Anonyma in Alternatim-Praxis.
-
 
 
 **Donnerstag, 7. Juli**

@@ -19,8 +19,6 @@ It is hard to believe that there are still new works by Heinrich Schütz that ar
 SWV 497 has just been released in [Carus's "Edition princeps"](https://www.carus-verlag.com/komponisten/schuetz/heinrich-schuetz-ein-kind-ist-uns-geboren.html?redirected=1){:target="_blank"} series.
 
 
-
 _Image_: Excerpt from the collective manuscript Mus.Pi.57 (Bassus) in D-Dl with the beginning of the unfigured bass part.
-
 
 

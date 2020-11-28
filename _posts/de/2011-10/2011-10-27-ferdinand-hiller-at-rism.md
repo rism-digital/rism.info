@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Nur zwei Tage nach Franz Liszt (22.10.1811 – 31.07.1886) wurde Ferdinand Hiller (24.10.1811 – 10.05.1885) geboren. Da er aus Frankfurt am Main stammt, die Kontakte zu seiner Heimatstadt Zeit seines Lebens pflegte, und weil sein musikalischer Nachlass in der Universitätsbibliothek aufbewahrt wird, ist dort zu seinen Ehren eine Ausstellung vorbereitet worden. Deren Inhalt und Form wurde zusammen mit Dozentinnen und Studierenden des Instituts für Musikwissenschaft der Goethe-Universität entwickelt. Die Ausstellung **Ferdinand Hiller (1811-1885) aus Frankfurt am Main** ist vom 26.10. - 30.11.2011 im 3. OG der Universitätsbibliothek Frankfurt, Bockenheimer Landstr. 134-138 zu sehen. Die Ausstellung [steht auch digital zur Verfügung](http://www.ub.uni-frankfurt.de/musik/hiller_jubilaeum.html){:target="_blank"}.
 
 Zu Ehren von Hiller findet darüber hinaus vom 27.-29.10.2011 ein internationales Symposium **[Ferdinand Hiller (1811-1885): Komponist - Interpret - Musikvermittler](http://www.hfmdk-frankfurt.info/globales/aktuelles/aktuelles.html){:target="_blank"}** in den Hochschulen für Musik in Frankfurt und Köln statt. Außerdem gibt es zahlreiche Konzerte sowie einige Rundfunksendungen mit Musik des Jubilars.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 All of the autograph music manuscripts by Franz Schubert (1797-1828) that are housed at the Berlin State Library (Staatsbibliothek zu Berlin, SBB) - numbering around 60 total - have been digitized and cataloged in the RISM database as part of the project Schubert Online. The digitized music is available through [Schubert Online](http://www.schubert-online.at/activpage/index.php){:target="_blank"}, the [digital collections of the SBB](http://digital.staatsbibliothek-berlin.de/){:target="_blank"}, and the [RISM database](https://opac.rism.info/){:target="_blank"}.
 
 Schubert Online provides free, online access to digital images of Schubert music manuscripts, first and early printed editions, and a selection of letters and biographical documents. Hundreds of items from the music collections of the[Vienna City Library](http://www.wienbibliothek.at/bestaende-und-sammlungen/musiksammlung/){:target="_blank"}, [National Library of Austria](http://www.onb.ac.at/sammlungen/musik.htm){:target="_blank"}, [SBB](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/){:target="_blank"}, and the [National Library of Norway](http://www.nb.no/){:target="_blank"} are included.
@@ -24,10 +23,8 @@ The most comprehensive collection of Schubert autographs can be found today in t
 
 In light of the complementary relationships between the collections in Vienna and Berlin, the Berlin State Library is participating in Schubert Online. This portal has been working for the past several years on making the Viennese sources available online. Through the participation of the SBB and other libraries, Schubert Online will gradually develop into the central point of reference for the virtual study of Franz Schubert's autograph manuscripts.
 
-
 _Image_: Franz Schubert: Erlkönig, D 328. Autograph fair copy in a songbook for Johann Wolfgang von Goethe (D-B Mus.ms.autogr. Schubert, F. 1, p. 25. [RISM ID no. 464000243](https://opac.rism.info/search?id=464000243){:target="_blank"})
 
 _Portions of this text were taken from the SBB's [Schubert Online project website](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"}, with kind permission._
-
 
 

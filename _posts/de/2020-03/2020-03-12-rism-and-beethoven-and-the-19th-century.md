@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ludwig van Beethoven ist sicherlich der prominenteste der [Musikerjubilare des Jahres 2020](/events/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}. Aber sein Geburtsjahr 1770 war für ihn in den früheren Zeiten des RISM ein Unglücksfall. Wie viele in der RISM-Community wissen, endeten die meisten Erfassungsprojekte traditionell im Jahr 1800, wobei ein Großteil von Beethovens Werk ausgeschlossen wurde. Beethoven wurde in der [Einleitung zur Serie A/I](/de/publikationen.html#c36) (veröffentlicht 1971), der Reihe mit Notendrucken eines einzelnen Komponisten, ausdrücklich als beispielhafter Komponist hervorgehoben, den es auszulassen galt: „Autoren, deren Werke vorwiegend erst im 19. Jahrhundert gedruckt worden sind“, wurden nicht berücksichtigt, auch dann nicht, wenn (wie im Falle Beethovens) ein Teil ihres Werkes bereits im 18 Jahrhundert erschien. Sorry, Ludwig!
 
 Aber 50 Jahre nach diesem Satz hat sich in der Musikwissenschaft und der Quellenforschung viel verändert. Viele RISM-Beitragende geben jetzt Quellen an, die weit über die ursprüngliche Grenze von 1800 hinausgehen, so dass Sie in RISM einen großen Teil der Musik des 19. Jahrhunderts finden.
@@ -24,12 +23,9 @@ Wir möchten auf einige musikalische Quellen nach 1800 hinweisen, die neu für R
 - Die Partnerschaft von RISM mit dem [Chopin Institut in Warschau](http://www.rism.info/de/startseite/newsdetails/article/64/close-cooperation-between-rism-and-the-chopin-institute.html){:target="_blank"} hat zu einer erheblichen Zunahme der Werkanzahl von [Fryderyk Chopin in RISM](https://opac.rism.info/search?View=rism&author=Chopin){:target="_blank"} geführt. Gegenwärtig gibt es über 2.400 Quellen, meist gedruckte Ausgaben, aber auch etwa 200 Manuskripte.
 
 
-
 Wir werden im Laufe des Jahres über weitere Quellen aus dem 19. Jahrhundert berichten.
 
 
-
 _Abbildung_: Ludwig van Beethoven, autographe Handschrift der Sonatea op. 109 in E-Dur, 1820. Library of Congress (US-Wc) ML30.8b.B4 op. 109 1820 Case. [RISM ID no. 1001102715](https://opac.rism.info/search?id=1001102715&View=rism){:target="_blank"}. [Online verfügbar](https://lccn.loc.gov/87752609){:target="_blank"}.
-
 
 

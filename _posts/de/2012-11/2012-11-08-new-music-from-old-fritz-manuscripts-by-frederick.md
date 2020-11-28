@@ -11,7 +11,6 @@ email: helmut.lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-
 **Drei verschollen geglaubte Musikautographen von Friedrich dem Großen wurden in den Kunstsammlungen der Veste Coburg aufgefunden. Die „Coburger Sonaten“, Kompositionen für Flöte und Cembalo, werden am 15. November auf der Veste Coburg vorgestellt.**
 
 In zahlreichen Ausstellungen und Feiern wurde in diesem Jahr der 300. Geburtstag von Friedrich dem Großen begangen. Dass Friedrich II. ein Liebhaber der Musik war, auch selbst die Querflöte blies, ist weithin bekannt.

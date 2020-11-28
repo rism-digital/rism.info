@@ -11,7 +11,6 @@ email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
 
-
 _We have received the following from Ann Kersting-Meuleman ([Universitätsbibliothek Frankfurt am Main](http://www.ub.uni-frankfurt.de/musik/){:target="_blank"}):_
 
 Almost 800 music manuscripts by the eminent composer [Georg Philipp Telemann](https://opac.rism.info/search?View=rism&author=Telemann+Philipp&siglum=D-F&callno=Ms.Ff.Mus.&subject=Cantatas){:target="_blank"} (1681-1767) housed at the University Library Johann Christian Senckenberg are being digitized with funding from the German Research Foundation (DFG). The project will last 1.5 years and will encompass the digitization and cataloguing of around 48,000 pages from the Frankfurt Cantata Collection from the 18th century.
@@ -21,6 +20,5 @@ Telemann was the city music director and church Kapellmeister in Frankfurt from 
 The aim of the project is to make the autograph and other manuscripts of the church cantatas, as well as some secular works from this unique collection, available for scholarly research, scholarly editions, and church and concert performances. It complements similar music digitization projects in other academic libraries.
 
 The cantata manuscripts will be accessible through the [Digital Collections](http://sammlungen.ub.uni-frankfurt.de/musiktheater/nav/index/all){:target="_blank"} of the University Library.
-
 
 

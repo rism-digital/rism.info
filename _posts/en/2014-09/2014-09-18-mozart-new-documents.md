@@ -11,7 +11,6 @@ email: dexedge@gmail.com
 author: ''
 ---
 
-
 From the [AMS](http://www.ams-net.org/){:target="_blank"} we have received the following announcement:
 
 We are pleased to announce the availability of a new online resource, Mozart: New Documents. The site will present recently uncovered references to Mozart and his music from the composer's lifetime that have yet to appear in the scholarly literature. Many documents have been located through the expanded search opportunities of large-scale digitization projects such as Google Books, while others have been located using traditional methods.

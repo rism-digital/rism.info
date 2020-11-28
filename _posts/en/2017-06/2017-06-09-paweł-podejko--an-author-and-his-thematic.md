@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Paweł Podejko’s name is most closely associated with his thematic catalogue of the historic music collection of the Jasna Góra Monastery in Częstochowa (RISM library siglum: [PL-CZ](https://opac.rism.info/search?View=rism&siglum=PL-CZ&Language=en){:target="_blank"}). Published in Kraków in 1992, _Katalog tematyczny rękopisów i druków muzycznych kapeli wokalno-instrumentalnej na Jasnej Górze_ lists manuscript and printed music that is still located in the monastery today. The catalogue has been widely disseminated in Poland and elsewhere.
 
 All of the bibliographic records of manuscirpt sources from Podejko’s catalogue now appear in the RISM online catalogue (cited in the catalogue as [PodejkoK 1992](https://opac.rism.info/search?View=rism&q=PodejkoK){:target="_blank"}). There are 2,413 records in total. The printed music in Podejko’s catalogue, however, is not currently accounted for in the RISM database. The inclusion of these printed works represents another challenge for the future.
@@ -25,7 +24,6 @@ The manuscript performance materials consist primarily of sets of parts rather t
 Most of the works located at Jasna Góra are sacred pieces that were written for use in church services or for devotional purposes outside of the Church. Masses make up about 20% of the collection, which also includes litanies, vespers, and short sacred vocal works. Secular works such as opera overtures, sonatas, symphonies, and Harmoniemusik play a smaller but not insignificant role within the collection.
 
 
-
 **About Paweł Podejko (1914-1996)**
 Paweł Podejko, who was born on 23 December 1914 Daugavpils (Dyneburg in Polish, today in Latvia) and died on 15 June 1996 in Danzig, was a musicologist and organist. For many decades, he was an instructor at the Stanisław Moniuszko Music Academy in Danzig. From 1923 to 1945 he lived in Vilnius and studied at the conservatory there from 1940 to 1941 and from 1944 to 1945. Podejko took private music lessons in addition to studying at the Jagiellonen University in Kraków at the same time. After the Second World War, he moved to Bydgoszcz, where he became the organist and director of the "Vincentinum" church choir at the parish church of St. Vincent DePaul from 1946 to 1948. He taught at the music high school in Bydgoszcz beginning in 1950.
 
@@ -37,9 +35,7 @@ Podejko spent his life engaged with the history of music at the Jasna Góra Mona
 
 More about Podejko can be read in [Gedanopedia](http://www.gedanopedia.pl/index.php?title=PODEJKO_PAWE%C5%81){:target="_blank"}.
 
-
 _Image_: Photo credit: Jasna Góra, photo by Damian27 via [Wikimedia Commons](https://de.wikipedia.org/wiki/Jasna_G%C3%B3ra_(Cz%C4%99stochowa)#/media/File:Jasna_G%C3%B3ra_-_widok_do_NE.jpg){:target="_blank"}
-
 
 _With thanks to Vivian Tompkins for her assistance with the English translation._
 

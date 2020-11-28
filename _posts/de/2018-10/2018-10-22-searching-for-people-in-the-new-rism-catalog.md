@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit der neuen Version des [RISM-Katalogs](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"} können Sie nun auch gezielt nach Personen zu suchen. Auch wenn dies zur Zeit teilweise noch umständlich ist, möchten wir dennoch auf diese Möglichkeit hinweisen. Suchbar sind die Kategorien Name, Geschlecht, Nationalität, Orte und Berufe oder Funktionen und natürlich auch eine Kombination der Suchbegriffe.
 
 So können Sie über die Suche [**Composer female**](https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=Composer+female&View=rism&Language=en){:target="_blank"} nach allen in der RISM-Personendatenbank vorhandenen Komponistinnen suchen.
@@ -56,6 +55,5 @@ Pietro Metastasio
 
 Ignace Pleyel
 [https://opac.rism.info/search?id=pe24761&View=rism](https://opac.rism.info/search?id=pe24761&View=rism&Language=en){:target="_blank"}
-
 
 

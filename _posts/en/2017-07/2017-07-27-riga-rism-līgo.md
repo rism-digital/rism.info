@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Four people from the RISM Central Office attended the annual IAML Congress in Riga, Latvia in June 2017. The following is a congress diary from all four participants that was [originally published on the IAML website](http://www.iaml.info/news/iaml-riga-congress-diary-5-riga-rism-ligo-germany-usa){:target="_blank"}. In keeping with the Congress Diary tradition, the reflections are presented in the native languages of the writers. Here are two German and two American perspectives._
 
 **Klaus Keil: Opernsammlung in der Nationalbibliothek**
@@ -36,13 +35,11 @@ Ein anderer Lettischer Bestand, der von Liepājas Svētās Trīsvienības katedr
 \*Mikus Čeže: Die Geschichte der Sammlungsbestände des Rigaer Stadttheaters. In: Berichte des Interkulturellen Forschungsprojektes „Deutsche Musikkultur im östlichen Europa“ Band 2: Musik-Sammlungen – Speicher interkultureller Prozesse. (Hrsg. Erik Fischer, Annelie Kürsten.) Stuttgart (Franz Steiner Verlag) 2007, S. 182-193.
 
 
-
 **Guido Kraus: Meine schönsten Erfahrungen in Riga**
 
 Nach mehreren nationalen IAML-Konferenzen nahm ich in diesem Jahr das erste Mal an einem aufregenden internationalen IAML-Kongress teil. Am Veranstaltungsort in der modernen Nationalbibliothek Lettlands fühlte ich mich sehr wohl. Dieses Bibliotheksgebäude ist einfach großartig. Es nimmt durch seine Lage am Unterlauf der Düna und durch seine Architektur einen besonderen Platz in der Rigaer Stadtlandschaft ein. Der Architekt ist Gunnar Birkerts. Er bezog sich in seiner Arbeit auf lettische Landschaften, die Kultur der Letten und ihre Märchenwelten.
 
 Meine Teilnahme an den verschiedensten Sektionen war sehr inspirierend für mich. Ganz besonders gefielen mir die Vorträge in der Sektion „Musikalische Polonica in Moskauer Bibliotheken und Archiven“. Davon möchte ich den Vortrag von Frau Renata Suchowiejko besonders hervorheben. Sie sprach über die Musikbibliothek des Grafen Michał Kleofas Ogiński (1765-1833) im Moskauer Staatsarchiv. (NB: Ogiński war der Komponist der berühmten Polonaise „Abschied vom Vaterland“, die heute noch jedes Kind in Polen kennt.) Außerdem hatte ich die Ehre, auf der RISM-Sektion die Präsentation meiner Kollegin Agnieszka Drożdżewska, die leider nicht kommen konnte, vortragen zu dürfen. Ihr Thema war das polnische RISM-Projekt über historische Musiksammlungen in Niederschlesien aus Neisse, Oels, Oppeln und Breslau, das vom Musikwissenschaftlichen Institut an der Breslauer Universität erarbeitet wird. Daneben hatte ich mehrfach Gelegenheit, mit dem neuen IAML-Präsidenten Stanisław Hrabia zu sprechen. Ich bin sicher, seine Präsidentschaft wird für uns alle ein Gewinn sein. Ich freue mich jedenfalls schon auf die zukünftige Zusammenarbeit. Und: Nach dem Kongress ist vor dem Kongress. Bis bald in Leipzig.
-
 
 
 **Vivian Tompkins: Digitizing Music Materials**
@@ -51,7 +48,6 @@ Many of the presentations at this year’s Congress focused on the digitization 
 
 ![Celebrating Ligo](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_tompkins_ligo_378x504.jpg)
 _Photo: V. Tompkins_
-
 
 
 **Jennifer Ward: Riga, City of Music**
@@ -73,5 +69,4 @@ _The entrance to the Mežaparks (photo: J. Ward)_
 
 ![Art nouveau in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_jugendstil528x437.jpg)
 _Art Nouveau off the beaten track_ _(photo: J. Ward)_
-
 

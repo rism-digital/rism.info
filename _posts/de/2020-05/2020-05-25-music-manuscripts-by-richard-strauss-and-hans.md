@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Der folgende Beitrag wurde zuerst auf dem [Blog der Bayerischen Staatsbibliothek](https://www.bsb-muenchen.de/article/musikhandschriften-von-richard-strauss-und-hans-pfitzner-online-3448/){:target="_blank"} veröffentlicht und wird hier mit freundlicher Genehmigung wiedergegeben._
 
 Die Bayerische Staatsbibliothek stellt seit Jahren die Musikhandschriften ihrer prominentesten Nachlasskomponisten online bereit, darunter die Autographen von Gustav Mahler, Josef Rheinberger, Max Reger, Heinrich Kaminski, Hugo Distler und Ermanno Wolf-Ferrari. Mit Beginn des Jahres 2020 wurden die Werke zweier der wichtigsten deutschen Komponisten der ersten Hälfte des 20. Jahrhunderts urheberrechtlich frei: [Richard Strauss](https://opac.rism.info/search?View=rism&siglum=D-Mbs&author=Strauss+Richard){:target="_blank"} (1864 – 1949) und [Hans Pfitzner](https://opac.rism.info/search?View=rism&siglum=D-Mbs&author=Pfitzner+Hans){:target="_blank"} (1869 – 1949).

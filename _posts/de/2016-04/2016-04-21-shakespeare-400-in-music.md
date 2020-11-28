@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 **Überall auf der Welt feiern Dramatiker, Schauspieler und Liebhaber der englischen Literatur William Shakespeare (1564-1616), dessen Todestag sich am Samstag zum 400. Mal jährt. (Und sein 452. Geburtstag wird am Dienstag gefeiert). Der Barde hat uns ein Vermächtnis hinterlassen das weltweit hoch ansehen ist und seine Arbeiten regen noch heute zu musikalischen Werken an.**
 
 **Bis auf eine Ausnahme erwähnt jedes von Shakespeares Stücken Musik in den Bühnenanweisungen, entweder "a flourish of trumpets“, ein "Danish march" oder ein "song fragment", um nur drei von dutzenden Musikhinweisen aus**  **Hamlet**  **aufzulisten, die in Gooch und Thatchers** [_A Shakespeare Music Catalogue_](https://global.oup.com/academic/product/a-shakespeare-music-catalogue-9780198129417){:target="_blank"} **erwähnt sind. Auch wenn Musik vielfach in den Werken Shakespeares Erwähnung findet, wissen wir nur sehr wenig über die Musik selbst und was genau gespielt wurde. Ein bedeutendes Manuskript ist** **[Add.10444](https://opac.rism.info/search?id=800261277){:target="_blank"} aus der British Library (GB-Lbl), das ca. 1625 - also etwa 10 Jahre nach Shakespeares Tod - geschrieben wurde. Es handelt sich um eine Sammlung von** 166 **Instrumentalwerken mit kurzen Masques, Suiten, Tänzen und Fancies auf nur 60 Folio. Sie geben einen Eindruck, von dem was vermutlich auf der Bühne zu hören war.**
@@ -25,7 +24,6 @@ author: ''
 **Wenn Sie die Trefferliste nach**  **Titel** **sortieren (und wenn Sie schon dabei sind, können Sie sich auch gleich die Anzeige auf 100 Titel erweitern)**...
 
 ![Sort](http://rism.info/resources-old-website/news/Shakespeare_400_sort_1012_x_298.jpg)
-
 
 ... **werden Sie zweifellos einige Ihnen vertraute Schauspiele (mit einigen Sprachvarianten) wieder erkennen: Antonius und Cleopatra, Ein Sommernachtstraum, Hamlet, Julius Cäsar, Macbeth, Romeo und Julia, Was ihr wollt und so weiter. Shakespeare-Quellen mit berühmter Musik im RISM-Katalog sind beispielsweise********[_Béatrice et Bénédict_](https://opac.rism.info/search?id=450059256){:target="_blank"}**  **und autographe Fragmente zu**** [_Roméo et Juliette_](https://opac.rism.info/search?id=464130083){:target="_blank"} von **** Hector Berlioz, **** Giuseppe Verdis **** [_Macbeth_](https://opac.rism.info/search?View=rism&author=verdi&q=macbeth){:target="_blank"} und **** [_Otello_](https://opac.rism.info/search?View=rism&author=verdi&q=otello){:target="_blank"}, Henry Purcells **** [Schauspielmusiken](https://opac.rism.info/search?View=rism&q=william+shakespeare&author=purcell){:target="_blank"} und Felix Mendelssohn Bartholdys **** [_Ein Sommernachtstraum_](https://opac.rism.info/search?View=rism&q=william+shakespeare+mendelssohn+sommernachtstraum){:target="_blank"}.**
 

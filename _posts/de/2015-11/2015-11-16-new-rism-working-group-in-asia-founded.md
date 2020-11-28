@@ -11,9 +11,7 @@ email: ''
 author: ''
 ---
 
-
 RISM freut sich, Ihnen die Gründung einer neuen Arbeitsgruppe in Asien ankündigen zu können.
-
 
 
 Die [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](http://rism.info/?id=760){:target="_blank"} wurde im Oktober 2015 auf einer Konferenz über ein gemeinschaftlichen Projekt zu chinesischen Musikressourcen [Collaborative Project on Chinese Music Resources (CPCMR)](/events/2015/10/12/rism-conference-in-taiwan.html){:target="_blank"}), an der Klaus Keil (Leiter der RISM Zentralredaktion) teilnahm, geplant. CPCMR wurde gestartet, um die Sammlung der chinesischen Musikliteratur zu fördern, technische Standards für das Archivieren zu entwickeln und schließlich um ein zusammenarbeitendes Netz für die gemeinsame Nutzung der Ressourcen zu gründen.
@@ -28,9 +26,7 @@ Als Mitglieder zeichnen die folgenden Einrichtungen und Vertreter:
 Außerdem sind Dr. Nora Yeh (ehemalige Archivarin des American Folklife Center, Library of Congress) und Prof. Judy Tsou (University of Washington)eingeladen worden, als internationale Beraterinnen zu fungieren und Dr. Chang Hok-Yan (Hong Kong Central Library) wird auch mit der Gruppe in Verbindung stehen.
 
 
-
 Nach [RISM Japan](/de/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html) und [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=531) schließt sich die Gruppe Chinesisch-Sprechendes Gebiet der Dokumentation der Musikquellen in Asien an. Wir freuen uns darauf, mit unseren neuen Kollegen im chinesisch sprechenden Teil Asiens zusammenzuarbeiten.
-
 
 
 Foto: Von links nach rechts: WU Xu, HO Wing,Natalia Keil-Senserowa, Klaus Keil, HUANG Chun-Zen, Hyan Kyang Chae, Alan Thrasher, YANG Yandi,CHANGHok-yan, Nora YEH, WANG Ying-Fen und HAN Bin.

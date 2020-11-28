@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Seit Mitte letzten Jahres liefert RISM die Personen-Normdaten an [VIAF](http://viaf.org/){:target="_blank"}. VIAF (Virtual International Authority File – virtuelle internationale Normdatei) ist ein Gemeinschaftsprojekt mehrerer Nationalbibliotheken und Bibliotheksverbünde und wird durch das Online Computer Library Center [(OCLC](https://www.oclc.org/){:target="_blank"}) betrieben.
 
 Zu den beteiligten Institutionen gehören u.a. die Nationalbibliotheken von Frankreich, Russland, Deutschland, Lettland oder den USA, aber auch Wikidata, Getty Union List of Artist Names (Getty Research Institute) und ISNI (International Standard Name Identifier). Ziel des Projektes ist die Bildung eines Clusters der Normdatensätze aller beitragenden Institutionen, also zu einer einheitlichen (virtuellen) Normdatei.
@@ -21,6 +20,5 @@ Betrachten wir beispielsweise den VIAF-Cluster zu [Clara Schumann](http://viaf.o
 Für die beteiligten Bibliotheken und Projekte bieten sich viele Vorteile: Über die VIAF-ID lässt sich eine Person eindeutig identifizieren, unabhängig von der (teilweise länderspezifischen) Ansetzungsform. Besonders deutlich wird dies am Beispiel von [Pjotr Iljitsch Tschaikowski](http://viaf.org/viaf/99258155){:target="_blank"} (untere Abbildung).
 
 Konkret erleichtert dies beispielsweise den Datenaustausch; langfristig ergeben sich viele spannende Möglichkeiten der Zusammenarbeit mit anderen Projekten.
-
 
 

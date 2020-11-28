@@ -11,15 +11,12 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 Ein wichtiger Fund und eine Online-Ausstellung zu Henry Vieuxtemps (1820-1881) in der Königlichen Bibliothek in Brüssel
-
 
 
 **Die unbekannte Oper „La Fiancée de Messine“ von Henry Vieuxtemps in der Musikabteilung der Königlichen Bibliothek von Belgien**
 
 Im Jahr 2011 kaufte die König-Baudouin-Stiftung eine außergewöhnliche Gruppe von 32 Musikhandschriften des Geigers Henry Vieuxtemps. Dank der Unterstützung des Abbé Manoel de la Serna Fonds, verwaltet von der König-Baudouin-Stiftung, konnte die Vieuxtemps Sammlung in der Musikabteilung der Königlichen Bibliothek von Belgien kürzlich um ein Autograph des Komponisten ergänzt werden. Es handelt sich um die einzige Oper Vieuxtemps „La Fiancée de Messine“, ein bisher völlig unbekanntes Werk. Die bisher durch RISM erschlossenen Musikhandschriften zu Vieuxtemps aus der Königlichen Bibliothek in Brüssel sind [hier](http://opac.rism.info/index.php?id=6&tx_bsbsearch_pi1%5Bsmode%5D=advanced&L=&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=sauthor&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=vieuxtemps&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=ssiglum&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=B-Br&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=stitle&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Suche){:target="_blank"} einsehbar.
-
 
 
 **Virtuelle Ausstellung Henry Vieuxtemps**

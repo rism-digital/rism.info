@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 The year 2015 is behind us, so we'd like take a moment to look at the stories that helped shape the past twelve months. We enjoyed a year full of thousands of new musical sources in the RISM database, exciting discoveries from our users, and fantastic new databases and digital collections.
 
 The five most popular stories that we published on our website in 2015 were:
@@ -24,7 +23,6 @@ Francisco Javier Lupiáñez Ruiz
 
 4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
 5. [Antonio Cesti's Orontea](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
-
 
 But in 2015, the story more popular than any other story (from any year), was "[Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" from 2014.
 

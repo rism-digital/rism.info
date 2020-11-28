@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir freuen uns, die Veröffentlichung eines neuen deutschsprachigen Tutorials über die Arbeit des RISM und den Online-Katalog mitteilen zu können. [Musikwissenschaft: RISM – Internationales Quellenlexikon der Musik](https://youtu.be/K34u716Uwmk){:target="_blank"} wurde vom Musikwissenschaftlichen Institut der Universität Tübingen im Rahmen der Reihe "Tübinger Tutorials zur Musikwissenschaft" produziert.
 
 Das RISM-Video ist eines von vier in dieser Serie. Die anderen befassem sich mit der Enzyklopädie [_Musik in Geschichte und Gegenwart_ (MGG)](https://youtu.be/-8607AYwKkE){:target="_blank"}, der Nutzung von [MGG Online](https://youtu.be/eVbco3pvAi8){:target="_blank"} und der Recherche mit [RILM Abstracts of Music Literature](https://youtu.be/hKVXfFZu3n0){:target="_blank"}.
@@ -21,6 +20,5 @@ Das Video wurde im Rahmen des Projekts [Entwicklung innovativer Curricula und pr
 Das RISM-Video behandelt die Bedeutung der musikalischen Quellen, die Struktur der gedruckten Kataloge des RISM, die RISM-Bibliothekssigel, die Suche im Online-Katalog, weniger bekannte Musikwerke und die erweiterte Suche.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K34u716Uwmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 

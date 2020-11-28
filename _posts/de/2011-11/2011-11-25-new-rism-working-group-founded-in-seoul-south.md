@@ -11,7 +11,6 @@ email: 64ehkim@ewha.ac.kr
 author: Dr. Eun-Ha Kim
 ---
 
-
 Das [Institut für Musikforschung an der Ewha Frauen Universität](http://musicie.ewha.ac.kr/){:target="_blank"} (Ewha Womans University) in Seoul (Südkorea) beginnt Dank einer staatlichen Unterstützung mit der Dokumentation bzw. dem Aufbau einer Datenbank von musikalischen Quellen aus Korea als auch aus Ostasien.
 
 Das Forschungsteam (Direktorindes Instituts fürMusikforschung: Prof./Dr. Hyun Kyung Chae) hat durch lange Untersuchungen eine überwältigende Menge von Quellen in verschiedenen Arten - handgeschriebene sowie gedruckte Musiknoten, Schriften über Musik und Musiktheorie, Photos, Aufnahmen usw. - gesammelt.

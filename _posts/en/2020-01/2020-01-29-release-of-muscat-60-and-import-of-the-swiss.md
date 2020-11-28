@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Muscat 6.0-the latest version of [RISM's central cataloging program](/community/muscat.html "Opens internal link in new window") for musical sources-is the culmination of several months of work from the development team. This new version brings many “under the hood” improvements and includes various new features.
 
 **Import of the Swiss dataset**
@@ -23,10 +22,8 @@ Most importantly, Muscat 6.0 was made to merge the data independently catalogued
 Muscat 6.0 also contains a new Portuguese translation, which has been a new collaboration between RISM’s Central Office and the RISM Brasilian group. The translation work was led by André Guerra Cotta, who started the first translation of the RISM Guidelines in 1999 based on the old version published by the Spanish group, few years before. Seeing the Muscat interface and the guidelines in Portuguese is the accomplishment of several years. It is a historical moment and a significant step for the Luso-Brazilian musicology. We hope that this release of Muscat in (Brazilian) Portuguese will strengthen the efforts on cataloguing music sources on both sides of the Atlantic and, maybe, in other Portuguese-speaking countries. Many thanks to the RISM Brasil and to everybody in the community who contributed to this step.
 
 
-
 **Future work with the RISM Switzerland**
 
 The release of Muscat 6.0 inaugurates a new collaboration contract between the RISM Switzerland and the Central Office. This collaboration builds on the long-term perspectives the RISM Switzerland now has and following various discussions conducted with other partners of the RISM project. From now on, the RISM Switzerland will lead the development of Muscat. This will be done in close collaboration with the Central Office and under the supervision of the Commission Mixte. The RISM Central Office is responsible for the management of the data and of the guidelines. Work packages for the development and management duties taken over by the RISM Switzerland will be discussed and defined annually. The RISM Swizerland will maintain its own server infrastructure that will be used for the development of Muscat+, a new web front-end for Muscat that will offer tailored discovery features and integrate other resources.
-
 
 

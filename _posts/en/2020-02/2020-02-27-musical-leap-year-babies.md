@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Famous Leap Year Day babies are rare, but among the composers, [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=Gioachino%20Rossini&Language=en){:target="_blank"} (1792-1868) is probably the best known. But the RISM database has even more people who celebrate their birthdays on February 29.
 
 The English composer [Humphrey Bralesford](https://opac.rism.info/search?View=rism&q=Humphrey%20Bralesford&Language=en){:target="_blank"} (1658-1733) has almost only manuscripts for services in RISM, which are kept at the library of Canterbury Cathedral.
@@ -41,6 +40,5 @@ There are also some people in RISM who died on February 29:
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio&Language=en){:target="_blank"} (ca. 1536-1592)
 
 _Image_: Gioachino Rossini, _Lieder_, [lithographic print by C. Constans, 19th century](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
-
 
 

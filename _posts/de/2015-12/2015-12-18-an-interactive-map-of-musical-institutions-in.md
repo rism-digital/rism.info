@@ -11,11 +11,8 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
 Unsere Kollegin Patrizia Rebulla von der RISM-Arbeitsgruppe Belgien hat eine Internetkarte belgischer Musikinstitutionen zusammengestellt. Sie enthält Bibliotheken, Archive, Kirchen und Privatsammlungen, die über das ganze Land verstreut sind. Betrachten Sie die Karte auf folgender Webseite: [RISM Belgien](/de/workgroups/belgium-rism-belgium.html "Öffnet internen Link im aktuellen Fenster")
 
 
-
 <iframe src="https://www.google.com/maps/d/embed?mid=zVkEV29Tbhz0.kJsXPEbQlNAA" width="640" height="480"></iframe>
-
 

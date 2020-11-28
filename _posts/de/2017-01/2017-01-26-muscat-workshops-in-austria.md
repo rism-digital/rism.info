@@ -11,7 +11,6 @@ email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---
 
-
 _Folgende Meldung erhielten wir von unseren Kollegen aus IAML Österreich:_
 
 [IAML Österreich](http://www.iaml.at/){:target="_blank"} hat zwei erfolgreiche Muscat-Schulungen veranstaltet.
@@ -27,7 +26,6 @@ Die nächste Muscat-Schulung in Österreich findet voraussichtlich im Herbst 201
 Einige Fotos zu den beiden Veranstaltungen (kein Facebook-Account notwendig):
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1485250014849171.1073741849.103775449663308%26type%3D3&amp;width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-
 
 
 _Mit freundlicher Genehmigung von Stefan Engl und Eva Neumayr._

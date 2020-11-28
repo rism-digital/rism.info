@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Dieses Jahr wird der 250. Geburtstag von Luigi Cherubini (14. September 1760, Florenz – 15. März 1842, Paris) begangen. Von den Zeitgenossen wurde Luigi Cherubini bewundert. Heute stehen seine Werke eher selten auf dem Konzertprogramm oder auf den Spielplänen der Opernhäuser. Cherubini beherrschte das Pariser Musikleben für ein halbes Jahrhundert, war ein erfolgreicher Opernkomponist und langjähriger Direktor des Pariser Konservatoriums. Seine Bedeutung als Komponist liegt vor allem auf den Gebieten der Oper und der Kirchenmusik.
 
 Der musikalische Nachlass enthielt viele Werke Cherubinis im Autograph, als Abschrift oder in gedruckter Form. Es war ein ungewöhnlich vollständiger Bestand, der auf Betreiben der Witwe Cherubinis 1878 in die Königliche Bibliothek Berlin, die heutige Staatsbibliothek zu Berlin (D-B), gelangte. Im Zweiten Weltkrieg wurden die Bestände der Bibliothek bekanntlich an verschiedene Orte ausgelagert. Die Cherubini Quellen, vor allem die vor 1794 komponierten Werke, kamen in die Krakauer Biblioteka Jagiellońska (PL-Kj), wo sie heute wieder wissenschaftlich ausgewertet werden können.

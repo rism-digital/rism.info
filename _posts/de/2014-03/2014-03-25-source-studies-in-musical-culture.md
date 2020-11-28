@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Wir möchten gerne auf einen kürzlich ausgelieferten Konferenzbericht in englischer Sprache aufmerksam machen. Der Sammelband ist 2012 an der Abteilung für Musikwissenschaft der Adam-Mickiewicz-Universität in Posen als Band 11 der Reihe Interdisciplinary Studies in Musicology erschienen.
 
 Alina Mądry und Magdalena Walter-Mazur (Hrsg.), _Source Studies in Musical Culture,_ Poznań: [Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu](http://www.muzykologia.amu.edu.pl/68_interdisciplinary-studies-in-musicology.html){:target="_blank"}, 2012 (= Interdisciplinary Studies in Musicology 11.), 304 S., ISBN 978-83-7654-248-5

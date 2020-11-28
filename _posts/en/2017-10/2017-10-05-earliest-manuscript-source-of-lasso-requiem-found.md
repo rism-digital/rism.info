@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Recently we were browsing the social media site academia.edu and came across a review by [Barbara Eichner](https://www.academia.edu/31048158/Review_of_Tobias_Rimek_Das_mehrstimmige_Repertoire_der_Benediktinerabtei_St._Ulrich_und_Afra_in_Augsburg_1549-1632_Carus_Verlag_Stuttgart_2015){:target="_blank"} of Tobias Rimek's book _Das mehrstimmige Repertoire der Benediktinerabtei St. Ulrich und Afra in Augsburg (1549–1632)_ (Stuttgart: Carus, 2015; the review originally appeared in _Jahrbuch des Vereins für Augsburger Bistumsgeschichte_ [2016]). Eichner's review pointed out a discovery made by Rimek that was new to us, though Rimek published news of his find back in 2009.
 
 Tobias Rimek has identified the earliest source for the four-voice requiem _[Officium pro defunctis](https://lasso-handschriften.badw.de/search?id=lasso700){:target="_blank"}_ (LV 624) by Orlando di Lasso (ca. 1532-1594) for one tenor, a baritone, and two basses. It is a manuscript in choirbook format dating from 1575 that is located in the Staats- und Stadtbibliothek (D-As) in Augsburg (shelfmark Tonkunst Schletterer 23). This early version appears to be notated a fifth lower than in the later printed editions of the work from 1578 and 1588. The manuscript also contains the sequence "Dies irae," which is absent from the imprints.

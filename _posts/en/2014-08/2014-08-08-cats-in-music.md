@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today is International Cat Day! With RISM, you can find all the music you need to celebrate in style.
 
 If International Cat Day had started 200 years ago, musicians could have enjoyed these pieces, from RISM series A/I (printed editions before 1800):
@@ -25,11 +24,9 @@ If International Cat Day had started 200 years ago, musicians could have enjoyed
 [Cats](https://opac.rism.info/search?View=rism&q=cats){:target="_blank"} are everywhere in the online catalog, as are [Katzen](https://opac.rism.info/search?View=rism&q=katzen){:target="_blank"}, [chats](https://opac.rism.info/search?View=rism&q=chats){:target="_blank"}, and a [gatti](https://opac.rism.info/search?id=270002292&db=251&View=rism){:target="_blank"}. As the German cats say, [Miau](https://opac.rism.info/search?View=rism&q=miau){:target="_blank"}!
 
 
-
 Below, Elaine Comparone plays Scarlatti's Fugue in G minor, later dubbed "The Cat's Fugue" by Muzio Clementi.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/CbW1nNBqVnI" frameborder="0" allowfullscreen></iframe>
 
 Photo source: [Cat Daily News](http://catdailynews.com/2013/11/classical-music-for-cats/){:target="_blank"}
-
 

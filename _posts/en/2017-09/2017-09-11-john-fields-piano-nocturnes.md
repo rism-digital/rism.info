@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The year 1812 brought the chaos of war to the European continent when Napoleon's army went clear through Europe to Russia and reached Moscow. The outcome, as we know, was disastrous for the _deuxième Grande Armée_. It was the beginning of the end of Napoleonic rule in France and Europe.
 
 But alongside these terrible wartime events, something small and wonderful arose: in St. Petersburg, a city spared from the war, the first piano nocturne in musical history came into being. The composer was the Irishman John Field (1782-1837), considered to be the pianistic phenomenon of his day. Field and Muzio Clementi found themselves in St. Petersburg on business, and after a longer stay there in 1803, Field simply stayed on. He made a living as a teacher and through regular concert performances. Field can be seen as one of the founders of the Russian school of piano playing. His most famous piano students were Alexandre Dubuque, Aleksander Gurilyov, Antoni Kątski, Charles Mayer,Maria Szymanowska, and Alexey Verstovsky.
@@ -27,8 +26,6 @@ Field wrote a total of eighteen nocturnes. [Twelve sources with nocturnes](https
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPFv7FyuSlI" frameborder="0" allowfullscreen></iframe>
 
 
-
 _Image_: John Field, circa 1835, by Carl Mayer. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Field.png){:target="_blank"}.
-
 
 

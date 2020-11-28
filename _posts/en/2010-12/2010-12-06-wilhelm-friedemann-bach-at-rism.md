@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: Martina Falletta
 ---
 
-
 Misjudged, underappreciated, a failure, _enfant terrible_, the most abused composer: Wilhelm Friedemann Bach (1710-1784) has been characterized again and again by these attributes. His 300th birthday has been celebrated in recent months in a variety of ways.
 
 -
@@ -43,7 +42,6 @@ RISM’s various publication series record numerous works by Wilhelm Friedemann 
 _Recueil impremés du XVIIIe siècle_ (RISM B/II, 1964) features the following six printed collections by the eldest Bach son:
 
 
-
 -
 
 Apollo. Et musikalsk Maanedsskrivt for Sang og Klaveer af forskellige Componister. Forste Første-siette Aargang. [1.-6. Jg.], København: Sören Sonnichsen [1795-1800]
@@ -67,7 +65,6 @@ Musikalisches Mancherley, Berlin: G. L. Winter 1762-1763
 -
 
 Musikalisches Journal, Berlin: Günther 1800
-
 
 
 Six documents in Series A/I _Einzeldrucke bis 1800_ (_Individual Prints to 1800_) only mention instrumental works by Wilhelm Friedemann (including Fk 3, 5, 12). In one case, he also acts as the publisher for his father Johann Sebastian’s “Sechs Choräle von verschiedener Art auf einer Orgel mit 2. Clavieren und Pedal vorzuspielen.”

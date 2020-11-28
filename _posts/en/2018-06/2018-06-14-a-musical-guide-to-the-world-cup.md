@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Summer can officially begin! The World Cup is here. Tonight is the first game of the 2018 World Cup, in which the men's teams of 32 nations will compete for the ultimate prize in soccer.
 
 We're starting the group stage with a look at the musical sources for each of the qualifying nations. Countries from North and South America, Europe, and Asia, as well as Australia are well represented in both the [RISM online catalog](http://opac.rism.info/){:target="_blank"} and the [RISM directory of library sigla](/sigla.html). There are some nations where we only know of institutions that hold resources related to the study of music: Costa Rica, Egypt, Iceland, Iran, Peru, and Serbia—these are all listed in the sigla directory. Unfortunately, we have neither sources nor institutions for Morocco, Nigeria, Panama, Saudi Arabia, Senegal, and Tunisia. If any of our readers have tips for these countries, we'd be happy to have them.
@@ -21,9 +20,7 @@ To search for musical sources in a particular country, use the [**Advanced searc
 For example, a [search for](https://opac.rism.info/search?View=rism&siglum=RUS-*&Language=en){:target="_blank"}**[RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*&Language=en){:target="_blank"}** will find all sources in host nation Russia:
 
 
-
 ![](/resources-old-website/news/Fussball_WM_2018_Suche.png)
-
 
 What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/international.html) who have made the RISM project so international.
 
@@ -85,11 +82,9 @@ What team are you rooting for? The musical tournament begins! Behind each of the
 
 Ready for kickoff!
 
-
 _Images_:
 Louis Adam, autograph manuscript from _Morceau de Musique pour le piano_, Bibliothèque nationale de France (F-Pn Mus. Ms. 2926), [RISM ID no. 840000047](https://opac.rism.info/search?id=840000047){:target="_blank"}.
 Anna Lucia Bon, _6Sonateper ilFlauto Traversiere_, Det Kongelige Bibliotek på Slotsholmen (DK-Kk (mu 6210.2526)), [RISM ID no. 150205024](https://opac.rism.info/search?id=150205024){:target="_blank"}.
 Marcello Bernardini, from _Li tre Orfei_ (1788), Biblioteca Nacional de España (E-Mn MC/4430/74), [RISM ID no. 100400001](https://opac.rism.info/search?id=100400001){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
 
-
 _This post is by Andrea Hartmann of [RISM Germany–Dresden Office](http://de.rism.info/en/home.html){:target="_blank"}:_
 
 We would like to call your attention to a small exhibition that is part of this year's festival of Baroque music in Grimma (near Leipzig), [Tage Mitteldeutscher Barockmusik](http://www.unmittelbarock.de/){:target="_blank"}.
@@ -29,6 +28,5 @@ The music collection of the Fürstenschule Grimma (1550–1887), a state school 
 All of the music manuscripts are described in the [RISM online catalog](https://opac.rism.info/search?View=rism&q=f%C3%BCrsten+landesschule+grimma){:target="_blank"}.
 
 So far, around 1,000 manuscripts have been digitized as part of Saxony's state digitization program. The scans are linked directly to the RISM entries, or you can browse them in the [SLUB's digital collections](http://digital.slub-dresden.de/kollektionen/107/){:target="_blank"}.
-
 
 

@@ -11,7 +11,6 @@ email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
 
-
 On 27 and 28 July 2013, three masses with special reference to Tyrol will sound as part of the sixteenth Tyrolean Church Music Days festival at Stams Abbey in Austria:
 
 The Spaur Mass (KV 257) using the source found in Brixen (Bressanone) with autograph entries by Wolfgang Amadeus and Leopold Mozart ([I-BREd](http://opac.rism.info/search?documentid=650004848){:target="_blank"})

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Three people from the RISM Central Office attended the [annual congress of the International Association of Music Libraries, Archives and Documentation Centres](/publications/iaml-congresses/2019.html) in Kraków, Poland. In traditional [Congress Diary style](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"}, we offer you their impressions from Kraków with each contributor writing in their native language._
 
 **Klaus Keil:**
@@ -29,7 +28,6 @@ Zum Glück treffen wir uns im nächsten Jahr in Prag beim nächsten IAML-Kongres
 
 **Jennifer Ward:**
 I have to admit that one of my favorite parts of the IAML congress in Kraków was the food. Coffee breaks are always a welcome opportunity to recaffinate after productive meetings or informative sessions, but it's also a good chance to catch up with colleagues face-to-face and participate in those quick, but valuable, exchanges that would normally take weeks (or longer) to hash out over email. Though this year's IAML coffee breaks certainly stand out in part because of the seemingly endless array of Polish cakes (and the cappuccino machine), it is the lunches that I found to be just as important as the sessions and meetings. It gave me the opportunity to have productive meetings with my colleagues who I see only rarely, once a year, if that. We didn't have to leave the congress venue at all and no time was lost looking for a restaurant or anything like that. It was a very efficient and delicious way to spend the lunch break. Even if I didn't have a lunch meeting planned, it was always easy to strike up a conversation with whoever was standing around.
-
 
 _The photographs:_
 

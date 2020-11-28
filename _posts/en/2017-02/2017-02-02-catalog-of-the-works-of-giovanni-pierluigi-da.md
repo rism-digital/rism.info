@@ -11,7 +11,6 @@ email: carola.finkel@hfmdk-frankfurt.de
 author: Carola Finkel
 ---
 
-
 _We have received the following from Carola Finkel:_
 
 The Roman composer Giovanni Pierluigi da Palestrina (1525–1594), through his musical output, left a far-reaching mark on church music, music theory, and compositional practice. His influence on music history started during his lifetime and can still be felt today. Although scholarly treatment of his oeuvre began back with the Cecilian movement in the early 19th century, the field still has gaps in many areas even today. Most notably, we still lack a scholarly catalog of works that is based on comprehensive research of the sources. Such a resource would lay the groundwork for a variety of musicological projects, act as a foundation for creating critical editions of works, and also serve as a bibliographic tool for historically minded performances.
@@ -23,7 +22,6 @@ In addition, the most important sources for each work will be rendered digitally
 The novel aspect of this project involves linking a catalog of works and sources to a visual and source-oriented display of the music in digital form, which in contrast to a printed catalog can provide extensive points of departure for researchers and more versatile and easier-to-understand ways of presenting information. For musicians, the catalog will allow them to choose between variant copies of a work that reflect different local, institutional, and historical parameters. The resource will therefore be equally suitable for both scholars and performers.
 
 This DFG project is being carried out in cooperation with [Schott Music](https://de.schott-music.com/){:target="_blank"} and RISM.
-
 
 
 ![Palestrina catalog](http://rism.info/resources-old-website/news/Palestrina-2.jpg)

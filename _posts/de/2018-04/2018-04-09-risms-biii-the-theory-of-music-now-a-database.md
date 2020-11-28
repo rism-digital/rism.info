@@ -11,7 +11,6 @@ email: chr.meyer@wanadoo.fr
 author: Christian Meyer
 ---
 
-
 _Diesen Beitrag erhielten wir von unserem Kollegen Christian Meyer:_
 
 Die in der RISM Serie B/III ([The Theory of Music](/de/publikationen.html#c2619), 6 Bände, München: G. Henle, 1961-2003) beschriebenen Kataloge der Handschriften wurden 2001 durch das Lexicon musicum Latinum (LML) online veröffentlicht und sind jetzt [als Datenbank verfügbar](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.
@@ -21,6 +20,5 @@ Die HTML-Seiten und die in pdf-Form vorliegenden Transkriptionen der Texte wurde
 Siehe auch Christian Meyer, "[RISM B III : Les sources manuscrites de la théorie de la musique (IXe-XVe s.) – Un bilan](https://www.academia.edu/36083030/RISM_B_III_Les_sources_manuscrites_de_la_th%C3%A9orie_de_la_musique_IXe-XVe_s._Un_bilan){:target="_blank"}."
 
 _Abbildung_: _Musica enchiriadis_ (10. Jahrhundert), S. 12. Einsiedeln Stiftsbibliothek (CH-E), Codex 79(522).[Online verfügbar](http://www.e-codices.unifr.ch/en/list/one/sbe/0079){:target="_blank"} (CC-BY).
-
 
 

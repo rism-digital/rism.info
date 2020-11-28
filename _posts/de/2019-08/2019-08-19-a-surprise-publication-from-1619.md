@@ -11,7 +11,6 @@ email: johanna.thoene@rism.info
 author: Johanna Thöne
 ---
 
-
 Vor ziemlich genau 400 Jahren erschien in Rom bei [Luca Antonio Soldi (ca. 1558-1627)](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22ks40010260%22){:target="_blank"} die zweite Sammlung der _Concertini a due a tre, et a quattro voci di Gregorio Allegri con il Basso continuo_, wohingegen sich uns die erste Publikation von 1618 leider nicht erhalten hat.
 
 Die Sammlung mit zwei- bis fünfstimmigen Motetten (das Titelblatt unterschlägt die fünfstimmigen Kompositionen!) enthält außer zwanzig Motetten von [Gregorio Allegri (1582-1652)](https://opac.rism.info/search?id=pe28948&View=rism){:target="_blank"} auch vier fremde Werke. Weil aber die meisten Werke von Allegri stammen, ist dieser Druck sowohl in der Serie A/I (A 858) als auch in B/I (1619|12) verzeichnet; da die Überarbeitung der B/I-Einträge sowie deren Zusammenführung mit A/I-Dubletten in vollem Gange ist ([siehe unseren Bericht](http://www.rism.info/de/startseite/newsdetails/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html){:target="_blank"}), ist der [aktualisierte A/I-Eintrag](https://opac.rism.info/search?id=00000990000859&View=rism){:target="_blank"} nun im RISM-Katalog zu finden.
@@ -28,8 +27,6 @@ Ob sich der Widmungsträger wohl geschmeichelt gefühlt hat? Wir werden es wohl 
 
 Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur zu den Musikdrucken sind immer willkommen.
 
-
 _Abbildung_: Gregorio Allegri, _Concertini a dve a tre, et a quattro voci_. (Rom: Soldi, 1619). [RISM ID no. 990000859](https://opac.rism.info/search?id=00000990000859&View=rism){:target="_blank"}. Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.63, [Online einsehbar](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_V/V063/){:target="_blank"}
-
 
 

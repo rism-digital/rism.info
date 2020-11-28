@@ -11,7 +11,6 @@ email: ''
 author: SLUB Dresden
 ---
 
-
 _We are [reprinting the following](https://digital.slub-dresden.de/kollektionen/1227/){:target="_blank"} with the kind permission of the SLUB Dresden:_
 
 At last, Richard Strauss is in the public domain. As of 1 January 2020, his works may be made available to the public without any special permission or payment.
@@ -27,9 +26,7 @@ Music and text documents can be easily be found through the SLUB's [Richard Stra
 See also [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/](https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/){:target="_blank"}
 
 
-
 _Image_: Richard Strauss, [score to](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
-
 
 

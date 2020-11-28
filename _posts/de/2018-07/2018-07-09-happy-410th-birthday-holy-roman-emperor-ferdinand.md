@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Am kommenden Freitag jährt sich der Geburtstag von Ferdinand III., römisch-deutscher Kaiser von 1637 bis 1657, zum 410. Mal. Wie viele Adelige trat auch er als[Komponist](https://opac.rism.info/search?View=rism&author=135163781&Language=de){:target="_blank"}hervor - genauso wie seine Nachfolger[Leopold I](https://opac.rism.info/search?View=rism&author=118571869&Language=de){:target="_blank"}.und [Joseph I](https://opac.rism.info/search?View=rism&author=118558390&Language=de){:target="_blank"}.
 
 Andrew H. Weaver veröffentlichte eine Edition von[allen bekannten Motteten von Ferdinand III](https://www.areditions.com/publications/collegium-musicum/motets-by-emperor-ferdinand-iii-et-al-y2-018.html){:target="_blank"}. im Jahr 2012. In einem kürzlich in der Zeitschrift_Early Music_ erschienenen Artikel, [schrieb Weaver](https://doi.org/10.1093/em/cav001){:target="_blank"}:
@@ -26,7 +25,5 @@ Siehe:
 Andrew H. Weaver, “A recently rediscovered motet by Holy Roman Emperor Ferdinand III." _Early Music_ 43, no. 2 (2015): 281–289. [Online verfügbar](https://doi.org/10.1093/em/cav001){:target="_blank"}.
 
 
-
 _Abbildung_: Porträt von Ferdinand III., Rijksmuseum, übernommen von[Europeana](http://data.europeana.eu/item/90402/RP_P_OB_9022){:target="_blank"} (public domain).
-
 

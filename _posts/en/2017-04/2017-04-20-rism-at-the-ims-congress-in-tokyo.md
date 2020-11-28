@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 I (Jennifer Ward) attended the [International Musicological Society (IMS) congress in Tokyo](http://ims2017-tokyo.org/){:target="_blank"} from March 19 to 23, 2017, supported by a grant from [Bibliothek & Information International/Goethe-Institut](http://www.bi-international.de/english){:target="_blank"}. The congress was hosted by the Tokyo University of the Arts and revolved around the theme [Musicology: Theory and Practice, East and West](http://ims2017-tokyo.org/Theme/){:target="_blank"}.
 
 RISM (and the other three [R projects](http://www.r-musicprojects.org/){:target="_blank"}) is jointly sponsored by the [IMS](https://ims-international.ch/){:target="_blank"} and [IAML](http://www.iaml.info/){:target="_blank"} (the International Association of Music Libraries, Archives and Documentation Centres). While IAML meets annually, IMS congresses are pretty rare occasions, taking place only once every five years. This was my first IMS congress, and the congress can be described as gigantic in scope: there were over 600 participants; a plethora of keynote lectures, roundtables, study sessions, and papers; and at times 10 or more sessions at once. It was impossible to see everything.
@@ -34,12 +33,10 @@ _Manuscript music by Yamada Kosaku on display at the Archive Center_
 Next I visited the [university library](http://www.lib.geidai.ac.jp/Eguide.html){:target="_blank"} of our host institution. The library supports the mission of the university and with around 490,000 volumes it is at the same time one of the foremost arts libraries in Japan. Within the music reference section I easily found an entire run of printed RISM books, including the very newest one from 2016!
 
 
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865161620989%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 [digitized and available online](http://images.lib.geidai.ac.jp/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 [National Diet Library](http://www.ndl.go.jp/en/){:target="_blank"}
-
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865158287656%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
@@ -54,7 +51,6 @@ My tour guide was Yuko Kumakura. Throughout the excellent tour, she made extra e
 Ms. Kumakura gave us a demonstration of the [online catalog](http://iss.ndl.go.jp/?locale=en&ar=4e1f){:target="_blank"}, which is available with an English interface, and showed us how we can target music materials by doing a search by classification number using the code YM\*. Our guide also showed us a separate system that is used for in-depth searching of the contents of music scores; this search was a bit more complicated if you don't know Japanese. Because we're librarians, we also learned about the [NDL's authority files](https://id.ndl.go.jp/auth/ndla){:target="_blank"}, classification scheme, and the structure of the OPAC records.
 
 
-
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865154954323%2F%3Ftype%3D3&amp;width=500" width="500" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 The library has some special collections related to music. A collection of 600 music manuscripts owned by composer Hikaru Hayashi (1931–2012) has recently been made available to researchers by the NDL. (See [this link](http://ndl.go.jp/en/publication/ndl_newsletter/207/20702.html){:target="_blank"} for some pictures from the public presentation of this collection in 2016.) Some manuscripts have been digitized but they can only be viewed on site due to copyright restrictions. Another collection is the [Historical Recordings Collection](http://rekion.dl.ndl.go.jp/?_lang=en){:target="_blank"}, which is the result of a partnership between the NDL and several other institutions (including the Japanisches Kulturinstitut in Cologne) to preserve over 50,000 early Japanese sound recordings. The NDL hosts this service while the recordings themselves are still owned by the respective institutions.
@@ -66,6 +62,5 @@ The final library I visited on this trip was the [Tokyo Metropolitan Central Lib
 _The music section of the Tokyo Metropolitan Central Library_
 
 The congress was the first IMS congress to take place in Asia. It was an excellent opportunity to see our Japanese colleagues, whom we only rarely see face to face, and to connect with musicologists from around the world. I would like to thank BI-International for the funding to support my participation in this congress. I would also like to thank the organizers of the IMS congress for their hospitality. I hope to see everyone again at the 2022 meeting in Athens!
-
 
 

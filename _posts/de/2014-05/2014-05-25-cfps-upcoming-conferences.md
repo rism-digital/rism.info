@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 An alle Musikwissenschaftler und Musiker! Drei interessante Konferenzankündigungen haben uns via [AMS](http://www.ams-net.org/){:target="_blank"} erreicht.
 
 **1st International Digital Libraries for Musicology workshop (DLfM 2014)** Incorporating the Transforming Musicology Challenge
@@ -31,5 +30,4 @@ December 4-6, 2014
 National Institute for Music Research, Berlin, Germany
 Abstract submission deadline: 05 August 2014
 [Conference website](http://www.sim.spk-berlin.de/cim14){:target="_blank"}
-
 

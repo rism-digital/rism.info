@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The new issue of the _Journal of the [American Musicological Society](http://www.ams-net.org/){:target="_blank"}_ has reviews of five chant databases:
 
 - [Cantus Planus Regensburg](http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/cantus/){:target="_blank"}

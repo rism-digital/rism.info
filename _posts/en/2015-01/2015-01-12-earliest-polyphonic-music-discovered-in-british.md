@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _The following entry is by Nicolas Bell and originally appeared on the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/12/earliest-polyphonic-music-discovered-in-british-library.html){:target="_blank"}. It is reprinted here with kind permission._
 
 The British Library Music Blog has been quiet for a while, but plenty has been going on in the meantime. See the[BBC News](http://www.bbc.co.uk/news/uk-england-london-29693410)websitefor a report on a BL music manuscript presented to Henry VIII by the famous music scribe, spy and double agent Petrus Alamire, which has been recorded complete for the first time - and which reached no. 2 in the charts in the week it was released! We've just published the complete choirbook on our[Digitised Manuscripts](http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_8_G_VII)site, and you can read more about it on the[BL Medieval blog](http://britishlibrary.typepad.co.uk/digitisedmanuscripts/2014/12/tudor-scribe-and-spy-at-no-2-in-the-official-classical-charts.html). Also see our[European Studies blog](http://britishlibrary.typepad.co.uk/european/2014/12/a-dish-fit-for-the-gods.html)for a fascinating account of the circumstances surrounding the first performance of[Offenbach's_La Belle Hélène_](http://www.bl.uk/manuscripts/FullDisplay.aspx?index=6&ref=Zweig_MS_72), exactly 150 years ago.
@@ -21,7 +20,6 @@ The British Library Music Blog has been quiet for a while, but plenty has been g
 Reports emerged recently in the press (including[here](http://www.theguardian.com/music/2014/dec/17/polyphonic-music-fragment-origins-rewritten)and[here](http://www.telegraph.co.uk/culture/music/music-news/11297635/Manuscript-showing-birth-of-1000-years-of-choral-music-discovered.html)) of the discovery in the British Library of the earliest piece of polyphonic music. Can this strange coded message really rewrite the history of choral music by shifting the earliest known harmony back by more than a century? Let’s take a closer look…
 
 ![Harley_ms_3019_f56v](http://britishlibrary.typepad.co.uk/.a/6a00d8341c464853ef01b8d0ac4d70970c-pi)
-
 
 The music consists of a brief inscription written in the blank space at the end of a short manuscript of the life of the fourth-century bishop Maternianus of Riems, written down in the early tenth century. When the manuscript was received as part of the[Harley Collection](http://www.bl.uk/reshelp/findhelprestype/manuscripts/harleymss/harleymss.html)in 1753, nobody paid any attention to these scribblings: the fact that our predecessors chose to deface them with the British Museum stamp is regrettable, but also provides clear evidence that they were not thought to have any significance.
 

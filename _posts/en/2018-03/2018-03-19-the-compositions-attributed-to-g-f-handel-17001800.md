@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 This one is new to our bookshelves:
 
 Hans Joachim Marx and [Steffen Voss](http://de.rism.info/de/mitarbeiter/dr-steffen-voss.html#c3002){:target="_blank"}, _Die G. F. Händel zugeschriebenen Kompositionen, 1700-1800 / The Compositions Attributed to G. F. Handel, 1700-1800 (HWV Anh. B)_ ([Hildesheim: Olms, 2017](http://www.olms.de/search/Detail.aspx?pr=2008841){:target="_blank"}). ISBN: 978-3-487-15483-1.
@@ -22,8 +21,6 @@ In total, 380 compositions were identified for evaluation and each one was exami
 
 Some parts of the book were already published in the _Göttinger Händel-Beiträge_ (2006, 2008, 2010 and 2012): arias and songs (part I), duets, cantatas and serenatas (part II), oratorical works and church music (part III), and works for orchestra (part IV). New to this volume are sections on instrumental chamber music (part V; HWV Anh. B 401-477) and music for keyed instruments (part VI; HWV Anh. B 501-645). The catalog consists of 400 pages and includes additions to parts I through IV. Each entry consists of: title, music incipit, composer, instrumentation, sources, provenance, editions, bibliography, and notes. Various lists and indexes are included as appendixes. The preface and introduction of the book, as well as the notes to each entry, are easy to use in German and English.
 
-
 _Image_: Violin part of a violin concerto in E major that was allegedly composed by Handel (HWV Anh. B 318). Bayerische Staatsbibliothek (D-Mbs) Mus.ms. 1166, [RISM ID no. 453011722](https://opac.rism.info/search?id=453011722&Language=en){:target="_blank"}.
-
 
 

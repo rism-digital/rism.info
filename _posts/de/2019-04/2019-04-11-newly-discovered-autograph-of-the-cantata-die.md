@@ -11,7 +11,6 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 Ansprechpartner: _Gottfried Heinz-Kronberger ([RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}):_
 
 Im Bestand der Bibliothek der Universität der Künste in Berlin wurde ein Autograph von Engelbert Humperdinck (1854-1921) entdeckt. Es handelt sich um die bisher nur in Bruchstücken bekannte Dramatische Kantate für drei Solostimmen und Orchester „Die Fischerin“ nach einem Text von Johann Wolfgang von Goethe.
@@ -29,5 +28,4 @@ Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Ma
 Die nun aufgefundene vollständige Fassung der Kantate erlaubt einmal mehr, das Schaffen Humperdincks zu analysieren und auch die Vertonung eines weiteren Goetheschen Werkes kennenzulernen. Erstaunlich ist dabei, dass der in „Der Fischerin“ enthaltene Prolog, der als „Erlkönig“ exzerpiert berühmt wurde, von Humperdinck in der Vertonung keine Verwendung fand.
 
 Das Katalogisat kann mit seinen Incipits im RISM-OPAC unter der [ID 1001053670](https://opac.rism.info/search?id=1001053670&View=rism&Language=de){:target="_blank"} eingesehen werden.
-
 

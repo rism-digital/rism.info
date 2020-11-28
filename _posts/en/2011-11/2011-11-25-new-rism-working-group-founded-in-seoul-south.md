@@ -11,7 +11,6 @@ email: 64ehkim@ewha.ac.kr
 author: Dr. Eun-Ha Kim
 ---
 
-
 The [Music Research Institute, College of Music at Ewha Womans University](http://my.ewha.ac.kr/musicieen/){:target="_blank"} in Seoul, South Korea has begun to document and build a database of musical sources from Korea and East Asia thanks to a state subsidy.
 
 The research team (Director of Music Research Institute: Prof./Dr. Hyun Kyung Chae), through long investigations, has collected a vast quantity of sources in different formats: handwritten and printed music, writings about music and music theory, photos, recordings, and more.

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The 2018 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2018.html). Here are some of the highlights:
 
 **Total records** : Our contributors from all over the world have worked hard this past year to catalog music manuscripts, printed editions, treatises, and libretti. The[RISM catalog](https://opac.rism.info/){:target="_blank"} currently has 1,115,800 records for musical sources.
@@ -46,6 +45,5 @@ Muscat is a platform-independent, web-based, open-source program. As such, it ca
 - **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface
 
 Here's to a successful and productive 2019!
-
 
 

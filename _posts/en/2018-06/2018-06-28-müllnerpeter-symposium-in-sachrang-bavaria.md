@@ -11,7 +11,6 @@ email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---
 
-
 _We have received the following from Steffen Voss ([RISM Germany](http://de.rism.info/de/home/){:target="_blank"}):_
 
 This year marks the 175th anniversary of the death of Peter Huber, known as Müllner-Peter, the "Milner Peter from Sachrang" (1766-1843). Huber owned a mill in the small mountain village of Sachrang in the Chiemgau region of Bavaria and was particularly committed to the musical life of his community. For several years, he worked as a part-time choirmaster and organist, and for many years he collected and copied an extensive music collection, which included mostly sacred works as well as dance music, instrumental chamber music, and a few secular vocal works.
@@ -21,6 +20,5 @@ While on vacation in Sachrang in 1938, Hans Halm, then director of the music col
 On Saturday, June 30, a symposium called "Dorf-Musik-Leben" will be held in the Sachrang Schulhaus (where the Müllner-Peter Museum is also located), which will be devoted to the life and works, and especially the music collection, of Müllner-Peter. Among the participants are RISM contributors Steffen Voss (Munich) and Hildegard Herrmann-Schneider (Innsbruck) as well as Thomas Hochradner from the Mozarteum in Salzburg. Further commemorative events and concerts will take place throughout the weekend. The full program can be found on the [event flyer](https://event.irs18.de/data/files/muellner-peter-symposium-flyer.pdf){:target="_blank"} from the Sachrang tourism office.
 
 _Image_: Title page, in Müllner-Peter's hand, of a mass by Georg Augustin Holler (1744-1814). Bayerische Staatsbibliothek (D-Mbs Mus.ms. 7364). RISM ID no. [450057417](https://opac.rism.info/search?id=450057417&Language=en). From [_bavarikon_](https://www.bavarikon.de/object/BSB-MUS-00000BSB00108832){:target="_blank"}, CC BY-NC-SA 4.0.
-
 
 

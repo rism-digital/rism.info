@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Valletta and Leeuwarden are the two European Capitals of Culture for 2018. Valletta is the smallest capital in the European Union and is listed as a UNESCO World Heritage Site.
 
 The city was built by the Knights of Malta beginning in 1566 and the sights can be reached easily by foot. But as Alexiei Dingli, the mayor of Valletta, said, "This Capital of Culture is different than other cultural capitals. It's not just about Valletta, but all of Malta and Gozo, too." Fans of culture can expect a full [calendar of events](https://valletta2018.org/){:target="_blank"} throughout the year.
@@ -41,7 +40,6 @@ There aren't any sources in the RISM catalog from Malta yet...does anyone out th
 **Francesco Vincenzo Schira** was born in 1809 in Malta but spent most of his life in London, where he died in 1883. Of his many operas, arias, and romances, [only a few](https://opac.rism.info/search?View=rism&author=Schira+Francesco&Language=en){:target="_blank"} are still known today.
 
 **Michelangelo Vella** (1710, Senglea – 1792, Cospicua) received his musical training in — you guessed it — Naples and returned to Malta in 1738 in order to work as as a music teacher, organist, and _maestro di cappella_. The six sonatas for three violins and bass are among his most popular works and were printed in Paris during his lifetime (RISM A/I: [V 1107, VV 1107, VV 1107a](https://opac.rism.info/search?View=rism&author=Vella+Michelangelo&Language=en){:target="_blank"}).
-
 
 _Image_: View of Valletta, photo by Joergsam, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).
 

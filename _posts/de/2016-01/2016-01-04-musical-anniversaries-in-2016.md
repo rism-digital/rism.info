@@ -11,19 +11,15 @@ email: ''
 author: ''
 ---
 
-
 Frohes neues Jahr!
 
 Auch das Jahr 2016 bietet wieder viele Gelegenheiten runde Geburtstage zu feiern oder anlässlich eines runden Sterbejahres an einen Komponisten zu erinnern. Unter den über 800 Jubilaren, die in der RISM-Datenbank versammelt sind, sind nicht nur Komponisten, sondern auch Librettisten, Interpreten, Widmungsträger oder Personen, die nur indirekt mit einer Musikquelle in Verbindung stehen.
 
 
-
 Zu Letzteren gehört beispielsweise Walt Disney, dessen Todestag sich in diesem Jahr zum 50. Mal jährt, und der bei RISM mit einer Bearbeitung der Filmmusik von Frank Churchill zu _Schneewittchen und die sieben Zwerge_ vertreten ist (aufbewahrt in der Koninklijke Harmonie Strijd voor Vrijheid in Belgium, B-TOeksv B.019, RISM ID no. [702012744](https://opac.rism.info/search?id=702012744){:target="_blank"}).
 
 
-
 Mit fast [4.000 Quellennachweisen](https://opac.rism.info/search?View=rism&author=Giovanni+Paisiello){:target="_blank"} liegt Giovanni Paisiello (1740-1816) in der Liste der Jubilare weit vorne.
-
 
 
 Einige weitere Jubilare sind:
@@ -50,7 +46,6 @@ Einige weitere Jubilare sind:
 - [Cordula Wöhler](https://opac.rism.info/metaopac/search?View=rism&q=136125425){:target="_blank"} (1845-1916), Dichterin
 
 Wir haben die Datenbank nach Personen durchsucht, die im Geburts- oder Sterbejahr die Endziffern 16 oder 66 aufweisen. Weiter unten zeigen wir Ihnen Namen von[Luigi **A** bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) bis [**Z** ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (auch Sigismund III von Polen; 1566-1632). Die Zeitspanne reicht vom 800. Todestag von Papst Innocenz III. (ca. 1160-1216) – Textverfasser des Hymnus[_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"} – bis hin zum Tenor Fritz Wunderlich (50. Todestag), der bei RISM mit seinem Walzer „[_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"}“ vertreten ist.
-
 
 
 **Geboren in xx16 oder xx66 (zum Sortieren Überschrift anklicken):**

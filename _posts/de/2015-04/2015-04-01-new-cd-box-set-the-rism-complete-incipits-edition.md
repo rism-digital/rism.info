@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Viele von Ihnen wissen, dass das was RISM einzigartig macht, ist die Darstellung des Musikincipits auf unseren Titelaufnahmen.
 
 Und wie oft haben Sie sich schon gedacht: "Wenn ich mir doch den ganzen Tag diese Musikincipits anhören konnte!"
@@ -36,7 +35,6 @@ Dieses [Posaunenmotiv](https://opac.rism.info/search?id=851000292){:target="_bla
 Sie werden das [Solfeggio](https://opac.rism.info/search?id=850507984){:target="_blank"} mit anderen Ohren hören, wenn Sie die vollständige **RISM-Incipit Edition** angehört haben! Singen Sie selbst und fügen Sie Ihre eigenen Worte hinzu.
 
 
-
 ![Solfeggio](http://rism.info/resources-old-website/news/Aprilscherz_2015/solfeggio.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -45,7 +43,6 @@ Hingebungsvolle RISM-Nutzer wissen, dass eine Titelaufnahme manchmal nur ein Tex
 _1.1.1vl 1,c; 3/4; c/Ouverture. Più moto;b; B_
 
 und
-
 
 
 _1.6.16/4;e Tell him Apollo greets him well_
@@ -57,6 +54,5 @@ Und das ist noch nicht alles! Wenn Sie noch heute betellen, erhalten Sie eine Bo
 Bestellen Sie jetzt bevor es zu spät ist! Benutzen Sie [dieses angenehme Bestellformular hier](https://opac.rism.info/search?id=452505866){:target="_blank"}.
 
 Auch erhältllich bei iTunes und Spotify.
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM war vom 4. - 6. Oktober zur Konferenz "[Celebración y Sonoridad en Hispanoamérica (Siglos XVI-XIX): Homenaje a José López-Calo](https://www.conservatoriodelasrosas.edu.mx/Home/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix/){:target="_blank"}" in Morelia (Mexiko) eingeladen. Sie wurde organisiert vom Centro Cultural de la UNAM, der Escuela Nacional de Estudios Superiores Unidad Morelia, UNAM und dem Conservatorio de las Rosas. Ich berichtete über die RISM Aktivitäten in Lateinamerika und leitete einen [Muscat](/de/community/muscat.html) Workshop.
 
 Die Konferenzteilnehmer aus ganz Lateinamerika berichteten über ihre laufenden Forschungen, Buchpublikationen und Konzerte. Mehr als 30 Personen nahmen am Muscat Workshop teil, der drei Tage dauerte. Ich freute mich, John Lazos (RISM Kanada/MexiKo) und Antonio Ezquerro (RISM Spanien) dort zu treffen, denn sie waren mir eine große Hilfe während des Workshops, um Fragen hinsichtlich der RISM Richtlinien zu beantworten. Antonios _Normas internacionales para la catalogación de fuentes musicales históricas_ (Madrid: Arco/Libros, 1996) erschienen vor über 20 Jahren und sind immer noch im spanisch sprechenden Amerika präsent. Eine Überarbeitung der Richtlinien vor allem hinsichtlich Muscat ist geplant.
@@ -46,6 +45,5 @@ js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
-
 
 

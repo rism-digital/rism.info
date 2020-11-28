@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Today, we're continuing the conversation about comments we received from the [recent RISM survey](/community/survey-2014-2015.html). On Monday [we talked about](/self_representation/2015/08/10/results-of-the-rism-user-study-part-ii-your.html){:target="_blank"} countries represented in RISM and secondary literature. Today:
 
 **"Do you still have the cataloging limit of 1850?"- Respondent 372**
@@ -23,7 +22,6 @@ A question that comes up frequently, and not only in the user study, is the ques
 The terms of funding for the [RISM Zentralredaktion](/organization/rism-zentralredaktion.html#c34) and the [German working group](http://de.rism.info/en/home.html){:target="_blank"} stipulate that the emphasis for describing musical sources should be the period 1600-1800. Projects undertaken by other national groups also typically have chronological limits, and 1600-1800 has frequently been applied.
 
 However, this ought not be a barrier for other institutions or projects--which are funded independently from the Zentralredaktion--when they are describing their holdings. Due to the unique history of each country we work with, we leave it up to our colleagues in the national groups to determine cataloging priorities and what chronological limits fit best with the extant sources preserved there. Therefore you will find mostly [printed music from 1900-1945 in Korea](https://opac.rism.info/search?View=rism&siglum=ROK-*){:target="_blank"}, [Gustav Mahler](https://opac.rism.info/search?View=rism&siglum=CDN-Lu){:target="_blank"} in Canada, and works by [Lili Boulanger](https://opac.rism.info/search?id=850033539){:target="_blank"}, [Maurice Ravel](https://opac.rism.info/search?View=rism&author=Maurice+Ravel){:target="_blank"}, [Ethel Smyth](https://opac.rism.info/search?id=455009231 "external-link-new-window"), and [Richard Strauss](https://opac.rism.info/search?View=rism&author=Richard+Strauss){:target="_blank"}. **RISM contributors are encouraged to enter sources from any time period**.
-
 
 
 Image: Max Bruch (1838-1920), autograph manuscript of 18 Lieder (ca. 1916-1919). [Staatsbibliothek zu Berlin](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN776494082&PHYSID=PHYS_0005){:target="_blank"} (D-B), Mus.ms.autogr. Bruch, M. 18 (RISM ID no. [464000858](https://opac.rism.info/search?id=464000858){:target="_blank"})

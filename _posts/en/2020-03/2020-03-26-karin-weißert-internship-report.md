@@ -11,7 +11,6 @@ email: ''
 author: Karin Weißert
 ---
 
-
 As part of my bachelor’s degree in musicology at the Goethe-Universität in Frankfurt am Main, one is required to work an internship that lasts 150 hours.
 
 For my internship, I resolved not to go to an opera house or concert hall to learn the organizational requirements of putting on events. This area of arts administration is one I knew from my previous career, so I looked for something that had more to do with music itself and/or its storage, processing, or documentation.

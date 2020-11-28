@@ -11,7 +11,6 @@ email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
 
-
 _We received this post from Father Roman Nägele (RISM Austria, [Heiligenkreuz Abbey](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
 [The Heiligenkreuz Music Archive](http://www.stift-heiligenkreuz-sammlungen.at/){:target="_blank"} is the central place for collecting printed music editions and audio equipment. The core of the collection is handwritten and printed music dating back to the first third of the 18th century. This makes our music archive a center for music and bibliographic information for the region. The musical and cultural documents were, up until a few months ago, kept in unsatisfactory conditions, which have now been rectified.
@@ -23,6 +22,5 @@ Many who contributed to the archive's beauty were invited to the ceremony that f
 After the room was blessed, Abbot Maximilian invited everyone to a ceremony in the Salon of the Prelature. This was a rare opportunity to see these rooms. In his greeting, the abbot emphasized the importance of the archive and the achievement of P. Roman. He also emphasized the fact that in the future it will be possible for scholars and musicians to use the archival material in an uncomplicated way.
 
 The ceremony was enriched with traditional monastic music. At the end, P. Roman expressed his pleasure at how extensive and well organized the holdings of the music archive are ([RISM library siglum: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE&Language=en){:target="_blank"}), and emphasized that the intention of his work is for the music to be used and heard. Rarities and rediscoveries for masses and interesting concerts await us in the future.
-
 
 

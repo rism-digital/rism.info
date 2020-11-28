@@ -11,9 +11,7 @@ email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
 
-
 _The following article is by Nina Eichholz and was originally published on the_[_SLUBlog_](http://blog.slub-dresden.de/beitrag/2014/08/19/auf-den-spuren-der-hofmusik-in-dresden/){:target="_blank"}_. We are publishing it here with the kind permission of the SLUB Dresden._
-
 
 
 The second SLUB project began one year ago to catalog its valuable music materials from the time of the Saxon-Polish union (1697-1763). Financed by the German Research Foundation (DFG), this project focuses on the core of the Royal Private Music Collection and the music collections of the Catholic Court Church. It continues the work of the previous project “Schrank no: II,” which concentrated on the instrumental music of this period. The era of the Saxon-Polish union, also called the _Augustan Age, is considered to be the most splendid chapter of_ Dresden music history. The new Hofmusik (court music) [website](http://hofmusik.slub-dresden.de/en/){:target="_blank"}, which also has information about the project "Dresdner Opernarchiv digital" (Dresden Digital Opera Archive), is now online.
@@ -31,7 +29,6 @@ Musicologists examine the ca. 1,500 extant manuscripts, including numerous autog
 In addition, the materials are fully digitized by the [SLUB Digitization Center](http://www.slub-dresden.de/ueber-uns/ddz/){:target="_blank"} and furnished with a digital table of contents, which facilitates navigation of these often complex digital documents. The digital versions are then available to users through the [SLUB Digital Collections](http://digital.slub-dresden.de/kollektionen/){:target="_blank"} page at no charge and can be accessed through the RISM online database and the[SLUB catalog](http://www.slub-dresden.de/recherche/){:target="_blank"}. Here the music, which is often preserved in very clean copies, can be directly used for different purposes, such as by musicians for performance. Music researchers as well can profit from immediate (digital) access to the compositions--most of which are unpublished--and from the study of the historic original sources.
 
 
-
 **The Royal Private Music Collection**
 
 Research on the [Royal Private Music Collection](http://hofmusik.slub-dresden.de/en/themen/hofkirche-koenigliche-privat-musikaliensammlung/){:target="_blank"} concentrates on the collections of [Elector Friedrich August II](http://en.wikipedia.org/wiki/Augustus_III_of_Poland){:target="_blank"}, his wife Maria Josepha, and his daughter-in-law Maria Antonia Walpurgis.
@@ -43,7 +40,6 @@ Maria Antonia's collection is also significant in that it reflects the developme
 **Music of the Catholic Court Church**
 
 With August the Strong's conversion to Catholicism in 1697, the need became apparent for a new repertoire of Catholic [church music](http://hofmusik.slub-dresden.de/en/themen/hofkirche-koenigliche-privat-musikaliensammlung/){:target="_blank"} at the Dresden court. After an initial phase of tentative attempts, church music performances took place with increasing regularity beginning in 1721 through the influence of Maria Josepha. A repertory developed with a variety of genres and styles. The protagonists of this era were the kapellmeister [Johann David Heinichen](http://en.wikipedia.org/wiki/Johann_David_Heinichen){:target="_blank"} and the church composers Giovanni Alberto Ristori and Jan Dismas Zelenka. Additional repertoire grew out of travels to Naples and Venice by members of the House of Wettin and from further dynastic and institutional connections in Vienna and Bohemia. The sources preserved here are often unique and of particular musical importance.
-
 
 
 ![Missa dolorosa](https://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_Caldara_Missa_dolorosa.jpg.jpg)

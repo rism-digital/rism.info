@@ -11,7 +11,6 @@ email: rettinghaus@bach-leipzig.de
 author: Klaus Rettinghaus
 ---
 
-
 _We were very pleased to receive this post from Klaus Rettinghaus (Leipzig). The RISM data have since been revised. The changes will be visible after the next update of the RISM catalog._
 
 Authority data can be a big help in finding materials related to specific entities, usually individuals. This is especially true with the people in the RISM catalog because pre-19th-century individuals in particular have many name variants that can cause confusion. The variants have in part arisen because names of composers appear with Latin, Italian, or even French spellings, and partly also because in recent times overeager librarians and researchers have added to the already diverse historical spellings. But it can of course also lead to problems if people are not clearly identified.
@@ -34,6 +33,5 @@ _Images_:
 Title page from Cherubini's _Wasserträger_, arranged by Boyneburgk ([CC 2028 I,143](https://opac.rism.info/search?id=00000991015762&View=rism){:target="_blank"}). [Availabile online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074844-2){:target="_blank"} from D-Mbs 2 Mus.pr. 4404.
 
 (not in RISM) [GB-Lbl E.824.](http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01018681487){:target="_blank"} _Shakespeare's Lieder, mit Begleitung des Piano-Forté ... Erste (zweite) Lieferung 16tes. Werk_, Offenbach a/M , J. André, ca. 1830.
-
 
 

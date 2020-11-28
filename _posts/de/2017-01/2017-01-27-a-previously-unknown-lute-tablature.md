@@ -11,7 +11,6 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Dr. Helmut Lauterwasser
 ---
 
-
 _Dieser Beitrag stammt von Dieter Kirsch:_
 
 Nicht allzu oft kommt es vor, dass heutzutage in öffentlichen Sammlungen noch Gegenstände auftauchen, die bislang der Forschung verborgen geblieben sind. Von einem solchen Fall soll im Folgenden kurz berichtet werden.
@@ -39,7 +38,6 @@ Telefon: +49 (0) 89 28638-2884.
 Bei allen anderen Fragen (Benutzung, Bestellung von Reproduktionen usw.) wenden Sie sich bitte direkt an die Stadtbibliothek Braunschweig:
 E-Mail: : stadtbibliothek[at]braunschweig.de
 Telefon: +49 (0) 531 470-6835.
-
 
 
 Abbildung mit freundlicher Genehmigung der Stadtbibliothek Braunschweig.

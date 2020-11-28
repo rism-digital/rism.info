@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Prominente Schalttag-Geburtstagskinder sind selten und unter den Komponisten dürfte [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=Gioachino%20Rossini){:target="_blank"} (1792-1868) der bekannteste sein. Doch in der RISM-Datenbank sind noch weitere Personen zu finden, die an einem 29. Februar Geburtstag feiern konnten.
 
 Vom englischen Komponisten [Humphrey Bralesford](https://opac.rism.info/search?View=rism&q=Humphrey%20Bralesford){:target="_blank"} (1658-1733) sind fast ausschließlich Services überliefert, die Handschriften liegen in der Bibliothek der Kathedrale von Canterbury.
@@ -41,6 +40,5 @@ An einem 29. Februar gestorben sind:
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio){:target="_blank"} (ca. 1536-1592)
 
 _Abbildung_: Gioachino Rossini, _Lieder_, [Lithographie von C. Constans, 19. Jahrhundert](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
-
 
 

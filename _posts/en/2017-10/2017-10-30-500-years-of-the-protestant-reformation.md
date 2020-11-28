@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Reformation Day is celebrated by Protestants and is an important religious holiday in German-speaking countries. In Germany and Austria, October 31 marks the beginning of the Protestant Reformation by Martin Luther. The first Sunday in November is celebrated as Reformation Sunday in Switzerland.
 
 Tomorrow, 31 October 2017, marks the 500th anniversary of when, according to tradition, Martin Luther nailed his 95 Thesis in Latin to the door of the Castle Church in Wittenberg. This launched the reformation of the church. The significance of the anniversary is such that tomorrow is a one-time national holiday in Germany.
@@ -33,5 +32,4 @@ There are [over 160 entries](https://opac.rism.info/search?View=rism&author=Luth
 And around 90 sources await you if you would like to know what compositions were written for the liturgical festival [**Reformatio Lutheri**](https://opac.rism.info/search?View=rism&q=Reformatio+Lutheri&Language=en){:target="_blank"}.
 
 _Image_: Wilhelm Schneider (1783-1843), Ein' feste Burg ist unser Gott. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), Dresden (D-Dl [Mus.4646-E-501](http://digital.slub-dresden.de/id454508255){:target="_blank"}, RISM ID no. [211005300](https://opac.rism.info/search?id=211005300&Language=en){:target="_blank"}).
-
 

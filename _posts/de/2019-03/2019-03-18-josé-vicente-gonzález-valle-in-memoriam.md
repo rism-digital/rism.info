@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/de/workgroups/spain-barcelona-consejo-superior-de-investigaciones-cientificas-institucion-mila-y-fontanals-u-ei-musicologia/home.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
 
 José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissenschaftler, ein guter Organisator und ein lieber, freundlicher Herr. Mit RISM kam er während seines Studiums in München bei Theodor Göllner in Berührung. Unser damaliger Präsident, Dr. Harald Heckmann, schreibt in einem Bericht vom 23. Janaur 1990 an seine Vorstandskollegen:
@@ -28,6 +27,5 @@ Wir werden sein Andenken in Ehre bewahren.
 
 Klaus Keil
 Leiter der Zentralredaktion des RISM
-
 
 

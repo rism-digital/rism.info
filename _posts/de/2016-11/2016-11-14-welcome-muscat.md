@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Seit heute steht [Muscat](/de/community/muscat.html) allen RISM-Mitarbeitern als zentrales Erfassungssystem für Musikquellen zur Verfügung. Enthalten sind hier erstmals zusammengefasst Quellen aus verschiedenen RISM-Serien A/I, A/II sowie B/I, die bisher in verschiedenen Anwendungen und Datenbanken gepflegt wurden. Muscat umfasst nun insgesamt 1.076.242 Musikquellen, 110.128 Personendatensätze, 73.528 Körperschaften sowie 33.133 Einträge zur Sekundärliteratur und über 13.000 Digitale Objekte.
 
 Die Zeilanforderungen von Muscat, auf Basis [freier, quelloffener Software](https://github.com/rism-ch/muscat){:target="_blank"} eine multilinguale Webanwendung zu entwickeln, dermit Marc21 ein international verbreitetes und standadisiertes Datenmodell zugrunde liegt, wurden deutlich übertroffen. Als zusätzliche Features sind hier zu nennen:

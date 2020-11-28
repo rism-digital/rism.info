@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 _Dieser Beitrag ist ein Auszug eines[Artikels von David Plylar](http://blogs.loc.gov/music/2014/05/best-buddies-or-just-goethe-friends/){:target="_blank"}, der im Original "In the Muse"-Blog der_ _Library of Congress erschien._
 
 Am 7. Mai haben Brahms und Tschaikowski Geburtstag — ein jährliches Ereignis seit Tschaikowski 1840, sieben Jahre nach Brahms, das Licht der Welt erblickte. Dieses zufällig gemeinsame Datum gibt Anlass einen Blick in die Sammlung der Bibliothek zu werfen und nach Verbindungen zwischen Brahms und Tschaikowski zu suchen.
@@ -27,11 +26,9 @@ Da das winzige Stück von Tschaikowskis Muuik ziemlich obskur ist, ist es nur fa
 _Johannes Brahms, Rinaldo, Moldenhauer Archives at the Library of Congress_
 
 
-
 Sie werden bemerken, dass der hier wiedergegebene Titel sich von anderen Publikationen unterscheidet. Im Manuskript steht _Rinaldo v. Göthe._ Der Text für_Rinaldo_wurde von Goethe aus dem 14. Gesang von Tassos_Gerusalemme liberata_ entnommen und überarbeitet. Tassos musikalisches Vermächtnis ist reichhaltig in der Bibliothek vertreten (wir haben beispielsweise Liszts Hauptorchesterwerk _Le triomphe funèbre du Tasse_) und natürlich Händels bekannte Opera_Rinaldo_ (mit der beliebten und schönen Arie “Lascia ch’io pianga”); obwohl wir nicht die Handschrift haben, besitzt die Library of Congress mehrere frühe Ausgaben mit Ausschnitten aus Händels_Rinaldo,_die von1711 und den frühen 1720er Jahren datieren.
 
 _Um eine Verbindung zwischen dem_ _Rinaldo von Brahms und der Musik von Tschaikowski zu finden, lesen "__[In the Muse](http://blogs.loc.gov/music/2014/05/best-buddies-or-just-goethe-friends/){:target="_blank"}__" weiter._
-
 
 
 Bild, oben links: P. I. Tschaikowski, Ausschnitt aus Tscharodeika, Library of Congress, Moldenhauer Archives, Box 53.

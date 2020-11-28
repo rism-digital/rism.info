@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 RISM will be represented at the 20th Congress of the [International Musicological Society](http://ims2017-tokyo.org/){:target="_blank"} in Tokyo next week, from March 19 to March 23, 2017. The theme of the congress is Musicology: Theory and Practice, East and West. The IMS, along with IAML, co-sponsors the [4 R projects](http://www.r-musicprojects.org/){:target="_blank"} (RISM, RILM, RIdIM, and RIPM).
 
 You are invited to join us at these RISM sessions.
@@ -31,6 +30,5 @@ Andrea Lindmayr-Brandl (Universität Salzburg) will first present the project [M
 Klaus Keil and Jennifer Ward of the RISM Central Office will give a talk entitled "The RISM Online Catalog and Beyond: Using, Reusing, and Contributing RISM Data in Musicological Projects." The presentation will show musicologists how to get the most out of the RISM data through effective searching—also useful for those who teach the RISM catalog to students—and also how musicologists can collaborate with RISM when they embark upon source-oriented research.
 
 This is the first IMS congress in Asia. We look forward to seeing you there!
-
 
 

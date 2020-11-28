@@ -11,7 +11,6 @@ email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
 
-
 Since 2009, the RISM Germany working group and the RISM Zentralredaktion have published catalogs in their series Music Manuscripts in Germany (Musikhandschriften in Deutschland). Based in part on records from the RISM database, the catalogs are geared toward the holding institutions and their users, as well as scholars and musicians working primarily with the materials. Printed copies in book form are produced for libraries and archives. In addition, one can download the catalogs as PDF files free through the document server [Qucosa](http://www.qucosa.de/){:target="_blank"}.
 
 Volume 3 in the series was recently published:

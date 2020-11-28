@@ -11,7 +11,6 @@ email: p@teu-net.de
 author: Peter Teuthorn
 ---
 
-
 _This article by Peter Teuthorn was originally published in his [Genealogie-Feuilleton](http://teuthorn.net/feuilleton/?p=4716){:target="_blank"} in an earlier form and is reprinted here with kind permission._
 
 ## **Compositions by Christian Balthasar Teuthorn found using RISM**

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.
 
 Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden.

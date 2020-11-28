@@ -11,7 +11,6 @@ email: contact@rism.info
 author: ''
 ---
 
-
 Der RISM Online-Katalog bietet über 18.000 Links zu digitalisierten Musikquellen: handschriftliche Partituren, Stimmen und Notendrucke aus aller Welt. Dieser bequeme Zugang zur Quelle ist eine der beliebtesten Eigenschaften des Katalogs.
 
 Bei der täglichen Erfassung der Musikquellen fügen die RISM-Mitarbeiter die Links auf digitale Objekte direkt ein, aber es gibt Tausende von älteren Titelaufnahmen ohne diese Verlinkung. Wir von der Zentralredaktion versuchen auf die digitalen Sammlungen zu verlinken, sofern wir davon Kenntnis bekommen, aber wir vermissen noch zahlreiche.
@@ -77,13 +76,11 @@ Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre
 
 |
 
-
 Der RISM Online-Katalog enthält die Serie [A/II](/de/publikationen.html#c41) (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/de/publikationen.html#c41) (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/de/publikationen.html#c41) (Sammeldrucke).
 
 Aber es gibt noch mehr! Wir planen auch die übrigen Einträge aus **B/I** und alles aus **B/II** in absehbarer Zukunft dem Online-Katalog zuzuführen, daher senden Sie uns bitte auch diese Verlinkungen - in einem separaten Excel-Tabellenblatt - zu.
 
 Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, senden Sie uns bitte die B/I-Nummer (Jahreszahl mit hochgestellter Ziffer) und den Permalink. Als Hochstellungszeichen verwenden Sie bitte den geraden Strich (|):
-
 
 
 | |
@@ -115,7 +112,6 @@ Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, 
 
 |
 
-
 Einträge ausB/II haben keine eindeutige Referenznummer. Hierfür geben Sie bitte den Titel, die Seitenzahl und Permalink an:
 
 | |
@@ -145,7 +141,6 @@ Recueil d'Airs sérieux et à boire de différents auteurs ; pour l'année 1713
 [http://gallica.bnf.fr/ark:/12148/bpt6k856381j#](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}
 
 |
-
 
 Bitte beachten Sie:
 

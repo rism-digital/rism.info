@@ -11,7 +11,6 @@ email: helmut.lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-
 "Diese Noten haben Ihro Majestät der König Friederich von Preußen eigenhändig geschrieben."
 _This music was written by Your Majesty the King Frederick of Prussia in his own hand._
 

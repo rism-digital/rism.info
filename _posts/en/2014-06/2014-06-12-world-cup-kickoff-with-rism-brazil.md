@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The World Cup kicks off today in São Paulo! Did you know that RISM has its own lineup in Brazil? We would like to introduce you to the RISM Brazil team players:
 
 The RISM Brazil group was reactivated in 2005 by André Guerra Cotta, Beatriz Magalhães Castro and Pablo Sotuyo Blanco. Since then, the group has regularly participated at the IMS Conference in Zürich (2007), IAML Conference in Amsterdam (2009), and theRISM Conference 2012: Music Documentation in Libraries, Scholarship, and Practice. It organized the 1st RISM Brazil Seminar in 2012 at Rio das Ostras under the auspices of the Universidade Federal Fluminense. It aims to consolidate the RISMinitiativein Brazil by promoting the preservation of Brazilian musical sources, broadening the scope of Brazil's representation and integrating currentinitiativesin music cataloguing.

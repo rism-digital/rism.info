@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 The[Seminario de Música en la nueva España y el México independiente](http://musicat.unam.mx/){:target="_blank"} at the Universidad Nacional Autónoma de México (UNAM) has been building a database called Musicat for a number of years. Its contents include the music collections of the Mexico City Cathedral. A catalog of the polyphonic books from the collection, _Los Libros de polifonía de la Catedral de México_ by Javier Marín López ([Jaén: Universidad de Jaén](http://www3.ujaen.es/servpub/b_datos/unlibro.asp?ISBN=978-84-8439-632-1){:target="_blank"}; Madrid: Sociedad Española de Musicología, 2012), offers an overview of the valuable collections held by the cathedral archive. The materials date back to the sixteenth century.
 
 It is therefore a particular stroke of luck that RISM was able to sign a contract with UNAM, in which an agreement was made to transfer data from the Musicat catalog built by the Seminario de Música to RISM.
@@ -20,8 +19,6 @@ The contract was signed on 21 November 2017 in Mexico City by the director of th
 
 We are looking forward a fruitful partnership with Musicat and UNAM.
 
-
 _Image, from left to right: Klaus Pietschmann, Renato González Mello, Lucero Enríquez Rubio, Mario Haza. Klaus Keil and Jennifer Ward are looking on in the background through Skype. Photograph courtesy of Klaus Pietschmann._
-
 
 

@@ -11,7 +11,6 @@ email: ''
 author: ''
 ---
 
-
 Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/de/publikationen/jahresberichte/2019.html) lesen. Hier sind einige Besonderheiten daraus:
 
 **Neuer Vorstand:**

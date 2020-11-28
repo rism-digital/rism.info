@@ -11,7 +11,6 @@ email: contact@rism.info
 author: Leonie Storz
 ---
 
-
 Über das Leben Johannes Tinctoris' ist - obwohl einer der bekanntesten Musiktheoretiker seiner Zeit - nur wenig bekannt. Als gesichert gilt, auch wenn der genaue Zeitpunkt unklar ist, das Jahr seines Todes: Tinctoris starb vor dem 12. Oktober 1511 - vor 500 Jahren.
 
 Geboren wurde der Sohn eines Magistrats als Jehan de Taintenier um 1436 in Braine-l'Alleud (Belgien). Vier Monate lang war er im Jahr 1460 als „_petit vicaire_“ in der Kathedrale von Cambrai tätig, wo er wahrscheinlich Guillaume Dufay kennenlernte - dieser war dort „_maître des petits vicaires_“. 1462/1463 ist Tinctoris in der Kathedrale Sainte-Croix von Orléans als „_succentor_“ gelistet, später für sieben Jahre ohne Angabe der Tätigkeit an der Kathedrale von Chartres.

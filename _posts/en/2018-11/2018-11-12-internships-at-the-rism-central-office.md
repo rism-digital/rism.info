@@ -11,7 +11,6 @@ email: martina.falletta@rism.info
 author: ''
 ---
 
-
 We would like to announce that we are accepting applications for interns at the RISM Central Office in Frankfurt, Germany.
 
 RISM offers internships in its editorial department to people interested in experiencing the day-to-day work of a major digital bibliographic and musicological project. Internships are ideal for people interested in pursuing a career in musicology or music librarianship.
