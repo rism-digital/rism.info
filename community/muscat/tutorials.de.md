@@ -62,7 +62,7 @@ Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](h
 
 1. **Ergänzen und bearbeiten Ihres Exemplars**
 
-Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](http://www.rism.info/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an.
     - Bitte beachten Sie: B/I-Einträge der Jahre 1600-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten).
@@ -85,7 +85,7 @@ Wenn Ihr Musikdruck nicht in den Bereich der Serien A/I und B/I fällt, ist er v
 
 **Einige Einschränkungen**
 
-1. Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können.  (Diese Datensätze wurde überwiegend mit Kallisto erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info "Opens window for sending email")) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
+1. Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können.  (Diese Datensätze wurde überwiegend mit Kallisto erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info)) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
 2. Wir beschäftigen uns mit einer geeigneten Darstellung von gemischt vorliegendem Material: Musikdrucke an die Handschriften angebunden sind bzw. Manuskripte, die mit gedrucktem Material unter einer Signatur vereinigt sind. Wenn SIe solche Fälle vorliegen haben, sollten Sie sie möglichst auf die Seite legen, bis die entsprechende Vorlage entwickelt ist und auf eine Ankündigung über dei Muscat-Liste warten.
 
 # Trainingsserver
