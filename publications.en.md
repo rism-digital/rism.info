@@ -15,7 +15,7 @@ RISM's other publications are divided into series, reflecting the early structur
 
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-The RISM Online Catalog is a free resource that can be accessed from [www.rism.info](http://www.rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
+The RISM Online Catalog is a free resource that can be accessed from [www.rism.info](https://www.rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
 
 The online catalog contains all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and years 1501-1550, 1601-1650, and most of 1651-1690 of [B/I](#series-b-bibliographies-organized-by-topic).
 
@@ -183,8 +183,9 @@ Descriptions of over 1100 notated processionals and over 150 manuscripts with pr
 
 **B/XV: Polyphonic music in Ibero-American sources**
 
-Printed music and manuscripts that form "a general inventory of polyphonic masses, mass sections and Requiem masses transmitted in sources from Spain, Portugal and Latin America between circa 1490 and 1630."<br>
-Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal, Spain, United States.<br>
+Printed music and manuscripts that form "a general inventory of polyphonic masses, mass sections and Requiem masses transmitted in sources from Spain, Portugal and Latin America between circa 1490 and 1630."
+
+Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal, Spain, United States.
 
 * **B/XV:** Cristina Urchueguía, *Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630. Drucke, Handschriften und verlorene Quellen *, 2005.
 
@@ -194,7 +195,7 @@ Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal,
 
 **B/XVII: Trio Sonatas**
 
-* **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: *Die Triosonate: Catalogue Raisonné der gedruckten Quellen *, 2016. 2 vols. plus database ([database access information here](http://www.rism.info/en/home/newsdetails/article/2/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).
+* **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: *Die Triosonate: Catalogue Raisonné der gedruckten Quellen *, 2016. 2 vols. plus database ([database access information here](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).
 
 ## Series C: Directory of Music Research Libraries
 
@@ -218,7 +219,8 @@ Sixteen European Countries
 
 Israel, Japan, and Oceania
 
-* **C/IV:** Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of music research libraries. Volume 4: Australia, Israel, Japan, New Zealand *, 1979.<br>
+* **C/IV:** Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of music research libraries. Volume 4: Australia, Israel, Japan, New Zealand *, 1979.
+
   - For a supplement to C/IV, see [Siddons (1986)](/publications/bibliography.html#c2159).
 
 Eastern Europe
