@@ -4,7 +4,7 @@ title: 'New online music catalogue: over 700,000 entries'
 date: 2010-06-30
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_rism-opac-screenshot_8220384a7e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-online-music-catalogue-over-700000-entries.html
 email: ''

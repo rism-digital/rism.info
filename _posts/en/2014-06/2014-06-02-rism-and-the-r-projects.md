@@ -4,7 +4,7 @@ title: RISM and the R Projects
 date: 2014-06-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_R_Projects_2_01_d45333da8e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-the-r-projects.html
 email: ''

@@ -4,7 +4,7 @@ title: Music treasure lost and found
 date: 2018-05-24
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-treasure-lost-and-found.html
 email: ''

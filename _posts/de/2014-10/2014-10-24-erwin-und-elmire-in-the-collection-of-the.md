@@ -4,7 +4,7 @@ title: Erwin und Elmire im Bestand des Deutschen Nationaltheaters Weimar. Zum 27
 date: 2014-10-24
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
 email: ''

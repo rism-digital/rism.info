@@ -4,7 +4,7 @@ title: Von Dresden nach Moskau und zurück - kriegsbedingt verlagerte Werke aus 
 date: 2018-12-10
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
 email: barbara.wiermann@slub-dresden.de

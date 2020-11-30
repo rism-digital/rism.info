@@ -4,7 +4,7 @@ title: Johannes Tinctoris @ RISM
 date: 2011-04-28
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_TinctorisHelas_2b0e6ee820.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johannes-tinctoris-rism.html
 email: contact@rism.info

@@ -4,7 +4,7 @@ title: Das Oeuvre von Schreivogel bei RISM
 date: 2017-11-06
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Schreivogel_06a7c82d46.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-small-clutch-of-schreivogel-manuscripts.html
 email: ''

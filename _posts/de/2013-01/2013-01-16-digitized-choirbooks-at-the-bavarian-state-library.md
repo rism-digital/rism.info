@@ -4,7 +4,7 @@ title: Die Chorbücher der Bayerischen Staatsbibliothek Online
 date: 2013-01-16
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_chorbuch_2_8694b2d9eb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitized-choirbooks-at-the-bavarian-state-library.html
 email: contact@rism.info

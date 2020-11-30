@@ -4,7 +4,7 @@ title: Neue Handschriften von Ysaÿe in der Königlichen Bibliothek Belgiens
 date: 2018-05-28
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Ysaye_manuscripts_KBR_De_Baerdemacker_Belgium_b5759773e2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-ysaye-manuscripts-in-the-royal-library-of-belgium.html
 email: kris.debaerdemacker@kbr.be

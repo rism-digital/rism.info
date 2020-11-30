@@ -4,7 +4,7 @@ title: Looking Back on 2019
 date: 2020-01-16
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2019.html
 email: ''
@@ -14,8 +14,8 @@ author: ''
 The year 2020 is still young, but let's take a moment to look back on 2019 at the most popular stories from the world of musical sources that we published here on the RISM blog. May 2020 be as rich with discoveries!
 
 1. [New Music Manuscripts from Italy (ICCU) in RISM
-](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
-2. [New RISM Cataloging Tools for Librarians](/self_representation/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
+](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
+2. [New RISM Cataloging Tools for Librarians](/new_at_rism/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
 
 3. [The Digital Interactive Mozart Edition](/electronic_resources/2019/01/24/the-digital-interactive-mozart-edition.html){:target="_blank"}
 
@@ -23,7 +23,7 @@ The year 2020 is still young, but let's take a moment to look back on 2019 at th
 
 5. [Books About Music Before 1800 Digitized and Online](/electronic_resources/2019/08/01/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} from the Library of Congress
 
-6. [Musical Anniversaries in 2019](/self_representation/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
+6. [Musical Anniversaries in 2019](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
 Don't miss [the 2020 edition](/events/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}!
 
 7. [2019 Upgrade of the RISM Catalog](/rism_online_catalog/2019/09/09/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
@@ -32,7 +32,7 @@ Don't miss [the 2020 edition](/events/2020/01/09/2020-not-just-beethoven.html){:
 
 9. [Search Strategies for Printed Music](/rism_online_catalog/2019/03/25/search-strategies-for-printed-music.html){:target="_blank"}
 
-10. [New Women Composers in 2019](/self_representation/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
+10. [New Women Composers in 2019](/new_at_rism/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
 
 But in 2019—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
 

@@ -4,7 +4,7 @@ title: Stylistic Eras Meet Each Other
 date: 2020-06-08
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Alltag_d8c3b86cb2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stylistic-eras-meet-each-other.html
 email: p.roman@stift-heiligenkreuz.at

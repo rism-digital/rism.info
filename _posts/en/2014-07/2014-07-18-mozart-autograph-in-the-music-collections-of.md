@@ -4,7 +4,7 @@ title: Mozart autograph in the music collections of Mariastein Abbey, Switzerlan
 date: 2014-07-18
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Mozart_Seite_A_4cb8dfa2cc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autograph-in-the-music-collections-of-the-mariastein-abbey-switzerland.html
 email: ghk@hankeknaus.ch

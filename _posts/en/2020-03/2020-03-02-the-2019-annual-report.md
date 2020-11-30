@@ -4,7 +4,7 @@ title: The 2019 Annual Report
 date: 2020-03-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2019-annual-report.html
 email: ''
@@ -29,7 +29,7 @@ Treasurer: Jane Gottlieb, New York
 
 **Update on printed music:** RISM worked together with the [Sächsische Landes- und Universitätsbibliothek (SLUB) in Dresden](https://www.slub-dresden.de/startseite/){:target="_blank"} to update and improve descriptions of printed music in RISM, described above. In total, 2,091 new printed music editions were added as were ca. 11,000 records for pieces in collections. Revising entries of the B/I book of printed anthologies continues thanks to further funding from VD-Musikedition. We hope to complete this by the end of 2020.
 
-**Update on Series C:** IAML established [a successor to the project group](/self_representation/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) in July 2019 to revise Series C. We are working closely with Maria Aslanidi, Aris Bazmadelis, and Arsinoi Ioannidou, who are also members of [RISM Greece](/self_representation/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"}, to improve the coverage of institutions worldwide that hold music research materials.
+**Update on Series C:** IAML established [a successor to the project group](/new_at_rism/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) in July 2019 to revise Series C. We are working closely with Maria Aslanidi, Aris Bazmadelis, and Arsinoi Ioannidou, who are also members of [RISM Greece](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"}, to improve the coverage of institutions worldwide that hold music research materials.
 
 **Conference about musical works:**
 Together with the Johannes Gutenberg-Universität Mainz, the Zentralredaktion organized a conference from 9 to 11 May entitled "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." The conference took place at the Akademie der Wissenschaften und der Literatur in Mainz. The full program, abstracts, and some recordings of the papers can be found [on the RISM website](/publications/introducing-a-work-level-in-rism-2019.html).

@@ -4,7 +4,7 @@ title: Jahrestreffen des Verbundprojekts über chinesische Musikressourcen in Sh
 date: 2019-02-21
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_IMG_1784_875b2775ab.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
 email: tzchia22@gmail.com

@@ -4,7 +4,7 @@ title: Teresa Milanollo @RISM
 date: 2014-08-28
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Milanollo_Bild-BnF_a5011b55a8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/teresa-milanollo-rism.html
 email: ''

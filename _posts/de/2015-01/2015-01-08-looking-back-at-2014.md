@@ -4,7 +4,7 @@ title: Rückblick auf 2014
 date: 2015-01-08
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2014.html
 email: ''
@@ -15,7 +15,7 @@ Bevor wir weiter ins Jahr 2015 vorrücken, lassen Sie uns einen Blick zurück au
 
 Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren Websitestatistiken):
 
-1. [Neue Version des RISM Online-Katalogs](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [Neue Version des RISM Online-Katalogs](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 1.
 
@@ -47,7 +47,7 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 8.
 
-[Coordinating Committee neu gewählt](/self_representation/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
+[Coordinating Committee neu gewählt](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
 
 9.
 

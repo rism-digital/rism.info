@@ -4,7 +4,7 @@ title: 'Bericht über elektronische Datenlieferungen für das RISM am Beispiel v
 date: 2018-11-22
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info

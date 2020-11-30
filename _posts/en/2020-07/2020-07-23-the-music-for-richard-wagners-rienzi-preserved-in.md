@@ -4,7 +4,7 @@ title: The Music for Richard Wagner's "Rienzi" Preserved in Dresden
 date: 2020-07-23
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''

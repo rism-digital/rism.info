@@ -4,7 +4,7 @@ title: Mapping the Musical Landscape of the Sixteenth Century (MML16)
 date: 2019-07-29
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
 email: emily.hopkins@mcgill.ca

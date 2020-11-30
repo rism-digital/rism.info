@@ -4,7 +4,7 @@ title: Rückblick auf 2018
 date: 2019-01-17
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2018_9ee996c7b2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2018.html
 email: ''
@@ -31,7 +31,7 @@ Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beli
 
 9. [Ausstellung in der Bayerischen Staatsbibliothek München über historische Tabulaturen](http://www.rism.info/de/startseite/newsdetails/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=01&cHash=484da59ffd1e4424a85eaf8b0478947b){:target="_blank"}
 
-10. [RISM - vor 500 Jahren](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
+10. [RISM - vor 500 Jahren](/new_at_rism/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
 Aber auch in 2018 - wie in den voran gegangenen - war der Beitrag[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014 der meist gelesene.

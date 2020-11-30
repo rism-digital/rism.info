@@ -4,7 +4,7 @@ title: Looking back at 2014
 date: 2015-01-08
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2014.html
 email: contact@rism.info
@@ -16,7 +16,7 @@ Before we get too far into 2015, let's take a look back at 2014 and allow us to 
 
 The ten most popular stories on our website were (according to our website statistics):
 
-1. [New Version of the RISM Online Catalog](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [New Version of the RISM Online Catalog](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 1.
 

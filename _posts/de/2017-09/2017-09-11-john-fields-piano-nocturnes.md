@@ -4,7 +4,7 @@ title: Die Klaviernocturnes von John Field
 date: 2017-09-11
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Field_John_dcb2de03f2.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/john-fields-piano-nocturnes.html
 email: ''

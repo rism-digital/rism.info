@@ -4,7 +4,7 @@ title: The Royal Library of Belgium acquires the only known manuscript of "Le Re
 date: 2015-10-19
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
 email: marie.cornaz@kbr.be

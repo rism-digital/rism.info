@@ -4,7 +4,7 @@ title: Archiv der Sing-Akademie zu Berlin erschlossen
 date: 2011-05-13
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_677px-Gaertner2_d811bdda77.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/holdings-of-the-berlin-sing-akademie-cataloged.html
 email: Klaus.Keil@RISM.info

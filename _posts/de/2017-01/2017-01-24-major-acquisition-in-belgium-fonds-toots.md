@@ -4,7 +4,7 @@ title: 'Neuerwerbung in Belgien: Fonds Toots Thielemans'
 date: 2017-01-24
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_FondsTootsThielemans_02_dd537f6adb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/major-acquisition-in-belgium-fonds-toots-thielemans.html
 email: marie.cornaz@kbr.be

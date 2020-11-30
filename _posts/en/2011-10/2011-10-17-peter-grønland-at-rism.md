@@ -4,7 +4,7 @@ title: Peter Grønland @ RISM
 date: 2011-10-17
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Groenland_6dc9566333.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/peter-groenland-rism.html
 email: ''

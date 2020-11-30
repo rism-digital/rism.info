@@ -4,7 +4,7 @@ title: Music and Mozart's Starling
 date: 2018-12-03
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Star_Vogel_des_Jahres_Mozart_5f3b5cf600.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-and-mozarts-starling.html
 email: ''

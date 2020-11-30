@@ -4,7 +4,7 @@ title: 'Erster Eintrag aus Andorra in RISM: “Periodico de musica” von Maria 
 date: 2020-06-15
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
 email: jbenavent@uda.ad

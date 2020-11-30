@@ -4,14 +4,14 @@ title: New (and first) Library Siglum for Armenia
 date: 2018-02-05
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Armenien_Sigel_f5ba135e79.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-and-first-library-siglum-for-armenia.html
 email: ''
 author: ''
 ---
 
-At RISM we [regularly receive requests](/self_representation/2015/07/02/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/sigla.html) to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
+At RISM we [regularly receive requests](/new_at_rism/2015/07/02/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/sigla.html) to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
 
 There is now an official RISM siglum for this institution: **ARM-Yakm**
 

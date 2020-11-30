@@ -4,7 +4,7 @@ title: RISM bei IAML, Teil II
 date: 2014-08-01
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_IAML-Schokolade_b149819c3a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-ii.html
 email: ''

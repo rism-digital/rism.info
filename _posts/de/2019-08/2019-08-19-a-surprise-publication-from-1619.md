@@ -4,7 +4,7 @@ title: Überraschungspublikation anno 1619
 date: 2019-08-19
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_1619_Thoene_051c516a06.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-surprise-publication-from-1619.html
 email: johanna.thoene@rism.info

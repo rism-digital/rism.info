@@ -4,7 +4,7 @@ title: Katzen in der Musik
 date: 2014-08-08
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_music-cats_fb2ca4a7a1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cats-in-music.html
 email: ''

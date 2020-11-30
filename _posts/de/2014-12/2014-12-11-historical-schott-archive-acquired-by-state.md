@@ -4,7 +4,7 @@ title: Staatsbibliotheken in Berlin und München sowie weitere sechs Forschungse
 date: 2014-12-11
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Schott_Archiv_1_01_d0da5157a1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/historical-schott-archive-acquired-by-state-libraries-in-berlin-and-munich-and-six-research-institut.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de

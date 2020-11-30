@@ -4,7 +4,7 @@ title: Coordinating Committee neu gewählt
 date: 2014-05-22
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_RISM_und_Flaggen_6618ee1583.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-coordinating-committee-elected.html
 email: ''

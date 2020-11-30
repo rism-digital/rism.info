@@ -4,14 +4,14 @@ title: Twelve More Women Composers
 date: 2017-10-19
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/twelve-more-women-composers.html
 email: ''
 author: ''
 ---
 
-This past International Women's Day, 8 March 2017, we published [a list of the 800 women composers](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} who have sources in the RISM database. The RISM online catalog grows continuously, and in June we added [eight more names](/self_representation/2017/06/29/eight-more-women-composers.html){:target="_blank"} to the list. Much has happened since June, and we are pleased to announce that we have now added twelve more women [to the list](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g){:target="_blank"}.
+This past International Women's Day, 8 March 2017, we published [a list of the 800 women composers](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} who have sources in the RISM database. The RISM online catalog grows continuously, and in June we added [eight more names](/new_at_rism/2017/06/29/eight-more-women-composers.html){:target="_blank"} to the list. Much has happened since June, and we are pleased to announce that we have now added twelve more women [to the list](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g){:target="_blank"}.
 
 Here are the new twelve. For many of the musicians, we lack biographical details such as birth or death dates. We would be happy to hear from you if you are able to supply them.
 

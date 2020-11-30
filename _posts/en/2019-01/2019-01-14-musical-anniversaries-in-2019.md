@@ -4,7 +4,7 @@ title: Musical Anniversaries in 2019
 date: 2019-01-14
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Jubilare_2019_PNG13_53e197c73a.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2019.html
 email: ''

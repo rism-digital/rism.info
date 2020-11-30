@@ -4,7 +4,7 @@ title: Demnächst stattfindende Konferenzen
 date: 2014-05-25
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_d8c8eeffe0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cfps-upcoming-conferences.html
 email: ''

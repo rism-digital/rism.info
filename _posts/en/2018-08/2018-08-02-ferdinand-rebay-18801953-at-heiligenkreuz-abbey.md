@@ -4,7 +4,7 @@ title: Ferdinand Rebay (1880–1953) at Heiligenkreuz Abbey
 date: 2018-08-02
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at

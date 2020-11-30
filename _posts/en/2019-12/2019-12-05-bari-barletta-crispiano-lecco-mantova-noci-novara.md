@@ -4,14 +4,14 @@ title: Bari, Barletta, Crispiano, Lecco, Mantova, Noci, Novara, Sassoferrato, an
 date: 2019-12-05
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---
 
-The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
+The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Records from the following libraries can now be found in RISM:
 

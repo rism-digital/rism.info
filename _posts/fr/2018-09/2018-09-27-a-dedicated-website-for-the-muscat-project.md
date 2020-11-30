@@ -4,7 +4,7 @@ title: Un site web dédié au projet Muscat
 date: 2018-09-27
 lang: fr
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org

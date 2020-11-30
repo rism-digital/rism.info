@@ -4,7 +4,7 @@ title: Ein Jahr mit Muscat
 date: 2017-11-16
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_muscat_Geburtstag_52bc35581a.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/one-year-of-muscat.html
 email: ''
@@ -13,7 +13,7 @@ author: ''
 
 [Muscat](/de/community/muscat.html) wird ein Jahr alt!
 
-[Vor einem Jahr](/self_representation/2016/11/14/welcome-muscat.html){:target="_blank"} schaltete RISM das Katalogisierungsprogramm zur Beschreibung der Musikquellen frei. Muscat ist ein webbasiertes, plattformunabhängiges Programm, das zur Beschreibung von Musikhandschriften, Notendrucken, Traktaten und Libretti verwendet werden kann. Es wurde in Zusammenarbeit von der RISM Zentralredaktion und RISM Schweiz entwickelt und basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm. Dieses [Open-source Programm](https://github.com/rism-ch/muscat){:target="_blank"} wurde zuvor fast zehn Jahre lang von diesen beiden Arbeitsgruppen verwendet und wird ständig an die Katalogisierungsbedürfnisse durch regelmäßige Releases angepasst.
+[Vor einem Jahr](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"} schaltete RISM das Katalogisierungsprogramm zur Beschreibung der Musikquellen frei. Muscat ist ein webbasiertes, plattformunabhängiges Programm, das zur Beschreibung von Musikhandschriften, Notendrucken, Traktaten und Libretti verwendet werden kann. Es wurde in Zusammenarbeit von der RISM Zentralredaktion und RISM Schweiz entwickelt und basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm. Dieses [Open-source Programm](https://github.com/rism-ch/muscat){:target="_blank"} wurde zuvor fast zehn Jahre lang von diesen beiden Arbeitsgruppen verwendet und wird ständig an die Katalogisierungsbedürfnisse durch regelmäßige Releases angepasst.
 
 Über 200 Nutzer aus mehr als 20 Ländern in Europa, Nordamerika, Südamerika und Asien konnte Muscat seit letztem November willkommen heißen. 15 Workshops wurden weltweit abgehalten. Musikbibliothekare, Archivare, Musikwissenschaftler, Studenten und andere Fachleute nutzen Muscat, um Musikquellen zu erfassen, neue Fundorte zu Notendrucken zu melden, Fehler zu korrigieren und Daten zu überarbeiten. Über 27.000 Titel wurden seitdem dem letzten Jahr eingegeben. Momentan weist Muscat insgesamt 1.104.000 Einträge auf.
 

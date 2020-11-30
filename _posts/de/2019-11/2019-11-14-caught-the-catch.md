@@ -4,7 +4,7 @@ title: Finde den Fehler!
 date: 2019-11-14
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/caught-the-catch.html
 email: ''

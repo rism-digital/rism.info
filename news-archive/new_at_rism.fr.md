@@ -1,8 +1,8 @@
 ---
 layout: categories-rism-info
 lang: fr
-permalink: /news-archive/press_reviews
+permalink: /news-archive/new_at_rism
 pagination: 
   enabled: true
-  category: press_reviews
+  category: new_at_rism
 ---

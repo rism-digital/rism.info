@@ -4,7 +4,7 @@ title: Musical Anniversaries in 2017
 date: 2017-01-10
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Jubilaeen_2017_9683b99ed7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2017.html
 email: ''
@@ -32,7 +32,7 @@ To start off the celebrations, here is a sampling of ten people (of the almost 9
 
 Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A** cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman[Gregor **Z** wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
 
-Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/self_representation/2016/01/04/musical-anniversaries-in-2016.html)
+Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/new_at_rism/2016/01/04/musical-anniversaries-in-2016.html)
 
 **Born in xx17 or xx67 (click on any heading to sort):**
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+18TAJtTzYz835sAnCAMmZ1iY5DzDem8scrr-YM82K&amp;containerId=googft-gviz-canvas"></iframe>

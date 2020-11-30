@@ -4,7 +4,7 @@ title: Poland's Bibliotheca Rudolphina
 date: 2015-12-10
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Rudolphina_310c96dcbf.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polands-bibliotheca-rudolphina.html
 email: ''

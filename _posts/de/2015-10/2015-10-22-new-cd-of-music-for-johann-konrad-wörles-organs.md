@@ -4,7 +4,7 @@ title: 'Neue CD: Die Orgel von Johann Konrad Wörle'
 date: 2015-10-22
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
 email: rism.hh@musikland-tirol.at

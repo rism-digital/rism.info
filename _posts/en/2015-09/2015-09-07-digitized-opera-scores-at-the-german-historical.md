@@ -4,7 +4,7 @@ title: Digitized Opera Scores at the German Historical Institute in Rome
 date: 2015-09-07
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
 email: pfeiffer@dhi-roma.it

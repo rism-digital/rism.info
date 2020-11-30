@@ -4,7 +4,7 @@ title: Manuscript Tablatures and Partbooks up to the 17th Century in the Bavaria
 date: 2015-12-14
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Tabulaturen_231b764688.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/manuscript-tablatures-and-partbooks-up-to-the-17th-century-in-the-bavarian-state-library.html
 email: giglberger@bsb-muenchen.de

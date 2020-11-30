@@ -4,7 +4,7 @@ title: Who will be King Soccer?
 date: 2014-07-09
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Koning_Voetbal_56139cf205.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/who-will-be-king-soccer.html
 email: ''

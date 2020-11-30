@@ -4,7 +4,7 @@ title: '17th-Century Printed Anthologies: The First Decade is Now Online'
 date: 2019-03-28
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
 email: contact@rism.info
@@ -13,7 +13,7 @@ author: ''
 
 Have you ever been annoyed that you can't consistently find entries for 17th-century printed anthologies in the RISM catalog? We are working on changing that!
 
-The project to revise entries from 1500 and later in RISM's series B/I, [which has been underway since April 2017](/self_representation/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"} and [which has in the meantime reached well into the second half of the century](/self_representation/2018/04/19/printed-music-to-1550-a-report-from-the-central.html){:target="_blank"}, has – since November 2018 – been extended to the entries dating from 1601 and later. The first 217 of around 1,100 total entries, meaning years 1601-1610, can now be found online.
+The project to revise entries from 1500 and later in RISM's series B/I, [which has been underway since April 2017](/new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"} and [which has in the meantime reached well into the second half of the century](/new_at_rism/2018/04/19/printed-music-to-1550-a-report-from-the-central.html){:target="_blank"}, has – since November 2018 – been extended to the entries dating from 1601 and later. The first 217 of around 1,100 total entries, meaning years 1601-1610, can now be found online.
 
 As is also the case with the entries from the 16th century, many of the B/I records must be merged with duplicates from A/I that are already published in the catalog; an entry also has an A/I number when, with few exceptions, all compositions in the print are by the same composer. Information from the B/I record has been integrated into the duplicate A/I record – and of course you find both series numbers in such revised records, as in [1607|12 and P 5352; PP 5352](https://opac.rism.info/search?id=00000990052742&View=rism&Language=en){:target="_blank"}.
 

@@ -4,7 +4,7 @@ title: Historical Schott Archive Acquired by State Libraries in Berlin and Munic
 date: 2014-12-11
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Schott_Archiv_1_01_d0da5157a1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/historical-schott-archive-acquired-by-state-libraries-in-berlin-and-munich-and-six-research-institut.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de

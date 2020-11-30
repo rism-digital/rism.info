@@ -4,7 +4,7 @@ title: Francesco Feo @ RISM
 date: 2011-01-26
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_ARSACE_di_Feo_7a8de4f169.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/francesco-feo-rism.html
 email: martina.falletta@rism.info

@@ -4,7 +4,7 @@ title: Vicente Olmos Claver - ein spanischer Kapellmeister des 18. Jahrhunderts
 date: 2020-05-28
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
 email: angelmarzalraga@gmail.com

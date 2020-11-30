@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Mit der Einführung unseres neuen Erfassungsprogramm [Muscat](/self_representation/2016/11/14/welcome-muscat.html){:target="_blank"} haben wir auch die Richtlinien überarbeitet. Dazu zählt unter anderem auch die vollständige Abkürzungsliste für die Besetzungsangaben. Diese verbesserte Liste können Sie nun auch im RISM Online-Katalog verwenden.
+Mit der Einführung unseres neuen Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"} haben wir auch die Richtlinien überarbeitet. Dazu zählt unter anderem auch die vollständige Abkürzungsliste für die Besetzungsangaben. Diese verbesserte Liste können Sie nun auch im RISM Online-Katalog verwenden.
 
 
 Die Abkürzungsliste für Besetzungsangaben steht sowohl den RISM Mitarbeitern für ihre Katalogisierungs-Arbeit als auch den Nutzern des Online-Katalogs zur Verfügung. Besetzungsangaben können über die Einfache oder auch [**Erweiterten Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} - über das Feld **Besetzung** – gesucht werden.

@@ -4,7 +4,7 @@ title: Der geheime Garten des Pierre Bergé
 date: 2018-01-22
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-secret-garden-of-pierre-berge.html
 email: ''

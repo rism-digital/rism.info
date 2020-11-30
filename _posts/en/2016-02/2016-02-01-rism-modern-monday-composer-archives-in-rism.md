@@ -4,7 +4,7 @@ title: 'RISM Modern Monday: Composer Archives in RISM'
 date: 2016-02-01
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Nachlaesse_-_Modern_Monday_-_Blumer_-_Hampelmann_37e02c2860.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-composer-archives-in-rism.html
 email: ''

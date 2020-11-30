@@ -4,7 +4,7 @@ title: Abschluss der Bearbeitung der Musikhandschriften der Stiftsbibliothek St.
 date: 2012-02-10
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Mb_Kronberger_2012_4ec1262442.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/processing-music-manuscripts-completed-at-the-st-boniface-abbey-library-munich-d-mb.html
 email: ''

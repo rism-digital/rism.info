@@ -4,7 +4,7 @@ title: 'Knowing what exists: Akademienunion verlängert Förderung der deutschen
 date: 2015-01-15
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Geck_Knowing_4227350b19.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/knowing-what-exists-union-of-german-academies-renews-support-for-rism-germany.html
 email: geck@slub-dresden.de

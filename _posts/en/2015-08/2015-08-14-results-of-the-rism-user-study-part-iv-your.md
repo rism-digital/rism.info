@@ -4,7 +4,7 @@ title: 'Results of the RISM User Study, Part IV: Your Comments - Libraries, Cove
 date: 2015-08-14
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
 email: ''

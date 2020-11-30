@@ -4,7 +4,7 @@ title: Canzonette veneziane
 date: 2018-10-25
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/canzonette-veneziane.html
 email: rma2@cam.ac.uk

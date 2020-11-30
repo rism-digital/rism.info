@@ -1,8 +1,8 @@
 ---
 layout: categories-rism-info
 lang: de
-permalink: /news-archive/library_stocks
+permalink: /news-archive/new_at_rism
 pagination: 
   enabled: true
-  category: library_stocks
+  category: new_at_rism
 ---

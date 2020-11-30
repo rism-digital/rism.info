@@ -4,7 +4,7 @@ title: Neue Version des RISM Online-Katalogs
 date: 2014-04-10
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Startseite_270869d386.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog.html
 email: ''

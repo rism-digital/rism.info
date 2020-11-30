@@ -4,7 +4,7 @@ title: Wagner exhibit in Bamberg
 date: 2014-05-30
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wagner-exhibit-in-bamberg.html
 email: ''

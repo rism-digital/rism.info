@@ -4,7 +4,7 @@ title: Funding Renewed for KoFIM Berlin Project
 date: 2015-02-19
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Verlaengerung_KOFIM_27714cfe97.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/funding-renewed-for-kofim-berlin-project.html
 email: Martina.Rebmann@sbb.spk-berlin.de

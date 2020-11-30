@@ -4,7 +4,7 @@ title: RISM bittet um Ihre Meinung!
 date: 2014-07-10
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_01_301e5e00d0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-would-like-to-hear-your-opinion.html
 email: contact@rism.info

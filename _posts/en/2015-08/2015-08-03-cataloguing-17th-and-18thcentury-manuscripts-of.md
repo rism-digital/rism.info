@@ -4,7 +4,7 @@ title: Cataloguing 17th- and 18th-century Manuscripts of French Music in the War
 date: 2015-08-03
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Pforzheimer_8c3bab02dc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cataloguing-17th-and-18th-century-manuscripts-of-french-music-in-the-ward-collection-us-caward.html
 email: linklat@fas.harvard.edu

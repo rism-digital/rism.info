@@ -4,7 +4,7 @@ title: Georg Friedrich Händel in der British Library
 date: 2016-04-14
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
@@ -24,7 +24,7 @@ Sie erhalten mehr als 2.800 Treffer und können über die Suchfilter auf der lin
 
 In der British Library läuft ein Projekt zur Digitalisierung verschiedener Einheiten aus der Musiksammlung. Um die 79 Händel-Manuscripts zu finden, gehen Sie zur [Digitised Manuscripts-Seite](http://www.bl.uk/manuscripts/AdvancedSearch.aspx){:target="_blank"} und suchen nach Händel im Feld **Author / Scribe**. Die Links werden allmählich in den RISM-Einträgen ergänzt. Die neuesten verweisen auf [_Ottone_](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.b.9){:target="_blank"} (1722), [_Ezio_](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.a.12){:target="_blank"} (1731-1732) und _[Floriodante](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.b.2){:target="_blank"}_ (1721-1733).
 
-Durch die Erweiterung des Online-Katalogs um die [Musikdrucke](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} im letzten jahr, stehen nun auch über 800 Einträge dazu aus der British Library zur Verfügung. Die meisten Editionen wurden von John Walsh veröffentlicht, aber man findet auch weitere Londoner Verleger. Um sich diese im Online-Katalog anzusehen, gehen Sie zurück zur Liste der Händel-Quellen (Sie können dazu diesen [Link](https://opac.rism.info/search?View=rism&author=George+Frideric+Handel&siglum=GB-Lbl){:target="_blank"} verwenden) und grenzen die Ergenisse über die Verleger auf der linken Seite ein. Alternativ können Sie in der Erweiterten Suche den Begriff **London** im Feld **Alle Felder** ergänzen und Sie erhalten überwiegend Musikdurcke.
+Durch die Erweiterung des Online-Katalogs um die [Musikdrucke](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} im letzten jahr, stehen nun auch über 800 Einträge dazu aus der British Library zur Verfügung. Die meisten Editionen wurden von John Walsh veröffentlicht, aber man findet auch weitere Londoner Verleger. Um sich diese im Online-Katalog anzusehen, gehen Sie zurück zur Liste der Händel-Quellen (Sie können dazu diesen [Link](https://opac.rism.info/search?View=rism&author=George+Frideric+Handel&siglum=GB-Lbl){:target="_blank"} verwenden) und grenzen die Ergenisse über die Verleger auf der linken Seite ein. Alternativ können Sie in der Erweiterten Suche den Begriff **London** im Feld **Alle Felder** ergänzen und Sie erhalten überwiegend Musikdurcke.
 
 
 _Abbildung_: Georg Friedrich Händel: Messiah, HWV 56. Autograph. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Verwendet mit freundlicher Genehmigung. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.

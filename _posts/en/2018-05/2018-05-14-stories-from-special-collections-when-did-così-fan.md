@@ -4,7 +4,7 @@ title: 'Stories from Special Collections: When did "Così fan tutte" go to Detmo
 date: 2018-05-14
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
 email: eberhardt@llb-detmold.de

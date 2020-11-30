@@ -4,7 +4,7 @@ title: New Women Composers in 2019
 date: 2019-11-04
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-women-composers-in-2019.html
 email: ''
@@ -13,7 +13,7 @@ author: ''
 
 In March 2017, [we published a list](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} with 800 women composers who appear in RISM records. In 2019 alone, we have had over 50 new names, so in total there are over 1,000. As a sampling, here are 17 of them.
 
-Some of the new ones are from the [records we have imported from ICCU](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
+Some of the new ones are from the [records we have imported from ICCU](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
 [Cecilia Arditto](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Arditto+Cecilia&Language=en){:target="_blank"} (1966\*)
 [Joanna Bruzdowicz](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Bruzdowicz+Joanna&Language=en){:target="_blank"} (1943\*)
 [Carolyn Jean Hawley](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Hawley+Carolyn+Jean&Language=en){:target="_blank"} (1934\*)

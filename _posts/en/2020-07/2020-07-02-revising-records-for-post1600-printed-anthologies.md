@@ -4,14 +4,14 @@ title: 'Revising Records for Post-1600 Printed Anthologies: There is an End in S
 date: 2020-07-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_Update_B1_70c2221de6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/revising-records-for-post-1600-printed-anthologies-there-is-an-end-in-sight.html
 email: contact@rism.info
 author: ''
 ---
 
-The project that began in November 2018 to revise the B/I records for printed music anthologies from 1601 to 1700, of which the printed editions up to 1610 [have been online since March 2019](/self_representation/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html){:target="_blank"}, is slowly but surely coming to an end. Entries up to 1650 are completely online and the second half of the century, up to the early 1690s, are mostly done.
+The project that began in November 2018 to revise the B/I records for printed music anthologies from 1601 to 1700, of which the printed editions up to 1610 [have been online since March 2019](/new_at_rism/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html){:target="_blank"}, is slowly but surely coming to an end. Entries up to 1650 are completely online and the second half of the century, up to the early 1690s, are mostly done.
 
 In general one can observe, starting in the late 1620s, a clear decrease in the number of printed editions that appeared per year (about 10 on average instead of the previous 25), which can be attributed to the turmoil caused by the Thirty Years War. Around the end of the century, in contrast, we see a clear increase in the number of editions containing works by a single composer, which results in a relatively low number of new anthologies per year. Around 80% of the anthologies from this time are from England and France. Frequently, these are series such as the _Airs sérieux et à boire_ from the Parisian publisher Christophe Ballard, which appeared between 1695 and 1724.
 

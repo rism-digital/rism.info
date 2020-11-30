@@ -4,7 +4,7 @@ title: The Gerald Coke Handel Collection at the Foundling Museum
 date: 2020-07-06
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
 email: katharine@foundlingmuseum.org.uk

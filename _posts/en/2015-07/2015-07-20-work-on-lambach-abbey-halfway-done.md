@@ -4,7 +4,7 @@ title: Work on Lambach Abbey Halfway Done
 date: 2015-07-20
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Lambach-Lecq_0af6a169e6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/work-on-lambach-abbey-halfway-done.html
 email: lecqerbg@xs4all.nl

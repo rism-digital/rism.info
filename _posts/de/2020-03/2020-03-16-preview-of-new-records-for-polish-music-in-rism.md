@@ -4,7 +4,7 @@ title: Vorschau auf neue Datensätze zu polnischer Musik in RISM
 date: 2020-03-16
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_pl-wtm-r926-0005_f0490f118a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/preview-of-new-records-for-polish-music-in-rism.html
 email: mchojecka@nifc.pl

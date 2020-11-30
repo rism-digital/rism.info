@@ -4,7 +4,7 @@ title: '"Zampa" by Hérold @ RISM'
 date: 2013-06-03
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Buechner_Ausschnitt_3bdd780f6f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/zampa-by-herold-rism.html
 email: ''

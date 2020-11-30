@@ -4,7 +4,7 @@ title: Weihnachtsgrüße
 date: 2014-12-19
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Christmas_e3100b2502.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christmas-greetings.html
 email: ''

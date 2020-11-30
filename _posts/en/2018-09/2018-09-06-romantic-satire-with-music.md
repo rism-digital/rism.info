@@ -4,7 +4,7 @@ title: Romantic satire, "With Music."
 date: 2018-09-06
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/romantic-satire-with-music.html
 email: lkoehler@stud.uni-frankfurt.de

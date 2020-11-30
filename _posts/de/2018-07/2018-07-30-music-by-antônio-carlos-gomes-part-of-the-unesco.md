@@ -4,7 +4,7 @@ title: Musik von Antônio Carlos Gomes in der Liste des Weltdokumentenerbes der 
 date: 2018-07-30
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''

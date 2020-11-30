@@ -4,7 +4,7 @@ title: 'New FONCA-RISM project in Mexico City | FONCA-RISM: Nuevo Proyecto en la
 date: 2018-01-25
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_1_52641b3fed.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
 email: jlazos11@hotmail.com

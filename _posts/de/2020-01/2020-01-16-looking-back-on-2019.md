@@ -4,7 +4,7 @@ title: Rückblick auf 2019
 date: 2020-01-16
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2019.html
 email: ''
@@ -13,7 +13,7 @@ author: ''
 
 Das Jahr 2020 ist noch jung, aber lassen Sie uns einen Moment auf 2019 zurückblicken und die beliebtesten Beiträge aus der Welt der musikalischen Quellen betrachten, die wir hier auf dem RISM-Blog veröffentlicht haben. Möge das Jahr 2020 ebenso reich an Entdeckungen sein!
 
-1. [Neue Musikhandschriften aus Italien (ICCU) in RISM](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
+1. [Neue Musikhandschriften aus Italien (ICCU) in RISM](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
 
 2. [Neue RISM-Katalogisierungstools für Bibliothekare](http://www.rism.info/de/startseite/newsdetails/article/2/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
 
@@ -32,7 +32,7 @@ Verpassen Sie nicht die [2020 Ausgabe](/events/2020/01/09/2020-not-just-beethove
 
 9. [Suchstrategien für Notendrucke](http://www.rism.info/de/startseite/newsdetails/select/rism_online_catalog/article/2/search-strategies-for-printed-music.html){:target="_blank"}
 
-10. [Neue Komponistinnen 2019](/self_representation/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
+10. [Neue Komponistinnen 2019](/new_at_rism/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
 
 Im Jahr 2019 lautete - wie in den vergangenen Jahren - die am häufigsten gelesene Nachricht [Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} von 2014.
 

@@ -4,7 +4,7 @@ title: Start der Projektgruppe zur RISM Serie C
 date: 2019-09-23
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Logo_08_5add72044a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/launch-of-project-group-on-rism-series-c.html
 email: ''

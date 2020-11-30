@@ -4,7 +4,7 @@ title: 'Neuer RISM-Fundort: Nürtingen – Turmbibliothek'
 date: 2013-06-19
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Rauch_R_351_be7983603a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-site-in-germany-tower-library-nuertingen.html
 email: Helmut.Lauterwasser@bsb-muenchen.de

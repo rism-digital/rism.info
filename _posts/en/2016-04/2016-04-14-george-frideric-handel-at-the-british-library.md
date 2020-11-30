@@ -4,7 +4,7 @@ title: George Frideric Handel at the British Library
 date: 2016-04-14
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
@@ -24,7 +24,7 @@ You will see over 2,800 results, and on the left you can filter based on a numbe
 
 The British Library has an ongoing project to digitize items from its music collection. To find 79 Handel manuscripts, go to the [Digitised Manuscripts](http://www.bl.uk/manuscripts/AdvancedSearch.aspx){:target="_blank"} page and enter Handel in the field **Author / Scribe**. Links to these are gradually being added to the RISM records. Most recent include [_Ottone_](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.b.9){:target="_blank"} (1722), [_Ezio_](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.a.12){:target="_blank"} (1731-1732), and _[Floriodante](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.b.2){:target="_blank"}_ (1721-1733 ).
 
-With last year's [addition of records for printed music](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} to the online catalog, you'll find over 800 records for printed editions at the British Library. Most of these were published by John Walsh, but you'll also find other London editions. To browse these in the online catalog, go back to your list of Handel sources (you can use [this handy link](https://opac.rism.info/search?View=rism&author=George+Frideric+Handel&siglum=GB-Lbl){:target="_blank"}) and narrow your results by publisher on the left. Alternately, if you do an Advanced Search, add the word **London** in the field **All fields** and you'll get mostly printed editions.
+With last year's [addition of records for printed music](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} to the online catalog, you'll find over 800 records for printed editions at the British Library. Most of these were published by John Walsh, but you'll also find other London editions. To browse these in the online catalog, go back to your list of Handel sources (you can use [this handy link](https://opac.rism.info/search?View=rism&author=George+Frideric+Handel&siglum=GB-Lbl){:target="_blank"}) and narrow your results by publisher on the left. Alternately, if you do an Advanced Search, add the word **London** in the field **All fields** and you'll get mostly printed editions.
 
 
 _Image_: George Frideric Handel: Messiah, HWV 56. Autograph manuscript. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Used with kind permission. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.

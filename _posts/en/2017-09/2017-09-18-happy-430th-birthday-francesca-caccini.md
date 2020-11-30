@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Francesca Caccini (1587 – ca. 1640), along with [Barbara Strozzi](/self_representation/2017/07/03/barbara-strozzi-a-woman-composer-in-17thcentury.html){:target="_blank"}, was the most influential and famous woman composer and musician of the early seventeenth century.
+Francesca Caccini (1587 – ca. 1640), along with [Barbara Strozzi](/new_at_rism/2017/07/03/barbara-strozzi-a-woman-composer-in-17thcentury.html){:target="_blank"}, was the most influential and famous woman composer and musician of the early seventeenth century.
 
 Caccini's output is strongly marked by her own creative family, the Medicis, and the artistic atmosphere surrounding the Florentine court. Her career as a singer began in the _concerto Caccini_ by her father Giulio Caccini, which enabled her to reach financial independence and develop her musical talent. Caccini may fit the usual picture of the female court singer and instrumentalist, but through her public appearances as a composer and voice teacher she was able to achieve much more.
 

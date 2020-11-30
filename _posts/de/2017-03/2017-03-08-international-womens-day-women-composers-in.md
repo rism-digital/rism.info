@@ -52,7 +52,7 @@ To start off the celebrations, here is a sampling of ten people (of the almost 9
 
 Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A** cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman[Gregor **Z** wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
 
-Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/self_representation/2016/01/04/musical-anniversaries-in-2016.html)
+Born in xx16 or xx66 (click on any heading to sort): - See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2016.html](/new_at_rism/2016/01/04/musical-anniversaries-in-2016.html)
 
 **Born in xx17 or xx67 (click on any heading to sort):**
 
@@ -62,7 +62,7 @@ c = circa
 a = before
 p = after
 
-- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](/self_representation/2017/01/10/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
+- See more at: [www.rism.info/en/home/newsdetails/article/64/musical-anniversaries-in-2017.html](/new_at_rism/2017/01/10/musical-anniversaries-in-2017.html?tx_ttnews%5Byear%5D=2017&amp;tx_ttnews%5Bmonth%5D=01&amp;cHash=1c3b39d9f2a69be7bbb68d7f9f7dc0d5#sthash.z1FBvAos.dpuf)
 
 
 Die gesamte Liste können Sie [hier](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"} einsehen; sie ist auch mit der [Hilfe-Seite](https://opac.rism.info/index.php?id=4&L=1#c147){:target="_blank"} des Online-Katalogs verlinkt (siehe Frage #3).

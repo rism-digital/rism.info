@@ -4,14 +4,14 @@ title: 'Results of the RISM User Study, Part III: Your Comments - Chronological 
 date: 2015-08-12
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_2_Bruch_D-B_024c56fa6e.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-ii-your-comments-chronological-limits.html
 email: ''
 author: ''
 ---
 
-Today, we're continuing the conversation about comments we received from the [recent RISM survey](/community/survey-2014-2015.html). On Monday [we talked about](/self_representation/2015/08/10/results-of-the-rism-user-study-part-ii-your.html){:target="_blank"} countries represented in RISM and secondary literature. Today:
+Today, we're continuing the conversation about comments we received from the [recent RISM survey](/community/survey-2014-2015.html). On Monday [we talked about](/new_at_rism/2015/08/10/results-of-the-rism-user-study-part-ii-your.html){:target="_blank"} countries represented in RISM and secondary literature. Today:
 
 **"Do you still have the cataloging limit of 1850?"- Respondent 372**
 

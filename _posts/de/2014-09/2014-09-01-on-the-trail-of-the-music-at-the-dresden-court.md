@@ -4,7 +4,7 @@ title: Auf den Spuren der Hofmusik in Dresden
 date: 2014-09-01
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Hofmusik_Dresden_1661e1cad9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/on-the-trail-of-the-music-at-the-dresden-court.html
 email: nina.eichholz@slub-dresden.de

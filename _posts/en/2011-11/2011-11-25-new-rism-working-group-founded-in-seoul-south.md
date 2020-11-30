@@ -4,7 +4,7 @@ title: New RISM Working Group Founded in Seoul, South Korea
 date: 2011-11-25
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/resources-old-website/pics/Logo_Suedkorea_01.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
 email: 64ehkim@ewha.ac.kr

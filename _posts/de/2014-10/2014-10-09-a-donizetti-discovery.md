@@ -4,7 +4,7 @@ title: Eine Donizetti-Entdeckung
 date: 2014-10-09
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Donizetti_dd1e9e1237.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-donizetti-discovery.html
 email: ''

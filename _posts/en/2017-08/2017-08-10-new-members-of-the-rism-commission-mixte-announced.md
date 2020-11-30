@@ -4,7 +4,7 @@ title: New Members of the RISM Commission Mixte Announced
 date: 2017-08-10
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_09_6b2be4d148.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-commission-mixte-announced.html
 email: ''

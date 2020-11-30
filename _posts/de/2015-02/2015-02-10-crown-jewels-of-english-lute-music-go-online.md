@@ -21,6 +21,6 @@ Die digitale Version der Manuskripte geht heute (Donnerstag, den 11. Dezember 20
 
 Die neue Online-Sammlung von Lautenmusik umfasst hochauflösende Abbildungen von etwa 650 Werken, die in acht Manuskripten enthalten sind. Es wird jedem voller Zugang zu diesen einzigartigen Werken gewährt. Die Stücke geben von festlichen Gigues und anderen Tänzen zu beliebten Balladen und trauriger Musik für Begräbnisse einen außergewöhnlichen Einblick in die Rolle und die Verwendungen der Musik im frühen modernen England.
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)

@@ -4,7 +4,7 @@ title: Stil-Epochen begegnen einander
 date: 2020-06-08
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Alltag_d8c3b86cb2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stylistic-eras-meet-each-other.html
 email: p.roman@stift-heiligenkreuz.at

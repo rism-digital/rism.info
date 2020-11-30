@@ -4,7 +4,7 @@ title: The dating game
 date: 2016-02-29
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_dating_game_ff5399f57c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-dating-game.html
 email: ''

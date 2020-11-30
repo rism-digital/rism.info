@@ -4,7 +4,7 @@ title: 'Cage, Cowell, & the Grateful Dead: Sigla Off the Beaten RISM Track'
 date: 2018-08-13
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Neue_Sigel_Aug_2018_2efb1ce1f6.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cage-cowell-the-grateful-dead-sigla-off-the-beaten-rism-track.html
 email: ''

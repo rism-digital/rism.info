@@ -4,7 +4,7 @@ title: New Records from the Moravian Music Foundation now in RISM
 date: 2020-07-13
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org

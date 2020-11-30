@@ -4,14 +4,14 @@ title: 'Instrument of the Year 2019: Saxophone'
 date: 2019-11-11
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Saxophone_InstrumentDesJahres_Landesarchiv_Baden-Wuerttemberg_Staatsarchiv_Freiburg_W_134_Nr._000431_Bild_1__5-90992-1__a75dd35e78.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/instrument-of-the-year-2019-saxophone.html
 email: carmenalvarezescandell@gmail.com
 author: Carmen Álvarez
 ---
 
-_The following was written by our [intern from Spain, Carmen Álvarez](/self_representation/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (English below):_
+_The following was written by our [intern from Spain, Carmen Álvarez](/new_at_rism/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (English below):_
 
 Cada año, en Alemania, un intrumento tiene el honor de ser elegido [el instrumento del año](https://www.instrument-des-jahres.de/){:target="_blank"}, y en 2019 el turno ha sido para el saxofón.
 

@@ -4,7 +4,7 @@ title: DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musi
 date: 2012-04-14
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Benda_16f1579a7e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitization-project-at-the-staatsbibliothek-zu-berlin.html
 email: musikabt@sbb.spk-berlin.de

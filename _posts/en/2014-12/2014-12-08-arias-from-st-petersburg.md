@@ -4,7 +4,7 @@ title: Arias from St. Petersburg
 date: 2014-12-08
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
 email: ''

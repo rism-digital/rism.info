@@ -4,7 +4,7 @@ title: Musik und Tanz zur Gesundung König Felipes III. von Spanien
 date: 2020-07-09
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: ''

@@ -4,7 +4,7 @@ title: Who was František Ignác Tůma (1704-1774)?
 date: 2014-10-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Frantisek_Tuma_by_Anton_Hickel_4aa4179ca3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/who-was-frantisek-ignac-tuma-1704-1774.html
 email: ''

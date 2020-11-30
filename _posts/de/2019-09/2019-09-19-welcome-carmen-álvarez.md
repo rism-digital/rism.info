@@ -4,7 +4,7 @@ title: Herzlich willkommen, Carmen Álvarez!
 date: 2019-09-19
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Vista_de_la_basilica_de_Nuestra_Senora_del_Pilar_en_Zaragoza_0ddb98150c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/welcome-carmen-alvarez.html
 email: ''

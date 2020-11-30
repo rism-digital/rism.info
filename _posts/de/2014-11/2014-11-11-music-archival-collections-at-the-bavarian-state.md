@@ -4,7 +4,7 @@ title: Musik-Nachlässe in der BSB
 date: 2014-11-11
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Musik-Nachlaesse_Reger_a0cc20a445.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-archival-collections-at-the-bavarian-state-library.html
 email: Uta.Schaumberg@bsb-muenchen.de

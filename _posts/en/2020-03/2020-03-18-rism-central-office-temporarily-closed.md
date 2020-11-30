@@ -4,7 +4,7 @@ title: RISM Central Office Temporarily Closed
 date: 2020-03-18
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-central-office-temporarily-closed.html
 email: contact@rism.info

@@ -4,7 +4,7 @@ title: Jahresbericht 2016
 date: 2017-03-27
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_08_85a9dfb671.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2016-annual-report.html
 email: ''

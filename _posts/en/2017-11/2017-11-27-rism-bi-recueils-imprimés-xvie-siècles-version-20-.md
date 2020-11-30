@@ -4,14 +4,14 @@ title: RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - A Report from t
 date: 2017-11-27
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Bericht_B_1_9c1400458b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
 email: ''
 author: ''
 ---
 
-_Longtime RISM users know that expanded entries from series B/I (printed anthologies, covering the years 1500 to 1550) [were added to the online catalog](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} in 2015. Our student worker Martin Bierwisch has been working on revising these records since April of this year, funded through support from the Kulturfond der [VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}, Kassel__. Martin gives us some insight into how he updates these entries:_
+_Longtime RISM users know that expanded entries from series B/I (printed anthologies, covering the years 1500 to 1550) [were added to the online catalog](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} in 2015. Our student worker Martin Bierwisch has been working on revising these records since April of this year, funded through support from the Kulturfond der [VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}, Kassel__. Martin gives us some insight into how he updates these entries:_
 
 There are currently over 550 collection parent records from B/I in the [RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and with a few exceptions these include publications only up to 1550. A further 2,200 entries, which comprise the remaining entries in B/I up to the year 1700, are in preparation. These will be imported into the online catalog and revised.
 

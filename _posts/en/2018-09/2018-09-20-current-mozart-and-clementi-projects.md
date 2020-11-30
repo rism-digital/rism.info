@@ -4,7 +4,7 @@ title: Current Mozart and Clementi Projects
 date: 2018-09-20
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Mozart_Clementi_Bibliographie_7d553a8de4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/current-mozart-and-clementi-projects.html
 email: ''

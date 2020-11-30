@@ -4,7 +4,7 @@ title: 'Results of the RISM User Study, Part I: The Survey'
 date: 2015-05-28
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
@@ -81,7 +81,7 @@ We can also use the responses from this question to comb the data for insights o
 
 **Your Comments**
 
-We are hard at work evaluating the hundreds of comments that you wrote. One wish that came up frequently was to have more of our printed resources integrated into the online catalog. Earlier this month, [we announced](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} that the entire series A/I and years 1500-1550 from B/I are now available in the online catalog--a step that we hope is one of many towards integrating RISM's publications into a central resource.
+We are hard at work evaluating the hundreds of comments that you wrote. One wish that came up frequently was to have more of our printed resources integrated into the online catalog. Earlier this month, [we announced](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} that the entire series A/I and years 1500-1550 from B/I are now available in the online catalog--a step that we hope is one of many towards integrating RISM's publications into a central resource.
 
 Keep an eye on this blog for more results from the survey. All news will be posted on the [RISM Survey page](/community/survey-2014-2015.html) (linked at the bottom right of our website).
 

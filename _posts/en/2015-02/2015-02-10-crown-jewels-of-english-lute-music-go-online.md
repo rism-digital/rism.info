@@ -24,6 +24,6 @@ The new online collection of lute music comprises high-resolution zooming images
 For more information, please see the [full article](http://www.cam.ac.uk/research/news/crown-jewels-of-english-lute-music-go-online){:target="_blank"}.
 
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
 
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)

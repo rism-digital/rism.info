@@ -4,7 +4,7 @@ title: Neue Bibliothekssigel aus Lateinamerika
 date: 2016-09-19
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Sigel-Latin_America_f0d963cbcd.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-library-sigla-in-latin-america.html
 email: ''

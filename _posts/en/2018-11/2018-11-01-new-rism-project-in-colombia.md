@@ -4,7 +4,7 @@ title: New RISM Project in Colombia
 date: 2018-11-01
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Projekt_Colombia_Torres_2018_archive_small_1ac0f059f0.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-project-in-colombia.html
 email: rf.torres20@uniandes.edu.co

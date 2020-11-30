@@ -4,7 +4,7 @@ title: 'RISMs moderner Montag: Richard Strauss'
 date: 2016-01-18
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Strauss-Specht_01_01d99db60e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-richard-strauss.html
 email: ''

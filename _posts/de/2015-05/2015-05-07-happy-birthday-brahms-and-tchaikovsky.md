@@ -4,7 +4,7 @@ title: Happy Birthday - Brahms und Tschaikowski!
 date: 2015-05-07
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-brahms-and-tchaikovsky.html
 email: ''

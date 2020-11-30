@@ -4,7 +4,7 @@ title: 100 Jahre John Milton Ward
 date: 2017-07-06
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-century-of-john-milton-ward.html
 email: cawelti@fas.harvard.edu
@@ -13,7 +13,7 @@ author: Andrea Cawelti
 
 _Gastbeitrag von_ _Andrea Cawelti, Ward Music Cataloger an derHarvard University’s [Houghton Library](http://hcl.harvard.edu/houghton){:target="_blank"}, __mit Ergänzungen zu den Ward-Quellen bei RISM von__ Christina Linklater, ([Isham Memorial Library](http://hcl.harvard.edu/libraries/loebmusic/isham/index.cfm){:target="_blank"}undHoughton Music Cataloger)._
 
-Die Übersetzung ist gekürzt, den vollständigen englischsprachigen Artikel finden Sie [hier](/library_stocks/2017/07/06/a-century-of-john-milton-ward.html){:target="_blank"}.
+Die Übersetzung ist gekürzt, den vollständigen englischsprachigen Artikel finden Sie [hier](/library_collections/2017/07/06/a-century-of-john-milton-ward.html){:target="_blank"}.
 
 
 Heute vor 100 Jahren wurde [John Milton Ward](https://en.wikipedia.org/wiki/John_Milton_Ward_IV){:target="_blank"},Stifter der [Harvard Theatre Collection’s Ward Collection](http://hcl.harvard.edu/libraries/houghton/collections/htc/index.cfm#overview){:target="_blank"},geboren. Da ich einen großen Teil meiner Anfangszeit an der Harvard University mit ihm zusammengearbeitet habe, möchte ich die Gelegenheit nutzen, einige Erinnerungen zu teilen. Ich begann im Jahr 2002 für John Ward zu arbeiten, also zu einem Zeitpunkt, wo seine Karriere als Professor und Musikwissenschaftler größtenteils hinter ihm lag (auch wenn er seine Tätigkeit als Lehrer nie gänzlich einstellte). Er nahm privaten Kompositionsunterricht bei Darius Milhaud und studierte Musikwissenschaftler an der University of Washington (M.M. 1942), Columbia University, und der New York University (Ph.D. 1953, "The vihuela de mano and its music").
@@ -43,7 +43,7 @@ Er sammelte Quellen zur Französischen Revolution, zu Lully und anderen französ
 ![Ward photographed by George Evans](http://rism.info/resources-old-website/news/A_Century_of_John_Milton_Ward/A_Century_of_John_Milton_Ward_WardGeorgeEvans1939_426x535.jpg)
 _Ward fotografiert vonGeorge Evans, 1939_
 
-Ward starb friedlich in seinem Haus im Cambridge am 12. Dezember 2011 im Alter von 94 Jahren. Heute gibt es etwa 26.500 Einträge der Ward Collection im OPAC der Harvard Library. Auch im [RISM-Onlinekatalog](https://opac.rism.info/search?View=rism&siglum=US-CAward&Language=de){:target="_blank"} finden sich 2.369 Einträge, überwiegend aus der Serie A/II. Das Sigel US-CAward verzeichnet das Material aus Wards Privatsammlung, die Ward selbst katalogisieren ließ. Diese Quellen liegen nun in der Harvard Library. Im Jahr 2015 enstanden im Rahmen eines umfangreichen RISM-Katalogisierungsprojektes für die Ward-Quellen an der Harvard Theatre Collection Verzeichnisse für verschiedene große Sammlungen mit Auszügen aus Opern von Lully aus dem 18. Jahrhundert. Darüber berichtete RISM im [August 2015](/library_stocks/2015/08/03/cataloguing-17th-and-18thcentury-manuscripts-of.html){:target="_blank"}.
+Ward starb friedlich in seinem Haus im Cambridge am 12. Dezember 2011 im Alter von 94 Jahren. Heute gibt es etwa 26.500 Einträge der Ward Collection im OPAC der Harvard Library. Auch im [RISM-Onlinekatalog](https://opac.rism.info/search?View=rism&siglum=US-CAward&Language=de){:target="_blank"} finden sich 2.369 Einträge, überwiegend aus der Serie A/II. Das Sigel US-CAward verzeichnet das Material aus Wards Privatsammlung, die Ward selbst katalogisieren ließ. Diese Quellen liegen nun in der Harvard Library. Im Jahr 2015 enstanden im Rahmen eines umfangreichen RISM-Katalogisierungsprojektes für die Ward-Quellen an der Harvard Theatre Collection Verzeichnisse für verschiedene große Sammlungen mit Auszügen aus Opern von Lully aus dem 18. Jahrhundert. Darüber berichtete RISM im [August 2015](/library_collections/2015/08/03/cataloguing-17th-and-18thcentury-manuscripts-of.html){:target="_blank"}.
 
 Die Quellen der Ward Collection wurden in zahllosen Artikeln und Büchern zitiert. Die Bereiche Musikethnologie, Ballett, Gesellschaftstanz und Operetten sowie Musicals, die bis zu Beginn von Wards Sammeltätigkeit nicht Teil der Forschungsarbeit waren, wurden nun intensiv untersucht und die Harvard-Sammlungen gehören dank ihm zu den besten in der Welt. Und woran denke ich selbst am Tag seines 100. Geburtstags? Ich vermisse ihn. Er sagte oft, er hatte einfach das Glück, zur richtigen Zeit am richtigen Ort zu sein. Ich denke, er selbst hat es dazu gemacht. Wir sind die Glücklichen, weil wir darin leben dürfen. Auf ein weiteres Jahrhundert mit der Ward Collection!
 

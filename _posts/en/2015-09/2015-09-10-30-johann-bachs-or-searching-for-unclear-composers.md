@@ -4,14 +4,14 @@ title: 30 Johann Bachs, or searching for "unclear" composers
 date: 2015-09-10
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Johann_Bach_e908765f80.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-bach-or-searching-for-unclear-composers.html
 email: alexander.marxen@rism.info
 author: ''
 ---
 
-Back in March we showed you in this space [how to link to RISM searches](/self_representation/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} in the online catalog. In most cases, this works without a hitch - you can even use pseudonyms or other forms of the name, as long as they are entered as variants in RISM. [Here's a search using "Melante"](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} for Georg Philipp Telemann.
+Back in March we showed you in this space [how to link to RISM searches](/new_at_rism/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} in the online catalog. In most cases, this works without a hitch - you can even use pseudonyms or other forms of the name, as long as they are entered as variants in RISM. [Here's a search using "Melante"](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} for Georg Philipp Telemann.
 
 It is more difficult to search for composers whose name comes up more than once. Take Johann Bach (1604-1673) as an example. If you simply search for **Johann Bach** as the composer, you get [over 9,500 results](https://opac.rism.info/metaopac/search?View=rism&author=Johann+Bach){:target="_blank"} and of course most of these are for Johann Sebastian Bach or Johann Christian Bach.
 

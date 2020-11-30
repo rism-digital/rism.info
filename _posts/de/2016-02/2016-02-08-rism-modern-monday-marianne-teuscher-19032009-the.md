@@ -4,7 +4,7 @@ title: 'RISM Modern Monday: Marianne Teuscher (1903-2009) – „die Queen Mum d
 date: 2016-02-08
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Teuscher_Modern_Monday_7d892a69de.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-marianne-teuscher-1903-2009-the-queen-mum-of-the-music-department.html
 email: ''

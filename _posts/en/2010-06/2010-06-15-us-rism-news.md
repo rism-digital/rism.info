@@ -4,7 +4,7 @@ title: US RISM news
 date: 2010-06-15
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_US-TelemannSeite1_dda1488dec.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/us-rism-news.html
 email: linklat@fas.harvard.edu

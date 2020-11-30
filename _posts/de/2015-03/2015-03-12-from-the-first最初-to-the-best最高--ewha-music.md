@@ -4,7 +4,7 @@ title: 'Von den Ersten[最初] zu den Besten[最高]: Ewha Music Research Instit
 date: 2015-03-12
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/resources-old-website/pics/Logo_Suedkorea_03.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-the-first-to-the-best-ewha-music-research-institute.html
 email: hkchae@ewha.ac.kr

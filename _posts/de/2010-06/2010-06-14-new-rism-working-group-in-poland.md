@@ -4,7 +4,7 @@ title: Neue RISM Arbeitsgruppe in Polen
 date: 2010-06-14
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Lublin-Sandomierz_d9cca24b22.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-working-group-in-poland.html
 email: dsmolar@kul.pl

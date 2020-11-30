@@ -4,7 +4,7 @@ title: Happy Birthday Edmée Sophie Gail (1775-1819)
 date: 2016-08-25
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''

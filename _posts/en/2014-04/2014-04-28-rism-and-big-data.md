@@ -4,7 +4,7 @@ title: RISM and Big Data
 date: 2014-04-28
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/resources-old-website/pics/Sacred_music_Wordle.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-big-data.html
 email: sandra.tuppen@bl.uk

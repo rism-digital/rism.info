@@ -4,7 +4,7 @@ title: 'RISM Modern Monday: Mexican Music'
 date: 2016-01-25
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Mexico_Modern_Monday_AM0811__AM0812__1__e79dab582c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-mexican-music.html
 email: jlazos11@hotmail.com

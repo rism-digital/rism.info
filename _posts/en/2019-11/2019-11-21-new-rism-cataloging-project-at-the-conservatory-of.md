@@ -4,7 +4,7 @@ title: New RISM Cataloging Project at the Conservatory of Queretaro, Mexico
 date: 2019-11-21
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Lazos_Conservatory_Queretaro_3_eb7d8ff40c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-cataloging-project-at-the-conservatory-of-queretaro-mexico.html
 email: jlazos11@hotmail.com

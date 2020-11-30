@@ -4,7 +4,7 @@ title: Willkommen im neuen RISM Büro
 date: 2015-01-28
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Gruppenfoto2015_483ff1da01.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/welcome-to-the-new-rism-office.html
 email: ''

@@ -11,7 +11,7 @@ email: alexander.marxen@rism.info
 author: ''
 ---
 
-Today is [International Women's Day](https://www.internationalwomensday.com/){:target="_blank"}. [Last year](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} we published a list of the ca. 800 women composers who are found in the RISM online database. In June we added [eight more](/self_representation/2017/06/29/eight-more-women-composers.html){:target="_blank"} names to the list and in October [another twelve](/self_representation/2017/10/19/twelve-more-women-composers.html){:target="_blank"} were added.
+Today is [International Women's Day](https://www.internationalwomensday.com/){:target="_blank"}. [Last year](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} we published a list of the ca. 800 women composers who are found in the RISM online database. In June we added [eight more](/new_at_rism/2017/06/29/eight-more-women-composers.html){:target="_blank"} names to the list and in October [another twelve](/new_at_rism/2017/10/19/twelve-more-women-composers.html){:target="_blank"} were added.
 
 This year we would like to focus on the women pianists in RISM. Since RISM is a database that documents specific sources rather than being a general reference guide for all music or people, we only include information on people who stand in some sort of relationship with a source. This is a lot less often the case for pianists than for singers (for example) because singers are often directly named on the source: we have around 650 sopranos in RISM but in contrast there are only around 250 women pianists.
 

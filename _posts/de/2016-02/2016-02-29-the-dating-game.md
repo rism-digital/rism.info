@@ -4,7 +4,7 @@ title: Das Rätsel um die Datierung
 date: 2016-02-29
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_dating_game_ff5399f57c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dating-game.html
 email: ''

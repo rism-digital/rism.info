@@ -4,7 +4,7 @@ title: After more than 200 years, one of Mozart’s autograph manuscripts return
 date: 2015-07-27
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Mozart_Mozarteum_Autograph_67b2dfe1c3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/after-more-than-200-years-one-of-mozarts-autograph-manuscripts-returns-to-salzburg.html
 email: bibliothek@mozarteum.at

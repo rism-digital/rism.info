@@ -4,7 +4,7 @@ title: 'Music, musicology, libraries: An intern''s report'
 date: 2015-10-07
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Stuttgart_-_AIBM_6024c498b2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-musicology-libraries-an-interns-report.html
 email: contact@rism.info

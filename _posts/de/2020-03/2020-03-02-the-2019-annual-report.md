@@ -4,7 +4,7 @@ title: Jahresbericht 2019
 date: 2020-03-02
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2019-annual-report.html
 email: ''
@@ -29,7 +29,7 @@ Schatzmeisterin: Jane Gottlieb, New York
 
 **Update zu den Musikdrucken:** RISM arbeitet mit der [Sächsische Landes- und Universitätsbibliothek (SLUB) in Dresden](https://www.slub-dresden.de/startseite/){:target="_blank"} zusammen, um die oben genannten Beschreibungen der Musikdrucke in RISM zu aktualisieren und verbessern. Insgesamt wurden 2.091 neue Musikdrucke ergänzt, das sind ca. 11.000 Datensätze für die Werke in den Sammeldrucken. Die Überarbeitung der Einträge aus dem B/I-Band zu den Sammeldrucken wird Dank der weiteren Finanzierung durch die VG-Musikedition fortgesetzt. Wir hoffen, dies bis Ende 2020 abzuschließen.
 
-**Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](/self_representation/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](/self_representation/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
+**Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](/new_at_rism/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
 
 **Konferenz zur Werkebene:**
 Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/de/publikationen/werkebene-2019.html).

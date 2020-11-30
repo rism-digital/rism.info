@@ -4,7 +4,7 @@ title: A Surprise Publication from 1619
 date: 2019-08-19
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_1619_Thoene_051c516a06.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-surprise-publication-from-1619.html
 email: johanna.thoene@rism.info
@@ -13,7 +13,7 @@ author: Johanna Thöne
 
 Almost exactly 400 years ago in Rome, [Luca Antonio Soldi (ca. 1558-1627)](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22ks40010260%22){:target="_blank"} published the second collection of _Concertini a due a tre, et a quattro voci di Gregorio Allegri con il Basso continuo_. The first publication of 1618 unfortunately has not survived.
 
-The collection of motets for two to five voices (the title page doesn't mention the five-part compositions!) contains twenty motets by [Gregorio Allegri (1582-1652)](https://opac.rism.info/search?id=pe28948&View=rism&Language=en){:target="_blank"} and four works by other composers. But because most of the works are by Allegri, this printed edition is listed in RISM's series A/I (A 858) as well as in B/I (1619|12). Since the project to revise the B/I entries and merge them with A/I duplicates is in full swing ([see our previous report](/self_representation/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html){:target="_blank"}), the[updated A/I entry](https://opac.rism.info/search?id=00000990000859&View=rism&Language=en){:target="_blank"} can now be found in the RISM catalog.
+The collection of motets for two to five voices (the title page doesn't mention the five-part compositions!) contains twenty motets by [Gregorio Allegri (1582-1652)](https://opac.rism.info/search?id=pe28948&View=rism&Language=en){:target="_blank"} and four works by other composers. But because most of the works are by Allegri, this printed edition is listed in RISM's series A/I (A 858) as well as in B/I (1619|12). Since the project to revise the B/I entries and merge them with A/I duplicates is in full swing ([see our previous report](/new_at_rism/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html){:target="_blank"}), the[updated A/I entry](https://opac.rism.info/search?id=00000990000859&View=rism&Language=en){:target="_blank"} can now be found in the RISM catalog.
 
 While one litany was composed by Roberto Vailero (who also has a composition in _Selectae cantiones_, Rome 1616; [B/I 1616|1](https://opac.rism.info/search?id=993121419&View=rism&Language=en){:target="_blank"}), the other three works are by [Duke Giovanni Angelo Altemps of Gallese (died 1620)](https://opac.rism.info/search?id=pe30050073&View=rism&Language=en){:target="_blank"}, who also appears as the dedicatee of the entire anthology. A ram, the heraldic animal of the Altemps family, can be seen on the title page where the printer's vignette is usually displayed. At the time, Giovanni Altemps was one of the leading bibliophiles and polymaths in Rome, owned an extensive library, and was the hub of a wide circle of intellectuals. It is known, for example, that he corresponded with Galileo Galilei about the purchase of a new telescope.
 

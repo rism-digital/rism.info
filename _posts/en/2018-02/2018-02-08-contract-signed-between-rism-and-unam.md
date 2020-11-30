@@ -4,7 +4,7 @@ title: Contract signed between RISM and UNAM
 date: 2018-02-08
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_15_Anniversary_Nov_2017_2_klein_d9a3b6f84c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/contract-signed-between-rism-and-unam.html
 email: ''

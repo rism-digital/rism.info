@@ -4,7 +4,7 @@ title: 'Insect of the Year 2019: Red Mason Bee'
 date: 2019-12-09
 lang: en
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Biene_2019-Heinichen_51b2bdb705.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/insect-of-the-year-2019-red-mason-bee.html
 email: ''

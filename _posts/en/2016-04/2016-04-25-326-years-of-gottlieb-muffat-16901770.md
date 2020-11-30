@@ -4,7 +4,7 @@ title: 326 Years of Gottlieb Muffat (1690-1770)
 date: 2016-04-25
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Muffat_bbbfd9bd63.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/326-years-of-gottlieb-muffat-1690-1770.html
 email: ''

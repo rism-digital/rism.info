@@ -4,7 +4,7 @@ title: "'Earliest' polyphonic music discovered in British Library"
 date: 2015-01-12
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''

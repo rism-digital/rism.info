@@ -4,7 +4,7 @@ title: 300 Jahre "Radamisto" von Georg Friedrich Händel
 date: 2020-05-13
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/300-years-of-radamisto-by-george-frideric-handel.html
 email: ''

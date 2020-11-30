@@ -4,7 +4,7 @@ title: Neuigkeiten der RISM Arbeitsgruppe in den USA
 date: 2010-06-15
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_US-TelemannSeite1_dda1488dec.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/us-rism-news.html
 email: linklat@fas.harvard.edu

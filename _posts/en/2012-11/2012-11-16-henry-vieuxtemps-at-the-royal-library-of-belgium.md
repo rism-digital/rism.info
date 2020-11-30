@@ -4,7 +4,7 @@ title: Henry Vieuxtemps at the Royal Library of Belgium
 date: 2012-11-16
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_vieuxtemps_a603b964d3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/henry-vieuxtemps-at-the-royal-library-of-belgium.html
 email: marie.cornaz@kbr.be

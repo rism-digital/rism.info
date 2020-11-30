@@ -4,14 +4,14 @@ title: Bari, Barletta, Crispiano, Lecco, Mantova, Noci, Novara, Sassoferrato und
 date: 2019-12-05
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---
 
-Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhandschriften freigeschaltet worden, die aus der italienischen Datenbank SBN Musica übernommen wurden. Wir hatten darüber bereits [im August berichtet](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
+Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhandschriften freigeschaltet worden, die aus der italienischen Datenbank SBN Musica übernommen wurden. Wir hatten darüber bereits [im August berichtet](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Die Bestände folgender Bibliotheken sind nun im RISM-Katalog freigeschaltet:
 

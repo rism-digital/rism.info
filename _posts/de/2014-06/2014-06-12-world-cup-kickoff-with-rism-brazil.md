@@ -4,7 +4,7 @@ title: Anpfiff der Fußballweltmeisterschaft mit RISM Brasilien
 date: 2014-06-12
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Brasilien_249d695321.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/world-cup-kickoff-with-rism-brazil.html
 email: ''

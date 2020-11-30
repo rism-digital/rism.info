@@ -4,7 +4,7 @@ title: Frühste Notenstiche der Musikgeschichte – Simone Verovio
 date: 2019-07-22
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
 email: martin.bierwisch@rism.info

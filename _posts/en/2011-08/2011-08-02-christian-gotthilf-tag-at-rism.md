@@ -4,7 +4,7 @@ title: Christian Gotthilf Tag @ RISM
 date: 2011-08-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_TagVorsehung_2be77f5aac.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-gotthilf-tag-rism.html
 email: martina.falletta@rism.info

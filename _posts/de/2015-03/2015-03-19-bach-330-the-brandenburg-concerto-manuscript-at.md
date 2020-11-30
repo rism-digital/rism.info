@@ -4,7 +4,7 @@ title: 'Bach 330: Das Manuskript des Brandenburgischen Konzerts in der Library o
 date: 2015-03-19
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Bach_330_dbc29bb6ca.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
 email: ''

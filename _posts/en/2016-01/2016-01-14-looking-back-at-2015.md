@@ -4,7 +4,7 @@ title: Looking Back at 2015
 date: 2016-01-14
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2015.html
 email: contact@rism.info
@@ -15,14 +15,14 @@ The year 2015 is behind us, so we'd like take a moment to look at the stories th
 
 The five most popular stories that we published on our website in 2015 were:
 
-1. [New CD Box Set: The RISM Complete Incipits Edition](/self_representation/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
-2. ['Earliest' polyphonic music discovered in British Library](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - published in partnership with our colleagues at the British Library
+1. [New CD Box Set: The RISM Complete Incipits Edition](/new_at_rism/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
+2. ['Earliest' polyphonic music discovered in British Library](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - published in partnership with our colleagues at the British Library
 3. [New Discoveries of Vivaldi in Dresden](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - by RISM user Francisco Javier Lupiáñez Ruiz
 
 Francisco Javier Lupiáñez Ruiz
 
-4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
-5. [Antonio Cesti's Orontea](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
+4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_collections/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
+5. [Antonio Cesti's Orontea](/in_the_news/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
 
 But in 2015, the story more popular than any other story (from any year), was "[Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" from 2014.
 

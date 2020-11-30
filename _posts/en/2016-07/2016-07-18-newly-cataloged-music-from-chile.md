@@ -4,7 +4,7 @@ title: Newly Cataloged Music from Chile
 date: 2016-07-18
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Chile_Haydn_2c152ef389.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/newly-cataloged-music-from-chile.html
 email: ''

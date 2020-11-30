@@ -4,7 +4,7 @@ title: Neue Komponistinnen 2019
 date: 2019-11-04
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-women-composers-in-2019.html
 email: ''
@@ -14,7 +14,7 @@ author: ''
 Im März 2017[haben wir eine Liste](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"}mit 800 Komponistinnen veröffentlicht, die bei RISM mit Quellen-Nachweisen vertreten sind. Allein 2019 sind bislang über 50 neue Komponistinnen dazugekommen, und so sind es inzwischen über 1000. Stellvertretend haben wir von diesen 17 ausgewählt.
 
 
-Einige der „Neuzugänge“ stammen aus den von[ICCU übernommenen Daten](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
+Einige der „Neuzugänge“ stammen aus den von[ICCU übernommenen Daten](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
 
 [Cecilia Arditto](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Arditto+Cecilia&Language=de){:target="_blank"} (1966\*)
 [Joanna Bruzdowicz](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Bruzdowicz+Joanna&Language=de){:target="_blank"} (1943\*)

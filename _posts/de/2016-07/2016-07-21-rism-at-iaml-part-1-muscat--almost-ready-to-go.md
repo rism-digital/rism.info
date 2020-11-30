@@ -4,7 +4,7 @@ title: 'RISM bei der IAML-Konferenz, Teil 1: Muscat – unser neues Katalogisier
 date: 2016-07-21
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Muscat_87a096eb84.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
 email: ''

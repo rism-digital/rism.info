@@ -4,7 +4,7 @@ title: Luigi Cherubini @ RISM
 date: 2010-10-20
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_cherubini_0658ee83ca.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/luigi-cherubini-rism.html
 email: martina.falletta@rism.info

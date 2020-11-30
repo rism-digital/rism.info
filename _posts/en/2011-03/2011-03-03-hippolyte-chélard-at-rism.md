@@ -4,7 +4,7 @@ title: Hippolyte Chélard @ RISM
 date: 2011-03-03
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_ChelardAndreHippolyte_7ced3ffc35.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hippolyte-chelard-rism.html
 email: martina.falletta@rism.info

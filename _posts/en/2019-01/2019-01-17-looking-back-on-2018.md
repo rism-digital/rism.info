@@ -4,7 +4,7 @@ title: Looking Back on 2018
 date: 2019-01-17
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2018_9ee996c7b2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2018.html
 email: ''
@@ -13,7 +13,7 @@ author: ''
 
 Before we get too far into 2019, let's take a look at our most popular stories on our blog that we published in 2018. In case you missed some of these discoveries and developments in the world of musical sources, here's your chance to catch up!
 
-1. [Musical Anniversaries in 2018](/self_representation/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
+1. [Musical Anniversaries in 2018](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
 
 2. [The Music Printing History Online Museum](/electronic_resources/2018/03/12/the-music-printing-history-online-museum.html){:target="_blank"}
 
@@ -25,13 +25,13 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 
 6. [RISM's B/III (The Theory of Music) Now a Database](/electronic_resources/2018/04/09/risms-biii-the-theory-of-music-now-a-database.html){:target="_blank"} by Christian Meyer
 
-7. [Telemann digital](/library_stocks/2018/08/27/telemann-digital.html){:target="_blank"} by Ann Kersting-Meuleman
+7. [Telemann digital](/library_collections/2018/08/27/telemann-digital.html){:target="_blank"} by Ann Kersting-Meuleman
 
-8. [New FONCA-RISM project in Mexico City | FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_stocks/2018/01/25/new-foncarism-project-in-mexico-city--foncarism.html){:target="_blank"} by John Lazos
+8. [New FONCA-RISM project in Mexico City | FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_collections/2018/01/25/new-foncarism-project-in-mexico-city--foncarism.html){:target="_blank"} by John Lazos
 
 9. [Exhibit in the Bavarian State Library on Historic Tablatures](/events/2018/01/15/exhibit-in-the-bavarian-state-library-on-historic.html){:target="_blank"}
 
-10. [RISM—500 Years Ago](/self_representation/2018/09/17/rism500-years-ago.html){:target="_blank"}
+10. [RISM—500 Years Ago](/new_at_rism/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
 But in 2018—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.

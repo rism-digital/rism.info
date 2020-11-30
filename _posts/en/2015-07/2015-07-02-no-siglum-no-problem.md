@@ -4,7 +4,7 @@ title: No siglum? No problem!
 date: 2015-07-02
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/no-siglum-no-problem.html
 email: ''

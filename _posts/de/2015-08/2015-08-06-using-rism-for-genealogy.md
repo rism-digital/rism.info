@@ -4,7 +4,7 @@ title: Kompositionen des Christian Balthasar TEUTHORN per RISM gefunden
 date: 2015-08-06
 lang: de
 post: true
-category: press_reviews
+category: in_the_news
 image: "/images/news-old-website/csm_Teuthorn_BSB_06d077a232.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
 email: p@teu-net.de

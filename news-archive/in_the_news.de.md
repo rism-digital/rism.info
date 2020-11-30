@@ -1,8 +1,8 @@
 ---
 layout: categories-rism-info
 lang: de
-permalink: /news-archive/press_reviews
+permalink: /news-archive/in_the_news
 pagination: 
   enabled: true
-  category: press_reviews
+  category: in_the_news
 ---

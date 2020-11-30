@@ -4,7 +4,7 @@ title: Rückblick auf 2015
 date: 2016-01-14
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2015.html
 email: contact@rism.info
@@ -15,14 +15,14 @@ Das Jahr 2015 liegt hinter uns und wir möchten einen Blick auf die Nachrichten 
 
 Die fünf beliebtesten Nachrichten, die wir auf unserer Webseite 2015 veröffentlichten, waren:
 
-1. [Neue CD-Ausgabe im Set: Die vollständige RISM-Incipit Edition](/self_representation/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (unser Aprilscherz)
-2. [Frühestes polyphonies Musikwerk in British Library entdeckt](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - gemeinsam mit unseren Kollegen der British Library veröffentlicht
+1. [Neue CD-Ausgabe im Set: Die vollständige RISM-Incipit Edition](/new_at_rism/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (unser Aprilscherz)
+2. [Frühestes polyphonies Musikwerk in British Library entdeckt](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - gemeinsam mit unseren Kollegen der British Library veröffentlicht
 3. [Neue Vivaldi-Entdeckungen in Dresden](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - von unseren RISM-Nutzer Francisco Javier Lupiáñez Ruiz
 
 Francisco Javier Lupiáñez Ruiz
 
-4. [Digitalisierung von Opernpartituren am Deutschen Historischen Institut in Rom](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - von unserem Kollegen Roland Pfeiffer am DHI
-5. [Orontea von Antonio Cesti](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"} - unser Blick auf eine in Frankfurt gespielte Oper
+4. [Digitalisierung von Opernpartituren am Deutschen Historischen Institut in Rom](/library_collections/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - von unserem Kollegen Roland Pfeiffer am DHI
+5. [Orontea von Antonio Cesti](/in_the_news/2015/02/02/antonio-cestis-orontea.html){:target="_blank"} - unser Blick auf eine in Frankfurt gespielte Oper
 
 Aber die beliebteste Nachricht aller Jahre überhaupt war auch 2015 "[Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" von 2014.
 

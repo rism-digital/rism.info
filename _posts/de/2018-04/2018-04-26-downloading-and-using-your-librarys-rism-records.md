@@ -4,7 +4,7 @@ title: Download und Weiterverwendung der RISM Einträge in Ihrer Bibliothek
 date: 2018-04-26
 lang: de
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/downloading-and-using-your-librarys-rism-records.html
 email: ''

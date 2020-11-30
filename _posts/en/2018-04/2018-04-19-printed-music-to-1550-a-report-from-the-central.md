@@ -4,14 +4,14 @@ title: 'Printed Music to 1550: A Report from the Central Office II'
 date: 2018-04-19
 lang: en
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''
 ---
 
-For those who are interested in early music prints, watch out! After revising the entries from the RISM B/I series to 1550 ([see report](/self_representation/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"}) and related A/I entries, all of the remaining A/I entries to 1550 have now been revised. Some of them now have exact years and in other cases new copies have been found and added. An example of a revised entry is [S 2807](https://opac.rism.info/search?id=00000990059206&Language=en){:target="_blank"}. Just try to compare it with the old entry in the printed A/I volume and you will see the improvements and differences.
+For those who are interested in early music prints, watch out! After revising the entries from the RISM B/I series to 1550 ([see report](/new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"}) and related A/I entries, all of the remaining A/I entries to 1550 have now been revised. Some of them now have exact years and in other cases new copies have been found and added. An example of a revised entry is [S 2807](https://opac.rism.info/search?id=00000990059206&Language=en){:target="_blank"}. Just try to compare it with the old entry in the printed A/I volume and you will see the improvements and differences.
 
 Or look at the second oldest print in the A/I series, dating from 1498: [M 1738](https://opac.rism.info/search?id=00000990040426&Language=en){:target="_blank"}. Latin teachers and students will probably know this printed _Scaenica progymnasmata_ (also called _Henno_), which only has four small woodcuts of printed music notation (see image), but musicians might not have heard of it. This imprint is especially interesting because it has so many reprints (to M 1748).
 

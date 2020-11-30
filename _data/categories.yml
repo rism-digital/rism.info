@@ -3,12 +3,12 @@
     en: "News archive"
     de: "Nachrichtenarchiv"
     fr: "Archive des actualités"
-- id: self_representation
+- id: new_at_rism
   name:
     en: "New at RISM"
     de: "Eigendarstellung"
     fr: "Nouveau au RISM"
-- id: library_stocks
+- id: library_collections
   name:
     en: "Library collections"
     de: "Bibliotheksbestände"
@@ -18,7 +18,7 @@
     en: "New publications"
     de: "Neuerscheinungen"
     fr: "Nouveautés"
-- id: press_reviews
+- id: in_the_news
   name:
     en: "In the news"
     de: "Pressespiegel"

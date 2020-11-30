@@ -4,7 +4,7 @@ title: Was this book of Pleyel sonatas once part of Jane Austen's circle?
 date: 2020-06-18
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_pleyel_austen_music_00430bd055.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
 email: ''

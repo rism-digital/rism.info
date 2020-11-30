@@ -4,7 +4,7 @@ title: Nationalhymnen @RISM
 date: 2014-06-16
 lang: de
 post: true
-category: self_representation
+category: new_at_rism
 image: "/images/news-old-website/csm_Niederlande_c13dc86004.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/national-anthems-rism.html
 email: ''

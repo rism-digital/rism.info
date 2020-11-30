@@ -4,7 +4,7 @@ title: Women and music-making during the Bourbon Restoration
 date: 2016-06-30
 lang: en
 post: true
-category: library_stocks
+category: library_collections
 image: "/images/news-old-website/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/women-and-music-making-during-the-bourbon-restoration.html
 email: linklat@fas.harvard.edu
