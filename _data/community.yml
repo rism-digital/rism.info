@@ -24,3 +24,19 @@
         de: RISM Bibliothekssigel
         fr: Sigle de Bibliothèques RISM
       link: "/community/sigla.html"
+      items:
+        - name:
+            en: About Sigla
+            de: Über Sigel
+            fr: A propos
+          link: "/community/sigla/about.html"
+        - name:
+            en: Help
+            de: Hilfe
+            fr: Aide
+          link: "/community/sigla/help.html"
+    - name:
+        en: Data Services
+        de: Dataservice
+        fr: Services de données
+      link: "/community/data-services.html"
