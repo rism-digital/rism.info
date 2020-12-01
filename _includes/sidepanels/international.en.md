@@ -11,7 +11,7 @@ Germany
 
 Telephone: +49 69 706231  
 Fax: +49 69 706026  
-Email: [contact@rism.info](contact@rism.info)
+Email: [contact@rism.info](mailto:contact@rism.info)
 
 **Director of the Editorial Center:**  
 Dr. Balázs Mikusi 

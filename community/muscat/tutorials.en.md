@@ -96,7 +96,7 @@ If your print falls outside the scope of A/I or B/I, chances are it is not in Mu
 
 **Current limitations**
 
-For a few prints, you will not see an "add holdings" button. (These are mostly print records that were created with Kallisto.) If you have the same print, send the Central Office (contact@rism.info) your holdings information (at least siglum and shelfmark) and we will add it once these records have been converted.
+For a few prints, you will not see an "add holdings" button. (These are mostly print records that were created with Kallisto.) If you have the same print, send the Central Office (mailto:contact@rism.info) your holdings information (at least siglum and shelfmark) and we will add it once these records have been converted.
 
 # Training server
 

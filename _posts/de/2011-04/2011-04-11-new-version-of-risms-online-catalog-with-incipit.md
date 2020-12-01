@@ -19,6 +19,6 @@ Erstmals sind auch Links zu Digitalisaten in die Gesamtanzeige eines Titels eing
 
 RISM, ein Projekt der Akademie der Wissenschaften und der Literatur, Mainz, und die beteiligten Partner, die Bayerische Staatsbibliothek, München, und die Staatsbibliothek zu Berlin freuen sich, diese neue Version des Online-Kataloges der musikinteressierten Öffentlichkeit anbieten zu können.
 
-Der Katalog ist unter der Adresse [http://opac.rism.info](http://opac.rism.info/) oder über die Website des RISM ([www.rism.info](/../)) für einen kostenfreien Zugriff auf ca. 730.000 Nachweise von Musikhandschriften erreichbar. Der Katalog wird auch im Portal Virtuelle Fachbibliothek Musikwissenschaft ([http://www.vifamusik.de](http://www.vifamusik.de/home.html?L=1)) durchsucht.
+Der Katalog ist unter der Adresse [http://opac.rism.info](http://opac.rism.info/) oder über die Website des RISM ([www.rism.info](/)) für einen kostenfreien Zugriff auf ca. 730.000 Nachweise von Musikhandschriften erreichbar. Der Katalog wird auch im Portal Virtuelle Fachbibliothek Musikwissenschaft ([http://www.vifamusik.de](http://www.vifamusik.de/home.html?L=1)) durchsucht.
 
 [1](#sdfootnote1anc)Deutschland, Dresden, Sächsische Landes-, Staats- und Universitätsbibliothek; Darmstadt, Universitäts- und Landesbibliothek, München, Bayerische Staatsbibliothek; Berlin, Staatsbibliothek zu Berlin, Preußischer Kulturbesitz; USA, New York, The Juilliard School, Lila Acheson Wallace Library; Dänemark, Det Kongelige Bibliotek
