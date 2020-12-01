@@ -20,7 +20,7 @@ Dienstag, 20. Juni
 
 -
 
-14.00-15.30 Uhr, Muscat-Workshop (öffentlich). Klaus Keil und Jennifer Ward führen in [Muscat](/de/community/muscat.html), das RISM spezifische Erfassungsprogramm für Musikquellen, ein.
+14.00-15.30 Uhr, Muscat-Workshop (öffentlich). Klaus Keil und Jennifer Ward führen in [Muscat](/community/muscat.html), das RISM spezifische Erfassungsprogramm für Musikquellen, ein.
 Begrenzte Plätze. Bitte melden Sie sich per Mail an: [contact@rism.info](mailto:contact@rism.info)
 
 Donnerstag, 22. Juni

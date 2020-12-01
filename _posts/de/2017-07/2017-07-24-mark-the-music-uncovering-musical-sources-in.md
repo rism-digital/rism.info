@@ -18,7 +18,7 @@ Da ich nie zuvor längere Zeit in Schweden war, lud mich Pia freundlicherweise e
 
 Nach so viel Geschichte ging es mit der Konferenz weiter. Vom 15. bis 16. Juni 2017 kamen etwa 40 Musikbibliothekare aus Dänemark, Finnland, Norwegen und Schweden in derUniversität vonGothenburgzusammen, um Vorträge über die verschiedensten Themen zu hören, die die Musikbibliotheken von heute betreffen. Es gab auch genügend Zeit für Diskussionen und den Austausch von Erfahrungen.
 
-Ich selbst veranstaltete einenWorkshop zur Einführungin[Muscat](/de/community/muscat.html), dem Katalogierungsprogramm für Musikquellen von RISM. Daran nahmen insgesamt sechzehn Personen teil.
+Ich selbst veranstaltete einenWorkshop zur Einführungin[Muscat](/community/muscat.html), dem Katalogierungsprogramm für Musikquellen von RISM. Daran nahmen insgesamt sechzehn Personen teil.
 
 ![Workshop participants](http://rism.info/resources-old-website/news/Goeteborg_Mark_the_Music_Workshop_568x426.JPG)
 _Workshop-TeilnehmerlernenMuscat kennen_

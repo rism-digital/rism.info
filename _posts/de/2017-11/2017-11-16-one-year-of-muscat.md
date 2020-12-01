@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-[Muscat](/de/community/muscat.html) wird ein Jahr alt!
+[Muscat](/community/muscat.html) wird ein Jahr alt!
 
 [Vor einem Jahr](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"} schaltete RISM das Katalogisierungsprogramm zur Beschreibung der Musikquellen frei. Muscat ist ein webbasiertes, plattformunabhängiges Programm, das zur Beschreibung von Musikhandschriften, Notendrucken, Traktaten und Libretti verwendet werden kann. Es wurde in Zusammenarbeit von der RISM Zentralredaktion und RISM Schweiz entwickelt und basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm. Dieses [Open-source Programm](https://github.com/rism-ch/muscat){:target="_blank"} wurde zuvor fast zehn Jahre lang von diesen beiden Arbeitsgruppen verwendet und wird ständig an die Katalogisierungsbedürfnisse durch regelmäßige Releases angepasst.
 

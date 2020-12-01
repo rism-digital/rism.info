@@ -49,7 +49,7 @@ Und wie immer:
 
 -
 
-**Korrekturhinweise willkommen** : Die Zentralredaktion erhält mehr und mehr Vorschläge und Korrekturen unserer Nutzer. Wenn Sie etwas finden, das korrigiert werden sollte,[teilen Sie es uns bitte mit](/de/service/feedback.html).
+**Korrekturhinweise willkommen** : Die Zentralredaktion erhält mehr und mehr Vorschläge und Korrekturen unserer Nutzer. Wenn Sie etwas finden, das korrigiert werden sollte,[teilen Sie es uns bitte mit](/service/feedback.html).
 
 -
 

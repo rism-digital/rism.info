@@ -13,7 +13,7 @@ author: ''
 
 Wir haben den Jahresbericht 2016 auf unserer Website [hier abrufbar](/publications/annual-reports.html) veröffentlicht. Einige Punkte möchten wir dennoch hier hervorheben. Die Freischaltung von Muscat zweifellos das größte Ereignis des Jahres, daher beginnen damit ...
 
-**Muscat!:** Unser neues Erfassungsprogramm [Muscat](/de/community/muscat.html#c3306) konnte im November letzten Jahres fertig gestellt und freigeschaltet werden. Mehr als 150 Personen auf der ganzen Welt nutzen es seitdem. Einarbeitungen, Workshops und Tutorials wurden erarbeitet, um den Umstieg von Kallisto auf das neue Programm zu erleichtern.
+**Muscat!:** Unser neues Erfassungsprogramm [Muscat](/community/muscat.html#c3306) konnte im November letzten Jahres fertig gestellt und freigeschaltet werden. Mehr als 150 Personen auf der ganzen Welt nutzen es seitdem. Einarbeitungen, Workshops und Tutorials wurden erarbeitet, um den Umstieg von Kallisto auf das neue Programm zu erleichtern.
 
 **Gesamtanzahl der Einträge:** Wir beendeten das Jahr mit insgesamt 1.057.000 Einträgen in der [RISM-Datenbank](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}.
 

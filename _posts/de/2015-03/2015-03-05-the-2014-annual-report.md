@@ -18,7 +18,7 @@ Einige Höhepunkte des Jahres 2014:
 
 -
 
-Die [CD-ROM Daten](/publications/cd-rom-publikationen-1995-2011.html) der Serie A/I ([Einzeldrucke vor 1800](/publications.html)) wurden in die RISM-Datenbank übertragen und werden voraussichtlich im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
+Die [CD-ROM Daten](/publications.html) der Serie A/I ([Einzeldrucke vor 1800](/publications.html)) wurden in die RISM-Datenbank übertragen und werden voraussichtlich im Frühjahr 2015 im RISM Online-Katalog veröffentlicht.
 
 -
 

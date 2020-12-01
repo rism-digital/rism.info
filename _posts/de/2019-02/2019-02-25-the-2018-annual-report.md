@@ -29,7 +29,7 @@ Der Online-Katalog wurde im Monat durchschnittlich von rund 8.683 Personen bei �
 
 **Links zu digitalisierten Musikquellen** : Über den Online-Katalog wird ein direkter Zugang zu digitalisierten Musikquellen angeboten: Entweder schränken Sie die Suche direkt ein ([Erweiterte Suche](https://opac.rism.info/index.php?id=3){:target="_blank"} --\> **Nur Digitalisate** Checkbox) oder Sie filtern die Ergebnisse ( **Trefferliste** --\> **Digitalisate** ). Es stehen momentan ca. 57.000 Links zur Verfügung..
 
-**Muscat** : [Das Erfassungsprogramm des RISM](/de/community/muscat.html) läuft zur vollen Zufriedenheit seiner Nutzer. Es wird ständig weiterentwickelt, was fast jeden Monat zu neuen, kleineren Releases führt. Muscat wird im Rahmen einer Partnerschaft zwischen der RISM Zentralredaktion und [RISM Schweiz](http://rism-ch.org/){:target="_blank"} entwickelt und gepflegt, deren Beitrag zu Muscat vom Schweizerischen Nationalfonds für Wissenschaft unterstützt wird.
+**Muscat** : [Das Erfassungsprogramm des RISM](/community/muscat.html) läuft zur vollen Zufriedenheit seiner Nutzer. Es wird ständig weiterentwickelt, was fast jeden Monat zu neuen, kleineren Releases führt. Muscat wird im Rahmen einer Partnerschaft zwischen der RISM Zentralredaktion und [RISM Schweiz](http://rism-ch.org/){:target="_blank"} entwickelt und gepflegt, deren Beitrag zu Muscat vom Schweizerischen Nationalfonds für Wissenschaft unterstützt wird.
 
 Muscat ist ein plattformunabhängiges, webbasiertes, open-source Programm. Es ist somit auf die Bedürfnisse anderer Projekte anpassbar, so dass die Wiederverwendung der RISM Daten für wissenschaftliche Zwecke erheblich erleichtert wird. Konkrete Projekte werden dies 2019 ausprobieren.
 

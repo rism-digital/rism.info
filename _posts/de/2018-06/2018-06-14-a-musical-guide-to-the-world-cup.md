@@ -22,7 +22,7 @@ Beispielsweise findet die Suche nach **[RUS-\*](https://opac.rism.info/search?Vi
 
 ![](/resources-old-website/news/Fussball_WM_2018_Suche.png)
 
-Welches Team feuern Sie an? Das Musikturnier beginnt! Hinter jedem dieser Links verbirgt sich die jahrzehntelange Arbeit und Forschung von unseren [weltweiten Arbeitsgruppen](/de/international.html), die das RISM-Projekt so international machen.
+Welches Team feuern Sie an? Das Musikturnier beginnt! Hinter jedem dieser Links verbirgt sich die jahrzehntelange Arbeit und Forschung von unseren [weltweiten Arbeitsgruppen](/international.html), die das RISM-Projekt so international machen.
 
 **Gruppe A**
 

@@ -13,7 +13,7 @@ author: ''
 
 This year’s IAML congress is just a short train ride away in Leipzig. From 22-27 July 2018 we will join our colleagues around the world at the[Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig (HMT)](http://www.hmt-leipzig.de) for the annual congress of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/congresses/2018-leipzig){:target="_blank"}.
 
-After the congress, look on our [congress page](/fr/publications/iaml-congresses/2018.html) for slides from the presentations. That page will also have more complete information about the sessions, including abstracts.
+After the congress, look on our [congress page](/publications/iaml-congresses/2018.html) for slides from the presentations. That page will also have more complete information about the sessions, including abstracts.
 
 **Tuesday, 24 July**
 
