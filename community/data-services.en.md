@@ -29,7 +29,7 @@ All catalog entries are available in MARC XML format and are described in accord
 
 This opens up the possibility of various kinds of searches: full-text, by composer, or specified searches such as by library or other criteria. In addition, SRU search interfaces are available for personal names and libraries.
 
-![SRU]( /images/community/data-services/SRU-example.jpg)
+![SRU](/images/community/data-services/SRU-example.jpg)
 
 ## MARC 21 and MARC XML Support
 
@@ -37,7 +37,7 @@ This opens up the possibility of various kinds of searches: full-text, by compos
 
 This cataloging format was developed at the Library of Congress in the 1960s and enables computers to exchange bibliographic information with each other. Its data elements form the foundation for most of the library catalogs that are in use today. RISM uses MARC XML for open data as well as SRU for all aspects of data processing, ensuring the best possible portability and flexibility.
 
-![LOC]( /images/community/data-services/loc.jpg)
+![LOC](/images/community/data-services/loc.jpg)
 
 ## GND BEACON
 
@@ -53,7 +53,7 @@ RISM provides GND BEACON files for personal names. Several projects have already
 
 RISM's GND BEACON files can be found at [http://dl.rism.info/pnd.txt](http://dl.rism.info/pnd.txt){:target="_blank"}.
 
-![NDB]( /images/community/data-services/NDB.jpg)
+![NDB](/images/community/data-services/NDB.jpg)
 
 ## Custom Displays of Data
 

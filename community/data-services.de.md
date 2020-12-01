@@ -29,7 +29,7 @@ Sämtliche Einträge liegen im MarcXML-Format vor und sind gemäß den Vorgaben 
 
 So ist neben der Suche nach Komponisten auch eine Volltextsuche sowie definierte Suchen nach Bibliotheken und weiteren Kriterien möglich. Darüber hinaus stehen auch SRU-Schnittstellen für Personen und Bibliotheken zur Verfügung.
 
-![SRU]( /images/community/data-services/SRU-example.jpg)
+![SRU](/images/community/data-services/SRU-example.jpg)
 
 ## Marc21 Support
 
@@ -37,7 +37,7 @@ So ist neben der Suche nach Komponisten auch eine Volltextsuche sowie definierte
 
 Das Katalogisierungsformat wurde unter Federführung der Library of Congress in den 1960er-Jahren entwickelt und liefert das Protokoll, durch das Computer bibliografische Informationen miteinander austauschen können. Seine Datenelemente bilden die Grundlage für die meisten heute benutzten Bibliothekskataloge. Das RISM nutzt MarcXML sowohl im Bereich von OpenData als auch über die SRU-Schnittstellen für sämtliche Aspekte der Datenverarbeitung - eine Garantie für maximale Portabilität und Flexibilität. 
 
-![LOC]( /images/community/data-services/loc.jpg)
+![LOC](/images/community/data-services/loc.jpg)
 
 ## GND-Beacon
 
@@ -49,7 +49,7 @@ RISM publiziert im Internet ein frei verfügbares GND-Beacon für die Nutzung vo
 
 Ein jeweils aktuelle RISM GND-Beacon befindet sich unter [http://dl.rism.info/pnd.txt](http://www.loc.gov/marc/){:target="_blank"}
 
-![NDB]( /images/community/data-services/NDB.jpg)
+![NDB](/images/community/data-services/NDB.jpg)
 
 ## Datensichten
 

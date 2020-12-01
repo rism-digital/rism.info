@@ -25,7 +25,7 @@ exclude: ['.idea']
 
 languages: ["en", "de", "fr"]
 default_lang: "en"
-exclude_from_localization: ["assets", "javascript", "images", "css", "README.md"]
+exclude_from_localization: ["assets", "javascript", "images", "resources", "resources-old-website", "css", "README.md"]
 parallel_localization: false
 lang_from_path: false
 sass:
