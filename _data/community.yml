@@ -40,3 +40,8 @@
         de: Dataservice
         fr: Services de données
       link: "/community/data-services.html"
+    - name:
+        en: Survey
+        de: Nutzerstudie
+        fr: Survey
+      link: "/community/survey.html"
