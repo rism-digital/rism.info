@@ -3,9 +3,9 @@
     <p>Als Vorsichtsmaßnahme aufgrund des neuartigen Coronavirus bleibt die RISM-Zentralredaktion in Frankfurt am Main geschlossen. <a href="/new_at_rism/2020/03/18/rism-central-office-temporarily-closed.html">Details hier</a></p>
 </div>
 
-## RISM for Libraries
+## RISM für Bibliotheken
 
-Librarians, [see here](/organization/rism-for-libraries.html) what RISM has to offer you
+Sehen Sie [hier](/organization/rism-for-libraries.html), was RISM Ihnen zu bieten hat
 
 ## RISM Bibliothekssigel
 
