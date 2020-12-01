@@ -49,6 +49,7 @@
     {% endif %}
 </div>
 
+{% if page.permalink == "/index.html" %}
 <script>
     document.getElementById("opac-search-term").addEventListener("keyup", function(event) {
         // Number 13 is the "Enter" key on the keyboard
@@ -66,3 +67,4 @@
         window.location.href = link; 
     }
 </script>
+{% endif %}
