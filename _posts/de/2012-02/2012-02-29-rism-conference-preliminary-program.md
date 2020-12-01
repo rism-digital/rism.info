@@ -11,4 +11,4 @@ email: ''
 author: ''
 ---
 
-Auf der [Konferenzseite](/de/publikationen/konferenz-2012/conference-2012.html#c2235) kann inzwischen auch das vorläufige Programm der RISM-Konferenz angesehen werden. Außerdem gibt es ein Online-Formular zur Registrierung. Bitte füllen Sie das Registrierungsformular aus. Damit helfen Sie uns bei der Organisation ganz erheblich.
+Auf der [Konferenzseite](/publications/conferences/conference-2012.html#c2235) kann inzwischen auch das vorläufige Programm der RISM-Konferenz angesehen werden. Außerdem gibt es ein Online-Formular zur Registrierung. Bitte füllen Sie das Registrierungsformular aus. Damit helfen Sie uns bei der Organisation ganz erheblich.

@@ -15,7 +15,7 @@ author: Tzu-Chia Tseng
 
 MitHilfeder RISM-Zentralredaktion und der internationalen Unterstützung durch Dr. Nora YEH und Prof. Judy TSOU hat die [Chinesisch-sprachige RISM-Arbeitsgruppe](http://www.rism.info/de/international/arbeitsgruppen-uebersicht.html) die chinesische Übersetzung der Broschüre und des Wikipedia-Artikels über RISMfertiggestellt. Sie sind nun für alle Interessierten verfügbar.
 
-Die chinesische Version des RISM-Kurzportraits ist in zwei zweisprachigenAusgaben erhältlich: Traditionelles Chinesisch-Englisch und Vereinfachtes Chinesisch-Englisch. Sie können die [Broschüren als pdf](/de/publikationen/broschueren.html#c94)herunterladen. Falls Sie eine bessere Auflösung benötigen, um die Broschüre auszudrucken, können Sie sich [an uns wenden](mailto:contact@rism.info){:target="_blank"}.
+Die chinesische Version des RISM-Kurzportraits ist in zwei zweisprachigenAusgaben erhältlich: Traditionelles Chinesisch-Englisch und Vereinfachtes Chinesisch-Englisch. Sie können die [Broschüren als pdf](/publications/brochures.html#c94)herunterladen. Falls Sie eine bessere Auflösung benötigen, um die Broschüre auszudrucken, können Sie sich [an uns wenden](mailto:contact@rism.info){:target="_blank"}.
 
 Der Artikel “RISM” derChinesischen Wikipedia ist[hier abrufbar](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%82%E6%96%87%E7%8D%BB%E8%B3%87%E6%BA%90%E7%B8%BD%E7%9B%AE){:target="_blank"}.
 

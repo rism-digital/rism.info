@@ -13,7 +13,7 @@ author: ''
 
 Das letzte Jahr war ein ereignisreiches für RISM, wie der kürzlich veröffentlichte Jahresbericht 2015 zeigt. Dank der guten Leistung von RISM-Mitarbeitern und anderen Partner in der ganzen Welt haben wir die Millionenmarke im [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} geknackt und schauen auf den nächsten Meilenstein.
 
-Hier einige Highlights aus dem Jahresbericht, dessen ausführliche Fassung Sie auf der [RISM Webseite](/de/publikationen/jahresberichte/2015.html) nachlesen können.
+Hier einige Highlights aus dem Jahresbericht, dessen ausführliche Fassung Sie auf der [RISM Webseite](/publications/annual-reports/2015.html) nachlesen können.
 
 - **Über eine Million Einträge** : Ein großer Datenimport von über 100.000 Titeln hat die RISM-Datenbank um die historischen Notendrucke aus der Serie [_A/I: Einzeldrucke vor_ _1800_](/publications.html#c36) (vormals als CD-ROM) und [B/I: _Recueils imprimés, XVIe-XVIIe siècles_](/publications.html#c2619) (Sammeldrucke des 16. und 17. Jahrhunderts), die Jahre 1500-1550 umfassend, angereichert. Die Ländergruppen und Bibliotheken werden ab dem Sommer die Gelegenheit bekommen, Korrekturen und neue Informationen zu ergänzen. RISM arbeitet derzeit noch an der Konvertierung der Daten von B/I (Restbestand 1551-1699) und B/II (18. Jahrhundert) zur Einführung in die Datenbank.
 

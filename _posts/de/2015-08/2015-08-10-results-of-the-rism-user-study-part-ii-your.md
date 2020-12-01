@@ -11,7 +11,7 @@ email: jennifer.ward@rism.info
 author: ''
 ---
 
-In unserer [Nutzerstudie zum Online-Katalog](/de/community/rism-nutzerstudie.html#c3122) erhielten wir Hunderte von Kommentaren. Wir gehen nun alle sorgfältig durch und mit der Zeit werden wir einige der vorgebrachten Anliegen angehen - in dieser Woche möchten wir schon einmal exemplarisch einige Fragen herausgreifen. Heute klären wir die Frage, aus welchen Ländern Quellenerfasstsindund warum überdurchschnittlich viele Quellen aus Deutschland stammen. Außerdem beschäftigen wir uns mit der Frage nach Sekundärliteratur. Im Laufe der Woche behandeln wir außerdemdie Frage nach derZeit-Grenze und Bibliotheken, die unterrepräsentiert sind, und warum.
+In unserer [Nutzerstudie zum Online-Katalog](/community/survey.html#c3122) erhielten wir Hunderte von Kommentaren. Wir gehen nun alle sorgfältig durch und mit der Zeit werden wir einige der vorgebrachten Anliegen angehen - in dieser Woche möchten wir schon einmal exemplarisch einige Fragen herausgreifen. Heute klären wir die Frage, aus welchen Ländern Quellenerfasstsindund warum überdurchschnittlich viele Quellen aus Deutschland stammen. Außerdem beschäftigen wir uns mit der Frage nach Sekundärliteratur. Im Laufe der Woche behandeln wir außerdemdie Frage nach derZeit-Grenze und Bibliotheken, die unterrepräsentiert sind, und warum.
 
 Stellvertretend für viele ähnliche Kommentare seien diese zwei Beispiele genannt:
 
