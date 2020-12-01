@@ -15,22 +15,22 @@ Das Jahr 2020 ist noch jung, aber lassen Sie uns einen Moment auf 2019 zurückbl
 
 1. [Neue Musikhandschriften aus Italien (ICCU) in RISM](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
 
-2. [Neue RISM-Katalogisierungstools für Bibliothekare](http://www.rism.info/de/startseite/newsdetails/article/2/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
+2. [Neue RISM-Katalogisierungstools für Bibliothekare](/new_at_rism/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
 
 3. [Die Digital-Interaktive Mozart-Edition
 ](/electronic_resources/2019/01/24/the-digital-interactive-mozart-edition.html){:target="_blank"}
-4. [Neuer Katalog zu Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexiko)](http://www.rism.info/de/startseite/newsdetails/select/new_publications/article/64/new-catalog-of-the-archivo-historico-de-la-arquidiocesis-de-antequera-oaxaca-mexico.html){:target="_blank"} von Edgar Alejandro Calderón Alcántar und Anastasia Krutitskaya
+4. [Neuer Katalog zu Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexiko)](/new_publications/2019/02/11/new-catalog-of-the-archivo-histórico-de-la.html){:target="_blank"} von Edgar Alejandro Calderón Alcántar und Anastasia Krutitskaya
 
 5. [Schriften über Musik vor 1800 - digitalisiert und online](/electronic_resources/2019/08/01/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} von der Library of Congress
 
-6. [Jubiläen 2019](http://www.rism.info/de/startseite/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}
+6. [Jubiläen 2019](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
 Verpassen Sie nicht die [2020 Ausgabe](/events/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}!
 
 7. [Upgrade des RISM-Katalogs 2019
-](http://www.rism.info/de/startseite/newsdetails/select/rism_online_catalog/article/64/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
+](/rism_online_catalog/2019/09/09/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
 8. [Autograph der Kantate "Die Fischerin" von Engelbert Humperdinck gefunden](/rediscovered/2019/04/11/newly-discovered-autograph-of-the-cantata-die.html){:target="_blank"} von Gottfried Heinz-Kronberger
 
-9. [Suchstrategien für Notendrucke](http://www.rism.info/de/startseite/newsdetails/select/rism_online_catalog/article/2/search-strategies-for-printed-music.html){:target="_blank"}
+9. [Suchstrategien für Notendrucke](/rism_online_catalog/2019/03/25/search-strategies-for-printed-music.html){:target="_blank"}
 
 10. [Neue Komponistinnen 2019](/new_at_rism/2019/11/04/new-women-composers-in-2019.html){:target="_blank"}
 

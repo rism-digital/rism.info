@@ -35,11 +35,11 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 Julius Rüttger (Deutschland)
 
-Karin Weißert (Deutschland) [Bericht](http://www.rism.info/en/home/newsdetails/article/2/karin-weissert-internship-report.html){:target="_blank"}
+Karin Weißert (Deutschland) [Bericht](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
 
 #### 2019
 
-Carmen Álvarez (Spanien). Blog entries: [Welcome, Carmen Álvarez!](http://www.rism.info/en/home/newsdetails/article/64/welcome-carmen-alvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](http://www.rism.info/en/home/newsdetails/article/64/johann-walter-ecuador-hilario-olazaran.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](http://www.rism.info/en/home/newsdetails/article/64/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](http://www.rism.info/en/home/newsdetails/article/64/articles-about-spanish-printed-music-in-the-16th-century.html){:target="_blank"}.
+Carmen Álvarez (Spanien). Blog entries: [Welcome, Carmen Álvarez!](/new_at_rism/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](/new_publications/2019/10/28/johann-walter-ecuador-hilario-olazarán.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](/in_the_news/2019/11/11/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](/new_publications/2020/02/04/articles-about-spanish-printed-music-in-the-16th.html){:target="_blank"}.
 
 #### 2018
 

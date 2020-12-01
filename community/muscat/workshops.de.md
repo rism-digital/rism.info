@@ -64,7 +64,7 @@ RISM Workshop 2: Continuation\
 *Guido Kraus*
 
 * 12\.-14\. Juni 2019: Nationalbibiliothek, Prag, Tschechsiche Republik\
-[Report](http://www.rism.info/en/home/newsdetails/article/2/muscat-workshop-at-the-czech-national-library-in-prague.html){:target="_blank"} \
+[Report](/events/2019/06/27/muscat-workshop-at-the-czech-national-library-in.html){:target="_blank"} \
 *Guido Kraus*
 
 * 25\.-29\. März 2019: [Primer Seminario Argentino de Capacitación en Catalogación Musical con MUSCAT-RISM,](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/){:target="_blank"}Universidad Nacional de Córdoba, Argentinien\
@@ -113,26 +113,26 @@ Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 * 15\. Juni 2017, [Mark the Music course, Göteborg, Schweden](http://www.smbf.nu/dok/Program.mark_the_music.pdf){:target="_blank"}\
 *Jennifer Ward*
 
-* 24\. Februar 2017, [MLA Conference, Orlando, Florida, USA](http://www.rism.info/en/home/newsdetails/select/events/article/2/rism-at-the-mla-conference-in-orlando-florida.html){:target="_blank"}\
+* 24\. Februar 2017, [MLA Conference, Orlando, Florida, USA](/events/2017/02/13/rism-at-the-mla-conference-in-orlando-florida.html){:target="_blank"}\
 *Sarah Adams, Christina Linklater*
 
-* 18\. Januar 2017, [Wien (Österreichische Nationalbibliothek), Österreich](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshops-in-austria.html){:target="_blank"}\
+* 18\. Januar 2017, [Wien (Österreichische Nationalbibliothek), Österreich](/events/2017/01/26/muscat-workshops-in-austria.html){:target="_blank"}\
 *Ikarus Kaiser*
 
-* 12\. Januar 2017, [Salzburg (Internationale Stiftung Mozarteum), Österreich](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshops-in-austria.html){:target="_blank"}\
+* 12\. Januar 2017, [Salzburg (Internationale Stiftung Mozarteum), Österreich](/events/2017/01/26/muscat-workshops-in-austria.html){:target="_blank"}\
 *Eva Neumayr*
 
-* 14\.-16\. November 2016, Nationalbibliothek, [Prag, Tschechische Republik](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-prague.html){:target="_blank"}\
+* 14\.-16\. November 2016, Nationalbibliothek, [Prag, Tschechische Republik](/events/2016/11/21/muscat-workshop-in-prague.html){:target="_blank"}\
 *Guido Kraus*
 
-* 29\. Oktober 2016, Ewha Womans University, [Seoul, Südkorea](http://www.rism.info/en/home/newsdetails/select/events/article/2/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html){:target="_blank"}\
+* 29\. Oktober 2016, Ewha Womans University, [Seoul, Südkorea](/events/2016/11/28/bringing-the-past-into-the-future-creating-and.html){:target="_blank"}\
 *Klaus Keil, Laurent Pugin, Jennifer Ward*
 
 * 26\.-27\. Oktober 2016, [Staatsbibliothek zu Berlin, Deutschland](https://www.facebook.com/pg/RISM.info/photos/?tab=album&album_id=1349473175093523){:target="_blank"}\
 *Guido Kraus*
 
-* 24\.-25\. Oktober 2016, Nationalbibliothek, [Warschau, Polen](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-warsaw.html){:target="_blank"}\
+* 24\.-25\. Oktober 2016, Nationalbibliothek, [Warschau, Polen](/events/2016/11/03/muscat-workshop-in-warsaw.html){:target="_blank"}\
 *Sonia Wronkowska*
 
-* 12\.-14\. Oktober 2016, [Frankfurt am Main, Deutschland](http://www.rism.info/en/home/newsdetails/select/events/article/2/countdown-to-muscat.html){:target="_blank"}\
+* 12\.-14\. Oktober 2016, [Frankfurt am Main, Deutschland](/events/2016/10/17/countdown-to-muscat.html){:target="_blank"}\
 *RISM Zentralredaktion*

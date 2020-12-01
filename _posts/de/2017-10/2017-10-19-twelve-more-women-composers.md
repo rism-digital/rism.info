@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Anlässlich des Internationalen Frauentages am 8. März 2017 hatten wir eine[Liste mit800 Komponistinnen](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"}veröffentlicht, von denen Quellen in der RISM-Datenbank nachgewiesen sind. Da der RISM-Onlinekatalog kontinuierlich wächst, konnten wir im Junidiese Liste um[acht weitere Namen](http://www.rism.info/de/startseite/newsdetails/select/new_at_rism/article/64/eight-more-women-composers.html){:target="_blank"}ergänzen. Seitdem hat sich wieder viel getan, und wir freuen uns, dass die[Liste](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g){:target="_blank"}seit Juni um weitere zwölf Frauen gewachsen ist.
+Anlässlich des Internationalen Frauentages am 8. März 2017 hatten wir eine[Liste mit800 Komponistinnen](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"}veröffentlicht, von denen Quellen in der RISM-Datenbank nachgewiesen sind. Da der RISM-Onlinekatalog kontinuierlich wächst, konnten wir im Junidiese Liste um[acht weitere Namen](/new_at_rism/2017/06/29/eight-more-women-composers.html){:target="_blank"}ergänzen. Seitdem hat sich wieder viel getan, und wir freuen uns, dass die[Liste](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g){:target="_blank"}seit Juni um weitere zwölf Frauen gewachsen ist.
 
 Hiersind nun die zwölf "Neuen". Bei Einigen fehlen noch biographische Angaben wie Geburts- oder Sterbejahr. Falls Sie weitere Informationen haben, lassen Sie es uns wissen!
 

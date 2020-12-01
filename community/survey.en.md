@@ -15,10 +15,10 @@ Please contact us with any questions you might have: [contact@rism.info](mailto:
 
 * [The RISM Online User Survey: Report](/resources/community/survey/RISM_User_Survey_English_Report.pdf) (May 2016)
 * Other reports on the RISM website:
-    - May 29, 2015: [Results of the RISM User Study, Part I: The Survey](http://www.rism.info/en/home/newsdetails/article/2/results-of-the-rism-user-study-part-i-the-survey.html)
-    - August 10, 2015: [Part II: Your Comments - Coverage in RISM and Citing Literature](http://www.rism.info/en/home/newsdetails/article/2/the-rism-survey-we-respond-to-your-comments.html)
-    - August 12, 2015: [Part III: Your Comments - Chronological limits](http://www.rism.info/en/home/newsdetails/article/2/results-of-the-rism-user-study-part-ii-your-comments-chronological-limits.html)
-    - August 14, 2015: [Part IV: Your Comments - Libraries, Coverage, and Completeness](http://www.rism.info/en/home/newsdetails/article/2/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html)
+    - May 29, 2015: [Results of the RISM User Study, Part I: The Survey](/new_at_rism/2015/05/28/results-of-the-rism-user-study-part-i-the-survey.html)
+    - August 10, 2015: [Part II: Your Comments - Coverage in RISM and Citing Literature](/new_at_rism/2015/08/10/results-of-the-rism-user-study-part-ii-your.html)
+    - August 12, 2015: [Part III: Your Comments - Chronological limits](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html)
+    - August 14, 2015: [Part IV: Your Comments - Libraries, Coverage, and Completeness](/new_at_rism/2015/08/14/results-of-the-rism-user-study-part-iv-your.html)
 
 * IAML Germany annual conference, Stuttgart ([AIBM-Tagung](http://www.aibm.info/tagungen/2015-stuttgart/))\
 24 September 2015, Plenary session: Musikbibliothek für alle\
@@ -34,9 +34,9 @@ As part of the session RISM Round Table, we presented initial findings from the 
 
 Our initial reactions to some of your comments were posted the week of August 10, 2015. For a full evaluation of all the comments, please see *The RISM Online User Survey: Report*, above.
 
-First up, we talked about [coverage in RISM and how we cite secondary literature](http://www.rism.info/en/home/newsdetails/article/2/the-rism-survey-we-respond-to-your-comments.html).
+First up, we talked about [coverage in RISM and how we cite secondary literature](/new_at_rism/2015/08/10/results-of-the-rism-user-study-part-ii-your.html).
 
-Next, we talked about the [chronological limits of RISM and how these limits are set](http://www.rism.info/en/home/newsdetails/article/2/results-of-the-rism-user-study-part-ii-your-comments-chronological-limits.html).
+Next, we talked about the [chronological limits of RISM and how these limits are set](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html).
 
-Lastly, we discussed the issue of [libraries, coverage, and completeness](http://www.rism.info/en/home/newsdetails/article/2/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html).
+Lastly, we discussed the issue of [libraries, coverage, and completeness](/new_at_rism/2015/08/14/results-of-the-rism-user-study-part-iv-your.html).
 

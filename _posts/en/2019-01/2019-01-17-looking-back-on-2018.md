@@ -13,7 +13,7 @@ author: ''
 
 Before we get too far into 2019, let's take a look at our most popular stories on our blog that we published in 2018. In case you missed some of these discoveries and developments in the world of musical sources, here's your chance to catch up!
 
-1. [Musical Anniversaries in 2018](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](http://www.rism.info/home/newsdetails/article/64/musical-anniversaries-in-2019.html){:target="_blank"}.
+1. [Musical Anniversaries in 2018](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}.
 
 2. [The Music Printing History Online Museum](/electronic_resources/2018/03/12/the-music-printing-history-online-museum.html){:target="_blank"}
 

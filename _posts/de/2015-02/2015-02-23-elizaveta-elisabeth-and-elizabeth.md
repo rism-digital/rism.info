@@ -26,7 +26,7 @@ Hätte doch die RISM-Datenbank schon in den 1950er den Filmemachern der [Sissi-T
 <iframe width="560" height="315" src="//www.youtube.com/embed/8IErjmH0h4A" frameborder="0" allowfullscreen></iframe>
 
 
-Die letzte Station unserer kleinen Zeitreise führt uns ins 20. Jahrhundert. In der RISM-Datenbank findet sich ein Werk, das Königin Elizabeth (1900-2002) gewidmet ist, bekannt als Queen Mum. Es handelt sich dabei um [die Schauspielmusik](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} zum Märchenspiel Der Rubin von [Olga Diener](http://www.rism.info/de/startseite/newsdetails/select/new_at_rism/article/64/rism-a-z-olga-diener.html){:target="_blank"}.
+Die letzte Station unserer kleinen Zeitreise führt uns ins 20. Jahrhundert. In der RISM-Datenbank findet sich ein Werk, das Königin Elizabeth (1900-2002) gewidmet ist, bekannt als Queen Mum. Es handelt sich dabei um [die Schauspielmusik](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} zum Märchenspiel Der Rubin von [Olga Diener](/rism_a_z/2014/08/19/olga-diener.html){:target="_blank"}.
 
 
 Bildnachweis: Porträt der Elizaveta Alexievna von Salvatore Tonci ([Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Elizabeth_Alexeevna_by_S.Tonci_%28after_1801,_Russian_museum%29.jpg){:target="_blank"})

@@ -68,19 +68,19 @@ RISM Workshop 2: Continuation\
 *Guido Kraus*
 
 * June 12-14, 2019: National Library, Prague, Czech Republic\
-[Report](http://www.rism.info/en/home/newsdetails/article/2/muscat-workshop-at-the-czech-national-library-in-prague.html) \
+[Report](/events/2019/06/27/muscat-workshop-at-the-czech-national-library-in.html) \
 *Guido Kraus*
 
 * March 25-29, 2019:[Primer Seminario Argentino de Capacitación en Catalogación Musical con MUSCAT-RISM,](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/)Universidad Nacional de Córdoba, Argentina\
-[Report by Luciana Giron Sheridan and Lucas Reccitelli](http://www.rism.info/en/home/newsdetails/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html)\
+[Report by Luciana Giron Sheridan and Lucas Reccitelli](/events/2019/06/03/taller-de-muscat-en-córdoba-argentina--muscat.html)\
 *Jennifer Ward*
 
 * February 12-14, 2019: Ivan Franko National University of Lviv, Stefanyk National Science Library, Lviv, Ukraine  \
-[Report by Angelika Moths](http://www.rism.info/en/home/newsdetails/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html)\
+[Report by Angelika Moths](/new_at_rism/2019/04/11/muscat-workshop-with-guido-kraus-in-lviv-1214.html)\
 *Guido Kraus*
 
 * December 3-4, 2018: Conference on Cooperative Development and Sharing of Chinese Resources 2018, Shanghai Conservatory of Music, China\
-[Report by TSENG Tzu-Chia](http://www.rism.info/en/home/newsdetails/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html)\
+[Report by TSENG Tzu-Chia](/new_at_rism/2019/02/21/annual-meeting-of-the-collaborative-project-on.html)\
 *Jennifer Ward*
 
 * October 9-12, 2018: Music Museum, Bratislava, Slovakia\
@@ -98,7 +98,7 @@ RISM Workshop 2: Continuation\
 *Guido Kraus*
 
 * November 27-29, 2017, National Library, Prague, Czech Republic\
-[Report](http://www.rism.info/en/home/newsdetails/article/2/second-muscat-workshop-in-prague.html)\
+[Report](/events/2017/12/11/second-muscat-workshop-in-prague.html)\
 *Guido Kraus*
 
 * November 9, 2017, Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China, Shanghai, China \
@@ -125,32 +125,32 @@ RISM Workshop 2: Continuation\
 *Jennifer Ward*\
 [Slides](/resources-old-website/community-content/Muscat_EN/Ward_Workshop_slides_Gothenburg_expanded_01.pdf)
 
-* February 24, 2017,[MLA Conference, Orlando, Florida, USA](http://www.rism.info/en/home/newsdetails/select/events/article/2/rism-at-the-mla-conference-in-orlando-florida.html)\
+* February 24, 2017,[MLA Conference, Orlando, Florida, USA](/events/2017/02/13/rism-at-the-mla-conference-in-orlando-florida.html)\
 *Sarah Adams, Christina Linklater*
 
 * January 18, 2017, Vienna (Österreichische Nationalbibliothek), Austria\
-[Report by Stefan Engl](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshops-in-austria.html)\
+[Report by Stefan Engl](/events/2017/01/26/muscat-workshops-in-austria.html)\
 *Ikarus Kaiser*
 
 * January 12, 2017, Salzburg (Internationale Stiftung Mozarteum), Austria\
-[Report by Stefan Engl](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshops-in-austria.html)\
+[Report by Stefan Engl](/events/2017/01/26/muscat-workshops-in-austria.html)\
 *Eva Neumayr*
 
-* November 14-16, 2016, National Library,[Prague, Czech Republic](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-prague.html)\
-[Report](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-prague.html)\
+* November 14-16, 2016, National Library,[Prague, Czech Republic](/events/2016/11/21/muscat-workshop-in-prague.html)\
+[Report](/events/2016/11/21/muscat-workshop-in-prague.html)\
 Guido Kraus
 
 * October 29, 2016, Ewha Womans University, Seoul, South Korea\
-[Report](http://www.rism.info/en/home/newsdetails/select/events/article/2/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html)\
+[Report](/events/2016/11/28/bringing-the-past-into-the-future-creating-and.html)\
 *Klaus Keil, Laurent Pugin, Jennifer Ward*
 
 * October 26-27, 2016,[Staatsbibliothek zu Berlin, Germany](https://www.facebook.com/pg/RISM.info/photos/?tab=album&album_id=1349473175093523)\
 *Guido Kraus*
 
 * October 24-25, 2016, National Library of Poland, Warsaw, Poland\
-[Report](http://www.rism.info/en/home/newsdetails/select/events/article/2/muscat-workshop-in-warsaw.html)\
+[Report](/events/2016/11/03/muscat-workshop-in-warsaw.html)\
 *Sonia Wronkowska*
 
-* October 12-14, 2016,[Frankfurt, Germany](http://www.rism.info/en/home/newsdetails/select/events/article/2/countdown-to-muscat.html)\
+* October 12-14, 2016,[Frankfurt, Germany](/events/2016/10/17/countdown-to-muscat.html)\
 *Central Office Staff*\
 [Schedule (PDF)](/resources-old-website/community-content/Muscat_EN/Zeitplan_Workshop_Oktober_2016_EN.pdf)

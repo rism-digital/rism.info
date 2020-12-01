@@ -46,7 +46,7 @@ The ten most popular stories on our website were (according to our website stati
 
 [Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
 
-](http://www.rism.info/en/home/newsdetails/article/64/legende-norvegienne-unknown-work-by-the-belgian-violinist-and-composer-eugene-ysaye-at-the-roya.html){:target="_blank"}
+](/rediscovered/2014/04/11/légende-norvégienne-unknown-work-by-the-belgian.html){:target="_blank"}
 
 7.
 
@@ -58,7 +58,7 @@ The ten most popular stories on our website were (according to our website stati
 
 [New Coordinating Committee Elected
 
-](http://www.rism.info/en/home/newsdetails/article/64/new-coordinating-committee-elected.html){:target="_blank"}
+](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
 
 9.
 

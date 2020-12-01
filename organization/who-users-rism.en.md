@@ -25,7 +25,7 @@ permalink: /organization/who-uses-rism.html
 
 **Anna Pensaert**, Cambridge University, ["A few of my favourite things," MusiCB3 blog](https://musicb3.wordpress.com/2015/10/30/a-few-of-my-favourite-things/){:target="_blank"}
 
-"The [RISM](http://www.rism.info/en/home/newsdetails/browse/4/article/64/printed-music-ai-and-bi-now-in-risms-online-catalog.html) online catalogue of musical sources has been extended last May to include the entire contents of A/I, Individual Prints before 1800 and a portion of B/I, Recueils imprimés, XVIe-XVIIe siècles (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Not only is this making my life as a music librarian much more comfortable, I would have absolutely loved this in my student days."
+"The [RISM](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html) online catalogue of musical sources has been extended last May to include the entire contents of A/I, Individual Prints before 1800 and a portion of B/I, Recueils imprimés, XVIe-XVIIe siècles (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Not only is this making my life as a music librarian much more comfortable, I would have absolutely loved this in my student days."
 
 **Prof. Michael Schneider** (Hochschule für Musik und Darstellende Kunst, Frankfurt am Main; Conductor, La Stagione Frankfurt)
 
