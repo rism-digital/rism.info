@@ -26,7 +26,7 @@ It will remain open through January 18, 2015.
 Please share this message with other groups that may have an interest in RISM: antiquarian dealers, archivists, librarians, musicians, musicologists, professors, students. We especially need your help getting the word out to organizations in other countries.
 
 
-Printer-friendly versions of this announcement for you to hang up or distribute at your institution may be downloaded at: [http://www.rism.info/en/community/survey.html](http://www.rism.info/en/community/survey.html)
+Printer-friendly versions of this announcement for you to hang up or distribute at your institution may be downloaded at: [http://www.rism.info/community/survey.html](/community/survey.html)
 
 
 The survey is also available in German: [http://goo.gl/forms/02VLj4tSEj](http://goo.gl/forms/02VLj4tSEj)

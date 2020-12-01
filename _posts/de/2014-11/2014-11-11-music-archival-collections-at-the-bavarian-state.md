@@ -11,7 +11,7 @@ email: Uta.Schaumberg@bsb-muenchen.de
 author: Uta Schaumberg
 ---
 
-Die Bayerische Staatsbibliothek verwahrt über 350 Nachlässe und personenbezogene Sammlungen aus dem Musikbereich. Die Erschließung und Benutzung dieser Bestände erfolgen in zwei getrennten Abteilungen: Für die Musikhandschriften, Notendrucke und Tonträger ist die Musikabteilung zuständig, für alle weiteren Nachlassinhalte wie Korrespondenz, Schriften, Dokumente, Bildmaterial usw. das Referat Nachlässe und Autographen der Abteilung Handschriften und Alte Drucke. - See more at: [www.rism.info/de/startseite/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html](http://www.rism.info/de/startseite/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html#sthash.grGLKHbZ.dpuf)
+Die Bayerische Staatsbibliothek verwahrt über 350 Nachlässe und personenbezogene Sammlungen aus dem Musikbereich. Die Erschließung und Benutzung dieser Bestände erfolgen in zwei getrennten Abteilungen: Für die Musikhandschriften, Notendrucke und Tonträger ist die Musikabteilung zuständig, für alle weiteren Nachlassinhalte wie Korrespondenz, Schriften, Dokumente, Bildmaterial usw. das Referat Nachlässe und Autographen der Abteilung Handschriften und Alte Drucke.
 
 _Der nachfolgende Artikel wurde von unserer Kollegin Uta Schaumberg_ _(RISM Arbeitsgruppe Deutschland, [Bayrische Staatsbibliothek, Musikabteilung](https://www.bsb-muenchen.de/die-bayerische-staatsbibliothek/abteilungen/musikabteilung/){:target="_blank"}) geschrieben._
 

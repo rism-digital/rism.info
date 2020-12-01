@@ -15,7 +15,7 @@ Am Rande des Kongresses der[Gesellschaft für Musikforschung](http://www.gfm2016
 
 RISM hat Referenten aus Lateinamerika eingeladen, um Informationen über den aktuellen Stand der Musikquellen-Dokumentation auszutauschen. Die Teilnahme an diesem öffentlichenSymposion ist kostenlos.
 
-Das Konferenzprogramm finden Sie aufder [Konferenz-Seite](http://www.rism.info/de/publikationen/latin-america-conference-2016.html)unserer Website.
+Das Konferenzprogramm finden Sie aufder [Konferenz-Seite](/publications/conferences/latin-america-conference-2016.html)unserer Website.
 
 _Abbildung_: Lateinamerika, aufgenommen von derNASA, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Latin_America_terrain.jpg){:target="_blank"}
 

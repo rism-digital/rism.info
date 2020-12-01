@@ -761,7 +761,7 @@ Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fon
   
 Falletta, Martina, Alexander Marxen, and Jennifer Ward. "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse." _Forum Musikbibliothek_ 37 (2016): 7-15.  
   
-Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](/resources-old-website/community-content/Zentralredaktion/Umfrage/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
+Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](/resources/community/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
   
 Giezeman, Geert-Jan. "RISM incipit retrieval: Architecture of the software and data." 2016. Technical documentation for the [RISM search by Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.   
   

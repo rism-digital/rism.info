@@ -11,7 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-RISM is pleased to announce a major addition to its [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} that strengthens its utility as a resource for the documentation of printed music. Two of its major publications have been added to the online catalog and are freely available online for anyone to search at [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and [www.rism.info](http://www.rism.info/en/home.html){:target="_blank"}:
+RISM is pleased to announce a major addition to its [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} that strengthens its utility as a resource for the documentation of printed music. Two of its major publications have been added to the online catalog and are freely available online for anyone to search at [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and [www.rism.info](http://www.rism.info/){:target="_blank"}:
 
 -
 
