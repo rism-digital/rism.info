@@ -27,13 +27,13 @@ Der Erfolg übertraf all seine Hoffnungen, doch nicht aus den erwarteten Gründe
 Vom Erfolg inspiriert, griff Offenbach ein weiteres klassisches Thema auf: Die Geschichte der Helena von Troya in _La belle Hélène_. Die Librettisten Henri Meilhac und Ludovic Halévy zeigten – wie ihr Vorgänger Crémieux – keinerlei Respekt vor der Vorlage. Mit dem Zensor gerieten sie für ihre Beschreibung des großen Wahrsagers Calchas in Konflikt, die als ein Angriff auf den Klerus betrachtet wurde. Der aufgeblasene und heuchlerische Calchas betrügt im Spiel und das Libretto sah vor, dass er an einer Stelle ins Wasser fallen sollte, doch der Zensor beharrte, diese Respektlosigkeit ginge zu weit. Aber auch Agamemnon, Menelaus und den anderen Helden ergeht es kaum besser; sie erscheinen als Bande lächerlicher Dummköpfe und werden vom „Schäfer“ Paris (‘l’homme à la pomme’) in einer Reihe von Wortspielen vorgeführt.
 
 
-![La belle Hélène](http://rism.info/resources-old-website/news/Offenbach_Zweig.jpg)
+![La belle Hélène](/resources-old-website/news/Offenbach_Zweig.jpg)
 _Der Chor begleitet Orests Auftritt, aus Jacques Offenbach,La belle Hélène, autographe Partitur, 1864. Zweig MS 72_
 
 Am aufsehenerregendsten ist wohl Orests Auftritt als frühreifer Lebemann, von zwei leichten Mädchen Parthénis und Léoena flankiert, und zum Refrain „Tsing-la-la! Tsing-la-la! Oyé Kephalé, Kephalé oh-la-la!“ tanzend, mit der Absicht seinem Streben nach Vergnügen ungezügelt nachzugeben. Die Rolle wurde von der Sopranistin Léa Silly gesungen, die Offenbach große Kopfschmerzen bereitete. In einer an Mozarts _Der Schauspieldirektor_, den Offenbach einige Jahre zuvor inszeniert hatte, erinnernden Situation verärgerte sie Hortense Schneider, einem schon lange der Truppe zugehörigen Star. Bei deren Darstellung der Helena stahl Silly ihr die Show, äffte sie nach und tanzte hinter ihrem Rücken Cancan, während Schneider ihre Hauptarie sang. Schneider hat daraufhin wutentbrannt gedroht, nicht nur die Produktion sondern auch Paris zu verlassen.
 
 
-![Schneider](http://rism.info/resources-old-website/news/Offenbach_Schneider.jpg)
+![Schneider](/resources-old-website/news/Offenbach_Schneider.jpg)
 _Hortense Schneider als Helen inLa belle Hélène, aus Louis Schneider,Offenbach(Paris, 1923) 7896.t.20._
 
 

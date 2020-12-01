@@ -20,7 +20,7 @@ Mithilfe von Parallelquellen konnte bislang ein "Oulde and Favourite Marche of y
 Die ungewöhnliche Handschrift wurde für weitere Untersuchungen und zur Konservierung in das benachbarte[Britische Antarktik-Territorium](https://www.gov.uk/government/world/organisations/british-antarctic-territory){:target="_blank"} gebracht. Sie wird künftig im[Rothera](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rothera/){:target="_blank"} Research Repository (RISM Bibliotheks-Sigel: AQ-Brrr) aufbewahrt. Bei der Untersuchung fiel ein kleiner Fleck auf, der nach Angaben des leitenden Konservators von Rothera frappierend den Wasserzeichen im Papier ähnelt, das bei der Schottischen Antarktis-Expedition in den Jahren 1902-1904 verwendet wurde, welches am gleichen Ort aufbewahrt wird. Diese Resultate passen wiederum zu einem Foto des britischen Entdeckers William Speirs Bruce, das offensichtlich exakt den Moment festhält, an dem die Bewohner der Antarktis die Forscher zu genau der Höhle führten, wo später der „Marsch der Pinguine“ entdeckt wurde (Foto oben links). Die Forscher fügten desweiteren zusammen, dass dieser Vorfall nach einem ersten erfolglosen Versuch von kulturellem Austausch zwischen Bruce und seinem Team (siehe unten) stattgefunden haben muss.
 
 
-![Not amused](http://rism.info/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
+![Not amused](/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
 
 _Pinguin:_ _Nicht gerade begeistert vom Besucher._
 

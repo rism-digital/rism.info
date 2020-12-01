@@ -21,15 +21,15 @@ Auf der gestochenen Titelseite der Handschrift befinden sich zwei handgeschriebe
 
 Die Kantate ist mit vier solistischen Gesangs-Stimmen und einem Instrumental-Ensemble aus Flöte, Oboe und einem Tasteninstrument besetzt; zu Beginn ist zwar "pianoforte" angegeben, aber der Vermerk "jeu céleste" (Nr. 6) legt eine Besetzung mitOrgel nahe. Das Werk ist in zwei Abschnitte mit 21 Nummernuntergliedert; die Solisten singen im ersten Teil(Nr. 1–11) in der Rolle vonEngeln und im the zweiten Teil (Nr. 12–21) als Schäfer, die den Aufruf beherzigen. Das Bild eines Krippenspiels wandelt sich mit der Einführung (Nr. 17) der Figur des "viellard … ancien Gaulois, étranger dans ces lieux" und der Anrufung dereinheimischen "bois mystérieux du Gaulois révérés".
 
-![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
+![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
 
 
 Man kann verschlüsselte Verweise auf die Widmungsträgerin als fromme Marien-Figur finden: Der GesangderSchäfer "comme l’étoile du matin vient proteger" (Nr. 10) lässt sich als Anspielung auf den Namen Marias im mittelalterlichen Hymnus_Ave Maris Stella_ hören, ebenso dieParallelität "ô ma patrie … une autre marie" (Nr. 20).
 
-![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
+![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
 
 
-![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
+![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
 
 
 _Fußnoten_

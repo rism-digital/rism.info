@@ -27,6 +27,6 @@ Das Neuartige dieses Projekts ist die Verknüpfung eines Werk- und Quellenverzei
 Das DFG-Projekt erfolgt in Zusammenarbeit mit den Kooperationspartnern [Schott Music](https://de.schott-music.com/){:target="_blank"} und RISM.
 
 
-![Palestrina catalog](http://rism.info/resources-old-website/news/Palestrina-2.jpg)
+![Palestrina catalog](/resources-old-website/news/Palestrina-2.jpg)
 _En kleiner Einblick in die Software_
 

@@ -16,13 +16,13 @@ Letzte Woche wurde unser neues Erfassungsprogramm [Muscat](/new_at_rism/2016/11/
 Vom 14. bis 16. November führte Guido Kraus von der RISM Zentralredaktion die Kolleginnen und Kollegen von der Nationalbibliothek in Prag (CZ-Pu) in das neue Erfassungsprogramm für Musikquellen ein. Weitere Kolleginnen und Kollegen vom Mährischen Museum aus Brünn (CZ-Bm) und der slowakischen Nationalbibliothek in Bratislava (SK-BRnm) schlossen sich dem Workshop an und waren angereist. Die Struktur der Programmoberfläche, die Programmfunktionen, die Möglichkeiten einer selbstständigen Datenverwaltung und nicht zuletzt die Dateneingabe waren die großen Themen des Workshops über Muscat, das als Eingabeprogramm eine sehr gute Basis für die zukünftige Zusammenarbeit in der Musikdokumentation darstellt.
 
 
-![Group photo](http://rism.info/resources-old-website/news/Gruppenfoto_II.jpg)
+![Group photo](/resources-old-website/news/Gruppenfoto_II.jpg)
 _Endlich Kaffeepause!_
 
-![Training in progress](http://rism.info/resources-old-website/news/Workshop_training.jpg)
+![Training in progress](/resources-old-website/news/Workshop_training.jpg)
 _Finale am letzten Tag_
 
-![Workshop room](http://rism.info/resources-old-website/news/Seminarraum.jpg)
+![Workshop room](/resources-old-website/news/Seminarraum.jpg)
 _Schulungsraum_
 
 

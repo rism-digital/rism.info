@@ -20,13 +20,13 @@ Nach einer kurzen Vorstellung der TeilnehmerInnen (Name, Tätigkeitsfeld und Mot
 Im 2. Teil der Schulung konnten dann die TeilnehmerInnen anhand von Musikhandschriften aus dem historischen Pfarrarchiv Maria Hietzing, welches sich seit 2006 in der Musiksammlung der ÖNB befindet, selbständig ihre ersten Probe-Einträge in Muscat erstellen.
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien2_816x458.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien2_816x458.jpg)
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien3_344x612.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien3_344x612.jpg)
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)
 
 _Alle Abbildungen mit freundlicher Genehmigung von Stefan Engl._
 

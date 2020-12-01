@@ -20,7 +20,7 @@ With the aid of concordant sources, a work entitled _Oulde and Favourite Marche 
 The unusual manuscript was brought by members of the [British Antarctic Survey](https://www.bas.ac.uk/about/antarctica/){:target="_blank"} to neighboring [British Antarctic Territory](https://www.gov.uk/government/world/organisations/british-antarctic-territory){:target="_blank"} for further examination and conservation, where it will be permanently housed in the well-equipped facilities of the [Rothera](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rothera/){:target="_blank"} Research Repository (RISM library siglum: AQ-Brrr). In the course of studying the manuscript, a small stain on the hide, likely of water, reminded the Rothera's chief conservator of a similar water mark seen in the papers of the Scottish National Antarctic Expedition of 1902–1904, which are housed in the same facility. Consultation with these materials, in particular those concerning the British explorer William Speirs Bruce, resulted in the surprising discovery of a photograph that obviously documents the exact moment when an inhabitant of Antarctica led the explorers to the very cave where the _Marche_ would soon be discovered (photo above, left). The researchers further pieced together that this incident must have occurred after an unsuccessful initial attempt at cultural exchange on the part of Bruce and his team (below).
 
 
-![Not amused](http://rism.info/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
+![Not amused](/resources-old-website/news/Pinguin-Entdeckung_2.JPG)
 
 _Penguin: Not amused by the visitor._
 

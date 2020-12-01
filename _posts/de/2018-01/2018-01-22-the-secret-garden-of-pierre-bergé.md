@@ -17,19 +17,19 @@ Die Loeb Music Library hat drei Bände des französischen Industrialisten, Kunst
 
 Darunter ist die seltene Erstausgabe von [Mozarts sechs Triosonaten Opus 3](http://id.lib.harvard.edu/aleph/015053445/catalog) aus dem Jahr 1764 (RISM A/I: [M 6346](https://opac.rism.info/search?id=00000990044880){:target="_blank"}). Diese wurden “Printed for the author and sold at his lodgings” im Verlagshaus [in Soho](https://en.wikipedia.org/wiki/20_Frith_Street), wo der achtjährige Wolfgang Mozart, seine Schwester Nannerl und der Vater Leopold während ihres Londonaufenthaltes wohnten.
 
-![Mozart title page](http://rism.info/resources-old-website/news/Secret_garden_2_Mozart-title-page-676x901.jpg)
+![Mozart title page](/resources-old-website/news/Secret_garden_2_Mozart-title-page-676x901.jpg)
 Merritt Mus 745.1.383.1
 
 Dabei befindet sich auch eine Notiz, die die detaillierte Kaufgeschichte des ursprünglichen Besitzers Thomas Jones (“It was of the little musician himself I purchased this book”) wiedergibt, verschiedene Zeitungsartikel und ein Porträt der Familie Mozart.
 
 
-![Thomas Jones note](http://rism.info/resources-old-website/news/Secret_garden_3_Thomas-Jones-note-676x277.jpg)
+![Thomas Jones note](/resources-old-website/news/Secret_garden_3_Thomas-Jones-note-676x277.jpg)
 Merritt Mus 745.1.383.1
 
-![newspaper](http://rism.info/resources-old-website/news/Secret_garden_4_Newspaper-ad-676x667.jpg)
+![newspaper](/resources-old-website/news/Secret_garden_4_Newspaper-ad-676x667.jpg)
 Merritt Mus 745.1.383.1
 
-![Family portrait](http://rism.info/resources-old-website/news/Secret_garden_5_Family-portrait-676x949.jpg)
+![Family portrait](/resources-old-website/news/Secret_garden_5_Family-portrait-676x949.jpg)
 Merritt Mus 745.1.383.1
 
 Diese Einheit wurde vom Schafer Mozart Book Fund erworben. Abbildungen der gesamten Partitur stehen in Kürze zur Verfügung.
@@ -37,9 +37,9 @@ Diese Einheit wurde vom Schafer Mozart Book Fund erworben. Abbildungen der gesam
 Und es gibt noch zwei Sammlungen mit frühen Triosonaten von Arcangelo Corelli, gedruckt in[Bologna 1688](http://id.lib.harvard.edu/aleph/015053434/catalog) (RISM A/I: [C 3661](https://opac.rism.info/search?id=00000990011046){:target="_blank"}) und in[Venidig 1691](http://id.lib.harvard.edu/aleph/015053440/catalog){:target="_blank"} (RISM A/I: [C 3733](https://opac.rism.info/search?id=00000990011118){:target="_blank"}).
 
 
-![Trio sonatas](http://rism.info/resources-old-website/news/Secret_garden_6_Trio-sonatas-title-page-676x480.jpg)
+![Trio sonatas](/resources-old-website/news/Secret_garden_6_Trio-sonatas-title-page-676x480.jpg)
 
-![Trio sonatas stacked](http://rism.info/resources-old-website/news/Secret_garden_7_Trio-sonatas-stacked-676x507.jpg)
+![Trio sonatas stacked](/resources-old-website/news/Secret_garden_7_Trio-sonatas-stacked-676x507.jpg)
 
 
 [Pierre Bergés Bibliothek](http://www.labibliothequedepierreberge.com/en/video/conversation-with-pierre-berge-by-umberto-eco/){:target="_blank"}[zwei](http://id.lib.harvard.edu/aleph/009598193/catalog)[andere](http://id.lib.harvard.edu/aleph/009686040/catalog)

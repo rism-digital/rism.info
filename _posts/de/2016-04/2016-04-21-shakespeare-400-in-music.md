@@ -17,13 +17,13 @@ author: ''
 
 **Im RISM Online-Katalog erscheint Shakespeare als Ideengeber einer Vorlage oder als Textdichter. Um nach ihm zu suchen wählen Sie die** **[Erweiterte Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} und wählen Weitere Personen.**
 
-![Advanced search](http://rism.info/resources-old-website/news/Shakespeare_400_advanced_954_x_157.jpg)
+![Advanced search](/resources-old-website/news/Shakespeare_400_advanced_954_x_157.jpg)
 
 **Shakespeares Einfluss kann in den über** **[400 Quellen](https://opac.rism.info/search?View=rism&q=william+shakespeare){:target="_blank"}****[in RISM](https://opac.rism.info/search?View=rism&q=william+shakespeare){:target="_blank"} nicht nur für die Oper - die vermutlich geradlinigste Art ein Schauspiel zu vertonen -, sondern auch für Schauspiel- und Bühnenmusiken, Gesänge und Lieder, Chöre, Ouvertüren, Märsche, Oden und Symphonien konstatiert werden. 13 dieser Quellen wurden digitalisiert und stehen online zur Verfügung.**
 
 **Wenn Sie die Trefferliste nach**  **Titel** **sortieren (und wenn Sie schon dabei sind, können Sie sich auch gleich die Anzeige auf 100 Titel erweitern)**...
 
-![Sort](http://rism.info/resources-old-website/news/Shakespeare_400_sort_1012_x_298.jpg)
+![Sort](/resources-old-website/news/Shakespeare_400_sort_1012_x_298.jpg)
 
 ... **werden Sie zweifellos einige Ihnen vertraute Schauspiele (mit einigen Sprachvarianten) wieder erkennen: Antonius und Cleopatra, Ein Sommernachtstraum, Hamlet, Julius Cäsar, Macbeth, Romeo und Julia, Was ihr wollt und so weiter. Shakespeare-Quellen mit berühmter Musik im RISM-Katalog sind beispielsweise********[_Béatrice et Bénédict_](https://opac.rism.info/search?id=450059256){:target="_blank"}**  **und autographe Fragmente zu**** [_Roméo et Juliette_](https://opac.rism.info/search?id=464130083){:target="_blank"} von **** Hector Berlioz, **** Giuseppe Verdis **** [_Macbeth_](https://opac.rism.info/search?View=rism&author=verdi&q=macbeth){:target="_blank"} und **** [_Otello_](https://opac.rism.info/search?View=rism&author=verdi&q=otello){:target="_blank"}, Henry Purcells **** [Schauspielmusiken](https://opac.rism.info/search?View=rism&q=william+shakespeare&author=purcell){:target="_blank"} und Felix Mendelssohn Bartholdys **** [_Ein Sommernachtstraum_](https://opac.rism.info/search?View=rism&q=william+shakespeare+mendelssohn+sommernachtstraum){:target="_blank"}.**
 

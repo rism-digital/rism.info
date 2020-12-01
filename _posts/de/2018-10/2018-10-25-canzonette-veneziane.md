@@ -51,13 +51,13 @@ Das war faszinierend genug, um den Erwerb des Manuskripts zu rechtfertigen.
 
 Nachdem es ankam, erhielt es die Signatur MS.Add.10246, wurde vollständig katalogisiert und es wurde eine ganz Menge Recherche betrieben, um festzustellen, ob die Musik mit dem Manuskript der British Library übereinstimmte (leider fehlt im RISM-Eintrag Musikincipits, so dass wir nicht sicher sein konnten, ohne zur British Library zu gehen und das Original anzusehen).
 
-![A page in the book](http://rism.info/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
 
-![A page in the book](http://rism.info/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
 
 Der Vergleich bestätigt, dass jeder Eintrag in unserem Manuskript auch in der Handschrift des British Museum enthalten ist (Add.31758) und dass die Musik praktisch identisch ist. Unser Manuskript trägt den Titel "Canzonette veneziane e Canoni", das der British Library hat ein Titelblatt "Ariette veneziane e duetti". Unser Manuskript besteht aus 12 Cazonette/Ariette (für Stimme und unbezifferten Bass) und sechs Duette (für zwei Stimmen entweder mit oder ohne unbezifferten Bass), gefolgt von zwei Opernarien im Klavierauszug (Stimme und Bass) ("Quando vi sara gente" und "Una piccolo bambinella"), während die British Library die gleichen 12 Arietten hat, gefolgt von 12 Duetten und Liedern, deren erste sechs Duette die gleichen sind wie in Cambridge. Es folgen zwei Versionen (reduzierte Partitur auf zwei Notensystemen für Alt in E-Dur und eine Partitur für Alt und Streichorchester in A-Dur) von Cambridges erster Opernarie ("Quando vi sara gente", das für Tenor und Bass in A-Dur steht).
 
-![Book cover](http://rism.info/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
+![Book cover](/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
 
 Keine der Arietten oder Duette in Add.31758 sind zugeschreiben außer das letzte Werk. Die Partitur der Arie “Quando vi sara gente” ist überschrieben “In S. Moise 1763 – Del Sigr. Mattia Vento”.
 

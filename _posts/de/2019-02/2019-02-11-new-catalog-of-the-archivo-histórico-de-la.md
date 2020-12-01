@@ -22,19 +22,19 @@ Die Villancicos und geistlichen Kantaten aus dem Neuen Spanien entwickelten eine
 Hinsichtlich der Komponisten enthält der Korpus vier Werke von Antonio de Salazar (\* 1650c- † 1715), maestro de capilla der Kathedrale in Mexico City zwischen 1688 und 1715; 25 Kompositionen von Manuel de Sumaya (\* 1678- † 1755), maestro de capilla der Kathedrale in Mexico City von 1715 bis 1738 und der Kathedrale in Oaxaca von 1738 bis zu seinem Tod. Alles deutet darauf hin, dass Sumayas Repertoire in Mexiko City uraufgeführt, dann nach Oaxaca gebracht und schließlich im Historischen Archiv der Erzdiözese Antequera Oaxaca aufbewahrt wurde. Es ist auch sehr wahrscheinlich, dass Sumaya die Kompositionen von Antonio de Salazar verdrängt hat. Darüber hinaus erscheinen fünf Werke von Francisco Martínez de la Costa (\* 1739- † 1769c) unter den katalogisierten Kompositionen (Martínez de la Costa diente als maestro de capilla an der Kathedrale von Oaxaca von 1766 bis 1768 und drei weitere Werke werden ihm zugeschrieben) sowie ein Villancico von Juan Matías de los Reyes (\* 1724- † 1779), vermutlich ein Schüler von Manuel de Sumaya und ein anonymes Werk._
 
 
-![De la Costa composition](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_de_la_costa.JPG)
+![De la Costa composition](/resources-old-website/news/Katalog_MEX-Oc_de_la_costa.JPG)
 _Aria a Duo Con Violines_
 
-![Juan Matias](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Juan_Matias.JPG)
+![Juan Matias](/resources-old-website/news/Katalog_MEX-Oc_Juan_Matias.JPG)
 _Cantada_
 
-![Salazar escuchen](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Salazar_escuchen.JPG)
+![Salazar escuchen](/resources-old-website/news/Katalog_MEX-Oc_Salazar_escuchen.JPG)
 _Escuchen, escuchen_
 
-![Sumaya](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Sumaya_corrientes_que_al_mar.JPG)
+![Sumaya](/resources-old-website/news/Katalog_MEX-Oc_Sumaya_corrientes_que_al_mar.JPG)
 _Corrientes que al mar_
 
-![Sumaya recitado](http://rism.info/resources-old-website/news/Katalog_MEX-Oc_Sumaya_recitado.JPG)
+![Sumaya recitado](/resources-old-website/news/Katalog_MEX-Oc_Sumaya_recitado.JPG)
 
 
 _Abbildung oben__Pedro es el maestro_

@@ -24,11 +24,11 @@ When you do an **[Advanced Search](https://opac.rism.info/metaopac/start.do?View
 Please note that the field **Scoring** searches what we call the **Scoring summary**. As its name implies, this is a summary of the total instrumentation for the work, so _orch_ will find works for orchestra rather than entering each possible instrument, and _V (2)_ will find works for vocal duet.
 
 After you do a search, your results list includes the scoring summary.
-![Scoring summary](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
+![Scoring summary](/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
 
 The filters on the left also filter by scoring summary.
 
-![Filter by instrumentation](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
+![Filter by instrumentation](/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
 
 You can also do a simple search (All fields) to search by instrumentation, but this is generally more effective if you have a more unusual instrument, such as _bombarde_. This instrument is not likely to appear in the scoring summary (0 results in the **Scoring** search), but it is indexed in the full instrumentation (156 results in **All fields** ).
 

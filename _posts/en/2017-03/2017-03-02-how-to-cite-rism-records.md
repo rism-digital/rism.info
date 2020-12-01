@@ -52,7 +52,7 @@ As new imprints are added to the database, however, the numbering system used in
 
 **Electronic publications:** Each record in the online catalog has a permalink. Permalinks can be used to link to the RISM record in electronic publications (as I've done throughout this post). The permalink is linked above the composer's name in a record:
 
-![RISM permalink](http://rism.info/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
+![RISM permalink](/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
 
 -
 

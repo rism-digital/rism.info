@@ -24,6 +24,6 @@ The novel aspect of this project involves linking a catalog of works and sources
 This DFG project is being carried out in cooperation with [Schott Music](https://de.schott-music.com/){:target="_blank"} and RISM.
 
 
-![Palestrina catalog](http://rism.info/resources-old-website/news/Palestrina-2.jpg)
+![Palestrina catalog](/resources-old-website/news/Palestrina-2.jpg)
 _A view of the search screen_
 

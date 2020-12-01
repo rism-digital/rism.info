@@ -20,13 +20,13 @@ After the participants briefly introduced themselves (name, profession, and moti
 In the second part of the workshop, the participants could then use music manuscripts from the historic Maria Hietzing parish archive, which has been a part of the Department of Music of the national library since 2006, to try entering their first records in Muscat themselves.
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien2_816x458.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien2_816x458.jpg)
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien3_344x612.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien3_344x612.jpg)
 
 
-![Muscat workshop in Vienna](http://rism.info/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)
+![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)
 
 _All images courtesy of Stefan Engl._
 

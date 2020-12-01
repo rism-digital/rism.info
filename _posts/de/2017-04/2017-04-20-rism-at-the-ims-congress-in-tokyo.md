@@ -27,7 +27,7 @@ Es war eine besondere Freude unsere Kollegen von RISM Japan auf dem Kongress zu 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1547960328578139%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-[Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"} ![Manuscript music by Kosaku](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_Kosaku.jpg)
+[Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"} ![Manuscript music by Kosaku](/resources-old-website/news/IMS_Tokyo_2017_Kosaku.jpg)
 _Musikhandschrift von Yamada Kosaku auf dem Bildschirm des Archive Center_
 
 Danach besuchte ich die [Universitätsbibliothek](http://www.lib.geidai.ac.jp/Eguide.html){:target="_blank"} unserer gastgebenden Institution. Die Bibliothek unterstützt den Auftrag der Universität und ist mit ca. 490.000 Bänden einer der größten Kunstbibliotheken Japans. In der Musikabteilung fand ich die lange Reihe der gedruckten RISM Bände, einschließlich des neuesten von 2016!
@@ -40,7 +40,7 @@ Danach besuchte ich die [Universitätsbibliothek](http://www.lib.geidai.ac.jp/Eg
 
 Die NDL sammet, bewahrt, restauriert und macht alle in Japan erscheinenden Veröffentlichungen (einschließlich des elektronischen Materials) verfügbar. Dies schließt auch die Mangas ein. Die Sammlung der japanischen Comics füllt die Regale farbenfroh aus. Die Bibliothek sammelt diese Mangas seit den späten 1960er Jahren.
 
-![Magna at the NDL](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_magna_960_x_720.jpg)
+![Magna at the NDL](/resources-old-website/news/IMS_Tokyo_2017_magna_960_x_720.jpg)
 _Die Manga-Sammlung in der NDL_
 
 Meine Bibliotheksführerin war Yuko Kumakura. Sie gestaltete eine ausgezeichnete Führung mit vielen Musikalien ud wertvollen Informatinen zu den Sammlungen der NDL. Frau Kumakura führte uns durch die öffentlichen Bereiche und einige Lesesäle (einschlißelich Geisteswissenschaften und Hörstationen) sowie ins Magazin.
@@ -54,7 +54,7 @@ Die Bibliothek hat einige Spezialsammlungen zur Musik. Eine Sammlung von 600 Mus
 
 Die letzte Bibliothek, die ich besuchte, war die [Tokyo Metropolitan Central Library](http://www.library.metro.tokyo.jp/english/tabid/2437/Default.aspx){:target="_blank"}. Hier gab es keine Führung, sondern ich sah mich selbst um. Es ist die größte öffentliche Präsenz-Bibliothek in Japan. Die Bibliothek fungiert als Forschungsbibliothek für die Einwohner von Tokio und bietet ca. 1.000 Sitzplätze an. Die Sammlung der Bibliothek enthält zwei Millionen Bände mit einem Schwerpunkt auf Informationen über Städte der ganzen Welt, Volkszählungsberichte und Kulturgüter. Einige Regale füllen die Bücher zur Musik und Musikgeschichte im Lesesaal der Geisteswissenschaften. Eine Spezialabteilung bewahrt über 243.000 Einheiten zur frühen Geschichte Tokios auf. Die Tokyo Metropolitan Central Library hat auch eine große Sammlung mit fremdsprachigem Material (10% des Bestands).
 
-![Manuscript music by Kosaku](http://rism.info/resources-old-website/news/IMS_Tokyo_2017_central_library.jpg)
+![Manuscript music by Kosaku](/resources-old-website/news/IMS_Tokyo_2017_central_library.jpg)
 
 _Die Musikabteilung der Tokyo Metropolitan Central Library_
 

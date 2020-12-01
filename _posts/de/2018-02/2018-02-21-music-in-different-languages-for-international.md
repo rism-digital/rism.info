@@ -16,7 +16,7 @@ Am 21. Februar wird weltweit der[Tag der Muttersprache](http://www.unesco.org/ne
 Im RISM Online-Katalog können Sie in der **Erweiterten Suche** über den Index **Textsprache** nach den verschiedenen Sprachen suchen. Die Eingabe ist mit deutschen oder englischen Begriffen möglich (z.B. Italienisch oder Italian).
 
 
-![Mozart title page](http://rism.info/resources-old-website/news/Muttersprache_OPAC.png)
+![Mozart title page](/resources-old-website/news/Muttersprache_OPAC.png)
 
 
 Nach folgenden Textsprachen kann im RISM Online-Katalog recherchiert werden:

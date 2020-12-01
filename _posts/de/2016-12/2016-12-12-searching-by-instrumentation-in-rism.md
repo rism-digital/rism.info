@@ -26,11 +26,11 @@ Das Feld **Besetzung** durchsucht den sogenannten **Besetzungshinweis**. Wie der
 
 Nach einer Suche werden alle Ergebnisse aufgelistet, in denen der Suchbegriff im Besetzungshinweis enthalten ist.
 
-![Scoring summary](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
+![Scoring summary](/resources-old-website/news/Besetzung_Suche_ex_1_779_x_736.jpg)
 
 Mit den Suchfiltern auf der linken Seite lässt sich das Ergebnis auf den Besetzungshinweis eingrenzen.
 
-![Filter by instrumentation](http://rism.info/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
+![Filter by instrumentation](/resources-old-website/news/Besetzung_Suche_ex_2_162_x_237.jpg)
 
 
 Sie können auch über die Einfache Suche nach Besetzungsangaben suchen. Diese führt insbesondere dann zum Erfolg, wenn Sie nach einem eher ausgefallenen Instrument - wie _bombarde –_ suchen. Diese Instrument ist nicht im Besetzungshinweis genannt (0 Treffer bei der Suche nach **Besetzung** ), aber in der Gesamtbesetzung aufgelistet (156 Treffer in **Alle Felder** ).

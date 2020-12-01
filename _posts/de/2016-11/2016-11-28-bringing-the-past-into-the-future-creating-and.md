@@ -32,9 +32,9 @@ Weitehrin ging es um Datenbankentwürfe und -theorien:
 
 Für RISM gab Klaus Keil einen Überblick über die Struktur der RISM-Datenbank in Verbindung mit digitalen Ressourcen und der Zusammenarbeit mit anderen internationalen Projekten. Jennifer Ward sprach über das Format der RISM-Daten und deren Wiederverwendung in digitalen Musikarchiven oder anderen Projekten. Chun-Zen Huang (National Taiwan Normal University), ein Vertreter unserer neuesten Arbeitsgruppe [RISM Chinesisch-sprechendes Gebiet](/international/working-groups.html), betonte den Bedarf von international Standards zur Beschreibung und Aufbewahrung. Er berichtete von vielen Digitalisierungsprojekten, die der Aufbewahrung des physischen Gegenstand keine Aufmerksamkeit schenkten. Eine Herausforderung stellt die Weiterbildung der mit der Digitaliserung Beschäftigten zu Hintergründen der Musik dar. RISM ist hierfür ein wichtiger Partner für die Arbeitsgruppen und liefert bewährte Richtlinien und eine klare Struktur zur Beschreibung und Erhaltung wichtiger Kulturgüter.
 
-![Conference in Seoul](http://rism.info/resources-old-website/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
+![Conference in Seoul](/resources-old-website/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
 _Mit freundlicher Genehmigung von JeongYoun Chang_
 
-![Muscat workshop in Seoul](http://rism.info/resources-old-website/news/Workshop_webinar_960_557.jpg)
+![Muscat workshop in Seoul](/resources-old-website/news/Workshop_webinar_960_557.jpg)
 _Muscat Workshop_
 

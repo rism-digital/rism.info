@@ -18,7 +18,7 @@ Um die Händel-Bestände der British Library zu finden, verwenden Sie den [RISM 
 **Komponist** : Händel (es erscheint automatisch eine Namen-Liste aus der sie eine Variante auswählen können)
 **Bibliothekssigel** : GB-Lbl
 
-![Advanced search](http://rism.info/resources-old-website/news/Haendel-Autographe_advanced_search.jpg)
+![Advanced search](/resources-old-website/news/Haendel-Autographe_advanced_search.jpg)
 
 Sie erhalten mehr als 2.800 Treffer und können über die Suchfilter auf der linken Seite verschiedene Kriterien wie Gattung, Besetzng oder Materialtyp auswählen. Die British Library besitzt eine stattlich Zahl an Händel-Autographen dank eines Geschenks von [Queen Elizabeth II](http://www.bl.uk/eblj/2009articles/article2.html){:target="_blank"} im Jahr 1957. 97 Autographe umfasste die Schenkung. In der RISM-Datenbank erhält jedes handschriftliche Werk einen eigenen Eintrag, so dass insgesamt momentan 339 Autographe und über 1.900 Abschriften nachgeweisen sind.
 

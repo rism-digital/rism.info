@@ -20,7 +20,7 @@ Nach so viel Geschichte ging es mit der Konferenz weiter. Vom 15. bis 16. Juni 2
 
 Ich selbst veranstaltete einenWorkshop zur Einführungin[Muscat](/community/muscat.html), dem Katalogierungsprogramm für Musikquellen von RISM. Daran nahmen insgesamt sechzehn Personen teil.
 
-![Workshop participants](http://rism.info/resources-old-website/news/Goeteborg_Mark_the_Music_Workshop_568x426.JPG)
+![Workshop participants](/resources-old-website/news/Goeteborg_Mark_the_Music_Workshop_568x426.JPG)
 _Workshop-TeilnehmerlernenMuscat kennen_
 
 Ich hatte außerdem die Möglichkeit, verschiedene Wege zu präsentieren, wie Bibliothekare bei RISM mitwirken können. Zwei der Punkte, die ich besonders hervorheben wollte, waren die Frage, wie RISM Musikhandschriften aus allen Epochen dokumentiert und dass Muscat für alle Bibliothekare kostenlos zur Verfügung steht. Der Kurs war eine hervorragende Gelegenheit, unsere skandinavischen Kollegen zu treffen und neue Kontakte zu knüpfen. Einige Bibliothekare zeigten sofort Interesse mit RISM und Muscat zu arbeiten und ich hoffe daher, dass sichdie Aktivitäten von RISM im Norden Europas intensivieren.

@@ -41,13 +41,13 @@ Eine [Wildgans](https://opac.rism.info/search?id=350000507){:target="_blank"}
 
 Die am meisten vertretene Vogelart dieser Zeit scheint die Nachtigall mit all ihrem Vorkommen in [englisch](https://opac.rism.info/search?View=rism&q=Nightingale){:target="_blank"}, [deutsch](https://opac.rism.info/search?View=rism&q=nachtigall){:target="_blank"} und [französisch](https://opac.rism.info/search?View=rism&q=rossignol "external-link-new-window") zu sein - weit mehr als 800 Mal!
 
-![Nightingale](http://rism.info/resources-old-website/news/Vogelzaehlung_nightingale.JPG)
+![Nightingale](/resources-old-website/news/Vogelzaehlung_nightingale.JPG)
 
 _Nachtigall: Aus_ Birds of Europe _von John Gould, London, 1837. [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47d9-7491-a3d9-e040-e00a18064a99){:target="_blank"}._
 
 Da wir Sie Musik erkunden lassen, die unsere gefiederten Freunde bringen, möchten wir auf eine Publikation des 18. Jahrhunderts hinweisen (RISM A/I: [C 4544](https://opac.rism.info/search?id=00000990011878){:target="_blank"}; die früheste Ausgabe stammt von 1717), welche laut [Sarah Angliss](http://www.sarahangliss.com/talks/birdfancyersdelightnotes){:target="_blank"} eine von mehreren Methoden vorstellt, den Vögeln verschiedene Melodien beizubringen:
 
-![Bird Fancyer's Delight](http://rism.info/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)
+![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)
 _The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling
 
 Abbildung von der_
@@ -59,7 +59,7 @@ Hat irgendjemand andere Beobachtungen gemacht, die Sie uns mitteilen möchten? L
 
 **Suchtipp** : Benutzen Sie die Bool'schen Operatoren, um Quellen auszuschliessen, in denen der Vogel im Namen einer Person enthalten ist. Verwenden Sie die Erweiterte Suche und geben Sie die Vogelart in **Alle Felder** ein, dann sowohl in den Feldern **Weitere Personen** und **Komponist**. Wählen Sie **und nicht** aus dem Drop-down-Menu, das den Feldern voransteht:
 
-![advanced search](http://rism.info/resources-old-website/news/Vogelzaehlung_opac.jpg)
+![advanced search](/resources-old-website/news/Vogelzaehlung_opac.jpg)
 
 
 _Abbildung oben_: Athanasius Kircher, _Musurgia universalis_, Rome 1650, lib. I, zwischen p.30-31. Exemplar der Music Library at University of North Carolina at Chapel Hill (US-CHH), via [Internet Archive](https://archive.org/details/athanasiikircherkirc){:target="_blank"}.

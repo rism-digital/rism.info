@@ -20,13 +20,13 @@ Der Schwerpunkt der Sammlung liegt auf Quellen aus der Zeit zwischen 1750 und 18
 
 Melker Benediktiner haben vor allem zur Zeit der Wiener Klassik und im Biedermeier ausgezeichnete Kontakte zur Wiener Musikwelt unterhalten. Robert Kimmerling, war ein Schüler Haydns, Abbé Maximilian Stadler war mit den großen Komponisten der Wiener Klassik persönlich bekannt und ging in den musikalischen Salons des Biedermeier ein und aus. Daher finden sich eine Reihe an frühen Abschriften von Haydn, Mozart und Beethoven in Melk. Erwähnenswert sind auch die Manuskripte der im Kloster tätigen Komponisten, vor allem jene von Johann Georg Albrechtsberger und Franz Schneider.
 
-![Cover of the](http://rism.info/resources-old-website/news/Stift_Melk_IV_133_Studentenvalete.jpg)
+![Cover of the](/resources-old-website/news/Stift_Melk_IV_133_Studentenvalete.jpg)
 
 _Umschlag des sogenannten „Studentenvalete“ von Abbé Maximilian Stadler, 1781 (Signatur: IV 133)._
 
 Doch auch an Drucken ist das Archiv gut sortiert, manche Benediktiner sammelten eifrig, vor allem Klavier- und Kammermusik, etwa P. Robert Stipa, dessen Nachlassinventar von 1850 rund 600 Werke, größtenteils Drucke, zählt. Auch ein Teil des Nachlasses von Ignaz Ritter von Seyfrieds Musikaliensammlung, darunter zwei Drucke mit autographer Widmung Robert Schumanns, gelangte ins Melker Musikarchiv, allerdings lässt sich schwer abschätzen, um wie viele Werke es sich dabei handelt. Bedauerlicherweise wurden solche Sammlungen nicht geschlossen inventarisiert, sie können nur anhand von älteren Signaturen rekonstruiert werden.
 
-![Viola in Melk collection](http://rism.info/resources-old-website/news/Stift_Melk_Viola.jpg)
+![Viola in Melk collection](/resources-old-website/news/Stift_Melk_Viola.jpg)
 
 _Viola_ _mit Löwenkopf von Georg Aman, frühes 18. Jahrhundert_
 

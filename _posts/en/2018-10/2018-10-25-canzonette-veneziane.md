@@ -51,13 +51,13 @@ This was intriguing enough to warrant acquiring the manuscript.
 
 After it arrived it was given the number [MS.Add.10246](https://opac.rism.info/search?id=1001049539&View=rism&Language=en){:target="_blank"}, was fully catalogued and a fair amount of research done to establish if the music was the same as the British Library manuscript (alas the RISM entry lacks musical incipits so we could not be certain without going down to the British Library and looking at the original).
 
-![A page in the book](http://rism.info/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
 
-![A page in the book](http://rism.info/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
 
 The comparison confirms that every item in our manuscript is also in the British Museum manuscript ([Add.31758](https://opac.rism.info/search?id=1001049542&View=rism&Language=en){:target="_blank"}), and that the music is virtually identical. Our manuscript has a cover title “Canzonette veneziane e Canoni”, and the British Library has a title page “Ariette veneziane e duetti”. Our manuscript has 12 cazonette/ariette (for voice and unfigured bass) and six duetti (for two voices either with or without unfigured bass), followed by two operatic arias in short score (voice and bass) (‘Quando vi sara gente’ and ‘Una piccolo bambinella’), while the British Library’s has the same 12 ariettas followed by 12 duets and songs, the first six duets of which are the same as in Cambridge. These are followed by two versions (short score on two staves for Alto in E major, and full score for Alto and string orchestra in A major) of Cambridge’s first opera aria (“Quando vi sara gente” which is for Tenor and bass in A major).
 
-![Book cover](http://rism.info/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
+![Book cover](/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
 
 None of the ariette or duetti in Add.31758 are ascribed except the last item. The full score of the aria “Quando vi sara gente”, is ascribed “In S. Moise 1763 – Del Sigr. Mattia Vento”.
 

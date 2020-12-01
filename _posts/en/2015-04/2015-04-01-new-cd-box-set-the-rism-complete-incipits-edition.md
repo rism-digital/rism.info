@@ -20,23 +20,23 @@ Now you can! Announcing a new CD box set, the **RISM Complete Incipits Edition**
 Who can forget the classic opening to [Anton Diabelli's _Tantum Ego_](https://opac.rism.info/search?id=600245067){:target="_blank"}?
 
 
-![Tantum ergo](http://rism.info/resources-old-website/news/Aprilscherz_2015/tantum.jpg)
+![Tantum ergo](/resources-old-website/news/Aprilscherz_2015/tantum.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573766&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 Or the exciting tenor entrance in [Felice Alessandri's _Dario_](https://opac.rism.info/search?id=452002250){:target="_blank"}?
 
 
-![Alessandri's Dario](http://rism.info/resources-old-website/news/Aprilscherz_2015/dario.jpg)
+![Alessandri's Dario](/resources-old-website/news/Aprilscherz_2015/dario.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573806&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 This [trombone lick](https://opac.rism.info/search?id=851000292){:target="_blank"} is unforgettable, and only Paolo Bonfichi could have written it.
 
-![Trombone lick](http://rism.info/resources-old-website/news/Aprilscherz_2015/trombone.jpg)
+![Trombone lick](/resources-old-website/news/Aprilscherz_2015/trombone.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573785&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 You will never listen to [solfeggio](https://opac.rism.info/search?id=850507984 "external-link-new-window") the same again after hearing it on the **RISM Complete Incipits Edition**! Sing along and add your own words.
 
-![Solfeggio](http://rism.info/resources-old-website/news/Aprilscherz_2015/solfeggio.jpg)
+![Solfeggio](/resources-old-website/news/Aprilscherz_2015/solfeggio.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 Dedicated RISM users will know that sometimes a record only has a text incipit or a tempo indication. These are included as well, featuring the celebrity voices of David Attenborough, Morgan Freeman, Werner Herzog, William Shatner, and Meryl Streep. Enjoy as they read out classics such as

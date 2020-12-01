@@ -20,15 +20,15 @@ Wenn Sie die Erweiterte Suche starten, stehen Ihnen drei Suchschlitze und jener 
 
 Angenommen Sie suchen nach Streichquartetten von Haydn in D-Dur ...
 
-![Advanced search](http://rism.info/resources-old-website/news/Fuenftes_Feld1.jpg)
+![Advanced search](/resources-old-website/news/Fuenftes_Feld1.jpg)
 
 … aber Sie finden nicht, das was Sie brauchen. Sie gehen zurück zur Erweiterten Suche und das fünfte Feld erscheint! Alle bisherigen Suchen einer Sitzung werden hier gespeichert.
 
-![Fifth field](http://rism.info/resources-old-website/news/Fuenftes_Feld2_1010_x_395.jpg)
+![Fifth field](/resources-old-website/news/Fuenftes_Feld2_1010_x_395.jpg)
 
 Sie können die Haydn Quartette in D auswählen und nun eine viertes Element hinzufügen, beispielsweise alle Quellen aus Österreich.
 
-![Fifth field with more search terms](http://rism.info/resources-old-website/news/Fuenftes_Feld3_1007_x_363.jpg)
+![Fifth field with more search terms](/resources-old-website/news/Fuenftes_Feld3_1007_x_363.jpg)
 
 Und wenn Sie wieder zur Erweiterten Suche zurückkehren, können Sie genauso fortfahren die vorherigen Suchanfragen wiederzuverwenden. So als würden Sie Ihrer Anfrage Extrasuchfelder hinzufügen.
 

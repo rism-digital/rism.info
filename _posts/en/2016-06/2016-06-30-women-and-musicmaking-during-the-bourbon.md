@@ -21,15 +21,15 @@ The engraved title page of the manuscript bears two handwritten lines which rais
 
 The cantata is written for four soloists and an instrumental ensemble of flute, oboe, and keyboard; the opening scoring calls for pianoforte, but the marking “jeu céleste” (no. 6) suggests adaptation for organ. The work is divided into two parts of twenty-one numbers; the soloists in the first part (nos. 1–11) sing as the dramatic personages of angels, and in the second (nos. 12–21) as the shepherds who heed their call. The landscape of the Christmas drama is transformed by the introduction (no. 17) of the figure of a “viellard … ancien Gaulois, étranger dans ces lieux” and invocation of the native “bois mystérieux du Gaulois révérés”.
 
-![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
+![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
 
 
 It is possible to detect encoded references to the dedicatee in devotional Marian imagery: the shepherds’ sign “comme l’étoile du matin vient proteger” (no. 10), which harkens to the allusive play on the name of Mary in the medieval hymn, _Ave Maris Stella_, and the parallelism “ô ma patrie … une autre marie” (no. 20).
 
-![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
+![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
 
 
-![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](http://rism.info/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
+![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
 
 
 _Notes_

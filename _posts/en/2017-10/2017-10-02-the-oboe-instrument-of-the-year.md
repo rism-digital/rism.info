@@ -32,11 +32,11 @@ These are all the instruments from the oboe family that appear in the [online ca
 
 To find music that prominently features the oboe (concertos, duets, etc.), do an [**Advanced search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select the field **Scoring**. Enter the abbreviation and click **Search**. You can also combine your search with other search fields, such as a genre, to look for specific kinds of compositions. Here I'm searching for oboe concertos:
 
-![Search for oboe concertos](http://rism.info/resources-old-website/news/oboe_search_concerto_1005x355.jpg)
+![Search for oboe concertos](/resources-old-website/news/oboe_search_concerto_1005x355.jpg)
 
 In the search results, look at the filters on the left. At the top you can see that 51 records contain links to digitized music, giving you immediate access to the original manuscript or printed edition. **Scoring** will give a summarized instrumentation of the piece:
 
-![Search results](http://rism.info/resources-old-website/news/oboe_Scoring_results_1004x767.jpg)
+![Search results](/resources-old-website/news/oboe_Scoring_results_1004x767.jpg)
 
 Since the field **Scoring** is a _summary_ of the scoring, searching for **winds** will also bring up smaller chamber works that include oboe, such as this series of octets (2 oboes, 2 English horns, 2 clarinets, 2 horns) preserved in the Czech Republic of arrangements from Mozart operas: _[Così fan tutte](https://opac.rism.info/search?id=550032840&Language=en){:target="_blank"}_, _[Don Giovanni](https://opac.rism.info/search?id=550032835&Language=en){:target="_blank"}_, _[Die Entführung aus dem Serail](https://opac.rism.info/search?id=550032914&Language=en){:target="_blank"}_, _[Le Nozze di Figaro](https://opac.rism.info/search?id=550032885&Language=en){:target="_blank"}_, and _[Die Zauberflöte](https://opac.rism.info/search?id=550032852&Language=en){:target="_blank"}_.
 

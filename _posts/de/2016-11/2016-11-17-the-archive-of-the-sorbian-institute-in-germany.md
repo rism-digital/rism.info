@@ -20,7 +20,7 @@ _Der folgende Beitrag stammt von Annett Bresan:_
 Das [Sorbische Kulturarchiv](http://www.serbski-institut.de/de/Archiv/){:target="_blank"} ist das einzige öffentliche Archiv für sorbisches und sorabistisches Archiv- und Sammelgut. Die Sorben, früher auch Wenden genannt, sind eine slawische Minderheit in Deutschland, die seit Jahrhunderten in der Ober- und Niederlausitz leben (eine historische Landschaft in den jetzigen Bundesländern Sachsen und Brandenburg). Das Sorbische Kulturarchiv (SKA) geht ebenso wie die Bibliothek auf die Sammlungen der Maćica Serbska (gegründet 1847) zurück. Es bewahrt sowohl für die historische Forschung als auch für die heutige Kulturpraxis wichtige Dokumente auf und stellt sie den Nutzern zur Verfügung. Zu den wichtigsten Beständen zählen die Nachlässe sorbischer Politiker, Wissenschaftler, Musiker, Schriftsteller und bildender Künstler. Einen umfangreichen Bestand bilden die Akten der Domowina, der Dachorganisation sorbischer Vereine, von der Gründung 1912 bis zum Jahre 1989. Hinzu kommt Schriftgut sorbischer Vereine, u. a. der Maćica Serbska, von Gymnasiasten- und Studentenvereinen, von Chören, sowie einiger Kultur- und Bildungseinrichtungen bis 1989. Einen besonderen Platz unter unseren Beständen nehmen die Fotosammlung, Fotografennachlässe, Ton- und Filmdokumente ein. Neben diesen Materialien sammelt das Archiv auch Dissertationen, Zeitungsausschnitte, Programmhefte und Plakate zu sorbischen Themen.
 
 
-![Representatives of Sorbian choirs, 1929](http://rism.info/resources-old-website/news/SORBISCHES_Chor1929_Nacoln._ch_-row_.jpg)
+![Representatives of Sorbian choirs, 1929](/resources-old-website/news/SORBISCHES_Chor1929_Nacoln._ch_-row_.jpg)
 
 _Vertreter sorbischer Chöre 1929 am Denkmal für Kocor vor dessen Geburtshaus in Berge (Großpostwitz)_
 
@@ -30,7 +30,7 @@ Musik – sowohl Volkslieder als auch Kunstmusik – ist ein wichtiger Bestandte
 Kocor, 1822 als Sohn eines Häuslers in dem kleinen Dorf Berge bei Großpostwitz geboren, war als Lehrer und Kantor in der Oberlausitz tätig. Über 30 Jahre wirkte er in Kittlitz bei Löbau, wo er 1904 starb. Einen Namen machte er sich als Komponist, Dirigent, Musikschriftsteller und Organisator des sorbischen Musiklebens. Viele seiner Kompositionen entstanden auf Texte von Handrij Zejler / Andreas Seiler (1804-1872), Pfarrer und Dichter in Lohsa. Neben einer Reihe von Liedern, die inzwischen schon als Volkslied wahrgenommen werden, schufen sie gemeinsam den Oratorien-Zyklus"Die Jahreszeiten".
 
 
-![Rjana Łužica](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_4A_Kocor_022-1.jpg)
+![Rjana Łužica](/resources-old-website/news/SORBISCHES_ZM_XVIII_4A_Kocor_022-1.jpg)
 
 _"Rjana Łužica" („Schöne Lausitz“) Die heutige sorbische Hymne von Kocor auf einen Text von Handrij Zejler. (SKA, ZM XVIII 4 A)_
 
@@ -40,11 +40,11 @@ Die Mitarbeit von Hanka Schmole, Absolventin der Musikhochschule Leipzig, machte
 Ansprechpartnerin im Sorbischen Kulturarchiv zu Fragen der Benutzung ist Dr. Annett Bresan ([bresan@serbski-institut.de](mailto:bresan@serbski-institut.de)).
 
 
-![3 Sonatinen für Geige und Klavier](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_10J_Kocor_003.jpg)
+![3 Sonatinen für Geige und Klavier](/resources-old-website/news/SORBISCHES_ZM_XVIII_10J_Kocor_003.jpg)
 _Aus: 3 Sonatinen für Geige und Klavier (SKA, ZM XVIII 10 J)_
 
 
-![Podlěćo](http://rism.info/resources-old-website/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
+![Podlěćo](/resources-old-website/news/SORBISCHES_ZM_XVIII_6_E_32.jpg)
 _Aus: "Podlěćo" ("Der Frühsommer") (SKA, ZM XVIII 6 E)_
 
 **Quellen** :

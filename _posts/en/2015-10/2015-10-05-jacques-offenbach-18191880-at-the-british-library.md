@@ -24,13 +24,13 @@ Its success exceeded all his dreams, but not, perhaps, for the reasons which he 
 
 Inspired by this success, Offenbach proceeded to tackle another classical subject, the story of Helen of Troy, in_La belle Hélène_. The librettists Henri Meilhac and Ludovic Halévy showed no more respect for their theme than their predecessor Crémieux, and fell foul of the censor for their portrayal of the Grand Augur, Calchas, which was viewed as an attack on the clergy. Pompous and hypocritical, Calchas cheats outrageously while gambling, and was at one point intended to fall into the water until the censor insisted that this was taking irreverence too far. Nor do Agamemnon, Menelaus and the other heroes fare any better; they appear as a gang of ridiculous blockheads who are easily trounced by the debonair ‘shepherd’ Paris (‘l’homme à la pomme’) in a series of word-games designed to sharpen the dull wits of the Greeks.
 
-![La belle Hélène](http://rism.info/resources-old-website/news/Offenbach_Zweig.jpg)
+![La belle Hélène](/resources-old-website/news/Offenbach_Zweig.jpg)
 _The chorus which accompanies Orestes’ entrance, from Jacques Offenbach,La belle Hélène, autograph score, 1864. Zweig MS 72_
 
 Most startlingly of all, perhaps, Orestes makes his entrance as a precocious playboy, flanked by two good-time girls, Parthénis and Léoena, dancing in to the refrain ‘Tsing-la-la! Tsing-la-la! Oyé Kephalé, Kephalé oh-la-la!’ and intent on emptying his father’s coffers in the pursuit of pleasure. The role is sung by a soprano, and its creator, the all-too-aptly-named Léa Silly, proved a major headache to Offenbach. In a situation reminiscent of Mozart’s_Der Schauspieldirektor_(The Impresario), a skit involving a hapless director and his two warring prima donnas which Offenbach had staged some years earlier, she antagonized the diva Hortense Schneider, a long-term star of the company who was cast as Helen, by upstaging and mimicking her, dancing a cancan behind her back as she sang a major aria, and so enraging Schneider that she threatened to quit not only the production but Paris altogether.
 
 
-![Schneider](http://rism.info/resources-old-website/news/Offenbach_Schneider.jpg)
+![Schneider](/resources-old-website/news/Offenbach_Schneider.jpg)
 _Hortense Schneider as Helen inLa belle Hélène, from Louis Schneider,Offenbach(Paris, 1923) 7896.t.20._
 
 Yet despite these trials the first night went ahead on 17th December 1864 at the Théâtre des Variétés, delighting critics and public so much that it launched a run of 700 performances. Among its admirers was the famous chef[Auguste Escoffier](http://www.escoffier-society.com/biography.php "Auguste Escoffier"), who created a special dish in its honour – Poire Belle Hélène, a luscious confection of poached pears and vanilla ice-cream topped with chocolate sauce and crystallized violets. Like the opera itself, it is a treat for the connoisseur – and certainly fit for an Emperor.

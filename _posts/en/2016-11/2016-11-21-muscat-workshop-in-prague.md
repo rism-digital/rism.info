@@ -15,13 +15,13 @@ As you all know, our new cataloging program [Muscat was released last week](/new
 
 From November 14 to 16, Guido Kraus of the RISM Central Office introduced around fifteen participants to Muscat. The workshop attendees were from the National Library (CZ-Pu), the Moravian Museum in Brno (CZ-Bm), and the Slovak National Museum in Bratislava (SK-BRnm). The focus of the workshop was on the structure of the program, its functions, one's own data management, and not least data input. The new cataloguing program Muscat as a very useful tool for music cataloguing will lead us to fruitful international cooperation.
 
-![Group photo](http://rism.info/resources-old-website/news/Gruppenfoto_II.jpg)
+![Group photo](/resources-old-website/news/Gruppenfoto_II.jpg)
 _Coffee break again!_
 
-![Training in progress](http://rism.info/resources-old-website/news/Workshop_training.jpg)
+![Training in progress](/resources-old-website/news/Workshop_training.jpg)
 _The grand finale on the last day_
 
-![Workshop room](http://rism.info/resources-old-website/news/Seminarraum.jpg)
+![Workshop room](/resources-old-website/news/Seminarraum.jpg)
 _Training classroom_
 
 

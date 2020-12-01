@@ -53,7 +53,7 @@ Bei den neu in der Datenbank erfassten Notendrucken wird das Nummerierungssystem
 
 **Elektronische Publikationen:** Jeder Eintrag im Online-Katalog hat einen Permalink. Der Permalink kann zum zitieren in elektronischen Veröffentlichungen verwendet werden (wie in diesem Post zu sehen). Den Permalink finden Sie über dem Komponistennamen:
 
-![RISM permalink](http://rism.info/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
+![RISM permalink](/resources-old-website/news/RISM_zitieren_permalink_1029_x_397.jpg)
 
 -
 
