@@ -250,9 +250,9 @@ Dompfarramt der Kathedrale Dresden (Ex. 7-8) and D-Dl (Ex. 9-20).
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb1.jpg" title="Abb.1"><img src="http://www.rism.info/typo3temp/pics/Abb1_2bed279061.jpg" alt="Abb.1" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb1.jpg" title="Abb.1">Abb.1</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb2.jpg" title="Abb.1"><img src="http://www.rism.info/typo3temp/pics/Abb2_0d8a8a910e.jpg" alt="Abb.2" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb2.jpg" title="Abb.1">Abb.2</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 1 Saxon chancellery writing from records of the Dresden court, ca. 1720<br />
@@ -261,9 +261,9 @@ Dompfarramt der Kathedrale Dresden (Ex. 7-8) and D-Dl (Ex. 9-20).
 <td>Ex. 2: Saxon chancellery writing from records of the Dresden court, 1763/64 (D-Da, Geh.Kab., Loc.589/49, f.10r)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb3.jpg" title="Abb.3"><img src="http://www.rism.info/typo3temp/pics/Abb3_7a5d417a1e.jpg" alt="Abb.3" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb3.jpg" title="Abb.3">Abb.3</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb4.jpg" title="Abb.4"><img src="http://www.rism.info/typo3temp/pics/Abb4_1515360ae2.jpg" alt="Abb.4" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb4.jpg" title="Abb.4">Abb.4</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 3 French script from records of the Dresden court, probably 1720 (D-Da, Geh.Kab., Loc.383/2, f.176r, autograph of the musician and music copyist Prache du Tilloy)</td>
@@ -271,9 +271,9 @@ Dompfarramt der Kathedrale Dresden (Ex. 7-8) and D-Dl (Ex. 9-20).
 <td>Ex. 4: French script from records of the Dresden court, ca. 1764 (D-Da, Geh.Kab., Loc.589/49, f.20r, chancellery writing)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb5.jpg" title="Abb.5"><img src="http://www.rism.info/typo3temp/pics/Abb5_52229edb65.jpg" alt="Abb.5" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb5.jpg" title="Abb.5">Abb.5</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb6.jpg" title="Abb.6"><img src="http://www.rism.info/typo3temp/pics/Abb6_c5100951f2.jpg" alt="Abb.6" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb6.jpg" title="Abb.6">Abb.6</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 5: Italian script from the records of the Dresden court, 1733 (D-Da, Geh.Kab., Loc.383/1, f.27v, autograph, Giovanni Alberto [!] Ristori)</td>
@@ -281,9 +281,9 @@ Dompfarramt der Kathedrale Dresden (Ex. 7-8) and D-Dl (Ex. 9-20).
 <td>Ex. 6: Italian script from the records of the Dresden court, 1772 (D-Da, Geh.Kab., Loc.910/3, f.268v, autograph, Domenico Fischietti)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb7.JPG" title="Abb.7"><img src="http://www.rism.info/typo3temp/pics/Abb7_d382de2492.jpg" alt="Abb.7" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb7.JPG" title="Abb.7">Abb.7</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb8.jpg" title="Abb.8"><img src="http://www.rism.info/typo3temp/pics/Abb8_86036c33aa.jpg" alt="Abb.8" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb8.jpg" title="Abb.8">Abb.8</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 7: Bohemian Jesuit script, marriage entries, 1713-1715 (Kath. Dompfarramt Dresden, Nomina Copulatorum Dresdae in Ecclesia Aulica et Parochiali [...] Anno 1709 [-1777])</td>
@@ -302,9 +302,9 @@ Staatskapelle, 2/2010,
 <table data-border="0" data-cellspacing="10" data-cellpadding="20">
 <tbody>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb9.jpg" title="Abb.9"><img src="http://www.rism.info/typo3temp/pics/Abb9_eaa027a4b5.jpg" alt="Abb.9" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb9.jpg" title="Abb.9">Abb.9</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb10.jpg" title="Abb.10"><img src="http://www.rism.info/typo3temp/pics/Abb10_b0a7b19222.jpg" alt="Abb.10" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb10.jpg" title="Abb.10">Abb.10</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 9: [Original: Illustration III.113.] Court copyist Johann Jacob Lindner (†1733, active until about 1728), around 1719 (D-Dl, Mus.2154-N-1,2, Beginning of viola part, ca. 1719)</td>
@@ -312,9 +312,9 @@ Staatskapelle, 2/2010,
 <td>Ex. 10: [Original: Illustration III.68.] Court music copyist Johann George Kremmler (employed 1733-†1759) (D-Dl, Mus.2455-D-2, f.2r; ca. 1732)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb11.jpg" title="Abb.11"><img src="http://www.rism.info/typo3temp/pics/Abb11_e5fbce6bd0.jpg" alt="Abb.11" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb11.jpg" title="Abb.11">Abb.11</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb12.jpg" title="Abb.12"><img src="http://www.rism.info/typo3temp/pics/Abb12_f45b69b7dc.jpg" alt="Abb.12" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb12.jpg" title="Abb.12">Abb.12</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 11 [Original: Illustration I.6]: Court copyist Johann Gottfried Grundig (employed 1733-†1773) (D-Dl, Mus.2477-F-120,1, f.1r; around 1747)</td>
@@ -322,9 +322,9 @@ Staatskapelle, 2/2010,
 <td>Ex. 12 [Original: Ex. I.15.]: External copyist Johann Gottlieb Morgenstern (Member of the chapel 1722-†1763) (D-Dl, Mus.2477-D-19a, from a violin 1 part; 1744)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb13.jpg" title="Abb.13"><img src="http://www.rism.info/typo3temp/pics/Abb13_19040c2444.jpg" alt="Abb.13" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb13.jpg" title="Abb.13">Abb.13</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb14.jpg" title="Abb.14"><img src="http://www.rism.info/typo3temp/pics/Abb14_898dc88d59.jpg" alt="Abb.14" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb14.jpg" title="Abb.14">Abb.14</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 13 [Original: Ex. I.26.]: Court copyist Carl Gottlob Uhle (employed 1758-†1784) (D-Dl, Mus.2477-F-117, f.58r; 1758)</td>
@@ -332,9 +332,9 @@ Staatskapelle, 2/2010,
 <td>Ex. 14 [Original: Ex. III.48.]: External and court copyist Johann Gottlieb Haußstädler (ca. 1750-ca. 1790) (D-Dl, Mus.3532-F-1, from vol. 1; 1774)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb15.jpg" title="Abb.15"><img src="http://www.rism.info/typo3temp/pics/Abb15_3952c13d3d.jpg" alt="Abb.15" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb15.jpg" title="Abb.15">Abb.15</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb16.jpg" title="Abb.16"><img src="http://www.rism.info/typo3temp/pics/Abb16_8c24bb1652.jpg" alt="Abb.16" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb16.jpg" title="Abb.16">Abb.16</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 15 [Original: Ex. III.159.]: “Pupil” Joseph Schlettner (†1788) for all notes, court copyist Christian Friedrich Funke (employed 1784-†1799) for all lettering (D-Dl, Mus.3480-F-18, from vol. II; ca. 1784)</td>
@@ -342,9 +342,9 @@ Staatskapelle, 2/2010,
 <td>Ex. 16 [Original: Ex. II.29.]: External and court copyist Johann Christoph Zucker (active ca. 1780-†1814) (D-Dl. Mus.4083-F-501, from vol. I; ca. 1808)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb17.jpg" title="Abb.17"><img src="http://www.rism.info/typo3temp/pics/Abb17_82537655db.jpg" alt="Abb.17" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb17.jpg" title="Abb.17">Abb.17</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb18.jpg" title="Abb.18"><img src="http://www.rism.info/typo3temp/pics/Abb18_a0687dffdd.jpg" alt="Abb.18" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb18.jpg" title="Abb.18">Abb.18</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 17 [Original: Ex. II.30.]: External and court copyist Christian Adolph Gutmacher (active ca. 1784-†1822) (D-Dl, Mus.4083-F-501, from vol. I; ca.1808)</td>
@@ -352,9 +352,9 @@ Staatskapelle, 2/2010,
 <td>Ex. 18 [Original: Ex. III.18.]: Court copyist Christian Gottlieb Böhme (employed 1800-†1824) (D-Dl, Mus.4104-F-508, from vol.III; 1816)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb19.jpg" title="Abb.19"><img src="http://www.rism.info/typo3temp/pics/Abb19_023150137e.jpg" alt="Abb.19" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb19.jpg" title="Abb.19">Abb.19</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb20.jpg" title="Abb.20"><img src="http://www.rism.info/typo3temp/pics/Abb20_5cba4c01ea.jpg" alt="Abb.20" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb20.jpg" title="Abb.20">Abb.20</a></p></td>
 </tr>
 <tr class="even">
 <td>Ex. 19 [Original: Ex. III.58.]: Copyist assistant and court copyist Johann Carl Adam Klemm (active ca.1815-†1857) (D-Dl, Mus.4689-G-12, f-2r; 1818)</td>

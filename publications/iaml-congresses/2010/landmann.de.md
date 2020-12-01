@@ -264,9 +264,9 @@ Kathedrale Dresden (Abb.7-8) und D-Dl (Abb.9-20).
 <table data-border="0" data-cellspacing="10" data-cellpadding="20">
 <tbody>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb1.jpg" title="Abb.1"><img src="http://www.rism.info/typo3temp/pics/Abb1_2bed279061.jpg" alt="Abb.1" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb1.jpg" title="Abb.1">Abb.1</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb2.jpg" title="Abb.2"><img src="http://www.rism.info/typo3temp/pics/Abb2_0d8a8a910e.jpg" alt="Abb.2" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb2.jpg" title="Abb.2">Abb.2</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.1: Sächsische Kanzleischrift aus Dresdner Hofakten, ca.1720 (D-Da, OHMA.K.II.5, Innentitel)</td>
@@ -274,9 +274,9 @@ Kathedrale Dresden (Abb.7-8) und D-Dl (Abb.9-20).
 <td>Abb.2: Sächsische Kanzleischrift aus Dresdner Hofakten, 1763/64 (D-Da, Geh.Kab., Loc.589/49, f.10r)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb3.jpg" title="Abb.3"><img src="http://www.rism.info/typo3temp/pics/Abb3_7a5d417a1e.jpg" alt="Abb.3" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb3.jpg" title="Abb.3">Abb.3</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb4.jpg" title="Abb.4"><img src="http://www.rism.info/typo3temp/pics/Abb4_1515360ae2.jpg" alt="Abb.4" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb4.jpg" title="Abb.4">Abb.4</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.3 Französisches Schriftbild aus Dresdner Hofakten, wohl 1720 (D-Da, Geh.Kab., Loc.383/2, f.176r, Autograph des Musikers und Notisten Prache du Tilloy)</td>
@@ -284,9 +284,9 @@ Kathedrale Dresden (Abb.7-8) und D-Dl (Abb.9-20).
 <td>Abb.4: Französisches Schriftbild aus Dresdner Hofakten, ca. 1764 (D-Da, Geh.Kab., Loc.589/49, f.20r, Kanzlistenschrift)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb5.jpg" title="Abb.5"><img src="http://www.rism.info/typo3temp/pics/Abb5_52229edb65.jpg" alt="Abb.5" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb5.jpg" title="Abb.5">Abb.5</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb6.jpg" title="Abb.6"><img src="http://www.rism.info/typo3temp/pics/Abb6_c5100951f2.jpg" alt="Abb.6" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb6.jpg" title="Abb.6">Abb.6</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.5: Italienisches Schriftbild aus Dresdner Hofakten, 1733 (D-Da, Geh.Kab., Loc.383/1, f.27v, Autograph Giovanni Alberto [!] Ristori)</td>
@@ -294,9 +294,9 @@ Kathedrale Dresden (Abb.7-8) und D-Dl (Abb.9-20).
 <td>Abb.6: Italienisches Schriftbild aus Dresdner Hofakten, 1772 (D-Da, Geh.Kab., Loc.910/3, f.268v, Autograph Domenico Fischietti)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb7.JPG" title="Abb.7"><img src="http://www.rism.info/typo3temp/pics/Abb7_d382de2492.jpg" alt="Abb.7" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb7.JPG" title="Abb.7">Abb.7</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb8.jpg" title="Abb.8"><img src="http://www.rism.info/typo3temp/pics/Abb8_86036c33aa.jpg" alt="Abb.8" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb8.jpg" title="Abb.8">Abb.8</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.7: Böhmisch-jesuitische Schrift, Trauungs-Einträge, 1713-1715 (Kath. Dompfarramt Dresden, Nomina Copulatorum Dresdae in Ecclesia Aulica et Parochiali [...] Anno 1709 [- 1777])</td>
@@ -315,9 +315,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <table data-border="0" data-cellspacing="10" data-cellpadding="20">
 <tbody>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb9.jpg" title="Abb.9"><img src="http://www.rism.info/typo3temp/pics/Abb9_eaa027a4b5.jpg" alt="Abb.9" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb9.jpg" title="Abb.9">Abb.9</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb10.jpg" title="Abb.10"><img src="http://www.rism.info/typo3temp/pics/Abb10_b0a7b19222.jpg" alt="Abb.10" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb10.jpg" title="Abb.10">Abb.10</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.9: Hofnotist Johann Jacob Lindner (†1733, tätig bis etwa 1728), um 1719 (D-Dl, Mus.2154-N-1,2, Beginn einer Stimme vla; ca.1719)</td>
@@ -325,9 +325,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <td>Abb.10: Hofnotist Johann George Kremmler (angestellt 1733-†1759) (D-Dl, Mus.2455-D-2, f.2r; ca.1732)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb11.jpg" title="Abb.11"><img src="http://www.rism.info/typo3temp/pics/Abb11_e5fbce6bd0.jpg" alt="Abb.11" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb11.jpg" title="Abb.11">Abb.11</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb12.jpg" title="Abb.12"><img src="http://www.rism.info/typo3temp/pics/Abb12_f45b69b7dc.jpg" alt="Abb.12" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb12.jpg" title="Abb.12">Abb.12</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.11: Hofnotist Johann Gottfried Grundig (angestellt 1733-†1773) (D-Dl, Mus.2477-F-120,1, f.1r; um 1747)</td>
@@ -335,9 +335,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <td>Abb.12: Honorar-Notist Johann Gottlieb Morgenstern (Kapellmitglied 1722-†1763) (D-Dl, Mus.2477-D-19a, aus einer Stimme vl 1; 1744)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb13.jpg" title="Abb.13"><img src="http://www.rism.info/typo3temp/pics/Abb13_19040c2444.jpg" alt="Abb.13" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb13.jpg" title="Abb.13">Abb.13</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb14.jpg" title="Abb.14"><img src="http://www.rism.info/typo3temp/pics/Abb14_898dc88d59.jpg" alt="Abb.14" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb14.jpg" title="Abb.14">Abb.14</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.13: Hofnotist Carl Gottlob Uhle (angestellt 1758-†1784) (D-Dl, Mus.2477-F-117, f.58r; 1758)</td>
@@ -345,9 +345,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <td>Abb.14: Honorar- und Hofnotist Johann Gottlieb Haußstädler (ca.1750-ca.1790) (D-Dl, Mus.3532-F-1, aus vol.I; 1774)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb15.jpg" title="Abb.15"><img src="http://www.rism.info/typo3temp/pics/Abb15_3952c13d3d.jpg" alt="Abb.15" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb15.jpg" title="Abb.15">Abb.15</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb16.jpg" title="Abb.16"><img src="http://www.rism.info/typo3temp/pics/Abb16_8c24bb1652.jpg" alt="Abb.16" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb16.jpg" title="Abb.16">Abb.16</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.15: „Schüler“ Joseph Schlettner (†1788) für sämtliche Noten, Hofnotist Christian Friedrich Funke (angestellt 1784-†1799) für sämtliche Buchstabenschrift (D-Dl, Mus.3480-F-18, aus vol.II; ca.1784)</td>
@@ -355,9 +355,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <td>Abb.16: Lohn- und Hofnotist Johann Christoph Zucker (tätig ca.1780-†1814) (D-Dl, Mus.4083-F-501, aus vol.I; ca.1808)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb17.jpg" title="Abb.17"><img src="http://www.rism.info/typo3temp/pics/Abb17_82537655db.jpg" alt="Abb.17" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb17.jpg" title="Abb.17">Abb.17</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb18.jpg" title="Abb.18"><img src="http://www.rism.info/typo3temp/pics/Abb18_a0687dffdd.jpg" alt="Abb.18" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb18.jpg" title="Abb.18">Abb.18</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.17: Lohn- und Hofnotist Christian Adolph Gutmacher (tätig ca.1784-†1822) (D-Dl, Mus.4083-F-501, aus vol.I; ca.1808)</td>
@@ -365,9 +365,9 @@ Staatskapelle, <sup>2</sup>/2010, \[URL:
 <td>Abb.18: Hofnotist Christian Gottlieb Böhme (angestellt 1800-†1824) (D-Dl, Mus.4104-F-508, aus vol.III; 1816)</td>
 </tr>
 <tr class="odd">
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb19.jpg" title="Abb.19"><img src="http://www.rism.info/typo3temp/pics/Abb19_023150137e.jpg" alt="Abb.19" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb19.jpg" title="Abb.19">Abb.19</a></p></td>
 <td> </td>
-<td><p><a href="/resources/publications/iaml-congresses/2010/Abb20.jpg" title="Abb.20"><img src="http://www.rism.info/typo3temp/pics/Abb20_5cba4c01ea.jpg" alt="Abb.20" /></a></p></td>
+<td><p><a href="/resources/publications/iaml-congresses/2010/Abb20.jpg" title="Abb.20">Abb.20</a></p></td>
 </tr>
 <tr class="even">
 <td>Abb.19: Notisten-Assistent und Hofnotist Johann Carl Adam Klemm (tätig ca.1815-†1857) (D-Dl, Mus.4689-G-12, f.2r; 1818)</td>
