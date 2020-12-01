@@ -76,7 +76,7 @@ Die beliebtesten Links auf unserer Facebook-Seite waren:
 
 Anhand der Liste bemerken Sie, dass 2014 ein Jahr der aufregenden Entdeckungen war.
 
-RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliographie](http://www.rism.info/de/publications/bibliography.html){:target="_blank"} aufgeführt haben:
+RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliographie](/publications/bibliography.html){:target="_blank"} aufgeführt haben:
 
 - Geck, Karl Wilhelm. Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen, in BIS - Das Magazin der Bibliotheken in Sachsen 7(2014)3, S. 179. [Online erhältlich](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
 

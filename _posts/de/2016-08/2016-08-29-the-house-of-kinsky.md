@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Dieser Beitrag zur Serie [RISM A-Z](http://www.rism.info/de/home/news-archive/select/rism_a_z){:target="_blank"} beschäftigt sich mit dem Namen Kinsky, einer Adelsfamilie mit einer langen Verbundenheit zur Musik.
+Dieser Beitrag zur Serie [RISM A-Z](/news-archive/rism_a_z){:target="_blank"} beschäftigt sich mit dem Namen Kinsky, einer Adelsfamilie mit einer langen Verbundenheit zur Musik.
 
 Mit dem Namen Kinsky verbindet man im musikgeschichtlichen Kontext heute in erster Linie Ferdinand Johannes Nepomuk Joseph Fürst Kinsky von Wchinitz und Tettau oder kurz Ferdinand von Kinsky (1781-1812), der vor allem als einer der wichtigen Förderer Beethovens bekannt ist - neben Joseph Franz Maximilian von Lobkowitz (1772-1816) und Rudolph, Erzherzog von Österreich (1788-1831). Aufgrund des frühen und unerwarteten Todes von Ferdinand von Kinsky in Folge eines Reitunfalls verzögerte sich jedoch die Auszahlung von [Beethovens Rente](http://www.beethoven-haus-bonn.de/sixcms/detail.php/35278){:target="_blank"}.
 

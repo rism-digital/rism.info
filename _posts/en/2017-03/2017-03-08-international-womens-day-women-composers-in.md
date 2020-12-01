@@ -34,8 +34,6 @@ p = after
 
 2017/01/10
 
-[http://www.rism.info/index.php?eID=tx\_cms\_showpic&file=uploads%2Fpics%2FJubilaeen\_2017.jpg&md5=5dd543d8f9472d930044088fb6381d312dcb472c&parameters[0]=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters[1]=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters[2]=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters[3]=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D](http://www.rism.info/index.php?eID=tx_cms_showpic&file=uploads%2Fpics%2FJubilaeen_2017.jpg&md5=5dd543d8f9472d930044088fb6381d312dcb472c&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
-
 **Happy New Year!**
 
 We start the year by looking ahead and getting ready to celebrate people in the RISM database who will have a major birthday this year or to remember those who died. We would like to begin 2017 with an overview of these people: they are not only composers but also include librettists, musicians, dedicatees, or people who are in other ways related to a source. They were born or died in a year ending in 17 or 67.

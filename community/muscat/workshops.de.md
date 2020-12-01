@@ -13,7 +13,7 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-* Herbst-Workshops: Muscat Einführung, online. Deutsch- und Englischsprachige Sitzungen. Siehe die [Ankündigung für weitere Informationen](http://www.rism.info/de/startseite/newsdetails/article/2/introductory-muscat-workshops-in-november.html){:target="_blank"}.
+* Herbst-Workshops: Muscat Einführung, online. Deutsch- und Englischsprachige Sitzungen.
     - 16\. und 18\. November 2020 (Deutsch, Englisch)
     - 23\. und 25\. November  2020 (Italienisch)
     - 24\. und 26\. November 2020 (Englisch)

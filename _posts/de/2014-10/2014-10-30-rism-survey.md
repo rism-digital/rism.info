@@ -26,7 +26,7 @@ Eine Teilnahme ist bis zum 18. Januar 2015 möglich.
 Bitte leiten Sie diese Nachricht auch an andere potentielle Interessenten weiter: Musikantiquare, Archivare, Bibliothekare, Musiker, Musikwissenschaftler, Professoren und Studenten. Wir benötigen insbesondere Ihre Hilfe bei der Verbreitung in andere Länder.
 
 
-Druckerfreundliche Versionen der Ankündigung zum Aushängen oder Verteilen an Ihrer Institution können Sie hier downloaden:[http://www.rism.info/de/community/rism-nutzerstudie.html](/de/community/rism-nutzerstudie.html#c2942 "Öffnet internen Link im aktuellen Fenster")
+Druckerfreundliche Versionen der Ankündigung zum Aushängen oder Verteilen an Ihrer Institution können Sie hier downloaden:[http://www.rism.info/community/survey.html](/community/survey.html)
 
 
 Eine englische Version der Umfrage finden Sie hier: [http://goo.gl/forms/p40bcrZcJI](http://goo.gl/forms/p40bcrZcJI)

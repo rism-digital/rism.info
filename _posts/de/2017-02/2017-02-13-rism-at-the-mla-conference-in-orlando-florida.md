@@ -35,7 +35,7 @@ Klaus Keil, Leiter der RISM Zentraredaktion in Frankfurt, wird einen Überblick 
 [Freitag, 24. Februar, 14:00 - 14:25 Uhr](http://www.musiclibraryassoc.org/mpage/mla_2017_fr_2_4){:target="_blank"}
 
 
-Sarah Adams und Christina Linklater vom US-RISM zeigen eine kurze Einführung in [Muscat](http://www.rism.info/en/community/muscat.html){:target="_blank"}, unser browserbasiertes, frei zugängliches Erfassungsprogramm zur Katalogisierung der Musikquellen, wie Handschriften, Notendrucke, Libretti und Theoretika.
+Sarah Adams und Christina Linklater vom US-RISM zeigen eine kurze Einführung in [Muscat](/community/muscat.html){:target="_blank"}, unser browserbasiertes, frei zugängliches Erfassungsprogramm zur Katalogisierung der Musikquellen, wie Handschriften, Notendrucke, Libretti und Theoretika.
 
 
 **Katalogisieren mit Muscat**

@@ -21,7 +21,7 @@ The Sächsische Landes- und Universitätsbibliothek in Dresden ([D-Dl](https://o
 - [Rainer Kunad](https://opac.rism.info/metaopac/search?View=rism&author=139139834){:target="_blank"} (1936-1995); 338 sources
 - [Rudolf Mauersberger](https://opac.rism.info/metaopac/search?View=rism&author=13445829X){:target="_blank"} (1889-1971); 497 sources
 
-Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library [on the RISM website in 2014](http://www.rism.info/en/home/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html){:target="_blank"}. Some of the ones that are in RISM are:
+Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library. Some of the ones that are in RISM are:
 
 - [Günter Bialas](https://opac.rism.info/metaopac/search?View=rism&author=310018846){:target="_blank"} (1907-1995); 431 sources
 - [Hugo Distler](https://opac.rism.info/metaopac/search?View=rism&author=118679848){:target="_blank"} (1908-1942); 202 sources

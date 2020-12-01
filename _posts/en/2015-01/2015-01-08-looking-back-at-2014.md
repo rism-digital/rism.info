@@ -83,7 +83,7 @@ The most popular links on our Facebook page were:
 
 As you may have noticed from this list, 2014 was a year of exciting discoveries.
 
-RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](http://www.rism.info/en/publications/bibliography.html){:target="_blank"}:
+RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](/publications/bibliography.html){:target="_blank"}:
 
 - Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen."_BIS: Das Magazin der Bibliotheken in Sachsen_ 7:3 (2014), 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}
 

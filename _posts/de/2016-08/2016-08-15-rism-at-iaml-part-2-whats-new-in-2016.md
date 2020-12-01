@@ -29,11 +29,11 @@ Der[Online-Katalog](https://opac.rism.info/){:target="_blank"} wird im Spätherb
 
 -
 
-Auch[Serie B](http://www.rism.info/de/publikationen.html) wächst weiter und der Band_Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wirdin diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
+Auch[Serie B](/publications.html) wächst weiter und der Band_Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wirdin diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
 
 -
 
-Die Ergebnisse der[RISM-Nutzerstudie](http://www.rism.info/de/community/rism-nutzerstudie.html)wurdenveröffentlicht.
+Die Ergebnisse der[RISM-Nutzerstudie](/community/survey.html)wurdenveröffentlicht.
 
 -
 

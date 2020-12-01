@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](http://www.rism.info/de/publikationen/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
+2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](/publications/conferences/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
 
 Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die beliebtesten Nachrichten des letzten Jahres:
 

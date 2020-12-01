@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-RISM kündigt den neuesten Band der [Publikationsserie B](http://www.rism.info/de/publikationen.html#c2619){:target="_blank"} an, in der Quellenrepertorien nach thematischen Schwerpunkten beschriiben werden:
+RISM kündigt den neuesten Band der [Publikationsserie B](/publikationen.html){:target="_blank"} an, in der Quellenrepertorien nach thematischen Schwerpunkten beschriiben werden:
 
 Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](http://henle.de/de/detail/index.html?Titel=Catalogue+raisonn%C3%A9+of+the+Balinese+Palm-Leaf+Manuscripts+with+Music+Notation_2530){:target="_blank"}_. RISM B/XVI. München: Henle 2015. 309 Seiten. ISBN 978-3-87328-155-4
 

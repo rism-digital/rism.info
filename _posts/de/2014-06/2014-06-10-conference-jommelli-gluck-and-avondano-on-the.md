@@ -19,7 +19,7 @@ June 20-21, Queluz National Palace
 
 For more information, see the [website of the CEMSP](http://cemsp.blogspot.pt/2014/06/cemsp-18th-century-musical-studies.html){:target="_blank"} or contact [cesmpqueluz@yahoo.com.](mailto:cesmpqueluz@yahoo.com)
 
-Avondano [was one of the composers featured](http://www.rism.info/en/home/newsdetails/browse/1/article/64/rism-from-a-z-pedro-antonio-avondano.html){:target="_blank"} in our new series RISM A-Z.
+Avondano [was one of the composers featured](/rism_a_z/2014/03/25/pedro-antónio-avondano.html){:target="_blank"} in our new series RISM A-Z.
 
 Para assinalar o seu primeiro ano de actividade o CEMSP apresentauma conferência internacional celebrando o 300º aniversáriodos nascimentosde Avondano, Gluck e Jomelli.
 

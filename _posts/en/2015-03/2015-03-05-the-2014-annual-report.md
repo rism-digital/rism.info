@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The [annual report for 2014](http://www.rism.info/en/publications/annual-reports/2014.html){:target="_blank"} has been posted to the RISM website. Did you know that thanks to the hard work of our colleagues--in over 35 countries around the world--there are over 880,000 records in the online database?
+The [annual report for 2014](/publications/annual-reports/2014.html){:target="_blank"} has been posted to the RISM website. Did you know that thanks to the hard work of our colleagues--in over 35 countries around the world--there are over 880,000 records in the online database?
 
 Other highlights from 2014:
 

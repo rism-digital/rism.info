@@ -27,7 +27,7 @@ Einige Nachlässe von Komponisten des 20. Jahrhunderts aus Dresden:
 - [Rainer Kunad](https://opac.rism.info/metaopac/search?View=rism&author=139139834){:target="_blank"} (1936-1995); 338 Quellen
 - [Rudolf Mauersberger](https://opac.rism.info/metaopac/search?View=rism&author=13445829X){:target="_blank"} (1889-1971); 497 Quellen
 
-Bereits Ende 2014 stellte Uta Schaumberg die Nachlässe in der Bayerischen Staatsbibliothek [auf der RISM Website](http://www.rism.info/de/home/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html){:target="_blank"} vor. Einige Nachlässe von Komponisten des 20. Jahrhunderts aus München:
+Bereits Ende 2014 stellte Uta Schaumberg die Nachlässe in der Bayerischen Staatsbibliothek vor. Einige Nachlässe von Komponisten des 20. Jahrhunderts aus München:
 
 - [Günter Bialas](https://opac.rism.info/metaopac/search?View=rism&author=310018846){:target="_blank"} (1907-1995); 431 Quellen
 - [Hugo Distler](https://opac.rism.info/metaopac/search?View=rism&author=118679848){:target="_blank"} (1908-1942); 202 Quellen

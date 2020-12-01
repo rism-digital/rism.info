@@ -11,7 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-We are pleased to announce that there are a couple of new tools to assist our colleagues who use Kallisto in English. These can be seen when you visit the [Manuals & Tools page](http://www.rism.info/en/community/kallisto/manuals-and-tools.html){:target="_blank"}, which is linked from the main Community page when you are logged in.
+We are pleased to announce that there are a couple of new tools to assist our colleagues who use Kallisto in English.
 
 Kallisto is RISM's software program for cataloging music manuscripts in series A/II, Music Manuscripts after 1600. The program is available at no charge from the Zentralredaktion to anyone who is interested in cataloging musical sources in their country. Please [contact the RISM Zentralredaktion](mailto:contact@rism.info) to find out more.
 
@@ -28,5 +28,3 @@ The manual that accompanies the Kallisto program has been updated. It offers a n
 In addition, the first of five planned Kallisto tutorials is complete. The first one gives an overview of Kallisto. Future tutorials will be finished in the next few weeks and will include tips on searching Kallisto, how to catalog music manuscripts, and how to enter a music incipit. These tutorials are especially helpful to people who are just starting out with Kallisto or who want to see a demonstration before they try it themselves.
 
 The Kallisto tutorial can also be found on the RISM Zentralredaktion's new [YouTube channel](http://www.youtube.com/user/RISMZentralredaktion){:target="_blank"}.
-
-Leave your comments and suggestions below. Registered users of the RISM website can also post comments in the [RISM Community forum](http://www.rism.info/en/community/forum.html?tx_mmforum_pi1%5Baction%5D=list_post&tx_mmforum_pi1%5Btid%5D=62){:target="_blank"}.

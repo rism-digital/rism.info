@@ -11,7 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-RISM freut sich mit dem neuen Update des[Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} die Dokumentation der Musikdrucke erweitern zu können. Zwei seiner Hauptpublikationen sind dem Online-Katalog hinzugefügt worden und für jeden frei verfügbar unter [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} und [www.rism.info](http://www.rism.info/en/home.html){:target="_blank"}:
+RISM freut sich mit dem neuen Update des[Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} die Dokumentation der Musikdrucke erweitern zu können. Zwei seiner Hauptpublikationen sind dem Online-Katalog hinzugefügt worden und für jeden frei verfügbar unter [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} und [www.rism.info](http://www.rism.info){:target="_blank"}:
 
 
 -

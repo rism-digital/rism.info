@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Die meisten unserer Leser sind mit den RISM-Bibliothekssigeln vertraut, bei denen es sich um Abkürzungen handelt, die sich in knapper Form auf eine Institution beziehen. Wir versuchen jede Institution, die Materialien zur Musikforschung besitzt, weltweit zu dokumentieren und mit einem Sigel zu versehen. Alle Institutionen mit einem Sigel können im Online-Verzeichnis der RISM-Bibliothekssigel gesucht werden: [http://www.rism.info/de/rism-bibliothekssigel/](/de/rism-bibliothekssigel.html)
+Die meisten unserer Leser sind mit den RISM-Bibliothekssigeln vertraut, bei denen es sich um Abkürzungen handelt, die sich in knapper Form auf eine Institution beziehen. Wir versuchen jede Institution, die Materialien zur Musikforschung besitzt, weltweit zu dokumentieren und mit einem Sigel zu versehen. Alle Institutionen mit einem Sigel können im Online-Verzeichnis der RISM-Bibliothekssigel [gesucht werden](/community/sigla.html).
 
 Unter "jede Institution weltweit" verstehen wir wirklich jede Institution. Wir benötigen keine Quellen im RISM-Katalog, um ein Sigel zu erstellen, und die Materialien müssen nicht unbedingt alt sein.
 

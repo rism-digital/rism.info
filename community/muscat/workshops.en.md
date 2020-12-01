@@ -15,7 +15,7 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops
 
-* Fall workshops: Muscat introduction, online, German and English. [See the announcement for more information](http://www.rism.info/en/home/newsdetails/article/2/introductory-muscat-workshops-in-november.html).
+* Fall workshops: Muscat introduction, online, German and English.
     - November 16 and 18, 2020 (German, English)
     - November 23 and 25, 2020 (Italian)
     - November 24 and 26, 2020 (English)

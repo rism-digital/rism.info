@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Der[Jahresbericht für 2014](http://www.rism.info/en/publications/annual-reports/2014.html){:target="_blank"} ist auf die RISM Website gestellt worden. Wussten Sie, dass dank der kontinuierlichen Arbeit unserer Kollegen - in über 35 Ländern der Welt - es mehr als 880.000 Nachweise in der Online-Datenbank gibt?
+Der[Jahresbericht für 2014](/publications/annual-reports/2014.html){:target="_blank"} ist auf die RISM Website gestellt worden. Wussten Sie, dass dank der kontinuierlichen Arbeit unserer Kollegen - in über 35 Ländern der Welt - es mehr als 880.000 Nachweise in der Online-Datenbank gibt?
 
 
 Einige Höhepunkte des Jahres 2014:
