@@ -11,7 +11,7 @@ email: jlazos11@hotmail.com
 author: Dr. John G. Lazos
 ---
 
-_Den folgenden Beitrag erhielten wir von unserem RISM-Kollegen [John G. Lazos](/de/workgroups/mexico-dr-john-g-lazos/home.html):_
+_Den folgenden Beitrag erhielten wir von unserem RISM-Kollegen [John G. Lazos](/international/working-groups.html):_
 
 **John G. Lazos, _Catálogo del Acervo Musical del Colegio de Vizcaínas (Amcv). La memoria sonora de los colegios femeninos en México entre los siglos XVI-XIX_, 2019**. **[Verfügbar über academia.edu](https://www.academia.edu/39887044/Cat%C3%A1logo_del_Acervo_Musical_del_Colegio_de_Vizca%C3%ADnas_AMCV_La_memoria_sonora_de_los_colegios_femeninos_en_M%C3%A9xico_entre_los_siglos_XVI-XIX_Introducci%C3%B3n_en_espa%C3%B1ol_y_en_ingl%C3%A9s_){:target="_blank"}**.
 

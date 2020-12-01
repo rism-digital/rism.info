@@ -62,7 +62,7 @@ The ten most popular stories on our website were (according to our website stati
 
 9.
 
-[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
+[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html){:target="_blank"}
 
 This list also highlights the work of our colleagues in different countries: Belgium, Germany, Ireland, Portugal, and the United Kingdom.
 

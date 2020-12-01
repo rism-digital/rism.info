@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-At RISM we [regularly receive requests](/new_at_rism/2015/07/02/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/sigla.html) to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
+At RISM we [regularly receive requests](/new_at_rism/2015/07/02/no-siglum-no-problem.html){:target="_blank"} from scholars, archivists, and librarians for new [library sigla](/community/sigla.html) to be created. In the course of our daily work, we also stumble upon institutions for which we have no siglum. Such was the case when we read about the [Aram Khachaturian Museum](http://akhachaturianmuseum.am/?lg=en){:target="_blank"} in Yerevan, Armenia.
 
 There is now an official RISM siglum for this institution: **ARM-Yakm**
 

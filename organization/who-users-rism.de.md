@@ -31,7 +31,7 @@ permalink: /organization/who-uses-rism.html
 
 "Als Musiker der Historischen Interpretationspraxis, der gleichermaßen praktisch wie wissenschafllich arbeitet, bin ich ständig auf der Suche nach musikalischen Originalquellen. Dies betrifft sowohl Handschriften oder Drucke eher unbekannter Werke als auch die der "Klassiker". Die Arbeit des RISM ist mir bei dieser täglichen Arbeit eine unschätzbare und unersetzliche Hilfe. Dies betrifft die gedruckten Bände zu den Musikdrucken, die mittlerweile über das Internet öffentlich zugängige Recherche zu den Manuskripten als auch die persönliche Betreuung vor Ort durch die Mitarbeiter des RISM. Ich bin jedenfalls dankbar darüber, daß dieses für die Musikwelt so wichtige Institut zufällig in Frankfurt beheimatet ist!"
 
-Und hier einige Kommentare aus unserer [RISM Umfrage](/community/survey-2014-2015.html) (2014-2015):
+Und hier einige Kommentare aus unserer [RISM Umfrage](/community/survey.html) (2014-2015):
 
 * "A powerful tool for research." (Vereinigte Staaten)
 * "Einfach die 'erste Adresse'." (Deutschland)

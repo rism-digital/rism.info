@@ -11,7 +11,7 @@ email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-_The following has reached us from TSENG Tzu-Chia of the [RISM-Chinese Language Region](/workgroups/chinese-language-region/home.html) working group:_
+_The following has reached us from TSENG Tzu-Chia of the [RISM-Chinese Language Region](/international/working-groups.html) working group:_
 
 The annual meeting of the Collaborative Project on Chinese Music Resources and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China took place on November 8, 2017. At the same time, a RISM Cataloging Workshop was organized. Klaus Keil, Director of the RISM Central Office; Nora Yeh, International Consultant of the RISM-Chinese Language Region; HUANG Chun-Zen, Director of Digital Archive Center for Music (DACM), NTNU; TSENG Tzu-Chia, a researcher at DACM; YANG Yandi, Vice President of the Shanghai Conservatory of Music (SHCM); SHI Yin,ViceDirector of SHCM Library; HAN Bin, the associate researcher of SHCM Library; and colleagues from the Hong Kong Chinese Orchestra and SHCM Library attended these related activities.
 

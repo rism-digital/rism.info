@@ -16,7 +16,7 @@ Neues RISM Kurzporträt erschienen.
 
 Das RISM Kurzporträt ist eine 14-seitige, farbige Broschüre, die die Ziele, Projekte und Organisation des RISM beschreibt. Sie steht allen Interessenten kostenlos zur Verfügung.
 
-Die Broschüre ist als PDF auf unserer [Publikationsseite](/de/publikationen/broschueren.html) erhältlich.
+Die Broschüre ist als PDF auf unserer [Publikationsseite](/publications/brochures.html) erhältlich.
 
 Wenn Sie an gedruckten Exemplaren der Broschüre - ebenso kostenlos - interessiert sind, kontaktieren Sie uns bitte: [contact@rism.info](mailto:contact@rism.info). Teilen Sie uns bitte mit, wie viele Exemplare Sie wünschen, um diese an Studenten Ihrer Fakultät oder Kollegen zu verteilen.
 

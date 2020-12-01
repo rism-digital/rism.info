@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-RISM wird von internationalen Partnern gestützt und profitiert von verschiedenen Strukturen, um eine enge Beziehung zwischen RISM, den Partnergesellschaften und den Arbeitsgruppen aufrechtzuerhalten. Eines dieser Gremien ist das [Advisory Council](/de/unternehmen/internationale-partner.html), zu dessen Mitgliedern alle aktiven RISM-Mitarbeiter weltweit gehören. Fünf gewählte Mitglieder des Advisory Council bilden das Coordinating Committee. Es hat die Aufgabe, die Wünsche und Anforderungen von einer der beiden Seiten zu vermitteln sowie den Austausch zwischen den Arbeitsgruppen zu befördern.
+RISM wird von internationalen Partnern gestützt und profitiert von verschiedenen Strukturen, um eine enge Beziehung zwischen RISM, den Partnergesellschaften und den Arbeitsgruppen aufrechtzuerhalten. Eines dieser Gremien ist das [Advisory Council](/organization/international-partners.html), zu dessen Mitgliedern alle aktiven RISM-Mitarbeiter weltweit gehören. Fünf gewählte Mitglieder des Advisory Council bilden das Coordinating Committee. Es hat die Aufgabe, die Wünsche und Anforderungen von einer der beiden Seiten zu vermitteln sowie den Austausch zwischen den Arbeitsgruppen zu befördern.
 
 Wir heißen die fünf neuen Mitglieder des Coordinating Committee willkommen:
 

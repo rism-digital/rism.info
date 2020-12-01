@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/de/publikationen/jahresberichte/2019.html) lesen. Hier sind einige Besonderheiten daraus:
+Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/publications/annual-reports/2019.html) lesen. Hier sind einige Besonderheiten daraus:
 
 **Neuer Vorstand:**
 Präsident: Prof. Dr. Klaus Pietschmann, Mainz
@@ -32,9 +32,9 @@ Schatzmeisterin: Jane Gottlieb, New York
 **Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](/new_at_rism/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
 
 **Konferenz zur Werkebene:**
-Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/de/publikationen/werkebene-2019.html).
+Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/publications/conferences/work-level-2019.html).
 
-**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/de/publikationen/bibliographie.html).
+**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/publications/bibliography.html).
 
 **Und wie immer** :
 

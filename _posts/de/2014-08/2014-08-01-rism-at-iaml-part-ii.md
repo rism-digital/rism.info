@@ -17,7 +17,7 @@ Höhepunkte waren:
 
 -
 
-[Neuer Vorstand](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html#c275 "Öffnet internen Link im aktuellen Fenster") und neue Zusammensetzung des [Coordinating Committee](/de/unternehmen/internationale-partner.html#c117 "Öffnet internen Link im aktuellen Fenster")
+[Neuer Vorstand](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html#c275) und neue Zusammensetzung des [Coordinating Committee](/de/unternehmen/internationale-partner.html#c117)
 
 -
 

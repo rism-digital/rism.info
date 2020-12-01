@@ -32,6 +32,6 @@ Nevertheless, work titles in libraries are an important tool with which musical 
 
 The conference and workshop is intended to enable a dialogue for the different points of view and expectations of musicologists and librarians and to develop solutions for RISM as a project between the two sides.
 
-More information can be found [on the conference website](/publications/introducing-a-work-level-in-rism-2019.html).
+More information can be found [on the conference website](/publications/conferences/work-level-2019.html).
 
 

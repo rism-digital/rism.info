@@ -13,7 +13,7 @@ author: ''
 
 Dank der Bemühungen unserer Kollegen in anderen Ländern sind zwei Veranstaltungen zum Studium der Musikquellen möglich: ein Workshop und ein Praktikum.
 
-[**Muscat Workshop**](/de/community/muscat.html#c3451 "Öffnet internen Link im aktuellen Fenster")
+[**Muscat Workshop**](/de/community/muscat.html#c3451)
 **Universidad Nacional de Córdoba, Argentinien**
 **25.-29. März 2019**
 

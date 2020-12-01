@@ -21,7 +21,7 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 
 4. [Lili Boulanger (21 August 1893–15 March 1918)](/events/2018/03/15/lili-boulanger-21-august-189315-march-1918.html){:target="_blank"} by Anya Holland-Barry
 
-5. ["Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach--a-newly-discovered.html){:target="_blank"} by Helmut Lauterwasser
+5. ["Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach-a-newly-discovered.html){:target="_blank"} by Helmut Lauterwasser
 
 6. [RISM's B/III (The Theory of Music) Now a Database](/electronic_resources/2018/04/09/risms-biii-the-theory-of-music-now-a-database.html){:target="_blank"} by Christian Meyer
 

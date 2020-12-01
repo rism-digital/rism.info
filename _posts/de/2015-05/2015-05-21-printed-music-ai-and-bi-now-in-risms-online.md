@@ -16,12 +16,12 @@ RISM freut sich mit dem neuen Update des[Online-Katalogs](https://opac.rism.info
 
 -
 
-Die gesamte Serie [A/I, _Einzeldrucke vor 1800_](/de/publikationen.html#c36)_[Publikationen](/de/publikationen.html#c36)_
+Die gesamte Serie [A/I, _Einzeldrucke vor 1800_](/publications.html#c36)_[Publikationen](/publications.html#c36)_
 Veröffentlicht als CD-ROM im Jahr 2012 und davor in 14 gedruckten Bänden
 
 -
 
-Ein Teil der Serie[B/I,](/de/publikationen.html#c2619)_[Recueils imprimés, XVIe-XVIIe siècles](/de/publikationen.html#c2619)_ (Sammeldrucke des 16. - 18. Jahrhunderts), die Jahre 1500-1550 abdeckend
+Ein Teil der Serie[B/I,](/publications.html#c2619)_[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619)_ (Sammeldrucke des 16. - 18. Jahrhunderts), die Jahre 1500-1550 abdeckend
 
 
 DieHinzufügung dieser gedruckten Quellen lässt die Zahl der Nachweise im Online-Katalog auf über 1.010.000 hochschnellen. Neue Suchfelder bieten sich den Nutzern für die Suche nach **Verleger** , **A/I oder B/I Nummer** und **Platennummer**. Suchergebnisse können über die Kategorien **Verleger** oder die RISM **Serien** verfeinert werden. Symbole für Drucke und Manuskripte erlauben eine schnelle visuelle Erkennung.

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Sowohl diese als auch nächste Woche werden wieder [Muscat](/de/community/muscat.html "Öffnet internen Link im aktuellen Fenster")-Schulungen abgehalten.
+Sowohl diese als auch nächste Woche werden wieder [Muscat](/de/community/muscat.html)-Schulungen abgehalten.
 
 Vom 4. - 6. Oktober 2018 steht in der RISM- Zentralredaktion in Frankfurt erstmals die Katalogisierung von Musikdrucken im Vordergrund. 14 Teilnehmer aus dem In- und Ausland haben sich hierzu angemeldet. Da mehrere Bibliotheken ein Exemplar eines Musikdrucks besitzen können, ist die Katalogisierung der Musikdrucke von der der Handschriften zu unterscheiden. Vorhandene RISM-Datensätze müssen anhand festgelegter Kriterien gesucht und bewertet werden. Im Workshop werden die Teilnehmer über die Richtlinien für Musikdrucke informiert, wie sie ihre Bibliotheksbestände hinzufügen und bearbeiten können und wie neue Datensätze zu Musikdrucken mit Muscat erstellt werden. Unterstützt wird das Team der RISM-Zentralredaktion von Kollegen der Sächsische Landes- und Universitätsbibliothek (SLUB) Dresden, die sich in einem FID-Pilotprojekt mit der Erfassung von Musikdrucken beschäftigen.
 

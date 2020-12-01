@@ -13,7 +13,7 @@ author: ''
 
 Wir freuen uns, Ihnen mitteilen zu können, dass es einige neue Katalogisierungstools gibt, die dazu beitragen, die Präsenz von RISM in lokalen Bibliothekskatalogen zu verbessern.
 
-Sie finden diese neuen Ressourcen im Abschnitt [Katalogisierungstools](/de/unternehmen/rism-fuer-bibliothekare.html#c3947) auf der Seite RISM für Bibliotheken.
+Sie finden diese neuen Ressourcen im Abschnitt [Katalogisierungstools](/organization/rism-for-libraries.html) auf der Seite RISM für Bibliotheken.
 
 Zu den neuen Tools gehört eine Verknüpfung zum OCLC-Datensatz für den RISM-OPAC. Sie können diesen Datensatz herunterladen, damit Ihre Bibliotheksbenutzer den kostenlosen Katalog in lokalen Systemen finden können: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}. Dieser Datensatz ist der einzige aktuelle Datensatz für den OPAC in OCLC.
 

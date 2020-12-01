@@ -23,5 +23,5 @@ Wenn Sie hierzu einen Beitrag in Form einer Präsentation oder eines Vortrags le
 
 Die Konferenz wird in der Akademie der Wissenschaften und der Literatur in Mainz, vom 09. bis 11. Mai 2019 stattfinden. RISM wird sich bemühen, den Vortragenden eine Beihilfe zu den Fahrtkosten zu ermöglichen.
 
-Aktuelle Informationen werden auf der [Konferenz-Webseite](/de/publikationen/werkebene-2019.html) veröffentlicht.
+Aktuelle Informationen werden auf der [Konferenz-Webseite](/publications/conferences/work-level-2019.html) veröffentlicht.
 

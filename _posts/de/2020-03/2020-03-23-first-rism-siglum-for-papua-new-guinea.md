@@ -11,11 +11,11 @@ email: contact@rism.info
 author: ''
 ---
 
-Ein Teil unserer Arbeit bei RISM betrifft die Vergabe neuer [Bibliothekssigel](/de/rism-bibliothekssigel.html) für jede Institution auf der Welt, die Materialien zur Erforschung der Musik besitzt. Wir erhalten regelmäßig monatliche Anfragen von Wissenschaftlern, Archivaren und Bibliothekaren. Im Laufe unserer täglichen Arbeit stoßen wir auch auf Institutionen, für die wir kein Sigel haben.
+Ein Teil unserer Arbeit bei RISM betrifft die Vergabe neuer [Bibliothekssigel](/community/sigla.html) für jede Institution auf der Welt, die Materialien zur Erforschung der Musik besitzt. Wir erhalten regelmäßig monatliche Anfragen von Wissenschaftlern, Archivaren und Bibliothekaren. Im Laufe unserer täglichen Arbeit stoßen wir auch auf Institutionen, für die wir kein Sigel haben.
 
 Ein kürzlich erschienener [Artikel von Maureen Russell](https://www.tandfonline.com/doi/full/10.1080/10588167.2019.1668129){:target="_blank"} in der Zeitschrift _Music Reference Services Quarterly_ machte uns auf die Existenz des Musikarchivs am Institut für Papua-Neuguinea-Studien aufmerksam. Darin interviewt sie den Direktor, Dr. Don Niles. Die Stärke des 1974 gegründeten Musikarchivs ist seine Sammlung an Tonaufnahmen von insgesamt 12.000 Stunden sowie eine große Sammlung von Fotografien und Büchern. Die frühesten Tonaufnahmen stammen aus dem Jahr 1898. Das Musikarchiv befasst sich auch mit der Tanz- und Oralgeschichte.
 
-Das neue RISM-Sigel lautet: **PNG-Bpngs**. Es ist das erste Sigel für Papua-Neuguinea. Es ist im [Onlineverzeichnis der RISM Bibliothessigel](/de/rism-bibliothekssigel.html) zu finden.
+Das neue RISM-Sigel lautet: **PNG-Bpngs**. Es ist das erste Sigel für Papua-Neuguinea. Es ist im [Onlineverzeichnis der RISM Bibliothessigel](/community/sigla.html) zu finden.
 
 **Über RISM-Sigel**
 RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materialien zur Musikforschung besitzen, eine Abkürzung - [das sogenannte Bibliothekssigel](/de/rism-bibliothekssigel/ueber-sigel.html). In der Regel sind es musikhistorische Quellen (wie Manuskripte und Musikdrucke), aber auch Dokumente, Briefe und Archivalien. Das RISM-Bibliothekssigel ermöglicht es, Institutionen prägnant zu benennen, ohne sehr lange Institutionsnamen angeben zu müssen. Obwohl der [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} nicht für jede Institution musikalische Quellen aufweist, stehen die Sigel den Wissenschaftlern dennoch zur Verfügung, um in ihren Forschungsarbeiten zitiert werden zu können.

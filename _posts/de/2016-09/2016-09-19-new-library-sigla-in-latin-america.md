@@ -26,7 +26,7 @@ Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca
 Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
 
 
-Insgesamt verzeichnet RISM jetzt 98 Institutionen aus 15 lateinamerikanischen Ländern. Sie können die Bibliotheksdatenbank über die [RISM Website](/de/community/entwicklung/rism-bibliothekssigel.html) einsehen.
+Insgesamt verzeichnet RISM jetzt 98 Institutionen aus 15 lateinamerikanischen Ländern. Sie können die Bibliotheksdatenbank über die [RISM Website](/community/sigla.html) einsehen.
 
 Mexiko ist am stärksten vertreten mit 28 Bibliothekssigeln, gefolgt von Brasilien mit 17 Sigeln. An dritter Stelle steht Kuba mit 12.
 

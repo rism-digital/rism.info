@@ -32,7 +32,7 @@ Treasurer: Jane Gottlieb, New York
 **Update on Series C:** IAML established [a successor to the project group](/new_at_rism/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) in July 2019 to revise Series C. We are working closely with Maria Aslanidi, Aris Bazmadelis, and Arsinoi Ioannidou, who are also members of [RISM Greece](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"}, to improve the coverage of institutions worldwide that hold music research materials.
 
 **Conference about musical works:**
-Together with the Johannes Gutenberg-Universität Mainz, the Zentralredaktion organized a conference from 9 to 11 May entitled "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." The conference took place at the Akademie der Wissenschaften und der Literatur in Mainz. The full program, abstracts, and some recordings of the papers can be found [on the RISM website](/publications/introducing-a-work-level-in-rism-2019.html).
+Together with the Johannes Gutenberg-Universität Mainz, the Zentralredaktion organized a conference from 9 to 11 May entitled "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." The conference took place at the Akademie der Wissenschaften und der Literatur in Mainz. The full program, abstracts, and some recordings of the papers can be found [on the RISM website](/publications/conferences/work-level-2019.html).
 
 **Articles mentioning RISM:**
 The RISM project continues to be presented, referenced, and described in publications, including newspapers, scholarly journals, and research articles. Please look at the [up-to-date bibliography](/publications/bibliography.html).

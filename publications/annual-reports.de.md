@@ -13,40 +13,40 @@ Die Jahresberichte werden in der jährlichen Publikation der Union der Deutschen
 
 **2019**
 
-[View](/de/publikationen/jahresberichte/2019.html) | [Download as PDF](/resources-old-website/user_upload/RISM-Jahresbericht-19_DE.pdf)
+[View](/publications/annual-reports/2019.html) | [Download as PDF](/resources-old-website/user_upload/RISM-Jahresbericht-19_DE.pdf)
 
 **2018**
 
-[View](/de/publikationen/jahresberichte/2018.html) | [Download as PDF](/resources-old-website/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf)
+[View](/publications/annual-reports/2018.html) | [Download as PDF](/resources-old-website/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf)
 
 **2017**
 
-[View](/de/publikationen/jahresberichte/2017.html) | [Download as PDF](/resources-old-website/Jahresbericht2017_EN.pdf)
+[View](/publications/annual-reports/2017.html) | [Download as PDF](/resources-old-website/Jahresbericht2017_EN.pdf)
 
 **2016**
 
-[Ansicht](/de/publikationen/jahresberichte/2016.html#c3434) | [Herunterladenals pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
+[Ansicht](/publications/annual-reports/2016.html#c3434) | [Herunterladenals pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
 
 **2015**
 
-[Ansicht](/de/publikationen/jahresberichte/2015.html#c3226) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
+[Ansicht](/publications/annual-reports/2015.html#c3226) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
 
 **2014**
 
-[Ansicht](/de/publikationen/jahresberichte/2014.html) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht_2014.pdf)
+[Ansicht](/publications/annual-reports/2014.html) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht_2014.pdf)
 
 **2013**
 
-[Ansicht](/de/publikationen/jahresberichte/2013.html#c2694) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/Jahresbericht_DE_web.pdf)
+[Ansicht](/publications/annual-reports/2013.html#c2694) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/Jahresbericht_DE_web.pdf)
 
 **2012**
 
-[Ansicht](/de/publikationen/jahresberichte/2012.html#c2450) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch_2012.pdf)
+[Ansicht](/publications/annual-reports/2012.html#c2450) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch_2012.pdf)
 
 **2011**
 
-[Ansicht](/de/publikationen/jahresberichte/2011.html) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch.pdf)
+[Ansicht](/publications/annual-reports/2011.html) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch.pdf)
 
 **2010**
 
-[Ansicht](/de/publikationen/jahresberichte/2010.html#c1112) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch_2010.pdf)
+[Ansicht](/publications/annual-reports/2010.html#c1112) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/JahresberichtDeutsch_2010.pdf)

@@ -51,7 +51,7 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 9.
 
-[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
+[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html){:target="_blank"}
 
 Diese Liste hebt auch die Arbeit von unseren Kollegen in verschiedenen Ländern hervor: Belgien, Deutschland, Irland, Portugal und das Vereinigte Königreich
 

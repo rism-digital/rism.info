@@ -17,7 +17,7 @@ permalink: /organization/project-history.html
 | |![1953](/images/organization/history-1953.png) *1st RISM meeting, Paris 1953: François Lesure, Vladimir Fedorov, Nanie Bridgman, Nino Pirotta*
 | 1960 | Zentralredaktion in Kassel established |
 | 1960–1967 | Director of the Zentralredaktion: Friedrich W. Riedel |
-| 1960/64 | First publications of series B:1960 B/I: François Lesure: *Recueils Imprimés XVIe-XVIIe Siècles*1964 B/II: François Lesure: *Recueils Imprimés XVIIIe Siècle*Since then more than 30 volumes have been published;see the [RISM publications](/publikationen.html#c2619) |
+| 1960/64 | First publications of series B:1960 B/I: François Lesure: *Recueils Imprimés XVIe-XVIIe Siècles*1964 B/II: François Lesure: *Recueils Imprimés XVIIIe Siècle*Since then more than 30 volumes have been published;see the [RISM publications](/publications.html#c2619) |
 | 1962–1987 | Financial support from the City of Kassel |
 | 1964–1979 | Financial support from the Ford Foundation |
 | 1965–1981 | Financial support from Stiftung Volkswagenwerk Hannover |
@@ -27,7 +27,7 @@ permalink: /organization/project-history.html
 | 1976–1982 | Director of the Zentralredaktion: Helmut Rösing |
 | 1978 | Start of series A/II:Publication of the catalogue of the Fürstlich Hohenlohe-Langenburg'sche Schlossbibliothek in  *Fontes* |
 | since 1978 | Support from UNESCO Conseil International de la Philosophie et des Sciences Humaines |
-| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publikationen.html#c2620) |
+| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publications.html#c2620) |
 | 1979–1986 | Publication of three special volumes: Norbert Böker-Heil, Harald Heckmann, Ilse Kindermann: *Das Tenorlied. Mehrstimmige Lieder in deutschen Quellen 1450- 1580* |
 | 1980 | Inclusion of the Zentralredaktion in the "Akademienprogramm" financed by state and federal governments through the Conference of the Academies of Sciences |
 | 1981 | Publication of the guidelines for series A/II in  *Fontes* |

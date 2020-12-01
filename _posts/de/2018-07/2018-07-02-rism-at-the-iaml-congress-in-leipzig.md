@@ -13,7 +13,7 @@ author: ''
 
 In diesem Jahr findet der IAML-Kongress in Leipzig statt. Vom 22. bis zum 27. Juli 218 treffen wir unsere Kollegen aus der ganzen Welt in der[Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig (HMT)](http://www.hmt-leipzig.de)zum jährlich stattfindenden Kongress der[Internationalen Vereinigung der Musikbibliotheken, Musikarchive und Musikdokumentationszentren](http://www.iaml.info/congresses/2018-leipzig){:target="_blank"}.
 
-Werfen Sie nach dem Kongress einen Blick auf unsere[Kongress-Seite](/de/publikationen/iaml-konferenzen/2018.html);dort finden Sie dann auch die Folien der Vorträge und noch mehr Informationen zu den Sitzungen.
+Werfen Sie nach dem Kongress einen Blick auf unsere[Kongress-Seite](/publications/iaml-congresses/2018.html);dort finden Sie dann auch die Folien der Vorträge und noch mehr Informationen zu den Sitzungen.
 
 **Dienstag, 24. Juli **
 

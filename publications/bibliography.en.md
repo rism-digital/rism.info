@@ -599,7 +599,7 @@ Koch, Juan Martin. "Die musikalischen Quellen zum Leben erwecken! Klaus Keil, de
   
 Kraus, Guido. "Sixty years of the RISM." In_Source Studies in Musical Culture_, edited by Alina Mądry and Magdalena Walter-Mazur, 17-19_._ Interdisciplinary Studies in Musicology 11. Poznań: Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu, 2012. [Available online](http://hdl.handle.net/10593/8476){:target="_blank"}.  
   
-"[Music Documentation in Libraries, Scholarship, and Practice](/en/publications/music-documentation-2012.html)": RISM 60th Anniversary Conference. The following papers are available online:
+"[Music Documentation in Libraries, Scholarship, and Practice](/publications/conferences/conference-2012.html)": RISM 60th Anniversary Conference. The following papers are available online:
 
 - Adams, Sarah. "Update on the US Working Group." [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Adams.pdf).
 - Diet, Jürgen. "Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources." [Slides](/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)[available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Diet_Slides.pdf)
@@ -628,7 +628,7 @@ Pugin, Laurent, Andrew Hankinson, and Ichiro Fujinaga. "Digital Preservation and
   
 Renner, Helke. "Prinz Alberts Handschrift in aller Welt." _InFranken.de_, May 5, 2012. [Available online](http://www.infranken.de/regional/coburg/Prinz-Alberts-Handschrift-in-aller-Welt;art214,278457){:target="_blank"}.  
   
-RISM Zentralredaktion: Music Documentation in Libraries, Scholarship, and Practice. Conference 4-6 June 2012, Mainz. Presentations are [available online](/en/publications/music-documentation-2012.html).  
+RISM Zentralredaktion: Music Documentation in Libraries, Scholarship, and Practice. Conference 4-6 June 2012, Mainz. Presentations are [available online](/publications/conferences/conference-2012.html).  
   
 Talbot, Michael. "Miscellany." _Studi Vivaldiani_ 12 (2012): 95-104.
 
@@ -735,7 +735,7 @@ Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of 
   
 Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft."_Bibliotheksdienst_50, no. 2 (February 2016):188-198. doi:[10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
   
-"[Documenting Musical Sources in Latin America](/en/publications/sources-in-latin-america-2016.html)." RISM conference, September 2016. The following presentations are available online:
+"[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
 -  
 
@@ -761,7 +761,7 @@ Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fon
   
 Falletta, Martina, Alexander Marxen, and Jennifer Ward. "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse." _Forum Musikbibliothek_ 37 (2016): 7-15.  
   
-Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](/resources/community/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
+Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Survey: Report." Frankfurt: RISM Zentralredaktion, 2016. [Available online](resources/community/survey/RISM_User_Survey_English_Report.pdf){:target="_blank"}.   
   
 Giezeman, Geert-Jan. "RISM incipit retrieval: Architecture of the software and data." 2016. Technical documentation for the [RISM search by Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.   
   
@@ -881,11 +881,11 @@ Voss, Steffen. "Die Musikpflege am Münchener kurfürstlichen Hof im Spiegel der
 
 You can find out more about the work of RISM from the following publications:
 
-- RISM [annual reports](/en/publications/annual-reports.html)
+- RISM [annual reports](/publications/annual-reports.html)
 - RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"}
 - Publications from the RISM Zentralredaktionen
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/resources-old-website/community-content/Zentralredaktion/communiques.pdf).  
-  - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/en/publications/info-rism-1989-2001.html). 
+  - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/publications/info-rism.html). 
 
 ## Reviews
 
@@ -1378,7 +1378,7 @@ Idaszak, Danuta. _Grodzisk Wielkopolski: Katalog tematyczny muzykaliów_. Studia
 
 Kolbuszweska, Aniela. _Katalog rękopisów muzycznych XVIII i XIX wieku Biblioteki Uniwersyteckiej we Wrocławiu ze zbiorów Wrocławskiego kościoła św. Elżbiety. Wybór i opracowanie Aniela Kolbuszewska / Katalog der Musikhandschriften des 18. und 19. Jahrhunderts der Universitätsbibliothek Breslau aus den Sammlungen der Breslauer St. Elisabethkirche._ Wrocław, Poland: Wydawnictwo Uniwersytetu Wrocławskiego, 2008. Reviewed by Małgorzata Łoboz in _Muzyka_ 56, no. 3 (2011), 153-155.
 
-Podejko, Paweł. _Katalog tematyczny rękopisów i druków muzycznych kapeli wokalno-instrumentalnej na Jasnej Górze_. Kraków: [Wyd.OO.Paulinów,](/en/publications/bibliography.html) 1992.  
+Podejko, Paweł. _Katalog tematyczny rękopisów i druków muzycznych kapeli wokalno-instrumentalnej na Jasnej Górze_. Kraków: [Wyd.OO.Paulinów,](/publications/bibliography.html) 1992.  
 (Compiled using RISM rules)
 
 Popinigis, Danuta, Danuta Szlagowska and Jolanta Woźniak. _Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk: Wiek XVIII-XIX: Katalog._(In preparation)  

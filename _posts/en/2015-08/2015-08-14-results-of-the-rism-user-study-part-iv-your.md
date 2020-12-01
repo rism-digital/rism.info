@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The week concludes with another close look at the comments you made in the [recent RISM survey](/community/survey-2014-2015.html).
+The week concludes with another close look at the comments you made in the [recent RISM survey](/community/survey.html).
 
 **"I just wish some very important institutions like A-Wgm [Vienna, Gesellschaft der Musikfreunde] were also listed." - Respondent 135**
 
@@ -25,7 +25,7 @@ So did you know that the Archives d'Arenberg in Enghien, Belgium ([B-Earenberg](
 
 And who would have thought that the reputation of Joseph Haydn's Nelson Mass reached all the way to Mexico in the second half of the eighteenth century? A copy of the mass in D minor (Hob. XXII:11) is held today by the Archivo Musical de la Parroquia in Oaxaca, Mexico (MEX-SCHamp Sa-Ms-01-39, RISM ID no. [120000416](https://opac.rism.info/search?id=120000416){:target="_blank"}). This source was not known when the work appeared in the collected works of Haydn (Reihe XXIII, Band 3), which was published back in 1965.
 
-It is true that several major institutions are disproportionately represented in RISM, and we are working with them to transfer their data to our catalog. Today it is easier than ever to get data from external catalogs. See our [Data Services](/community/development/data-services.html) page for more details.
+It is true that several major institutions are disproportionately represented in RISM, and we are working with them to transfer their data to our catalog. Today it is easier than ever to get data from external catalogs. See our [Data Services](/community/data-services.html) page for more details.
 
 To summarize this past week, the comments that we have discussed are only a small portion of the numerous questions and comments we received from the survey. Further results will be presented at the AIBM conference in Stuttgart next month. Additional questions will be answered on our website and we hope to incorporate your suggestions into the next versions of the online catalog. The complete results will be published at the end of this year.
 

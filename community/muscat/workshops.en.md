@@ -72,7 +72,7 @@ RISM Workshop 2: Continuation\
 *Guido Kraus*
 
 * March 25-29, 2019:[Primer Seminario Argentino de Capacitación en Catalogación Musical con MUSCAT-RISM,](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/)Universidad Nacional de Córdoba, Argentina\
-[Report by Luciana Giron Sheridan and Lucas Reccitelli](/events/2019/06/03/taller-de-muscat-en-córdoba-argentina--muscat.html)\
+[Report by Luciana Giron Sheridan and Lucas Reccitelli](/events/2019/06/03/taller-de-muscat-en-córdoba-argentina-muscat.html)\
 *Jennifer Ward*
 
 * February 12-14, 2019: Ivan Franko National University of Lviv, Stefanyk National Science Library, Lviv, Ukraine  \

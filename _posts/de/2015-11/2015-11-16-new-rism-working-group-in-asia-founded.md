@@ -26,7 +26,7 @@ Als Mitglieder zeichnen die folgenden Einrichtungen und Vertreter:
 Außerdem sind Dr. Nora Yeh (ehemalige Archivarin des American Folklife Center, Library of Congress) und Prof. Judy Tsou (University of Washington)eingeladen worden, als internationale Beraterinnen zu fungieren und Dr. Chang Hok-Yan (Hong Kong Central Library) wird auch mit der Gruppe in Verbindung stehen.
 
 
-Nach [RISM Japan](/de/workgroups/japan-tokyo-kunitachi-college-of-music-library/home.html) und [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=531) schließt sich die Gruppe Chinesisch-Sprechendes Gebiet der Dokumentation der Musikquellen in Asien an. Wir freuen uns darauf, mit unseren neuen Kollegen im chinesisch sprechenden Teil Asiens zusammenzuarbeiten.
+Nach [RISM Japan](/international/working-groups.html) und [RISM Südkorea](http://ewha.kor.rism.info/index.php?id=531) schließt sich die Gruppe Chinesisch-Sprechendes Gebiet der Dokumentation der Musikquellen in Asien an. Wir freuen uns darauf, mit unseren neuen Kollegen im chinesisch sprechenden Teil Asiens zusammenzuarbeiten.
 
 
 Foto: Von links nach rechts: WU Xu, HO Wing,Natalia Keil-Senserowa, Klaus Keil, HUANG Chun-Zen, Hyan Kyang Chae, Alan Thrasher, YANG Yandi,CHANGHok-yan, Nora YEH, WANG Ying-Fen und HAN Bin.

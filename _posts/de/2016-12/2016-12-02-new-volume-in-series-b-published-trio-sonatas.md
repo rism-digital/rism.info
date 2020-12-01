@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Ein neuer Band der RISM [Serie B](/de/publikationen.html#c2619) liegt vor:
+Ein neuer Band der RISM [Serie B](/publications.html#c2619) liegt vor:
 
 _[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](http://www.henle.de/en/detail/index.html?Title=Die+Triosonate.+Catalogue+Raisonn%C3%A9+der+gedruckten+Quellen_2531){:target="_blank"}_, hrsg. von Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, RISM B XVII, München: Henle 2016, 2 Bände: 42\* + 1.148 S., ISBN 978-3-87328-156-1
 

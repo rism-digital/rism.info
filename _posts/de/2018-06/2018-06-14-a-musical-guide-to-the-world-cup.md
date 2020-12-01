@@ -13,7 +13,7 @@ author: ''
 
 Der Sommer kann offiziell beginnen! Die Fußball-Weltmeisterschaft ist da. Heute findet ist das erste Spiel der WM 2018, bei dem die Herren-Mannschaften aus 32 Nationen um den ultimativen Preis im Fußball kämpfen werden, statt.
 
-Wir beginnen die Gruppenaufstellung mit einem Blick auf die musikalischen Quellen der einzelnen Nationen. Länder aus Nord- und Südamerika, Europa und Asien sowie Australien sind sowohl im [RISM Online-Katalog](http://opac.rism.info/){:target="_blank"} als auch [RISM Bibliothekssigelverzeichnis](/de/rism-bibliothekssigel.html) gut vertreten. Von einigen Nationen kennen wir nur die Institutionen, die Ressourcen zum Studium der Musik bereithalten: Ägypten, Costa Rica, Iran, Island, Peru und Serbien, diese sind im Bibliothekssigelverzeichnis genannt. Leider verzeichnen wir weder Quellen noch Institutionen für Marokko, Nigeria, Panama, Saudi Arabia, Senegal und Tunesien. Wenn einer unserer Leser Tipps für diese Länder hat, freuen wir uns diese zu bekommen.
+Wir beginnen die Gruppenaufstellung mit einem Blick auf die musikalischen Quellen der einzelnen Nationen. Länder aus Nord- und Südamerika, Europa und Asien sowie Australien sind sowohl im [RISM Online-Katalog](http://opac.rism.info/){:target="_blank"} als auch [RISM Bibliothekssigelverzeichnis](/community/sigla.html) gut vertreten. Von einigen Nationen kennen wir nur die Institutionen, die Ressourcen zum Studium der Musik bereithalten: Ägypten, Costa Rica, Iran, Island, Peru und Serbien, diese sind im Bibliothekssigelverzeichnis genannt. Leider verzeichnen wir weder Quellen noch Institutionen für Marokko, Nigeria, Panama, Saudi Arabia, Senegal und Tunesien. Wenn einer unserer Leser Tipps für diese Länder hat, freuen wir uns diese zu bekommen.
 
 Um nach Musikquellen in einem bestimmten Land zu suchen, verwenden Sie die [**Erweiterte Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2){:target="_blank"} und wählen **Bibliothekssigel**. Geben Sie das Länderkürzel gefolgt von einem Bindestrich und Sternchen an, um alle Quellen eines Landes zu finden. (Die Länderkürzel entsprechen den [Internationalen Autokennzeichen](https://de.wikipedia.org/wiki/Liste_der_Kfz-Nationalit%C3%A4tszeichen){:target="_blank"}.)
 
@@ -28,7 +28,7 @@ Welches Team feuern Sie an? Das Musikturnier beginnt! Hinter jedem dieser Links 
 
 **Russland** : Suche [RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*){:target="_blank"} findet 6.500 Quellen
 **Saudi Arabien** : Noch nicht in RISM
-**Ägypten** : Keine Quellen im Katalog, aber 3 Institutionen genannt im [RISM Bibliothekssigelverzeichnis](/de/rism-bibliothekssigel.html) (suche ET)
+**Ägypten** : Keine Quellen im Katalog, aber 3 Institutionen genannt im [RISM Bibliothekssigelverzeichnis](/community/sigla.html) (suche ET)
 **Uruguay** : Suche [ROU-\*](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"} findet 21 Quellen in RISM
 
 **Gruppe B**

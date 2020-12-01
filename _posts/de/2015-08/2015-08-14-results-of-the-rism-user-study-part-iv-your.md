@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Wir beschließen die Woche mit einem weiteren Blick auf die Kommentare, die wir im Rahmen [unserer Nutzer-Studie](/de/community/rism-nutzerstudie.html#c3122 "Öffnet internen Link im aktuellen Fenster") erhalten haben.
+Wir beschließen die Woche mit einem weiteren Blick auf die Kommentare, die wir im Rahmen [unserer Nutzer-Studie](/de/community/rism-nutzerstudie.html#c3122) erhalten haben.
 
 **„I just wish some very important institutions like A-Wgm [Wien, Gesellschaft der Musikfreunde] were also listed ...“ - Antwort 135**
 
@@ -27,7 +27,7 @@ Und wer hätte gedacht, dass der Bekanntheitsgrad von Joseph Haydns Nelsonmesse 
 
 Es stimmt, dass mehrere größere Institutionen verhältnismäßig schwach in RISM vertreten sind und wir arbeiten daran, deren Daten in unseren Katalog zu übertragen. Heute gestaltet sich ein Datentransfer leichter als jemals zuvor und wir arbeiten zur Zeit konkret an der Übernahme mehrerer großer Datenbanken in unseren Bestand.
 
-Mehr Informationen zu technischen Fragen finden Sie auf unserer [Datendienstseite](/de/community/entwicklung/dataservice.html#c2681 "Öffnet internen Link im aktuellen Fenster").
+Mehr Informationen zu technischen Fragen finden Sie auf unserer [Datendienstseite](/de/community/entwicklung/dataservice.html#c2681).
 
 Die in dieser Woche exemplarisch ausgewählten Kommentare sind nur ein kleiner Teil der zahlreichen Fragen und Anregungen, die wir von Ihnen im Rahmen der Nutzerstudie erhalten haben. Im Rahmen der AIBM-Jahrestagung in Stuttgart werden wir weitere Ergebnisse der Nutzerstudie präsentieren. Weitere Fragen wollen wir im Laufe der Zeit auf unserer Seite zur Nutzerstudie beantworten und Ihre Anregungen möglichst bald bei den nächsten Versionen des Online-Kataloges umsetzen. Eine Veröffentlichung der vollständigen Ergebnisse der Nutzerstudie ist für Ende 2015 geplant.
 

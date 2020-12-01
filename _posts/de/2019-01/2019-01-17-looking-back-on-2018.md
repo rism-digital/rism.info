@@ -21,11 +21,11 @@ Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beli
 
 4. [Lili Boulanger (21. August 1893–15. März 1918)](/events/2018/03/15/lili-boulanger-21-august-189315-march-1918.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=03&cHash=be96ace20ad7af2c80acf2222eeb6b54){:target="_blank"} von Anya Holland-Barry
 
-5. ["Mein Herz ist viel zu schwach" – Eine neu entdeckte Arie von Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach--a-newly-discovered.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=02&cHash=0e945b7431477aa3077fc5b3d65247fa){:target="_blank"} von Helmut Lauterwasser
+5. ["Mein Herz ist viel zu schwach" – Eine neu entdeckte Arie von Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach-a-newly-discovered.html){:target="_blank"} von Helmut Lauterwasser
 
-6. [RISM B/III (The Theory of Music) - jetzt als Datenbank](/electronic_resources/2018/04/09/risms-biii-the-theory-of-music-now-a-database.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=04&cHash=8e493c2ac5565d4182fe7f2696264c6c){:target="_blank"} von Christian Meyer
+6. [RISM B/III (The Theory of Music) - jetzt als Datenbank](/electronic_resources/2018/04/09/risms-biii-the-theory-of-music-now-a-database.html){:target="_blank"} von Christian Meyer
 
-7. [Telemann digital](/library_collections/2018/08/27/telemann-digital.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=08&cHash=219dc4f0f227abf4b6a07c57f10b012c){:target="_blank"} von Ann Kersting-Meuleman
+7. [Telemann digital](/library_collections/2018/08/27/telemann-digital.html){:target="_blank"} von Ann Kersting-Meuleman
 
 8. [Neues FONCA-RISM Projekt in Mexico City | FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_collections/2018/01/25/new-foncarism-project-in-mexico-city--foncarism.html?tx_ttnews%5Byear%5D=2018&tx_ttnews%5Bmonth%5D=01&cHash=2500fdb8b2aaee1d57ba10ddf2ec9593){:target="_blank"} von John Lazos
 

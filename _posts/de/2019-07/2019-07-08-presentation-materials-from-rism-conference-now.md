@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Die ersten Videoaufzeichnungen und Präsentationsfolien der RISM-Konferenz "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM", die vom 9.-11. Mai 2019 in der [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"} in Mainz stattfand, sind jetzt online [verfügbar auf unserer Konferenz-Webseite](/de/publikationen/werkebene-2019.html). Sowie weitere Beiträge eintreffen, werden diese auch bereitgestellt.
+Die ersten Videoaufzeichnungen und Präsentationsfolien der RISM-Konferenz "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM", die vom 9.-11. Mai 2019 in der [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/){:target="_blank"} in Mainz stattfand, sind jetzt online [verfügbar auf unserer Konferenz-Webseite](/publications/conferences/work-level-2019.html). Sowie weitere Beiträge eintreffen, werden diese auch bereitgestellt.
 
 Die RISM-Zentralredaktion suchte den Dialog zwischen Bibliothekaren und Musikwissenschaftlern, um die Idee des musikalischen Werkes zu diskutieren und wie es auf die Daten in der RISM-Datenbank angewendet werden kann.
 

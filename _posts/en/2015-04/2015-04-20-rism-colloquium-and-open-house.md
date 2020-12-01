@@ -18,6 +18,6 @@ Join us April 23-24 for our RISM colloquium and open house. The colloquium will 
 
 The open house will be an opportunity for us to thank the people at the Universität Frankfurt and the Akademie der Wissenschaften und der Literatur in Mainz who made our move possible, and to show people around our new space.
 
-A full program can be found on the [colloquium page](/publications/colloquium-2015.html).
+A full program can be found on the [colloquium page](/publications/conferences/colloquium-2015.html).
 
 

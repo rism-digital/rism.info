@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Der Jahresbericht 2018 ist von der RISM-Zentralredaktion veröffentlicht worden. Er kann auf der [RISM Webseite](/de/publikationen/jahresberichte/2018.html) eingesehen werden. Hier einige Punkte vorab:
+Der Jahresbericht 2018 ist von der RISM-Zentralredaktion veröffentlicht worden. Er kann auf der [RISM Webseite](/publications/annual-reports/2018.html) eingesehen werden. Hier einige Punkte vorab:
 
 **Titelanzahl** : Unsere weltweit aktiven Mitarbeiter haben letztes Jahr fleißig Musikhandschriften, Musikdrucke, Theoretika und Libretti katalogisiert. Der [RISM Katalog](https://opac.rism.info/){:target="_blank"} weist momentan 1.115.800 Einträge für Musikquellen.
 
@@ -35,7 +35,7 @@ Muscat ist ein plattformunabhängiges, webbasiertes, open-source Programm. Es is
 
 **Soziale Medien** : RISM ist aktiv auf [Facebook](https://www.facebook.com/pages/RISM-R%C3%A9pertoire-International-des-Sources-Musicales/103775449663308){:target="_blank"} und [Twitter](https://twitter.com/RISM_music){:target="_blank"}. Einer neuer Artikel zu RISM wurde auf [Wikipedia in Katalanisch](https://ca.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} ergänzt (Danke - wer auch immer es war!)
 
-**Aufsätze, die RISM erwähnen** : Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/de/publikationen/bibliographie.html).
+**Aufsätze, die RISM erwähnen** : Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/publications/bibliography.html).
 
 **Und wie immer**
 :

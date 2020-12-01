@@ -11,7 +11,7 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-_We have received this announcement from our colleagues at [RISM Belgium](/workgroups/belgium-rism-belgium.html):_
+_We have received this announcement from our colleagues at [RISM Belgium](/international/working-groups.html):_
 
 
 After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopold-Philippe of Arenberg (1690-1754) was sent back to the Austrian Netherlands and became governor of Hainaut. On the occasion of his solemn entrance in the city of Mons, capital of Hainaut, [Gilles-Joseph de Boussu](http://www.hainautterremusicale.com/hommes/boussu-gilles-joseph-f460.html) (1681-1755) wrote the opera _[Le Retour des plaisirs](http://www.hainautterremusicale.com/oeuvres/retour-plaisirs-f11.html), opéra dédié à son Altesse Monseigneur le Duc d’Arembergh au jour de son entrée solemnelle en son gouvernement de Mons._

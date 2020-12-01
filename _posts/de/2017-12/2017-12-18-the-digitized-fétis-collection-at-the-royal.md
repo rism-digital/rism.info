@@ -11,7 +11,7 @@ email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---
 
-_Wir erhielten diese Ankündigung von Kris De Baerdemacker ([RISM Belgien](/de/workgroups/belgium-rism-belgium/home.html)/[Königliche Bibliothek von Belgien](https://www.kbr.be/){:target="_blank"}):_
+_Wir erhielten diese Ankündigung von Kris De Baerdemacker ([RISM Belgien](/international/working-groups.html)/[Königliche Bibliothek von Belgien](https://www.kbr.be/){:target="_blank"}):_
 
 Die Königliche Bibliothek von Belgien (B-Br) hat kürzlich über 1.000 Quellen der Sammlung Fétis digitalisiert (nähere Information auf [Französisch](https://www.kbr.be/fr/fonds-francois-joseph-fetis){:target="_blank"} und [Niederländisch](https://www.kbr.be/nl/fonds-francois-joseph-fetis){:target="_blank"}). Historische Notendrucke der Musikbibliothek sin nun online verfügbar und enthalten auch Musiktraktate, Messen (Jacobus Obrecht, Alexander Agricola), Motetten (Giaches de Wert, Pierre de la Rue, Nicolas Gombert), Madrigale (Adrian Willaert, Philippus de Monte), Opern von Monteverdi, Peri, Händel, Lully, Gluck, Grétry, Verlagskataloge, Libretti und vieles mehr. Dies ist bisher nur ein Teil des großen Digitalisierungsprojekts der Sammlung Fétis und neue Einträge werden ergänzt. Über [1.300 Links](https://opac.rism.info/search?View=rism&siglum=B-Br){:target="_blank"} zu den Notendrucken der RISM-Serien A/I und B/I wurden bereits ergänzt.
 

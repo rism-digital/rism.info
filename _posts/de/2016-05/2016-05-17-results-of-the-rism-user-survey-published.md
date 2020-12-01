@@ -13,7 +13,7 @@ author: ''
 
 Wir freuen uns, Ihnen die ausführlichen Ergebnisse der RISM-Nutzerumfrage auf der RISM Website präsentieren zu können:
 
-[Die RISM-Nutzerumfrage: Auswertung](/de/community/rism-nutzerstudie.html#c3127) (Mai 2016; auch in Englisch verfügbar)
+[Die RISM-Nutzerumfrage: Auswertung](/community/survey.html#c3127) (Mai 2016; auch in Englisch verfügbar)
 
 Die Umfrage wurde vom 30. Oktober 2014 bis 28. Februar 2015 durchgeführt. Wir erhielten 551 Antworten von Teilnehmern aus der ganzen Welt.
 

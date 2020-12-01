@@ -13,7 +13,7 @@ author: Cheryl Martin
 
 **Wußten Sie, dass die RISM-Datenbank auch Musik nach 1800 verzeichnet? An den kommenden Montagen werden wir einige dieser Werke vorstellen.**
 
-**Der erste Beitrag stammt von Cheryl Martin ([RISM Kanada](/de/workgroups/canada-london-university-of-western-ontario-the-university-library.html)) und betrifft Gustav Mahler Manuskripte in Kanada.**
+**Der erste Beitrag stammt von Cheryl Martin ([RISM Kanada](/international/working-groups.html)) und betrifft Gustav Mahler Manuskripte in Kanada.**
 
 Die [Gustav Mahler-Alfred Rosé Sammlung](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"} wurde im Oktober 1983 von Maria C. Rosé, der Witwe von Professor Alfred Rosé der University of Western Ontario (CDN-Lu) geschenkt; Rosé war ein Neffe von Gustav Mahler. Die Sammlung enthält verschiedene Manuskripte von Mahler selbst und auch einige Werke Mahlers in der Abschrift von Alfred Rosé.
 

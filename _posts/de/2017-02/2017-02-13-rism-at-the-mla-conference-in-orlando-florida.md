@@ -13,7 +13,7 @@ author: ''
 
 Die jährliche [Music Library Association Konferenz](http://www.musiclibraryassoc.org/mpage/mla_2017){:target="_blank"} (US Branch der [IAML](http://www.iaml.info/){:target="_blank"}) findet diesmal vom 22. - 26. Februar 2017 im sonnigen Orlando (Florida) statt. Die Konferenz ist gleichzeitig das erste [Pan American regional IAML Meeting](http://www.iaml.info/news/mla-goes-pan-american){:target="_blank"}, bei dem viele Kollegen aus ganz Lateinamerika vertreten sein werden.
 
-Der Termin der Tagung passt sehr gut zu unserer im September 2016 durchgeführten Konferenz [Documenting Musical Sources in Latin America.](/de/publikationen/latin-america-conference-2016.html#c3287) Die MLA-Konferenz ist daher eine gute Gelegenheit sich wieder mit den lateinamerikanischen Kollegen zu treffen und auszutauschen.
+Der Termin der Tagung passt sehr gut zu unserer im September 2016 durchgeführten Konferenz [Documenting Musical Sources in Latin America.](/publications/conferences/latin-america-conference-2016.html#c3287) Die MLA-Konferenz ist daher eine gute Gelegenheit sich wieder mit den lateinamerikanischen Kollegen zu treffen und auszutauschen.
 
 Einige Sektionen werden online übertagen. Die Zugänge zur Liveübertragung und zum Archiv [werden von der MLA kostenpflichtig angeboten](https://www.musiclibraryassoc.org/events/EventDetails.aspx?id=910275){:target="_blank"}.
 

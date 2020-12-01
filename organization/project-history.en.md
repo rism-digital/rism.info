@@ -49,6 +49,6 @@ permalink: /organization/project-history.html
 | 2002 | International congress: **Scientific and Technological Challenges of Musicological Source Research at International Level — 50 Years RISM**.Second version of internet database of Series A/IIwith biannual updates. Provider: National Information Services Corporation (NISC USA) |
 | 2008 | Database offered through EBSCO |
 | 2010 | Databased launched online free of charge with monthly updates |
-| 2012 | International conference: **[Music Documentation in Libraries, Scholarship, and Practice](/publications/music-documentation-2012.html)** |
+| 2012 | International conference: **[Music Documentation in Libraries, Scholarship, and Practice](/publications/conferences/conference-2012.html)** |
 | 2013 | RISM data offered as open data |
 | 2014 | RISM data offered as linked open data |

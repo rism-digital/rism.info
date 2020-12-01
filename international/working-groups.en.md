@@ -63,7 +63,7 @@ Website: [http://www.bgam.edu.by/eng/](http://www.bgam.edu.by/eng/){:target="_bl
 
 ## BELGIUM
 
-Website (Brussels and Leuven): [http://www.rism.info/en/workgroups/belgium-rism-belgium/home.html](/workgroups/belgium-rism-belgium.html){:target="_blank"}
+Website (Brussels and Leuven): [http://www.rism.info/en/workgroups/belgium-rism-belgium/home.html](/international/working-groups.html){:target="_blank"}
 
 RISM Working Group Brussels
 

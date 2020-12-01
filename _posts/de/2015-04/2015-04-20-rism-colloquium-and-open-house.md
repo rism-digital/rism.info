@@ -19,5 +19,5 @@ Am 23. und 24. April werden wir ein RISM-Kolloquium veranstalten und einen Tag d
 Der Tag der offenen Tür bietet uns die Gelegenheit allen Beteiligten der Universität Frankfurt und der Akademie der Wissenschaften und der Literatur in Mainz zu danken, die unseren Umzug möglich gemacht haben, und allen Gästen die neuen Räume zu zeigen.
 
 
-Ein ausführliches Programm finden Sie auf der [Kolloquium-Seite](/de/publikationen/colloquium-2015.html).
+Ein ausführliches Programm finden Sie auf der [Kolloquium-Seite](/publications/conferences/colloquium-2015.html).
 

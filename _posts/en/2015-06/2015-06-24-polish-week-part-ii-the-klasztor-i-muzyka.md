@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Jasna_Gora_870a2a9a55.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-ii-the-klasztor-i-muzyka-monasteries-and-music-conference-in-czestochowa.html
+old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-ii-the-klasztor-i-muzykamonasteries-and-music-conference-in-czestochowa.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---

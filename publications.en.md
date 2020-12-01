@@ -9,7 +9,7 @@ permalink: /publications.html
 
 The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The [online catalog](#online-catalog) is the focus of RISM's current activities and is freely available online.
 
-RISM's other publications are divided into series, reflecting the early structure of the project, though with the integration of much of the data into the online environment, the strict division into series plays a secondary role. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the  *Tenorlied *and RISM library sigla (now available as an [online directory](/sigla.html)).
+RISM's other publications are divided into series, reflecting the early structure of the project, though with the integration of much of the data into the online environment, the strict division into series plays a secondary role. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the  *Tenorlied *and RISM library sigla (now available as an [online directory](/community/sigla.html)).
 
 ## Online Catalog
 
@@ -235,4 +235,4 @@ Eastern Europe
   - Volume 3: Register, 1986.
 
 * *RISM-Bibliothekssigel: Gesamtverzeichnis* (RISM library sigla). Munich: Henle, 1998.  
-A new, searchable edition is available [here](/sigla.html) on this website.
+A new, searchable edition is available [here](/community/sigla.html) on this website.

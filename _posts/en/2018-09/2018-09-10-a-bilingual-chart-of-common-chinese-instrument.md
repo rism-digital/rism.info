@@ -11,7 +11,7 @@ email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-_The following post is by TSENG Tzu-Chia from the RISM working group [Chinese Language Region](/workgroups/chinese-language-region/home.html):_
+_The following post is by TSENG Tzu-Chia from the RISM working group [Chinese Language Region](/international/working-groups.html):_
 
 **2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”**
 

@@ -11,7 +11,7 @@ email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-_The following has reached us from Sonia Wronkowska of [RISM Poland](/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland.html):_
+_The following has reached us from Sonia Wronkowska of [RISM Poland](/international/working-groups.html):_
 
 The workshop “Introduction to Kallisto” and a RISM seminar took place at the beginning of February in Warsaw, and was organised by the Polish RISM Centre (Music Department) and the Librarian Education Department of the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"}. Sonia Wronkowska and Guido Kraus conducted the workshop.
 

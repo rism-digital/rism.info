@@ -31,7 +31,7 @@ permalink: /organization/who-uses-rism.html
 
 "As a period instrument musician who is both a performer and a researcher, I am constantly in search of original music sources, be it manuscripts and publications of relatively unknown works or the 'classics.' The work that RISM does is an invaluable and irreplaceable service in my own daily work. This includes the published volumes of music prints, the recently released online catalog of manuscripts, and the on-the-spot support of the RISM staff. I, for one, am thankful that this institution, so very important for the music world, happens to be based in Frankfurt!"
 
-And here are some comments from our [RISM survey](/community/survey-2014-2015.html) (2014-2015):
+And here are some comments from our [RISM survey](/community/survey.html) (2014-2015):
 * "A powerful tool for research." (United States)
 * "Einfach die 'erste Adresse'." (Germany)
 * "Scholarly gold standard." (United States)

@@ -15,7 +15,7 @@ RISM has a long tradition of working with libraries. We would like to strengthen
 
 **Guides to the RISM online catalog:** We have created some guides to the online catalog about various topics. They are linked on [opac.rism.info](http://opac.rism.info)'s Help page.
 
-Also look at past [IAML congresses](/publications/iaml-congresses.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
+Also look at past [IAML congresses](/publications.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
 
 **Live demonstrations**: A member of the RISM Editorial Center can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info) to schedule a demonstration. Possible topics include:
 
@@ -72,7 +72,7 @@ Not everything from the books is in the OPAC (see the [Publications page](/publi
 
 ## Using RISM Data
 
-The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/development/data-services.html#c2671) for more information.**
+The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html#c2671) for more information.**
 
 ## RISM Logos
 

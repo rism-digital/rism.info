@@ -7,7 +7,7 @@ permalink: /organization/privacy-policy.html
 
 # Privacy Policy
 
-*This English translation is not legally binding and is for informational purposes only. The [German Datenschutzerklärung](/unternehmen/datenschutzerklaerung.html) applies in the event of a legal dispute.*
+*This English translation is not legally binding and is for informational purposes only. The [German Datenschutzerklärung](/organization/privacy-policy.html) applies in the event of a legal dispute.*
 
 The following informs you of what data we collect and for what purposes. If changes are made to our practices, this page will also be amended accordingly. Please refer to this page for the most up-to-date information. If you have any questions, please do not hesitate to contact us.
 
