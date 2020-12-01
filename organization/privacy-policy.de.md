@@ -31,7 +31,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[www.rism.info/de/organization/editorial-office.html](http://www.rism.info/de/organization/editorial-office.html)
+[https://www.rism.info/editorial-center.html](/editorial-center.html)
 
 contact@rism.info 
 

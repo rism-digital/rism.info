@@ -11,7 +11,7 @@ email: jennifer.ward@rism.info
 author: ''
 ---
 
-We received hundreds of comments in our [recent survey of the online catalog](http://www.rism.info/en/community/survey.html){:target="_blank"}. We are carefully considering each one of them and would like to take some time to address some of the larger issues raised. Today we are talking about coverage in RISM and citing literature. Later this week, we will discuss the chronological limits of RISM and why some libraries have more sources in RISM than others.
+We received hundreds of comments in our [recent survey of the online catalog](/community/survey.html){:target="_blank"}. We are carefully considering each one of them and would like to take some time to address some of the larger issues raised. Today we are talking about coverage in RISM and citing literature. Later this week, we will discuss the chronological limits of RISM and why some libraries have more sources in RISM than others.
 
 This type of comment came up a couple times:
 

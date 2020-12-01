@@ -35,7 +35,7 @@ Klaus Keil, director of the RISM Central Office in Frankfurt, will speak as part
 [Friday, February 24, 2:00pm-2:25pm](http://www.musiclibraryassoc.org/mpage/mla_2017_fr_2_4){:target="_blank"}
 
 
-Sarah Adams and Christina Linklater from the US RISM office will give a brief presentation on [Muscat](http://www.rism.info/en/community/muscat.html){:target="_blank"}, our browser-based, open-access program for cataloging and reporting musical sources, including manuscripts, printed music, libretti, and treatises. This lightening-fast session will include a demonstration of the tool and some important points about training and documentation.
+Sarah Adams and Christina Linklater from the US RISM office will give a brief presentation on [Muscat](/community/muscat.html){:target="_blank"}, our browser-based, open-access program for cataloging and reporting musical sources, including manuscripts, printed music, libretti, and treatises. This lightening-fast session will include a demonstration of the tool and some important points about training and documentation.
 
 **Hands-on Muscat Cataloging**
 

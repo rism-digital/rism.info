@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-This entry in the series [RISM A-Z](http://www.rism.info/en/home/news-archive/select/rism_a_z){:target="_blank"} brings us to Kinsky, a noble family that has a long history of ties to music.
+This entry in the series [RISM A-Z](/news-archive/rism_a_z){:target="_blank"} brings us to Kinsky, a noble family that has a long history of ties to music.
 
 If you say the name Kinsky today, fans of music history might first think of Ferdinand Johannes Nepomuk Joseph Fürst Kinsky von Wchinitz und Tettau, or Ferdinand von Kinsky (1781-1812) for short. He is famous for being one of Beethoven's most important sponsors – besides Joseph Franz Maximilian von Lobkowitz (1772-1816) and Archduke Rudolph of Austria (1788-1831). Due to the early and unexpected death of Ferdinand von Kinsky following a riding accident, [payment of Beethoven's pension](http://www.beethoven-haus-bonn.de/sixcms/detail.php/35278){:target="_blank"} was however delayed.
 

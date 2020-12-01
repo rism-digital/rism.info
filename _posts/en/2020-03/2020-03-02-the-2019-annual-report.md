@@ -39,7 +39,7 @@ The RISM project continues to be presented, referenced, and described in publica
 
 And, as always:
 
-- Corrections welcome: The Zentralredaktion regularly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by sending us your [feedback and corrections.](http://www.rism.info/en/service/feedback.html#c2895)
+- Corrections welcome: The Zentralredaktion regularly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by sending us your [feedback and corrections.](/service/feedback.html)
 - External databases welcome: RISM is interested in further partnerships with institutions and projects to import data, such as library OPACs or critical editions.
 - Open data and linked open data: [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface.
 

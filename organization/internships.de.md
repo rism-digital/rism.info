@@ -47,7 +47,7 @@ Andrea Ickstadt (Deutschland)
 
 Charlotte Köhler (Deutschland)
 
-Ulrike Schädel (Deutschland), Bericht: [Ein Praktikum bei RISM: Bericht aus der Zentralredaktion in Frankfurt](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1633&cHash=7cc8819b8fb55cc03da7b14ad53fa0ae){:target="_blank"}
+Ulrike Schädel (Deutschland), Bericht: [Ein Praktikum bei RISM: Bericht aus der Zentralredaktion in Frankfurt](/new_at_rism/2018/06/21/a-rism-internship-report-from-the-central-office.html){:target="_blank"}
 
 #### 2017
 
