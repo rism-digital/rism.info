@@ -2,7 +2,7 @@
 * RISM sigla catalog plugin.
 * This JS is building html nodes from a RISM-SRU request.to sigla.
 * @author: Stephan Hirsch
-* @version: 0.2.1 (october 2020)
+* @version: 0.2.2 (december 2020)
 *
 */
 
@@ -28,7 +28,7 @@ var markup = `
           </select>
         </div>
         <div class="siglaQueryInput">
-          <input id="siglaQueryInput">
+          <input type="search" id="siglaQueryInput">
         </div>
         <div class="siglaQuerySubmit">
           <input id="siglaQuerySubmit" type="submit" value="Search">
@@ -48,13 +48,30 @@ var addListeners = function(){
       e.preventDefault();
       search();
     }} );
+  document.getElementById("siglaQueryInput").addEventListener("search", 
+    function(){
+      if (this.value=="") 
+        {  document.querySelector('.siglaResultTables').innerHTML = "";
+           document.querySelector(".siglaResultSize").innerHTML = "";
+           document.querySelector('.siglaPager').innerHTML = "";
+          ;
+        }
+    });
 };
 
 var buildQueryString = function(obj){
-  term = obj.term.replace(" ", "-");
+  if (obj.term.includes("=") || obj.term.includes(" AND ") || obj.term.includes(" OR ")){
+    term = obj.term.replaceAll(" ", "%20").replaceAll("name=", "bath.corporateName=").replaceAll("country=", "rism.libraryCountry=").replaceAll("city=", "rism.place="); } 
+  else {
+    term = obj.term.replaceAll(" ", "%20AND%20");  
+  }
   startRecord = obj.offset;
   field = obj.field;
-  queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=${field}=${term}%20AND%20librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
+  if (term=='*') {
+    queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
+  } else {  
+    queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=${field}=${term}%20AND%20librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
+  }
   console.log(queryString);
   return queryString;
 }
@@ -125,7 +142,7 @@ var createElements = function(collection){
     record = collection[i];
     var div = 
       `<div id="${record._001}" onclick="showDetails(${record._001})" class="resultItem">${record.position}. ${record._110a}${record._110c ? ", " + record._110c : ""}
-          ${record._667a ? `<span class="sourceSize">★</span>` : ""}
+          ${record._667a ? `<span title="This institution has sources in the RISM Online catalog" class="sourceSize">★</span>` : ""}
         <div class="itemSigla">${record._110g}</div>
       </div>`
     var details = `
@@ -340,4 +357,12 @@ var countryCodes = {
   "XD-EC":"Ecuador",
 
 }
+
+
+
+
+
+
+
+
 
