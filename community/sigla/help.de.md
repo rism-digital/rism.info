@@ -8,7 +8,8 @@ permalink: /community/sigla/help.html
 # Hilfe zur Benutzung der RISM-Bibliothekssigel-Suche
 
 ## Einführung
-Die RISM-Bibliothekssigel-Suche informatiert über ca. 8.500 Sigel. RISM Sigel werden verwendet, um auf Körperschaften zu verweisen, welche Musikquellen besitzen.
+
+RISM Sigel werden verwendet, um auf Körperschaften zu verweisen, welche Musikquellen besitzen.
 
 RISM Sigel bestehen aus Abkürzungen für das Land, für die Stadt sowie die Körperschaft selbst. Zum Beispiel: bei "I-Rc" steht das "I" für Italien, "R" für Rom und das "c" für die Biblioteca Casanatense. 
 
@@ -57,4 +58,4 @@ Beispiel:
 
 ## Eingesetzte Technologie
 
-Die Suche nach verwendet den SRU-Server von muscat.rism.info. Die Index-Konfiguration ist unter https://muscat.rism.info/sru/institutions verfügbar.
+Die Suche nach verwendet den SRU-Server von muscat.rism.info. Die Index-Konfiguration ist unter [https://muscat.rism.info/sru/institutions](https://muscat.rism.info/sru/institutions) verfügbar.

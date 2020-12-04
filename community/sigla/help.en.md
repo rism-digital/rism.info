@@ -9,7 +9,6 @@ permalink: /community/sigla/help.html
 
 ## Introduction
 
-This Online Directory of RISM Library sigla contains information about ca. 8.500 siglas.
 RISM Sigla are used to refer to institutions that contain historical music collections.
 
 They are composed of a country abbreviation, a city abbreviation, and an institution abbreviation.
