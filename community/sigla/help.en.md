@@ -60,14 +60,14 @@ Please note that you must enter cities in the local language ("Wien" instead of 
 
 In a combined search, any number of fields may be combined by using AND or OR. This only works by searching in “All fields.”
 
-Examples:
+Example:
 
-The search 'name=Archiv AND country=Austria' will find all sigla with the word “Archiv” in the name that are in Austria
+* The search 'name=Bach AND country=USA' will find all sigla with the word “Bach” in the name that are in the United States
 
  
 ## Tips
 
-A search for * will retrieve all sigla.
+A search for '\*' will retrieve all sigla.
 
 
 ## Technology used
