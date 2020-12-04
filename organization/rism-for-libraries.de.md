@@ -16,8 +16,8 @@ RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekaren zusammen. W
 **RISM Online-Katalog:** Wir haben einige Anleitungen zu verschiedenen Themen zum Online-Katalog erstellt. Sie sind auf der [Hilfeseite](https://opac.rism.info/index.php?id=4&L=1&id=4){:target="_blank"} unter [opac.rism.info](http://opac.rism.info) zu finden.
 
 Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen Präsentationen zur Nutzung des RISM (auch auf der [IAML Website](http://www.iaml.info/r-projects)) zur Verfügung.
-
-**Live demonstrations**: A member of the RISM Zentralredaktion (Central Editorial Office) can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info) to schedule a demonstration. Possible topics include:
+C
+**Live demonstrations**: A member of the RISM Zentralredaktion (Editorial Center) can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info) to schedule a demonstration. Possible topics include:
 
 * An overview of the RISM project
 * Tutorial of the RISM [online catalog](https://opac.rism.info/){:target="_blank"} (manuscripts and printed music)

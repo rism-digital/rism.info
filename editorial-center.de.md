@@ -7,7 +7,7 @@ permalink: /editorial-center.html
 
 # RISM Zentralredaktion
 
-{% include image file="/images/organization/building.jpg" pos="right" %}
+{% include image file="/images/editorial-center/building.jpg" pos="right" %}
 
 Die Zentralredaktion ist Anlaufstelle für MitarbeiterInnen und Interessierte aus der ganzen Welt. Sie steht für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen durch Bereitstellung von technischen und fachlichen Hilfen, wie z.B. das Erfassungsprogramm Muscat und den Betrieb des Datenserver, Richtlinien zur Dokumentation von Musikquellen, den Online Katalog u.v.m. 
 Die Zentralredaktion bietet für Arbeitsgruppen grundlegende Einarbeitung in das Programm und die Dokumentationsmethoden an und führt Workshops zu speziellen Themen durch. Als Redaktion fühlt sie sich verantwortlich für die Vereinheitlichung der Daten, insbesondere für die Führung der Normdateien. 

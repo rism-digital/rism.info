@@ -1,5 +1,5 @@
 ---
-title: "Editorial Office"
+title: "Editorial Center"
 layout: editorial-center
 lang: en
 permalink: /editorial-center.html
@@ -7,7 +7,7 @@ permalink: /editorial-center.html
 
 # RISM Editorial Center
 
-{% include image file="/images/organization/building.jpg" pos="right" %}
+{% include image file="/images/editorial-center/building.jpg" pos="right" %}
 
 The Editorial Center (Zentralredaktion) is the contact point for participants and other interested people from all over the world. It is available for advice or anything else related to music sources. The office primarily provides support to working groups by making available technical and subject-specific help for tools such as the cataloguing program Muscat and the use of the data server, guidelines for documenting music sources, the online catalogue, and more.
 
