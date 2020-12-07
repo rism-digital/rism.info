@@ -7,11 +7,27 @@ permalink: /community/sigla/help.html
 
 # Hilfe zur Benutzung der RISM-Bibliothekssigel-Suche
 
+## Einführung
+
+RISM Sigel werden verwendet, um auf Körperschaften zu verweisen, welche Musikquellen besitzen.
+
+RISM Sigel bestehen aus Abkürzungen für das Land, für die Stadt sowie die Körperschaft selbst. Zum Beispiel: bei "I-Rc" steht das "I" für Italien, "R" für Rom und das "c" für die Biblioteca Casanatense. 
+
+Mit Hilfe des RISM Sigels ist es möglich, im RISM Online catalog nach allen Quellen einer Insitution zu suchen. Dabei wählen Sie in der fortgeschrittenen Suche das Feld "Sigel" und tragen in dem Eingabefeld das entsprechende Sigel ein. Alternativ ist es aber auch möglich, bei der RISM-Bibliothekssigel-Suche in der Info-Box zu einem Bliothekssigel den Button "Sources" anzuklicken, um alle zugehörigen Quellen anzuzeigen.
+
+## Grundlagen
+
+1. Nach Ländern kann man unter dem Auswahlfeld in den Sprachen Englisch, Französisch, Deutsch und Italienisch suchen
+
+2. Die Suche nach Städten und Namen verwendnet die lokalen Ansetzungsformen
+
+3. Suche nach US-Bundestaaten geht über die postalische Abkürzung im Feld "city" (WI, IL, etc.)
+
 ## Einfache Suche
 
-Bei der Suche wird sowohl Trunkierung als auch Phrasensuche unterstützt. Bei der Suchlogik ist die AND-Suche voreingestellt, d.h. 'Kloster Austria' findet alle Sigel, bei denen sowohl der Begriff Kloster als auch der Begriff Austria vorkommt.
+Bei der Suche wird die Phrasensuche unterstützt. Bei der Suchlogik ist die AND-Suche voreingestellt, d.h. 'Archiv Austria' findet alle Sigel, bei denen sowohl der Begriff Archiv als auch der Begriff Austria vorkommt.
 
-Dies kann durch die Kombination der Suchbegriffe mit großgeschriebenem "OR" umgestellt werden: 'Kloster OR Austria' findet entsprechend alle Sigel, bei denen beide Begriffe vorkommen.
+Dies kann durch die Kombination der Suchbegriffe mit großgeschriebenem "OR" umgestellt werden: 'Archiv OR Austria' findet entsprechend alle Sigel, bei denen beide Begriffe vorkommen.
 
 Sortiert wird nach Relevanz.
 
@@ -21,41 +37,25 @@ Die voreingestellte Suche über 'All fields' ist eine Volltextsuche über den ge
 
 Es stehen im Optionsmenü die Felder Name, Library Sigla, City und Country zur Verfügung. Begriffe, die mit einer solchen Option gekoppelt werden, gehen nur über das ausgewählte Feld.
 
-Insgesamt sind folgende Felder indiziert:
+Unter anderem sind folgende Felder indiziert:
 
 * city: Stadt bzw. Ort
 * name: Ansetzungsform des Sigels
 * sigla: Sigel
-* adress: Adresse
-* country: Land (gemäß ISO-3166-2)
-* url: Link
-* alias: Alternative Ansetzungsform
-* reference: Siehe auch
-* series: Abweichende Sigel in den RISM-Publikationen A/I, B usw.
-* now_in: Bestandsbesitzendes Sigel
-* note: Bemerkungen
-* countno: Anzahl der Titel im RISM-Musikhandschriften Katalog
-* geo: Geodaten zum Sigel (Beta-Status)
-* summary: Zusammenfassung des Bestandes
-* status: in Bearbeitung (ongoing)
+* country: Land
 
 ## Kombinierte Suche
 
-Bei der kombinierten Suche können beliebige Felder durch 'AND' oder 'OR' bzw. deren negativem Wert 'AND NOT' oder 'OR NOT' miteinander kombiniert werden. Vorraussetzung ist immer die Suche unter 'All fields'.
+Bei der kombinierten Suche können beliebige Felder durch 'AND' oder 'OR' kombiniert werden. Vorraussetzung ist immer die Suche unter 'All fields'.
 
-Beispiele:
+Beispiel:
 
-* Die Suche 'countno:[10 TO 100] AND country:Germany' findet alle Sigel aus Deutschland mit einer Titelanzahl zwischen 10 und 100
-* Die Suche 'name:Archiv AND country:Austria' findet alle Sigel mit dem Begriff 'Archiv in der Ansetzung, die in Österreich beheimatet sind
-* Die Suche 'city:London AND NOT country:"United Kingdom"' findet alle Sigel aus einer Stadt London außerhalb des Vereinigten Königreiches (hier ist die Phrasensuche wichtig.)
-
-Hinweis: In diesem Beispiel werden auch Sigel gefunden, bei denen kein Land angegeben wurde.
+* Die Suche 'name=Bach AND country=USA' findet alle Sigel mit dem Begriff 'Bach' in der Ansetzung, die in den Vereinigten Staaten beheimatet sind
 
 ## Tips
 
-Vorrausgesetzt, die Suche geht über sämtliche Felder, gibt es u.a. zusätzlich folgende Möglichkeiten:
+* Die Suche nach '\*' findet sämtliche Sigel.
 
-* Die Suche nach **\*** findet sämtliche Sigel.
-* Die Suche nach **\* AND NOT country:\*** findet alle Sigel ohne Landangabe.
-* Entsprechend findet **\* AND countno:\* AND country:France** alle Sigel mit Musikhandschriften im Handschriften-Katalog aus Frankreich.
-* Es ist auch eine Fuzzy-Suche möglich: **name:university~** findet alle Sigel mit Wörtern ähnlich zu 'University' in der Ansetzungsform.
+## Eingesetzte Technologie
+
+Die Suche nach verwendet den SRU-Server von muscat.rism.info. Die Index-Konfiguration ist unter [https://muscat.rism.info/sru/institutions](https://muscat.rism.info/sru/institutions) verfügbar.
