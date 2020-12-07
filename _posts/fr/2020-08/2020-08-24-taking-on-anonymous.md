@@ -2,11 +2,11 @@
 layout: post
 title: Taking on “Anonymous”
 date: 2020-08-24
-lang: fr
+lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Anonymus_in_Modena_Palazzo_dei_Musei_6a28d9207c.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/2/article/64/taking-on-anonymous.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/taking-on-anonymous.html
 email: ''
 author: ''
 ---

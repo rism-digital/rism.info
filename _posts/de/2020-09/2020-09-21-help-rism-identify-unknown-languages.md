@@ -19,6 +19,8 @@ Bitte sehen Sie sich die Tabelle an und lassen Sie uns wissen, wenn Ihnen etwas 
 
 &nbsp;
 
+<iframe width="600" height="500" scrolling="yes" frameborder="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcdXDZ3HQy08rP1hBTd4theJh3Zms3xwWRkWcifflckUaFuD0z0WfOZdRquSGKSlQ_tjYE4hOeCux5/pubhtml?widget=true&amp;headers=false"></iframe>
+
 &nbsp;
 
 Die Tabelle zeigt nur einige wenige Felder aus jedem Datensatz. Bitte konsultieren Sie die vollständigen Datensätze im Online-Katalog. Darüber hinausgehend haben wir keine weiteren Informationen.

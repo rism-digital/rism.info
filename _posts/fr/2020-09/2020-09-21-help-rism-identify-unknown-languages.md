@@ -2,11 +2,11 @@
 layout: post
 title: Help RISM identify unknown languages
 date: 2020-09-21
-lang: fr
+lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Sprache_unbekannt_adf69d48b5.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/1/article/64/help-rism-identify-unknown-languages.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/help-rism-identify-unknown-languages.html
 email: ''
 author: ''
 ---
@@ -18,6 +18,8 @@ Do you recognize any of the languages used in the text?
 Take a look at the table and let us know if anything looks familiar ([link also here](https://docs.google.com/spreadsheets/d/1FXw_e64_buNEFkNvWOtpdeK4XL9b5_vHh1jH4okA2yk/edit?usp=sharing "Opens external link in new window")):&nbsp;&nbsp;
 
 &nbsp;
+
+<iframe width="600" height="500" scrolling="yes" frameborder="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcdXDZ3HQy08rP1hBTd4theJh3Zms3xwWRkWcifflckUaFuD0z0WfOZdRquSGKSlQ_tjYE4hOeCux5/pubhtml?widget=true&amp;headers=false"></iframe>
 
 &nbsp;
 

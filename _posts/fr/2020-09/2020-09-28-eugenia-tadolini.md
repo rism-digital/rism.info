@@ -2,11 +2,11 @@
 layout: post
 title: Eugenia Tadolini
 date: 2020-09-28
-lang: fr
+lang: en
 post: true
 category: rism_a-z
 image: "/images/news-old-website/csm_RISM_A-Z__Eugenia_Tadolini__b07de51394.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/1/article/64/eugenia-tadolini.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/eugenia-tadolini.html
 email: ''
 author: ''
 ---

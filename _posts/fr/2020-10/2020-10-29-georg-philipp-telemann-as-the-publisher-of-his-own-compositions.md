@@ -2,11 +2,11 @@
 layout: post
 title: Georg Philipp Telemann as the Publisher of his own Compositions
 date: 2020-10-29
-lang: fr
+lang: en
 post: true
 category: rism_a-z
 image: "/images/news-old-website/csm_Koerperschaft_Telemann_Quartette_1738_66eb421ee5.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/article/64/georg-philipp-telemann-as-the-publisher-of-his-own-compositions.html
+old_url: http://www.rism.info/en/home/newsdetails/article/64/georg-philipp-telemann-as-the-publisher-of-his-own-compositions.html
 email: ''
 author: ''
 ---

@@ -41,6 +41,8 @@ How to report an error ([YouTube video](https://youtu.be/m_UAdX6E1cU))
 
 Other instructional videos will continue to be added.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Feedback and comments are welcome at any time. You can leave a comment in the video or write to contact@rism.info.
 
 &nbsp;

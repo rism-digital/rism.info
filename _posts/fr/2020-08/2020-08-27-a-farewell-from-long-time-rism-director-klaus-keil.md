@@ -2,11 +2,11 @@
 layout: post
 title: A Farewell from Long-Time RISM Director Klaus Keil
 date: 2020-08-27
-lang: fr
+lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Abschied_Foto_China_01_73a7e83ba7.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/2/article/64/a-farewell-from-long-time-rism-director-klaus-keil.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/a-farewell-from-long-time-rism-director-klaus-keil.html
 email: 'klaus.keil@rism.info'
 author: 'Klaus Keil'
 ---

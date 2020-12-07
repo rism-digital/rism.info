@@ -3,22 +3,22 @@ layout: post
 title: Online Muscat Workshop with the Chopin Institute (Warsaw) In the Age of the Corona
   Pandemic
 date: 2020-08-13
-lang: fr
+lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Chopin_2020_b_fb72619cce.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/2/article/64/online-muscat-workshop-with-the-chopin-institute-warsaw-in-the-age-of-the-corona-pandemic.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/online-muscat-workshop-with-the-chopin-institute-warsaw-in-the-age-of-the-corona-pandemic.html
 email: ''
 author: 'Guido Kraus'
 ---
 
  ![](/uploads/_processed_/csm_Workshop_Chopin_2020_a_140862fbde.jpg)
 
-[Translate to Français:] **Online Muscat Workshop 3-7 August 2020 in English with the Chopin Institute (Warsaw) in the Age of the Corona Pandemic**   
+**Online Muscat Workshop 3-7 August 2020 in English with the Chopin Institute (Warsaw) in the Age of the Corona Pandemic**   
   
 Workshop leaders: Guido Kraus (RISM Central Office, Frankfurt am Main) and Marcelina Chojecka (Chopin Institute NIFC, Warsaw)   
   
-The RISM Central Office in Frankfurt am Main continues to work closely together with the the Chopin Institute NIFC in Warsaw as part of the project Open Access Polish Music Heritage ([see our post from 18 February 2019](http://www.rism.info/en/home/newsdetails/article/64/close-cooperation-between-rism-and-the-chopin-institute.html "Opens external link in new window")). Now, the focus of their work is on the following collections in Kraków: the music materials of the Czartoryski Library ([PL-Kc](https://opac.rism.info/search?View=rism&siglum=PL-Kc&Language=de)) and the Archives and Library of Cracow Cathedral Chapter ([PL-Kk](https://opac.rism.info/search?View=rism&siglum=PL-Kk&Language=de "Opens external link in new window")). They will be fully cataloged. In addition, cataloging the music holdings of the Bibliothèque Polonaise de Paris is planned (F-Ppo).   
+The RISM Central Office in Frankfurt am Main continues to work closely together with the the Chopin Institute NIFC in Warsaw as part of the project Open Access Polish Music Heritage ([see our post from 18 February 2019](/en/library_collections/2019/02/18/close-cooperation-between-rism-and-the-chopin.html "Opens external link in new window")). Now, the focus of their work is on the following collections in Kraków: the music materials of the Czartoryski Library ([PL-Kc](https://opac.rism.info/search?View=rism&siglum=PL-Kc&Language=de)) and the Archives and Library of Cracow Cathedral Chapter ([PL-Kk](https://opac.rism.info/search?View=rism&siglum=PL-Kk&Language=de "Opens external link in new window")). They will be fully cataloged. In addition, cataloging the music holdings of the Bibliothèque Polonaise de Paris is planned (F-Ppo).   
   
 A total of 23 people from different Polish cities joined the online workshop under the leadership of Guido Kraus in Frankfurt am Main and Marcelina Chojecka in Warsaw. Although the majority participated from home, a small group was in the conference room of the Chopin Institute with Chojecka, all the while observing the current hygiene guidelines. This meant that the air conditioner at the Chopin Institute was running full blast.   
   

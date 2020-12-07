@@ -2,11 +2,11 @@
 layout: post
 title: Announcing the new RISM UK Catalogue
 date: 2020-10-19
-lang: fr
+lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Announcing_the_new_RISM_UK_Catalogue_8cfc511743.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/1/article/64/announcing-the-new-rism-uk-catalogue.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/announcing-the-new-rism-uk-catalogue.html
 email: 'caroline.shaw@bl.uk'
 author: 'British Library'
 ---
@@ -15,7 +15,7 @@ _The following originally appeared on the [Music Blog of the British Library](ht
   
 [RISM UK](http://rism.org.uk/) is pleased to announce the launch of the new[RISM UK Catalogue](http://uk.rism-ch.org/catalog).
 
-The catalogue is a subset of the international [RISM Online Catalogue of Musical Sources](http://www.rism.info/home.html). It contains all data from that resource on printed and manuscript music held in British libraries and archives, and pulls data directly from the international database to ensure it remains up-to-date.&nbsp; We hope it will be of value and interest to researchers wanting to locate sources of printed and manuscript music held in repositories in Britain.
+The catalogue is a subset of the international [RISM Online Catalogue of Musical Sources](/index.html). It contains all data from that resource on printed and manuscript music held in British libraries and archives, and pulls data directly from the international database to ensure it remains up-to-date.&nbsp; We hope it will be of value and interest to researchers wanting to locate sources of printed and manuscript music held in repositories in Britain.
 
 The catalogue illustrates the rich resource of historic music materials that have been preserved in Britain. The information held can be searched in traditional ways, such as by composer and title, and also by the incipits of the musical notation.&nbsp; A new feature makes it possible to identify and locate unica - printed editions that survive in single copies only. It is also possible to define the date ranges of searches more precisely than was possible before. Data from search results can be freely downloaded in simple CSV format, allowing researchers to reuse the information for their own purposes.&nbsp; The database also provides access to digitised images, where they are available, from participating libraries via IIIF.
 

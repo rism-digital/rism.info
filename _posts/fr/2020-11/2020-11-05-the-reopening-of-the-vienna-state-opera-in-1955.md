@@ -2,11 +2,11 @@
 layout: post
 title: The Reopening of the Vienna State Opera in 1955
 date: 2020-11-05
-lang: fr
+lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Wiener_Staatsoper_c94e053cd7.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/article/64/the-reopening-of-the-vienna-state-opera-in-1955.html
+old_url: http://www.rism.info/en/home/newsdetails/article/64/the-reopening-of-the-vienna-state-opera-in-1955.html
 email: 'contact@rism.info'
 author: 'Julius Rüttger'
 ---

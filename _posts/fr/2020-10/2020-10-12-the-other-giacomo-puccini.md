@@ -2,11 +2,11 @@
 layout: post
 title: The Other Giacomo Puccini
 date: 2020-10-12
-lang: fr
+lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Puccini_Ururgrossvater_a130904a58.png"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/1/article/64/the-other-giacomo-puccini.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/the-other-giacomo-puccini.html
 email: ''
 author: ''
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: 'Lost and Found: Gottfried Kirchhoff''s "L''A.B.C. musical"'
 date: 2020-08-10
-lang: fr
+lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Kirchhoff_ABCMusical_01_8cc52ebc97.png"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/3/article/64/lost-and-found-gottfried-kirchhoffs-labc-musical.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/lost-and-found-gottfried-kirchhoffs-labc-musical.html
 email: ''
 author: ''
 ---

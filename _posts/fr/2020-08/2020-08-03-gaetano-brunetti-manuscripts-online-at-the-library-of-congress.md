@@ -2,11 +2,11 @@
 layout: post
 title: Gaetano Brunetti manuscripts online at the Library of Congress
 date: 2020-08-03
-lang: fr
+lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_brunetti_LibraryCongress_c105f7273d.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/3/article/64/gaetano-brunetti-manuscripts-online-at-the-library-of-congress.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/gaetano-brunetti-manuscripts-online-at-the-library-of-congress.html
 email: ''
 author: 'Karen Lund and Susan Clermont'
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: Updated Tutorials for the RISM Online Catalog
 date: 2020-11-19
-lang: fr
+lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Updated_tutorials_OPAC_2020_9071afdb1c.png"
-old_url: http://www.rism.info/fr/home/newsdetails/article/64/updated-tutorials-for-the-rism-online-catalog.html
+old_url: http://www.rism.info/en/home/newsdetails/article/64/updated-tutorials-for-the-rism-online-catalog.html
 email: ''
 author: ''
 ---
@@ -40,6 +40,8 @@ And finally, a very short video is available on **how to report an error**.
 How to report an error ([YouTube video](https://youtu.be/m_UAdX6E1cU))
 
 Other instructional videos will continue to be added.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Feedback and comments are welcome at any time. You can leave a comment in the video or write to contact@rism.info.
 
