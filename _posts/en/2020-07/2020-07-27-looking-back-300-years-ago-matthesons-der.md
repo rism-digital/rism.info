@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 'Looking back 300 years ago: Mattheson''s "Der brauchbare Virtuoso" from 1720'
+title: "Looking back 300 years ago: Mattheson's \"Der brauchbare Virtuoso\" from 1720"
 date: 2020-07-27
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news-old-website/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
+image: /images/news-old-website/csm_RISM_1720_Mattheson_659bbc0c6a.jpg
+old_url: http://www.rism.info/en/home/newsdetails/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html?tx_ttnews[year]=2020&tx_ttnews[month]=07&cHash=dd66aca0661e13ea1e7cea903143dc79
 email: ''
 author: ''
 ---
+
 
 It's not only numerous composers who are celebrating major anniversaries: compositions are too. When you think of Johann Mattheson, you might first think of his writings that appeared in Hamburg, _Der vollkommene Capellmeister_ (1739) or his _Grundlage einer Ehren-Pforte_ (1740). But this time we're going to look at the twelve sonatas that were published in Hamburg in 1720. The sonatas were actually finished in 1717 but appeared three years later.
 
@@ -24,9 +25,12 @@ If you want to know more about the twelve sonatas from 1720, we recommend Jane A
 Don't be surprised if you hear recordings with different instruments. Mattheson leaves the choice of instruments up to the performers. Here is a version with harpsichord and flute:
 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fj_TRHdImhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 _Image_: Title page for Johann Mattheson's _Der brauchbare Virtuoso_, copy in [Staats- und Universitätsbibliothek Hamburg](https://resolver.sub.uni-hamburg.de/kitodo/PPN805164146){:target="_blank"} (CC BY-SA 4.0) [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}.
+
 
 
