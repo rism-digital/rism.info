@@ -33,6 +33,8 @@ sass:
 
 theme: rism-theme
 
+src_link: https://github.com/rism-digital/rism.info/tree/staging
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
