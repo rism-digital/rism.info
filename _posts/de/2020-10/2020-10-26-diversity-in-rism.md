@@ -39,7 +39,7 @@ Die Familie **Lambert&nbsp;** war musikalisch begabt, darunter **Charles-Lucien 
   
 **Scott Joplin** (ca. 1867-1917), der berühmte afro-amerikanische Komponist, ist vor allem für seine Ragtime-Musik bekannt und kann in zahlreichen Online-Notensammlungen, einschließlich der [Levy Collection](https://levysheetmusic.mse.jhu.edu/collection-search?search_api_fulltext=scott+joplin), gefunden werden. In RISM ist sein ["Cascades"-Rag](/events/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html) in einer Bearbeitung erwähnt, die vom historischen Orchester des Casino-Theaters in Tongeren, Belgien, verwendet wurde.&nbsp;   
   
-Schließlich weisen wir noch auf die Musiksammlung im [**Archiv des Sorbischen Instituts**](/en/library_collections/2016/11/17/the-archive-of-the-sorbian-institute-in-germany.html) ([D-BAUscb](https://opac.rism.info/search?View=rism&siglum=D-BAUscb)) hin, die die Musik der Sorben, einer der offiziell anerkannten ethnischen Minderheiten in Deutschland, aufbewahrt.
+Schließlich weisen wir noch auf die Musiksammlung im [**Archiv des Sorbischen Instituts**](/library_collections/2016/11/17/the-archive-of-the-sorbian-institute-in-germany.html) ([D-BAUscb](https://opac.rism.info/search?View=rism&siglum=D-BAUscb)) hin, die die Musik der Sorben, einer der offiziell anerkannten ethnischen Minderheiten in Deutschland, aufbewahrt.
 
 Die obige Liste ist zweifellos unvollständig, und wir würden uns über weitere Namen, die hiermit in Zusammenhang stehen, freuen.   
   
