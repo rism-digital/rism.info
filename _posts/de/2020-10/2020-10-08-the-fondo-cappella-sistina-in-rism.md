@@ -22,7 +22,7 @@ Fondo fanden zwischen 1995 und 2002 durch Thomas Schmidt (Handschriften) und
 Gottfried Heinz (Drucke) statt, mit einer geplanten Buchveröffentlichung in der Reihe der  
 Kataloge der vatikanischen Bibliothek, zu der es allerdings aufgrund des Endes der  
 Projektfinanzierung und personeller Veränderungen nicht mehr kam. Es ist daher um so  
-erfreulicher, dass die Daten nunmehr im Kontext von [RISM Online](https://opac.rism.info/search?View=rism&siglum=V-CVbav "Öffnet externen Link in neuem Fenster") endlich öffentlich  
+erfreulicher, dass die Daten nunmehr im Kontext von [RISM Online](https://opac.rism.info/search?View=rism&siglum=V-CVbav) endlich öffentlich  
 zugänglich sind.
 
 Da das Projekt vor seiner Vollendung abgebrochen wurde, ist auch die Datendichte der  
@@ -33,7 +33,7 @@ Choralhandschriften des Fondo sind, da nicht Teil von RISM, hier nicht abrufbar)
 übrigen Nummern stellt der Katalog die Basisdaten zum Kodex sowie zum Repertoire bereit,  
 in erster Instanz aus der Veröffentlichung von José Maria Llorens (Capellae Sixtinae codices  
 musicis notis instructi sive manu scripti sive praelo excussi, Roma 1960; RISM-Kurztitel:  
-[LlorensS 1960](https://opac.rism.info/search?View=rism&amp;q=lit144 "Öffnet externen Link in neuem Fenster")) übernommen und nur partiell aktualisiert.
+[LlorensS 1960](https://opac.rism.info/search?View=rism&amp;q=lit144)) übernommen und nur partiell aktualisiert.
 
 Die Breite und Tiefe der kodikologischen and paläographischen Daten (inklusive  
 Lagenstruktur, Seitenpräparation, Schriftspiegel, Layout, Notation, Erhaltungszustand etc.)  

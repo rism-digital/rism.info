@@ -15,13 +15,13 @@ Die italienische Oper des 19. Jahrhunderts brachte für die Sängerinnen und Sä
 
 Dennoch bleibt Tadolinis Name mit zahlreichen Uraufführungen verbunden, darunter Adina in Donizettis L'elisir d’amore oder die Hauptrolle in dessen Linda di Chamounix oder die Titelpartie in Verdis Alzira.
 
-Bei RISM ist [Eugenia Tadolini](https://opac.rism.info/search?View=rism&q=Tadolini+Eugenia "Öffnet externen Link in neuem Fenster") mit nur 16 Nachweisen vertreten, da Sängerinnen und Sänger natürlich nur bei RISM vermerkt werden, wenn ihr Name auch auf der Quelle verzeichnet ist.
+Bei RISM ist [Eugenia Tadolini](https://opac.rism.info/search?View=rism&q=Tadolini+Eugenia) mit nur 16 Nachweisen vertreten, da Sängerinnen und Sänger natürlich nur bei RISM vermerkt werden, wenn ihr Name auch auf der Quelle verzeichnet ist.
 
 Besonders schön ist eine [Abschrift von vier Opernarien](http://link "external-link-new-window") aus Tadolinis Repertoire, aus Werken, die diese am Teatro San Carlo in Neapel in den Jahren 1843-1845 sang.
 
 &nbsp;
 
-_Abbildung_: Eugenia Tadolini, Lithographie von Josef Kriehuber, 1835, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg "Öffnet externen Link in neuem Fenster").
+_Abbildung_: Eugenia Tadolini, Lithographie von Josef Kriehuber, 1835, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg).
 
 &nbsp;
 

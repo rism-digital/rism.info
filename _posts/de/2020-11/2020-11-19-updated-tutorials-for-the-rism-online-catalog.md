@@ -11,9 +11,9 @@ email: ''
 author: ''
 ---
 
-Es stehen neue und aktualisierte Videoanleitungen zum [RISM Online-Katalog](https://opac.rism.info/index.php?id=4 "Opens external link in new window") zur Verfügung.  
+Es stehen neue und aktualisierte Videoanleitungen zum [RISM Online-Katalog](https://opac.rism.info/index.php?id=4) zur Verfügung.  
   
-Alle Tutorials sind sowohl über die [Hilfeseite des Katalogs](https://opac.rism.info/main-menu-/kachelmenu/help "Opens external link in new window") als auch über den [RISM YouTube-Kanal](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w "Opens external link in new window") und die Playlist [Guides to the RISM Online Catalog](https://www.youtube.com/playlist?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13 "Opens external link in new window") erreichbar.  
+Alle Tutorials sind sowohl über die [Hilfeseite des Katalogs](https://opac.rism.info/main-menu-/kachelmenu/help) als auch über den [RISM YouTube-Kanal](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w) und die Playlist [Guides to the RISM Online Catalog](https://www.youtube.com/playlist?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13) erreichbar.  
   
 Alle Videos sind in englischer Sprache und enthalten englische Bildunterschriften.
 

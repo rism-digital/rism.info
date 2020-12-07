@@ -13,18 +13,18 @@ author: 'Karen Lund und Susan Clermont'
 
 _Wir haben den folgenden Beitrag von unseren Kolleginnen der Library of Congress erhalten:_
 
-Die Musikabteilung der Library of Congress hat 53 Autographe und 64 Manuskripte des italienischen [Komponisten Gaetano Brunetti online](https://www.loc.gov/collections/gaetano-brunetti-manuscript-scores/about-this-collection/ "Opens external link in new window") gestellt.[  
-](https://opac.rism.info/search?View=rism&author=brunetti+gaetano "Opens external link in new window")
+Die Musikabteilung der Library of Congress hat 53 Autographe und 64 Manuskripte des italienischen [Komponisten Gaetano Brunetti online](https://www.loc.gov/collections/gaetano-brunetti-manuscript-scores/about-this-collection/) gestellt.[  
+](https://opac.rism.info/search?View=rism&author=brunetti+gaetano)
 
-[Gaetano Brunetti](https://opac.rism.info/search?View=rism&author=brunetti+gaetano "Opens external link in new window") (1744-1798) war ein italienischer Komponist und Geiger, der 1762 als Teenager nach Spanien ging und entscheidend zum musikalischen Aufschwung dieses Landes beitrug. Nur sehr wenige von Gaetano Brunettis musikalischen Werken wurden zu seinen Lebzeiten veröffentlicht, so dass sie fast zwei Jahrhunderte lang unbekannt blieben.
+[Gaetano Brunetti](https://opac.rism.info/search?View=rism&author=brunetti+gaetano) (1744-1798) war ein italienischer Komponist und Geiger, der 1762 als Teenager nach Spanien ging und entscheidend zum musikalischen Aufschwung dieses Landes beitrug. Nur sehr wenige von Gaetano Brunettis musikalischen Werken wurden zu seinen Lebzeiten veröffentlicht, so dass sie fast zwei Jahrhunderte lang unbekannt blieben.
 
-Der umfassende thematische Katalog von Professor German Labrador Lopez De Azcona, der eine biografische Zusammenfassung, Angaben zu den handschriftlichen Quellen und Essays zu den verschiedenen Gattungen von Brunettis Werken enthält ([_Catálogo crítico, temático y cronológico_](https://opac.rism.info/search?id=lit30027168&View=rism "Opens external link in new window"). Colección de monografías, No. 8. Madrid: Asociación española de documentación musical, 2005.) hat Brunettis Bedeutung und Popularität als klassischer Komponist zweifellos gefördert; der Katalog hob auch die Tatsache hervor, dass die [Musikabteilung der](https://opac.rism.info/search?View=rism&author=brunetti&siglum=US-Wc "Opens external link in new window")[Library of Congress](https://opac.rism.info/search?View=rism&author=brunetti&siglum=US-Wc "Opens external link in new window") fast die Hälfte der erhaltenen Musikmanuskripte Brunettis, sowohl im autograph als auch in zeitgenössische Kopien, in ihren Sammlungen besitzt.
+Der umfassende thematische Katalog von Professor German Labrador Lopez De Azcona, der eine biografische Zusammenfassung, Angaben zu den handschriftlichen Quellen und Essays zu den verschiedenen Gattungen von Brunettis Werken enthält ([_Catálogo crítico, temático y cronológico_](https://opac.rism.info/search?id=lit30027168&View=rism). Colección de monografías, No. 8. Madrid: Asociación española de documentación musical, 2005.) hat Brunettis Bedeutung und Popularität als klassischer Komponist zweifellos gefördert; der Katalog hob auch die Tatsache hervor, dass die [Musikabteilung der](https://opac.rism.info/search?View=rism&author=brunetti&siglum=US-Wc)[Library of Congress](https://opac.rism.info/search?View=rism&author=brunetti&siglum=US-Wc) fast die Hälfte der erhaltenen Musikmanuskripte Brunettis, sowohl im autograph als auch in zeitgenössische Kopien, in ihren Sammlungen besitzt.
 
 Die meisten dieser Werke sind Kammermusikwerke; 22 sind Orchesterwerke und eines ist eine geistliche Vokalkomposition mit Orchesterbegleitung.
 
 &nbsp;
 
-_Abbildung_: Autograph von Brunettis _Sinfonie concertanti_ L. 330, C-Dur, [Library of Congress (US-Wc) ML96.B84](http://hdl.loc.gov/loc.music/musbrunetti.100000 "Opens external link in new window"); [RISM ID no. 108547](https://opac.rism.info/search?id=108547&View=rism "Opens external link in new window").
+_Abbildung_: Autograph von Brunettis _Sinfonie concertanti_ L. 330, C-Dur, [Library of Congress (US-Wc) ML96.B84](http://hdl.loc.gov/loc.music/musbrunetti.100000); [RISM ID no. 108547](https://opac.rism.info/search?id=108547&View=rism).
 
 &nbsp;
 

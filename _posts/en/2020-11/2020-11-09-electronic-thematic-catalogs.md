@@ -17,11 +17,11 @@ In case other people are interested in thematic catalogs, catalogs of works, or 
   
 This list includes both born-digital catalogs and PDFs as well as catalogs that were included in print publications but are now available electronically.   
   
-Our list of electronic catalogs of works [can be viewed and downloaded here](https://docs.google.com/spreadsheets/d/1uW0tp_5qow5rZWnKKjmhgjFM1NsLqykrHR58uYymAyo/edit?usp=sharing "Opens external link in new window"). Corrections and additions are welcome: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email").
+Our list of electronic catalogs of works [can be viewed and downloaded here](https://docs.google.com/spreadsheets/d/1uW0tp_5qow5rZWnKKjmhgjFM1NsLqykrHR58uYymAyo/edit?usp=sharing). Corrections and additions are welcome: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email").
 
 &nbsp;
 
-_Image_: Digitized page from Nikolaus Lang's catalog of Michael Haydn's works. Bayerische Staatsbibliothek Mus.ms. 2989, p. 2. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083795-4 "Opens external link in new window") ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de "Opens external link in new window")).
+_Image_: Digitized page from Nikolaus Lang's catalog of Michael Haydn's works. Bayerische Staatsbibliothek Mus.ms. 2989, p. 2. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083795-4) ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)).
 
 &nbsp;
 

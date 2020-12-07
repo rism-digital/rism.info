@@ -15,12 +15,12 @@ Italian opera of the 19th century presented new challenges for singers, especial
   
 Nevertheless, Tadolini's name remains associated with numerous premieres, including Adina in Donizetti's _L'elisir d’amore_, the main role in his _Linda di Chamounix_, and the title role in Verdi's _Alzira_.   
   
-In RISM, [Eugenia Tadolini appears in only 16 records](https://opac.rism.info/search?View=rism&q=Tadolini+Eugenia "Opens external link in new window") because names of singers are only included when they are named on the source.   
+In RISM, [Eugenia Tadolini appears in only 16 records](https://opac.rism.info/search?View=rism&q=Tadolini+Eugenia) because names of singers are only included when they are named on the source.   
   
-[A particularly nice manuscript](https://opac.rism.info/search?id=450065335&View=rism "Opens external link in new window") contains four opera arias from Tadolini's repertoire of pieces that she sang at the Teatro S Carlo in Naples from 1843 to 1845.&nbsp;   
+[A particularly nice manuscript](https://opac.rism.info/search?id=450065335&View=rism) contains four opera arias from Tadolini's repertoire of pieces that she sang at the Teatro S Carlo in Naples from 1843 to 1845.&nbsp;   
   
   
-_Image_: Eugenia Tadolini, lithographic print by Josef Kriehuber, 1835, from [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg "Opens external link in new window").
+_Image_: Eugenia Tadolini, lithographic print by Josef Kriehuber, 1835, from [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg).
 
 &nbsp;
 

@@ -11,7 +11,7 @@ email: 'caroline.shaw@bl.uk'
 author: 'British Library'
 ---
 
-_The following originally appeared on the [Music Blog of the British Library](https://blogs.bl.uk/music/2020/10/announcing-the-new-rism-uk-catalogue.html "Opens external link in new window") on 16 October 2020 (Creative Commons):&nbsp;_   
+_The following originally appeared on the [Music Blog of the British Library](https://blogs.bl.uk/music/2020/10/announcing-the-new-rism-uk-catalogue.html) on 16 October 2020 (Creative Commons):&nbsp;_   
   
 [RISM UK](http://rism.org.uk/) is pleased to announce the launch of the new[RISM UK Catalogue](http://uk.rism-ch.org/catalog).
 

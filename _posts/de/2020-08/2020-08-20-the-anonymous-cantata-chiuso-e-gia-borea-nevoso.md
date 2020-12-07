@@ -21,9 +21,9 @@ author: ''
 
 Eigentlich wissen wir relativ viel über das Werk: Die Textvorlage lieferte Antonio Ottoboni (1646-170), Schreiber ist Francesco Lanciani (1655-1724) und Widmungsträger ist der römisch-deutsche Kaiser Karl VII. (1697-1745). Nur der Komponist ist auf der Quelle nicht genannt.
 
-Entstanden ist die Kantate [“Chiuso è già Borea nevoso”](https://opac.rism.info/search?id=456011407&View=rism "Öffnet externen Link in neuem Fenster")&nbsp;auf einer Bildungsreise, die der gerade volljährig und damit regierungsfähig gewordene Wittelsbacher in der ersten Hälfte des Jahres 1716 unternahm. Die Besetzung ist relativ klein: Neben drei Solisten (den allegorischen Figuren Primavera, Roma und Gloria) sind Chor (Nymphen, Helden und Gladiatoren), Streicher und je zwei Flöten und Oboen beteiligt.
+Entstanden ist die Kantate [“Chiuso è già Borea nevoso”](https://opac.rism.info/search?id=456011407&View=rism)&nbsp;auf einer Bildungsreise, die der gerade volljährig und damit regierungsfähig gewordene Wittelsbacher in der ersten Hälfte des Jahres 1716 unternahm. Die Besetzung ist relativ klein: Neben drei Solisten (den allegorischen Figuren Primavera, Roma und Gloria) sind Chor (Nymphen, Helden und Gladiatoren), Streicher und je zwei Flöten und Oboen beteiligt.
 
-Die Handschrift liegt heute in der Bayerischen Staatsbibliothek in München ([Signatur Mus.ms. 225](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083808-3 "Öffnet externen Link in neuem Fenster")).
+Die Handschrift liegt heute in der Bayerischen Staatsbibliothek in München ([Signatur Mus.ms. 225](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083808-3)).
 
 &nbsp;
 

@@ -19,9 +19,9 @@ Over 230,000 sources in the RISM online catalog are anonymous and often languish
   
 As a matter of fact, we know quite a bit about the work: Antonio Ottoboni (1646-170) wrote the words, the copyist is Francesco Lanciani (1655-1724), and the cantata was dedicated to the Holy Roman Emperor Charles VII (1697-1745). It's just that the composer isn't named on the source.&nbsp;&nbsp;   
   
-[The cantata “Chiuso è già Borea nevoso”](https://opac.rism.info/search?id=456011407&View=rism "Opens external link in new window") was composed during travels undertaken by the young prince in the first half of 1716, when he had just come of age and was thus capable of rule. The music is for a relatively small ensemble: three soloists (the allegorical figures of Primavera, Roma, and Gloria), a chorus (nymphs, heroes, and gladiators), strings, and two flutes and oboes each.   
+[The cantata “Chiuso è già Borea nevoso”](https://opac.rism.info/search?id=456011407&View=rism) was composed during travels undertaken by the young prince in the first half of 1716, when he had just come of age and was thus capable of rule. The music is for a relatively small ensemble: three soloists (the allegorical figures of Primavera, Roma, and Gloria), a chorus (nymphs, heroes, and gladiators), strings, and two flutes and oboes each.   
   
-The manuscript is preserved today in the Bavarian State Library in Munich ([shelfmark Mus.ms. 225](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083808-3 "Opens external link in new window")).
+The manuscript is preserved today in the Bavarian State Library in Munich ([shelfmark Mus.ms. 225](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083808-3)).
 
 &nbsp;
 

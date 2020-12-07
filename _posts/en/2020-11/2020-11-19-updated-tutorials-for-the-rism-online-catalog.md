@@ -11,9 +11,9 @@ email: ''
 author: ''
 ---
 
-New, updated tutorials are now available for the [RISM Online Catalog](https://opac.rism.info/index.php?id=4 "Opens external link in new window").   
+New, updated tutorials are now available for the [RISM Online Catalog](https://opac.rism.info/index.php?id=4).   
   
-All tutorials are available through the [catalog's Help page](https://opac.rism.info/main-menu-/kachelmenu/help "Opens external link in new window") as well as through [RISM's YouTube channel](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w "Opens external link in new window") and the playlist [Guides to the RISM Online Catalog](https://www.youtube.com/playlist?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13 "Opens external link in new window").   
+All tutorials are available through the [catalog's Help page](https://opac.rism.info/main-menu-/kachelmenu/help) as well as through [RISM's YouTube channel](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w) and the playlist [Guides to the RISM Online Catalog](https://www.youtube.com/playlist?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13).   
   
 All videos are in English and include English captions.
 
