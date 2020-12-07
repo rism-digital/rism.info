@@ -38,7 +38,7 @@ Viele Elemente in RISM haben keine Signatur (insbesondere Musikdrucke) oder enth
 Musikincipits helfen bei der Identifizierung von Quellen und Komponisten und können im [Online-Katalog](https://opac.rism.info/advanced-search "Opens external link in new window") durchsucht werden. Incipits können sowohl bei Musikhandschriften als auch gedruckten Ausgaben ergänzt werden. Das Hinzufügen von Incipits kann einfach mithilfe digitalisierter Quellen erfolgen.  
   
 **Ergänzen Sie Ihren Notendruck**  
-Die Hauptverzeichnisse des RISM zu den Notendrucken - [A/I für Einzeldrucke und B/I sowie B/II für Sammeldrucke](/de/publikationen.html#c2619 "Opens internal link in current window") - sind mehrere Jahrzehnte alt. Hat Ihre Bibliothek in jüngster Zeit gedruckte Ausgaben vor 1800 erworben? Weiß RISM davon? Es ist einfach, neue Bestände an RISM zu melden.  
+Die Hauptverzeichnisse des RISM zu den Notendrucken - [A/I für Einzeldrucke und B/I sowie B/II für Sammeldrucke](/publikationen.html#c2619 "Opens internal link in current window") - sind mehrere Jahrzehnte alt. Hat Ihre Bibliothek in jüngster Zeit gedruckte Ausgaben vor 1800 erworben? Weiß RISM davon? Es ist einfach, neue Bestände an RISM zu melden.  
   
 **Ehrgeizigere Projekte**  
 Neue Teilnehmer sind jederzeit willkommen, um komplexere RISM-Projekte zu starten, einschließlich der Erstellung neuer Datensätze oder der Überarbeitung älterer Datensätze.   

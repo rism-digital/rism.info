@@ -39,7 +39,7 @@ The **Lambert** family was musically gifted, including **Charles-Lucien Lambert*
   
 **Scott Joplin** (ca. 1867-1917), the famous African-American composer, is best known for his ragtime music and can be found in numerous online collections of sheet music, including the [Levy Collection](https://levysheetmusic.mse.jhu.edu/collection-search?search_api_fulltext=scott+joplin "Opens external link in new window"). [In RISM](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe411245%22 "Opens external link in new window"), [his "Cascades" rag](/en/events/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html "Opens external link in new window") is preserved in an arrangement used by the historic orchestra of the Casino theater in Tongeren, Belgium.   
   
-Finally, we will point out the music collection in the [**Archive of the Sorbian Institute**](/de/library_collections/2016/11/17/the-archive-of-the-sorbian-institute-in-germany.html) ([D-BAUscb](https://opac.rism.info/search?View=rism&siglum=D-BAUscb "Opens external link in new window")), which preserves music by the Sorbian people, one of the officially recognized ethnic minorities in Germany.   
+Finally, we will point out the music collection in the [**Archive of the Sorbian Institute**](/library_collections/2016/11/17/the-archive-of-the-sorbian-institute-in-germany.html) ([D-BAUscb](https://opac.rism.info/search?View=rism&siglum=D-BAUscb "Opens external link in new window")), which preserves music by the Sorbian people, one of the officially recognized ethnic minorities in Germany.   
   
 The above list is doubtless incomplete, and we would be happy to hear about additional names that belong on it.  
   
