@@ -5,19 +5,19 @@ lang: en
 permalink: /organization/who-uses-rism.html
 ---
 
-# Who uses RISM?
+# Wer nutzt RISM?
 
-* **Musicologists** who are looking for source material in their field of research and use RISM's data as a foundation for thematic catalogues or music editions.
+* **Musikwissenschaftler**, die Quellen zu ihrem Forschungsgegenstand suchen. Sie erhalten beispielsweise die Grundlagen zur Erarbeitung von Werkverzeichnissen und Editionen der Notentexte.
 
-* **Musicians** who discover a breadth of lesser-known works in order to give concerts that go beyond the usual repertory.
+* **Musiker**, die in bislang ungekannter Breite die Grundlagen für die Ermittlung weniger bekannter Werke für ein ungewöhnliches Konzertangebot jenseits des gängigen Repertoires finden.
 
-* **Librarians** who want to know if additional copies of a certain manuscript exist at other institutions.
+* **Bibliothekare**, die parallele Quellenüberlieferungen zu den Beständen der eigenen Bibliothek recherchieren können.
 
-* **Students** who need to consult primary sources for an assignment or term paper.
+* **Studierende**, die Primärquellen für eine Studien- oder Hausarbeit konsultieren müssen.
 
-* **Music antiquarians** who want to identify the prints they bought.
+* **Musikantiquare**, können anhand von RISM, die von Ihnen angekauften Drucke identifizieren.
 
-# Comments from RISM users
+# Äußerungen unserer Benutzer
 
 **Gloria Eive** (Fine Arts Editor, ECCB: The Eighteenth-Century Current Bibliography; Saint Mary's College of California)
 
@@ -31,21 +31,21 @@ permalink: /organization/who-uses-rism.html
 
 "Als Musiker der Historischen Interpretationspraxis, der gleichermaßen praktisch wie wissenschafllich arbeitet, bin ich ständig auf der Suche nach musikalischen Originalquellen. Dies betrifft sowohl Handschriften oder Drucke eher unbekannter Werke als auch die der "Klassiker". Die Arbeit des RISM ist mir bei dieser täglichen Arbeit eine unschätzbare und unersetzliche Hilfe. Dies betrifft die gedruckten Bände zu den Musikdrucken, die mittlerweile über das Internet öffentlich zugängige Recherche zu den Manuskripten als auch die persönliche Betreuung vor Ort durch die Mitarbeiter des RISM. Ich bin jedenfalls dankbar darüber, daß dieses für die Musikwelt so wichtige Institut zufällig in Frankfurt beheimatet ist!"
 
-And here are some comments from our [RISM survey](/community/survey.html) (2014-2015):
+Und hier einige Kommentare aus unserer [RISM Umfrage](/community/survey.html) (2014-2015):
 
-* "A powerful tool for research." (United States)
-* "Einfach die 'erste Adresse'." (Germany)
-* "Scholarly gold standard." (United States)
-* "The RISM online catalogue is the single most useful research tool for musicology that I know, and discoveries in it have stimulated or enriched countless books and articles I have written." (United Kingdom)
-* "Unentbehrlich für Wissenschaft und Praxis." (Switzerland)
-* "An awesome, monumental project." (United States)
-* "Hervorragendes Werkzeug in der Musikbibliothek." (Germany)
-* "I use RISM on a daily basis, wouldn't know what to do without it!" (Netherlands)
+* "A powerful tool for research." (Vereinigte Staaten)
+* "Einfach die 'erste Adresse'." (Deutschland)
+* "Scholarly gold standard." (Vereinigte Staaten)
+* "The RISM online catalogue is the single most useful research tool for musicology that I know, and discoveries in it have stimulated or enriched countless books and articles I have written." (Vereinigtes Königreich)
+* "Unentbehrlich für Wissenschaft und Praxis." (Schweiz)
+* "An awesome, monumental project." (Vereinigte Staaten)
+* "Hervorragendes Werkzeug in der Musikbibliothek." (Deutschland)
+* "I use RISM on a daily basis, wouldn't know what to do without it!" (Niederlande)
 * "I have found both the catalogue and the personnel very helpful to my work." (Malta)
-* "A true gift for scholars!" (Italy)
-* "I think that RISM is one of the most important things for research in music sources." (Russia)
-* "I value the amount of scholarly research available to me via RISM." (Australia)
-* "Weiter so! Die Arbeit ist unglaublich wichtig und bedeutend!!!" (Germany)
-* "RISM is a very important and fundamental resource for music scholars." (Italy)
-* "RISM is one of the most amazing initiatives in musicological research. Simplicity, scholarly thoroughness and ambition put together." (Switzerland)
-* "RISM ist großartig! Es ist ein unentbehrliches Werkzeug, das mir schon viel Nutzen gebracht hat. Machen Sie weiter so!" (Germany)
+* "A true gift for scholars!" (Italien)
+* "I think that RISM is one of the most important things for research in music sources." (Russland)
+* "I value the amount of scholarly research available to me via RISM." (Australien)
+* "Weiter so! Die Arbeit ist unglaublich wichtig und bedeutend!!!" (Deutschland)
+* "RISM is a very important and fundamental resource for music scholars." (Italien)
+* "RISM is one of the most amazing initiatives in musicological research. Simplicity, scholarly thoroughness and ambition put together." (Schweiz)
+* "RISM ist grossartig! Es ist ein unentbehrliches Werkzeug, das mir schon viel Nutzen gebracht hat. Machen Sie weiter so!" (Deutschland)
