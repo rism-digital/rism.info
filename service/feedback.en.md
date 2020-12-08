@@ -11,13 +11,13 @@ RISM welcomes any errors, corrections, or addenda that you bring to our attentio
 
 * You can identify an anonymous piece
 * You wish to report additional copies of a printed edition
-* Attribution to a certain composer is incorrect
+* Attribution to a composer is incorrect
 * There is a typographical error
 * Other things you would like to point out
 
-For **printed music**, please include the RISM publication citation (A/I or B/I number, or a page number), name of the library or holding institution, shelfmark, and the plate number (if you have it).
+For items in the **RISM online catalog**, please include the RISM number (located on the bottom right of the record) and describe the issue as thoroughly as you can. It is helpful when you can point us to evidence such as secondary literature or information in another RISM record.
 
-For items in the **RISM online catalog**, please include the 9-digit RISM number (located on the bottom right of the record) and describe the issue as thoroughly as you can. It is helpful when you can point us to evidence such as secondary literature or information in another RISM record.
+For items in our **printed inventories**, please include the RISM publication citation, including the B series number plus the identifier or a page number
 
 You are welcome to send us any general comments about the online catalog as well.
 
