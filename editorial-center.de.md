@@ -9,12 +9,14 @@ permalink: /editorial-center.html
 
 {% include image file="/images/editorial-center/building.jpg" pos="right" %}
 
-Die Zentralredaktion ist Anlaufstelle für MitarbeiterInnen und Interessierte aus der ganzen Welt. Sie steht für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen durch Bereitstellung von technischen und fachlichen Hilfen, wie z.B. das Erfassungsprogramm Muscat und den Betrieb des Datenserver, Richtlinien zur Dokumentation von Musikquellen, den Online Katalog u.v.m. 
+Die Zentralredaktion ist Anlaufstelle für Mitarbeiter*nnen und Interessierte aus der ganzen Welt. Sie steht für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen durch Bereitstellung von technischen und fachlichen Hilfen, wie z.B. das Erfassungsprogramm Muscat und den Betrieb des Datenserver, Richtlinien zur Dokumentation von Musikquellen, den Online Katalog u.v.m. 
+
 Die Zentralredaktion bietet für Arbeitsgruppen grundlegende Einarbeitung in das Programm und die Dokumentationsmethoden an und führt Workshops zu speziellen Themen durch. Als Redaktion fühlt sie sich verantwortlich für die Vereinheitlichung der Daten, insbesondere für die Führung der Normdateien. 
 Im übrigen vertritt sie das Projekt in der Öffentlichkeit. 
+
 Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und der Staatsbibliothek zu Berlin eingegangen, um den Datenserver und den Online Katalog zu betreiben.
 
-## MitarbeiterInnen der Zentralredaktion
+## Mitarbeiter*nnen der Zentralredaktion
 
 Leitung: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
@@ -43,10 +45,13 @@ Fax: +49-69-706026
 
 [contact@rism.info](mailto:contact@rism.info){:target="_blank"}
 
-Wenn Sie uns besuchen wollen, finden Sie uns in der :  
+Wenn Sie uns besuchen möchten, finden Sie uns in der:  
 Mertonstraße (Hörsaalgebäude), Räume 401 – 407
 
 Siehe: [Google Maps](https://goo.gl/maps/30s4Z){:target="_blank"}  [Public transportation](http://www.rmv.de/en/){:target="_blank"}
+
+GPS: Die Hausanschrift lautet Gräfstraße 52-54. Der Eingang befindet sich aber in der Mertonstraße.
+Koordinaten für den Eingang: Breitengrad 50.11837, Längengrad 8.65042. 
 
 Die Haltestelle im Öffentlichen Nahverkehr ist **Bockenheimer Warte**. Wenn Sie die U-Bahn nehmen: 
 
