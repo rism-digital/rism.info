@@ -7,8 +7,6 @@ permalink: /community/muscat/tutorials.html
 
 # Tutorials: General
 
-*Tutorials will be linked here as they are completed.*
-
 **Introductory videos for Muscat:**
 
 * [Muscat: A Quick Overview](https://youtu.be/ncnQ-TD9dGM){:target="_blank"}: If you have time to watch only one video on Muscat, this is it!
@@ -31,7 +29,7 @@ permalink: /community/muscat/tutorials.html
 
 * [Composite volumes](https://youtu.be/46_agb6-K_0){:target="_blank"}: How to show that printed items (or printed plus manuscript items) are bound together.
 
-* **Adding references to secondary literature:** [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
+* Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
 
 # Tutorials: Music manuscripts
 
@@ -59,7 +57,7 @@ permalink: /community/muscat/tutorials.html
 
 # Tutorials: Printed music
 
-Always search for the print first in Muscat or the [RISM online catalog](http://opac.rism.info){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines on [when to enter a new record](http://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Always search for the print first in Muscat or the [RISM online catalog](http://opac.rism.info){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](http://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * If you find the print, you can add/edit your holdings. You may also revise the record.
 * If you don't find a match, enter a new record.
@@ -72,7 +70,7 @@ Complete instructions:[Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
 
-  - Please note: Most B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below).
+  - Please note: Some B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below).
 
 2. **Revise existing RISM records**
 
