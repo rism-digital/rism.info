@@ -22,7 +22,7 @@ Darüber hinaus dokumentieren die Arbeitsgruppen in eigenen Libretto-Projekten T
 Für Einzelprojekte erhielt RISM finanzielle Unterstützung u.a. von:
 
 * [Kulturfonds der VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}
-* [Stadt Frankfurt am Main](http://www.kultur.frankfurt.de/){:target="_blank"}
+* [Stadt Frankfurt am Main](https://www.kultur-frankfurt.de/){:target="_blank"}
 * [Deutsche Forschungsgemeinschaft, Bonn](http://www.dfg.de/){:target="_blank"}
 * [Union der deutschen Akademien der Wissenschaften](http://www.akademienunion.de/){:target="_blank"}
 * [The Ford Foundation, New York](http://www.fordfoundation.org/){:target="_blank"}
