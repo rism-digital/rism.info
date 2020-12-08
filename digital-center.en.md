@@ -13,6 +13,6 @@ The RISM Digital Center is the central hub for information technology questions 
 
 The RISM Digital Center created and maintains **Verovio**, an open-source software library for rendering [Music Encoding Initiative](http://music-encoding.org){:target="_blank"} (MEI) scores. The development of this unique music engraving tool is conducted in close collaboration with the MEI community. Verovio is used in dozens of digital musicology projects, with applications in digital critical editions, genetic editions, early music, audio alignment, online editing, music addressability, visualisation, performance, and even composition via artificial intelligence.
 
-The RISM Digital Center is a Research Infrastructure project of the [Swiss National Science Foundation](http://www.snf.ch){:target="_blank"} and it located in Bern.
+The RISM Digital Center is a Research Infrastructure project of the [Swiss National Science Foundation](http://www.snf.ch){:target="_blank"} and is located in Bern.
 
 For more information, visit the Digital Center [website](https://stage.rism.digital) or see the [latest news](/news-archive/rism_digital_center/) about it.
