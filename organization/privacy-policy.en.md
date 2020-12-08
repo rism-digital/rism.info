@@ -17,7 +17,7 @@ The responsible party, as referred to in the General Data Protection Regulation 
 
 RISM Zentralredaktion 
 
-represented by the director, Klaus Keil
+represented by the director, Dr. Balázs Mikusi
 
 Johann Wolfgang Goethe-Universität 
 
