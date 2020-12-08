@@ -33,7 +33,7 @@ XC – Africa
 XD – The Americas
 XE – Australia and Oceania
 
-You can find a complete list here ([PDF](http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/inhaltserschliessung/laenderCodesAlph.pdf?__blob=publicationFile){:target="_blank"}).
+You can find a complete list here ([PDF](https://wiki.dnb.de/display/ILTIS/Informationsseite+zur+GND?preview=%2F90411323%2F160151404%2F02-laendercodes_2020-01-28_alph.pdf){:target="_blank"}).
 
 **City** (place of birth, death, or place active)
 Enter the name of the city in the local language, so Roma instead of Rome or Wrocław instead of Breslau.
