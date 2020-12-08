@@ -21,12 +21,12 @@ Director: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Assistant Director: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
 
-Editorial Staff:
-* [Guido Kraus](mailto:guido.kraus@rism.info){:target="_blank"} M.A.
+Editorial staff:
+* [Guido Kraus](mailto:guido.kraus@rism.info){:target="_blank"}, MA
 * [Alexander Marxen](mailto:alexander.marxen@rism.info){:target="_blank"}
-* [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}
+* [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}, MA, MA, MSLIS 
 
-IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}
+IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MS
 
 ## Address
 
