@@ -13,21 +13,21 @@ Muscat is RISM's central cataloging program for musical sources (manuscripts, pr
 
 ## About Muscat
 
-Muscat includes sources from the various RISM series A/I, A/II, and B/I, which are in one database for the first time after having previously been managed in separate places. As of September 2018, Muscat contains in total 1,132,000 musical sources, 111,700 authority records for personal names, 70,400 institutions, and 34,500 records for secondary literature.
+As of December 2020, Muscat contains in total 1,484,000 musical sources, 139,000 authority records for personal names, 59,000 institutions, and 36,000 records for secondary literature. Muscat includes sources from the RISM series A/I, A/II, and B/I, as well as sources outside these series. 
 
 Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:target="_blank"}, web-based, platform-independent program. It uses MARC21 and thus has an internationally widespread and standardized data model at its core. Additional features include:
 * Built-in version control to identify changes
 * Ability to leave comments for sources and authority files
 * Intuitive management of digital objects
-* Ability to create folders to organize your work
-* Link to VIAF to import personal name authority files
+* Ability to create folders to organize work
+* Link to VIAF to import personal name authority records
 * Custom-built module to display incipits
 * Expanded ability to add guidelines in different languages
 * Integrated full online catalog search with geovisualizations
-* Interfaces in English, German, French, and Italian, with translations in Spanish and Portuguese in preparation
+* Interfaces in English, French, German, Italian, Polish, Portuguese, and Spanish, with a translations in Korean in preparation
 * Separate training server for practice
 
-Feel free to contact [Jennifer Ward](mailto:jennifer.ward@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat, or [Rodoflo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
+Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat.
 
 ## Technical requirements
 
