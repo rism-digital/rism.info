@@ -1,13 +1,13 @@
 ---
 title: "Disclaimer"
-layout: disclaimer
+layout: impressum
 lang: en
-permalink: /service/disclaimer.html
+permalink: /service/impressum.html
 ---
 
 # Disclaimer
 
-*The [German Impressum]( /de/service/disclaimer.html) applies in the event of a legal dispute.*
+*The [German Impressum]( /de/service/impressum.html) applies in the event of a legal dispute.*
 
 The information contained in this website is for general information purposes only. The information is provided by the RISM Editorial Center (Zentralredaktion), and while we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
@@ -17,4 +17,4 @@ Through this website you are able to link to other websites which are not under 
 
 Every effort is made to keep the website up and running smoothly. However, the Editorial Center takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
-Please also see the [Privacy Policy](/organization/privacy-policy.html).
+Please also see the [Privacy Policy](/service/privacy-policy.html).

@@ -1,8 +1,8 @@
 ---
 title: "Datenschutzerklärung"
-layout: organization
+layout: impressum
 lang: de
-permalink: /organization/privacy-policy.html
+permalink: /service/privacy-policy.html
 ---
 
 # Datenschutzerklärung
