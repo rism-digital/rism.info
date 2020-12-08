@@ -102,16 +102,16 @@ For a few prints, you will not see an "add holdings" button. (These are mostly p
 
 [A training version of Muscat](https://muscat-training.rism.info){:target="_blank"} is available where you can:
 
-* practice and experiment with records
-* add, change, and delete information
-* not worry about making mistakes or ruining anything
-* look at the RISM guidelines
-* get an overview of Muscat's features
+* Practice and experiment with records
+* Add, change, and delete information
+* Not worry about making mistakes or ruining anything
+* Look at the RISM guidelines
+* Get an overview of Muscat's features
 
 The Muscat training server is:
 
-* identical to the live version of Muscat in data and structure
-* reset once a week with current data from the live server
-* ideal for workshops, demonstrations, and conferences
+* Identical to the live version of Muscat in data and structure
+* Reset once a week with current data from the live server
+* Ideal for workshops, demonstrations, and conferences
 
-The logins **training01**@rism.info to **training99**@rism.info are available—in other words, each participant in a workshop can have a different login. Training users are "members" of the US working group and have editing rights for all sources that begin with the siglum US-*. Please [contact the Central Office](mailto:contact@rism.info) to receive the current password.
+The logins **training01**@rism.info to **training99**@rism.info are available—in other words, each participant in a workshop can have a different login. Training users are "members" of the US working group and have editing rights for all sources that begin with the siglum US-*. Please [contact the Editorial Center](mailto:contact@rism.info) to receive the current password.
