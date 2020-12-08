@@ -15,7 +15,7 @@ Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist die
 
 RISM Zentralredaktion 
 
-vertreten durch den Leiter Klaus Keil
+vertreten durch den Leiter Dr. Balázs Mikusi
 
 Johann Wolfgang Goethe-Universität 
 
