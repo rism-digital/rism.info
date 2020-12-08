@@ -35,6 +35,12 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 
 #### 2020
 
+Yu-Lin Chiang (Germany)
+
+Miquela Döppenschmitt (Germany) [Report](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
+
+Daniel Kneer (Germany)
+
 Julius Rüttger (Germany)
 
 Karin Weißert (Germany) [Report](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
