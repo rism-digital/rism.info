@@ -17,7 +17,7 @@ The Editorial Center cooperates with the Bavarian State Library (Bayerische Staa
 
 ## Staff of the Editorial Center
 
-Director: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
+Executive Director: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Assistant Director: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
 
