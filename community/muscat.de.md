@@ -25,7 +25,7 @@ Muscat ist ein mehrsprachiges, [open source](https://github.com/rism-ch/muscat){
 * Separater Trainingsserver zu Übungszwecken
 * Oberfläche in englisch, deutsch, französisch und italienisch, weitere Übersetzungen ins Spanische und Portugiesische in Vorbereitung
 
-Wenden Sie sich bitte an [Jennifer Ward](mailto:jennifer.ward@rism.info), wenn Sie Fragen zur Verwendung von Muscat haben, wenn Sie über Muscat zum RISM beitragen möchten oder wenn Sie eine Live-Demonstration von Muscat wünschen, oder an [Rodoflo Zitellini](mailto:rodolfo.zitellini@rism.digital) für technische Fragen und Fragen zur Softwareentwicklung.
+Wenden Sie sich bitte an [Jennifer Ward](mailto:jennifer.ward@rism.info), wenn Sie Fragen zur Verwendung von Muscat haben, wenn Sie über Muscat zum RISM beitragen möchten oder wenn Sie eine Live-Demonstration von Muscat wünschen, oder an [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) für technische Fragen und Fragen zur Softwareentwicklung.
 
 ## Technische Anforderungen
 
