@@ -1,8 +1,8 @@
 ---
 title: "Impressum"
-layout: disclaimer
+layout: impressum
 lang: de
-permalink: /service/disclaimer.html
+permalink: /service/impressum.html
 ---
 
 # Impressum
@@ -19,4 +19,4 @@ Wir haben keinen Einfluss auf den Inhalt der von dieser Seite verlinkten externe
 
 Die Inhalte dieses Internetangebotes wurden sorgfältig geprüft und nach bestem Wissen erstellt. Eine Haftung oder Garantie für die Aktualität, Richtigkeit und Vollständigkeit der zur Verfügung gestellten Informationen und Daten ist jedoch ausgeschlossen. In keinem Fall wird für Schäden, die sich aus der Verwendung der abgerufenen Informationen ergeben, eine Haftung übernommen.
 
-Bei Fragen bezüglich des Datenschutzes bei RISM beachten Sie bitte unsere [Datenschutzerklärung](/organization/privacy-policy.html)!
+Bei Fragen bezüglich des Datenschutzes bei RISM beachten Sie bitte unsere [Datenschutzerklärung](/service/privacy-policy.html)!

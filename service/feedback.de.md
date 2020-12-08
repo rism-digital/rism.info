@@ -1,6 +1,6 @@
 ---
 title: "Feedback"
-layout: disclaimer
+layout: impressum
 lang: de
 permalink: /service/feedback.html
 ---

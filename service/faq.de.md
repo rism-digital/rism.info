@@ -1,6 +1,6 @@
 ---
 title: "Häufig gestellte Fragen"
-layout: disclaimer
+layout: impressum
 lang: de
 permalink: /service/faq.html
 ---
