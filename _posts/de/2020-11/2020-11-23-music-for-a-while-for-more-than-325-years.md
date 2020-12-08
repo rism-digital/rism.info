@@ -11,7 +11,7 @@ email: 'contact@rism.info'
 author: 'Chris Scobie (British Library) and Jennifer Ward (RISM Zentralredaktion)'
 ---
 
-[Translate to Deutsch:] Autograph manuscript of Henry Purcell's Sonata in F major (Z. 810). BL Add MS 30930, f. 37v.
+Autograph manuscript of Henry Purcell's Sonata in F major (Z. 810). BL Add MS 30930, f. 37v.
 
 _Der folgende Beitrag ist eine [Gemeinschaftsproduktion der RISM Zentralredaktion und der British Library](https://blogs.bl.uk/music/2020/11/music-for-a-while-for-more-than-325-years-a-joint-rism-british-library-blog-post-about-sources-for-p.html):_   
   

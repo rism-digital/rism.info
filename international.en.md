@@ -15,7 +15,7 @@ In over 35 countries around the world, one or more national RISM working groups 
 * [Clori - Archivio della Cantata Italiana](http://cantataitaliana.it/){:target="_blank"}
 * [DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/){:target="_blank"}
 * [Richard Strauss Quellenverzeichnis](http://www.rsi-rsqv.de/){:target="_blank"}
-* [State Library at Berlin, Preußischer Kulturbesitz](http://staatsbibliothek-berlin.de/de/){:target="_blank"}
+* [Berlin State Library, Preußischer Kulturbesitz](http://staatsbibliothek-berlin.de/de/){:target="_blank"}
 * [Universidad Nacional Autónoma de México (UNAM)](http://www.unam.mx){:target="_blank"}
 * [The Virtual International Authority File (VIAF)](https://viaf.org/){:target="_blank"}
 * [Virtual Library of Musicology](https://www.vifamusik.de/){:target="_blank"}

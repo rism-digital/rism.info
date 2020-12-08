@@ -9,6 +9,7 @@ permalink: /organization/the-association.html
 
 Die RISM Zentralredaktion wird getragen von dem Verein „Internationales Quellenlexikon der Musik e.V." eingetragen beim Amtsgericht Frankfurt am Main, VR 16016. Der Verein erhält von der [Akademie der Wissenschaften und der Literatur Mainz](http://www.adwmainz.de/){:target="_blank"} Mittel aus dem Akademienprogramm zur Finanzierung der Zentralredaktion.
 
+
 Mitglieder des Vereins:
 
 * Ehrenpräsident: Dr. Harald Heckmann, Ruppertshain (Deutschland), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Deutschland)
