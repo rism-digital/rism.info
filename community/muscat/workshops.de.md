@@ -13,15 +13,19 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
+Frühjahr 2021: Termine werden noch bekannt gegeben. Schreiben Sie an contact@rism.info, wenn Sie eine E-Mail erhalten möchten, sobald die Termine feststehen.
 
 # Vergangene Workshops und Vorführungen
 
-
-* Herbst-Workshops: Muscat Einführung, online. Deutsch- und Englischsprachige Sitzungen.
-    - 16\. und 18\. November 2020 (Deutsch, Englisch)
-    - 23\. und 25\. November  2020 (Italienisch)
-    - 24\. und 26\. November 2020 (Englisch)
-    - 29\. November und 1\. Dezember 2020 (Englisch)
+Herbst-Workshops 2020: [Muscat Einführung](http://www.rism.info/de/startseite/newsdetails/article/2/introductory-muscat-workshops-in-november.html), online      
+     - 16\. und 18\. November 2020 (Deutsch, Englisch)     
+    *Martina Falletta und Jennifer Ward (RISM Zentralredaktion)*
+    - 23\. und 25\. November  2020 (Italienisch)     
+    *Martina Falletta (RISM Zentralredaktion)*
+    - 24\. und 26\. November 2020 (Englisch)     
+    *Jennifer Ward (RISM Zentralredaktion)*
+    - 29\. November und 1\. Dezember 2020 (Englisch)     
+    *Jennifer Ward (RISM Zentralredaktion)*
 
 * November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea (JeongYoun Chang, Korea National University of Arts)
 
