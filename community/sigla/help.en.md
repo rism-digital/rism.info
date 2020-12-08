@@ -5,19 +5,19 @@ lang: en
 permalink: /community/sigla/help.html
 ---
 
-# Guide to using the siglum directory
+# Guide to using the Online Directory of RISM Library Sigla
 
 ## Introduction
 
-RISM Sigla are used to refer to institutions that contain historical music collections.
+RISM sigla are used to refer to institutions that contain historical music collections.
 
 They are composed of a country abbreviation, a city abbreviation, and an institution abbreviation.
 
-In I-Rc, I stands for Italy, R is for Rome, and c is for the Biblioteca Casanatense.
+In **I-Rc**, **I** stands for Italy, **R** is for Rome, and **c** is for the Biblioteca Casanatense.
 
-In US-PHf, US stands for the United States, PH is for Philadelphia, and f is for the Free Library of Philadelphia.
+In **US-PHf**, **US** stands for the United States, **PH** is for Philadelphia, and **f** is for the Free Library of Philadelphia.
 
-Once you find the country and city you need, you can search the RISM online catalog for all sources from this location. Choose the field Library siglum.
+Once you find the country and city you need, you can search the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} for all sources from this location. Choose the field Library siglum.
 
 Use the symbol * to truncate.
 
@@ -26,50 +26,50 @@ I-R* for all sources currently in Rome, and US-PH* for all sources currently in 
 I-* for all sources in Italy, and US-* for all sources in the United States.
 
  
-## Searching Basics
+## Search basics
 
-1. Search for countries using their names. Supported languages are English, French, German and Italian.
+1. Search for countries using their names in English, French, German, or Italian.
 
-2. Search for cities and institutions using their local names
+2. Search for cities and institutions using their local names (Roma instead of Rome)
 
 3. Search for US states by the postal abbreviation in the field City (WI, IL, etc.)
 
-## Simple Search
+## Simple search
 
-The simple search supports searching by phrase. The search logic uses AND as a default. For example, “Archiv Austria” will return all sigla that contain the word “Archiv” AND “Austria.”
+Enter one or more words to search. Search terms are combined by default. For example, **Archiv Austria** will return all sigla that contain the word **Archiv** and **Austria**.
 
-This may be changed by combining the search terms with a capital OR: “Archiv OR Austria” will find all sigla that contain either one term or the other. Results are sorted by relevance.
+This may be changed by combining the search terms with a capital OR: **Archiv OR Austria** will find all sigla that contain either one term or the other. Results are sorted by relevance.
 
 ## Fields
 
-The default search is in “All fields,” a full text search across the entire inventory of sigla. A combined search (see below) is only possible in this mode.
+The field **All** is the default field and all fields are searched across all sigla. A combined search (see below) is only possible when this option is selected.
 
-The fields Name, Library Sigla, City and Country are available in the drop-down menu. Terms that are linked with one of these options are only searched in the selected field.
-
-The following fields amongst others are indexed:
+The fields **Name**, **Library siglum**, **City**, and **Country** can be selected and searched in the drop-down menu. Please note the following:
 
 * Name: The official name or alternative names of the institution in the local language (bath.corporateName)
-* Library Sigla: Siglum (rism.librarySiglum)
-* Place: City or place name in the local language (rism.place)
-* Country: In English, French, German or Italian (rism.libraryCountry)
+* Library siglum: Capitalization is strictly observed (for example, US-WS vs. US-Wc) (rism.librarySiglum)
+* City: Search using the local name (including diacritics). US states can also be searched here by the postal abbreviation (WI, IL, etc.). (rism.place)
+* Country: Search for countries using their names in English, French, German, or Italian (rism.libraryCountry)
 
-Please note that you must enter cities in the local language ("Wien" instead of "Vienna" and "Warszawa" instead of "Warsaw"). You may omit diacritics in your search.
+## Combined search
 
-## Combined Search
-
-In a combined search, any number of fields may be combined by using AND or OR. This only works by searching in “All fields.”
+You can search multiple indexed fields at once by selecting **All** and entering a combination of terms using the following prefixes and combining them with AND or OR:
+* name=
+* sigla=
+* city=
+* country=
 
 Example:
 
-* The search 'name=Bach AND country=USA' will find all sigla with the word “Bach” in the name that are in the United States
+* The search **name=Bach AND country=USA** will find all sigla with the word “Bach” in the name that are in the United States.
 
  
-## Tips
+## Tip
 
-A search for '\*' will retrieve all sigla.
+A search for **\*** will retrieve all sigla.
 
 
 ## Technology used
 
-Queries are running against the official RISM SRU server at muscat.rism.info. A complete index configuration is available at https://muscat.rism.info/sru/institutions
+Searches run against the official RISM SRU server at muscat.rism.info. The complete index configuration is available at https://muscat.rism.info/sru/institutions.
 
