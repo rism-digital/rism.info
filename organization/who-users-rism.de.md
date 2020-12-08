@@ -1,7 +1,7 @@
 ---
 title: "Who uses RISM?"
 layout: organization
-lang: en
+lang: de
 permalink: /organization/who-uses-rism.html
 ---
 
