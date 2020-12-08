@@ -13,6 +13,10 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
+
+# Vergangene Workshops und Vorführungen
+
+
 * Herbst-Workshops: Muscat Einführung, online. Deutsch- und Englischsprachige Sitzungen.
     - 16\. und 18\. November 2020 (Deutsch, Englisch)
     - 23\. und 25\. November  2020 (Italienisch)
@@ -20,9 +24,7 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
     - 29\. November und 1\. Dezember 2020 (Englisch)
 
 * November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea (JeongYoun Chang, Korea National University of Arts)
-* November 2020 (Datum wird noch bekannt gegeben): Editing printed music, online (Jennifer Ward, RISM Zentralredaktion)
 
-# Vergangene Workshops und Vorführungen
 
 * 13\. Oktober 2020: RISM United Kingdom, online\
 *Jennifer Ward, RISM**Zentralredaktion*
