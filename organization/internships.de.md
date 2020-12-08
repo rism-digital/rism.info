@@ -11,7 +11,7 @@ Die RISM Zentralredaktion in Frankfurt am Main bietet Praktika für Personen an,
 
 Praktika werden basierend auf den Interessen und Terminen unserer Praktikanten organisiert. Im Idealfall sollten Praktika mindestens 3 Wochen dauern, wobei durchaus auch andere zeitliche Arrangements denkbar sind. Am Ende des Praktikums ist ein kurzer Bericht erforderlich, den wir auf der RISM-Website veröffentlichen werden.
 
-Leider kann RISM keine finanzielle Entschädigung anbieten. Gegebenenfalls kann ein ERASMUS-Stipendium unterstützt werden.
+Leider kann RISM keine finanzielle Entschädigung anbieten. Gegebenenfalls kann ein ERASMUS-Stipendium unterstützend beantragt werden.
 
 #### Praktikum in der Redaktion
 
@@ -32,6 +32,12 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 # Ehemalige Praktikanten
 
 #### 2020
+
+Yu-Lin Chiang (Deutschland)
+
+Miquela Döppenschmitt (Deutschland) [Bericht](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
+
+Daniel Kneer (Deutschland)
 
 Julius Rüttger (Deutschland)
 
