@@ -1,4 +1,4 @@
-## CONTACT
+# CONTACT
 
 Prof. Dr. André Guerra Cotta  
 Federal Fluminense University, UFF  

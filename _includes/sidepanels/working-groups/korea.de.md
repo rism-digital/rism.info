@@ -6,8 +6,6 @@ Leiterin, Abteilung Musikiwissenschaft, Fakultät für Musik
 Ewha Womans University  
 E-Mail: [hkchae@ewha.ac.kr/hyunkchae@gmail.com](mailto:hkchae@ewha.ac.kr/hyunkchae@gmail.com)
 
-
-
 Prof. Dr. Eun-Ha Kim  
 Professorin, Abteilung Musikwissenschaft  
 Fakultät für Musik, Ewha Womans University  
@@ -17,4 +15,4 @@ E-Mail: [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr), [http://eMUSICdb.info](
 [http://www.ewha.ac.kr/english](http://www.ewha.ac.kr/english/ "Opens external link in new window")  
 [http://musicie.ewha.ac.kr](http://musicie.ewha.ac.kr)
 
- ![](/fileadmin/content/workgroups/Korea/Logo_Suedkorea_01.jpg "Logo Suedkorea 01")
+![](/fileadmin/content/workgroups/Korea/Logo_Suedkorea_01.jpg "Logo Suedkorea 01")

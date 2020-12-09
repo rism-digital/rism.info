@@ -2,11 +2,7 @@
 
 [Bilingual Chart of Common Chinese Instrument Names](/fileadmin/content/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf "Initiates file download")
 
-
-
-
-
-## CONTACT
+# CONTACT
 
 **International Contact**
 
@@ -19,8 +15,6 @@ HUANG Chun-Zen(Director)
 162, Sec. 1 Heping E. Rd., Taipei City, 106,Taiwan (R.O.C.)  
 +886 2 7734 1692
 
-
-
 Shanghai Conservatory of Music Library
 
 YANG Yandi (Director)
@@ -29,8 +23,6 @@ YANG Yandi (Director)
 
 20, Fen Yang Rd., Shanghai, 200031,China  
 +86 21 64315745
-
-
 
 **Cataloging Advice**
 
@@ -43,8 +35,6 @@ Hong Kong Central Library
 66, Causeway Rd., Causeway Bay,Hong Kong
 
 +852 2921 0288
-
-
 
 **International advisor**
 

@@ -1,4 +1,4 @@
-## CONTACT
+# CONTACT
 
 JohnG.Lazos, PhD  
 5000 Notre Dame West Apt. 201  

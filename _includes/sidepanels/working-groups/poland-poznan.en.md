@@ -1,4 +1,4 @@
-## CONTACT
+# CONTACT
 
 Dr. habil. Alina Mądry  
 Dr. habil. Magdalena Walter-Mazur  
