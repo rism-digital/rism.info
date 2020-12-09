@@ -33,7 +33,7 @@ This project is funded by the Irish Research Council for the Humanities & Social
 
 # News
 
- ![](/uploads/_processed_/csm_DMTgraph_a7f5935bc2.jpg)
+ ![](/resources-old-website/workgroups-images/csm_DMTgraph_a7f5935bc2.jpg)
 
 ## New publications: Launch of the Dublin Music Trade
 

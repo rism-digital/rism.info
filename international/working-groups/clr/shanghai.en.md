@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # 2018/12 RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and Muscat workshop in Shanghai
 
- ![](/fileadmin/_processed_/csm_IMG_1784_c6a0fc20c9.jpg)
+ ![](/resources-old-website/workgroups-images/csm_IMG_1784_c6a0fc20c9.jpg)
 
 The Collaborative Project on Chinese Music Resources initiated by Mainland China, Taiwan and Hong Kong is now in its seventh year. The annual meeting for 2018 was hosted by the Shanghai Conservatory of Music December 2<sup>nd</sup>-5<sup>th</sup>. In addition to the routine work reports, the organizers also invited 14 scholars, librarians and staff from Conservatories of Music or music-related institutions in China to attend the conference in order to prepare the training of more specialized skills needed for music collections in the Chinese-language region.
 
@@ -21,7 +21,7 @@ As an invited representative of the conference, Jennifer Ward introduced the RIS
 
 
 
- ![](/fileadmin/_processed_/csm_IMG_1767_2ef4c9dc51.jpg)
+ ![](/resources-old-website/workgroups-images/csm_IMG_1767_2ef4c9dc51.jpg)
 
 **2018/12 RISM華語區工作小組於上海召開華人音樂文獻集藏計畫會議暨Muscat工作坊**
 

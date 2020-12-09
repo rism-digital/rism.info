@@ -27,7 +27,7 @@ Daher wird ein richtig umfassendes Dokumentationssystem mit digitaler Archivieru
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_poster_9880592d4d.jpg)
+ ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
 
 ## Veranstaltungen: 2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon
 

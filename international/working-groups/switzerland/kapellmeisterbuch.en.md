@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/switzerland"
 
  2010/11/23
 
-[![](/uploads/_processed_/csm_kappelmeisterbuch_c6342016be.jpg)](/index.php?eID=tx_cms_showpic&file=3261&md5=cafb3c99a7e1aaf3a5fbf93036df58c359a563bd&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
+[![](/resources-old-website/workgroups-images/csm_kappelmeisterbuch_c6342016be.jpg)](/index.php?eID=tx_cms_showpic&file=3261&md5=cafb3c99a7e1aaf3a5fbf93036df58c359a563bd&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
 
 The Benedictine Abbey of Einsiedeln, Switzerland holds a rare manuscript, the Kapellmeisterbuch, which has recently been transcribed and made freely available online (for access, [click here](http://d-lib.rism-ch.org/kapellmeisterbuch){:blank}). In this book,music performed at the abbey on Sundays and feast days was recorded by the Kapellmeister from 1805-1884, with the most regular entries between 1813 and 1852. The book, about 340 pages long, is a unique document and an extremely valuable resource for musicologists to the study musical life in 19th-century Switzerland.
 

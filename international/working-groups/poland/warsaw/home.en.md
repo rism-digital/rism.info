@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/poland-warsaw"
 
 # RISM Workshop and Seminar in Warsaw
 
- ![](/fileadmin/_processed_/csm_IMG_0930_8b75876f82.jpg "IMG 0930")
+ ![](/resources-old-website/workgroups-images/csm_IMG_0930_8b75876f82.jpg "IMG 0930")
 
 Workshop “Introduction to Kallisto” and the RISM Seminar took place at 3-4th of February in Warsaw, and was organised by Polish RISM Centre (The Music Department) and The Librarian Education Department of the National Library of Poland. Sonia Wronkowska and Guido Kraus conducted the workshop.
 
@@ -39,7 +39,7 @@ During the seminar 5 reports were presented by:
 
 # In memoriam Elzbieta Wojnowska
 
- ![](/fileadmin/_processed_/csm_Wojnowska_a745b05706.jpg "Wojnowska")
+ ![](/resources-old-website/workgroups-images/csm_Wojnowska_a745b05706.jpg "Wojnowska")
 
 Elzbieta Wojnowska had led, together with Jolanta Byczkowska-Sztaba, the Polish Center of RISM at the National Library in Warsaw since ca. 1984. During that time, she made RISM known in Poland and left her mark on it.
 

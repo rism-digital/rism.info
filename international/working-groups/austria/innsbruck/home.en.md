@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 ## News
 
- ![](/uploads/_processed_/csm_reutte_2010_480_01_3dd46265ca.jpg)
+ ![](/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg)
 
 ## : Tyrolean Christmas Concert 18-19 December 2010
 
@@ -21,7 +21,7 @@ A Christmas concert with musicfrom the archives of the Franciscan Monastery Reut
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_MariaSchoenste_no2133_4c13653095.jpg)
+ ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg)
 
 ## : RISM Tyrol-South Tyrol & OFM Austria
 

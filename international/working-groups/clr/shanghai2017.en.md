@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # 2017/11: The Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the RISM Cataloging Workshop are inaugurated in the Shanghai Conservatory of Music
 
- ![](/fileadmin/_processed_/csm_DSC00327_4fec73bdf0.jpg "DSC00327")
+ ![](/resources-old-website/workgroups-images/csm_DSC00327_4fec73bdf0.jpg "DSC00327")
 
 
 

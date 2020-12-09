@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/austria-wilhering"
 
  11.10.2011
 
-[![](/uploads/_processed_/csm_Winterreise_107af99281.jpg)](/index.php?eID=tx_cms_showpic&file=3621&md5=0831932f2bd7907c968ef8659fbcc714f12f60a1&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
+[![](/resources-old-website/workgroups-images/csm_Winterreise_107af99281.jpg)](/index.php?eID=tx_cms_showpic&file=3621&md5=0831932f2bd7907c968ef8659fbcc714f12f60a1&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
 
 Musikwissenschaftliches Archivpraktikum - Datenbank des "Répertoire International des Sources Musicales" (RISM)  
 am Institut für Musikwissenschaft

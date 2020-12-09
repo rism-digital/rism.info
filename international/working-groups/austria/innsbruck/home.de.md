@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 ## Aktuelles
 
- ![](/uploads/_processed_/csm_reutte_2010_480_01_3dd46265ca.jpg)
+ ![](/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg)
 
 ## : Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
 
@@ -21,7 +21,7 @@ Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters 
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_MariaSchoenste_no2133_4c13653095.jpg)
+ ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg)
 
 ## : RISM Landesleitung Tirol-Südtirol & OFM Austria
 

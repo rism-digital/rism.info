@@ -12,7 +12,7 @@ sidepanel: "sidepanels/working-groups/united-states"
 Contact: Catherine Ferris  
  2013/10/01
 
-[![](/uploads/_processed_/csm_DMTgraph_5ae26d02c3.jpg)](/index.php?eID=tx_cms_showpic&file=3105&md5=e0d9631245f0fbb4ba2f4c5add004906ad6a019d&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
+[![](/resources-old-website/workgroups-images/csm_DMTgraph_5ae26d02c3.jpg)](/index.php?eID=tx_cms_showpic&file=3105&md5=e0d9631245f0fbb4ba2f4c5add004906ad6a019d&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
 
 
 

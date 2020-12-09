@@ -19,7 +19,7 @@ An extensive documentation system with digital archiving will therefore be devel
 
 # News
 
- ![](/uploads/_processed_/csm_Datenbank_Korea_51c7869ddb.png)
+ ![](/resources-old-website/workgroups-images/csm_Datenbank_Korea_51c7869ddb.png)
 
 ## Electronic resources: Introducing the Ewha Music Data Base (EMDB)
 
@@ -29,7 +29,7 @@ The following is by Hyun Kyung Chae, director of RISM South Korea: The Ewha Musi
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_Logo_Suedkorea_03_f7d09a7702.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Logo_Suedkorea_03_f7d09a7702.jpg)
 
 ## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
 
@@ -39,7 +39,7 @@ The Ewha Music Research Institute (EMRI) is consistently gaining recognition as 
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_Conference_program_01_2c0a870fa2.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Conference_program_01_2c0a870fa2.jpg)
 
 ## Events: 2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation
 
@@ -49,7 +49,7 @@ The Ewha Music Research Institute held an international conference, “Keeping M
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_poster_9880592d4d.jpg)
+ ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
 
 ## Events: 2012 International Conference at Ewha Womans University in Seoul: The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond
 

@@ -27,7 +27,7 @@ Archival Practicum in Musicology - Database of the Répertoire International des
 
 # Performance: Musical Rarity from Wilhering Abbey
 
- ![](/fileadmin/_processed_/csm_Stift_596fd558da.jpg "Stift")
+ ![](/resources-old-website/workgroups-images/csm_Stift_596fd558da.jpg "Stift")
 
 November 24, 2013, Wilhering abbey, UpperAustria
 

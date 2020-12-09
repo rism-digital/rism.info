@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/slovenia"
 
  2010/11/23
 
-[![](/uploads/_processed_/csm_Darja_2007_610ace41b9.jpg)](/index.php?eID=tx_cms_showpic&file=3094&md5=a748bf49610e70953d8f0ae460010f6650a8f663&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
+[![](/resources-old-website/workgroups-images/csm_Darja_2007_610ace41b9.jpg)](/index.php?eID=tx_cms_showpic&file=3094&md5=a748bf49610e70953d8f0ae460010f6650a8f663&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
 
 **Last Respects by the RISM-Zentralredaktion**
 

@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # RISM-Chinese Language Region
 
- ![](/fileadmin/_processed_/csm_image1198_2397dcfa97.jpg "image1198")
+ ![](/resources-old-website/workgroups-images/csm_image1198_2397dcfa97.jpg "image1198")
 
 
 
@@ -23,7 +23,7 @@ The working group RISM-Chinese Language Region was planned at a conference conce
 
 # 2018/12 RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and Muscat workshop in Shanghai
 
-                      ![](/fileadmin/_processed_/csm_IMG_1784_3a7e141398.jpg)
+                      ![](/resources-old-website/workgroups-images/csm_IMG_1784_3a7e141398.jpg)
 
 The Collaborative Project on Chinese Music Resources initiated by Mainland China, Taiwan and Hong Kong has been implemented for the seventh year, the annual meeting this year is hosted by Shanghai Conservatory of Music on December 2<sup>nd</sup>-5<sup>th</sup>. In addition to the routine work reports...
 
@@ -37,7 +37,7 @@ _[continue...](/en/workgroups/chinese-language-region/news/201812-rism-clr-held-
 
 # 2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”
 
- ![](/fileadmin/content/workgroups/201808_RISM-CLR_300px.JPG)
+ ![](/resources-old-website/workgroups-images/201808_RISM-CLR_300px.JPG)
 
 The 2018IAML annual conferencewas held in Hochschule für Musik und Theater “Felix Mendelssohn Bartholdy” Leipzig from 23 to 27 July, more than 500 librarians, archivists and scholars all over the world came to participated in the conference. RISM-CLR presented the paper titled “Cataloging Standard...
 
@@ -51,7 +51,7 @@ _[continue...](/en/workgroups/chinese-language-region/news/201808-rism-clr-compl
 
 # 2017/11 The Collaborative Project on Chinese Music Resources 2017’ Annual Meeting and the RISM Cataloging Workshop are inaugurated in Shanghai Conservatory of Music
 
- ![](/fileadmin/_processed_/csm_DSC00327_3db68264d0.jpg "DSC00327")
+ ![](/resources-old-website/workgroups-images/csm_DSC00327_3db68264d0.jpg "DSC00327")
 
 The Collaborative Project on Chinese Music Resources 2017’ Annual Meeting and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China are inaugurated on Nov. 8<sup>th</sup>. Meanwhile, the RISM Cataloging Workshop is organized. Klaus Keil, Director of the RISM, Nora Yeh, International Consultant of the RISM-CLR...
 
@@ -65,7 +65,7 @@ _[continue...](/en/workgroups/chinese-language-region/news/201711-shanghai-meeti
 
 # 2017/06 The First Presentation of RISM-CLR was presented in RISM Session of 66th Annual Conference of the IAML
 
- ![](/fileadmin/_processed_/csm_IMG_4332_42798fb1da.jpg "IMG 4332")
+ ![](/resources-old-website/workgroups-images/csm_IMG_4332_42798fb1da.jpg "IMG 4332")
 
 The 2017 annual conference of IAML was held in National Library of Latvia from 18 to 22 June. This green building has a new appearance and facilities, not only providing reading services, but also preserving Latvia's most precious cultural heritage. The conference was highly appreciated by more than 200 delegates from around the world. TSENG Tzu-Chia, the member of RISM-CLR, was presented paper in the RISM session of the conference...
 
@@ -79,7 +79,7 @@ The 2017 annual conference of IAML was held in National Library of Latvia from 1
 
 # 2016/06 Working Group meeting of RISM-Chinese Language Region was successfully held in Taipei
 
- ![](/fileadmin/_processed_/csm_IMG_9272_525f86d45f.jpg "2016 Working Group meeting")
+ ![](/resources-old-website/workgroups-images/csm_IMG_9272_525f86d45f.jpg "2016 Working Group meeting")
 
 2016 Working Group meeting of RISM-Chinese Language Region was held in Digital Archive Center for Music of NTNU in Taipei on the 3rd of June. In addition to the working report...
 
@@ -97,7 +97,7 @@ _[continue...](/en/workgroups/chinese-language-region/news/201606-taipei-meeting
 
 # The entry “RISM” of Chinese Wikipedia is now officially online!
 
- ![](/fileadmin/_processed_/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg "Wiki-Chinese RISM")
+ ![](/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg "Wiki-Chinese RISM")
 
 With the assistance of RISM Zentralredaktion and International advisors Dr. Nora YEH and Prof. Judy TSOU, RISM-CLR have completed the Chinese translation of Wikipedia article of the entry “RISM.” Website address is as follows:...
 

@@ -7,7 +7,7 @@ old_url: http://www.rism.info/en/workgroups/poland-lublin-the-john-paul-ii-catho
 sidepanel: "sidepanels/working-groups/poland-lublin"
 ---
 
-![](/fileadmin/_processed_/csm_Thematischer-katalog-Pudlein_0001eb67b5.png "Thematischer-katalog-Pudlein")
+![](/resources-old-website/workgroups-images/csm_Thematischer-katalog-Pudlein_0001eb67b5.png "Thematischer-katalog-Pudlein")
 
 **Katalog tematyczny muzykaliów z klasztoru pijarów w Podolińcu**
 

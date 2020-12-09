@@ -15,9 +15,9 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 Several anonymous manuscript fragments from around 1600 came to light in 2009 as rarities in Tyrol. They have not yet been identified. One piece is an eight-voice motet for the feast of St. John the Baptist, _Jubilate Deo omnis terra_, and the other is the violone part to the Marian song _Maria schönste._
 
- ![](/fileadmin/_processed_/csm_MariaSchoenste_no2133_2a08ca062a.jpg "News A-ST")
+ ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg "News A-ST")
 
- ![](/fileadmin/_processed_/csm_JubilateDeo_no2131_d07c8a5c2c.jpg "News A-ST")
+ ![](/resources-old-website/workgroups-images/csm_JubilateDeo_no2131_d07c8a5c2c.jpg "News A-ST")
 
 ## Brixen Diocesan Archives (I-BREd; holdings currently being processed)
 

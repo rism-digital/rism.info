@@ -17,19 +17,19 @@ Website: [mi.zrc-sazu.si](http://mi.zrc-sazu.si)
 
 # Staff
 
- ![](/fileadmin/_processed_/csm_Kokole_5cda504c91.jpg "Kokole")
+ ![](/resources-old-website/workgroups-images/csm_Kokole_5cda504c91.jpg "Kokole")
 
 Dr Metoda Kokole (Head)  
 Telephone: +386 1 4706196  
 E-mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)
 
- ![](/fileadmin/_processed_/csm_Grabnar_ab96f62982.jpg "Grabnar")
+ ![](/resources-old-website/workgroups-images/csm_Grabnar_ab96f62982.jpg "Grabnar")
 
 Klemen Grabnar  
 Telephone: +386 1 4706219  
 E-mail: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)
 
- ![](/fileadmin/_processed_/csm_Caks_1bc12cfe82.jpg "Caks")
+ ![](/resources-old-website/workgroups-images/csm_Caks_1bc12cfe82.jpg "Caks")
 
 Tonja Čakš  
 Telephone: +386 1 4706198  

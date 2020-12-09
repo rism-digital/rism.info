@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/switzerland"
 
 # Switzerland : Bern : Swiss RISM branch
 
- ![](/fileadmin/_processed_/csm_zech_pastorello_161e051065.jpg "zech pastorello")
+ ![](/resources-old-website/workgroups-images/csm_zech_pastorello_161e051065.jpg "zech pastorello")
 
 Since 1996, the Swiss RISM branch has been organized as an independent association financed mainly through contributions for specific projects and cataloging/inventory commissions by libraries and archives.
 
@@ -19,7 +19,7 @@ Visit the website of the [Swiss RISM branch](http://www.rism-ch.org/){:blank} fo
 
 # News
 
- ![](/uploads/_processed_/csm_kappelmeisterbuch_e4dd5a0aa8.jpg)
+ ![](/resources-old-website/workgroups-images/csm_kappelmeisterbuch_e4dd5a0aa8.jpg)
 
 ## New publications: Kapellmeisterbuch
 

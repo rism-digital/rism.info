@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # The entry “RISM” of Chinese Wikipedia is now officially online!
 
- ![](/fileadmin/_processed_/csm_03b86f6f-c52f-4887-95e9-9655330594d4_becc38b24c.jpg "Wiki-Chinese RISM")
+ ![](/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_becc38b24c.jpg "Wiki-Chinese RISM")
 
 
 

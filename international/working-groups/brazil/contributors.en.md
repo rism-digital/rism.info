@@ -14,7 +14,7 @@ _All photographs are courtesy of_ _Beatriz Magalhães Castro._
 
 
 
- ![](/fileadmin/content/workgroups/Brasilien/Andre.PNG "Andre")
+ ![](/resources-old-website/workgroups-images/Andre.PNG "Andre")
 
 **André Guerra Cotta - Universidade Federal Fluminense Polo Rio das Ostras (PURO-UFF)**
 
@@ -24,7 +24,7 @@ Ph.d. in Musicology at PPGM-UNIRIO (2009).Master's degree in Information Science
 
 
 
- ![](/fileadmin/_processed_/csm_Beatriz_541d98ba30.jpg "Beatriz")
+ ![](/resources-old-website/workgroups-images/csm_Beatriz_541d98ba30.jpg "Beatriz")
 
 **Beatriz Magalhães Castro - Universidade de Brasília / Laboratório de Musicologia (UnB/LAMUS)**
 
@@ -34,7 +34,7 @@ Premier Prix in Flute at the Conservatoire National Supérieur de Musique de Par
 
 
 
- ![](/fileadmin/_processed_/csm_psblanco_1155b9b8bc.jpg "psblanco")
+ ![](/resources-old-website/workgroups-images/csm_psblanco_1155b9b8bc.jpg "psblanco")
 
 **Pablo Sotuyo Blanco - Universidade Federal da Bahia (UFBA) **
 

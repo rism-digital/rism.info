@@ -15,9 +15,9 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 2009 kamen mehrere anonyme Handschriftenfragmente aus der Zeit um 1600 zum Vorschein, als Rarissima in Tirol. Sie konnten noch nicht identifiziert werden. Es handelt sich einerseits um eine achtstimmige Motette _Jubilate Deo omnis terra_ zum Fest des Hl. Johannes des Täufers und andererseits um die Violonstimme zu dem Marienlied _Maria schönste._
 
- ![](/fileadmin/_processed_/csm_MariaSchoenste_no2133_2a08ca062a.jpg "News A-ST")
+ ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg "News A-ST")
 
- ![](/fileadmin/_processed_/csm_JubilateDeo_no2131_d07c8a5c2c.jpg "News A-ST")
+ ![](/resources-old-website/workgroups-images/csm_JubilateDeo_no2131_d07c8a5c2c.jpg "News A-ST")
 
 ## I-BREd (Bestand in Bearbeitung)
 

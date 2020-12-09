@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # 2016/06 Working Group meeting of RISM-Chinese Language Region was successfully held in Taipei
 
- ![](/fileadmin/_processed_/csm_IMG_9272_32d5439477.jpg "2016 Working Group meeting")
+ ![](/resources-old-website/workgroups-images/csm_IMG_9272_32d5439477.jpg "2016 Working Group meeting")
 
 
 

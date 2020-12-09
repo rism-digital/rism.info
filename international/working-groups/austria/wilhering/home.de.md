@@ -17,7 +17,7 @@ Im Zuge von Projekten am Diözesanarchiv Linz und an der Österreichischen Akade
 
 # Aktuelles:
 
- ![](/uploads/_processed_/csm_Winterreise_7629d31da9.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Winterreise_7629d31da9.jpg)
 
 ## Veranstaltungen: RISM Praktikum an der Universität Wien
 
@@ -29,7 +29,7 @@ Musikwissenschaftliches Archivpraktikum - Datenbank des "Répertoire Internation
 
 # Aufführung musikalischer Raritäten aus dem Stift Wilhering, Oberösterreich
 
- ![](/fileadmin/_processed_/csm_Stift_596fd558da.jpg "Stift")
+ ![](/resources-old-website/workgroups-images/csm_Stift_596fd558da.jpg "Stift")
 
 Sonntag, 24. November 2013, StiftWilhering (Oberösterreich)
 

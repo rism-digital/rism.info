@@ -41,7 +41,7 @@ The team of the RISM Brussels office is composed of:
 
 # News
 
- ![](/uploads/_processed_/csm_FondsTootsThielemans_01_aa1cf8a13e.jpg)
+ ![](/resources-old-website/workgroups-images/csm_FondsTootsThielemans_01_aa1cf8a13e.jpg)
 
 ## Library collections: Major Acquisition: Fonds Toots Thielemans 
 
@@ -51,7 +51,7 @@ The Music Division of the Royal Library of Belgium acquired a new important coll
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_b7240e783a.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Title_page_Le_Retour_des_Plaisirs_b7240e783a.jpg)
 
 ## Library collections: The Royal Library of Belgium acquires the only known manuscript of Le Retour des plaisirs (1719) by André Vaillant.
 
@@ -61,7 +61,7 @@ After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopo
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_Partitur_01_6d10a3122c.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Partitur_01_6d10a3122c.jpg)
 
 ## Rediscovered: Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
 
@@ -71,7 +71,7 @@ The music collections of the Royal Library of Belgium (B-Br) have been recently 
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_vieuxtemps_01_c00c49c344.jpg)
+ ![](/resources-old-website/workgroups-images/csm_vieuxtemps_01_c00c49c344.jpg)
 
 ## Library collections: Henry Vieuxtemps at the Royal Library of Belgium
 
@@ -81,7 +81,7 @@ Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, wit
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_MagritteDanvalKBR_03_726d30e969.jpg)
+ ![](/resources-old-website/workgroups-images/csm_MagritteDanvalKBR_03_726d30e969.jpg)
 
 ## Library collections: The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval 
 
@@ -91,7 +91,7 @@ In March 2010, the Music Division of the Royal Library of Belgium had the good f
 
 <!-- -->
 
- ![](/uploads/_processed_/csm_HaydnVieuxtempsKBRfolio2_03_76f68dcd61.jpg)
+ ![](/resources-old-website/workgroups-images/csm_HaydnVieuxtempsKBRfolio2_03_76f68dcd61.jpg)
 
 ## Rediscovered: Discovery of Joseph Haydn's original manuscript for the pieces Hob. XIX:1 and Hob. XIX:2 (Royal Library of Belgium, Brussels) 
 

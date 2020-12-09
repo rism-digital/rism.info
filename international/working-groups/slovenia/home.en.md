@@ -15,7 +15,7 @@ The RISM working group members at the Institute are currently at the end of cata
 
 # News
 
- ![](/uploads/_processed_/csm_Darja_2007_d2d1c7154c.jpg)
+ ![](/resources-old-website/workgroups-images/csm_Darja_2007_d2d1c7154c.jpg)
 
 ## : In memoriam Darja Frelih (Nomenj, 4. 1. 1953–Ljubljana, 11. 5. 2010)
 
