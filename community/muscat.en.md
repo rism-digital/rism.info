@@ -27,7 +27,6 @@ Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:targ
 * Interfaces in English, French, German, Italian, Polish, Portuguese, and Spanish, with a translations in Korean in preparation
 * Separate training server for practice
 
-Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat, or [Rodoflo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
 
 ## Technical requirements
 
@@ -35,3 +34,7 @@ Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have
 * Access is through a URL and requires an Internet connection. No installation is required, and nothing needs to be downloaded.
 * Muscat works best on screens that are at least 1366 x 768 pixels.
 * Muscat is optimized for Firefox and Chrome. Do not use Internet Explorer!
+
+
+## More information
+Each contributor receives their own Muscat login, which is tied to the institution(s) that they will edit. Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat. Contact [Rodoflo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
