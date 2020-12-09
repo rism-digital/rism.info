@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/rism-digital/rism-md
+  revision: d103a5656382bd2eb03d04a682890822d8dcb836
+  specs:
+    rism-md (1.0.2)
+      jekyll (~> 4.1)
+
+GIT
   remote: https://github.com/rism-digital/rism-theme
   revision: 6e03e6d3f5561b0bbd3c525d518e67a62317a8c3
   specs:
@@ -84,6 +91,7 @@ DEPENDENCIES
   jekyll-polyglot
   jekyll-redirect-from
   jekyll-seo-tag
+  rism-md!
   rism-theme!
 
 BUNDLED WITH
