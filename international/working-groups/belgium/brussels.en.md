@@ -1,0 +1,102 @@
+---
+layout: working-group
+title: "RISM Belgium"
+lang: en
+permalink: /international/working-groups/belgium/brussels.html
+old_url: http://www.rism.info/en/workgroups/belgium-brussels-royal-library-of-belgium/home.html
+sidepanel: "sidepanels/working-groups/belgium-brussels"
+---
+
+# RISM Belgium
+
+Belgium has been an active contributing member of RISM since its inception.
+
+Out of the 100,000 records described in A/I series _Einzeldrucke vor 1800_ (Individual Prints before 1800), there are around 8,000 Belgian records, while for the A/II series Music Manuscripts there are a little more than 35,000 out of the 850,000 listed in the collective database (as of May 2014).
+
+The vast majority of Belgian records were created between 1993 and 1998 when - thanks to the financial support of Belgian Federal Government - a team of musicologists was created associating three research institutions, the Royal Library of Belgium, the Brussels University and the Katholieke Universiteit Leuven. All the music manuscripts pertaining to RISM A/II and preserved at the Royal Library of Belgium and the Brussels Conservatory were described and encoded, as well as some sources of particular importance held by other institutions in Flanders and in Wallonia, for a total of more than 26,000 records.
+
+Nowadays, the RISM working group in Belgium has two offices:
+
+the [Brussels office](/en/workgroups/belgium-brussels-royal-library-of-belgium.html "Opens internal link in current window"), located at the Music Division of the [Royal Library of Belgium](http://www.kbr.be/catalogues/catalogues_en.html), which deals with the Royal Library musical sources and contributes musicological expertise to the [Coordinating Committee](/en/organisation/international-partners.html "Opens internal link in current window") of the RISM Advisory Council; and
+
+the [Leuven office](/en/workgroups/belgium-leuven-resonant-center-for-flamish-music-research.html "Opens internal link in current window"), located at [Resonant](http://www.muzikaalerfgoed.be/pagina/missie) (Centrum voor Vlaams Muzikaal Erfgoed), a non-profit association financially supported by the Flemish regional government that aims to find, describe and preserve the Flemish musical heritage in Flanders.
+
+# RISM Belgium - Brussels office
+
+The Brussels office of RISM Belgium deals with the Royal Library of Belgium musical sources.
+
+The majority of its music manuscripts were described in the RISM A/II between 1993 and 1998. New acquisitions (such asmanuscripts by Henry Vieuxtemps and Eugène Ysaÿe) or previously neglected or unknown prints, copies or manuscripts sources are regularly added to the new RISM database.
+
+Created in 1965, the [Music Division of the Royal Library of Belgium](http://www.kbr.be/collections/musique/musique_fr.html) is the most important research center in the country for the preservation and study of music-related documents. The Music Division holds hundreds of thousands manuscript and printed scores, about 100,000 sound recordings, large collections of musicians’ letters, concert programs and posters, photographs and other iconographic materials, and finally some 800 music-related objects such as medals, paintings, sculptures, music instruments.
+
+Its initial core is represented by the music library of Belgian musicologist François-Joseph Fétis, one of the richest collections of early music of the 19th century (including notably an autograph of J.S. Bach). It then expanded into a musicological reference library unique in Belgium, thanks to an active acquisition policy and to a number of music collections - from the 18th century until today - linked to personalities or institutions involved in Belgian and international musical life, such as Bela Bartók, César Franck, André-Ernest-Modeste Grétry, Franz Liszt, Albert Roussel, Henry Vieuxtemps, Guillaume Lekeu, Eugène Ysaÿe.
+
+The team of the RISM Brussels office is composed of:
+
+- Dr Marie Cornaz, musicologist, curator of the Music Division and lecturer in musicology at the [Brussels University](http://philoscsoc.ulb.be/hist/fr/users/mcornaz){:blank}; she is one of the members of the Coordinating Committee of the RISM Advisory Council
+
+- [Kris De Baerdemacker](/en/workgroups/belgium-brussels-royal-library-of-belgium/home.html), musician and composer; he encodes new descriptions of musical sources kept in the Royal Library of Belgium and corrects existing descriptions
+
+- Patrizia Rebulla ([patrizia.rebulla@kbr.be](mailto:patrizia.rebulla@kbr.be)) edits the list of libraries and posts new items.
+
+# News
+
+ ![](/uploads/_processed_/csm_FondsTootsThielemans_01_aa1cf8a13e.jpg)
+
+## Library collections: Major Acquisition: Fonds Toots Thielemans 
+
+The Music Division of the Royal Library of Belgium acquired a new important collection in December 2016: the Fonds Toots Thielemans, named after the Belgian musician who passed away on 22 August 2016 at the age of 94. The collection consists of hundreds of sound recordings (78 rpm, vinyl records...
+
+[[Leer más]](/en/home/newsdetails/article/93/major-acquisition-fonds-toots-thielemans.html "Major Acquisition: Fonds Toots Thielemans")
+
+<!-- -->
+
+ ![](/uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_b7240e783a.jpg)
+
+## Library collections: The Royal Library of Belgium acquires the only known manuscript of Le Retour des plaisirs (1719) by André Vaillant.
+
+After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopold-Philippe of Arenberg (1690-1754) was sent back to the Austrian Netherlands and became governor of Hainaut. On the occasion of his solemn entrance in the city of Mons, capital of Hainaut, Gilles-Joseph de Boussu...
+
+[[Leer más]](/en/home/newsdetails/article/93/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-by.html "The Royal Library of Belgium acquires the only known manuscript of Le Retour des plaisirs (1719) by André Vaillant.")
+
+<!-- -->
+
+ ![](/uploads/_processed_/csm_Partitur_01_6d10a3122c.jpg)
+
+## Rediscovered: Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
+
+The music collections of the Royal Library of Belgium (B-Br) have been recently enlarged by a previously unknown workby the Belgian violin virtuoso Eugène Ysaÿe (1858-1931), entitledLégende norvégienne, thanks to the acquisition of the autograph score version. In the spring of 1882,...
+
+[[Leer más]](/en/home/newsdetails/article/93/legende-norvegienne-unknown-work-by-the-belgian-violinist-and-composer-eugene-ysaye-at-the-royal-li.html "Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium")
+
+<!-- -->
+
+ ![](/uploads/_processed_/csm_vieuxtemps_01_c00c49c344.jpg)
+
+## Library collections: Henry Vieuxtemps at the Royal Library of Belgium
+
+Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, with an important find and an online exhibition. Unknown opera ‘La Fiancée de Messine’ by Henry Vieuxtemps in the Music Department of the Royal Library of Belgium In 2011, the King Baudouin Foundation bought an...
+
+[[Leer más]](/en/home/newsdetails/article/93/henry-vieuxtemps-at-the-royal-library-of-belgium-1.html "Henry Vieuxtemps at the Royal Library of Belgium")
+
+<!-- -->
+
+ ![](/uploads/_processed_/csm_MagritteDanvalKBR_03_726d30e969.jpg)
+
+## Library collections: The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval 
+
+In March 2010, the Music Division of the Royal Library of Belgium had the good fortune to acquire the private music collection of the Brussels jazz specialist Marc Danval (b. 1937). This collection contains more than 12,000 78 rpm, 33 rpm and 45 rpm LPs and 800 books about jazz and popular...
+
+[[Leer más]](/en/home/newsdetails/article/93/the-royal-library-of-belgium-brussels-acquires-the-music-collection-of-the-belgian-jazz-specialis.html "The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval")
+
+<!-- -->
+
+ ![](/uploads/_processed_/csm_HaydnVieuxtempsKBRfolio2_03_76f68dcd61.jpg)
+
+## Rediscovered: Discovery of Joseph Haydn's original manuscript for the pieces Hob. XIX:1 and Hob. XIX:2 (Royal Library of Belgium, Brussels) 
+
+In February 2007, the Music Division of the Royal Library of Belgium had the good fortune to acquire from private ownership a precious document that had been previously unknown to researchers. It is a notebook that belonged to the violinist and composer Henry Vieuxtemps (1820-1881). It contains...
+
+[[Leer más]](/en/home/newsdetails/article/93/discovery-of-joseph-haydns-original-manuscript-for-the-pieces-hob-xix1-and-hob-xix2-royal-lib.html "Discovery of Joseph Haydn's original manuscript for the pieces Hob. XIX:1 and Hob. XIX:2 (Royal Library of Belgium, Brussels)")
+
+<!-- -->
