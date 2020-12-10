@@ -1,4 +1,4 @@
-# CONTACT
+# Contact
 
 Kyla Jemison
 Metadata Librarian
