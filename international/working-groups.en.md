@@ -66,10 +66,9 @@ Website: [http://www.bgam.edu.by/eng/](http://www.bgam.edu.by/eng/){:target="_bl
 
 ## BELGIUM
 
-Website (Brussels and Leuven): [http://www.rism.info/en/workgroups/belgium-rism-belgium/home.html](/international/working-groups.html){:target="_blank"}
+Website (Brussels and Leuven): [https://www.rism.info/international/working-groups/belgium/home.html](/international/working-groups/belgium/home.html){:blank}
 
-RISM Working Group Brussels
-
+RISM Working Group Brussels\
 Dr. Marie Cornaz\
 Royal Library of Belgium\
 Music Division\
@@ -78,8 +77,8 @@ B-1000 Brussels\
 Telephone: +32 2 5195663\
 Fax: +32 2 5195760\
 Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)\
-RISM Working Group Leuven
 
+RISM Working Group Leuven\
 Mariet Calsius\
 Resonant vzw\
 Centrum voor Vlaams Muzikaal Erfgoed\
