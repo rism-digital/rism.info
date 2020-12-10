@@ -1,10 +1,16 @@
-# FURTHER INFORMATION
+# Information
 
-[A Short History](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/a-short-history.html)
+[About us](/international/working-groups/slovenia/home.html)
 
-[Archives and Libraries](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/archives-and-libraries.html)
+[Short History](/international/working-groups/slovenia/history.html)
 
-# CONTACT
+[Organization](/international/working-groups/slovenia/organization.html)
+
+[Archives and Libraries](/international/working-groups/slovenia/archives-libraries.html)
+
+[In Memoriam](/international/working-groups/slovenia/in-memoriam.html)
+
+# Contact
 
 Klemen Grabnar  
 Tonja Čakš  

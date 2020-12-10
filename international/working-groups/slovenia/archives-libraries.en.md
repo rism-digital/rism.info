@@ -2,7 +2,7 @@
 layout: working-group
 title: "Archives and Libraries"
 lang: en
-permalink: /international/working-groups/slovenia/archiveslibraries.html
+permalink: /international/working-groups/slovenia/archives-libraries.html
 old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/archives-and-libraries.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
@@ -10,8 +10,6 @@ sidepanel: "sidepanels/working-groups/slovenia"
 # Archives and Libraries
 
 About 6,000 early manuscript music works survive in the territory of today’s Republic of Slovenia. These, together with a number of extant earlier music prints, now form the general collections of the national early music heritage in Slovenia. Old music manuscripts are stored in 19 archives and libraries at various locations throughout Slovenia:
-
-
 
 Celje, Opatijska cerkev, Glabeni arhiv (SI-Co)
 
@@ -51,10 +49,6 @@ Piran, Župnijski arhiv (SI-PIž)
 
 Škofja Loka, Kapucinski samostan, Knjižnica (SI-Šk)
 
-
-
 The material from 7 archives and libraries has been catalogued in series A/II so far: SI-Ka, SI-Ko, SI-Kp, SI-Kš, SI-Ls, SI-Nf and SI-Nk.
-
-
 
 Most items are held in the Music Collection of the National and University Library in Ljubljana (SI-Lng).
