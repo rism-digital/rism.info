@@ -11,7 +11,7 @@ sidepanel: "sidepanels/working-groups/austria-wilhering"
 
  2011/10/05
 
-[![Quelle: schubert-online.at](/uploads/_processed_/csm_Winterreise_107af99281.jpg)](/index.php?eID=tx_cms_showpic&file=3621&md5=0831932f2bd7907c968ef8659fbcc714f12f60a1&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
+![Quelle: schubert-online.at](/resources-old-website/workgroups-images/csm_Winterreise_107af99281.jpg)
 
 "Gute Nacht" von Franz Schubert
 
@@ -22,7 +22,7 @@ Instructor: Stefan Ikarus Kaiser
 
 This course is intended as an introduction to research with the international database of the Répertoire International des Sources Musicales (RISM).
 
-Topics to be addressed will be cataloging, dating, authenticity, and scholarly evaluation of musical sources from the 17<sup><span lang="en-US">th</span></sup> to 20<sup><span lang="en-US">th</span></sup> centuries. This will be carried out by studying original musical sources from different archival collections. The RISM database will be used as a research tool and participants will learn how to catalog manuscripts using the program Kallisto. More information about RISM can be found at [http://www.rism.info/](/../)
+Topics to be addressed will be cataloging, dating, authenticity, and scholarly evaluation of musical sources from the 17<sup><span lang="en-US">th</span></sup> to 20<sup><span lang="en-US">th</span></sup> centuries. This will be carried out by studying original musical sources from different archival collections. The RISM database will be used as a research tool and participants will learn how to catalog manuscripts using the program Kallisto. More information about RISM can be found at [http://www.rism.info/](https://www.rism.info)
 
 Prerequisite: "Einführung in die Musikwissenschaft"  
 Requirements:  
@@ -45,9 +45,3 @@ Tuesday, 11 October 2001, 1:45-3:15 pm, Seminar room of the Institut für Musikw
 Tuesday, 18 October 2011, 1:45-3:15 pm, Seminar room of the Institut für Musikwissenschaft  
 Tuesday, 25 October 2011, 1:45-3:15 pm, Seminar room of the Institut für Musikwissenschaft   
 Additional meetings will be held at different music archives in blocks of time and will be agreed upon by course participants during the first course meetings. 
-
- Category: Events   
-
-* * *
-
-[back to overview](/en/workgroups/austria-wilhering-rism-arbeitsgruppe-stift-wilhering/home.html)

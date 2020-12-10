@@ -1,3 +1,9 @@
+# Information
+
+[About us](/international/working-groups/austria/wilhering/home.html)
+
+[Practicum](/international/working-groups/austria/wilhering/practicum.html)
+
 # Contact
 
 Dr. Stefan Ikarus Kaiser  
