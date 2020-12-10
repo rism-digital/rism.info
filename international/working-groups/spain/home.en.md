@@ -19,7 +19,7 @@ The map can be found here: [http://musicadanza.es/mapatrimoniomusical/](http://m
 
 A short description from the National Library of Spain is available [here](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:blank}.
 
-![](/resources-old-website/workgroups-images/csm_Cover_Catalogue_garcia_bernalt_ccca1080ad.jpg "Cover Catalogue garcia bernalt")
+{% include image file="/resources-old-website/workgroups-images/csm_Cover_Catalogue_garcia_bernalt_ccca1080ad.jpg" pos="left" %}
 
 **Book Reviews  
 by Antonio Ezquerro**
@@ -44,7 +44,7 @@ _The contents of the publication are organized around two main themes, the first
 
 
 
- ![](/resources-old-website/workgroups-images/csm_Review_Buch_d3b7e48b11.jpg "Review Buch")
+{% include image file="/resources-old-website/workgroups-images/csm_Review_Buch_d3b7e48b11.jpg" pos="left" %}
 
 **José López-Calo, S.J.: La música en las catedrales españolas. Madrid: Instituto Complutense de Ciencias Musicales, colección “Música Hispana. Textos. Estudios”, 2012. 719pp. 40,00€. ISBN: 978-84-89457-48-5.**
 
