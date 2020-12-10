@@ -21,11 +21,8 @@ Daher wird ein richtig umfassendes Dokumentationssystem mit digitaler Archivieru
 
 # News
 
-## : 
-
 [weiterlesen](de/home/newsdetails/article/531.html)
 
-<!-- -->
 
  ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
 
@@ -35,12 +32,8 @@ Eine vom Ewha Musikforschungsinstitut organisierte internationale Konferenz fand
 
 [weiterlesen](de/home/newsdetails/article/531/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east.html "2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon")
 
-<!-- -->
-
 ## Veranstaltungen: Kallisto workshop with Dr. Stefan Ikarus Kaiser
 
 Recently there was an introduction in the Kallisto software used by RISM.
 
 [weiterlesen](de/home/newsdetails/article/531/kallisto-workshop-with-dr-stefan-ikarus-kaiser.html "Kallisto workshop with Dr. Stefan Ikarus Kaiser")
-
-<!-- -->

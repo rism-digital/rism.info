@@ -27,8 +27,6 @@ The following is by Hyun Kyung Chae, director of RISM South Korea: The Ewha Musi
 
 [continue](en/home/newsdetails/article/531/introducing-of-the-ewha-music-data-base-emdb.html "Introducing the Ewha Music Data Base (EMDB)")
 
-<!-- -->
-
  ![](/resources-old-website/workgroups-images/csm_Logo_Suedkorea_03_f7d09a7702.jpg)
 
 ## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
@@ -37,8 +35,6 @@ The Ewha Music Research Institute (EMRI) is consistently gaining recognition as 
 
 [continue](en/home/newsdetails/article/531/from-the-first-to-the-best-ewha-music-research-institute.html "From the First[最初] to the Best[最高]: Ewha Music Research Institute")
 
-<!-- -->
-
  ![](/resources-old-website/workgroups-images/csm_Conference_program_01_2c0a870fa2.jpg)
 
 ## Events: 2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation
@@ -46,8 +42,6 @@ The Ewha Music Research Institute (EMRI) is consistently gaining recognition as 
 The Ewha Music Research Institute held an international conference, “Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation” on November the 8th and the 9th at the Recital Hall in the Music Building at Ewha Womans University in Seoul, South Korea. This conference...
 
 [continue](en/home/newsdetails/article/531/2013-conference-keeping-music-alive-innovative-approaches-to-music-documentation-and-interpretati.html "2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation")
-
-<!-- -->
 
  ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
 
