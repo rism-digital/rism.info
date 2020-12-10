@@ -15,7 +15,7 @@ As part of projects at the Diözesanarchiv Linz and the Österreichische Akademi
 
 # News:
 
- ![Quelle: schubert-online.at](/uploads/_processed_/csm_Winterreise_7629d31da9.jpg)
+ ![Quelle: schubert-online.at](/resources-old-website/workgroups-images/csm_Winterreise_7629d31da9.jpg)
 
 ## Events: RISM Practicum at the University of Vienna
 
