@@ -1,4 +1,4 @@
-# CONTACT
+# Contact
 
 Sonia Wronkowska
 
