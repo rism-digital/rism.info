@@ -19,7 +19,8 @@ Musikarchiv\
 Linzer Strasse 4\
 A-4073 Wilhering\
 Telephone: +43 7226 2311 51\
-Email: [musikarchiv@stiftwilhering.at](http://musikarchiv@stiftwilhering.at/){:target="_blank"}  
+Email: [musikarchiv@stiftwilhering.at](http://musikarchiv@stiftwilhering.at/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/austria/wilhering/home.html](/international/working-groups/austria/wilhering/home.html){:blank}
 
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider\
 Institut für Tiroler Musikforschung\
@@ -28,7 +29,8 @@ Rumer Str. 51d\
 A - 6063 Innsbruck / Post Rum\
 Telephone and fax: +43 512 263272\
 Email: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
-Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)
+Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)\
+See also: [https://www.rism.info/international/working-groups/austria/innsbruck/home.html](/international/working-groups/austria/innsbruck/home.html){:blank}
 
 RISM Working Group Salzburg\
 Archiv der Erzdiözese Salzburg\
@@ -39,7 +41,8 @@ Fax: +43 662 8047 1509\
 Univ. Doz. Dr. Ernst Hintermaier (Head), email: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
 Mag. Dr. Eva Neumayr, email: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net)\
 Mag. Lars E. Laubhold, email: [lars.laubhold@archiv.kirchen.net](mailto:lars.laubhold@archiv.kirchen.net)\
-Website: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)
+Website: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)\
+See also: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
 RISM Working Group Vorarlberg\
 Dr. Annemarie Bösch-Niederer\
@@ -50,7 +53,7 @@ Telephone: +43 5574 511-45015\
 Fax: +43 5574 511-45095\
 Email: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Website: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}  
-See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung)
+See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}
 
 ## BELARUS
 
@@ -88,6 +91,8 @@ Email: [mariet.calsius@resonant.be](mailto:mariet.calsius@resonant.be)
 
 ## BRAZIL
 
+Website: [https://www.rism.info/international/working-groups/brazil/home.html](/international/working-groups/brazil/home.html){:blank}
+
 Prof. Dr. Pablo Sotuyo Blanco\
 University of Bahia, UFBA\
 Email: [psotuyo@ufba.br](mailto:psotuyo@ufba.br)
@@ -114,9 +119,12 @@ University of Toronto Libraries\
 130 St. George St. Toronto, ON, M5S 1A5\
 Canada\
 Email: [kyla.jemison@utoronto.ca](mailto:kyla.jemison@utoronto.ca)\
-Telephone: +1 416-978-4356
+Telephone: +1 416-978-4356\
+Website: [https://www.rism.info/international/working-groups/canada/home.html](/international/working-groups/canada/home.html){:blank}
 
 ## CHINESE-LANGUAGE REGION
+
+Website: [https://www.rism.info/international/working-groups/clr/home.html](/international/working-groups/clr/home.html){:blank}
 
 HO Wing (Director)\
 WU Xu\
@@ -240,7 +248,8 @@ F-75002 Paris\
 Telephone: +33 1 4703 8851\
 Fax: +33 1 4703 8828\
 Email: [laurence.decobert@bnf.fr](mailto:laurence.decobert@bnf.fr)\
-Website: [http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html](http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html){:target="_blank"}
+Website: [http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html](http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/france/home.html](/international/working-groups/france/home.html){:blank}
 
 ## GERMANY
 
@@ -298,7 +307,9 @@ Website: [www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collecti
 
 Kerry Houston \
 DIT Conservatory of Music and Drama\
-Email: [kerry.houston@dit.ie](mailto:kerry.houston@dit.ie)
+Email: [kerry.houston@dit.ie](mailto:kerry.houston@dit.ie)\
+Website: [https://www.rism.info/international/working-groups/ireland/home.html](/international/working-groups/ireland/home.html){:blank}
+
 
 ## ITALY
 
@@ -367,7 +378,8 @@ H4C 3R5\
 Phone: + (514) 369 0982\
 Skype: John G. Lazos\
 Email: [jlazos11@hotmail.com](mailto:%20jlazos11@hotmail.com)\
-Website: [http://umontreal.academia.edu/JohnLazos](http://umontreal.academia.edu/JohnLazos){:target="_blank"}
+Website: [http://umontreal.academia.edu/JohnLazos](http://umontreal.academia.edu/JohnLazos){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/mexico/home.html](/international/working-groups/mexico/home.html){:blank}
 
 ## THE NETHERLANDS
 
@@ -397,7 +409,8 @@ PL 02-086 Warszawa\
 Telephone: +48 22 608 23 90\
 Fax: +48 22 608 26 55\
 Email: [rism@bn.org.pl](mailto:rism@bn.org.pl)\
-Website: [http://bn.org.pl/en/](http://bn.org.pl/en/){:target="_blank"}
+Website: [http://bn.org.pl/en/](http://bn.org.pl/en/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/poland/warsaw/home.html](/international/working-groups/poland/warsaw/home.html){:blank}
 
 Piotr Maculewicz\
 University of Warsaw Library, Music Department\
@@ -429,7 +442,8 @@ ul. Umultowska 89D\
 PL 61-614 Poznań\
 Telephone: +48 61 829 64 54\
 Email: [almadry@poczta.onet.pl](mailto:almadry@poczta.onet.pl) (Mądry), [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl) (Walter-Mazur)\
-Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/){:target="_blank"}
+Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/poland/poznan/home.html](/international/working-groups/poland/poznan/home.html){:blank}
 
 Dr. Danuta Popinigis\
 Akademia Muzyczna im. St. Moniuszki\
@@ -451,7 +465,8 @@ PL 20-950 Lublin\
 Telephone: +48 81 4453977\
 Mobile: +48 604 820847\
 Email: [darismol@wp.pl](mailto:darismol@wp.pl)\
-Website: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek){:target="_blank"}
+Website: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/poland/lublin/home.html](/international/working-groups/poland/lublin/home.html){:blank}
 
 The Fryderyk Chopin Institute\
 Narodowy Instytut Fryderyka Chopina\
@@ -540,7 +555,8 @@ Telephone: +386 1 4706196 (Kokole)\
 Fax: +386 1 4257799\
 Email: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
 Email: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Website: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}
+Website: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/slovenia/home.html](/international/working-groups/slovenia/home.html){:blank}
 
 ## SOUTH KOREA
 
@@ -554,7 +570,8 @@ Seoul 120-750\
 South Korea\
 Telephone: +82 3277 2439\
 Email: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
-Website: [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}
+Website: [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/korea/home.html](/international/working-groups/korea/home.html){:blank}
 
 ## SPAIN
 
@@ -568,7 +585,8 @@ E-08001 Barcelona\
 Telephone: +34 3 442 65 76\
 Fax: +34 3 4430071\
 Email: [ezquerro@bicat.csic.es](mailto:ezquerro@bicat.csic.es)\
-Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}
+Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/spain/home.html](/international/working-groups/spain/home.html){:blank}
 
 ## SWEDEN
 
@@ -596,7 +614,8 @@ Fax: +41 31 324 4 938\
 Email: [info@rism.digital](mailto:info@rism.digital)\
 Email: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 Email: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
-Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}
+Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/switzerland/home.html](/international/working-groups/switzerland/home.html){:blank}
 
 ## UKRAINE
 
@@ -628,7 +647,8 @@ London NW1 2DB\
 Telephone: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
 Email: [Richard.Chesser@bl.uk](http://Richard.Chesser@bl.uk)\
-[Website](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}
+[Website](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/united-kingdom/home.html](/international/working-groups/united-kingdom/home.html){:blank}
 
 ## UNITED STATES OF AMERICA
 
@@ -639,7 +659,8 @@ Cambridge, MA 02138\
 Telephone: +1 617 496 3359\
 Fax: +1 617 496 4636 \
 Email: [linklat@fas.harvard.edu](mailto:linklat@fas.harvard.edu)\
-Website: [https://library.harvard.edu/libraries/loeb-music](https://library.harvard.edu/libraries/loeb-music){:target="_blank"}
+Website: [https://library.harvard.edu/libraries/loeb-music](https://library.harvard.edu/libraries/loeb-music){:target="_blank"}\
+See also: [https://www.rism.info/international/working-groups/united-states/home.html](/international/working-groups/united-states/home.html){:blank}
 
 ## VENEZUELA
 
