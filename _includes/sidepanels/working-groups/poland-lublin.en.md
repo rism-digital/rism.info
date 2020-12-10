@@ -1,4 +1,10 @@
-# CONTACT
+# Information
+
+[About us](/international/working-groups/poland/lublin/home.html)
+
+[Publications](/international/working-groups/poland/lublin/publications.html)
+
+# Contact
 
 Dr. Dariusz Smolarek  
 Katolicki Uniwersytet Lubelski Jana Pawla II  

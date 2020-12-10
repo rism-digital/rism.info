@@ -13,6 +13,4 @@ sidepanel: "sidepanels/working-groups/poland-lublin"
 
 Currently, the music collection of the [diocesan library](http://www.bdsandomierz.pl/){:blank} in Sandomierz (PL-SA) is being processed.
 
-
-
 Visit the Polish website of the [RISM working group](http://www.kul.pl/rism){:blank} in Lublin!
