@@ -14,13 +14,13 @@ sidepanel: "sidepanels/working-groups/united-states"
 
 ## News
 
-## RISM Series A/II Update Survey
+### RISM Series A/II Update Survey
 2011: The AMS-MLA Joint RISM Committee seeks to update the U.S. holdings in RISM Series A/II: Music Manuscripts after 1600, an online inventory of music manuscripts primarily of the seventeenth and eighteenth centuries. Our goal is both to update the holdings of libraries currently represented in the RISM A/II database and to add new libraries with appropriate collections and manuscripts not presently included in the resource. We are gathering information now in order to seek grant funding for the cataloging and digitization of these manuscripts. [_Continue..._](international/working-groups/united-states/update.html){:blank}
 
 
 
 
-## U.S. RISM news
+### U.S. RISM news
 
 {% include image file="/resources-old-website/workgroups-images/csm_US-TelemannSeite1_03_42487347d3.jpg" pos="left" %} 
 
