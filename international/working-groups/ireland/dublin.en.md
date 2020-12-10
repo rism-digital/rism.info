@@ -53,7 +53,7 @@ encouraged.
 The Dublin Music Trade has been funded by the [Music Libraries Trust](http://www.iaml.info/iaml-uk-irl/mlt/){:blank} and the [Society for   
 Musicology in Ireland](http://www.musicologyireland.com/){:blank}. It is hosted by the [Research Foundation for Music in Ireland](http://musicresearch.ie/){:blank} and is   
 supported by the [Conservatory of Music & Drama at the Dublin Institute of Technology](http://www.dit.ie/conservatory/){:blank}.  
-For further information, contact Dr Catherine Ferris: [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie "Opens window for sending email")
+For further information, contact Dr Catherine Ferris: [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie)
 
 
 

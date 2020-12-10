@@ -1,9 +1,10 @@
-## FURTHER INFORMATION
+# FURTHER INFORMATION
 
-  - [A Short History](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/a-short-history.html "A Short History")
-  - [Archives and Libraries](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/archives-and-libraries.html "Archives and Libraries")
+[A Short History](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/a-short-history.html)
 
-## CONTACT
+[Archives and Libraries](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/archives-and-libraries.html)
+
+# CONTACT
 
 Klemen Grabnar  
 Tonja Čakš  
@@ -25,6 +26,6 @@ E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokolem@zrc-sazu.si)
 
 # Sponsor
 
- ![](/fileadmin/_processed_/csm_Znak_ZRC_6f0b98454b.png "Znak ZRC")
+ ![](/resources-old-webiste/working-groups-images/csm_Znak_ZRC_6f0b98454b.png)
 
 Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti

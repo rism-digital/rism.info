@@ -9,5 +9,5 @@ Aleje Raclawickie 14
 PL 20-950 Lublin  
 Telephone: +48 81 4453977  
 Mobile: +48 604 820847  
-E-mail: [darismol@wp.pl](mailto:darismol@wp.pl "Opens window for sending email")  
+E-mail: [darismol@wp.pl](mailto:darismol@wp.pl)  
 Website: [http://pracownik.kul.pl](http://pracownik.kul.pl/dariusz.smolarek)

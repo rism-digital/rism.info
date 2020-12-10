@@ -6,4 +6,4 @@ Loeb Music Library, Harvard University
 Cambridge, MA 02138  
 Telephone: +1 617 496 3359  
 Fax: +1 617 496 4636  
-Email: [linklat@fas.harvard.edu](mailto:linklat@fas.harvard.edu "Opens window for sending email")
+Email: [linklat@fas.harvard.edu](mailto:linklat@fas.harvard.edu)

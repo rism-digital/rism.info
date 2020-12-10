@@ -7,5 +7,5 @@ Département de la Musique
 F-75002 Paris  
 tel: +33 1 4703 8851  
 fax: +33 1 4703 8828  
-E-Mail: [laurence.decobert@bnf.fr](mailto:laurence.decobert@bnf.fr "Opens window for sending email")  
+E-Mail: [laurence.decobert@bnf.fr](mailto:laurence.decobert@bnf.fr)  
 [http://www.bnf.fr](http://www.bnf.fr/ "Opens external link in new window")

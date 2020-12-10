@@ -4,7 +4,7 @@ Prof. Dr. Hyun Kyung ("HK") Chae
 Director, Ewha Music Research Institute  
 Department of Musicology, College of Music  
 Ewha Womans University  
-E-mail: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr "Opens window for sending email") / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com "Opens window for sending email")
+E-mail: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com)
 
 Prof. Dr. Eun-Ha Kim  
 Professor, Department of Musicology   

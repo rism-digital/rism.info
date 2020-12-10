@@ -17,7 +17,7 @@ Für alle Personen, die an online verfügbaren thematischen Katalogen, Werkverze
   
 Diese Liste umfasst sowohl Kataloge, die bisher nur in digitaler Form publiziert wurden, als auch Kataloge, die in Printpublikationen vorlagen, jetzt aber elektronisch verfügbar sind.  
   
-Unsere Liste der elektronischen Werkverzeichnisse [kann hier eingesehen und heruntergeladen werden](https://docs.google.com/spreadsheets/d/1uW0tp_5qow5rZWnKKjmhgjFM1NsLqykrHR58uYymAyo/edit?usp=sharing). Korrekturen und Ergänzungen bitte unter: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email").
+Unsere Liste der elektronischen Werkverzeichnisse [kann hier eingesehen und heruntergeladen werden](https://docs.google.com/spreadsheets/d/1uW0tp_5qow5rZWnKKjmhgjFM1NsLqykrHR58uYymAyo/edit?usp=sharing). Korrekturen und Ergänzungen bitte unter: [contact@rism.info](mailto:contact@rism.info).
 
 &nbsp;
 
