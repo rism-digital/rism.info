@@ -1,6 +1,6 @@
 # Information
 
-[About us](/international/working-groups/austria/innsbruck/ofm.html)
+[Über uns](/international/working-groups/austria/innsbruck/home.html)
 
 [RISM Landesleitung Tirol-Südtirol & OFM Austria](/international/working-groups/austria/innsbruck/ofm.html)
 
