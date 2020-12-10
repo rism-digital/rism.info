@@ -19,7 +19,7 @@ The map can be found here: [http://musicadanza.es/mapatrimoniomusical/](http://m
 
 A short description from the National Library of Spain is available [here](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:blank}.
 
- ![](/resources-old-website/workgroups-images/csm_Cover_Catalogue_garcia_bernalt_ccca1080ad.jpg "Cover Catalogue garcia bernalt")
+![](/resources-old-website/workgroups-images/csm_Cover_Catalogue_garcia_bernalt_ccca1080ad.jpg "Cover Catalogue garcia bernalt")
 
 **Book Reviews  
 by Antonio Ezquerro**
