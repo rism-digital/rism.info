@@ -12,9 +12,6 @@ sidepanel: "sidepanels/working-groups/united-states"
 **Ongoing projects:** For more details about U.S. RISM projects, please visit their [website](https://library.harvard.edu/libraries/loeb-music){:blank}.
 
 
-
-
-
 ## News
 
 ## Library collections: RISM Series A/II Update Survey

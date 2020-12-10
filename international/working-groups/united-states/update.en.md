@@ -86,14 +86,3 @@ The AMS-MLA Joint RISM Committee seeks to update the U.S. holdings in RISM Serie
 Addendum: How to Search the RISM Database for Library RISM Sigla  
    
  The easiest way to obtain a list of a specific library's holdings in the A/II database is to enter an advanced search on the library's RISM sigla. The most current list of these sigla is available on the [RISM Web site](http://www.rism.info/fileadmin/content/site-content/BIBVERZ_2008_10.pdf){:blank} (U.S. holdings begin on p. 163). A list also appears in Oxford (Grove) Music Online under [Tools and Resources / Abbreviations / Library Sigla](http://www.oxfordmusiconline.com/subscriber/page/abbreviations#sigla){:blank} (this URL may vary at different institutions). For example, a "library sigla" (Bibliothekssiegel) search on US NH (the siglum for Yale) retrieves 9,740 records for Yale's manuscripts reported to date.
-
- Category: Library collections   
-
-* * *
-
-[back to overview](en/home.html)
-  
-  
-
-[Next article\>](en/newsdetails/article/47/new-rism-working-group-founded-in-seoul-south-korea.html "New RISM Working Group Founded in Seoul, South Korea")
-[\<Previous article](en/newsdetails/article/47/manuscripts-from-the-holy-trinity-cathedral-in-liepaja-latvia.html "Manuscripts from the Holy Trinity Cathedral in Liepāja (Latvia)")
