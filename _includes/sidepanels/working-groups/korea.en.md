@@ -14,6 +14,6 @@ E-mail: [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)
   
 52 Ewhayeodae-gilSeodaemun-gu 120-750 Seoul, South Korea  
 [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/)  
-[http://www.ewha.ac.kr/mbs/ewhaen/index.jsp](http://www.ewha.ac.kr/mbs/ewhaen/index.jsp "Opens external link in new window")
+[http://www.ewha.ac.kr/mbs/ewhaen/index.jsp](http://www.ewha.ac.kr/mbs/ewhaen/index.jsp)
 
  ![](/fileadmin/content/workgroups/Korea/Logo_Suedkorea_01.jpg "Logo Suedkorea 01")

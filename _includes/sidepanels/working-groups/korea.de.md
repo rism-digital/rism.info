@@ -12,7 +12,7 @@ Fakultät für Musik, Ewha Womans University
 E-Mail: [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr), [http://eMUSICdb.info](http://emusicdb.info/)
 
 52 Ewhayeodae-gilSeodaemun-gu 120-750 Seoul Südkorea  
-[http://www.ewha.ac.kr/english](http://www.ewha.ac.kr/english/ "Opens external link in new window")  
+[http://www.ewha.ac.kr/english](http://www.ewha.ac.kr/english/)  
 [http://musicie.ewha.ac.kr](http://musicie.ewha.ac.kr)
 
 ![](/fileadmin/content/workgroups/Korea/Logo_Suedkorea_01.jpg "Logo Suedkorea 01")
