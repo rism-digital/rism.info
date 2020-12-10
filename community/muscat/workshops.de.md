@@ -17,7 +17,7 @@ Frühjahr 2021: Termine werden noch bekannt gegeben. Schreiben Sie an contact@ri
 
 # Vergangene Workshops und Vorführungen
 
-Herbst-Workshops 2020: [Muscat Einführung](http://www.rism.info/de/startseite/newsdetails/article/2/introductory-muscat-workshops-in-november.html), online      
+Herbst-Workshops 2020: [Muscat Einführung](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
      - 16\. und 18\. November 2020 (Deutsch, Englisch)     
     *Martina Falletta und Jennifer Ward (RISM Zentralredaktion)*
     - 23\. und 25\. November  2020 (Italienisch)     
