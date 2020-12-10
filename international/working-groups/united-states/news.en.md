@@ -23,14 +23,3 @@ Contemporary copies of two pieces from the Baroque composer Johann Heinrich Butt
 An eighteenth-century copy of Georg Philipp Telemann's _Fugues légères et petits jeux à clavessin seul_ (TWV 30:21-26); call number: LM 5010b, RISM number: 900.007.908
 
 A nineteenth-century copy of a sonata by Carl Philipp Emanuel Bach (H. 20 in G major); call number: Ma21.Y11.Z91 (LM 5007b), RISM number: 900.007.545
-
-## _Neuigkeiten der RISM Arbeitsgruppe in den USA_
-_Im September 2008 begann die RISM Arbeitsgruppe in den USA mit der Katalogisierung der Musikmanuskripte der Yale Universität und der Juilliard School in einem zweijährigen Projekt. Dieses Unterfangen, das von der Mellon Foundation finanziell unterstützt wird, hat bisher mehr als 8.000 Datensätze erbracht. Die Incipitsuche und andere Recherchemöglichkeiten haben zu mehreren neuen Zuschreibungen geführt. Hier einige Beispiele aus der Lowell Mason Collection in Yale, die vom gleichnamigen amerikanischen Komponisten, Anthologen und Lehrer zusammengetragenes Material enthält._
-
-_Eine Abschrift von Johann Philipp Kirnbergers_ Huit fugues pour le clavecin ou l'orgue _(EngK. 25-32), die vormals dem Organisten der Darmstädter Hofkapelle Johann Christian Heinrich Rinck gehörte; Signatur: Ma21.Y11.A34 (LM 4968), RISM A/II Nr. 900.005.011_
-
-_Zeitgenössische Abschriften von zwei Stücken aus Johann Heinrich Buttstetts_ Musicalische Clavier-Kunst und Vorraths-Kammer, _ebenfalls aus dem Bestand von Rinck; Signatur:  Ma21.Y11.Z91 (LM 5007c); RISM A/II Nr. 900.007.548; 900.007.549
-
-_Eine Abschrift aus dem 18. Jahrhundert von Georg Philipp Telemanns_ Fugues légères et petits jeux à clavessin seul _(TWV 30:21-26); Signatur: LM 5010b, RISM A/II Nr. 900.007.908
-
-_Eine Abschrift aus dem 19. Jahrhundert einer Sonate von Carl Philipp Emanuel Bach (H. 20 in G major); Signatur: Ma21.Y11.Z91 (LM 5007b), RISM A/II Nr. 900.007.545
