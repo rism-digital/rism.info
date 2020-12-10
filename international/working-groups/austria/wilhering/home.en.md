@@ -37,11 +37,11 @@ Knowledge of English\
 Knowledge of Latin desirable\
 Knowledge of Italian beneficial\
 Experience with music paleography or music editing beneficial\
-Laptops not required but helpful\
+Laptops not required but helpful
 
 Maximum number of participants: 20
 
-Register online from September 19 to October 9 by sending an e-mail tostefan.ikarus.kaiser@oeaw.ac.at
+Register online from September 19 to October 9 by sending an e-mail to stefan.ikarus.kaiser@oeaw.ac.at
 
 Block course
 
