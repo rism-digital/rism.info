@@ -1,4 +1,10 @@
-# CONTACT
+# Information
+
+[Über uns](/international/working-groups/austria/innsbruck/home.html)
+
+[RISM Landesleitung Tirol-Südtirol & OFM Austria](/international/working-groups/austria/innsbruck/ofm.html)
+
+# Contact
 
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider  
 Institut fur Tiroler Musikforschung  
