@@ -4,13 +4,12 @@ title: New Version of the RISM Online Catalog
 date: 2018-07-16
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neuer_OPAC_2018_4b3dd3d042.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neuer_OPAC_2018_4b3dd3d042.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog-1.html
 email: ''
 author: ''
 ---
-
 
 RISM and the [Bavarian State Library](https://www.bsb-muenchen.de/){:target="_blank"} (BSB, Bayerische Staatsbibliothek) announce the release of a new version of the RISM online catalog at [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"}. This release represents the first phase of a development project that will include additional new features in the upcoming months.
 
@@ -40,4 +39,3 @@ Detailed guidance on these new features will soon appear on the catalog's help p
 Watch [this short video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} for an overview of the new features (_no sound until 0:29_):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

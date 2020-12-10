@@ -5,12 +5,11 @@ date: 2014-11-20
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Lost_Voices_fdff2e5ba4.jpg"
+image: "/images/news-old-website/csm_Lost_Voices_fdff2e5ba4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-lost-voices-project-is-now-live.html
 email: ''
 author: ''
 ---
-
 
 The Lost Voices Project is now online:
 
@@ -25,5 +24,3 @@ The transcriptions have been encoded using [MEI](http://music-encoding.org/home)
 Interaction from other scholars is encouraged. Users can comment on pieces and view annotations made by other scholars. The project is open source and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US), so scholars are free to share and adapt these materials.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

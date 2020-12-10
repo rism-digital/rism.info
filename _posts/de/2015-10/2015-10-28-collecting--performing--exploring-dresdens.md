@@ -5,12 +5,11 @@ date: 2015-10-28
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
+image: "/images/news-old-website/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html
 email: hofmusikkonferenz@slub-dresden.de
 author: Nina Eichholz
 ---
-
 
 _Die nachfolgende Ankündigung erreichte uns von der [Sächsischen Landes- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/startseite/){:target="_blank"} (SLUB):_
 
@@ -29,8 +28,3 @@ Um die Musik der Projektbestände erlebbar zu machen, werden ausgewählte Werke 
 
 Für die Förderung des Kolloqiums danken wir der [Deutschen Forschungsgemeinschaft](http://www.dfg.de/ "DFG").
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2019-04-18
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg"
+image: "/images/news-old-website/csm_Lim__korea_Chang_family_8875715a5b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
 email: jchangsfz@gmail.com
 author: Dr. JeongYoun Chang
 ---
-
 
 _We have received the following from Dr. JeongYoun Chang ([RISM South Korea](http://ewha.kor.rism.info/index.php?id=531#c2128)):_
 
@@ -28,4 +27,3 @@ _Images_:
 Top: Bessie Lim and Bernard Kim. Photo courtesy of Bessie Lim's family.
 Bottom: Manuscript of Bessie Lim's "My Bible" ([RISM ID no. 1001061643](https://opac.rism.info/search?id=1001061643&View=rism&Language=en){:target="_blank"}). Photo courtesy of JeongYoun Chang.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

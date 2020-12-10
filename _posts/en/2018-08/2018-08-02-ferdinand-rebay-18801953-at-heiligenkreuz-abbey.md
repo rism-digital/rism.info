@@ -4,13 +4,12 @@ title: Ferdinand Rebay (1880–1953) at Heiligenkreuz Abbey
 date: 2018-08-02
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Rebay_Ferdinand_84f8b63176.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Father Roman Nägele
 ---
-
 
 _We received this post from Father Roman Nägele (RISM Austria, [Heiligenkreuz Abbey](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
@@ -35,5 +34,3 @@ A further portion of Rebay's compositions are housed at the Austrian National Li
 His final resting place is in the Vienna Central Cemetery.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

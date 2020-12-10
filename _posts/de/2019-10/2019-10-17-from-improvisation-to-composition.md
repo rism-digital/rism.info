@@ -5,12 +5,11 @@ date: 2019-10-17
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Chopin_by_Bisson__1849_875251f5fe.png"
+image: "/images/news-old-website/csm_Chopin_by_Bisson__1849_875251f5fe.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-improvisation-to-composition.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
-
 
 _Guido Kraus von der RISM-Zentralredaktion schrieb aus Anlass von Frédéric Chopins 170. Todestag folgenden Beitrag:_
 
@@ -21,7 +20,5 @@ Chopin hinterließ uns etwa 230 Werke, die zum Teil nach ihrer Fertigstellung be
 Bei RISM sind mittlerweile fast [1.900 Katalogisate](https://opac.rism.info/search?View=rism&author=chopin){:target="_blank"} von Chopin-Drucken aufgenommen worden, wobei die meisten Drucke aus dem 19. Jahrhundert stammen. Der größte Anteil davon befindet sich im Besitz des Warschauer Chopin-Institutes, das kontinuierlich an der Katalogisierung seiner Quellen arbeitet. Das Chopin-Institut sammelt gezielt die Erstausgaben von Chopin-Drucken und katalogisiert sie für das RISM. Die Katalogisate werden noch entsprechend gekennzeichnet, um die Erstausgaben im RISM OPAC suchbar zu machen. Beachten Sie bitte den Bestand in unserem RISM-Onlinekatalog. Suchen Sie einfach nach dem Komponisten Chopin und benutzen die Suchfilter linker Hand, um Ihre Suche zu verfeinern.
 
 
-
 _AbbiIdung_: Frédéric Chopin (1810-1849) in einer Fotografie von Louis-Auguste Bisson, um 1849, über [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/800px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

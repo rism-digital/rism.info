@@ -5,12 +5,11 @@ date: 2014-08-14
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg"
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_02_0bdddc07e3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/recent-publications-about-music-manuscripts-and-music-institutions.html
 email: ''
 author: ''
 ---
-
 
 We (relatively) recently received two journal issues from the organizations that co-sponsor RISM, [IAML](http://www.iaml.info/){:target="_blank"} and [IMS](http://ims-international.ch/){:target="_blank"}. Both contain articles that discuss musical sources or institutions and could be of interest to the RISM community. They have been cataloged in Kallisto and can be cited by our RISM contributors.
 
@@ -27,7 +26,6 @@ Manuscript discussed: US-MAL Ms. Ludwig XII 5 (Phillipps 12145)
 
 - Allan Badley, “How foreign is foreign? On the origins of Leopold Hofmann's smaller liturgical works,” p. 30-41.
 RISM short title: BadleyH 2014
-
 
 - Jorid Nordal Baumann, “The Norwegian Music Heritage Project,” p. 48-50.
 RISM short title: BaumannN 2014

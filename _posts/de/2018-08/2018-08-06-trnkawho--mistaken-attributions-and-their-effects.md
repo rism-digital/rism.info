@@ -4,24 +4,21 @@ title: Trnka - wer? Fehlzuschreibungen und ihre Auswirkungen
 date: 2018-08-06
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Trnka_eb89ed8f73.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Trnka_eb89ed8f73.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/trnka-who-mistaken-attributions-and-their-effects.html
 email: ''
 author: ''
 ---
 
-
-Dass es Musikbibliographen immer wieder Schwierigkeiten bereitet, Komponisten mit häufig auftretenden Namen auseinander zu halten, ist nicht verwunderlich, dafür, dass dies aber auch bei etwas selteneren Namen passiert, sei hier ein Beispiel aus der [RISM A/I](/de/publikationen.html#c36)-Reihe (_Einzeldrucke bis 1800_) genommen.
+Dass es Musikbibliographen immer wieder Schwierigkeiten bereitet, Komponisten mit häufig auftretenden Namen auseinander zu halten, ist nicht verwunderlich, dafür, dass dies aber auch bei etwas selteneren Namen passiert, sei hier ein Beispiel aus der [RISM A/I](/publications.html#c36)-Reihe (_Einzeldrucke bis 1800_) genommen.
 
 Unter der RISM A/I Nummer T 1262 ([RISM ID no. 992002574](https://opac.rism.info/search?id=00000992002574){:target="_blank"}) finden sich 12 dreistimmige Kanons des Komponisten und Arztes Wenzel Trnka von Krzowitz (1739-1791).Dieser ist der Musikwissenschaft nicht unbekannt, da er unter anderem die musikalische Vorlage für den berühmt berüchtigten Kanon KV 233 (382d) schaffte (siehe dazu Wolfgang Plaths Aufsatz, in RISM unter [PlathT 1991](https://opac.rism.info/search?id=lit41000475){:target="_blank"} oder den [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Wenzel_Trnka_von_Krzowitz){:target="_blank"} zu Trnka). Im A/I Supplement-Band findet man dann auch noch 12 vierstimmige Kanons von jenem Trnka (TT 1262a; [RISM ID no. 991004429](https://opac.rism.info/search?id=00000991004429){:target="_blank"}).
 
 Etwas aus dem Schema fällt jedoch das _Rondoletta_ für Pianoforte zu vier Händen (TT 1262b; [RISM ID no. 991011408](https://opac.rism.info/search?id=00000991011408){:target="_blank"}).Auffällig dabei ist besonders die Opuszahl 29, stellt sich doch automatisch die Frage, wo die anderen 28 geblieben sind. Die Antwort ist relativ einfach. Hierbei handelt es sich um einen anderen Trnka, mit den ähnlichen Vornamen [Johann Wenzel](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30005573%22){:target="_blank"} (1782 - nach 1849). Viel weiß man zu diesem allerdings auch nicht, nimmt man einmal den alten MGG1-Artikel aus. Aufgrund des späten Geburtsjahres eigentlich kein Fall für RISM A/I. Die Verwechslungsgefahr bemerkte auch Plath schon und konstatiert, dass es „zu Trnka - weder zu dem einen noch zu dem anderen Trnka - keine wissenschaftlichen Publikationen gibt, auf denen man hätte aufbauen können.“ (S. 252)
 
 
-
 Mit ein wenig Suche in den Verlagsverzeichnissen von Alexander Weinmann, Karlsruher Virtueller Katalog (KVK), Hofmeister Monatsberichten, Wiener Zeitung u.a. lässt sich die Liste der Werke sehr schnell auch über Opus 29 hinaus erweitern. Die Trnka-Forschung sei hiermit eröffnet, Hinweise auf Ergänzungen sind immer willkommen.
-
 
 
 **Wenzel Johann Trnka (1782 - nach 1849)**
@@ -106,7 +103,6 @@ Cappi & Diabelli (PN 1189)
 1823
 
 
-
 WZ: 26.2.1824
 
 |
@@ -127,7 +123,6 @@ Grande Polonaise, pf
 Diabelli
 
 |
-
 
 
 |
@@ -364,7 +359,6 @@ WZ: 7.2.1835
 |
 
 
-
 |
 |
 
@@ -373,17 +367,13 @@ WZ: 7.2.1835
 |
 
 
+|
+
 
 |
 
 
-
 |
-
-
-
-|
-
 
 
 |
@@ -398,13 +388,10 @@ WZ: 7.2.1835
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -566,7 +553,6 @@ WeinmannS 1972 | D-Dl
 |
 
 ?
-
 
 
 Bei Haslinger z.h.
@@ -865,13 +851,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -886,13 +869,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -928,13 +908,10 @@ MGG1 | WeinmannM 1964 (A-Wgm)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -1033,13 +1010,10 @@ WeinmannS 1972 | A-Wn
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -1106,10 +1080,6 @@ Witzendorf
 Rottensteiner2013
 
 |
-
-
-
-
 Abkürzungen:
 [D-B (Imagekat I)](http://musikipac.staatsbibliothek-berlin.de/catalog/toc){:target="_blank"}: Alphabetischer Imagekatalog I der Musikabteilung
 [HofmeisterMB](http://hofmeister.rhul.ac.uk){:target="_blank"}: Hofmeister Monatsberichte online
@@ -1118,4 +1088,3 @@ MGG1: Hilde Hellmann-Stojan, Artikel Trnka, Johann Wenzel, in: _Musik in Geschic
 WeinmannX 19XX:Vollständiges Verlagsverzeichnis (zum jeweiligen Verlag, Abkürzungen wie in RISM).
 WZ: Wiener Zeitung,online durchsuchbar bei [ANNO](http://anno.onb.ac.at/){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

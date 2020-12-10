@@ -5,12 +5,11 @@ date: 2016-04-11
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_EBBA_21cb4acf98.jpg"
+image: "/images/news-old-website/csm_EBBA_21cb4acf98.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-english-broadside-ballad-archive.html
 email: ''
 author: ''
 ---
-
 
 In ihrer Blütezeit warenBänkellieder überall in England zu hören. Im 17. Jahrhundert wurden diese Lieder auf Flugblättern mit Holzschnittillustrationen und großen schwarzen Typen gedruckt, in den Wirtshäusern aufgehängt oder auf den Straßen kolpotiert und bei der Arbeit oder auf dem Feld gesungen.
 
@@ -25,11 +24,5 @@ Eine Einfache Suche ist über die Archivwebsite möglich und die [Erweiterte Suc
 Your browser does not support the audio element.
 </source></audio>
 
-
 _Abbildung_: "['Tis Money makes a Man](http://ebba.english.ucsb.edu/ballad/21811/citation){:target="_blank"}," Houghton Library - Huth EBB65H 2.191 (EBBA ID: 34705). [CC BY NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

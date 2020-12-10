@@ -4,13 +4,12 @@ title: Wilhelm Friedemann Bach @ RISM
 date: 2010-12-06
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wilhelm-friedemann-bach-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Verkannt, unterschätzt, gescheitert, enfant terrible, der am meisten missbrauchte Komponist: Mit diesen Attributen wird Wilhelm Friedemann Bach (1710-1784) immer wieder charakterisiert. Sein 300. Geburtstag ist in den letzten Monaten auf vielfältige Weise begangen worden.
 
@@ -37,7 +36,6 @@ Innerhalb des „Bach-Repertorium“ ist der 2. Band Wilhelm Friedemann gewidmet
 -
 
 Ebenfalls beim Carus Verlag wird unter der Editionsleitung von Peter Wollny die Gesamtausgabe der Werke Wilhelm Friedemann Bachs seit 2009 veröffentlicht.
-
 
 
 RISM verzeichnet in seinen verschiedenen Publikationsreihen zahlreiche Werke von Wihelm Friedemann Bach.
@@ -67,7 +65,6 @@ Musikalisches Mancherley, Berlin: G. L. Winter 1762-1763
 -
 
 Musikalisches Journal, Berlin: Günther 1800
-
 
 
 Sechs Dokumente innerhalb der Serie A/I „Einzeldrucke bis 1800“ nennen nur Instrumentalwerke von Wilhelm Friedemann (darunter Fk 3, 5, 12). Einmal fungiert er auch als Verleger für die „Sechs Choräle von verschiedener Art auf einer Orgel mit 2. Clavieren und Pedal vorzuspielen“ seines Vaters Johann Sebastian.

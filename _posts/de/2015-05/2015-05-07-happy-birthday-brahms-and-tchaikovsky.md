@@ -4,13 +4,12 @@ title: Happy Birthday - Brahms und Tschaikowski!
 date: 2015-05-07
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-brahms-and-tchaikovsky.html
 email: ''
 author: ''
 ---
-
 
 _Dieser Beitrag ist ein Auszug eines[Artikels von David Plylar](http://blogs.loc.gov/music/2014/05/best-buddies-or-just-goethe-friends/){:target="_blank"}, der im Original "In the Muse"-Blog der_ _Library of Congress erschien._
 
@@ -27,13 +26,10 @@ Da das winzige Stück von Tschaikowskis Muuik ziemlich obskur ist, ist es nur fa
 _Johannes Brahms, Rinaldo, Moldenhauer Archives at the Library of Congress_
 
 
-
 Sie werden bemerken, dass der hier wiedergegebene Titel sich von anderen Publikationen unterscheidet. Im Manuskript steht _Rinaldo v. Göthe._ Der Text für_Rinaldo_wurde von Goethe aus dem 14. Gesang von Tassos_Gerusalemme liberata_ entnommen und überarbeitet. Tassos musikalisches Vermächtnis ist reichhaltig in der Bibliothek vertreten (wir haben beispielsweise Liszts Hauptorchesterwerk _Le triomphe funèbre du Tasse_) und natürlich Händels bekannte Opera_Rinaldo_ (mit der beliebten und schönen Arie “Lascia ch’io pianga”); obwohl wir nicht die Handschrift haben, besitzt die Library of Congress mehrere frühe Ausgaben mit Ausschnitten aus Händels_Rinaldo,_die von1711 und den frühen 1720er Jahren datieren.
 
 _Um eine Verbindung zwischen dem_ _Rinaldo von Brahms und der Musik von Tschaikowski zu finden, lesen "__[In the Muse](http://blogs.loc.gov/music/2014/05/best-buddies-or-just-goethe-friends/){:target="_blank"}__" weiter._
 
 
-
 Bild, oben links: P. I. Tschaikowski, Ausschnitt aus Tscharodeika, Library of Congress, Moldenhauer Archives, Box 53.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

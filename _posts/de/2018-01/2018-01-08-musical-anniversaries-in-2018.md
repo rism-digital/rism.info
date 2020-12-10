@@ -4,13 +4,12 @@ title: Jubiläen im Jahr 2018
 date: 2018-01-08
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Jubilaeen_2018_6bcd9ba1bb.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Jubilaeen_2018_6bcd9ba1bb.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2018.html
 email: ''
 author: ''
 ---
-
 
 **Ein frohes neues Jahr!**
 
@@ -30,7 +29,6 @@ Unter den über 900 Jubilaren, die in unserem [RISM Online-Katalog](https://opac
 - [Juventino Rosas](https://opac.rism.info/search?View=rism&q=123093848){:target="_blank"} (1868-1894), mexikanischer Komponist und Carillonneur
 
 
-
 Von den Jubilaren mit den meisten Quellen-Verknüpfungen steht an erster Stelle mit 2.837 Einträgen [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=118602985){:target="_blank"} (1792-1868), der vor 150 Jarhen starb, gefolgt von den Komponisten [Leopold Koželuh](https://opac.rism.info/search?View=rism&q=11635190X){:target="_blank"} (1747-1818; 1.302 Quellen) und [Nicola Porpora](https://opac.rism.info/search?View=rism&q=123494591){:target="_blank"} (1686-1768; 1.273 Quellen). [Ernst II.](https://opac.rism.info/search?View=rism&q=118685279){:target="_blank"}, Herzog von Sachsen-Coburg und Gotha (1818-1893) schließt mit 1.095 Einträgen an ebenso wie der Librettist [Apostolo Zeno](https://opac.rism.info/search?View=rism&q=116980257){:target="_blank"} (1668-1750) mit 1.094 Nachweisen.
 
 Hier folgt die vollständige Liste.
@@ -38,7 +36,6 @@ Hier folgt die vollständige Liste.
 **Geboren in xx18 oderr xx68** (zum Sortieren Überschrift anklicken):
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1Yl3qbQzkv-og7QRRYCyc8JCk6bhCKZirWbFOiptY&amp;containerId=googft-gviz-canvas"></iframe>
-
 
 
 **Gestorben in xx18 oder xx68** (zum Sortieren Überschrift anklicken):
@@ -54,5 +51,3 @@ w / f = weiblich
 _Abbildung von_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

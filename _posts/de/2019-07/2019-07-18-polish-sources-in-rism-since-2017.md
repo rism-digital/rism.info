@@ -4,13 +4,12 @@ title: Polnische Quellen seit 2017 in RISM
 date: 2019-07-18
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Polen_Titel_nach_2017_fc909847db.png"
+category: library_collections
+image: "/images/news-old-website/csm_Polen_Titel_nach_2017_fc909847db.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-sources-in-rism-since-2017.html
 email: ''
 author: ''
 ---
-
 
 Die Einführung des RISM spezifischen Erfassungsprogramms Muscat Ende 2016 ist in den polnischen Arbeitsgruppen und Katalogisierungsprojekten auf großes Interesse gestoßen. Seitdem sind viele neue Mitarbeiter eingearbeitet und mehr als 5.000 zusätzliche Nachweise aus Polen in die RISM-Datenbank aufgenommen worden. Neue gemeinsame Projekte wurden begonnen, wie z. B. mit dem Chopin-Institut oder mit der RISM-Arbeitsgruppe an der Posener Universität.
 
@@ -52,11 +51,5 @@ Die Arbeitsgruppe an der Warschauer Universitätsbibliothek arbeitet schon seit 
 Viele Bestände befinden sich noch in Arbeit. Es lohnt sich also immer wieder einmal im RISM-Katalog vorbei zuschauen.
 
 
-
 _Image_: Poland in the European Union on the globe via [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg/1200px-Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg.png){:target="_blank"}
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

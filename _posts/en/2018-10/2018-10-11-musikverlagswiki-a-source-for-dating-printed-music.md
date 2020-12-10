@@ -5,12 +5,11 @@ date: 2018-10-11
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Musikverlagswiki_137892576f.png"
+image: "/images/news-old-website/csm_Musikverlagswiki_137892576f.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
 email: ''
 author: ''
 ---
-
 
 Recently we told you about [current bibliographic projects about Mozart and Clementi](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1709&cHash=27ebcbd4438ffec144c40bf8992626f3){:target="_blank"}, which we learned about during this year's IAML Congress in Leipzig. Today we're sharing information about another resource we heard about in detail, from Sabine Koch (Leipzig University of Applied Sciences): [the Musikverlagswiki (Music Publishers Wiki)](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
 
@@ -23,5 +22,3 @@ If you have one of those "orphan" prints that doesn't have a title page, you can
 Since the resource is a wiki, new information can be added, and contributions are in fact encouraged. The page **Musterseiten** can be used to add new pages for either publishers or printers.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

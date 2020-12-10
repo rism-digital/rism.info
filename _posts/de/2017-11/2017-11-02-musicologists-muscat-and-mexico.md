@@ -5,18 +5,17 @@ date: 2017-11-02
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Conservatorio_logo_2da0b93118.jpg"
+image: "/images/news-old-website/csm_Conservatorio_logo_2da0b93118.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musicologists-muscat-and-mexico.html
 email: ''
 author: ''
 ---
 
-
-RISM war vom 4. - 6. Oktober zur Konferenz "[Celebración y Sonoridad en Hispanoamérica (Siglos XVI-XIX): Homenaje a José López-Calo](https://www.conservatoriodelasrosas.edu.mx/Home/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix/){:target="_blank"}" in Morelia (Mexiko) eingeladen. Sie wurde organisiert vom Centro Cultural de la UNAM, der Escuela Nacional de Estudios Superiores Unidad Morelia, UNAM und dem Conservatorio de las Rosas. Ich berichtete über die RISM Aktivitäten in Lateinamerika und leitete einen [Muscat](/de/community/muscat.html) Workshop.
+RISM war vom 4. - 6. Oktober zur Konferenz "[Celebración y Sonoridad en Hispanoamérica (Siglos XVI-XIX): Homenaje a José López-Calo](https://www.conservatoriodelasrosas.edu.mx/Home/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix/){:target="_blank"}" in Morelia (Mexiko) eingeladen. Sie wurde organisiert vom Centro Cultural de la UNAM, der Escuela Nacional de Estudios Superiores Unidad Morelia, UNAM und dem Conservatorio de las Rosas. Ich berichtete über die RISM Aktivitäten in Lateinamerika und leitete einen [Muscat](/community/muscat.html) Workshop.
 
 Die Konferenzteilnehmer aus ganz Lateinamerika berichteten über ihre laufenden Forschungen, Buchpublikationen und Konzerte. Mehr als 30 Personen nahmen am Muscat Workshop teil, der drei Tage dauerte. Ich freute mich, John Lazos (RISM Kanada/MexiKo) und Antonio Ezquerro (RISM Spanien) dort zu treffen, denn sie waren mir eine große Hilfe während des Workshops, um Fragen hinsichtlich der RISM Richtlinien zu beantworten. Antonios _Normas internacionales para la catalogación de fuentes musicales históricas_ (Madrid: Arco/Libros, 1996) erschienen vor über 20 Jahren und sind immer noch im spanisch sprechenden Amerika präsent. Eine Überarbeitung der Richtlinien vor allem hinsichtlich Muscat ist geplant.
 
-Während der Konferenz wurde viel über die [RISM A/I Nummern (Einzeldrucke)](/de/publikationen.html#c36) und die Konkordanzen in europäischen Bibliotheken speziell in Portugal und Spanien gesprochen. Weiterhin ging es um verschiedene Katalogisierungsprojekte von großen Bibliotheken, Archiven und Kathedralen. Meine Präsentation (\<media 1380\>slides available here\</media\>) konzentrierte sich darauf, welche lateinamerikanischen Länder in RISM vertreten sind. Der RISM Online-Katalog listet momentan die folgenden lateinamerikanischen Länder:
+Während der Konferenz wurde viel über die [RISM A/I Nummern (Einzeldrucke)](/publications.html#c36) und die Konkordanzen in europäischen Bibliotheken speziell in Portugal und Spanien gesprochen. Weiterhin ging es um verschiedene Katalogisierungsprojekte von großen Bibliotheken, Archiven und Kathedralen. Meine Präsentation konzentrierte sich darauf, welche lateinamerikanischen Länder in RISM vertreten sind. Der RISM Online-Katalog listet momentan die folgenden lateinamerikanischen Länder:
 
 - Mexiko: [557 Einträge](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}
 - Brasilien: [459 Einträge](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}
@@ -34,19 +33,3 @@ Die Konferenz bot eine gute Gelegenheit mit Musikwissenschaftlern aus Lateinamer
 
 _Jennifer Ward
 RISM Zentralredaktion_
-
-<script>
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

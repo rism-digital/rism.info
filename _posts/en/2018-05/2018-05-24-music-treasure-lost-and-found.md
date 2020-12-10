@@ -4,13 +4,12 @@ title: Music treasure lost and found
 date: 2018-05-24
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-treasure-lost-and-found.html
 email: ''
 author: Caroline Shaw
 ---
-
 
 _The following originally appeared on the [Music Blog of the British Library](http://blogs.bl.uk/music/2017/05/music-treasure-lost-and-found.html){:target="_blank"} and is © British Library Board and posted here under a Creative Commons Attribution Licence._
 
@@ -36,9 +35,3 @@ Caroline Shaw, Music Processing and Cataloguing Team Manager
 Based on a presentation by James Clements, 2004, with information from: Alec Hyatt King, _Printed music in the British Museum_ (London, 1979). YA.1997.a.10519
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

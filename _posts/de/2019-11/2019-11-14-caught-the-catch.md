@@ -4,13 +4,12 @@ title: Finde den Fehler!
 date: 2019-11-14
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/caught-the-catch.html
 email: ''
 author: Kristina Krämer
 ---
-
 
 Bei der Überarbeitung der zahlreichen Sammeldrucke, die von John Playford seit etwa 1650 herausgegeben wurden (mit Titeln wie _Catch that Catch can_; _Musicks Recreation_ oder _Select Ayres and Dialogues_), fiel der Eintrag von [B/I 1653|7](https://opac.rism.info/search?id=993121829&View=rism){:target="_blank"} (_Select Musicall Ayres and Dialogues_ […] _Printed by T_[homas] _H_[arper] _for John Playford_) besonders ins Auge, denn das digitalisierte Exemplar der British Library ([GB-Lbl F.51.b](http://access.bl.uk/item/viewer/ark:/81055/vdc_100049643519.0x000001){:target="_blank"}) entpuppte sich als Kuriosum: Die fehlende Titelseite wurde hier durch eine handgeschriebene ersetzt, die allerdings der gedruckten auf den ersten Blick so ähnlich sieht, dass man sie leicht verwechseln könnte. Bei genauerem Hinsehen offenbaren einige Stellen, dass der Schreiber vermutlich nicht professionell ausgebildet war: in der rechten oberen Ecke begann er mit dem Kopieren des Ornamentrahmens, brach diesen jedoch (vermutlich als aussichtsloses Unterfangen) nach wenigen Elementen wieder ab. Die mit Blei gezogenen Hilfslinien für den Rest des Rahmens sind nach wie vor zu sehen. Auffällig ist auch das seitlich stark abfallend geschriebene Wort „Ayres“ in der siebten Zeile.
 
@@ -25,5 +24,3 @@ Fällt Ihnen noch etwas Besonderes auf? Oder kennen Sie vergleichbare Fälle?
 _Abbildung_: [Titelseite von GB-Mr 1408](https://luna.manchester.ac.uk/luna/servlet/s/2wp4oj){:target="_blank"} (Das Exemplar ist bereits in die RISM-Datenbank nachgetragen und wird mit dem nächsten Katalog-Update zu sehen sein) und die Titelseite von GB-Lbl F.51.b.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

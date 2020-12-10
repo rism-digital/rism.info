@@ -4,13 +4,12 @@ title: Hasse's Siroe in Versailles
 date: 2014-11-24
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Hasse_ebb19dc698.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Hasse_ebb19dc698.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hasses-siroe-in-versailles.html
 email: ''
 author: ''
 ---
-
 
 On November 26, the opera_Siroe, re di Persia_by Johann Adolf Hasse will premiere at the [Opera Royal de Versailles](http://www.chateauversailles-spectacles.fr/fr/spectacles/2014/hasse-siroe){:target="_blank"}. This is a nice opportunity to take a look at the more than [150 sources for this opera](https://opac.rism.info/search?View=rism&q=Siroe+hasse){:target="_blank"} that are in the RISM database.
 
@@ -25,7 +24,5 @@ The upcoming performances in Versailles are based on Hasse's reworked Dresden ve
 <iframe width="560" height="315" src="//www.youtube.com/embed/Su6tW2-0SpQ" frameborder="0" allowfullscreen></iframe>
 
 
-
 Photo credit: Portrait of Hasse from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Johann_Adolf_Hasse.jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

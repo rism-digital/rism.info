@@ -4,13 +4,12 @@ title: Zwei Quellen, viel Futter für die Forschung – Annaberger Chorbücher d
 date: 2016-07-28
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Annaberger_Chorbuecher_80a43029de.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Annaberger_Chorbuecher_80a43029de.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-sources-lots-of-material-for-research-the-digital-annaberger-chorbuecher.html
 email: andrea.hammes@slub-dresden.de
 author: Dr. Andrea Hammes
 ---
-
 
 _Die beiden unten beschriebenen Annaberger Chorbücher sind von der_ _[RISM Arbeitsgruppe in Dresden](http://de.rism.info/de/home.html){:target="_blank"} dokumentiert worden und im Online-Katalog detailliert beschrieben. Sie finden die beiden Sammelhandschriften unter den SLUB-Signaturen D-Dl Mus.1-D-505_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) bzw. Mus.1-D-506_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). Desweiteren haben die Titelaufnahmen als Metadaten für das Digitalisat gedient._
 
@@ -23,5 +22,3 @@ Die Entstehung der Sammelhandschriften (auch als Annaberger Chorbuch I bzw. II b
 Nachdem das Annaberger Chorbuch II seit 2010 in einer textkritischen Edition innerhalb der von Prof. Dr. Wolfgang Horn betreuten Reihe [„Erbe deutscher Musik“](http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/EDM/EdM-Inhalte.html) vorliegt, soll in Kürze eine Neuausgabe des Chorbuchs I folgen. Vom Zusammenspiel zwischen Original und Quellenkritik sind neue Impulse für die Forschung zu erhoffen, zum Beispiel durch Identifizierung weiterer anonym überlieferter Werke, die in beiden Bänden nicht die Ausnahme, sondern die Regel sind.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: RISM-Zentralredaktion vorübergehend geschlossen
 date: 2020-03-18
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-central-office-temporarily-closed.html
 email: contact@rism.info
 author: ''
 ---
-
 
 Als Vorsichtsmaßnahme aufgrund des neuartigen Coronavirus (COVID-19) ist die RISM-Zentralredaktion in Frankfurt am Main seit dem 19. März 2020 geschlossen. Wir arbeiten mit begrenzter Kapazität und bedanken uns im Voraus für Ihr Verständnis.
 
@@ -21,9 +20,6 @@ Bleiben Sie gesund!
 (aktualisiert am 20. April 2020)
 
 
-
 _Abbildung_: Christoph Demantius, _Corona harmonica_ (Leipzig, 1610). Leipziger Stadtbibliothek (D-LEm) II. 4. 28. [RISM ID no. 990013375](https://opac.rism.info/search?id=990013375&View=rism){:target="_blank"}. [Online verfügbar](http://digital.slub-dresden.de/id455638314){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

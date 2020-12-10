@@ -4,13 +4,12 @@ title: 'Report on Electronic Data Delivery to RISM using the Moravská zemská k
 date: 2018-11-22
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png"
+category: library_collections
+image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
-
 
 Over the past two years, the RISM Central Office has received a number of electronic data deliveries from Italy, France, the United States, and the Czech Republic, with the Czech delivery containing "only" 2,078 catalog descriptions of music manuscripts. The data in the file from the Moravská zemská knihovna v Brně (Moravian Library, formerly the University Library; RISM siglum CZ-Bu) in Brno, Czech Republic were in MARC format, which made it easier for RISM to transfer them to Muscat, a MARC-based cataloging program. But the catalog records were entirely in Czech, and after randomly checking some of the fields, I determined that although the data were largely compatible and could basically be transferred from MARC field to MARC field, another solution had to be found to make work easier for the standardized terms used. First, I created a two-column concordance list (Czech/English) for the subject headings, which made it possible for our IT department to convert the Czech terms in the import file to the English terms used by RISM. A second concordance list had to do with standardized titles. Here, too, the Czech terms could be converted to English ones. With the help of a third list, Czech terms for the material types were translated into English. The next step was to import the revised data into the live Muscat system.
 
@@ -30,4 +29,3 @@ There is much more you can discover [in the RISM catalog from this CZ-Bu import]
 
 _Image_: Árie italských mistrů ze 2. pol. 17. století pro soprán a basso continuo / Italian arias from the second half of the 17th century, p. 5. CZ-Bu RKPMus-0763.835; [RISM ID No. 553013031](https://opac.rism.info/search?id=553013031&View=rism&Language=en){:target="_blank"}. [Available online](http://www.digitalniknihovna.cz/mzk/view/uuid:87aea16e-b81c-41eb-890f-1756110e822e?page=uuid:19842e34-37f3-41b1-82b6-e55597d3d33e){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

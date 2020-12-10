@@ -5,12 +5,11 @@ date: 2017-06-26
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Kulturhauptstadt_2017_4a3be311c5.jpg"
+image: "/images/news-old-website/csm_Kulturhauptstadt_2017_4a3be311c5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-european-capitals-of-culture-2017-paphos-and-aarhus.html
 email: ''
 author: ''
 ---
-
 
 The cities of [Paphos, Cyprus](http://www.pafos2017.eu/?lang=en){:target="_blank"} and [Aarhus, Denmark](http://www.aarhus2017.dk/en/){:target="_blank"} are the two European Capitals of Culture in 2017.
 
@@ -23,7 +22,5 @@ The motto of Aarhus 2017 is **[Let's rethink](http://www.aarhus2017.dk/en/about-
 The [Statsbiblioteket](http://www.statsbiblioteket.dk/){:target="_blank"} in Aarhus (which merged with the Royal Library in Copenhagen this January) has [516 entries in the RISM online catalog](https://opac.rism.info/metaopac/search?View=rism&siglum=DK-A){:target="_blank"} (DK-A), mostly printed music from series A/I. The manuscripts and prints offer a colorful cross section through music history in the eighteenth century. Among the manuscripts are some works in Danish translation, such as a few cantatas by Georg Philipp Telemanns from the _Engel-Jahrgang_ cycle and Joseph Haydn's cantata _[Der Sturm](https://opac.rism.info/search?id=150203362){:target="_blank"}_. Some prints (ca. 20) have digitized copies that can be viewed online.
 
 
-
 _Image_: [Creative Europe](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

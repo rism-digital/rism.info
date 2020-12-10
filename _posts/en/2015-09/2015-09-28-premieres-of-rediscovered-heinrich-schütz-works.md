@@ -5,15 +5,11 @@ date: 2015-09-28
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
+image: "/images/news-old-website/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
-
-
-
 _This post has reached us from Helmut Lauterwasser (RISM Germany):_
 
 It is hard to believe that there are still new works by Heinrich Schütz that are awaiting discovery. And indeed, on 1 October 2015 two small Christmas pieces by the Saxon court _Kapellmeister_ will be heard for the first time after a nearly 400-year slumber at the opening event of the [International Heinrich Schütz Festival](http://www.sch%C3%BCtz-musikfest.de/){:target="_blank"} in Dresden.
@@ -23,9 +19,6 @@ It is hard to believe that there are still new works by Heinrich Schütz that ar
 SWV 497 has just been released in [Carus's "Edition princeps"](https://www.carus-verlag.com/komponisten/schuetz/heinrich-schuetz-ein-kind-ist-uns-geboren.html?redirected=1){:target="_blank"} series.
 
 
-
 _Image_: Excerpt from the collective manuscript Mus.Pi.57 (Bassus) in D-Dl with the beginning of the unfigured bass part.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

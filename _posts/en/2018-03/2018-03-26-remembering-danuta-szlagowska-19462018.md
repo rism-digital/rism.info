@@ -5,12 +5,11 @@ date: 2018-03-26
 lang: en
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
+image: "/images/news-old-website/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/remembering-danuta-szlagowska-1946-2018.html
 email: ''
 author: ''
 ---
-
 
 We were saddened to hear of the death of our dear colleague Prof. Dr. Hab. Danuta Szlagwoska, who passed away on 13 March 2018.
 
@@ -34,4 +33,3 @@ For her decades of service as a teacher and musicologist, Prof. Szlagowska recei
 
 The RISM Central Office mourns the loss of Danuta Szlagowska together with her family, friends, and colleagues. We will always keep her in our memory. We will miss our colleague, who was active in the field and had a wide range of academic interests. Through her unceasing scholarly work she will remain great role model for us all.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

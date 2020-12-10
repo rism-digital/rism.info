@@ -4,15 +4,14 @@ title: 'Instrument des Jahres 2019: Saxofon'
 date: 2019-11-11
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Saxophone_InstrumentDesJahres_Landesarchiv_Baden-Wuerttemberg_Staatsarchiv_Freiburg_W_134_Nr._000431_Bild_1__5-90992-1__a75dd35e78.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Saxophone_InstrumentDesJahres_Landesarchiv_Baden-Wuerttemberg_Staatsarchiv_Freiburg_W_134_Nr._000431_Bild_1__5-90992-1__a75dd35e78.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/instrument-of-the-year-2019-saxophone.html
 email: carmenalvarezescandell@gmail.com
 author: Carmen Álvarez
 ---
 
-
-_Den folgenden Beitrag schrieb unsere Praktikantin aus [Spanien - Carmen Álvarez](/self_representation/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (Deutsch unten):_
+_Den folgenden Beitrag schrieb unsere Praktikantin aus [Spanien - Carmen Álvarez](/new_at_rism/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"} (Deutsch unten):_
 
 Cada año, en Alemania, un intrumento tiene el honor de ser elegido [el instrumento del año](https://www.instrument-des-jahres.de/){:target="_blank"}, y en 2019 el turno ha sido para el saxofón.
 
@@ -50,5 +49,3 @@ _Abbildung_: “Vier Saxophone” 1928.
 Landesarchiv Baden-Württemberg: Staatsarchiv Freiburg, Sammlung Willy Pragher I: Glasplattennegative. CC-BY. von [Europeana](https://www.europeana.eu/portal/de/record/00737/plink__f_5_90992.html?q=saxophone){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

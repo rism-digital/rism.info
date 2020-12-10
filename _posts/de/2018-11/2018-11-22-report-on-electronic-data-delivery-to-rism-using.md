@@ -4,13 +4,12 @@ title: 'Bericht über elektronische Datenlieferungen für das RISM am Beispiel v
 date: 2018-11-22
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Datenimport_CZ-Bu_be494ec769.png"
+category: library_collections
+image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
-
 
 In den vergangenen zwei Jahren erhielt die RISM Zentralredaktion eine Reihe von elektronischen Datenlieferungen aus Italien, Frankreich, den USA und Tschechien, wobei die tschechische Lieferung „nur“ 2.078 Katalogisate von Musikhandschriften beinhaltete. Die Ausgangsdaten der Lieferung aus dem tschechischen Brünn von der „Moravská zemská knihovna v Brně“ (die frühere Universitní knihovna, RISM-Sigel CZ-Bu) waren im MARC-Format gespeichert, was eine Einspielung in das ebenfalls MARC-basierte Katalogisierungs-Programm Muscat beim RISM erleichtert hat. Aber die Katalogisate waren ganz in der tschechischen Sprache gehalten, so dass nach einer stichprobenartigen Sichtung der Lieferungsdatei durch mich festgestellt wurde, dass man die Daten zwar von MARC-Feld zu MARC-Feld weitgehend kompatibel einspielen konnte, für die Termini der Normdaten aber eine weitere arbeitserleichternde Lösung finden musste. So stellte ich für die Schlagworte eine zweispaltige Konkordanzliste (tschechisch/ englisch) her, die es unserer IT ermöglichte, in der Lieferdatei die jeweiligen tschechischen Termini in die beim RISM gebräuchlichen englischen umzusetzen. Eine zweite Konkordanzliste bezog sich auf die Einordnungstitel. Auch hier konnten tschechische Termini in englische umgesetzt werden. Mit Hilfe der dritten Liste wurden tschechische Begriffe zu den Materialarten ins Englische gebracht. In einem zweiten Schritt konnten die überarbeiteten Daten ins Produktivsystem Muscat eingespielt werden.
 
@@ -31,4 +30,3 @@ Darüberhinaus gibt es für Sie in dieser Datenlieferung von [CZ-Bu](https://opa
 
 Abbildung: Árie italských mistrů ze 2. pol. 17. století pro soprán a basso continuo / Italienische Arien aus der zweiten Hälfte des 17. Jahrhunderts, p. 5; CZ<cite>-Bu </cite><cite>RKPMus-0763.835</cite><cite>; RISM ID No. <a href="https://opac.rism.info/search?id=553013031&amp;View=rism" title="Öffnet externen Link in neuem Fenster" target="_blank" class="external-link-new-window">553013031</a> <a href="http://www.digitalniknihovna.cz/mzk/view/uuid:87aea16e-b81c-41eb-890f-1756110e822e?page=uuid:19842e34-37f3-41b1-82b6-e55597d3d33e" title="Öffnet externen Link in neuem Fenster" target="_blank" class="external-link-new-window">Online verfügbar</a></cite>
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

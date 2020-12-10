@@ -5,12 +5,11 @@ date: 2018-12-18
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Reichardt-Louise_485bf1271e.png"
+image: "/images/news-old-website/csm_Reichardt-Louise_485bf1271e.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/louise-reichardt.html
 email: ''
 author: ''
 ---
-
 
 Lieder, Lieder und nochmal Lieder – komponierte Louise Reichardt (11. April 1779, Berlin — 17. November 1826, Hamburg).
 
@@ -22,4 +21,3 @@ An Liedtexten wählte sie gerne diejenigen ihrer Freunde: Achim von Arnim, Cleme
 
 _Abbildung:_ Titelseite zu _XII Deutsche und italiänische romantische Gesänge_ (Berlin: Realschul-Buchhandlung, 1806), Exemplar der Bayerischen Staatsbibliothek (D-Mbs 4 Mus.pr. 354; RISM ID no. [1001052654](https://opac.rism.info/search?id=1001052654&View=rism){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

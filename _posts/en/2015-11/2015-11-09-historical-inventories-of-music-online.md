@@ -4,13 +4,12 @@ title: Historical inventories of music online
 date: 2015-11-09
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Dresden_Inventare_e4824639e3.png"
+category: library_collections
+image: "/images/news-old-website/csm_Dresden_Inventare_e4824639e3.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/historical-inventories-of-music-online.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
-
 
 _The following news has reached us from the [Hofmusik in Dresden](https://hofmusik.slub-dresden.de/news/details/single/historische-inventare-online/){:target="_blank"} project:_
 
@@ -25,5 +24,3 @@ Seven of the inventories come directly from the holdings of the SLUB Dresden. Th
 Image: Page from the [Catalogo della Musica di Chiesa](http://digital.slub-dresden.de/id425373169){:target="_blank"}, ca. 1780
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

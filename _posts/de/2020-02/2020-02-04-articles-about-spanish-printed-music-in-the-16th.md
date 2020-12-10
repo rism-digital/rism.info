@@ -5,15 +5,13 @@ date: 2020-02-04
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Braun_Toledo_UBHD_2d9318ddc4.jpg"
+image: "/images/news-old-website/csm_Braun_Toledo_UBHD_2d9318ddc4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/articles-about-spanish-printed-music-in-the-16th-century.html
 email: ''
 author: Carmen Álvarez
 ---
 
-
 _Spanische Version s.u. (Dank an Carmen Álvarez Escandell)_
-
 
 
 Kürzlich sind wir bei RISM auf interessante Artikel zu spanischen Musikdrucken des 16. Jahrhunderts gestoßen:
@@ -67,4 +65,3 @@ _- Printed polyphony acquired by Toledo Cathedral, 1532-1669_ de Michael Noone: 
 
 Toda esta nueva información está ya disponible en nuestra base de datos, ampliando así nuestro conocimiento sobre fuentes hispánicas.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

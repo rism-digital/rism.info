@@ -4,13 +4,12 @@ title: Musical Anniversaries in 2016
 date: 2016-01-04
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Jubilare_2016-2_75b89f7b92.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Jubilare_2016-2_75b89f7b92.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2016.html
 email: ''
 author: ''
 ---
-
 
 Happy New Year!
 
@@ -60,4 +59,3 @@ w / f = female**
 
 _Image from [pixabay.com](https://pixabay.com/de/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

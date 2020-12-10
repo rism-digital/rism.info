@@ -5,12 +5,11 @@ date: 2016-04-11
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_EBBA_21cb4acf98.jpg"
+image: "/images/news-old-website/csm_EBBA_21cb4acf98.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-english-broadside-ballad-archive.html
 email: ''
 author: ''
 ---
-
 
 In its heyday, broadside ballads were everywhere in England. In the seventeenth century, these sheets, which were commonly printed with a woodcut illustration and printed in heavy black-letter type (what we call Gothic today), were highly visible - posted at the alehouse or hawked on the streets - and audible - sung in the fields or at work.
 
@@ -25,11 +24,5 @@ A quick search is available on the archive's homepage, and an [advanced search](
 Your browser does not support the audio element.
 </source></audio>
 
-
 _Image_: "['Tis Money makes a Man](http://ebba.english.ucsb.edu/ballad/21811/citation){:target="_blank"}," Houghton Library - Huth EBB65H 2.191 (EBBA ID: 34705). [CC BY NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

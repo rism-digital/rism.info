@@ -4,13 +4,12 @@ title: Die Chorbücher der Bayerischen Staatsbibliothek Online
 date: 2013-01-16
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_chorbuch_2_8694b2d9eb.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_chorbuch_2_8694b2d9eb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitized-choirbooks-at-the-bavarian-state-library.html
 email: contact@rism.info
 author: Veronika Giglberger, Bernhard Lutz
 ---
-
 
 Eine weltweit bedeutende Sammlung von 165 vorwiegend großen Prachthandschriften, die [Chorbücher der Bayerischen Staatsbibliothek](http://daten.digitale-sammlungen.de/~db/ausgaben/uni_ausgabe.html?projekt=1257941718&recherche=ja&ordnung=sig){:target="_blank"} mit mehrstimmiger Musik aus dem 16. und 17. Jahrhundert, werden seit Dezember 2012 in einem von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekt über drei Jahre online katalogisiert, digitalisiert und im Internet bereitgestellt.
 

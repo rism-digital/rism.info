@@ -5,12 +5,11 @@ date: 2016-05-23
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Digitized_Irish_Music_Project_9c7f404b4a.jpg"
+image: "/images/news-old-website/csm_Digitized_Irish_Music_Project_9c7f404b4a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-irish-music-project.html
 email: ''
 author: ''
 ---
-
 
 _The following was originally published by the [Research Foundation for Music in Ireland](http://www.musicresearch.ie/?q=irishmusiccollection){:target="_blank"} and is reprinted here with kind permission:_
 
@@ -27,11 +26,5 @@ Ditigization:Sharon Hoefig
 Copyright:Wanda Carin
 Cataloguing:Catherine Ferris
 
-
 _Image_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Available online](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

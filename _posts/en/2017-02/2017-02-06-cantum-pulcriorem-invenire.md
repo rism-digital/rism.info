@@ -5,12 +5,11 @@ date: 2017-02-06
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg"
+image: "/images/news-old-website/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cantum-pulcriorem-invenire.html
 email: ''
 author: ''
 ---
-
 
 The RISM online catalog has only a few pieces that dip into the Medieval period, but some of our users might be interested in the **[Cantum Pulcriorem Invenire](http://catalogue.conductus.ac.uk/){:target="_blank"}** (CPI-I) database of 12th- and 13th-century conductus, from the University of Southampton.
 
@@ -22,4 +21,3 @@ Links to RISM [B/IV](/publications.html#c2619), _Manuscripts of Polyphonic Music
 
 CPI-I lists 956 poems, all of which are available full text and can be searched. In total, 866 of the poems have musical settings, taken from 565 manuscript and printed sources.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

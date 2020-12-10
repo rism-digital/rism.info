@@ -5,12 +5,11 @@ date: 2020-02-13
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Turteltaube_2aea45a073.jpg"
+image: "/images/news-old-website/csm_Turteltaube_2aea45a073.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lovey-dovey.html
 email: ''
 author: ''
 ---
-
 
 Tomorrow is Valentine's Day! [The turtle dove](https://ebird.org/species/eutdov){:target="_blank"} (_Streptopelia turtur_) is an ancient symbol of love, devotion, and affection in many cultures. The bird makes a distinctive cooing sound and is known to be true to its mate. Medieval readers of the [_Physiologus_](https://books.google.de/books?id=iBSDddO-9PoC&lpg=PA416&dq=turtle%2520dove&hl=de&pg=PA416#v=onepage&q&f=false) knew of the bird's fidelity: upon the death of a mate, the surviving dove "longs for and awaits her lost one at every moment and endures thus in remembrance and longing for him until death." This faithfulness is echoed in [Shakespeare's _The Winter's Tale_](https://www.operationturtledove.org/turtle-doves/turtle-doves-in-culture/){:target="_blank"}: "So turtles pair, that never mean to part." The lovey-dovey aspect even turns up on a [decorative 17th-century English thimble](https://www.shakespeare.org.uk/explore-shakespeare/blogs/shakespeare-100-objects-thimble/){:target="_blank"}, on which is engraved the phrase "be true in love as a turtle dove." Isn't that romantic!
 
@@ -18,11 +17,6 @@ Unsurprisingly, turtle doves find their way into music throughout the ages. The 
 
 The turtle dove is the [Bird of the Year for 2020](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/turteltaube/index.html){:target="_blank"} here in Germany, chosen by the Naturschutzbund Deutschland. Unfortunately, sightings of the bird in Europe are not as common today as they were for our poets of the past, due to habitat loss and illegal hunting. Awareness is needed of the threatened conservation status for this gentle symbol of love.
 
-
 _Images_: Page from Sebastian Knüpfer, "Die Turteltaube lässet sich hören" (manuscript, ca. 1683). Dresden, Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) (D-Dl) Mus.1825-E-518. [RISM ID no. 211004692](https://opac.rism.info/search?id=211004692&View=rism&Language=en){:target="_blank"}. [Available online](https://sachsen.digital/werkansicht/dlf/87610/1/){:target="_blank"}.
 
 Photograph of a turtle dove by Revital Salomon ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_turtle_dove.JPG){:target="_blank"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en){:target="_blank"}).
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

@@ -5,12 +5,11 @@ date: 2016-05-27
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Kunzen-Boehlau_0a0420ffd6.jpg"
+image: "/images/news-old-website/csm_Kunzen-Boehlau_0a0420ffd6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-publication-about-friedrich-ludwig-aemilius-kunzen-a-composer-of-two-nations.html
 email: ''
 author: ''
 ---
-
 
 [Der Komponist Friedrich Ludwig Æmilius Kunzen (1761-1817). Gattungen, Werke, Kontexte](http://www.boehlau-verlag.com/978-3-412-22275-8.html){:target="_blank"}, hrsg. von Melanie Wald-Fuhrmann und Christiane Wiesenfeldt, Köln, Weimar, Wien: Böhlau Verlag 2015, ISBN 978-3-412-22275-8
 
@@ -23,9 +22,3 @@ Mit Opern, Singspielen, Sinfonien, Oratorien, Kantaten, Liedern und Klaviermusik
 Der RISM Online-Katalog bietet [377 Nachweise zu Friedrich Ludwig Æmilius Kunzen](https://opac.rism.info/search?View=rism&author=Kunzen+friedrich+ludwig){:target="_blank"} mit sechs Digitalisaten.Und die Quellen stammen nicht nur – wie vielleicht zu vermuten wäre – aus Det Kongelige Bibliotek Kopenhagen (DK-Kk) und der Bibliothek der Hansestadt Lübeck (D-LÜh), sondern liegen beispielsweise auch in Übersee (US-Wc), Österreich (A-Wn) und Polen (PL-WRu).
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,18 +4,16 @@ title: Canzonette veneziane
 date: 2018-10-25
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/canzonette-veneziane.html
 email: rma2@cam.ac.uk
 author: Richard Andrewes
 ---
 
-
 _Dieser Beitrag erschien zuerst im [MusiCB3 Blog](https://musicb3.wordpress.com/2018/07/13/canzonette-veneziane/){:target="_blank"} der Cambridge University (CC-BY):_
 
 Im vergangenen Oktober brachte der Musikantiquar Travis & Emery seinen Musikkatalog _Sarum no. 58_ heraus. Ein Punkt fiel mir sofort auf, weil ich im letzten Jahr die online-Einträge für zwei Sammlungen von venezianischen Volksliedern – also Lieder im venezianischen Dialekt - aktualisiert hatte.
-
 
 
 |
@@ -35,14 +33,9 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 £500
 
 
-
 ****
 
 |
-
-
-
-
 Beide Sammlungen, an denen ich gearbeitet hatte, sind Handschriften. Eine befindet sich in der University Library (MS.Add.9324.14) und enthält 49 Lieder, die andere ist im Fitzwilliam Museum (MU.MS.130) und enthält eine Sammlung von 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. Die zweite Canzonetta daraus ist insofern ungewöhnlich, weil sehr, sehr wenige Lieder im venezianischen Dialekt einem Komponisten zugeschrieben werden, auch so einem unbekannten wie Angelo Colonna. Eine Suche in der RISM-Datenbank nach der ersten Zeile des ersten Songs im Travis & Emery Manuskript "La mia Ninetta" (als Ausdruck in Anführungszeichen) ergab jedoch ein überraschendes Ergebnis:
 
 [https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
@@ -58,14 +51,13 @@ Das war faszinierend genug, um den Erwerb des Manuskripts zu rechtfertigen.
 
 Nachdem es ankam, erhielt es die Signatur MS.Add.10246, wurde vollständig katalogisiert und es wurde eine ganz Menge Recherche betrieben, um festzustellen, ob die Musik mit dem Manuskript der British Library übereinstimmte (leider fehlt im RISM-Eintrag Musikincipits, so dass wir nicht sicher sein konnten, ohne zur British Library zu gehen und das Original anzusehen).
 
-![A page in the book](http://rism.info/fileadmin/content/news/Canzonette_veneziane_3_bookopen.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
 
-![A page in the book](http://rism.info/fileadmin/content/news/Canzonette_veneziane_3_bookopen2.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
 
 Der Vergleich bestätigt, dass jeder Eintrag in unserem Manuskript auch in der Handschrift des British Museum enthalten ist (Add.31758) und dass die Musik praktisch identisch ist. Unser Manuskript trägt den Titel "Canzonette veneziane e Canoni", das der British Library hat ein Titelblatt "Ariette veneziane e duetti". Unser Manuskript besteht aus 12 Cazonette/Ariette (für Stimme und unbezifferten Bass) und sechs Duette (für zwei Stimmen entweder mit oder ohne unbezifferten Bass), gefolgt von zwei Opernarien im Klavierauszug (Stimme und Bass) ("Quando vi sara gente" und "Una piccolo bambinella"), während die British Library die gleichen 12 Arietten hat, gefolgt von 12 Duetten und Liedern, deren erste sechs Duette die gleichen sind wie in Cambridge. Es folgen zwei Versionen (reduzierte Partitur auf zwei Notensystemen für Alt in E-Dur und eine Partitur für Alt und Streichorchester in A-Dur) von Cambridges erster Opernarie ("Quando vi sara gente", das für Tenor und Bass in A-Dur steht).
 
-
-![Book cover](http://rism.info/fileadmin/content/news/Canzonette_veneziane_2_cover.jpg)
+![Book cover](/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
 
 Keine der Arietten oder Duette in Add.31758 sind zugeschreiben außer das letzte Werk. Die Partitur der Arie “Quando vi sara gente” ist überschrieben “In S. Moise 1763 – Del Sigr. Mattia Vento”.
 
@@ -90,5 +82,3 @@ Richard Andrewes
 _\*Anmerkung von RISM: Die Zuschreibung wurde in den RISM-Datensätzen geändert._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

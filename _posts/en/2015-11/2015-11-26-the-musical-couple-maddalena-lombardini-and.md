@@ -5,12 +5,11 @@ date: 2015-11-26
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Lombardini-2_256faadd47.jpg"
+image: "/images/news-old-website/csm_Lombardini-2_256faadd47.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-musical-couple-maddalena-lombardini-and-lodovico-sirmen.html
 email: ''
 author: ''
 ---
-
 
 Maddalena Lombardini Sirmen (1745-1818) grew up in Venice's Ospedale dei Mendicanti and was a composer, violinist, and cellist. In 1759, she took violin lessons from [Giuseppe Tartini](https://opac.rism.info/search?View=rism&author=Giuseppe+Tartini "external-link-new-window"), and [Ferdinando Bertoni](https://opac.rism.info/search?View=rism&author=Ferdinando+Bertoni){:target="_blank"} taught her in composition.
 
@@ -27,9 +26,6 @@ Enjoy Maddalena's op.1: Trio a deux violins et violoncello, op. 1, no. 3 in D (P
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovKfheo1vzM" frameborder="0" allowfullscreen></iframe>
 
 
-
 Image: Maddalena Lombardini, title page from op. 2, Trois Concerts (Amsterdam: J.J. Hummel, 1770?). [RISM A/I: S 3538](https://opac.rism.info/search?id=00000990059896){:target="_blank"}. Biblioteca Nacional de España [(E-Mn) M/709(18)](http://bdh-rd.bne.es/viewer.vm?id=0000009725&page=1){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

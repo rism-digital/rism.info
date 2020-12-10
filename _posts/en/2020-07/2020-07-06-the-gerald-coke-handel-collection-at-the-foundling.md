@@ -4,13 +4,12 @@ title: The Gerald Coke Handel Collection at the Foundling Museum
 date: 2020-07-06
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
 email: katharine@foundlingmuseum.org.uk
 author: Katharine Hogg
 ---
-
 
 _The following is by Katharine Hogg ([The Foundling Museum](http://www.foundlingmuseum.org.uk/){:target="_blank"}, [GB-Lfom](https://opac.rism.info/search?View=rism&siglum=GB-Lfom&Language=en){:target="_blank"}) and originally appeared on the [IAML UK & Ireland blog](https://iamlukirl.wordpress.com/2020/05/07/the-gerald-coke-handel-collection-at-the-foundling-museum/){:target="_blank"}. It is reprinted here with kind permission._
 
@@ -31,7 +30,5 @@ The [online catalogue](https://foundling.soutron.net/Portal/) includes detailed 
 The Handel Gallery in the museum is open to the public during normal museum hours and displays a range of material from the Collection, as well as providing popular ‘musical chairs’ where visitors can sit in comfort and listen to hours of Handel’s music. The Gerald Coke Handel Collection reading room is normally open Wednesday – Friday for research by appointment. For all enquiries call +44 (0)20 7841 3606 or email handel@foundlingmuseum.org.uk. Visitors can also get in touch to request general or bespoke tours of the museum and/or the Handel Collection, and there are frequent concerts, talks and other events in the museum inspired by the museum’s stories of art, social history and music. For further details see the website [www.foundlingmuseum.org.uk](http://www.foundlingmuseum.org.uk/).
 
 
-
 Photo credit for the first image: Photographer Peter Dazeley. Copyright Foundling Museum. For the fifth: Photo GG Archard. Copyright Foundling Museum
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

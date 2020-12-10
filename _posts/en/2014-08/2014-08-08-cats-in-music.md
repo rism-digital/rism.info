@@ -4,13 +4,12 @@ title: Cats in Music
 date: 2014-08-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_music-cats_fb2ca4a7a1.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_music-cats_fb2ca4a7a1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cats-in-music.html
 email: ''
 author: ''
 ---
-
 
 Today is International Cat Day! With RISM, you can find all the music you need to celebrate in style.
 
@@ -25,11 +24,9 @@ If International Cat Day had started 200 years ago, musicians could have enjoyed
 [Cats](https://opac.rism.info/search?View=rism&q=cats){:target="_blank"} are everywhere in the online catalog, as are [Katzen](https://opac.rism.info/search?View=rism&q=katzen){:target="_blank"}, [chats](https://opac.rism.info/search?View=rism&q=chats){:target="_blank"}, and a [gatti](https://opac.rism.info/search?id=270002292&db=251&View=rism){:target="_blank"}. As the German cats say, [Miau](https://opac.rism.info/search?View=rism&q=miau){:target="_blank"}!
 
 
-
 Below, Elaine Comparone plays Scarlatti's Fugue in G minor, later dubbed "The Cat's Fugue" by Muzio Clementi.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/CbW1nNBqVnI" frameborder="0" allowfullscreen></iframe>
 
 Photo source: [Cat Daily News](http://catdailynews.com/2013/11/classical-music-for-cats/){:target="_blank"}
-
 

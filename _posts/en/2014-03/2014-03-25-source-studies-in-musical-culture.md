@@ -5,12 +5,11 @@ date: 2014-03-25
 lang: en
 post: true
 category: new_publications
-image: "/uploads/pics/Einband_02.jpg"
+image: "/resources-old-website/pics/Einband_02.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/source-studies-in-musical-culture.html
 email: ''
 author: ''
 ---
-
 
 We would like to announce the recent publication of papers presented at a conference organized by the Department of Musicology of Adam Mickiewicz University and the Archdiocesan Archive in Poznań, Poland in September 2011:
 

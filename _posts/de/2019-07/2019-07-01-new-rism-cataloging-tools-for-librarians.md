@@ -4,17 +4,16 @@ title: Neue RISM-Katalogisierungstools für Bibliothekare
 date: 2019-07-01
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_New_Cataloging_Tools_for_Librarians_NYPL_f4112beb94.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_New_Cataloging_Tools_for_Librarians_NYPL_f4112beb94.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-cataloging-tools-for-librarians.html
 email: ''
 author: ''
 ---
 
-
 Wir freuen uns, Ihnen mitteilen zu können, dass es einige neue Katalogisierungstools gibt, die dazu beitragen, die Präsenz von RISM in lokalen Bibliothekskatalogen zu verbessern.
 
-Sie finden diese neuen Ressourcen im Abschnitt [Katalogisierungstools](/de/unternehmen/rism-fuer-bibliothekare.html#c3947) auf der Seite RISM für Bibliotheken.
+Sie finden diese neuen Ressourcen im Abschnitt [Katalogisierungstools](/organization/rism-for-libraries.html) auf der Seite RISM für Bibliotheken.
 
 Zu den neuen Tools gehört eine Verknüpfung zum OCLC-Datensatz für den RISM-OPAC. Sie können diesen Datensatz herunterladen, damit Ihre Bibliotheksbenutzer den kostenlosen Katalog in lokalen Systemen finden können: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}. Dieser Datensatz ist der einzige aktuelle Datensatz für den OPAC in OCLC.
 
@@ -30,4 +29,3 @@ Möglich wurden diese Entwicklungen durch die Initiative und die Zusammenarbeit 
 
 _Abbildung_: Der New York Public Library's Room 100 mit Zettelkatalogen. Manuscripts and Archives Division, The New York Public Library. [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47dd-eb76-a3d9-e040-e00a18064a99){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

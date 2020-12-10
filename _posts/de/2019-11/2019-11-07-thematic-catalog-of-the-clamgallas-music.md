@@ -5,16 +5,15 @@ date: 2019-11-07
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Clam-Gallas_626bb1ca12.jpg"
+image: "/images/news-old-website/csm_Clam-Gallas_626bb1ca12.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/thematic-catalog-of-the-clam-gallas-music-collection.html
 email: eliska.sediva@centrum.cz
 author: Eliška Šedivá
 ---
 
-
 _Die folgende Ankündigung einer Neuerscheinung erhielten wir von unserer Kollegin Eliška Šedivá (RISM Tschechische Republik):_
 
-**_Catalogus collectionis operum artis musicae comitis Clam-Gallas_ (ed. Eliška Šedivá, translation of the introduction by Andy Letham), Prague: [National Library of the Czech Republic](https://www.nkp.cz/o-knihovne/zakladni-informace/vydane-publikace/prave-vyslo-cele#catalogus){:target="_blank"}, 2018. 4 vols (1456 pp.), in: Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum series; vol. X/1-4, ISBN 978-80-7050-698-1.**
+**Catalogus collectionis operum artis musicae comitis Clam-Gallas_ (ed. Eliška Šedivá, translation of the introduction by Andy Letham), Prague: [National Library of the Czech Republic](https://www.nkp.cz/o-knihovne/zakladni-informace/vydane-publikace/prave-vyslo-cele#catalogus){:target="_blank"}, 2018. 4 vols (1456 pp.), in: Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum series; vol. X/1-4, ISBN 978-80-7050-698-1.**
 
 Die Musiksammlung Clam-Gallas aus Prag und Frýdlant ist eines der umfangreichsten Musikarchive in Böhmen und stellt ein reichhaltiges Quellenmaterial dar, das ein Bild der heimischen aristokratischen Musikkultur des 18. Jahrhunderts vermittelt. Sie entstand durch den Zusammenschluss mehrerer kleinerer Sammlungen. Sie besteht insbesondere aus dem Musikarchiv des Schlosses und der Harmoniemusik des Grafen [Christian Phillip Clam-Gallas](https://opac.rism.info/metaopac/perma.do;jsessionid=C692EBE5787F574386F0FE7250E144A0.touch02?v=rism&q=-1%3d%22pe30059826%22){:target="_blank"} und der privaten Sammlung von Vokalmusik (insbesondere Opernmusik) seiner Frau [Maria Caroline Josepha](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30113887%22){:target="_blank"}. Die Sammlung umfasst 1.572 Signaturen (inkl. Alben und Konvoluten), worunter sich insgesamt 2.223 Einzelwerke befinden.
 
@@ -26,4 +25,3 @@ Wie bereits erwähnt, wurde das Archiv für Musikaufführungen im Clam-Gallas-Pa
 
 Vokalmusik und vor allem dramatische Musik ist das am weitesten verbreitete Genre in der gesamten Sammlung. Opern, Singspiele oder Melodramen bilden eine der wichtigsten Säulen des Repertoires der Sammlung, während die zweite aus Symphonie, Konzert und Kammermusik besteht. Eine weitere wichtige Gruppe besteht aus Musik für die sogenannte Bläserharmoniemusik, d. h. Kammermusik für mehrere Blasinstrumente (in der Regel ein Werk für fünf bis acht Blasinstrumente). Die Sammlung enthält aber auch Kompositionen für bestimmte Besetzungen: ein Bläserquartett für Klarinette und drei Bassetthörner. Die Kammermusik wird auch durch Streichquartette (in einigen Fällen ergänzt durch einen Flötenpart) wesentlich repräsentiert. Auch Instrumentalkompositionen für Soloinstrumente (am häufigsten für Gitarren- oder Tasteninstrumente) haben hier einen wichtigen Platz, bilden aber eine relativ kleine Materialgruppe. Es überwiegen Komponisten aus Italien (die Sammlung umfasst insgesamt 93 Namen italienischer Komponisten), aber auch die Musik tschechischer (56), deutscher (56) und österreichischer (49) Komponisten ist gut vertreten. Die französische Musik ist mit 38 Komponisten vertreten.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

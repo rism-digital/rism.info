@@ -5,18 +5,17 @@ date: 2018-02-01
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Valletta_2018_fa9ee0d7be.jpg"
+image: "/images/news-old-website/csm_Valletta_2018_fa9ee0d7be.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
 email: ''
 author: ''
 ---
 
-
 Neben der niederländischen Stadt Leeuwarden ist Maltas Hauptstadt Valletta Kulturhauptstadt 2018. Valletta ist die kleinste Hauptstadt der Europäischen Union und in ihrer Gesamtheit UNESCO-Weltkulturerbe.
 
 In der ab 1566 von Malteserrittern erbauten Stadt sind alle Sehenswürdigkeiten bequem zu Fuß zu erreichen. Doch „d_iese Kulturhauptstadt ist anders als andere Kulturhauptstädte. Es geht nicht nur um Valletta, sondern um ganz Malta und auch um Gozo.“_ (Alexiej Dingli, Bürgermeister von Valletta). Kulturfans erwartet das ganze Jahr über ein prall gefüllter [Kulturkalender](https://valletta2018.org/){:target="_blank"}.
 
-[In RISM](/de/rism-bibliothekssigel.html) sind 12 Musikarchive und Bibliotheken aus Malta bekannt. Drei davon befinden sich in der Hauptstadt Valletta, die übrigen in anderen Orten der Insel. Es handelt sich um folgende Institutionen:
+[In RISM](/community/sigla.html) sind 12 Musikarchive und Bibliotheken aus Malta bekannt. Drei davon befinden sich in der Hauptstadt Valletta, die übrigen in anderen Orten der Insel. Es handelt sich um folgende Institutionen:
 
 St. Augustin Convent, Valletta (M-Vsa)
 Carmelite Priory, Valletta (M-Vcp)
@@ -44,7 +43,5 @@ Quellennachweise aus Malta gibt es noch nicht in der RISM-Datenbank, aber das ka
 **Michelangelo Vella** (1710, Senglea – 1792, Cospicua) erhielt seine musikalische Ausbildung ebenfalls in Neapel und kehrte 1738 nach Malta zurück, um als Musiklehrer, Organist und Kapellmeister zu wirken. Die sechs Sonaten für drei Violinen und Bass zählen zu seinen beliebstesten Werken und erschienen zu Lebzeiten in Paris im Druck (RISM A/I: [V 1107, VV 1107, VV 1107a](https://opac.rism.info/search?View=rism&author=Vella+Michelangelo){:target="_blank"}).
 
 
-
 _Abbildung_: Blick auf Valletta, Foto von Joergsam, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

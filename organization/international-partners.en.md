@@ -30,8 +30,8 @@ Five elected members from the Council form a Coordinating Committee. The Coordin
 
 Members of the Coordinating Committee:
 
-* Jeong Youn Chang (cataloger for RISM South Korea)
-* Stefan Ikarus Kaiser (titular organist of Wilhering Abbey, Upper Austria)
-* Zuzana Petrášková (National Library of the Czech Republic, head of the Department of Music)
-* Roland Schmidt-Hensel (deputy head of the Music Department at the Staatsbibliothek zu Berlin – Preußischer Kulturbesitz)
-* Sonia Wronkowska (head of the Polona Development Unit at the National Library of Poland)
+* JeongYoun Chang (Korea National University of Arts, Seoul, South Korea)
+* Stefan Ikarus Kaiser (Titular organist of Wilhering Abbey, Austria)
+* Zuzana Petrášková (National Library of the Czech Republic, Head of the Music Department)
+* Roland Schmidt-Hensel (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Deputy Head of the Music Department)
+* Sonia Wronkowska (National Library of Poland, Head of the Polona Development Unit)

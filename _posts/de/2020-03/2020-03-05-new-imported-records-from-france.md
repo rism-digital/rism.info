@@ -4,13 +4,12 @@ title: Neue importierte Datensätze aus Frankreich
 date: 2020-03-05
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Datenimport_Frankreich_cee122971f.png"
+category: library_collections
+image: "/images/news-old-website/csm_Datenimport_Frankreich_cee122971f.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-imported-records-from-france.html
 email: ''
 author: ''
 ---
-
 
 Nach einer Datenlieferung der Bibliothèque nationale de France in Paris und einer intensiven technischen Vorbereitungszeit, konnten Erfahrungen und inzwischen auch Wege für eine automatisierte Konvertierung gefunden werden. Im Herbst 2019 wurden dann ca. 19.000 Datensätze zu handschriftlichen Musikquellen in die interne RISM-Datenbank Muscat übernommen. Im RISM Katalog sind sie damit aber noch nicht. Darin ist erst nur ein Teil recherchierbar:
 
@@ -25,5 +24,3 @@ Um die Handschriften im RISM-Katalog separat von den Musikdrucken ansehen oder d
 Wir werden in Kürze alle weiteren Daten freischalten. Alle importierten Datensätze enthalten einen Link zum französischen Originaleintrag.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

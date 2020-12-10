@@ -5,12 +5,11 @@ date: 2020-04-16
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Festa_Costanzo_475_33012218ef.jpg"
+image: "/images/news-old-website/csm_Festa_Costanzo_475_33012218ef.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
 email: ''
 author: ''
 ---
-
 
 The Italian composer Costanzo Festa (born between 1480 and 1490 in Piedmont, died 10 April 1545 in Rome) was a member of the papal choir beginning in 1517 and later directed and composed for the Cappella Sistina.
 
@@ -24,5 +23,3 @@ _Image_: Costanzo Festa, “Se per forza di doglia” from _Il primo libro d'i M
 Copy: [Bayerische Staatsbibliothek München (D-Mbs) 4 Mus.pr. 155](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00080881-2){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

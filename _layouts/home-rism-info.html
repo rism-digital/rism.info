@@ -1,0 +1,62 @@
+---
+hero_height: is-medium
+sidepanel: "sidepanels/home"
+---
+
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id="wrapper">
+        {% include hero.html %}
+        <section class="section">
+            <div class="container">
+
+                <!-- Logo on mobile devices -->
+                <div class="mb-5 is-hidden-tablet">
+                    <img src="/images/logo-medium.png">
+                </div>
+
+                <div class="columns is-multiline is-variable is-8">
+
+                    <!-- Intoduction text with various widths -->
+                    <div class="column is-8-desktop is-9-widescreen is-12-tablet">
+                        <div class="content">
+                            {{ content }}
+                        </div>
+
+                        <!-- Navigation and side panel on tablet and smaller -->
+                        <div class="is-hidden-desktop mb-5">
+                            <div class="content">
+                                <div class="columns is-multiline is-variable">
+                                    <div class="column is-one-third">
+                                        {% include homepage_navbar.html %}
+                                    </div>
+                                    <div class="column is-two-thirds">
+                                        {% include sidepanel.html sidepanel=layout.sidepanel %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- News -->
+                        <div class="content">
+                            {% include latest-posts.html %}
+                        </div>
+                    </div>
+
+                    <!-- Navigation and side panel on desktop and larger -->
+                    <div class="column is-4-desktop is-3-widescreen is-hidden-touch">
+                        <div class="content">
+                            {% include homepage_navbar.html %}
+                            {% include sidepanel.html sidepanel=layout.sidepanel margin="menubar" %}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

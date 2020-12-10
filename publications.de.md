@@ -7,18 +7,17 @@ permalink: /publications.html
 
 # Publikationen
 
-
-Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. [Serie A](#die-rism-serien-a-b-und-c) dokumentiert Musikalische Quellen in zwei Teilen: gedruckte Musikausgaben (A/I) und Musikhandschriften (A/II). [Serie B](#die-rism-serien-a-b-und-c) ist bestimmt für Quellenrepertoire nach bestimmten thematischen Schwerpunkten. Series A and B werden ergänzt durch [Serie C](#die-rism-serien-a-b-und-c), das Directory of Music Research Libraries. Daneben erschienen spezielle Bände wie [Tenorlied](#die-rism-serien-a-b-und-c) und RISM-Bibliothekssigel (heute als [Online Datenbank](/sigel.html){:target="_blank"}).
+Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. [Serie A](#die-rism-serien-a-b-und-c) dokumentiert Musikalische Quellen in zwei Teilen: gedruckte Musikausgaben (A/I) und Musikhandschriften (A/II). [Serie B](#die-rism-serien-a-b-und-c) ist bestimmt für Quellenrepertoire nach bestimmten thematischen Schwerpunkten. Series A and B werden ergänzt durch [Serie C](#die-rism-serien-a-b-und-c), das Directory of Music Research Libraries. Daneben erschienen spezielle Bände wie [Tenorlied](#die-rism-serien-a-b-und-c) und RISM-Bibliothekssigel (heute als [Online Datenbank](/community/sigla.html){:target="_blank"}).
 
 ## Online-Katalog
 
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-Der RISM Online-Katalog ist kostenlos und kann über [www.rism.info](http://www.rism.info) und [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er dokumentiert Musikhandschriften, Musikdrucke, Libretti und Traktate.
+Der RISM Online-Katalog ist kostenlos und kann über [www.rism.info](https://www.rism.info) und [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er dokumentiert Musikhandschriften, Musikdrucke, Libretti und Traktate.
 
 Der Online-Katalog enthält inzwischen die Serien [A/I, A/II](#die-rism-serien-a-b-und-c) und die Jahre 1500-1550 von [B/I](#die-rism-serien-a-b-und-c).
 
-Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/"), München, der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und dem [RISM](http://www.rism.info/ "http://www.rism.info/"). Verantwortlich für den Betrieb und die technische Umsetzung des RISM Online-Katalogs ist die Bayerische Staatsbibliothek München.
+Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/"), München, der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und dem [RISM](https://www.rism.info/ "https://www.rism.info/"). Verantwortlich für den Betrieb und die technische Umsetzung des RISM Online-Katalogs ist die Bayerische Staatsbibliothek München.
 
 ## Die RISM Serien A, B und C
 
@@ -78,7 +77,7 @@ Osteuropa
 **Sonderband:**
 
 *  RISM Bibliothekssigel. Gesamtverzeichnis (G. Henle Verlag, München & Bärenreiter-Verlag, Kassel).  
-Die RISM-Bibliothekssigel sind ab sofort [über die Website des RISM](http://www.rism.info/de/community/entwicklung/rism-bibliothekssigel.html){:target="_blank"} abfragbar.
+Die RISM-Bibliothekssigel sind ab sofort [über die Website des RISM](/community/sigla.html){:target="_blank"} abfragbar.
 
 ## Sonderbände (Bärenreiter-Verlag; G. Henle und Bärenreiter-Verlag gemeinsam)
 
@@ -88,4 +87,4 @@ Die RISM-Bibliothekssigel sind ab sofort [über die Website des RISM](http://www
   - Böker-Heil, Norbert / Heckmann, Harald / Kindermann, Ilse: Das Tenorlied. Mehrstimmige Lieder in deutschen Quellen 1450-1580. Band 3: Register, 1986.
 
 * *RISM-Bibliothekssigel. Gesamtverzeichnis*, bearbeitet von der Zentralredaktion in den Ländergruppen des RISM, München und Kassel: G. Henle und Bärenreiter, 1999.  
-Das Verzeichnis wird regelmäßig aktualisiert und ist [heute online suchbar](/sigel.html)
+Das Verzeichnis wird regelmäßig aktualisiert und ist [heute online suchbar](/community/sigla.html)

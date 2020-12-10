@@ -5,12 +5,11 @@ date: 2017-06-19
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Nisle_266945b255.jpg"
+image: "/images/news-old-website/csm_Nisle_266945b255.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
 email: ''
 author: ''
 ---
-
 
 Our series RISM A-Z is moving right along, and here is the second entry for letter N.
 
@@ -23,5 +22,3 @@ The [54 sources documented in RISM](https://opac.rism.info/metaopac/search?View=
 _Image_: Johann Martin Friedrich Nisle, _Zwölf freundliche Gesänge_ (Bunzlau: Appun, circa 1844), Bayerische Staatsbibliothek (D-Mbs) Mus.pr. 8887. [Available online](https://opacplus.bsb-muenchen.de/Vta2/bsb11161810/bsb:BV007853769){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,15 +4,14 @@ title: Neues RISM Coordinating Committee
 date: 2018-01-29
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-coordinating-committee.html
 email: ''
 author: ''
 ---
 
-
-RISM wird von internationalen Partnern gestützt und profitiert von verschiedenen Strukturen, um eine enge Beziehung zwischen RISM, den Partnergesellschaften und den Arbeitsgruppen aufrechtzuerhalten. Eines dieser Gremien ist das [Advisory Council](/de/unternehmen/internationale-partner.html), zu dessen Mitgliedern alle aktiven RISM-Mitarbeiter weltweit gehören. Fünf gewählte Mitglieder des Advisory Council bilden das Coordinating Committee. Es hat die Aufgabe, die Wünsche und Anforderungen von einer der beiden Seiten zu vermitteln sowie den Austausch zwischen den Arbeitsgruppen zu befördern.
+RISM wird von internationalen Partnern gestützt und profitiert von verschiedenen Strukturen, um eine enge Beziehung zwischen RISM, den Partnergesellschaften und den Arbeitsgruppen aufrechtzuerhalten. Eines dieser Gremien ist das [Advisory Council](/organization/international-partners.html), zu dessen Mitgliedern alle aktiven RISM-Mitarbeiter weltweit gehören. Fünf gewählte Mitglieder des Advisory Council bilden das Coordinating Committee. Es hat die Aufgabe, die Wünsche und Anforderungen von einer der beiden Seiten zu vermitteln sowie den Austausch zwischen den Arbeitsgruppen zu befördern.
 
 Wir heißen die fünf neuen Mitglieder des Coordinating Committee willkommen:
 
@@ -26,4 +25,3 @@ Die neuen Mitglieder werden beim nächsten Treffen des Advisory Council, das wä
 
 Wir danken den bisherigen Mitgliedern des Coordinating Committee für ihr Engagement: Armin Brinzing, Daniel Boomhower, Marie Cornaz, Ewa Hauptman-Fischer und Gottfried Heinz-Kronberger. Wir freuen uns auf die Zusammenarbeit mit dem neuen Committee.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

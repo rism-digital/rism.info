@@ -5,12 +5,11 @@ date: 2019-11-18
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
+image: "/images/news-old-website/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-helsinki-cataloging-seminar.html
 email: ''
 author: Jennifer Ward
 ---
-
 
 RISM nahm letzten Monat am [Helsinki Cataloging Seminar](https://www.kiwi.fi/pages/viewpage.action?pageId=113248950){:target="_blank"} teil, das von der Universität Helsinki und der Nationalbibliothek von Finnland veranstaltet wurde und am 22. Oktober stattfand. Ich (Jennifer Ward) wurde von unserem Kollegen Jaakko Tuohiniemi ([Universitätsbibliothek Helsinki](https://www.helsinki.fi/en/helsinki-university-library){:target="_blank"}) eingeladen, um eine kurze Ansprache vor einem Publikum zu halten, das sich aus Katalogisierern aus ganz Finnland zusammensetzte. Die meisten Personen im Auditorium kamen aus Institutionen in Helsinki oder aus der Nähe, und etwa 200 Personen kamen online dazu, um teilzunehmen (siehe den ersten Link oben für Folien).
 
@@ -23,5 +22,3 @@ Ich habe [Finna](https://finna.fi/Content/about?lng=en-gb){:target="_blank"} ken
 Ich möchte Tatja Pusa ([Nationalbibliothek Finnland](https://www.kansalliskirjasto.fi/en){:target="_blank"}) für ihre organisatorische Unterstützung und Jaakko Tuohiniemi für die Einladung zu einem Vortrag danken. Ich war dankbar für die Gelegenheit, unsere Arbeit mit unseren finnischen Kollegen zu teilen, und im Laufe des Seminartages hatte ich die Gelegenheit, mit unseren Kollegen aus der Musikbibliothek in Helsinki und anderswo zu sprechen. Wir haben rund [1.100 Datensätze in RISM](https://opac.rism.info/search?View=rism&siglum=FIN-*){:target="_blank"} von finnischen Institutionen, und ich hoffe, dass wir unsere Zusammenarbeit mit ihnen intensivieren können. _Kiitos_!
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

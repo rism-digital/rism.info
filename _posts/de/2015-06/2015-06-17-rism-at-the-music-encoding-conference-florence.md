@@ -5,12 +5,11 @@ date: 2015-06-17
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_MEI-Konferenz_6d2457a1e8.png"
+image: "/images/news-old-website/csm_MEI-Konferenz_6d2457a1e8.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-music-encoding-conference-florence-italy.html
 email: jennifer.ward@rism.info
 author: Jennifer Ward
 ---
-
 
 Jennifer Ward nahm and der[Music Encoding Conference](http://music-encoding.org/conference){:target="_blank"} in Florenz (Italien) vom 18.-20. Mai 2015 teil. Das [umfangreiche Programm](https://music-encoding.org/wp-content/uploads/2015/06/MEC2015_program.pdf){:target="_blank"} umfasste 19 Präsentationen und 11 Poster Sessions.
 
@@ -22,7 +21,6 @@ Der Beitrag von Kristina Richts und Irmlind Capelle beschäftigte sich mit dem[D
 
 Weitere Forschungen von Stadler und Richts betrafen auch eine Präsentation zum digitalen Thematischen Katalog der Werke von Carl Maria von Weber. Die Präsentation ist [online](https://dl.dropboxusercontent.com/u/33605578/richts-stadler-slides-mec2015.pdf){:target="_blank"} verfügbar. Das [Max Reger Institute](http://www.max-reger-institut.de/de/index.php){:target="_blank"} war ebenfalls anwesend, um die Hybridedition von Max Regers Orgelwerken unter besonderer Berücksichtigung der Handschriften und frühen Druckausgben vorzustellen. Neuigkeiten zum [Josquin Research Project](http://josquin.stanford.edu/){:target="_blank"} berichteten Craig Stuart Sapp und Jesse Rodin. Wege zur Verwendung von MEI für Lautenmusik boten David Lewis, Richard Lewis und Tim Crawford. Die MEI-Anpassungen für Transforming Musicology stind unter [GitHub](https://github.com/TransformingMusicology/mei-tmus){:target="_blank"} verfügbar. Giuliano Di Bacco und Perry Roland überprüfen MEI für die Mensuralnotation im [Thesaurus musicarum latinarum project](http://www.chmtl.indiana.edu/tml/start.html){:target="_blank"} an der Indiana University. Viele Beiträge auf dieser Konferenz streiften ein Thema auf das sich RISM konzentriert und wir hoffen, dass wir solche Projekt-Kooperation zukünftig noch steigern können.
 
-
 Links zu anderen Präsentationen und Projekten:
 
 -
@@ -30,12 +28,10 @@ Links zu anderen Präsentationen und Projekten:
 GNU LilyPond and music encoding (Urs Liska, Mike Solomon, Peter Bjuhr)
 [Beitrag online verfügbar](http://lilypondblog.org/wp-content/uploads/2015/06/mei2ly.pdf){:target="_blank"}
 
-
 -
 
 A specification for addressing encoded music on the web (Raffaele Viglianti)
 [The Enhancing Music Notation Addressability (EMA) project](http://mith.umd.edu/research/project/enhancing-music-notation-addressability/){:target="_blank"}
-
 
 -
 
@@ -43,16 +39,12 @@ Cross-platform music notation with SMuFL and MEI (Andrew Hankinson, Andrew Horwi
 [Präsentation online verfügbar](https://t.co/POGFTIQRUE){:target="_blank"}
 [Fragen zur Diskussion](https://gist.github.com/ahankinson/ef9aa9c454d383baf5f7){:target="_blank"}
 
-
 -
 
 A browser-based MEI editor (Andrew Horwitz, Andrew Hankinson, Ichiro Fujinaga)
 [MEIX auf GitHub](https://github.com/DDMAL/meix.js){:target="_blank"}
 
 
-
 Die nächste Konferenz findet 2016 an der McGill University statt. Diskussionen zu MEI ansonsten über die[Mailingliste (MEI-L)](http://music-encoding.org/community/mailing-list/){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

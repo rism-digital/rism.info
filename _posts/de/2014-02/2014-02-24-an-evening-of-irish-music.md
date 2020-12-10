@@ -5,12 +5,11 @@ date: 2014-02-24
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
+image: "/images/news-old-website/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-evening-of-irish-music.html
 email: ''
 author: ''
 ---
-
 
 **Sonntag, 16. März 2014, 18 Uhr** , Ev.-Luth. Wartburgkirche
 [Hartmann-Ibach-Straße 108, 60389 **Frankfurt am Main**](https://maps.google.de/maps?q=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&hl=de&ie=UTF8&sll=51.175806,10.454119&sspn=8.281019,23.269043&hnear=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&t=m&z=16){:target="_blank"}
@@ -27,7 +26,7 @@ Violine: **Frank Plieninger**
 [Junge Sinfoniker Frankfurt](http://www.junge-sinfoniker.de/)
 Leitung: **Bernhard Lingner**
 
-Am Vorabend des St. Patrick's Day steht die erste in Irland entstandeneSinfonie im Mittelpunkt des Konzertes. Der KomponistPaul Alday (ca. 1763-1835)stammte aus Frankreich, wirkte aber Anfang des 19. Jahrhunderts in Dublin. Das vollständige Notenmaterial wurde erst kürzlich wiederentdeckt und die Sinfonie erstmals nach fast 200 Jahren [im Rahmen eines Symposions wieder aufgeführt](http://www.rism.info/de/startseite/newsdetails/article/64/the-symphony-and-ireland-a-symposium.html?tx_ttnews%5Byear%5D=2013&tx_ttnews%5Bmonth%5D=03&cHash=93e6f96546bd53654c361ff660bc550d){:target="_blank"}. Kerry Houston, Direktor der [Research Foundation for Music in Ireland](http://www.musicresearch.ie/){:target="_blank"} (RFMI), wird in einer kurzen Einführung über den Fund berichten. Es ist vermutlich die erste Aufführung dieser Sinfonie außerhalb Irlands.
+Am Vorabend des St. Patrick's Day steht die erste in Irland entstandeneSinfonie im Mittelpunkt des Konzertes. Der KomponistPaul Alday (ca. 1763-1835)stammte aus Frankreich, wirkte aber Anfang des 19. Jahrhunderts in Dublin. Das vollständige Notenmaterial wurde erst kürzlich wiederentdeckt und die Sinfonie erstmals nach fast 200 Jahren [im Rahmen eines Symposions wieder aufgeführt](/events/2013/03/14/the-symphony-and-ireland-a-symposium.html?tx_ttnews%5Byear%5D=2013&tx_ttnews%5Bmonth%5D=03&cHash=93e6f96546bd53654c361ff660bc550d){:target="_blank"}. Kerry Houston, Direktor der [Research Foundation for Music in Ireland](http://www.musicresearch.ie/){:target="_blank"} (RFMI), wird in einer kurzen Einführung über den Fund berichten. Es ist vermutlich die erste Aufführung dieser Sinfonie außerhalb Irlands.
 
 Am 20. April 2013 fand die erste Aufführung seit dem frühen 19. Jahrhundert von Aldays erster Sinfonie unter großem Beifall und internationaler Berichtertattung statt. Die Sinfonie komponierte Alday ca. 1816 in Dublin und war eine von zweien, die er während dieser Zeit schrieb. Aldays Sinfonie blieb lange ein Rätsel: obwohl bekannt war, das einige Stimmen an der[Royal Irish Academy of Music](http://www.riam.ie/about-us/library/){:target="_blank"} (IRL-Dam) aufbewahrt werden, war eine umfassende Bewertung oder Aufführung des Stücks nicht möglich. Forscher des RISM Irland/RFMI fanden die übrigen Stimmen in dem bisher unbearbeiteten Musikbestand der [irischen Nationalbibliothek](http://www.nli.ie/){:target="_blank"} (IRL-Dn). Alle Stimmen wurden dann von Studenten des Dubliner Institute of Technology’s [Conservatory of Music & Drama](http://www.dit.ie/conservatory/){:target="_blank"} (IRL-Dit)zur Vorbereitung der lang ersehnten Aufführung digital transkirbiert.
 
@@ -46,5 +45,3 @@ Eintritt frei
 Bildnachweis von oben nach unten: Titelseite zu Aldays Grand Symphony, Sharon Carty, Jonathan Ware, Frank Plieninger. Bild zu Alday mit freundlicher Genehmigung des RFMI; Fotos mit freundlicher Genehmigung der Künstler.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,16 +4,14 @@ title: The Royal Library of Belgium acquires the only known manuscript of "Le Re
 date: 2015-10-19
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-
-_We have received this announcement from our colleagues at [RISM Belgium](/workgroups/belgium-rism-belgium.html):_
-
+_We have received this announcement from our colleagues at [RISM Belgium](/international/working-groups.html):_
 
 
 After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopold-Philippe of Arenberg (1690-1754) was sent back to the Austrian Netherlands and became governor of Hainaut. On the occasion of his solemn entrance in the city of Mons, capital of Hainaut, [Gilles-Joseph de Boussu](http://www.hainautterremusicale.com/hommes/boussu-gilles-joseph-f460.html) (1681-1755) wrote the opera _[Le Retour des plaisirs](http://www.hainautterremusicale.com/oeuvres/retour-plaisirs-f11.html), opéra dédié à son Altesse Monseigneur le Duc d’Arembergh au jour de son entrée solemnelle en son gouvernement de Mons._
@@ -27,5 +25,3 @@ The [Music Division of the Royal Library of Belgium](http://www.kbr.be/collectio
 On [11 December 2015](http://www.kbr.be/actualites/concerts/programme/11_12_fr.html){:target="_blank"}a group of students of the Royal Conservatory of Mons, under the direction of [Guy Van Waas](http://cavema.be/en/agremens/director){:target="_blank"}, will perform the opera against the splendid backdrop of the Palace of the former governor of the Austrian Netherlands [Charles de Lorraine](http://www.kbr.be/actualites/palace/palace_pres_fr.html){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

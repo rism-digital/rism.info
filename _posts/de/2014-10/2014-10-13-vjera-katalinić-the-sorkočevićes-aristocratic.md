@@ -5,12 +5,11 @@ date: 2014-10-13
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg"
+image: "/images/news-old-website/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html
 email: ''
 author: ''
 ---
-
 
 Zum 280. Geburtstag des kroatischen Komponisten Luka Sorgo (1734-1789) hat Vjera Katalinić, Leiterin der kroatischen RISM-Ländergruppe, ein Buch über die Musikerfamilie veröffentlicht:
 
@@ -23,5 +22,3 @@ Das Buch ist auf Kroatisch und Englisch verfasst und schließt eine CD-Aufnahme 
 Das Buch von Katalinić ist mit Musikbeispielen und Abbildungen archivalischer Quellen großzügig ausgestattet. [Eine Werkliste für Luka](https://opac.rism.info/search?View=rism&author=Sorgo+Luca "external-link-new-window") und [Antun Sorgo](https://opac.rism.info/search?View=rism&author=Sorgo+Antun "external-link-new-window") einschließlich der zweifelhaften Autorschaft mit Verweisungen auf die RISM-Einträge ist ebenfalls enthalten.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

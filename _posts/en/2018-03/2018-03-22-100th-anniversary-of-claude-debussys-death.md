@@ -5,12 +5,11 @@ date: 2018-03-22
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
+image: "/images/news-old-website/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/100th-anniversary-of-claude-debussys-death.html
 email: ''
 author: ''
 ---
-
 
 _The following post is by Ulrike Schädel, our intern for winter 2018:_
 
@@ -34,5 +33,3 @@ Orledge, Robert. “Debussy’s House of Usher Revisited.” _The Musical Quarte
 _Image_: "The House of Usher" by Ciaran Laval, from [Flickr](https://www.flickr.com/photos/ciaran_laval/19019843280/){:target="_blank"} ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

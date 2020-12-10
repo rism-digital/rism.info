@@ -5,12 +5,11 @@ date: 2015-11-30
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
+image: "/images/news-old-website/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/symphonic-music-in-great-britain.html
 email: ''
 author: ''
 ---
-
 
 A new book crossed our desks recently:
 
@@ -24,4 +23,3 @@ The RISM online catalog now cites this book in the records for the manuscripts n
 
 You can also read a review on [info-netz-musik](http://info-netz-musik.bplaced.net/?p=13682){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

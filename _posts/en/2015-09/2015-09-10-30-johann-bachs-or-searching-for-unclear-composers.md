@@ -4,15 +4,14 @@ title: 30 Johann Bachs, or searching for "unclear" composers
 date: 2015-09-10
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Johann_Bach_e908765f80.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Johann_Bach_e908765f80.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-bach-or-searching-for-unclear-composers.html
 email: alexander.marxen@rism.info
 author: ''
 ---
 
-
-Back in March we showed you in this space [how to link to RISM searches](/self_representation/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} in the online catalog. In most cases, this works without a hitch - you can even use pseudonyms or other forms of the name, as long as they are entered as variants in RISM. [Here's a search using "Melante"](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} for Georg Philipp Telemann.
+Back in March we showed you in this space [how to link to RISM searches](/new_at_rism/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} in the online catalog. In most cases, this works without a hitch - you can even use pseudonyms or other forms of the name, as long as they are entered as variants in RISM. [Here's a search using "Melante"](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} for Georg Philipp Telemann.
 
 It is more difficult to search for composers whose name comes up more than once. Take Johann Bach (1604-1673) as an example. If you simply search for **Johann Bach** as the composer, you get [over 9,500 results](https://opac.rism.info/metaopac/search?View=rism&author=Johann+Bach){:target="_blank"} and of course most of these are for Johann Sebastian Bach or Johann Christian Bach.
 
@@ -22,7 +21,7 @@ In unclear cases such as these, a trick that will help you to search for - or li
 
 Now back to Bach. To find the Johann Bach who was born in 1604 and died in 1673, you can simply search using the GND number 123841690. GND numbers can be retrieved from the websites of either the [German National Library](https://portal.dnb.de/opac.htm?method=showOptions#top){:target="_blank"} or [VIAF](http://viaf.org/){:target="_blank"}. To make this even easier, we hope to release a database of our personal names authority files in the near future (similar to what we did with the database of RISM library sigla.)
 
-If you have any questions or comments, feel free to contact me directly: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info "Opens window for sending email")
+If you have any questions or comments, feel free to contact me directly: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
 
 And now here are all nineteen of the Johann Bachs in RISM, linked using the GND number:
 
@@ -84,4 +83,3 @@ Bach, Johann Valentin (1669-1720)
 Bachofen, Johann Caspar (1695-1755) - also as "Johann Caspar Bach"
 [https://opac.rism.info/metaopac/search?View=rism&author=119477688](https://opac.rism.info/metaopac/search?View=rism&author=119477688)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

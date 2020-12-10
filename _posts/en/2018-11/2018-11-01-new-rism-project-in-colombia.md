@@ -4,13 +4,12 @@ title: New RISM Project in Colombia
 date: 2018-11-01
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Projekt_Colombia_Torres_2018_archive_small_1ac0f059f0.png"
+category: library_collections
+image: "/images/news-old-website/csm_Projekt_Colombia_Torres_2018_archive_small_1ac0f059f0.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-project-in-colombia.html
 email: rf.torres20@uniandes.edu.co
 author: Rondy F. Torres López
 ---
-
 
 _We have received the following announcement from Dr. Rondy F. Torres López (RISM Colombia). English follows:_
 
@@ -24,10 +23,8 @@ Más información: [https://rondytorres.wordpress.com/2018/03/15/la-musica-de-lo
 
 Video sobre el archivo musical: [vimeo.com/220685932/d33d5c8c79](https://vimeo.com/220685932/d33d5c8c79)
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MWTWz2W6pqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 _The hymn "Gloria, Laus" by Valentín Franco﻿_
-
 
 Rondy Torres, Ph.D. in musicology, professor at the Universidad de los Andes (Bogota, Colombia), has begun a new cataloguing project on an unknown archive: the nineteenth-century music from the musical archive of Bogota's Cathedral (RISM siglum: CO-B).
 
@@ -39,4 +36,3 @@ More information: [https://rondytorres.wordpress.com/2018/03/15/la-musica-de-los
 
 Video about the musical archive: [https://vimeo.com/220685932/d33d5c8c79](https://vimeo.com/220685932/d33d5c8c79)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

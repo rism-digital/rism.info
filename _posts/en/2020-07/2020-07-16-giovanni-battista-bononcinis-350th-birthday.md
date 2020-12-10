@@ -4,13 +4,12 @@ title: Giovanni (Battista) Bononcini’s 350th Birthday
 date: 2020-07-16
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Bononcini_350_855abeaace.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Bononcini_350_855abeaace.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/giovanni-battista-bononcinis-350th-birthday.html
 email: ''
 author: ''
 ---
-
 
 Giovanni Bononcini (born 18 July 1670 in Modena - died 9 July 1744 in Vienna) was from a musical family and probably received his first lessons from his father, who died early. Beginning in 1678, he took cello lessons from Giovanni Paolo Colonna. After several stations in Italy, Vienna became his home in 1697, where Bononcini was a member of Emperor Leopold I’s _Hofkapelle_ and was also successful as a composer. He took longer study trips to Venice, Rome, and especially London. For a while he was a compositional rival of George Frideric Handel and worked in the Marlborough family household. After a plagiarism scandal, Bononcini went to Paris in 1733 and spent 1735 in Lisbon. In 1737 he turned once more to the Viennese court and composed a _Te Deum_ for Empress Maria Theresia that is dated 1741, whereupon he received a lifelong pension.
 
@@ -23,11 +22,5 @@ Bononcini’s collaboration with the librettist Silvio Stampiglia was a very pro
 In total, the RISM catalog has 2,400 entries for Giovanni Bononcini, of which he is the [composer in ca. 1,900](https://opac.rism.info/metaopac/perma.do;jsessionid=3213172D11BC04DAE0D26B50E2C612C8.touch02?v=rism&q=-1%3d%22pe20000426%22){:target="_blank"}.
 
 
-
 _Image_: The cantata _Io son lungi alla mia vita_, I-Nc Canate 69@21; [RISM ID no. 850021395](https://opac.rism.info/search?id=850021395&View=rism){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

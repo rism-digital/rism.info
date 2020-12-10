@@ -4,13 +4,12 @@ title: Richard Strauss at 150
 date: 2014-06-11
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Strauss-Specht_d61b739f9e.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Strauss-Specht_d61b739f9e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/richard-strauss-at-150.html
 email: ''
 author: ''
 ---
-
 
 Today marks the 150th birthday of Richard Strauss (1864-1949). The Bavarian town of Garmisch-Partenkirchen, where the composer lived for over 40 years, will begin its celebration with the [Richard Strauss Festival](http://www.richard-strauss-festival.de/rsi/index.php/en/){:target="_blank"}. In numerous other events, the music of Strauss, one of the most performed composers in the world, will be honored.
 
@@ -27,7 +26,6 @@ Strauss also has connections to Frankfurt, where some of his works were premiere
 Below, the first part of Strauss's _Die Frau ohne Schatten_. Follow along with the Juilliard sketchbook! With the Radio Filharmonisch Orkest, Groot Omroepkoor, and Nationaal Kinderkoor, Vladimir Jurowski, conductor.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/675hQxETKC8" frameborder="0" allowfullscreen></iframe>
-
 
 
 Image credit: Sketchbook to _Die Frau ohne Schatten_, Juilliard School (without shelfmark, inside front cover), dedication to Richard Specht.

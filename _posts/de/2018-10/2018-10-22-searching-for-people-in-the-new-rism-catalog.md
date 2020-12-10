@@ -5,12 +5,11 @@ date: 2018-10-22
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png"
+image: "/images/news-old-website/csm_RISM-OPAC_-_Personen_c231e23988.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
 email: ''
 author: ''
 ---
-
 
 Mit der neuen Version des [RISM-Katalogs](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"} können Sie nun auch gezielt nach Personen zu suchen. Auch wenn dies zur Zeit teilweise noch umständlich ist, möchten wir dennoch auf diese Möglichkeit hinweisen. Suchbar sind die Kategorien Name, Geschlecht, Nationalität, Orte und Berufe oder Funktionen und natürlich auch eine Kombination der Suchbegriffe.
 
@@ -58,5 +57,3 @@ Ignace Pleyel
 [https://opac.rism.info/search?id=pe24761&View=rism](https://opac.rism.info/search?id=pe24761&View=rism&Language=en){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

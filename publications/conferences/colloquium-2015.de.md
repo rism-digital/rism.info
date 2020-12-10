@@ -7,10 +7,10 @@ permalink: /publications/conferences/colloquium-2015.html
 
 # RISM-Kolloquium
 
-_Um unsere neuen Büroräume einzuweihen, veranstaltet RISM_ _am 23. und 24. April2015 ein Kolloquium und einen Tag der offenen Tür__._
+_Um unsere neuen Büroräume einzuweihen, veranstaltet RISM_ _am 23. und 24. April2015 ein Kolloquium und einen Tag der offenen Tür._
 
 **RISM-Kolloquium**  
-23. April 2015, 11:00 – 18:00 Uhr  
+23\. April 2015, 11:00 – 18:00 Uhr  
 Programm
 
 **11:00 – 13:00 Uhr: Session 1**

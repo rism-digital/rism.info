@@ -4,15 +4,14 @@ title: Jahresbericht 2019
 date: 2020-03-02
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2019-annual-report.html
 email: ''
 author: ''
 ---
 
-
-Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/de/publikationen/jahresberichte/2019.html) lesen. Hier sind einige Besonderheiten daraus:
+Der Jahresbericht für 2019 wurde von der RISM Zentralredaktion nun veröffentlicht. Sie können den gesamten Bericht [auf der RISM Website](/publications/annual-reports/2019.html) lesen. Hier sind einige Besonderheiten daraus:
 
 **Neuer Vorstand:**
 Präsident: Prof. Dr. Klaus Pietschmann, Mainz
@@ -30,12 +29,12 @@ Schatzmeisterin: Jane Gottlieb, New York
 
 **Update zu den Musikdrucken:** RISM arbeitet mit der [Sächsische Landes- und Universitätsbibliothek (SLUB) in Dresden](https://www.slub-dresden.de/startseite/){:target="_blank"} zusammen, um die oben genannten Beschreibungen der Musikdrucke in RISM zu aktualisieren und verbessern. Insgesamt wurden 2.091 neue Musikdrucke ergänzt, das sind ca. 11.000 Datensätze für die Werke in den Sammeldrucken. Die Überarbeitung der Einträge aus dem B/I-Band zu den Sammeldrucken wird Dank der weiteren Finanzierung durch die VG-Musikedition fortgesetzt. Wir hoffen, dies bis Ende 2020 abzuschließen.
 
-**Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](/self_representation/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](/self_representation/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
+**Update zur Serie C:** IAML hat im Juli 2019 einen [Nachfolger für die Projektgruppe](/new_at_rism/2019/09/23/launch-of-project-group-on-rism-series-c.html){:target="_blank"} Access to Music Archives (AMA) gegründet, um die Serie C zu überarbeiten. Wir arbeiten eng mit Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou zusammen, die auch Mitglieder von [RISM Griechenland](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, um die Erfassung von Musikalien besitzenden Institutionen weltweit zu verbessern.
 
 **Konferenz zur Werkebene:**
-Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/de/publikationen/werkebene-2019.html).
+Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralredaktion vom 9. bis 11. Mai eine Konferenz mit dem Titel "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM." Die Konferenz fand in der Akademie der Wissenschaften und der Literatur in Mainz statt. Das vollständige Programm, Abstracts und einige Aufnahmen zu den Referaten finden Sie [auf der RISM Webseite](/publications/conferences/work-level-2019.html).
 
-**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/de/publikationen/bibliographie.html).
+**Aufsätze, die RISM erwähnen:** Das RISM-Projekt wird immer wieder in Publikationen wie Zeitschriftenaufsätzen und wissenschaftlichen Studien vorgestellt und beschreiben. Bitte beachten Sie die aktuelle [Bibliographie](/publications/bibliography.html).
 
 **Und wie immer** :
 
@@ -43,8 +42,3 @@ Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralr
 - Externe Datenbanken: RISM ist an weiteren Kooperationen auch mit Quellendatenbanken von Editionsinsti­tuten oder Bibliotheks-OPACs interessiert.
 - Open Data und Linked Open Data: Die [RISM Daten](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz wiederverwendet werden. Bibliotheken können somit ihreTitel in den eigenen lokalen Online-Katalog übertragen. Um die Belieferung mit den Daten zu vereinfachen, hat die Zentralredaktion Tools entwickelt, wie z.B. eine SRU-Schnittstelle.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

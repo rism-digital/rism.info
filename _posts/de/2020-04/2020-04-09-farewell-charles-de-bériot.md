@@ -5,12 +5,11 @@ date: 2020-04-09
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Beriot_photo_55eea5347f.jpg"
+image: "/images/news-old-website/csm_Beriot_photo_55eea5347f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/farewell-charles-de-beriot.html
 email: richard.sutcliffe@ehb.be
 author: Richard Sutcliffe
 ---
-
 
 _Der Todestag des belgischen Komponisten und Geigers [Charles de Bériot](https://opac.rism.info/search?View=rism&author=Charles+de+B%C3%A9riot){:target="_blank"} jährt sich zum 150. Mal. Wir bringen Ihnen einen Auszug aus einem Beitrag von Richard Sutcliffe (Koninklijk Conservatorium Brussel) und laden Sie ein, den gesamten Text in seinem [19c belgischen Music Blog](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"} zu lesen._
 
@@ -23,5 +22,3 @@ Im heutigen Blogbeitrag habe ich zusammen mit der Hilfe von [Mary Bardet](https:
 Weiterlesen können Sie hier: "[Farewell Charles de Bériot](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}!"
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2017-11-23
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
+image: "/images/news-old-website/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
 email: ''
 author: ''
 ---
-
 
 Otto Erich Deutsch (1883-1967), dessen Todestag sich heute zum 50. Mal jährt, teilt mit Ludwig von Köchel (1800-1877) und Anthony van Hoboken (1887-1983) das Schicksal, der Nachwelt vor allem durch ein Werkverzeichnis im Gedächtnis zu bleiben. Mit Hoboken verbindet ihn sogar noch mehr: Von 1926 bis 1935 war er Bibliothekar von dessen Musiksammlung.
 
@@ -24,4 +23,3 @@ Bei RISM ist Deutsch natürlich vor allem dank des Schubert-Werkverzeichnisses p
 
 _Abbildung_: Otto Erich Deutsch circa 1928, aus [Programmzeitschrift der RAVAG „Radio Wien“](https://de.wikipedia.org/wiki/Radio_Wien_(1924)) vom 26. März 1928, S. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

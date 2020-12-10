@@ -5,12 +5,11 @@ date: 2018-07-19
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Neumeyer_Katalog_Sbg_Dommusikarchiv_bild_a413b1b122.jpg"
+image: "/images/news-old-website/csm_Neumeyer_Katalog_Sbg_Dommusikarchiv_bild_a413b1b122.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-sources-in-the-salzburg-cathedral-archive-a-sd.html
 email: Eva.Neumayr@archiv.kirchen.net
 author: MMag. Dr. Eva Neumayr
 ---
-
 
 _We have received the following from Eva Neumayr ([RISM Salzburg](http://salzburg.rism.info/index.php?id=82)):_
 
@@ -26,4 +25,3 @@ The editors wish to thank Stephan Hirsch from the RISM Central Office in Frankfu
 
 This catalog is dedicated to our project leader, Univ. Doz. Dr. Ernst Hintermaier, whose comprehensive and fundamental preparatory work we were able to build upon.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

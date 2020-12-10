@@ -26,10 +26,6 @@ Einer näheren Erforschung steht entgegen, dass die Quellen noch im Verborgenen 
 
 Auf der Konferenz werden hochrangige Musikwissenschaftler/Innen und Bibliothekare/Innen über den derzeitigen Stand der Beschreibung von Quellen in ihren Ländern und den Forschungsstand zum Kulturaustausch berichten, und es soll der weitere Fortgang sowie der Austausch der Daten vereinbart werden.
 
-
-
-
-
 # Programm
 
 **Moderation** : Klaus Pietschmann (Johannes Gutenberg-Universität Mainz)  
@@ -68,20 +64,16 @@ Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
 
 Gefördert vom DAAD (Deutscher Akademischer Austauschdienst)aus Mitteln des Auswärtigen Amts (AA) und von Bibliothek International (BII)
 
-
-
-
-
 # RISM auf der GfM-Tagung
+
+{% include image file="/images/news-old-website/csm_Eitner-Lieder_-_Programmheft_-_Deckblatt_1885bd938b.jpg" pos="right" %}
 
 Weitere Angebote des RISM auf dem Kongress der Gesellschaft für Musikforschung:
 
 **Donnerstag, 15. September 2016**
 
 Christoph Willibald Gluck: _Atto d'Orfeo_  
-Konzertante Aufführung in der [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Tickets (kostenlos) bitte per E-Mail vorbestellen: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de "Opens window for sending email")
-
-
+Konzertante Aufführung in der [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Tickets (kostenlos) bitte per E-Mail vorbestellen: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
 
 **Freitag, 16. September 2016**
 

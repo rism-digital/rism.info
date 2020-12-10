@@ -4,13 +4,12 @@ title: Digitalisierung am Nationalarchiv der Richard-Wagner-Stiftung Bayreuth
 date: 2018-07-23
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-wagner-manuscripts-to-be-digitized.html
 email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---
-
 
 _Dieser Artikel erschien zuerst auf der Webseite des__[Richard Wagner Museums Bayreuth](https://www.wagnermuseum.de/2018/05/digitalisierung-am-nationalarchiv-der-richard-wagner-stiftung-bayreuth/){:target="_blank"}und wird hier mit freundlicher Genehmigung veröffentlicht._
 
@@ -26,4 +25,3 @@ Bereits unmittelbar nach Abschluss des Generationenprojekts zur Sanierung, Erwei
 
 _Abbildung_: Notenblatt mit Brief von Richard Wagner. Quelle: Nationalarchiv der Richard-Wagner-Stiftung, Bayreuth.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2014-03-25
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
+image: "/images/news-old-website/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pedro-antonio-avondano.html
 email: ''
 author: ''
 ---
-
 
 This week we will highlight the works of Pedro António Avondano (1714-1782), a Portuguese composer who was born 300 years ago this April.
 
@@ -23,10 +22,6 @@ Today, Avondano's manuscripts are held in places as far apart as Paris, New York
 
 A conference called ["Niccolò Jommelli, Christoph Willibald Gluck and Pedro António Avondano, in the occasion of their 300th anniversary: The circulation of musical repertoires in 18th-century Europe"](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"} will take place in June 2014 in Lisbon, Portugal. The call for papers has been extended to April 5.
 
-
-
-
-
 **Bibliography**
 Manuel Carlos de Brito, _New Grove_ 2nd ed., vol.2
 
@@ -35,5 +30,3 @@ Filipe Mesquita de Oliveira, "Os Minuetes de Lisboa" de Pedro António Avondano(
 Image credit: "Gedaente en ... vant Landt van Portugal" from _Mariner’s Mirror (T'eerste deel vande Spieghel der zeevaerdt, van de navigatie der Westersche zee, innehoudende alle de custen van Vranckrijck, Spaingen ende 't principaelste deel van Engelandt, in diversche zee caerten begrepen)_. Leiden: Christoffel Plantijn, 1584. Via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3A1584_Portugal_Waghenaer.jpg){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

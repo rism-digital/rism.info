@@ -4,18 +4,16 @@ title: Canzonette veneziane
 date: 2018-10-25
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/canzonette-veneziane.html
 email: rma2@cam.ac.uk
 author: Richard Andrewes
 ---
 
-
 _This post originally appeared on the [MusiCB3 Blog](https://musicb3.wordpress.com/2018/07/13/canzonette-veneziane/){:target="_blank"} of Cambridge University (CC-BY):_
 
 Last October the second hand and antiquarian music dealer Travis & Emery circulated their occasional antiquarian music catalogue _Sarum no. 58_. One item caught my eye because in the last year or so I had updated the online records for two collections of Venetian popular songs – i.e. songs in the Venetian dialect.
-
 
 
 |
@@ -35,14 +33,9 @@ Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22
 £500
 
 
-
 ****
 
 |
-
-
-
-
 Both collections I had worked on are in manuscript. One is in the University Library (MS.Add.9324.14) and contains 49 songs, and the other is in the Fitzwilliam Museum (MU.MS.130) and contains a collection of 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. The second of these is extremely unusual in that very, very few songs in the Venetian dialect are ascribed to any composer even to one as unknown as Angelo Colonna (a spelling found on some minuets by the same composer in the same manuscript, and the usual spelling of this surname). However a search of the RISM database of the first line of the first song in the Travis & Emery manuscript, “La mia Ninetta” (as a phrase in inverted commas) revealed a surprising result:
 
 [https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
@@ -58,13 +51,13 @@ This was intriguing enough to warrant acquiring the manuscript.
 
 After it arrived it was given the number [MS.Add.10246](https://opac.rism.info/search?id=1001049539&View=rism&Language=en){:target="_blank"}, was fully catalogued and a fair amount of research done to establish if the music was the same as the British Library manuscript (alas the RISM entry lacks musical incipits so we could not be certain without going down to the British Library and looking at the original).
 
-![A page in the book](http://rism.info/fileadmin/content/news/Canzonette_veneziane_3_bookopen.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen.png)
 
-![A page in the book](http://rism.info/fileadmin/content/news/Canzonette_veneziane_3_bookopen2.png)
+![A page in the book](/resources-old-website/news/Canzonette_veneziane_3_bookopen2.png)
 
 The comparison confirms that every item in our manuscript is also in the British Museum manuscript ([Add.31758](https://opac.rism.info/search?id=1001049542&View=rism&Language=en){:target="_blank"}), and that the music is virtually identical. Our manuscript has a cover title “Canzonette veneziane e Canoni”, and the British Library has a title page “Ariette veneziane e duetti”. Our manuscript has 12 cazonette/ariette (for voice and unfigured bass) and six duetti (for two voices either with or without unfigured bass), followed by two operatic arias in short score (voice and bass) (‘Quando vi sara gente’ and ‘Una piccolo bambinella’), while the British Library’s has the same 12 ariettas followed by 12 duets and songs, the first six duets of which are the same as in Cambridge. These are followed by two versions (short score on two staves for Alto in E major, and full score for Alto and string orchestra in A major) of Cambridge’s first opera aria (“Quando vi sara gente” which is for Tenor and bass in A major).
 
-![Book cover](http://rism.info/fileadmin/content/news/Canzonette_veneziane_2_cover.jpg)
+![Book cover](/resources-old-website/news/Canzonette_veneziane_2_cover.jpg)
 
 None of the ariette or duetti in Add.31758 are ascribed except the last item. The full score of the aria “Quando vi sara gente”, is ascribed “In S. Moise 1763 – Del Sigr. Mattia Vento”.
 
@@ -85,11 +78,8 @@ It turns out to be an aria from a comic opera by Baldassare Galuppi to a text by
 Though Galuppi’s music was popular and spread round Europe fairly widely, Vento’s operas are less likely to have had very much exposure after the first performances. It is therefore reasonable to assume that both the London and Cambridge copies of these collections date from soon after 1763. There is nothing in either manuscript (paper quality, watermark or copyist hand) that strongly suggests a later date.
 
 
-
 Richard Andrewes
 
 _\*Note from RISM: This has been clarified in the RISM records._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

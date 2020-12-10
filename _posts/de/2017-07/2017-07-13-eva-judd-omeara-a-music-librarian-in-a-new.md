@@ -5,14 +5,13 @@ date: 2017-07-13
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_EvaO_Meara_afe14a654f.jpg"
+image: "/images/news-old-website/csm_EvaO_Meara_afe14a654f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/eva-judd-omeara-a-music-librarian-in-a-new-profession.html
 email: richard.boursy@yale.edu
 author: Richard Boursy
 ---
 
-
-_Unsere Reihe RISM A-Z erreicht heute den Buchstaben O und führt uns zu Eva Judd O‘Meara. O‘Meara ist die erste Musikbibliothekarin, die wir in unserer Reihe vorstellen. [Richard Boursy](mailto:richard.boursy@yale.edu "Öffnet ein Fenster zum Versenden der E-Mail"), Archivar an der Gilmore Music Library (Yale University), berichtet uns vom Leben und Wirken einer Frau, die bemerkenswert oft mit dem Attribut „zum ersten Mal“ verbunden ist: Sie war erste [Musikbibliothekarin an der Yale University](http://web.library.yale.edu/music){:target="_blank"}, eine der Gründerinnen der [MLA](http://www.musiclibraryassoc.org/){:target="_blank"} und erste Herausgeberin der Zeitschrift [Notes](http://www.musiclibraryassoc.org/?page=Notes){:target="_blank"}._
+_Unsere Reihe RISM A-Z erreicht heute den Buchstaben O und führt uns zu Eva Judd O‘Meara. O‘Meara ist die erste Musikbibliothekarin, die wir in unserer Reihe vorstellen. [Richard Boursy](mailto:richard.boursy@yale.edu), Archivar an der Gilmore Music Library (Yale University), berichtet uns vom Leben und Wirken einer Frau, die bemerkenswert oft mit dem Attribut „zum ersten Mal“ verbunden ist: Sie war erste [Musikbibliothekarin an der Yale University](http://web.library.yale.edu/music){:target="_blank"}, eine der Gründerinnen der [MLA](http://www.musiclibraryassoc.org/){:target="_blank"} und erste Herausgeberin der Zeitschrift [Notes](http://www.musiclibraryassoc.org/?page=Notes){:target="_blank"}._
 
 Eva Judd O’Meara (1884-1979) nahm nicht den gewöhnlichen Weg einer Musikbibliothekarin. Sie hatte keine musikalische Ausbildung, hatte keinen College-Abschluss und wurde eher zufällig Musikbibliothekarin. Allerdings war sie nicht einfach zur rechten Zeit am rechten Ort: Ihre Geistesschärfe, unermüdliche Arbeit und außergewöhnlichen organisatorischen Fähigkeiten ermöglichten ihr, eine der größten Musikbibliotheken aufzubauen und zu einer zentralen Figur in einem neuen Beruf zu werden.
 
@@ -35,5 +34,3 @@ Ungeachtet des Fehlens einer formalen Ausbildung erntete O‘Meara Respekt und A
 _Fotografie von O’Meara mit freundlicher Genehmigung derIrving S. Gilmore Music Library, Yale University_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

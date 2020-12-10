@@ -4,13 +4,12 @@ title: RISM bei VIAF
 date: 2019-01-31
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-viaf.html
 email: ''
 author: ''
 ---
-
 
 Seit Mitte letzten Jahres liefert RISM die Personen-Normdaten an [VIAF](http://viaf.org/){:target="_blank"}. VIAF (Virtual International Authority File – virtuelle internationale Normdatei) ist ein Gemeinschaftsprojekt mehrerer Nationalbibliotheken und Bibliotheksverbünde und wird durch das Online Computer Library Center [(OCLC](https://www.oclc.org/){:target="_blank"}) betrieben.
 
@@ -23,5 +22,3 @@ Für die beteiligten Bibliotheken und Projekte bieten sich viele Vorteile: Über
 Konkret erleichtert dies beispielsweise den Datenaustausch; langfristig ergeben sich viele spannende Möglichkeiten der Zusammenarbeit mit anderen Projekten.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

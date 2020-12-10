@@ -4,13 +4,12 @@ title: Handschrift mit jüdischer liturgischer Musik (1832) katalogisiert und vo
 date: 2015-11-12
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Sulzer_Bericht_Voss_c491e54966.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Sulzer_Bericht_Voss_c491e54966.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
 email: steffen.voss@bsb-muenchen.de
 author: Steffen Voss
 ---
-
 
 _Der folgende Beitrag stammt von Steffen Voss ([RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}):_
 
@@ -25,5 +24,3 @@ Parallel zum Ausstellungsbeginn fand im Lesesaal der Musikabteilung ein Werkstat
 Es wurde bei den begleitenden Gesprächen noch einmal auf die Bedeutung der Katalogisierung der Handschrift durch RISM hingewiesen und der Wunsch geäußert, dass auch andere Sammelhandschriften mit überlieferten Synagogengesängen des 19. Jahrhunderts von den zuständigen RISM-Ländergruppen erfasst würden.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

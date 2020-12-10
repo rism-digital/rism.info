@@ -12,10 +12,10 @@ Die RISM Zentralredaktion wird getragen von dem Verein „Internationales Quelle
 Mitglieder des Vereins:
 
 * Ehrenpräsident: Dr. Harald Heckmann, Ruppertshain (Deutschland), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Deutschland)
-* Vorstand<br>
-Präsident: Prof. Dr. Klaus Pietschmann, Mainz (Deutschland)<br>
-Vizepräsidentin:Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Österreich)<br>
-Sekretär: Dr.Laurent Pugin, Bern (Schweiz)<br>
+* Vorstand\
+Präsident: Prof. Dr. Klaus Pietschmann, Mainz (Deutschland)\
+Vizepräsidentin: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Österreich)\
+Sekretär: PD Dr. Laurent Pugin, Bern (Schweiz)\
 Schatzmeisterin: Jane Gottlieb, New York (USA)
 * kooptierte Vorstandsmitglieder: Prof. Dr. Ulrich Konrad, Würzburg (Deutschland); Prof. Dr. John H. Roberts, Berkeley (USA)
 * Mitglieder der [Commission Mixte](/organization/international-partners.html):

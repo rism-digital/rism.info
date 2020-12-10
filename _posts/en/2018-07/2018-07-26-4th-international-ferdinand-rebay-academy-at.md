@@ -5,12 +5,11 @@ date: 2018-07-26
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
+image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
-
 
 _The director of the Music Archive of Heiligenkreuz Abbey, P. Roman Nägele OCist, would like to call our attention to this interesting event in Heiligenkreuz Abbey. A detailed post about the life of the composer_ _Ferdinand Rebay will follow next week._
 
@@ -31,4 +30,3 @@ At the close of the 4th International Ferdinand Rebay Music Academy, a public co
 
 For more information, please see [www.stift-heiligenkreuz-sammlungen.at](http://www.stift-heiligenkreuz-sammlungen.at){:target="_blank"} or contact [p.roman@stift-heiligenkreuz.at](mailto:p.roman@stift-heiligenkreuz.at).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

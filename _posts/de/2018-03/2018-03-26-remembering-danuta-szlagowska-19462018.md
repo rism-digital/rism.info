@@ -5,12 +5,11 @@ date: 2018-03-26
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
+image: "/images/news-old-website/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/remembering-danuta-szlagowska-1946-2018.html
 email: ''
 author: ''
 ---
-
 
 Mit großem Bedauern haben wir vom Tode unserer lieben Kollegin prof. dr hab. Danuta Szlagwoska erfahren, die am 13. März 2018 von uns gegangen ist.
 
@@ -33,7 +32,3 @@ Sie war Mitglied in der Sektion Musikwissenschaft der polnischen Komponistengewe
 Für ihre jahrzehntelangen Verdienste als Pädagogin und Musikwissenschaftlerin erhielt Danuta Szlagowska Preise der Danziger Musikakademie und der Chopin-Musikuniversität, eine Medaille der polnischen Bildungskommission, Preise der Stadt Danzig sowie das Goldene Verdienstkreuz der Republik Polen. 2016 erhielt sie den Professorentitel ehrenhalber von der Abteilung für Dirigieren, Komposition und Musiktheorie der Fryderyk-Chopin-Musikuniversität Warschau.
 
 Die Zentralredaktion trauert mit den Angehörigen, den Kolleginnen und Kollegen. Wir werden prof. Danuta Szlagowska immer in guter Erinnerung behalten. Wir vermissen eine aktive, fachlich breit aufgestellte Kollegin, die uns allen durch ihr kontinuierliches wissenschaftliches Arbeiten ein großes Vorbild bleibt.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

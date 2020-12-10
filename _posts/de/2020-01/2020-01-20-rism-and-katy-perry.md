@@ -4,13 +4,12 @@ title: RISM und Katy Perry
 date: 2020-01-20
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
+category: in_the_news
+image: "/images/news-old-website/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-katy-perry.html
 email: ''
 author: ''
 ---
-
 
 Fünfzehn Musikwissenschaftler aus Institutionen auf der ganzen Welt haben sich zusammengetan, um zu argumentieren, dass die Sängerin und Songwriterin Katy Perry zu Unrecht wegen Urheberrechtsverletzung verurteilt wurde. Was sind ihre Beweise? Musik, die u. a. in der RISM-Datenbank gefunden wurde.
 
@@ -31,9 +30,6 @@ Unten können Sie sich die Lieder von Katy Perry und Flame anhören. Sie sind au
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCcW-guAs_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

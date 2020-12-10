@@ -5,12 +5,11 @@ date: 2012-11-08
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_A.I_179__1__17_Seite09-Ausschnitt_6fb539647c.jpg"
+image: "/images/news-old-website/csm_A.I_179__1__17_Seite09-Ausschnitt_6fb539647c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html
 email: helmut.lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
 
 **Drei verschollen geglaubte Musikautographen von Friedrich dem Großen wurden in den Kunstsammlungen der Veste Coburg aufgefunden. Die „Coburger Sonaten“, Kompositionen für Flöte und Cembalo, werden am 15. November auf der Veste Coburg vorgestellt.**
 

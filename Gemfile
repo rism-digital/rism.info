@@ -19,4 +19,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
+  gem "jekyll-redirect-from"
+  gem "rism-md", git: 'https://github.com/rism-digital/rism-md'
 end

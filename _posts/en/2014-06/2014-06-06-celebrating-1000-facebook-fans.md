@@ -4,13 +4,12 @@ title: Celebrating 1,000 Facebook Fans!
 date: 2014-06-06
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Luftballons_c7ad474b66.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Luftballons_c7ad474b66.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/celebrating-1000-facebook-fans.html
 email: ''
 author: ''
 ---
-
 
 Today RISM reached a new milestone: 1,000 Facebook fans!
 
@@ -28,7 +27,6 @@ Poland **Dziękuję!**
 United Kingdom **Cheers!**
 Netherlands **Bedankt!**
 Brazil **Valeu!**
-
 
 
 _As always, a Facebook account is not required to view the RISM Facebook page._

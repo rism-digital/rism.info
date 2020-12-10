@@ -4,13 +4,12 @@ title: New Insight on Maurice Greene's Italian Vocal Music
 date: 2017-10-09
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Greenes_Italian_2ae50396f0.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Greenes_Italian_2ae50396f0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
 email: ''
 author: ''
 ---
-
 
 A recent article by Michael Talbot has shed some light on the "Italian" vocal music of Maurice Greene (1696-1755) and has uncovered two previously overlooked works. Moreover, Talbot identified a handful of pieces that were previously anonymous in RISM.
 
@@ -24,9 +23,6 @@ Beyond these revelations, Tablot has identified the literary sources for much of
 
 The Greene records in RISM have been updated to reflect this new information. We would like to thank Professor Talbot for sharing his research with us.
 
-
 _Image_ : Frontispiece and title page to Di canzonette e di cantate libri due by Paolo Rolli (London, 1727), from the [Internet Archive](https://archive.org/details/bub_gb_pICeIHxNG-YC){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

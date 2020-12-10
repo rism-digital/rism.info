@@ -4,13 +4,12 @@ title: Aktuelle Projekte zu Mozart und Clementi
 date: 2018-09-20
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Mozart_Clementi_Bibliographie_7d553a8de4.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Mozart_Clementi_Bibliographie_7d553a8de4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/current-mozart-and-clementi-projects.html
 email: ''
 author: ''
 ---
-
 
 Für RISM ist der jährliche IAML-Kongress der Höhepunkt jedes Sommers. Wie Sie wissen, fand das Treffen dieses Jahr in Leipzig statt (unsere Eindrücke zum Kongress können Sie [hier](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1691&cHash=91961d9568789b15639bf9fae2afe12c){:target="_blank"} lesen). [Eine Sitzung](http://sched.co/FOsb){:target="_blank"} der [IAML Bibliography Section](https://www.iaml.info/bibliography){:target="_blank"} beschäftigte sich mit drei aktuelle bibliographischen Pojekten, die auch für die RISM-Nutzer interessant sein könnten. Ein vollständiger Bericht zu der Sitzung, auf dem dieser Beitrag teilweise basiert, wird bald auf der Seite der Bibliography Section erscheinen.
 
@@ -26,5 +25,3 @@ Der Beitrag von Luca Sala (Université de Montréal) gab uns einen Einblick in d
 _Abbildung_: Muzio Clementi, _Sonate a quarte mains pour le Piano Forte_, in der Abschrift von C. F. Kindermann, 1801. Sing-Akademie zu Berlin, Notenarchiv (D-Bsa) SA 4140. [RISM ID no. 469414000](https://opac.rism.info/search?id=469414000&View=rism){:target="_blank"}. Staatsbibliothek zu Berlin - PK. [http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000) . [CC 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/de/){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

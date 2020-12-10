@@ -4,13 +4,12 @@ title: The Many Lives of Baron Friedrich von Boyneburgk
 date: 2019-08-29
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Boyneburgk_Rettinghaus_0ca3a29413.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Boyneburgk_Rettinghaus_0ca3a29413.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-many-lives-of-baron-friedrich-von-boyneburgk.html
 email: rettinghaus@bach-leipzig.de
 author: Klaus Rettinghaus
 ---
-
 
 _We were very pleased to receive this post from Klaus Rettinghaus (Leipzig). The RISM data have since been revised. The changes will be visible after the next update of the RISM catalog._
 
@@ -20,7 +19,7 @@ Let us consider Friedrich von Boyneburgk, who in the 19th century was regarded a
 
 Boyneburgk became famous for his variations and four-handed piano arrangements of operas. His printed works reveal a variety of names that is pleasingly small in number. Only rarely does his first name appear—if at all, then in the French form "Charles," and then occasionally his last name is adapted to "Boynebourgk." Here and there the aristocratic title "Baron" is also given. In the handwritten sources listed in the RISM catalog, the situation is even less complicated, so that there ought to be no problems with the name.
 
-Nevertheless, four different entries for Boyneburgk have accumulated in the RISM catalog ([pe30000457](https://opac.rism.info/search?id=pe30000457&Language=en){:target="_blank"}, [pe30000458](https://opac.rism.info/search?id=pe30000458&Language=en){:target="_blank"}, [pe30019201](https://opac.rism.info/search?id=pe30019201&Language=en){:target="_blank"} and [pe30091347](https://opac.rism.info/search?id=pe30091347&Language=en){:target="_blank"}). In the [German National Library's authority file (DNB)](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html){:target="_blank"}, there are even five. (Two records are based on cataloged materials in the [Herzog August Bibliothek](http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=151428549){:target="_blank"} and the [Staatsbibliothek zu Berlin](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279571968){:target="_blank"}). Since[RISM contributes its authority files for personal names](/self_representation/2019/01/31/rism-in-viaf.html){:target="_blank"} to [VIAF](http://viaf.org/){:target="_blank"}, as do other institutions, there are no less than eleven different records there for Friedrich von Boyneburgk.
+Nevertheless, four different entries for Boyneburgk have accumulated in the RISM catalog ([pe30000457](https://opac.rism.info/search?id=pe30000457&Language=en){:target="_blank"}, [pe30000458](https://opac.rism.info/search?id=pe30000458&Language=en){:target="_blank"}, [pe30019201](https://opac.rism.info/search?id=pe30019201&Language=en){:target="_blank"} and [pe30091347](https://opac.rism.info/search?id=pe30091347&Language=en){:target="_blank"}). In the [German National Library's authority file (DNB)](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html){:target="_blank"}, there are even five. (Two records are based on cataloged materials in the [Herzog August Bibliothek](http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=151428549){:target="_blank"} and the [Staatsbibliothek zu Berlin](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279571968){:target="_blank"}). Since[RISM contributes its authority files for personal names](/new_at_rism/2019/01/31/rism-in-viaf.html){:target="_blank"} to [VIAF](http://viaf.org/){:target="_blank"}, as do other institutions, there are no less than eleven different records there for Friedrich von Boyneburgk.
 
 What can be done about this mess? One thing you can do is point out the fragmentation to the data providers. In the DNB catalog, you can report an error on the right-hand side of the page for the name. (If you go this route, you will rarely receive a response.) However, since there are several duplicates in our case, a more targeted approach is recommended. For more than ten years, Wikipedia has been [collecting errors](https://de.wikipedia.org/wiki/Wikipedia:GND/Fehlermeldung){:target="_blank"} in GND personal name authorities and reporting them to the GND editors. This partnership works very well; the process is visible and traceable in a public forum, and the GND editorial team also documents the changes and gives a response. To get the process going, I first created a [new entry in Wikidata](https://www.wikidata.org/wiki/Q66300899){:target="_blank"} to collect all the facts, and then wrote a [short article on Friedrich von Boyneburgk](https://de.wikipedia.org/wiki/Friedrich_von_Boyneburgk){:target="_blank"}. Finally, I [reported the error](https://de.wikipedia.org/wiki/Wikipedia:GND/Fehlermeldung/August_2019){:target="_blank"}. Now we just have to sit back and wait, because it can easily take a year and a half until the record is corrected in the GND.
 
@@ -36,5 +35,3 @@ Title page from Cherubini's _Wasserträger_, arranged by Boyneburgk ([CC 2028 I,
 (not in RISM) [GB-Lbl E.824.](http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01018681487){:target="_blank"} _Shakespeare's Lieder, mit Begleitung des Piano-Forté ... Erste (zweite) Lieferung 16tes. Werk_, Offenbach a/M , J. André, ca. 1830.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

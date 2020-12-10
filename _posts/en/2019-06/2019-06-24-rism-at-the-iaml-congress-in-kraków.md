@@ -5,12 +5,11 @@ date: 2019-06-24
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png"
+image: "/images/news-old-website/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-krakow.html
 email: ''
 author: ''
 ---
-
 
 We're just three weeks away from the annual congress of the [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/congresses/2019-krakow){:target="_blank"} (IAML) from 14 to 19 July 2019. This year we will be meeting in charming and historic Kraków, Poland at Jagiellonian University.
 
@@ -20,8 +19,3 @@ Also on the program are two RISM sessions, where we will hear about the latest R
 
 [Please see our Krakow Congress page](/publications/iaml-congresses/2019.html) for more details about the workshops and the other RISM activities on the program. Slides will be posted there after the congress.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

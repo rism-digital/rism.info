@@ -4,13 +4,12 @@ title: Jean-Baptiste Lully @ RISM
 date: 2012-03-21
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_JBLully-UBFfm-Ganzfigurbildnis_ad036c1d0e.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_JBLully-UBFfm-Ganzfigurbildnis_ad036c1d0e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jean-baptiste-lully-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Jean-Baptiste Lully was born Giovanni Battista Lulli on 28 November 1632 in Florence but spent most of his life in the service of King Louis XIV. He became a French citizen in 1661. Lully began his career at the French court as a dancer until his compositional breakthrough in 1657 with the _Ballet de l'amour malade_. His fruitful collaboration with Molière began in 1664. For the court and large court festivals at Versailles, Molière and Lully created _comédie-ballets_, which became more and more musically sophisticated, until 1671. Lully had at times 54 instrumentalists and 16 singers at his disposal. Later, he bought the royal opera privilege from the Académie royale de musique and Lully’s most successful years followed. Each year until 1686 saw the performance of a new _tragédie en musique_. Lully’s tragic end is well known: He injured himself during a performance of his Te Deum by hitting his foot withhis directing staff, dyingin Paris from the subsequent infection. March 22 is the 325th anniversary of his death.
 

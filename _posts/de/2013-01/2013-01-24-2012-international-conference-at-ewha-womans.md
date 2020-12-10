@@ -5,12 +5,11 @@ date: 2013-01-24
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_poster_01_e385b020e8.jpg"
+image: "/images/news-old-website/csm_poster_01_e385b020e8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east-1.html
 email: ''
 author: Dr. Eun-Ha Kim
 ---
-
 
 Eine vom Ewha Musikforschungsinstitut organisierte internationale Konferenz fand vom 19. – 20. Oktober 2012 statt. Das Thema der Konferenz war \<Die Entdeckung der Modernität in Ostasien: Der Westen, die Tradition und jenseits davon\>. Die Konferenz bestand aus 5 Teilen:
 

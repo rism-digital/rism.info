@@ -5,12 +5,11 @@ date: 2018-06-28
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_SachrangMuellerPeterSammlung_596d107067.jpg"
+image: "/images/news-old-website/csm_SachrangMuellerPeterSammlung_596d107067.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muellner-peter-symposium-in-sachrang-bavaria.html
 email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---
-
 
 _Folgenden Beitrag erhielten wir von__Steffen Voss ([RISM Deutschland](http://de.rism.info/de/home/){:target="_blank"}):_
 
@@ -23,5 +22,3 @@ Am Samstag, d. 30. 6. wird im Sachranger Schulhaus, in dem sich auch das „Mül
 _Abbildung_: Titelblatt, von Müllner-Peter's Hand, einer Messe von Georg Augustin Holler (1744-1814). Bayerische Staatsbibliothek (D-Mbs Mus.ms. 7364). RISM ID no. [450057417](https://opac.rism.info/search?id=450057417&Language=de){:target="_blank"}. Siehe[_bavarikon_](https://www.bavarikon.de/object/BSB-MUS-00000BSB00108832){:target="_blank"}, CC BY-NC-SA 4.0.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2016-02-19
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
+image: "/images/news-old-website/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
 email: ''
 author: ''
 ---
-
 
 Vom 5. bis 6. Februar 2016 besuchte unser RISM-Mitarbeiter Guido Kraus an der [Warschauer Universitätsbibliothek](http://www.buw.uw.edu.pl/en/){:target="_blank"} die internationale musikwissenschaftliche Konferenz zum Projekt „[Das Musikrepertoire der Gesellschaft Jesu in der Polnisch-Litauischen Adelsrepublik (1565-1773). Quellen - Edieren - Katalogisieren](http://fontesmusicae.pl/conferences/our-conference-on-5th-6th-february-already/){:target="_blank"}“. Veranstalter war das [Musikwissenschaftliche Institut](http://www.imuz.uw.edu.pl/index.php/en/){:target="_blank"} der Universität Warschau. Projektleiter ist dr hab. Tomasz Jeż.
 
@@ -26,4 +25,3 @@ Das Projekt wird vom polnischen Wissenschaftsministerium im Rahmen des nationale
 
 _Abbildung:_Canisius in Wien, Ars Jesuitica (gemeinfrei).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

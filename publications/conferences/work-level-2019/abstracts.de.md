@@ -68,9 +68,7 @@ Although one should approach the concept of a "work" in the field of music criti
 Normdaten für musikalische Werke erlauben, Zusammengehörendes zu identifizieren und zusammenzuführen und tragen darüber hinaus in ihren der Disambiguierung dienenden Kontextinformationen Wissen mit sich, das vielfältig nachgenutzt werden kann. Das Normdatensätzen zu musikalischen Werken der GND zu Grunde liegende Modell (Library Reference Model der IFLA (IFLA LRM)) bietet dabei verschiedenen Ausprägungsstadien eines Werkes Raum, und die Möglichkeit, sie miteinander zu verbinden. Das Konzept des IFLA LRM und seine Anwendung in der GND als auch exemplarische Nachnutzungsszenarien sollen in der Präsentation vorgestellt werden (Katrin Bicher).
 
 
-
 Dieser eher allgemeinen Strukturen gewidmete Teil der Präsentation wird an spezifischen Fragen, die die Verknüpfung von in RISM erfassten Quellen mit anderen Ausprägungen desselben Werkes über Werknormdaten aufwirft, konkretisiert (Andrea Hartmann): Vorgestellt werden Werknormdatensätze zu Opern, Ausschnitten aus Opern, Bearbeitungen und Übersetzungen. An Beispielen wird die Vorgehensweise in der GND vorgestellt. Diskutiert werden soll, wie die Werknormdatensätze der GND für die RISM-Datenbank übernommen werden, welche Erweiterungen sinnvoll sein können und welchen Mehrwert dies für die RISM-Datenbank bedeutet.
-
 
 
 Schließlich (Sylvie Reinelt) soll es um das konkrete Mapping der Daten gehen: welche Daten werden aus der GND in welche Felder in RISM übertragen und welche Daten werden nicht übernommen. Wo gibt es Probleme in der Umsetzung?

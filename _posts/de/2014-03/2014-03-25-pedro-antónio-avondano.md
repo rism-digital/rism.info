@@ -5,12 +5,11 @@ date: 2014-03-25
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
+image: "/images/news-old-website/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pedro-antonio-avondano.html
 email: ''
 author: ''
 ---
-
 
 Diese Woche möchten wir die Werke von Pedro António Avondano (1714-1782), einem portugiesischen Komponisten, der im April vor 300 Jahren geboren wurde, hervorheben.
 
@@ -24,12 +23,7 @@ Heute werden Avondanos Handschriften an weit auseinanderliegenden Orten, wie Par
 [Link zur Karte](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1XaHwakNAaV3hAenyvznzDbrb9p8audBCUHXa1NU&viz=MAP&h=false&lat=40.699139457097&lng=53.89859691989818&t=1&z=3&l=col0&y=2&tmplt=2&hml=ONE_COL_LAT_LNG){:target="_blank"}
 
 
-
 Eine Konferenz aus Anlass der 300-jährigen Jubiläen zu "[Niccolò Jommelli, Christoph Willibald Gluck und Pedro António Avondano: die Verbreitung des musikalischen Repertoires im Europa des 18. Jahrhunderts](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"}" findet im Juni 2014 in Lissabon (Portugal) statt.
-
-
-
-
 
 **Literatur**
 Manuel Carlos de Brito, _New Grove_ 2nd ed., Bd.2

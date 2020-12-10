@@ -4,13 +4,12 @@ title: Jean Sibelius at 150
 date: 2015-12-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_sibelius_7fa9d878af.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_sibelius_7fa9d878af.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jean-sibelius-at-150.html
 email: ''
 author: ''
 ---
-
 
 _"We can say that Jean Sibelius is one of the most brilliant tone poets of the present time."_
 Erik Furuhjelm, 1916
@@ -35,13 +34,6 @@ Listen to this recording performed by the Sinfonia Lahti and conducted by Osmo V
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zaVTsGZ67IM" frameborder="0" allowfullscreen></iframe>
 
 
-
 Image: Santeri Levas, Jean Sibelius, 1940-1945, Järvenpää. From the Finnish Museum of Photography, via [Flickr](https://www.flickr.com/photos/valokuvataiteenmuseo/11064165894/in/album-72157638075319113/){:target="_blank"}.
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

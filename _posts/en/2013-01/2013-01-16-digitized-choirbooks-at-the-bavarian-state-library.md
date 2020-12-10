@@ -4,13 +4,12 @@ title: Digitized Choirbooks at the Bavarian State Library
 date: 2013-01-16
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_chorbuch_2_8694b2d9eb.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_chorbuch_2_8694b2d9eb.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-choirbooks-at-the-bavarian-state-library.html
 email: contact@rism.info
 author: Veronika Giglberger, Bernhard Lutz
 ---
-
 
 The Bayerische Staatsbibliothek (BSB; Bavarian State Library) is currently digitizing its [collection of 165 choirbooks](http://daten.digitale-sammlungen.de/~db/ausgaben/uni_ausgabe.html?projekt=1257941718&recherche=ja&ordnung=sig){:target="_blank"} containing polyphonic music from the sixteenth and seventeenth centuries, most of which are large and lavishly decorated. Begun in December 2012 and funded by the German Research Foundation (DFG) over the course of three years, this project aims to catalog, digitize, and provide online access to these manuscripts, which are of worldwide importance.
 

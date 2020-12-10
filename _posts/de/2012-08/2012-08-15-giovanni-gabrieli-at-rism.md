@@ -4,13 +4,12 @@ title: Giovanni Gabrieli @ RISM
 date: 2012-08-15
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/giovanni-gabrieli-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Am 12. August jährt sich der Todestag von Giovanni Gabrieli (1554 ca. - 1612) zum 400. Mal. Seine Musik repräsentiert den Höhepunkt der venezianischen Schule. Gemeinsam mit Claudio Monteverdi steht er in der italienischen Musik für den Übergang von der Renaissance hin zum Barock. Schon früh machte er in seinen Kompositionen vom Basso Continuo Gebrauch und begründete mit seinen Kanzonen eine neue Epoche.
 

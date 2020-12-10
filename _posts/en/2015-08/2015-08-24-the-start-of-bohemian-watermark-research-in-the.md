@@ -4,16 +4,14 @@ title: The Start of Bohemian Watermark Research in the RISM Working Group in Pra
 date: 2015-08-24
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Watermark_Research_4f16332722.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Watermark_Research_4f16332722.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-
 _This report has come to us from Eliška Šedivá, RISM Czech Republic:_
-
 
 
 A year ago we started to develop a proper and systematic method for researching watermarks as an important indication of the provenance and time determination of musical sources. Furthermore, we believe that correct watermark description and identification can be very useful not only for individual scholars in concrete research, but also for us during the cataloging and evaluation of music collections. This way we can find lots of connections between particular documents in one music collection or between different collections in our country. Thanks to the complete works by František Zuman, who dealt with the history of Bohemian paper mills very intensively (see Zuman\* in the RISM bibliographic catalog), we can identify and locate the watermarks from our sources.
@@ -30,8 +28,3 @@ Simultaneously we are drawing up a [Bohemian paper makers vocabulary](http://www
 
 Photo: Watermark of a shield (crowned) with crosier and patriarchal cross (crossed), above mitre] | CP (no. 1) (RISM ID no. [551001058](https://opac.rism.info/search?id=551001058){:target="_blank"})
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

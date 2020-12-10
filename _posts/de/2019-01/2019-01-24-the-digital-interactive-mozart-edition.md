@@ -5,12 +5,11 @@ date: 2019-01-24
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
+image: "/images/news-old-website/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-digital-interactive-mozart-edition.html
 email: ''
 author: ''
 ---
-
 
 Anlässlich des 263. Geburtstags von [Wolfgang Amadeus Mozart](https://opac.rism.info/search?View=rism&author=Mozart+Wolfgang+Amadeus&Language=en){:target="_blank"} am 27. Januar weisen wir auf die [Digitale Mozart-Edition](https://dme.mozarteum.at){:target="_blank"} (DME), ein Gemeinschaftsprojekt der Stiftung Mozarteum Salzburg und des Packard Humanities Institute in Los Altos (CA), und die Veröffentlichung der Digital-Interaktiven Mozart-Edition hin. Das großangelegte Projekt beabsichtigt das gesamte Schaffen von Wolfgang Amadé Mozart in digitaler Form kostenfrei anzubieten.
 
@@ -22,4 +21,3 @@ Das Webangebot steht auf englisch und deutsch zur Verfügung. Wir sind gespannt 
 
 _Abbildung_: [_Ave verum corpus_](https://dme.mozarteum.at/movi){:target="_blank"} für gemischten Chor, Orchester und Orgel, KV 618
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

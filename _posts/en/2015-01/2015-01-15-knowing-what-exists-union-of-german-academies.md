@@ -4,16 +4,14 @@ title: 'Knowing what exists: Union of German Academies renews support for RISM G
 date: 2015-01-15
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Geck_Knowing_4227350b19.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Geck_Knowing_4227350b19.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/knowing-what-exists-union-of-german-academies-renews-support-for-rism-germany.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
 
-
 _This article is by our [RISM Germany](http://de.rism.info/de/home.html){:target="_blank"} colleague Karl Wilhelm Geck and has been republished from [BIS: Das Magazin der Bibliotheken in Sachsen](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-155850){:target="_blank"} 7:3 (2014), 179 ([CC-BY SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en){:target="_blank"})_
-
 
 
 Where the documentation of music manuscripts is concerned, the benchmark is the online union catalog [http://opac.rism.info](http://opac.rism.info/){:target="_blank"}. Since its release in 2010, it has been the global showcase for RISM, the Répertoire International des Sources Musicales (International Repertory of Musical Sources). The project is dedicated to cataloging the historical musical sources in the 34 countries in which it is currently active. The catalog records are sent to the RISM Central Office in Frankfurt am Main, which edits and publishes them (see [BIS 3 [2010]](http://www.qucosa.de/recherche/frontdoor/?tx_slubopus4frontend%5Bid%5D=6128){:target="_blank"}, 180–182).
@@ -26,4 +24,3 @@ In conclusion, let's point out the mission of RISM. RISM wants to make a vital c
 
 _Photo caption: The music to Vivaldi's Violin Concerto RV 66 ([RISM ID no.212001392](https://opac.rism.info/search?id=212001392&db=251&View=rism){:target="_blank"}) can be recognized by the movement's “Adagio” heading._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

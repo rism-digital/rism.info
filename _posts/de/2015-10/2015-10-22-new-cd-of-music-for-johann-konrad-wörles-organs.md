@@ -4,13 +4,12 @@ title: 'Neue CD: Die Orgel von Johann Konrad Wörle'
 date: 2015-10-22
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
-
 
 _Diese Ankündigung sandte uns Hildegard Herrmann-Schneider von RISM Landesleitung Tirol-Südtirol & OFM Austria:_
 
@@ -29,8 +28,3 @@ Your browser does not support the audio element.
 
 _Abbildung_: Gaetano Franzaroli, Arpeggio, g-Moll (aus D-MÜs SANT Hs 1540, [RISM ID no. 451013954](http://rism.info/http:// "external-link-new-window"))
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

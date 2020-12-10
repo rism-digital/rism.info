@@ -4,23 +4,18 @@ title: Rückblick auf 2014
 date: 2015-01-08
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_2015_c5ba7a17dc.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2014.html
 email: ''
 author: ''
 ---
 
-
 Bevor wir weiter ins Jahr 2015 vorrücken, lassen Sie uns einen Blick zurück auf 2014 werfen und Anteil an einige Geschichten des letzten Jahres nehmen.
 
 Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren Websitestatistiken):
 
-1. [Neue Version des RISM Online-Katalogs](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
-
-
-
-
+1. [Neue Version des RISM Online-Katalogs](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 1.
 
@@ -52,45 +47,36 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 8.
 
-[Coordinating Committee neu gewählt](/self_representation/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
+[Coordinating Committee neu gewählt](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
 
 9.
 
-[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
+[Vivaldi Embedded – Violinkonzert von Brescianello entpuppt sich als Pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html){:target="_blank"}
 
 Diese Liste hebt auch die Arbeit von unseren Kollegen in verschiedenen Ländern hervor: Belgien, Deutschland, Irland, Portugal und das Vereinigte Königreich
 
 Die beliebtesten Links auf unserer Facebook-Seite waren:
 
 
-
 1. ["Frère Jacques" a été composé par Jean Philippe Rameau ! (Radio France)](http://www.francemusique.fr/actu-musicale/frere-jacques-ete-compose-par-jean-philippe-rameau-49327){:target="_blank"}: Die Entdeckung der Musikwissenschftlerin Sylvie Bouissou, dass der berühmte Kanon "Frère Jacques" von Jean-Philippe Rameau stammt
 
 
-
 2. [Long-lost original score of Mozart masterpiece found in Budapest (CTV News)](http://www.ctvnews.ca/entertainment/long-lost-original-score-of-mozart-masterpiece-found-in-budapest-1.2029216#ixzz3EzxB7wtb){:target="_blank"}: Unser ungarischer RISM-Kollege Balazs Mikusi entdeckte ein Mozart-Autograph in Budapest
-
 
 
 3. Und ein Video der Feier auf der das Autograph der Öffentlichkeit gezeigt wurde:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/LAa-Tro_FPU?list=UUSw7Qu4OQujixCfIlKETdkQ" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
 4. [Canadian musicologist makes 900 year old discovery, Radio Canada International](http://www.rcinet.ca/en/2014/10/22/canadian-musicologist-make-900-year-old-discovery/){:target="_blank"}: Über frühe Musiknotation
-
 
 
 5. [Joseph Haydn's Real Wife](http://michaelorenz.blogspot.de/2014/09/joseph-haydns-real-wife_11.html){:target="_blank"}: Michael Lorenz hat Haydns Ehefrau als Maria Anna Theresia Keller (geboren 25 September 1730) identifiziert, nicht Maria Anna Aloysia Apollonia Keller
 
 
-
 Anhand der Liste bemerken Sie, dass 2014 ein Jahr der aufregenden Entdeckungen war.
 
-RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliographie](http://www.rism.info/de/publications/bibliography.html){:target="_blank"} aufgeführt haben:
+RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliographie](/publications/bibliography.html){:target="_blank"} aufgeführt haben:
 
 - Geck, Karl Wilhelm. Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen, in BIS - Das Magazin der Bibliotheken in Sachsen 7(2014)3, S. 179. [Online erhältlich](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
 
@@ -105,11 +91,5 @@ RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliog
 - Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Online erhältlich](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 
-
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2011-06-01
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Katalog_HER_2_679ca829d1.jpg"
+image: "/images/news-old-website/csm_Katalog_HER_2_679ca829d1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-published-in-the-music-manuscripts-in-germany-series.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
-
 
 RISM-Arbeitsgruppe Deutschland und RISM-Zentralredaktion veröffentlichen seit 2009 Kataloge in einer eigenen Schriftenreihe „Musikhandschriften in Deutschland“. Diese Teilveröffentlichungen aus der RISM-Datenbank sind für die besitzenden Institutionen und ihre Benutzer bestimmt, sowie für Wissenschaftler und Musiker, die sich schwerpunktmäßig mit dem jeweiligen Bestand beschäftigen. Für Bibliotheken/Archive werden ausgedruckte Exemplare in Buchform hergestellt, desweiteren besteht die Möglichkeit, sich die Kataloge als pdf-Datei kostenlos über den Dokumentenserver [Qucosa](http://www.qucosa.de/){:target="_blank"} herunterzuladen.
 

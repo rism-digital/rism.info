@@ -4,17 +4,16 @@ title: New Women Composers in 2019
 date: 2019-11-04
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neue_Komponistinnen_2019_347354dd2b.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-women-composers-in-2019.html
 email: ''
 author: ''
 ---
 
-
 In March 2017, [we published a list](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} with 800 women composers who appear in RISM records. In 2019 alone, we have had over 50 new names, so in total there are over 1,000. As a sampling, here are 17 of them.
 
-Some of the new ones are from the [records we have imported from ICCU](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
+Some of the new ones are from the [records we have imported from ICCU](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}:
 [Cecilia Arditto](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Arditto+Cecilia&Language=en){:target="_blank"} (1966\*)
 [Joanna Bruzdowicz](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Bruzdowicz+Joanna&Language=en){:target="_blank"} (1943\*)
 [Carolyn Jean Hawley](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Hawley+Carolyn+Jean&Language=en){:target="_blank"} (1934\*)
@@ -41,9 +40,6 @@ From South Korea:
 [Shirley Dean Nevin](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Nevin+Shirley+Dean&Language=en){:target="_blank"} (1894-1982)
 and [Bessie Lim](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Lim+Bessie&Language=en){:target="_blank"} (1897-1999), whom we [reported on back in April](/rediscovered/2019/04/18/bessie-lim-the-first-woman-musician-of-korea-and.html){:target="_blank"}.
 
-
 _Image_: Beginning of the sacred song “Occhi io vissi di voi” by Claudia Sessa (ca. 1570-ca. 1619), from _Canoro pianto di Maria Vergine_ (RISM 1613|3 ). Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.125.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

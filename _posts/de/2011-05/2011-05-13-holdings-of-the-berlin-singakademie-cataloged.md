@@ -4,13 +4,12 @@ title: Archiv der Sing-Akademie zu Berlin erschlossen
 date: 2011-05-13
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_677px-Gaertner2_d811bdda77.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_677px-Gaertner2_d811bdda77.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/holdings-of-the-berlin-sing-akademie-cataloged.html
 email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---
-
 
 Das für die Musikwissenschaft und –praxis überaus bedeutende Archiv der Sing-Akademie zu Berlin, welches nach dem Zweiten Weltkrieg jahrzehntelang als verschollen galt, jedoch 1999 in der Ukraine entdeckt und 2001 nach Berlin zurückgeführt wurde, ist jetzt vollständig erschlossen. Alle Titel sind im [RISM Online-Katalog](http://opac.rism.info/index.php?id=6&no_cache=1&tx_bsbsearch_pi1%5Bsmode%5D=advanced&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=ssiglum&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=sauthor&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=stitle&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=D-Bsa&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Search){:target="_blank"} vorhanden.
 

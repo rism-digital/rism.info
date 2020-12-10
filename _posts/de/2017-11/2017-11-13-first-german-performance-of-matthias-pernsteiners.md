@@ -5,12 +5,11 @@ date: 2017-11-13
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Pernsteiner_Konzert_Kaiser_77be24cdba.jpg"
+image: "/images/news-old-website/csm_Pernsteiner_Konzert_Kaiser_77be24cdba.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/first-german-performance-of-matthias-pernsteiners-missa-posta-in-musica.html
 email: ''
 author: ''
 ---
-
 
 Am Sonntag, den 26. November 2017 findet das traditionelle Kirchenkonzert in der Gemeinde [St. Philippus](http://www.pfarrverband-laim.de/st-philippus/aktuelles/details/article/st-philippus-traditionelles-kirchenkonzert-im-november.html){:target="_blank"} (Westendstr. 249, 80686 München) statt.
 
@@ -30,7 +29,5 @@ Gerhard Weinberger, Orgel
 Leitung: Beatrice-Maria Weinberger
 
 
-
 _Abbildung_: Matthias Pernsteiner (1795–1851), Portrait eines unbekannten Künstlers (Abbildung bei Johann Hölzl, Kirchenkomponist Matthias Pernsteiner. Zum 170. Geburtstag, in: Zeitschrift Glaube und Heimat Nr. 5 _(_1965), S. 188.)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

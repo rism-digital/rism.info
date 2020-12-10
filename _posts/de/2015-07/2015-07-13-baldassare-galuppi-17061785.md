@@ -5,12 +5,11 @@ date: 2015-07-13
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Galuppi_0316ebe6da.png"
+image: "/images/news-old-website/csm_Galuppi_0316ebe6da.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/baldassare-galuppi-1706-1785.html
 email: ''
 author: ''
 ---
-
 
 Die Spielzeit 2014/2015 nähert sich dem Ende und so ergreifen wir die Gelegenheit, die Reihe RISM A-Z mit einer aktuellen Inszenierung zu kombinieren:
 
@@ -22,8 +21,3 @@ Unter den RISM-Quellen befindet sich auch zwei Kontrafakturen: Die Arie der Eris
 
 Bildnachweis: Seite aus einer später gedruckten Version des Librettos mit einer Darstellung aus Akt III, Szene XII: "Ferma. È tempo di morte, e non d’amori.“ (Paris: Herissant, 1780). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png#/media/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

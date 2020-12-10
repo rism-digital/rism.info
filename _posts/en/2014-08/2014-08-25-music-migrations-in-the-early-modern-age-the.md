@@ -4,13 +4,12 @@ title: 'Music Migrations in the Early Modern Age: the Meeting of the European Ea
 date: 2014-08-25
 lang: en
 post: true
-category: self_representation
-image: "/uploads/pics/MusMig.jpg"
+category: new_at_rism
+image: "/resources-old-website/pics/MusMig.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-migrations-in-the-early-modern-age-the-meeting-of-the-european-east-west-and-south.html
 email: ''
 author: ''
 ---
-
 
 The [MusMig (Music Migrations)](http://musmig.hypotheses.org/){:target="_blank"} project is a three-year project funded by the Joint Research Programme “Cultural Enconters” of HERA (Humanities in the European Research Area). It seeks to document the movement of music and musicians in the east, west, and south of Europe during the seventeenth and eighteenth centuries. Musicians include performers and composers in addition to writers and other professions related to music (copyists, instrument builders, engravers, etc).
 

@@ -5,12 +5,11 @@ date: 2015-04-14
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Datenbank_Korea_f89c0ccbb8.png"
+image: "/images/news-old-website/csm_Datenbank_Korea_f89c0ccbb8.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/introducing-of-the-ewha-music-data-base-emdb.html
 email: hkchae@ewha.ac.kr
 author: Hyun Kyung Chae
 ---
-
 
 _The following is by Hyun Kyung Chae, director of [RISM South Korea](http://ewha.kor.rism.info/index.php?id=528):_
 
@@ -20,4 +19,3 @@ Users can browse and search the EMDB’s contents either by a simple search (usi
 
 We hope the database will become one of the new and powerful research tools in providing much needed materials and serves as the foundation of a unified primary source repository for modern music of East Asia.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

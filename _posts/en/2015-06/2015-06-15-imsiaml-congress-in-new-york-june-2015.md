@@ -5,17 +5,15 @@ date: 2015-06-15
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_IAML_New_York_4fdcb24cc5.png"
+image: "/images/news-old-website/csm_IAML_New_York_4fdcb24cc5.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/imsiaml-congress-in-new-york-june-2015.html
 email: ''
 author: ''
 ---
 
-
 Start spreading the news: RISM will be heading to New York to take part in the IMS/IAML Congress [Music Research in the Digital Age](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"}, June 21-26, 2015.
 
 Please visit our table in the exhibits area during the breaks. In addition, you are invited to join us at the following events:
-
 
 
 **Monday, 22 June**
@@ -31,7 +29,6 @@ RISM on a shoestring: How small country groups can contribute to RISM
 - Ewa Hauptman‐Fischer (Music Department, University of Warsaw Library, Warsaw)
 Musical gifts with dedications in Silesian musical manuscripts of monastery provenance
 - Round Table discussion (topics can be proposed in advance or during the session)
-
 
 **Thursday, 25 June**
 
@@ -57,5 +54,3 @@ Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 Chair: Wolf‐Dieter Seiffert (President of RISM, RISM Commission Mixte, München)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Frühste Notenstiche der Musikgeschichte – Simone Verovio
 date: 2019-07-22
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
+category: in_the_news
+image: "/images/news-old-website/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
 email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---
-
 
 Während im 16. Jahrhundert Musikdrucke hauptsächlich im Typendruck hergestellt werden und dadurch ein typisch verwackeltes Druckbild erhalten (Ottaviano Petrucci einmal ausgenommen), fallen die Drucke Simone Verovios besonders durch ihr handschriftlich anmutendes Aussehen auf. Die im Stich hergestellten Musikdrucke sind leicht durch ihren charakteristischen Plattenrand zu erkennen.
 
@@ -22,10 +21,9 @@ Dass es sich auch lohnt spätere Auflagen für eine nähere Betrachtung zu nutze
 
 Das sind nur ein paar kleine Beispiele von dem, was es bei Verovio alles zu entdecken gibt. Gehen Sie doch auch auf Entdeckungstour, zu den meisten Drucken von Verovio gibt es Digitalisate. Bei der Sammlung _[Lodi della musica](https://opac.rism.info/search?id=993122166&View=rism&Language=en){:target="_blank"}_ (1595|6) sind es sogar drei Digitalisate bei gerade einmal vier bekannten Exemplaren.
 
-Heute gibt Verovio seinen Namen dem von der RISM-Schweiz entwickelten [modernen digitalen Werkzeug](http://www.verovio.org/index.xhtml){:target="_blank"} zur Darstellung der Notenschrift. Auch wenn Sie das Projekt nicht kennen, wissen Sie, was es kann: Mit Verovio werden die Musikincipts sowohl im RISM-Online-Katalog als auch in unserem internen Katalogisierungsprogramm[Muscat](/de/community/muscat.html) angezeigt.
+Heute gibt Verovio seinen Namen dem von der RISM-Schweiz entwickelten [modernen digitalen Werkzeug](http://www.verovio.org/index.xhtml){:target="_blank"} zur Darstellung der Notenschrift. Auch wenn Sie das Projekt nicht kennen, wissen Sie, was es kann: Mit Verovio werden die Musikincipts sowohl im RISM-Online-Katalog als auch in unserem internen Katalogisierungsprogramm[Muscat](/community/muscat.html) angezeigt.
 
 Wer mehr zu Verovio erfahren möchte, sei auf die üblichen Lexika und die neue Veröffentlichung von Auguste Campagne, [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"} (= Wiener Veröffentlichungen zur Musikgeschichte vol. 13), Wien 2018 (zitiert in RISM unter CampagneV 2018) verwiesen.
 
 _Abbildung_: Titelblatt von CANZONETTE | A quattro Voci, | Composte da diuersi | Ecc.ti Musici. Copy in [Bayerische Staatsbibliothek](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00074058-8){:target="_blank"} (D-Mbs, 4 Mus.pr. 10), [RISM ID no. 993120915](https://opac.rism.info/search?id=993120915){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

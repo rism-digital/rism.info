@@ -5,12 +5,11 @@ date: 2018-06-25
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
+image: "/images/news-old-website/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
 email: ''
 author: ''
 ---
-
 
 The year 2018 has been named the [European Year of Cultural Heritage](http://europa.eu/cultural-heritage/){:target="_blank"}. Throughout the continent, the focus is on cultural heritage as expressed in a wide variety of manifestations: monuments, books, clothing, historic towns, oral traditions, landscapes, digitized objects—even performing arts and music—and much more. The goal is to “encourage more people to discover and engage with Europe's cultural heritage, and to reinforce a sense of belonging to a common European space.”
 
@@ -45,9 +44,6 @@ The autograph score is in the Staatsbibliothek zu Berlin (RISM ID no. [464000534
 
 Manuscripts such as these are where the European Year of Cultural Heritage and RISM intersect. Documentation, whether through inscription in a list or accessible through a catalog, is a form of preservation because it puts descriptions in a fixed and standardized form, making the information available to researchers. Having descriptions of music manuscripts and other musical sources in RISM helps people discover the music of their own culture and uncover connections to music found around the world.
 
-
 _Image from the European Year of Cultural Heritage [website](http://europa.eu/cultural-heritage/toolkits/logotype_en){:target="_blank"}._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

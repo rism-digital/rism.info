@@ -5,12 +5,11 @@ date: 2016-03-24
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
+image: "/images/news-old-website/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-music-from-christ-church-library.html
 email: ''
 author: ''
 ---
-
 
 Efforts are currently underway to digitize music holdings from Christ Church Library, University of Oxford (GB-Och). This is part of a larger joint effort between Christ Church Library and the Bodleian Library (GB-Ob) to digitize important Western, Byzantine, music, Hebrew, and Arabic manuscripts and early printed books. The collection is presented on the [Digital Library website](http://www.chch.ox.ac.uk/library-and-archives/digital-library){:target="_blank"}.
 
@@ -20,7 +19,5 @@ The manuscripts being digitized are significant to the history of English music 
 
 Currently, the RISM online catalog has [over 2,600 sources](https://opac.rism.info/search?View=rism&siglum=GB-Och){:target="_blank"} of music manuscripts and printed music from Christ Church, and this number continues to grow. From the Bodleian Library, RISM has [nearly 10,000 sources](https://opac.rism.info/search?View=rism&siglum=GB-Ob){:target="_blank"}.
 
-
 _Image_: [Mus 45](http://viewer.bodleian.ox.ac.uk/christchurch/page.php?book=mus._45&page=8){:target="_blank"}, table-book, late sixteenth century, f. 2v. "O vos omnes" by Robert White. Courtesy of Christ Church Library and used with kind permission.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

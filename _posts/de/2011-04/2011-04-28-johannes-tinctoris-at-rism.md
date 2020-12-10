@@ -4,13 +4,12 @@ title: Johannes Tinctoris @ RISM
 date: 2011-04-28
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_TinctorisHelas_2b0e6ee820.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_TinctorisHelas_2b0e6ee820.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johannes-tinctoris-rism.html
 email: contact@rism.info
 author: Leonie Storz
 ---
-
 
 Über das Leben Johannes Tinctoris' ist - obwohl einer der bekanntesten Musiktheoretiker seiner Zeit - nur wenig bekannt. Als gesichert gilt, auch wenn der genaue Zeitpunkt unklar ist, das Jahr seines Todes: Tinctoris starb vor dem 12. Oktober 1511 - vor 500 Jahren.
 

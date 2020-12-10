@@ -5,12 +5,11 @@ date: 2016-06-06
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/pics/Welb_Library_WLSCMicon2.jpg"
+image: "/resources-old-website/pics/Welb_Library_WLSCMicon2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-web-library-of-seventeenth-century-music.html
 email: ''
 author: ''
 ---
-
 
 The [Web Library of Seventeenth-Century Music](http://www.sscm-wlscm.org/){:target="_blank"} (WLSCM) is a project sponsored by the [Society for Seventeenth-Century Music](http://www.sscm-sscm.org/){:target="_blank"}. It is a free collection of peer-reviewed, scholarly publications of seventeenth-century compositions that are not commercially available in print and have not been posted online. A separate series, [Monuments of Seventeenth-Century Music](http://www.sscm-wlscm.org/monuments-of-seventeenth-century-music){:target="_blank"}, is for anthologies or large collections of music, frequently drawing from multiple sources. Editions may be downloaded, printed, and performed in non-profit settings.
 
@@ -19,5 +18,3 @@ The [Web Library of Seventeenth-Century Music](http://www.sscm-wlscm.org/){:targ
 Do you have a piece or a composer in mind that is not yet part of the Web Library of Seventeenth-Century Music? WLSCM [welcomes submissions](http://www.sscm-wlscm.org/about-us/8-guidelines-for-contributors){:target="_blank"} at any time. The [RISM database](https://opac.rism.info/){:target="_blank"} can help you find manuscripts or printed music that are available online, and the availability of more than 100,000 records on historical printed music can help locate complete copies, compare editions, and bring long-forgotten music back to life.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

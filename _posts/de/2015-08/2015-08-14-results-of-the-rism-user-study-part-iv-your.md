@@ -4,15 +4,14 @@ title: Nutzerstudie III
 date: 2015-08-14
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
 email: ''
 author: ''
 ---
 
-
-Wir beschließen die Woche mit einem weiteren Blick auf die Kommentare, die wir im Rahmen [unserer Nutzer-Studie](/de/community/rism-nutzerstudie.html#c3122 "Öffnet internen Link im aktuellen Fenster") erhalten haben.
+Wir beschließen die Woche mit einem weiteren Blick auf die Kommentare, die wir im Rahmen [unserer Nutzer-Studie](/community/survey.html#c3122) erhalten haben.
 
 **„I just wish some very important institutions like A-Wgm [Wien, Gesellschaft der Musikfreunde] were also listed ...“ - Antwort 135**
 
@@ -28,14 +27,9 @@ Und wer hätte gedacht, dass der Bekanntheitsgrad von Joseph Haydns Nelsonmesse 
 
 Es stimmt, dass mehrere größere Institutionen verhältnismäßig schwach in RISM vertreten sind und wir arbeiten daran, deren Daten in unseren Katalog zu übertragen. Heute gestaltet sich ein Datentransfer leichter als jemals zuvor und wir arbeiten zur Zeit konkret an der Übernahme mehrerer großer Datenbanken in unseren Bestand.
 
-Mehr Informationen zu technischen Fragen finden Sie auf unserer [Datendienstseite](/de/community/entwicklung/dataservice.html#c2681 "Öffnet internen Link im aktuellen Fenster").
+Mehr Informationen zu technischen Fragen finden Sie auf unserer [Datendienstseite](/community/data-services.html#c2681).
 
 Die in dieser Woche exemplarisch ausgewählten Kommentare sind nur ein kleiner Teil der zahlreichen Fragen und Anregungen, die wir von Ihnen im Rahmen der Nutzerstudie erhalten haben. Im Rahmen der AIBM-Jahrestagung in Stuttgart werden wir weitere Ergebnisse der Nutzerstudie präsentieren. Weitere Fragen wollen wir im Laufe der Zeit auf unserer Seite zur Nutzerstudie beantworten und Ihre Anregungen möglichst bald bei den nächsten Versionen des Online-Kataloges umsetzen. Eine Veröffentlichung der vollständigen Ergebnisse der Nutzerstudie ist für Ende 2015 geplant.
 
 Abbildung: Wien, Österreichische Nationalbibliothek, Prunksaal. Manfred Morgner, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Nationalbibliothek2.jpg){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

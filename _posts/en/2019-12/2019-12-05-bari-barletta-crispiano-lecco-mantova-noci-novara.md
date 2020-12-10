@@ -4,15 +4,14 @@ title: Bari, Barletta, Crispiano, Lecco, Mantova, Noci, Novara, Sassoferrato, an
 date: 2019-12-05
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
+category: library_collections
+image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---
 
-
-The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/self_representation/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
+The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
 Records from the following libraries can now be found in RISM:
 
@@ -30,9 +29,6 @@ The collection from the [Biblioteca del Conservatorio statale di musica Guido Ca
 
 The library is part of the project "In-audita musica," which supports the study and performance of works by women composers from all time periods. In so doing, they are building up a bibliographic and sound archive for women composers, which was recently put on depost at the [Istituto dell’Archivio dell‘Associazione Suonodonne Italia](http://inauditamusica.consno.it/ "external-link-new-window").
 
-
 _Image_: Record for Luigi Rossi, [_Sovra una verde riva_](https://opac.rism.info/search?id=850736349&View=rism), I-MAc [MSS.MUS.113.43](http://id.sbn.it/bid/MSM0141670){:target="_blank"} (there anonymous)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

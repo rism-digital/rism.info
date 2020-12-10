@@ -5,12 +5,11 @@ date: 2011-06-01
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Katalog_HER_2_679ca829d1.jpg"
+image: "/images/news-old-website/csm_Katalog_HER_2_679ca829d1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-published-in-the-music-manuscripts-in-germany-series.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
-
 
 Since 2009, the RISM Germany working group and the RISM Zentralredaktion have published catalogs in their series Music Manuscripts in Germany (Musikhandschriften in Deutschland). Based in part on records from the RISM database, the catalogs are geared toward the holding institutions and their users, as well as scholars and musicians working primarily with the materials. Printed copies in book form are produced for libraries and archives. In addition, one can download the catalogs as PDF files free through the document server [Qucosa](http://www.qucosa.de/){:target="_blank"}.
 

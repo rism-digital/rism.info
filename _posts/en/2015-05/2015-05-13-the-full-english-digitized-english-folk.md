@@ -4,13 +4,12 @@ title: 'The Full English: Digitized English Folk Manuscripts'
 date: 2015-05-13
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Full_English_55000003a8.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Full_English_55000003a8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-full-english-digitized-english-folk-manuscripts.html
 email: ''
 author: ''
 ---
-
 
 There is a new digital resource for English folk manuscripts:
 
@@ -25,5 +24,3 @@ There is a new digital resource for English folk manuscripts:
 The collections of 19 folk song collectors are included. The project's [archival partners](http://www.vwml.org.uk/browse/browse-collections-full-english){:target="_blank"} are Clare College, Cambridge (GB-Cclc); The British Library (GB-Lbl); The Folklore Society Library and Archive, University College London; The Grainger Museum, University of Melbourne (AUS-PVgm), The Mitchell Library, Glasgow (GB-Gm); Vaughan Williams Memorial Library (GB-Lcs), and the Wiltshire and Swindon History Centre (GB-CHIhc).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

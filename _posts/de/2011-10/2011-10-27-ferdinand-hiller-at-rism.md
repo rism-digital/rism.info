@@ -4,13 +4,12 @@ title: Ferdinand Hiller @ RISM
 date: 2011-10-27
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_HillerBehrensWeb_cc376682b9.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_HillerBehrensWeb_cc376682b9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ferdinand-hiller-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Nur zwei Tage nach Franz Liszt (22.10.1811 – 31.07.1886) wurde Ferdinand Hiller (24.10.1811 – 10.05.1885) geboren. Da er aus Frankfurt am Main stammt, die Kontakte zu seiner Heimatstadt Zeit seines Lebens pflegte, und weil sein musikalischer Nachlass in der Universitätsbibliothek aufbewahrt wird, ist dort zu seinen Ehren eine Ausstellung vorbereitet worden. Deren Inhalt und Form wurde zusammen mit Dozentinnen und Studierenden des Instituts für Musikwissenschaft der Goethe-Universität entwickelt. Die Ausstellung **Ferdinand Hiller (1811-1885) aus Frankfurt am Main** ist vom 26.10. - 30.11.2011 im 3. OG der Universitätsbibliothek Frankfurt, Bockenheimer Landstr. 134-138 zu sehen. Die Ausstellung [steht auch digital zur Verfügung](http://www.ub.uni-frankfurt.de/musik/hiller_jubilaeum.html){:target="_blank"}.
 

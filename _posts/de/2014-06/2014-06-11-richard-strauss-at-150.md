@@ -4,13 +4,12 @@ title: Richard Strauss zum 150. Geburtstag
 date: 2014-06-11
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Strauss-Specht_d61b739f9e.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Strauss-Specht_d61b739f9e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-strauss-at-150.html
 email: ''
 author: ''
 ---
-
 
 Heute jährt sich der Geburtstag von Richard Strauss (1864 - 1949) zum 150. Mal. Seit heute steht Garmisch-Partenkirchen, wo Strauss über 40 Jahre lang lebte, ganz im Zeichen des [Richard Strauss-Festivals](http://www.richard-strauss-festival.de/rsi/index.php/de/){:target="_blank"}. In zahlreichen Veranstaltungen wird einer der weltweit meistgespielten Komponisten gewürdigt.
 
@@ -26,12 +25,7 @@ Einige seiner Werke wurden in Frankfurt am Main uraufgeführt. So dirigierte Ric
 
 Unten, der erste Teil von Strauss' _Die Frau ohne Schatten_ mit dem Radio Filharmonisch Orkest, Groot Omroepkoor und Nationaal Kinderkoor, Vladimir Jurowski, Dirigent.
 
-
-
-
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/675hQxETKC8" frameborder="0" allowfullscreen></iframe>
-
 
 
 Bildnachweis: Skizzenbuch zu _Die Frau ohne Schatten_, Juilliard School (ohne Signatur, Einbandinnenseite) mit Widmung an Richard Specht.

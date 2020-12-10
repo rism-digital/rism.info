@@ -5,12 +5,11 @@ date: 2018-07-05
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg"
+image: "/images/news-old-website/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-extraordinary-musical-prodigy.html
 email: ''
 author: ''
 ---
-
 
 Dieser Spaniel ist nicht einfach auf den Klavierhocker gesprungen, um Alles, was das Instrument an Klängen erzeugt, jaulend zu kommentieren. Denn wenn wir dem Titel des Gemäldes "Portrait eines außergewöhnlich musikalischen Hundes" Glauben schenken dürfen, hat dieser Vierbeiner wirklich Talent. Der Künstler Philip Reinagle (1749-1833) zeigt einen Hund, dessen Pfoten schon auf den Tasten liegen, um aus der vorliegenden Musikhandschrift zu spielen. Er sieht aus, als ob man ihn beim Spielen ertappt hätte, vielleicht braucht er auch einfach nur Hilfe beim Umblättern.
 
@@ -37,5 +36,3 @@ Nicholas Temperley undSimon Heighes, “Crotch, William,” [_Grove Music Online
 _Abbildung_: Philip Reinagle, _Portrait of an Extraordinary Musical Dog_, 1805. [Virginia Museum of Fine Arts](https://www.vmfa.museum/piction/6027262-8151754/){:target="_blank"}, Richmond. [CC BY-NC.](https://creativecommons.org/licenses/by-nc/4.0/) RIdIM record ID: [5041](http://db.ridim.org/display.php?ridim_id=5041){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

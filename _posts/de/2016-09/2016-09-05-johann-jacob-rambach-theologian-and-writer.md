@@ -5,12 +5,11 @@ date: 2016-09-05
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Rambach_afbea77628.jpg"
+image: "/images/news-old-website/csm_Rambach_afbea77628.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-jacob-rambach-theologian-and-writer.html
 email: ''
 author: ''
 ---
-
 
 Bevor er sich der Theologie zuwandte, absolvierte der aus Halle gebürtige Johann Jacob Rambach (1693-1735) eine Lehre als Tischler. Er veröffentlichte Werke zur Hermeneutik und verschiedene Predigtsammlungen. Überliefert sind weiterhin ca. 360 Liedtexte. Die _Geistliche Poesien_ (1720) wurden von vielen Komponisten zur Vertonung von Kantaten herangezogen. Der Druck enthält Kantatentexte für alle kirchlichen Sonn- und Festtage. Rambach beschreibt seine Texte im Vorwort (S. 11) als „geistliche Gedichte, die das Hertz rühren, und die Andacht entzünden sollen.“ Seine pietistisch geprägten Texte wurden bis ins späte 18. Jahrhundert vertont.
 
@@ -19,11 +18,5 @@ Bevor er sich der Theologie zuwandte, absolvierte der aus Halle gebürtige Johan
 Eine Übersicht über sämtliche nachweisbare Kantatenkompositionen auf Texte von Rambach bietet Julian Heigel in seiner Publikation _["Vergnügen und Erbauung": Johann Jacob Rambachs Kantatentexte und ihre Vertonungen](http://www.francke-halle.de/verlag-der-franckeschen-stiftungen/einrichtungen-e-12.html){:target="_blank"}_ (Halle 2014, Hallesche Forschungen 37, ISBN 978-3-447-10122-6; RISM Kurztitel: HeigelR 2014). Unterschieden wird nach überlieferten und nicht erhaltenen Werken. Heigel nennt 184 erhaltene Kantaten und 53 Einzelsätze auf Texte von Rambach. Rechnet man sowohl die erhaltenen als auch die nur belegbaren Vertonungen zusammen, kommt Heigel auf die stattliche Zahl von ca. 500 Kantatenkompositionen auf Texte von Rambach. Es sind zwar keine kompletten Kantatenjahrgänge eines Komponisten mehr überliefert, aber von Freislich, dem Durlacher Komponisten Kur(t)z und Wolfgang Nicolaus Haueisen sind jeweils mehr als 20 Kantaten auf Texte Rambachs nachgewiesen.
 
 
-
 _Abbildung_: Titelseite aus Rambachs _Geistliche Poesien_ (1720), Exemplar [Bayerische Staatsbibliothek München](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10116678-9){:target="_blank"} (D-Mbs, P.o.germ. 1118 n)
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,18 +5,13 @@ date: 2015-02-16
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
+image: "/images/news-old-website/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
 email: ''
 author: ''
 ---
 
-
 _Die nachfolgende extrem wichtige Nachricht erreichte uns vom [](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/#more-4378){:target="_blank"}_[_Henle Verlag_](http://www.henle.de/blog/de/2015/02/12/narrische-beethovenquelle-entdeckt/){:target="_blank"} _und wird hier mit freundlicher Genehmigung veröffentlicht:_
-
-
-
-
 
 Die neue Reihe **Am KlavierPlus** ist der ideale Einstieg in die Welt der klassischen Klaviermusik, besonders geeignet für alle Jecken und Nicht-Jecken, die gerne gemeinsam mit anderen Musik machen möchten.
 
@@ -27,17 +22,11 @@ Dieses Werk eröffnet somit unsere neue Reihe – selbstverständlich nach stren
 An diesem Stück lässt sich die rheinische Aussprache besonders gut üben, so wie es auch in vielen Werken Beethovens gefordert wird (vgl. Ludwig van Beethoven, 9. Sinfonie d-moll, op. 125, 4. Satz, T. 241 ff. „Fründe schöner Jöttterfunke“). Hierzu singe man lautstark mit. Auch den komplizierten Rhythmus sollte man beim Üben nicht vernachlässigen und in gleichmäßigen Viertelschlägen mitzählen.
 
 
-
 ![Excerpt from Ludwig van Beethoven](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg)
 
 
-
-_**[Zum Vergrößern hier klicken](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
+**[Zum Vergrößern hier klicken](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
 Ausschnitt aus Ludwig van Beethoven "Eschte Fründe stonn zesamme" Posth. WoO 4711_
-
-
-
-
 
 _Bemerkungen_
 
@@ -60,8 +49,6 @@ _Einzelbemerkungen_
 69–76 Klav u Nur teilweise ausgeschrieben. Ergänzt nach Parallelstelle.
 
 
-
 Köln/München, Wieverfastelovend 2015
 G. Henle Verlag
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

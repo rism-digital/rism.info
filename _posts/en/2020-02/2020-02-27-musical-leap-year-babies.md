@@ -5,12 +5,11 @@ date: 2020-02-27
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
+image: "/images/news-old-website/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-leap-year-babies.html
 email: ''
 author: ''
 ---
-
 
 Famous Leap Year Day babies are rare, but among the composers, [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=Gioachino%20Rossini&Language=en){:target="_blank"} (1792-1868) is probably the best known. But the RISM database has even more people who celebrate their birthdays on February 29.
 
@@ -40,12 +39,6 @@ There are also some people in RISM who died on February 29:
 - [Philippe Rogier](https://opac.rism.info/search?View=rism&q=Philippe%20Rogier&Language=en){:target="_blank"} (ca. 1561-1596)
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio&Language=en){:target="_blank"} (ca. 1536-1592)
 
-
-
-
-
 _Image_: Gioachino Rossini, _Lieder_, [lithographic print by C. Constans, 19th century](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

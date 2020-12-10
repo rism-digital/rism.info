@@ -4,13 +4,12 @@ title: A Dedicated Website for the Muscat Project
 date: 2018-09-27
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Muscat_website_project_page_39cfa71a71.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---
-
 
 _We have received the following from Laurent Pugin ([RISM Switzerland](http://rism-ch.org/){:target="_blank"}):_
 
@@ -29,7 +28,3 @@ Muscat has nine prominent technical features, including:
 - Muscat keeps [track of all changes](http://muscat-project.org/data-versioning.html) made to the single records in the database.
 - The data is linked to [international authority files](http://muscat-project.org/data-interoperability.html), such as VIAF.
 - Finally, Muscat provides a [dynamic visualization](http://muscat-project.org/visualization.html) on a geographic map of the search results.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

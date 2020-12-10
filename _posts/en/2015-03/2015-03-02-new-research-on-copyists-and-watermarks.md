@@ -5,12 +5,11 @@ date: 2015-03-02
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Wasserzeichen_1f474109d9.jpg"
+image: "/images/news-old-website/csm_Wasserzeichen_1f474109d9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-research-on-copyists-and-watermarks.html
 email: klaus.keil@rism.info
 author: Klaus Keil
 ---
-
 
 Colloquium: Researching Copyists and Watermarks in the Digital Age: Between Academic Specialization and Catalog Enrichment
 Staatsbibliothek zu Berlin, 6-8 October 2014
@@ -31,4 +30,3 @@ An article about this conference appeared in the _Zeitschrift für Bibliothekswe
 
 Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62, no. 1 (2015): 49-53. [Available online in 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

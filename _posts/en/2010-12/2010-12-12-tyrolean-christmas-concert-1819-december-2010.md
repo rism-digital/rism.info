@@ -5,12 +5,11 @@ date: 2010-12-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_reutte_2010_480_01_2e57216cc1.jpg"
+image: "/images/news-old-website/csm_reutte_2010_480_01_2e57216cc1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tyrolean-christmas-concert-18-19-december-2010.html
 email: ''
 author: ''
 ---
-
 
 A Christmas concert with musicfrom the archives of the Franciscan Monastery Reutte/Tyrol.
 

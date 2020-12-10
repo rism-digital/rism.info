@@ -5,12 +5,11 @@ date: 2014-03-25
 lang: de
 post: true
 category: new_publications
-image: "/uploads/pics/Einband_02.jpg"
+image: "/resources-old-website/pics/Einband_02.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/source-studies-in-musical-culture.html
 email: ''
 author: ''
 ---
-
 
 Wir möchten gerne auf einen kürzlich ausgelieferten Konferenzbericht in englischer Sprache aufmerksam machen. Der Sammelband ist 2012 an der Abteilung für Musikwissenschaft der Adam-Mickiewicz-Universität in Posen als Band 11 der Reihe Interdisciplinary Studies in Musicology erschienen.
 

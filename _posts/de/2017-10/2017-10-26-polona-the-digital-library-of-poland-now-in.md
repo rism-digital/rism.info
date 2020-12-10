@@ -5,12 +5,11 @@ date: 2017-10-26
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Polona_relaunch_11402675a1.jpg"
+image: "/images/news-old-website/csm_Polona_relaunch_11402675a1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polona-the-digital-library-of-poland-now-in-english.html
 email: ''
 author: ''
 ---
-
 
 [Polona](https://polona.pl/){:target="_blank"}, die Digitale Bibliothek der [Nationalbibliothek Polens](http://bn.org.pl/en/){:target="_blank"}, hat inzwischen zwei Millionen Werke veröffentlicht und steht jetzt auch in einer englischen Oberfläche zur Verfügung (siehe Schaltfläche ganz unten links).
 
@@ -25,11 +24,8 @@ Für **Musikhandschriften** wählen Sie die Kategorie "[manuscripts](https://pol
 
 Hochauflösende Abbildungen sind verfügbar und lizenzfreie Objekte können wiederverwendt werden, ohne um Erlaubnis bitten zu müssen.
 
-
 _Abbildung_ : Fryderyk Chopin, _4 Mazurkas_. Biblioteka Narodowa. Lizenzfrei von [Polona](https://polona.pl/item/4-mazurkas-pour-le-piano-dediees-a-mlle-rose-mostowska-op-33,MTEyNDgwNA/){:target="_blank"}
 
 _Wir danken Sonia Wronkowska (RISM Polen)._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

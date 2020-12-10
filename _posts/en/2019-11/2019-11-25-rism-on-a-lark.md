@@ -4,13 +4,12 @@ title: RISM on a Lark
 date: 2019-11-25
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-on-a-lark.html
 email: ''
 author: ''
 ---
-
 
 As we enter the deep months of winter here in Frankfurt (no snow yet, though), thinking about 2019's Bird of the Year puts us in a spring mood with thoughts of nice weather. The skylark is the [2019 Bird of the Year here in Germany](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/feldlerche/index.html){:target="_blank"}, chosen by the environmental organization NABU. The attention drawn to one of our messengers of spring, though, comes with the troubling facts that its habitat is disappearing and the population is declining.
 
@@ -26,11 +25,5 @@ Mendelssohn's song appears [elsewhere in RISM](https://opac.rism.info/search?Vie
 
 Have a lark exploring RISM for sightings of the [skylark](https://opac.rism.info/search?View=rism&q=skylark&Language=en){:target="_blank"}, [woodlark](https://opac.rism.info/search?View=rism&q=woodlark&Language=en){:target="_blank"}, [lark](https://opac.rism.info/search?View=rism&q=lark&Language=en){:target="_blank"}, [Lerche](https://opac.rism.info/search?View=rism&q=Lerche&Language=en){:target="_blank"}, and [alouette](https://opac.rism.info/search?View=rism&q=alouette&Language=en "external-link-new-window").
 
-
 _Image credit_: Page 5 of Felix Mendelssohn Bartholdy's autograph manuscript of "Lerchengesang," Staatsbibliothek zu Berlin - PK (D-B) 55 MS 61 ([RISM ID no. 460006100](https://opac.rism.info/search?id=460006100&View=rism&Language=en){:target="_blank"}).  [resolver.staatsbibliothek-berlin.de/SBB00001F8800000000](http://resolver.staatsbibliothek-berlin.de/SBB00001F8800000000)
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

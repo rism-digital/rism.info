@@ -5,12 +5,11 @@ date: 2019-02-07
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Rochlitz_250_9fbeb78fdc.png"
+image: "/images/news-old-website/csm_Rochlitz_250_9fbeb78fdc.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/friedrich-rochlitz-at-250.html
 email: ''
 author: ''
 ---
-
 
 Der Leipziger Schriftsteller und Musikpublizist [Johann Friedrich Rochlitz](https://opac.rism.info/search?id=pe154394&Language=en){:target="_blank"} (12. Februar 1769 - 16. Dezember 1842) war nach einem Theologie- und Philosophiestudium als Hauslehrer tätig. 1798 begründete er die [_Allgemeine Musikalische Zeitung_](https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000037){:target="_blank"} im Verlag Breitkopf & Härtel, deren Redakteur er bis 1818 war und die sich zur bedeutendsten Musikzeitschrift im deutschsprachigen Raum entwickelte.
 
@@ -25,5 +24,3 @@ Von [Rochlitz' eigenen Kompositionen](https://opac.rism.info/search?View=rism&au
 _Abbildung_: Titelblatt der _Sammlung vorzüglicher Gesangstücke_, Band 3, Exemplar aus der Bayerischen Staatsbibliothek München ([D-Mbs 2 Mus.pr. 317-2](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131406-1){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

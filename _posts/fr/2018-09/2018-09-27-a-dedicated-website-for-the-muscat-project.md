@@ -4,15 +4,14 @@ title: Un site web dédié au projet Muscat
 date: 2018-09-27
 lang: fr
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Muscat_website_project_page_39cfa71a71.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---
 
-
-Chaque groupe de travail du RISM connaît [Muscat](/fr/community/muscat.html "Ouvre un lien interne dans la fenêtre courante") - c'est l'interface familière avec laquelle les collaborateurs cataloguent les sources musicales dans la base de données du RISM depuis 2016. Mais quelle est l'histoire et la philosophie de ce projet ? Quels sont ses composantes techniques ? Qu'offre-t-il ? En réalité, le logiciel de catalogage n'a pas été entièrement développé à partir de zéro, mais rassemble un certain nombre de fonctionnalités qui sont toutes librement accessibles, les combinant et les adaptant aux besoins du projet RISM. Un site web dédié récemment lancé offre un aperçu du développement et des différentes composantes de Muscat :
+Chaque groupe de travail du RISM connaît [Muscat](/community/muscat.html) - c'est l'interface familière avec laquelle les collaborateurs cataloguent les sources musicales dans la base de données du RISM depuis 2016. Mais quelle est l'histoire et la philosophie de ce projet ? Quels sont ses composantes techniques ? Qu'offre-t-il ? En réalité, le logiciel de catalogage n'a pas été entièrement développé à partir de zéro, mais rassemble un certain nombre de fonctionnalités qui sont toutes librement accessibles, les combinant et les adaptant aux besoins du projet RISM. Un site web dédié récemment lancé offre un aperçu du développement et des différentes composantes de Muscat :
 [http://muscat-project.org](http://muscat-project.org "Ouvre un lien externe dans une nouvelle fenêtre")
 
 Muscat est l'application en ligne de catalogage et d'édition de sources musicales développée par le RISM. Le projet a été initié en 2002 par le groupe de travail britannique du RISM, puis développé par le RISM Suisse. Depuis début 2014, Muscat a été développé en collaboration avec la Rédaction Centrale du RISM à Francfort grâce à la décision du RISM-UK et du RISM Suisse de le rendre open-source. Muscat a été mis à la disposition de l'ensemble de la communauté RISM avec la migration de l'ensemble des données RISM en 2016.
@@ -29,4 +28,3 @@ Muscat possède, entre autres, neuf caractéristiques techniques notables.
 - Les données sont liées à des [fichiers d'autorités internationales](http://muscat-project.org/data-interoperability.html), tels que VIAF.
 - Enfin, Muscat fournit une [visualisation dynamique](http://muscat-project.org/visualization.html) sur une carte géographique des résultats de la recherche.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

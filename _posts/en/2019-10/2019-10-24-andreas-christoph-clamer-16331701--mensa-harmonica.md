@@ -5,12 +5,11 @@ date: 2019-10-24
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg"
+image: "/images/news-old-website/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele
 ---
-
 
 _We have received the following from P. Roman Nägele:_
 
@@ -20,4 +19,3 @@ RISM siglum: [A-HE (Heiligenkreuz Monastery)](https://opac.rism.info/search?View
 
 Photograph courtesy of Martin Rainer.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: RISM's Wikipedia Articles Now Updated
 date: 2019-10-10
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_wikipedia_logo_8efafa0864.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_wikipedia_logo_8efafa0864.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/risms-wikipedia-articles-now-updated.html
 email: ''
 author: ''
 ---
-
 
 The [Wikipedia RISM](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} articles in English and German have been updated to better reflect today's structure of the project and the focus on the online catalog.
 
@@ -23,5 +22,3 @@ The Wikipedia articles are read often, as well. In 2018, the RISM articles were 
 Anyone can contribute to Wikipedia, but it is important to adhere to Wikipedia's editing rules. The Central Office is happy to assist if you have questions, and we can also help coordinate teams if there are multiple people from one language who want to contribute.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

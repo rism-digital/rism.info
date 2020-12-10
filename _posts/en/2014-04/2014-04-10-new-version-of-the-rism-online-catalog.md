@@ -4,20 +4,17 @@ title: New Version of the RISM Online Catalog
 date: 2014-04-10
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Startseite_270869d386.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Startseite_270869d386.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog.html
 email: ''
 author: ''
 ---
 
-
 RISM would like to announce the release of a new version of the [online catalog](http://opac.rism.info/){:target="_blank"}. The content is the same, but there is a new interface with features that will make it easier to find musical sources.
 
 
-
 New features include:
-
 
 
 -
@@ -49,7 +46,6 @@ Atom feeds
 Clearer attributions
 
 
-
 One major new feature is the search for digitized music. This is available through the **Advanced search**. Under **Limit search** , go to **Document type** , then select **Digital versions exclusively**. Combine this field with a keyword to retrieve only records with a link to digitized music. After performing any search, on the left-hand side you will see different filters under **Narrow results**. If there are any records with links to digitized music, a link to those records will appear at the top.
 
 In the **Advanced search** , you will probably notice the on-screen keyboard at the bottom of the screen. The piano keyboard enablesa chromatic search and takes into account half steps, including enharmonic tones. Recall that the original incipit search, available when you select the field **Music incipit** or **Music incipit (with transposition)**, only searches whole note names. The on-screen keyboard therefore allows you to perform a more specific search.
@@ -65,5 +61,3 @@ We hope you enjoy using the new RISM catalog. Please don't hesitate to contact u
 <iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

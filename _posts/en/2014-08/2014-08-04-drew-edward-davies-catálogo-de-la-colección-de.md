@@ -5,12 +5,11 @@ date: 2014-08-04
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Davies_Catalogo_Cover_389d23d19d.jpg"
+image: "/images/news-old-website/csm_Davies_Catalogo_Cover_389d23d19d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/drew-edward-davies-catalogo-de-la-coleccion-de-musica-del-archivo-historico-de-la-arquidiocesi.html
 email: ''
 author: ''
 ---
-
 
 A new thematic catalog has been published by [Drew Edward Davies](http://www.drewedwarddavies.com/Publications.html){:target="_blank"} ([Northwestern University](http://www.music.northwestern.edu/faculty/profiles/drew-edward-davies.html){:target="_blank"}) that documents for the first time the complete musical holdings of Mexico's Durango Cathedral (MEX-Dc):
 
@@ -24,5 +23,4 @@ In a foreword in Spanish, Davies describes the collection and explains the crite
 Davies told Northwestern, “We can and will not know the extent of the colonial Mexican repertoire, or its true character, until we know the contents of the archives.”
 
 Photo credit: [Northwestern University](http://www.music.northwestern.edu/about/news/2014/drew-edward-davies-publishes-scholarly-catalog-of-18th-century-mexican-church-music.html){:target="_blank"}
-
 

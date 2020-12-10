@@ -4,13 +4,12 @@ title: Teresa Milanollo @RISM
 date: 2014-08-28
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Milanollo_Bild-BnF_a5011b55a8.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Milanollo_Bild-BnF_a5011b55a8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/teresa-milanollo-rism.html
 email: ''
 author: ''
 ---
-
 
 Heute ist der Geburtstag der italienischen Violinistin und Komponistin Teresa Milanollo (1827-1904).
 
@@ -25,5 +24,3 @@ Untenstehend findet Ihr den „Coldstream March“, den [Johann Valentin Hamm](h
 Bildnachweis: [Bibliothèque nationale de France](http://gallica.bnf.fr/ark:/12148/btv1b84226699){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

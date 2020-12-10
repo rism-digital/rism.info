@@ -5,12 +5,11 @@ date: 2018-02-19
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Telemann-neueArie_d58b4e47bc.jpg"
+image: "/images/news-old-website/csm_Telemann-neueArie_d58b4e47bc.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
 
 _Den nachfolgenden Beitrag erhielten wir von_ _Helmut Lauterwasser ([RISM Deutschland, München](http://de.rism.info/en/home.html){:target="_blank"}):_
 
@@ -28,8 +27,3 @@ Helmut Lauterwasser, 'Mein Herz ist viel zu schwach, Euch zu verlassen.' Eine ne
 
 _Abbildung_: "Aria del Opera Telemann." Stadtarchiv Braunschweig (D-BSsta), H V: 196 (Sacksche Sammlung) "Jahrhundert XVII"; RISM ID no. [1001015280](https://opac.rism.info/search?id=1001015280){:target="_blank"}. Mit freundlicher Genehmigung von Helmut Lauterwasser.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

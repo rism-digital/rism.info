@@ -4,13 +4,12 @@ title: New Records from the Moravian Music Foundation now in RISM
 date: 2020-07-13
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---
-
 
 _We have received the following from Barbara Strauss, [Moravian Music Foundation](https://moravianmusic.org/){:target="_blank"} (Winston-Salem, North Carolina, USA). The Salem Collegium Musicum Collection is now in RISM ([library siglum: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS){:target="_blank"})._
 
@@ -46,4 +45,3 @@ _The Collegium Musicum Salem: The Development of a Catalogue of Its Library and 
 
 _Image_ : Johann Ernst Bach, Symphony in B-flat major (cover, 1st page of 1st violin). Moravian Music Foundation, Archie K. Davis Center, Winston-Salem, NC (US-WS) SCM 123. [RISM ID no. 240643](https://opac.rism.info/search?id=240643&View=rism){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,27 +4,25 @@ title: Looking Back at 2015
 date: 2016-01-14
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2015.html
 email: contact@rism.info
 author: ''
 ---
 
-
 The year 2015 is behind us, so we'd like take a moment to look at the stories that helped shape the past twelve months. We enjoyed a year full of thousands of new musical sources in the RISM database, exciting discoveries from our users, and fantastic new databases and digital collections.
 
 The five most popular stories that we published on our website in 2015 were:
 
-1. [New CD Box Set: The RISM Complete Incipits Edition](/self_representation/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
-2. ['Earliest' polyphonic music discovered in British Library](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - published in partnership with our colleagues at the British Library
+1. [New CD Box Set: The RISM Complete Incipits Edition](/new_at_rism/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (our April Fool's joke)
+2. ['Earliest' polyphonic music discovered in British Library](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - published in partnership with our colleagues at the British Library
 3. [New Discoveries of Vivaldi in Dresden](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - by RISM user Francisco Javier Lupiáñez Ruiz
 
 Francisco Javier Lupiáñez Ruiz
 
-4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_stocks/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
-5. [Antonio Cesti's Orontea](/press_reviews/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
-
+4. [Digitized Opera Scores at the German Historical Institute in Rome](/library_collections/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - by our colleague Roland Pfeiffer at the DHI
+5. [Antonio Cesti's Orontea](/in_the_news/2015/02/02/antonio-cestis-orontea.html){:target="_blank"}- our spotlight on an opera that was playing in Frankfurt
 
 But in 2015, the story more popular than any other story (from any year), was "[Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}" from 2014.
 
@@ -50,12 +48,7 @@ RISM was also mentioned in the following articles, which we have listed on the [
 - Rose, Stephen, Sandra Tuppen, and Loukia Drosopoulou. "Writing a Big Data history of music." _Early Music_ (2015). doi: 10.1093/em/cav071 [Available online](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}.
 - Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62:1 (2015): 49-53. [Available online in 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
-We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info "Opens window for sending email").
+We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info).
 
 _Image_: Postcard, 1909. Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4d00-a3d9-e040-e00a18064a99){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

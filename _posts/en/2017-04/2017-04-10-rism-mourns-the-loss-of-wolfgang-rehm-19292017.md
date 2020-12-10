@@ -5,12 +5,11 @@ date: 2017-04-10
 lang: en
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_rism2_3c185d75bc.png"
+image: "/images/news-old-website/csm_rism2_3c185d75bc.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
 email: ''
 author: ''
 ---
-
 
 The International Inventory of Musical Sources (RISM) mourns the loss of Wolfgang Rehm, who passed away on April 6, 2017.
 
@@ -20,4 +19,3 @@ After he stepped down from his position as treasurer, he remained devoted to the
 
 RISM owes a great debt of gratitude to Wolfgang Rehm. We will always cherish his memory.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2015-06-03
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Mozart-KV-331-EA-Artaria-1784_erste-Auflage_73146a8a1b.jpg"
+image: "/images/news-old-website/csm_Mozart-KV-331-EA-Artaria-1784_erste-Auflage_73146a8a1b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html
 email: seiffert@henle.de
 author: Wolf-Dieter Seiffert
 ---
-
 
 _Dieser Beitrag stammt vom Geschäftsführer des Henle Verlags und unserem geschätzten RISM Präsidenten Wolf-Dieter Seiffert. Er wird hier mit freundlicher Genehmigung aus dem[Henle blog](http://www.henle.de/blog/en/2015/05/25/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozart%E2%80%99s-piano-sonata-in-a-major-kv-331/){:target="_blank"} veröffentlicht._
 
@@ -32,4 +31,3 @@ Wie populär insbesondere der ‘Türkische Marsch’ der Sonate wirklich ist, z
 
 Abbildung: Erstausgabe von Mozarts KV 331, Artaria, 1784
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

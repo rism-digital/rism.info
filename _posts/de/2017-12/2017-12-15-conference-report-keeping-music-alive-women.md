@@ -5,12 +5,11 @@ date: 2017-12-15
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg"
+image: "/images/news-old-website/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-report-keeping-music-alive-women-composers-in-digital-music-archives.html
 email: hyunkchang@ewha.ac.kr
 author: Hyun Kyung Chae
 ---
-
 
 _Der folgende Beitrag stammt von Park Jeong Suk (Ewha Womans University):_
 
@@ -65,7 +64,6 @@ Die Teilnehmer der Konferenz waren Wissenschaftlerinnen und Komponistinnen aus d
 · Thoughts on Composing, Composers, and Composers’ Groups (Hyo-shin Na 나효신, San Francisco-Based Composer)
 
 
-
 **Fotos (von oben nach unten):**
 
 1: Eun-Ha Kim, Chichun Chi-sun Lee, Judy Tsou, Hyun Kyung Chae, Jennifer Ward, Hyo-shin Na, Alison Tokita
@@ -84,4 +82,3 @@ Die Teilnehmer der Konferenz waren Wissenschaftlerinnen und Komponistinnen aus d
 
 _Fotos mit freundlicher Genehmigung von_ _Park Jeong Suk._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,16 +5,15 @@ date: 2016-05-17
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Blumen_8ef8eabd25.jpg"
+image: "/images/news-old-website/csm_Blumen_8ef8eabd25.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-survey-published.html
 email: contact@rism.info
 author: ''
 ---
 
-
 Wir freuen uns, Ihnen die ausführlichen Ergebnisse der RISM-Nutzerumfrage auf der RISM Website präsentieren zu können:
 
-[Die RISM-Nutzerumfrage: Auswertung](/de/community/rism-nutzerstudie.html#c3127) (Mai 2016; auch in Englisch verfügbar)
+[Die RISM-Nutzerumfrage: Auswertung](/community/survey.html#c3127) (Mai 2016; auch in Englisch verfügbar)
 
 Die Umfrage wurde vom 30. Oktober 2014 bis 28. Februar 2015 durchgeführt. Wir erhielten 551 Antworten von Teilnehmern aus der ganzen Welt.
 
@@ -25,15 +24,5 @@ Wir haben viel über Sie – liebe Katalogbenutzer und Katalogbenutzerinnen – 
 Wir bedanken uns bei allen, die sich die Zeit genommen haben, um den Fragebogen auszufüllen. Wenn Sie Fragen oder Kommentare zur Umfrage oder RISM haben, zögern Sie nicht und [kontaktieren](mailto:contact@rism.info) Sie uns.
 
 
-
 _Abbildung: Recueil d'Airs sérieux et à boire de différents auteurs_, bei Christophe Ballard (in Paris), 1713, S.20. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}. RISM B/II: p.313.
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

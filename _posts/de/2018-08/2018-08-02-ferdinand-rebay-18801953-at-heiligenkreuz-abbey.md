@@ -4,13 +4,12 @@ title: Ferdinand Rebay (1880–1953) im Stift Heiligenkreuz
 date: 2018-08-02
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Rebay_Ferdinand_84f8b63176.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
-
 
 _Dieser Beitrag erreichte uns von Pater Roman_ _Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
@@ -35,5 +34,3 @@ Ein weiterer Teil von Rebays Kompositionen ist im Besitz der Österreichischen N
 Seine letzte Ruhestätte befindet sich auf demWiener Zentralfriedhof.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Franz Lehárs musikalischer Nachlass in Bad Ischl
 date: 2020-04-30
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
 email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
-
 
 _Den folgenden Beitrag erhielten wir von unserer RISM-Mitarbeiterin Sandra Föger (RISM Österreich):_
 
@@ -29,5 +28,3 @@ Bisher sind in der RISM-Datenbank aus dem Notenbestand des Lehár-Nachlasses üb
 _Abbildung_: Die Franz Lehár Villa in Bad Ischl. Foto von Toffel über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

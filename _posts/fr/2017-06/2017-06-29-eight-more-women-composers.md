@@ -4,13 +4,12 @@ title: Eight More Women Composers
 date: 2017-06-29
 lang: fr
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Nachzueglerinnen_3f80c883aa.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Nachzueglerinnen_3f80c883aa.jpg"
 old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/eight-more-women-composers.html
 email: ''
 author: ''
 ---
-
 
 This past International Women's Day, 8 March 2017, [we published a list](/events/2017/03/08/international-womens-day-women-composers-in.html){:target="_blank"} of 800 women composers who have sources in the RISM database. We are happy to say that since then, we have been able to add eight more names to the list. Some of the composers' works had been in the RISM database already, but the names were not on our list because they had not yet been fully edited by us and thus not searchable. The complete list, including the eight new composers, can be found on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"}.
 
@@ -53,9 +52,6 @@ _Rondeau brillant pour le piano-forte_
 Printed Wien, Pietro Mechetti qdm. Carlo. RISM A/I: [ZZ 223 I,1](https://opac.rism.info/search?id=00000991007438){:target="_blank"}
 
 
-
 _Image_: Comtesse de Vidampierre, "L'heureuse securité," published in _Mercure de France_, July 1771, p. 80. Via [Bayerische Staatsbibliothek](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10407393-8){:target="_blank"}. RISM A/I: [V 1456](https://opac.rism.info/search?id=00000990066466){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Jahresbericht 2017
 date: 2018-02-26
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2017-annual-report.html
 email: ''
 author: ''
 ---
-
 
 Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://rism.info/?id=861) veröffentlicht worden. Einige Punkte sollen hier hervorgehoben werden:
 
@@ -18,7 +17,7 @@ Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://ri
 
 **Beiträge der nationalen Arbeitsgruppen:** Die folgenden nationalen Arbeitsgruppen haben insgesamt über 31.000 neue Einträge in [Muscat](http://rism.info/?id=788), dem Erfassungsprogramm des RISM, erfasst: Argentinien, Belgien, Deutschland, Italien, Österreich, Polen, Slowakei, Slovenien, Südkorea, Tschechische Republik, Ungarn und die Vereinigten Staaten.
 
-**Geplante Datenimporte:** RISM arbeitet weiterhin mit [RISM Frankreich,](http://ccfr.bnf.fr/){:target="_blank"} [ICCU (Italien)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} und der [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (USA) wegen des Datenaustauschs von Musikquellen in die RISM Datenbank. In diesem Jahr konnte eine [Kooperation](/self_representation/2018/02/08/contract-signed-between-rism-and-unam.html){:target="_blank"} mit dem [Seminario de Música en la nueva España y el México independiente](http://www.musicat.unam.mx/v2013/index.html){:target="_blank"} an der Universidad Nacional Autónoma de México (UNAM) vereinbart werden. Dabei wird RISM die Beschreibungen der historischen Bestände der Kathedrale von Mexiko City erhalten.
+**Geplante Datenimporte:** RISM arbeitet weiterhin mit [RISM Frankreich,](http://ccfr.bnf.fr/){:target="_blank"} [ICCU (Italien)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} und der [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (USA) wegen des Datenaustauschs von Musikquellen in die RISM Datenbank. In diesem Jahr konnte eine [Kooperation](/new_at_rism/2018/02/08/contract-signed-between-rism-and-unam.html){:target="_blank"} mit dem [Seminario de Música en la nueva España y el México independiente](http://www.musicat.unam.mx/v2013/index.html){:target="_blank"} an der Universidad Nacional Autónoma de México (UNAM) vereinbart werden. Dabei wird RISM die Beschreibungen der historischen Bestände der Kathedrale von Mexiko City erhalten.
 
 **Katalognutzer:** Der [Online-Katalog](https://opac.rism.info/){:target="_blank"} wurde im Monat durchschnittlich von 8.400 Per­sonen bei 19.830 Besuchen genutzt, das sind im Jahr: 101.200 Personen mit 238.000 Seitenzugriffen. Der Online-Katalog ist durch eine Zusammenarbeit des RISM mit der Bayerischen Staatsbibliothek, München, und der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz möglich. Ein neues Release ist für Anfang 2018 geplant.
 
@@ -40,4 +39,3 @@ Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://ri
 
 Auf ein erfolgreiches und produktives 2018!
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

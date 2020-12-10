@@ -4,13 +4,12 @@ title: RISM und die Lerche
 date: 2019-11-25
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-on-a-lark.html
 email: ''
 author: ''
 ---
-
 
 Da hier in Frankfurt der Winter vor der Tür steht (wenn auch noch ohne Schnee), widmen wir uns heute dem Vogel des Jahres 2019 und sind gedanklich so schon dem Frühling ein Stück näher. Hier in Deutschland ist die Feldlerche der [Vogel des Jahres](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/vogel-des-jahres/feldlerche/index.html){:target="_blank"}, der jährlich vom NABU (Naturschutzbund Deutschland) gewählt wird. Die Feldlerche gilt als Frühlingsbote, doch ihr Lebensraum verschwindet und so nimmt auch die Population ab.
 
@@ -26,9 +25,6 @@ Mendelssohns Lied erscheint auch an [anderer Stelle bei](https://opac.rism.info/
 
 Begeben Sie sich doch selbst in unserem Online-Katalog auf die Suche nach der Lerche, egal, ob als [skylark](https://opac.rism.info/search?View=rism&q=skylark){:target="_blank"}, [woodlark](https://opac.rism.info/search?View=rism&q=woodlark){:target="_blank"}, [lark](https://opac.rism.info/search?View=rism&q=lark){:target="_blank"}, [Lerche](https://opac.rism.info/search?View=rism&q=Lerche){:target="_blank"} oder [alouette](https://opac.rism.info/search?View=rism&q=alouette "external-link-new-window").
 
-
 _Abbildungsnachweis_: Seite 5 von Felix Mendelssohn Bartholdys Autograph des "Lerchengesang" Staatsbibliothek zu Berlin - PK (D-B) 55 MS 61 ([RISM ID no. 460006100](https://opac.rism.info/search?id=460006100&View=rism){:target="_blank"}).  [resolver.staatsbibliothek-berlin.de/SBB00001F8800000000](http://resolver.staatsbibliothek-berlin.de/SBB00001F8800000000)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

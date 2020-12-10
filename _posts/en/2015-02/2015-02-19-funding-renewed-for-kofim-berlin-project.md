@@ -4,13 +4,12 @@ title: Funding Renewed for KoFIM Berlin Project
 date: 2015-02-19
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Verlaengerung_KOFIM_27714cfe97.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Verlaengerung_KOFIM_27714cfe97.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/funding-renewed-for-kofim-berlin-project.html
 email: Martina.Rebmann@sbb.spk-berlin.de
 author: Martina Rebmann
 ---
-
 
 _The following announcement has come to us from Martina Rebmann (Staatsbibliothek zu Berlin):_
 
@@ -21,7 +20,5 @@ Completely new relationships between the manuscripts come to light through such 
 More information can be found on the [project's website](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/){:target="_blank"}.
 
 
-
 Photo: Music manuscript being analyzed with an infrared camera on a Graz book table
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

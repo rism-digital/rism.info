@@ -5,12 +5,11 @@ date: 2019-04-18
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Lim__korea_Chang_family_8875715a5b.jpg"
+image: "/images/news-old-website/csm_Lim__korea_Chang_family_8875715a5b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
 email: jchangsfz@gmail.com
 author: Dr. JeongYoun Chang
 ---
-
 
 Der folgende Beitrag stammt von _Dr. JeongYoun Chang ([RISM South Korea](http://ewha.kor.rism.info/index.php?id=531#c2385)):_
 
@@ -25,9 +24,7 @@ Im Rahmen der Forschungen zu Bessie Lims Leben stellte Dr. Chang auch erstmals "
 Bessie Lims gesamtes Leben wurde von ihrem christlichen Glauben geprägt und zeigt, wie sie dank der Musik ihren Platz innerhalb der Gesellschaft fand. Als Sängerin, Komponistin, Lehrerin, Sozial- und Unabhängigkeitsaktivistin erkannte sie mit klarem Blick die Probleme der Zeit. In ihren verschiedenen Funktionen glaubte sie daran, dass Musik die Gesellschaft verbessern kann, indem sie den Menschen zurückgab, was sie gelernt hatte. In einem Zeitungsinterview bezeichnete sie dies als "must-do" für Musiker. Bessie Lim war die erste Musikerin im modernen Korea, die sich ganz der Wissensvermittlung verschrieb und an die Möglichkeit der Veränderung durch Handeln glaubte.
 
 
-
 _Abbildungen_:
 Oben: Bessie Lim und Bernard Kim. Mit freundlicher Genehmigung von Bessie Lims Familie.
 Unten: Handschrift von Bessie Lims "My Bible" ([RISM ID no. 1001061643](https://opac.rism.info/search?id=1001061643&View=rism&Language=en){:target="_blank"}). Mit freundlicher Genehmigung von JeongYoun Chang.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

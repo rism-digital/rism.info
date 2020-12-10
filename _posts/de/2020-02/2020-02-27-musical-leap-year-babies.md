@@ -5,12 +5,11 @@ date: 2020-02-27
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
+image: "/images/news-old-website/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-leap-year-babies.html
 email: ''
 author: ''
 ---
-
 
 Prominente Schalttag-Geburtstagskinder sind selten und unter den Komponisten dürfte [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=Gioachino%20Rossini){:target="_blank"} (1792-1868) der bekannteste sein. Doch in der RISM-Datenbank sind noch weitere Personen zu finden, die an einem 29. Februar Geburtstag feiern konnten.
 
@@ -40,12 +39,6 @@ An einem 29. Februar gestorben sind:
 - [Philippe Rogier](https://opac.rism.info/search?View=rism&q=Philippe%20Rogier){:target="_blank"} (ca. 1561-1596)
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio){:target="_blank"} (ca. 1536-1592)
 
-
-
-
-
 _Abbildung_: Gioachino Rossini, _Lieder_, [Lithographie von C. Constans, 19. Jahrhundert](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Neue Quellen aus der Moravian Music Foundation jetzt bei RISM
 date: 2020-07-13
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---
-
 
 _Der folgende Beitrag stammt von Barbara Strauss, [Moravian Music Foundation](https://moravianmusic.org/){:target="_blank"} (Winston-Salem, North Carolina, USA). Die Salem Collegium Musicum Collection ist jetzt bei RISM ([Bibliotheks-Sigel: US-WS](https://opac.rism.info/search?View=rism&siglum=US-WS){:target="_blank"}). Die deutsche Übersetzung ist gekürzt._
 
@@ -29,5 +28,3 @@ Ende des 18. Jahrhunderts und am Beginn des 19. Jahrhunderts wurden Musikdrucke 
 _Abbildung_: Johann Ernst Bach, Sinfonie in B-Dur (Titelseite, erste Seite der 1. Violine). Moravian Music Foundation, Archie K. Davis Center, Winston-Salem, NC (US-WS) SCM 123. [RISM ID no. 240643](https://opac.rism.info/search?id=240643&View=rism){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

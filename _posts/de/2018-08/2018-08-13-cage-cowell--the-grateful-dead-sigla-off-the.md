@@ -4,15 +4,14 @@ title: 'Cage, Cowell & the Grateful Dead: Sigel abseits der ausgetreteten RISM-P
 date: 2018-08-13
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neue_Sigel_Aug_2018_2efb1ce1f6.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neue_Sigel_Aug_2018_2efb1ce1f6.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cage-cowell-the-grateful-dead-sigla-off-the-beaten-rism-track.html
 email: ''
 author: ''
 ---
 
-
-Die meisten unserer Leser sind mit den RISM-Bibliothekssigeln vertraut, bei denen es sich um Abkürzungen handelt, die sich in knapper Form auf eine Institution beziehen. Wir versuchen jede Institution, die Materialien zur Musikforschung besitzt, weltweit zu dokumentieren und mit einem Sigel zu versehen. Alle Institutionen mit einem Sigel können im Online-Verzeichnis der RISM-Bibliothekssigel gesucht werden: [http://www.rism.info/de/rism-bibliothekssigel/](/de/rism-bibliothekssigel.html)
+Die meisten unserer Leser sind mit den RISM-Bibliothekssigeln vertraut, bei denen es sich um Abkürzungen handelt, die sich in knapper Form auf eine Institution beziehen. Wir versuchen jede Institution, die Materialien zur Musikforschung besitzt, weltweit zu dokumentieren und mit einem Sigel zu versehen. Alle Institutionen mit einem Sigel können im Online-Verzeichnis der RISM-Bibliothekssigel [gesucht werden](/community/sigla.html).
 
 Unter "jede Institution weltweit" verstehen wir wirklich jede Institution. Wir benötigen keine Quellen im RISM-Katalog, um ein Sigel zu erstellen, und die Materialien müssen nicht unbedingt alt sein.
 
@@ -43,7 +42,3 @@ Neu im Sigel-Verzeichnis sind auch Institutionen mit Quellen in der RISM-Datenba
 - [Bartók Archiv](http://zti.hu/index.php/hu/bartok){:target="_blank"} (Bartók Archívum), Institute for Musicology of the Research Centre for the Humanities, Hungarian Academy of Sciences: **H-Bbba**
 - [Zoltán Kodály Archiv](http://kodaly.hu/hu/muzeum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
 - [Bartók Béla Memorial House](http://www.bartokmuseum.hu/){:target="_blank"} (Bartók Béla Emlékház): **H-Bbeh**
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

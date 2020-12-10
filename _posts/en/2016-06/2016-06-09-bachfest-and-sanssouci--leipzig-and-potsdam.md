@@ -5,12 +5,11 @@ date: 2016-06-09
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg"
+image: "/images/news-old-website/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
 email: ''
 author: ''
 ---
-
 
 Leipzig'sfirst **Bach Festival** took place in 1908. [Bachfest](http://www.bachfestleipzig.de/en/bachfest){:target="_blank"} has been held annually there since 1999, with a different theme each year. This year, from June 10 to 19, the theme is Secrets of Harmony ([program in PDF](http://www.bachfestleipzig.de/sites/default/files/files/Bachfest2016_Programm.pdf){:target="_blank"}).
 
@@ -26,4 +25,3 @@ There are [ten sources](https://opac.rism.info/search?View=rism&q=sanssouci){:ta
 
 _Image_: Frederick the Great, Concerto for 2 Flutes and Cembalo, D major. Darmstadt, Universitäts- und Landesbibliothek, Musikabteilung (D-DS) Mus. ms. 320 (RISM ID no. [450001960](https://opac.rism.info/search?id=450001960){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

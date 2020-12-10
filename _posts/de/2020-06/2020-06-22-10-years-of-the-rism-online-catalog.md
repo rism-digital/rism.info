@@ -5,14 +5,13 @@ date: 2020-06-22
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png"
+image: "/images/news-old-website/csm_RISM_OPAC_10_8b69fad6ae.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog.html
 email: klaus.keil@rism.info
 author: Klaus Keil
 ---
 
-
-[Im Juni vor zehn Jahren](/press_reviews/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"} konnte zum ersten Mal der kostenlose [RISM Online-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} freigeschaltet werden. Seither ist nicht nur die Datenmenge erheblich angestiegen, auch wurde die Software regelmäßig upgedated und erweitert.
+[Im Juni vor zehn Jahren](/in_the_news/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"} konnte zum ersten Mal der kostenlose [RISM Online-Katalog](https://opac.rism.info/index.php?id=4){:target="_blank"} freigeschaltet werden. Seither ist nicht nur die Datenmenge erheblich angestiegen, auch wurde die Software regelmäßig upgedated und erweitert.
 
 Die Datenmenge ist gestiegen von ursprünglich 700.000 Titel mit Beschreibungen von Musikhandschriften auf zuletzt 1.215.413 Titel mit Beschreibungen von gedruckten und handschriftlichen Quellen, sowie zusätzlich 138.639 Personennamen und 60.970 Institutionen aus den Normdateien.
 
@@ -36,5 +35,3 @@ Klaus Keil
 im Juni 2020
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

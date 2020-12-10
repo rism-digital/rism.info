@@ -4,15 +4,14 @@ title: Neue RISM Arbeitsgruppe in Poznań (Polen)
 date: 2015-08-31
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Posen_54be13d6c0.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Posen_54be13d6c0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
 email: almadry@poczta.onet.pl
 author: ''
 ---
 
-
-Am Musikwissenschaftlichen Institut der Adam Mickiewicz-Universität in Posen wurde im vergangenen Juni eine neue RISM-Arbeitsgruppe gegründet. Unter der Leitung von Dr. habil. Alina Mądry mit Unterstützung von Dr. habil. Magdalena Walter-Mazur erarbeitet die neue[Posener RISM-Gruppe](/de/workgroups/poland-poznan-adam-mickiewicz-university/home.html) mit interessierten Studenten der Historischen Musikwissenschaft die Dokumentation von Posener Musikalienbeständen für das RISM. Derzeit befasst sich die neue Arbeitsgruppe mit Musikhandschriften, die sich im Posener Diözesanarchiv (PL-Pa) befinden, insbesondere mit der Posener Provenienz Kościół farny pw. św. Marii Magdaleny (dt.: Pfarrkirche St. Maria Magdalena). Für die Dokumentation dieser Sammlung verwendet die Posener Arbeitsgruppe das Katalogisierungsprogramm Kallisto des RISM. Wir freuen uns darauf, die Arbeitsergebnisse im RISM Online-Katalog bald für alle zugänglich machen und mit der internationalen Fachwelt teilen zu können.
+Am Musikwissenschaftlichen Institut der Adam Mickiewicz-Universität in Posen wurde im vergangenen Juni eine neue RISM-Arbeitsgruppe gegründet. Unter der Leitung von Dr. habil. Alina Mądry mit Unterstützung von Dr. habil. Magdalena Walter-Mazur erarbeitet die neue[Posener RISM-Gruppe](/international/working-groups.html) mit interessierten Studenten der Historischen Musikwissenschaft die Dokumentation von Posener Musikalienbeständen für das RISM. Derzeit befasst sich die neue Arbeitsgruppe mit Musikhandschriften, die sich im Posener Diözesanarchiv (PL-Pa) befinden, insbesondere mit der Posener Provenienz Kościół farny pw. św. Marii Magdaleny (dt.: Pfarrkirche St. Maria Magdalena). Für die Dokumentation dieser Sammlung verwendet die Posener Arbeitsgruppe das Katalogisierungsprogramm Kallisto des RISM. Wir freuen uns darauf, die Arbeitsergebnisse im RISM Online-Katalog bald für alle zugänglich machen und mit der internationalen Fachwelt teilen zu können.
 
 Die Kontaktdaten sind:
 
@@ -28,11 +27,5 @@ E-Mail: [almadry@poczta.onet.pl](mailto:almadry@poczta.onet.pl) (Mądry)
 Homepage: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/)
 
 
-
 Abbildung: Titelblatt von Wojciech Dankowski, _Regina caeli_
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

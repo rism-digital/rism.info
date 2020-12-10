@@ -4,13 +4,12 @@ title: 'Catalog of the Works of Giovanni Pierluigi da Palestrina: A New Project'
 date: 2017-02-02
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Palestrina-1_b6437c0fbf.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Palestrina-1_b6437c0fbf.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html
 email: carola.finkel@hfmdk-frankfurt.de
 author: Carola Finkel
 ---
-
 
 _We have received the following from Carola Finkel:_
 
@@ -25,12 +24,6 @@ The novel aspect of this project involves linking a catalog of works and sources
 This DFG project is being carried out in cooperation with [Schott Music](https://de.schott-music.com/){:target="_blank"} and RISM.
 
 
-
-![Palestrina catalog](http://rism.info/fileadmin/content/news/Palestrina-2.jpg)
+![Palestrina catalog](/resources-old-website/news/Palestrina-2.jpg)
 _A view of the search screen_
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,15 +4,14 @@ title: Eintrag Stift Lambach auf halbem Wege
 date: 2015-07-20
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Lambach-Lecq_0af6a169e6.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Lambach-Lecq_0af6a169e6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/work-on-lambach-abbey-halfway-done.html
 email: lecqerbg@xs4all.nl
 author: Frank van der Lecq
 ---
 
-
-**_Frank van der Lecq_** _aus den Niederlanden beschreibt seine Katalogisierungsarbeiten des Stifts Lambach (A-LA) für RISM:_
+**Frank van der Lecq**aus den Niederlanden beschreibt seine Katalogisierungsarbeiten des Stifts Lambach (A-LA) für RISM:_
 
 Der Eintrag in RISM der Musiksammlung des Oberösterreichischen Benediktinerstifts Lambach (A-LA) ist fast zur Hälfte abgeschlossen. Von der instrumentalen Musik und den Messen brauchen nur noch Einzelheiten ergänzt zu werden. Der Eintrag der kleineren Vokalwerke ist in vollem Gang. Der Abschluß des Projekts wird 2018 erwartet. Alle bisher eingegebenen Titel finden Sie [hier](https://opac.rism.info/search?View=rism&siglum=A-LA){:target="_blank"}.
 
@@ -32,4 +31,3 @@ Von Peter Deinhammer kommen immer mehr Berichte, dass das Interesse im Lambacher
 
 Foto: Frank van der Lecq bei der Arbeit (mit freundlicher Genehmigung des Autors).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

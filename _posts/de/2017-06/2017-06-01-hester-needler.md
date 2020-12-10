@@ -5,12 +5,11 @@ date: 2017-06-01
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Needler_Hester_e14b18b521.jpg"
+image: "/images/news-old-website/csm_Needler_Hester_e14b18b521.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/hester-needler.html
 email: ''
 author: ''
 ---
-
 
 Mit Buchstabe N starten wir die zweite Hälfte des Alphabets innerhalb unserer Serie RISM A-Z. Das heutige N steht für Hester Needler.
 
@@ -25,5 +24,3 @@ Die [Manuskripte, die Needler besaß](https://opac.rism.info/search?View=rism&q=
 _Abbildung_ : Das Montagu House - das alte British Museum - von Michael Angelo Rooker (1746-1801), 1778. Aus [British Museum Collection Online](http://www.britishmuseum.org/research/collection_online/search.aspx){:target="_blank"}, Museum number 1868,0328.334 ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

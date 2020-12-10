@@ -5,12 +5,11 @@ date: 2019-03-21
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
+image: "/images/news-old-website/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-digital-musicology.html
 email: ''
 author: ''
 ---
-
 
 Die neueste Ausgabe des _International Journal on Digital Libraries_ ist ein Spezialheft zum Thema "Digital Libraries for Musicology", in dem RISM einen Aufsatz veröffentlicht hat:
 
@@ -21,5 +20,3 @@ In dieser Sonderausgabe schreiben [die Gastherausgeber Kevin R. Page und J. Step
 In unserem Aufsatz, der seit 2017 (in einer Vorausgabe) online zur Verfügung steht, beschreiben wir, in welcher Form die RISM-Daten verfügbar sind und geben Beispiele für ihre Verwendung außerhalb von RISM. Wir sind immer daran interessiert, von Fällen zu erfahren, in denen RISM-Daten wiederverwendet werden.Lassen Sie uns bitte wissen, ob, wann und wie Sie sie verwenden.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

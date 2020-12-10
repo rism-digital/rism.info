@@ -5,14 +5,13 @@ date: 2020-06-22
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_OPAC_10_8b69fad6ae.png"
+image: "/images/news-old-website/csm_RISM_OPAC_10_8b69fad6ae.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog.html
 email: klaus.keil@rism.info
 author: Klaus Keil
 ---
 
-
-[Ten years ago this month](/press_reviews/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"}, the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was first released free of charge. Not only has the amount of data significantly increased since then, but the catalog's software is regularly updated and improved.
+[Ten years ago this month](/in_the_news/2010/06/30/new-online-music-catalogue-over-700000-entries.html){:target="_blank"}, the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} was first released free of charge. Not only has the amount of data significantly increased since then, but the catalog's software is regularly updated and improved.
 
 The amount of data has increased from an initial 700,000 records with descriptions of music manuscripts to today's 1,215,413 records with descriptions of printed and manuscript sources, as well as an additional 138,639 personal names and 60,970 institutions from the authority files.
 
@@ -36,5 +35,3 @@ Klaus Keil
 June 2020
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

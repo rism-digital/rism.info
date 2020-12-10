@@ -5,16 +5,15 @@ date: 2016-06-23
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
+image: "/images/news-old-website/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
 email: ''
 author: ''
 ---
 
-
 Dr. [Maciej Jochymczyk](http://jagiellonian.academia.edu/MaciejJochymczyk){:target="_blank"}, instructor at the Musicology Institute of Jagiellonian University (Kraków, Poland), has recently published his second book about composer Amandus Ivanschiz (1727-1758), which follows [_Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727-1758)_](http://www.polihymnia.pl/polihymniaS/sklep/index.php?products=product&prod_id=711){:target="_blank"} (Lublin: Wydawnictwo Polihymnia, 2014).
 
-**_Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
+**Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
 
 This book will certainly attract widespread attention, particularly because there has been little published research about Ivanschiz to date. The book is in two parts and begins with new information about the composer's life and works, drawing from a broad body of sources. The second part is a comprehensive thematic catalog of works, which includes Ivanschiz's sacred music and instrumental works.
 
@@ -24,4 +23,3 @@ According to new findings uncovered by Jochymczyk, Ivanschiz died in 1758 at the
 
 This book is the first book that undertakes a critical appraisal of Ivanschiz's oeuvre on the basis of extant handwritten musical sources. It fills a gap in our knowledge of the pre-classical period and monastic musical life.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

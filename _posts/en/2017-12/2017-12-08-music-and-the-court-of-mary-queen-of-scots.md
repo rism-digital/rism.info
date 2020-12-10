@@ -5,12 +5,11 @@ date: 2017-12-08
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
+image: "/images/news-old-website/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-and-the-court-of-mary-queen-of-scots.html
 email: ''
 author: ''
 ---
-
 
 Mary, Queen of Scots (1542-1587) is a complicated figure and in many ways a tragic one. After a childhood in France, Mary Stuart began her personal reign in Scotland at the age of 18 in a country that she barely knew. During her rule she showed no gift for leadership, could not gain control of the political situation, and as a ruler did very little. She was implicated in the murder of her second husband, Henry Stuart, Lord Darnley, through her close association with James Hepburn, Earl of Bothwell, who was suspected to be behind Darnley's murder and whom Mary married three months later. Underneath this specter of conspiracy, murder, and adultery, Mary was forced to abdicate in 1567 and she escaped to England to seek assistance from her cousin Queen Elizabeth. Here in Protestant England the Catholic Mary was once again viewed with suspicion and dogged by political intrigue, causing Elizabeth to keep Mary imprisoned for nearly two decades. Mary, Queen of Scots was found guilty of treason and beheaded in 1587.
 
@@ -30,5 +29,3 @@ Jenny Wormald, _Mary, Queen of Scots: Politics, Passion and a Kingdom Lost_ (Lon
 _Image_: "Mary, Queen of Scots, 1542 - 1587. Reigned 1542 - 1567," artist unknown, about 1610 - 1615. [Scottish National Portrait Gallery](https://www.nationalgalleries.org/art-and-artists/3235/6004/mary-queen-scots-1542-1587-reigned-1542-1567){:target="_blank"}, PG 1073, CC-BY-NC 3.0.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

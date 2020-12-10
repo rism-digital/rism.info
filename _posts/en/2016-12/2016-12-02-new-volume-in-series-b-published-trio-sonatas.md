@@ -5,12 +5,11 @@ date: 2016-12-02
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Triosonate_ffd47d31b6.jpg"
+image: "/images/news-old-website/csm_Triosonate_ffd47d31b6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-series-b-published-trio-sonatas.html
 email: ''
 author: ''
 ---
-
 
 The newest volume in RISM's [Series B](/publications.html#c2619) has just been published:
 
@@ -23,5 +22,3 @@ The trio sonatas in this publication describe works for two upper voices and bas
 In the catalog, sonatas are listed with their movements, keeping the original names of movements and time signatures. Brief commentary contains comments on the repertory and in some cases biographical information about the composer. The complex database offers different ways of searching, including publisher, place of publication, dedicatee, year of publication, key, and name of movement. (For the database, go to [http://www.uzh.ch/musik/ssl-dir/mwitriosonate/](http://www.uzh.ch/musik/ssl-dir/mwitriosonate/) and register with the access code **3Sona10** ). The database will be imported into the RISM online catalog at a later point in time.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

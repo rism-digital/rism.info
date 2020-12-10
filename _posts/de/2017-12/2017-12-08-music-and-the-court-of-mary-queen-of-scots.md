@@ -5,12 +5,11 @@ date: 2017-12-08
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
+image: "/images/news-old-website/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-the-court-of-mary-queen-of-scots.html
 email: ''
 author: ''
 ---
-
 
 Maria Stuart, Königin von Schottland (1542-1587) ist eine komplexe und in vielerlei Hinsicht tragische Figur. Nach einer Kindheit in Frankreich, übernahm sie im Alter von 18 Jahren die persönliche Regentschaft über Schottland - einem Land, das sie kaum kannte. Während ihrer Herrschaft konnte sie keine Kontrolle über die politische Situation gewinnen und trat als Herrscherin wenig hervor. Sie war durch die enge Verbindung zu James Hepburn, Earl of Bothwell in den Mord an ihrem zweiten Ehemann Henry Stuart, Lord Darnley verwickelt. Nur drei Monate nach dessen Tod heirateten Maria Stuart und James Hepburn. Unter dem Verdacht der Verschwörung, des Mordes und des Ehebruchs musste Maria Stuart 1567 abdanken und floh nach England zu ihrer Cousine Queen Elizabeth. Im protestantischen England wurde die katholische Maria erneut mit Argwohn betrachtet und von politischen Intrigen verfolgt, was Elizabeth veranlasste Maria für fast zwei Jahrzehnte zu inhaftieren. Maria Stuart, Königin von Schottland wurde 1587 des Hochverrats für schuldig befunden und enthauptet.
 
@@ -23,7 +22,6 @@ In den vergangenen Jahrhunderten haben Komponisten Ereignisse aus Maria Stuarts 
 Das dramatische Leben der Maria Stuart, Königin von Schottland hat sich auch erfolgreich auf die Bühne transferiert. Friedrich Schillers Schauspiel _Maria Stuart_ (1800) war die Vorlage für zahlreiche Opernvertonungen. Die berühmtesteist wohl die[_Maria Stuarda_](https://opac.rism.info/search?View=rism&author=Donizetti&q=maria+stuarda){:target="_blank"} (1835) von Gaetano Donizetti. Weitere Komponosten, die sich auf Schillers Werk stützten, sind [Rudolf Zumsteeg](https://opac.rism.info/search?View=rism&author=Zumsteeg&q=maria+stuart){:target="_blank"} (1801), [Karl Rungenhagen](https://opac.rism.info/search?id=469493802){:target="_blank"} (1817), [Saverio Mercadante](https://opac.rism.info/search?id=852032047){:target="_blank"} (1821), [Friedrich Wollank](https://opac.rism.info/search?id=201005446){:target="_blank"} (19. Jahrhundert), [Werner Egk](https://opac.rism.info/search?id=1001020698){:target="_blank"} (1932) und [Günther Könitzer](https://opac.rism.info/search?id=280001535){:target="_blank"} (1956). Thea Musgraves Oper (1977), basierend auf ihrem eigenen Libretto, ist nicht in RISM.
 
 
-
 _Literatur:_
 Jayne Elizabeth Lewis, _Mary Queen of Scots: Romance and Nation_ (London: Routledge, 1998).
 D. James Ross, _Musick Fyne: Robert Carver and the Art of Music in Sixteenth Century Scotland_ (Edinburgh: Mercat Press, 1993).
@@ -32,5 +30,3 @@ Jenny Wormald, _Mary, Queen of Scots: Politics, Passion and a Kingdom Lost_ (Lon
 _Abbildung_: "Mary, Queen of Scots, 1542-1587. Reigned 1542-1567," unbekannter Künstler, um 1610-1615. [Scottish National Portrait Gallery](https://www.nationalgalleries.org/art-and-artists/3235/6004/mary-queen-scots-1542-1587-reigned-1542-1567){:target="_blank"}, PG 1073, CC-BY-NC 3.0.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

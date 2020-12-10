@@ -5,12 +5,11 @@ date: 2020-05-18
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
+image: "/images/news-old-website/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wilhelmine-schroeder-devrient-1804-1860.html
 email: ''
 author: ''
 ---
-
 
 "This is a formidable woman - my ideal in art!" said Clara Schumann about the most important German singer of the 19th century, [Wilhelmine Schröder-Devrient](https://opac.rism.info/search?View=rism&q=Schr%C3%B6der+Devrient+Wilhelmine&Language=en){:target="_blank"} (born 6 December 1804 in Hamburg, died 26 January 1860 in Coburg).
 
@@ -22,9 +21,6 @@ During her Dresden period, guest appearances took the singer to Paris (1830, 183
 
 As a concert singer, Wilhelmine Schröder-Devrient appeared once again on stage in 1856, performing lieder by Franz Schubert, Beethoven, and Felix Mendelssohn Bartholdy. In 1859 she took leave of the stage and died on 26 January 1860 in Coburg.
 
-
 _Image_: Madame Schröder as Adriano in Richard Wagner's _Rienzi_, from Johann Jacob Weber, ed., 1803–1880 - _Illustrirte Zeitung_ no. 7, 12 August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (public domain).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

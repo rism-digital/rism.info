@@ -5,12 +5,11 @@ date: 2019-07-25
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Wagner_Slub_blog_991559831b.png"
+image: "/images/news-old-website/csm_Wagner_Slub_blog_991559831b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
 email: andrea.hammes@slub-dresden.de
 author: Andrea Hammes
 ---
-
 
 _This post by Andrea Hammes has been adapted from the [original that appeared on the SLUB Blog](https://blog.slub-dresden.de/beitrag/2019/05/22/geburtstagsgeschenk-fuer-richard-wagner-einzigartige-auffuehrungsmaterialien-zu-tannhaeuser-und-me/){:target="_blank"} ([CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}):_
 
@@ -26,9 +25,7 @@ Since 2015, the SLUB Dresden, supported by the Free State of Saxony, has been co
 
 The digitized sources for "Die Meistersinger von Nürnberg" are available at [www.slubdd.de/meistersinger](https://sachsen.digital/werkansicht/dlf/322496/1/){:target="_blank"} and those for "Tannhäuser" at [www.slubdd.de/tannhaeuser](https://sachsen.digital/werkansicht/dlf/322452/1/){:target="_blank"}.
 
-
 _Image_: Richard Wagner, Tannhäuser, timpani part. Manuscript in D-Dl Mus.5876-F-510 ([RISM ID no. 270002005](https://opac.rism.info/search?id=270002005&View=rism&Language=en){:target="_blank"}); [available online](https://digital.slub-dresden.de/werkansicht/dlf/72230/262/0/){:target="_blank"}.
 
 _Other Wagner sources from the [SLUB in RISM can be found here](https://opac.rism.info/search?View=rism&siglum=D-Dl&author=Wagner+Richard&Language=en){:target="_blank"}._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

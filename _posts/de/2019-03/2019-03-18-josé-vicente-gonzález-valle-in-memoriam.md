@@ -5,14 +5,13 @@ date: 2019-03-18
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
+image: "/images/news-old-website/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jose-vicente-gonzalez-valle-in-memoriam.html
 email: ''
 author: ''
 ---
 
-
-Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/de/workgroups/spain-barcelona-consejo-superior-de-investigaciones-cientificas-institucion-mila-y-fontanals-u-ei-musicologia/home.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
+Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/international/working-groups.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
 
 José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissenschaftler, ein guter Organisator und ein lieber, freundlicher Herr. Mit RISM kam er während seines Studiums in München bei Theodor Göllner in Berührung. Unser damaliger Präsident, Dr. Harald Heckmann, schreibt in einem Bericht vom 23. Janaur 1990 an seine Vorstandskollegen:
 
@@ -22,7 +21,7 @@ José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissensc
 
 Diese Zitate mögen belegen, wie verdienstvoll José Vicente González Valle für RISM in Spanien gewirkt hat.
 
-Seit 2004 war Herr González Valle Mitglied des Vereins ["Internationales Quellenlexikon der Musik e.V."](/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html) .
+Seit 2004 war Herr González Valle Mitglied des Vereins ["Internationales Quellenlexikon der Musik e.V."](/organization/the-association.html) .
 
 Wir werden sein Andenken in Ehre bewahren.
 
@@ -30,5 +29,3 @@ Klaus Keil
 Leiter der Zentralredaktion des RISM
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

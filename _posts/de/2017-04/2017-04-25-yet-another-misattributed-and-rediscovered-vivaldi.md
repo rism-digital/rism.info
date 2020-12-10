@@ -5,12 +5,11 @@ date: 2017-04-25
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
+image: "/images/news-old-website/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
-
 
 _Der folgende Beitrag stammt von Michael Talbot_ _(University of Liverpool, Department of Music, Emeritus):_
 
@@ -33,17 +32,11 @@ So wie die Dinge jetzt – Mitte April 2017 – stehen, wird eine Edition des ne
 Ich bin zuversichtlich, dass das, was ich hier an diesem individuellen Beispiel zeigen konnte, in den kommenden Jahren im Zusammenhang mit verschiedenen anderen Komponisten des Hofkirchen-Repertoires sein Gegenstück finden wird. Ich möchte auch erwähnen, dass diese Entdeckung mich dazu veranlasst hat, eine weitere Hypothese mit einer viel breiteren Bedeutung in Betracht zu ziehen: Dass die „Baldan-Lieferung” (oder eine Reihe von Lieferungen) um 1760 an den sächsisch-polnischen Hof nicht für den Dresdener Sitz bestimmt war, sondern während des Siebenjährigen Krieges (1756–1763) an den Zufluchtsort Warschau geschickt wurde. Der Grund, warum die Galuppi zugeschriebenen Werke so zahlreich und überwiegend für die Liturgie bestimmt waren, könnte darin liegen, dass ein komplett neues Repetoire (in der polnischen Hauptstadt) aufgebaut werden sollte, und nicht das bereits vorhandene (in der sächsischen Hauptstadt) zu erweitern. Seitdem diese Idee in mir aufkam, habe ich erfahren, dass mindestens zwei weitere Forscher der gleichen Meinung sind, somit sind auch auf diesem Gebiet weitere Ergebnisse zu erwarten. Der Nachweis einer konkreten Verbindung nach Polen neben der bereits bekannten nach Deutschland würde mich angesichts des wachsenden Interesses junger polnischer Musiker und Musikwissenschaftler am Repertoire der Wettiner Monarchen freuen.
 
 
-
 _Michael Talbot,
 18. April 2017._
 
 Abbildung: _Laetatus sum_ C-Dur, kürzlich von Michael Talbot als Werk von Vivaldi identifiziert und fortan unter RV 827 verzeichnet (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095){:target="_blank"}). Auf der ersten Notenseite verleitete die Namensnennung "Buranello" zur Zuschreibung an Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 
 
 

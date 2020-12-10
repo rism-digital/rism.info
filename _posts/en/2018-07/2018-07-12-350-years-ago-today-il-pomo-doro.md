@@ -5,12 +5,11 @@ date: 2018-07-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
+image: "/images/news-old-website/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/350-years-ago-today-il-pomo-doro.html
 email: ''
 author: ''
 ---
-
 
 On this day 350 years ago, the opera _Il pomo d'oro_ (The Golden Apple) premiered in Vienna. The first performance of this opera, with music by Antonio Cesti (1623-1669) after a libretto by Francesco Sbarra (1611-1668), was originally intended for the wedding celebrations of Holy Roman Emperor Leopold I (1640-1705) with Margaret Theresa of Spain (1651-1673) in 1666 but the performance was delayed by two years.
 
@@ -25,5 +24,3 @@ Some of the sets were designed by Ludovico Ottavio Burnacini (1636-1707), includ
 _Image_: Lodovico Ottavio Burnacini, engraved by Matthäus Küsel: Stage set for the underworld scene in Antonio Cesti's opera _Il pomo d'oro,_ ca. 1666, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

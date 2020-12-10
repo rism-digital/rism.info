@@ -4,13 +4,12 @@ title: Copies of Opera Scores at the Library of Congress and an Identified Copyi
 date: 2020-02-24
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png"
+category: library_collections
+image: "/images/news-old-website/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/copies-of-opera-scores-at-the-library-of-congress-and-an-identified-copyist.html
 email: ''
 author: Martin Bierwisch and Kristina Krämer
 ---
-
 
 Research on musicians of the Central Rhine region in Germany sometimes leads to the Library of Congress. Hugo Willemsen (1844-1918), who was born in Elberfeld and whose career took him to Bingen, Speyer, and Saarbrücken, settled in London around 1895. Beginning around 1907, he received orders through [Oscar Sonneck](https://en.wikipedia.org/wiki/Oscar_Sonneck){:target="_blank"} to create handwritten copies of numerous opera scores for the Music Division of the Library of Congress. Sonneck had copies made from all over Europe for the library, with the intention of building a solid base for opera research in the United States.
 
@@ -23,5 +22,3 @@ Susan J. Clermont has compiled a list of the scores that were part of this initi
 If you are curious about what Willemsen did and also composed before his time in London, you can read about it in the online encyclopedia [_Musik und Musiker am Mittelrhein_](http://mmm2.mugemir.de/doku.php?id=willemsen).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2020-03-09
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Musikus_Ludwig_IB_5_AmZ_1805_ed447cb28e.jpg"
+image: "/images/news-old-website/csm_Musikus_Ludwig_IB_5_AmZ_1805_ed447cb28e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/in-frankfurt-am-zu-haben-bey-musikus-ludwig-identifying-the-copyist-johann-wilhelm-ludwig.html
 email: ''
 author: Kristina Krämer
 ---
-
 
 Durch einen glücklichen Zufall ließ sich vor einiger Zeit der bislang unbekannte „Musikus Ludwig“, der zu Beginn des 19. Jahrhunderts in Frankfurt am Main eigens angefertigte Abschriften italienischer und deutscher Vokalmusik vertrieb, identifizieren. Ausgehend von einer Anzeige im Intelligenzblatt der _Allgemeinen musikalischen Zeitung_ war es mithilfe der Frankfurter Kirchenbücher und verschiedener Theater-Almanache möglich, herauszufinden, dass es sich um Johann Wilhelm Ludwig (1765–1838), Kontrabassist im Frankfurter Theaterorchester, handeln musste.
 
@@ -21,9 +20,6 @@ Ein Beispiel für eine seiner Abschriften ist [RISM ID no. 450012930](https://op
 Zur Biographie Johann Wilhelm Ludwigs siehe den Artikel in [_Musik und Musiker am Mittelrhein 2_](http://mmm2.mugemir.de/doku.php?id=ludwigjw){:target="_blank"}.
 
 
-
 _Abbildung_: _Intelligenzblatt_ Nr. 5, [AmZ 16. Januar 1805](http://anno.onb.ac.at/cgi-content/anno?aid=aml&datum=18050116&seite=9){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

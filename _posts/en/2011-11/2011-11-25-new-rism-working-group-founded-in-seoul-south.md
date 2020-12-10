@@ -4,13 +4,12 @@ title: New RISM Working Group Founded in Seoul, South Korea
 date: 2011-11-25
 lang: en
 post: true
-category: self_representation
-image: "/uploads/pics/Logo_Suedkorea_01.jpg"
+category: new_at_rism
+image: "/resources-old-website/pics/Logo_Suedkorea_01.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
 email: 64ehkim@ewha.ac.kr
 author: Dr. Eun-Ha Kim
 ---
-
 
 The [Music Research Institute, College of Music at Ewha Womans University](http://my.ewha.ac.kr/musicieen/){:target="_blank"} in Seoul, South Korea has begun to document and build a database of musical sources from Korea and East Asia thanks to a state subsidy.
 

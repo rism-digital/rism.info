@@ -5,12 +5,11 @@ date: 2018-09-03
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Banchieri_1_ae56112754.png"
+image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/adriano-banchieri-at-450.html
 email: ''
 author: ''
 ---
-
 
 Tommaso Banchieri (1568-1624) is known today as having the first name Adriano, which he adopted in 1589 when he entered the Benedictine order, or more precisely the Olivetan order. He also used the pseudonyms Attabalibba dal Perù, Camillo Scaligeri della Fratta, and Il Dissonante.
 
@@ -20,9 +19,6 @@ His first printed music editions were published beginning in 1596. Banchieri is 
 
 The [239 records in the RISM catalog](https://opac.rism.info/search?View=rism&author=Banchieri+Adriano){:target="_blank"} show the distribution of the sources today, which is more or less limited to Italian and German libraries. Thirteen of the editions can be viewed online.
 
-
 _Image_: Title page to _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; [RISM ID no. 990003769](https://opac.rism.info/search?id=00000990003769&View=rism&Language=en){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

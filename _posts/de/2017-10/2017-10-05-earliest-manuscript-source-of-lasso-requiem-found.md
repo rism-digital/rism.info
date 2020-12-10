@@ -5,12 +5,11 @@ date: 2017-10-05
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
+image: "/images/news-old-website/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
 email: ''
 author: ''
 ---
-
 
 Kürzlich sind wir über das Portal academia.edu auf eine Rezension von [Barbara Eichner](https://www.academia.edu/31048158/Review_of_Tobias_Rimek_Das_mehrstimmige_Repertoire_der_Benediktinerabtei_St._Ulrich_und_Afra_in_Augsburg_1549-1632_Carus_Verlag_Stuttgart_2015){:target="_blank"} über Tobias Rimeks Buch _Das mehrstimmige Repertoire der Benediktinerabtei St. Ulrich und Afra in Augsburg (1549–1632)_ (Stuttgart: Carus, 2015; die Rezension erschien ursprünglich im _Jahrbuch des Vereins für Augsburger Bistumsgeschichte_ [2016]) aufmerksam geworden. Eichners Rezension hebt die Entdeckung von Rimek besonders hervor, obwohl er bereits 2009 über den Fund berichtete.
 
@@ -23,11 +22,5 @@ Mittlerweile erschien eine [Edition des Werkes](https://www.carus-verlag.com/cho
 Die Quelle stammt aus der Provenienz der Augsburger Benediktinerabtei St. Ulrich und Afra (siehe Abbildung), deren mehrstimmiges Repertoire der Jahre 1549-1632 Tobias Rimek in seiner quellenkundlichen Dissertation aus dem Jahre 2015 beschreibt.
 
 
-
 _Abbildung_: Basilika St. Ulrich und Afra von Emkaer (über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basilika_St._Ulrich_und_Afra.jpg){:target="_blank"})
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

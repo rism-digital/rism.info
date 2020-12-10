@@ -4,13 +4,12 @@ title: Music by Antônio Carlos Gomes part of the UNESCO Memory of the World lis
 date: 2018-07-30
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Carlos_Gomes_62dbc726c8.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''
 ---
-
 
 Recently, as part of the [European Year of Cultural Heritage](http://europa.eu/cultural-heritage/){:target="_blank"}, we wrote about [European music manuscripts](http://www.rism.info/home/newsdetails/?cHash=e0a933184e2232321f4dc19226b59f74&tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1625){:target="_blank"} registered on the UNESCO Memory of the World list. One of our readers, Rosana Lanzelotte, kindly pointed out to us that [this list was expanded last year](http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/antonio-carlos-gomes/){:target="_blank"} to include manuscripts by a composer about whom Giuseppe Verdi once said, "Questo giovane comincia dove finisco io" (This boy begins where I left off): Antônio Carlos Gomes (1836-1896).
 
@@ -20,4 +19,3 @@ After 1880, Gomes lived alternately in Brazil and Italy and thus became the "com
 
 _Illustration_: Title page of the score for the opera _Il Guarany_, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Guarany_Score_Front_Cover.jpg?uselang=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

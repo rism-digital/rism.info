@@ -5,12 +5,11 @@ date: 2019-04-29
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Moniuszko_200_01_9514602a76.jpg"
+image: "/images/news-old-website/csm_Moniuszko_200_01_9514602a76.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
 email: ''
 author: ''
 ---
-
 
 Am 5. Mai 2019 jährt sich der Geburtstag Stanisław Moniuszkos zum 200. Mal. Als Komponist gilt er als ein Begründer der polnischen Musik in einer Zeit, als der polnische Staat schon lange nicht mehr existierte. Geboren wurde er in Ubiel in der Nähe von Minsk als Angehöriger des polnischen Kleinadels. Bereits als Kind erhielt Moniuszko privaten Musikunterricht in Warschau bei Karl August Freyer. Er studierte von 1837-1839 in Berlin an der Akademie der Künste Komposition bei Carl Friedrich Rungenhagen, wurde im Dirigieren unterwiesen und hatte erste Erfolge als Liederkomponist. 1839 ging er nach Vilnius, heiratete dort und erhielt eine Stelle als Organist. Darüber hinaus organisierte Moniuszko dort eine Reihe von Konzerten, in denen er als Dirigent und Instrumentalist mitwirkte.
 
@@ -24,8 +23,7 @@ Er verstarb plötzlich am 4. Juni 1872 an einem Herzinfarkt. Der Trauerzug durch
 
 In Polen kennt jeder seinen Namen. Im ganzen Land wird an ihn erinnert, an den Namensgeber von Parks, Institutionen, Musikgruppen, und -wettbewerben. Man findet sein Porträt auf Briefmarken und Banknoten, seine Statuen überall. Seine Werke gehören zum Musikkanon nicht nur des polnischen Musiklebens. Auch in Weißrussland wird seit der Unabhängigkeit im Jahre 1990 Moniuszkos Werk intensiv gepflegt.
 
-Die Warschauer Musikgesellschaft 1871 gegründet wurde ebenfalls nach Moniuszko benannt. In ihrem Archiv befinden sich eine Reihe von Autographen Moniuszkos und weitere Musikquellen seiner Werke sowie zahlreiche Briefe des Komponisten. Die Katalogisierung dieses insgesamt sehr bedeutenden Bestandes ([RISM-Bibliothekssigel: PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm){:target="_blank"}) wurde gerade begonnen. Sie ist Teilprojekt unserer [Kooperation mit dem Chopin-Institut in Warschau](http://www.rism.info/de/startseite/newsdetails/article/64/close-cooperation-between-rism-the-chopin-institute.html?tx_ttnews%5Byear%5D=2019&tx_ttnews%5Bmonth%5D=02&cHash=66b9823e6c5c8d5c34b8f65de93891ca){:target="_blank"} . Freuen Sie sich auf die Dokumentation der zahlreichen [Moniuszko-Quellen in RISM](https://opac.rism.info/search?View=rism&author=Moniuszko){:target="_blank"}. In regelmäßigen Abständen werden wir vom Stand der Arbeiten berichten
+Die Warschauer Musikgesellschaft 1871 gegründet wurde ebenfalls nach Moniuszko benannt. In ihrem Archiv befinden sich eine Reihe von Autographen Moniuszkos und weitere Musikquellen seiner Werke sowie zahlreiche Briefe des Komponisten. Die Katalogisierung dieses insgesamt sehr bedeutenden Bestandes ([RISM-Bibliothekssigel: PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm){:target="_blank"}) wurde gerade begonnen. Sie ist Teilprojekt unserer [Kooperation mit dem Chopin-Institut in Warschau](/library_collections/2019/02/18/close-cooperation-between-rism-and-the-chopin.html){:target="_blank"}. Freuen Sie sich auf die Dokumentation der zahlreichen [Moniuszko-Quellen in RISM](https://opac.rism.info/search?View=rism&author=Moniuszko){:target="_blank"}. In regelmäßigen Abständen werden wir vom Stand der Arbeiten berichten
 
 Abbildung mit freundlicher Genehmigung von Marcin Konik (RISM Polen).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

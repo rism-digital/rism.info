@@ -5,12 +5,11 @@ date: 2018-07-12
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
+image: "/images/news-old-website/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/350-years-ago-today-il-pomo-doro.html
 email: ''
 author: ''
 ---
-
 
 Heute vor 350 Jahren feierte in Wien die Oper _Il pomo d‘oro_(Der goldene Apfel) Premiere. Die Uraufführung der Oper von Antonio Cesti (1623-1669) nach einem Libretto von Francesco Sbarra (1611-1668) war ursprünglich für die Hochzeitsfeierlichkeiten von Leopold I. (1640-1705) mit Margarita Theresa von Spanien (1651-1673) im Jahr 1666 vorgesehen, verzögerte sich aber um zwei Jahre.
 
@@ -25,5 +24,3 @@ Einige Szenenbilder des von Ludovico Ottavio Burnacini (1636-1707) entworfenen B
 _Abbildung_: Lodovico Ottavio Burnacini, gestochen von Matthäus Küsel: Bühnenbild für die Unterwelt-Szene in Antonio Cestis Oper_Il pomo d'oro,_ ca. 1666, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Das Notenmaterial zu Richard Wagners "Rienzi" in Dresden
 date: 2020-07-23
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
+category: library_collections
+image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''
 author: ''
 ---
-
 
 In Bayreuth wären am kommenden Wochenende die Festspiele eröffnet worden; stattdessen gibt es ein [umfangreiches Ersatzprogramm](https://www.bayreuther-festspiele.de/en/festspiele/news/2020/virtual-festival-season-and-the-cultural-summer-live-on-site/){:target="_blank"}.
 
@@ -25,5 +24,3 @@ Ein über eine derart lange Zeit verwendetes Stimmenmaterial weist natürlich za
 _Abbildung_ : Richard Wagner: Rienzi. Auszug aus dem Finale des 1. Aktes (Fagott 1) mit Sprüngen und Überklebungen (Dresden, [Sächsische Staatsoper, Notenarchiv](https://sachsen.digital/werkansicht/dlf/361862/664/){:target="_blank"}; D-Ds).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

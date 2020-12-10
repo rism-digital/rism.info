@@ -5,12 +5,11 @@ date: 2018-07-09
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
+image: "/images/news-old-website/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
 email: ''
 author: ''
 ---
-
 
 This Friday is the 410th birthday of Ferdinand III, Holy Roman Emperor from 1637 to 1657. Like many members of royalty, [he dabbled in composition](https://opac.rism.info/search?View=rism&author=135163781&Language=en){:target="_blank"}—as did his successors [Leopold I](https://opac.rism.info/search?View=rism&author=118571869&Language=en){:target="_blank"} and [Joseph I](https://opac.rism.info/search?View=rism&author=118558390&Language=en){:target="_blank"}.
 
@@ -27,8 +26,3 @@ Andrew H. Weaver, “A recently rediscovered motet by Holy Roman Emperor Ferdina
 
 _Image_: Portrait of Ferdinand III, ca. 1628 - 1670, Rijksmuseum, from [Europeana](http://data.europeana.eu/item/90402/RP_P_OB_9022){:target="_blank"} (public domain).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

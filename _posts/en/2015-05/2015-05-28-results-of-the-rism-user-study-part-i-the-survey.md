@@ -4,13 +4,12 @@ title: 'Results of the RISM User Study, Part I: The Survey'
 date: 2015-05-28
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
 author: ''
 ---
-
 
 We are currently going through the results of the first-ever RISM user study about the online catalog.An online survey with 62 questions was available from 30 October 2014 until 28 February 2015. Our goal is to get to know our users better (such as where they are from, what kind of experience they have with RISM, and how they use RISM) and find out how they use the online catalog (both available for free from [www.rism.info](http://www.rism.info) and [opac.rism.info](http://opac.rism.info)).
 
@@ -18,7 +17,7 @@ We are very pleased to report that 551 people filled out the survey (342 in Engl
 
 You are probably all wondering about the results. Here are the responses to some selected questions:
 
-![Question 1](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/1._How_long_have_you_been_using_RISM.JPG)
+![Question 1](/resources-old-website/community-content/Zentralredaktion/Umfrage/1._How_long_have_you_been_using_RISM.JPG)
 
 **1. How many years have you been using RISM?**
 
@@ -26,9 +25,9 @@ We received 538 responses to this question. 13 were blank.
 
 Almost half (48%, _n_ = 258) of the people who answered our survey have been using RISM (whether in books, CD-ROM, EBSCO database, or our online database) for over 10 years. The majority of our respondents (66%, _n_ = 356) have been using RISM for 6 or more years. Most of our respondents, therefore, are experienced RISM users but there is a significant number of people who are relatively new.
 
-![Question 3](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/3._How_often_do_you_use.JPG)
+![Question 3](/resources-old-website/community-content/Zentralredaktion/Umfrage/3._How_often_do_you_use.JPG)
 
-[_Click for a larger image._](/fileadmin/content/community-content/Zentralredaktion/Umfrage/3._How_often_do_you_use.JPG "Initiates file download")
+[_Click for a larger image._](/resources-old-website/community-content/Zentralredaktion/Umfrage/3._How_often_do_you_use.JPG)
 
 **3. How often do you use the online catalog?**
 
@@ -38,9 +37,9 @@ A majority of respondents (68%, _n_ = 367) visit the RISM online catalog at leas
 
 Of the 258 people who have been using RISM for more than 10 years, 125 (48%) use it several times a month.
 
-![Question 43](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/43._Which_3_words.JPG)
+![Question 43](/resources-old-website/community-content/Zentralredaktion/Umfrage/43._Which_3_words.JPG)
 
-_[Click for a larger image](/fileadmin/content/community-content/Zentralredaktion/Umfrage/43._Which_3_words.JPG "Initiates file download")._
+_[Click for a larger image](/resources-old-website/community-content/Zentralredaktion/Umfrage/43._Which_3_words.JPG)._
 
 **43. In your opinion, which 3 words describe RISM the best?**
 
@@ -59,7 +58,7 @@ Nevertheless, we find it constructive to learn that the top three responses to t
 
 As we continue to evaluate the responses to this question, we will especially keep in mind the negative perceptions of RISM that were expressed in the possible responses (such as complicated, old-fashioned, cluttered) as well as the written-in comments (counter-intuitive, inconsistent, unclear).
 
-![Question 55](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/55_56_What_country.jpg)
+![Question 55](/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_What_country.jpg)
 
 **55. What country do you live in?
 56. If your country does not appear above, please enter it here.**
@@ -70,7 +69,7 @@ We were pleased to have this response from people all around the globe, even fro
 
 Though the survey was available in English and German, responses came from 123 peoplewho do not live in a country where either of these languages is an official language. We can infer that many people use and interact with RISM in a foreign language. This helps us as we consider ways to make RISM understandable to people from a variety of cultural and language backgrounds.
 
-![Question 59](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/59_What_group.jpg)
+![Question 59](/resources-old-website/community-content/Zentralredaktion/Umfrage/59_What_group.jpg)
 
 **59. Which of the following groups would you put yourself in?**
 
@@ -82,12 +81,7 @@ We can also use the responses from this question to comb the data for insights o
 
 **Your Comments**
 
-We are hard at work evaluating the hundreds of comments that you wrote. One wish that came up frequently was to have more of our printed resources integrated into the online catalog. Earlier this month, [we announced](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} that the entire series A/I and years 1500-1550 from B/I are now available in the online catalog--a step that we hope is one of many towards integrating RISM's publications into a central resource.
+We are hard at work evaluating the hundreds of comments that you wrote. One wish that came up frequently was to have more of our printed resources integrated into the online catalog. Earlier this month, [we announced](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} that the entire series A/I and years 1500-1550 from B/I are now available in the online catalog--a step that we hope is one of many towards integrating RISM's publications into a central resource.
 
-Keep an eye on this blog for more results from the survey. All news will be posted on the [RISM Survey page](/community/survey-2014-2015.html) (linked at the bottom right of our website).
+Keep an eye on this blog for more results from the survey. All news will be posted on the [RISM Survey page](/community/survey.html) (linked at the bottom right of our website).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

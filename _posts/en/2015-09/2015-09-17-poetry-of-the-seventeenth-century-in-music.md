@@ -4,13 +4,12 @@ title: Poetry of the Seventeenth Century in Music
 date: 2015-09-17
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Poesie_Gallica_7ab9d3eb38.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Poesie_Gallica_7ab9d3eb38.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/37-livres-dairs-de-differents-auteurs-digitized-and-free-online-from-gallica.html
 email: ''
 author: ''
 ---
-
 
 _This post is by Clotilde Angleys (Département de la Musique) and originally appeared on the [Gallica blog](http://blog.bnf.fr/gallica/index.php/2015/02/06/la-poesie-du-xviieme-siecle-en-musique/){:target="_blank"} of the Bibliotheque national de France. It is reproduced here in accordance with their [Creative Commons](http://blog.bnf.fr/gallica/index.php/credits/){:target="_blank"} policy._
 
@@ -27,15 +26,9 @@ In these anthologies of poems set to music, you will find works by the great nam
 _Above: The first volume of this series, Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
 
 
-
 Most of the works in the anthologies are presented without composer or poet attribution. The Centre de Musique Baroque de Versailles, partner of the BnF, has undertaken an electronic [modern scholarly edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} of the 1220 airs.
 
 A [new online collection](http://gallica.bnf.fr/html/partitions/les-livres-dairs-de-differents-auteurs){:target="_blank"} permits you to navigate from the Gallica facsimile to the critical edition, of which the first eight volumes are available.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

@@ -4,13 +4,12 @@ title: 'Music, musicology, libraries: An intern''s report'
 date: 2015-10-07
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Stuttgart_-_AIBM_6024c498b2.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Stuttgart_-_AIBM_6024c498b2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-musicology-libraries-an-interns-report.html
 email: contact@rism.info
 author: Anne-Marie Wurster
 ---
-
 
 _We just said farewell to our intern Anne-Marie Wurster, who spent five weeks with us here at the the RISM Central Office in Frankfurt. She has submitted this reflection of her time here:_
 
@@ -22,7 +21,7 @@ Moreover, I got an overview of the databases of personal names, keywords/genre t
 
 Martina Falletta arranged visits to the library of the [Frankfurt Opera](http://www.oper-frankfurt.de/){:target="_blank"} and the offices of the [Gluck Gesamtausgabe](http://www.gluck-gesamtausgabe.de/){:target="_blank"}, so I could use my stay in Frankfurt find out about other interesting projects.
 
-A project that the RISM Central Office is currently busy with is evaluating the [user survey](/community/survey-2014-2015.html), which was carried out last winter/spring. In addition to creating a list of technical improvements for the RISM online catalog that were suggested by survey takers, we prepared a [presentation for the AIBM conference](http://www.aibm.info/tagungen/2015-stuttgart/vortragsfolien_aibm2015/){:target="_blank"} in Stuttgart about initial results and changes we have undertaken so far.
+A project that the RISM Central Office is currently busy with is evaluating the [user survey](/community/survey.html), which was carried out last winter/spring. In addition to creating a list of technical improvements for the RISM online catalog that were suggested by survey takers, we prepared a [presentation for the AIBM conference](http://www.aibm.info/tagungen/2015-stuttgart/vortragsfolien_aibm2015/){:target="_blank"} in Stuttgart about initial results and changes we have undertaken so far.
 
 Attending this conference for music librarians from Germany and neighboring German-speaking countries provided a harmonious ending to my internship and was one of the highlights. First, the city of Stuttgart introduced itself and its rich musical life and included presentations from the [Stuttgart Opera](http://www.oper-stuttgart.de/){:target="_blank"}, the [Hymnus Chorknaben](http://www.hymnus.de/){:target="_blank"}, the Labyrinth integration project and the music label TACET. There was a presentation about the library and information science program at the [Hochschule der Medien](https://www.hdm-stuttgart.de/){:target="_blank"} in Stuttgart and its certificates and continuing education programs in the field of music librarianship. The varied AIBM program had something for everyone, whether from a public, academic, conservatory, radio, or orchestra library. Librarians reported on their day-to-day work and gave tips on topics such as how to make libraries more welcoming for seniors or people with visual disabilities.
 
@@ -34,8 +33,3 @@ During the breaks and at a reception there were opportunities to talk to people 
 
 All in all, I am very happy about the experiences that I had during my internship. I learned about composers and works that had previously been completely unknown to me and it was exciting to see how the work of a project with networks worldwide goes forward. I spent ample time cataloging music in the database and got to know a lot of interesting people in the process. I also saw that it is very wise to have a background in both musicology and librarianship. Both fields together are a perfect combination and open up a wide world of career possibilities.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

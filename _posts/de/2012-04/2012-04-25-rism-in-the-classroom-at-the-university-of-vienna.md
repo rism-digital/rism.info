@@ -5,12 +5,11 @@ date: 2012-04-25
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Schottenstift_02_39c3809699.jpg"
+image: "/images/news-old-website/csm_Schottenstift_02_39c3809699.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-the-classroom-at-the-university-of-vienna.html
 email: Stefan.Ikarus.Kaiser@oeaw.ac.at
 author: Ikarus Kaiser
 ---
-
 
 An der Universität Wien wurde erstmals von Ikarus Kaiser eine Lehrveranstaltung zur Arbeit mit der RISM-Datenbank abgehalten, die von insgesamt zehn Studenten der Musikwissenschaft besucht wurde.
 

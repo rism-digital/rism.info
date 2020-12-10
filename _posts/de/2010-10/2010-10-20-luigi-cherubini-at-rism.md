@@ -4,13 +4,12 @@ title: Luigi Cherubini @ RISM
 date: 2010-10-20
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_cherubini_0658ee83ca.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_cherubini_0658ee83ca.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/luigi-cherubini-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Dieses Jahr wird der 250. Geburtstag von Luigi Cherubini (14. September 1760, Florenz – 15. März 1842, Paris) begangen. Von den Zeitgenossen wurde Luigi Cherubini bewundert. Heute stehen seine Werke eher selten auf dem Konzertprogramm oder auf den Spielplänen der Opernhäuser. Cherubini beherrschte das Pariser Musikleben für ein halbes Jahrhundert, war ein erfolgreicher Opernkomponist und langjähriger Direktor des Pariser Konservatoriums. Seine Bedeutung als Komponist liegt vor allem auf den Gebieten der Oper und der Kirchenmusik.
 

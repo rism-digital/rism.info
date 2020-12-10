@@ -4,26 +4,22 @@ title: Jubiläen 2016
 date: 2016-01-04
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Jubilare_2016-2_75b89f7b92.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Jubilare_2016-2_75b89f7b92.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2016.html
 email: ''
 author: ''
 ---
-
 
 Frohes neues Jahr!
 
 Auch das Jahr 2016 bietet wieder viele Gelegenheiten runde Geburtstage zu feiern oder anlässlich eines runden Sterbejahres an einen Komponisten zu erinnern. Unter den über 800 Jubilaren, die in der RISM-Datenbank versammelt sind, sind nicht nur Komponisten, sondern auch Librettisten, Interpreten, Widmungsträger oder Personen, die nur indirekt mit einer Musikquelle in Verbindung stehen.
 
 
-
 Zu Letzteren gehört beispielsweise Walt Disney, dessen Todestag sich in diesem Jahr zum 50. Mal jährt, und der bei RISM mit einer Bearbeitung der Filmmusik von Frank Churchill zu _Schneewittchen und die sieben Zwerge_ vertreten ist (aufbewahrt in der Koninklijke Harmonie Strijd voor Vrijheid in Belgium, B-TOeksv B.019, RISM ID no. [702012744](https://opac.rism.info/search?id=702012744){:target="_blank"}).
 
 
-
 Mit fast [4.000 Quellennachweisen](https://opac.rism.info/search?View=rism&author=Giovanni+Paisiello){:target="_blank"} liegt Giovanni Paisiello (1740-1816) in der Liste der Jubilare weit vorne.
-
 
 
 Einige weitere Jubilare sind:
@@ -52,7 +48,6 @@ Einige weitere Jubilare sind:
 Wir haben die Datenbank nach Personen durchsucht, die im Geburts- oder Sterbejahr die Endziffern 16 oder 66 aufweisen. Weiter unten zeigen wir Ihnen Namen von[Luigi **A** bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) bis [**Z** ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (auch Sigismund III von Polen; 1566-1632). Die Zeitspanne reicht vom 800. Todestag von Papst Innocenz III. (ca. 1160-1216) – Textverfasser des Hymnus[_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"} – bis hin zum Tenor Fritz Wunderlich (50. Todestag), der bei RISM mit seinem Walzer „[_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"}“ vertreten ist.
 
 
-
 **Geboren in xx16 oder xx66 (zum Sortieren Überschrift anklicken):**
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+19kiz0pEuED6QYnobzo35iN9X-kjDLEX29Nxbb77Q&amp;containerId=googft-gviz-canvas"></iframe>
@@ -69,4 +64,3 @@ w / f = weiblich**
 
 _Bildnachweis:[pixabay.com](https://pixabay.com/de/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

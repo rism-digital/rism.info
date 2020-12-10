@@ -5,12 +5,11 @@ date: 2017-01-23
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
+image: "/images/news-old-website/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
-
 
 _We have received the following publication announcement from Eliška Šedivá (RISM Czech Republic):_
 
@@ -33,5 +32,3 @@ An introduction by Pavla Semerádová deals with music at the Želiv Monastery i
 As a supplement to the catalogue, you will find an index of choirmasters, cantors and succentors in the Želiv monastery church in the period from 1663 to 1856, the indexes of alumni musici and copyists, and a complete watermark catalogue. The name index, the indexes of the filing and distinctive titles and texts, and the index of places of publication and publishers are included as well.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

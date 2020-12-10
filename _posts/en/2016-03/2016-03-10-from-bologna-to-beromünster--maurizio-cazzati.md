@@ -5,12 +5,11 @@ date: 2016-03-10
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg"
+image: "/images/news-old-website/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-bologna-to-beromuenster-maurizio-cazzati-messa-e-salmi-op-36.html
 email: cedric.gueggi@rism-ch.org
 author: Cédric Güggi
 ---
-
 
 _We have received the following from Cédric Güggi of [RISM Switzerland](http://rism-ch.org/){:target="_blank"}:_
 
@@ -23,5 +22,3 @@ Listening samples and complete information about the CD](http://www.claves.ch/co
 Download CD booklet (PDF)](http://docs.rism-ch.org/press/CD_1605_booklet.pdf){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

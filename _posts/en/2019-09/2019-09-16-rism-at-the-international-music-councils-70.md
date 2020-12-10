@@ -5,12 +5,11 @@ date: 2019-09-16
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_IMC_Poster_a1ae8c175f.jpg"
+image: "/images/news-old-website/csm_IMC_Poster_a1ae8c175f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
 email: ''
 author: ''
 ---
-
 
 The [International Music Council](http://www.imc-cim.org/){:target="_blank"} (IMC) will celebrate its 70th anniversary this year and will mark the occasion during the [6th World Forum of Music](https://imc70.org/){:target="_blank"}, which will take place from 27 September to 1 October 2019 in Paris.
 
@@ -22,5 +21,3 @@ RISM is an essential tool not only for musicologists, but also for performers. R
 
 For IAML, the 6th World Forum of Music will be a double commemoration. It was this very same time in 1949 that the first exploratory meeting of music libraries took place in Florence. That meeting, together with another one at Lüneburg in 1950, preceded the official establishment of IAML the following year in Paris.
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

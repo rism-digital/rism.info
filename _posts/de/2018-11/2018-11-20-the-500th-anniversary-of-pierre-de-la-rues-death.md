@@ -5,12 +5,11 @@ date: 2018-11-20
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_De_la_Rue_500_4455370fbf.png"
+image: "/images/news-old-website/csm_De_la_Rue_500_4455370fbf.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
 email: ''
 author: ''
 ---
-
 
 Ein weiterer Jubilar des Jahres 2018 heißt Pierre de la Rue (ca. 1452, Tournai – 1518, Courtrai), dessen Todestag sich heute zum 500. Mal jährt.
 
@@ -23,5 +22,3 @@ Pierre de la Rues Ouevre umfasst vor allem Messen. Er war auch einer der ersten 
 _Abbildung_: Pierre de la Rue, "Et in terra" aus _Missa Nuncqua fue pena maior_, Venezia: Ottaviano Petrucci, 1503; Exemplar in Österreichische Nationalbibliothek (A-Wn) SA.77.C.11, [RISM ID no. 990036505](https://opac.rism.info/search?id=00000990036505&View=rism){:target="_blank"}. [Online einsehbar](http://data.onb.ac.at/rec/AC09207323){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

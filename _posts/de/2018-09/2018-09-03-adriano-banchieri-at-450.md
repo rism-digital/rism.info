@@ -5,12 +5,11 @@ date: 2018-09-03
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Banchieri_1_ae56112754.png"
+image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/adriano-banchieri-at-450.html
 email: ''
 author: ''
 ---
-
 
 Tommaso Banchieri (1568-1624) kennen wir heute unter dem Vornamen Adriano, den er 1589 bei Eintritt in den Benediktinerorden - genauer gesagt in den Olivetanerorden - annahm. Er zeichnete auch unter den Pseudonymen Attabalibba dal Perù, Camillo Scaligeri della Fratta und il Dissonante.
 
@@ -23,5 +22,3 @@ Die [239 Nachweise im RISM-Katalog](https://opac.rism.info/search?View=rism&auth
 _Abbildung_: Titelseite von _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; RISM ID no. [990003769](https://opac.rism.info/search?id=00000990003769&View=rism){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

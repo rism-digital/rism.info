@@ -5,12 +5,11 @@ date: 2018-11-26
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png"
+image: "/images/news-old-website/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/seminar-report-notated-music-in-the-digital-sphere.html
 email: ''
 author: ''
 ---
-
 
 Will there ever be a Google Books for music? Can motivic searches of a fugue be automated? Are partbooks plagued by iron gall ink deterioration lost forever? These were some of the questions posed last month in Oslo at the seminar [Notated Music in the Digital Sphere: Possibilities and Limitations](https://www.nb.no/hva-skjer/notated-music-in-the-digital-sphere/){:target="_blank"} at the [National Library of Norway](https://www.nb.no/en/the-national-library-of-norway/){:target="_blank"}. It was organized by our RISM Norway colleague Margrethe Bue of the Music Section.
 
@@ -23,17 +22,4 @@ Julia Craig-McFeely (University of Oxford, [DIAMM](https://www.diamm.ac.uk/){:ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yQ5bfI9BR7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [available online](https://www.nb.no/nbsok/search){:target="_blank"}
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
-
-
-
-
-
-
 

@@ -5,12 +5,11 @@ date: 2017-07-04
 lang: en
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
+image: "/images/news-old-website/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/dr-kurt-dorfmueller-28-april-1922-16-june-2017.html
 email: ''
 author: ''
 ---
-
 
 "RISM owes a great debt of gratitude to Herr Dorfmüller for his long-time service as a member of the Commission Mixte and as chair of his Advisory Research Committee." So wrote the then-president of the Association Internationales Quellenlexikon der Musik e.V., Harald Heckmann, in 1998.
 
@@ -43,5 +42,3 @@ José Vicente González Valle (Spain): "Es tut mir sehr Leid vom Tod des guten F
 _Photograph by Juan Martin Koch._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

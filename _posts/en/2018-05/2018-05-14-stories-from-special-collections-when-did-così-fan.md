@@ -4,13 +4,12 @@ title: 'Stories from Special Collections: When did "Così fan tutte" go to Detmo
 date: 2018-05-14
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
 email: eberhardt@llb-detmold.de
 author: Joachim Eberhardt
 ---
-
 
 _The following is by Joachim Eberhardt and originally appeared on the website of the [Lippische Landesbibliothek Detmold](http://www.llb-detmold.de/aktuelles/aktuelles-detail/article/geschichten-aus-dem-altbestand-wann-kam-cosi-fan-tutte-nach-detmold.html){:target="_blank"}. It is reproduced here with kind permission._
 
@@ -22,9 +21,6 @@ Neither option seems that likely to me. One argument against the second theory i
 
 Perhaps the score was in the possession of the principal of the theater troupe, August Pichler, after the court theater building was constructed in 1825. Hans Georg Peters (_[Vom Hoftheater zum Landestheater: die Detmolder Bühne von 1825 bis 1969](http://www.worldcat.org/oclc/462223504){:target="_blank"}_, p. 26) tells us that Pichler made his "collection" available to the theater when he took up employment there. I also read in Peters (p. 18-19) that Pichler was born in Vienna in 1771, learned to print books, was discovered by August von Kotzebue and "found his way to the theater," and "after rambling through Austria and southern Germany" he spent three years "around the turn of the century" as a court book printer in Bayreuth. Afterwards he took over as theater director in Bayreuth and Bamberg. Peters continues: "In 1810 he went to Northern Germany for the first time with his own troupe." However, I cannot judge the likelihood of whether Pichler brought the performance material with him to Detmold.
 
-
 _Image_: Watermark in the score of Mozart's _Così fan tutte_, Lippische Landesbibliothek in Detmold (D-DT), shelfmark Mus-n 156. RISM ID no. [451501513](https://opac.rism.info/search?id=451501513){:target="_blank"}. Courtesy of Joachim Eberhardt.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

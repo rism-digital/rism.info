@@ -4,13 +4,12 @@ title: Neue Version des RISM Online-Katalogs
 date: 2018-07-16
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neuer_OPAC_2018_4b3dd3d042.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neuer_OPAC_2018_4b3dd3d042.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog-1.html
 email: ''
 author: ''
 ---
-
 
 RISM und die [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/){:target="_blank"} (BSB) kündigen die Veröffentlichung einer neuen Version des RISM Online-Katalogs unter [https://opac.rism.info/](https://opac.rism.info/){:target="_blank"} an. Diese Version stellt die erste Phase eines Entwicklungsprojekts dar, das in den kommenden Monaten zusätzliche neue Funktionen enthalten wird.
 
@@ -38,4 +37,4 @@ Der neue Katalog wird während des [IAML Kongresses](https://iamlleipzig2018.sch
 Detaillierte Anleitungen zu diesen neuen Funktionen werden in Kürze auf der Hilfeseite des Online-Katalogs und der RISM-Webseite erscheinen.
 
 In diesem [kurzen Video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} erhalten Sie einen Überblick zu den neuen Funktionen (_ohne Ton bis 0:29_):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -4,13 +4,12 @@ title: Romantic satire, "With Music."
 date: 2018-09-06
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/romantic-satire-with-music.html
 email: lkoehler@stud.uni-frankfurt.de
 author: Charlotte Köhler
 ---
-
 
 _The following was written by Charlotte Köhler, our intern from summer 2018:_
 
@@ -26,4 +25,3 @@ Even though [letters](https://www.august-wilhelm-schlegel.de/briefedigital/){:ta
 
 _Image_: Title page from the copy of _Ehrenpforte und Triumphbogen_ in the Goethe-Haus, Frankfurt (D-Ff), shelfmark IX K 90 / S 1. Photo courtesy of Charlotte Köhler and published here with the kind permission of the Freies Deutsches Hochstift.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2016-06-13
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
+image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress.html
 email: ''
 author: ''
 ---
-
 
 All roads lead to Rome - will we see you there? RISM is looking forward to the annual conference of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml2016.org/){:target="_blank"} from 3 to 8 July 2016.
 
@@ -27,26 +26,21 @@ Make sure to visit the RISM table throughout the conference.
 9:00-10:30: Workshop (open): The Ins and Outs of the RISM OPAC
 This workshop will present different aspects of the RISM online catalog, which has been available free online since 2010. It will be of interest to anyone who works with the RISM OPAC or has to demonstrate RISM to students and faculty members.
 
-
 -
 
 Klaus Keil (RISM Zentralredaktion, Frankfurt am Main): The RISM OPAC: Contents and development
-
 
 -
 
 Jennifer Ward (RISM Zentralredaktion, Frankfurt am Main): RISM like a Pro: Tips, Tricks, and Mistakes to Avoid
 
-
 -
 
 Zuzana Petrášková (Národní knihovna České republiky): OPAC RISM = Hilfe für die Forschung, Edition und Interpretation der überlieferten Musik. Erfahrungen aus der Nationalbibliothek der Tschechischen Republik (The RISM OPAC = A tool for research, editions, and performances of music preserved today. Experiences from the National Library of the Czech Republic)
 
-
 -
 
 Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM and ICCU Musica
-
 
 
 **Thursday, July 7**
@@ -55,16 +49,13 @@ Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM a
 
 9:00-10:30: RISM Open Session
 
-
 -
 
 Klaus Keil (RISM Zentralredaktion): News and information
 
-
 -
 
 Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer Ward (RISM Zentralredaktion): Presentation of the new program for source documentation: Muscat 3.0
-
 
 
 -
@@ -73,21 +64,12 @@ Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer W
 Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
 
-
 **Friday, July 8**
 
 -
 
 9:00-10:30: Commission Mixte (closed working meeting; open only for members or by invitation)
 Chair: Wolf‐Dieter Seiffert (President of RISM, RISM Commission Mixte, München)
-
-
-
-
-
-
-
-
 
 # Presentations by RISM colleagues
 
@@ -133,4 +115,3 @@ After a short introduction to the instrument and room, the Wörle organ will be 
 Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung,Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

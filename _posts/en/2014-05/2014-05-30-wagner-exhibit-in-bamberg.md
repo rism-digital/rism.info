@@ -4,13 +4,12 @@ title: Wagner exhibit in Bamberg
 date: 2014-05-30
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wagner-exhibit-in-bamberg.html
 email: ''
 author: ''
 ---
-
 
 The latest edition of the _Bibliotheksforum Bayern_ has a wonderfully illustrated article about last year's exhibition about Richard Wagner at the Staatsbibliothek Bamberg (D-BAs). The library marked the occasion of both the 200<sup>th</sup> anniversary of Wagner's birth and the 130<sup>th</sup> anniversary of his death with displays of rare music materials, historical performance materials, contemporary printed music, pictures, autobiographical sketches, and autograph letters.
 

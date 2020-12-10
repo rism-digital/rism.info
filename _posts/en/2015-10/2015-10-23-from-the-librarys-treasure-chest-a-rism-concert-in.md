@@ -5,12 +5,11 @@ date: 2015-10-23
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg"
+image: "/images/news-old-website/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-the-librarys-treasure-chest-a-rism-concert-in-cologne.html
 email: steffen.voss@bsb-muenchen.de
 author: Dr. Steffen Voss
 ---
-
 
 The library at the Hochschule für Musik und Tanz in Cologne (RISM siglum: [D-KNh](https://opac.rism.info/metaopac/search?View=rism&siglum=D-KNh){:target="_blank"}) houses a comprehensive collection of music manuscripts, with an emphasis on vocal music from the first half of the nineteenth century. These items are from older holdings that were taken over from the institution's predecessor, the Konservatorium für Musik Cöln.
 
@@ -20,7 +19,5 @@ In addition, the library also owns valuable music autograph manuscripts and manu
 
 On Tuesday, October 27, at 7:30 PM, Voss will give a talk as part of the concert "[Aus dem Schatzkästchen der Bibliothek](http://www.hfmt-koeln.de/nc/de/veranstaltungen/demnaechst.html){:target="_blank"}" (From the Library's Treasure Chest) in the Kammermusiksaal at the Musikhochschule. He will have the opportunity to present several of the more interesting manuscripts. Students at the Hochschule will perform selections from these treasures including lieder by [Anna Cramer](https://opac.rism.info/search?View=rism&author=Anna+Cramer&siglum=D-KNh){:target="_blank"}, chamber music by [Hiller](https://opac.rism.info/search?View=rism&author=Ferdinand+Hiller&siglum=D-KNh){:target="_blank"}, and an unknown arrangement of [Richard Wagner's "Siegfried-Idyll" for piano sextet](https://opac.rism.info/search?id=450062363){:target="_blank"}.
 
-
 _Image_: Ferdinand Hiller, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ferdinand_Hiller2.jpg){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

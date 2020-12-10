@@ -4,13 +4,12 @@ title: Das Rätsel um die Datierung
 date: 2016-02-29
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_dating_game_ff5399f57c.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_dating_game_ff5399f57c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dating-game.html
 email: ''
 author: ''
 ---
-
 
 _Wirgeben heute einen Beitrag unserer Kollegen vom [MusiCB3 Blog](https://musicb3.wordpress.com/2016/02/19/the-dating-game/){:target="_blank"} der Cambridge University ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}) wieder:_
 
@@ -32,7 +31,3 @@ In diesem Fall haben wir einen weiteren Beweis, dass KielsRequiem 1862 gedruckt 
 _Friedrich Hofmeister. Mit freundlicher Genehmigung von Hofmeister XIX_
 
 [QED](https://de.wikipedia.org/wiki/Quod_erat_demonstrandum){:target="_blank"}im Falle von Kiels Requiem? Nicht ganz. Es ist auch möglich, dass diese Ausgabe, die sich in unserem Besitz befindet, mit der selben Plattennummer viel später erschien. Dafür gibt es weitere Hinweise. Währungen in Europa veränderten sich und schwankten im 19. Jahrhundert. Auf Kiels Requiem beispielsweise ist der Preis von 7 Thlr (d.h. 7 Thaler) genannt. Der Gebrauch von Thaler sagt uns sofort, dass die Veröffentlichung vor 1874 - vor der Einführung der Mark - liegen muss. Aber Dank Hofmeister können wir noch genauer werden. Das Werk wurde mit 7 Thaler im Hofmeister-Katalog von Oktober 1862 angezeigt, in späteren Ausgaben hat sich der Preis geändert. Daher muss Sommer / Herbst 1862 für die uns vorliegende Edition zutreffen. QED.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

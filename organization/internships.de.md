@@ -11,7 +11,7 @@ Die RISM Zentralredaktion in Frankfurt am Main bietet Praktika für Personen an,
 
 Praktika werden basierend auf den Interessen und Terminen unserer Praktikanten organisiert. Im Idealfall sollten Praktika mindestens 3 Wochen dauern, wobei durchaus auch andere zeitliche Arrangements denkbar sind. Am Ende des Praktikums ist ein kurzer Bericht erforderlich, den wir auf der RISM-Website veröffentlichen werden.
 
-Leider kann RISM keine finanzielle Entschädigung anbieten. Gegebenenfalls kann ein ERASMUS-Stipendium unterstützt werden.
+Leider kann RISM keine finanzielle Entschädigung anbieten. Gegebenenfalls kann ein ERASMUS-Stipendium unterstützend beantragt werden.
 
 #### Praktikum in der Redaktion
 
@@ -33,13 +33,19 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 #### 2020
 
+Yu-Lin Chiang (Deutschland)
+
+Miquela Döppenschmitt (Deutschland) [Bericht](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
+
+Daniel Kneer (Deutschland)
+
 Julius Rüttger (Deutschland)
 
-Karin Weißert (Deutschland) [Bericht](http://www.rism.info/en/home/newsdetails/article/2/karin-weissert-internship-report.html){:target="_blank"}
+Karin Weißert (Deutschland) [Bericht](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
 
 #### 2019
 
-Carmen Álvarez (Spanien). Blog entries: [Welcome, Carmen Álvarez!](http://www.rism.info/en/home/newsdetails/article/64/welcome-carmen-alvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](http://www.rism.info/en/home/newsdetails/article/64/johann-walter-ecuador-hilario-olazaran.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](http://www.rism.info/en/home/newsdetails/article/64/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](http://www.rism.info/en/home/newsdetails/article/64/articles-about-spanish-printed-music-in-the-16th-century.html){:target="_blank"}.
+Carmen Álvarez (Spanien). Blog entries: [Welcome, Carmen Álvarez!](/new_at_rism/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](/new_publications/2019/10/28/johann-walter-ecuador-hilario-olazarán.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](/in_the_news/2019/11/11/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](/new_publications/2020/02/04/articles-about-spanish-printed-music-in-the-16th.html){:target="_blank"}.
 
 #### 2018
 
@@ -47,7 +53,7 @@ Andrea Ickstadt (Deutschland)
 
 Charlotte Köhler (Deutschland)
 
-Ulrike Schädel (Deutschland), Bericht: [Ein Praktikum bei RISM: Bericht aus der Zentralredaktion in Frankfurt](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1633&cHash=7cc8819b8fb55cc03da7b14ad53fa0ae){:target="_blank"}
+Ulrike Schädel (Deutschland), Bericht: [Ein Praktikum bei RISM: Bericht aus der Zentralredaktion in Frankfurt](/new_at_rism/2018/06/21/a-rism-internship-report-from-the-central-office.html){:target="_blank"}
 
 #### 2017
 

@@ -5,12 +5,11 @@ date: 2020-04-09
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Beriot_photo_55eea5347f.jpg"
+image: "/images/news-old-website/csm_Beriot_photo_55eea5347f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/farewell-charles-de-beriot.html
 email: richard.sutcliffe@ehb.be
 author: Richard Sutcliffe
 ---
-
 
 _This year marks the 150th anniversary of the death of Belgian composer and violinist [Charles de Bériot](https://opac.rism.info/search?View=rism&author=Charles+de+B%C3%A9riot){:target="_blank"}. We bring you an excerpt from a piece by Richard Sutcliffe (Koninklijk Conservatorium Brussel) and invite you to read the post in its entirety at his [19c Belgian Music Blog](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}._
 
@@ -22,4 +21,3 @@ In today’s blog post I have translated, together with the help of [Mary Bardet
 
 Please continue reading ["Farewell Charles de Bériot!" here](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

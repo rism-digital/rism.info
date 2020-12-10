@@ -4,13 +4,12 @@ title: Neue Quellen aus Kanada in RISM
 date: 2019-01-21
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-sources-from-canada-in-rism.html
 email: shawbecky1@gmail.com
 author: Becky Shaw
 ---
-
 
 _Der folgende Beitrag ist von Becky Shaw (Dalhousie University):_
 
@@ -21,9 +20,6 @@ Musik ist einer von mehreren Bereichen, die zum Sammelauftrag des Universitätsa
 Im Rahmen dieses Projekts haben wir auch Richtlinien für die Übertragung von beschreibenden Metadaten aus dem kanadischen Standard für die Archivbeschreibung (Rules for Archival Description, [RAD](http://www.cdncouncilarchives.ca/archdesrules.html)) nach MARC entwickelt. Diese Anweisungen sind in unserem Dokumentations-Wiki verfügbar und enthalten [allgemeine Anweisungen](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat) zur Erfassung in RISM aus RAD (oder einem anderen Archivierungsstandard), spezifische Anweisungen für [Musikhandschriften](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/105054209/Archival+description+of+music+manuscripts) und Anweisungen für [gedruckte Musik](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/701038593/Archival+description+of+published+music+scores+and+sheet+music). Wir hoffen, dass diese Richtlinien für andere Archivierungsinstitutionen in Kanada und international von Nutzen sein werden.
 
 
-
 _Abbildung_: Heitor Villa-Lobos, _Concerto para piano e orquestra_ (1945), [RISM ID no.: 1001044620](https://opac.rism.info/search?id=1001044620&View=rism)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

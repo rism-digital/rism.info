@@ -4,13 +4,12 @@ title: 'Ein Praktikum bei RISM: Bericht aus der Zentralredaktion in Frankfurt'
 date: 2018-06-21
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-rism-internship-report-from-the-central-office-in-frankfurt.html
 email: ulrike.schaedel@gmx.net
 author: Ulrike Schädel
 ---
-
 
 _D__er folgende Beitrag stammt von Ulrike Schädel, die im Wintersemester 2017/18 ein Praktikum in der Zentralredaktion machte._
 
@@ -29,9 +28,6 @@ Die Zentralredaktion ist auch viel mit Öffentlichkeitsarbeit beschäftigt. Es g
 Zunächst fiel mir die Umstellung vom Studium in die Arbeitswelt schwer: Die Einordnung in die Arbeitserfordernisse im Büro. Die Eingabe in die RISM-Datenbank selbst verlangte sorgfältige Arbeit und ruhige Geduld. Mit der Zeit erkannte ich die Tragweite dieser Tätigkeit. Es war mir kostbar, dazu etwas beizutragen. Die Organisation von RISM, erschien mir im Gegensatz zu dem Idealismus der Idee zunächst befremdlich institutionalisiert. Doch sie schafft den Raum für die achtsame Pflege von Musikkultur als historisches Erbe, ganz selbstverständlich vernetzt mit Wissenschaftlern 35 weiteren Ländern rund um die Welt, jenseits von Krieg und Politik.
 
 
-
 _Abbildung_: Georg Philipp Telemann, _Das Blut Jesu Christi_, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F Ms.Ff.Mus 820), RISM ID no. [450003788](https://opac.rism.info/search?id=450003788){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

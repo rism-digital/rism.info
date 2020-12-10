@@ -4,13 +4,12 @@ title: 'RISM Modern Monday: Composer Archives in RISM'
 date: 2016-02-01
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Nachlaesse_-_Modern_Monday_-_Blumer_-_Hampelmann_37e02c2860.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Nachlaesse_-_Modern_Monday_-_Blumer_-_Hampelmann_37e02c2860.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-composer-archives-in-rism.html
 email: ''
 author: ''
 ---
-
 
 In our series RISM Modern Monday, we mustn't omit composer archives - collections of personal papers and/or manuscripts that are left to a library - particularly because they contain a large share of the twentieth-century musical sources that are documented in RISM. Processing these archival collections is done by the owning institution using a special part of our cataloging program Kallisto, so these automatically become part of the RISM online catalog.
 
@@ -22,7 +21,7 @@ The Sächsische Landes- und Universitätsbibliothek in Dresden ([D-Dl](https://o
 - [Rainer Kunad](https://opac.rism.info/metaopac/search?View=rism&author=139139834){:target="_blank"} (1936-1995); 338 sources
 - [Rudolf Mauersberger](https://opac.rism.info/metaopac/search?View=rism&author=13445829X){:target="_blank"} (1889-1971); 497 sources
 
-Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library [on the RISM website in 2014](http://www.rism.info/en/home/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html){:target="_blank"}. Some of the ones that are in RISM are:
+Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library. Some of the ones that are in RISM are:
 
 - [Günter Bialas](https://opac.rism.info/metaopac/search?View=rism&author=310018846){:target="_blank"} (1907-1995); 431 sources
 - [Hugo Distler](https://opac.rism.info/metaopac/search?View=rism&author=118679848){:target="_blank"} (1908-1942); 202 sources
@@ -30,7 +29,5 @@ Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library [on the 
 - [Karl Amadeus Hartmann](https://opac.rism.info/metaopac/search?View=rism&author=118546309){:target="_blank"} (1905-1963); 239 sources
 - [Ermanno Wolf-Ferrari](https://opac.rism.info/metaopac/search?View=rism&author=118634879){:target="_blank"} (1876-1948); 210 sources
 
-
 _Image_: Theodor Anton Blumer: _Hampelmanns groteskes Tanzduett_ (1930). [SLUB Dresden](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/theodor-blumer/){:target="_blank"} (D-Dl) Mus.10621-J-502 Mus.10621-I-502. [RISM ID no. 290002218](https://opac.rism.info/search?id=290002218){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

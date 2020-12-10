@@ -4,13 +4,12 @@ title: 326 Years of Gottlieb Muffat (1690-1770)
 date: 2016-04-25
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Muffat_bbbfd9bd63.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Muffat_bbbfd9bd63.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/326-years-of-gottlieb-muffat-1690-1770.html
 email: ''
 author: ''
 ---
-
 
 Today we are celebrating the 326th anniversary of the day that Gottlieb Muffat (1690-1770) was baptized, the closest we have to a date of birth. "The Famously Little-Known Gottlieb Muffat" is the name of an essay by Alison J. Dunlop that nicely sums up the contradiction between the fame of Muffat's works and the largely unknown circumstances of his life (_[Bach Perspectives](http://www.jstor.org/stable/10.5406/j.ctt3fh4gn){:target="_blank"}_ 9 [2013]: 77-119).
 
@@ -26,7 +25,5 @@ Below, enjoy _Componimenti musicali_ performed by Naoko Akutagawa.
 <embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
 
 
-
 _Image_: Title page of _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitized and available from the [Austrian National Library](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

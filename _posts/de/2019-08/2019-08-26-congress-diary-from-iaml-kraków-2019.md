@@ -5,14 +5,13 @@ date: 2019-08-26
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Krakow_Wawel_a5175c3ddb.jpg"
+image: "/images/news-old-website/csm_Krakow_Wawel_a5175c3ddb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/congress-diary-from-iaml-krakow-2019.html
 email: ''
 author: ''
 ---
 
-
-_RISM nahm an dem jährlichen [Kongress der International Association of Music Libraries, Archives and Documentation Centres](/de/publikationen/iaml-konferenzen/2019.html) in Krakau (Polen) teil._ _Im traditionellen Stil des_ _[Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} bieten wir Ihnen einige Eindrücke aus Krakau, wobei jeder Teilnehmer in seiner Muttersprache schreibt._
+_RISM nahm an dem jährlichen [Kongress der International Association of Music Libraries, Archives and Documentation Centres](/publications/iaml-congresses/2019.html) in Krakau (Polen) teil._ _Im traditionellen Stil des_ _[Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} bieten wir Ihnen einige Eindrücke aus Krakau, wobei jeder Teilnehmer in seiner Muttersprache schreibt._
 
 **Klaus Keil:**
 Dass der IAML Kongress diesmal in Krakov statt fand, war für mich eine besondere Freude. Vor mehr als 40 Jahren war ich schon einmal hier, erinnerte mich aber nur noch an das historisches Stadtzentrum, das damals noch weit von einem Touristenmagnet entfernt war.
@@ -30,7 +29,6 @@ Zum Glück treffen wir uns im nächsten Jahr in Prag beim nächsten IAML-Kongres
 **Jennifer Ward:**
 I have to admit that one of my favorite parts of the IAML congress in Kraków was the food. Coffee breaks are always a welcome opportunity to recaffinate after productive meetings or informative sessions, but it's also a good chance to catch up with colleagues face-to-face and participate in those quick, but valuable, exchanges that would normally take weeks (or longer) to hash out over email. Though this year's IAML coffee breaks certainly stand out in part because of the seemingly endless array of Polish cakes (and the cappuccino machine), it is the lunches that I found to be just as important as the sessions and meetings. It gave me the opportunity to have productive meetings with my colleagues who I see only rarely, once a year, if that. We didn't have to leave the congress venue at all and no time was lost looking for a restaurant or anything like that. It was a very efficient and delicious way to spend the lunch break. Even if I didn't have a lunch meeting planned, it was always easy to strike up a conversation with whoever was standing around.
 
-
 _Fotos:_
 
 Blick auf das Wawel-Schloss
@@ -40,4 +38,3 @@ Alstadt von Krakau
 Darbietung beim Farewell Dinner
 _Alle Fotos mit freundlicher Genehmigung von Jennifer Ward._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Handschriftliche Tabulaturen und Stimmbücher bis zur Mitte des 17. Jahrh
 date: 2015-12-14
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Tabulaturen_231b764688.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Tabulaturen_231b764688.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscript-tablatures-and-partbooks-up-to-the-17th-century-in-the-bavarian-state-library.html
 email: giglberger@bsb-muenchen.de
 author: Veronika Giglberger
 ---
-
 
 Die [handschriftlichen Tablaturen und Stimmbücher der Bayerischen Staatsbibliothek (BSB)](http://www.digitale-sammlungen.de/index.html?c=sammlung&projekt=1448525517&l=de){:target="_blank"} bis zur Mitte des 17. Jahrhunderts sind neben den frühen Notendrucken und den Chorbüchern ein zentrales Segment aus der historischen Musikaliensammlung der bayerischen Herzöge. Die frühesten Handschriften reichen dabei bis in das 15. Jahrhundert zurück.
 
@@ -23,9 +22,4 @@ In einem durch die DFG geförderten Projekt werden die Musikhandschriften ab Dez
 Die Abbildung zeigt die Handschrift D-Mbs, Mus.ms. 263, fol. 35v, Benediktinerkloster Irsee?, ca. 1600-1605, mit einer Intavolierung des sechsstimmigen _Cantate Domino canticum novum_ von Jacob Reiner (ca. 1560–1606).
 
 
-
-Ansprechpartner:[Veronika Giglberger](mailto:giglberger@bsb-muenchen.de "Opens window for sending email") und [Bernhard Lutz](mailto:Bernhard.Lutz@bsb-muenchen.de "Opens window for sending email")
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
+Ansprechpartner:[Veronika Giglberger](mailto:giglberger@bsb-muenchen.de) und [Bernhard Lutz](mailto:Bernhard.Lutz@bsb-muenchen.de)

@@ -5,14 +5,13 @@ date: 2016-02-17
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
+image: "/images/news-old-website/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-workshop-and-seminar-in-warsaw-february-3-4-2016.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-
-_The following has reached us from Sonia Wronkowska of [RISM Poland](/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland.html):_
+_The following has reached us from Sonia Wronkowska of [RISM Poland](/international/working-groups.html):_
 
 The workshop “Introduction to Kallisto” and a RISM seminar took place at the beginning of February in Warsaw, and was organised by the Polish RISM Centre (Music Department) and the Librarian Education Department of the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"}. Sonia Wronkowska and Guido Kraus conducted the workshop.
 
@@ -26,30 +25,23 @@ During the seminar 5 reports were presented by:
 
 Sonia Wronkowska - Polish RISM Centre in the National Library of Poland
 
-
 -
 
 Dr hab. Magdalena Walter-Mazur - RISM working group in Poznań
-
 
 -
 
 Grzegorz Joachimiak - RISM working group in Wrocław
 
-
 -
 
 Katarzyna Spurgjasz - RISM working group in the Warsaw University Library
-
 
 -
 
 Guido Kraus - RISM Central Office
 
 
-
 _Photographs courtesy of Sonia Wronkowska. Top, Guido Kraus demonstrates Kallisto. Bottom, the RISM seminar continues._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

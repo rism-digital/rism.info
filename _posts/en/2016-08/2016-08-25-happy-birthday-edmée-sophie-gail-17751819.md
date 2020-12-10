@@ -4,13 +4,12 @@ title: Happy Birthday, Edmée Sophie Gail (1775-1819)
 date: 2016-08-25
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''
 ---
-
 
 Edmée Sophie Gail was born on August 28, 1775 in Paris and showed musical talent as a singer and composer from a young age. The start of the French Revolution coincided with the publication of Gail's first songs in magazines, and Gail was able to continue work as a singer and composer throughout that tumultuous period. She studied voice, theory, and composition in Paris, the latter with François-Joseph Fétis, who later dedicated a Mass to her ([RISM ID no. 700006118](https://opac.rism.info/search?id=700006118&Language=en){:target="_blank"}). She published songs throughout her life, had five operas premiered, and toured Europe as a singer and accompanist (and [a](https://opac.rism.info/search?id=450013351&Language=en){:target="_blank"} [couple](https://opac.rism.info/search?id=454000094&Language=en){:target="_blank"} [of](https://opac.rism.info/search?id=450012900&Language=en){:target="_blank"} her arrangements are in the RISM database).
 
@@ -19,9 +18,4 @@ Sophie Gail's compositional output is reflected in part by the [53 manuscripts](
 Gail died in Paris on 24 July 1819 and was buried at Père-Lachaise cemetery. Her former teacher, Fétis, wrote a Miserere upon her death ([RISM ID no. 403008216](https://opac.rism.info/search?id=403008216&Language=en){:target="_blank"}).
 
 _Image_: Portrait of Edmée Sophie Gail by Auguste Delvaux, after Eugène Isabey (1840). Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8418085x){:target="_blank"}.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

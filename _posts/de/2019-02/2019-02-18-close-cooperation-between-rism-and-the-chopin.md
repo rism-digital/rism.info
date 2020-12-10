@@ -4,13 +4,12 @@ title: Intensive Zusammenarbeit zwischen RISM und dem Chopin-Institut
 date: 2019-02-18
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Treffen1_99940fe63d.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Treffen1_99940fe63d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/close-cooperation-between-rism-and-the-chopin-institute.html
 email: ''
 author: ''
 ---
-
 
 RISM und das Chopin-Institut (PL-Wbfc) arbeiten jetzt noch enger zusammen. Am Dienstag, dem 5. Februar 2019 haben Vertreter des Warschauer Chopin-Institutes und Mitarbeiter der RISM Zentralredaktion bei einem Treffen in Frankfurt am Main weitere Einzelheiten ihres gemeinsamen Projektes besprochen.
 
@@ -28,4 +27,3 @@ Wir freuen uns sehr auf eine intensive Zusammenarbeit mit den polnischen Kollegi
 
 Alle Abbildungen mit freundlicher Genehmigung von Guido Kraus.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

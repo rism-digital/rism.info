@@ -5,12 +5,11 @@ date: 2016-05-30
 lang: de
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
+image: "/images/news-old-website/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/help-rism-link-to-digitized-music.html
 email: contact@rism.info
 author: ''
 ---
-
 
 Der RISM Online-Katalog bietet über 18.000 Links zu digitalisierten Musikquellen: handschriftliche Partituren, Stimmen und Notendrucke aus aller Welt. Dieser bequeme Zugang zur Quelle ist eine der beliebtesten Eigenschaften des Katalogs.
 
@@ -19,10 +18,6 @@ Bei der täglichen Erfassung der Musikquellen fügen die RISM-Mitarbeiter die Li
 Unterstützen Sie uns bei der Verlinkung auf die RISM-Einträge und weiten Sie die Darstellung Ihrer Bestände aus! Hat Ihre Institution in den letztes Jahren ein Digitalisierungsprojekt durchgeführt? Ist das Digitalisat bereits mit dem entsprechenden RISM-Eintrag verlinkt? Starten Sie eine[Erweiterte Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=de){:target="_blank"} zur Überprüfung, wählen Sie das Feld **Bibliothekssigel** und geben das Sigel ihrer Institution ein. (Das Bibliothekssigel finden Sie in der [Sigel-Datenbank](http://www.rism.info/de/sigla.html){:target="_blank"}). Sofern bereits Verlinkungen auf die Digitalisate vorhanden sind, finden Sie bei den Filtern unter **Suche verfeinern** den Hinweis auf **Digitalisate** (siehe Abbildung).
 
 Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre digitalen Sammlungen aufmerksam. Für die Beschreibungen im RISM Online-Katalog, senden Sie uns bitte ein Excel-Tabellenblatt mit den RISM Nummern und einem Permalink zur digitalen Kopie (entweder einen direkten Link zum Scan oder einen bibliographischen Eintrag, der den Link enthält):
-
-
-
-
 
 |  |
 |
@@ -81,17 +76,11 @@ Wenn RISM noch nicht auf Ihre Scans verlinkt, dann machen Sie uns bitte auf Ihre
 
 |
 
-
-
-
-
-
-Der RISM Online-Katalog enthält die Serie [A/II](/de/publikationen.html#c41) (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/de/publikationen.html#c41) (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/de/publikationen.html#c41) (Sammeldrucke).
+Der RISM Online-Katalog enthält die Serie [A/II](/publications.html#c41) (überwiegend Musikhhandschriften und einige Drucke, Libretti und Traktate) sowie die komplette Serie [A/I](/publications.html#c41) (Einzeldrucke) und die Jahre 1500 bis 1550 aus [B/I](/publications.html#c41) (Sammeldrucke).
 
 Aber es gibt noch mehr! Wir planen auch die übrigen Einträge aus **B/I** und alles aus **B/II** in absehbarer Zukunft dem Online-Katalog zuzuführen, daher senden Sie uns bitte auch diese Verlinkungen - in einem separaten Excel-Tabellenblatt - zu.
 
 Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, senden Sie uns bitte die B/I-Nummer (Jahreszahl mit hochgestellter Ziffer) und den Permalink. Als Hochstellungszeichen verwenden Sie bitte den geraden Strich (|):
-
 
 
 | |
@@ -123,7 +112,6 @@ Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, 
 
 |
 
-
 Einträge ausB/II haben keine eindeutige Referenznummer. Hierfür geben Sie bitte den Titel, die Seitenzahl und Permalink an:
 
 | |
@@ -154,7 +142,6 @@ Recueil d'Airs sérieux et à boire de différents auteurs ; pour l'année 1713
 
 |
 
-
 Bitte beachten Sie:
 
 - Wir möchten nur auf vollständige Digitalisate verlinken (nicht nur die ersten Seiten), uabhängig davon, ob Ihr Exemplar vollständig überliefert ist.
@@ -169,8 +156,3 @@ Bitte senden Sie die Tabelle(n) an: [contact@rism.info](mailto:contact@rism.info
 
 Sollten Sie Unterstützung benötigen, werden wir Ihnen gerne weiterhelfen.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

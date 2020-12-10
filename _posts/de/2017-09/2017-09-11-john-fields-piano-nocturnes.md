@@ -4,13 +4,12 @@ title: Die Klaviernocturnes von John Field
 date: 2017-09-11
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Field_John_dcb2de03f2.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Field_John_dcb2de03f2.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/john-fields-piano-nocturnes.html
 email: ''
 author: ''
 ---
-
 
 Das Jahr 1812 brachte dem europäischen Kontinent schlimme Kriegswirren, als die Armee Napoleons durch ganz Europa nach Russland zog und Moskau erreichte. Der Ausgang war, wie wir alle wissen, katastrophal für die sogenannte _deuxième Grande Armée_. Es war der Anfang vom Ende der napoleonischen Herrschaft über Frankreich und Europa.
 
@@ -27,9 +26,6 @@ Field schrieb insgesamt 18 Nocturnes. Im RISM Online-Katalog werden [12 Quellen]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPFv7FyuSlI" frameborder="0" allowfullscreen></iframe>
 
 
-
 _Abbildung_: John Field, ca. 1835, von Carl Mayer. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Field.png){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

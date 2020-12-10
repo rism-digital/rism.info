@@ -5,12 +5,11 @@ date: 2015-02-10
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_141209-lute-music-mainimage_d0d7272391.jpg"
+image: "/images/news-old-website/csm_141209-lute-music-mainimage_d0d7272391.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/crown-jewels-of-english-lute-music-go-online.html
 email: ''
 author: ''
 ---
-
 
 _The following news has reached us from the [University of Cambridge](http://www.cam.ac.uk/research/news/crown-jewels-of-english-lute-music-go-online){:target="_blank"} ([CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/){:target="_blank"}):_
 
@@ -25,11 +24,6 @@ The new online collection of lute music comprises high-resolution zooming images
 For more information, please see the [full article](http://www.cam.ac.uk/research/news/crown-jewels-of-english-lute-music-go-online){:target="_blank"}.
 
 
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
-
-The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_stocks/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)
+The following entry is by Nicolas Bell and originally appeared on - See more at: [www.rism.info/en/home/newsdetails/article/64/earliest-polyphonic-music-discovered-in-british-library.html](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html#sthash.S6wm53bE.dpuf)

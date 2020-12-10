@@ -4,13 +4,12 @@ title: 'Vicente Olmos Claver: A Spanish Chapel Master of the 18th Century'
 date: 2020-05-28
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
 email: angelmarzalraga@gmail.com
 author: Ángel Marzal
 ---
-
 
 _We have received the following from Ángel Marzal, who recently cataloged the works of [Vicente Olmos Claver](https://opac.rism.info/search?View=rism&author=Vicente+Olmos+Claver){:target="_blank"} for RISM._
 
@@ -37,7 +36,6 @@ Our study of Vicente Olmos Claver has allowed us to corroborate that his music i
 Indeed, the archive of Segorbe preserves twelve liturgical compositions; six Psalms, one Verse, two Lamentations, one Mass, one "Magnificat" and the _Completas_. Moreover, it holds all the output of paraliturgical music by our author, specifically 36 liturgical _villancicos_, a “Quatro”, the "Misterios" and an Aria _â Duo_ composed especially for the feast of the _Santísima Trinidad_. There is no doubt that in Vicente Olmos's paraliturgical production, liturgical _villancicos_ predominate, which we will often find grouped in series of four compositions for each shelfmark. All in all, we can say that, at present, we have in these archives 53 musical compositions by our author.
 
 To conclude, we must point out that it has not been our purpose in this brief review to go into stylistic matters in depth, but rather to outline the creative career of a Valencian chapel master whose contribution to Spanish music will undoubtedly be valued by future generations. All the research on Vicente Olmos Claver is included both in our PhD thesis (MARZAL 2013) and in the recent publication _La música de Vicent Olmos i Claver_ (MARZAL 2019). In both works we will find numerous unpublished documentary sources about the author.
-
 
 **FOOTNOTES**
 
@@ -103,4 +101,3 @@ MARZAL (2019): A. Marzal Raga, _La música de Vicent Olmos i Claver_, Vols. I i 
 
 _Image_: The score of _Lamentación â Solo. 2ª del miercoles_. (ACV): PM 152/9, (f. 1 r.). Year: 1789. [RISM ID no. 1001111577](https://opac.rism.info/search?id=1001111577&View=rism){:target="_blank"}. Courtesy of the author.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

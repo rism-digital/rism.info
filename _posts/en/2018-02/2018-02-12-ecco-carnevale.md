@@ -5,12 +5,11 @@ date: 2018-02-12
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Karneval-250936_1920_32a664a472.jpg"
+image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ecco-carnevale.html
 email: ''
 author: ''
 ---
-
 
 Today is _Rosenmontag_ in our corner of Germany, the highlight of [the Carnival season](http://www.dw.com/en/11-crazy-carnival-events-held-between-november-11-and-lent/a-18843047){:target="_blank"}. It is hard to avoid colorful costumes, parades, and general revelry (in all its forms). Join us on our own parade of Carnival music through the centuries!
 
@@ -35,11 +34,8 @@ And finally, an example from the 20th century: even the famous Cologne _Karneval
 By the way, the _Ecco carnevale_ of this post's title is the name of a work by Pier Francesco Valentini (1586-1654; RISM ID no. [850015550](https://opac.rism.info/search?id=850015550&Language=en){:target="_blank"}).
 
 
-
 _Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
 
 _Originally published 27 February 2017._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

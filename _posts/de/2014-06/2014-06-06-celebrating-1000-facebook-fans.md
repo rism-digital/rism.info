@@ -4,13 +4,12 @@ title: Wir freuen uns über den 1.000 Facebook Fan!
 date: 2014-06-06
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Luftballons_c7ad474b66.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Luftballons_c7ad474b66.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/celebrating-1000-facebook-fans.html
 email: ''
 author: ''
 ---
-
 
 Heute erreichte RISM einen weiteren Meilenstein: 1.000 Facebook Fans!
 
@@ -28,7 +27,6 @@ Polen **Dziękuję!**
 Großbritannien **Cheers!**
 Niederlande **Bedankt!**
 Brasilien **Valeu!**
-
 
 
 _Sie müssen nicht angemeldet sein, um die RISM Facebook-Seite zu sehen._

@@ -17,7 +17,7 @@ Knowledge of German is helpful but not required.
 
 #### Editorial Internships
 
-Editorial interns will get a taste of the full range of editorial activities that RISM engages in: database development and maintenance, authority files, library sigla, secondary literature, cataloging, reference work, outreach, and training.<br>
+Editorial interns will get a taste of the full range of editorial activities that RISM engages in: database development and maintenance, authority files, library sigla, secondary literature, cataloging, reference work, outreach, and training.
 
 Qualifications:
 
@@ -35,13 +35,19 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 
 #### 2020
 
+Yu-Lin Chiang (Germany)
+
+Miquela Döppenschmitt (Germany) [Report](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
+
+Daniel Kneer (Germany)
+
 Julius Rüttger (Germany)
 
-Karin Weißert (Germany) [Report](http://www.rism.info/en/home/newsdetails/article/2/karin-weissert-internship-report.html){:target="_blank"}
+Karin Weißert (Germany) [Report](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
 
 #### 2019
 
-Carmen Álvarez (Spain). Blog entries: [Welcome, Carmen Álvarez!](http://www.rism.info/en/home/newsdetails/article/64/welcome-carmen-alvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](http://www.rism.info/en/home/newsdetails/article/64/johann-walter-ecuador-hilario-olazaran.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](http://www.rism.info/en/home/newsdetails/article/64/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](http://www.rism.info/en/home/newsdetails/article/64/articles-about-spanish-printed-music-in-the-16th-century.html){:target="_blank"}.
+Carmen Álvarez (Spain). Blog entries: [Welcome, Carmen Álvarez!](/new_at_rism/2019/09/19/welcome-carmen-álvarez.html){:target="_blank"}, [Johann Walter, Ecuador, Hilario Olazarán](/new_publications/2019/10/28/johann-walter-ecuador-hilario-olazarán.html){:target="_blank"}, [Instrument of the Year 2019: Saxophone](/in_the_news/2019/11/11/instrument-of-the-year-2019-saxophone.html){:target="_blank"}, [Articles about Spanish printed music in the 16th century](/new_publications/2020/02/04/articles-about-spanish-printed-music-in-the-16th.html){:target="_blank"}.
 
 #### 2018
 
@@ -49,7 +55,7 @@ Andrea Ickstadt (Germany)
 
 Charlotte Köhler (Germany)
 
-Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1633&cHash=7cc8819b8fb55cc03da7b14ad53fa0ae){:target="_blank"}<br>
+Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1633&cHash=7cc8819b8fb55cc03da7b14ad53fa0ae){:target="_blank"}
 
 #### 2017
 

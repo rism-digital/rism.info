@@ -5,18 +5,17 @@ date: 2018-02-01
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Valletta_2018_fa9ee0d7be.jpg"
+image: "/images/news-old-website/csm_Valletta_2018_fa9ee0d7be.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
 email: ''
 author: ''
 ---
 
-
 Valletta and Leeuwarden are the two European Capitals of Culture for 2018. Valletta is the smallest capital in the European Union and is listed as a UNESCO World Heritage Site.
 
 The city was built by the Knights of Malta beginning in 1566 and the sights can be reached easily by foot. But as Alexiei Dingli, the mayor of Valletta, said, "This Capital of Culture is different than other cultural capitals. It's not just about Valletta, but all of Malta and Gozo, too." Fans of culture can expect a full [calendar of events](https://valletta2018.org/){:target="_blank"} throughout the year.
 
-[In RISM](/sigla.html), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:
+[In RISM](/community/sigla.html), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:
 St. Augustin Convent, Valletta (M-Vsa)
 Carmelite Priory, Valletta (M-Vcp)
 Commissariat of the Holy Land, Archives, Valletta (M-Vchl)
@@ -42,7 +41,5 @@ There aren't any sources in the RISM catalog from Malta yet...does anyone out th
 
 **Michelangelo Vella** (1710, Senglea – 1792, Cospicua) received his musical training in — you guessed it — Naples and returned to Malta in 1738 in order to work as as a music teacher, organist, and _maestro di cappella_. The six sonatas for three violins and bass are among his most popular works and were printed in Paris during his lifetime (RISM A/I: [V 1107, VV 1107, VV 1107a](https://opac.rism.info/search?View=rism&author=Vella+Michelangelo&Language=en){:target="_blank"}).
 
-
 _Image_: View of Valletta, photo by Joergsam, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

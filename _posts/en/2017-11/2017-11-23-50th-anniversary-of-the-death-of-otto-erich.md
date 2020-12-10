@@ -5,12 +5,11 @@ date: 2017-11-23
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
+image: "/images/news-old-website/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
 email: ''
 author: ''
 ---
-
 
 Otto Erich Deutsch (1883-1967), who died 50 years ago today, shares a common destiny with Ludwig von Köchel (1800-1877) and Anthony van Hoboken (1887-1983): he is remembered largely thanks to a thematic catalog. Even more connects Deutsch with Hoboken: from 1926 to 1935 Deutsch was the librarian of Hoboken's music collection.
 
@@ -24,4 +23,3 @@ In RISM, Deutsch is of course most visible thanks to his Schubert catalog: it is
 
 _Image_: Otto Erich Deutsch circa 1928, from the [Radio Wien program guide](http://anno.onb.ac.at/cgi-content/anno?aid=raw&datum=19280326&seite=23&zoom=33){:target="_blank"} of 26 March 1928, p. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

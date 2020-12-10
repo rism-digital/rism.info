@@ -4,13 +4,12 @@ title: Music History's Earliest Engraved Notes – Simone Verovio
 date: 2019-07-22
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
+category: in_the_news
+image: "/images/news-old-website/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
 email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---
-
 
 While printed music in the 16th century was primarily produced using type printing, which gave it a typically blurry overall look (except with Ottaviano Petrucci), the printed editions by Simone Verovio are particularly striking because of their handwritten appearance. The engraved printed music is easily recognizable through its characteristic platemark.
 
@@ -26,7 +25,5 @@ Today Verovio lends his name to the [modern digital engraving library](http://ww
 
 If you want to learn more about Verovio (the person), you can look at the usual encyclopedias as well as a new publication by Auguste Campagne: [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"}. Wiener Veröffentlichungen zur Musikgeschichte, vol. 13 (Vienna: Böhlau Verlag, 2018; cited in RISM as CampagneV 2018).
 
-
 _Image_: Title page from CANZONETTE | A quattro Voci, | Composte da diuersi | Ecc.ti Musici. Copy in [Bayerische Staatsbibliothek](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00074058-8){:target="_blank"} (D-Mbs, 4 Mus.pr. 10), [RISM ID no. 993120915](https://opac.rism.info/search?id=993120915&Language=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

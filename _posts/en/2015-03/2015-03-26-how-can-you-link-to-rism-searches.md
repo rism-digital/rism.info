@@ -4,16 +4,14 @@ title: How can you link to RISM searches?
 date: 2015-03-26
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/how-can-you-link-to-rism-searches.html
 email: ''
 author: ''
 ---
 
-
 Many smaller institutions, including libraries, archives, private collectors, etc. do not maintain an online catalog of their collections but want to present the RISM records for their items on their own websites. To facilitate this, the Bavarian State Library in Munich offers a query interface based on different parameters.
-
 
 
 For example: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
@@ -81,13 +79,7 @@ All sources in the United States:
 [https://opac.rism.info/search?View=rism&siglum=US\*](https://opac.rism.info/search?View=rism&siglum=US*){:target="_blank"}
 
 
-
 All sources by Gustav Mahler that are in Canada (with interface in English):
 
 [https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler&Language=en](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler&Language=en){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

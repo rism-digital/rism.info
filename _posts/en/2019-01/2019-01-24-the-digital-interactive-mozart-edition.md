@@ -5,12 +5,11 @@ date: 2019-01-24
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
+image: "/images/news-old-website/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-digital-interactive-mozart-edition.html
 email: ''
 author: ''
 ---
-
 
 To celebrate [Wolfgang Amadeus Mozart](https://opac.rism.info/search?View=rism&author=Mozart+Wolfgang+Amadeus&Language=en){:target="_blank"}'s 263rd birthday on 27 January, we would like to draw your attention to the [Digital Mozart Edition](https://dme.mozarteum.at){:target="_blank"} (DME), a joint project from the Mozarteum Foundation in Salzburg and the Packard Humanities Institute in Los Altos, California, and to the release of the Digital Interactive Mozart Edition. This long-term project aims to offer the entire oeuvre of Mozart in digital form at no charge.
 
@@ -21,7 +20,5 @@ The six string quartets dedicated to Joseph Haydn (KV 387, 421, 428, 458, 464, 4
 The website is available in English and German. We are looking forward to seeing how the 10-year project will develop because after the music phase is complete, Mozart's letters and the Köchel catalog will be offered on this platform.
 
 
-
 _Image_: [_Ave verum corpus_](https://dme.mozarteum.at/movi){:target="_blank"} for mixed voices, orchestra, and organ, KV 618
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

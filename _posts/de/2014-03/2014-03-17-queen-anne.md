@@ -5,12 +5,11 @@ date: 2014-03-17
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Anne__Queen_statue_8e56f801b0.jpg"
+image: "/images/news-old-website/csm_Anne__Queen_statue_8e56f801b0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-queen-anne.html
 email: ''
 author: ''
 ---
-
 
 Angeregt durch eine [Blog-Serie der Nationalbibliothek der Niederlande](https://www.kb.nl/blogs/nederlandse-poezie/gedichten-van-a-tot-z-annabel){:target="_blank"}, möchten wir Sie in diesem Jahr einladen, uns auf einer alphabetische Reise durch die reichen und vielfältigen Schätze zu begleiten, die Sie in der RISM-Datenbank erwarten. Das ganze Jahr über präsentieren wir Ihnen etwas Ausgefallenes von über 860.000 Quellen der RISM-Datenbank, die etwa auch 80.000 Personennamen und 13.000 Institutionen enthält.
 
@@ -37,9 +36,7 @@ Um Musikquellen im RISM Online-Katalog zu finden, die in Zusammenhang mit Queen 
 Nachfolgend sehen Sie eine Aufführung von dem ersten Alt-Solo aus Händels Geburtstagsode für Queen Anne von 1714 (komponiert 1713), ihrem letzten Geburtstag. Es handelt sich um "Eternal source of light divine" ([HWV 74; Autograph in der British Library](http://opac.rism.info/search?documentid=804002342){:target="_blank"}) mit Kathleen Battle und Wynton Marsalis.
 
 
-
 <iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/2MuCCbg0k_0" frameborder="0" allowfullscreen></iframe>
-
 
 
 Sources:
@@ -47,9 +44,5 @@ Sources:
 [The British Monarchy, History of the Monarchy: Anne](http://www.royal.gov.uk/historyofthemonarchy/scottish%20monarchs%28400ad-1603%29/thestewarts/anne.aspx){:target="_blank"}
 
 [Anne Somerset, Queen Anne: The Politics of Passion (New York: Knopf, 2012)](http://opac.rism.info/index.php?id=6&tx_bsbsearch_pi1%5Bsmode%5D=advanced&L=1&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=sauthorlink&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=Anne%2C+Queen+of+England&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=sauthor&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=stitle&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Search){:target="_blank"}
-
-
-
-
 
 Bildnachweis:[Foto von Paul Farmer](http://www.geograph.org.uk/photo/1142443){:target="_blank"}. Statue der Queen Anne in London. © Copyright [Paul Farmer](http://www.geograph.org.uk/profile/32427) and licensed for reuse under this [Creative Commons Licence.](http://creativecommons.org/licenses/by-sa/2.0/)

@@ -4,13 +4,12 @@ title: Music Collections in Berlin and Munich
 date: 2014-06-23
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/pics/Klarinettist.jpg"
+category: library_collections
+image: "/resources-old-website/pics/Klarinettist.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-collections-in-berlin-and-munich.html
 email: ''
 author: ''
 ---
-
 
 C.P.E. Bach, Wilhelm Killmayer, Ruth Zechlin, Richard Strauss, Manfred Schubert, and RISM itself. The latest edition of _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ is packed with articles about music collections and includes an article by our colleague Steffen Voss of RISM Germany about the continuation of the project until 2025.
 

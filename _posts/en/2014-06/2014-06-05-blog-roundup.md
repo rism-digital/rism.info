@@ -5,12 +5,11 @@ date: 2014-06-05
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Egerton_9cf7c2a2f3.jpg"
+image: "/images/news-old-website/csm_Egerton_9cf7c2a2f3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/blog-roundup.html
 email: ''
 author: ''
 ---
-
 
 Manuscripts, modern editions, and eighteenth-century printed music--RISM likes it all. Read on for what has caught our attention recently:
 
@@ -23,5 +22,4 @@ RILM reports on this Urtext edition from Bärenreiter of this work by Monteverdi
 
 - [Benefit night at the Black BearInn
 ](http://musicb3.wordpress.com/2014/05/30/benefit-night-at-the-black-bear-inn/)From Cambridge University, about music that was performed at the Black Bear Inn in 1793, including [Thomas Arne](https://opac.rism.info/search?View=rism&author=Thomas+Arne){:target="_blank"}’s Rule Britannia (RISM A/I: [A 1578](https://opac.rism.info/search?id=00000990001579){:target="_blank"}).
-
 

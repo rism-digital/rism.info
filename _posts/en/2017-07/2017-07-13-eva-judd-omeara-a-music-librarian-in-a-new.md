@@ -5,12 +5,11 @@ date: 2017-07-13
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_EvaO_Meara_afe14a654f.jpg"
+image: "/images/news-old-website/csm_EvaO_Meara_afe14a654f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eva-judd-omeara-a-music-librarian-in-a-new-profession.html
 email: richard.boursy@yale.edu
 author: Richard Boursy
 ---
-
 
 _The series RISM A-Z brings us to the letter O, which today stands for Eva Judd O’Meara. Miss O’Meara is the first music librarian that features in our series. Richard Boursy, archivist at the[Gilmore Music Library](http://web.library.yale.edu/music){:target="_blank"}, Yale University, tells us about the life and career of someone who was notable for a number of firsts:Yale University's first music librarian, one of the "founding parents" of the [Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"}, and the first editor of_ [Notes](http://www.musiclibraryassoc.org/?page=Notes){:target="_blank"}_._
 
@@ -32,9 +31,6 @@ O’Meara officially retired in 1952, but she continued to work on library proje
 
 Despite her lack of formal education, O’Meara earned the respect and admiration of those who knew her, even renowned Yale professors such as Paul Hindemith and Ralph Kirkpatrick, both of whom were not easily impressed. In 1965, the MLA gave O’Meara a Citation and Honorary Membership. The [award](https://www.musiclibraryassoc.org/?JuddOMearaAward) for the best review in Notes is named after her. Yale honored her with a medal from the Friends of Music (1975), and an endowment established in her name still helps support what is now known as the Irving S. Gilmore Music Library.
 
-
 _Photograph of O’Meara courtesy of the Irving S. Gilmore Music Library, Yale University, and used with kind permission._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

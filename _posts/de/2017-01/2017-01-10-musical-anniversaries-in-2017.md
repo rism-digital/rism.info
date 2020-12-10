@@ -4,13 +4,12 @@ title: Jubiläen 2017
 date: 2017-01-10
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Jubilaeen_2017_9683b99ed7.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Jubilaeen_2017_9683b99ed7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2017.html
 email: ''
 author: ''
 ---
-
 
 **Frohes neues Jahr!**
 
@@ -35,17 +34,7 @@ Die vollständige Liste reicht vom Weyarner Pater [Anton **A** cher](https://opa
 
 Die Zeitspanne beginnt mit [Titus Livius](https://opac.rism.info/search?View=rism&q=118573624&Language=de){:target="_blank"} (59 vor Christi-17 nach Christi) und reicht bis zum Schriftsteller [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=de){:target="_blank"} (Kurt Barthel, 1914-1967).
 
-
-
-**Geboren in xx17 oder xx67 (zum Sortieren Überschrift anklicken):**
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+18TAJtTzYz835sAnCAMmZ1iY5DzDem8scrr-YM82K&amp;containerId=googft-gviz-canvas"></iframe>
-
-
-
-**Gestorben in xx17 oder xx67 (****zum Sortieren Überschrift anklicken**):
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1oP2CuMAyJvp3MEKxqku8hJtkgbf5Cw1wiSQ4Uifh&amp;containerId=googft-gviz-canvas"></iframe>
-
-
+**Zum Sortieren Überschrift anklicken [(Link zur Tabelle)](https://docs.google.com/spreadsheets/d/1f60S0ZGvNKE9gjQY_JxvdxBfvgJ5UaqaymLzt2irClY/edit?usp=sharing)**
 
 c = circa
 a = vor (ante)
@@ -56,5 +45,3 @@ w / f = weiblich
 _Bildnachweis: [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

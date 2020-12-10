@@ -5,12 +5,11 @@ date: 2013-03-14
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Alday_405b12bf2a.jpg"
+image: "/images/news-old-website/csm_Alday_405b12bf2a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-symphony-and-ireland-a-symposium.html
 email: catherine.ferris@dit.ie
 author: Catherine Ferris
 ---
-
 
 **Die Sinfonie und Irland: Ein Symposion**
 
@@ -82,4 +81,4 @@ Chair: Dr Philip Graydon
 
 \*\*\*\*
 
-Kontakt: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie "Opens window for sending email")
+Kontakt: [Dr Catherine Ferris](mailto:catherine.ferris@dit.ie)

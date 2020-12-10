@@ -4,13 +4,12 @@ title: The Franz Lehár Collection in Bad Ischl, Austria
 date: 2020-04-30
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
 email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
-
 
 _We have received the following from our RISM contributor Sandra Föger (RISM Austria):_
 
@@ -29,5 +28,3 @@ So far, over 700 shelfmarks for music in the Lehár Collection have been documen
 _Image_: The Franz Lehár Villa in Bad Ischl. Photo by Toffel from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

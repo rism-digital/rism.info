@@ -4,13 +4,12 @@ title: RISM Metadata in Digital Collections
 date: 2011-06-21
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_17italianariasfront_77bd1b40fe.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_17italianariasfront_77bd1b40fe.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-metadata-in-digital-collections.html
 email: ''
 author: ''
 ---
-
 
 The University of Washington Library (US-Su) is the first library in the United States to undertake a project in which RISM metadata are harvested for use in digital collections.\*
 

@@ -4,13 +4,12 @@ title: New Year's Greetings and Composer Anniversaries
 date: 2015-01-06
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neujahrsgruss_01_47be7de03b.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
 author: ''
 ---
-
 
 Happy New Year! We are looking forward to celebrating the anniversaries of the following musicians and other people that you can find in the RISM online catalog. We've listed their names, dates, and function in the catalog:
 
@@ -428,4 +427,3 @@ Skrjabin, Aleksandr Nikolaevič 1872-1915 _composer_
 Stehle, Johann Gustav Eduard 1839-1915 _composer_
 Waldteufel, Emil 1837-1915 _composer_
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

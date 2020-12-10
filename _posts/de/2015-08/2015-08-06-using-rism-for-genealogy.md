@@ -4,13 +4,12 @@ title: Kompositionen des Christian Balthasar TEUTHORN per RISM gefunden
 date: 2015-08-06
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Teuthorn_BSB_06d077a232.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Teuthorn_BSB_06d077a232.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
 email: p@teu-net.de
 author: Peter Teuthorn
 ---
-
 
 _Dass RISM neben seiner offensichtlichen Bedeutung für Musikwissenschaftler, Bibliothekare und Musiker auch für andere Forschungszweige nützlich sein kann, konnten wir kürzlich im Blog "[Genealogie-Feuilleton](http://teuthorn.net/feuilleton/?p=4716){:target="_blank"}" nachlesen. Wir danken dem Autor Peter Teuthorn für die freundliche Genehmigung, seinen Text an dieser Stelle verwenden zu dürfen:_
 
@@ -28,4 +27,3 @@ Auskunft zum RISM mit Katalog-Zugang auch unter[https://www.bsb-muenchen.de/die-
 
 Kopien der Romance und der Polonaise für Clavcin oder Pianoforte hatte mir bereits früher freundlicherweise ganz unbürokratisch die [Statsbiblioteket Arhus](http://www.statsbiblioteket.dk/){:target="_blank"} überlassen.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

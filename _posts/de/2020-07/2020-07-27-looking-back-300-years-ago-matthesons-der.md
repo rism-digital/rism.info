@@ -4,13 +4,12 @@ title: Ein kurzer Blick 300 Jahre zurück – Matthesons "Der brauchbare Virtuos
 date: 2020-07-27
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
 email: ''
 author: ''
 ---
-
 
 Dieses Jahr feiern nicht nur unzählige Komponisten ihr rundes Jubiläum, sondern auch Kompositionen. Als erstes denkt man bei Johann Mattheson vielleicht an seine in Hamburg erschienenen Schriften _Der vollkommene Capellmeister_ (1739) oder der _Grundlage einer Ehren-Pforte_ (1740). Doch es sei diesmal ein kleiner Blick auf die zwölf Sonaten geworfen, welche 1720 in Hamburg erschienen. Eigentlich waren die Sonaten bereits 1717 fertiggestellt, doch erschienen sie erst drei Jahre später.
 
@@ -25,13 +24,9 @@ Wenn Sie mehr zu den zwölf Sonaten von 1720 erfahren möchten, sei Ihnen beispi
 Wundern Sie sich übrigens nicht, wenn Sie Aufnahmen mit unterschiedlichen Instrumentierungen hören, Mattheson gibt die Wahl des begleitenden Instruments selbst frei. Hier beispielsweise in der Version mit Harpischord und Traversflöte:
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fj_TRHdImhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 _Abbildung_: Titelblatt vov Johann Mattheson _Der brauchbare Virtuoso_, Exemplar in [Staats- und Universitätsbibliothek Hamburg](https://resolver.sub.uni-hamburg.de/kitodo/PPN805164146){:target="_blank"} (CC BY-SA 4.0) [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

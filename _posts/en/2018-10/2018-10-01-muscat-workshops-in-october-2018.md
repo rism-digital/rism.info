@@ -4,13 +4,12 @@ title: Muscat Workshops in October 2018
 date: 2018-10-01
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_muscat_04_9222e9e554.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_muscat_04_9222e9e554.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-in-october-2018.html
 email: ''
 author: ''
 ---
-
 
 RISM will be holding more [Muscat](/community/muscat.html) workshops this week and next.
 
@@ -18,4 +17,3 @@ Printed music will be at the focus of a Muscat workshop for the first time that 
 
 The second October workshop is being organized thanks to an initiative from Miriam Das Lehotská from the Slovenské Národné Muzeum. Guido Kraus will hold a Muscat workshop in Bratislava from 9–12 October 2018. Twelve people from institutions in Bratislava, Banská Bystrica, Martin, and Prešov have registered. The focus will be on cataloging music manuscripts and printed editions.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

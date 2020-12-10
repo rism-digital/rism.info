@@ -5,12 +5,11 @@ date: 2019-06-12
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Brussels_Publications_Castejon_c45636c12b.png"
+image: "/images/news-old-website/csm_Brussels_Publications_Castejon_c45636c12b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/critical-editions-of-unpublished-music-manuscripts-from-the-royal-conservatory-of-brussels-b-bc.html
 email: bibliotheque@conservatoire.be
 author: Olivia Wahnon de Oliveira
 ---
-
 
 _We have received the following from Olivia Wahnon de Oliveira ([Conservatoire royal de Bruxelles](http://www.conservatoire.be){:target="_blank"}):_
 
@@ -49,5 +48,3 @@ _Manuscripts B-Bc ARC-M-99/1-4_
 [Manuscript B-Bc 13.365](https://opac.rism.info/search?id=701002457&View=rism&Language&en){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

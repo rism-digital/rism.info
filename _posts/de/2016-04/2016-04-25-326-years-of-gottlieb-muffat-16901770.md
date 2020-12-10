@@ -4,13 +4,12 @@ title: 326 Jahre Gottlieb Muffat (1690-1770)
 date: 2016-04-25
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Muffat_bbbfd9bd63.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Muffat_bbbfd9bd63.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/326-years-of-gottlieb-muffat-1690-1770.html
 email: ''
 author: ''
 ---
-
 
 Am heutigen 25. April jährt sich die Taufe von Gottlieb Muffat (1690-1770) zum 326. Mal. _The Famously Little-Known Gottlieb Muffat_ ist der Titel eines Aufsatzes von Alison J. Dunlop, der treffend den Widerspruch zwischen der Bekanntheit seines Werkes einerseits und den in weiten Teilen unklaren Lebensumständen andererseits auf den Punkt bringt (_[Bach Perspectives](http://www.jstor.org/stable/10.5406/j.ctt3fh4gn){:target="_blank"}_ 9 (2013), S. 77-119).
 
@@ -26,7 +25,5 @@ Hier hören Sie die _Componimenti musicali_ interpretiert von Naoko Akutagawa.
 <embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
 
 
-
 _Abbildung_: Titelseite der _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitalisiert und verfügbar über die [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

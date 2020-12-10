@@ -4,13 +4,12 @@ title: 'RISM Modern Monday: Marianne Teuscher (1903-2009), the "Queen Mum" of th
 date: 2016-02-08
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Teuscher_Modern_Monday_7d892a69de.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Teuscher_Modern_Monday_7d892a69de.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-marianne-teuscher-1903-2009-the-queen-mum-of-the-music-department.html
 email: ''
 author: ''
 ---
-
 
 No, you're not mistaken: the dates of birth and death for Marianne Teuscher are correct. She lived to the ripe old age of 106 and is quite likely the longest-lived person in the RISM database - and as the fifth and last person in our RISM Modern Monday series, she brings us right to our present time.
 
@@ -21,5 +20,3 @@ We hope that with our RISM Modern Monday series we've been able to show you that
 _Image_: From Marianne Teuscher's obituary in [_BIS - Das Magazin der Bibliotheken in Sachsen_](http://www.qucosa.de/fileadmin/data/qucosa/documents/2572/267.pdf){:target="_blank"} 2, no. 4 (2009): 267.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

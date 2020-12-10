@@ -4,13 +4,12 @@ title: Eine musikalische Landkarte des 16. Jahrhunderts (MML16)
 date: 2019-07-29
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
 email: emily.hopkins@mcgill.ca
 author: Emily Hopkins
 ---
-
 
 _Den folgenden Beitrag erhielten wir von Emily Hopkins (McGill University):_
 
@@ -25,5 +24,3 @@ Zu den Zielen gehört eine frei zugängliche Website für die Inventarisierung m
 Das Projekt wird zu einem wesentlich erweiterten Verständnis der musikalischen Landschaft des 16. Jahrhunderts beitragen. Die vier Forschungsthemen untersuchen die Rolle der Musik in den Bereichen religiöser Konflikt, Kolonisation und Konversion, regionale und internationale Identität sowie sakrale und säkulare Musik. Das Projekt wird nicht nur für das Studium der Renaissancemusik von Vorteil sein, sondern auch für Studien zur Geschichte des Buches, Religionswissenschaften, optische Musikerkennung und digitale Geisteswissenschaften.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

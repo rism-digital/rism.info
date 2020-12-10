@@ -4,13 +4,12 @@ title: New Imported Records from France
 date: 2020-03-05
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Datenimport_Frankreich_cee122971f.png"
+category: library_collections
+image: "/images/news-old-website/csm_Datenimport_Frankreich_cee122971f.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-imported-records-from-france.html
 email: ''
 author: ''
 ---
-
 
 After receiving a batch of records from the Bibliothèque nationale de France in Paris and after an intensive period of technical preparations, we gained some experience and found some ways for an automated data conversion. In fall 2019, ca. 19,000 records for handwritten musical sources were then transferred to the internal RISM database, Muscat. Not all of them are in the RISM online catalog yet, but for now, the first portion can be searched:
 
@@ -25,5 +24,3 @@ In order to find or browse the manuscripts separately from the printed editions 
 We will soon publish the rest of the data. All imported records include a link to the original French record.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

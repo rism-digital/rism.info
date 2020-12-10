@@ -5,18 +5,17 @@ date: 2016-09-08
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
+image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-data-big-data.html
 email: ''
 author: ''
 ---
 
-
 The RISM online catalog currently contains [over 1,052,000 records](https://opac.rism.info/search?View=rism&q=*&Language=en){:target="_blank"}. When you count these along with 101,000 authority files for people, 63,000 for institutions, and 32,000 for secondary literature, that's a lot of data!
 
 All of it is freely available as [linked open data](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} under a Creative Commons license, but what can you do with it?
 
-Our colleague Sandra Tuppen from the [British Library](http://www.bl.uk/){:target="_blank"} and [RISM UK](http://www.rism.org.uk/){:target="_blank"}, along with Stephen Rose and Loukia Drosopoulou, included RISM data in their project "[A Big Data History of Music](/library_stocks/2014/04/28/rism-and-big-data.html){:target="_blank"}." Insights gained from their project were published last year in [_Early Music_](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}, and this summer an article appeared in _Fontes Artis Musicae_ that took a look at the role that bibliographic datasets – the basis for their data – played in their project:
+Our colleague Sandra Tuppen from the [British Library](http://www.bl.uk/){:target="_blank"} and [RISM UK](http://www.rism.org.uk/){:target="_blank"}, along with Stephen Rose and Loukia Drosopoulou, included RISM data in their project "[A Big Data History of Music](/library_collections/2014/04/28/rism-and-big-data.html){:target="_blank"}." Insights gained from their project were published last year in [_Early Music_](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}, and this summer an article appeared in _Fontes Artis Musicae_ that took a look at the role that bibliographic datasets – the basis for their data – played in their project:
 
 **Sandra Tuppen, Stephen Rose, and Loukia Drosopoulou, "Library Catalogue Records as a Research Resource: Introducing ‘A Big Data History of Music.’" _Fontes Artis Musicae_ 63, no. 2 (April-June 2016): 67-88. DOI: 10.1353/fam.2016.0011**
 
@@ -29,9 +28,6 @@ The RISM data are now available as [open data and linked open data](https://opac
 Anyone is welcome to take our data out for a spin. If you do so, we'd love to hear about it!
 
 
-
 _Image: From the British Library's open data_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

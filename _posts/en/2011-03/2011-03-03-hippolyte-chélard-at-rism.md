@@ -4,13 +4,12 @@ title: Hippolyte Chélard @ RISM
 date: 2011-03-03
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_ChelardAndreHippolyte_7ced3ffc35.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_ChelardAndreHippolyte_7ced3ffc35.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hippolyte-chelard-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 The artistic career of Hippolyte-André-Jean-Baptiste Chélard (1 February 1789, Paris – 12 February 1861, Weimar) began on 29 June 1827 with the premiere of the tragédie lyrique _Macbeth_ at the Académie royale de musique. Almost exactly one year later, on 20 June 1828, a revised German version was performed at the court theater in Munich. King Ludwig I was so enthusiastic about the opera that Chélard was appointed titular Bavarian Court Kapellmeister. The disappointments that Chélard experienced in Paris and the political situation that disrupted Parisian musical life convinced Chélard in 1830 to leave his homeland and settle in Munich. In 1832, Chélard went to London and served there as the musical director of the Deutsche Oper. After his return to Germany in the summer of 1833, he acted as director of operas and concerts in Augsburg. In 1840, he was offered the post of court Kapellmeister at Weimer to succeed Johann Nepomuk Hummel. With the arrival of the celebrated virtuoso Franz Liszt and his appointment as Director of Music Extraordinary beginning in 1842, disfavor with Chélard grew stronger. “Beginning in 1848, when Liszt settled in Weimar for good, Chélard was released from his duties and officially retired in 1852” (Annette Vosteen, MGG 2, Kassel 2000, 4:col. 820). Chélard tried to regain a foothold in Paris through various longer journeys and performances of new works, but he never managed to do so, despite a few minor successes. He returned to Weimar and spent the rest of his life there quietly.
 
@@ -61,7 +60,6 @@ _Ouvertüre zur Oper “Die Hermannsschlacht” für kleines__Orchester_ (Münch
 -
 
 _[Marche hongroise](http://gallica.bnf.fr/ark:/12148/bpt6k3954851){:target="_blank"} für 2 Klaviere zu 8 Händen bearb. von Léon Lemoine__(1855-1916)_ (Paris, Bruxelles: H. Lemoine [1905]; Impr. A. Chaimbaud; New edition: Kempten: Helm & Baynov 2005)
-
 
 
 Of the ca. 200 records of works by Chélard in RISM’s [online catalogue](https://opac.rism.info/search?View=rism&author=Hippolyte+Ch%C3%A9lard){:target="_blank"}, over 30 are for the heroic opera _Macbeth_, his most famous work.

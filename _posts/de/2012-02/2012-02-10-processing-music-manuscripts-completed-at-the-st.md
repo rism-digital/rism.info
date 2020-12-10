@@ -4,13 +4,12 @@ title: Abschluss der Bearbeitung der Musikhandschriften der Stiftsbibliothek St.
 date: 2012-02-10
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Mb_Kronberger_2012_4ec1262442.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Mb_Kronberger_2012_4ec1262442.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/processing-music-manuscripts-completed-at-the-st-boniface-abbey-library-munich-d-mb.html
 email: ''
 author: ''
 ---
-
 
 Dem Abt der Abtei St. Bonifaz in München; Hw. Herr Abt Johannes Eckert, konnte am 20.Januar 2012 ein Katalog der Musikhandschriften seiner Stiftsbibliothek als Handexemplar überreicht werden. Damit wurde der Abschluss der Aufnahme der Handschriften durch Dr. Gottfried Heinz-Kronberger von der Deutschen Arbeitsgruppe des RISM besiegelt.
 

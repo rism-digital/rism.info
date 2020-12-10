@@ -4,13 +4,12 @@ title: Das neu adaptierte Musikarchiv im Stift Heiligenkreuz
 date: 2019-02-28
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-newly-adapted-music-archive-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
-
 
 _Wir erhielten diesen Beitrag von Pater Roman Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
@@ -30,5 +29,3 @@ _Abbildung_: Grammophone von 1937
 ©Zisterzienserabtei Stift Heiligenkreuz - Kustodiat
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

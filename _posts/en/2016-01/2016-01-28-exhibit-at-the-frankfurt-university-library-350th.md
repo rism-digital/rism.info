@@ -4,13 +4,12 @@ title: 'Exhibit at the Frankfurt University Library: 350th Anniversary of Johann
 date: 2016-01-28
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Herbst_Johann_Andreas_ba9a368de4.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Herbst_Johann_Andreas_ba9a368de4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibit-at-the-frankfurt-university-library-350th-anniversary-of-johann-andreas-herbsts-death.html
 email: ''
 author: ''
 ---
-
 
 **Johann Andreas Herbst (1588–1666) and His Music Library: A Testimonial to Music Playing and the Art of Printing Music**
 
@@ -26,7 +25,5 @@ Enjoy this performance of "Probasti Domine" from Vinko Jelić's collection (star
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wV1b0Kj1onM" frameborder="0" allowfullscreen></iframe>
 
-
 _Image_
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

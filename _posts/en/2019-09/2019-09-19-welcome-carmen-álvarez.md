@@ -4,20 +4,18 @@ title: Welcome, Carmen Álvarez!
 date: 2019-09-19
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Vista_de_la_basilica_de_Nuestra_Senora_del_Pilar_en_Zaragoza_0ddb98150c.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Vista_de_la_basilica_de_Nuestra_Senora_del_Pilar_en_Zaragoza_0ddb98150c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/welcome-carmen-alvarez.html
 email: ''
 author: Carmen Álvarez
 ---
-
 
 We are delighted to welcome Carmen Álvarez to the RISM Central Office as an intern over the next four months. Carmen is a PhD student in musicology at the University of Castilla-La Mancha and is writing about the musical holdings preserved in two cathedral archives in Zaragoza ([E-Zac](https://opac.rism.info/search?View=rism&siglum=E-Zac){:target="_blank"}). She is cataloging the materials in RISM and will also gain insight into other areas of RISM work. The sources she catalogs will form part of her dissertation.
 
 Carmen's project consists of cataloging twenty-nine choirbooks from the sixteenth to eighteenth century, both manuscripts and printed editions, that are preserved in Zaragoza. Later, the repertoire will be analyzed and part of it will be transcribed to actual notation. The composers in this collection are names such as Giovanni Pierluigi da Palestrina, Tomás Luis de Victoria, Cristobal de Morales, Melchor Robledo, Aguilera de Heredia, etc. Many names will appear in the RISM database for the first time thanks to this collaboration, such as Melchor Robledo, who was recently created. Also, some of the existing Spanish composers will have the number of their pieces increased in the catalog.
 
 Our collaboration with Carmen is thanks to her doctoral advisor, Dr. Antonio Ezquerro Esteban ([Consejo Superior de Investigaciones Científicas](https://www.imf.csic.es/index.php/musicologia){:target="_blank"}), the director of RISM Spain. Through this work, we are looking forward to working closely with a PhD researcher, strengthening our ties with musicologists in Spain, and improving our coverage of this repertoire.
-
 
 
 Bienvenida, Carmen Álvarez!
@@ -29,10 +27,7 @@ El proyecto de Carmen consiste en catalogar ventinueve libros de atril que van d
 Nuestra colaboración con Carmen es gracias a uno de los directores de su tesis, el Dr. Antonio Ezquerro Esteban ([Consejo Superior de Investigaciones Científicas](https://www.imf.csic.es/index.php/musicologia){:target="_blank"}), director de RISM España. A través de esta colaboración esperamos seguir trabajando con investigadores de Doctorado, fortaleciendo nuestros lazos con los musicólogos en España y mejorando nuestra cobertura de este repertorio.
 
 
-
 _Image_: View on the Basílica de Nuestra Señora del Pilar (Zaragoza) by Leronich under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) licence via [Wikimedia
 ](https://commons.wikimedia.org/wiki/File:Vista_de_la_bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_del_Pilar,_en_Zaragoza.jpg){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

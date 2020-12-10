@@ -4,13 +4,12 @@ title: Neue RISM Arbeitsgruppe in Polen
 date: 2010-06-14
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Lublin-Sandomierz_d9cca24b22.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Lublin-Sandomierz_d9cca24b22.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-working-group-in-poland.html
 email: dsmolar@kul.pl
 author: Dariusz Smolarek
 ---
-
 
 Eine neue RISM Arbeitsgruppe wurde in Polen eingerichtet. Sie ist dem Lehrstuhl für polyphone geistliche Musik an dem Musikwissenschaftlichen Institut der katholischen Johannes Paul II. Univeristät in Lublin angegliedert. Der Direktor der neuen Arbeitsgruppe ist Dariusz Smolarek. Zusammen mit Frau Aleksandra Czech wird er an den Beständen der Diözesanbibliothekin Sandomierz (PL-SA) arbeiten. Letztere beinhalten etwa 1000 Einheiten.
 

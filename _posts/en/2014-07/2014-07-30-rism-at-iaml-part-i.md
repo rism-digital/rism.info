@@ -4,13 +4,12 @@ title: RISM at IAML, Part I
 date: 2014-07-30
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_2014_antwerp-logo_0d8dc53c3b.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_2014_antwerp-logo_0d8dc53c3b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-i.html
 email: ''
 author: ''
 ---
-
 
 The [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"}, a co-sponsor of RISM, held its annual meeting in Antwerp, Belgium from 13-18 July 2014. Members of three national groups presented during the RISM Open Session.
 
@@ -25,10 +24,6 @@ Fr. Hartmann von An der Lan‐Hochbrunn OFM (1863‐1914): A Tyrolean Franciscan
 
 This report was a fascinating biography of Father Hartmann, a composer and musician who was once called--next to Winston Churchill--one of the “Männer vom Tage” by a German newspaper in 1913. There are 114 pieces by [Father Hartmann in the RISM database](https://opac.rism.info/search?View=rism&author=Hartmann+von+An){:target="_blank"} and 9 pieces of ephemera.
 
-
-
-
-
 **André Guerra Cotta (RISM Brazil, Universidade Federal Fluminense, Niterói, Rio de Janeiro)**
 
 Report on the First Brazilian Seminar of the Project Répertoire Internationale des Sources Musicales (RISM)
@@ -38,7 +33,6 @@ André Guerra Cotta traveled to Belgium just for IAML and reported on a conferen
 Below is Father Hartmann's _Coro trionfale_ for organ, Felix Bräuer, organ.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/WAFreDYxAUw" frameborder="0" allowfullscreen></iframe>
-
 
 
 Image credit: [IAML Antwerp 2014](http://www.libraryconservatoryantwerp.be/iaml2014/index.php){:target="_blank"}

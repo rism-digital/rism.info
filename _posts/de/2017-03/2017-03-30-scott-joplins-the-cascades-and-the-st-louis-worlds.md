@@ -5,12 +5,11 @@ date: 2017-03-30
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Scott_Joplin_6f7fefa327.png"
+image: "/images/news-old-website/csm_Scott_Joplin_6f7fefa327.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/scott-joplins-the-cascades-and-the-st-louis-worlds-fair.html
 email: ''
 author: ''
 ---
-
 
 Wenn Sie an Scott Joplin (1867 oder 1868-1917) denken, fällt Ihnen sicherlich zunächst ein Rag ein, aber keine Komposition für Klavier, Streicher, Bläser und Schlagwerk - und genau diese Besetzung entspricht dem einzigen in der RISM Datenbank überlieferten Werk von Joplin, der am 1. April vor 100 Jahren starb.
 
@@ -20,11 +19,9 @@ Die "Kaskaden" aus Joplins Titel waren Teil das "most beautiful feature of the E
 
 <iframe src="https://archive.org/stream/worldsfairlouisi01newy?ui=embed#page/n3/mode/2up" width="480px" height="430px" frameborder="0"></iframe>
 
-
 Hören Sie wie das Wasser spritzt, die Kaskaden runterfließt oder nehmen Sie strukturelle und harmonische Ähnlichkeiten mit Joplins “Maple Leaf Rag” wahr.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkM7mJwvnt0?start=29" frameborder="0" allowfullscreen></iframe>
-
 
 
 "The Cascades" in RISM wurden von Etilmon J. Stark (1868-1962) bearbeitet und 1905 veröffentlicht. "Till" war der Sohn von Joplins Verleger John Stark, der etwa ein Drittel von Joplins Werken herausgab. In der Ausgabe von 1914 der Monatsschrift _Christiansen's Ragtime Review_, ist ein kurzer fiktiver Dialog von John Stark wiedergegeben, in welchem ein Zuhärer von einem "The Cascades" spielendes Orchester fasziniert wird. War unser Bearbeiter der imaginäre Zuhörer?
@@ -32,7 +29,6 @@ Hören Sie wie das Wasser spritzt, die Kaskaden runterfließt oder nehmen Sie st
 Heute werden die Stimmen in der [Koninklijke Muziekmaatschappij Casino](http://www.casinotongeren.be/muziek-menu){:target="_blank"} in Tongeren, Belgien (B-TOekmc) aufbewahrt, eine Musikinstitution mit einer 250 Jahre alten Geschichte.
 
 Zahlreiche Veranstaltungen in den Vereinigten Staaten feiern dieses Jahr Scott Joplin, beispielsweise ein Konzert im der [Carnegie Hall](http://www.scottjoplin.org/news/great-scott-a-joplin-centennial-celebration){:target="_blank"} mit ​Richard Dowling und allen Klavierwerken von Joplin, ein Konzert in Joplins Heimatort [Texarkana](http://www.arkansas.com/event/scott-joplin-international-centennial-celebra/148518){:target="_blank"}, das jährlich stattfindende [International Ragtime Festival](http://www.scottjoplin.org/){:target="_blank"} in Sedalia (Missouri) und ein Konzert in Joplins letzter Ruhestätte [St. Michael's Cemetery](http://stmichaelscemetery.com/scott-joplin/){:target="_blank"} in New York.
-
 
 _Abbildung_: Titelblatt zu "The Cascades" von Scott Joplin (St. Louis: John Stark, 1904). Aus der [sheet music collection](https://www.loc.gov/item/ihas.200033247/){:target="_blank"} der Library of Congress.
 
@@ -44,5 +40,3 @@ Berlin, "Joplin, Scott." [Grove Music Online](http://www.oxfordmusiconline.com/s
 Missouri Historical Society, "[The 1904 World's Fair: Looking Back at Looking Forward](http://mohistory.org/exhibits/Fair/WF/HTML/Overview/index.html){:target="_blank"}."
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

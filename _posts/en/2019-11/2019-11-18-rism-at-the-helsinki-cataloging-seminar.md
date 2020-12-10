@@ -5,12 +5,11 @@ date: 2019-11-18
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
+image: "/images/news-old-website/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-helsinki-cataloging-seminar.html
 email: ''
 author: Jennifer Ward
 ---
-
 
 RISM participated in the [Helsinki Cataloging Seminar](https://www.kiwi.fi/pages/viewpage.action?pageId=113248950){:target="_blank"} hosted by the University of Helsinki and the National Library of Finland last month, which took place on October 22. I (Jennifer Ward) was invited by our colleague Jaakko Tuohiniemi ([Helsinki University Library](https://www.helsinki.fi/en/helsinki-university-library){:target="_blank"}) to hold to keynote address for an audience that was made up of catalogers from around Finland. Most of the people in the auditorium were from institutions in Helsinki or nearby, and about 200 people joined us online to participate (see the first link above for slides).
 
@@ -23,5 +22,3 @@ I learned about [Finna](https://finna.fi/Content/about?lng=en-gb){:target="_blan
 I would like to thank Tatja Pusa ([National Library of Finland](https://www.kansalliskirjasto.fi/en){:target="_blank"}) for her organizational assistance and Jaakko Tuohiniemi for the invitation to speak. I was grateful for the opportunity to share our work with our Finnish colleagues, and in the course of the seminar day I had the opportunity to talk to our music library colleagues from Helsinki and elsewhere. We have around [1,100 records in RISM from Finnish institutions](https://opac.rism.info/search?View=rism&siglum=FIN-*&Language=en){:target="_blank"}, and I hope that we can intensify our cooperation with them. _Kiitos_!
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2017-07-04
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
+image: "/images/news-old-website/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/dr-kurt-dorfmueller-28-april-1922-16-june-2017.html
 email: ''
 author: ''
 ---
-
 
 "RISM [ist] Herrn Dorfmüller als Mitglied der Commission Mixte und als Vorsitzendem seines Advisory Research Committees in vielen Jahren zu besonderem Dank verpflichtet."so der damalige Vorsitzende des Vereins Internationales Quellenlexikon der Musik e.V., Harald Heckmann, 1998.
 
@@ -40,12 +39,6 @@ Catherine Massip (Frankreich): "La nouvelle de la disparition de Kurt Dormüller
 
 José Vicente González Valle (Spanien): "Es tut mir sehr Leid vom Tod des guten Freundes Dr. Dorfmüller zu hören. Der liebe Gott sei mit ihm, dem guten Musikwissenschaftler und Menschen, der mild und gütig war."
 
-
-
-
-
 _Foto vonJuan Martin Koch._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

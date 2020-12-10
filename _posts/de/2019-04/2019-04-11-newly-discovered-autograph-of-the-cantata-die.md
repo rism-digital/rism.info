@@ -5,12 +5,11 @@ date: 2019-04-11
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg"
+image: "/images/news-old-website/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
-
 
 Ansprechpartner: _Gottfried Heinz-Kronberger ([RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}):_
 
@@ -29,9 +28,4 @@ Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Ma
 Die nun aufgefundene vollständige Fassung der Kantate erlaubt einmal mehr, das Schaffen Humperdincks zu analysieren und auch die Vertonung eines weiteren Goetheschen Werkes kennenzulernen. Erstaunlich ist dabei, dass der in „Der Fischerin“ enthaltene Prolog, der als „Erlkönig“ exzerpiert berühmt wurde, von Humperdinck in der Vertonung keine Verwendung fand.
 
 Das Katalogisat kann mit seinen Incipits im RISM-OPAC unter der [ID 1001053670](https://opac.rism.info/search?id=1001053670&View=rism&Language=de){:target="_blank"} eingesehen werden.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

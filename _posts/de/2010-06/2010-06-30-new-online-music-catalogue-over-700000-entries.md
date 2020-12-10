@@ -4,13 +4,12 @@ title: 'Neuer Musik-Katalog online: über 700.000 Nachweise'
 date: 2010-06-30
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_rism-opac-screenshot_8220384a7e.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_rism-opac-screenshot_8220384a7e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-online-music-catalogue-over-700000-entries.html
 email: ''
 author: ''
 ---
-
 
 ## Der neue Katalog des Internationalen Quellenlexikons der Musik (RISM) gibt einen Einblick in bisher unerreichbare Schätze der Musikgeschichte.
 

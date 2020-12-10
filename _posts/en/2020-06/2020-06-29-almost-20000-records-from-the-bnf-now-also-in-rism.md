@@ -5,12 +5,11 @@ date: 2020-06-29
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
+image: "/images/news-old-website/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
 email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---
-
 
 _We have received the following from François-Pierre Goy (Bibliothèque Nationale de France, [Département de la Musique](https://www.bnf.fr/fr/departement-de-la-musique){:target="_blank"}):_
 
@@ -24,11 +23,5 @@ The retrospective and current cataloguing of music manuscripts continues. [This 
 
 For the remainder of France, the census of early musical holdings, now available online through the [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) (besides the book version), will be enriched in the near future by new regional catalogues.
 
-
 _Image_: Giovanni Lorenzo Lulier, "La fortuna con eccessi," cantata from _Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item){:target="_blank"}, [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

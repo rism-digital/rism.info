@@ -4,13 +4,12 @@ title: The Spitzeders, A Musical Family
 date: 2017-02-23
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Spitzeder_9c8629735a.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Spitzeder_9c8629735a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-spitzeders-a-musical-family.html
 email: ''
 author: ''
 ---
-
 
 If you search for "Spitzeder" online, you'll first stumble upon a lot of websites related to the actress Adele Spitzeder (1832-1895; image left). She has a musical tie-in (later in life she performed popular songs as the singer Adele Vio), but today she is more infamous than famous for founding the Spitzeder Private Bank. As a money lender, she used a pyramid scheme to defraud 31,000 customers of 8 million guldens and was sentenced to three years in jail.
 
@@ -28,9 +27,6 @@ Adelheid Fries (1793-1873) was the daughter of Johann Baptist Spitzeder and perf
 
 Henriette Spitzeder-Schüler (1800-1828) was the daughter of the singer Carl Schüler (1775-1809) and married Josef Spitzeder in 1816. During her short life, she could be heard in numerous opera houses, including the ones in Karlsruhe, Nuremberg, and Vienna. A guest performance took her to Hamburg in 1826, where she sang in Etienne-Nicolas Méhul's opera _La Journée aux Aventures_ (RISM ID no. [452502383](https://opac.rism.info/search?id=452502383&Language=en){:target="_blank"}). She died in 1828 giving birth to her tenth child.
 
-
 _Image_: Adele Spitzeder, from the popular weekly magazine _Die Gartenlaube_, vol. 15 (1873), p. 251. Spitzeder had made headlines when she was arrested the previous November. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1873)_b_251.jpg){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

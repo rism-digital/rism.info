@@ -1,13 +1,13 @@
 ---
 title: "Privacy Policy"
-layout: organization
+layout: impressum
 lang: en
-permalink: /organization/privacy-policy.html
+permalink: /service/privacy-policy.html
 ---
 
 # Privacy Policy
 
-*This English translation is not legally binding and is for informational purposes only. The [German Datenschutzerklärung](/unternehmen/datenschutzerklaerung.html) applies in the event of a legal dispute.*
+*This English translation is not legally binding and is for informational purposes only. The [German Datenschutzerklärung]( /de/service/privacy-policy.html) applies in the event of a legal dispute.*
 
 The following informs you of what data we collect and for what purposes. If changes are made to our practices, this page will also be amended accordingly. Please refer to this page for the most up-to-date information. If you have any questions, please do not hesitate to contact us.
 
@@ -17,7 +17,7 @@ The responsible party, as referred to in the General Data Protection Regulation 
 
 RISM Zentralredaktion 
 
-represented by the director, Klaus Keil
+represented by the director, Dr. Balázs Mikusi
 
 Johann Wolfgang Goethe-Universität 
 
@@ -33,7 +33,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[www.rism.info/en/organization/editorial-office.html](http://www.rism.info/en/organization/editorial-office.html)
+[https://www.rism.info/editorial-center.html](/editorial-center.html)
 
 contact@rism.info 
 

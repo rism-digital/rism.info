@@ -4,13 +4,12 @@ title: Neue Musikhandschriften aus Italien (ICCU) in RISM
 date: 2019-08-08
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_ICCU_Krise_OPAC_df925a41aa.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_ICCU_Krise_OPAC_df925a41aa.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
 email: ''
 author: ''
 ---
-
 
 Nach mehrjährigen Gesprächen und Verhandlungen mit dem [Istituto Centrale per il Catalogo unico delle Biblioteche Italiane](https://www.iccu.sbn.it/it/){:target="_blank"} (ICCU) und einer intensiven technischen Vorbereitungszeit sind Anfang 2019 mehr als 200.000 Datensätze aus der Datenbank [SBN Musica](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} zu handschriftlichen Musikquellen in die interne RISM-Datenbank übernommen worden. Die Einträge werden in einigen Punkten den RISM-Richtlinien entsprechend überarbeitet und nun nach und nach für den Online-Katalog freigeschaltet. Der RISM-Datensatz verlinkt dabei immer auf den originalen Katalogeintrag des SBN-OPAC.
 
@@ -27,5 +26,3 @@ Mit dem Datenimport erhielt die RISM-Datenbank alleine 27.000 neue Personendaten
 Nach dieser Erprobungsphase streben wir eine Freischaltung der Daten pro Bibliothek, vor allem auch von größeren Datenbeständen, an. Von den mehr als 86.000 Handschriftendatensätzen aus 98 italienischen Bibliotheken, die vor dem Datenimport in der RISM-Datenbank vorhanden waren, sind noch nicht alle in der Datenbank SBN Musica verzeichnet. Diese können im Rahmen der [Linked Open Data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} übernommen werden.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

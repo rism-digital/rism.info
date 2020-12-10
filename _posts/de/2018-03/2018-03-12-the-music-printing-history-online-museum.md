@@ -5,12 +5,11 @@ date: 2018-03-12
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
+image: "/images/news-old-website/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-printing-history-online-museum.html
 email: ''
 author: ''
 ---
-
 
 Wir sind auf ein interessantes Online-Museum gestoßen: [Music Printing History](http://www.musicprintinghistory.org/){:target="_blank"}. Es beschreibt die verschiedenen Techniken des Musikdrucks und ist reich bebildert.
 
@@ -24,11 +23,5 @@ Unser Lieblingsvideo, auf das diese Seite verlinkt, ist die Nahaufnahme der bewe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 Abbildung: Bewegliche Type von[Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

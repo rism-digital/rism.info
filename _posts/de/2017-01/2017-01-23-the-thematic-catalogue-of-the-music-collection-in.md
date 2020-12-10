@@ -5,12 +5,11 @@ date: 2017-01-23
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
+image: "/images/news-old-website/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
-
 
 _Von Eliška Šedivá (RISM Tschechische Republik) erhielten wir folgende Publikationsankündigung:_
 
@@ -33,5 +32,3 @@ In der Einführung behandelt Pavla Semerádová die Musikgeschichte des Klosters
 Im Anhang des Katalogs findet man eine Aufstellung der Chorleiter, Kantoren und Nachfolger der Klosterkirche in Želiv von 1663 bis 1856. Die Register zu den Schülern und Kopisten sowie ein vollständiger Katalog der Wasserzeichen, das Personenverzeichnis, das Titel- und Textregister, ein Index der Verlagsorte und Verleger runden den Katalog ab.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

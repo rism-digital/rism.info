@@ -5,12 +5,11 @@ date: 2020-05-18
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
+image: "/images/news-old-website/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wilhelmine-schroeder-devrient-1804-1860.html
 email: ''
 author: ''
 ---
-
 
 "Das ist ein gewaltiges Weib – in der Kunst mein Ideal!" urteilte Clara Schumann über die bedeutendste deutsche Sängerdarstellerin des 19. Jahrhunderts [Wilhelmine Schröder-Devrient](https://opac.rism.info/search?View=rism&q=Schr%C3%B6der+Devrient+Wilhelmine&Language=en){:target="_blank"} (geboren 6. Dezember 1804 in Hamburg, gestorben 26. Januar 1860 in Coburg).
 
@@ -22,9 +21,6 @@ Gastspiele führten die Sängerin während ihrer Dresdner Zeit nach Paris (1830,
 
 Als Konzertsängerin trat Wilhelmine Schröder-Devrient 1856 wieder mit Liedern von Franz Schubert, Beethoven und Felix Mendelssohn Bartholdy auf. 1859 nahm sie endgültig Abschied von der Bühne und starb am 26. Januar 1860 in Coburg.
 
-
 _Abbildung_: Madame Schröder als Adriano in Richard Wagners _Rienzi_, aus: Johann Jacob Weber (Hrsg.), 1803–1880 - _Illustrirte Zeitung_ no. 7, 12. August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (gemeinfrei).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

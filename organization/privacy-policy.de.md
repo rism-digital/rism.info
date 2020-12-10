@@ -1,8 +1,8 @@
 ---
 title: "Datenschutzerklärung"
-layout: organization
+layout: impressum
 lang: de
-permalink: /organization/privacy-policy.html
+permalink: /service/privacy-policy.html
 ---
 
 # Datenschutzerklärung
@@ -15,7 +15,7 @@ Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist die
 
 RISM Zentralredaktion 
 
-vertreten durch den Leiter Klaus Keil
+vertreten durch den Leiter Dr. Balázs Mikusi
 
 Johann Wolfgang Goethe-Universität 
 
@@ -31,7 +31,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[www.rism.info/de/organization/editorial-office.html](http://www.rism.info/de/organization/editorial-office.html)
+[https://www.rism.info/editorial-center.html](/editorial-center.html)
 
 contact@rism.info 
 

@@ -5,14 +5,13 @@ date: 2017-01-19
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Abel_-_Maltzan_1_3115b613b1.jpg"
+image: "/images/news-old-website/csm_Abel_-_Maltzan_1_3115b613b1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/karl-friedrich-abel-manuscript-found-in-poland.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-
-_We have received the following from Sonia Wronkowska of [RISM Poland](/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland/home.html):_
+_We have received the following from Sonia Wronkowska of [RISM Poland](/international/working-groups.html):_
 
 Two new sources for works by Karl Friedrich Abel (1723-1787) have recently been found by Sonia Wronkowska in Poland, in the library of the Adam Mickiewicz University in Poznań (PL-Pu), originating from the Maltzan family palace in Milicz (formerly Militsch). Count Joachim Carl Maltzan (1733–1817) – Prussian Minister Plenipotentiary in London – was the link between the provincial, then-Prussian town of Militsch and the“Bach-Abel Concerts”. Maltzan probably regularly attended the famous concert series, or he may even have been one of Abel’s noble pupils. He acquired two manuscripts containing 28 works for viola da gamba by Abel in London and later brought them to his hometown to start a viola da gamba-oriented music ensemble.
 
@@ -24,4 +23,3 @@ All previously unknown pieces were recently published by [Edition Güntersberg](
 
 _Image_: Karl Friedrich Abel, Sonata in D, the first piece in Abel's handwriting that appears in the Maltzan Manuscript. Biblioteka Uniwersytecka. Sekcja Zbiorów Muzycznych w Oddziale Zbiorów Specjalnych (PL-Pu) 7836, p. 111. RISM ID no. [300044518](https://opac.rism.info/search?id=300044518){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

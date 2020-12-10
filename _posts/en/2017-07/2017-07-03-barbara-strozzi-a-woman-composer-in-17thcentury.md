@@ -4,13 +4,12 @@ title: 'Barbara Strozzi: A Woman Composer in 17th-Century Venice'
 date: 2017-07-03
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Eigendarstellung_-_Barbara_Strozzi_1_623a22b790.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Eigendarstellung_-_Barbara_Strozzi_1_623a22b790.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
-
 
 _The following was written by Vivian Tompkins, our intern at the Central Office in Frankfurt_ _in summer 2017:_
 
@@ -22,7 +21,5 @@ Although Strozzi's performances took place in a private sphere, her music was ce
 
 All of Strozzi’s published collections [can be found in the RISM online catalog](https://opac.rism.info/search?View=rism&author=barbara+strozzi&Language=en){:target="_blank"}; unfortunately, one volume of her compositions (op. 4) is lost. Also listed in the RISM catalog are copies of Strozzi’s arias and other vocal works. The list of libraries in which these sources are located is relatively long and diverse: the British Library (RISM library siglum GB-Lbl, 3 sources), the Wrocław University Library (PL-WRu, 1 source), the International Museum and Library of Music of Bologna (I-Bc, 3 sources), and the State Library of Berlin (D-B, 2 sources) are only a few examples. Some of Strozzi's works—specifically her [op. 1](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7936){:target="_blank"}, [op. 6](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=8518){:target="_blank"}, and [op. 7](http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.200154784/default.html){:target="_blank"}—are also accessible in digitized form. Click on the links above to get a closer look at her published volumes.
 
-
 _Image_: Bernardo Strozzi, _Eine Gambenspielerin_, ca. 1630-1640, Gemäldegalerie Alte Meister (Dresden), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABarbara_Strozzi_1.jpg){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

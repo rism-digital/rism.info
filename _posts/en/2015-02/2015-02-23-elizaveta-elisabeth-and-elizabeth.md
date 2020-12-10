@@ -5,12 +5,11 @@ date: 2015-02-23
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
+image: "/images/news-old-website/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-from-a-z-elizaveta-elisabeth-and-elizabeth.html
 email: ''
 author: ''
 ---
-
 
 Today, our series RISM from A-Z takes us on a journey that spans three centuries as we visit the lives of an Elizaveta, Elisabeth, and Elizabeth.
 
@@ -27,13 +26,7 @@ If only the RISM database had been available to the filmmakers of the classic [f
 <iframe width="560" height="315" src="//www.youtube.com/embed/8IErjmH0h4A" frameborder="0" allowfullscreen></iframe>
 
 
-
 Lastly, there is one manuscript in the online catalog that takes us all the way up to the 20th century and today's living members of royalty. There is one piece dedicated to Queen Elizabeth of England, the late Queen Mother, mother of the current Queen Elizabeth II. It is [incidental music](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} to the fairy tale _Der Rubin_ by [Olga Diener](/rism_a_z/2014/08/19/olga-diener.html){:target="_blank"}.
-
-
-
-
 
 Photo credit: Portrait of Elizaveta Alexievna by Salvatore Tonci, via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Elizabeth_Alexeevna_by_S.Tonci_%28after_1801,_Russian_museum%29.jpg){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

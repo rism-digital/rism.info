@@ -5,12 +5,11 @@ date: 2014-08-21
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
+image: "/images/news-old-website/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/axel-klein-okelly-an-irish-musical-family-in-nineteenth-century-france.html
 email: ''
 author: ''
 ---
-
 
 A new book has been published by Axel Klein, who was our Ireland consultant when RISM presented[An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"} in March 2014.
 

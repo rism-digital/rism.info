@@ -5,12 +5,11 @@ date: 2019-08-01
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg"
+image: "/images/news-old-website/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/books-about-music-before-1800-digitized-and-online.html
 email: ''
 author: Library of Congress, Music Division
 ---
-
 
 _The following is from the Library of Congress's [Books About Music Before 1800](https://www.loc.gov/collections/books-about-music-before-1800/about-this-collection/){:target="_blank"} collection:_
 
@@ -27,5 +26,3 @@ _Image_: Woodcut used by Franciscus Gaffurius to illustrate how simple ratios co
 _This announcement has also been translated into Spanish by [Papeles de musica](https://papelesdemusica.wordpress.com/2019/07/30/disponibles-a-texto-completo-dos-mil-libros-sobre-musica-de-la-loc-anteriores-a-1800/){:target="_blank"}._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

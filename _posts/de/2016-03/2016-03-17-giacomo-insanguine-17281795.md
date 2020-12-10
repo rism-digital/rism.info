@@ -5,12 +5,11 @@ date: 2016-03-17
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Giacomo_Insanguine_77d24601f0.jpg"
+image: "/images/news-old-website/csm_Giacomo_Insanguine_77d24601f0.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-giacomo-insanguine-1728-1795.html
 email: ''
 author: ''
 ---
-
 
 "Maestro delle pezze" (Meister der Flicken) ist das wenig schmeichelhafte Urteil von Giovanni Paisiello über Giacomo Insanguine (1728-1795). Und auch wenn Paisiellos scharfe Zunge bekannt war, blieb das Urteil über Insanguine unkritisch bestehen und verhinderte über lange Zeit eine gerechte Rezepition seiner Werke. Noch 1840 schrieb der Marchese di Villarosa in seinen _[Memorie dei compositori di musica del Regno di Napoli](http://digitale.bnnonline.it/index.php?it/149/ricerca-contenuti-digitali/show/84/){:target="_blank"}_ von einem "stile privo d'estro e di giusto" (ein Stil frei von Eingebung und Geschmack) und François-Joseph Fétis übernahm diese Kritik in seine [_Biographie universelle des musiciens et bibliographie générale de la musique_](http://gallica.bnf.fr/ark:/12148/bpt6k69720x/f404.image.r=){:target="_blank"} (2. Auflage). Es ist vor allem [Pierluca Lanzilotta](http://cons.bz.it/IT/progs/pages/lanzillotta-pierluca.aspx){:target="_blank"} und seinem Buch _Non oro, non gemme – Giacomo Insanguine detto Monopoli_ (Fasano di Brindisi: Schena, 1995) zu verdanken, dass wir heute wieder ein differenzierteres Bild von Insanguines Leben und Werk haben.
 
@@ -21,5 +20,3 @@ Das einzige bislang bei RISM nachgewiesene Autograph ist eine Partitur des dritt
 _Abbildung_: Porträt von Giacomo Insanguine, unbekannter Künstler, via [Wikimedia Commons](https://it.wikipedia.org/wiki/File:Giacomo_Insanguine.jpg){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

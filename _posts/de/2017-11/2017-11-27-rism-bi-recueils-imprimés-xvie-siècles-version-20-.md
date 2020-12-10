@@ -4,15 +4,14 @@ title: RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - Bericht aus der
 date: 2017-11-27
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_RISM_Bericht_B_1_9c1400458b.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_RISM_Bericht_B_1_9c1400458b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
 email: ''
 author: ''
 ---
 
-
-_Eine erweiterte Version der Einträge aus der Serie B/I bis 1550 wurde 2015 in den RISM [Online-Katalog](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} eingespielt. Dank der Unterstützung durch den Kulturfonds der_ _[VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"} (Kassel) erfolgt seit April dieses Jahres_ _eine Überarbeitung der Einträge durch unseren studentischen Mitarbeiter Martin Bierwisch. Im Folgenden ein kurzer Bericht seiner Eindrücke und Erfahrungen:_
+_Eine erweiterte Version der Einträge aus der Serie B/I bis 1550 wurde 2015 in den RISM [Online-Katalog](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} eingespielt. Dank der Unterstützung durch den Kulturfonds der_ _[VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"} (Kassel) erfolgt seit April dieses Jahres_ _eine Überarbeitung der Einträge durch unseren studentischen Mitarbeiter Martin Bierwisch. Im Folgenden ein kurzer Bericht seiner Eindrücke und Erfahrungen:_
 
 Über 550 Collection-Einträge aus der B/I-Reihe verzeichnet der [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} zurzeit und das sind bis auf wenige Ausnahmen nur die bis 1550. Weitere 2.200 Titel, also die restlichen Einträge des B/I-Bandes bis 1700, sind in Vorbereitung. Diese sollen auch noch eingespielt und überarbeitet werden.
 
@@ -43,4 +42,3 @@ Sollten Sie also beispielsweise einen Petrucci-Druck auf ihrem Dachboden finden 
 
 _Abbildung mit freundlicher Genehmigung von Martin Bierwisch._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

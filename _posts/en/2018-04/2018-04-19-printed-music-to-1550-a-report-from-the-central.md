@@ -4,15 +4,14 @@ title: 'Printed Music to 1550: A Report from the Central Office II'
 date: 2018-04-19
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''
 ---
 
-
-For those who are interested in early music prints, watch out! After revising the entries from the RISM B/I series to 1550 ([see report](/self_representation/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20-.html){:target="_blank"}) and related A/I entries, all of the remaining A/I entries to 1550 have now been revised. Some of them now have exact years and in other cases new copies have been found and added. An example of a revised entry is [S 2807](https://opac.rism.info/search?id=00000990059206&Language=en){:target="_blank"}. Just try to compare it with the old entry in the printed A/I volume and you will see the improvements and differences.
+For those who are interested in early music prints, watch out! After revising the entries from the RISM B/I series to 1550 ([see report](/new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20.html){:target="_blank"}) and related A/I entries, all of the remaining A/I entries to 1550 have now been revised. Some of them now have exact years and in other cases new copies have been found and added. An example of a revised entry is [S 2807](https://opac.rism.info/search?id=00000990059206&Language=en){:target="_blank"}. Just try to compare it with the old entry in the printed A/I volume and you will see the improvements and differences.
 
 Or look at the second oldest print in the A/I series, dating from 1498: [M 1738](https://opac.rism.info/search?id=00000990040426&Language=en){:target="_blank"}. Latin teachers and students will probably know this printed _Scaenica progymnasmata_ (also called _Henno_), which only has four small woodcuts of printed music notation (see image), but musicians might not have heard of it. This imprint is especially interesting because it has so many reprints (to M 1748).
 
@@ -26,13 +25,7 @@ In the future you will also find numbers that reference the projects [VD 16](htt
 **B/I from 1551**
 The revision of the B/I entries beginning from 1551 has also begun now. From 1551 to 1599 there are ca. 1,100 entries (with a lot of A/I duplicates) and from 1600 to 1700 there is around the same amount. The first part is now the focus of editing work.
 
-Information concerning any mistakes, new copies, digitized copies, and other details such as important literature is most welcome! Just send an email to: [contact@rism.info](mailto:contact@rism.info "Opens window for sending email") or [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info "Opens window for sending email").
-
+Information concerning any mistakes, new copies, digitized copies, and other details such as important literature is most welcome! Just send an email to: [contact@rism.info](mailto:contact@rism.info) or [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info).
 
 _Image_: Daniel Megel, _Scenica progymnasmata_ (Basel: Bergmann, 1498). A/I: M 1738. RISM ID no. [990040426](https://opac.rism.info/search?id=00000990040426&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) 4 Inc.c.a. 1542 n, [available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303249-7){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

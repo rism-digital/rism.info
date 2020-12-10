@@ -5,12 +5,11 @@ date: 2018-10-22
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM-OPAC_-_Personen_c231e23988.png"
+image: "/images/news-old-website/csm_RISM-OPAC_-_Personen_c231e23988.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
 email: ''
 author: ''
 ---
-
 
 The [new version of the RISM catalog](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"} that was released over the summer has opened up the possibility to do a detailed search for the people that appear in RISM records: composers, publishers, singers, instrumentalists, dedicatees, etc. Though we are working on making this tool more intuitive to use, we would like to point out its functionalities even in this basic stage.
 
@@ -34,7 +33,7 @@ XC – Africa
 XD – The Americas
 XE – Australia and Oceania
 
-You can find a complete list here ([PDF](http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/inhaltserschliessung/laenderCodesAlph.pdf?__blob=publicationFile){:target="_blank"}).
+You can find a complete list here ([PDF](https://wiki.dnb.de/display/ILTIS/Informationsseite+zur+GND?preview=%2F90411323%2F160151404%2F02-laendercodes_2020-01-28_alph.pdf){:target="_blank"}).
 
 **City** (place of birth, death, or place active)
 Enter the name of the city in the local language, so Roma instead of Rome or Wrocław instead of Breslau.
@@ -57,5 +56,3 @@ Ignace Pleyel
 [https://opac.rism.info/search?id=pe24761&View=rism&Language=en](https://opac.rism.info/search?id=pe24761&View=rism&Language=en){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

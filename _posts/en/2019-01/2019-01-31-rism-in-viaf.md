@@ -4,13 +4,12 @@ title: RISM in VIAF
 date: 2019-01-31
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-in-viaf.html
 email: ''
 author: ''
 ---
-
 
 RISM has been delivering its authority records for personal names to [VIAF](http://viaf.org/){:target="_blank"} since the middle of 2018. VIAF is the Virtual International Authority File, a joint project with many participating national libraries and library associations that is run by the library cooperative [OCLC](https://www.oclc.org/){:target="_blank"}.
 
@@ -21,5 +20,3 @@ As an example, let's look at the [VIAF entry for Clara Schumann](http://viaf.org
 There are many advantages for participating libraries and projects. Using the VIAF identifier, a person can be unambiguously identified, no matter how the person's name is spelled in other languages. This is especially clear when looking at the record for [Peter Ilich Tchaikovsky](http://viaf.org/viaf/99258155){:target="_blank"} (bottom picture). This also makes exchanging data a lot easier. In the long term, this opens the door to many exciting possibilities with other projects.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

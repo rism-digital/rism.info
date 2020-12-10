@@ -5,12 +5,11 @@ date: 2018-06-18
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Gounod_200_Geb_Julliard_d875c22195.png"
+image: "/images/news-old-website/csm_Gounod_200_Geb_Julliard_d875c22195.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/charles-gounod-at-200.html
 email: ''
 author: ''
 ---
-
 
 Gestern feierten wir den 200. Geburtstag des französischen Komponisten, Kapellmeisters und Organisten Charles Gounod (17. Juni 1818 – 18 Oktober 1893).
 
@@ -27,5 +26,3 @@ Charles Gounod komponierte 12 Opern, Schauspielmusiken, Oratorien, Kantaten, etw
 _Abbildung_: _Roméo et Juliette. Deux scènes_ von Charles Gounod, autographes Manuskript, S. 160c. Juilliard Library (US-NYj), RISM ID no. [900004919](https://opac.rism.info/search?id=900004919){:target="_blank"}. From the [Juilliard Manuscript Collection](http://juilliardmanuscriptcollection.org/manuscript/romeo-et-juliette/){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

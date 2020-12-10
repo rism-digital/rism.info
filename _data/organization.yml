@@ -4,11 +4,6 @@
     fr: "Organisation"
   items:
     - name:
-        en: "Central Editorial Office"
-        de: "Zentralredaktion"
-        fr: "Centrale Editoriale"
-      link: /organization/editorial-office.html
-    - name:
         en: "Association"
         de: "Verein"
         fr: "Association"
@@ -43,8 +38,3 @@
         de: "Projektgeschichte"
         fr: "Historique du Projet"
       link: /organization/project-history.html
-    - name:
-        en: "Privacy Policy"
-        de: "Datenschutzerklärung"
-        fr: "Protection des Données"
-      link: /organization/privacy-policy.html

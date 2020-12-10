@@ -4,13 +4,12 @@ title: Erwin und Elmire im Bestand des Deutschen Nationaltheaters Weimar. Zum 27
 date: 2014-10-24
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
 email: ''
 author: ''
 ---
-
 
 _Der nachfolgende Artikel wurde von unserer Kollegin Undine Wagner (RISM Arbeitsgruppe Deutschland, [Thüringischen Landesmusikarchiv](http://de.rism.info/en/einzelinformationen/weimar-thueringisches-landesmusikarchiv.html){:target="_blank"}) geschrieben._
 
@@ -24,4 +23,3 @@ Bildunterschrift:
 
 Nr. 6 Duetto Elmire/Bernardo: _Ein Veilchen auf der Wiese stand_ (Takte 4–28) aus _Erwin und Elmire_ von Anna Amalia von Sachsen-Weimar-Eisenach, D-WRha DNT 6b, Partie der Elmire, f.7r
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

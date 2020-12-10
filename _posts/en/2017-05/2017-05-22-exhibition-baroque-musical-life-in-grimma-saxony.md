@@ -5,12 +5,11 @@ date: 2017-05-22
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg"
+image: "/images/news-old-website/csm_Grimma_RISM_8d9ab3cac6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
-
 
 _This post is by Andrea Hartmann of [RISM Germany–Dresden Office](http://de.rism.info/en/home.html){:target="_blank"}:_
 
@@ -31,5 +30,3 @@ All of the music manuscripts are described in the [RISM online catalog](https://
 So far, around 1,000 manuscripts have been digitized as part of Saxony's state digitization program. The scans are linked directly to the RISM entries, or you can browse them in the [SLUB's digital collections](http://digital.slub-dresden.de/kollektionen/107/){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

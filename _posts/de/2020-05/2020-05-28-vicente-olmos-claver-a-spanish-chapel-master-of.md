@@ -4,13 +4,12 @@ title: Vicente Olmos Claver - ein spanischer Kapellmeister des 18. Jahrhunderts
 date: 2020-05-28
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
 email: angelmarzalraga@gmail.com
 author: Ángel Marzal
 ---
-
 
 _Den folgenden Beitrag haben wir von Ángel Marzal erhalten, der kürzlich die Werke von [Vicente Olmos](https://opac.rism.info/search?View=rism&author=Vicente+Olmos+Claver){:target="_blank"}[Claver](https://opac.rism.info/search?View=rism&author=Vicente+Olmos+Claver){:target="_blank"} für RISM katalogisiert hat. Die deutsche Fassung ist eine gekürzte Version._
 
@@ -21,7 +20,6 @@ Kurz darauf, im Jahre 1763, schrieb Olmos Claver zwei polyphone Psalmvertonungen
 1772 gewann Vicente Olmos Claver das Amt des Kapellmeisters der Santa Iglesia Kathedrale von Segorbe und beendete damit die fast zwei Jahrzehnte währende Verbindung mit der Metropolitankathedrale von Valencia, wo er von den Kapellmeistern José Pradas, Pascual Fuentes und Francisco Morera ausgebildet worden war. Obwohl Vicente Olmos Claver nur acht Jahre in Segorbe verbrachte, war dies seine produktivste Zeit in Bezug auf das musikalische Schaffen; sein musikalisches Oeuvre wuchs enorm, vor allem in der [Komposition liturgischer Villancicos](https://opac.rism.info/search?View=rism&author=Vicente+Olmos+Claver&q=villancicos){:target="_blank"}.
 
 
-
 Die letzte biografische Periode von Vicente Olmos Claver findet im Hieronymitenkloster _Nuestra Señora de la Murta_ in Alzira statt, wo er 1780 Mönch wurde und mehr als 30 Jahre verbrachte. Er starb 1812 in seiner Geburtsstadt Catarroja.
 
 Das musikalische Schaffen von Vicente Olmos Claver kann allgemein als geistliche Musik bezeichnet werden. Sein Oeuvre kann in zwei klar unterschiedene Gruppen eingeteilt werden: streng liturgische Musik in lateinischer Sprache und stilistisch vielfältige Musik in der Landessprache für kleinere kirchliche Funktionen.
@@ -29,7 +27,6 @@ Das musikalische Schaffen von Vicente Olmos Claver kann allgemein als geistliche
 Seine Werke werden derzeit in zwei valencianischen Archiven aufbewahrt: im Archiv der Kathedrale Metropolitana von Valencia mit fünf Kompositionen (RISM Bibliothekssigel: [E-VAc](https://opac.rism.info/search?View=rism&siglum=E-VAc&author=Vicente+Olmos+Claver){:target="_blank"}) und im Archiv der Santa Iglesia Catedral von Segorbe mit 48 Werken (RISM Bibliothekssigel: [E-SEG](https://opac.rism.info/search?View=rism&siglum=E-SEG&author=Vicente+Olmos+Claver){:target="_blank"}; CLIMENT 1979 und 1984).
 
 Abschließend möchten wir darauf hinweisen, dass es nicht unsere Absicht war, in diesem kurzen Überblick auf stilistische Fragen in die Tiefe zu gehen, sondern vielmehr den kreativen Werdegang eines valencianischen Kapellmeisters zu skizzieren, dessen Beitrag zur spanischen Musik zweifellos von künftigen Generationen geschätzt werden wird. Die gesamte Forschung über Vicente Olmos Claver ist sowohl in unserer Doktorarbeit (MARZAL 2013) als auch in der jüngsten Veröffentlichung _La música de Vicent Olmos i Claver_ (MARZAL 2019) enthalten. In beiden Werken finden wir zahlreiche unveröffentlichte dokumetarische Quellen über den Komponisten.
-
 
 
 **ABKÜRZUNGEN UND DOKUMENTE**
@@ -68,4 +65,3 @@ MARZAL (2019): A. Marzal Raga, _La música de Vicent Olmos i Claver_, Vols. I i 
 
 _Abbildung_: Partitur der _Lamentación â Solo. 2ª del miercoles_. (ACV): PM 152/9, (f. 1 r.). Jahr: 1789. [RISM ID no. 1001111577](https://opac.rism.info/search?id=1001111577&View=rism){:target="_blank"}. Mit freundlicher Gehnehmigung des Autors.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

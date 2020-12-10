@@ -5,12 +5,11 @@ date: 2017-04-25
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
+image: "/images/news-old-website/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
-
 
 _The following is a guest post by Michael Talbot (University of Liverpool, Department of Music, Emeritus):_
 
@@ -33,18 +32,12 @@ As things now stand, in mid-April 2017, an edition of this new _Laetatus sum_ (t
 I am confident that what I have been able to do in this individual instance will in coming years find its counterparts, in connection with quite different composers, in studies of the same Hofkirche repertory. I should also mention, as a concluding flourish, that this discovery has prompted me to consider a further hypothesis of much broader import: that the “Baldan consignment” (or series of consignments), executed around 1760, was originally sent to the Saxon-Polish court not in its normal seat at Dresden, but in its place of refuge during the Seven Years’ War (1756–1763), Warsaw. The reason why the Galuppi-attributed works were so numerous and so comprehensive liturgically could have been because they were designed to create an entire performing repertory from scratch (in the Polish capital) rather than merely to update an already existing one (in the Saxon capital). Since this idea occurred to me, I have learnt that it has been in the minds of at least two other scholars, so one can expect future developments on this front as well. A tangible Polish connection in addition to the known German one would appeal to me in the light of the growing interest shown by modern Polish musicians and musicologists in the repertory belonging to the period of the Wettin monarchs.
 
 
-
 _Michael Talbot_
 
 _18 April 2017._
 
 Image: _Laetatus sum_ in C major, newly discovered by Michael Talbot to be a piece by Vivaldi and henceforth known as RV 827 (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095&Language=en){:target="_blank"}). On the first page of music, shown here, the heading names "Buranello" as the composer—a false attribution on the source to Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 
 
 

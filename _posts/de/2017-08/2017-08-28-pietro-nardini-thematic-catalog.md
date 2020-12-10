@@ -5,12 +5,11 @@ date: 2017-08-28
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
+image: "/images/news-old-website/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pietro-nardini-thematic-catalog.html
 email: ''
 author: ''
 ---
-
 
 Neu in unserem Bücherregal steht das Werkverzeichnis zu Pietro Nardini:
 
@@ -31,13 +30,10 @@ Die Anordnung der Werke erfolgt nach der Besetzung. Auf eine römische Ziffer fo
 Die Informationen zu jedem Werk sind sehr ausführlich. Auch die Beschreibung der einzelnen Drucke und Sammlung ist sehr detailliert. Marri hat akribisch jede - bis zum Zeitpunkt der Publikation des Werkverzeichnisses erschienene - Edition für ein Werk eruiert und aufgelistet.
 
 
-
 Der RISM Online-Katalog verzeichnet [280 Ergebnisse zu Pietro Nardini](https://opac.rism.info/search?View=rism&author=Nardini+Pietro){:target="_blank"}. Darunter befinden sich zwei fragliche Zuschreibungen: eine an Pietro Nazari und eine an Pietro Antonio Locatelli. Die Einträge sind kürzlich um die Werkverzeichnisangabe ergänzt und überarbeitet worden.
 
 Wir danken den Autoren und dem Verlag für die freundliche Überlassung eines Belegexemplars.
 
 
-
 _Abbildung_: Porträt von Pietro Nardini (ca. 1782), via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8422944h/f1.item){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

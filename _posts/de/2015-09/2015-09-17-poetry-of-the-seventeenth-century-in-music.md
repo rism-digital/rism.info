@@ -4,13 +4,12 @@ title: Gedichte des 17. Jahrhunderts in Musik gesetzt
 date: 2015-09-17
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Poesie_Gallica_7ab9d3eb38.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Poesie_Gallica_7ab9d3eb38.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/37-livres-dairs-de-differents-auteurs-digitized-and-free-online-from-gallica.html
 email: ''
 author: ''
 ---
-
 
 _Dieser Beitrag stammt von_ _Clotilde Angleys (Département de la Musique) und erschien erstmals in dem[Gallica Blog](http://blog.bnf.fr/gallica/index.php/2015/02/06/la-poesie-du-xviieme-siecle-en-musique/){:target="_blank"} der Bibliotheque national de France (BnF). Wir veröffentlichen ihn hier nach den Grundsätzen der[Creative Commons](http://blog.bnf.fr/gallica/index.php/credits/){:target="_blank"}._
 
@@ -27,15 +26,9 @@ In dieser Anthologie von vertonten Gedichten werden Sie Werke großer Dichter au
 _Oben: Der erste Band dieser Serie: Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
 
 
-
 Viele Werke diser Sammlung sind ohne Namensnennung des Dichters oder Komponisten überliefert. Das Centre de Musique Baroque de Versailles, Partner der BnF, hat eine elektronische [moderne wissenschaftliche Edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} der 1220 Airs herausgegeben.
 
 Eine [neue Online-Sammlung](http://gallica.bnf.fr/html/partitions/les-livres-dairs-de-differents-auteurs){:target="_blank"} erlaubt Ihnen zwischen dem Gallica-Faksimile und der kritischen Edition, von der die ersten acht Bände zur Verfügung stehen, hin und her zu navigieren.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

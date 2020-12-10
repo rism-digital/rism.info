@@ -5,12 +5,11 @@ date: 2019-10-17
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Chopin_by_Bisson__1849_875251f5fe.png"
+image: "/images/news-old-website/csm_Chopin_by_Bisson__1849_875251f5fe.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-improvisation-to-composition.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
-
 
 _Guido Kraus from the RISM Central Office has written the following to mark the 170th anniversary of Frédéric Chopin's death:_
 
@@ -21,7 +20,5 @@ Chopin left us about 230 works, some of which were printed relatively soon after
 RISM has almost [1,900 records for printed music editions by Chopin](https://opac.rism.info/search?View=rism&author=chopin&Language=en){:target="_blank"}, most dating from the 19th century. Most of them are held by the Chopin Institute in Warsaw, which is steadily cataloging its holdings. Collecting activities of the Chopin Institute focus on Chopin first editions and they are cataloged for RISM. The records are identified accordingly to make the first editions searchable in the RISM catalog. You can search the Chopin items in the RISM catalog by simply searching for Chopin as the composer. Use the filters on the left to refine your search.
 
 
-
 _Image_: Frédéric Chopin (1810-1849) in a photograph by Louis-Auguste Bisson, around 1849, from [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/800px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

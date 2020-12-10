@@ -5,12 +5,11 @@ date: 2017-01-30
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png"
+image: "/images/news-old-website/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-woman-composer-is-born.html
 email: ninaeichholz234@gmail.com
 author: Nina Eichholz
 ---
-
 
 _We received the following from Nina Eichholz. It originally appeared on the website [Hofmusik in Dresden](http://hofmusik.slub-dresden.de/news/details/single/eine-neue-komponistin-ist-geboren){:target="_blank"} and is published with kind permission._
 
@@ -24,8 +23,3 @@ The sensitive aria by Maria Carolina, which is in rondò form, is the only work 
 
 _Image_: Maria Carolinas von Savoyen, "Per costume o mio bel nume," f. 1. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) D-Dl [Mus.1-F-49,12-12](http://digital.slub-dresden.de/id434532886){:target="_blank"}. RISM ID no. [212008692](https://opac.rism.info/search?id=212008692&Language=en){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

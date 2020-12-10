@@ -4,13 +4,12 @@ title: Musik und Tanz zur Gesundung König Felipes III. von Spanien
 date: 2020-07-09
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Festa_a_ballo_1_7466823bc6.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: ''
 author: ''
 ---
-
 
 Vor ziemlich genau 400 Jahren erschien in Neapel bei Costantino Vitale der Sammeldruck Breve Racconto della Festa a Ballo, von dem heute lediglich ein [Exemplar in der Bibliothèque nationale de France (F-Pn)](https://gallica.bnf.fr/ark:/12148/bpt6k321253t){:target="_blank"} erhalten ist.
 
@@ -33,5 +32,3 @@ Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare
 Abbildungen aus _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Online verfügbar](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

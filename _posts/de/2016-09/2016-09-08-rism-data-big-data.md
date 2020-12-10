@@ -5,18 +5,17 @@ date: 2016-09-08
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
+image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-data-big-data.html
 email: ''
 author: ''
 ---
 
-
 ImRISM-Online-Katalogsind zur Zeit[über 1.052.000 Einträge](https://opac.rism.info/search?View=rism&q=*&Language=de){:target="_blank"}nachgewiesen. Zusammen mit den Normdaten für Personen (101.000 Datensätze), Körperschaften (63.000) und Sekundärliteratur (32.000) ist dies eine gewaltige Datenmenge!
 
 Alle Daten sind unter einerCreative Commons Lizenzfrei verfügbar als[linked open data](https://opac.rism.info/index.php?id=8&L=0&id=8){:target="_blank"}, aber wie genau kann man die Daten nutzen?
 
-Unsere Kollegin Sandra Tuppen von der[British Library](http://www.bl.uk/){:target="_blank"}und [RISM UK](http://www.rism.org.uk/){:target="_blank"}hat in Zusammenarbeit mit Stephen Rose und Loukia Drosopoulou in ihrem Projekt"[A Big Data History of Music](/library_stocks/2014/04/28/rism-and-big-data.html){:target="_blank"}" auch die RISM-Daten verwendet. Die Ergebnisse wurden letztes Jahr in _[Early Music](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}_veröffentlicht.__In diesem Sommer beleuchteteein Artikel in _Fontes Artis Musicae_ die Rolle der bibliographischen Datenbestände (Basis fürihre Daten):
+Unsere Kollegin Sandra Tuppen von der[British Library](http://www.bl.uk/){:target="_blank"}und [RISM UK](http://www.rism.org.uk/){:target="_blank"}hat in Zusammenarbeit mit Stephen Rose und Loukia Drosopoulou in ihrem Projekt"[A Big Data History of Music](/library_collections/2014/04/28/rism-and-big-data.html){:target="_blank"}" auch die RISM-Daten verwendet. Die Ergebnisse wurden letztes Jahr in _[Early Music](http://em.oxfordjournals.org/content/early/2015/09/02/em.cav071){:target="_blank"}_veröffentlicht.__In diesem Sommer beleuchteteein Artikel in _Fontes Artis Musicae_ die Rolle der bibliographischen Datenbestände (Basis fürihre Daten):
 
 **Sandra Tuppen, Stephen Rose, and Loukia Drosopoulou, "Library Catalogue Records as a Research Resource: Introducing ‘A Big Data History of Music.’" _Fontes Artis Musicae_ 63, no. 2 (April-June 2016): 67-88. DOI: 10.1353/fam.2016.0011**
 
@@ -28,12 +27,6 @@ Die RISM-Daten sind nun als[open data und linked open data](https://opac.rism.in
 
 Sie können unsere Daten gerne für ähnliche (oder ganz andere) Projekte nutzen. Wenn Sie dies tun, würden wir gerne davon erfahren!
 
-
-
-
-
 _Abbildung: Ausschnitt aus den open data derBritish Library_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

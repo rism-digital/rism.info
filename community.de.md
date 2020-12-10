@@ -7,4 +7,4 @@ permalink: /community.html
 
 # Willkommen bei der RISM Community! 
 
-RISM stellt im Community-Bereich für Mitarbeiter und alle an Musikquellen Interessierte zusätzliche Inhalte bereit. Einige Bereiche sind nur für angemeldete Benutzer zugänglich. 
+RISM stellt im Community-Bereich für Mitarbeiter und alle an Musikquellen Interessierte zusätzliche Inhalte bereit. 

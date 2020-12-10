@@ -5,12 +5,11 @@ date: 2014-06-03
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Chant_databases_CAO_ECE_36fe08a43d.jpg"
+image: "/images/news-old-website/csm_Chant_databases_CAO_ECE_36fe08a43d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/five-chant-databases.html
 email: ''
 author: ''
 ---
-
 
 The new issue of the _Journal of the [American Musicological Society](http://www.ams-net.org/){:target="_blank"}_ has reviews of five chant databases:
 

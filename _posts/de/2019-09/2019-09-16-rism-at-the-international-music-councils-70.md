@@ -5,12 +5,11 @@ date: 2019-09-16
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_IMC_Poster_a1ae8c175f.jpg"
+image: "/images/news-old-website/csm_IMC_Poster_a1ae8c175f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
 email: ''
 author: ''
 ---
-
 
 Der [International Music Council](http://www.imc-cim.org/){:target="_blank"} (Internationaler Musikrat, IMC) feiert in diesem Jahr sein 70-jähriges Bestehen und nimmt aus diesem Anlass am 6. [Weltmusikforum](https://imc70.org/){:target="_blank"} teil, das vom 27. September bis 1. Oktober 2019 in Paris stattfindet.
 
@@ -24,5 +23,3 @@ RISM ist nicht nur für Musikwissenschaftler, sondern auch für Interpreten ein 
 
 Für IAML ist das 6. Weltmusikforum eine doppelte Erinnerung. Genau zu diesem Zeitpunkt fand 1949 in Florenz das erste Sondierungstreffen der Musikbibliotheken statt. Dieses Treffen, zusammen mit einem weiteren in Lüneburg 1950, ging der offiziellen Gründung von IAML im folgenden Jahr in Paris voraus.
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

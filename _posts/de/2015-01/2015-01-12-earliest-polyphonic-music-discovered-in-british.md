@@ -4,13 +4,12 @@ title: Frühestes polyphones Musikwerk in British Library entdeckt
 date: 2015-01-12
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Polyphonic_music_5c5b927d53.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
 author: ''
 ---
-
 
 _Der folgende Beitrag ist von Nicolas Bell und ist auf dem [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/12/earliest-polyphonic-music-discovered-in-british-library.html){:target="_blank"} erschienen. Wir präsentieren ihn hier mit freundlicher Genehmigung der British Library._
 
@@ -23,7 +22,6 @@ Kann diese fremde verschlüsselte Nachricht die Geschichte der Chormusik wirklic
 Die Musik besteht aus einer am Ende eines kurzen Manuskripts über das Leben des Bischofs Maternianus von Riems (4. Jh.) geschriebenen kurzen Inschrift, aufgeschrieben im frühen 10. Jahrhundert. Als das Manuskript 1753 in die [Harley-Sammlung](http://www.bl.uk/reshelp/findhelprestype/manuscripts/harleymss/harleymss.html){:target="_blank"} (MS Harleys 3019) aufgenommen wurde, hat niemand diesem Gekritzel Aufmerksamkeit geschenkt: die Tatsache, dass unsere Vorgänger die Handschrift mit dem Bibliotheksstempel verunstalteten, ist bedauerlich, beweist aber auch, dass man die Bedeutung nicht kannte.
 
 Das Musikstück wurde von [Giovanni Varelli](http://www.mus.cam.ac.uk/directory/giovanni-varelli){:target="_blank"} entdeckt. Er ist Doktorand in Cambridge und arbeitete während eines Praktikums an der British Library im Rahmen des Leonardo da Vinci-Programm der Universität von Pavia. Giovanni arbeitete sich systematisch an den Regalen entlang, um mittelalterliche musikalische Notationen zu suchen und dem [Katalog der illuminierten Manuskripte](http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4050&CollID=8&NStart=3019){:target="_blank"} der British Library Details hinzuzufügen, als er zufällig über diese Seite stolperte. Unten auf der Seite – die Risse im Pergament waren wohl schon vorhanden bevor der Text geschrieben wurde – sind zwei kurze Gesänge in Neumen des frühen 10. Jahrhunderts notiert, die den modernen Wissenschaftlern als paleofränkische Schreibweise bekannt ist.
-
 
 ![Harley_ms_3019_f56v Palaeofrankish neumes](http://a1.typepad.com/6a0163068f2bbe970d01b8d0ac7509970c-pi)
 
@@ -41,4 +39,3 @@ Alles spricht dafür, dass diese ungewöhnlichen Zeichen zur selben Zeit wie der
 
 Somit ist - innerhalb dieses besonderen Rahmens - dies das allererste Musikmanuskript in der Geschichte der Harmonie in der westlichen Tradition und lenkt unsere Kenntnisse von der Praxis dieser Tradition vom Jahr 1000 auf etwa 900.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

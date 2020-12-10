@@ -5,12 +5,11 @@ date: 2018-03-12
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
+image: "/images/news-old-website/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-printing-history-online-museum.html
 email: ''
 author: ''
 ---
-
 
 We stumbled upon this interesting online museum: [Music Printing History](http://www.musicprintinghistory.org/){:target="_blank"}. It details different technological aspects concerning printing music and is richly illustrated.
 
@@ -24,11 +23,5 @@ We'll leave you with one of our favorite videos that the site links to, a closeu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 Image: Movable type from [Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

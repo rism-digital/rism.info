@@ -5,12 +5,11 @@ date: 2020-05-04
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Fontes_covers_free_4d9c4b7051.jpg"
+image: "/images/news-old-website/csm_Fontes_covers_free_4d9c4b7051.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/free-access-to-fontes-artis-musicae-through-june-30.html
 email: ''
 author: ''
 ---
-
 
 Das Projekt MUSE bietet freien Zugang zu einer Reihe von wissenschaftlichen Zeitschriften, um den Zugang für eine qualitativ hochwertige Lehre und Forschung während der COVID-19-Krise zu erleichtern. So sind [Artikel in](https://muse.jhu.edu/journal/688){:target="_blank"}_[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_, der Zeitschrift der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/){:target="_blank"} (IAML, eine der Patronatsgesellschaften des RISM) ab dem Publikationsjahr 2016 [bis Ende Juni kostenlos verfügbar](https://www.iaml.info/news/free-access-fontes-artis-musicae){:target="_blank"}.
 
@@ -24,7 +23,6 @@ Jennifer A. Ward, Axel Klein
 Sandra Tuppen, Stephen Rose, Loukia Drosopoulou
 - [The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM](https://muse.jhu.edu/article/680345){:target="_blank"}
 David Blum
-
 
 
 # Musikhandschriften, Notendrucke und Libretti
@@ -59,7 +57,6 @@ Marta Walkusz
 Aurèlia Pessarrodona, Josep Maria Gregori
 
 
-
 # Musiksammlungen
 
 - [An Approach to the Cuban Institutions that Hold Documents Related to Musical Heritage](https://muse.jhu.edu/article/699409){:target="_blank"}
@@ -87,8 +84,3 @@ Heidi Heinmaa
 - [Texas: Where Americans, Mexicans, Germans, and Italians Meet: The Hauschild Music Collection at the Cushing Memorial Library and Archives](https://muse.jhu.edu/article/671832){:target="_blank"}
 Felicia Piscitelli
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

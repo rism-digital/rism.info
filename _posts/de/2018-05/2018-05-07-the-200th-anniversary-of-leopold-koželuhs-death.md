@@ -5,12 +5,11 @@ date: 2018-05-07
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Kozeluh_200_9b85facc4a.jpg"
+image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''
 ---
-
 
 Der böhmische Komponist Leopold Koželuh (1747-1818) wurde auf die Vornamen Jan Antonín getauft, um aber Verwechslungen mit seinem gleichnamigen Cousin vorzubeugen, nahm er bereits vor 1774 den Namen Leopold hinzu. Jan Antonín unterrichtete Leopold in Komposition und František Xaver Dušek im Klavierspiel. Nach ersten kompositorischen Erfolgen in Prag wechselte Leopold nach Wien, um sich dort als Pianist und Komponist zu betätigen. Er galt bald als Konkurrent von Wolfgang Amadeus Mozart und es gelang ihm als Klavierpädagoge in den höchsten Adelskreisen Fuß zu fassen. 1785 gründete Koželuh einen Musikverlag sowie eine Musikalienhandlung. Nach der Aufführung seiner Krönungskantate für Kaiser Leopold II. bei dessen Krönung zum König von Böhmen (1791) erfolgte seine Ernennung zum „Kammer Kapellmeister und Hofmusik Compositor“, mit der die Kompositionen von Bühnenwerken verbunden war. Durch eine Erkrankung reduzierte sich Koželuhs Zahl der Kompositionen ab 1802 deutlich. Seine Werke verschwanden praktisch aus dem Wiener Konzertleben.
 
@@ -25,5 +24,3 @@ In einer großartigen Umsetzung der Videotechnik verwandelte sich der ultramoder
 _Abbildung_: Porträt Leopold Koželuh von W. Ridley, über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kozeluh349.jpg){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

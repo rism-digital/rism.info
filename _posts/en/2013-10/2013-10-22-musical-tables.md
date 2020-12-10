@@ -5,12 +5,11 @@ date: 2013-10-22
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Liedertisch_Sexta_Vox_8e24c7a8d7.jpg"
+image: "/images/news-old-website/csm_Liedertisch_Sexta_Vox_8e24c7a8d7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-tables.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
 
 The multifaceted nature of music transmission can be seen in an unusual musical source at the Berchtesgaden Royal Palace, in the southeastern corner of Germany. A song table (Liedertisch)--an etched slab of stone depicting music and set in a wooden frame--is now indexed in the RISM database (RISM no. [450113059](http://opac.rism.info/search?documentid=450113059){:target="_blank"}).
 
@@ -25,5 +24,4 @@ The song table can be seen any time during a tour of the Berchtesgaden Royal Pal
 Bibliography: Bertha Antonia Wallner, _Musikalische Denkmäler der Steinätzkunst des 16. und 17. Jahrhunderts nebst Beiträgen zur Musikpflege dieser Zeit_. München: 1912, p. 154-338.
 
 Photo credit: Wittelsbacher Ausgleichfonds, Munich
-
 

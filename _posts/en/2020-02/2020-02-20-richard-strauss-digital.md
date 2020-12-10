@@ -5,12 +5,11 @@ date: 2020-02-20
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Strauss_digital_SLUB_f0096ef363.jpg"
+image: "/images/news-old-website/csm_Strauss_digital_SLUB_f0096ef363.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/richard-strauss-digital.html
 email: ''
 author: SLUB Dresden
 ---
-
 
 _We are [reprinting the following](https://digital.slub-dresden.de/kollektionen/1227/){:target="_blank"} with the kind permission of the SLUB Dresden:_
 
@@ -27,10 +26,7 @@ Music and text documents can be easily be found through the SLUB's [Richard Stra
 See also [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/](https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/){:target="_blank"}
 
 
-
 _Image_: Richard Strauss, [score to](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

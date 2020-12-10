@@ -4,18 +4,16 @@ title: Two sources, lots of material for research – the digital Annaberger Cho
 date: 2016-07-28
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Annaberger_Chorbuecher_80a43029de.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Annaberger_Chorbuecher_80a43029de.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/two-sources-lots-of-material-for-research-the-digital-annaberger-chorbuecher.html
 email: andrea.hammes@slub-dresden.de
 author: Dr. Andrea Hammes
 ---
 
-
 _The two Annaberg choirbooks described below have been documented by the [RISM working group in Dresden](http://de.rism.info/de/home.html){:target="_blank"} and are detailed in the RISM online catalog. The two manuscript collections can be found at the SLUB with the shelfmarks Mus.1-D-505 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) and Mus.1-D-506 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). The RISM records were used as metadata for the choirbooks in the SLUB's digital collections.
 
 The following post originally appeared on the [SLUBlog](http://blog.slub-dresden.de/beitrag/2016/07/19/zwei-quellen-viel-futter-fuer-die-forschung-annaberger-chorbuecher-digital/){:target="_blank"} and is published here with kind permission._
-
 
 
 Two particularly important items of sixteenth-century Saxon church music heritage are choirbooks from Annaberg, which were manuscripts used in the church that offer a fascinating glimpse into the cultivation of music during the Reformation. Now the volumes, which are among the special treasures of the [Music Department](http://www.slub-dresden.de/sammlungen/musik/){:target="_blank"}, have been digitized as part of a state-funded digitization program. As of now, the electronic versions of the choirbooks may be freely viewed online through the SLUB's [Digital Collections](http://digital.slub-dresden.de/kollektionen/){:target="_blank"}.
@@ -25,5 +23,3 @@ The collective manuscripts (also known as Annaberger Chorbuch I and II; SLUB she
 Now that Annaberger Chorbuch II has been available since 2010 in a critical edition in the series "[Erbe deutscher Musik](http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/EDM/EdM-Inhalte.html)" under the direction of Wolfgang Horn, a new edition of Chorbuch I should follow shortly. The interplay between the original and a critical assessment of the source is sure to provide new impetus for research, such as the identification of additional anonymous works, which in both volumes are not the exception but rather the rule.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

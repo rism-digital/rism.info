@@ -5,12 +5,11 @@ date: 2016-05-30
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
+image: "/images/news-old-website/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/help-rism-link-to-digitized-music.html
 email: contact@rism.info
 author: ''
 ---
-
 
 The RISM online catalog offers over 18,000 links to digitized music: scores, parts, and printed editions from all around the world. This ease of access to the sources is one of the most popular features of the catalog.
 
@@ -19,7 +18,6 @@ Current RISM contributors add links to digital objects (when available) when cre
 Help us add links to RISM records and broaden exposure to your institution's holdings! Has your institution undertaken a digital project in recent years? Are the digital surrogates linked to their corresponding RISM records? To check, start an [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}, select the field **Library siglum** , and enter your institution's siglum. (To find the siglum, search the [Sigla Database](http://www.rism.info/en/sigla.html){:target="_blank"}). If there are digital scans linked in the records, you will find a link in the filters under **Narrow results** , then **Digitized music** (see image).
 
 If RISM hasn't linked to your scans yet, please alert us to your digital collections so we can do so. For items in the RISM database, send us an Excel spreadsheet of RISM numbers with a permalink to the digital copy (either a direct link to the scan or a bibliographic record that contains a link to the scan):
-
 
 
 |  |
@@ -71,13 +69,11 @@ If RISM hasn't linked to your scans yet, please alert us to your digital collect
 | 00000990000383 | [http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078){:target="_blank"} |
 | 00000993103826 | [http://imslp.org/wiki/Special:ReverseLookup/307092](http://imslp.org/wiki/Special:ReverseLookup/307092){:target="_blank"} |
 
-
 The RISM database contains all of series [A/II](/publications.html#c36) (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36) series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619) (printed anthologies).
 
 But wait, there's more! We are planning to add the remainder of **B/I** and all of **B/II** (through the eighteenth century) to the online catalog in the near future, so while you're at it please send us links to those items as well, but in a separate spreadsheet.
 
 For items from B/I that are not in the online catalog, please make sure to send us the B/I number (a year plus a superscript number) and a permalink. Type the superscript number as a vertical pipe (|) followed by the number in normal type:
-
 
 
 | |
@@ -109,7 +105,6 @@ For items from B/I that are not in the online catalog, please make sure to send 
 
 |
 
-
 Items from B/II do not have unique reference numbers. For these, please indicate the title, page number, and permalink:
 
 | |
@@ -140,7 +135,6 @@ Recueil d'Airs sérieux et à boire de différents auteurs ; pour l'année 1713
 
 |
 
-
 Please note:
 
 - We only want to link to complete scans of what your library holds (not a sample of the first few pages or thumbnails/previews)--but if your library's copy is incomplete, and the incomplete version is scanned, then yes we will link to that.
@@ -154,8 +148,3 @@ Please send your spreadsheet(s) to: [contact@rism.info](mailto:contact@rism.info
 
 If you need any assistance, please let us know and we are happy to help.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

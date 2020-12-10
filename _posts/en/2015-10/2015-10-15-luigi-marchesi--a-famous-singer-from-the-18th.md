@@ -4,13 +4,12 @@ title: Luigi Marchesi - A famous singer from the 18th century
 date: 2015-10-15
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/luigi-marchesi.html
 email: ''
 author: ''
 ---
-
 
 Luigi Marchesi (1754-1829) – one of the most famous singers at the end of the eighteenth century – will be the focus of attention in the next few days with large celebrations in Italy. An exhibit dedicated to the Italian castrato, whose career began in 1765 as a choirboy at the Milan cathedral and ended in 1805 at La Scala, opens today in his hometown of Inzago (some 25 km northeast of Milan). The singer's last will and testament, contemporary printed editions, music with his embellishments, letters, and other documents related to Marchesi are on display.
 
@@ -22,11 +21,5 @@ These initiatives are all outgrowths of the [Luigi Marchesi Project](http://www.
 
 If you want to get an idea of the various compositions by Luigi Marchesi and the arias that he sang, take a look at the RISM online catalog. In total, [140 sources](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} are listed relating to Luigi Marchesi.
 
-
 Image: Portrait of Luigi Marchesi by his friend Richard Cosway (London, 1790).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

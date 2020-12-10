@@ -5,12 +5,11 @@ date: 2018-06-25
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
+image: "/images/news-old-website/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
 email: ''
 author: ''
 ---
-
 
 Das Jahr 2018 wurde zum[Europäischen Kulturerbejahr](http://europa.eu/cultural-heritage/european-year-cultural-heritage_de){:target="_blank"}erklärt. Über den ganzen Kontinent richtet sich der Fokus auf Denkmäler in ganz verschiedenen Formen: Monumente, Bücher, Kleidung, historische Städte, mündliche Überlieferungen, Landschaften, digitalisierte Objekte - sogar auch Aufführungen von darstellender Kunst und Musik - und Vieles mehr. Ziel ist es, die Menschen zu ermuntern, das europäische Kulturerbe zu entdecken, sich darauf einzulassen und so das Gefühl zu stärken, ein Teil des vereinigten Europas zu sein.
 
@@ -49,5 +48,3 @@ _Abbildung von der [Website](http://europa.eu/cultural-heritage/toolkits/logotyp
 _des europäischen Kulturerbejahrs_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

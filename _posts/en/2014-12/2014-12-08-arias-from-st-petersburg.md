@@ -4,13 +4,12 @@ title: Arias from St. Petersburg
 date: 2014-12-08
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Petersburg_4e2be750b5.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
 email: ''
 author: ''
 ---
-
 
 The new CD [_St. Petersburg_ by Cecilia Bartoli](http://ceciliabartolionline.com/st-petersburg/){:target="_blank"} will certainly be a present under many Christmas trees this year.
 
@@ -22,4 +21,3 @@ Not as well known are the settings by [Hermann Raupach](https://opac.rism.info/s
 
 Photo credit: [Mariinsky.ru](http://www.mariinsky.ru/en/about/history_theatre/mariinsky_theatre/): The Mariinsky Theatre prior to reconstruction in 1885, designed by the architect Alberto Cavos
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

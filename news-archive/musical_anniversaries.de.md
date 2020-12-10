@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: categories-rism-info
 lang: de
 permalink: /news-archive/musical_anniversaries
 pagination: 

@@ -4,13 +4,12 @@ title: Peter Grønland @ RISM
 date: 2011-10-17
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Groenland_6dc9566333.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Groenland_6dc9566333.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/peter-groenland-rism.html
 email: ''
 author: ''
 ---
-
 
 Franz Liszts (22.10.1811 – 31.07.1886) 200. Geburtstag ist diesen Monat in aller Munde. Aber nicht nur er zählt zu den Jubilaren des Oktober 2011. Auch der 50 Jahre ältere Peter Grønland (15.10.1761 - 30.12.1825) verzeichnet einen runden Geburtstag.
 
@@ -19,7 +18,6 @@ Peter Grønland hinterließ ein reiches Vokalwerk. Viele seiner Lieder und Gesä
 Weyse charakterisierte Grønland in seiner Autobiographie: “Ohne eigentlich Musiker zu seyn oder seyn zu wollen, ja ohne auch nur ein Instrument mit sonderlicher Fertigkeit spielen zu können, besaß er, damals schon insbesondere nur der Theorie, Kritik oder Speculation hingegeben, selten zusammentreffende musikalische Kenntnisse, und hatte den regsten Sinn für alles Schöne” (Hatting, ‘Weyses selvbiografi’, p.64).
 
 „Grønland schrieb häufig Musikrezensionen für deutsche Zeitschriften und vertonte eine Reihe schwedischer Volkslieder, die er 1818 veröffentlichte. Außerdem beschäftigte er sich bereits zu diesem frühen Zeitpunkt auch historisch mit den Liedern, wobei seine Vertonungen des dänischen Stoffes leider über das Manuskriptstadium nicht hinauskamen.“ (Anne Ørbæk Jensen, Claus Røllum-Larsen, Inger Sørensen: Wahlverwandtschaften. Zwei Jahrhunderte musikalischer Wechselwirkungen zwischen Dänemark und Deutschland, København 2004 (= Göttinger Bibliotheksschriften 28), S. 34)
-
 
 
 **Grønland Online**

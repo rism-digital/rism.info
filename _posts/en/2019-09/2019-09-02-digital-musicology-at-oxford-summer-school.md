@@ -5,12 +5,11 @@ date: 2019-09-02
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg"
+image: "/images/news-old-website/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digital-musicology-at-oxford-summer-school.html
 email: ''
 author: Jennifer Ward (RISM Central Office)
 ---
-
 
 I've been wanting to attend the [Digital Humanities at Oxford Summer School (DHOxSS)](https://www.dhoxss.net/){:target="_blank"} for some time now, thanks to glowing reviews from librarian friends. I was glad when my summer plans finally aligned with this year's Summer School, and directly after the [IAML Congress in Kraków](/events/2019/08/26/congress-diary-from-iaml-kraków-2019.html){:target="_blank"} I hopped over to Oxford. I was fortunate enough to receive a bursary to attend the [Digital Musicology strand](https://www.dhoxss.net/digital-musicology){:target="_blank"}, which was convened by Kevin Page. A report summarizing my week has been [published on the DHOxSS website](https://www.dhoxss.net/jennifer-ward){:target="_blank"}. In this space, I'd like to go into more detail about the tools and techniques we used.
 
@@ -29,5 +28,3 @@ The fascinating thread that went through the DHOxSS week was using digital tools
 ​
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

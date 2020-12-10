@@ -5,12 +5,11 @@ date: 2016-07-06
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
+image: "/images/news-old-website/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/margarethe-susanna-kayser-the-kayserin.html
 email: ''
 author: ''
 ---
-
 
 Um eins gleich vorweg zu nehmen: Nein sie war es nicht – die Frau des Komponisten [Reinhard Keiser](https://opac.rism.info/search?View=rism&author=Reinhard+Keiser){:target="_blank"}. Auch wenn die damals üblichen verschiedenen Schreibvarianten Keiser, Keyser, Kaiser und Kayser diese Vermutung nahe legen.
 
@@ -21,5 +20,3 @@ Die im 18. Jahrhundert übliche Bezeichnung „Madame Kayserin“ findet sich au
 _Abbildung_: Oper am Gänsemarkt in Hamburg. Zeichnung von Peter Heineken, 1726. Staatsarchiv Hamburg.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

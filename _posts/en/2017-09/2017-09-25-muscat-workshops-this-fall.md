@@ -5,19 +5,17 @@ date: 2017-09-25
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_muscat_03_df0154796c.png"
+image: "/images/news-old-website/csm_muscat_03_df0154796c.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-this-fall.html
 email: coloquio.tallerdeedicion@gmail.com
 author: ''
 ---
-
 
 [Muscat](/community/muscat.html), RISM's specialized software for cataloging musical sources, now has nearly 200 users. We continue to gain new contributors each month. Workshops are important ways of introducing contributors to the fundamentals of cataloging with RISM. This fall, four workshops will take place in three countries:
 
 **Muscat Workshop at the [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/){:target="_blank"}**
 
 This workshop is for members of the RISM Working Group at the Chopin Institute. Guido Kraus of the RISM Central Office will lead this workshop, which will take place from 26 to 27 September 2017.
-
 
 
 **Muscat Workshop in Morelia, Mexico**
@@ -40,5 +38,3 @@ Time: 10.30 – 16.30
 Location: [Österreichische Nationalbibliothek](https://www.onb.ac.at/de/bibliothek/ausbildung/universitaetslehrgang/neuer-standort/){:target="_blank"}, Ausbildungsabteilung
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

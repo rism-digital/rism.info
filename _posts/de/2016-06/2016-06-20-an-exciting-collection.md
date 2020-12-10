@@ -5,12 +5,11 @@ date: 2016-06-20
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
+image: "/images/news-old-website/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-exciting-collection.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
-
 
 _Der folgende Beitrag stammt von_ _Gottfried Heinz-Kronberger ([RISM Deutschland)](http://de.rism.info/de/home.html){:target="_blank"}:_
 
@@ -27,7 +26,3 @@ Daneben gibt es aber auch Werke, die noch in der Anonymität verharren, was den 
 In zahlreichen älteren Mappen sind Aufführungsdaten eingetragen. Sie dokumentieren eine intensive Nutzung des Notenmaterials. Einen direkten Rückschluss auf die Entstehung des Notenmaterials lassen sie jedoch nur bedingt zu, als terminus ante quem, da viele Manuskripte mit Sicherheit wesentlich früher geschrieben wurden. Die Aufführungsangaben ziehen sich von 1828 [NA/SP (S-55) bis 1911 [NA/SP (H-18) und (H-88)].
 
 Insgesamt zeigt der Bestand eine Geschlossenheit, wie sie selten zutage tritt. Er dürfte etwa um ein Viertel größer gewesen sein als jetzt, was man anhand der nicht zuzuordnenden Einzelblätter schätzen kann, man gewinnt aber dennoch von der damaligen Musizierpraxis einen genauen Einblick. Zur Vertiefung der Kenntnisse sind noch Einzelforschungen zu Schreibern, oder überhaupt biographische Forschungen im Umkreis der Pfarre Spitz zu tätigen, besonders was die Lehrer betrifft, die oft das musikalische Amt mit übernahmen. Die Nachweise zu den Stücken die nur im Göttweiger Katalog verzeichnet sind machen diese Handschriften aus Spitz zu einer besonderen Rarität und die Beziehungen zum kaum mehr als 20 km entfernten Stift Göttweig ist offensichtlich, bedarf aber ebenfalls weiterer Erforschung.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

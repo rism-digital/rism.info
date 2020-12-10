@@ -4,13 +4,12 @@ title: Big Data in Musikforschung und Musikdokumentation
 date: 2014-04-28
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/pics/Sacred_music_Wordle.jpg"
+category: library_collections
+image: "/resources-old-website/pics/Sacred_music_Wordle.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-big-data.html
 email: sandra.tuppen@bl.uk
 author: Sandra Tuppen
 ---
-
 
 Die [British Library](http://www.bl.uk/){:target="_blank"} und das College [Royal Holloway der Universität London](https://www.royalholloway.ac.uk/home.aspx){:target="_blank"} - beide Institutionen sind Kooperationspartner des [RISM UK](http://www.rism.org.uk/){:target="_blank"} - erhielten vom britischen [Arts and Humanities Research Council](http://www.ahrc.ac.uk/Pages/Home.aspx){:target="_blank"} (AHRC) eine finanzielle Beihilfe von £ 79.000 für ein gemeinsames Musikforschungsprojekt, das sich mit den Nutzungsmöglichkeiten der weltweit größten Musikbibliographien über historische Drucke und Handschriften auseinandersetzt. Im Fokus stehen die Handhabung und Betrachtung sowie die statistische Auswertung von insgesamt sieben Musikdatenbanken und –katalogen. Erhofftes Ziel des Projektes ist die Entwicklung einer besonderen generellen Methodik der Musikforschung im Umgang mit big data.
 

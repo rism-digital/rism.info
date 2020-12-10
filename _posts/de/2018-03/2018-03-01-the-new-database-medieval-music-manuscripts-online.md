@@ -5,12 +5,11 @@ date: 2018-03-01
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_MMMO_Database_bd16d41df8.jpg"
+image: "/images/news-old-website/csm_MMMO_Database_bd16d41df8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-new-database-medieval-music-manuscripts-online.html
 email: ''
 author: Dominique Gatté
 ---
-
 
 _[Diese Ankündigung](http://gregorian-chant.ning.com/group/lesmanuscritsduweb/forum/topics/the-new-database-music-manuscripts-online){:target="_blank"} erhielten wir von Dominique Gatté. Sie wird mit freundlicher Genehmigung wiedergegeben:_
 
@@ -25,5 +24,3 @@ Neben der Suche nach [Quelle](http://musmed.eu/sources){:target="_blank"} und [B
 Zögern Sie nicht, sich für MMMOd zu registrieren, um Ihre Kommentare zu dieser oder jener Quelle zu schreiben ...
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

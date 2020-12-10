@@ -4,13 +4,12 @@ title: 'Nativity of the Blessed Virgin Mary: Mariae (B.V.) Nativitas'
 date: 2014-09-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Mariae_Geburt_d969d78f72.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Mariae_Geburt_d969d78f72.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
 email: ''
 author: ''
 ---
-
 
 The birth of the Virgin Mary is commemorated on September 8 in the Catholic Church, the Orthodox Church, and the Anglican Church. The feast of the Nativity of the Blessed Virgin Mary(_In Nativitate B.M.V._) is also called the Nativity of Our Lady. It probably evolved from the festival of the consecration of St. Anna’s Church near the Pool of Bethesda in Jerusalem. The church was built on the location thought to be the home of Anne and Joachim, Mary’s parents, and is considered to be the birthplace of Mary. Celebrations of the feast spread in the eleventh century, although no exact date is known.
 
@@ -33,11 +32,5 @@ August 15: Assumption of Mary - **Mariae (B.V.) Assumptio**
 December 8:  Immaculate Conception - **Mariae (B.V.) Conceptio Immaculata**
 
 
-
 Photo source: Domenico Ghirlandaio, _Natività di Maria,_ Cappella Tornabuoni, 1485-1490, fresco,Firenze,basilica di Santa Maria Novella, from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

@@ -1,14 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Test jekyll integration
+name: Jekyll deployment
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: [ master, staging ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,30 +15,62 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    
-    # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@v2.1.0
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    
-    # Tun the jekyll action
-    - uses:  lemonarc/jekyll-action@1.0.0
-    
-    # Deploy to remote server
-    - name: Deploy with rsync
-      uses: burnett01/rsync-deployments@4.1
-      with:
-        switches: -avzr --delete --exclude="uploads" --exclude="fileadmin"
-        path: _site/
-        remote_path: ${{ secrets.DEPLOY_PATH }}
-        remote_host: ${{ secrets.DEPLOY_SITE }}
-        remote_user: ${{ secrets.DEPLOY_USER }}
-        remote_key: ${{ secrets.DEPLOY_KEY }}
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Configure staging build
+        run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
+        if: endsWith(github.ref, '/staging')
+
+      - name: Install packages
+        working-directory: ${{ github.workspace }}
+        run: |
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > wg0.conf
+          sudo apt install openresolv wireguard
+
+      - name: Set up Wireguard VPN
+        working-directory: ${{ github.workspace }}
+        run: |
+         sudo wg-quick up ./wg0.conf
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v2.1.0
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Tune the jekyll action
+      - uses:  lemonarc/jekyll-action@1.0.0
+
+      - name: Set server to deployment if on staging branch
+        if: endsWith(github.ref, '/staging')
+        run: |
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
+
+      - name: Set server to production if on master branch
+        if: endsWith(github.ref, '/master')
+        run: |
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
+
+      # Deploy to remote server
+      - name: Deploy with rsync
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --delete --exclude="uploads"
+          path: _site/
+          remote_path: ${{ env.DEPLOY_PATH }}
+          remote_host: ${{ env.DEPLOY_SERVER }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Disconnect VPN
+        working-directory: ${{ github.workspace }}
+        run: |
+          sudo wg-quick down ./wg0.conf

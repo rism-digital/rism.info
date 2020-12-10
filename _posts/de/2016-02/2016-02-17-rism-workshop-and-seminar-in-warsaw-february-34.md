@@ -5,12 +5,11 @@ date: 2016-02-17
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
+image: "/images/news-old-website/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-workshop-and-seminar-in-warsaw-february-3-4-2016.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
-
 
 Beitrag von Sonia Wronkowska ([RISM Polen](http://rism.info/?id=145){:target="_blank"}):
 
@@ -26,32 +25,22 @@ Im Rahmen des Seminars wurden auch fünf Berichte präsentiert:
 
 Sonia Wronkowska - Polnische RISM Zentrale an der polnischen Nationalbibliothek
 
-
 -
 
 Dr hab. Magdalena Walter-Mazur - RISM-Arbeitsgruppe in Posen
-
 
 -
 
 Grzegorz Joachimiak - RISM-Arbeitsgruppe in Breslau
 
-
 -
 
 Katarzyna Spurgjasz - RISM-Arbeitsgruppe an der Universitätsbibliothek in Warschau
-
 
 -
 
 Guido Kraus - RISM Zentralredaktion
 
-
-
-
-
 _Bilder mit freundlicher Genehmigung von Sonia Wronkowska_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

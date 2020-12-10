@@ -5,12 +5,11 @@ date: 2017-01-26
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Muscat-Schulungen_in_OEsterreich_Wien_2_737aa0dc99.jpg"
+image: "/images/news-old-website/csm_Muscat-Schulungen_in_OEsterreich_Wien_2_737aa0dc99.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-in-austria.html
 email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---
-
 
 _We have received the following from our colleagues in IAML Austria:_
 
@@ -29,7 +28,5 @@ Please enjoy these photos from the workshops (no Facebook account necessary to v
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1485250014849171.1073741849.103775449663308%26type%3D3&amp;width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 
-
 _Photos courtesy ofStefan Engl and Eva Neumayr._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

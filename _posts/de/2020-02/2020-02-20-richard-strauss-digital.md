@@ -5,12 +5,11 @@ date: 2020-02-20
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Strauss_digital_SLUB_f0096ef363.jpg"
+image: "/images/news-old-website/csm_Strauss_digital_SLUB_f0096ef363.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-strauss-digital.html
 email: ''
 author: SLUB Dresden
 ---
-
 
 _Den [folgenden Beitrag](https://digital.slub-dresden.de/kollektionen/1227/){:target="_blank"} veröffentlichen wir mit freundlichen Genehmigung der SLUB Dresden:_
 
@@ -27,10 +26,7 @@ Musikalien und Textdokumente lassen sich über die [Digitale Kollektion "Richard
 Siehe auch [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/](https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richard-strauss/){:target="_blank"}
 
 
-
 _Abbildung_: Richard Strauss, Bühnenmusikpartitur zu _[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Neujahrsgruß mit Jubilaren
 date: 2015-01-06
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Neujahrsgruss_01_47be7de03b.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
 author: ''
 ---
-
 
 Wir wünschen allen ein gutes Neues Jahr! Wir freuen uns darauf, die Jahrestage der folgenden Musiker und anderer Personen, die Sie im RISM Online-Katalog finden, zu feiern:
 
@@ -342,7 +341,6 @@ Hurlebusch, Conrad Friedrich 1691-1765 Komponist
 Molter, Johann Melchior 1696-1765 Komponist
 Rolli, Paolo 1687-1765 Librettist
 
-
 **225. Geburtstag**
 Aßmayer, Ignaz 1790-1862 Komponist
 Beauplan, Amédée de 1790-1853 Komponist
@@ -433,8 +431,3 @@ Skrjabin, Aleksandr Nikolaevič 1872-1915 Komponist
 Stehle, Johann Gustav Eduard 1839-1915 Komponist
 Waldteufel, Emil 1837-1915 Komponist
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

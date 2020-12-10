@@ -5,12 +5,11 @@ date: 2017-03-13
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_IMS_Tokyo_b997ce8e0b.png"
+image: "/images/news-old-website/csm_IMS_Tokyo_b997ce8e0b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
 email: ''
 author: ''
 ---
-
 
 RISM will be represented at the 20th Congress of the [International Musicological Society](http://ims2017-tokyo.org/){:target="_blank"} in Tokyo next week, from March 19 to March 23, 2017. The theme of the congress is Musicology: Theory and Practice, East and West. The IMS, along with IAML, co-sponsors the [4 R projects](http://www.r-musicprojects.org/){:target="_blank"} (RISM, RILM, RIdIM, and RIPM).
 
@@ -33,5 +32,3 @@ Klaus Keil and Jennifer Ward of the RISM Central Office will give a talk entitle
 This is the first IMS congress in Asia. We look forward to seeing you there!
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

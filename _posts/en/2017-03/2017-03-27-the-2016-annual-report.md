@@ -4,13 +4,12 @@ title: The 2016 Annual Report
 date: 2017-03-27
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_08_85a9dfb671.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_08_85a9dfb671.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2016-annual-report.html
 email: ''
 author: ''
 ---
-
 
 We have just published the 2016 annual report on our website, [available here](/publications/annual-reports.html). Here we'll give you the highlights from the report. The release of Muscat was without a doubt the major accomplishment of the year, so we'll begin with that...
 
@@ -45,5 +44,3 @@ We have just published the 2016 annual report on our website, [available here](/
 **Here's to a successful and productive 2017!**
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

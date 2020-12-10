@@ -4,13 +4,12 @@ title: Herzlichen Glückwunsch Alexander Dreyschock zum 200. Geburtstag!
 date: 2018-10-15
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-200th-birthday-to-alexander-dreyschock.html
 email: krkraeme@students.uni-mainz.de
 author: Kristina Krämer
 ---
-
 
 _Der folgende Beitrag stammt von Kristina Krämer,_ _welche zurzeit ihre Masterarbeit zu Alexander Dreyschock an der Johannes Gutenberg-Universität Mainz verfasst:_
 
@@ -48,11 +47,5 @@ Doch nicht die rechte nur, auch Deine linke._
 _Am 2. Dezember 1843. Joseph Pirazzi._
 
 
-
 _Abbildung_: Alexander Dreyschock, Kniestück, Lithografie von Josef Kriehuber. Universitätsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Online verfügbar](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

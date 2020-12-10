@@ -5,12 +5,11 @@ date: 2017-11-30
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
+image: "/images/news-old-website/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
 email: ph@kb.dk
 author: Peter Hauge
 ---
-
 
 _The following has reached us from Peter Hauge ([Royal Danish Library](http://www.kb.dk/en/index.html){:target="_blank"}):_
 
@@ -22,4 +21,3 @@ The point of departure for the catalogue (which is [cited in the RISM online cat
 
 _Image_: Portrait of Scheibe (photographer Rolf H. Christensen). The portrait belongs to Sorø Akademi.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

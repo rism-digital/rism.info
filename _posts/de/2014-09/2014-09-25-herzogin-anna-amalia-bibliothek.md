@@ -4,13 +4,12 @@ title: Herzogin Anna Amalia Bibliothek
 date: 2014-09-25
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/herzogin-anna-amalia-bibliothek.html
 email: ''
 author: ''
 ---
-
 
 Vor zehn Jahren brach ein verheerendes Feuer im September 2004 an der[Herzogin Anna Amalia Bibliothek](http://www.anna-amalia-bibliothek.de/de/){:target="_blank"} in Weimar (D-WRz) aus. Insgesamt waren 196.000 Bücher und Manuskripte einschließlich Musikmaterialien im Gebäude als es brannte. 28.000 wurden verschont, aber 50.000 wurden völlig zerstört. Weitere 118.000 Werke erlitten Schaden während des Feuers. Seitdem hat die Bibliothek in den zehn Jahren verschiedene Stufen der Wiederherstellungsarbeit erlebt. Die Einheiten, die wenig Schaden erlitten, wurden zuerst erledigt. Heute behandeln die Konservatoren die Materialien, die teils verbrannt wurden. Ihre Arbeit ist in letzter Zeit in den deutschen Medien gewürdigt worden (auf [3sat](http://www.3sat.de/mediathek/?mode=play&obj=41915){:target="_blank"} - steigen Sie bei Minute 3:00 ein, um eine Partitur zu sehen - und der [Tagesschau](http://www.tagesschau.de/inland/anna-amalia-106.html){:target="_blank"}). Eine [Ausstellung](http://www.klassik-stiftung.de/ausstellungen-und-veranstaltungen/?tx_lombkswterm1_pi1%5Bevent%5D=2384&tx_lombkswterm1_pi1%5BselectedDayString%5D=2014-08-01&tx_lombkswterm1_pi1%5BbackArray%5D%5Baction%5D=eventList&tx_lombkswterm1_pi1%5BbackArray%5D%5BcategoryId%5D=&tx_lombkswterm1_pi1%5BbackArray%5D%5BmonthStart%5D=&tx_lombkswterm1_pi1%5Bdate%5D=13235&tx_lombkswterm1_pi1%5Baction%5D=eventDetail&tx_lombkswterm1_pi1%5Bcontroller%5D=FeDate&cHash=55812af210e710bc49be1edf8bf3ab46){:target="_blank"} in der Bibliothek, die noch bis August 2015 andauert, zeigt den arbeitsintensiven Wiederherstellungsprozess.
 
@@ -21,9 +20,4 @@ Vor kurzem wurde ein [Bericht](http://www.anna-amalia-bibliothek.de/pdf/140815_F
 Gegenwärtig hat der [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} 246 Quellen aus der Anna Amalia-Bibliothek. Ohne Zweifel sind davon einige im Feuer verloren gegangen. Ein [Katalog der Musikalien](http://haab.weimar-klassik.de/Musikalienkatalog/){:target="_blank"}, die verloren gingen, befindet sich auf der Website der Bibliothek. Wir arbeiten daran, diese Informationen in die RISM Online-Datenbank zu integrieren.
 
 Bild: Das Grüne Schloss, das Herzog Anna Amalia 1761-66 als herzogliche Bibliothek im Spätbarock umbauen ließ. Hier die Südwestansicht im Jahre 2004 noch vor dem Brand. Foto aufgenommen von R.Möhler. Lizenziert unter [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"} via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gr%C3%BCnes_Schloss_%28Herzogin-Anna-Amalia-Bibliothek%29_in_Weimar.jpg?uselang=de){:target="_blank"}.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

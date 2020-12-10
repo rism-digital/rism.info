@@ -4,13 +4,12 @@ title: Glückwünsche an den RISM-Mitarbeiter Dieter Kirsch (Würzburg)
 date: 2014-07-28
 lang: de
 post: true
-category: self_representation
-image: "/uploads/pics/Kirsch_Ehrendoktorwuerde.jpg"
+category: new_at_rism
+image: "/resources-old-website/pics/Kirsch_Ehrendoktorwuerde.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html
 email: ''
 author: ''
 ---
-
 
 Glückwünsche an den RISM-Mitarbeiter Dieter Kirsch (Würzburg), der die Ehrendoktorwürde erhalten hat.
 
@@ -33,10 +32,6 @@ Kirsch hat viele Sammlungen von [Bibliotheken (rund 100) in Franken für RISM ka
 -
 
 “Zur Geschichte der Würzburger Hofmusik im 19. Jahrhundert”, in: _Mainfränkisches Jahrbuch für Geschichte und Kust: Archiv des Historischen Vereins für Unterfranken und Aschaffenburg_ 48 (1996), S. 199-232.
-
-
-
-
 
 Bildnachweis: Hochschule für Musik Würzburg
 [http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html](http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html)

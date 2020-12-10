@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines
   operation that documents written musical sources.
   RISM records what exists and where it can be found.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://website-test.rism.digital" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rism.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RISM_Music
 
 follow-us:
@@ -25,13 +25,15 @@ exclude: ['.idea']
 
 languages: ["en", "de", "fr"]
 default_lang: "en"
-exclude_from_localization: ["assets", "javascript", "images", "css", "README.md"]
+exclude_from_localization: ["assets", "javascript", "images", "resources", "resources-old-website", "css", "README.md"]
 parallel_localization: false
 lang_from_path: false
 sass:
   sourcemap: never
 
 theme: rism-theme
+
+src_link: https://github.com/rism-digital/rism.info/tree/staging
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

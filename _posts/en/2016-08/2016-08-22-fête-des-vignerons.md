@@ -5,12 +5,11 @@ date: 2016-08-22
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
+image: "/images/news-old-website/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/fete-des-vignerons.html
 email: ''
 author: ''
 ---
-
 
 Preparations are already underway for a major event that will take place from 26 July to 11 August 2019 in Vevey, Switzerland. The [Fête des Vignerons (Winegrowers Festival)](http://www.fetedesvignerons.ch/en/){:target="_blank"} is not only a special occasion because it takes place in irregular intervals about every 25 years. The engagement of the town's population also lends it its special charm. Participants are mostly laypeople who act, sing, and dance. The festival has been held in its current form since 1797, and before that there were parades. A major part of the festival used to be crowning the best vineyard worker, an event that incorporated elements of the four seasons along with mythological figures such as Bacchus and Ceres.
 
@@ -21,13 +20,6 @@ In 1889, Franz Ludwig Hugo von Senger (1832-1892) [took care of the music](https
 What's more summery than a wine festival? To continue the celebration, browse the over [1400 sources for wine](https://opac.rism.info/search?View=rism&q=Wein){:target="_blank"} in the RISM online catalog.
 
 
-
 _Image_: Fête des Vignerons de Vevey 1889, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vevey_-_f%C3%AAte_des_vignerons_-_affiche_de_1889.jpg?uselang=fr){:target="_blank"}
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

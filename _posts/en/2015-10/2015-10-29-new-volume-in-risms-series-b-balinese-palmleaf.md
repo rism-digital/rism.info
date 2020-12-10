@@ -5,12 +5,11 @@ date: 2015-10-29
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_B_XVI-Bali_a84ebf0c97.jpg"
+image: "/images/news-old-website/csm_B_XVI-Bali_a84ebf0c97.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html
 email: ''
 author: ''
 ---
-
 
 RISM announces the newest volume in its [publication series B](/publications.html#c2619), which presents bibliographies of musical sources organized by topic:
 
@@ -25,5 +24,3 @@ If you are curious about what palm-leaf manuscripts look like, watch this brief 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-lCIwWwPP0I" frameborder="0" allowfullscreen></iframe>
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

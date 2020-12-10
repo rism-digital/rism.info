@@ -4,13 +4,12 @@ title: RISM - vor 500 Jahren
 date: 2018-09-17
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_RISM_1518_8828a712ad.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_RISM_1518_8828a712ad.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-500-years-ago.html
 email: ''
 author: ''
 ---
-
 
 Das Jahr 1518 ist in vielerlei Hinsicht von wichtigen Ereignissen und vor allem Personen geprägt, welche man recht häufig im RISM-Katalog findet. Um nur zwei Beispiel zu nennen: Im Jahr 1518 verweigert [Martin Luther](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe133052%22){:target="_blank"} den Widerruf seiner 95 Thesen und [Philipp Melanchthon](https://opac.rism.info/metaopac/perma.do;jsessionid=59FA319710E68840147C5C2B55ED055E.touch02?v=rism&q=-1%3d%22pe87925%22){:target="_blank"} hält als junger Professor seine Antrittsrede in der Universität Wittenberg.
 
@@ -23,5 +22,3 @@ Der Druck ist einer der frühesten Zeugnisse christlich geprägter Rezeption der
 _Abbildung_: Ausschnitt aus Johannes Reuchlin, _De accentibus et orthographia linguae Hebraicae_ (Hagenau: Thomas Anshelm, 1518). [RISM ID no. 990059797](https://opac.rism.info/search?id=00000990059797&View=rism){:target="_blank"}, Thüringer Universitäts- und Landesbibliothek, Jena (D-Ju) 4 Gl.II,52, fol. 84r. [Available online](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-368e133e-4324-4a26-b959-19595fa56b750){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

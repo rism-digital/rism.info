@@ -4,13 +4,12 @@ title: 'Karin Weißert: Internship report'
 date: 2020-03-26
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Logo_09_d0bbb2c881.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert
 ---
-
 
 As part of my bachelor’s degree in musicology at the Goethe-Universität in Frankfurt am Main, one is required to work an internship that lasts 150 hours.
 
@@ -28,4 +27,3 @@ Although my internship lasted only five weeks, I was active in eight different a
 
 Both the variety of the work and working independently made time fly by and I was never bored and never felt unappreciated. My time with RISM let me expand my knowledge in a very stimulating and extremely satisfactory way, and through my internship I could come to appreciate an interesting area of work.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

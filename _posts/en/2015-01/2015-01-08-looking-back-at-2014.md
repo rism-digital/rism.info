@@ -4,21 +4,19 @@ title: Looking back at 2014
 date: 2015-01-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_2015_c5ba7a17dc.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2014.html
 email: contact@rism.info
 author: ''
 ---
 
-
 Before we get too far into 2015, let's take a look back at 2014 and allow us to share some stories from the past year.
-
 
 
 The ten most popular stories on our website were (according to our website statistics):
 
-1. [New Version of the RISM Online Catalog](/self_representation/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [New Version of the RISM Online Catalog](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
 
 1.
 
@@ -48,7 +46,7 @@ The ten most popular stories on our website were (according to our website stati
 
 [Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
 
-](http://www.rism.info/en/home/newsdetails/article/64/legende-norvegienne-unknown-work-by-the-belgian-violinist-and-composer-eugene-ysaye-at-the-roya.html){:target="_blank"}
+](/rediscovered/2014/04/11/légende-norvégienne-unknown-work-by-the-belgian.html){:target="_blank"}
 
 7.
 
@@ -60,11 +58,11 @@ The ten most popular stories on our website were (according to our website stati
 
 [New Coordinating Committee Elected
 
-](http://www.rism.info/en/home/newsdetails/article/64/new-coordinating-committee-elected.html){:target="_blank"}
+](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
 
 9.
 
-[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded--violin-concerto-by-brescianello.html){:target="_blank"}
+[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html){:target="_blank"}
 
 This list also highlights the work of our colleagues in different countries: Belgium, Germany, Ireland, Portugal, and the United Kingdom.
 
@@ -79,14 +77,13 @@ The most popular links on our Facebook page were:
 <iframe width="560" height="315" src="//www.youtube.com/embed/LAa-Tro_FPU?list=UUSw7Qu4OQujixCfIlKETdkQ" frameborder="0" allowfullscreen></iframe>
 
 
-
 4. [Canadian musicologist makes 900 year old discovery (Radio Canada International)](http://www.rcinet.ca/en/2014/10/22/canadian-musicologist-make-900-year-old-discovery/){:target="_blank"}: About early music notation
 
 5. [Joseph Haydn's Real Wife](http://michaelorenz.blogspot.de/2014/09/joseph-haydns-real-wife_11.html){:target="_blank"}: Michael Lorenz has identified Haydn's wife as Maria Anna Theresia Keller (born 25 September 1730), not Maria Anna Aloysia Apollonia Keller
 
 As you may have noticed from this list, 2014 was a year of exciting discoveries.
 
-RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](http://www.rism.info/en/publications/bibliography.html){:target="_blank"}:
+RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](/publications/bibliography.html){:target="_blank"}:
 
 - Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen."_BIS: Das Magazin der Bibliotheken in Sachsen_ 7:3 (2014), 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}
 
@@ -100,8 +97,6 @@ RISM was also mentioned in the following articles, which we have listed on the [
 
 - Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
-We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info "Opens window for sending email"). Visitors to the RISM website come from all over the world, as you can see from the blue on the map on the left.
+We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info). Visitors to the RISM website come from all over the world, as you can see from the blue on the map on the left.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

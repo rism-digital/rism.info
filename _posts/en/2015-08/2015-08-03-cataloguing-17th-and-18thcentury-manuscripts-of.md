@@ -4,13 +4,12 @@ title: Cataloguing 17th- and 18th-century Manuscripts of French Music in the War
 date: 2015-08-03
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Pforzheimer_8c3bab02dc.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Pforzheimer_8c3bab02dc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cataloguing-17th-and-18th-century-manuscripts-of-french-music-in-the-ward-collection-us-caward.html
 email: linklat@fas.harvard.edu
 author: Natasha Roule
 ---
-
 
 _Natasha Roule, a candidate for the PhD in historical musicology at Harvard University, has spent the summer as a Pforzheimer Fellow at Houghton Library, Harvard’s principal repository for rare books and manuscripts, including rich holdings in print and manuscript music. Here is her account of her project, which saw the creation of many new records for the RISM A/II database._
 
@@ -19,15 +18,6 @@ The John Milton and Ruth Neils Ward Collection at [Houghton Library, Harvard Uni
 The miscellanies reveal rich sites of information about 17th- and 18th-century French musical culture, and are therefore especially deserving of comprehensive records on RISM. The miscellanies with which I have worked represent a musical book culture in which operatic pieces mixed with _chansons à boire_ and other genres. Several miscellanies were each contributed to by multiple copyists over periods that spanned up to eight decades. Not all copyists recorded the title and other identifying information with the pieces they inscribed. To identify the anonymity of these works, I entered their incipits into RISM using [Plaine & Easie Code](http://www.iaml.info/plaine-easie-code){:target="_blank"}. Using this method, I have identified nearly 50 anonymous works from several miscellanies in the Ward Collection. The detailed records of these volumes should prove useful to scholars interested in documenting the role of manuscript miscellanies in Baroque musical culture.
 
 Illustration caption: Miscellany of French arias and songs. 2010TW-24, Houghton Library, Harvard University. Page 71. (RISM ID [900020371](https://opac.rism.info/search?id=900020371){:target="_blank"})
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 
 
 

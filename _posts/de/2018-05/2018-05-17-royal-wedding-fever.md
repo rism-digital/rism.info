@@ -5,12 +5,11 @@ date: 2018-05-17
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
+image: "/images/news-old-website/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/royal-wedding-fever.html
 email: ''
 author: ''
 ---
-
 
 Wir warten immer noch auf unsere Einladung zur [Königlichen Hochzeit](https://www.royal.uk/royalwedding){:target="_blank"} am Samstag und geben die Hoffnung nicht auf (vielleicht ist sie einfach in der Post verloren gegangen). Während noch keine Details über die Werke, die speziell bei der Hochzeitszeremonie von Prinz Harry und Meghan Markle gespielt werden, bekannt sind, können wir der RISM-Datenbank entnehmen, welche Kompositionen bei anderen königlichen Hochzeitsfeierlichkeiten erklangen.
 
@@ -28,7 +27,6 @@ Hier einige der für königliche Hochzeiten geschriebenen Musikwerke:
 - Eine _Österreichische Jubel-Ouverture_ von Carl Haslinger zu den Hochzeitsfeierlichkeiten von Elisabeth von Bayern (Sisi) mit Kaiser Franz Joseph ([RISM ID no. 250013813](https://opac.rism.info/search?id=250013813){:target="_blank"})
 
 
-
 Auch Kompositionen für nach der Hochzeit sind nicht unüblich. Carl Gottlieb Reissiger schrieb das _Willkommen im Vaterhaus_ anlässlich der Rückkehr von Prinzessin Elisabeth von Sachsen in ihre Heimat nach der Heirat. Zwei Abschriften des Werks liegen heute in der SLUB Dresden (D-Dl; Signatur [Mus.4888-H-7](https://opac.rism.info/search?id=211008738){:target="_blank"} und [Mus.4888-H-8](https://opac.rism.info/search?id=211008812){:target="_blank"}).
 
 Noch Jahre später feiern glückliche paare ihre Hochzeitstage. So komponierte Fanny Hensel die Kantate _Die Hochzeit kommt_ für die Silberhochzeit ihrer Eltern (RISM ID no. [1001032487](https://opac.rism.info/search?id=1001032487){:target="_blank"}) und eine heute in Berlin aufbewahrte Abschrift wurde niemand geringerem als dem preußischen Königspaar Friedrich Wilhelm IV. und Elisabeth Ludovika von Bayern zu deren 25. Hochzeitstag überreicht. Das schön eingebundene Manuskript kann online eingesehen werden ([RISM ID no. 463222000](https://opac.rism.info/search?id=463222000){:target="_blank"}).
@@ -38,13 +36,6 @@ Wir schließen ab mit der brillianten Toccata von Charles-Marie Widor – gespie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8vz1D_L_OE?start=15" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-
-
-
-
-
 _Abbildung_: Christoph Graupner, "Bei Pauken und Trompeten," autographe Handschrift, 1748, Universitäts- und Landesbibliothek Darmstadt (D-DS), Signatur Mus.ms 416/17. [RISM ID no. 450005709](https://opac.rism.info/search?id=450005709){:target="_blank"}. [Online verfügbar](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-416-17/0004){:target="_blank"} (CC-0). Mit Hilfe von [PhotoFunny.net](https://www.photofunny.net/out/615269829531550542){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

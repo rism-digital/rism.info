@@ -4,13 +4,12 @@ title: Francesco Feo @ RISM
 date: 2011-01-26
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_ARSACE_di_Feo_7a8de4f169.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_ARSACE_di_Feo_7a8de4f169.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/francesco-feo-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Wer kennt Francesco Feo (1691-1761)?
 
@@ -25,7 +24,6 @@ Passio Domini nostri Jesu Christi secundum Joannem (Johannes-Passion) mit Doron 
 -
 
 Missa defunctorum und fünfstimmiges Confitebor (Psalm 110) mit Anja Zügner, Dorothea Wagner, Dominika Hirschler, Tobias Hunger, Tobias Berndt, Sächsisches Vocalensemble, Batzdorfer Hofkapelle, Matthias Jung, Label: CPO, DDD, 2007
-
 
 
 Der italienische [OPAC SBN](http://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}des Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche wirft über 200 Einträge zu Francesco Feo aus. Dort werden beispielsweise die zahlreichen Autographe Feos aus dem Archivio musicale della Congregazione dell'Oratorio in Neapel (I-Nf) sowie die Dokumente aus einigen anderen Bibliotheken aufgelistet, die bei RISM nicht verzeichnet sind.

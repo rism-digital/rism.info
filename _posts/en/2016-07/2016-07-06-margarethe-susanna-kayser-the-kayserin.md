@@ -5,12 +5,11 @@ date: 2016-07-06
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
+image: "/images/news-old-website/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/margarethe-susanna-kayser-the-kayserin.html
 email: ''
 author: ''
 ---
-
 
 To clear up any confusion right off the bat: No, Margarethe Susanna Kayser was not the wife of the composer [Reinhard Keiser](https://opac.rism.info/search?View=rism&author=Reinhard+Keiser){:target="_blank"}, even if the usual spelling variations from the time (Keiser, Keyser, Kaiser, and Kayser) lead one to suspect as much.
 
@@ -19,9 +18,6 @@ Born in 1690 as the daughter of the Hamburg singer Johann Heinrich Vogel, Margar
 The designation "Madame Kayserin," which she was often called at the time, can be found on many sources. The RISM online catalog has [fifteen sources related to Margarethe Susanna Kayser](https://opac.rism.info/search?View=rism&q=1020724811){:target="_blank"}, Germany's best opera singer at the time.
 
 
-
 _Image_: The Oper am Gänsemarkt in Hamburg. Drawing by Peter Heineken, 1726. Staatsarchiv Hamburg.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2019-09-26
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Adelina_Patti._7875156beb.jpg"
+image: "/images/news-old-website/csm_Adelina_Patti._7875156beb.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-100th-anniversary-of-adelina-pattis-death.html
 email: ''
 author: ''
 ---
-
 
 Schon die Eckdaten ihres Lebens verraten: Adelina Patti (1843–1919) war ein echter Weltstar. Geboren als Tochter italienischer Eltern in Madrid wuchs sie in New York auf, war überwiegend in London tätig und starb vor 100 Jahren in Wales (Craig-y-Nos Castle). Ihre Konzertreisen führten sie nicht nur durch ganz Europa, sondern auch nach Nord-, Mittel- und Südamerika sowie in die Karibik. Gefeiert wurde Patti nicht nur als Sängerin – insbesondere in den Rollen als Amina (in Bellinis _La somnambula_), Lucia (in Donizettis _Lucia di Lammermoor_) oder Violetta (in Verdis _La traviata_) –, sondern ebenfalls als herausragende Schauspielerin.
 
@@ -21,5 +20,3 @@ Weniger bekannt ist Adelina Patti als Komponistin. In unserem Online-Katalog fin
 _Abbildung_: Porträt von Adelina Patti, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adelina_Patti..jpg){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

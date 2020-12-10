@@ -4,19 +4,14 @@ title: Wie kann man RISM Nachweise einbinden?
 date: 2015-03-26
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/how-can-you-link-to-rism-searches.html
 email: ''
 author: ''
 ---
 
-
 Viele kleinere Institutionen wie Bibliotheken, Archive, Privatbesitzer etc. verfügen nicht über einen eigenen Online-Katalog ihrer Bestände, wollen aber die Einträge ihrer Bestände bei RISM auf der ihrer Website präsentieren. Dazu bietet die Bayerische Staatsbibliothek, München, eine Query-Schnittstelle an, die zuletzt so erweitert wurde, dass nach RISM Bibliothekssigeln gefragt werden kann.
-
-
-
-
 
 Zum Beispiel: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
 
@@ -25,7 +20,6 @@ Mit dieser Abfrage bekommt man alle Titel des Musikarchive des Österreichischen
 Der angezeigte Bestand ist immer auf dem jeweils aktuellen Stand des RISM Katalogs, weil die Anfrage bei jedem Anklicken neu aufgebaut wird.
 
 Das[RISM Bibliothekssigel](http://www.rism.info/en/sigla.html){:target="_blank"}finden Sie auf der Website des RISM.
-
 
 
 Weitere Abfragemöglichkeiten können gebildet werden.
@@ -69,7 +63,6 @@ und ergänzen dann:
 **siglum=**   für Bibliothekssigel
 
 
-
 Trunkieren (\*) ist in manchen Fällen möglich. Leerzeichen müssen mit einem Plus (+) gefüllt werden.
 
 Beispiele:
@@ -83,11 +76,8 @@ Alle Quellen aus den Vereinigten Staaten:
 [https://opac.rism.info/search?View=rism&siglum=US\*](https://opac.rism.info/search?View=rism&siglum=US*){:target="_blank"}
 
 
-
 Alle Quellen zu Gustav Mahler in Kanada:
 [https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler
 ](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

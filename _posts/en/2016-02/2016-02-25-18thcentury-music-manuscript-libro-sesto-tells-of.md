@@ -4,13 +4,12 @@ title: 18th-Century Music Manuscript "Libro Sesto" Tells of Colonial History in 
 date: 2016-02-25
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Libro_sesto_Chile_3c93826d3e.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Libro_sesto_Chile_3c93826d3e.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eighteenth-century-music-manuscript-el-libro-sesto-tells-of-colonial-history-in-chile.html
 email: ''
 author: ''
 ---
-
 
 The [Biblioteca Nacional de Chile](http://www.bibliotecanacional.cl/){:target="_blank"} in Santiago (RCH-Sbnc) is home to a rare music manuscript from ca. 1790, which it has had in its possession since January 2014. It was a gift from the descendants of the Chilean musicologist Guillermo Marchant Espinoza (1950-2009), who rescued it from the rubble during a house demolition. The manuscript is titled _Libro sesto_, implying that at least five other similar manuscripts must have existed that have not yet come to light.
 
@@ -27,7 +26,3 @@ The manuscript is currently being cataloged for the RISM database (RISM ID no. [
 Below, please enjoy a performance from the ceremony in 2014 at which Maria Antonia Palacios's important manuscript was donated to the National Library. The Ensamble Alta Voce performs excerpts from the _Libro sesto._
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yhfqhUC-wS4" frameborder="0" allowfullscreen></iframe>
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

@@ -4,13 +4,12 @@ title: The Music for Richard Wagner's "Rienzi" Preserved in Dresden
 date: 2020-07-23
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
+category: library_collections
+image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''
 author: ''
 ---
-
 
 This weekend was supposed to see the opening of the Wagner Festival in Bayreuth. Instead, [a full, alternative program](https://www.bayreuther-festspiele.de/en/festspiele/news/2020/virtual-festival-season-and-the-cultural-summer-live-on-site/){:target="_blank"} is planned.
 
@@ -25,5 +24,3 @@ Of course, parts that were used over the course of such a long period of time re
 _Image_ : Richard Wagner: Rienzi. Excerpt from the finale of Act I (bassoon 1) with cuts and pasteovers (Dresden, [Sächsische Staatsoper, Notenarchiv](https://sachsen.digital/werkansicht/dlf/361862/664/){:target="_blank"}; D-Ds).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

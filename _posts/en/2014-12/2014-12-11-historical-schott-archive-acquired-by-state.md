@@ -4,16 +4,14 @@ title: Historical Schott Archive Acquired by State Libraries in Berlin and Munic
 date: 2014-12-11
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Schott_Archiv_1_01_d0da5157a1.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Schott_Archiv_1_01_d0da5157a1.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/historical-schott-archive-acquired-by-state-libraries-in-berlin-and-munich-and-six-research-institut.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 _This article comes from Gottfried Heinz-Kronberger of RISM Germany, Bavarian State Library._
-
 
 
 The historical archive of the music publisher Schott represents a unique cultural asset. There is no other German music publishing house archive that is as big and comprehensive. It comprises the business records (correspondence; records of printers, engravers, and copyists; accounting books) from 1787 to 1945 and the entire historical archive that relates to production, music manuscripts, and first editions from 1810 to around 1950. The archive includes several hundred music autograph manuscripts and thousands of letters from famous composers such as Ludwig van Beethoven, Frederic Chopin, Werner Egk, Joseph Haas, Karl Amadeus Hartmann, Paul Hindemith, Engelbert Humperdinck, Franz Liszt, Bohuslav Martinů, Luigi Nono, Jacques Offenbach, Carl Orff, Hans Pfitzner, Maurice Ravel, Max Reger, Hermann Reutter, Ernst Toch, Richard Wagner, Ermanno Wolf-Ferrari and Bernd Alois Zimmermann. The archive, which had previously been at the head office in Mainz and was owned by the Strecker Foundation, was added to the Register of Archives with National Significance (Verzeichnis national wertvoller Archive) in 2004. Schott Verlag, founded in 1770, is one of the oldest music publishers in the world that is still in existence.
@@ -45,9 +43,3 @@ D-80539 München
 [reiner.naegele@bsb-muenchen.de](mailto:reiner.naegele@bsb-muenchen.de)
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

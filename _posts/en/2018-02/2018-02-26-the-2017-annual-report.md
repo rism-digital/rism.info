@@ -4,13 +4,12 @@ title: The 2017 Annual Report
 date: 2018-02-26
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2017-annual-report.html
 email: ''
 author: ''
 ---
-
 
 The annual report for the RISM Central Office has been [published on our website](/publications/annual-reports/2017.html#c3550). Here are some of the highlights:
 
@@ -18,7 +17,7 @@ The annual report for the RISM Central Office has been [published on our website
 
 **Contributions from national groups:** The following national groups created new records in [Muscat](/community/muscat.html#c3306), RISM's cataloging program, totaling over 31,000 new records: Argentina, Austria, Belgium, Czech Republic, Germany, Hungary, Italy, Poland, Slovakia, Slovenia, South Korea, and the United States.
 
-**Plans to import data:** RISM continues to work with [RISM France](http://ccfr.bnf.fr/){:target="_blank"}, [ICCU (Italy)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}, and the [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (US) to transfer records for musical sources to the RISM database. This year, [an agreement](/self_representation/2018/02/08/contract-signed-between-rism-and-unam.html){:target="_blank"} was reached with the [Seminario de Música en la nueva España y el México independiente](http://www.musicat.unam.mx/v2013/index.html){:target="_blank"} at the Universidad Nacional Autónoma de México (UNAM). RISM will receive descriptions of the historical music collections from the Mexico City Cathedral.
+**Plans to import data:** RISM continues to work with [RISM France](http://ccfr.bnf.fr/){:target="_blank"}, [ICCU (Italy)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}, and the [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (US) to transfer records for musical sources to the RISM database. This year, [an agreement](/new_at_rism/2018/02/08/contract-signed-between-rism-and-unam.html){:target="_blank"} was reached with the [Seminario de Música en la nueva España y el México independiente](http://www.musicat.unam.mx/v2013/index.html){:target="_blank"} at the Universidad Nacional Autónoma de México (UNAM). RISM will receive descriptions of the historical music collections from the Mexico City Cathedral.
 
 **Catalog users:** On average, the [online catalog](https://opac.rism.info/){:target="_blank"} was visited by about 8,400 people per month over 19,830 visits (annually: 101,200 people with 238,000 page views). The catalog is made possible thanks to a partnership between the RISM Central Office, the Bayerische Staatsbibliothek in Munich, and the Staatsbibliothek zu Berlin. A new release of the online catalog is planned for the beginning of 2018.
 
@@ -40,4 +39,3 @@ The annual report for the RISM Central Office has been [published on our website
 
 Here's to a successful and productive 2018!
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

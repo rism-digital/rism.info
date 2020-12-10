@@ -4,13 +4,12 @@ title: Carlo Gesualdo @RISM
 date: 2013-09-25
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Castello_di_Gesualdo_d9af99a928.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Castello_di_Gesualdo_d9af99a928.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/carlo-gesualdo-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Wagner and Verdi are not the only big musical names marking anniversaries this year. Carlo Gesualdo died on 8 September 1613 – 400 years ago. The Principe di Venosa was noted in his time for his bold chromaticisms and was a champion of polyphony in an era when others like Monteverdi tended to allow one voice to dominate.
 

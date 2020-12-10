@@ -5,12 +5,11 @@ date: 2015-04-28
 lang: de
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_foto_Schlichte_092310008c.jpg"
+image: "/images/news-old-website/csm_foto_Schlichte_092310008c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
 email: ''
 author: ''
 ---
-
 
 Am vergangenen Montag (20. April) verstarb Dr. Joachim Schlichte-Bierbaum, der von 1982 bis 1990 Leiter der RISM-Zentralredaktion war, im Alter von 68 Jahren an einem Herzleiden.
 
@@ -24,8 +23,3 @@ Wir werden sein Andenken in Ehren halten.
 
 Die RISM Zentralredaktion
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: After more than 200 years, one of Mozart’s autograph manuscripts return
 date: 2015-07-27
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Mozart_Mozarteum_Autograph_67b2dfe1c3.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Mozart_Mozarteum_Autograph_67b2dfe1c3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/after-more-than-200-years-one-of-mozarts-autograph-manuscripts-returns-to-salzburg.html
 email: bibliothek@mozarteum.at
 author: Armin Brinzing
 ---
-
 
 _This announcement has reached us from Armin Brinzing, director of the [BibliothecaMozartiana](http://www.mozarteum.at/wissenschaft/bibliothek/bibliotheca-mozartiana.html){:target="_blank"} at the [Mozarteum](http://www.mozarteum.at/){:target="_blank"} in Salzburg:_
 
@@ -19,7 +18,5 @@ Thanks to the generous support of a private donor, the Salzburg Mozarteum Founda
 For more information, please see the [Mozarteum website](http://www.mozarteum.at/en/content/news/256){:target="_blank"}.
 
 
-
 _Image of the Mozart autograph used with kind permission of the Mozarteum._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

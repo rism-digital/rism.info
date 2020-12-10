@@ -5,12 +5,11 @@ date: 2012-02-28
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_mozart_tirol_1158be7f80.jpg"
+image: "/images/news-old-website/csm_mozart_tirol_1158be7f80.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
-
 
 During the ongoing work being done for the Répertoire International des SourcesMusicales (RISM/International Inventory of Musical Sources),Dr.Hildegard Herrmann-Schneider came across a music book from around 1780in Tyrol. This manuscript contains, among other titles, a hitherto unknown pianopiece that is expressly attributed to the young "Wolfgango Mozart".
 

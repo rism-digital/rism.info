@@ -4,13 +4,12 @@ title: DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musi
 date: 2012-04-14
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Benda_16f1579a7e.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Benda_16f1579a7e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitization-project-at-the-staatsbibliothek-zu-berlin.html
 email: musikabt@sbb.spk-berlin.de
 author: Dr. Martina Rebmann
 ---
-
 
 Zu den herausragenden Schätzen der Musikabteilung der Staatsbibliothek zu Berlin zählt die insgesamt rund 10.000 Signatureneinheiten umfassende Sammlung autographer Musikhandschriften. Neben den zum Weltkulturerbe zählenden, weltweit größten Autographenkollektionen aus der Familie Bach, von Wolfgang Amadeus Mozart, Ludwig van Beethoven, Felix Mendelssohn Bartholdy und Carl Maria von Weber umfasst sie ein breites Spektrum von Eigenschriften weiterer Komponisten.
 

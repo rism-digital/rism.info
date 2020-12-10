@@ -5,12 +5,11 @@ date: 2015-02-26
 lang: en
 post: true
 category: events
-image: "/uploads/pics/RISM_MLA_conference.jpg"
+image: "/resources-old-website/pics/RISM_MLA_conference.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-mla-conference-live-stream.html
 email: ''
 author: ''
 ---
-
 
 The 84th Annual Meeting of the Music Library Association will take place on February 25-28, 2015, in Denver, Colorado.
 
@@ -26,26 +25,21 @@ Other presenters on the panel include ([handout](http://c.ymcdn.com/sites/www.mu
 
 Frances Barulich (The Morgan Library & Museum)
 
-
 -
 
 Bonna J. Boettcher (Cornell University) and Elizabeth Davis (Columbia University): The Contemporary Composers Web Archive under the aegis of the Borrow Direct Music Librarians Group and Columbia University
-
 
 -
 
 Darwin F. Scott (Princeton University): the Blue Mountain Project: Historic Avant-Garde Periodicals for Digital Research
 
-
 -
 
 Sarah J. Adams (Harvard University): updates and enhancements to the RISM OPAC
 
-
 -
 
 Jane Gottlieb (The Juilliard School) and Susan Vita (Library of Congress): the Music Treasures Consortium hosted by the Library of Congress
-
 
 
 Meeting website: [http://www.musiclibraryassoc.org/page/mla\_2015](http://www.musiclibraryassoc.org/page/mla_2015)
@@ -57,5 +51,3 @@ Live stream (for presentations in the Platte River room): [http://www.ustream.tv
 Recorded content after the conference: [http://vimeopro.com/musiclibraryassoc/denver-2015](http://vimeopro.com/musiclibraryassoc/denver-2015){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

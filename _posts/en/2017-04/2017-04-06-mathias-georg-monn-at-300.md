@@ -5,12 +5,11 @@ date: 2017-04-06
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Monn_300_D-B_4780e94726.jpg"
+image: "/images/news-old-website/csm_Monn_300_D-B_4780e94726.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mathias-georg-monn-at-300.html
 email: ''
 author: ''
 ---
-
 
 Not much is known about Mathias Georg Monn, a composer of the Viennese Early Classic period who was born 300 years ago this Sunday. Monn (9 April 1717 – 3 October 1750) is named in the records of the Klosterneuburg Monastery as _Discantist_ for the years 1731/32. In 1738 or later he was the organist of the Karlskirche in Vienna. An autograph collection of thoroughbass exercises is preserved at the Austrian National Library, which points to some sort of teaching activity on his part. He died at the age of 33.
 
@@ -26,5 +25,3 @@ Treat yourself to the Cello Concerto in G minor by Mathias Georg Monn in this re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

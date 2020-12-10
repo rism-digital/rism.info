@@ -4,13 +4,12 @@ title: 'Geschichten aus dem Altbestand: Wann kam "Così fan tutte" nach Detmold?
 date: 2018-05-14
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
 email: eberhardt@llb-detmold.de
 author: Joachim Eberhardt
 ---
-
 
 _Der folgende Beitrag stammt von Joachim Eberhardt und erschien zuerst auf der Website der [Lippischen Landesbibliothek Detmold](http://www.llb-detmold.de/aktuelles/aktuelles-detail/article/geschichten-aus-dem-altbestand-wann-kam-cosi-fan-tutte-nach-detmold.html){:target="_blank"}. Er wird hier mit freundlicher Genehmigung wiedergegeben._
 
@@ -25,5 +24,3 @@ Es ist denkbar, dass der Prinzipal der Truppe bei der Einrichtung nach dem Bau d
 _Abbildung_: Wasserzeichen in der Partitur von Mozarts _Così fan tutte_, Lippische Landesbibliothek in Detmold (D-DT), Signatur Mus-n 156. RISM ID no. [451501513](https://opac.rism.info/search?id=451501513){:target="_blank"}. Mit freundlicher Genehmigung von Joachim Eberhardt.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

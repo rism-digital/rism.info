@@ -4,13 +4,12 @@ title: Weihnachtsgrüße 2016!
 date: 2016-12-22
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Weihnachten_2016_8ac6e52ab8.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Weihnachten_2016_8ac6e52ab8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-holidays-2016.html
 email: ''
 author: ''
 ---
-
 
 Die RISM Zentralredaktion wünscht Ihnen und Ihrer Familie ein frohes Weihnachtsfest und ein gutes Neues Jahr.
 

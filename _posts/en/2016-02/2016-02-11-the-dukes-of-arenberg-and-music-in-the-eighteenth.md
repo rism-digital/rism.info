@@ -5,12 +5,11 @@ date: 2016-02-11
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Cornaz_Dukes_of_Arenberg_05dda80d62.jpg"
+image: "/images/news-old-website/csm_Cornaz_Dukes_of_Arenberg_05dda80d62.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-dukes-of-arenberg-and-music-in-the-eighteenth-century-the-story-of-a-music-collection.html
 email: ''
 author: ''
 ---
-
 
 Our colleague Marie Cornaz from RISM Belgium has recently published a revised and expanded edition of her _Les ducs d’Arenberg et la musique au XVIIIesiècle. Histoire d’une collection musicale_ and it is available for the first time in English:
 
@@ -23,5 +22,3 @@ Cornaz dedicates a chapter apiece to each of the three dukes and ends with a con
 The musical collection itself has previously been cataloged by Cornaz in "Inventaire complet du fonds musical des archives privées de la famille d’Arenberg à Enghien," _Revue belge de musicologie_ 58 (2004): 81-202.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

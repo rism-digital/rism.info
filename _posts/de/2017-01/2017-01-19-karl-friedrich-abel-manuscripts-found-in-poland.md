@@ -5,14 +5,13 @@ date: 2017-01-19
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Abel_-_Maltzan_1_3115b613b1.jpg"
+image: "/images/news-old-website/csm_Abel_-_Maltzan_1_3115b613b1.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/karl-friedrich-abel-manuscript-found-in-poland.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-
-_Der folgende Beitrag stammt von Sonia Wronkowska aus [RISM Polen](/de/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland/home.html):_
+_Der folgende Beitrag stammt von Sonia Wronkowska aus [RISM Polen](/international/working-groups.html):_
 
 Zwei neue Musikquellen zu Werken von Karl Friedrich Abel (1723-1787) sind kürzlich von Sonia Wronkowska in Polen entdeckt worden. Sie liegen in der Bibliothek der Adam Mickiewicz Universität in Poznań (PL-Pu) und stammen ursprünglich aus dem Besitz der Familie Maltzan in Milicz (früher Militsch). Graf Joachim Carl Maltzan (1733-1817) – preußischer Gesandter in London – ist der Verbindungsmann zwischen der preußischen Provinzstadt Militsch und den “Bach-Abel Konzerten” in London. Maltzan besuchte vermutlich regelmäßig die berühmte Konzertreihe, oder er war einer von Abels Schülern. Er erwarb zwei Manuskripte mit 28 Kompositionen für Viola da Gamba von Abel in London und nahm sie mit in seine Heimatstadt.
 
@@ -24,4 +23,3 @@ Alle bisher unbekannten Werke wurden kürzlich in der [Edition Güntersberg](htt
 
 _Abbildung_: Karl Friedrich Abel, Sonate in D-Dur, das erste Werk in Abels Handschrift aus dem Maltzan-Manuskript. Biblioteka Uniwersytecka. Sekcja Zbiorów Muzycznych w Oddziale Zbiorów Specjalnych (PL-Pu) 7836, p. 111. RISM ID no. [300044518](https://opac.rism.info/search?id=300044518){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

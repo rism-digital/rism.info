@@ -4,13 +4,12 @@ title: Downloading and Using Your Library's RISM Records
 date: 2018-04-26
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/downloading-and-using-your-librarys-rism-records.html
 email: ''
 author: ''
 ---
-
 
 Sometimes libraries have their manuscripts cataloged in the [RISM database](https://opac.rism.info/){:target="_blank"} but these records are not in the library's local catalog. Did you know you can download your RISM records and import them into your library's OPAC?
 
@@ -30,9 +29,6 @@ The original RISM records had been entered by the [US RISM office](http://hcl.ha
 
 At RISM, we are of course interested in improving our own database by including the new information uncovered by the catalogers at the Moravian Music Foundation. The MMF has sent us their enhanced records and we are working on integrating the added information into our records. David Blum will report more about this project at the [IAML Congress in Leipzig](http://iaml2018.info/programme/){:target="_blank"}.
 
-
 _Image_: Record for “Siehe wie fein ist’s und lieblich” by Christian Friedrich Gregor in RISM (RISM ID no. [000107824](https://opac.rism.info/search?id=000107824&Language=en){:target="_blank"}). Manuscript held at the Moravian Music Foundation, Archie K. Davis Center [(US-WS), shelmark 28](https://moravianmusic.on.worldcat.org/oclc/932481449){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

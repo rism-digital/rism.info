@@ -4,13 +4,12 @@ title: Von Dresden nach Moskau und zurück - kriegsbedingt verlagerte Werke aus 
 date: 2018-12-10
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
 email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---
-
 
 _Der folgende Beitrag stammt von Barbara Wiermann und erschien zuerst im [SLUB Dresden Blog](https://blog.slub-dresden.de/beitrag/2018/11/18/von-dresden-nach-moskau-und-zurueck-kriegsbedingt-verlagerte-werke-aus-der-slub-werden-digitalisier/){:target="_blank"} der Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden am 18. November 2018 ([CC-BY](http://creativecommons.org/licenses/by/4.0/){:target="_blank"}):_
 
@@ -32,4 +31,3 @@ Die entstehenden Digitalisate werden im internationalen Quellenlexikon der Musik
 
 Auch an dieser Stelle halten wir Sie selbstverständlich auf dem Laufenden.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

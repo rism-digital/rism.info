@@ -4,13 +4,12 @@ title: Happy Birthday Edmée Sophie Gail (1775-1819)
 date: 2016-08-25
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''
 ---
-
 
 Edmée Sophie Gail wurde am 28. August 1775 in Paris geboren und früh zeigte sich ihr musikalisches und kompositorisches Talent. Die Veröffentlichung der ersten Lieder von Gail in Zeitschriften fällt mit dem Beginn der Französichen Revolution zusammen, während der sie trotz aller Tumulte als Sängerin und Komponistin tätig war. Sie studierte Gesang, Theorie und Komposition in Paris, letztere bei François-Joseph Fétis, der ihr später eine Messe widmete ([RISM ID no. 700006118](https://opac.rism.info/search?id=700006118&Language=de){:target="_blank"}). Gail veröffentlichte zu Lebzeiten viele Lieder, fünf Opern wurden aufgeführt und als Sängerin und Begleiterin tourte sie durch Europa ([einige ihrer Bearbeitungen](https://opac.rism.info/search?id=454000094&Language=de){:target="_blank"} sind bei RISM dokumentiert).
 
@@ -19,9 +18,4 @@ Einen Teil von Sophie Gails Kompositionen reflektieren die [53 Handschriften](ht
 Gail starb am 24. Juli 1819 in Paris und wurde auf dem Friedhof Père-Lachaise beigesetzt. Ihr früherer Lehrer Fétis schrieb ein Miserere auf ihren Tod ([RISM ID no. 403008216](https://opac.rism.info/search?id=403008216&Language=de){:target="_blank"}).
 
 _Abbildung_: Portrait der Edmée Sophie Gail von Auguste Delvaux, nach Eugène Isabey (1840). Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8418085x){:target="_blank"}.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

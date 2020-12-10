@@ -5,12 +5,11 @@ date: 2018-05-07
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Kozeluh_200_9b85facc4a.jpg"
+image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''
 ---
-
 
 The Bohemian composer Leopold Koželuh (1747-1818) was baptized with the names Jan Antonín, but to avoid confusion with his cousin of the same name, he added Leopold by 1774. Leopold learned composition from Jan Antonín (the cousin) and piano from František Xaver Dušek. After initial success as a composer in Prague, Leopold moved to Vienna to work as a pianist and composer. Soon he came to be seen as competition to Wolfgang Amadeus Mozart and he succeeded in gaining a foothold as a piano teacher in the highest aristocratic circles. In 1785, Koželuh founded a music publishing house and opened a music shop. He wrote a coronation cantata for Emperor Leopold II when he was crowned King of Bohemia in 1791. After the piece was performed, Koželuh was named “Kammer Kapellmeister” and “Hofmusik Compositor,” a position that was associated with composing stage works. An illness significantly reduced the number of his compositions starting in 1802. His works practically disappeared from Viennese concert life.
 
@@ -22,9 +21,6 @@ The three-act opera _Gustav Vasa_ "explores the important event in the history o
 
 Gustav Vasa (1496-1560) freed Sweden from the rule of the King Christian of Denmark. Two strong women, Gustav Vasa's mother Cecilia and his sister Margareta, also play an important role in the opera and determine the course of events. The performance from 10 March 2018 can be [viewed online](https://areena.yle.fi/1-4313561){:target="_blank"} (the music starts at 8:38). The [German-language libretto](https://yle.fi/tiedotusradio1/Gustav_Wasa_korrigiert_yle.pdf){:target="_blank"} is also online.
 
-
 _Image_: Portrait of Leopold Koželuh by W. Ridley, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kozeluh349.jpg){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

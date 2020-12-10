@@ -5,15 +5,13 @@ date: 2015-02-16
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
+image: "/images/news-old-website/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
 email: ''
 author: ''
 ---
 
-
 _The following extremely important announcement has reached us from_ [_Henle Verlag_](http://www.henle.de/blog/en/2015/02/12/2582/){:target="_blank"} _and is published here with kind permission:_
-
 
 
 The new series **PianoPlus** is an ideal entry and re-access to the world of classical music, and likewise for all carnival enthusiasts and carnival grouches, who would like to make music with others.
@@ -26,9 +24,8 @@ This piece lends itself uniquely to the practice of the Rheinish pronunciation a
 
 ![Excerpt from Ludwig van Beethoven](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg)
 
-_**[Click for full size](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
+**[Click for full size](http://www.henle.de/blog/en/files/2015/02/Posth.-WoO-4711.jpg){:target="_blank"}**
 Excerpt from Ludwig van Beethoven "Eschte Fründe stonn zesamme" Posth. WoO 4711 (for English translation see below)_
-
 
 
 _Comments_
@@ -51,7 +48,6 @@ _Individual Comments_
 
 Cologne/Munich, Thursday before Shrove Tuesday 2015
 G. Henle Publishers
-
 
 **English translation of text:**
 
@@ -85,4 +81,3 @@ Now you can see who rightfully called himself your true friend.
 
 \*\* “as a god and a pot” is a short form of the Cologne credo “we pray to God and eat out of one pot” meaning something like “we are so close that closer is not even possible.”
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,15 +4,14 @@ title: Annual Meeting of the Collaborative Project on Chinese Music Resources in
 date: 2019-02-21
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_IMG_1784_875b2775ab.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_IMG_1784_875b2775ab.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
 email: tzchia22@gmail.com
 author: Tzu-Chia Tseng
 ---
 
-
-_We have received the following from Tzu-Chia Tseng of the [RISM Chinese-Language Region](/workgroups/chinese-language-region/home.html):_
+_We have received the following from Tzu-Chia Tseng of the [RISM Chinese-Language Region](/international/working-groups.html):_
 
 **2018/12: RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and a Muscat workshop in Shanghai**
 
@@ -25,8 +24,7 @@ RISM-CLR also launched two new books: _Guidelines for Music Paper-based Archive 
 As an invited representative of the conference, Jennifer Ward introduced the RISM organization, working groups’ operation and cataloging methods to participants. She was also invited to give a Muscat workshop the next day. This is the fourth Muscat workshop held by RISM in Asia. Through the help of RISM-CLR, we hope that more people in the Chinese-language region can understand RISM’s current work and enable more Chinese music literature to be shared.
 
 
-
-![](/fileadmin/_processed_/csm_IMG_1767_2ef4c9dc51.jpg)
+![](/images/news-old-website/csm_IMG_1767_2ef4c9dc51.jpg)
 
 **2018/12 RISM華語區工作小組於上海召開華人音樂文獻集藏計畫會議暨Muscat工作坊**
 
@@ -39,7 +37,6 @@ As an invited representative of the conference, Jennifer Ward introduced the RIS
 本次會議特邀RISM資深編輯Jennifer Ward訪滬，向與會人員介紹RISM組織、工作小組的運作與編目方式，期望未來能有更多華語地區的夥伴投入此工作；隔天，會議亦邀請Jennifer進行了一場Muscat實務工作坊，此為RISM於亞洲地區所舉辦的第四次Muscat工作坊，透過工作小組與即時翻譯的協助，希望讓更多的人員實際認識、瞭解並嘗試使用此資料庫系統，讓更多的音樂文獻得以共用。
 
 在會議尾聲，本次籌辦人之一蕭梅教授與與會學者分別提出許多具體建議，特別是針對音樂文獻的編目、國際間標準的規範與依循、數位元化工作的實踐以及學術研究的應用與推廣等面向進行深入探討，讓與會者均獲益良多。
-
 
 
 **2018/12 RISM华语区工作小组于上海召开华人音乐文献集藏计划会议暨Muscat工作坊**
@@ -55,9 +52,3 @@ As an invited representative of the conference, Jennifer Ward introduced the RIS
 在会议尾声，本次筹办人之一萧梅教授与与会学者分别提出许多具体建议，特别是针对音乐文献的编目、国际间标准的规范与依循、数字元化工作的实践以及学术研究的应用与推广等面向进行深入探讨，让与会者均获益良多。
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

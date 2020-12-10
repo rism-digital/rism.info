@@ -4,13 +4,12 @@ title: Die Gerald Coke Handel Collection im Londoner Foundling Museum
 date: 2020-07-06
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
 email: katharine@foundlingmuseum.org.uk
 author: Katharine Hogg
 ---
-
 
 Der folgende Beitrag stammt von _Katharine Hogg ([The Foundling Museum](http://www.foundlingmuseum.org.uk/){:target="_blank"}, [GB-Lfom](https://opac.rism.info/search?View=rism&siglum=GB-Lfom&Language=en){:target="_blank"}) und erschien ursprünglich im [IAML UK & Ireland blog](https://iamlukirl.wordpress.com/2020/05/07/the-gerald-coke-handel-collection-at-the-foundling-museum/){:target="_blank"}. Er wird hier mit freundlicher Genehmigung widergegeben; die deutsche Version ist gekürzt._
 
@@ -26,7 +25,5 @@ Für Anfragen können Sie sich telefonisch an die +44 (0)20 7841 3606 wenden ode
 ](mailto:handel@foundlingmuseum.org.uk)Für weitere Details besuchen Sie unsere Webseite [www.foundlingmuseum.org.uk](http://www.foundlingmuseum.org.uk/).
 
 
-
 Bildnachweis für das erste Bild: Photographer Peter Dazeley. Copyright Foundling Museum. Für das fünfte: Photo GG Archard. Copyright Foundling Museum
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

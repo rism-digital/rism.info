@@ -4,13 +4,12 @@ title: New RISM Coordinating Committee
 date: 2018-01-29
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-coordinating-committee.html
 email: ''
 author: ''
 ---
-
 
 RISM relies on its international partners and benefits from several structures in place to maintain a close relationship between RISM, its sponsoring societies, and its working groups. One of these bodies is the [Advisory Council](/organization/international-partners.html), whose membership includes all active RISM contributors around the world. Five members from Advisory Council form the Coordinating Committee, which is charged with facilitating communication between the working groups and the Zentralredaktion, conveying suggestions and requests between both sides, and encouraging conversation among the working groups.
 
@@ -26,4 +25,3 @@ The new members will be confirmed at the next meeting of the Advisory Council, w
 
 We would like to thank the previous members of the Coordinating Committee for their service: Armin Brinzing, Daniel Boomhower, Marie Cornaz, Ewa Hauptman-Fischer, and Gottfried Heinz-Kronberger. We look forward to working with the new committee.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

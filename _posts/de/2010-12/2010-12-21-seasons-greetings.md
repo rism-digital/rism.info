@@ -4,13 +4,12 @@ title: Weihnachtsgrüße
 date: 2010-12-21
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_BWV_248_Autograph_14255fe2fa.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_BWV_248_Autograph_14255fe2fa.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/seasons-greetings.html
 email: ''
 author: ''
 ---
-
 
 Die RISM Zentralredaktion wünscht ein frohes Weihnachtsfest und alles Gute für 2011!
 

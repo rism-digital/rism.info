@@ -5,12 +5,11 @@ date: 2019-09-05
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Pichler_Caroline_250_3c6ebb5579.png"
+image: "/images/news-old-website/csm_Pichler_Caroline_250_3c6ebb5579.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/caroline-pichler-at-250.html
 email: ''
 author: ''
 ---
-
 
 Caroline von Greiner was born on 7 September 1769 in Vienna. She was an Austrian writer and poet who was born into an artistic family.
 
@@ -22,7 +21,5 @@ Caroline Pichler died on 9 July 1843 in Vienna. Her four-volume autobiography _D
 
 The RISM catalog has about [20 entries for musical sources that are connected with Caroline Pichler](https://opac.rism.info/search?id=pe18012&View=rism&Language=en){:target="_blank"}. Of particular note are the different settings of the _Mathilde_ material by Moritz Hauptmann (see image), Friedrich Wilhelm Grund ([RISM ID no. 452011459](https://opac.rism.info/search?id=452011459&View=rism&Language=en){:target="_blank"}), and Carl Loewe ([RISM ID no. 453500832](https://opac.rism.info/search?id=453500832&View=rism&Language=en){:target="_blank"}), as well as the cantata [_Das befreite Deutschland_](https://opac.rism.info/search?id=1001013878&View=rism&Language=en) by Louis Spohr and lieder by Franz Schubert from Pichler's _Idyllen_ ([RISM ID no. 452509597](https://opac.rism.info/search?id=452509597&View=rism&Language=en){:target="_blank"} and [RISM ID no. 454509599](https://opac.rism.info/search?id=452509599&View=rism&Language=en){:target="_blank"}).
 
-
 _Image_: Moritz Hauptmann, Quintett from _Mathilde_, opera in 3 acts, [D-Dl Mus.4800-F-2](http://digital.slub-dresden.de/id383785243){:target="_blank"} ([RISM ID no. 270002797](https://opac.rism.info/search?id=270001797&View=rism&Language=en){:target="_blank"}).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2014-07-07
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg"
+image: "/images/news-old-website/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/does-christoph-willibald-gluck-deserve-better.html
 email: ''
 author: ''
 ---
-
 
 Letzte Woche wurde der 300. Geburtstag von einem der bedeutendsten Opernkomponisten und -reformer der 2. Hälfte des 18. Jahrhunderts gefeiert: Christoph Willibald Gluck (1714 - 1787). Sein Geburtstag ist Anlass für diverse Veranstaltungen im In- und Ausland: In Berching, dem Geburtsort Glucks, wurde eine Sonderbriefmarke vorgestellt, in Frankfurt am Main ist es eine neu gestaltete Medaille. Zahlreiche Konzerte, Opernaufführungen, Vorträge, Publikationen und Ausstellungen kommen hinzu. Alle Veranstaltungen zum Gluck-Jahr 2014 finden sie zusammengestellt auf der Webseite der [Internationalen Gluck-Gesellschaft](http://www.gluck-gesellschaft.org/hp96/Gluck-Jahr-2014.htm){:target="_blank"}.
 

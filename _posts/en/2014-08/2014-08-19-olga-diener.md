@@ -5,12 +5,11 @@ date: 2014-08-19
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_diener_bild_bc9bf5739c.jpg"
+image: "/images/news-old-website/csm_diener_bild_bc9bf5739c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-olga-diener.html
 email: ''
 author: ''
 ---
-
 
 Who was Olga Diener?
 
@@ -35,5 +34,3 @@ With her musical works all in one place, this would be the perfect opportunity f
 Photo source: [Nachlass Olga Diener](http://ead.nb.admin.ch/html/diener.html){:target="_blank"}, Schweizer Nationalbibliothek zu Bern
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

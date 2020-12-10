@@ -5,12 +5,11 @@ date: 2018-11-20
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_De_la_Rue_500_4455370fbf.png"
+image: "/images/news-old-website/csm_De_la_Rue_500_4455370fbf.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
 email: ''
 author: ''
 ---
-
 
 Another musician celebrating a major anniversary in 2018 is Pierre de la Rue (ca. 1452, Tournai - 1518, Courtrai), who died 500 years ago today.
 
@@ -20,9 +19,6 @@ The works of Pierre de la Rue that have survived are an unmistakable sign of his
 
 Pierre de la Rue's body of works mainly includes masses. He was also one of the first composers to write a complete Magnificat cycle. He is also credited with one of the earliest settings of a requiem. Many of his works are documented [in the RISM catalog](https://opac.rism.info/metaopac/perma.do;jsessionid=F887DC55BC13A3420C56209B4AD425A8.touch01?v=rism&q=-1%3d%22pe30001841%22&Language=en){:target="_blank"}.
 
-
 _Image_: Pierre de la Rue, “Et in terra” from Missa Nuncqua fue pena maior, Venezia: Ottaviano Petrucci, 1503; copy in Österreichische Nationalbibliothek (A-Wn) SA.77.C.11, [RISM ID no. 990036505](https://opac.rism.info/search?id=00000990036505&View=rism&Language=en){:target="_blank"}. [Available online](http://data.onb.ac.at/rec/AC09207323){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

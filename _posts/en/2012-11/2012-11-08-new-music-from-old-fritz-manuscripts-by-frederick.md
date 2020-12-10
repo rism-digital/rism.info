@@ -5,12 +5,11 @@ date: 2012-11-08
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_A.I_179__1__17_Seite09-Ausschnitt_6fb539647c.jpg"
+image: "/images/news-old-website/csm_A.I_179__1__17_Seite09-Ausschnitt_6fb539647c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html
 email: helmut.lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
-
 
 "Diese Noten haben Ihro Majestät der König Friederich von Preußen eigenhändig geschrieben."
 _This music was written by Your Majesty the King Frederick of Prussia in his own hand._

@@ -5,12 +5,11 @@ date: 2019-06-19
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Offenbach_-_Cover_a84006ab7c.jpg"
+image: "/images/news-old-website/csm_Offenbach_-_Cover_a84006ab7c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-jacques-offenbach-year-cliches-and-legends.html
 email: Ralf-Olivier.Schwarz@hfmdk-frankfurt.de
 author: Dr. Ralf-Olivier Schwarz
 ---
-
 
 _Gastbeitrag von Dr. Ralf-Olivier Schwarz (Hochschule für Musik und Darstellende Kunst Frankfurt am Main), Autor des neuen Buchs[**Jacques Offenbach – ein europäisches Porträt**](https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/52007/jacques-offenbach) (Böhlau: Köln and Wien, 2018)._
 
@@ -29,9 +28,4 @@ Offenbachs Werk nimmt in vielerlei Hinsicht die Moderne vorweg. So erlebt sein S
 Offenbachs Nachlass ist tatsächlich weit verstreut. Bis heute befinden sich viele Archivalien, der Öffentlichkeit nicht zugänglich, in privaten Sammlungen, nur gelegentlich tauchen einzelne Autographen, Skizzenblätter oder auch andere Objekte aus dem Nachlass bei Auktionen auf – nur um alsbald wieder in einer anderen Privatsammlung zu verschwinden. Natürlich findet sich durchaus Einiges in öffentlichen Bibliotheken, nicht zuletzt in der [Bibliothèque nationale in Paris](https://www.bnf.fr/fr){:target="_blank"}. Hier ist noch lange nicht alles „entdeckt“ – denn auch hier gilt: Die „genres mineurs“, zu denen vielfach die „Operette“ oder genauer: die Offenbach’sche „Opéra-bouffe“ gezählt wird, hat bislang wenig konservatorische Wertschätzung erfahren.
 
 Eine große Ausnahme hingegen ist zu nennen. Nach dem Zweiten Weltkrieg begann das Historische Archiv der Stadt Köln, nicht zuletzt durch den Aufkauf einiger bedeutender Privatsammlungen, einen bedeutenden, ja für jeden Forscher unumgänglichen „Bestand Offenbach“ aufzubauen. Wäre es nicht so tragisch gewesen, so hätte man es für einen geradewegs aus einer Offenbach’schen Opéra-bouffe kommenden „coup de théâtre“ halten können, dass ausgerechnet dieses grandiose Archiv im März 2009 einstürzte und im ach so geschichtsträchtigen Kölner Erdboden versank. Denn hier fanden sich nicht nur prachtvolle Erstdrucke oder Libretti, sondern eben auch Offenbachs gewaltige Korrespondenz, unzählige Skizzenblätter – und nicht zuletzt auch bislang unbeachtete Werke, die der wissenschaftlichen Aufarbeitung harrten. Trotzdem: Es gibt auch die guten Nachrichten im Offenbachjahr 2019. Denn tatsächlich ist, nur zehn Jahre nach dem Einsturz des Stadtarchivs, der weitaus größte Teil des [Offenbach-Bestandes erhalten – und wieder zugänglich](http://historischesarchivkoeln.de:8080/actaproweb/archive.xhtml?id=Best++++00042053HupElko#Best ____ 00042053HupElko){:target="_blank"}! Die Offenbach-Forschung nimmt ihren Lauf, mit einigen jüngeren musik- und geschichtswissenschaftlichen Studien zum Schaffen des Kölner Komponisten, mit mehreren internationalen wissenschaftlichen Symposien 2018 und 2019, die ein neueres Interesse an ihm dokumentieren, und nicht zuletzt auch mit einer neuen Sichtbarkeit, die Offenbach gewinnt, insbesondere auch in seiner Heimatstadt Köln. Von wissenschaftlicher Seite bleibt zwar noch viel zu tun – ein Anfang ist aber gemacht.
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

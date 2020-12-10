@@ -4,13 +4,12 @@ title: Another Exciting Collection from Spitz an der Donau
 date: 2017-05-29
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Spitz_-_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_28fbdb2060.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Spitz_-_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_28fbdb2060.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/another-exciting-collection-from-spitz-an-der-donau.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
-
 
 _We have received the following from Gottfried Heinz-Kronberger ([RISM Germany, Munich Office](http://de.rism.info/de/home.html){:target="_blank"}):_
 
@@ -27,9 +26,3 @@ Niederaltaich Abbey
 Niederaltaich Abbey
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

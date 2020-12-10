@@ -4,13 +4,12 @@ title: Michael Haydn @ RISM
 date: 2012-09-24
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Michaelhaydn2_ef4d655a82.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Michaelhaydn2_ef4d655a82.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/michael-haydn-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 **Johann Michael Haydn** s Geburtstag jährt sich im September diesen Jahres zum 275. Mal. Zum Jubiläumsjahr bietet Salzburg eine Vielfalt von Konzerten und Veranstaltungen, in denen Werke Michael Haydns (14. September 1737, Rohrau – 10. August 1806, Salzburg) zu hören sind. In Kürze erscheint im Carus Verlag eine neue Kurzbiographie unter dem Titel _Außerordentlich beliebt und bekannt … Johann Michael Haydn 1737-1806. Leben. Werk. Zeit._ Vorgelegt von Sabine Kohn und Gerhard Walterskirchen, Stuttgart: Carus 2012.
 

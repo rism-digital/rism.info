@@ -5,12 +5,11 @@ date: 2018-03-19
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Haendel_Incerta_2ecd3ef55e.png"
+image: "/images/news-old-website/csm_Haendel_Incerta_2ecd3ef55e.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
 email: ''
 author: ''
 ---
-
 
 Neu in unserem Bücherregal:
 
@@ -25,5 +24,3 @@ Die ersten vier Abschnitte des Buchs zu Arien und Lieder (Teil I), Duette, Kanta
 _Abbildung:_ Violinstimme eines angeblich von Händel komponierten Violinkonzerts in E-Dur (HWV Anh. B 318). Bayerische Staatsbibliothek (D-Mbs) Mus.ms. 1166, [RISM ID no. 453011722](https://opac.rism.info/search?id=453011722){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

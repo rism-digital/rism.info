@@ -5,12 +5,11 @@ date: 2018-03-15
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
+image: "/images/news-old-website/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lili-boulanger-21-august-1893-15-march-1918.html
 email: abholland@uwalumni.com
 author: Dr. Anya Holland-Barry
 ---
-
 
 _The following is a guest post by Dr. Anya Holland-Barry. She received her PhD in Musicology from the University of Wisconsin at Madison. [Her dissertation](http://digital.library.wisc.edu/1711.dl/W6FF4QHCGRLNW8V){:target="_blank"} is entitled "Lili Boulanger (1893-1918) and World War I France: Mobilizing Motherhood and the Good Suffering."_
 
@@ -31,25 +30,14 @@ Boulanger died not knowing what was to become of France, when the war would be o
 Despite continued interest in Boulanger’s music, no one recorded her works until 1960, when Everest recorded Psaumes 24, 129, 130, _Vieille prière bouddhique_, and _Pie Jesu_, performed by the Lamoureux Orchestra and Chorale Elisabeth Brasseur under Igor Markevitch, Nadia’s student. The recording won the Arthur Honegger Prize for religious music by the Académie du Disque Français for the year 1960–61 [note 3]. In 1983, four years after Nadia’s death, Annette Dieudonné, Cécile Armagnac, Doda Conrad and François Dujarric de la Rivière founded the _Fondation internationale Nadia et Lili Boulanger_, which aimed to perpetuate the memory and music of the Boulanger sisters and provide scholarships to young musicians and composers. In 2001, this organization created and supported the biennial “Nadia and Lili Boulanger International Voice-Piano Competition,” a competition which seeks to financially help singers and pianists under thirty-two years of age who have completed their studies or who are at the beginning of their career. In 2009, the _Fondation internationale Nadia et Lili Boulanger_ reconfigured its name and organization to its current status as the _[Nadia and Lili Boulanger International Centre](http://www.cnlb.fr/enb/centre/acc_centre.html){:target="_blank"}_.
 
 
-
 _Image_: Agence de presse Meurisse: "Lili Boulanger, 1er Grand Prix de Rome de musique" (1913), Bibliothèque nationale de France, département Estampes et photographie, EI-13 (2502), via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b9022337j){:target="_blank"}.
 
 
-
-_ **Notes:** _
+**Notes:**
 
 Note 1: “Procés-Verbal 1913-1914,” Institut de France, Académie des Beaux Arts 66 (July 5, 1913); quoted in Carole Bertho Woolliams, _[Lili Boulanger Compositrice du XXe siècle](http://www.worldcat.org/oclc/610662483){:target="_blank"}_ (Paris: Le Jardin d’Essai, 2009), 34. “Intelligence du sujet. Justesse de la declamation. De la sensibilité et de la chaleur. Sentiment poétique. Orchestre intelligent et coloré. Cantate remarquable.”
 
 Note 2: Auguste Mangeot, “Mlle Lili Boulanger,” _Le Monde musical_ 25 no. 13–14 (July 1913): 173; quoted in Rosenstiel, [_The Life and Works of Lili Boulanger_](http://www.worldcat.org/oclc/903332196){:target="_blank"} (London: Associated University Press, 1978), 80.
 
 Note 3: Rosenstiel, _Life and Works of Lili Boulanger_, 215.
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

@@ -5,12 +5,11 @@ date: 2015-11-19
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Liederdatenbank_12f3940890.png"
+image: "/images/news-old-website/csm_Liederdatenbank_12f3940890.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dutch-song-database.html
 email: ''
 author: ''
 ---
-
 
 Die [Niederländische Liederdatenbank](http://www.liederenbank.nl/){:target="_blank"} ist eine Quelle für Liedtexte auf Niederländisch, Flämisch und Friesisch vom Mittelalter bis zum 20. Jahrhundert. Die Datenbank, die letztes Jahr freigeschaltet wurde, enthält Beschreibungen von über 170.000 Liedern. Links zu Liedtexttranskriptionen, Notenmaterial und Tonaufnahmen sind - sofern verfügbar - vorhanden. Lieder aus anderen Sprachen wie Französisch, Deutsch und Latein sind dann enthalten, wenn sie in den Niederlanden gesungen wurden.
 
@@ -20,9 +19,6 @@ Verschiedene [Sammlungen und Liedrepertorien](http://www.liederenbank.nl/index.p
 
 Sie werden auch die [Mörderballaden](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=moordlied+lbl&submit=zoek&enof=EN-zoeken&zoekop=allewoordenlied&sorteer=jaar&lan=en){:target="_blank"},[Trinklieder](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=drinklied&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=jaar&lan=en){:target="_blank"} und [Lieder über Hunde](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=hond&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=beginregel&lan=en){:target="_blank"} nicht missen wollen.
 
-
 _Abbildung_: Titelblatt _Een schoon liedekens_, auch bekannt als Antwerps Liedboek (source: AntwLb1544). Scan von der [Digitale Bibliotheek voor de Nederlandse Letteren](http://www.dbnl.org/tekst/_ant001antw01_01/){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

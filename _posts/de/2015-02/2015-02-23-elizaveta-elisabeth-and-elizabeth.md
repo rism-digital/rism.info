@@ -5,12 +5,11 @@ date: 2015-02-23
 lang: de
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
+image: "/images/news-old-website/csm_Elizabeth_Alexeevna_by_S.Tonci__after_1801__Russian_museum__c628b95cd5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-from-a-z-elizaveta-elisabeth-and-elizabeth.html
 email: ''
 author: ''
 ---
-
 
 Heute führt uns unsere Serie RISM A-Z durch drei Jahrhunderte – wir werfen einen Blick auf Elizaveta, Elisabeth und Elizabeth.
 
@@ -27,11 +26,8 @@ Hätte doch die RISM-Datenbank schon in den 1950er den Filmemachern der [Sissi-T
 <iframe width="560" height="315" src="//www.youtube.com/embed/8IErjmH0h4A" frameborder="0" allowfullscreen></iframe>
 
 
-
-Die letzte Station unserer kleinen Zeitreise führt uns ins 20. Jahrhundert. In der RISM-Datenbank findet sich ein Werk, das Königin Elizabeth (1900-2002) gewidmet ist, bekannt als Queen Mum. Es handelt sich dabei um [die Schauspielmusik](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} zum Märchenspiel Der Rubin von [Olga Diener](http://www.rism.info/de/startseite/newsdetails/select/self_representation/article/64/rism-a-z-olga-diener.html){:target="_blank"}.
-
+Die letzte Station unserer kleinen Zeitreise führt uns ins 20. Jahrhundert. In der RISM-Datenbank findet sich ein Werk, das Königin Elizabeth (1900-2002) gewidmet ist, bekannt als Queen Mum. Es handelt sich dabei um [die Schauspielmusik](https://opac.rism.info/search?id=400150247&db=251&View=rism){:target="_blank"} zum Märchenspiel Der Rubin von [Olga Diener](/rism_a_z/2014/08/19/olga-diener.html){:target="_blank"}.
 
 
 Bildnachweis: Porträt der Elizaveta Alexievna von Salvatore Tonci ([Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Elizabeth_Alexeevna_by_S.Tonci_%28after_1801,_Russian_museum%29.jpg){:target="_blank"})
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

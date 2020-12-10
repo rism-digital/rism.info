@@ -4,13 +4,12 @@ title: Trnka—who?  Mistaken attributions and their effects
 date: 2018-08-06
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Trnka_eb89ed8f73.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Trnka_eb89ed8f73.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/trnka-who-mistaken-attributions-and-their-effects.html
 email: ''
 author: ''
 ---
-
 
 It is not surprising that music bibliographers find it difficult enough to distinguish between composers with common names, but that this also happens with somewhat rarer names is something we are going to illustrate today using an example from the [RISM A/I series](/publications.html#c36) (works by a single composer printed to 1800).
 
@@ -102,7 +101,6 @@ Cappi & Diabelli (PN 1189)
 1823
 
 
-
 WZ: 26.2.1824
 
 |
@@ -123,7 +121,6 @@ Grande Polonaise, pf
 Diabelli
 
 |
-
 
 
 |
@@ -360,7 +357,6 @@ WZ: 7.2.1835
 |
 
 
-
 |
 |
 
@@ -369,17 +365,13 @@ WZ: 7.2.1835
 |
 
 
+|
+
 
 |
 
 
-
 |
-
-
-
-|
-
 
 
 |
@@ -394,13 +386,10 @@ WZ: 7.2.1835
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -562,7 +551,6 @@ WeinmannS 1972 | D-Dl
 |
 
 ?
-
 
 
 Bei Haslinger z.h.
@@ -861,13 +849,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -882,13 +867,10 @@ WeinmannW 1982 | Hofmeister MB |D-B (Imagekat I)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -924,13 +906,10 @@ MGG1 | WeinmannM 1964 (A-Wgm)
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -1029,13 +1008,10 @@ WeinmannS 1972 | A-Wn
 |
 
 
-
 |
 
 
-
 |
-
 
 
 |
@@ -1102,10 +1078,6 @@ Witzendorf
 Rottensteiner2013
 
 |
-
-
-
-
 Abbreviations:
 [D-B (Imagekat I)](http://musikipac.staatsbibliothek-berlin.de/catalog/toc){:target="_blank"}: Alphabetischer Imagekatalog I der Musikabteilung
 [HofmeisterMB](http://hofmeister.rhul.ac.uk){:target="_blank"}: Hofmeister Monatsberichte online
@@ -1114,4 +1086,3 @@ MGG1: Hilde Hellmann-Stojan, "Trnka, Johann Wenzel," _Musik in Geschichte und Ge
 WeinmannX 19XX: Complete publisher's catalog (of any given publisher. Abbreviations are as they are in RISM).
 WZ: Wiener Zeitung, searchable online through [ANNO](http://anno.onb.ac.at/){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

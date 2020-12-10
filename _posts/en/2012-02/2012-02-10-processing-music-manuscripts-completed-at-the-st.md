@@ -4,13 +4,12 @@ title: Processing Music Manuscripts Completed at the St. Boniface Abbey Library,
 date: 2012-02-10
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Mb_Kronberger_2012_4ec1262442.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Mb_Kronberger_2012_4ec1262442.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/processing-music-manuscripts-completed-at-the-st-boniface-abbey-library-munich-d-mb.html
 email: ''
 author: ''
 ---
-
 
 The abbot of the St. Boniface Abbey in Munich, RR Johannes Eckert, was presented with a catalog of the music manuscripts in his abbey library on January 20, 2012. This brought to a close the inventorying of manuscripts by Dr. Gottfried Heinz-Kronberger, from the RISM working group in Germany.
 

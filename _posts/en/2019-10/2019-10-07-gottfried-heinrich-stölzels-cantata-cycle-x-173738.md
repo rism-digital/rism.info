@@ -4,13 +4,12 @@ title: Gottfried Heinrich Stölzel's Cantata Cycle X (1737/38)
 date: 2019-10-07
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
 email: christian.ahrens@me.com
 author: Christian Ahrens
 ---
-
 
 _We have received the following from Christian Ahrens (Berlin):_
 
@@ -33,5 +32,3 @@ Opening choruses from cantatas belonging to Stölzel's cycle X can be found in a
 _Image_: Title page of the libretto to the cantata cycle. Forschungsbibliothek Gotha der Universität Erfurt, Cant.spir 8° 878. Image courtesy of the author (CC BY-SA).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

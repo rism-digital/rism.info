@@ -4,13 +4,12 @@ title: Digitized Opera Scores at the German Historical Institute in Rome
 date: 2015-09-07
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
 email: pfeiffer@dhi-roma.it
 author: Roland Pfeiffer
 ---
-
 
 _We have received this report from Roland Pfeiffer:_
 
@@ -21,9 +20,6 @@ Most of the scores are manuscript copies held by the private library of the Mass
 In addition, 36 complete opera scores (dating to around 1770) and 28 collections of arias from the Archivio Doria Pamphilj in Rome were digitized, plus ca. 125 fascicles of arias and ensembles. After digitization, tables of contents and bookmarks were added to all of the files to ease consultation. The digitized scores can be viewed at the Music History Research Library of the DHI in Rome. Around 150 detailed records for opera scores from the Massimo private library are [now available in the RISM online catalog](https://opac.rism.info/search?View=rism&siglum=I-Rmassimo){:target="_blank"}. The records contain general information about the manuscripts plus incipits of all the musical numbers, adding a total of around 8,800 music incipits to the database.
 
 
-
 _Image_: The manuscripts by one of the main copyists from the Cencetti workshop can be distinguished by an unmistakable abbreviation for the violins.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

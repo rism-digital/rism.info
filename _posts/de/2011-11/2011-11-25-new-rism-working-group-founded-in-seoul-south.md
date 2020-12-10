@@ -4,13 +4,12 @@ title: Neue RISM Arbeitsgruppe in Seoul (Südkorea) gegründet
 date: 2011-11-25
 lang: de
 post: true
-category: self_representation
-image: "/uploads/pics/Logo_Suedkorea_01.jpg"
+category: new_at_rism
+image: "/resources-old-website/pics/Logo_Suedkorea_01.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
 email: 64ehkim@ewha.ac.kr
 author: Dr. Eun-Ha Kim
 ---
-
 
 Das [Institut für Musikforschung an der Ewha Frauen Universität](http://musicie.ewha.ac.kr/){:target="_blank"} (Ewha Womans University) in Seoul (Südkorea) beginnt Dank einer staatlichen Unterstützung mit der Dokumentation bzw. dem Aufbau einer Datenbank von musikalischen Quellen aus Korea als auch aus Ostasien.
 

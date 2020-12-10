@@ -4,13 +4,12 @@ title: 'Karin Weißert: Praktikumsbericht'
 date: 2020-03-26
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Logo_09_d0bbb2c881.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert
 ---
-
 
 Im Rahmen des Bachelor-Studienganges im Fach Musikwissenschaft an der Goethe-Universität Frankfurt am Main gehört ein kleines Praktikum von 150 Stunden mit zum Ausbildungsgang.
 
@@ -26,4 +25,3 @@ Allein in meiner kurzen Praktikumszeit von fünf Wochen bin ich in acht verschie
 
 Beides, die Vielseitigkeit und die Selbständigkeit haben die Zeit wie im Fluge vergehen lassen, sodass keinerlei Langeweile oder das Gefühl, überflüssig zu sein, aufkam. Die Zeit bei RISM hat mir eine anregende und äußerst zufriedenstellende Erweiterung meiner Kenntnisse gebracht, und ich konnte dabei ein interessantes Umfeld für eine berufliche Tätigkeit näher kennenlernen.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

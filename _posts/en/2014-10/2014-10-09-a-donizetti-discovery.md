@@ -4,13 +4,12 @@ title: A Donizetti Discovery
 date: 2014-10-09
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Donizetti_dd1e9e1237.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Donizetti_dd1e9e1237.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-donizetti-discovery.html
 email: ''
 author: ''
 ---
-
 
 _The following entry is by Nicolas Bell and originally appeared on the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/09/a-donizetti-discovery.html#){:target="_blank"}. It is reprinted here with kind permission._
 
@@ -23,5 +22,3 @@ At first the music appears to be a conflation of two pieces: the opening 'Larghe
 Some questions remain about exactly when and for what purpose this manuscript was written, and various proposals are made in Christopher Scobie's article. The complete manuscript is available on our[Digitised Manuscripts](http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Zweig_MS_33)website, and see our earlier[blog post](http://britishlibrary.typepad.co.uk/music/2012/09/british-library-journal-34-music-articles-now-available-online.html)for a list of other music-related articles in the[British Library Journal](http://www.bl.uk/eblj/index.html).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

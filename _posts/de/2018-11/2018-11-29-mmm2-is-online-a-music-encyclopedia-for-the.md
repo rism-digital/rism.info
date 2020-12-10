@@ -5,12 +5,11 @@ date: 2018-11-29
 lang: de
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_MMM2-Logo-Gruen_69367a1c94.png"
+image: "/images/news-old-website/csm_MMM2-Logo-Gruen_69367a1c94.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
 email: kontakt@mugemir.de
 author: Martin Bierwisch
 ---
-
 
 Kennen Sie schon das Online-Lexikon _Musik und Musiker am Mittelrhein 2_? Herausgegeben im Auftrag der _Arbeitsgemeinschaft für mittelrheinische Musikgeschichte e. V._, ist es seit Samstag, den 20. Oktober, mit den ersten 250 Artikeln frei zugänglich unter: **[www.mmm2.mugemir.de](http://www.mmm2.mugemir.de){:target="_blank"}**
 
@@ -20,4 +19,3 @@ Neben einem biographischen Abriss gibt es eine Übersicht zu den jeweiligen Werk
 
 Weitere Artikel werden nach und nach hinzugefügt werden. Sollten Sie Interesse haben, die Herausgeber mit Artikeln oder Anregungen zu unterstützen, können Sie sich an kontakt@mugemir.de wenden.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

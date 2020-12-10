@@ -4,13 +4,12 @@ title: Der Kantatenjahrgang X (1737/38) von Gottfried Heinrich Stölzel
 date: 2019-10-07
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
 email: christian.ahrens@me.com
 author: Christian Ahrens
 ---
-
 
 _Wir_ _haben den folgenden Beitrag von Christian Ahrens (Berlin) erhalten:_
 
@@ -31,9 +30,6 @@ Eine wichtige Quelle für den Kantatenjahrgang X ist die [Handschrift Am.B 568](
 Eingangschöre von Kantaten des Stölzelschen Jahrgangs X finden sich in einer weiteren Sammelhandschrift der Staatsbibliothek Berlin: [Am.B 597](https://opac.rism.info/search?View=rism&id=452506520&Language=de){:target="_blank"} – Hennenberg hatte sie in seiner Arbeit nicht berücksichtigte; auch Hell erwähnt sie nicht. Der handschriftliche Titel aus späterer Zeit auf dem Umschlag lautet: „Fünfundzwanzig Kirchenmusiken für bestimmte Sonntage“, ein Komponistenname fehlt. Wie bekannt, stammen alle Kantaten, von denen ebenfalls nur die Eingangschöre notiert sind, von Stölzel. Vier Kantaten zählen zum Jahrgang X (Nummern des Textdrucks 9; 10; 18; 19<sup>;</sup> Am.B 597 (3–6). Für diese und weitere Hinweise auf Doppelüberlieferungen danke ich dem Kollegen Bert Siegmund, Stiftung Kloster Michaelstein, der derzeit ein Stölzel-Werkverzeichnis vorbereitet. Es handelt sich ausnahmslos um Dubletten, die Kantaten sind in Mus.ms. 40370 jeweils vollständig überliefert. Die restlichen 21 Eingangschöre gehören zum Jahrgang XII (1743/44). Ein Textdruck zu diesem Jahrgang befindet sich in der Forschungsbibliothek Gotha der Universität Erfurt; Signatur Cant.spir 8° 876.
 
 
-
 _Abbildung_: Titelseite des Librettos des Kantatenzyklus. Forschungsbibliothek Gotha der Universität Erfurt, Cant.spir 8° 878. Abbildung mit freundlicher Genehmigung des Autors (CC BY-SA).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

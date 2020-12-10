@@ -5,12 +5,11 @@ date: 2014-03-17
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Anne__Queen_statue_8e56f801b0.jpg"
+image: "/images/news-old-website/csm_Anne__Queen_statue_8e56f801b0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-a-z-queen-anne.html
 email: ''
 author: ''
 ---
-
 
 Inspired by a blog series at the [National Library of the Netherlands](https://www.kb.nl/blogs/nederlandse-poezie/gedichten-van-a-tot-z-annabel){:target="_blank"}, this year we would like to invite you to accompany us on an alphabetical journey through the rich and varied treasures that await you in the RISM database. Throughout the year, we will present you with something drawn from over 860,000 sources in the database, representing nearly 80,000 people and 13,000 institutions.
 
@@ -36,20 +35,9 @@ To find music mentioning Queen Ann in the RISM online catalog, perform an [Advan
 
 Below is a performance of the first alto solo from Handel's birthday ode to the Queen of 1714 (composed 1713), her last. This is "Eternal source of light divine" (HWV 74; [autograph manuscript at the British Library](http://opac.rism.info/search?documentid=804002342){:target="_blank"}), featuring Kathleen Battle and Wynton Marsalis.
 
-
-
-
-
 <iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/2MuCCbg0k_0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
 
 
 Picture credit: [Photo by Paul Farmer](http://www.geograph.org.uk/photo/1142443){:target="_blank"}. Statue of Queen Anne in London. Statue stands against the north wall of 15 Queen Anne's Gate but was situated on the east side of Queen Anne's Square when first recorded in 1708. © Copyright [Paul Farmer](http://www.geograph.org.uk/profile/32427) and licensed for reuse under this [Creative Commons Licence.](http://creativecommons.org/licenses/by-sa/2.0/)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

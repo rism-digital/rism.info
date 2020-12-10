@@ -5,12 +5,11 @@ date: 2020-04-20
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
+image: "/images/news-old-website/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-tutorial-in-german.html
 email: ''
 author: ''
 ---
-
 
 We are pleased to announce the release of a new tutorial in German about the RISM project and the online catalog. [Musikwissenschaft: RISM – Internationales Quellenlexikon der Musik](https://youtu.be/K34u716Uwmk){:target="_blank"} was produced by the musicology department of the Universität Tübingen as part of the series “Tübinger Tutorials zur Musikwissenschaft.”
 
@@ -23,5 +22,3 @@ The RISM video covers the importance of musical sources, the structure of RISM�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K34u716Uwmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2017-10-30
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Reformation_500_c5d204eca4.jpg"
+image: "/images/news-old-website/csm_Reformation_500_c5d204eca4.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-years-of-the-protestant-reformation.html
 email: ''
 author: ''
 ---
-
 
 Reformation Day is celebrated by Protestants and is an important religious holiday in German-speaking countries. In Germany and Austria, October 31 marks the beginning of the Protestant Reformation by Martin Luther. The first Sunday in November is celebrated as Reformation Sunday in Switzerland.
 
@@ -34,8 +33,3 @@ And around 90 sources await you if you would like to know what compositions were
 
 _Image_: Wilhelm Schneider (1783-1843), Ein' feste Burg ist unser Gott. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), Dresden (D-Dl [Mus.4646-E-501](http://digital.slub-dresden.de/id454508255){:target="_blank"}, RISM ID no. [211005300](https://opac.rism.info/search?id=211005300&Language=en){:target="_blank"}).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,22 +5,20 @@ date: 2019-03-14
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
+image: "/images/news-old-website/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
 email: ''
 author: ''
 ---
-
 
 Termin: 9. - 11. Mai 2019
 Ort: Akademie der Wissenschaften und der Literatur
 Geschwister-Scholl-Str. 2
 55131 Mainz
 
-Anmeldung: [Anmeldeformular](https://goo.gl/forms/PcmsxMznK8EWFaFV2 "Opens window for sending email")
+Anmeldung: [Anmeldeformular](https://goo.gl/forms/PcmsxMznK8EWFaFV2)
 
 _Die Konferenz ist kostenfrei und öffentlich. Wir bitten um Anmeldung bis 5. April 2019._
-
 
 
 **Konferenz mit Workshop:**  **Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM**
@@ -33,12 +31,6 @@ Dennoch sind die Werktitel im Bibliotheksbereich ein wichtiges Hilfsmittel, mit 
 
 Die Konferenz mit Workshop soll die unterschiedlichen Standpunkte und Erwartungen von Musikwissenschaftlern und Bibliothekaren zur Sprache bringen und Lösungsansätze für RISM als Projekt zwischen beiden Seiten erarbeiten.
 
-Weitere Information befinden sich auf der [Konferenz-Webseite](/de/publikationen/werkebene-2019.html).
+Weitere Information befinden sich auf der [Konferenz-Webseite](/publications/conferences/work-level-2019.html).
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

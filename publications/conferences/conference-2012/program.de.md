@@ -69,10 +69,6 @@ Vorsitz: Richard Chesser
 **Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2275)
 
-
-
-
-
 # Dienstag, 5. Juni 2012
 
 09.00 - 11.00 **Workshop**  **für RISM Ländergruppen**. Gestaltung eigener Websites im Rahmen von rism.info  
@@ -109,7 +105,6 @@ Vorsitz: Christoph Wolff (Präsident, RISM Commission Mixte)
 
 **Antonio Ezquerro Esteban** (Spanien): Cataloging Musical Sources: Spain and RISM. From Higinio Anglés to New Challenges  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2279)
-
 
 
 **Andrea Hartmann** (RISMArbeitsgruppe Deutschland): Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden  
@@ -149,7 +144,6 @@ Vorsitz: Catherine Massip (Bibliothèque nationale de France)
 Mitglieder von Barock vokal und das Neumeyer Consort unter Leitung von Felix Koch spielen Werke von Johann Christian Bach (in der Bearbeitung von Wolfgang Amadeus Mozart), Giovanni Battista Bononcini, Arcangelo Corelli, Georg Friedrich Händel und Georg Philipp Telemann.
 
 # Mittwoch, 6. Juni
-
 
 
 9.00 Fortsetzung Vollversammlung

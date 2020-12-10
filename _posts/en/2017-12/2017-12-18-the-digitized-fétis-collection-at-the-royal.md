@@ -5,14 +5,13 @@ date: 2017-12-18
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Fetis_KBR_Monteverdi_Phalesius_cover_45f64f7b11.png"
+image: "/images/news-old-website/csm_Fetis_KBR_Monteverdi_Phalesius_cover_45f64f7b11.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-digitized-fetis-collection-at-the-royal-library-of-belgium.html
 email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---
 
-
-_We have received this announcement from Kris De Baerdemacker ([RISM Belgium](/workgroups/belgium-rism-belgium/home.html)/[Royal Library of Belgium](https://www.kbr.be/){:target="_blank"}):_
+_We have received this announcement from Kris De Baerdemacker ([RISM Belgium](/international/working-groups.html)/[Royal Library of Belgium](https://www.kbr.be/){:target="_blank"}):_
 
 The Royal Library of Belgium (B-Br) has recently digitized over 1,000 sources from the Fétis collection (more information in [French](https://www.kbr.be/fr/fonds-francois-joseph-fetis){:target="_blank"} and [Dutch](https://www.kbr.be/nl/fonds-francois-joseph-fetis){:target="_blank"}). Old prints from his music library are now available online and include treatises on music theory, masses (Jacobus Obrecht, Alexander Agricola), motets (Giaches de Wert, Pierre de la Rue, Nicolas Gombert), madrigals (Adriaan Willaert, Philippus de Monte), operas by Monteverdi, Peri, Händel, Lully, Gluck, Grétry, catalogs of music publishers, libretti and much more. This is part of a larger project to entirely digitize the Fétis collection and new items will be added. Over [1,300 links](https://opac.rism.info/search?View=rism&siglum=B-Br&Language=en){:target="_blank"} have been added to printed editions in RISM (A/I and B/I) so far.
 
@@ -23,5 +22,3 @@ Fétis founded the_Revue musicale_in 1827, wrote numerous articles in the_Revue 
 _Image_: This is a “Belgian” print of Monteverdi madrigals by Petrus Phalesius. Monteverdi was one of the composers featured during the ‘concerts historiques’: fragments from _Orfeo_ (a print is also in the Fétis collection) were performed during the first ‘concert historique’ in the Paris Conservatory on 8 April 1832. Claudio Monteverdi, _Il quarto libro de madrigali a cinque voci_. Antwerp: Pierre Phalèse, 1615. [B-Br Fétis 2.268 A (RP)](http://uurl.kbr.be/1563155){:target="_blank"}. RISM A/I: [M 3472](https://opac.rism.info/search?id=00000990042069){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

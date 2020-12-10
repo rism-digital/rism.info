@@ -4,15 +4,14 @@ title: Musik-Nachlässe in der BSB
 date: 2014-11-11
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Musik-Nachlaesse_Reger_a0cc20a445.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Musik-Nachlaesse_Reger_a0cc20a445.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-archival-collections-at-the-bavarian-state-library.html
 email: Uta.Schaumberg@bsb-muenchen.de
 author: Uta Schaumberg
 ---
 
-
-Die Bayerische Staatsbibliothek verwahrt über 350 Nachlässe und personenbezogene Sammlungen aus dem Musikbereich. Die Erschließung und Benutzung dieser Bestände erfolgen in zwei getrennten Abteilungen: Für die Musikhandschriften, Notendrucke und Tonträger ist die Musikabteilung zuständig, für alle weiteren Nachlassinhalte wie Korrespondenz, Schriften, Dokumente, Bildmaterial usw. das Referat Nachlässe und Autographen der Abteilung Handschriften und Alte Drucke. - See more at: [www.rism.info/de/startseite/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html](http://www.rism.info/de/startseite/newsdetails/article/2/music-archives-at-the-bavarian-state-libary.html#sthash.grGLKHbZ.dpuf)
+Die Bayerische Staatsbibliothek verwahrt über 350 Nachlässe und personenbezogene Sammlungen aus dem Musikbereich. Die Erschließung und Benutzung dieser Bestände erfolgen in zwei getrennten Abteilungen: Für die Musikhandschriften, Notendrucke und Tonträger ist die Musikabteilung zuständig, für alle weiteren Nachlassinhalte wie Korrespondenz, Schriften, Dokumente, Bildmaterial usw. das Referat Nachlässe und Autographen der Abteilung Handschriften und Alte Drucke.
 
 _Der nachfolgende Artikel wurde von unserer Kollegin Uta Schaumberg_ _(RISM Arbeitsgruppe Deutschland, [Bayrische Staatsbibliothek, Musikabteilung](https://www.bsb-muenchen.de/die-bayerische-staatsbibliothek/abteilungen/musikabteilung/){:target="_blank"}) geschrieben._
 
@@ -26,10 +25,5 @@ Die autographen Musikhandschriften der prominentesten Komponisten liegen bereits
 
 Bildnachweis: Max Reger, Gesänge, op. 144, „Der Einsiedler,“ [BSB Mus.ms. 21233](http://daten.digitale-sammlungen.de/bsb00049593/image_7){:target="_blank"}
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

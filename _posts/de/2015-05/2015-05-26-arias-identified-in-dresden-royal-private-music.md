@@ -4,16 +4,14 @@ title: Zuordnung einzelner Arien in der Dresdener Königlichen Privat-Musikalien
 date: 2015-05-26
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/arias-identified-in-dresden-royal-private-music-collection.html
 email: Roberto.Scoccimarro@slub-dresden.de
 author: Roberto Scoccimarro
 ---
 
-
 _Unser Kollege Roberto Scoccimarro von der SLUB in Dresden (D-Dl) schrieb diese Neuigkeiten zum__[Dresdener Hofmusik](http://hofmusik.slub-dresden.de/news/details/single/neue-zuschreibungen-bei-den-ariensammlungen/){:target="_blank"}_ _Projekt._
-
 
 
 Die einzeln überlieferten Arien der "Königlichen Privat-Musikaliensammlung" bieten aufregende Überraschungen in den Bereichen der Komponistenzuschreibung und der Zuordnung von Arien zur zugehörigen Oper.
@@ -31,5 +29,3 @@ Nicht selten sind falsche Zuschreibungen auch das Ergebnis bibliothekarischen Ei
 Als letztes Beispiel seien hier [zwei anonym](https://opac.rism.info/search?id=212008731 "D-Dl Mus.1-F-49,14-1") [überlieferte Arien](https://opac.rism.info/search?id=212008732 "D-Dl Mus.1-F-49,14-2") erwähnt, die sich als Kompositionen des Prinzen Anton von Sachsen, Sohn von Maria Antonia und Friedrich Christian von Sachsen, entpuppt haben, die dieser 1775 für sein Bühnenwerk _L’isola disabitata_ schrieb (RISM ID no. [212008731](https://opac.rism.info/search?id=212008731){:target="_blank"} und [212008732](https://opac.rism.info/search?id=212008732){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

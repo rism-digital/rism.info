@@ -4,13 +4,12 @@ title: Arien aus St. Petersburg
 date: 2014-12-08
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Petersburg_4e2be750b5.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
 email: ''
 author: ''
 ---
-
 
 Sicherlich liegt dieses Jahr die neue CD [St. Petersburg von Cecilia Bartoli](http://ceciliabartolionline.com/st-petersburg/){:target="_blank"} als Geschenk unter vielen Weihnachtsbäumen.
 
@@ -24,4 +23,3 @@ Andere Arien - als die auf der CD wiedergegebene - aus seiner Oper _Siroe_ werde
 
 Bildnachweis: [Mariinsky.ru:](http://www.mariinsky.ru/en/about/history_theatre/mariinsky_theatre/) The Mariinsky Theatre prior to reconstruction in 1885, designed by the architect Alberto Cavos
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

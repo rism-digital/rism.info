@@ -5,12 +5,11 @@ date: 2017-08-28
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
+image: "/images/news-old-website/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pietro-nardini-thematic-catalog.html
 email: ''
 author: ''
 ---
-
 
 New on our bookshelves is a thematic catalog for Pietro Nardini:
 
@@ -35,7 +34,5 @@ The RISM online catalog has [280 listings for Pietro Nardini](https://opac.rism.
 We would like to thank the authors and the publisher for kindly providing us with an examination copy of the catalog.
 
 
-
 Image: Portrait of Pietro Nardini (ca. 1782), from [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8422944h/f1.item){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

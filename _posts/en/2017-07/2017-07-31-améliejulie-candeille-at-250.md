@@ -5,12 +5,11 @@ date: 2017-07-31
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
+image: "/images/news-old-website/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amelie-julie-candeille-at-250.html
 email: ''
 author: ''
 ---
-
 
 Child prodigy, singer, actress, composer, librettist, harpist, pianist, playwright, comedian, or maybe simply polymath...few of the people in the RISM database can lay claim to so many roles. Amélie-Julie Candeille (1767-1834), who was born 250 years ago today, found success on a number of fronts in Parisian musical life and was one of the most successful women composers at the time of the French Revolution.
 
@@ -21,7 +20,6 @@ It was at the République that Candeille found acclaim with the comedy _Catherin
 _Catherine_ was extremely popular in Paris and abroad (it was performed in Amsterdam as _Catherine, of De schoone pachtster_) and was revived throughout most of the rest of Candeille's life (see the image, above, from 1818, in which Rose Dupuis takes on the title role). The opera found widespread circulation in print, which can be seen by the [sources in the RISM catalog](https://opac.rism.info/search?View=rism&author=Am%C3%A9lie+Julie+Candeille&Language=en "external-link-new-window"): nearly half of the 23 items for imprints by Candeille are excerpts from this opera.
 
 As might be expected with a composer whose career was made in Paris, a third of RISM's sources for Candeille are found at the Bibliothèque nationale de France (F-Pn). [Gallica](http://gallica.bnf.fr/){:target="_blank"} has seven scores available digitally, which actually gives a good overview of Candeille's oeuvre: three excerpts from Catherine, music from _La jeune hôtesse_, piano sonatas (including [one](http://gallica.bnf.fr/ark:/12148/btv1b9078684g){:target="_blank"} dedicated to [Hélène de Montgeroult](/rism_a_z/2017/02/16/hélèneantoinettemarie-de-montgeroult-17641836.html){:target="_blank"}), and a [piano concerto](http://gallica.bnf.fr/ark:/12148/btv1b9057901c){:target="_blank"}. Links to the items in Gallica have been added to the RISM records, which will be visible with the next catalog update.
-
 
 
 Sources:
@@ -35,5 +33,3 @@ Julian Rushton, et al. "Candeille, Julie." [Grove Music Online. Oxford Music Onl
 _Image_: Rose Dupuis performing the role of Catherine in _Catherine ou La belle fermière_ by Julie Candeille. Illustration by Atelier Maleuvre, Paris, 1818. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b6400634h/f1.item){:target="_blank"} (Bibliothèque nationale de France).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,13 +4,12 @@ title: Was this book of Pleyel sonatas once part of Jane Austen's circle?
 date: 2020-06-18
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_pleyel_austen_music_00430bd055.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_pleyel_austen_music_00430bd055.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
 email: ''
 author: ''
 ---
-
 
 Music is part of the atmosphere of any Jane Austen novel. [Eighteen music books containing almost 600 pieces](https://archive.org/details/austenfamilymusicbooks?tab=about){:target="_blank"} in print and manuscript form and belonging to the Austen family [were digitized in 2016](/electronic_resources/2016/03/21/jane-austens-music-collection-now-online.html){:target="_blank"}. We know that the novelist used or compiled several of the books herself, representing some of the few surviving physical artifacts from Austen's life. The books are currently on deposit at the University of Southampton library.
 
@@ -25,7 +24,5 @@ In her article, Kimber also details the role of the piano in the lives of women 
 You can also read some more background information by Kimber on the [Rita Benson Music Library's blog](https://blog.lib.uiowa.edu/rbml/2020/04/06/sounds-from-the-field-jane-austen-in-the-age-of-digital-discovery/){:target="_blank"}.
 
 
-
 _Image_: Cover and p. 23 of Pleyel's Sonata II in G, Allegro, which contains the handwritten reminder "Practice this." US-IO FOLIO M322 .P5 B.431-436 1800; [RISM ID no. 990051014](https://opac.rism.info/search?id=990051014&View=rism&Language=en){:target="_blank"}. [Available online](http://digital.lib.uiowa.edu/cdm/ref/collection/pleyel/id/4296){:target="_blank"} (public domain).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

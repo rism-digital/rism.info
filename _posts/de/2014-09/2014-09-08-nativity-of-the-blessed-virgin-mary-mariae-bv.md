@@ -4,13 +4,12 @@ title: 'Mariä Geburt: Mariae (B.V.) Nativitas'
 date: 2014-09-08
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Mariae_Geburt_d969d78f72.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Mariae_Geburt_d969d78f72.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
 email: ''
 author: ''
 ---
-
 
 Am 8. September wird im Kirchenjahr der katholischen Kirche, den orthodoxen Kirchen und der anglikanischen Kirche an die Geburt Mariens erinnert. Das Fest Mariä Geburt (In Nativitate B.M.V.) wird auch Kleiner Frauentag genannt und hat seine Ursprünge im Orient. Es ist wahrscheinlich aus dem Kirchweihfest der St. Anna-Kirche am Teich Bethesda in Jerusalem hervorgegangen, die am überlieferten Wohnort von Anna und Joachim errichtet wurde, der auch als Geburtsort Mariens gilt. Allgemeine Verbreitung fand das Fest im 11. Jahrhundert, wobei das Datum dieses Festes kein historisch bewiesenes, sondern ein mögliches Datum ist.
 
@@ -39,17 +38,7 @@ Die weiteren Marienfeste sind:
 8. Dezember - Maria Empfängnis - Mariae (B.V.) Conceptio Immaculata
 
 
-
 Und noch ein Hinweis zu guter Letzt: Die Suchfilter in der linken Spalte helfen Ihnen die Trefferliste einzugrenzen.
 
-
-
-
-
 Bild: Domenico Ghirlandaio, _Natività di Mari__a,_ Cappella Tornabuoni, 1485-1490, Fresko,Firenze,basilica di Santa Maria Novella, [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-
-
 

@@ -5,12 +5,11 @@ date: 2018-08-16
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_China_2018_R-Projekte_a99c431507.png"
+image: "/images/news-old-website/csm_China_2018_R-Projekte_a99c431507.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-r-projects-in-beijing.html
 email: ''
 author: ''
 ---
-
 
 RISM ist eines von vier großen internationalen musikbibliographischen Unternehmungen, den sogenannten R-Projekten. Während RISM Quellen zur Musk verzeichnet, weist [RILM](http://www.rilm.org/){:target="_blank"} Literatur nach, [RIdIM](http://www.ridim.org/){:target="_blank"} befasst sich mit Musikikonographie und [RIPM](http://www.ripm.org/){:target="_blank"} mit Musikzeitschriften. Seit einiger Zeit haben diese Projekte ihre Zusammenarbeit verstärkt und bieten eine gemeinsame Website an: [http://www.r-musicprojects.org/](http://www.r-musicprojects.org/), die Kurzdarstellungen für jedes R-Projekt bietet.
 
@@ -22,4 +21,3 @@ Das Forum insgesamt wurde getragen von sechs internationalen Gesellschaften: [In
 
 Die gemeinsamen Auftritte der Projektvertreter sind für alle von großem Nutzen. RISM konnte in deren Folge Initiativen in China, Mexiko, Kuba und Chile anstoßen. Eine Folge dieser Besuche war auch die Konferenz “[Documenting Musical Sources in Latin America](http://www.rism.info/publications/latin-america-conference-2016/){:target="_blank"}” im September 2016 in Mainz.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

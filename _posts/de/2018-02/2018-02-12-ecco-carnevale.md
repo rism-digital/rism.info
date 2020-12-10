@@ -5,12 +5,11 @@ date: 2018-02-12
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Karneval-250936_1920_32a664a472.jpg"
+image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ecco-carnevale.html
 email: ''
 author: ''
 ---
-
 
 Am heutigen Rosenmontag machen wir einen Karnevalsspaziergang durch die Jahrhunderte.
 
@@ -35,9 +34,6 @@ Und zu guter Letzt noch ein Beispiel aus dem 20. Jahrhundert, denn auch der beka
 Nachtrag zur Überschrift: _Ecco carnevale_ stammt übrigens von Pier Francesco Valentini (1586-1654; RISM ID no. [850015550](https://opac.rism.info/search?id=850015550){:target="_blank"}).
 
 
-
 _Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2016-01-07
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
+image: "/images/news-old-website/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
 email: ''
 author: ''
 ---
-
 
 New year, new discovery: musicologist Suvi-Päivi Koski has uncovered the oldest known complete Finnish songbook at the SLUB in Dresden, according to the [SLUBlog](http://blog.slub-dresden.de/beitrag/2016/01/04/aeltestes-vollstaendiges-finnisches-gesangbuch-entdeckt/){:target="_blank"}. It is entitled _Yxi Wähä Suomenkielinen Wirsikiria_ ("A small Finnish songbook"), published by Hemmingius Henrici Maschoensis, and was printed in 1607 in Rostock, Germany.
 
@@ -22,8 +21,3 @@ The songbook is digitized and [available online](http://digital.slub-dresden.de/
 
 Image: Title page to _Yxi Wähä Suomenkielinen Wirsikiria_, SLUB Dresden, Lit.var.167,misc.1, [http://digital.slub-dresden.de/id425718670](http://digital.slub-dresden.de/id425718670) (CC-BY-SA 4.0).
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

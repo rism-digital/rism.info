@@ -4,13 +4,12 @@ title: 500 Years of the “Liber selectarum cantionum”
 date: 2020-04-27
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_500_Jahre_Liber_selectarum_acab537a28.png"
+category: in_the_news
+image: "/images/news-old-website/csm_500_Jahre_Liber_selectarum_acab537a28.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-years-of-the-liber-selectarum-cantionum.html
 email: ''
 author: ''
 ---
-
 
 In RISM’s catalog of anthologies from the 16th century ([Series B/I](/publications.html#c2619)), we find a total of six entries from the year 1520. Four of these are motet collections, and the other two are a collection of frottolas and one of chansons. Over twenty copies from the anthology _[Liber selectarum cantionum](https://opac.rism.info/search?id=993103921&View=rism){:target="_blank"}_ are preserved.
 
@@ -21,5 +20,3 @@ It is unclear what occasioned this book to come about. Perhaps it was commission
 _Image_: Title page of the _Liber selectarum cantionum_ from the copy held by the [Württembergische Landesbibliothek](http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3701648148){:target="_blank"} (D-Sl Ra16Lib1).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

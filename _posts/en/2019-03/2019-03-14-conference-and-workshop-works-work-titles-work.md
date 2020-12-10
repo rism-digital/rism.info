@@ -5,12 +5,11 @@ date: 2019-03-14
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
+image: "/images/news-old-website/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
 email: ''
 author: ''
 ---
-
 
 Dates: May 9-11, 2019
 Location: Akademie der Wissenschaften und der Literatur
@@ -23,7 +22,6 @@ Registration: [Registration form
 _The conference is free and open to the public. Please help us plan by registering by 5 April 2019._
 
 
-
 **Conference and Workshop:**  **Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**
 
 Libraries worldwide have been discussing work titles with increasing intensity. Transferring this idea to musical works seems particularly feasible at first glance, seeing as the production of catalogs of works has a tradition of more than 100 years in musicology.
@@ -34,12 +32,6 @@ Nevertheless, work titles in libraries are an important tool with which musical 
 
 The conference and workshop is intended to enable a dialogue for the different points of view and expectations of musicologists and librarians and to develop solutions for RISM as a project between the two sides.
 
-More information can be found [on the conference website](/publications/introducing-a-work-level-in-rism-2019.html).
+More information can be found [on the conference website](/publications/conferences/work-level-2019.html).
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

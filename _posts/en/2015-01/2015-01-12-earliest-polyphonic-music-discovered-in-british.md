@@ -4,13 +4,12 @@ title: "'Earliest' polyphonic music discovered in British Library"
 date: 2015-01-12
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Polyphonic_music_5c5b927d53.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
 author: ''
 ---
-
 
 _The following entry is by Nicolas Bell and originally appeared on the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/12/earliest-polyphonic-music-discovered-in-british-library.html){:target="_blank"}. It is reprinted here with kind permission._
 
@@ -21,7 +20,6 @@ The British Library Music Blog has been quiet for a while, but plenty has been g
 Reports emerged recently in the press (including[here](http://www.theguardian.com/music/2014/dec/17/polyphonic-music-fragment-origins-rewritten)and[here](http://www.telegraph.co.uk/culture/music/music-news/11297635/Manuscript-showing-birth-of-1000-years-of-choral-music-discovered.html)) of the discovery in the British Library of the earliest piece of polyphonic music. Can this strange coded message really rewrite the history of choral music by shifting the earliest known harmony back by more than a century? Let’s take a closer look…
 
 ![Harley_ms_3019_f56v](http://britishlibrary.typepad.co.uk/.a/6a00d8341c464853ef01b8d0ac4d70970c-pi)
-
 
 The music consists of a brief inscription written in the blank space at the end of a short manuscript of the life of the fourth-century bishop Maternianus of Riems, written down in the early tenth century. When the manuscript was received as part of the[Harley Collection](http://www.bl.uk/reshelp/findhelprestype/manuscripts/harleymss/harleymss.html)in 1753, nobody paid any attention to these scribblings: the fact that our predecessors chose to deface them with the British Museum stamp is regrettable, but also provides clear evidence that they were not thought to have any significance.
 
@@ -44,4 +42,3 @@ Everything suggests that these unusual signs were written at the same time as th
 
 So, withinthis very particular frame of reference, this is the very first music manuscript in the history of harmony in the Western tradition, and draws our knowledge of the practice of this tradition back from around 1000 to around 900.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

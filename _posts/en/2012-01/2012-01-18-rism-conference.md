@@ -5,12 +5,11 @@ date: 2012-01-18
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Logo_02_zur_Konferenz_links_fde5a9a1c0.jpg"
+image: "/images/news-old-website/csm_Logo_02_zur_Konferenz_links_fde5a9a1c0.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-conference.html
 email: contact@RISM.info
 author: Klaus Keil
 ---
-
 
 ## **Music Documentation in Libraries, Scholarship, and Practice**
 

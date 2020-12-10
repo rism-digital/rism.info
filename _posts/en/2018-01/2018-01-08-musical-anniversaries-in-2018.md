@@ -4,13 +4,12 @@ title: Musical Anniversaries in 2018
 date: 2018-01-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Jubilaeen_2018_6bcd9ba1bb.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Jubilaeen_2018_6bcd9ba1bb.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2018.html
 email: ''
 author: ''
 ---
-
 
 **Happy New Year!**
 
@@ -38,7 +37,6 @@ Here are the full lists.
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1Yl3qbQzkv-og7QRRYCyc8JCk6bhCKZirWbFOiptY&amp;containerId=googft-gviz-canvas"></iframe>
 
 
-
 **Died in xx18 or xx68** (click on any heading to sort):
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1fr_jL-iwB4Jsgzh2ocz14Cc0F8_orZAR6dpUKB_a&amp;containerId=googft-gviz-canvas"></iframe>
@@ -52,5 +50,3 @@ w / f = female
 _Image from_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

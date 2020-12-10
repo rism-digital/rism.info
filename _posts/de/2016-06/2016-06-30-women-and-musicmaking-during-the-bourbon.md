@@ -4,13 +4,12 @@ title: Frauen und Musikpraxis während der Bourbonischen Restauration
 date: 2016-06-30
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/women-and-music-making-during-the-bourbon-restoration.html
 email: linklat@fas.harvard.edu
 author: Emerson Morgan
 ---
-
 
 _Emerson Morgan von der amerikanischen RISM-Arbeitsgruppean der Harvard University hat diesenArtikelüber eine kürzlich für RISM katalogisierte Partitur verfasst, La naissance du sauveur ([RISM ID no. 900022067](https://opac.rism.info/search?id=900022067){:target="_blank"})._
 
@@ -22,18 +21,15 @@ Auf der gestochenen Titelseite der Handschrift befinden sich zwei handgeschriebe
 
 Die Kantate ist mit vier solistischen Gesangs-Stimmen und einem Instrumental-Ensemble aus Flöte, Oboe und einem Tasteninstrument besetzt; zu Beginn ist zwar "pianoforte" angegeben, aber der Vermerk "jeu céleste" (Nr. 6) legt eine Besetzung mitOrgel nahe. Das Werk ist in zwei Abschnitte mit 21 Nummernuntergliedert; die Solisten singen im ersten Teil(Nr. 1–11) in der Rolle vonEngeln und im the zweiten Teil (Nr. 12–21) als Schäfer, die den Aufruf beherzigen. Das Bild eines Krippenspiels wandelt sich mit der Einführung (Nr. 17) der Figur des "viellard … ancien Gaulois, étranger dans ces lieux" und der Anrufung dereinheimischen "bois mystérieux du Gaulois révérés".
 
-![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](http://rism.info/fileadmin/content/news/Chanaleilles_900022067_Image_2.jpg)
-
+![All.|o | Le 2|e Berger | c’est un ancient Gaulois. étranger dans ces lieux il regretta longtemps ses amours et ses Dieux](/resources-old-website/news/Chanaleilles_900022067_Image_2.jpg)
 
 
 Man kann verschlüsselte Verweise auf die Widmungsträgerin als fromme Marien-Figur finden: Der GesangderSchäfer "comme l’étoile du matin vient proteger" (Nr. 10) lässt sich als Anspielung auf den Namen Marias im mittelalterlichen Hymnus_Ave Maris Stella_ hören, ebenso dieParallelität "ô ma patrie … une autre marie" (Nr. 20).
 
-![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](http://rism.info/fileadmin/content/news/Chanaleilles_900022067_Image_3.jpg)
+![N.|o 10 Hymne Trio | Andante | Le Séraphin | Le 2.|e Ange | Le 1.|er Ange | a la vierge marie offrons un | hymn glorieux](/resources-old-website/news/Chanaleilles_900022067_Image_3.jpg)
 
 
-
-![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](http://rism.info/fileadmin/content/news/Chanaleilles_900022067_Image_4.jpg)
-
+![N.o 20 | All.|o Maest.|o | Air | ô ma belle patrie après tant de mal | heurs](/resources-old-website/news/Chanaleilles_900022067_Image_4.jpg)
 
 
 _Fußnoten_
@@ -44,19 +40,5 @@ Fußnote 2: Klára Hamburger, Unbekannte Liszt-Dokumente aus deutschen Bibliothe
 Fußnote 3: _Généalogie historique de la maison de Chanaleilles,…_ ([Paris:] Impr. de Bonaventure et Ducessois, 1856), S. 25. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k5543453r/f32.image){:target="_blank"}.
 
 
-
 Abbildung 1: Titelseite “LA | Naissance | DU SAUVEUR. | CANTATE | à quatre voix avec des chœurs, | offerte à S. A. R. | M|e LA DUCHESSE DE Berry. | Paroles et Musique par Mad|e la C|t|e|s|s|e 8|e | de Chanaleilles de Lasaumès Née Gerbier”
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
 

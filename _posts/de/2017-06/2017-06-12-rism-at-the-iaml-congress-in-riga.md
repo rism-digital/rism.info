@@ -5,29 +5,25 @@ date: 2017-06-12
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_riga_IAML_2017_76157193c2.jpg"
+image: "/images/news-old-website/csm_riga_IAML_2017_76157193c2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-riga.html
 email: contact@rism.info
 author: ''
 ---
 
-
 RISM reist diesen Monat an die Baltische Küste, um am jährlichen Kongress der [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/congresses/2017-riga){:target="_blank"} teilzunehmen. Vom 18. bis 22. Juni 2017 treffen sich die Kollegen aus aller Welt an der überwältigenden [Nationalbibliothek von Lettland](http://lnb.lv/en){:target="_blank"} in Riga.
 
-RISM ist - wie sonst auch - bei verschiedenen Sitzungen federführend. Abstracts finden Sie auf der [Kongresswebsite](https://iaml2017.lnb.lv/programme/abstracts/){:target="_blank"}. Die Präsentationen werden mit der [RISM Kongressseite](/de/publikationen/iaml-conferences/2017.html) und der IAML-Website verlinkt.
-
+RISM ist - wie sonst auch - bei verschiedenen Sitzungen federführend. Abstracts finden Sie auf der [Kongresswebsite](https://iaml2017.lnb.lv/programme/abstracts/){:target="_blank"}. Die Präsentationen werden mit der [RISM Kongressseite](/publications/iaml-congresses/2017.html) und der IAML-Website verlinkt.
 
 Dienstag, 20. Juni
 
 
-
 -
 
-14.00-15.30 Uhr, Muscat-Workshop (öffentlich). Klaus Keil und Jennifer Ward führen in [Muscat](/de/community/muscat.html), das RISM spezifische Erfassungsprogramm für Musikquellen, ein.
+14.00-15.30 Uhr, Muscat-Workshop (öffentlich). Klaus Keil und Jennifer Ward führen in [Muscat](/community/muscat.html), das RISM spezifische Erfassungsprogramm für Musikquellen, ein.
 Begrenzte Plätze. Bitte melden Sie sich per Mail an: [contact@rism.info](mailto:contact@rism.info)
 
 Donnerstag, 22. Juni
-
 
 
 -
@@ -60,5 +56,3 @@ Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 Chair: John Roberts (Member of the RISM board)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

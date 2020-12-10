@@ -4,13 +4,12 @@ title: Telemann digital
 date: 2018-08-27
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/telemann-digital.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
-
 
 _We have received the following from Ann Kersting-Meuleman ([Universitätsbibliothek Frankfurt am Main](http://www.ub.uni-frankfurt.de/musik/){:target="_blank"}):_
 
@@ -23,5 +22,3 @@ The aim of the project is to make the autograph and other manuscripts of the chu
 The cantata manuscripts will be accessible through the [Digital Collections](http://sammlungen.ub.uni-frankfurt.de/musiktheater/nav/index/all){:target="_blank"} of the University Library.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

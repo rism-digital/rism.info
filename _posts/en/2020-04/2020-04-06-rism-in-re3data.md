@@ -4,13 +4,12 @@ title: RISM in re3data
 date: 2020-04-06
 lang: en
 post: true
-category: self_representation
-image: "/uploads/pics/re3datalogo_nosubtext_black.png"
+category: new_at_rism
+image: "/resources-old-website/pics/re3datalogo_nosubtext_black.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-in-re3data.html
 email: ''
 author: ''
 ---
-
 
 [The Registry of Research Data Repositories (re3data)](https://www.re3data.org/about){:target="_blank"} is a global registry that covers research data repositories from different academic disciplines. It presents repositories for the permanent storage and access of data sets to researchers, funding bodies, publishers, and scholarly institutions. re3data.org promotes a culture of sharing, increased access, and better visibility of research data.
 
@@ -20,8 +19,3 @@ Other music projects in re3data include the [Digital Image Archive of Medieval M
 
 _Portions of this text have been adapted from re3data.org ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"})._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

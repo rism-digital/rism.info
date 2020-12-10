@@ -4,13 +4,12 @@ title: Musik und Naturwissenschaften um 1800
 date: 2018-06-11
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Peale_Ode_Hawkins_9b711e1b78.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Peale_Ode_Hawkins_9b711e1b78.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-the-natural-sciences-in-1800.html
 email: ''
 author: ''
 ---
-
 
 Mitunter sind Musikquellen gut versteckt: Oder hätten Sie bei einem Druck mit dem Titel _Discourse Introductory to a Course of Lectures on the Science of Nature_ erwartet, dass sich im Anhang auch [drei Vokalwerke](https://opac.rism.info/search?id=00000990026614){:target="_blank"} finden lassen?
 
@@ -27,13 +26,10 @@ Dieses Weltbild, in dem eine theologische Sicht auf die Natur(-wissenschaft) und
 “[Ode on the death of Titian Peale](https://opac.rism.info/search?id=1001034803){:target="_blank"}” mit dem Textbeginn “His early loss let science mourn”, eine Referenz an Peales Sohn, der 1798 im Alter von 18 Jahren starb
 
 
-
 Die Texte stammen von Rembrandt Peale (1778-1860), einem weiteren Sohn des Autors. Die Musik komponierte John Isaac Hawkins (1772-1854); der englische Ingenieur und Erfinder machte sich vor allem als Klavierbauer einen Namen.
-
 
 
 _Abbildung_: John Isaac Hawkins "Ode on the death of Titan Peale", GB-Lbl B.328.(3.) ([RISM ID no. 1001034803](https://opac.rism.info/search?id=1001034803){:target="_blank"})
 
 
-
-#<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+#

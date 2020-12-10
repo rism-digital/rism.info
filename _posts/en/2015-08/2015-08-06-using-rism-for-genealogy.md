@@ -4,13 +4,12 @@ title: Using RISM for Genealogy
 date: 2015-08-06
 lang: en
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Teuthorn_BSB_06d077a232.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Teuthorn_BSB_06d077a232.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
 email: p@teu-net.de
 author: Peter Teuthorn
 ---
-
 
 _This article by Peter Teuthorn was originally published in his [Genealogie-Feuilleton](http://teuthorn.net/feuilleton/?p=4716){:target="_blank"} in an earlier form and is reprinted here with kind permission._
 
@@ -30,8 +29,3 @@ Information about access to the RISM catalog is also on the [BSB's website](http
 
 Copies of the Romance and the Polonaise for keyboard or harpsichord had previously been provided to me very kindly and without any bureaucratic hurdles by the [Statsbiblioteket Århus](http://www.statsbiblioteket.dk/){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

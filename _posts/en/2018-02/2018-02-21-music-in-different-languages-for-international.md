@@ -5,19 +5,17 @@ date: 2018-02-21
 lang: en
 post: true
 category: rism_online_catalog
-image: "/uploads/_processed_/csm_Muttersprache_6db58dc9cd.png"
+image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
 ---
 
-
 Today, February 21, is officially [International Mother Language Day](http://www.unesco.org/new/en/international-mother-language-day/){:target="_blank"}. This day was first commemorated in 2000 by the United Nations in order to highlight the significance of native languages as a cultural asset and to foster the linguistic and cultural diversity of people around the world. Over 6,000 languages are spoken worldwide. Just some of them can be found in the RISM database when they are used as words to a song or other piece of music. Which ones are they, and how do you find them?
 
 In the RISM online catalog, go to the [**Advanced Search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select **Language**. Enter the name of the language in English (though some have to be searched instead by their three-letter [ISO code](https://www.loc.gov/standards/iso639-2/php/code_list.php){:target="_blank"}).
 
-![Mozart title page](http://rism.info/fileadmin/content/news/Muttersprache_OPAC.png)
-
+![Mozart title page](/resources-old-website/news/Muttersprache_OPAC.png)
 
 
 RISM has music in the following languages:
@@ -85,8 +83,3 @@ Is your mother tongue on the list? We add to the list whenever we have a musical
 
 _Image from_ _[pixabay](https://pixabay.com/de/mehrsprachige-sprachen-sprechen-456774/){:target="_blank"}__._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

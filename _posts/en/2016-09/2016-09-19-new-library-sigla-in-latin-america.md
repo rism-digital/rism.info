@@ -4,13 +4,12 @@ title: New Library Sigla in Latin America
 date: 2016-09-19
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Sigel-Latin_America_f0d963cbcd.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_Sigel-Latin_America_f0d963cbcd.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-library-sigla-in-latin-america.html
 email: ''
 author: ''
 ---
-
 
 Three new countries in Latin America have been added to the RISM database of library sigla:
 
@@ -27,8 +26,7 @@ Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca
 Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
 
 
-
-Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/development/rism-sigla-directory.html).
+Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/sigla.html).
 
 Mexico is represented the most with 28 library sigla, followed by Brazil with 17 and Cuba with 12.
 
@@ -42,35 +40,21 @@ Latin American countries with musical sources in the RISM online catalog are:
 
 Brazil: [459 records](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}
 
-
 -
 
 Chile: [91 records](https://opac.rism.info/search?View=rism&siglum=RCH-*){:target="_blank"}
-
 
 -
 
 Mexico: [557 records](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}
 
-
 -
 
 Uruguay: [21 records](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"}
 
-
 -
 
 Venezuela: [37 records](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
-
-
-
-
 In total, there are 1,165 records from Latin America in RISM.
 
 
-
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

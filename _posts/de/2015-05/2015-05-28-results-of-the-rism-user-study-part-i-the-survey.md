@@ -4,13 +4,12 @@ title: 'Ergebnisse der RISM Nutzerstudie, Teil 1: Die Umfrage'
 date: 2015-05-28
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
 author: ''
 ---
-
 
 Zur Zeit werten wir die erste von RISM durchgeführte Nutzerstudie zum Online-Katalog aus. Vom 30. Oktober 2014 bis 28. Februar 2015 konnte ein Fragebogen mit 62 Fragen online beantwortet werden. Mit der Studie möchten wir unsere Nutzer besser kennenlernen (z.B. aus welchen Ländern kommen sie, welche Erfahrung haben sie bislang mit RISM gemacht oder zu welchem Zweck nutzen sie RISM) und besser verstehen, wie der Online-Katalog ([www.rism.info](http://www.rism.info) und [opac.rism.info](http://opac.rism.info)) genutzt wird und was wir verbessern können.
 
@@ -18,7 +17,7 @@ Zur Zeit werten wir die erste von RISM durchgeführte Nutzerstudie zum Online-Ka
 
 Einen ersten Eindruck möchten wir mit der Veröffentlichung einiger Ergebnisse bereits heute präsentieren:
 
-![Frage 1](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_1.jpg)
+![Frage 1](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_1.jpg)
 
 **1. Seit wieviel Jahren benutzen Sie RISM?**
 
@@ -26,11 +25,7 @@ Wir erhielten 538 Antworten auf diese Frage. 13 Personen machten keine Angabe.
 
 Etwa die Hälfte der Befragten (48%, 258 Personen) antworteten, dass Sie RISM (entweder die Bücher, CD-ROM, EBSCO Datenbank oder unseren Online-Katalog) seit über 10 Jahren nutzen. Die Mehrheit der Antwortenden (66%, 356 Personen) nutzen RISM seit mehr als 6 Jahren. Somit zählen die meisten der Befragten zu den erfahrenen RISM-Nutzern, aber es gibt auch eine bedeutende Anzahl von Personen, die relativ neu dazugekommen sind.
 
-![Frage 3](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
-
-\<media 938\>_Click for a larger image._\</media\>
-
-
+![Frage 3](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
 
 **3. Wie oft benutzen Sie den Online-Katalog?**
 
@@ -40,9 +35,7 @@ Die Mehrheit der Befragten (68%, 367 Personen) besuchen den RISM Online-Katalog 
 
 Von den 258 Personen, die RISM seit mehr als 10 Jahren nutzen, nutzen es 125 (48%) mehrmals im Monat.
 
-![Frage 43](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
-
-\<media 934\>_Click for a larger image._\</media\>
+![Frage 43](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
 
 **43. Ihrer Meinung nach, welche 3 Worte beschreiben RISM am besten?**
 
@@ -62,8 +55,7 @@ Nichtsdestotrotz finden wir es aufbauend, dass die drei ersten Antworten auf die
 Wenn wir die Auswertung der Antworten auf diese Frage fortsetzen, werden wir besonders die negativen Wahrnehmungen von RISM beachten (einerseits die Worte der Auswahlliste wie beispielsweise "kompliziert", "altmodisch", "überladen" andererseits die als Kommentar hinzugefügten "nicht intuitiv", "inkonsistent", "unklar").
 
 
-
-![Frage 55](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
+![Frage 55](/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
 
 **55. In welchem Land wohnen Sie?
 56. Falls Ihr Land nicht genannt ist, geben Sie es bitte hier an.**
@@ -75,8 +67,7 @@ Wir sind erfreut, diese Antworten von Menschen aus der ganzen Welt erhalten zu h
 Obwohl die Umfrage in Englisch und Deutsch zur Verfügung stand, antworteten 123 Personen aus einem Land, das keine der beiden Sprachen als offizielle Landessprache hat. Wir können daraus schließen, dass viele Menschen RISM in einer Fremdsprache benutzen. Das hilft uns Wege zu berücksichtigen, um RISM für Menschen verschiedener Kulturen und mit unterschiedlichen sprachlichen Hintergründen verständlicher zu gestalten.
 
 
-
-![Frage 59](http://rism.info/fileadmin/content/community-content/Zentralredaktion/Umfrage/Frage_59.jpg)
+![Frage 59](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_59.jpg)
 
 **59. In welche Gruppe(n) würden Sie sich einordnen?**
 
@@ -88,14 +79,8 @@ Wir können die Antworten auf diese Frage auch nutzen, um Einblicke zu bekommen,
 
 **Ihre Kommentare**
 
-Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/self_representation/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
+Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
 
-Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/de/community/rism-nutzerstudie.html) veröffentlicht (Link auf unserer Website unten rechts).
-
-
+Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/community/survey.html) veröffentlicht (Link auf unserer Website unten rechts).
 
 
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

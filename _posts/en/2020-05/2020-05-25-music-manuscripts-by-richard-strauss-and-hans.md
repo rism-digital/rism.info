@@ -4,13 +4,12 @@ title: Music Manuscripts by Richard Strauss and Hans Pfitzner Online
 date: 2020-05-25
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
 email: ''
 author: ''
 ---
-
 
 _The following was originally published on the [blog of the Bavarian State Library](https://www.bsb-muenchen.de/article/musikhandschriften-von-richard-strauss-und-hans-pfitzner-online-3448/){:target="_blank"} and is reprinted here with kind permission._
 
@@ -26,4 +25,3 @@ The digitized sources can now also be found through the RISM catalog.
 
 _Image_: Hans Pfitzner, sketches to _Urworte orphisch_, D-Mbs [Mus.coll. 7.52](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00062205-1){:target="_blank"}, RISM ID no. [1001086879](https://opac.rism.info/search?id=1001086879&View=rism&Language=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

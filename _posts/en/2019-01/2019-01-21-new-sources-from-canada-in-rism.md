@@ -4,13 +4,12 @@ title: New Sources from Canada in RISM
 date: 2019-01-21
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-sources-from-canada-in-rism.html
 email: shawbecky1@gmail.com
 author: Becky Shaw
 ---
-
 
 _The following is by Becky Shaw (Dalhousie University):_
 
@@ -21,9 +20,6 @@ Music is one of several areas addressed in the University Archives’ collection
 As part of this project, we also developed guidelines for transferring descriptive metadata from the Canadian standard for archival description (Rules for Archival Description, or [RAD](http://www.cdncouncilarchives.ca/archdesrules.html)) to MARC. These instructions are available in our Documentation Wiki, and include [general instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat) for adding descriptions to RISM from RAD (or another archival standard); specific instructions for [music manuscripts](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/105054209/Archival+description+of+music+manuscripts); and instructions for [published music](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/701038593/Archival+description+of+published+music+scores+and+sheet+music). We hope that these guidelines will be of use to other archival institutions, both within Canada and internationally.
 
 
-
 _Image_: Heitor Villa-Lobos, _Concerto para piano e orquestra_ (1945), [RISM ID no.: 1001044620](https://opac.rism.info/search?id=1001044620&View=rism)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

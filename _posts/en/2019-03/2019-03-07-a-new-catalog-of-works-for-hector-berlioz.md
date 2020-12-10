@@ -5,12 +5,11 @@ date: 2019-03-07
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
+image: "/images/news-old-website/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-catalog-of-works-for-hector-berlioz.html
 email: ''
 author: ''
 ---
-
 
 Hector Berlioz died 150 years ago tomorrow. Right in time for this major anniversary, a revised edition of the _Catalogue of the Works of Hector Berlioz_ (originally published in 1987) has been released as a digital resource that is free online.
 
@@ -24,9 +23,6 @@ Not only have corrections and additions been incorporated into the second editio
 
 RISM used the short title HolBe|1 to refer to the first edition of the Berlioz catalog. [HolBe|2 is the short title for the second edition](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe13803%22&Language=en){:target="_blank"} and will be the catalog cited henceforth. There are just over 60 sources in RISM for Berlioz, including some sources that are new to RISM: an arrangement of the overture from _Benvenuto Cellini_ for piano four-hands in the hand of Hans von Bülow (RISM ID no. [1001049142](https://opac.rism.info/search?id=1001049142&View=rism&Language=en){:target="_blank"}), some autograph material now kept in Braunschweig (RISM ID nos. [1001007637](https://opac.rism.info/search?id=1001007637&View=rism&Language=en){:target="_blank"} and [1001007633](https://opac.rism.info/search?id=1001007633&View=rism&Language=en){:target="_blank"}), and [a handful of Italian manuscripts](https://opac.rism.info/search?View=rism&author=berlioz&siglum=I-*&Language=en){:target="_blank"} now in RISM thanks to a current data import project from [SBN Musica/ ICCU](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}.
 
-
 _Image_: Portrait of Hector Berlioz, lithography by Étienne Carjat (1828-1906). Bibliothèque nationale de France, département Musique, EST MACNUTT GF 004, [from Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8454326z){:target="_blank"} (public domain).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

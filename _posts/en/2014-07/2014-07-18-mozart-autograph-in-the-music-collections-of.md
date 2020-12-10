@@ -4,13 +4,12 @@ title: Mozart autograph in the music collections of Mariastein Abbey, Switzerlan
 date: 2014-07-18
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Mozart_Seite_A_4cb8dfa2cc.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Mozart_Seite_A_4cb8dfa2cc.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autograph-in-the-music-collections-of-the-mariastein-abbey-switzerland.html
 email: ghk@hankeknaus.ch
 author: Gabriella Hanke Knaus
 ---
-
 
 Starting in 2010, the music collections of the Abbey of St. Mary in the Rock (Mariastein; CH-MSbk) have been reorganized in the form of rebuilding the _Musikarchiv_ and _Notenbibliothek_ collections. A highlight of the collection is an autograph manuscript by Wolfgang Amadeus Mozart. The online catalog is also available in three languages.
 
@@ -19,10 +18,6 @@ The music holdings consist of two separate collections:
 _- Musikarchiv_ (music manuscripts and printed music before 1850)
 
 _- Notenbibliothek_ (printed music after 1850)
-
-
-
-
 
 These offer a broad view of the musical life of the monastery of St. Mary in the Rock from the 17th century until today.
 
@@ -43,7 +38,6 @@ The catalogue follows rules according to RISM (incipits, etc.)
 In the catalogue of the _Notenbibliothek_ collection you will find indications of scoring according to RISM standards.
 
 
-
 **Online catalogue:**
 
 [http://www.musiksammlung.ch](http://www.musiksammlung.ch/) (D)
@@ -52,8 +46,4 @@ In the catalogue of the _Notenbibliothek_ collection you will find indications o
 
 [http://www.musiccollections.ch](http://www.musiccollections.ch/) (E)
 
-
-
-
-
-The music collections can be consulted in Mariastein. Users are kindly requested to ask for an appointment at least 15 days in advance: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch "Opens window for sending email")
+The music collections can be consulted in Mariastein. Users are kindly requested to ask for an appointment at least 15 days in advance: [musiksammlung@kloster-mariastein.ch](mailto:musiksammlung@kloster-mariastein.ch)

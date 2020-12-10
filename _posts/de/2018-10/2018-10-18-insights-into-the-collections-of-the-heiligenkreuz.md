@@ -5,12 +5,11 @@ date: 2018-10-18
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg"
+image: "/images/news-old-website/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/insights-into-the-collections-of-the-heiligenkreuz-monastery-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
-
 
 _Die folgende Ankündigung erhielten wir von P. Roman Nägele OCist (Stift Heiligenkreuz, Österreich):_
 
@@ -22,15 +21,9 @@ Ein Forum dafür ist die jährliche Veranstaltung **Einblicke in Sammlungen des 
 
 Für die oben erwähnte Veranstaltung konnte das renommierte Wiener Ensemble _dolce risonanza_ gewonnen werden. Unter dem Namen [_dolce risonanza_](https://www.dolcerisonanza.at/ensemble/) versammelt Florian Wieninger seit 2003 Spezialisten der Originalklang-Szene, um mit ihnen besondere Programme in ausgesuchter Qualität zu verwirklichen. Der Ensemblename entstammt Agostino Agazzaris Traktat _»del sonare sopra’l basso con tutti li strumenti …«_ (1607) und bezieht sich auf die »liebliche Resonanz«, den erlesenen Klang alter Instrumente. Das Wiener Ensemble fühlt sich historischen Spielweisen und dem intensiven Studium der Quellen verpflichtet. Tatkräftige Unterstützung erhält Florian Wieninger durch seine Frau, die Geigerin und Musikwissenschaftlerin Gunda Hagmüller, und durch den Organisten Anton Holzapfel. Die Gruppe wird projektbezogen aus Sängern und Instrumentalisten zusammengestellt. In den vergangen Jahren wurden daher eine Reihe von Wiederentdeckungen erstaufgeführt, neben Werken von Alberich Mazak, Andreas Rauch, Johann Georg Albrechtsberger und Michael Haydn, beispielsweise ein Orgelkonzert, und liturgische Werke des Wiener Hofkapellmeisters Johann Georg Reutter. Am 26. Oktober 2018 werden Werke des Heiligenkreuzer Pater Clemens Scheupflug OCist (1731-1805), von Gregor Joseph Werner (1693-1766), Johann Georg Reutter d. J. (1708-1772), Joseph Haydn (1732-1809) und von Luigi Tomasini zu hören sein. Bei seinem [Divertimento Nocturno a Paridon](https://opac.rism.info/search?id=600090616&View=rism){:target="_blank"} und Viola con Violone kommt ein wertvolles Baryton aus dem Benediktinerstift Seitenstetten (Niederösterreich) zum Einsatz. Der Leiter von _dolce risonanza,_ Florian Wieninger, spricht über Beispiele der Pflege weltlicher Musik in Klöstern.
 
-[Einblicke in Sammlungen des Stiftes Heiligenkreuz](/fileadmin/content/news/Einblicke_in_Sammlungen_-_Einladung.pdf "Initiates file download")
+[Einblicke in Sammlungen des Stiftes Heiligenkreuz](/resources-old-website/news/Einblicke_in_Sammlungen_-_Einladung.pdf)
 Freitag, 26. Okt. 2018, 15:00 Uhr im Kaisersaal des Stiftes Heiligenkreuz/Niederösterreich
-
 
 
 Die reichhaltigen Bestände des Stiftes Heiligenkreuz ([A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) sind auch in der RISM-Datenbank erfasst und online recherchierbar.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2019-03-04
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Franziskanermoenche_aad8814261.png"
+image: "/images/news-old-website/csm_Franziskanermoenche_aad8814261.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-on-our-bookshelves-three-composing-franciscan-monks.html
 email: ''
 author: ''
 ---
-
 
 Drei komponierende Franziskanermönche des 17. und frühen 18. Jahrhunderts haben das Interesse von Ivano Bettin geweckt. Zu Francesco Antonio Vannarelli (1615-1679), Francesco Antonio Urio (ca. 1631 - ca. 1719) und Francesco Maria Benedetti (1683-1746) entstanden drei kleinere Studien und verschiedene Editionen. Bereits Ende letzten Jahres stellte uns Ivano Bettin seine Publikationen zur Verfügung. Besonders dankbar sind wir vor allem für die drei Werkverzeichnisse (RISM-Kurztitel: BetB, BetU und BetV), die nun in den RISM-Daten ergänzt wurden.
 
@@ -33,5 +32,3 @@ Während von Benedetti nur handschriftliche Musikquellen überliefert sind, wurd
 _Abbildung_: _Poesie heroiche morali e sacre_ (s.l., 1646). Museo internazionale e biblioteca della musica di Bologna (I-Bc Z.52; [RISM ID no. 992002440](https://opac.rism.info/search?id=00000992002440&View=rism){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

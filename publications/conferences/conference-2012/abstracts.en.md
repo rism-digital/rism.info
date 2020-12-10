@@ -22,7 +22,6 @@ Die Grenzen ideengeleiteter Musikgeschichtsschreibung, wie sie eine emphatische 
 The projected online catalog of works has the goal to gather all known sources for every extant work by Palestrina (primarily based on the RISM database), to catalog and describe them, and to settle numerous remaining questions of authenticity. A new point of departure is creating a digital reference score for each individual work that diplomatically reproduces the mensural notation of the source and arranges the parts, score-like, underneath each other. In this reference score, the additional step will be taken to enter variations that appear in all datable sources from before ca. 1800 and illustrate them accordingly. In this way, sources that refer to an individual work are not only named and described, but at the same time their specific contents are directly and visually conveyed to the user.
 
 
-
 **Innovative Verfahren zur Herstellung von Werkverzeichnissen auf der Basis der bei RISM nachgewiesenen Quellen am Beispiel G. P. da Palestrina**
 
 Das geplante Online-Werkverzeichnis hat das Ziel, zu jedem der überlieferten Werke Palestrinas – vornehmlich auf der Basis der RISM-Datenbank – sämtliche bekannten Quellen zu erfassen, diese zu katalogisieren, zu beschreiben sowie zahlreiche noch ausstehende Authentizitätsfragen zu klären. Neu ist der Ansatz, zu jedem einzelnen Werk eine digitale Referenzpartitur zu erstellen, die das mensurale Schriftbild der Bezugsquelle diplomatisch genau wiedergibt, die Stimmen jedoch partiturartig untereinander anordnet. In diese Referenzpartitur werden in einem weiteren Arbeitsschritt die Varianten aller vor ca. 1800 datierbaren Quellen eingetragen und mit entsprechenden graphischen Mitteln veranschaulicht. Auf diese Weise sollen die auf das einzelne Werk bezogenen Quellen nicht nur benannt und beschrieben, sondern zugleich auch deren spezifische Inhalte dem Nutzer optisch direkt vermittelt werden.
@@ -130,7 +129,6 @@ Music collections of these lay musicians from the archives in different parishes
 Using selected materials from the Thuringian Regional Music Archive, the following questions will be explored: How are the music collections of each lay music archive put together? From which parishes do sources from the time before 1800 still exist? Where do copies from the nineteenth century predominate? Is the repertoire in these cases more retrospective or mostly current? Which genres were preferred? To what extent do music collections from lay music archives exhibit specific features and what does that mean for indexing with RISM? In connection with posing these questions, it will be discussed in detail what kind of knowledge—beyond the documenting of sources—can be gained through RISM cataloging.
 
 
-
 **Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM**
 
 Im mitteldeutschen Raum und insbesondere in Thüringen existierte in vielen Dörfern und kleineren Städten eine Form des Laienmusizierens, deren Traditionslinie bis ins 19. Jahrhundert reichte. Träger dieser Kultur waren die sogenannten Adjuvanten (Gehilfen, von lateinisch adjuvare: helfen), zumeist Bauern oder Handwerker, die zusammen mit geeigneten Schülern bei der musikalischen Ausgestaltung der Gottesdienste und Kasualien mitwirkten.
@@ -148,9 +146,7 @@ After the contributions to RISM by individual scholars (Anglés himself--as one 
 # <a name="c2317"></a>Andrea Hartmann: New Paths toward Collaboration with the SLUB Dresden
 
 
-
 The Dresden RISM office, like the Munich office, is financed by the Academies' Programme of the Academy of Sciences and Literature, Mainz, and is thus a temporary project. In order to fulfill the project’s objectives within the time frame, opportunities to collaborate with independent cataloging projects (usually funded by third parties) have been increasingly pursued. Beyond such project-based partnerships, the Dresden RISM office works intensively with its host institution, the SLUB in Dresden. An agreement was reached in 2009 to divide the cataloging work of the SLUB holdings. Essentially, the Dresden RISM office is responsible for the holdings up to 1850, the Music Department of the SLUB for the more recent manuscripts. The Music Department catalogs manuscripts directly into the RISM database using Kallisto, adhering to RISM Germany’s minimum standards for completed catalog records. When music manuscripts are digitized, a link is made from the RISM OPAC to the digital collections of the SLUB. The RISM records can in turn be used for structuring the digital object’s content. An independent catalog of music manuscripts is no long maintained by the SLUB’s Music Department; the primary discovery tool for its holdings is the RISM OPAC. This paper will elaborate on the prospects of such cooperative efforts and the use of Kallisto in a large academic library.
-
 
 
 **Neue Wege in der Zusammenarbeit mit der SLUB Dresden**
@@ -166,16 +162,11 @@ In my presentation I will give a brief overview of the musical sources found in 
 # <a name="c2281"></a>Hildegard Herrmann-Schneider: "Die Musikbibliographie ist die Grundlage alles historischen Wissens." On Today’s Relevance of Robert Eitner’s Central Idea from 1898
 
 
-
 “Music bibliography is the foundation of all historical knowledge.”
 
 This well-known observation from the fundamental work _Biographisch-Bibliographisches Quellen-Lexikon der Musiker und Musikgelehrten_ [...] (Bio-Bibliographic Source Encyclopedia of Musicians and Music Scholars [...], 1st edition Leipzig, vol. 1 n.d., preface, dated 1898, p. 5) by the pioneer in music history source documentation, Robert Eitner, has retained, after more than a century, its validity even today. Even though the premises for source documentation have fundamentally changed for the better through, in particular, revolutionary technological developments relating to recording, presentation, and use, Robert Eitner’s statement is currently being challenged by the best possible inclusion of all available interdisciplinary resources.  
    
  The music catalog, based on scholarly criteria, is much more than a register of manuscripts or printed works. With its perspective and representation of sources in their local and regional context, it very often provides new, insightful knowledge about known and unknown compositions, personalities and music institutions. It is thus itself also a piece of written music history. The RISM office Tyrol-South Tyrol & OFM Austria can easily provide evidence for this. Here just recently, during cataloging work, a previously unknown Allegro molto for piano by Wolfgang Amadeus Mozart was identified (see H. Herrmann-Schneider, “Das Allegro molto in C ‘del Signore Giovane Wolfgango Mozart’ [...]”, in _Mozart-Jahrbuch_, 2012). The latest source findings in Tyrol allow us to shed new light on, for example in this paper, the question of authorship of the Mass in B-flat major by Wolfgang Amadeus Mozart (KV C1.24), Franz Xaver Suessmayr (SmWV 816) or Kajetán Vogel (WeiVo deest), or to enrich the chapter “X: Dances” in the Leopold Mozart catalog of works (2010).
-
-
-
-
 
 **„Die Musikbibliographie ist die Grundlage alles historischen Wissens“. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahr 1898 heute**
 
@@ -184,11 +175,9 @@ Die bekannte Feststellung aus dem fundamentalen Werk _Biographisch-Bibliographis
 Der nach wissenschaftlichen Kriterien verfasste Musikalienkatalog stellt weit mehr als eine Auflistung von Handschriften oder Drucken dar. Er bringt mit seiner Sicht und Darstellung der Quellen in ihrem lokalen und überregionalen Kontext sehr oft neue aufschlussreiche Erkenntnisse zu bekannten wie unbekannten Kompositionen, Persönlichkeiten oder Musikinstitutionen. Er wird so auch zu einem Stück Musikgeschichtsschreibung. Dafür konnten durch die RISM-Arbeitsstelle _Tirol-Südtirol & OFM Austria_ vielfach Belege geliefert werden. Soeben erfolgte hier im Rahmen der Katalogisierungsarbeit die Identifizierung eines bislang unbekannten Allegro molto für Klavier von Wolfgang Amadé Mozart (s. H. Herrmann-Schneider, „Das Allegro molto in C ‚del Signore Giovane Wolfgango Mozart’ [...]“, in: Mozart-Jahrbuch, 2012). Neueste Quellenfunde in Tirol lassen es zu, in diesem Vortrag zum Beispiel die fragliche Autorschaft der Messe in B-Dur von Wolfgang Amadé Mozart (KV C1.24), Franz Xaver Süßmayr (SmWV 816) oder Kajetán Vogel (WeiVo deest) neu zu beleuchten oder etwa das Kapitel „X: Tänze“ im Leopold-Mozart-Werkverzeichnis (2010) zu bereichern.
 
 
-
 # <a name="c2316"></a>Stefan Ikarus Kaiser: The Music Collection at Wilhering Abbey
 
 The historical music archive of Wilhering Abbey, near Linz in Upper Austria, contains over 1,400 musical sources and is considered to be one of the most important collections of music in Austria. The long music tradition of the Cistercian abbey, which was founded in 1146, still continues to this day in the practice of regular High Mass with orchestral accompaniment and with a certain emphasis on organ music. The abbey church has two famous historic organs by the Austrian organ builders Nikolaus Rummel (1746) and Leopold Breinbauer (1884). The historic music archive documents this extensive practice especially in the eighteenth and nineteenth centuries. Besides copies of musical works by a number of central European composers, there are manuscripts by some well-known Austrian composers who maintained contact with the abbey either by working as chorus masters, organists, or copyists; or through personal acquaintances, for example Matthias Pernsteiner, Father Hugo Dürrnberger, Adolf Festl, Ignaz Arnleitner, and Anton Bruckner and his pupil Karl Borromäus Waldeck. Therefore, works by these composers ended up in the archival holdings as autograph manuscripts, copies, or printed music. Over half of the music holdings were documented through earlier RISM card indexes. Revising and supplementing these RISM data according to the latest research began in 2011. This paper gives a report on these current activities in the music archive.
-
 
 
 **Die Musiksammlung des Stiftes Wilhering**
@@ -202,7 +191,6 @@ Das historische Musikarchiv des Stiftes Wilhering bei Linz in Oberösterreich mi
 The Austrian province Vorarlberg is embedded in a culturally and historically significant region where a lot of monasteries exist: in the west, Einsiedeln and St. Gallen; in the north, Weingarten, Ottobeuren, Kempten; and in the south, the bishopric Chur with St. Lucii.
 
 Findings of old music manuscripts and prints as well as and inventory sheets suggest that the region was affected by these monasteries in economic and cultural ways. Unfortunately many significant documents were sold or burned when the monasteries were disbanded, such as the collection of documents from the Benedictine Mehrerau Abbey. The same happened to many convents whose music patronage was mentioned in sources as being very good. Therefore, the discovery of music in the Dominican convent in St. Peter, near Bludenz, is especially welcome, as it illustrates nationwide communication in the areas of music and culture.
-
 
 
 **"… haben diese Klosterfrauen eine schöne Musicam von Stimmen und Instrumenten." Zur Musik in Frauenklöstern – neue Funde aus Vorarlberg**
@@ -220,7 +208,6 @@ V. Katalinić presented the history and present state of the project at the 50th
 This paper will describe, using selected examples, the possibilities of deep-level cataloging that the RISM database offers in order to continue to make smaller, formerly self-contained collections recognizable as such within large libraries. It should also be put up for discussion the fact that when processing a collection, background information, connections, and assumptions accumulate in the head of the processor—none of which can be directly integrated into the catalog record.   
   
 On the other hand, in the case of materials from the innumerable smaller places where such collections used to be housed, the danger exists that they could be cataloged as part of the general collection. But what options exist, and which should still be developed so that an overall picture comes out of the mosaic tiles?
-
 
 
 **Über das Verschwinden im großen Topf. Geschlossene Kirchenmusiksammlungen in großen Bibliotheken - Kleine Kirchenarchive in der RISM-Datenbank**
@@ -244,7 +231,6 @@ A marginal area of direct contact between the Répertoire International des Sour
 Ein kleines Randgebiet, in dem sich die Arbeiten des Répertoire International des Sources Musicales und des Répertoire International d’Iconographie Musicale direkt überschneiden ist die Darstellung musikalischer Notation in der Kunst. Prominentestes Beispiel dieses Genres sind die sogenannten „Bildmotetten“, doch der Quellenfundus ist viel reicher. Anhand von Beispielen aus der Dokumentation der deutschen RIdIM-Arbeitsstelle werden verschiedene Formen vorgestellt und dabei auf notwendige Aspekte und Fragestellungen eingegangen werden, die von der Identifizierung bis zum Funktionszusammenhang der Darstellung musikalischer Notation in der Kunst reichen.
 
 
-
 # Wednesday, June 6, 2012
 
 # <a name="c2318"></a>Steffen Voss: The Instrumental Repertoire of the Dresden Court: A Report on the DFG Project at the SLUB Dresden 
@@ -254,7 +240,6 @@ In a project funded by the German Research Foundation (DFG), the so-called Schra
 In the course of cataloging with the Kallisto database system, carried out in close cooperation with the Dresden RISM office and the Frankfurt Zentralredaktion, an intensive analytical study was carried out. This resulted in exact identification and classification of various watermarks and copyist hands, which in turn produced new information about the provenance and dating of the collection. Furthermore, numerous anonymous pieces were identified and misattributions were corrected. In addition, the precise extent of the collection could be specified, including the first survey of the few music prints that belong to Schrank II.
 
 This paper will review the project and show how this information can be accessed through the RISM OPAC.
-
 
 
 **Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden**
@@ -272,11 +257,9 @@ The main innovation for RISM in France has been the launch of the portal [RISM F
 During the coming months, several developments are expected in the RISM database, including the display and indexing of the music incipits in the records of the BnF Catalogue général.
 
 
-
 **Le portail RISM France : contenu et perspectives**
 
 Le [portail RISM France](http://ccfr.bnf.fr/portailccfr/jsp/index.jsp){:target="_blank"}, ouvert depuis juin 2011, fait partie du Catalogue Collectif de France (CCFr) hébergé par la Bibliothèque nationale de France. Il donne accès à 58.000 notices d’imprimés et de manuscrits musicaux antérieurs à 1820 conservés en France. Les notices sont issues de plusieurs sources : les catalogues papier du Patrimoine musical régional français qui ont été convertis (plus de 34000 notices d’imprimés et manuscrits) ; les notices des manuscrits musicaux de la BnF en cours de catalogage (environ 8000 notices), et celles de tous les imprimés musicaux anciens des bibliothèques publiques de Paris. Chacun de ces ensembles sera présenté avec ses particularités. Plusieurs types d’évolutions sont envisagées, parmi lesquelles l’affichage des incipit musicaux pour les manuscrits musicaux de la BnF et l’indexation de ces incipit.
-
 
 
 # <a name="c2285"></a>Metoda Kokole and Klemen Grabnar: RISM inSlovenia in the Past Decade: Newly Catalogued Music Collections, Especially Early 17th-Centuty Choirbooks
@@ -294,7 +277,6 @@ Only a small number of music resources from Canada are included in RISM. I will 
 The largest collection in the Music Department at the University Library in Warsaw (PL-Wu) is formed by the holdings of the former Musical Research Institute at the University of Wrocław (Poland), which was handed over to Warsaw in 1952. The reason for transferring the collection after the opening of a new musicological institute there was to counterbalance the immense loss of Polish cultural assets in Warsaw during the Second World War. There are about 15,000 old music manuscripts, prints, and books. Portions of the collection that had been deposited at the University Library in Wrocław (PL-WRu) by the beginning of the 1950s have remained there. The provenance of most of the Warsaw holdings is the collection of the Musical Institute Breslau, which existed until 1945 as the successor to the Royal Institute for Church Music.
 
 Since 2007, a RISM working group has been active at the University Library in Warsaw, cataloging the old Wrocław collections. Work on this is not yet completed. At this time, collections are being processed that are related to Weisse and Pius Hancke. We have also succeeded in identifying numerous additional copies of works by Johann Adolf Hasse. In addition, autograph sources by the Wrocław cathedral music director Johann Georg Clement are being processed, which are stored in the University Library in Warsaw as well as the Wrocław Cathedral Archive (PL-WRk) and the Benedictine abbey in Krzeszów (PL-KRZ).
-
 
 
 **Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement (Breslau, Warschau und Grüssau)**

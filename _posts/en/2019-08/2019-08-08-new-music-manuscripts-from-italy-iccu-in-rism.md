@@ -4,13 +4,12 @@ title: New Music Manuscripts from Italy (ICCU) in RISM
 date: 2019-08-08
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_ICCU_Krise_OPAC_df925a41aa.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_ICCU_Krise_OPAC_df925a41aa.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
 email: ''
 author: ''
 ---
-
 
 After several years of discussions and negotiations with the [Istituto Centrale per il Catalogo unico delle Biblioteche Italiane](https://www.iccu.sbn.it/it/){:target="_blank"} (ICCU) and an intensive technical preparatory phase, more than 200,000 records of music manuscripts from the [SBN Musica](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"} database were transferred to the internal RISM database at the beginning of 2019. The entries are currently being edited in certain points to align them with RISM guidelines and they are gradually being published in the online catalog. The RISM record always links to the original catalog entry in SBN.
 
@@ -27,5 +26,3 @@ With this data import, we received 27,000 new personal names alone! Editing this
 After this trial phase, we are aiming to publish data library by library, especially from larger data pools. RISM had more than 86,000 records for music manuscripts from 98 Italian libraries prior to the data import, and some of these are not yet in the SBN Musica catalog, but the records are available as [linked open data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

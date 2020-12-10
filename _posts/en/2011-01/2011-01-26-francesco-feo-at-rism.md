@@ -4,13 +4,12 @@ title: Francesco Feo @ RISM
 date: 2011-01-26
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_ARSACE_di_Feo_7a8de4f169.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_ARSACE_di_Feo_7a8de4f169.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/francesco-feo-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Who knows Francesco Feo (1691-1761)?
 
@@ -25,7 +24,6 @@ _Passio Domini nostri Jesu Christi secundum Joannem_ (St. John Passion) with Dor
 -
 
 _Missa defunctorum_ and a five-voice _Confitebor_ (Psalm 110) with Anja Zügner, Dorothea Wagner, Dominika Hirschler, Tobias Hunger, and Tobias Berndt. Sächsisches Vocalensemble, Batzdorfer Hofkapelle, Matthias Jung, conductor. [CPO](http://www.prestoclassical.co.uk/r/CPO/7773332){:target="_blank"}[7773332](http://www.prestoclassical.co.uk/r/CPO/7773332){:target="_blank"}, DDD, 2007
-
 
 
 The catalogue of the Italian National Library Service ([Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche](http://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}) has over 200 records of works by Francesco Feo. This catalogue shows that some libraries hold materials and documents not yet cataloged in RISM, such as the numerous Feo autographs held by the Archivio musicale della Congregazione dell'Oratorio in Neapel (I-Nf).
@@ -44,7 +42,6 @@ The Favourite songs in the opera call'd Meraspe o l'Olimpiade …, London, J. Wa
 
 [Musikalisches Kunstmagazin von Johann Friedrich Reichardt](http://ia700303.us.archive.org/16/items/MusikalischesKunstmagazinBd.21791/ReichardtMusikalischesKunstmagazinB21791_text.pdf){:target="_blank"}. Zweyter Band [V-VIII Stück], Berlin, Verlag des Verfassers, 1791
 8. Stück, Nr. 3) „Merkwürdige Stücke großer Meister: a) 2 Stücke aus einem Motett von Fr. Feo“ [S. 98] Of interest here is a four-part “Et incarnatus est” (11 measures) and “Crucifixus” (14 measures) from a large-scale mass.
-
 
 
 There are about 170 entries for Feo manuscripts in the [RISM online](https://opac.rism.info/search?View=rism&author=Francesco+Feo){:target="_blank"} catalogue. The manuscript of the _Dies irae_ and _Parant arma_ from 1868 (see RISM number 455022884) from the Bavarian State Library Munich (Bayerischen Staatsbibliothek München; D-Mbs Mus.ms. 4242) is also available [online](http://daten.digitale-sammlungen.de/~db/bsb00004706/images/){:target="_blank"}.

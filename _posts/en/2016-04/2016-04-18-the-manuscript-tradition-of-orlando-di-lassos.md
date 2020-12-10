@@ -5,12 +5,11 @@ date: 2016-04-18
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Lasso_Handschriften_c3e08c6280.jpg"
+image: "/images/news-old-website/csm_Lasso_Handschriften_c3e08c6280.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-manuscript-tradition-of-orlando-di-lassos-works.html
 email: ''
 author: ''
 ---
-
 
 Orlando di Lasso (ca. 1532 -1594) is one of the most important musicians of the sixteenth century. A prolific composer, his works were published a lot even during his lifetime. These editions, numbering over 470 between 1555 and 1687, have long been known to musicologists. But are there also any extant autograph manuscripts by Orlando di Lasso? What is the situation regarding manuscripts by the Munich Court kapellmeister?
 
@@ -24,11 +23,5 @@ Since documenting these sources takes into consideration copies up through the n
 
 See also Bernhold Schmid, "Orlando di Lasso. Seine Werke in handschriftlicher Überlieferung. Eine Datenbank." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 40-42. [Link to PDF](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.
 
-
 _Image_: Orlando di Lasso, Att känna dig vår Gud, copy in the hand of Johan Helmich Roman (after 1759), [Musik- och teaterbiblioteket](http://roman.musikverket.se/browselarge.php?lang=sw&volymid=Ro+95&bildnr=00096){:target="_blank"}, Stockholm (S-Skma) Ro 95, [RISM ID no. 190020485](https://opac.rism.info/search?id=190020485){:target="_blank"}.
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

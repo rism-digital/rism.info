@@ -5,12 +5,11 @@ date: 2019-08-12
 lang: de
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Michele_Pesenti_deb3a82ab2.png"
+image: "/images/news-old-website/csm_Michele_Pesenti_deb3a82ab2.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/michele-pesenti-complete-works.html
 email: ''
 author: Bibliolore
 ---
-
 
 _Der folgende Beitrag erschien zuerst in [Bibliolore – The RILM Blog](https://bibliolore.org/2019/05/20/michele-pesenti-complete-works/){:target="_blank"} und wird hier mit freundlicher Genehmigung wiedergegeben:_
 
@@ -27,9 +26,6 @@ Oben eine Seite einer frühen Ausgabe von Pesentis [_Dal lecto me levava_](http:
 ###penseti###
 
 
-
 _Michele Pesenti ist [im RISM-Katalog mit ca. 50 Nachweisen vertreten](https://opac.rism.info/search?View=rism&author=Pesenti+Michele){:target="_blank"}. Die Abbildung oben ist aus_ _Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504_ _([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

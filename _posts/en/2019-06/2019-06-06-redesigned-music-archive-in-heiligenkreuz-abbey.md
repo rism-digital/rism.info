@@ -4,13 +4,12 @@ title: Redesigned Music Archive in Heiligenkreuz Abbey
 date: 2019-06-06
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
-
 
 _We received this post from Father Roman Nägele (RISM Austria, [Heiligenkreuz Abbey](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
@@ -25,5 +24,3 @@ After the room was blessed, Abbot Maximilian invited everyone to a ceremony in t
 The ceremony was enriched with traditional monastic music. At the end, P. Roman expressed his pleasure at how extensive and well organized the holdings of the music archive are ([RISM library siglum: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE&Language=en){:target="_blank"}), and emphasized that the intention of his work is for the music to be used and heard. Rarities and rediscoveries for masses and interesting concerts await us in the future.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

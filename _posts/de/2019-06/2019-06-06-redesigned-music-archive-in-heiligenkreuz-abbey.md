@@ -4,13 +4,12 @@ title: Neugestaltetes Musikarchiv im Stift Heiligenkreuz
 date: 2019-06-06
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
-
 
 _Wir erhielten den folgenden Beitrag von Pater Roman Nägele (RISM Österreich, [Stift Heiligenkreuz](https://www.stift-heiligenkreuz.org/){:target="_blank"}):_
 
@@ -25,5 +24,3 @@ Nach der Segnung des Raumes lud Abt Maximilian zu einer Feierstunde in den Salon
 Die Feierstunde wurde in alter Tradition mit klösterlicher Hausmusik bereichert. Abschließend gab P. Roman seiner Freude Ausdruck, wie umfangreich und gut sortiert der Bestand des Musikarchivs ([RISM-Bibliothekssigel: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) ist, und stellte die Absicht seiner Arbeit in den Vordergrund: Die Noten sollen benützt und die Musik zum Klingen gebracht werden. Raritäten und Wiederentdeckungen für Messgestaltungen und interessante Konzerte erwarten uns in Zukunft.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

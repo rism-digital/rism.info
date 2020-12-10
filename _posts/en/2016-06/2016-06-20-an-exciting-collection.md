@@ -5,12 +5,11 @@ date: 2016-06-20
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
+image: "/images/news-old-website/csm_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_02_edf6857d55.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/an-exciting-collection.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
-
 
 _The following article has reached us from Gottfried Heinz-Kronberger of [RISM Germany](http://de.rism.info/de/home.html){:target="_blank"}:_
 
@@ -27,7 +26,3 @@ In addition to all these there are also works that are still cloaked in anonymit
 In numerous older folders, performance dates have been written in. They document intensive use of the music. Any conclusions as to how the music came into existence can only be inferred in a limited way by treating the dates as a _terminus ante quem_, since many manuscripts were certainly written a lot earlier. The performances date from 1828 (NA/SP (S-55)) to 1911 (NA/SP (H-18) and (H-88)).
 
 All in all, the collection represents a unit that one rarely comes across these days. It was probably about 25% bigger than it is today, which one can gather from loose, individual pages. Despite the losses, one still gains insight into music-making practices from the time. To increase our knowledge, one could do more research on the copyists, or any kind of biographical research about individuals from the Spitz parish, especially the teachers, who often had music-related duties. The references to the pieces that are only indexed in the Göttweig catalog make these manuscripts from Spitz a special rarity and the connection to Göttweig Abbey - hardly more than 20 km away - is obvious, but also still requires more research.
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
-

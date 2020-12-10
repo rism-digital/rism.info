@@ -5,12 +5,11 @@ date: 2019-06-03
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Workshop_Vormittag_6c24af8a5f.jpg"
+image: "/images/news-old-website/csm_Workshop_Vormittag_6c24af8a5f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html
 email: lucianagsh@gmail.com
 author: Luciana Giron Sheridan and Lucas Reccitelli
 ---
-
 
 _Diesen Beitrag erhielten wir von Luciana Giron Sheridan und Lucas Reccitelli ([Universidad Nacional de Córdoba](https://www.unc.edu.ar/){:target="_blank"}). Deutsch unten:_
 
@@ -24,9 +23,7 @@ En cuanto a los anfitriones, el GMH comenzó a catalogar en Muscat en 2016, y en
 
 El taller RISM fue el más largo hasta el momento (40hs en total) e incluyó trabajo muy intenso. Todo esto no hubiera sido posible sin la excelente predisposición y paciencia de Jennifer. Fue una experiencia significativa para el GMH, que está encantado y dispuesto a continuar trabajando con RISM.
 
-
 \*\*\*\*\*
-
 
 Während der letzten Woche im März 2019 wurde ein Muscat-Workshop in Córdoba (Argentinien) abgehalten. Der Workshop fand auf dem Campus der Universidad Nacional de Córdoba statt und wurde gemeinsam von der Grupo de Musicología Histórica Córdoba (GMH, Forschungsgruppe unter der Leitung von Dr. Leonardo Waisman und DEA Marisa Restiffo) und dem Research Office of the Facultad de Artes organisiert.
 
@@ -40,4 +37,3 @@ Dieser RISM-Workshop war der bislang längste (insgesamt 40 Stunden) und beinhal
 
 _Abbildung mit freundlicher Genehmigung von Luciana Giron Sheridan._
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

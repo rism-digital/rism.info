@@ -5,12 +5,11 @@ date: 2020-04-01
 lang: en
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
+image: "/images/news-old-website/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
 email: ''
 author: ''
 ---
-
 
 A recently discovered music manuscript dating from the early 19th century has musicologists from all over the world speculating whether they are one step closer to finding out the true identity of the dedicatee of Ludwig van Beethoven's famous bagatelle _Für Elise_.
 
@@ -28,4 +27,3 @@ Research in the St. Ausonia church archives has shown that Kuneus was active in 
 
 Kuneus's _Pour Nathalie_ will receive its modern premiere with period instruments and historical costumes exactly one year from today, said Hoek, Lyne and Sincker.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

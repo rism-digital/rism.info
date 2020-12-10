@@ -4,13 +4,12 @@ title: 'The First Record from Andorra in RISM: The “Periodico de musica” of 
 date: 2020-06-15
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
 email: jbenavent@uda.ad
 author: Joan Benavent Peiró
 ---
-
 
 _We have received the following from [Joan Benavent Peiró](https://orcid.org/0000-0002-8856-9335){:target="_blank"}, PhD student in musicology at University of Andorra._
 
@@ -31,5 +30,3 @@ The cataloging of the manuscript was carried out thanks to a research grant from
 _Image_: Arxiu Nacional d’Andorra – Biblioteca Nacional d’Andorra. Cover, AND-AVbn ACAP.LP.154. RISM ID no. 001050169. Courtesy of the author.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

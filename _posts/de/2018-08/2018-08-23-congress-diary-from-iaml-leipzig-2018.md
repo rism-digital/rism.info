@@ -5,12 +5,11 @@ date: 2018-08-23
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg"
+image: "/images/news-old-website/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/congress-diary-from-iaml-leipzig-2018.html
 email: ''
 author: ''
 ---
-
 
 _Vier Mitarbeiter der RISM-Zentralredaktion nahmen am jährlich stattfindenden Kongress der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/congresses/2018-leipzig){:target="_blank"} in Leipzig teil. Der Tradition des [Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} folgend schildern wir - jeder in seiner Muttersprache - unsere Eindrücke._
 
@@ -21,33 +20,27 @@ Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie mögli
 
 Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
 
-
 -
 
 Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
 
-
 -
 
 Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
-
 
 -
 
 Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
 
 
-
 Neben diesen "offiziellen" RISM-Veranstaltungen waren RISM Ländergruppen MitarbeiterInnen beteiligt an sechs weiteren Veranstaltungen, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
 
 RISM wurde ansonsten bei vielen Vorträgen genannt, angefangen vom Eröffnungsvortrag durch Peter Wollny, bei Roland Schmidt-Hensels und Sabine Kurths Bericht über das Archiv des Schott Verlags und vielen mehr.
-
 
 **Von Martina Falletta:**
 Eine Dienstreise in die traditionsreiche Musikstadt Leipzig lässt man sich nicht entgehen. Es war schön, so viele Kollegen wieder getroffen und neue Kontakte geknüpft zu haben. Neben den zahlreichen informativen und interessanten Vorträgen begeisterte mich vor allem eine gut 30-minütige Führung durch die Deutsche Nationalbibliothek (DNB). Der Leipziger Standort ist seit 2010 auch Sitz des Deutschen Musikarchivs (DMA).
 
 Das Hauptgebäude am Deutschen Platz wurde im September 1916 eingeweiht. Der allgemeine Lesesaal hat ein ganz eigenes Flair und wirkt sehr imposant (siehe Foto). Bis heute hat das Gebäude mehrere Erweiterungsbauten erfahren, die sich in ihrer Gestaltung sehr voneinander abheben. Neue Arbeits- und Magazinbereiche für das DMA wurden im vierten Erweiterungsbau realisiert. Das Foyer zum Musiklesesaal ist einladend mit Tonträgern, Noten und Tonabspielgeräten gestaltet und die Hörkabine mit Surroundsystem sowie der Tonstudiokomplex sind auf höchstem technischen Niveau. Der flauschige Teppichboden vermeidet ungeliebte Schrittgeräusche. Die Atmosphäre ist insgesamt sehr gedämpft. Im Musiklesesaal stehen 18 Audioarbeitsplätze zur Verfügung, an vier davon stehen auch Klaviaturen zum Anspielen von Noten bereit.
-
 
 
 **Von Guido Kraus:**
@@ -71,4 +64,3 @@ These ideal acoustics were on full display in the two concerts Song gave. The se
 
 In between the organ tours, we had a small break in which I wandered around the town to look at the historic water tower (alas, covered by scaffolding) and find some postcard stamps. I also saw an outdoor yellow tiled mural that reminded me of the _Fürstenzug_ in Dresden. The Rötha version is a chronology of the town and if you look at the 1700s you can find the two Silbermann organs featured prominently (see picture).
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

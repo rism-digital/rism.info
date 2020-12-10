@@ -5,12 +5,11 @@ date: 2015-04-30
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Tuba_296eed917b.jpg"
+image: "/images/news-old-website/csm_Tuba_296eed917b.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-tuba-day-on-1-may.html
 email: ''
 author: ''
 ---
-
 
 Tomorrow, the first Friday in May, is International Tuba Day! This day recognizes "tubists in musical organizations around the world who have to go through the hassle of handling a tuba," according to the [official website](http://www.tubaday.com/homepage.php){:target="_blank"}.
 
@@ -38,5 +37,3 @@ Happy Tuba Day!
 Photo credit: Elongated tuba made by Emil Körner, via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Tubajuri_2004.jpg?uselang=de){:target="_blank"}. The instrument is in the Musikinstrumenten-Museum Markneukirchen.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

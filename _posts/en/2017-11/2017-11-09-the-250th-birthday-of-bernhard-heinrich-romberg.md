@@ -5,12 +5,11 @@ date: 2017-11-09
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_RombergBernhard_1314d2b2f6.jpg"
+image: "/images/news-old-website/csm_RombergBernhard_1314d2b2f6.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
 email: ''
 author: ''
 ---
-
 
 Bernhard Heinrich Romberg (baptized 13 November 1767, Dinklage – 13 August 1841, Hamburg) was a German cellist and composer.
 
@@ -24,9 +23,6 @@ Many of Romberg's works can be found in the RISM online catalog. Among the [over
 
 A [collection of historical printed music](https://sammlungen.ulb.uni-muenster.de/ulbms/nav/classification/4180434){:target="_blank"} containing music by the Romberg family is preserved at the University Library in Münster. Currently 167 of the printed editions–among them many first and early editions–have been digitized and can be viewed online. Around [70 letters](https://sammlungen.ulb.uni-muenster.de/nav/classification/4224596){:target="_blank"} from Romberg's extensive correspondence have also been digitized and you can view his letters to the Leipzig publishers Carl Friedrich Peters and Ambrosius Kühnel.
 
-
 _Image_: Bernhard Heinrich Romberg, _Le bal masqué_ for cello and orchestra (Vienna: Tobias Haslinger ca. 1836), [Universitäts- und Landesbibliothek Münster](https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4276781){:target="_blank"} (D-MÜu AA 932-1\_2; RISM ID no. [991008830](https://opac.rism.info/search?id=00000991008830&Language=en){:target="_blank"}).
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

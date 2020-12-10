@@ -5,12 +5,11 @@ date: 2015-04-28
 lang: en
 post: true
 category: in_memoriam
-image: "/uploads/_processed_/csm_foto_Schlichte_092310008c.jpg"
+image: "/images/news-old-website/csm_foto_Schlichte_092310008c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
 email: ''
 author: ''
 ---
-
 
 On Monday, April 20, 2015, Dr. Joachim Schlichte-Bierbaum died of heart disease at the age of 68. From 1982 to 1990, he was the director of the RISM Central Office.
 
@@ -25,5 +24,3 @@ We shall always treasure his memory.
 The RISM Zentralredaktion
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -5,12 +5,11 @@ date: 2019-08-22
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Logo_06_a7764d2790.jpg"
+image: "/images/news-old-website/csm_Logo_06_a7764d2790.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-digital-musicology-utrecht-2019.html
 email: ''
 author: ''
 ---
-
 
 Begleitend zur diesjährigen Digital Humanities Konferenz in Utrecht versammelten sich im Juli 2019 Musikwissenschaftler und Informatiker zu einer Tagung, bei der zahlreiche Kurzreferate vorgestellt wurden. Dieses Treffen einer ca. 50 Personen umfassenden Study Group, das in der Utrechter Universität stattfand, stand unter dem Motto Digital Musicology und wurde wesentlich von [Frans Wiering](https://www.uu.nl/medewerkers/FWiering){:target="_blank"} organisiert. Das internationale Teilnehmerfeld stellte dabei aktuelle Projekte vor, die an der Schnittstelle zwischen Forschung und Informationstechnologie im Bereich der Musikforschung angesiedelt sind.
 
@@ -26,4 +25,3 @@ Die Konferenz bot insgesamt einen sehr gelungenen Rahmen, in dem aktuelle Trends
 
 _Stephan Hirsch, RISM IT-Manager_
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

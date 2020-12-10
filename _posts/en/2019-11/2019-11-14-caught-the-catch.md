@@ -4,13 +4,12 @@ title: Caught the Catch?
 date: 2019-11-14
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/caught-the-catch.html
 email: ''
 author: Kristina Krämer
 ---
-
 
 While revising the many anthologies published by John Playford starting around 1650 (titles ranging from _Catch that Catch Can_ and _Musicks Recreation_ to _Select Ayres and Dialoges_) the entry for [B/I 1653|7](https://opac.rism.info/search?id=993121829&View=rism&Language=en){:target="_blank"} (_Select Musicall Ayres and Dialogues […] Printed by T[homas] H[arper] for John Playford_) stood out because the British Library’s digitised copy ([GB-Lbl F.51.b](http://access.bl.uk/item/viewer/ark:/81055/vdc_100049643519.0x000001){:target="_blank"}) turned out to be a curious one: the missing printed title page has been replaced by a handwritten one. However, the handwritten title page mimics the printed page so accurately that you could easily mistake it for the printed one. Closer inspection shows that the writer probably wasn’t a trained, professional scribe. In the upper right corner, for example, someone started copying the ornamental frame as well but stopped quite soon (possibly regarding it as a futile undertaking). The pencil marks that outline the rest of the frame remain. The much too slanted word “Ayres” in the seventh line is also noticeable.
 
@@ -25,5 +24,3 @@ Did you notice any other special aspects? Or do you know of similar cases?
 _Image_: [Title page of GB-Mr 1408](https://luna.manchester.ac.uk/luna/servlet/s/2wp4oj){:target="_blank"} (this copy has already been added to RISM and will be visible after the next catalog update) and the title page of GB-Lbl F.51.b.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

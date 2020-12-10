@@ -1,0 +1,31 @@
+---
+layout: default
+hero_height: is-small
+sidepanel: "sidepanels/post"
+---
+
+{% assign labels = site.data.categories %}
+{% assign label = labels | where: "id", "all" | first %}
+{% if page.pagination.category %}
+  {% assign category = labels | where: "id", page.pagination.category | first %}
+{% endif %}
+
+{% if category %}
+<h1>{{ label.name[site.active_lang] }} – {{ category.name[site.active_lang] }}</h1>
+{% else %}
+<h1>{{ label.name[site.active_lang] }}</h1>
+{% endif %}
+
+{% include paginator.html %}
+
+<div class="columns is-multiline is-variable">
+  {% for post in paginator.posts %}
+  <div class="column is-12">
+      {% include post-card.html %}
+  </div>
+  {% endfor %}
+</div>
+
+{% if paginator.posts.size > 5 %}
+  {% include paginator.html %}
+{% endif %}

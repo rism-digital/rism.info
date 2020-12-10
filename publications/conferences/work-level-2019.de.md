@@ -8,7 +8,7 @@ permalink: /publications/conferences/work-level-2019.html
 # Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM 
 
 **Konferenz mit Workshop: Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM**   
-[Konferenzflyer (pdf](/fileadmin/content/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf))
+[Konferenzflyer (pdf](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf))
 
 Bericht von Chantal Köppl auf der Webseite der [Gesellschaft für Musikforschung  
 ](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}
@@ -36,17 +36,17 @@ Die Präsentationen werden in Kürze auf YouTube zur Verfügung stehen.
 - Begrüßung durch die Akademie der Wissenschaften und der Literatur, Mainz
 - Klaus Pietschmann (Universität Mainz, RISM Board of Directors): Opening Remarks 
 - Klaus Keil (RISM Zentralredaktion): Work Titles in RISM, Planned Procedure, and Perspectives  
-[Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Keil_Introduction.pdf) [Video auf YouTube](https://youtu.be/QTCYByDgN_w){:target="_blank"}  
+[Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Keil_Introduction.pdf) [Video auf YouTube](https://youtu.be/QTCYByDgN_w){:target="_blank"}  
  
 - Stephan Hirsch (RISM Zentralredaktion): Technical Aspects  
-[Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Hirsch_Work_entity_in_RISM.pdf) [Video auf YouTube](https://youtu.be/LD0d3WaHOEs){:target="_blank"}
+[Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Hirsch_Work_entity_in_RISM.pdf) [Video auf YouTube](https://youtu.be/LD0d3WaHOEs){:target="_blank"}
 
 **14:50–15:30 Werktitel in Nationalbibliotheken und -Verbünden (I)**
 
 - Constanze Schumann und Jürgen Kett (Die Deutsche Nationalbibliothek): Die Werktitel der GND (Gemeinsame Normdatei)  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3881) [Video auf YouTube](https://youtu.be/Y-3D2s_qR90){:target="_blank"}
 - Caroline Shaw (The British Library): The Musical Work: Pragmatic Approaches to an Abstract Entity  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) [Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) [Video auf YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) [Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) [Video auf YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
 
 **15:30–16:00 Kaffeepause**
 
@@ -62,9 +62,9 @@ Die Präsentationen werden in Kürze auf YouTube zur Verfügung stehen.
 **9:00–10:00 Werktitel in Nationalbibliotheken und -Verbünden (III)**
 
 - María Teresa Delgado Sánchez (Nationalbibliothek, Spanien): Standardization in the National Library of Spain: Name Authority Headings and Name-Title Authority Headings in Musical Works  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3894) [Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Delgado_RISM_English_NatLibrarySpain.pdf)
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3894) [Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Delgado_RISM_English_NatLibrarySpain.pdf)
 - Maria Aslanidi und Michalis Stefanidakis (Ionian University, Korfu, Griechenland): Library Reference Model and MARC 21 Format for Authority Data: A Case Study on the (Musical) Work Entity  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3895) [Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Stefanidakis_Aslanidi_Library_Reference_Model_MARC_21.pdf) [Video auf YouTube](https://youtu.be/VUG4q-hky5Y){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3895) [Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Stefanidakis_Aslanidi_Library_Reference_Model_MARC_21.pdf) [Video auf YouTube](https://youtu.be/VUG4q-hky5Y){:target="_blank"}
 - Nancy Lorimer (Stanford University Libraries, USA): A Multitude of Works: Modelling Musical Works in BIBFRAME  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3896) [Video auf YouTube](https://youtu.be/PJXR2u8Z01U){:target="_blank"}  
  
@@ -116,7 +116,7 @@ Die Präsentationen werden in Kürze auf YouTube zur Verfügung stehen.
 **9:00–10:20 Komponisten und ihre Werktitel**
 
 - Daniel Boomhower (Dumbarton Oaks, USA): J. S. Bach, the Meanings of Print, and the Implications for Work Records  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3906) [Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Boomhower_Bach_Print_workRecords.pdf) [Video auf YouTube](https://youtu.be/b1fUhaZsaYE){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3906) [Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Boomhower_Bach_Print_workRecords.pdf) [Video auf YouTube](https://youtu.be/b1fUhaZsaYE){:target="_blank"}
 - Luca Lévi Sala (Université de Montréal, Kanada): The Textual Tradition of Muzio Clementi’s Output: Consistency and the Problem of the Work Title  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3907) [Video auf YouTube](https://youtu.be/BaApWeFZRNc){:target="_blank"}
 - Jacek Iwaszko, Marcelina Chojecka (The Fryderyk Chopin Institute, Polen): The "Work" in RISM within Projects of the Polska Cyfrowa POPC (2018-2020 and 2019-2021)  
@@ -132,7 +132,7 @@ Die Präsentationen werden in Kürze auf YouTube zur Verfügung stehen.
 Abstract](/publications/conferences/work-level-2019/abstracts.html#c3940)  
  
 - Sonia Wronkowska (Polish RISM Centre, National Library of Poland): Parody or Contrafactum? Revising RISM Guidelines for Derivative Works of Music  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3911) [Folien](/fileadmin/content/community-content/events/2019_Work_level_RISM/Wronkowska_RISM_Mainz_2019.pdf) [Video auf YouTube](https://youtu.be/ucC1qoz5hKA){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3911) [Folien](/resources-old-website/community-content/events/2019_Work_level_RISM/Wronkowska_RISM_Mainz_2019.pdf) [Video auf YouTube](https://youtu.be/ucC1qoz5hKA){:target="_blank"}
 - Gesa zur Nieden (Universität Mainz, Universität Greifswald, Deutschland), Jonathan Gammert (Universität Mainz, Deutschland): Ist es ein Werk? FRBR-basierte Werkkonzeptionen des Opernpasticcios  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3942)
 - Andrea Zedler (Universität Bayreuth, Deutschland): Chamäleons der Musikgeschichte: Opere buffe und die Werkebenenproblematik   

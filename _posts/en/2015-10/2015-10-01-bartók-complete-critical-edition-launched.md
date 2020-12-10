@@ -5,12 +5,11 @@ date: 2015-10-01
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
+image: "/images/news-old-website/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bartok-complete-critical-edition-launched.html
 email: info@henle.de
 author: G. Henle Verlag
 ---
-
 
 _This news originally appeared on the [website of the G. Henle Verlag](http://www.henle.de/en/home/bartk-complete-edition-launched.html){:target="_blank"} (whose CEO, Wolf-Dieter Seiffert, is also the RISM president) and are reprinting it with kind permission._ _RISM has just a handful of works by Bartók in the [RISM database](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"}._
 
@@ -41,10 +40,5 @@ _Wolf-Dieter Seiffert (G. Henle Publishers), Péter Halász(Translator) and Malc
 
 ![Henle Bartók 3](http://www.henle.de/files/bartok_vertragsunterschrift_300breit.jpg)
 _On 25 September Wolf-Dieter Seiffert and Antal Boronkay signed the cooperation treaty of both publishers._
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
 

@@ -5,12 +5,11 @@ date: 2018-02-14
 lang: en
 post: true
 category: events
-image: "/uploads/_processed_/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg"
+image: "/images/news-old-website/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/be-my-robert-valentine.html
 email: ''
 author: ''
 ---
-
 
 Today is Valentine's Day, and the perfect Valentine for all music lovers is the music of Robert Valentine.
 
@@ -26,9 +25,6 @@ See:
 Michael Talbot, "Robert Valentine and the Roman Concerto Grosso," _[Ad Parnassum:](http://www.adparnassum.org/issues_contents.php?num=27){:target="_blank"} A Journal of Eighteenth- and Nineteenth-Century Instrumental Music_ 14 (April 2016): 1-36. We are grateful to Prof. Talbot for calling our attention to this article.
 
 
-
 _Image_: Robert Valentine, _Sonate di flauto a solo col basso per il cimbalo o violone_, op. 2, 1st sonata, in F, p. 2. RISM A/I: [V 50](https://opac.rism.info/search?id=00000990065089&Language=en){:target="_blank"}. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90790357){:target="_blank"}, with the help of [PhotoFunny.net](https://www.photofunny.net/out/568380950381200201){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

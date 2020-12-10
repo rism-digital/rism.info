@@ -4,15 +4,14 @@ title: 100 Tage Muscat
 date: 2017-03-20
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_muscat_02_d52c22eeb7.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_muscat_02_d52c22eeb7.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/100-days-of-muscat.html
 email: ''
 author: ''
 ---
 
-
-Vor gut 100 Tagen wurde das speziell für uns entwickelte Katalogisierungsprogramm [Muscat](/de/community/muscat.html#c3306) freigeschaltet! Über 150 Personen auf der ganzen Welt nutzen Muscat seit der Freigabe und mehr als 3.700 Einträge weist der RISM Online-Katalog seit dem Release im November 2016 zusätzlich auf.
+Vor gut 100 Tagen wurde das speziell für uns entwickelte Katalogisierungsprogramm [Muscat](/community/muscat.html#c3306) freigeschaltet! Über 150 Personen auf der ganzen Welt nutzen Muscat seit der Freigabe und mehr als 3.700 Einträge weist der RISM Online-Katalog seit dem Release im November 2016 zusätzlich auf.
 
 Muscat wird ständig weiter entwickelt. Seit der Freigabe wurden die italienischen Richtlinien ergänzt und eine spanische Version ist in Vorbereitung.
 
@@ -31,5 +30,3 @@ Bibliothekssysteme wenden sich generell webbasierten Anwendungen zu. Die Harvard
 Am 24. Februar 2017 gaben zwei Mitglieder der U.S. RISM Arbeitsgruppe – Leiterin Sarah J. Adams und Mitarbeiterin Christina Linklater – bei dem [Jahrestreffen](http://www.musiclibraryassoc.org/BlankCustom.asp?page=mla_2017){:target="_blank"} der Music Library Association in Orlando (Florida) eine kurze Präsentation zu Muscat und boten ein praktisches Training in der Testdatenbank an. Wir waren erfreut, dass unsere MLA-Kollegen genauso begeistert von den Möglichkeiten des Programms sind, wie wir; die Echtzeitwiedergabe von Incipits in Muscat wurde vom Publikum besonders gut angenommen.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

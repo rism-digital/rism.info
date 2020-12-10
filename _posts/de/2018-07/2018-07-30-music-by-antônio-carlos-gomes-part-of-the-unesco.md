@@ -4,13 +4,12 @@ title: Musik von Antônio Carlos Gomes in der Liste des Weltdokumentenerbes der 
 date: 2018-07-30
 lang: de
 post: true
-category: press_reviews
-image: "/uploads/_processed_/csm_Carlos_Gomes_62dbc726c8.jpg"
+category: in_the_news
+image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''
 ---
-
 
 Kürzlich beleuchteten wir anlässlich des [Europäischen Kulturerbejahres](http://europa.eu/cultural-heritage/european-year-cultural-heritage_de){:target="_blank"} die [musikalischen Einträge in der Liste des Weltdokumentenerbes](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1625&cHash=e0a933184e2232321f4dc19226b59f74){:target="_blank"}. Rosana Lanzelotte wies uns darauf hin, dass diese Liste im letzten Jahr um [Dokumente](http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-1/antonio-carlos-gomes/){:target="_blank"} eines Komponisten erweitert wurde, über den Giuseppe Verdi sagte: „Questo giovane comincia dove finisco io“ (Dieser Junge beginnt, wo ich aufgehört habe): Antônio Carlos Gomes (1836-1896)
 
@@ -20,4 +19,3 @@ Nach 1880 lebte Gomes abwechselnd in Brasilien und Italien und wurde so zum „K
 
 _Abbildung_: Titelblatt der Partitur zur Oper_Il Guarany_, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Guarany_Score_Front_Cover.jpg?uselang=en){:target="_blank"}.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

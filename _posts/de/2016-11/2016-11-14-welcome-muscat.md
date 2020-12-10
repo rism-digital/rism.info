@@ -4,15 +4,14 @@ title: Willkommen Muscat!
 date: 2016-11-14
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_muscat_01_bd2a4aa088.png"
+category: new_at_rism
+image: "/images/news-old-website/csm_muscat_01_bd2a4aa088.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/welcome-muscat.html
 email: ''
 author: ''
 ---
 
-
-Seit heute steht [Muscat](/de/community/muscat.html) allen RISM-Mitarbeitern als zentrales Erfassungssystem für Musikquellen zur Verfügung. Enthalten sind hier erstmals zusammengefasst Quellen aus verschiedenen RISM-Serien A/I, A/II sowie B/I, die bisher in verschiedenen Anwendungen und Datenbanken gepflegt wurden. Muscat umfasst nun insgesamt 1.076.242 Musikquellen, 110.128 Personendatensätze, 73.528 Körperschaften sowie 33.133 Einträge zur Sekundärliteratur und über 13.000 Digitale Objekte.
+Seit heute steht [Muscat](/community/muscat.html) allen RISM-Mitarbeitern als zentrales Erfassungssystem für Musikquellen zur Verfügung. Enthalten sind hier erstmals zusammengefasst Quellen aus verschiedenen RISM-Serien A/I, A/II sowie B/I, die bisher in verschiedenen Anwendungen und Datenbanken gepflegt wurden. Muscat umfasst nun insgesamt 1.076.242 Musikquellen, 110.128 Personendatensätze, 73.528 Körperschaften sowie 33.133 Einträge zur Sekundärliteratur und über 13.000 Digitale Objekte.
 
 Die Zeilanforderungen von Muscat, auf Basis [freier, quelloffener Software](https://github.com/rism-ch/muscat){:target="_blank"} eine multilinguale Webanwendung zu entwickeln, dermit Marc21 ein international verbreitetes und standadisiertes Datenmodell zugrunde liegt, wurden deutlich übertroffen. Als zusätzliche Features sind hier zu nennen:
 
@@ -40,8 +39,3 @@ Mit der Einführung von Muscat besteht für Universitäts-, Bibliotheks-, Archiv
 
 An alle bestehenden Ländergruppen, Partner und andere Beitragende sowie zukünfige Kollegen: Wir freuen uns auf die Zusammenarbeit mit Ihnen!
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

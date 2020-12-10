@@ -4,13 +4,12 @@ title: Christian Gotthilf Tag @ RISM
 date: 2011-08-02
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_TagVorsehung_2be77f5aac.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_TagVorsehung_2be77f5aac.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-gotthilf-tag-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 Christian Gotthilf Tag (2 April 1735 – 19 July 1811) was a notable German cantor, organist, and composer of the 18th century. Although his influence was only felt in Saxony, a variety of copies and commissions from Hamburg, Berlin, and Danzig have lead to his works being preserved today throughout Germany, Poland, Denmark, and the United States (see the records in the [RISM online catalog](https://opac.rism.info/search?View=rism&author=Christian+Gotthilf+Tag){:target="_blank"}).
 

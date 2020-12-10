@@ -5,12 +5,11 @@ date: 2014-09-29
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Eitner_cbaf4952ad.jpg"
+image: "/images/news-old-website/csm_Eitner_cbaf4952ad.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-from-a-to-z-robert-eitner.html
 email: ''
 author: ''
 ---
-
 
 _We are pleased to present the following article written by our intern, Martin Bierwisch:_
 
@@ -28,4 +27,3 @@ And for now something completely different, did you know that Robert Eitner even
 
 Image credit: [Wikipedia](http://de.wikipedia.org/wiki/Datei:Eitner.jpg){:target="_blank"}
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

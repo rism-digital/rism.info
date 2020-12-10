@@ -4,13 +4,12 @@ title: Romantische Satire - "Mit Musik."
 date: 2018-09-06
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/romantic-satire-with-music.html
 email: lkoehler@stud.uni-frankfurt.de
 author: Charlotte Köhler
 ---
-
 
 _Ein Beitrag unserer Praktikantin Charlotte Köhler:_
 
@@ -25,11 +24,8 @@ Schlegels Satire besteht aus Verstexten verschiedener Art und einem Drama in zwe
 <iframe src="https://player.vimeo.com/video/228466902" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-
 Auch wenn z.B. die [Briefe](https://www.august-wilhelm-schlegel.de/briefedigital/){:target="_blank"}belegen, dass der Schlegelsche Haushalt über ein „Clavier“ verfügte, ist über eine musikalische Betätigung oder weitere Kompositionen August Wilhelm Schlegels bisher nichts bekannt. Die Anlage der Stücke ist musikalisch und harmonisch eher einfach, unterstreicht dafür aber umso pointierter den Text. Dieser Zusammenhang lässt es möglich erscheinen, dass der Autor, Übersetzer und Wissenschaftler hier – der kompromisslosen Umsetzung der romantischen Idee verpflichtet – zum Gelegenheits-Komponisten geworden ist. Wer weiß mehr? Hinweise aller Art sind herzlich willkommen!
 
 _Abbildung_: Titelblatt des Exemplars im Goethehaus, Frankfurt am Main (D-Ff) Signatur IX K 90 / S 1. Foto von Charlotte Köhler mit freundlicher Genehmigung des Freien Deutschen Hochstift.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

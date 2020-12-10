@@ -4,13 +4,12 @@ title: Preview of New Records for Polish Music in RISM
 date: 2020-03-16
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_pl-wtm-r926-0005_f0490f118a.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_pl-wtm-r926-0005_f0490f118a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/preview-of-new-records-for-polish-music-in-rism.html
 email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---
-
 
 _We have received the following from Marcelina Chojecka (RISM Poland, [Narodowy Instytut Fryderyka Chopina](https://nifc.pl/pl){:target="_blank"}):_
 
@@ -36,11 +35,8 @@ Between August 2019 and January 2020, the Fryderyk Chopin Institute has catalogu
 - Ignacy Feliks Dobrzyński (1807–1867) – 62.
 
 
-
 The sources are kept in the Library, Museum and Archive of Warszawskie Towarzystwo Muzyczne im. S. Moniuszki in Warsaw ([in RISM under PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm){:target="_blank"}). Thanks to a subsidy from European Union funds, the Fryderyk Chopin Institute is taking part in the project POPC "Polish music heritage in open access," which will allow all music sources from Warszawskie Towarzystwo Muzyczne im. S. Moniuszki to be cataloged. At the moment, cataloging is in process, so these records are not yet published in the RISM online catalog. In one year's time we are planning to finish all the collections of printed music and manuscripts, and then publish the records.
-
 
 
 _Images_: Józef Elsner, "Muzyka do Mszy polskiej," op. 79 (1843), autograph manuscript that was in possession of Polish composer Adam Münchheimer in 1882. PL-Wtm, R 926 (RISM ID no. 1001082488)
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

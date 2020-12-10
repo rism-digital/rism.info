@@ -5,16 +5,15 @@ date: 2015-02-05
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_978-3-429-03715-4_01_b10e8eb99a.jpg"
+image: "/images/news-old-website/csm_978-3-429-03715-4_01_b10e8eb99a.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/catalog-of-the-music-of-the-diocese-of-wuerzburg-published.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-
 _From RISM Germany we bring you the following:_
 
-At the end of 2014, Dieter Kirsch, former director and professor at the Hochschule für Musikin Würzburg, and who was most recently [awarded an honorary doctorate](/self_representation/2014/07/28/congratulations-to-our-rism-colleague-dieter.html){:target="_blank"} from the same institution, has published the monumental Katalog der Musikalien derDiözeseWürzburg (Catalog of the Music of the Diocese of Würzburg). The catalog documents the music manuscripts and printed music from the diocesan archives and numerous items (ca. 170) on deposit at other parishes of the diocese.
+At the end of 2014, Dieter Kirsch, former director and professor at the Hochschule für Musikin Würzburg, and who was most recently [awarded an honorary doctorate](/new_at_rism/2014/07/28/congratulations-to-our-rism-colleague-dieter.html){:target="_blank"} from the same institution, has published the monumental Katalog der Musikalien derDiözeseWürzburg (Catalog of the Music of the Diocese of Würzburg). The catalog documents the music manuscripts and printed music from the diocesan archives and numerous items (ca. 170) on deposit at other parishes of the diocese.
 
 Kirsch volunteered years of service to catalog the over 11,500 sources. Most items are from the nineteenth century but pieces from the eighteenth century are present as well. The second volume focuses on collected printed sources from the nineteenth century in addition to some works from the early seventeenth century.
 
@@ -23,5 +22,3 @@ This catalog was created through the cooperation of the RISM Germany - Munich of
 Kirsch, Dieter. _Die Musikalien der Diözese Würzburg_. Quellen und Studien zur Musikgeschichte Würzburgs und Mainfrankens. Würzburg: Echter, 2014.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

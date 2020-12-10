@@ -5,12 +5,11 @@ date: 2016-04-04
 lang: en
 post: true
 category: electronic_resources
-image: "/uploads/_processed_/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
+image: "/images/news-old-website/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/corpus-musicae-ottomanicae.html
 email: ''
 author: ''
 ---
-
 
 A new project has started that aims to prepare critical editions of important Ottoman music manuscripts from the nineteenth century. The project [Corpus Musicae Ottomanicae](http://www.uni-muenster.de/CMO-Edition/cmo/cmo.html){:target="_blank"} (CMO) began in October 2015 and their website was launched this March. The project is based in Münster, Bonn, and Istanbul with partners at the University of Münster ([Institute for Musicology](https://www.uni-muenster.de/Musikwissenschaft/){:target="_blank"}), the [Oriental Institute](http://www.maxweberstiftung.de/en/institute/institute-oi-istanbul.html){:target="_blank"} in Istanbul, and the publishing platform [perspectivia.net](http://www.perspectivia.net/){:target="_blank"}, and is funded by the Deutsche Forschungsgemeinschaft.
 
@@ -20,9 +19,6 @@ In the first phase of the CMO project, critical editions will be prepared based 
 
 The CMO project involves working with scholars, libraries, and archives to locate music manuscripts. A catalog of sources is being developed by the Oriental Institute in Istanbul that will organize information about printed editions of the nineteenth and twentieth centuries as well as handwritten sources. This catalog will be linked with the CMO. The CMO will be an exciting project to keep our eyes on as they make these manuscripts widely accessible.
 
-
 _Image:_ "Ṣabā pīşrevi" [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 - 1885)]. Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5. Published with kind permission from CMO.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

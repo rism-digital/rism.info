@@ -5,19 +5,17 @@ date: 2017-05-22
 lang: de
 post: true
 category: events
-image: "/uploads/_processed_/csm_Grimma_RISM_8d9ab3cac6.jpg"
+image: "/images/news-old-website/csm_Grimma_RISM_8d9ab3cac6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
-
 
 _Dieser Beitrag stammt von Andrea Hartmann ([RISM Deutschland - Arbeitsstelle Dresden](http://de.rism.info/en/home.html){:target="_blank"}:_
 
 Hingewiesen sei auf eine kleine Sonderausstellung im Rahmen der diesjährigen [Tage Mitteldeutscher Barockmusik](http://www.unmittelbarock.de/){:target="_blank"} in Grimma (bei Leipzig).
 
 **„Wie der Hirsch schreyet nach frischem Wasser“ – Grimmaer Musik(leben) um 1700**
-
 
 [Kreismuseum Grimma](http://www.museum-grimma.de/index.php/geschichte.html){:target="_blank"}
 **Ausstellungszeitraum** : 19. bis 28. Mai 2017
@@ -31,5 +29,3 @@ Die Musikhandschriften sind im [RISM Online-Katalog](https://opac.rism.info/sear
 Inzwischen wurden auch rund 1.000 Handschriften im Rahmen des Landesdigitalisierungsprogramm für Wissenschaft und Kultur des Freistaats Sachsen digitalisiert. Die Digitalisate können direkt aus den Einträgen im RISM-Katalog heraus aufgerufen werden, aber auch ein Stöbern in den [Digitalen Sammlungen](http://digital.slub-dresden.de/kollektionen/107/){:target="_blank"} der Sächsischen Landesbibliothek- Staats- und Universitätsbibliothek Dresden ist möglich.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

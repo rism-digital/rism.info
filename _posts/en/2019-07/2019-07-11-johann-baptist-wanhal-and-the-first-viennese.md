@@ -4,13 +4,12 @@ title: Johann Baptist Wanhal and the First Viennese School
 date: 2019-07-11
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Wanhal_1_fb4acaf107.png"
+category: library_collections
+image: "/images/news-old-website/csm_Wanhal_1_fb4acaf107.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-baptist-wanhal-and-the-first-viennese-school.html
 email: ''
 author: Paul Sommerfeld
 ---
-
 
 _The following post originally appeared on the ["In the Muse" blog from the Library of Congress](https://blogs.loc.gov/music/2019/05/johann-baptist-wanhal-and-the-first-viennese-school){:target="_blank"} and is by Paul Sommerfeld, who is currently updating the holdings of his library's rich collection of printed music in RISM._
 
@@ -34,7 +33,6 @@ The images in this blog post [all come from scores recently reported to RISM](ht
 
 [1] Paul Bryan, Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment (Stuyvesant, NY: Pendragon, 1997), xix.
 
-
 _Images, top to bottom:_
 
 1: Johann Baptist Wanhal. Oil Painting by Joseph Willibrod Mähler in possession of the Gesellschaft der Musikfreunde, Vienna. In [_Johann Wanhal, Viennese Symphonist: His Life and His Musical Environment_](https://lccn.loc.gov/97025760).
@@ -46,5 +44,3 @@ _Images, top to bottom:_
 4: The first page of an especially exquisite Adagio movement in a piano sonata by Wanhal, published in _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

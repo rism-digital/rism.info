@@ -4,13 +4,12 @@ title: Holdings of the Berlin Sing-Akademie Cataloged
 date: 2011-05-13
 lang: en
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_677px-Gaertner2_d811bdda77.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_677px-Gaertner2_d811bdda77.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/holdings-of-the-berlin-sing-akademie-cataloged.html
 email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---
-
 
 The complete archival holdings of the BerlinSing-Akademie have been cataloged. The collection, which is of high importance to musicians and musicologists, was believed to be lost after the Second World War but was discovered in the Ukraine in 1999. In 2001, it was returned to the Berlin State Library. All of the Sing-Akademie's holdings are described in RISM's [online catalog](https://opac.rism.info/search?View=rism&siglum=D-Bsa){:target="_blank"}.
 

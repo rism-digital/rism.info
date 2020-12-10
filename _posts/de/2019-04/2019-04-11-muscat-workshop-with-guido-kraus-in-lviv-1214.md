@@ -4,13 +4,12 @@ title: Muscat-Workshop mit Guido Kraus in L'viv (12.-14. Februar 2019)
 date: 2019-04-11
 lang: de
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_RISM_in_L_viv_002_070b499097.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_RISM_in_L_viv_002_070b499097.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
 email: forschung@angelikamoths.com
 author: Angelika Moths
 ---
-
 
 _Der folgende Beitrag stammt von Angelika Moths:_
 
@@ -29,5 +28,3 @@ Das primäre Ziel der HSC, die sich als Vermittlerin in diesem Prozess sieht, is
 Nach Abschluss des oben erwähnten Pilotprojektes sollen die Ergebnisse in einer Präsentation zusammengefasst werden, die dann weitere Bibliotheken als Grundlage und Ermutigung verwenden können, ihre Musikalien bei RISM zu erfassen und somit international sichtbar zu machen. Wir erhoffen uns davon weitere internationale Kooperationen mit anderen europäischen Bibliotheken, um gemeinsam nach Finanzen suchen zu können und damit die RISM-Arbeit in der Ukraine auszuweiten.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

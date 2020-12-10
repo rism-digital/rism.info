@@ -5,12 +5,11 @@ date: 2015-07-13
 lang: en
 post: true
 category: rism_a_z
-image: "/uploads/_processed_/csm_Galuppi_0316ebe6da.png"
+image: "/images/news-old-website/csm_Galuppi_0316ebe6da.png"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/baldassare-galuppi-1706-1785.html
 email: ''
 author: ''
 ---
-
 
 The 2014/2015 opera and theater season is wrapping up, so let's take the opportunity to combine our series RISM A-Z with a current production.
 
@@ -23,5 +22,3 @@ Among the RISM sources are also two contrafacta: Erissena's aria "Son confusa pa
 Image credit: Page from a later printed version of the libretto depicting a scene from act III, scene XII: "Ferma. È tempo di morte, e non d’amori.“ (Paris: Herissant, 1780). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png#/media/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png){:target="_blank"}.
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

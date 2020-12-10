@@ -1,7 +1,7 @@
 ---
 title: "Who uses RISM?"
 layout: organization
-lang: en
+lang: de
 permalink: /organization/who-uses-rism.html
 ---
 
@@ -25,13 +25,13 @@ permalink: /organization/who-uses-rism.html
 
 **Anna Pensaert**, Cambridge University, ["A few of my favourite things," MusiCB3 blog](https://musicb3.wordpress.com/2015/10/30/a-few-of-my-favourite-things/){:target="_blank"}
 
-"The [RISM](http://www.rism.info/en/home/newsdetails/browse/4/article/64/printed-music-ai-and-bi-now-in-risms-online-catalog.html) online catalogue of musical sources has been extended last May to include the entire contents of A/I, Individual Prints before 1800 and a portion of B/I, Recueils imprimés, XVIe-XVIIe siècles (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Not only is this making my life as a music librarian much more comfortable, I would have absolutely loved this in my student days."
+"The [RISM](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html) online catalogue of musical sources has been extended last May to include the entire contents of A/I, Individual Prints before 1800 and a portion of B/I, Recueils imprimés, XVIe-XVIIe siècles (Printed collections of the 16th-17th centuries), covering the years 1500-1550. Not only is this making my life as a music librarian much more comfortable, I would have absolutely loved this in my student days."
 
 **Prof. Michael Schneider** (Hochschule für Musik und Darstellende Kunst, Frankfurt am Main; Dirigent des Ensembles La Stagione Frankfurt)
 
 "Als Musiker der Historischen Interpretationspraxis, der gleichermaßen praktisch wie wissenschafllich arbeitet, bin ich ständig auf der Suche nach musikalischen Originalquellen. Dies betrifft sowohl Handschriften oder Drucke eher unbekannter Werke als auch die der "Klassiker". Die Arbeit des RISM ist mir bei dieser täglichen Arbeit eine unschätzbare und unersetzliche Hilfe. Dies betrifft die gedruckten Bände zu den Musikdrucken, die mittlerweile über das Internet öffentlich zugängige Recherche zu den Manuskripten als auch die persönliche Betreuung vor Ort durch die Mitarbeiter des RISM. Ich bin jedenfalls dankbar darüber, daß dieses für die Musikwelt so wichtige Institut zufällig in Frankfurt beheimatet ist!"
 
-Und hier einige Kommentare aus unserer [RISM Umfrage](/community/survey-2014-2015.html) (2014-2015):
+Und hier einige Kommentare aus unserer [RISM Umfrage](/community/survey.html) (2014-2015):
 
 * "A powerful tool for research." (Vereinigte Staaten)
 * "Einfach die 'erste Adresse'." (Deutschland)

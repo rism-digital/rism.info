@@ -5,12 +5,11 @@ date: 2015-09-24
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
+image: "/images/news-old-website/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-encyclopaedia-of-music-in-ireland-emir.html
 email: ''
 author: ''
 ---
-
 
 New on our bookshelves is:
 
@@ -65,5 +64,3 @@ EMIR provides a wealth of information about the people who shaped Irish musical 
 [Woodward, Richard](https://opac.rism.info/search?View=rism&author=Woodward+Richard){:target="_blank"} (1743c-1777)
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

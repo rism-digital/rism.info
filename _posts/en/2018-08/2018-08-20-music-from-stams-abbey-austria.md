@@ -5,12 +5,11 @@ date: 2018-08-20
 lang: en
 post: true
 category: new_publications
-image: "/uploads/_processed_/csm_DVD_Stift_Stams_eda7b32d23.jpg"
+image: "/images/news-old-website/csm_DVD_Stift_Stams_eda7b32d23.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-from-stams-abbey-austria.html
 email: rism.hh@musikland-tirol.at
 author: Manfred Schneider
 ---
-
 
 The music archive of Stams Abbey is the musical treasure room of Tyrol. The collection contains several thousand music manuscripts and music printed editions, which fortunately have survived in the abbey despite repeated threats to their preservation. The significance of the archive, which has a research value that goes beyond regional studies, lies above all in the fact that an enormously dense collection of sources is preserved from the transitional period from the Baroque to the Classical music style during the second half of the eighteenth century. The musicologist Hildegard Herrmann-Schneider has meticulously catalogued this splendid collection and made it accessible in the RISM catalog (RISM library siglum: [A-ST](https://opac.rism.info/search?View=rism&siglum=A-ST&Language=en){:target="_blank"}). This enabled Manfred Schneider to present a large number of compositions to the public through concerts with accompanying CDs as part of his project of an acoustic music history of Tyrol.
 
@@ -31,5 +30,3 @@ With support of the cultural department of the Tyrolean government.
 © Institut für Tiroler Musikforschung Innsbruck 2017 - All rights reserved - [www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}
 
 
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

@@ -4,20 +4,18 @@ title: Giovanni Gabrieli @ RISM
 date: 2012-08-15
 lang: en
 post: true
-category: self_representation
-image: "/uploads/_processed_/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
+category: new_at_rism
+image: "/images/news-old-website/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/giovanni-gabrieli-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
-
 
 August 12 marks the 400th anniversary of the death of Giovanni Gabrieli (ca. 1554 - 1612). His music represents the high point of the Venetian School. Together with Claudio Monteverdi, he helped with the transition of Italian music from the Renaissance to the Baroque. Early on, he made use of basso continuo in his compositions and began a new era with his canzonas.
 
 Gabrieli’s career began in Germany, when he was a member of the Hofkapelle in Munich under Orlando di Lasso from 1576-1579. During his 33-year tenure in Venice, and prompted by the large organs that were across from each other at the San Marco basilica, he perfected polychoral music, sometimes employing large instrumental forces.
 
 Giovanni Gabrieli’s oeuvre essentially consists of three genres. The motets (concerti), madrigals, and instrumental music mirror his lifelong associations with San Marco in Venice, the Scuola di San Rocco, and other churches.
-
 
 
 Gabrieli also had an exceptionally good reputation as a teacher. Representatives from all over northern and central Europe sent their musicians, including Hans Leo Hassler and Heinrich Schütz, to Venice to study with Gabrieli.

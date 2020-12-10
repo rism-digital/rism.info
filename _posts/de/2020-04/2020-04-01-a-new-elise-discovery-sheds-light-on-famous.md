@@ -5,12 +5,11 @@ date: 2020-04-01
 lang: de
 post: true
 category: rediscovered
-image: "/uploads/_processed_/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
+image: "/images/news-old-website/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
 email: ''
 author: ''
 ---
-
 
 Eine kürzlich entdeckte Musikhandschrift aus dem frühen 19. Jahrhundert lässt Musikwissenschaftler aus aller Welt spekulieren, ob sie der wahren Identität der Widmungsträgerin von Ludwig van Beethovens berühmter Bagatelle Für Elise einen Schritt näher gekommen sind.
 
@@ -28,4 +27,3 @@ Nachforschungen im Kirchenarchiv von St. Ausonia ergaben, dass Kuneus bereits 17
 
 _Pour Nathalie_ von Kuneus wird in genau einem Jahr seine moderne Erstaufführung mit historischen Instrumenten und Kostümen feiern, so Hoek, Lyne und Sincker.
 
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

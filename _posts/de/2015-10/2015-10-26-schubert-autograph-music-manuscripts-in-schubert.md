@@ -4,13 +4,12 @@ title: Schubert-Autographe in Schubert online
 date: 2015-10-26
 lang: de
 post: true
-category: library_stocks
-image: "/uploads/_processed_/csm_Schubert_online_01_9a6a396202.jpg"
+category: library_collections
+image: "/images/news-old-website/csm_Schubert_online_01_9a6a396202.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/schubert-autograph-music-manuscripts-in-schubert-online.html
 email: ''
 author: ''
 ---
-
 
 Alle autographe Musikhandschriften von Franz Schubert (1797-1828), die in der Staatsbibliothek zu Berlin (SBB; rund 60 Autographe) aufbewahrt werden, - wurden als Teil des Projektes "Schubert online" digitalisiert und in der RISM-Datenbank katalogisiert. Die digitalisierten Werke sind in [Schubert Online](http://www.schubert-online.at/activpage/index.php){:target="_blank"}, in den [digitalen Sammlungen der SBB](http://digital.staatsbibliothek-berlin.de/){:target="_blank"} und im [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} verfügbar.
 
@@ -24,15 +23,8 @@ Die umfangreichste Sammlung von Schubert-Autographen befindet sich heute in der 
 
 Angesichts des vielfach komplementären Verhältnisses der Wiener und Berliner Bestände beteiligt sich die Staatsbibliothek zu Berlin an dem Portal Schubert online, das bereits seit einigen Jahren die Wiener Quellen online zugänglich macht und durch die Beteiligung der SBB und weiterer Bibliotheken nach und nach zu einem zentralen Anlaufpunkt für das virtuelle Studium der Eigenschriften Franz Schuberts ausgebaut werden soll.
 
-
 _Abbildung:_ Franz Schubert: Erlkönig, D 328. Autographe Reinschrift im Liederheft für Johann Wolfgang von Goethe (D-B Mus.ms.autogr. Schubert, F. 1, p. 25. [RISM ID no. 464000243](https://opac.rism.info/search?id=464000243){:target="_blank"})
-
 
 
 _Teile des Textes wurden mit freundlicher Genehmigung von der[Schubert Online Projektseite](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"} der SBB übernommen._
 
-
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>

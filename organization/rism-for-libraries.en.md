@@ -15,9 +15,9 @@ RISM has a long tradition of working with libraries. We would like to strengthen
 
 **Guides to the RISM online catalog:** We have created some guides to the online catalog about various topics. They are linked on [opac.rism.info](http://opac.rism.info)'s Help page.
 
-Also look at past [IAML congresses](/publications/iaml-congresses.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
+Also look at past [IAML congresses](/publications.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
 
-**Live demonstrations**: A member of the RISM Zentralredaktion (Central Editorial Office) can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info "Opens window for sending email") to schedule a demonstration. Possible topics include:
+**Live demonstrations**: A member of the RISM Editorial Center can conduct a free, web-based demonstration on several topics related to RISM, in English or German. This is an ideal way for librarians, faculty, or students to become acquainted with RISM and learn how to use RISM's publications for research. [Contact us](mailto:contact@rism.info) to schedule a demonstration. Possible topics include:
 
 * An overview of the RISM project
 * Tutorial of the RISM [online catalog](https://opac.rism.info/){:target="_blank"} (manuscripts and printed music)
@@ -25,13 +25,15 @@ Also look at past [IAML congresses](/publications/iaml-congresses.html){:target=
 
 **Logos**: Logos are available below for download or for direct copying and pasting onto your library's website. Right-click on the image to either copy it or save it as a local file.
 
-**Poster**: This [RISM poster]( /organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
+**Poster**: This [RISM poster]( /resources/organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
 
 **Reviews of RISM**: RISM's publications have been reviewed in the scholarly literature. See the [RISM bibliography](/publications/bibliography.html) for exact citations.
 
 **Text for your website**: Descriptions of RISM publications are available on the RISM website under [Publications](/publications.html). You are free to use the text there for your own library websites.
 
 ## Cataloging Tools
+
+**Plaine & Easie Code**: The [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} for encoding music incipits is maintained by the International Association of Music Libraries, Archives and Documentation Centres (IAML) and RISM for use as an exchange format in the library environment.
 
 **Links to the RISM online catalog (OPAC):**
 
@@ -40,7 +42,7 @@ Also look at past [IAML congresses](/publications/iaml-congresses.html){:target=
 * Direct URL of the Advanced Search in English:  
 [https://opac.rism.info/index.php?id=3](https://opac.rism.info/index.php?id=3)
 * Quick link to all records in the RISM OPAC:  
-[https://opac.rism.info/search?View=rism&q=*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
+[https://opac.rism.info/search?View=rism&q=\*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
 * Permalinks are found in each RISM record in the top left when you click on the chain link symbol. The URLs that appear in the browser's address bar are not stable.
 * To make a permalink go directly to the page in English, add this to the end of the permalink:`&Language=en`  
 Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](https://opac.rism.info/search?id=453009722&View=rism&Language=en){:target="_blank"}
@@ -66,13 +68,13 @@ As an example, these records from the Princeton University Library cite the A/I 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
+Not everything from the books is in the OPAC (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the OPAC.
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
 ## Using RISM Data
 
-The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/development/data-services.html#c2671) for more information.**
+The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html#c2671) for more information.**
 
 ## RISM Logos
 
