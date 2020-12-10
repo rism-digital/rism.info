@@ -8,7 +8,7 @@
 
 [Leipzig 2018](/international/working-groups/clr/leipzig2018.html)
 
-[Shangjai 2018](/international/working-groups/clr/shanghai2016.html)
+[Shangjai 2018](/international/working-groups/clr/shanghai2018.html)
 
 [Shanghai 2017](/international/working-groups/clr/shanghai2017.html)
 
