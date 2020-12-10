@@ -1,8 +1,8 @@
 # Information
 
-[About us](/international/working-groups/united-states/update.html)
+[About us](/international/working-groups/united-states/home.html)
 
-[]()
+[New](/international/working-groups/united-states/news.html)
 
 [Survey](/international/working-groups/united-states/update.html)
 
