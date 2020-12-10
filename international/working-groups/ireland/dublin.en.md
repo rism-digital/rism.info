@@ -4,7 +4,7 @@ title: "CONTACT"
 lang: en
 permalink: /international/working-groups/ireland/dublin.html
 old_url: http://www.rism.info/en/workgroups/ireland-rism-working-group-ireland/home/newsdetails/article/191/launch-of-the-dublin-music-trade.html
-sidepanel: "sidepanels/working-groups/united-states"
+sidepanel: "sidepanels/working-groups/ireland"
 ---
 
 # Launch of the Dublin Music Trade
@@ -12,9 +12,7 @@ sidepanel: "sidepanels/working-groups/united-states"
 Contact: Catherine Ferris  
  2013/10/01
 
-[![](/resources-old-website/workgroups-images/csm_DMTgraph_5ae26d02c3.jpg)](/index.php?eID=tx_cms_showpic&file=3105&md5=e0d9631245f0fbb4ba2f4c5add004906ad6a019d&parameters%5B0%5D=YTo0OntzOjU6IndpZHRoIjtzOjQ6IjgwMG0iO3M6NjoiaGVpZ2h0IjtzOjM6IjYw&parameters%5B1%5D=MCI7czo3OiJib2R5VGFnIjtzOjQyOiI8Ym9keSBiZ0NvbG9yPSIjZmZmZmZmIiBz&parameters%5B2%5D=dHlsZT0ibWFyZ2luOjA7Ij4iO3M6NDoid3JhcCI7czozNzoiPGEgaHJlZj0iamF2&parameters%5B3%5D=YXNjcmlwdDpjbG9zZSgpOyI%2BIHwgPC9hPiI7fQ%3D%3D)
-
-
+![](/resources-old-website/workgroups-images/csm_DMTgraph_5ae26d02c3.jpg)
 
 [http://www.dublinmusictrade.ie](http://www.dublinmusictrade.ie/)
 
@@ -51,16 +49,5 @@ and post-doctoral research projects on the any aspect of the music trade in Dubl
 encouraged.
 
 The Dublin Music Trade has been funded by the [Music Libraries Trust](http://www.iaml.info/iaml-uk-irl/mlt/){:blank} and the [Society for   
-Musicology in Ireland](http://www.musicologyireland.com/){:blank}. It is hosted by the [Research Foundation for Music in Ireland](http://musicresearch.ie/){:blank} and is   
-supported by the [Conservatory of Music & Drama at the Dublin Institute of Technology](http://www.dit.ie/conservatory/){:blank}.  
+Musicology in Ireland](http://www.musicologyireland.com/){:blank}. It is hosted by the [Research Foundation for Music in Ireland](http://musicresearch.ie/){:blank} and is supported by the [Conservatory of Music & Drama at the Dublin Institute of Technology](http://www.dit.ie/conservatory/){:blank}.  
 For further information, contact Dr Catherine Ferris: [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie)
-
-
-
-
-
- Category: New publications   
-
-* * *
-
-[back to overview](/en/workgroups/ireland-rism-working-group-ireland/home.html)

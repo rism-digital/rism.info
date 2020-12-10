@@ -1,4 +1,16 @@
-# CONTACT
+# Information
+
+[About us](/international/working-groups/korea/home.html)
+
+[Database](/international/working-groups/korea/database.html)
+
+[Research](/international/working-groups/korea/research.html)
+
+[Conference 2013](/international/working-groups/korea/innovative.html)
+
+[Conference 2012](/international/working-groups/korea/modernity.html)
+
+# Contact
 
 Prof. Dr. Hyun Kyung ("HK") Chae  
 Director, Ewha Music Research Institute  
@@ -16,4 +28,4 @@ E-mail: [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)
 [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/)  
 [http://www.ewha.ac.kr/mbs/ewhaen/index.jsp](http://www.ewha.ac.kr/mbs/ewhaen/index.jsp)
 
- ![](/fileadmin/content/workgroups/Korea/Logo_Suedkorea_01.jpg "Logo Suedkorea 01")
+![](/resources-old-website/workgroups-images/Logo_Suedkorea_01.jpg)

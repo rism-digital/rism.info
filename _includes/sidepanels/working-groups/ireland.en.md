@@ -1,4 +1,10 @@
-# CONTACT
+# Information
+
+[About us](/international/working-groups/ireland/home.html)
+
+[Launch of the Dublin Music Trade](/international/working-groups/ireland/dublin.html)
+
+# Contact
 
 Kerry Houston   
 DIT Conservatory of Music and Drama  
