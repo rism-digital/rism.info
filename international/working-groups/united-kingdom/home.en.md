@@ -16,5 +16,4 @@ Transfer RISM-UK data for inclusion in the RISM online catalogue
 Please visit the [RISM-UK web page](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:blank} for more information about the project and scope.  
 
 
-[  
- ](http://www.rism.org.uk)
+[Website](http://www.rism.org.uk)
