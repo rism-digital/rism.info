@@ -18,9 +18,6 @@ As part of projects at the Diözesanarchiv Linz and the Österreichische Akademi
 ## Events: RISM Practicum at the University of Vienna
 
  ![Quelle: schubert-online.at](/resources-old-website/workgroups-images/csm_Winterreise_7629d31da9.jpg)
-
-Archival Practicum in Musicology - Database of the Répertoire International des Sources Musicales (RISM) at the Institut für Musikwissenschaft
-
 “Gute Nacht” von Franz Schubert
 
 Archival Practicum in Musicology - Database of the Répertoire International des Sources Musicales (RISM)
