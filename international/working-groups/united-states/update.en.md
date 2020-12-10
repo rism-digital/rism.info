@@ -71,7 +71,6 @@ The AMS-MLA Joint RISM Committee seeks to update the U.S. holdings in RISM Serie
  Fax: [617-496-4636](tel:617-496-4636)  
  E-mail: [sjadams@fas.harvard.edu](mailto:sjadams@fas.harvard.edu)  
    
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
  Darwin F. Scott, Ph.D., M.L.S.  
  Music Librarian  
  Arthur Mendel Music Library  
@@ -81,7 +80,7 @@ The AMS-MLA Joint RISM Committee seeks to update the U.S. holdings in RISM Serie
  Phone: [609 258-4251](tel:609%20258-4251)  
  Fax: [609 258-6793](tel:609%20258-6793)  
  E-mail: [dfscott@princeton.edu](mailto:dfscott@princeton.edu)  
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Addendum: How to Search the RISM Database for Library RISM Sigla  
    
