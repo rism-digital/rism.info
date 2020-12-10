@@ -21,6 +21,8 @@ The RISM working group members at the Institute are currently at the end of cata
 
 Last Respects by the RISM-Zentralredaktion
 
-[continue](/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/newsdetails/article/105/in-memoriam-darja-frelih-nomenj-4-1-1953-ljubljana-11-5-2010.html "In memoriam Darja Frelih (Nomenj, 4. 1. 1953–Ljubljana, 11. 5. 2010)")
+Darja began working for RISM in 1998. She attended the conference "Academic and Technical Challenges of Musicological Source Research in an International Framework" on the occasion of the 50th anniversary of RISM in 2002. We saw her at the Zentralredaktion for the last time in spring 2007 at a workshop on Kallisto.
 
-<!-- -->
+We have lost an excellent cataloguer and a dear friend.
+
+We will always remember her.
