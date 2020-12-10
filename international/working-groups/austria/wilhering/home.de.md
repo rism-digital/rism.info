@@ -23,7 +23,7 @@ Im Zuge von Projekten am Diözesanarchiv Linz und an der Österreichischen Akade
 
 Musikwissenschaftliches Archivpraktikum - Datenbank des "Répertoire International des Sources Musicales" (RISM) am Institut für Musikwissenschaft
 
-[weiterlesen](/de/startseite/newsdetails/article/71/rism-practicum-at-the-university-of-vienna.html "RISM Praktikum an der Universität Wien")
+[weiterlesen](/international/working-groups/austria/wilhering/practicum.de.md "RISM Praktikum an der Universität Wien")
 
 <!-- -->
 
