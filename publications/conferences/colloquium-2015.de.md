@@ -3,6 +3,7 @@ layout: publications
 title: "RISM Colloquium"
 lang: de
 permalink: /publications/conferences/colloquium-2015.html
+old_url: http://www.rism.info/de/publikationen/colloquium-2015.html
 ---
 
 # RISM-Kolloquium

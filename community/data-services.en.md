@@ -3,6 +3,7 @@ title: Data Services
 layout: community
 lang: en
 permalink: /community/data-services.html
+old_url: http://www.rism.info/en/community/development/data-services.html
 ---
 
 # Data Services

@@ -3,6 +3,7 @@ layout: publications
 title: "Donnerstag, 9. Mai"
 lang: de
 permalink: /publications/conferences/work-level-2019/abstracts.html
+old_url: http://www.rism.info/de/publikationen/werkebene-2019/abstracts.html
 ---
 
 # Donnerstag, 9. Mai

@@ -3,6 +3,7 @@ layout: publications
 title: "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM"
 lang: en
 permalink: /publications/conferences/work-level-2019.html
+old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html
 ---
 
 # Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM 

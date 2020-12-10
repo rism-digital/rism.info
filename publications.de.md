@@ -3,6 +3,7 @@ title: Publikationen
 layout: publications
 lang: de
 permalink: /publications.html
+old_url: http://www.rism.info/de/publikationen.html
 ---
 
 # Publikationen

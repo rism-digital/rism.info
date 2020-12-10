@@ -3,6 +3,7 @@ title: Muscat
 layout: community
 lang: de
 permalink: /community/muscat.html
+old_url: http://www.rism.info/de/community/muscat.html
 ---
 
 # Muscat

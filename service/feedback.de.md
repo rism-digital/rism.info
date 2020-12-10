@@ -3,6 +3,7 @@ title: "Feedback"
 layout: impressum
 lang: de
 permalink: /service/feedback.html
+old_url: http://www.rism.info/de/service/feedback.html
 ---
 
 # Korrekturen & Ergänzungen

@@ -3,6 +3,7 @@ title: "Project History"
 layout: organization
 lang: en
 permalink: /organization/project-history.html
+old_url: http://www.rism.info/en/organisation/project-history.html
 ---
 
 # History of the project

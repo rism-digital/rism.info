@@ -4,6 +4,7 @@ layout: community
 lang: en
 permalink: /community/sigla.html
 redirect_from: /en/sigla
+old_url: http://www.rism.info/sigla.html
 ---
 
 # Online Directory of RISM Library Sigla

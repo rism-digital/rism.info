@@ -3,6 +3,7 @@ title: Arbeitsgruppen
 layout: international
 lang: de
 permalink: /international/working-groups.html
+old_url: http://www.rism.info/de/international.html
 ---
 
 # Gesamtliste der RISM-Arbeitsgruppen

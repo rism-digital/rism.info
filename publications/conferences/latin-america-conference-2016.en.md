@@ -3,6 +3,7 @@ layout: publications
 title: "Conference: Documenting Musical Sources in Latin America"
 lang: en
 permalink: /publications/conferences/latin-america-conference-2016.html
+old_url: http://www.rism.info/en/publications/sources-in-latin-america-2016.html
 ---
 
 # Conference: Documenting Musical Sources in Latin America

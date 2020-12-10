@@ -3,6 +3,7 @@ title: "Impressum"
 layout: impressum
 lang: de
 permalink: /service/impressum.html
+old_url: http://www.rism.info/de/service/impressum.html
 ---
 
 # Impressum

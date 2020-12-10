@@ -3,6 +3,7 @@ title: "Disclaimer"
 layout: impressum
 lang: en
 permalink: /service/impressum.html
+old_url: http://www.rism.info/service/disclaimer.html
 ---
 
 # Disclaimer

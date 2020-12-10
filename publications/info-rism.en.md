@@ -3,6 +3,7 @@ layout: publications
 title: "Info RISM"
 lang: en
 permalink: /publications/info-rism.html
+old_url: http://www.rism.info/en/publications/info-rism-1989-2001.html
 ---
 
 # Info RISM

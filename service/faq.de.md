@@ -3,6 +3,7 @@ title: "Häufig gestellte Fragen"
 layout: impressum
 lang: de
 permalink: /service/faq.html
+old_url: http://www.rism.info/de/service/faq.html
 ---
 
 # Häufig gestellte Fragen

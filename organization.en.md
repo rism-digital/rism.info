@@ -3,6 +3,7 @@ title: RISM
 layout: organization
 lang: en
 permalink: /organization.html
+old_url: http://www.rism.info/en/organisation.html
 ---
 
 {% include image file="/images/organization/organigram-small-en.png" pos="right" link="/organization/organigram.html" %}

@@ -3,6 +3,7 @@ title: "RISM für Bibliothekare"
 layout: organization
 lang: de
 permalink: /organization/rism-for-libraries.html
+old_url: http://www.rism.info/de/unternehmen/rism-fuer-bibliothekare.html
 ---
 
 # RISM für Bibliothekare
