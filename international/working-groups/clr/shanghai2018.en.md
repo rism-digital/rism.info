@@ -2,7 +2,7 @@
 layout: working-group
 title: "2018/12 RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and Muscat workshop in Shanghai"
 lang: en
-permalink: /international/working-groups/clr/shanghai.html
+permalink: /international/working-groups/clr/shanghai2018.html
 old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201812-rism-clr-held-the-annual-meeting.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
@@ -18,7 +18,6 @@ In the conference, Prof. HUANG Chun-Zen, a member of RISM-CLR, combed the histor
 RISM-CLR also launched two new books: _Guidelines for Music Paper-based Archive Processing and Preservation_ written by TSENG Tzu-Chia and HAN Bin, and the Chinese version of _Folklife & Fieldwork_ edited by American Folklife Center of Library of Congress and translated by CHIANG Chiao-Wen. These two books can be used as a reference for those who are interested in engaging in music archival work in the future.
 
 As an invited representative of the conference, Jennifer Ward introduced the RISM organization, working groups’ operation and cataloging methods to participants. She was also invited to give a Muscat workshop the next day. This is the fourth Muscat workshop held by RISM in Asia. Through the help of RISM-CLR, we hope that more people in the Chinese-language region can understand RISM’s current work and enable more Chinese music literature to be shared.
-
 
 
  ![](/resources-old-website/workgroups-images/csm_IMG_1767_2ef4c9dc51.jpg)

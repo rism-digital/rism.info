@@ -9,8 +9,8 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # Central Conservatory of Music Library
 
-[HO Wing](mailto:wingho@ccom.edu.cn "Opens window for sending email") (Director)   
-[WU Xu](mailto:wxu@ccom.edu.cn "Opens window for sending email")   
+[HO Wing](mailto:wingho@ccom.edu.cn) (Director)   
+[WU Xu](mailto:wxu@ccom.edu.cn)   
   
 Baojia Street No.43, Xicheng District, Beijing, 100031,China  
 Phone: +86 10 66425609  
@@ -18,8 +18,8 @@ Website:[library.ccom.edu.cn](http://library.ccom.edu.cn/)
 
 # Digital Archive Center for Music of National Taiwan Normal University
 
-[HUANG Chun-Zen](mailto:czh@ntnu.edu.tw "Opens window for sending email") (Director)   
- [TSENG Tzu-Chia](mailto:tzchia22@gmail.com "Opens window for sending email")
+[HUANG Chun-Zen](mailto:czh@ntnu.edu.tw) (Director)   
+ [TSENG Tzu-Chia](mailto:tzchia22@gmail.com)
 
 
 
@@ -33,7 +33,7 @@ Website:[dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
 
 # Hong Kong Central Library
 
-[Mary CHENG](mailto:mmlcheng@lcsd.gov.hk "Opens window for sending email") (Chief Librarian)
+[Mary CHENG](mailto:mmlcheng@lcsd.gov.hk) (Chief Librarian)
 
 
 
@@ -47,8 +47,8 @@ Website:[www.hkpl.gov.hk/hkcl](http://www.hkpl.gov.hk/hkcl)
 
 # Shanghai Conservatory of Music Library
 
-[YANG Yandi](mailto:yyd@shcmusic.edu.cn "Opens window for sending email") (Director)   
- [HAN Bin](mailto:hanbin@shcmusic.edu.cn "Opens window for sending email")
+[YANG Yandi](mailto:yyd@shcmusic.edu.cn) (Director)   
+ [HAN Bin](mailto:hanbin@shcmusic.edu.cn)
 
 20, Fen Yang Rd., Shanghai, 200031,China  
  Phone: +86 21 64315745  
@@ -60,14 +60,14 @@ Website:[www.hkpl.gov.hk/hkcl](http://www.hkpl.gov.hk/hkcl)
 
 # Taiwan Music Institute of the National Centre For Traditional Arts
 
-[WENG Chih-Tsung](mailto:won540505@gmail.com "Opens window for sending email") (Director)   
- [HUANG Hsin-Ying](mailto:bhsinying@ncfta.gov.tw "Opens window for sending email") 
+[WENG Chih-Tsung](mailto:won540505@gmail.com) (Director)   
+ [HUANG Hsin-Ying](mailto:bhsinying@ncfta.gov.tw) 
 
 751 Wenlin Rd., Taipei City, 111,Taiwan (R.O.C.)  
  Website:[http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)
 
 # International Advisor
 
-[Dr.Nora Yeh](mailto:yehnorareed@gmail.com "Opens window for sending email"), Former Archivist of American Folklife Center, Library of Congress
+[Dr.Nora Yeh](mailto:yehnorareed@gmail.com), Former Archivist of American Folklife Center, Library of Congress
 
-[Prof.Judy Tsou](mailto:jstsou@u.washington.edu "Opens window for sending email"), Head of Music Library, University of Washington 
+[Prof.Judy Tsou](mailto:jstsou@u.washington.edu), Head of Music Library, University of Washington 

@@ -1,8 +1,24 @@
-# INFORMATION
+# Information
 
-[Bilingual Chart of Common Chinese Instrument Names](/fileadmin/content/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf "Initiates file download")
+[About us](/international/working-groups/clr/home.html)
 
-# CONTACT
+[Team](/international/working-groups/clr/team.html)
+
+[Wikipedia](/international/working-groups/clr/wikipedia.html)
+
+[Leipzig 2018](/international/working-groups/clr/leipzig2018.html)
+
+[Shangjai 2018](/international/working-groups/clr/shanghai2016.html)
+
+[Shanghai 2017](/international/working-groups/clr/shanghai2017.html)
+
+[Taipei 2016](/international/working-groups/clr/taipei2016.html)
+
+[Taipei 2015](/international/working-groups/clr/taipei2015.html)
+
+[Bilingual Chart of Common Chinese Instrument Names](/resources-old-website/workgroups/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf)
+
+# Contact
 
 **International Contact**
 
@@ -10,7 +26,7 @@ Digital Archive Center for Music of National Taiwan Normal University
 
 HUANG Chun-Zen(Director)
 
-[TSENG Tzu-Chia](mailto:tzchia22@gmail.com "Opens window for sending email")
+[TSENG Tzu-Chia](mailto:tzchia22@gmail.com)
 
 162, Sec. 1 Heping E. Rd., Taipei City, 106,Taiwan (R.O.C.)  
 +886 2 7734 1692
@@ -19,7 +35,7 @@ Shanghai Conservatory of Music Library
 
 YANG Yandi (Director)
 
-[HAN Bin](mailto:hanbin@shcmusic.edu.cn "Opens window for sending email")
+[HAN Bin](mailto:hanbin@shcmusic.edu.cn)
 
 20, Fen Yang Rd., Shanghai, 200031,China  
 +86 21 64315745
@@ -28,9 +44,9 @@ YANG Yandi (Director)
 
 Hong Kong Central Library
 
-[Mary CHENG](mailto:mmlcheng@lcsd.gov.hk "Opens window for sending email")(Chief Librarian)
+[Mary CHENG](mailto:mmlcheng@lcsd.gov.hk)(Chief Librarian)
 
-[TSANG Lai-moon](mailto:lmtsang@lcsd.gov.hk "Opens window for sending email")
+[TSANG Lai-moon](mailto:lmtsang@lcsd.gov.hk)
 
 66, Causeway Rd., Causeway Bay,Hong Kong
 
@@ -38,6 +54,6 @@ Hong Kong Central Library
 
 **International advisor**
 
-[Prof.Judy Tsou](mailto:jstsou@u.washington.edu "Opens window for sending email")
+[Prof.Judy Tsou](mailto:jstsou@u.washington.edu)
 
-[Dr. Nora Yeh](mailto:yehnorareed@gmail.com "Opens window for sending email")
+[Dr. Nora Yeh](mailto:yehnorareed@gmail.com)
