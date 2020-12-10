@@ -4,7 +4,7 @@ title: "RISM Belgium"
 lang: en
 permalink: /international/working-groups/belgium/home.html
 old_url: http://www.rism.info/en/workgroups/belgium-rism-belgium/home.html
-sidepanel: "sidepanels/working-groups/belgium-brussels"
+sidepanel: "sidepanels/working-groups/belgium"
 ---
 
 # RISM Belgium

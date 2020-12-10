@@ -1,4 +1,8 @@
-# CONTACT
+# Information
+
+[Groups in Belgium](/international/working-groups/belgium/home.html)
+
+# Contact
 
 RISM Working group Brussels
 
