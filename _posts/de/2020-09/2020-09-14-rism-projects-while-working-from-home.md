@@ -50,7 +50,7 @@ Automatisierte Prozesse können anregt werden, um bestimmte Felder zu aktualisie
 
 Wir können auch Zugriff auf unser internes Katalogisierungsprogramm Muscat gewähren, um einzelne Datensätze zu bearbeiten. Das Programm und die Schulung sind kostenlos.   
   
-Bitte [kontaktieren Sie uns](mailto:contact@rism.info "Opens window for sending email") und wir werden mit Ihnen zusammen die beste Lösung finden.
+Bitte [kontaktieren Sie uns](mailto:contact@rism.info) und wir werden mit Ihnen zusammen die beste Lösung finden.
 
 &nbsp;
 

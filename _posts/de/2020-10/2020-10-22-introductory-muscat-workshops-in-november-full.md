@@ -17,7 +17,7 @@ author: ''
 
 Die RISM-Zentralredaktion veranstaltet einen einführenden zweiteiligen Online-Workshop zur Katalogisierung musikalischer Quellen mit dem [Programm Muscat](/community/muscat.html "Opens internal link in current window"). Der Workshop richtet sich an Personen, die eine Zusammenarbeit mit dem RISM planen, und alle, die sich für Muscat oder die Katalogisierungsrichtlinien des RISM interessieren, sind ebenfalls herzlich eingeladen, daran teilzunehmen. Der Workshop wird in Englisch und Deutsch angeboten und ist kostenlos.
 
-Der Platz ist begrenzt. Um sich anzumelden, schicken SIe bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info "Opens window for sending email") und geben Sie an, ob Sie Englisch oder Deutsch bevorzugen und für welche(n) Workshop(s) Sie sich interessieren.   
+Der Platz ist begrenzt. Um sich anzumelden, schicken SIe bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info) und geben Sie an, ob Sie Englisch oder Deutsch bevorzugen und für welche(n) Workshop(s) Sie sich interessieren.   
   
 Muscat ist webbasiert (keine Installation erforderlich), aber beachten Sie bitte die [technischen Anforderungen](/community/muscat.html#c3410 "Opens internal link in current window"). Der Workshop wird online mit Zoom durchgeführt.
 
