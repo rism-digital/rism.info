@@ -12,7 +12,7 @@ sidepanel: "sidepanels/working-groups/united-states"
 [Ansprechpartner: Christina Linklater](mailto:linklat@fas.harvard.edu)  
  15.06.2010
 
-![Foto: Christina Linklater](/uploads/_processed_/csm_US-TelemannSeite1_03_42487347d3.jpg)
+{% include image file="/resources-old-website/workgroups-images/csm_US-TelemannSeite1_03_42487347d3.jpg" pos="left" %}
 
 Im September 2008 begann die RISM Arbeitsgruppe in den USA mit der Katalogisierung der Musikmanuskripte der Yale Universität und der Juilliard School in einem zweijährigen Projekt. Dieses Unterfangen, das von der Mellon Foundation finanziell unterstützt wird, hat bisher mehr als 8.000 Datensätze erbracht. Die Incipitsuche und andere Recherchemöglichkeiten haben zu mehreren neuen Zuschreibungen geführt. Hier einige Beispiele aus der Lowell Mason Collection in Yale, die vom gleichnamigen amerikanischen Komponisten, Anthologen und Lehrer zusammengetragenes Material enthält.
 

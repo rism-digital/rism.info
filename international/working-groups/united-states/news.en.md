@@ -11,8 +11,8 @@ sidepanel: "sidepanels/working-groups/united-states"
 
 [Contact: Christina Linklater](mailto:linklat@fas.harvard.edu)  
  2010/06/15
-
-![Foto: Christina Linklater](/resources-old-website/working-groups-images/csm_US-TelemannSeite1_03_42487347d3.jpg)
+ 
+{% include image file="/resources-old-website/workgroups-images/csm_US-TelemannSeite1_03_42487347d3.jpg" pos="left" %} 
 
 In September, 2008, the U.S. RISM Office embarked on a two-year project to catalog music manuscripts at Yale University and the Juilliard School. This endeavor, which is supported by a grant from the Mellon Foundation, has thus far yielded over 8,000 records. Incipit searching and other tools have led to several new attributions among these. Some examples from Yale's Lowell Mason collection, which consists of materials amassed by the American composer, anthologist and teacher:
 
