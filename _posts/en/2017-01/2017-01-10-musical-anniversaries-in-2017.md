@@ -30,16 +30,16 @@ To start off the celebrations, here is a sampling of ten people (of the almost 9
 - [Wolf Dietrich](https://opac.rism.info/search?View=rism&q=118597973&Language=en){:target="_blank"}, archbishop of Salzburg (1559-1617)
 - [Esther Young](https://opac.rism.info/search?View=rism&q=Young+Esther&Language=en){:target="_blank"} (1717-1795), English mezzo-soprano
 
-Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A**cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman[Gregor **Z**wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
+Explore the other ca. 890 in these lists, which range from the Bavarian priest [Anton **A**cher](https://opac.rism.info/search?View=rism&q=Acher+Anton&siglum=D-WEY&Language=en){:target="_blank"} (1744-1817) to the Swiss prior and clergyman [Gregor **Z**wissieni](https://opac.rism.info/search?View=rism&q=Zwissieni+Gregor&Language=en){:target="_blank"} (1700-1767). Chronologically speaking, we begin with the Roman historian [Livy](https://opac.rism.info/search?View=rism&q=118573624&Language=en){:target="_blank"} (born Titus Livius, 59 BC–17 AD) and end with the German writer [Kuba](https://opac.rism.info/search?View=rism&q=118567349&Language=en){:target="_blank"} (born Kurt Barthel, 1914-1967).
 
-**Click on any heading to sort [(link to table)](https://docs.google.com/spreadsheets/d/1f60S0ZGvNKE9gjQY_JxvdxBfvgJ5UaqaymLzt2irClY/edit?usp=sharing)**
+**A link to the full table [is available here](https://docs.google.com/spreadsheets/d/1f60S0ZGvNKE9gjQY_JxvdxBfvgJ5UaqaymLzt2irClY/edit?usp=sharing)**
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjFhTenrN-kE_dLYknCZxbzwfs0xG8Lpdke5JiWqwj4d3Jf9Kujl9JX0KZmFUjbCMNoSgREt2MyGUi/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="700" height="1000" scrolling="yes" frameborder="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjFhTenrN-kE_dLYknCZxbzwfs0xG8Lpdke5JiWqwj4d3Jf9Kujl9JX0KZmFUjbCMNoSgREt2MyGUi/pubhtml?widget=true&amp;headers=false"></iframe>
 
-c = circa
-a = before
-p = after
-m = male
+c = circa\
+a = before\
+p = after\
+m = male\
 w / f = female
 
 _Image from [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
