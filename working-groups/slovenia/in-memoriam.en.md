@@ -11,9 +11,9 @@ sidepanel: "sidepanels/working-groups/slovenia"
 
  2010/11/23
 
-![](/resources-old-website/workgroups-images/csm_Darja_2007_610ace41b9.jpg)
-
 **Last Respects by the RISM-Zentralredaktion**
+
+{% include image file="/resources-old-website/workgroups-images/csm_Darja_2007_610ace41b9.jpg" pos="left" %}
 
 Darja began working for RISM in 1998. She attended the conference "Academic and Technical Challenges of Musicological Source Research in an International Framework" on the occasion of the 50<sup>th</sup> anniversary of RISM in 2002. We saw her at the Zentralredaktion for the last time in spring 2007 at a workshop on Kallisto.
 
