@@ -303,7 +303,7 @@ Telefon: + (514) 369 0982
 Skype: John G. Lazos
 Email: jlazos11@hotmail.com
 Webseite: http://umontreal.academia.edu/JohnLazos
-Siehe auch: https://www.rism.info/international/working-groups/mexico/home.html {:blank} 
+Siehe auch: https://www.rism.info/international/working-groups/mexico/home.html (/international/working-groups/mexico/home.html){:blank} 
 
 ## NIEDERLANDE
 
