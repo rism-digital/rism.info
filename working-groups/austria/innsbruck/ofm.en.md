@@ -7,9 +7,7 @@ old_url: http://www.rism.info/en/workgroups/austria-innsbruck-rism-landesleitung
 sidepanel: "sidepanels/working-groups/austria-innsbruck"
 ---
 
-# RISM Tyrol-South Tyrol & OFM Austria 
-
-**Particularly remarkable titles from recently catalogued materials**
+# Particularly remarkable titles from recently catalogued materials
 
 ## Stams Monastery (A-ST; holdings currently being processed)
 
