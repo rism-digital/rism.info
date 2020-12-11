@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/brazil"
 
 # Contributors
 
-## Meet the members of RISM Brazil:  
+## Meet the members of RISM Brazil  
 
 {% include image file="/resources-old-website/workgroups-images/Andre.PNG" pos="left" %}
 
