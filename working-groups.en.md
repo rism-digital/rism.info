@@ -82,15 +82,14 @@ Telephone: +32 2 5195663\
 Fax: +32 2 5195760\
 Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)\
 
-RISM Working Group Leuven\
+RISM Working Group Mechelen\
 Mariet Calsius\
-Resonant vzw\
-Centrum voor Vlaams Muzikaal Erfgoed\
-Parijsstraat 72 B\
-B-3000 Leuven\
-Telephone: +32 16 32 99 54\
-Fax: +32 16 32 99 53\
-Email: [mariet.calsius@resonant.be](mailto:mariet.calsius@resonant.be)
+Cemper - Centrum voor Muziek- en Podiumerfgoed\
+Zoutwerf 5\
+B-2800 Mechelen\
+Telephone: +32 / 15 34 94 36\
+E-mail: mariet.calsius@cemper.be\
+Website: https://www.cemper.be/(https://www.cemper.be/){:blank}
 
 ## BRAZIL
 
