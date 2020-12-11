@@ -13,14 +13,14 @@ Visit the website of the [Tyrolean Land of Music](http://www.musikland-tirol.at/
 
 ## News
 
-{% include image file="/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg" pos="left" %}
+{% include image file="/images/news-old-website/csm_reutte_2010_480_01_2e57216cc1.jpg" pos="left" %}
 
 ### Tyrolean Christmas Concert 18-19 December 2010
 
 A Christmas concert with musicfrom the archives of the Franciscan Monastery Reutte/Tyrol. The 22nd Tyrolean Christmas Concert will again be rooted in the idea of recreating a mood-filled Midnight Mass in 19th-century style utilizing Christmas music from Tyrol. [_Continue..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
 
-{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg" pos="left" %}
+{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg" %}
 
 ### Particularly remarkable titles from recently catalogued materials
 
