@@ -19,10 +19,10 @@ Below is the list sorted alphabetically. Please note that it is divided into two
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5jb_JINwr4EdKBFB-LY8QENuy6-yxWeZThh8_sWwhhDf9T-diqsr5UqVxosz7cyrfWrvNVRfF8bkB/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
-c = circa
-a = before
-p = after
-m = male
+c = circa\
+a = before\
+p = after\
+m = male\
 w / f = female
 
 Image from [pngimg.com](http://pngimg.com/download/80755){:target="_blank"} ([CC 4.0 BY-NC](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}).
