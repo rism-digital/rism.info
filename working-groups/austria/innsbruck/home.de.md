@@ -18,7 +18,6 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden. [_Weiterlesen..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
 
-{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg" %}
 
 ### : RISM Landesleitung Tirol-Südtirol & OFM Austria
 
