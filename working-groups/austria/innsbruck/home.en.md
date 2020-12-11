@@ -20,8 +20,6 @@ Visit the website of the [Tyrolean Land of Music](http://www.musikland-tirol.at/
 A Christmas concert with musicfrom the archives of the Franciscan Monastery Reutte/Tyrol. The 22nd Tyrolean Christmas Concert will again be rooted in the idea of recreating a mood-filled Midnight Mass in 19th-century style utilizing Christmas music from Tyrol. [_Continue..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
 
-{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg" %}
-
 ### Particularly remarkable titles from recently catalogued materials
 
 Particularly remarkable titles from recently catalogued materials: Stams Monastery, Brixen Diocesan Archives, Franciscan Monastery, Salzburg [_Continue..._](working-groups/austria/innsbruck/ofm.html){:blank}
