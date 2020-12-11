@@ -2,13 +2,13 @@
 
 [About us](/working-groups/slovenia/home.html)
 
-[Short History](/working-groups/slovenia/history.html)
-
 [Organization](/working-groups/slovenia/organization.html)
 
 [Archives and Libraries](/working-groups/slovenia/archives-libraries.html)
 
-[In Memoriam](/working-groups/slovenia/in-memoriam.html)
+[Short History](/working-groups/slovenia/history.html)
+
+[In Memoriam Darja Frelih](/working-groups/slovenia/in-memoriam.html)
 
 # Contact
 
@@ -32,6 +32,6 @@ E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokolem@zrc-sazu.si)
 
 # Sponsor
 
-![](/resources-old-webiste/working-groups-images/csm_Znak_ZRC_6f0b98454b.png)
+(/resources-old-website/workgroups-images/csm_Znak_ZRC_6f0b98454b.png)
 
 Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti
