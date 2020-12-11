@@ -34,7 +34,7 @@ XC – Afrila
 XD – Amerika
 XE – Australien und Ozeanirn
 
-Eine vollständige Liste ([PDF](http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/inhaltserschliessung/laenderCodesAlph.pdf?__blob=publicationFile){:target="_blank"}) finden Sie auch auf der Seite der Deutschen Nationalbibliothek.
+Eine vollständige Liste ([PDF](https://wiki.dnb.de/display/ILTIS/Informationsseite+zur+GND?preview=%2F90411323%2F160151404%2F02-laendercodes_2020-01-28_alph.pdf){:target="_blank"}) finden Sie auch auf der Seite der Deutschen Nationalbibliothek.
 
 **Orte** (Geburts-, Sterbe- oder Wirkungsorte)
 Ortsnamen werden grundsätzlich nur in der Landessprache angegeben (Roma statt Rom oder Rome; Wrocław statt Breslau).

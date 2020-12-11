@@ -740,10 +740,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
   
 "[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
--  
-
-Astudillo Rojas, Cecilia. "Historical Music Scores in Chile and their Documentation." [View on YouTube](https://youtu.be/AoIwrrvLWeg?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm).
-
+- Astudillo Rojas, Cecilia. "Historical Music Scores in Chile and their Documentation." [View on YouTube](https://youtu.be/AoIwrrvLWeg?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm).
 - Bermúdez Cujar, Egberto. "Documenting Popular Music Sources in Latin America: The Case of Colombia." [View on YouTube](https://youtu.be/CEpYx2ZmjIM).
 - Calderón Alcantar, Edgar Alejandro. "Music Documentation Projects in Morelia." [View on YouTube](https://youtu.be/JMC5JgEJCnQ).
 - Enríquez Rubio, Lucero. "Cataloging a Peripheral Cathedral Music Archive vis à vis RISM Protocol." [View on YouTube](https://youtu.be/IX8XK5555Mk).
@@ -882,6 +879,8 @@ Eggertsen, Chris. "Musicologists Come to Katy Perry's Defense in 'Dark Horse' Ca
 Felder, Lynn. "Back to the future: Beethoven symphony defies time and space." _Winston-Salem Journal_, 3 August 2020. [Available online](https://journalnow.com/entertainment/back-to-the-future-beethoven-symphony-defies-time-and-space/article_56263d1e-2e23-5310-bd13-2570f2df5aa9.html){:target="_blank"}.
 
 Johnson, Kirstin Dougan, "Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis." _Fontes Artis Musicae_ 67, no. 2 (April-June 2020): 119-142. [Available online](https://muse.jhu.edu/article/758645){:target="_blank"}.
+
+Lazos, John G. "Why a Canadian Musicologist Would Catalogue One Thousand Mexican Music Manuscripts." _CAML Review/Revue de l'ACBM_ 48, no. 1 (2020): 38-61. [Available online](https://caml.journals.yorku.ca/index.php/caml/article/view/40375){:blank}.
 
 Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ (2020). DOI: [https://doi.org/10.1017/S1479409820000014](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
@@ -1228,7 +1227,9 @@ Herrmann-Schneider, Hildegard. _Die Musikhandschriften der Zisterzienser-Abtei S
 Kommission für Musikforschung. _Tabulae musicae Austriacae: Kataloge österreichischer Musiküberlieferung._ Vienna, 1964- (13 vols. to date).  
 (Compiled based on RISM rules)
 
-Eva Neumayr and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018.
+Lindner, Andreas and Klaus Petermayr. _Die historischen Musikalien der Bruckner-Stätten (Historic Music Materials of the Bruckner Sites). Vol. 1: Die Pfarre Kronstorf_. Veröffentlichungen des RISM-Österreich A/13. Vienna: Verlag Der Apfel, 2010. 
+
+Neumayr, Eva and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018.
 
 ##### BR - Brazil
 

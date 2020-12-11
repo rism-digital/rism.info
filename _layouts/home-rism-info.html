@@ -33,7 +33,7 @@ sidepanel: "sidepanels/home"
                                         {% include homepage_navbar.html %}
                                     </div>
                                     <div class="column is-two-thirds">
-                                        {% include sidepanel.html %}
+                                        {% include sidepanel.html sidepanel=layout.sidepanel %}
                                     </div>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ sidepanel: "sidepanels/home"
                     <div class="column is-4-desktop is-3-widescreen is-hidden-touch">
                         <div class="content">
                             {% include homepage_navbar.html %}
-                            {% include sidepanel.html margin="menubar" %}
+                            {% include sidepanel.html sidepanel=layout.sidepanel margin="menubar" %}
                         </div>
                     </div>
 

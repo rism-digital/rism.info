@@ -13,7 +13,7 @@ author: Tzu-Chia Tseng
 
 **The Chinese Version of Brochure and entry “RISM” of Chinese Wikipedia are both officially online!**
 
-With the assistance of RISM Zentralredaktion and international advisors Dr. Nora YEH and Prof. Judy TSOU, [RISM Chinese Language Region](/international/working-groups.html) has completed the Chinese translation of the brochure and Wikipedia article for the entry “RISM.” Now they are available to anyone who is interested.
+With the assistance of RISM Zentralredaktion and international advisors Dr. Nora YEH and Prof. Judy TSOU, [RISM Chinese Language Region](/working-groups.html) has completed the Chinese translation of the brochure and Wikipedia article for the entry “RISM.” Now they are available to anyone who is interested.
 
 The Chinese version of brochure is provided two editions: Traditional Chinese-English and Simplified Chinese-English. Please see the [RISM brochures page](/publications/brochures.html) to download the brochure, or please [contact us](mailto:tzchia22@gmail.com) if you would like professionally printed copies.
 

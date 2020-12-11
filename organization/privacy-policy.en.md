@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-layout: impressum
+layout: service
 lang: en
 permalink: /service/privacy-policy.html
 ---

@@ -50,7 +50,7 @@ Automated processes can be arranged to update certain fields, such as importing 
   
 We can also grant access to our internal cataloging program, Muscat, to edit individual records. The program and training are free.   
   
-Please [contact us](mailto:contact@rism.info "Opens window for sending email") and we will work with you to find the best solution.
+Please [contact us](mailto:contact@rism.info) and we will work with you to find the best solution.
 
 &nbsp;
 

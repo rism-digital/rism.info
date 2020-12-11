@@ -1,6 +1,6 @@
 ---
 title: "Häufig gestellte Fragen"
-layout: impressum
+layout: service
 lang: de
 permalink: /service/faq.html
 ---
@@ -69,4 +69,4 @@ RISM ist ein Ergebnis der Arbeit von Einzelpersonen und Arbeitsgruppen aus der 
 
 ## Wie finde ich einen RISM-Ansprechpartner in meiner Nähe?
 
-Bitte verwenden Sie die Liste der [RISM-Arbeitsgruppen](/international.html){:target="_blank"}. Wenn Ihr Land nicht vertreten ist, nehmen Sie bitte [Kontakt](mailto:contact@rism.info "Opens window for sending email") zu uns auf.
+Bitte verwenden Sie die Liste der [RISM-Arbeitsgruppen](/international.html){:target="_blank"}. Wenn Ihr Land nicht vertreten ist, nehmen Sie bitte [Kontakt](mailto:contact@rism.info) zu uns auf.

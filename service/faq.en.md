@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-layout: impressum
+layout: service
 lang: en
 permalink: /service/faq.html
 ---
@@ -63,4 +63,4 @@ RISM relies on the work of individuals and working groups from around the world 
 
 ## How can I find a RISM contact person near me?
 
-Please consult the list of [RISM working groups worldwide](/international.html){:target="_blank"}. If your country is not listed, please [contact us](mailto:contact@rism.info "Opens window for sending email").
+Please consult the list of [RISM working groups worldwide](/international.html){:target="_blank"}. If your country is not listed, please [contact us](mailto:contact@rism.info).
