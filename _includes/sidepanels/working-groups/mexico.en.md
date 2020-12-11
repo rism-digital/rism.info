@@ -1,8 +1,8 @@
 # Information
 
-[About us](/international/working-groups/mexico/home.html)
+[About us](/working-groups/mexico/home.html)
 
-[Gómez Catalogue](/international/working-groups/mexico/gomez.html)
+[Gómez Catalogue](/working-groups/mexico/gomez.html)
 
 # Contact
 

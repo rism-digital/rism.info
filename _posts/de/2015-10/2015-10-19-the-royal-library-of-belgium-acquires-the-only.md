@@ -11,7 +11,7 @@ email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-Diese Ankündigung erreichte uns von unseren Kollegen von_[RISM Belgien](/international/working-groups.html):_
+Diese Ankündigung erreichte uns von unseren Kollegen von_[RISM Belgien](/working-groups.html):_
 
 
 Nach seinem Feldzug im Österreichisch-türkischen Krieg (1716-1718) in Ungarn wurde Herzog Léopold-Philippe von Arenberg (1690-1754) in die österreichischen Niederlande zurückgesandt und wurde Gouverneur von Hainaut. Anlässlich seines feierlichen Einzugs in die Stadt Mons, Hauptstadt von Hainaut, hat [Gilles-Joseph de Boussu](http://www.hainautterremusicale.com/hommes/boussu-gilles-joseph-f460.html) (1681-1755) die Oper [_Le Retour des plaisirs_](http://www.hainautterremusicale.com/oeuvres/retour-plaisirs-f11.html), _opéra dédié à son Altesse_ _Monseigneur le Duc d’Arembergh_ _au jour de son entrée solemnelle en son gouvernement de Mons_ geschrieben.

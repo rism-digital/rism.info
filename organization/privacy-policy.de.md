@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-layout: impressum
+layout: service
 lang: de
 permalink: /service/privacy-policy.html
 ---

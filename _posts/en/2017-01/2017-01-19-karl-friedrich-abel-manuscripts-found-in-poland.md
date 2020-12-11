@@ -11,7 +11,7 @@ email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-_We have received the following from Sonia Wronkowska of [RISM Poland](/international/working-groups.html):_
+_We have received the following from Sonia Wronkowska of [RISM Poland](/working-groups.html):_
 
 Two new sources for works by Karl Friedrich Abel (1723-1787) have recently been found by Sonia Wronkowska in Poland, in the library of the Adam Mickiewicz University in Poznań (PL-Pu), originating from the Maltzan family palace in Milicz (formerly Militsch). Count Joachim Carl Maltzan (1733–1817) – Prussian Minister Plenipotentiary in London – was the link between the provincial, then-Prussian town of Militsch and the“Bach-Abel Concerts”. Maltzan probably regularly attended the famous concert series, or he may even have been one of Abel’s noble pupils. He acquired two manuscripts containing 28 works for viola da gamba by Abel in London and later brought them to his hometown to start a viola da gamba-oriented music ensemble.
 

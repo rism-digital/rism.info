@@ -11,7 +11,7 @@ email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-_Der folgende Beitrag stammt von TSENG Tzu-Chia von der RISM Ländergruppe [Chinesisch-sprechendes Gebiet](/international/working-groups.html):_
+_Der folgende Beitrag stammt von TSENG Tzu-Chia von der RISM Ländergruppe [Chinesisch-sprechendes Gebiet](/working-groups.html):_
 
 **August 2018 RISM-CLR schließt die Präsentation des Referats auf der IAML Konferenz**  **2018 ab und präsentiert die “Zweisprachige Tabelle der gebräuchlichen chinesischen Instrumentennamen”**
 

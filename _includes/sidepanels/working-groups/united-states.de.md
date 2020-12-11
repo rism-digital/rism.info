@@ -1,10 +1,10 @@
 # Information
 
-[Über uns](/international/working-groups/united-states/home.html)
+[Über uns](/working-groups/united-states/home.html)
 
-[New](/international/working-groups/united-states/news.html)
+[New](/working-groups/united-states/news.html)
 
-[Survey](/international/working-groups/united-states/update.html)
+[Survey](/working-groups/united-states/update.html)
 
 # Kontakt
 

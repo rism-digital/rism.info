@@ -1,6 +1,6 @@
 # Information
 
-[Groups in Belgium](/international/working-groups/belgium/home.html)
+[Groups in Belgium](/working-groups/belgium/home.html)
 
 # Contact
 

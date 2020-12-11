@@ -1,14 +1,14 @@
 # Information
 
-[About us](/international/working-groups/slovenia/home.html)
+[About us](/working-groups/slovenia/home.html)
 
-[Short History](/international/working-groups/slovenia/history.html)
+[Short History](/working-groups/slovenia/history.html)
 
-[Organization](/international/working-groups/slovenia/organization.html)
+[Organization](/working-groups/slovenia/organization.html)
 
-[Archives and Libraries](/international/working-groups/slovenia/archives-libraries.html)
+[Archives and Libraries](/working-groups/slovenia/archives-libraries.html)
 
-[In Memoriam](/international/working-groups/slovenia/in-memoriam.html)
+[In Memoriam](/working-groups/slovenia/in-memoriam.html)
 
 # Contact
 

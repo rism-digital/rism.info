@@ -1,8 +1,8 @@
 # Information
 
-[About us](/international/working-groups/poland/lublin/home.html)
+[About us](/working-groups/poland/lublin/home.html)
 
-[Publications](/international/working-groups/poland/lublin/publications.html)
+[Publications](/working-groups/poland/lublin/publications.html)
 
 # Contact
 

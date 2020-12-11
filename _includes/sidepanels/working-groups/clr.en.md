@@ -1,20 +1,20 @@
 # Information
 
-[About us](/international/working-groups/clr/home.html)
+[About us](/working-groups/clr/home.html)
 
-[Team](/international/working-groups/clr/team.html)
+[Team](/working-groups/clr/team.html)
 
-[Wikipedia](/international/working-groups/clr/wikipedia.html)
+[Wikipedia](/working-groups/clr/wikipedia.html)
 
-[Leipzig 2018](/international/working-groups/clr/leipzig2018.html)
+[Leipzig 2018](/working-groups/clr/leipzig2018.html)
 
-[Shangjai 2018](/international/working-groups/clr/shanghai2018.html)
+[Shangjai 2018](/working-groups/clr/shanghai2018.html)
 
-[Shanghai 2017](/international/working-groups/clr/shanghai2017.html)
+[Shanghai 2017](/working-groups/clr/shanghai2017.html)
 
-[Taipei 2016](/international/working-groups/clr/taipei2016.html)
+[Taipei 2016](/working-groups/clr/taipei2016.html)
 
-[Taipei 2015](/international/working-groups/clr/taipei2015.html)
+[Taipei 2015](/working-groups/clr/taipei2015.html)
 
 [Bilingual Chart of Common Chinese Instrument Names](/resources-old-website/workgroups/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf)
 

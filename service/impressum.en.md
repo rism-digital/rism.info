@@ -1,6 +1,6 @@
 ---
 title: "Disclaimer"
-layout: impressum
+layout: service
 lang: en
 permalink: /service/impressum.html
 ---

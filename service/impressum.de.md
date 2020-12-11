@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-layout: impressum
+layout: service
 lang: de
 permalink: /service/impressum.html
 ---
