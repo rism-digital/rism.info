@@ -21,19 +21,26 @@ Daher wird ein richtig umfassendes Dokumentationssystem mit digitaler Archivieru
 
 # News
 
-[weiterlesen](de/home/newsdetails/article/531.html)
+{% include image file="/images/news-old-website/csm_Datenbank_Korea_f89c0ccbb8.png" pos="left" %}
+
+## Einführung in die Ewha Music Data Base (EMDB)
+Das Ewha Music Research Institute (EMRI) beendete vor kurzem ein 3-jähriges Projekt mit der Einführung einer Datenbank von Dokumenten der ostasiatischer Musikerziehung im Oktober 2014. Das Ergebnis des Sammelns und Digitalisierens der Materialien ist jetzt in der Ewha-Musikdatenbank (EMDB) zu sehen: über 12.000 Einträge von verschiedenen Arten von Musikmaterialien werden aufgelistet. [_Weiterlesen..._](/electronic_resources/2015/04/14/introducing-the-ewha-music-data-base-emdb.html){:blank}  
+\
+\
+\
+\
+\
+\
+{% include image file="/resources-old-website/pics/Logo_Suedkorea_03.jpg" pos="left" %}
+
+## Von den Ersten[最初] zu den Besten[最高]: Ewha Music Research Institute
+Das Ewha Music Research Institute (EMRI) in Seoul (Südkorea) gewinnt immer mehr Anerkennung für seine Studien zur ostasiatischen Musik (China, Japan und Korea), da es sich stets um neue Forschungsprojekte und Konferenzen bemüht und organisiert, die sich auf wichtige Probleme des Dokumentierens und Digitalisierens von Primärquellen der ostasiatischen Musik konzentrieren. So ist es ein wichtiges Musikforschungsinstitut innerhalb und außerhalb Ostasiens mit hervorragenden internationalen Leistungen geworden. [_Weiterlesen..._](/in_the_news/2015/03/12/from-the-first-to-the-best-ewha-music.html){:blank}  
 
 
- ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
+{% include image file="/images/news-old-website/csm_poster_01_e385b020e8.jpg" pos="left" %}
 
 ## Veranstaltungen: 2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon
 
-Eine vom Ewha Musikforschungsinstitut organisierte internationale Konferenz fand vom 19. – 20. Oktober 2012 statt. Das Thema der Konferenz war \<Die Entdeckung der Modernität in Ostasien: Der Westen, die Tradition und jenseits davon\>. Die Konferenz bestand aus 5 Teilen: Teil 1 Das lebendige...
+Eine vom Ewha Musikforschungsinstitut organisierte internationale Konferenz fand vom 19. – 20. Oktober 2012 statt. Das Thema der Konferenz war \<Die Entdeckung der Modernität in Ostasien: Der Westen, die Tradition und jenseits davon\>. [_Weiterlesen..._](/events/2013/01/24/2012-international-conference-at-ewha-womans.html){:blank}  
 
-[weiterlesen](de/home/newsdetails/article/531/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east.html "2012 Internationale Konferenz an der Ewha Womans Universität in Seoul: Die Entdeckung der Moderne in Ostasien: Der Westen, die Tradition und jenseits davon")
 
-## Veranstaltungen: Kallisto workshop with Dr. Stefan Ikarus Kaiser
-
-Recently there was an introduction in the Kallisto software used by RISM.
-
-[weiterlesen](de/home/newsdetails/article/531/kallisto-workshop-with-dr-stefan-ikarus-kaiser.html "Kallisto workshop with Dr. Stefan Ikarus Kaiser")
