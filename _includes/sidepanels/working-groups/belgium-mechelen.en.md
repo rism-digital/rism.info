@@ -4,7 +4,7 @@
 
 # Contact
 
-RISM Working group Leuven
+RISM Working group Mechelen
 
 Mariet Calsius  
 Cemper - Centrum voor Muziek- en Podiumerfgoed  
