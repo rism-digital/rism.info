@@ -24,10 +24,12 @@ An extensive documentation system with digital archiving will therefore be devel
 ## Electronic resources: Introducing the Ewha Music Data Base (EMDB)
 
 The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’sEducational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the EMRI’s work of collecting and digitizing music education materials of East Asia: over 12,000 items of various types of music materials are listed. Its website (eMUSICdb.info) has been open to the public since November 1, 2014. [_Continue..._](/electronic_resources/2015/04/14/introducing-the-ewha-music-data-base-emdb.html){:blank}  
-
-
-
-
+\
+\
+\
+\
+\
+\
 {% include image file="/resources-old-website/pics/Logo_Suedkorea_03.jpg" pos="left" %}
 
 ## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
@@ -38,9 +40,10 @@ The Ewha Music ResearchInstitute (EMRI) is consistently gaining recognition as a
 
 ## Events: 2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation
 
-The Ewha Music Research Institute held an international conference, “Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation” on November the 8th and the 9th at the Recital Hall in the Music Building at Ewha Womans University in Seoul, South Korea. This conference...
+The [Ewha Music Research Institute](http://my.ewha.ac.kr/musicie/){:blank} held an international conference, “Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation” on November the 8th and the 9th at the Recital Hall in the Music Building at Ewha Womans University in Seoul, South Korea. This conference facilitated prolific academic conversations about critical issues on the documentation, sharing, and interpretation of music materials. Practical issues revolving around the collecting and indexing of music documents in different societies were addressed and compared; technical issues on digitalization and database establishment were discussed; and their implications for new musicological research were elaborated. Scholars, representatives of international organizations, such as RISM, [RILM](http://rilm.org/){:blank}, and [IAML](http://www.iaml.info/){:blank}, and representatives of local music archives and libraries from ten different countries were partaking in this interdisciplinary collaboration and conversation as guest speakers. Concerts and a cultural tour pertaining to the theme of the conference were also offered on November the 8th and the 10th as affiliated programs.
 
-[continue](en/home/newsdetails/article/531/2013-conference-keeping-music-alive-innovative-approaches-to-music-documentation-and-interpretati.html "2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation")
+The conference program can be viewed here and here.
+
 
 {% include image file="/images/news-old-website/csm_poster_01_e385b020e8.jpg" pos="left" %}
 
