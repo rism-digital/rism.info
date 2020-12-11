@@ -11,14 +11,14 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 ## Aktuelles
 
-{% include image file="/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg" pos="left" %}
+{% include image file="/images/news-old-website/csm_reutte_2010_480_01_2e57216cc1.jpg" pos="left" %}
 
 ### Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
 
 Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden. [_Weiterlesen..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
 
-{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg" pos="left" %}
+{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_2a08ca062a.jpg" %}
 
 ### : RISM Landesleitung Tirol-Südtirol & OFM Austria
 
