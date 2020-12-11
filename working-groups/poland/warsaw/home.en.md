@@ -22,17 +22,17 @@ Newcommers representing several institution: The National Library, The Institute
 The RISM Seminar at the end of the second day, aimed at the exchange of information about recent, current and planned projects of Polish RISM working groups. It was also a presentation for newcommers, what kind of use they can make of their Kallisto skills.
 
 
-During the seminar 5 reports were presented by:\
-- Sonia Wronkowska - Polish RISM Centre in The National Library of Poland\
-- dr hab. Magdalena Walter-Mazur - RISM working group in Poznań\
-- Grzegorz Joachimiak - RISM working group in Wrocław\
-- Katarzyna Spurgjasz - RISM working group in The Warsaw University Library\
+During the seminar 5 reports were presented by:
+- Sonia Wronkowska - Polish RISM Centre in The National Library of Poland
+- dr hab. Magdalena Walter-Mazur - RISM working group in Poznań
+- Grzegorz Joachimiak - RISM working group in Wrocław
+- Katarzyna Spurgjasz - RISM working group in The Warsaw University Library
 - Guido Kraus - RISM Central Office
 
 
-# In memoriam Elzbieta Wojnowska
+## In memoriam Elzbieta Wojnowska
 
- ![](/resources-old-website/workgroups-images/csm_Wojnowska_a745b05706.jpg "Wojnowska")
+{% include image file="/resources-old-website/workgroups-images/csm_Wojnowska_a745b05706.jpg" pos="right" %}
 
 Elzbieta Wojnowska had led, together with Jolanta Byczkowska-Sztaba, the Polish Center of RISM at the National Library in Warsaw since ca. 1984. During that time, she made RISM known in Poland and left her mark on it.
 
