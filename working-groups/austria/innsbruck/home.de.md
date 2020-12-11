@@ -11,25 +11,20 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 ## Aktuelles
 
- ![](/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg)
+{% include image file="/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg" pos="left" %}
 
-## : Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
+### Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
 
-Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden.Im Mittelpunkt...
+Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden. [_Weiterlesen..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
-[weiterlesen](/de/workgroups/austria-innsbruck-rism-landesleitung-tirol-suedtirol-ofm-austria/home/newsdetails/article/192/tyrolean-christmas-concert-18-19-december-2010.html "Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010")
 
-<!-- -->
+{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg" pos="left" %}
 
- ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg)
+### : RISM Landesleitung Tirol-Südtirol & OFM Austria
 
-## : RISM Landesleitung Tirol-Südtirol & OFM Austria
+Besonders bemerkenswerte Titel aus der Katalogisierungsarbeit in letzter Zeit [_Weiterlesen..._](/working-groups/austria/innsbruck/ofm.html){:blank}
 
-Besonders bemerkenswerte Titel aus der Katalogisierungsarbeit in letzter Zeit
 
-[weiterlesen](/de/workgroups/austria-innsbruck-rism-landesleitung-tirol-suedtirol-ofm-austria/home/newsarchiv/bemerkenswerte-titelaufnahmen.html "RISM Landesleitung Tirol-Südtirol & OFM Austria")
-
-<!-- -->
 
 ## Projekte
 
