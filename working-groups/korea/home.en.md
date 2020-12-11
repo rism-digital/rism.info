@@ -19,21 +19,20 @@ An extensive documentation system with digital archiving will therefore be devel
 
 # News
 
- ![](/resources-old-website/workgroups-images/csm_Datenbank_Korea_51c7869ddb.png)
+{% include image file="/images/news-old-website/csm_Datenbank_Korea_f89c0ccbb8.png" pos="left" %}
 
 ## Electronic resources: Introducing the Ewha Music Data Base (EMDB)
 
-The following is by Hyun Kyung Chae, director of RISM South Korea: The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’sEducational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the...
+The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’sEducational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the EMRI’s work of collecting and digitizing music education materials of East Asia: over 12,000 items of various types of music materials are listed. Its website (eMUSICdb.info) has been open to the public since November 1, 2014. [_Continue..._](/electronic_resources/2015/04/14/introducing-the-ewha-music-data-base-emdb.html){:blank}  
 
-[continue](en/home/newsdetails/article/531/introducing-of-the-ewha-music-data-base-emdb.html "Introducing the Ewha Music Data Base (EMDB)")
 
- ![](/resources-old-website/workgroups-images/csm_Logo_Suedkorea_03_f7d09a7702.jpg)
+
+
+{% include image file="/resources-old-website/pics/Logo_Suedkorea_03.jpg" pos="left" %}
 
 ## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
 
-The Ewha Music Research Institute (EMRI) is consistently gaining recognition as a hub for the study of East Asian music, namely that of China, Japan, and Korea, as it continues to embark on new collaborative research projects and organizes pertinent conferences focusing on important issues of...
-
-[continue](en/home/newsdetails/article/531/from-the-first-to-the-best-ewha-music-research-institute.html "From the First[最初] to the Best[最高]: Ewha Music Research Institute")
+The Ewha Music ResearchInstitute (EMRI) is consistently gaining recognition as a hub for the study of East Asian music, namely that of China, Japan, and Korea, as it continues to embark on new collaborative research projects and organizes pertinent conferences focusing on important issues of documenting and digitizing primary sources in East Asian music. The Ewha College of Music, as the first music education institute in Korea, has led the field of Western music education and performance since its establishment in 1925. And, since its establishment in 1997, the EMRI has been diligently creating inner-connective environments in which the three important field of music (education, performance and research) are integrated through interdisciplinary approaches. [_Continue..._](/in_the_news/2015/03/12/from-the-first-to-the-best-ewha-music.html){:blank}  
 
  ![](/resources-old-website/workgroups-images/csm_Conference_program_01_2c0a870fa2.jpg)
 
@@ -43,20 +42,8 @@ The Ewha Music Research Institute held an international conference, “Keeping M
 
 [continue](en/home/newsdetails/article/531/2013-conference-keeping-music-alive-innovative-approaches-to-music-documentation-and-interpretati.html "2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation")
 
- ![](/resources-old-website/workgroups-images/csm_poster_9880592d4d.jpg)
+{% include image file="/images/news-old-website/csm_poster_01_e385b020e8.jpg" pos="left" %}
 
 ## Events: 2012 International Conference at Ewha Womans University in Seoul: The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond
 
-The Music Research Institute at Ewha Womans University in Seoul, South Korea organized an international conference from 19-20 October 2012. The title of the conference was “The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond.” The conference consisted of five...
-
-[continue](en/home/newsdetails/article/531/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east.html "2012 International Conference at Ewha Womans University in Seoul: The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond")
-
-<!-- -->
-
-## Events: Kallisto workshop with Dr. Stefan Ikarus Kaiser
-
-Recently there was an introduction to the Kallisto software used by RISM.
-
-[continue](en/home/newsdetails/article/531/kallisto-workshop-with-dr-stefan-ikarus-kaiser.html "Kallisto workshop with Dr. Stefan Ikarus Kaiser")
-
-<!-- -->
+The Music Research Institute at Ewha Womans University in Seoul, South Korea organized an international conference from 19-20 October 2012. The title of the conference was “The Discovery of Modernity in East Asian Music: The West, Tradition, and Beyond.” [_Continue..._](/events/2013/01/24/2012-international-conference-at-ewha-womans.html){:blank}  
