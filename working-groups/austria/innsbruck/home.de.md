@@ -19,7 +19,9 @@ Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters 
 
 
 
-### : RISM Landesleitung Tirol-Südtirol & OFM Austria
+
+
+### RISM Landesleitung Tirol-Südtirol & OFM Austria
 
 Besonders bemerkenswerte Titel aus der Katalogisierungsarbeit in letzter Zeit [_Weiterlesen..._](/working-groups/austria/innsbruck/ofm.html){:blank}
 
