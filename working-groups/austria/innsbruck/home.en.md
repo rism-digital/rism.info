@@ -9,26 +9,19 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 
 # Austria : Innsbruck : RISM Tyrol-South Tyrol & OFM Austria
 
+Visit the website of the [Tyrolean Land of Music](http://www.musikland-tirol.at/){:blank} forinformation about RISM work in Tyrol-South Tyrol and OFM Austria, the musical history of Tyrol, an online exhibition, modern music editions of Tyrolean music, CDs, and concerts featuring Tyrolean music.
+
 ## News
 
- ![](/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg)
+{% include image file="/resources-old-website/workgroups-images/csm_reutte_2010_480_01_3dd46265ca.jpg" pos="left" %}
 
-## : Tyrolean Christmas Concert 18-19 December 2010
+### Tyrolean Christmas Concert 18-19 December 2010
 
-A Christmas concert with musicfrom the archives of the Franciscan Monastery Reutte/Tyrol. The 22nd Tyrolean Christmas Concert will again be rooted in the idea of recreating a mood-filled Midnight Mass in 19th-century style utilizing Christmas music from Tyrol. The focus is on the lovely...
+A Christmas concert with musicfrom the archives of the Franciscan Monastery Reutte/Tyrol. The 22nd Tyrolean Christmas Concert will again be rooted in the idea of recreating a mood-filled Midnight Mass in 19th-century style utilizing Christmas music from Tyrol. [_Continue...](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
 
-[continue](/en/workgroups/austria-innsbruck-rism-landesleitung-tirol-suedtirol-ofm-austria/home/newsdetails/article/192/tyrolean-christmas-concert-18-19-december-2010.html "Tyrolean Christmas Concert 18-19 December 2010")
 
-<!-- -->
+{% include image file="/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg" pos="left" %}
 
- ![](/resources-old-website/workgroups-images/csm_MariaSchoenste_no2133_4c13653095.jpg)
+### Particularly remarkable titles from recently catalogued materials
 
-## : RISM Tyrol-South Tyrol & OFM Austria
-
-Particularly remarkable titles from recently catalogued materials
-
-[continue](/en/workgroups/austria-innsbruck-rism-landesleitung-tirol-suedtirol-ofm-austria/home/newsarchiv/remarkable-titles.html "RISM Tyrol-South Tyrol & OFM Austria")
-
-<!-- -->
-
-Visit the website of the [Tyrolean Land of Music](http://www.musikland-tirol.at/){:blank} forinformation about RISM work in Tyrol-South Tyrol and OFM Austria, the musical history of Tyrol, an online exhibition, modern music editions of Tyrolean music, CDs, and concerts featuring Tyrolean music.
+Particularly remarkable titles from recently catalogued materials: Stams Monastery, Brixen Diocesan Archives, Franciscan Monastery, Salzburg [_Continue...](working-groups/austria/innsbruck/ofm.html){:blank}
