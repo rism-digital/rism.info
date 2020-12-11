@@ -11,7 +11,7 @@ email: tzchia22@gmail.com
 author: Tzu-Chia Tseng
 ---
 
-_Den folgenden Beitrag erhielten wir von Tzu-Chia Tseng von der [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](/international/working-groups.html) (RISM-CLR):_
+_Den folgenden Beitrag erhielten wir von Tzu-Chia Tseng von der [RISM Arbeitsgruppe Chinesisch-Sprechendes Gebiet](/working-groups.html) (RISM-CLR):_
 
 **2018/12: RISM-CLR veranstaltete das Jahrestreffen des Verbundprojekts über chinesische Musikressourcen und einen Muscat-Workshop in Shanghai**
 

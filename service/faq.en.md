@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-layout: impressum
+layout: service
 lang: en
 permalink: /service/faq.html
 old_url: http://www.rism.info/service/faqs.html

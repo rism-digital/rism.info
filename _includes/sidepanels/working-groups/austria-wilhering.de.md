@@ -1,8 +1,8 @@
 # Information
 
-[Über uns](/international/working-groups/austria/wilhering/home.html)
+[Über uns](/working-groups/austria/wilhering/home.html)
 
-[Praktikum](/international/working-groups/austria/wilhering/practicum.html)
+[Praktikum](/working-groups/austria/wilhering/practicum.html)
 
 # Kontakt
 

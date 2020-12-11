@@ -11,7 +11,7 @@ email: jlazos11@hotmail.com
 author: John G. Lazos
 ---
 
-_Unseren dritten Beitrag zur RISM-Reihe modernen Montag schrieb[John G. Lazos](/international/working-groups.html), der sich mit mexikanischen Quellen für RISM beschäftigt:_
+_Unseren dritten Beitrag zur RISM-Reihe modernen Montag schrieb[John G. Lazos](/working-groups.html), der sich mit mexikanischen Quellen für RISM beschäftigt:_
 
 Unter Mexikanischer Musik versteht man gemeinhin die Musik aus den ersten Jahrzehnten des zwanzigsten Jahrhunderts. Diese Sichtweise etablierte sich unter dem Einfluss einer national geprägten mexikanischen Kultur-Ideologie des 20. Jahrhunderts. Die Grundlage bildete eine Kombination aus klassischen Musikformen mit vor-kolumbianischen Klängen und instrumentalen Anteilen. Die Komponisten, die diesen Ansatz am besten veranschaulichen, sind Manuel M. Ponce(1886-1948),Silvestre Revueltas(1899-1940)sowie Carlos Chávez (1899-1978). Dabei ist die _Sinfonia India_ von Chávez wohl die Komposition dieser Zeit, deren Klang zum Sinnbild mexikanischer Musik wurde.
 

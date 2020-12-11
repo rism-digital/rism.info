@@ -1,10 +1,11 @@
 # Information
 
-[About us](/international/working-groups/united-states/update.html)
+[About us](/working-groups/united-states/home.html)
 
-[]()
+[2011: RISM Series A/II Update Survey](/working-groups/united-states/update.html)
 
-[Survey](/international/working-groups/united-states/update.html)
+[2010: U.S. RISM News](/working-groups/united-states/news.html)
+
 
 # Contact
 

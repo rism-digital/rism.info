@@ -1,14 +1,14 @@
 # Information
 
-[Über uns](/international/working-groups/korea/home.html)
+[Über uns](/working-groups/korea/home.html)
 
-[Datenbank](/international/working-groups/korea/database.html)
+[Datenbank](/working-groups/korea/database.html)
 
-[Forschung](/international/working-groups/korea/research.html)
+[Forschung](/working-groups/korea/research.html)
 
-[Konferenz 2013](/international/working-groups/korea/innovative.html)
+[Konferenz 2013](/working-groups/korea/innovative.html)
 
-[Konferenz 2012](/international/working-groups/korea/modernity.html)
+[Konferenz 2012](/working-groups/korea/modernity.html)
 
 
 # Kontakt

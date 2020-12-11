@@ -1,8 +1,8 @@
 # Information
 
-[About us](/international/working-groups/ireland/home.html)
+[About us](/working-groups/ireland/home.html)
 
-[Launch of the Dublin Music Trade](/international/working-groups/ireland/dublin.html)
+[Launch of the Dublin Music Trade](/working-groups/ireland/dublin.html)
 
 # Contact
 

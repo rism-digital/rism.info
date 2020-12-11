@@ -11,7 +11,7 @@ email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---
 
-_Der folgende Beitrag stammt von Kris De Baerdemacker ([RISM Belgium](/international/working-groups.html)) und der[Koninklijke Bibliotheek van België, Muziekafdeling - Bibliothèque royale de Belgique, Section de la Musique](http://www.kbr.be){:target="_blank"}:_
+_Der folgende Beitrag stammt von Kris De Baerdemacker ([RISM Belgium](/working-groups.html)) und der[Koninklijke Bibliotheek van België, Muziekafdeling - Bibliothèque royale de Belgique, Section de la Musique](http://www.kbr.be){:target="_blank"}:_
 
 Die Musikabteilung der Königlichen Bibliothek Belgiens hat kürzlich drei Handschriften von Eugène Ysaÿe erworben: die autographe Partitur des_Poème élégiaque_als Arrangement für zwei Klaviere, die vollständige Partitur des_Étude-Poème_ op. 9 und die autographe Partitur der_Petite fantaisie romantique_. Diese Handschriften werfen ein ganz neues Licht auf die bereits vorhandenen Quellen im Bestand "Eugène Ysaÿe". Bis jetzt war nur die Violin-Stimme des_Etude Poème_bekannt und die einzige Quelle der_Petite fantaisie romantique_ war eine Fotokopie.
 
