@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Rigaerfahrung_IAML_2017_Guido_Bibliothek_656188bfbd.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/riga-rism-ligo.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/riga-rism-ligo.html
 email: ''
 author: ''
 ---
@@ -70,4 +70,3 @@ _The entrance to the Mežaparks (Foto: J. Ward)_
 
 ![Art nouveau in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_jugendstil528x437.jpg)
 _Art Nouveau off the beaten track_ _(Foto: J. Ward)_
-

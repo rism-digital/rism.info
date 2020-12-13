@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_etlich_liedlein_nur_bild_247858f093.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ Enjoy this behind-the-scenes video of the digitization project (and some nice vi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9MQI8SH8-AU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Image from the exhibition website._
-

@@ -28,4 +28,3 @@ Die Arbeiten der Postgraduierten-Forscher Micah Neale und James Ritzema, die von
 Die Rahmenstudie wird von der Strategic Knowledge Exchange Initiative an der Royal Holloway, University of London finanziert.
 
 Wir würden uns sehr darüber freuen, von Besitzern von RISM relevantem Material zu hören, die daran interessiert sind, die Materialien in die Datenbank aufzunehmen. Bitte wenden Sie sich an Caroline Shaw, Secretary of the RISM (UK) Trust: [caroline.shaw@bl.uk](mailto:caroline.shaw@bl.uk), wenn Sie sich beteiligen möchten.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_foto_Schlichte_092310008c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ In his time as director of the Zentralredaktion, he continuously encouraged the 
 We shall always treasure his memory.
 
 The RISM Zentralredaktion
-
-

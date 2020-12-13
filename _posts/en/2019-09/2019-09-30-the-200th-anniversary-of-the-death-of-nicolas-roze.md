@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Roze_Nicolas_200_526cdfc026.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ When Napoleon I was crowned on 2 December 1804 in the Eglise Metropolitaine in P
 In 1807 Roze became director of the library at the Paris Conservatory. Until the end of his life, he supported the introduction of a catalog system and worked on conserving and expanding the collection.
 
 _Image_: "C'est dans nos boccages" from [_Deux Ariettes_](https://gallica.bnf.fr/ark:/12148/btv1b90640733){:target="_blank"} (Paris, ca. 1780; [RISM ID no. 990056304](https://opac.rism.info/search?id=990056304&View=rism&Language=en){:target="_blank"}).
-

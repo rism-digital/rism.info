@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Muscat_87a096eb84.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
 email: ''
 author: ''
 ---
@@ -83,4 +83,3 @@ The switch to Muscat will take place at the beginning of November.
 After Muscat is released, we will be happy to grant access to anyone new who wants to start contributing to RISM.
 
 Feedback at the IAML congress was very positive and we are looking forward to the Muscat release.
-

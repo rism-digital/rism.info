@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Trnka_eb89ed8f73.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/trnka-who-mistaken-attributions-and-their-effects.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/trnka-who-mistaken-attributions-and-their-effects.html
 email: ''
 author: ''
 ---
@@ -1087,4 +1087,3 @@ MGG1: Hilde Hellmann-Stojan, Artikel Trnka, Johann Wenzel, in: _Musik in Geschic
 [Rottensteiner 2013](http://othes.univie.ac.at/25032/1/2013-01-09_8505715.pdf){:target="_blank"}: Birgit Rottensteiner, "Die Anfänge des vierhändigen Klavierspiels in Wien", Diplomarbeit Universität Wien, 2013
 WeinmannX 19XX:Vollständiges Verlagsverzeichnis (zum jeweiligen Verlag, Abkürzungen wie in RISM).
 WZ: Wiener Zeitung,online durchsuchbar bei [ANNO](http://anno.onb.ac.at/){:target="_blank"}
-

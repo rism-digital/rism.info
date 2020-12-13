@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Finnisches_Gesangbuch_5cda4c62ea.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/oldest-complete-finnish-songbook-discovered-in-dresden.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ The newly discovered songbook, which is text only but complete, adds additional 
 The songbook is digitized and [available online](http://digital.slub-dresden.de/werkansicht/dlf/114166/1/){:target="_blank"}.
 
 Image: Title page to _Yxi Wähä Suomenkielinen Wirsikiria_, SLUB Dresden, Lit.var.167,misc.1, [http://digital.slub-dresden.de/id425718670](http://digital.slub-dresden.de/id425718670) (CC-BY-SA 4.0).
-

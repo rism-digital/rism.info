@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Potraitmedaillon_W_F_Bach_149a3804dc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wilhelm-friedemann-bach-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/wilhelm-friedemann-bach-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

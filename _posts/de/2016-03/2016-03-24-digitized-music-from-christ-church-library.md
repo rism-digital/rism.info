@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitized-music-from-christ-church-library.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/digitized-music-from-christ-church-library.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ Die digitalisierten Handschriften sind von großer Bedeutung für die englische 
 Im RISM-Onlinekatalog sind zur Zeit über 2.600 handschriftliche und gedruckte Musikquellen der Christ Church nachgewiesen (der Bestand befindet sich aktuell in Bearbeitung, so dass die Zahl noch wächst), aus der Bodleian Library sind es fast 10.000.
 
 _Abbildung_: [Mus 45](http://viewer.bodleian.ox.ac.uk/christchurch/page.php?book=mus._45&page=8){:target="_blank"}, Tafelbuch, spätes 16. Jahrhundert, f. 2v. "O vos omnes" von Robert White. Mit freundlicher Genehmigung der Christ Church Library.
-

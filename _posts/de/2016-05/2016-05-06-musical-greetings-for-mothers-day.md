@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Muttertag_e894bbeb23.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-greetings-for-mothers-day.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/musical-greetings-for-mothers-day.html
 email: ''
 author: ''
 ---
@@ -57,4 +57,3 @@ Leo Kunzs Melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?
 Wir hoffen, dass Ihnen diese Musik hilft, Ihrer Mutter an diesem speziellen Tag ein Ständchen zu bringen!
 
 _Abbildung_: "Dem Mütterlein!" Postkarte, undatiert. Universität Osnabrück, [Historische Bildpostkarten](http://www.bildpostkarten.uni-osnabrueck.de/displayimage.php?pos=-5485){:target="_blank"} Sammlung. Via [Europeana](http://europeana.eu/portal/record/2048043/ProvidedCHO_Universit_t_Osnabr_ck___Historische_Bildpostkarten_5485.html){:target="_blank"}. ([CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/){:target="_blank"})
-

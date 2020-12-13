@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Choir_Library_Luebeck_9b046ee41e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-choir-library-of-st-marys-in-luebeck-1546-1674.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/the-choir-library-of-st-marys-in-luebeck-1546-1674.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ Snyder schreibt: "Während Petrus Hasse, Franz Tunder und Dietrich Buxtehude als
 
 
 Die Datenbank kann anhand zahlreicher Felder - beispielsweise nach den Standardverlagsangaben, Einband- und Widmungsträger - durchsucht werden. RISM [A/I und B/I Nummern](https://opac.rism.info/search?View=rism&siglum=A-Wgm){:target="_blank"} sind ebenfalls enthalten. Die Datenbank verlinkt auch zu externen Projekten, die sich mit gedruckter Musik beschäftigen, z.B. [Printed Sacred Music Database](http://www.printed-sacred-music.org/){:target="_blank"} und JSCM's [Catalogue of Mass, Office, and Holy Week Music Printed in Italy, 1516-1770](http://sscm-jscm.org/instrumenta/instrumenta-volumes/instrumenta-volume-2/){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-catalog-of-works-for-hector-berlioz.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/a-new-catalog-of-works-for-hector-berlioz.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ In die zweite Ausgabe wurden nicht nur Korrekturen und Ergänzungen aufgenommen 
 RISM verwendet den Kurztitel HolBe|1 für die erste Ausgabe des Berlioz Katalogs. [HolBe|2 ist der Kurztitel für die zweite Ausgabe](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe13803%22&){:target="_blank"} und wird zukünftig der bevorzugte Katalog sein. Es gibt etwas mehr als 60 Berlioz-Quellen in RISM, darunter einige neue: ein Arrangement der Ouverture zu _Benvenuto Cellini_ für Klavier vierhändig in einer Abschrift von Hans von Bülow (RISM ID no. [1001049142](https://opac.rism.info/search?id=1001049142&View=rism){:target="_blank"}), einige Autographe in Braunschweig (RISM ID no. [1001007637](https://opac.rism.info/search?id=1001007637&View=rism){:target="_blank"} und [1001007633](https://opac.rism.info/search?id=1001007633&View=rism){:target="_blank"}) sowie [eine Handvoll italienischer Manuskripte](https://opac.rism.info/search?View=rism&author=berlioz&siglum=I-*&Language=en){:target="_blank"} dank eines aktuellen Datenimportprojekts aus [SBN Musica/ ICCU](https://opac.sbn.it/opacsbn/opac/iccu/musica.jsp){:target="_blank"}.
 
 _Abbildung_: Portrait von Hector Berlioz, Lithographie von Étienne Carjat (1828-1906). Bibliothèque nationale de France, département Musique, EST MACNUTT GF 004, [über Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8454326z){:target="_blank"} (public domain).
-
-

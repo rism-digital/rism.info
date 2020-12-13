@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Spitzeder_9c8629735a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-spitzeders-a-musical-family.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/the-spitzeders-a-musical-family.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Adelheid Fries (1793-1873) was the daughter of Johann Baptist Spitzeder and perf
 Henriette Spitzeder-Schüler (1800-1828) was the daughter of the singer Carl Schüler (1775-1809) and married Josef Spitzeder in 1816. During her short life, she could be heard in numerous opera houses, including the ones in Karlsruhe, Nuremberg, and Vienna. A guest performance took her to Hamburg in 1826, where she sang in Etienne-Nicolas Méhul's opera _La Journée aux Aventures_ (RISM ID no. [452502383](https://opac.rism.info/search?id=452502383&Language=en){:target="_blank"}). She died in 1828 giving birth to her tenth child.
 
 _Image_: Adele Spitzeder, from the popular weekly magazine _Die Gartenlaube_, vol. 15 (1873), p. 251. Spitzeder had made headlines when she was arrested the previous November. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1873)_b_251.jpg){:target="_blank"}.
-
-

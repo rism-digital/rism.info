@@ -6,11 +6,10 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Weihnachtsgruss_2017_7573db1267.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-holidays-2017.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/happy-holidays-2017.html
 email: ''
 author: ''
 ---
 The RISM Central Office wishes you and your family all the best for a festive holiday season and a happy New Year. Our office will be closed the week of December 25. We look forward to working with you again in 2018.
 
 _Image_: Postcard circa 1900 from [Furman University, Special Collections and Archives](http://cdm16821.contentdm.oclc.org/cdm/ref/collection/p16821coll9/id/767){:target="_blank"}.
-

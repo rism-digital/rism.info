@@ -7,7 +7,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Chopin_2020_b_fb72619cce.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/online-muscat-workshop-with-the-chopin-institute-warsaw-in-the-age-of-the-corona-pandemic.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/online-muscat-workshop-with-the-chopin-institute-warsaw-in-the-age-of-the-corona-pandemic.html
 email: ''
 author: 'Guido Kraus'
 ---
@@ -33,4 +33,3 @@ An additional brief online workshop will take place in September, which will foc
 RISM is pleased with how cooperation with the Chopin Institute in Warsaw is progressing, and along with other scholars is very much looking forward to when the records are published.&nbsp;   
   
 <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "9b601438-1ce1-49d8-bfd7-9cff5df54c17", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-

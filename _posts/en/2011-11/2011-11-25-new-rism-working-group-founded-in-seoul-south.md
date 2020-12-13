@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Logo_Suedkorea_01.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/63/article/64/new-rism-working-group-founded-in-seoul-south-korea.html
 email: 64ehkim@ewha.ac.kr
 author: Dr. Eun-Ha Kim
 ---

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Star_Vogel_des_Jahres_Mozart_5f3b5cf600.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-mozarts-starling.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/music-and-mozarts-starling.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Hören Sie selbst und hören Sie auch Mozarts andere Werke aus dieser Zeit. Kön
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nx-N9I1eZyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Abbildung_: Letzte Seite von _Ein musikalischer Spaß_ in einer Abschrift, die in der Tschechischen Nationalbibliothek aufbewahrt wird. [RISM ID no. 1001011179](https://opac.rism.info/search?id=1001011179&View=rism){:target="_blank"}. [Online einsehbar](http://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR __M_I_26______ 2GLXWZ7-cs){:target="_blank"} (CC-BY).
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Der Katalogisierer Raban Sincker erklärte: "Dass Beethovens Ikone Für Elise im
 Nachforschungen im Kirchenarchiv von St. Ausonia ergaben, dass Kuneus bereits 1782 in Kiel tätig war, nachdem er zuvor in Freiburg im Breisgau Orgel und Theologie studiert hatte. In Kiel spielte er die Orgel in St. Ausonia, wurde dann aber um 1791 Seemann. Ladungslisten im Kieler Stadtarchiv belegen häufige Reisen zwischen Kiel und St. Petersburg, wo er mehr als einmal von einer "Nathalie S." begleitet wurde, über die fast nichts bekannt ist. Die Spuren der beruflichen Tätigkeit von Kuneus nach 1820 verlieren sich; er findet noch Erwähnung in regionalen Zeitungen mit Ankündigungen zu Musiksalons im Odenwald. _Pour Nathalie_ scheint die einzige Komposition von Kuneus zu sein.
 
 _Pour Nathalie_ von Kuneus wird in genau einem Jahr seine moderne Erstaufführung mit historischen Instrumenten und Kostümen feiern, so Hoek, Lyne und Sincker.
-

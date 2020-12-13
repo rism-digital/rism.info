@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Biene_2019-Heinichen_51b2bdb705.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/insect-of-the-year-2019-red-mason-bee.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/insect-of-the-year-2019-red-mason-bee.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Die italienische Biene “l['ape](https://opac.rism.info/search?View=rism&q=l'ap
 Wir freuen uns auf die Bienen im nächsten Frühjahr!
 
 _Abbildung_: Johann David Heinichen, _Le nozze di Nettuno e di Teti_, [D-Dl Mus.2398-L-4](https://digital.slub-dresden.de/werkansicht/dlf/126042/){:target="_blank"} (RISM ID no.: [212006372](https://opac.rism.info/search?id=212006372&View=rism){:target="_blank"})
-

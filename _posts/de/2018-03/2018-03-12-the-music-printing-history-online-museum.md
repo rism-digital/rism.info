@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-printing-history-online-museum.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/the-music-printing-history-online-museum.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Unser Lieblingsvideo, auf das diese Seite verlinkt, ist die Nahaufnahme der bewe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Abbildung: Bewegliche Type von[Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-

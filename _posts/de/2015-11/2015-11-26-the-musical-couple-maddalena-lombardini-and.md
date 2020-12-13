@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Lombardini-2_256faadd47.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-musical-couple-maddalena-lombardini-and-lodovico-sirmen.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/the-musical-couple-maddalena-lombardini-and-lodovico-sirmen.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Hören Sie hinein in Maddalenas op.1: Trio a deux violins et violoncello, op. 1,
 
 
 Abbildung: Maddalena Lombardini, Titelblatt zu op. 2, Trois Concerts (Amsterdam: J.J. Hummel, 1770?). [RISM A/I: S 3538](https://opac.rism.info/search?id=00000990059896){:target="_blank"}. Biblioteca Nacional de España [(E-Mn) M/709(18)](http://bdh-rd.bne.es/viewer.vm?id=0000009725&page=1){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_CDs_01_3ac265972d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
 email: ''
 author: ''
 ---
@@ -60,5 +60,3 @@ Also available on iTunes and Spotify.
 
 
 _Photo credit: Adapted from "Muro de CDs" by Feans, via [Flickr](https://www.flickr.com/photos/endogamia/3305384139/){:target="_blank"} ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/){:target="_blank"})_
-
-

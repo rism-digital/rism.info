@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Inventare_e4824639e3.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/historical-inventories-of-music-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/43/article/64/historical-inventories-of-music-online.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -22,5 +22,3 @@ The catalogs include items such as three chronologically consecutive music inven
 Seven of the inventories come directly from the holdings of the SLUB Dresden. The eighth was digitized and made accessible through cooperation with the Berlin State Library (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz).
 
 Image: Page from the [Catalogo della Musica di Chiesa](http://digital.slub-dresden.de/id425373169){:target="_blank"}, ca. 1780
-
-

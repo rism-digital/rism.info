@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele
 ---
@@ -19,4 +19,3 @@ RISM-Sigel: [A-HE (Stift Heiligenkreuz)](https://opac.rism.info/search?View=rism
 
 
 Foto mit freundlicher Genehmigung von Martin Rainer
-

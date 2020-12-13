@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wilhelmine-schroeder-devrient-1804-1860.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/wilhelmine-schroeder-devrient-1804-1860.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Gastspiele führten die Sängerin während ihrer Dresdner Zeit nach Paris (1830,
 Als Konzertsängerin trat Wilhelmine Schröder-Devrient 1856 wieder mit Liedern von Franz Schubert, Beethoven und Felix Mendelssohn Bartholdy auf. 1859 nahm sie endgültig Abschied von der Bühne und starb am 26. Januar 1860 in Coburg.
 
 _Abbildung_: Madame Schröder als Adriano in Richard Wagners _Rienzi_, aus: Johann Jacob Weber (Hrsg.), 1803–1880 - _Illustrirte Zeitung_ no. 7, 12. August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (gemeinfrei).
-
-

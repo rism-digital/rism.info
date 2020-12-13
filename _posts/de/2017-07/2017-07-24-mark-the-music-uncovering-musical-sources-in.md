@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Goeteborg_Mark_the_Music_Handscrift_0b45301c06.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
 email: ''
 author: ''
 ---
@@ -39,4 +39,3 @@ Die Folien sind [online](http://smbf.nu/arkivet/markthemusic/markthemusic.html){
 Der Kurs beinhaltete auch ein Besuch der [Herbert Blomstedt Collection](http://www.ub.gu.se/samlingar/blomstedt/){:target="_blank"}, die in der Universität beherbergt und für Forscher zugänglich ist. Sie enthält die persönlicher Büchersammlung des Dirigenten und eine beindruckende Sammlung seltener Handschriften, die Blomstedt auf seinen zahlreichen Reisen gesammelt hat. Da Blomstedt noch immer als Dirigent aktiv ist, sind seine Partituren noch in seinem Besitz. Der Kurator der Sammlung erzählte uns, wie Blomstedt noch immer seltene Musikalien aufspürt und kauft, um sie der Universitätsbibliothek anzuvertrauen.
 
 Vielen Dank anPia Shekhter für die freundliche Einladung, inGöteburg sprechen zu dürfen,und für diehervorragende Organisation des Kurses. Tusen tack!
-

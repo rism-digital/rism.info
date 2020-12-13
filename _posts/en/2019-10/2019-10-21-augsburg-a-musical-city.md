@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_DE_Augsburg_2019_5ba5bc4844.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/augsburg-a-musical-city.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/augsburg-a-musical-city.html
 email: ''
 author: ''
 ---
@@ -36,4 +36,3 @@ Throughout the conference, we heard about Leopold Mozart and the Mozart family, 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fposts%2F3203030349737787&amp;width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 We were also treated to several exhibits that featured treasures from these collections.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Nisle_266945b255.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Like his father Johannes Nisle (1735-1788), Nisle's two brothers Johann Wilhelm 
 The [54 sources documented in RISM](https://opac.rism.info/metaopac/search?View=rism&q=117022381&Language=en){:target="_blank"} (36 imprints and 18 manuscripts) for Nisle show that the focus of his output was clearly on chamber music. That said, there is also a single opera called _Der Eremit auf Formentera_, which was performed at the court of Ignác Végh. An incomplete set of parts for the opera is preserved today at the István Király Museum in Székesfehérvár, Hungary (H-SFm, RISM ID no. [530004434](https://opac.rism.info/search?id=530004434&Language=en){:target="_blank"}).
 
 _Image_: Johann Martin Friedrich Nisle, _Zwölf freundliche Gesänge_ (Bunzlau: Appun, circa 1844), Bayerische Staatsbibliothek (D-Mbs) Mus.pr. 8887. [Available online](https://opacplus.bsb-muenchen.de/Vta2/bsb11161810/bsb:BV007853769){:target="_blank"}.
-
-

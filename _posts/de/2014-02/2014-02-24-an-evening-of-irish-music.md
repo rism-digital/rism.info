@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-evening-of-irish-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/59/article/64/an-evening-of-irish-music.html
 email: ''
 author: ''
 ---
@@ -43,5 +43,3 @@ Ein Konzert in Zusammenarbeit mit der Zentralredaktion des Répertoire Internati
 Eintritt frei
 
 Bildnachweis von oben nach unten: Titelseite zu Aldays Grand Symphony, Sharon Carty, Jonathan Ware, Frank Plieninger. Bild zu Alday mit freundlicher Genehmigung des RFMI; Fotos mit freundlicher Genehmigung der Künstler.
-
-

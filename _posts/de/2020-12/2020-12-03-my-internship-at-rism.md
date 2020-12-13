@@ -27,4 +27,3 @@ Es waren vier aufregende Wochen voller neuer Erfahrungen und Eindrücke. Ich dur
 _Abbildung_: Franz Anton Dimmler (1753-1827), _Der Schatzgräber. Operette in drei Aufzügen_. Exemplar: [D-WINtj 11](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00121948-1), [RISM ID no. 450022049](https://opac.rism.info/search?id=450022049&View=rism).
 
 &nbsp;
-

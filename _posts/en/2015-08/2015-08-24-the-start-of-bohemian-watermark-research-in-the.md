@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Watermark_Research_4f16332722.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
@@ -27,4 +27,3 @@ To date, we have saved 670 drawings. You can browse our watermark collection by 
 Simultaneously we are drawing up a [Bohemian paper makers vocabulary](http://www.nkp.cz/soubory/ostatni/bohemian_papermakers_vocabulary.pdf){:target="_blank"}, where we have information that we collected from the literature (particularly Zuman's studies) and from the sources we have explored. It now contains ca. 500 Bohemian paper makers from the sixteenth to the nineteenth centuries with bibliographic citations, links to the RISM multimedia database, and a couple of indexes. We would like to start up online access to this vocabulary soon and continuously add to it. The next phase of our project will be the compilation of a chronology of each watermark figure in a specific paper mill in the Bohemian watermark catalog. It would be an important tool for musicological research.
 
 Photo: Watermark of a shield (crowned) with crosier and patriarchal cross (crossed), above mitre] | CP (no. 1) (RISM ID no. [551001058](https://opac.rism.info/search?id=551001058){:target="_blank"})
-

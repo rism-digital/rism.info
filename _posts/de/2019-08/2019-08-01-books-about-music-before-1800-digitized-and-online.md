@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/books-about-music-before-1800-digitized-and-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/books-about-music-before-1800-digitized-and-online.html
 email: ''
 author: Library of Congress, Music Division
 ---
@@ -24,5 +24,3 @@ Diese [Online-Präsentation](https://www.loc.gov/collections/books-about-music-b
 _Abbildung_: Der von Franciscus Gaffurius verwendete Holzschnitt veranschaulicht, wie einfache Verhältnisse konsonante musikalische Intervalle erzeugen können, unabhängig von der Quelle des Mediums - Ambosse, Glocken, Wasser, Streicher oder Pfeifen.
 
 _Diese Ankündigung wurde auch ins Spanische übersetzt von [Papeles de musica](https://papelesdemusica.wordpress.com/2019/07/30/disponibles-a-texto-completo-dos-mil-libros-sobre-musica-de-la-loc-anteriores-a-1800/){:target="_blank"}._
-
-

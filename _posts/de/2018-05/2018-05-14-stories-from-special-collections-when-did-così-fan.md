@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
 email: eberhardt@llb-detmold.de
 author: Joachim Eberhardt
 ---
@@ -22,5 +22,3 @@ Mir scheinen beide Möglichkeiten kaum wahrscheinlich. Gegen die zweite spricht 
 Es ist denkbar, dass der Prinzipal der Truppe bei der Einrichtung nach dem Bau des Hoftheatergebäudes 1825, also August Pichler, etwas mitbrachte an Besitz; ich habe bei Hans Georg Peters (_[Vom Hoftheater zum Landestheater: die Detmolder Bühne von 1825 bis 1969](http://www.worldcat.org/oclc/462223504){:target="_blank"}_, S. 26) gelesen, dass er bei seiner Festanstellung seinen "Fundus" dem Theater zur Verfügung zu stellen hatte. Über Pichler selbst lese ich bei Peters, S. 18-19, dass er in Wien 1771 geboren wurde, Buchdrucker lernte, von Kotzebue entdeckt "den Weg zum Theater fand" und "nach Streifzügen durch Österreich und Süddeutschland" um "um die Jahrhundertwende" drei Jahre als Hofbuchdrucker in Bayreuth zuzubringen. Danach habe er die Theaterleitung in Bayreuth und in Bamberg übernommen. "1810 kommt er mit einer eigenen Truppe zum erstenmal auch nach Norddeutschland". Ob es realistisch ist anzunehmen, dass Pichler das Aufführungsmaterial nach Detmold mitbrachte, kann ich nicht beurteilen.
 
 _Abbildung_: Wasserzeichen in der Partitur von Mozarts _Così fan tutte_, Lippische Landesbibliothek in Detmold (D-DT), Signatur Mus-n 156. RISM ID no. [451501513](https://opac.rism.info/search?id=451501513){:target="_blank"}. Mit freundlicher Genehmigung von Joachim Eberhardt.
-
-

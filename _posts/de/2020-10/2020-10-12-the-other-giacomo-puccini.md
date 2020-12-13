@@ -24,4 +24,3 @@ Heute hilfreich - und nicht unbedingt üblich - für die praktische Umsetzung de
 _Abbildung_: Giacomo Puccini, O sacrum convivium, Abschrift aus der Biblioteca Palatina in Parma&nbsp; (I-PAc Sanv.C.290, RISM ID no. [850600809](https://opac.rism.info/search?id=850600809&View=rism))&nbsp;
 
 &nbsp;
-

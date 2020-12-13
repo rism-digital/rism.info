@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_ChWolff_klein_0360ffe331.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ In honor of Christoph Wolff, Johann Sebastian Bach's Cello Suite was performed b
 Christoph Wolff was president of RISM from 2004 to 2013. He is currently one of RISM's [honorary presidents](/new_at_rism/2014/11/14/christoph-wolff-named-honorary-president-of-rism.html){:target="_blank"}. Congratulations, Christoph Wolff!
 
 _Photo courtesy of Christoph Wolff._
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Carl_Amand_Mangold_24a3327394.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rare-performance-of-mangolds-tanhaeuser.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/rare-performance-of-mangolds-tanhaeuser.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ The opera will begin at 5 PM at the darmstadtium Darmstadt. A free introduction 
 
 
 Images: Portrait of Carl Amand Mangold and scenes from the opera. All images courtesy of the Konzertchor Darmstadt.
-

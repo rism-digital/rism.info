@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_New_York_4fdcb24cc5.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/imsiaml-congress-in-new-york-june-2015.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/imsiaml-congress-in-new-york-june-2015.html
 email: ''
 author: ''
 ---
@@ -53,4 +53,3 @@ Putting Mozart autographs online: Thoughts about the collaboration between a lib
 Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 - 11.00–12.30: Commission Mixte (geschlossenees Arbeitstreffen; offen nur für Mitglieder oder auf Einladung)
 Chair: Wolf‐Dieter Seiffert (President of RISM, RISM Commission Mixte, München)
-

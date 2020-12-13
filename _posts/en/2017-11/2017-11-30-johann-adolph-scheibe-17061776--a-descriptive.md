@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
 email: ph@kb.dk
 author: Peter Hauge
 ---
@@ -20,4 +20,3 @@ Although, according to his autobiography in Mattheson's _Grundlage einer Ehrenpf
 The point of departure for the catalogue (which is [cited in the RISM online catalogue](https://opac.rism.info/search?View=rism&author=Scheibe+Johann+Adolph){:target="_blank"} using the abbreviation SchW), is different from traditional ones in that it seeks to include those musical works which apparently have not survived but for which there is clear evidence of having existed, for example as represented by the large number of printed librettos. The database provides not only new information on Scheibe, the composer, translator and educator, but also sheds new light on musical life in Denmark and in particular Copenhagen during the eighteenth century.
 
 _Image_: Portrait of Scheibe (photographer Rolf H. Christensen). The portrait belongs to Sorø Akademi.
-

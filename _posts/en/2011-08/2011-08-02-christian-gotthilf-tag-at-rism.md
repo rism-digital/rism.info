@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_TagVorsehung_2be77f5aac.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-gotthilf-tag-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/64/article/64/christian-gotthilf-tag-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
@@ -29,4 +29,3 @@ There have been numerous concerts in recent years: audiences in the Altes Rathau
 At the close of the 4th International Ferdinand Rebay Music Academy, a public concert will take place with the participating musicians and their instructors in the unique ambience of the Abbey's Kaisersaals (Saturday, 25 August 2018 at 16:00, admission free).
 
 For more information, please see [www.stift-heiligenkreuz-sammlungen.at](http://www.stift-heiligenkreuz-sammlungen.at){:target="_blank"} or contact [p.roman@stift-heiligenkreuz.at](mailto:p.roman@stift-heiligenkreuz.at).
-

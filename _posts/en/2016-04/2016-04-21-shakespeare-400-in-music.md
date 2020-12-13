@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Shakespeare_400_a9982db381.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/shakespeare-400-in-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/shakespeare-400-in-music.html
 email: ''
 author: ''
 ---
@@ -33,4 +33,3 @@ As the world commemorates [Shakespeare 400](http://www.shakespeare400.org/){:tar
 
 
 _Image_: Hendrick ter Brugghen (1588 - 1629), "A Man playing a Lute" (1624). Photo © [The National Gallery](http://www.nationalgallery.org.uk/paintings/hendrick-ter-brugghen-a-man-playing-a-lute){:target="_blank"}, London. [RIdIM 395](http://db.ridim.org/display.php?ridim_id=395){:target="_blank"}.
-

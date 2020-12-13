@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_in_L_viv_002_070b499097.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
 email: forschung@angelikamoths.com
 author: Angelika Moths
 ---
@@ -26,4 +26,3 @@ Our colleagues can start working as soon as they receive their personal login in
 The primary goal of the HSC, which sees itself as a facilitator in this process, is first to catalog the library collections in L'viv. Since resuming work in Galicia has also seen positive signals come from Kiev, we will not rule out the possibility of offering a further Muscat workshop there. Guido Kraus has already expressed his interest.
 
 After completion of the above-mentioned pilot project, the results will be summarized in a presentation that can then be used by other libraries as a basis for work and encouragement to catalog their music in RISM and thus make it internationally visible. We hope that this will lead to further international cooperation with other European libraries so we can search for financing together and thus expand RISM's work in Ukraine.
-

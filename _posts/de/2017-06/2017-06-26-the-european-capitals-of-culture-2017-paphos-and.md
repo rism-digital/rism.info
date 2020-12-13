@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Kulturhauptstadt_2017_4a3be311c5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-european-capitals-of-culture-2017-paphos-and-aarhus.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/the-european-capitals-of-culture-2017-paphos-and-aarhus.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ Im RISM Online-Katalog ist die [Statsbiblioteket](http://www.statsbiblioteket.dk
 
 
 _Abbildung_: [Creative Europe](https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en){:target="_blank"}
-

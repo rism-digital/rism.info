@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/internships-at-the-rism-central-office.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/internships-at-the-rism-central-office.html
 email: martina.falletta@rism.info
 author: ''
 ---
@@ -18,4 +18,3 @@ RISM offers internships in its editorial department to people interested in expe
 Please visit our [Internships page](/organization/internships.html) for specific information about requirements and the application process.
 
 Applications are accepted on an ongoing basis. Any questions may be directed to Dr. Martina Falletta, [martina.falletta@rism.info.](mailto:martina.falletta@rism.info)
-

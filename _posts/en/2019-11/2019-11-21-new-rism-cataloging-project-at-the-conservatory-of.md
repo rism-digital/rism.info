@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Conservatory_Queretaro_3_eb7d8ff40c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-cataloging-project-at-the-conservatory-of-queretaro-mexico.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/new-rism-cataloging-project-at-the-conservatory-of-queretaro-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---
@@ -25,5 +25,3 @@ Our RISM contributor John G. Lazos will soon launch a new project to catalog the
 So far, there are [six records in RISM from this conservatory](https://opac.rism.info/search?View=rism&siglum=MEX-SQamc&Language=en){:target="_blank"}, which Dr. Lazos cataloged in the course of a previous project that focused on the music of José Antonio Gómez y Olguín (1805-1876). The entire archive is very extensive, but at the end of all the work, a foundation will be available to enable the musical story of this archive to be told.
 
 Dr. Lazos will be cataloging with Mariana Iniesta, Jazmin M. Villalobos Soto and Jorge Vargas, all students of the Conservatory of Queretaro.
-
-

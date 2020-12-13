@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Katalog_HER_2_679ca829d1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-published-in-the-music-manuscripts-in-germany-series.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/64/article/64/new-volume-published-in-the-music-manuscripts-in-germany-series.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---

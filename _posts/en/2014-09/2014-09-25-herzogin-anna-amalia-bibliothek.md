@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/herzogin-anna-amalia-bibliothek.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/herzogin-anna-amalia-bibliothek.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ A [report](http://www.anna-amalia-bibliothek.de/pdf/140815_Factsheet_Brand_final
 Currently, the [RISM online catalog](https://opac.rism.info/){:target="_blank"} has 246 sources from the Anna Amalia Bibliothek. No doubt some of those were lost in the fire. A [catalog of musical works that were lost](http://haab.weimar-klassik.de/Musikalienkatalog/){:target="_blank"} can be found on the library's website. We are working on incorporating this information into the RISM online database.
 
 Photo credit: The Green Castle that Duchess Anna Amalia turned into the Ducal Library in 1761-66 in the late Baroque style. Here the southwest view in 2004 just before the fire. Photo taken by R. Möhler. Licensed under [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gr%C3%BCnes_Schloss_(Herzogin-Anna-Amalia-Bibliothek)_in_Weimar.jpg){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''
 ---
@@ -26,5 +26,3 @@ Darüber hinaus werden Sie im RISM-Katalog nun auch (unter den Literaturverweise
 Die Bearbeitung der B/I-Titel ab 1551 hat nun auch begonnen. Von 1551-1599 gilt es allein ca. 1100 Titel mit jeder Menge A/I-Dubletten zu bearbeiten. Von 1600-1700 sind es noch einmal so viele Titel. Der erste Abschnitt steht nun im Fokus der Bearbeitung. Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbarer Literatur sind immer willkommen. Einfach eine Mail senden an: [contact@rism.info](mailto:contact@rism.info) oder [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info).
 
 _Abbildung_: Daniel Megel, _Scenica progymnasmata_ (Basel: Bergmann, 1498). A/I: M 1738. RISM ID no. [990040426](https://opac.rism.info/search?id=00000990040426){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) 4 Inc.c.a. 1542 n, [online verfügbar](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303249-7){:target="_blank"}.
-
-

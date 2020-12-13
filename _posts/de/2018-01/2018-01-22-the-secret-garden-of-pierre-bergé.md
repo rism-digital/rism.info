@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-secret-garden-of-pierre-berge.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/the-secret-garden-of-pierre-berge.html
 email: ''
 author: ''
 ---
@@ -43,5 +43,3 @@ Und es gibt noch zwei Sammlungen mit frühen Triosonaten von Arcangelo Corelli, 
 
 
 [Pierre Bergés Bibliothek](http://www.labibliothequedepierreberge.com/en/video/conversation-with-pierre-berge-by-umberto-eco/){:target="_blank"}[zwei](http://id.lib.harvard.edu/aleph/009598193/catalog)[andere](http://id.lib.harvard.edu/aleph/009686040/catalog)
-
-

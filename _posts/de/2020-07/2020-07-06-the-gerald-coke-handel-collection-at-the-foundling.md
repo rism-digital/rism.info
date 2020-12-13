@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
 email: katharine@foundlingmuseum.org.uk
 author: Katharine Hogg
 ---
@@ -26,4 +26,3 @@ Für Anfragen können Sie sich telefonisch an die +44 (0)20 7841 3606 wenden ode
 
 
 Bildnachweis für das erste Bild: Photographer Peter Dazeley. Copyright Foundling Museum. Für das fünfte: Photo GG Archard. Copyright Foundling Museum
-

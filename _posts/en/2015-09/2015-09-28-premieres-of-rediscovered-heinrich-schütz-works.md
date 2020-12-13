@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -20,5 +20,3 @@ SWV 497 has just been released in [Carus's "Edition princeps"](https://www.carus
 
 
 _Image_: Excerpt from the collective manuscript Mus.Pi.57 (Bassus) in D-Dl with the beginning of the unfigured bass part.
-
-

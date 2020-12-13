@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-leap-year-babies.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/musical-leap-year-babies.html
 email: ''
 author: ''
 ---
@@ -40,5 +40,3 @@ There are also some people in RISM who died on February 29:
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio&Language=en){:target="_blank"} (ca. 1536-1592)
 
 _Image_: Gioachino Rossini, _Lieder_, [lithographic print by C. Constans, 19th century](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
-
-

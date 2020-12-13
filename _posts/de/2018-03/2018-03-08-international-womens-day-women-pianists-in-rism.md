@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/international-womens-day-women-pianists-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/international-womens-day-women-pianists-in-rism.html
 email: alexander.marxen@rism.info
 author: ''
 ---
@@ -31,4 +31,3 @@ Die vollständige Liste können Sie auch[hier](https://www.google.com/fusiontabl
 Diese Liste wird kontinuierlich erweitert;falls Sie Korrektur-oder Änderungsvorschläge haben,können Sie diese an[alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)senden.
 
 _Abbildung_: Clara Schumann, circa 1853, unbekannter Photograph, siehe[Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=507751){:target="_blank"}.
-

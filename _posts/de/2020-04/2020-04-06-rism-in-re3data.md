@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/re3datalogo_nosubtext_black.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-re3data.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/rism-in-re3data.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Wir freuen uns, dass die RISM-Daten dem re3data Repository hinzugefügt wurden (
 Weitere Musikprojekte in re3data sind das Digital Image Archive of Medieval Music ([DIAMM](http://doi.org/10.17616/R3RR6G){:target="_blank"}), Corpus Musicae Ottomanicae ([CMO](http://doi.org/10.17616/R31NJMJV){:target="_blank"}) für Musikmanuskripte aus dem Nahen Osten und die [Digital Scores and Libretti Collection](http://doi.org/10.17616/R3VC9R){:target="_blank"} der Harvard University, das niederländische [Beeld en Geluid](http://doi.org/10.17616/R3FD1B){:target="_blank"}-Klangarchiv und das [Mutopia](http://doi.org/10.17616/R33P6W){:target="_blank"}-Projekt für kostenlose Notenausgaben klassischer Kompositionen.
 
 _Teile des Textes wurden von re3data.org ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}) übernommen._
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Kinsky-Wappen_3220e11f9d.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-house-of-kinsky.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/the-house-of-kinsky.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Insbesondere der Schwiegertochter von Ferdinand – Wilhelmine Elisabeth Gräfin
 Doch schon im 18. Jahrhundert hatten die Adelskapellen des Hauses Kinsky in Prag und Česká Kamenice einen hohen Stellenwert, der sich alleine schon an der Anzahl der heute noch vorhandenen Quellen ablesen lässt. In der Sammlung der Bibliothek des Nationalmuseums (CZ-Pn) befinden sich über [1.000 Einträge](https://opac.rism.info/search?View=rism&callno=Kinsky){:target="_blank"} mit der Signatur „Kinsky“.
 
 _Abbildung_: Stammwappen der Familie Kinsky, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Kinsky-Wappen.png){:target="_blank"}
-

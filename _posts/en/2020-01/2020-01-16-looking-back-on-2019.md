@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2019.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/looking-back-on-2019.html
 email: ''
 author: ''
 ---
@@ -49,4 +49,3 @@ But in 2019—as in years past—the post more often read than any other story, 
 A big thank you goes out to our readers and supporters throughout the year for your contributions, opinions, tips, hard work, and discoveries!
 
 _Image_: Postcard from [The New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4783-a3d9-e040-e00a18064a99){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Alday_405b12bf2a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-symphony-and-ireland-a-symposium.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/the-symphony-and-ireland-a-symposium.html
 email: catherine.ferris@dit.ie
 author: Catherine Ferris
 ---

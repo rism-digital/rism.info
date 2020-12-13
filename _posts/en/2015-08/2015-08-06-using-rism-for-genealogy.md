@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Teuthorn_BSB_06d077a232.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/using-rism-for-genealogy.html
 email: p@teu-net.de
 author: Peter Teuthorn
 ---
@@ -28,4 +28,3 @@ Information about access to the RISM catalog is also on the [BSB's website](http
 ![Teuthorn in RISM](http://teuthorn.net/feuilleton/wp-content/uploads/2015/08/suchergebnisCBT.jpg)
 
 Copies of the Romance and the Polonaise for keyboard or harpsichord had previously been provided to me very kindly and without any bureaucratic hurdles by the [Statsbiblioteket Århus](http://www.statsbiblioteket.dk/){:target="_blank"}.
-

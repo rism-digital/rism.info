@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Siglum_Papua_New_Guinea_e69c8c66d2.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/first-rism-siglum-for-papua-new-guinea.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/first-rism-siglum-for-papua-new-guinea.html
 email: contact@rism.info
 author: ''
 ---
@@ -25,4 +25,3 @@ Bitte [kontaktieren Sie uns](mailto:contact@rism.info), wenn Sie ein neues RISM-
 
 
 _Abbildung_: Flagge von Papua-Neuguinea, von [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Papua_New_Guinea.svg){:target="_blank"}.
-

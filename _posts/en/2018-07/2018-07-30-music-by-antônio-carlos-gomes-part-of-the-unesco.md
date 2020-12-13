@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ After initial studies in Rio de Janeiro and the world premiere of one of his can
 After 1880, Gomes lived alternately in Brazil and Italy and thus became the "composer of two worlds," as he is called in the UNESCO nomination form.
 
 _Illustration_: Title page of the score for the opera _Il Guarany_, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Guarany_Score_Front_Cover.jpg?uselang=en){:target="_blank"}.
-

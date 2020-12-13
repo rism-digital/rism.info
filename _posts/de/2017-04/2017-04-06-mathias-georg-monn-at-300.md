@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Monn_300_D-B_4780e94726.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mathias-georg-monn-at-300.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/mathias-georg-monn-at-300.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ Ein Band der Reihe _Denkmäler der Tonkunst in Österreich_ (DTÖ Band 39, Wien 
 Einen Eindruck des g-Moll Celllokonzerts von Mathias Georg Monn in einer Aufnahme mit Jacqueline du Pré erhalten Sie hier:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
-

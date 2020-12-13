@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_chorbuch_2_8694b2d9eb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-choirbooks-at-the-bavarian-state-library.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/digitized-choirbooks-at-the-bavarian-state-library.html
 email: contact@rism.info
 author: Veronika Giglberger, Bernhard Lutz
 ---

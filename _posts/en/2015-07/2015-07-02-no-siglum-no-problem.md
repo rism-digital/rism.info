@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/no-siglum-no-problem.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/no-siglum-no-problem.html
 email: ''
 author: ''
 ---
@@ -27,6 +27,3 @@ When you ask us to create a new siglum, you are enriching our database and incre
 
 
 In 2014, we created 189 new sigla from countries in Europe, North America, and Asia. These requests came from our own RISM contributors who catalog the musical holdings of new institutions and researchers who need to cite an institution for publication.
-
-
-

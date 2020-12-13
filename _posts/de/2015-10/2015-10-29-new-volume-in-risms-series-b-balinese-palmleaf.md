@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_B_XVI-Bali_a84ebf0c97.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html
 email: ''
 author: ''
 ---
@@ -21,5 +21,3 @@ Der erste musikethnologische Band des RISM beschäftigt sich mit Palmblatthandsc
 Wenn Sie neugierig geworden sind, wie diese Palmblatthandschriften aussehen, schauen Sie sich dieses Video der Udayana University in Bali an:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-lCIwWwPP0I" frameborder="0" allowfullscreen></iframe>
-
-

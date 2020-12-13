@@ -46,4 +46,3 @@ Other instructional videos will continue to be added.
 Feedback and comments are welcome at any time. You can leave a comment in the video or write to contact@rism.info.
 
 &nbsp;
-

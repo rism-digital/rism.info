@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Lasso_Handschriften_c3e08c6280.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-manuscript-tradition-of-orlando-di-lassos-works.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/the-manuscript-tradition-of-orlando-di-lassos-works.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Da bei der Erschließung der Quellen Abschriften bis ins 19. Jahrhundert berück
 Siehe auch Bernhold Schmid, Orlando di Lasso. Seine Werke in handschriftlicher Überlieferung. Eine Datenbank, in: _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11 (2016), S. 40-42. [Link zum PDF](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.
 
 _Abbildung_: Orlando di Lasso, Att känna dig vår Gud, Abschrift von Johan Helmich Roman (nach 1759), [Musik- och teaterbiblioteket](http://roman.musikverket.se/browselarge.php?lang=sw&volymid=Ro+95&bildnr=00096){:target="_blank"}, Stockholm (S-Skma) Ro 95, [RISM ID no. 190020485](https://opac.rism.info/search?id=190020485){:target="_blank"}.
-

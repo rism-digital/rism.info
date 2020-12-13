@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/caught-the-catch.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/caught-the-catch.html
 email: ''
 author: Kristina Krämer
 ---
@@ -22,5 +22,3 @@ Der Einband samt marmorierter Vorsatzblätter (die erst im 18. Jh. weit verbreit
 Fällt Ihnen noch etwas Besonderes auf? Oder kennen Sie vergleichbare Fälle?
 
 _Abbildung_: [Titelseite von GB-Mr 1408](https://luna.manchester.ac.uk/luna/servlet/s/2wp4oj){:target="_blank"} (Das Exemplar ist bereits in die RISM-Datenbank nachgetragen und wird mit dem nächsten Katalog-Update zu sehen sein) und die Titelseite von GB-Lbl F.51.b.
-
-

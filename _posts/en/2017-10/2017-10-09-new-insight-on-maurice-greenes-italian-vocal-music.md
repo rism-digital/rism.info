@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Greenes_Italian_2ae50396f0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Beyond these revelations, Tablot has identified the literary sources for much of
 The Greene records in RISM have been updated to reflect this new information. We would like to thank Professor Talbot for sharing his research with us.
 
 _Image_ : Frontispiece and title page to Di canzonette e di cantate libri due by Paolo Rolli (London, 1727), from the [Internet Archive](https://archive.org/details/bub_gb_pICeIHxNG-YC){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_sibelius_7fa9d878af.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jean-sibelius-at-150.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/jean-sibelius-at-150.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ Eine Aufnahme der sinfonischen Dichtung mit der Sinfonia Lahti unter der Leitung
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zaVTsGZ67IM" frameborder="0" allowfullscreen></iframe>
 
 Abbildung: Santeri Levas, Jean Sibelius, 1940-1945, Järvenpää. Finnisches Museum für Fotografie, via[Flickr](https://www.flickr.com/photos/valokuvataiteenmuseo/11064165894/in/album-72157638075319113/){:target="_blank"}.
-

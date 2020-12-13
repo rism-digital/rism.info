@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
@@ -23,5 +23,3 @@ _Le Retour des plaisirs_ (RISM ID no. [700011155](https://opac.rism.info/metaopa
 The [Music Division of the Royal Library of Belgium](http://www.kbr.be/collections/musique/musique_fr.html) has recently acquired the handwritten score (shelf no. Mus. Ms. 4448) which belonged to Gilles-Joseph de Boussu. The manuscript is so far the sole extant musical source of this opera, which has been entirely transcribed by Kris De Baerdemacker, musician and staff member at the same Music Division. Oddly enough, the title page bears the date ‘1718’.
 
 On [11 December 2015](http://www.kbr.be/actualites/concerts/programme/11_12_fr.html){:target="_blank"}a group of students of the Royal Conservatory of Mons, under the direction of [Guy Van Waas](http://cavema.be/en/agremens/director){:target="_blank"}, will perform the opera against the splendid backdrop of the Palace of the former governor of the Austrian Netherlands [Charles de Lorraine](http://www.kbr.be/actualites/palace/palace_pres_fr.html){:target="_blank"}.
-
-

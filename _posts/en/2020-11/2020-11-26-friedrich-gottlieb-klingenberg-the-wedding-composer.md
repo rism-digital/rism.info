@@ -20,4 +20,3 @@ The website of the project “[Gelegenheitsmusik des Ostseeraums vom 16. bis 18.
 So far, modern editions that have been published appeared in the series “Das Erbe deutscher Musik” ([_Hochzeitsarien und Kantaten Stettiner Meister nach 1700_](https://opac.rism.info/search?id=lit930&View=rism); EDM II/6.1)_:_ [_Da Jesus getauft war_](https://opac.rism.info/search?id=190002863&View=rism) as well as some of the wedding compositions. Further occasional compositions can be found in Tenhaef's book named above.
 
 &nbsp;
-

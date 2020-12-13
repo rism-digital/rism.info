@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_New_Cataloging_Tools_for_Librarians_NYPL_f4112beb94.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-cataloging-tools-for-librarians.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/new-rism-cataloging-tools-for-librarians.html
 email: ''
 author: ''
 ---
@@ -28,4 +28,3 @@ Wir hoffen, dass Sie diese neuen Katalogisierungstools nützlich finden und wür
 Möglich wurden diese Entwicklungen durch die Initiative und die Zusammenarbeit mehrerer Bibliothekskolleginnen und -kollegen. Wir danken Sarah Adams und Christina Linklater vom US RISM Office der Harvard University sowie Anne Adams in Harvard, Darwin Scott und Brittany Jones von der Princeton University, freundlichen Kollegen vom RBMS Standard Citation Forms Committee und Damian Iseminger und weiteren Kollegen in der Library of Congress.
 
 _Abbildung_: Der New York Public Library's Room 100 mit Zettelkatalogen. Manuscripts and Archives Division, The New York Public Library. [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47dd-eb76-a3d9-e040-e00a18064a99){:target="_blank"}.
-

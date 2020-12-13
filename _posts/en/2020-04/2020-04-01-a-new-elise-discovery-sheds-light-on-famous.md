@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Project cataloger Raban Sincker explained: "That Beethoven's iconic _Für Elise_
 Research in the St. Ausonia church archives has shown that Kuneus was active in Kiel by 1782, having previously studied organ and theology in Freiburg im Breisgau. In Kiel, he played organ at St. Ausonia but then became a sailor around 1791. Ship manifests in the Kiel City Archives reveal frequent travel between Kiel and St. Petersburg, where he was more than once accompanied by a "Nathalie S.," about whom almost nothing is known. Traces of Kuneus's professional activities thin out after 1820, but mentions of him in regional newspapers can be found in notices for musical salons in the Odenwald region of central Germany. _Pour Nahtalie_ appears to be Kuneus's only composition.
 
 Kuneus's _Pour Nathalie_ will receive its modern premiere with period instruments and historical costumes exactly one year from today, said Hoek, Lyne and Sincker.
-

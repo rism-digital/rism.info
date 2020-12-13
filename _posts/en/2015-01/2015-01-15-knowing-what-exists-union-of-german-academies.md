@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Geck_Knowing_4227350b19.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/knowing-what-exists-union-of-german-academies-renews-support-for-rism-germany.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/knowing-what-exists-union-of-german-academies-renews-support-for-rism-germany.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
@@ -23,4 +23,3 @@ The main task of both offices—Munich being responsible for the states in forme
 In conclusion, let's point out the mission of RISM. RISM wants to make a vital contribution to the infrastructure of musical research and practice: “Knowing what exists and where it is kept.” In order for this to apply to musical sources, the organization was founded in 1952, the losses from World War Two still fresh. The motto is also relevant in the digital age.
 
 _Photo caption: The music to Vivaldi's Violin Concerto RV 66 ([RISM ID no.212001392](https://opac.rism.info/search?id=212001392&db=251&View=rism){:target="_blank"}) can be recognized by the movement's “Adagio” heading._
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm__Titelseite_Bild_9413cdf091.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-most-excellent-selection-of-rism-activities.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/a-most-excellent-selection-of-rism-activities.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ The Entirety of said Volume [may be down-loaded from this Site](/resources-old-w
 The Public is asked to share their Solutions with the Editors for assessment.
 
 Should this Volume be received by the Public in a Favorable Manner, the Editors will be induced to continue Work on the same plan and will offer Subscriptions which may be procured through dispatch of the appropriate Summe to the Printer.
-

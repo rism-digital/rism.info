@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_ICCU_Krise_OPAC_df925a41aa.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Unter den neuen Daten befinden sich auch viele Nachweise zu Werken von zeitgenö
 Mit dem Datenimport erhielt die RISM-Datenbank alleine 27.000 neue Personendatensätze! Deren Bearbeitung wird – ganz unabhängig von den Handschriften – einige Zeit in Anspruch nehmen. 4.600 davon wurden bereits bearbeitet.
 
 Nach dieser Erprobungsphase streben wir eine Freischaltung der Daten pro Bibliothek, vor allem auch von größeren Datenbeständen, an. Von den mehr als 86.000 Handschriftendatensätzen aus 98 italienischen Bibliotheken, die vor dem Datenimport in der RISM-Datenbank vorhanden waren, sind noch nicht alle in der Datenbank SBN Musica verzeichnet. Diese können im Rahmen der [Linked Open Data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} übernommen werden.
-
-

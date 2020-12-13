@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Facchinelli_b5c7163c23.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lucia-facchinelli.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/lucia-facchinelli.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ But though Facchinelli's career stayed mainly in Italy, sources on which her nam
 
 Image: Caricature made by Anton Maria Zanetti (1680-1767) depicting the singer Nicola Grimaldi (called Nicolino) with Lucia Facchinelli, called “La Becheretta”, who played _La Salustia._
 Source: [Centro Studi Pergolesi](http://www.centrostudipergolesi.unimi.it/interpreti.php){:target="_blank"} via Wikimedia Commons
-

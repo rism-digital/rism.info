@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hasse_ebb19dc698.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/hasses-siroe-in-versailles.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/hasses-siroe-in-versailles.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ Nicht nur die Oper von Hasse erfreute sich großer Beliebtheit, auch das Librett
 
 
 Bildquelle: [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Johann_Adolf_Hasse.jpg){:target="_blank"}
-

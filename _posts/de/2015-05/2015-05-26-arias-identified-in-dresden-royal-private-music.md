@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/arias-identified-in-dresden-royal-private-music-collection.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/arias-identified-in-dresden-royal-private-music-collection.html
 email: Roberto.Scoccimarro@slub-dresden.de
 author: Roberto Scoccimarro
 ---
@@ -27,5 +27,3 @@ Eine Arie, die bisher für ein zweifelhaftes Werk Pergolesis gehalten wurde, „
 Nicht selten sind falsche Zuschreibungen auch das Ergebnis bibliothekarischen Eifers im 19. Jahrhundert: So wurden etwa im Inhaltsverzeichnis eines Ariensammelbands (D-Dl Mus.2667-I-1) alle zwölf enthaltenen Kompositionen einem unbekannten „Battoni“ zugeschrieben. Genauere Nachforschungen haben gezeigt, dass es sich hier teilweise um Ausschnitte aus der Oper _Nicoraste_ (Venedig 1745) des Komponisten Giovanni Battista Patoni (oder Pattoni, 1713c-1773), bei den übrigen Arien dagegen um Werke von Johann Adolph Hasse handelt.
 
 Als letztes Beispiel seien hier [zwei anonym](https://opac.rism.info/search?id=212008731 "D-Dl Mus.1-F-49,14-1") [überlieferte Arien](https://opac.rism.info/search?id=212008732 "D-Dl Mus.1-F-49,14-2") erwähnt, die sich als Kompositionen des Prinzen Anton von Sachsen, Sohn von Maria Antonia und Friedrich Christian von Sachsen, entpuppt haben, die dieser 1775 für sein Bühnenwerk _L’isola disabitata_ schrieb (RISM ID no. [212008731](https://opac.rism.info/search?id=212008731){:target="_blank"} und [212008732](https://opac.rism.info/search?id=212008732){:target="_blank"}).
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IMC_Poster_a1ae8c175f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ RISM, which has been international from the beginning, was founded in Paris in 1
 RISM is an essential tool not only for musicologists, but also for performers. RISM is the portal to a treasure chest of music that comes to life again through musicians. Thanks to partners in over 35 countries worldwide, music libraries and archives help to make the music of yesterday a living heritage. RISM therefore exemplifies number 3 of the 5 Music Rights: To have access to musical involvement through participation, listening, creation and information.
 
 For IAML, the 6th World Forum of Music will be a double commemoration. It was this very same time in 1949 that the first exploratory meeting of music libraries took place in Florence. That meeting, together with another one at Lüneburg in 1950, preceded the official establishment of IAML the following year in Paris.
-

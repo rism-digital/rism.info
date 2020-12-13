@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Kasaty-logo.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-i-music-as-part-of-monastic-heritage-in-poland.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/polish-week-part-i-music-as-part-of-monastic-heritage-in-poland.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -24,5 +24,3 @@ The online database is in Polish. Enter a monastery, such as[**Cystersi, LubiÄ…Å
 
 
 _What else is new in Polish source research? Stay tuned for part 2, a description of the conference Klasztor i muzyka / Monasteries and Music, on Wednesday._
-
-

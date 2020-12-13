@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Sigel-Latin_America_f0d963cbcd.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-library-sigla-in-latin-america.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/new-library-sigla-in-latin-america.html
 email: ''
 author: ''
 ---
@@ -56,5 +56,3 @@ Uruguay: [21 records](https://opac.rism.info/search?View=rism&siglum=ROU-*){:tar
 
 Venezuela: [37 records](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
 In total, there are 1,165 records from Latin America in RISM.
-
-

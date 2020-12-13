@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Mensa_Harmonica_-_Clamer_01_b260e2f7f4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/andreas-christoph-clamer-1633-1701-mensa-harmonica-at-heiligenkreuz-monastery.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele
 ---
@@ -18,4 +18,3 @@ On 26 October, the national holiday in Austria, abbot prelate Dr. Maximilian Hei
 RISM siglum: [A-HE (Heiligenkreuz Monastery)](https://opac.rism.info/search?View=rism&siglum=A-HE&Language=en){:target="_blank"}
 
 Photograph courtesy of Martin Rainer.
-

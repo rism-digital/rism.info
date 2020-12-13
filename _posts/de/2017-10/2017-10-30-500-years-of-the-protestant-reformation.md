@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Reformation_500_c5d204eca4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/500-years-of-the-protestant-reformation.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/500-years-of-the-protestant-reformation.html
 email: ''
 author: ''
 ---
@@ -41,4 +41,3 @@ Und wer wissen möchte, welche Kompositionen sich für das liturgische Fest [**R
 
 
 _Abbildung_: Wilhelm Schneider (1783-1843), Ein' feste Burg ist unser Gott. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), Dresden (D-Dl Mus.4646-E-501, RISM ID no. 211005300).
-

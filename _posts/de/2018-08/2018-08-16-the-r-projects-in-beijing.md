@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_China_2018_R-Projekte_a99c431507.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-r-projects-in-beijing.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/the-r-projects-in-beijing.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Für RISM nahm Klaus Keil zuletzt am “[Approaches to Research on Music and Dan
 Das Forum insgesamt wurde getragen von sechs internationalen Gesellschaften: [International Council for Traditional Music](http://www.ictmusic.org/){:target="_blank"} (ICTM), [Society for Ethnomusicology](https://www.ethnomusicology.org/){:target="_blank"} (SEM), [International Musicological Society](https://www.musicology.org/){:target="_blank"} (IMS), [International Association of Music Libraries, Archives and DocumentationCentres](https://www.iaml.info/){:target="_blank"} (IAML), [International Association for the Study of Popular Music](http://www.iaspm.net/){:target="_blank"} (IASPM) und die Association for Traditional Music in China (ATMC).
 
 Die gemeinsamen Auftritte der Projektvertreter sind für alle von großem Nutzen. RISM konnte in deren Folge Initiativen in China, Mexiko, Kuba und Chile anstoßen. Eine Folge dieser Besuche war auch die Konferenz “[Documenting Musical Sources in Latin America](http://www.rism.info/publications/latin-america-conference-2016/){:target="_blank"}” im September 2016 in Mainz.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
@@ -36,4 +36,3 @@ _The National Library of Latvia in Riga_
 It’s hard to believe that five weeks have already passed since I arrived in Frankfurt. I would like to thank the staff of the Central Office, particularly Jennifer Ward and Dr. Martina Falletta, who made this internship possible and enabled me to have so many invaluable scholarly and musical experiences during my time in Frankfurt. This internship was a wonderful chance to get a closer look at the work of RISM and in doing so to gain a deeper understanding of the vital relationship between the fields of musicology and librarianship.
 
 _All photographs by Vivian Tompkins._
-

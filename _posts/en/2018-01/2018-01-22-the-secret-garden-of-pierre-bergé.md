@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-secret-garden-of-pierre-berge.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/the-secret-garden-of-pierre-berge.html
 email: ''
 author: ''
 ---
@@ -42,5 +42,3 @@ And there are two collections of early trio sonatas by Arcangelo Corelli, printe
 
 
 [Like the rest of Pierre Bergé’s library](http://www.labibliothequedepierreberge.com/en/video/conversation-with-pierre-berge-by-umberto-eco/){:target="_blank"}[two](http://id.lib.harvard.edu/aleph/009598193/catalog)[other](http://id.lib.harvard.edu/aleph/009686040/catalog)
-
-

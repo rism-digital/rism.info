@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/luigi-marchesi.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/luigi-marchesi-a-famous-singer-from-the-18th-century.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ These initiatives are all outgrowths of the [Luigi Marchesi Project](http://www.
 If you want to get an idea of the various compositions by Luigi Marchesi and the arias that he sang, take a look at the RISM online catalog. In total, [140 sources](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} are listed relating to Luigi Marchesi.
 
 Image: Portrait of Luigi Marchesi by his friend Richard Cosway (London, 1790).
-

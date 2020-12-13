@@ -28,4 +28,3 @@ Die Handschrift liegt heute in der Bayerischen Staatsbibliothek in München ([Si
 &nbsp;
 
 _Abbildungen_: Chor of Nymphen, Rezitativ (Primavera) und Schlußchor der Kantate “Chiuso è già Borea nevoso” in D-Mbs Mus.ms. 225.
-

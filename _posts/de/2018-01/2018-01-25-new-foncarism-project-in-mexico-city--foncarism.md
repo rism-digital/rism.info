@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_1_52641b3fed.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
 email: jlazos11@hotmail.com
 author: John Lazos
 ---

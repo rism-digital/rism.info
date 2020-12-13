@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Jubilaeen_2017_9683b99ed7.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-anniversaries-in-2017.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/musical-anniversaries-in-2017.html
 email: ''
 author: ''
 ---
@@ -43,5 +43,3 @@ m = male
 w / f = female
 
 _Image from [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
-
-

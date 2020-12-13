@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
 email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---
@@ -26,4 +26,3 @@ Heute gibt Verovio seinen Namen dem von der RISM-Schweiz entwickelten [modernen 
 Wer mehr zu Verovio erfahren möchte, sei auf die üblichen Lexika und die neue Veröffentlichung von Auguste Campagne, [_Simone Verovio - Music printing, intabulations and basso continuo in Rome around 1600_](http://www.boehlau-verlag.com/978-3-205-20506-7.html){:target="_blank"} (= Wiener Veröffentlichungen zur Musikgeschichte vol. 13), Wien 2018 (zitiert in RISM unter CampagneV 2018) verwiesen.
 
 _Abbildung_: Titelblatt von CANZONETTE | A quattro Voci, | Composte da diuersi | Ecc.ti Musici. Copy in [Bayerische Staatsbibliothek](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00074058-8){:target="_blank"} (D-Mbs, 4 Mus.pr. 10), [RISM ID no. 993120915](https://opac.rism.info/search?id=993120915){:target="_blank"}.
-

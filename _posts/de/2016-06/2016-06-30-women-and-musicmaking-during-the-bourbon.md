@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/women-and-music-making-during-the-bourbon-restoration.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/women-and-music-making-during-the-bourbon-restoration.html
 email: linklat@fas.harvard.edu
 author: Emerson Morgan
 ---
@@ -41,4 +41,3 @@ Fußnote 3: _Généalogie historique de la maison de Chanaleilles,…_ ([Paris:]
 
 
 Abbildung 1: Titelseite “LA | Naissance | DU SAUVEUR. | CANTATE | à quatre voix avec des chœurs, | offerte à S. A. R. | M|e LA DUCHESSE DE Berry. | Paroles et Musique par Mad|e la C|t|e|s|s|e 8|e | de Chanaleilles de Lasaumès Née Gerbier”
-

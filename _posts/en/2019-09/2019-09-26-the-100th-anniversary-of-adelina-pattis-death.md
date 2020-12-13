@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Adelina_Patti._7875156beb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-100th-anniversary-of-adelina-pattis-death.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/the-100th-anniversary-of-adelina-pattis-death.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ In RISM, her name can be found as a singer in two of these roles. In 1879, she g
 Lesser known is that Adelina Patti was also a composer. The RISM catalog only has one piece from her pen: The piano waltz [_Fior di primavera_](https://opac.rism.info/search?id=852036536&View=rism&Language=en){:target="_blank"} was published by Ricordi in 1866. Evidence of a further composition by her, [_Il Bacio d'addio_](https://www.digitalarchivioricordi.com/en/catalogo/40461){:target="_blank"}, can be found in the Ricordi Archive.
 
 _Image_: Portrait of Adelina Patti, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adelina_Patti..jpg){:target="_blank"}.
-

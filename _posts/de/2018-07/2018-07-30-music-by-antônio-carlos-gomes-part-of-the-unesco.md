@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ Nach ersten Studien in Rio de Janeiro und der Uraufführung einer Kantate in Anw
 Nach 1880 lebte Gomes abwechselnd in Brasilien und Italien und wurde so zum „Komponist zweier Welten“ - wie er in der Nominierung für die Liste des Weltdokumentenerbes bezeichnet wurde.
 
 _Abbildung_: Titelblatt der Partitur zur Oper_Il Guarany_, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Guarany_Score_Front_Cover.jpg?uselang=en){:target="_blank"}.
-

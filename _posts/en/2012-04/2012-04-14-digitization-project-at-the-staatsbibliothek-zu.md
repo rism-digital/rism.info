@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Benda_16f1579a7e.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitization-project-at-the-staatsbibliothek-zu-berlin.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/digitization-project-at-the-staatsbibliothek-zu-berlin.html
 email: musikabt@sbb.spk-berlin.de
 author: Dr. Martina Rebmann
 ---

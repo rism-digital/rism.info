@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Chopin_by_Bisson__1849_875251f5fe.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-improvisation-to-composition.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/from-improvisation-to-composition.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -21,4 +21,3 @@ Bei RISM sind mittlerweile fast [1.900 Katalogisate](https://opac.rism.info/sear
 
 
 _AbbiIdung_: Frédéric Chopin (1810-1849) in einer Fotografie von Louis-Auguste Bisson, um 1849, über [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/800px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png){:target="_blank"}.
-

@@ -21,4 +21,3 @@ With a newly designed auditorium and outfitted with the latest technology of the
   
   
 _Image_: Postcard of the Vienna Opera House, 1911. Leonard A. Lauder collection of Raphael Tuck & Sons postcards. Newberry Library, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien,_K.K._Hofoper._646B_(NBY_419464).jpg). Public domain.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Markgraefliches_Opernhaus_Bayreuth_2013_47e0aaa7d9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/the-margravial-opera-house-in-bayreuth.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Seit 1662 wurden in Bayreuth Opern aufgeführt. Belegt sind beispielsweise _Die 
 
 
 _Abbildung_: Markgräfliches Opernhaus in Bayreuth (2013) von Avda, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Markgr%C3%A4fliches_Opernhaus_-_Bayreuth_-_2013.jpg?uselang=de){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/luigi-marchesi.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/luigi-marchesi-a-famous-singer-from-the-18th-century.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Diese Initiativen gehen alle auf das [Luigi Marchesi Project](http://www.luigima
 Wenn Sie sich schon mal ein Bild von den verschiedenen Kompositionen von Luigi Marchesi und Arien, die er gesungen hat, machen möchten, schauen Sie in unserem RISM Online-Katalog nach. Insgesamt [140 Nachweise](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} werden dort zu Luigi Marchesi aufgelistet.
 
 Abbildung: Portrait von Luigi Marchesi von seinem Freund Richard Cosway (London 1790)
-

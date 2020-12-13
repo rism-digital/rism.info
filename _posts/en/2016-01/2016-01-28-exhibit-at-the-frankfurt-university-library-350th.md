@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Herbst_Johann_Andreas_ba9a368de4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibit-at-the-frankfurt-university-library-350th-anniversary-of-johann-andreas-herbsts-death.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/exhibit-at-the-frankfurt-university-library-350th-anniversary-of-johann-andreas-herbsts-death.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Enjoy this performance of "Probasti Domine" from Vinko Jelić's collection (star
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wV1b0Kj1onM" frameborder="0" allowfullscreen></iframe>
 
 _Image_
-

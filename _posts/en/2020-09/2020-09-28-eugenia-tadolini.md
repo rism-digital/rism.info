@@ -23,4 +23,3 @@ In RISM, [Eugenia Tadolini appears in only 16 records](https://opac.rism.info/se
 _Image_: Eugenia Tadolini, lithographic print by Josef Kriehuber, 1835, from [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg).
 
 &nbsp;
-

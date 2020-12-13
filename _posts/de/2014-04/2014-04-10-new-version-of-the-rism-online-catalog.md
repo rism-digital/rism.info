@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Startseite_270869d386.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/59/article/64/new-version-of-the-rism-online-catalog.html
 email: ''
 author: ''
 ---
@@ -56,5 +56,3 @@ Einige Funktionen, z. B. die Option e-Mail-Benachrichtigungen an sich selbst, we
 Wir wünschen Ihnen viel Spaß mit den neuen RISM Online-Katalog. Zögern Sie nicht uns zu kontaktieren, wenn Sie irgendwelche Fragen haben.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
-
-

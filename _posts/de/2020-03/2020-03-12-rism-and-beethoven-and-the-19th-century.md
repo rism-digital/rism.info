@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_und_Beethoven_109_LC_fea5a7050b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-beethoven-and-the-19th-century.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/rism-and-beethoven-and-the-19th-century.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ Wir werden im Laufe des Jahres über weitere Quellen aus dem 19. Jahrhundert ber
 
 
 _Abbildung_: Ludwig van Beethoven, autographe Handschrift der Sonatea op. 109 in E-Dur, 1820. Library of Congress (US-Wc) ML30.8b.B4 op. 109 1820 Case. [RISM ID no. 1001102715](https://opac.rism.info/search?id=1001102715&View=rism){:target="_blank"}. [Online verfügbar](https://lccn.loc.gov/87752609){:target="_blank"}.
-
-

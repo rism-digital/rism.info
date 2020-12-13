@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_20141017_093055_4f66f31cca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-the-philippines.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/rism-and-the-philippines.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Weiterhin interessant ist ein Nachlass im College of Music mit gedruckten und ha
 RISM freut sich sehr durch diese Gelegenheit die Bande mit Kollegen in Asien zu stärken und wir hoffen auf eine gute Zusammenarbeit in der Zukunft.
 
 Bildnachweis: Mit freundlicher Genehmigung von Klaus Keil
-
-

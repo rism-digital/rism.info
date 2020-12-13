@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Brochure_EN_PT_234ca2a80e.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-brochure-available-in-portuguese.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/new-rism-brochure-available-in-portuguese.html
 email: contact@rism.info
 author: ''
 ---
@@ -20,5 +20,3 @@ The publication of the brochure coincides with the [Third Conference of the IMS 
 If you want professionally printed copies of the brochure, at no charge, please contact us: [contact@rism.info](mailto:contact@rism.info). Let us know how many you want. Feel free to request some copies to share with your colleagues, other staff or faculty members, and students.
 
 "RISM: Uma visão Geral" joins RISM brochures available in English, German, Traditional Chinese, Simplified Chinese, Russian, and Spanish. Please let us know if you are interested in translating the brochure into an additional language.
-
-

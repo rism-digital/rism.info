@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Luftballons_c7ad474b66.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/celebrating-1000-facebook-fans.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/celebrating-1000-facebook-fans.html
 email: ''
 author: ''
 ---

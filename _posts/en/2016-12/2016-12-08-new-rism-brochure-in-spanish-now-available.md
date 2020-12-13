@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Broschuere_Spanisch_bc0742d113.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-brochure-in-spanish-now-available.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/new-rism-brochure-in-spanish-now-available.html
 email: contact@rism.info
 author: ''
 ---
@@ -17,6 +17,3 @@ If you want professionally printed copies of the brochure, also at no charge, pl
 We would like to thank RISM contributor John Lazos for translating the brochure into Spanish.
 
 "RISM: Presentación general" joins RISM brochures available in English, German, Traditional Chinese, Simplified Chinese, and Russian. A brochure in Portuguese will be available next year.
-
-
-

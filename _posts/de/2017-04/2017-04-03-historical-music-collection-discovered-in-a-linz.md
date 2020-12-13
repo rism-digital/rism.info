@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Linzer_Realschule_c47c332708.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/historical-music-collection-discovered-in-a-linz-school-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/historical-music-collection-discovered-in-a-linz-school-austria.html
 email: ikarus_k@hotmail.com
 author: Stefan Ikarus Kaiser
 ---
@@ -22,5 +22,3 @@ Die in Teilen überlieferte Notenbibliothek reicht von der Mitte des 20. Jahrhun
 
 
 _Abbildung_: Bundesrealgymnasium Linz Fadingerstraße, siehe[linzwiki.at](http://www.linzwiki.at/wiki/BRG_Fadingerstra%C3%9Fe/){:target="_blank"}
-
-

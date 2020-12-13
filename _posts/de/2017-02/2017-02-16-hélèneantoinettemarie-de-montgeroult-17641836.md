@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Montgeroult_02703b2ec0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Eine ausführliche Biographie zur heute nahezu vergessenen Hélène de Montgerou
 <iframe src="https://player.vimeo.com/video/29382724" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Nicolas Stavy: 8e Sonate d'Hélène de Montgeroult‏](https://vimeo.com/29382724) from [CM Culture](https://vimeo.com/user5129702) on [Vimeo](https://vimeo.com).
-

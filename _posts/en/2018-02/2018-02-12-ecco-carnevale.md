@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ecco-carnevale.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/ecco-carnevale.html
 email: ''
 author: ''
 ---
@@ -37,5 +37,3 @@ By the way, the _Ecco carnevale_ of this post's title is the name of a work by P
 _Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
 
 _Originally published 27 February 2017._
-
-

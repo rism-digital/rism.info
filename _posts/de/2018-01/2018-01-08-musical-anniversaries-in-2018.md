@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Jubilaeen_2018_6bcd9ba1bb.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2018.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/musical-anniversaries-in-2018.html
 email: ''
 author: ''
 ---
@@ -49,5 +49,3 @@ m = männlich
 w / f = weiblich
 
 _Abbildung von_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
-
-

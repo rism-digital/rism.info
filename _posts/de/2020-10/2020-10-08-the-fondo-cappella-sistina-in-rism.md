@@ -53,4 +53,3 @@ Original oft näher stehenden und in jedem Fall verlorenen Status des Kodex.
 _Abbildung_: Ambrogio Brambilla, La Cappella Sistina
 
 &nbsp;
-

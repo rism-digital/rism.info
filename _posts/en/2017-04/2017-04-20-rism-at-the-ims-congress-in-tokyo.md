@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_kirschblueten_32a2a59c12.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-ims-congress-in-tokyo.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/rism-at-the-ims-congress-in-tokyo.html
 email: ''
 author: ''
 ---
@@ -62,5 +62,3 @@ The final library I visited on this trip was the [Tokyo Metropolitan Central Lib
 _The music section of the Tokyo Metropolitan Central Library_
 
 The congress was the first IMS congress to take place in Asia. It was an excellent opportunity to see our Japanese colleagues, whom we only rarely see face to face, and to connect with musicologists from around the world. I would like to thank BI-International for the funding to support my participation in this congress. I would also like to thank the organizers of the IMS congress for their hospitality. I hope to see everyone again at the 2022 meeting in Athens!
-
-

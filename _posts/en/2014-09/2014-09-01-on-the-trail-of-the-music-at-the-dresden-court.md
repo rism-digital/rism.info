@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Hofmusik_Dresden_1661e1cad9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/on-the-trail-of-the-music-at-the-dresden-court.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/on-the-trail-of-the-music-at-the-dresden-court.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -43,4 +43,3 @@ With August the Strong's conversion to Catholicism in 1697, the need became appa
 
 
 ![Missa dolorosa](https://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_Caldara_Missa_dolorosa.jpg.jpg)
-

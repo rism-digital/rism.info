@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-leap-year-babies.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/musical-leap-year-babies.html
 email: ''
 author: ''
 ---
@@ -40,5 +40,3 @@ An einem 29. Februar gestorben sind:
 - [Alessandro Striggio](https://opac.rism.info/search?View=rism&q=Alessandro%20Striggio){:target="_blank"} (ca. 1536-1592)
 
 _Abbildung_: Gioachino Rossini, _Lieder_, [Lithographie von C. Constans, 19. Jahrhundert](http://tudigit.ulb.tu-darmstadt.de/show/his-Port-R-0115-a/0001/image){:target="_blank"}
-
-

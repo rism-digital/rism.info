@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Stamitz_300_eca465eacf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-stamitz-at-300.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/johann-stamitz-at-300.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Die Forschungsstelle Geschichte der südwestdeutsche Hofmusik im 18. Jahrhundert
 
 
 _Abbildung_: Sinfonie in B-Dur, WolS I. B|b-4, Universitäts- und Landesbibliothek Darmstadt (D-DS), [Mus.ms. 1029/7b](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-1029-07b){:target="_blank"} (RISM ID no. [450002705](https://opac.rism.info/search?id=450002705&Language=en){:target="_blank"}).
-
-

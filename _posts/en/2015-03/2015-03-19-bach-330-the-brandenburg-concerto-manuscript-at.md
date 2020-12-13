@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Bach_330_dbc29bb6ca.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Image: Original manuscript of the second viola part for J. S. Bachâ€™s cantata â
 
 
 _View records for this cantata in the [RISM online catalog](https://opac.rism.info/search?View=rism&title=Ich+liebe+den+H%C3%B6chsten+von+ganzem+Gem%C3%BCte){:target="_blank"}._
-

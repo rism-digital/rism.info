@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Geschichte____D-HVl_37__Noviss._145_86_0f60174188.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-contribution-to-the-history-of-military-music-in-the-kingdom-of-hanover.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/a-contribution-to-the-history-of-military-music-in-the-kingdom-of-hanover.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -22,4 +22,3 @@ The complete text can be read and downloaded [here](https://noa.gwlb.de/receive/
 
 
 _Image_: First page of the score _Das Königreich Hannover_ by King George V, arranged by and in the hand of Johann Viktor Gerold. D-HVl, Noviss. 145 : 2, No 86 (RISM ID no. [450118289](https://opac.rism.info/search?id=450118289&Language=en){:target="_blank"}).
-

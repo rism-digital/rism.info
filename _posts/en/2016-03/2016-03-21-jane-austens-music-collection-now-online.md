@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Jane_Austen_Musiksammlung_ae728c3047.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jane-austens-music-collection-now-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/jane-austens-music-collection-now-online.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ The collection includes around 600 pieces in 18 albums, mostly songs and pieces 
 The digitized albums may be viewed online through the [Internet Archive](https://archive.org/details/austenfamilymusicbooks&tab=collection){:target="_blank"}. Jeanice Brooks of the University of Southampton writes that "the books present a vivid picture of domestic musical culture in England in the years around 1800, furnishing valuable insights on music making in the homes of gentry families as well as essential contextualisation for musical episodes in Austen’s fiction."
 
 _Image_: "Ouverture des Pretendus" for keyboard instrument, p.1, c.1790-1810, by Jean-Baptiste Lemoyne, arr. by M. Blattman. In album [CHWJA/19/2](https://archive.org/details/austen1671983-2001){:target="_blank"}, entitled _Juvenile Songs & Lessons for young beginners who don't know enough to practise._
-
-

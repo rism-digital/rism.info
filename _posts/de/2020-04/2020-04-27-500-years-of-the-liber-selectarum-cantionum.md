@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_500_Jahre_Liber_selectarum_acab537a28.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/500-years-of-the-liber-selectarum-cantionum.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/500-years-of-the-liber-selectarum-cantionum.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Torge Schiefelbein verglich [2016 in seiner Dissertation](https://opac.rism.info
 Unklar ist der Anlass für die Entstehung des Druckes; möglicherweise ist der Widmungsträger Matthäus, Erzbischof von Salzburg (1468-1540) zugleich auch der Auftraggeber des bei den Augsburger Druckern Sigismund Grimm und Marcus Wyrsung verlegten Bandes. Als Herausgeber fungierte Ludwig Senfl (nach 1489- ca. 1543), der auch selbst sieben Motetten beisteuerte. Die anderen vier-, fünf oder sechsstimmigen Motetten stammen aus der Feder von Heinrich Isaac, Josquin des Prez, Pierre de La Rue, Jacob Obrecht, Jean Mouton und Heinrich Isaac.
 
 _Abbildung_: Titelseite des _Liber selectarum cantionum_ aus dem Exemplar der [Württembergische Landesbibliothek](http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3701648148){:target="_blank"} (D-Sl Ra16Lib1).
-
-

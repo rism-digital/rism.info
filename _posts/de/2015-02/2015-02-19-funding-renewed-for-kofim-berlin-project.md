@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Verlaengerung_KOFIM_27714cfe97.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/funding-renewed-for-kofim-berlin-project.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/funding-renewed-for-kofim-berlin-project.html
 email: Martina.Rebmann@sbb.spk-berlin.de
 author: Martina Rebmann
 ---
@@ -21,5 +21,3 @@ Weitere Informationen finden Sie auf der[Projektwebseite](http://staatsbibliothe
 
 
 Abbildung: Untersuchung einer Musikhandschrift in der Fotostelle mit der Thermographie-Kamera auf dem sog. Grazer Buchtisch
-
-

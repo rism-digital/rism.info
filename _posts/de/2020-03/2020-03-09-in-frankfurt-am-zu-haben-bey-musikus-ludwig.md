@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Musikus_Ludwig_IB_5_AmZ_1805_ed447cb28e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/in-frankfurt-am-zu-haben-bey-musikus-ludwig-identifying-the-copyist-johann-wilhelm-ludwig.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/in-frankfurt-am-zu-haben-bey-musikus-ludwig-identifying-the-copyist-johann-wilhelm-ludwig.html
 email: ''
 author: Kristina Krämer
 ---
@@ -21,5 +21,3 @@ Zur Biographie Johann Wilhelm Ludwigs siehe den Artikel in [_Musik und Musiker a
 
 
 _Abbildung_: _Intelligenzblatt_ Nr. 5, [AmZ 16. Januar 1805](http://anno.onb.ac.at/cgi-content/anno?aid=aml&datum=18050116&seite=9){:target="_blank"}.
-
-

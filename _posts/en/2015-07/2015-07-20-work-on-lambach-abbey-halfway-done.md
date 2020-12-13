@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Lambach-Lecq_0af6a169e6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/work-on-lambach-abbey-halfway-done.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/work-on-lambach-abbey-halfway-done.html
 email: lecqerbg@xs4all.nl
 author: Frank van der Lecq
 ---
@@ -30,5 +30,3 @@ Archivist Deinhammer is especially proud of the Lambach manuscript of Mozart's "
 Peter Deinhammer reports that since entries have started appearing in RISM, interest in the Lambach music archive (2,500 manuscripts, 1700-1850) has grown and new contacts have been established. Deinhammer, besides being an archivist, is also a musician, instructor, musicologist, concert organizer, and founder of the education center ProDiagonal in Lambach. He hopes that having the collection cataloged in RISM will be the beginning of further research into musical practices in Lambach - by him and by musicologists from all over the world.
 
 Photo: Frank van der Lecq hard at work (courtesy of the author).
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Kaiser_Pernsteiner_Messa_a3fab7301d.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-music-edition-series-founded-at-wilhering-abbey-in-upper-austria-matthias-pernsteiner-missa-po.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/new-music-edition-series-founded-at-wilhering-abbey-in-upper-austria-matthias-pernsteiner-missa-po.html
 email: musikarchiv@stiftwilhering.at
 author: Ikarus Kaiser
 ---
@@ -31,4 +31,3 @@ ISMN979-0-000-00190-9
 ISBN978-3-903040-13-7
 
 For further information see the websites of[Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"} as well as [Wilhering Abbey](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} and the[music collectionof Wilhering Abbey](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
-

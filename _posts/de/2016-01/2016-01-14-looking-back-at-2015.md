@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2015.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/looking-back-at-2015.html
 email: contact@rism.info
 author: ''
 ---
@@ -51,4 +51,3 @@ RISM wurde in den folgenden Aufsätzen erwähnt, die wir in der [RISM-Bibliograp
 Wir sind immer daran interessiert, Nachrichten über die Arbeit aus den RISM-Ländergruppen oder über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas berichten möchten, [bitte schreiben Sie uns](mailto:contact@rism.info).
 
 _Bildnachweis_: Postkarte, 1909. Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4d00-a3d9-e040-e00a18064a99){:target="_blank"}.
-

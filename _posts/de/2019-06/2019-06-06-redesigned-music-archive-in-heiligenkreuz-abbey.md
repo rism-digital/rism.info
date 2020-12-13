@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
@@ -22,5 +22,3 @@ Zur anschließenden Feierstunde waren viele geladen, die dazu beigetragen haben,
 Nach der Segnung des Raumes lud Abt Maximilian zu einer Feierstunde in den Salon der Prälatur. Dies war eine seltene Gelegenheit, diese Räumlichkeiten zu sehen. Der Abt hob in seiner Begrüßung die Bedeutung des Archivs sowie die Leistung von P. Roman hervor. Ebenso betonte er die Tatsache, dass in Zukunft für Wissenschaftler und Musiker die Möglichkeit besteht, das Archivmaterial unkompliziert nutzen zu können.
 
 Die Feierstunde wurde in alter Tradition mit klösterlicher Hausmusik bereichert. Abschließend gab P. Roman seiner Freude Ausdruck, wie umfangreich und gut sortiert der Bestand des Musikarchivs ([RISM-Bibliothekssigel: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) ist, und stellte die Absicht seiner Arbeit in den Vordergrund: Die Noten sollen benützt und die Musik zum Klingen gebracht werden. Raritäten und Wiederentdeckungen für Messgestaltungen und interessante Konzerte erwarten uns in Zukunft.
-
-

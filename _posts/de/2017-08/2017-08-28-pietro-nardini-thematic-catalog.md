@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pietro-nardini-thematic-catalog.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/pietro-nardini-thematic-catalog.html
 email: ''
 author: ''
 ---
@@ -36,4 +36,3 @@ Wir danken den Autoren und dem Verlag für die freundliche Überlassung eines Be
 
 
 _Abbildung_: Porträt von Pietro Nardini (ca. 1782), via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8422944h/f1.item){:target="_blank"}.
-

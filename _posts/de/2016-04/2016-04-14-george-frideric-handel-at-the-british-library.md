@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
 author: ''
 ---
@@ -28,6 +28,3 @@ Durch die Erweiterung des Online-Katalogs um die [Musikdrucke](/new_at_rism/2015
 
 
 _Abbildung_: Georg Friedrich Händel: Messiah, HWV 56. Autograph. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Verwendet mit freundlicher Genehmigung. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.
-
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Access_to_music_archives_9d0e0cfab1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-access-to-music-archives-and-an-update-of-rism-series-c.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/46/article/64/rism-at-iaml-access-to-music-archives-and-an-update-of-rism-series-c.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ In der ersten Sitzung veranschaulichten die Präsentationen von Maria José Gonz
 In der zweiten Sitzung sprach Jennifer Ward (RISM Zentralredaktion) über die Rolle von RISM in diesem Projekt: RISM wird die Datenbank mittels der neuen, auf MARC basierenden open source-Software Muscat hosten. Muscat befindet sich noch in der Entwicklung und wird 2016 veröffentlicht. Die Entwicklungsphase ist ein idealer Zeitpunkt, um die Serie C zu integrieren und mit den vorhandenen Körperschafts-Normdateien zu verknüpfen, da Muscat so an die Anforderungen der Serie C angepasst werden kann. Erste Tests zeigen, dass Muscat eine geeignete Basis für die Publiaktion der Serie C bietet. Klaas Jaap van der Meijden und Jon Bagüés sprachen über die Implementierung von [ISDIAH-Standards](http://www.ica.org/10198/standards/isdiah-international-standard-for-describing-institutions-with-archival-holdings.html){:target="_blank"}, ISIL-Codes und das MARC-Format. In einer ersten Diskussion wurde bestimmt, welche Felder verbindlich, erforderlich oder optional sind. Wir sprachen auch darüber, wie auf Aktualisierungen der Datenbank hingewiesen werden und wie die Arbeit grundsätzlich organisiert werden soll. Richtlinien für die Erfassung von Daten der Serie C werden in diesem Sommer entwickelt. Ein Treffen von AMA und RISM wird noch in diesem Jahr stattfinden. Informationen, wie man sich am Projekt beteiligen kann, werden wir zu einem späteren Zeitpunkt veröffentlichen.
 
 Bildnachweis: Skyline von Manhattan bei Nacht (mit freundlicher Genehmigung von J. Ward)
-
-

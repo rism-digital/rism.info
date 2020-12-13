@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Nachlaesse_-_Modern_Monday_-_Blumer_-_Hampelmann_37e02c2860.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-composer-archives-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/rism-modern-monday-composer-archives-in-rism.html
 email: ''
 author: ''
 ---
@@ -30,4 +30,3 @@ Uta Schaumberg described the _Nachlässe_ at the Bavarian State Library. Some of
 - [Ermanno Wolf-Ferrari](https://opac.rism.info/metaopac/search?View=rism&author=118634879){:target="_blank"} (1876-1948); 210 sources
 
 _Image_: Theodor Anton Blumer: _Hampelmanns groteskes Tanzduett_ (1930). [SLUB Dresden](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/musiknachlaesse/theodor-blumer/){:target="_blank"} (D-Dl) Mus.10621-J-502 Mus.10621-I-502. [RISM ID no. 290002218](https://opac.rism.info/search?id=290002218){:target="_blank"}.
-

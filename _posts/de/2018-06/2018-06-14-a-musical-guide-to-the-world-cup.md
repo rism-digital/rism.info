@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Fussball_WM_2018_F_9752f6344f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-musical-guide-to-the-world-cup.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/a-musical-guide-to-the-world-cup.html
 email: ''
 author: ''
 ---
@@ -86,5 +86,3 @@ _Abbildungen_:
 Louis Adam, autographe Handschrift von _Morceau de Musique pour le piano_, Bibliothèque nationale de France (F-Pn Mus. Ms. 2926), [RISM ID no. 840000047](https://opac.rism.info/search?id=840000047){:target="_blank"}.
 Anna Lucia Bon, _6Sonateper ilFlauto Traversiere_, Det Kongelige Bibliotek på Slotsholmen (DK-Kk (mu 6210.2526)), [RISM ID no. 150205024](https://opac.rism.info/search?id=150205024){:target="_blank"}.
 Marcello Bernardini, aus _Li tre Orfei_ (1788), Biblioteca Nacional de España (E-Mn MC/4430/74), [RISM ID no. 100400001](https://opac.rism.info/search?id=100400001){:target="_blank"}.
-
-

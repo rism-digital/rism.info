@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Cello_ecb14cd8f3.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/instrument-of-the-year-2018-the-cello.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/instrument-of-the-year-2018-the-cello.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ It is much easier to read the autograph manuscript of Emilie Mayer's [Quartet in
 Searching for cello players in the RISM database shows how the cello was a "man’s instrument" until into the 20th century; of the more than 500 cellists in RISM, only 7 are women. Under the pretext that holding the instrument (between the legs!) was unladylike, women were barred from playing it for a long time. An exception is the [French cellist Lisa Cristiani](https://opac.rism.info/search?id=550503869&View=rism&Language=en){:target="_blank"} (1827-1853). In RISM, she appears as the dedicatee of Mendelssohn's _Lied ohne Worte_, op. 109 (CZ-Pu 59 C 311).
 
 _Image via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cello_study.jpg){:target="_blank"}._
-

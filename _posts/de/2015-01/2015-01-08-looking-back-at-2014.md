@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-at-2014.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/looking-back-at-2014.html
 email: ''
 author: ''
 ---
@@ -92,4 +92,3 @@ RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliog
 
 
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.
-

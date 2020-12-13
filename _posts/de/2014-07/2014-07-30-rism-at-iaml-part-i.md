@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2014_antwerp-logo_0d8dc53c3b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-i.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/rism-at-iaml-part-i.html
 email: ''
 author: ''
 ---
@@ -39,4 +39,3 @@ Hier finden Sie Pater Hartmanns _Coro trionfale_ für Orgel. An der Orgel Felix 
 
 
 Bildnachweis: [IAML Antwerp 2014](http://www.libraryconservatoryantwerp.be/iaml2014/index.php){:target="_blank"}
-

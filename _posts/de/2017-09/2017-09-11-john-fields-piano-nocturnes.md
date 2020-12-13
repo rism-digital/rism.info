@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Field_John_dcb2de03f2.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/john-fields-piano-nocturnes.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/john-fields-piano-nocturnes.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ Field schrieb insgesamt 18 Nocturnes. Im RISM Online-Katalog werden [12 Quellen]
 
 
 _Abbildung_: John Field, ca. 1835, von Carl Mayer. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Field.png){:target="_blank"}.
-
-

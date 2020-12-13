@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Belgium_institutions_map_5e425bebe5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/an-interactive-map-of-musical-institutions-in-belgium.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/an-interactive-map-of-musical-institutions-in-belgium.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
@@ -15,4 +15,3 @@ Unsere Kollegin Patrizia Rebulla von der RISM-Arbeitsgruppe Belgien hat eine Int
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zVkEV29Tbhz0.kJsXPEbQlNAA" width="640" height="480"></iframe>
-

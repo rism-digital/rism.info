@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/margarethe-susanna-kayser-the-kayserin.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/margarethe-susanna-kayser-the-kayserin.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Um eins gleich vorweg zu nehmen: Nein sie war es nicht – die Frau des Komponis
 Die im 18. Jahrhundert übliche Bezeichnung „Madame Kayserin“ findet sich auf vielen Quellen. Der RISM Online-Katalog verzeichnet [15 Musikquellen](https://opac.rism.info/search?View=rism&q=1020724811){:target="_blank"} zu der damals besten Opernsängerin Deutschlands.
 
 _Abbildung_: Oper am Gänsemarkt in Hamburg. Zeichnung von Peter Heineken, 1726. Staatsarchiv Hamburg.
-
-

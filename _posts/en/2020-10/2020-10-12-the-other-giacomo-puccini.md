@@ -23,4 +23,3 @@ A helpful, but by no means typical, aid to performing Puccini's music today is t
 _Image_: Giacomo Puccini, _O sacrum convivium_, manuscript from the Biblioteca Palatina in Parma (I-PAc Sanv.C.290, [RISM ID no. 850600809](https://opac.rism.info/search?id=850600809&View=rism)).&nbsp;&nbsp;&nbsp;
 
 &nbsp;
-

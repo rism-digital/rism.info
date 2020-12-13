@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mexico_Modern_Monday_AM0811__AM0812__1__e79dab582c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-mexican-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/rism-modern-monday-mexican-music.html
 email: jlazos11@hotmail.com
 author: John G. Lazos
 ---
@@ -33,4 +33,3 @@ Hacia fines del siglo XX y las primeras décadas de este, México ha visto un gr
 Esto resume la música en el México actual.
 
 _Image_: José Antonio Gómez y Olguín, Mass in C (1839). Catedral, Ciudad de México, E10.25/ C2/ LEGBd4/ AM0811; E10.25/ C2/ LEGBd4/ AM0812. RISM ID no. [120000569](https://opac.rism.info/search?id=120000569){:target="_blank"}.
-

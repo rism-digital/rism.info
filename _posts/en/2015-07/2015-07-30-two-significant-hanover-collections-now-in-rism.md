@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_D-HVfmg-Juliane_Benda_104_1500x2000_600KB_01_3d0a6343cb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/two-significant-hanover-collections-now-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/two-significant-hanover-collections-now-in-rism.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -27,4 +27,3 @@ The music manuscripts at the library of the [Hanover University of Music, Drama,
 The library holds several very interesting music manuscripts that were bought from antiquarians in the 1950s and 1960s. One example is an autograph collective manuscript by the music lexicographer Ernst Ludwig Gerber (1746-1819) with 67 works for harpsichord and organ (RISM ID no. [450116566](https://opac.rism.info/search?id=450116566){:target="_blank"}; see middle image above).
 
 Also of special importance is another autograph collective manuscript, this one entitled "Sämmtliche Clarinett-Compositionen" by the Munich court musician Heinrich Joseph Baermann (1784-1847), who was very famous in his day and friends with Carl Maria von Weber. The 57 works in this collection (RISM ID no. [450116647](https://opac.rism.info/search?id=450116647){:target="_blank"}) comprehensively and uniquely document Baermann's oeuvre, despite the fact that only the clarinet part is notated throughout (see bottom image). Compare this with Baermann's entry in the _MGG_ from 1999, which states that ca. 26 of the composer's works are are available today of the "nearly 40" that were originally published.
-

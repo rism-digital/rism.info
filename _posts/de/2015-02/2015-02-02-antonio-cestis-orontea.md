@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/antonio-cestis-orontea.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/antonio-cestis-orontea.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ Im Video singt Joyce DiDonato die Aria "Intorno all'idol mio", die drei Mal im R
 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/2L9zwTfq2CQ" frameborder="0" allowfullscreen></iframe>
-

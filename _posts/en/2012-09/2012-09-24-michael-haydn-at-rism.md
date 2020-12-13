@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Michaelhaydn2_ef4d655a82.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/michael-haydn-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/michael-haydn-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
@@ -20,4 +20,3 @@ This younger Haydn brother used his official duties at the religious court in Sa
 Instrumental works make up only about a sixth of Haydn’s oeuvre, with not quite 150 works (symphonies, concertos, serenades, and chamber music). The symphonies form the most important category in that group.
 
 Many of Haydn’s main works are indexed in the online catalog. Among these are the _Missa Sti. Aloysii_ (MH 257), _Missa sub titulo Sti. Leopoldi_ (MH 837), the German mass _Hier liegt vor deiner Majestät_ (MH 560), the ca. 130 settings of the gradual, and the Requiem in C minor (MH 155), which Haydn composed upon the death of his first employer in December 1771, Prince-Archbishop Count Sigismund von Schrattenbach. Numerous manuscripts are also extant of the works that Haydn created by order of the Viennese imperial family: the _Theresien_ mass (MH 796), _Missa sub titulo S. Francisci Seraphici_ (MH 826) with the gradual _Cantate Domino_ _canticum novum_ (MH 828), the offertory _Domine Deus_ (MH 827), and _Te Deum_ (MH 829).
-

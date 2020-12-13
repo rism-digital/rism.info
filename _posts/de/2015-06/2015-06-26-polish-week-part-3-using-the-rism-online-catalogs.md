@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_D-FW_0931485874.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -23,4 +23,3 @@ Beim Handschriftenbestand des 18. Jahrhunderts in [CH-E](https://opac.rism.info/
 Auch bei [D-FW](https://opac.rism.info/search?View=rism&siglum=D-FW){:target="_blank"} führt der Komponistenfilter zu einer Besonderheit. Hier ist [Michael Haydn](https://opac.rism.info/search?View=rism&author=Michael+Haydn){:target="_blank"} der häufigste Komponist.
 
 Für alle diese Besonderheiten in den Beständen, die die Suchfilter im RISM-OPAC aufzeigen, gibt es Gründe und vielfältige Ursachen. Hier beginnt nun die weiterführende Arbeit des Musikwissenschaftlers, Fragen nach dem Warum zu beantworten und die Ergebnisse herzuleiten. Dabei stellt die Online-Datenbank des RISM neben all ihrem dokumentarischen Nutzen zu Beginn der musikwissenschaftlichen Arbeit ein unverzichtbares Instrument dar.
-

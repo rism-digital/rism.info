@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Hewitt_250_constitution_c0e5ad4475.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/james-hewitt-at-250.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/james-hewitt-at-250.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Doch gerade in seinen eigenen Kompositionen scheint Hewitt den Charakter seiner 
 Die [Werke von James Hewit](https://opac.rism.info/search?View=rism&author=hewitt+james){:target="_blank"}t sind nur unvollständig in RISM enthalten, die meisten davon sind gedruckte Ausgaben. Obwohl er mehr als [92 Vokal- und 75 Instrumentalwerke](https://books.google.de/books?id=NeVl_rsKhwsC&lpg=PP1&ots=1ZsN03qMZq&dq=%22James%20Hewitt%3A%20Selected%20Compositions.%22&hl=de&pg=PR7#v=onepage&q=%22James%20Hewitt:%20Selected%20Compositions.%22&f=false){:target="_blank"} schrieb, fällt Hewitts Geburtsjahr 1770 genau in den Grenzbereich für das ursprüngliche [A/I-Projekt](/publications.html#c36), das gedruckte Musik dokumentiert. Da unsere Mitarbeiter immer mehr [Musik aus dem 19. Jahrhundert](/new_at_rism/2020/03/12/rism-and-beethoven-and-the-19th-century.html){:target="_blank"} hinzufügen, können wir uns auf mehr Notendrucke aus dieser Zeit in RISM freuen und Hewitts musikalischen Nachwuchs vervollständigen: die Pianistin Sophia Henrietta Emma Hewitt (1799-1845), den Komponisten [John Hill Hewitt](https://opac.rism.info/search?View=rism&q=John+Hill+Hewitt){:target="_blank"} (1801-1890), den Verleger James Lang Hewitt (1803-1853) und den Komponisten George Washington Hewitt (1811-1893).
 
 _Abbildung_: Erste Seite von James Hewitts "The Federal Constitution & Liberty Forever," 1798. US-PIlevy Box 002, Item 011. [RISM ID no. 991020567](https://opac.rism.info/search?id=991020567&View=rism){:target="_blank"}. Courtesy Lester Levy Sheet Music Collection, [The Sheridan Libraries](https://www.library.jhu.edu/){:target="_blank"}, Johns Hopkins University. [Online zugänglich](https://levysheetmusic.mse.jhu.edu/collection/002/011){:target="_blank"} (public domain).
-
-

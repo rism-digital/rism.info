@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Hofmusik-Konferenz_cf2282e4d7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/collecting-performing-exploring-dresdens-eighteenth-century-court-music.html
 email: hofmusikkonferenz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -27,4 +27,3 @@ Mit einleitenden Beiträgen zu den Zusammenhängen zwischen Sammlungsgeschichte 
 Um die Musik der Projektbestände erlebbar zu machen, werden ausgewählte Werke der Hofkirchenmusik und der Königlichen Privat-Musikaliensammlung im Rahmen eines [Konzerts](http://hofmusik.slub-dresden.de/themen/hofkirche-koenigliche-privat-musikaliensammlung/konferenz/konzert/) mit Studierenden der Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig auf historischen Instrumenten aufgeführt. Für die Einstudierung und Leitung des Programms konnte der namhafte italienische Dirigent und Vivaldiforscher [Federico Maria Sardelli](https://en.wikipedia.org/wiki/Federico_Maria_Sardelli "F. M. Sardelli - Wikipedia") gewonnen werden.
 
 Für die Förderung des Kolloqiums danken wir der [Deutschen Forschungsgemeinschaft](http://www.dfg.de/ "DFG").
-

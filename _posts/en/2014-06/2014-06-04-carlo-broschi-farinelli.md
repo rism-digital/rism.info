@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Broschi_Farinelli___Metastasio_d4813e79c3.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/carlo-broschi-farinelli.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/carlo-broschi-farinelli.html
 email: ''
 author: ''
 ---
@@ -25,5 +25,3 @@ Bibliography: Ellen T. Harris, New Grove (2001).
 
 Image: Jacopo Amigoni, _Il cantante Farinelli con amici_, ca. 1750–1752
 From left to right: Metastasio, the singer Teresa Castellini, Farinelli, the painter himself, Farinelli's dog, Farinelli's page boy; the score is "Vi conosco amate stelle" from Metastasio's [_Zenobia_](https://opac.rism.info/search?View=rism&q=Zenobia){:target="_blank"} in a musical setting by [Gaetano Latilla](https://opac.rism.info/search?View=rism&q=Zenobia&author=Gaetano+Latilla){:target="_blank"} (1711–1788). Source: [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AFarinelli%2BMetastasio.png){:target="_blank"}
-
-

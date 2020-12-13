@@ -26,4 +26,3 @@ The manuscript is preserved today in the Bavarian State Library in Munich ([shel
 &nbsp;
 
 _Images_: Chorus of nymphs, recitative (Primavera), and closing chorus from the cantata “Chiuso è già Borea nevoso” in D-Mbs Mus.ms. 225.
-

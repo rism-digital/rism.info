@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Der Bestand aus der [Biblioteca del Conservatorio statale di musica Guido Cantel
 Die Bibliothek ist Teil des Projekts „In-audita musica“, welches das Studium und die Aufführung der Werke von Komponistinnen jeden Zeitalters fördern soll. So wurde ein bibliographisches und klangliches Archiv für Komponistinnen geschaffen, das kürzlich als Depositum im [Istituto dell’Archivio dell‘Associazione Suonodonne Italia](http://inauditamusica.consno.it/ "external-link-new-window") hinterlegt wurde.
 
 _Abbildung_: Datensatz zu Luigi Rossi, [_Sovra una verde riva_](https://opac.rism.info/search?id=850736349&View=rism), I-MAc [MSS.MUS.113.43](http://id.sbn.it/bid/MSM0141670){:target="_blank"} (hier anonym überliefert)
-
-

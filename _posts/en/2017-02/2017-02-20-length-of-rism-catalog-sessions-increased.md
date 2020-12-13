@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/length-of-rism-catalog-sessions-increased.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/length-of-rism-catalog-sessions-increased.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ We hope that you won't be seeing timeout messages so quickly any more and that y
 
 
 _Image_: Detail from Ambrogio Lorenzetti's fresco _Allegory of Good and Bad Government_ (1338), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAmbrogio_Lorenzetti_002-detail-Temperance.jpg){:target="_blank"}.
-
-

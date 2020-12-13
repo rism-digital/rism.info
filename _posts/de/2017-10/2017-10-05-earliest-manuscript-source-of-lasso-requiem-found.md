@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ Die Quelle stammt aus der Provenienz der Augsburger Benediktinerabtei St. Ulrich
 
 
 _Abbildung_: Basilika St. Ulrich und Afra von Emkaer (über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basilika_St._Ulrich_und_Afra.jpg){:target="_blank"})
-

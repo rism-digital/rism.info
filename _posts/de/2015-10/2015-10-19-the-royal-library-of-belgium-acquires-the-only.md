@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Title_page_Le_Retour_des_Plaisirs_01_a038314b5b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/the-royal-library-of-belgium-acquires-the-only-known-manuscript-of-le-retour-des-plaisirs-1719-b.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
@@ -24,5 +24,3 @@ Die [Musikabteilung der](http://www.kbr.be/collections/musique/musique_fr.html)[
 
 
 Am [11 December 2015](http://www.kbr.be/actualites/concerts/programme/11_12_fr.html) wird eine Gruppe von Studenten des königlichen Konservatoriums von Mons, unter der Leitung von [Guy Van Waas](http://cavema.be/en/agremens/director), die Oper vor der Kulisse des [Palasts des ehemaligen Gouverneurs Charles de Lorraine](http://www.kbr.be/actualites/palace/palace_pres_fr.html) aufführen.
-
-

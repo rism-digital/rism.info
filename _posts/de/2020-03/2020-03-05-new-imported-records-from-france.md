@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_Frankreich_cee122971f.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-imported-records-from-france.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/new-imported-records-from-france.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Um die Handschriften im RISM-Katalog separat von den Musikdrucken ansehen oder d
 - Vor dem Datenimport waren bereits 800 Handschriftendatensätze aus dem Département de la Musique der [Bibliothèque nationale de France (F-Pn)](https://opac.rism.info/search?View=rism&siglum=F-Pn){:target="_blank"} in der RISM-Datenbank vorhandenen gewesen. Inzwischen sind weitere knapp 1.000 Einträge dazugekommen. Darunter befinden sich vorwiegend Nachweise zu Jean-Baptiste Rameau, Wolfgang Amadeus Mozart, François-Joseph Gossec, Charles-Hubert Gervais und Christoph Willibald Gluck.
 
 Wir werden in Kürze alle weiteren Daten freischalten. Alle importierten Datensätze enthalten einen Link zum französischen Originaleintrag.
-
-

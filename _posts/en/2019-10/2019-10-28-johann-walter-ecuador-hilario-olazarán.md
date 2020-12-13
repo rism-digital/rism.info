@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Walter_Fontes_front_cover_7329268bad.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-walter-ecuador-hilario-olazaran.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/johann-walter-ecuador-hilario-olazaran.html
 email: ''
 author: Carmen Álvarez
 ---
@@ -39,5 +39,3 @@ El catálogo JWWV es una lista de los 293 trabajos de Walter. Está centrado en 
 Actualmente no tenemos registros de Ecuador, lo que convierte al artículo de Jesús Estévez en muy valioso para nosotros: descripciones detalladas de los 38 manuscritos encontrados en la iglesia. En febrero de 2020, tendrá lugar en Loja, Ecuador, una conferencia. [Sigue este PDF](/resources-old-website/user_upload/JOIM_2020_Conference.pdf)para más detalles. Gracias a nuestro grupo de trabajo en Córdoba, Argentina, un grupo de trabajo RISM será presentado en la conferencia, cosa que se convertirá en una oportunidad inestimable para comenzar nuevos proyectos de RISM en este pais musicalmente tan rico. Sigue este espacio para más información.
 
 Finalmente, el artículo de José Francisco Sánchez Salsamendi arroja luz sobre la investigación en la vida y actividad musical del Padre Hilario Olazarán de Estella, quien estuvo activo en España (País Vasco) y Chile. Esperamos que un trabajo completo de sus composiciones esté pronto disponible.
-
-

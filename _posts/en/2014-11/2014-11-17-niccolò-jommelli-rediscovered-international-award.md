@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Portugal_Jommeli_3a337a63af.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national-l.html
 email: ''
 author: ''
 ---
@@ -29,4 +29,3 @@ It is a unique work in the context of the sacred polychoral production of Jommel
 The_Laudate pueri Dominum_was most probably sent to the Portuguese King José I by the sisters of the composer, his heirs, a few months after the death of Niccolò occurring on 25 August 1774.
 
 Image: 16 voices Laudate pueri Dominum: pp.18-19
-

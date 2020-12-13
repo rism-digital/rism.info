@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_jean-jacques-caffieri-bust-of-jean-philippe-rameau_da7acb38b5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
 email: ''
 author: ''
 ---
@@ -32,4 +32,3 @@ Additional events and information about this anniversary:
 
 
 Photo source: Bust of Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, France. Sculpture, terracotta, 75 cm. From [Friends of Art](http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau){:target="_blank"}
-

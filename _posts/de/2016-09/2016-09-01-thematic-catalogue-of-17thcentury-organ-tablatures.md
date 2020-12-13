@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Wojnowska_Liegnitz_Bibliotheca_Rudolphina_thematic_catalogue_dff8d43d08.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/thematic-catalogue-of-17th-century-organ-tablatures-from-the-liegnitz-bibliotheca-rudolphina-by-el.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/thematic-catalogue-of-17th-century-organ-tablatures-from-the-liegnitz-bibliotheca-rudolphina-by-el.html
 email: ''
 author: ''
 ---
@@ -29,5 +29,3 @@ Es finden sich in den Warschauer Tabulaturen nur sehr wenige anonym überliefert
 
 
 Das Kürzel WojnowskaC 2016 verweist auf den Literatureintrag des Kataloges in unserer Datenbank.
-
-

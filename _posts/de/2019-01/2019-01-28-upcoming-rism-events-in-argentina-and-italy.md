@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_12_2d4d92754c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/upcoming-rism-events-in-argentina-and-italy.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/upcoming-rism-events-in-argentina-and-italy.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ I Tatti, Harvard University, Florenz, Italien
 Juni-Juli 2019; Bewerbungsschluss: 1. März 2019**
 
 Der Schwerpunkt dieses Praktikums liegt auf den riechen Beständen der Morrill Music Library, Biblioteca Berenson ([I-Fb](https://opac.rism.info/metaopac/perma.do;jsessionid=6A8D39A7A923D2A7A28903E0DEF1BC98.touch01?v=rism&q=-1%3d%22ks30004727%22&Language=en){:target="_blank"}) der Villa I Tatti in Florenz (Italien). Der Hauptbestand der Bibliothek betrifft die westliche Musik vor 1640. Ergänzend zu den Kenntnissen im Umgang mit musikwissenschaftlichen Hilfsmitteln werden die Praktikanten die Musikquellen von I Tatti mit RISM vergleichen und sicherstellen, dass sie in der Datenbank korrekt wiedergegeben werden. Informationen zur Bewerbung (nur für Harvard Studenten) [finden Sie hier.](https://itatti.harvard.edu/internships){:target="_blank"}
-

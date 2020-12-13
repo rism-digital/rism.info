@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_in_L_viv_002_070b499097.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
 email: forschung@angelikamoths.com
 author: Angelika Moths
 ---
@@ -26,5 +26,3 @@ Nach Erhalt ihrer persönlichen Logindaten für Muscat können die Kolleginnen u
 Das primäre Ziel der HSC, die sich als Vermittlerin in diesem Prozess sieht, ist zunächst die Katalogisierung der Bibliotheksbestände in L’viv. Da durch die Wiederaufnahme der Arbeit in Galizien aber auch wieder positive Signale aus Kiew gekommen sind, ist nicht auszuschließen, dass ein weiterer Muscat-Workshop für die Kollegen und Kolleginnen dort angeboten wird. Guido Kraus hat bereits Interesse bekundet.
 
 Nach Abschluss des oben erwähnten Pilotprojektes sollen die Ergebnisse in einer Präsentation zusammengefasst werden, die dann weitere Bibliotheken als Grundlage und Ermutigung verwenden können, ihre Musikalien bei RISM zu erfassen und somit international sichtbar zu machen. Wir erhoffen uns davon weitere internationale Kooperationen mit anderen europäischen Bibliotheken, um gemeinsam nach Finanzen suchen zu können und damit die RISM-Arbeit in der Ukraine auszuweiten.
-
-

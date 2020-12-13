@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Stuttgart_-_AIBM_6024c498b2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-musicology-libraries-an-interns-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/music-musicology-libraries-an-interns-report.html
 email: contact@rism.info
 author: Anne-Marie Wurster
 ---
@@ -39,4 +39,3 @@ Die Tagung schloss ihr öffentliches Programm mit einem intensiven Block zur Ums
 In den Pausen und bei einem Empfang bestand außerdem auch die Gelegenheit, mit Menschen aus den unterschiedlichsten Bibliotheken und Fachbereichen ins Gespräch zu kommen. Die angenehme, offene Atmosphäre hat mich hier sehr positiv überrascht und ich konnte einige interessante Kontakte knüpfen.
 
 Insgesamt bin ich froh um die Erfahrungen, die ich während meines Praktikums machen konnte. Ich habe Komponisten und Werke kennengelernt, die mir zuvor gänzlich unbekannt waren und es war spannend zu sehen, wie die Arbeit eines weltweit vernetzten Projektes vorangeht. Ich habe mich ausgiebig mit der Katalogisierung der Musikalien und deren Erfassung in einer Datenbank beschäftigt und nebenbei viele interessante Menschen kennengelernt. Außerdem habe ich gesehen, dass es für viele Bereiche sehr sinnvoll ist, sowohl eine musikwissenschaftliche als auch eine bibliothekarische Ausbildung zu haben. Beide Bereiche lassen sich hervorragend kombinieren und eröffnen vielseitige berufliche Möglichkeiten.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2017_Rueckblick_ed5d67ebed.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2017.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/looking-back-on-2017.html
 email: ''
 author: ''
 ---
@@ -39,5 +39,3 @@ Aber 2017 — wie auch in den Jahren 2016 und 2015 — wurde wieder der Beitrag 
 
 
 Abbildung: _Theaterpubliek_ (ca. 1840 - 1886) von Hippolyte Michaud. Rijksmuseum, via [Europeana](http://europeana.eu/portal/record/90402/SK_A_1745.html){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
 email: contact@rism.info
 author: ''
 ---
@@ -24,4 +24,3 @@ The Union Catalogue of Books Printed in German Speaking Countries in the 17th Ce
 We are always happy to hear from you when you notice mistakes or know of additional copies and indispensable secondary literature. Just send an email to: [contact@rism.info](mailto:contact@rism.info), [johanna.thoene@rism.info](mailto:j.thoene@gmx.net) or [martin.bierwisch@rism.info.](mailto:martin.bierwisch@rism.info)
 
 _Image_: Ludwig Helmbold,_Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
-

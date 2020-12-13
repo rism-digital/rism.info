@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/karin-weissert-internship-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert
 ---
@@ -26,4 +26,3 @@ Staff meetings dealt with strategies, further developments, and work procedures 
 Although my internship lasted only five weeks, I was active in eight different areas of work, giving me comprehensive insight into the varied activities of RISM.
 
 Both the variety of the work and working independently made time fly by and I was never bored and never felt unappreciated. My time with RISM let me expand my knowledge in a very stimulating and extremely satisfactory way, and through my internship I could come to appreciate an interesting area of work.
-

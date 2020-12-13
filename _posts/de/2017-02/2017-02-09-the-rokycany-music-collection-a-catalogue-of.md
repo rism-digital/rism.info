@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Katalog_Rokycany_Music_Collection_6f7eb13845.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-rokycany-music-collection-a-catalogue-of-franco-netherlandish-sacred-works-preserved-in-the-old.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/the-rokycany-music-collection-a-catalogue-of-franco-netherlandish-sacred-works-preserved-in-the-old.html
 email: katerina_mayrova@nm.cz
 author: Katerina Mayrova
 ---
@@ -20,5 +20,3 @@ Die Rokycany-Musiksammlung (CZ-ROk) beinhaltet wertvolle Musikhandschriften mit 
 Aus diesem Bestand listet der vorliegende Katalog 210 Kompositionen - vor allem Motetten und Messen - von 43 franko-flämischen Komponisten. Dem Katalog ist eine einführende Studie vorangestellt, eine historische Skizze über die frühere Literarische Bruderschaft in Rokycany als Vorbesitzerin der Sammlung, eine weitere Studie zur franko-flämischen Musik sowie eine Tabelle der Schreiberhände.
 
 Der Katalogteil beschreibt neben den Handschriften auch Drucke; er ist nach Komponisten alphabetisch sortiert. In den Katalogisaten wird auf gedruckte und handschriftliche Konkordanzen der Werke verwiesen, die in aller Regel beim RISM verzeichnet sind. Es werden außerdem moderne Editionen der Werke aufgelistet. Am Ende des Kataloges finden sich eine Bibliographie und mehrere Suchindexe.
-
-

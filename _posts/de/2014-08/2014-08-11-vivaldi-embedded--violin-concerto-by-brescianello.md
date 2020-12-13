@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Vivaldi_embeded_a19db0b2ca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vivaldi-embedded.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/vivaldi-embedded-violin-concerto-by-brescianello-turns-out-to-be-a-pasticcio.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
@@ -36,4 +36,3 @@ Zu Talbots Überraschung umfasste das Rechercheergebnis nicht nur die beiden "Il
 Der Fund zeigt zwingend, was für ein mächtiges Suchinstrument der RISM-Onlinekatalog ist, dessen Incipitrecherche sogar transponierte Themen mühelos aufzuspüren vermag.
 
 Bildnachweis: [Mus.2364-O-7, 2. Satz](http://digital.slub-dresden.de/id307162303){:target="_blank"}: Satz von Vivaldi in einem Konzert von Brescianello. (RISM [212001392](https://opac.rism.info/metaopac/search?db=251&View=rism&q=rism212001392))
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
 email: ''
 author: ''
 ---
@@ -30,4 +30,3 @@ One of the copies of the piano score was used as a production book and another a
 
 
 Image: No. 6, Duet, Elmire/Bernardo:“Ein Veilchen auf der Wiese stand”(measures 4–28), from_Erwin und Elmire_by Anna Amalia von Sachsen-Weimar-Eisenach, D-WRha DNT 6b, Elmire's part, f.7r
-

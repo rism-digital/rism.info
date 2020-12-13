@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tomorrow-is-valentines-day.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/tomorrow-is-valentines-day.html
 email: ''
 author: ''
 ---
@@ -16,4 +16,3 @@ February 14 – Valentine's Day – is the day of love in many countries. Today 
 The results list shows almost 400 entries. Among these are Vincenzo Bellini's well-known setting "I Capuleti e i Montecchi," Georg Benda's opera "Romeo und Julie," and Charles Gounod's "Roméo et Juliette."Girolamo Crescentini's insert aria "Ombra adorata apetta" in Nicola Antonio Zingarelli's opera "Giulietta e Romeo" also enjoys special popularity. But have you also heard of the operas by Johann Gottlieb Schwanenberg and Daniel Gottlieb Steibelt? Take a look at the catalog and find inspiration.
 
 Photo credit: Georg Benda: Romeo und Julia ([Universitäts- und Landesbibliothek Darmstadt, Mus. Ms. 94](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-094-01/0002){:target="_blank"})
-

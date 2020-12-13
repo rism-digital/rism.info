@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Moniuszko_200_01_9514602a76.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Everybody knows Stanisław Moniuszko's name in Poland. Throughout the country, h
 The Warsaw Music Society, founded in 1871, was also named after Moniuszko. Its archives preserve a number of Moniuszko's autograph music manuscripts, other musical sources of his compositions, and numerous letters. Cataloging this very important collection ([RISM library siglum: PL-Wtm](https://opac.rism.info/search?View=rism&siglum=PL-Wtm){:target="_blank"}) has recently begun. It is part of our [ongoing collaboration with the Chopin Institute in Warsaw](/library_collections/2019/02/18/close-cooperation-between-rism-and-the-chopin.html){:target="_blank"}. You can look forward to discovering more [Moniuszko sources in RISM](https://opac.rism.info/search?View=rism&author=Moniuszko){:target="_blank"}. We will keep you updated about this work.
 
 Image courtesy of Marcin Konik (RISM Poland).
-

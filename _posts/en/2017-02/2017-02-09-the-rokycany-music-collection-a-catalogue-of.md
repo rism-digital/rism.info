@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Katalog_Rokycany_Music_Collection_6f7eb13845.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-rokycany-music-collection-a-catalogue-of-franco-netherlandish-sacred-works-preserved-in-the-old.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/the-rokycany-music-collection-a-catalogue-of-franco-netherlandish-sacred-works-preserved-in-the-old.html
 email: katerina_mayrova@nm.cz
 author: Katerina Mayrova
 ---

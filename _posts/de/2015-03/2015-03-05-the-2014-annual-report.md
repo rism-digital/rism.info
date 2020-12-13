@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_03_67d53554dc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2014-annual-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/the-2014-annual-report.html
 email: ''
 author: ''
 ---
@@ -69,5 +69,3 @@ Bei der Entwicklung des neuen Katalogisierungsprogramms Muscat, die in Zusammena
 
 
 Wir hoffen auf eine erfolgreiche Fortsetzung in 2015!
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_New_Cataloging_Tools_for_Librarians_NYPL_f4112beb94.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-cataloging-tools-for-librarians.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/new-rism-cataloging-tools-for-librarians.html
 email: ''
 author: ''
 ---
@@ -28,4 +28,3 @@ We hope that you find these new cataloging tools useful and we would be happy to
 These developments were made possible thanks to the initiative and cooperation from a number of library colleagues. We would like to thank Sarah Adams and Christina Linklater from the US RISM Office of Harvard University as well as Anne Adams at Harvard, Darwin Scott and Brittany Jones from Princeton University, kind colleagues from the RBMS Standard Citation Forms Committee, and Damian Iseminger and colleagues at the Library of Congress.
 
 _Image_: The New York Public Library's Room 100, including card catalogs. Manuscripts and Archives Division, The New York Public Library. [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47dd-eb76-a3d9-e040-e00a18064a99){:target="_blank"}.
-

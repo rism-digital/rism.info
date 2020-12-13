@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-collections-in-the-jagiellonian-library-through-the-ages.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/musical-collections-in-the-jagiellonian-library-through-the-ages.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ RISM reist diese Woche nach Krakau zum [IAML-Kongress](/publications/iaml-congre
 Die Ausstellung zeigt eine Auswahl von Musikhandschriften und gedruckten Noten, die in der Jagiellonenbibliothek (PL-Kj) aufbewahrt werden. Die Ausstellung wird "eine Chronologie des Erwerbs und des Wachstums der Sammlung veranschaulichen sowie historische Veränderungen im Profil der zusammengetragenen Sammlung zeigen". Als Bibliotheca patria spielt die Bibliothek eine besonders wichtige Rolle bei der Erhaltung von Kulturgütern in Polen. Die Ausstellung ist bis zum 26. Juli 2019 zu sehen.
 
 [In RISM befinden sich 6.700 Einträge aus der Jagiellonenbibliothek](https://opac.rism.info/search?View=rism&siglum=PL-Kj){:target="_blank"}. Während diese Zahl lediglich ca. 70 Handschriften umfasst, spiegelt der Rest den reichen Bestand an Notenausgaben wider, die sich in der Bibliothek befinden. Viele dieser Ausgaben sind relativ neu für RISM: Als RISM in den 1960er und 1970er Jahren begann, die Bände zu den Sammel- und Einzeldrucken ([A/I, B/I, B/II](/publications.html)) zu veröffentlichen, war damals nicht bekannt, dass die Jagiellonenbibliothek über eine große Sammlung von Notendrucken verfügte, die sich vor dem Zweiten Weltkrieg im Besitz der Preußischen Staatsbibliothek in Berlin befand. (Andere Ausgaben, die sich bereits vor dem Krieg in der Jagiellonenbibliothek befanden, wurden jedoch in den Serien A und B aufgenommen.) Die Veröffentlichung des wichtigen [Katalogs von Aleksandra Patalas](https://opac.rism.info/search?id=lit3332&View=rism){:target="_blank"} im Jahr 1999 dokumentiert alle frühen Drucke (bis 1700) dieser Provenienz und diese 2.500 Titel (ohne die deutschen Gesangbücher) wurden in jüngster Zeit in RISM aufgenommen. Der Katalog von Patalas ist nach wie vor unverzichtbar, da wir bemüht sind, die Angaben zu den Musikdrucken in unserer Datenbank ständig zu verbessern.
-
-

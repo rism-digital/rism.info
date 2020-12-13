@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Chopin_by_Bisson__1849_875251f5fe.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-improvisation-to-composition.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/from-improvisation-to-composition.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -21,4 +21,3 @@ RISM has almost [1,900 records for printed music editions by Chopin](https://opa
 
 
 _Image_: Frédéric Chopin (1810-1849) in a photograph by Louis-Auguste Bisson, around 1849, from [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/800px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png){:target="_blank"}.
-

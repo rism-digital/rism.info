@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canzonette_veneziane_1_page_ecc2748926.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/canzonette-veneziane.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/canzonette-veneziane.html
 email: rma2@cam.ac.uk
 author: Richard Andrewes
 ---
@@ -80,5 +80,3 @@ Obwohl Galuppis Musik populär und in ganz Europa verbreitet war, ist es unwahrs
 Richard Andrewes
 
 _\*Anmerkung von RISM: Die Zuschreibung wurde in den RISM-Datensätzen geändert._
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Mariae_Geburt_d969d78f72.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
 email: ''
 author: ''
 ---
@@ -33,4 +33,3 @@ December 8:  Immaculate Conception - **Mariae (B.V.) Conceptio Immaculata**
 
 
 Photo source: Domenico Ghirlandaio, _Natività di Maria,_ Cappella Tornabuoni, 1485-1490, fresco,Firenze,basilica di Santa Maria Novella, from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-

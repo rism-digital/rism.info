@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Cornaz_Dukes_of_Arenberg_05dda80d62.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-dukes-of-arenberg-and-music-in-the-eighteenth-century-the-story-of-a-music-collection.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/the-dukes-of-arenberg-and-music-in-the-eighteenth-century-the-story-of-a-music-collection.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ This study is an in-depth exploration of the music collection begun and cultivat
 Cornaz dedicates a chapter apiece to each of the three dukes and ends with a consideration of composer Paul d’Arenberg (1788-1844). By examining the lives of the Arenberg family alongside their practice of collecting and nurturing musical sources (amassing around 1,500 manuscripts and printed editions), Cornaz can "through the prism of the musical affinities of an aristocratic family ...illustrate the evolution of taste in eighteenth-century Europe."
 
 The musical collection itself has previously been cataloged by Cornaz in "Inventaire complet du fonds musical des archives privées de la famille d’Arenberg à Enghien," _Revue belge de musicologie_ 58 (2004): 81-202.
-
-

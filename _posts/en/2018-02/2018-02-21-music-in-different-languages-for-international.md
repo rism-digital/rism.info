@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
 ---
@@ -82,4 +82,3 @@ Yiddish
 Is your mother tongue on the list? We add to the list whenever we have a musical source with a new language. This month's update to the online catalog will include West Frisian for the first time.
 
 _Image from_ _[pixabay](https://pixabay.com/de/mehrsprachige-sprachen-sprechen-456774/){:target="_blank"}__._
-

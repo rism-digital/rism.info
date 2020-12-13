@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/karin-weissert-internship-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert
 ---
@@ -24,4 +24,3 @@ Besprechungen, an denen alle Mitarbeiter teilnehmen, hatten Strategien, Weiteren
 Allein in meiner kurzen Praktikumszeit von fünf Wochen bin ich in acht verschiedenen Arbeitsgebieten eingesetzt worden, wodurch ich einen umfangreichen Einblick in die mannigfaltige Tätigkeit bei RISM erhalten habe.
 
 Beides, die Vielseitigkeit und die Selbständigkeit haben die Zeit wie im Fluge vergehen lassen, sodass keinerlei Langeweile oder das Gefühl, überflüssig zu sein, aufkam. Die Zeit bei RISM hat mir eine anregende und äußerst zufriedenstellende Erweiterung meiner Kenntnisse gebracht, und ich konnte dabei ein interessantes Umfeld für eine berufliche Tätigkeit näher kennenlernen.
-

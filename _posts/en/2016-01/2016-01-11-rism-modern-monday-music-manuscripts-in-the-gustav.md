@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canada_Mahler_370e57d212.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
 email: cmart29@uwo.ca
 author: Cheryl Martin
 ---
@@ -55,5 +55,3 @@ choral parts and a piano-vocal score prepared by Alfred Rosé for the world prem
 Some of these items [have been digitized](https://archive.org/details/mahlerrose){:target="_blank"}, and links to the digital copies will be added to the RISM records. More information about the collection, and a link to an inventory of the entire collection, can be found [here](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"}.
 
 _Image_: Mahler's Symphony no. 1 (courtesy of Western University). RISM ID no. [820000232.](https://opac.rism.info/search?id=820000232){:target="_blank"}
-
-

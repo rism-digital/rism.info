@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_R_Projects_2_01_d45333da8e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-the-r-projects.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/58/article/64/rism-and-the-r-projects.html
 email: ''
 author: ''
 ---

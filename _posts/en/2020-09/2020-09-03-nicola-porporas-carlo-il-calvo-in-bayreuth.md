@@ -20,4 +20,3 @@ The three performances in Bayreuth are sold out, but you can take a look at the 
 _Image_: Overture to Nicola Popora's opera _Carlo il Calvo_, in I-Nc Rari 7.2.16-18
 
 &nbsp;
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digital-musicology-at-oxford-summer-school.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/digital-musicology-at-oxford-summer-school.html
 email: ''
 author: Jennifer Ward (RISM Central Office)
 ---
@@ -26,5 +26,3 @@ What brought all these concepts together at the end of the week was the [F-TEMPO
 The fascinating thread that went through the DHOxSS week was using digital tools to ask new and different questions. Thanks to the amount of digitized data out there, whether audio, notational, or bibliographical, there are data pools ([including RISM's](https://opac.rism.info/index.php?id=10){:target="_blank"}) that are large enough to open up new areas of inquiry.
 
 ​
-
-

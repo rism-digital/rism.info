@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/symphonic-music-in-great-britain.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/symphonic-music-in-great-britain.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Perhaps most valuable for RISM and our users is Appendix I, the "Alphabetic cata
 The RISM online catalog now cites this book in the records for the manuscripts named in the appendix (short title:[SchaarwächterS 2015](https://opac.rism.info/search?View=rism&q=Schaarwa%CC%88chterS+2015){:target="_blank"}). Most of the manuscripts in RISM are today held by institutions in, logically, the UK, but a fair number have found their way to Germany and Switzerland.
 
 You can also read a review on [info-netz-musik](http://info-netz-musik.bplaced.net/?p=13682){:target="_blank"}.
-

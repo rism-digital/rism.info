@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Musikverlagswiki_137892576f.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Wenn Sie den Namen des Verlegers oder Druckers kennen, können Sie direkt auf de
 Wenn Sie einen dieser "verwaisten" Drucke ohne Titelblatt haben, können Sie auf der Seite **Plattennummern** nach Beispiel-Plattennummern von dutzenden Verlegern suchen, selbst nach solchen, die bislang keine weiteren Einträge im Wiki haben, um zu identifizieren, wer der Verleger sein könnte. Die Seite **Literatur** listet authentische Primär- und verlässliche Sekundär-Quellen auf.
 
 Da dieses Hilfsmittel ein Wiki ist, können neue Informationen ergänzt werden und neue Beiträge sind stets willkommen. Die Seite **Musterseiten** kann verwendet werden, um neue Seiten für Verleger oder Drucker anzulegen.
-
-

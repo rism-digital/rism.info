@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_08_85a9dfb671.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2016-annual-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/the-2016-annual-report.html
 email: ''
 author: ''
 ---
@@ -42,5 +42,3 @@ Wir haben den Jahresbericht 2016 auf unserer Website [hier abrufbar](/publicatio
 **Open Data und Linked Open Data:** Die [RISM-Daten](https://opac.rism.info/index.php?id=8&L=1){:target="_blank"} können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz weiterverwendet werden. Bibliotheken können somit die Daten ihrer Bestände in ihren lokalen Katalog importieren. Die Zentralredaktion hat eine SRU-Schnittstelle entwickelt, um den Datentransfer zu erleichtern. RISM-Daten werden für die lokalen Kataloge des Bibliotheksservicezentrum in Konstanz, der Staatsbibliothek zu Berlin, der SLUB Dresden, der Koninklijk Conservatorium Brüssel und der Moravian Music Foundation genutzt.
 
 **Auf ein erfolgreiches und produktives 2017!**
-
-

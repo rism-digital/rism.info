@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-printing-history-online-museum.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/the-music-printing-history-online-museum.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ We'll leave you with one of our favorite videos that the site links to, a closeu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3n0s7nsdsrk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Image: Movable type from [Music Printing History](http://www.musicprintinghistory.org/music-type/making-music-type){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_06_a7764d2790.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-digital-musicology-utrecht-2019.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/rism-and-digital-musicology-utrecht-2019.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Die Anbindung von Werkinformationen an einer allgemein akzeptierten und möglich
 Die Konferenz bot insgesamt einen sehr gelungenen Rahmen, in dem aktuelle Trends diskutiert wurden und Musikwissenschaftler und Entwickler über ihre laufenden Projekte ins Gespräch kommen konnten. Da die Teilnehmer der Utrechter Tagung sich in einer Mailingliste zusammengeschlossen haben, wird der Gedankenaustausch kontinuierlich fortgesetzt.
 
 _Stephan Hirsch, RISM IT-Manager_
-

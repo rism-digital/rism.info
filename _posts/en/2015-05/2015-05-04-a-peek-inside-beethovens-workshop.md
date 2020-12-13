@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Beethoven_0763003b24.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-peek-inside-beethovens-workshop.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/a-peek-inside-beethovens-workshop.html
 email: ''
 author: ''
 ---
@@ -16,5 +16,3 @@ The large-scale research project [Beethovens Werkstatt](http://beethovens-werkst
 A good visualization of how this work comes together is on the Beethovens Werkstatt website ([link to demo](http://beethovens-werkstatt.de/demo/index.html){:target="_blank"}): the Piano Sonata in C minor, op. 111, first movement, is amended with a critical commentary ("Erläuterung") and a comparison variations ("Variantenabfolge").
 
 We are looking forward to the many discoveries and insights that will be gained from this project!
-
-

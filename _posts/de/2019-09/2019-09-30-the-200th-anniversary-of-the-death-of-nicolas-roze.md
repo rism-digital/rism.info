@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Roze_Nicolas_200_526cdfc026.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Zur Krönung von Napoleon I. am 2. Dezember 1804 in der Eglise Metropolitaine vo
 1807 wurde Roze Leiter der Bibliothek am Pariser Konservatorium. Bis an sein Lebensende setzte er sich für die Einführung eines Katalogsystems sowie die Konservierung und den Ausbau des Bestands ein.
 
 _Abbildung_: "C'est dans nos boccages" aus[_Deux Ariettes_](https://gallica.bnf.fr/ark:/12148/btv1b90640733){:target="_blank"} (Paris, ca. 1780; [RISM ID no. 990056304](https://opac.rism.info/search?id=990056304&View=rism&Language=en){:target="_blank"}).
-

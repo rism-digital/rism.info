@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bartok-complete-critical-edition-launched.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/bartok-complete-critical-edition-launched.html
 email: info@henle.de
 author: G. Henle Verlag
 ---
@@ -41,5 +41,3 @@ _Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász(Übersetzer) and Malcolm
 
 ![Henle Bartók 3](http://www.henle.de/files/bartok_vertragsunterschrift_300breit.jpg)
 _Am 25. September 2015 unterzeichneten Wolf-Dieter Seiffert und Antal Boronkay den Kooperationsvertrag beider beteiligten Verlage._
-
-

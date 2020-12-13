@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-data-as-open-data-and-linked-open-data.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/rism-data-as-open-data-and-linked-open-data.html
 email: contact@rism.info
 author: ''
 ---
@@ -27,5 +27,3 @@ If you have any questions about using the data, please contact us: [contact@rism
 Watch this video introduction to linked open data from Europeana:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uju4wT9uBIA" frameborder="0" allowfullscreen></iframe>
-
-

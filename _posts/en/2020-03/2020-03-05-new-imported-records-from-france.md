@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_Frankreich_cee122971f.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-imported-records-from-france.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/new-imported-records-from-france.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ In order to find or browse the manuscripts separately from the printed editions 
 - RISM had 800 manuscripts from the Département de la Musique of the [Bibliothèque nationale de France (F-Pn)](https://opac.rism.info/search?View=rism&siglum=F-Pn&Language=en){:target="_blank"} before the data import. In the meantime, a further 1,000 have been added, mostly by Jean-Baptiste Rameau, Wolfgang Amadeus Mozart, François-Joseph Gossec, Charles-Hubert Gervais, and Christoph Willibald Gluck.
 
 We will soon publish the rest of the data. All imported records include a link to the original French record.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Haendel_Incerta_2ecd3ef55e.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ In total, 380 compositions were identified for evaluation and each one was exami
 Some parts of the book were already published in the _Göttinger Händel-Beiträge_ (2006, 2008, 2010 and 2012): arias and songs (part I), duets, cantatas and serenatas (part II), oratorical works and church music (part III), and works for orchestra (part IV). New to this volume are sections on instrumental chamber music (part V; HWV Anh. B 401-477) and music for keyed instruments (part VI; HWV Anh. B 501-645). The catalog consists of 400 pages and includes additions to parts I through IV. Each entry consists of: title, music incipit, composer, instrumentation, sources, provenance, editions, bibliography, and notes. Various lists and indexes are included as appendixes. The preface and introduction of the book, as well as the notes to each entry, are easy to use in German and English.
 
 _Image_: Violin part of a violin concerto in E major that was allegedly composed by Handel (HWV Anh. B 318). Bayerische Staatsbibliothek (D-Mbs) Mus.ms. 1166, [RISM ID no. 453011722](https://opac.rism.info/search?id=453011722&Language=en){:target="_blank"}.
-
-

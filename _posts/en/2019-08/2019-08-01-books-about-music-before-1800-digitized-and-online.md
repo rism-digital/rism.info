@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Books_About_Music_Before_1800_LC_b26d82da89.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/books-about-music-before-1800-digitized-and-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/books-about-music-before-1800-digitized-and-online.html
 email: ''
 author: Library of Congress, Music Division
 ---
@@ -24,5 +24,3 @@ In the early 1970s, the International Musicological Society and International As
 _Image_: Woodcut used by Franciscus Gaffurius to illustrate how simple ratios could generate consonant musical intervals regardless of medium source – anvils, bells, water, strings or pipes.
 
 _This announcement has also been translated into Spanish by [Papeles de musica](https://papelesdemusica.wordpress.com/2019/07/30/disponibles-a-texto-completo-dos-mil-libros-sobre-musica-de-la-loc-anteriores-a-1800/){:target="_blank"}._
-
-

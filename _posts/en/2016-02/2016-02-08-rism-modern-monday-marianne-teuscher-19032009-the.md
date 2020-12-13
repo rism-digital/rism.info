@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Teuscher_Modern_Monday_7d892a69de.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-modern-monday-marianne-teuscher-1903-2009-the-queen-mum-of-the-music-department.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/rism-modern-monday-marianne-teuscher-1903-2009-the-queen-mum-of-the-music-department.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ It was only later in life that Teuscher was able to fulfill her original career 
 We hope that with our RISM Modern Monday series we've been able to show you that there is a lot more to the RISM database than just music before 1800. Have a look around - you may be surprised what you find!
 
 _Image_: From Marianne Teuscher's obituary in [_BIS - Das Magazin der Bibliotheken in Sachsen_](http://www.qucosa.de/fileadmin/data/qucosa/documents/2572/267.pdf){:target="_blank"} 2, no. 4 (2009): 267.
-
-

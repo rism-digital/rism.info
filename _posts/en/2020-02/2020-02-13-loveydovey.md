@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Turteltaube_2aea45a073.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/lovey-dovey.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/lovey-dovey.html
 email: ''
 author: ''
 ---

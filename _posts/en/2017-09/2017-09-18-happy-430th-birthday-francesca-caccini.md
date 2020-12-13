@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Caccini_430_a8a8fef1be.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-430th-birthday-francesca-caccini.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/happy-430th-birthday-francesca-caccini.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ The opera _La liberazione di Ruggiero_ has been revived in recent times (Cologne
 The RISM online catalog lists [nine sources for Francesca Caccini](https://opac.rism.info/search?View=rism&author=Caccini+Francesca&Language=en){:target="_blank"}, including the printed editions of _Il primo libro delle musiche a una, e due voci_ (Florence: Zanobi Pignoni, 1618) and _La liberazione di Ruggiero dall'isola d'Alcina. Balletto ... rappresentata nel Poggio Imperiale, villa della Serenissima Arciducessa d'Austria Gran Ducessa di Toscana_ (Florence: Pietro Cecconcelli, 1625). Excerpts from her opera are more numerous in handwritten form, which was the focus of a [post we wrote](/rism_a_z/2014/07/24/francesca-caccini.html){:target="_blank"} back in 2014.
 
 _Image_: "Care stelle d'amor" by Francesca Caccini, from _Il Primo libro delle musiche a una e due voci_ (Florence: Zanobi Pignoni, 1618),p. 15. Biblioteca Estense, Modena (I-MOe).
-

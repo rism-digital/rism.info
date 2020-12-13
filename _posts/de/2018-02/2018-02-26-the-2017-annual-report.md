@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2017-annual-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/the-2017-annual-report.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ Der Jahresbericht der RISM Zentralredaktion ist auf [unserer Webseite](http://ri
 - **Open Data und Linked Open Data:** Die [RISM Daten](https://opac.rism.info/index.php?id=8&L=1) können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz wiederverwendet werden. Bibliotheken können somit ihreTitel in den eigenen lokalen Online-Katalog übertragen. Um die Belieferung mit den Daten zu vereinfachen, hat die Zentralredaktion Tools entwickelt, wie z.B. eine SRU-Schnittstelle. Über die SRU-Schnittstelle z.B. gelangen die Daten in das Biblio­theks-Servicezentrum in Konstanz, die Staatsbibliothek zu Berlin und die Sächsische Landesbibliothek - Staats- und Universitätsbibliothekin Dresden, in das Koninklijk Conservatorium Brüssel und die Moravian Music Foundation.
 
 Auf ein erfolgreiches und produktives 2018!
-

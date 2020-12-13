@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Donizetti_dd1e9e1237.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-donizetti-discovery.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/a-donizetti-discovery.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ In einem vor kurzem in der Zeitschrift [_Electronic British Library Journal_](ht
 Auf den ersten Blick scheint die Musik eine Verschmelzung von zwei Stücken zu sein: der Beginn des Larghetto-Abschnitts ist aus _Anna Bolena_ bekannt, der Oper, die Donizettis Namen im Dezember 1830 auf der Premiere zu Ruhm verhalf, während das folgende "Allegro" ein Teil der Ouvertüre zu seiner sehr viel weniger erfolgreichen Oper _Il diluvio universale_ ist, die im selben Jahr etwas früher aufgeführt wurde. Der Artikel zeigt, dass beide Abschnitte ursprünglich in _Il diluvio universale_ verwendet wurden, aber nachdem Donizetti das 'Larghetto' in _Anna Bolena_ wieder verwendet hatte, komponierte er einen neuen Beginn für die erste Ouvertüre, die seitdem der Wiederaufführung im Jahr 1834 verwendet wurde.
 
 Einige Fragen bleiben dennoch: wann genau und für welchen Zweck dieses Manuskript entstand. Christopher Scobie macht dazu verschiedene Vorschläge in seinem Artikel. Das vollständige Manuskript ist auf unserer [digitalisierten Manuskriptwebsite](http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Zweig_MS_33){:target="_blank"} verfügbar.
-
-

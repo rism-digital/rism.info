@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Jasna_Gora_01_42801628cd.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Paweł Podejko, geboren am 23.12.1914 im heute lettischen Daugavpils (pol.: Dyne
 Mehr zu Podejko finden Sie auf [Gedanopedia](http://www.gedanopedia.pl/index.php?title=PODEJKO_PAWE%C5%81){:target="_blank"}.
 
 _Abbildung_: Jasna Góra, photo by Damian27 via [Wikimedia Commons](https://de.wikipedia.org/wiki/Jasna_G%C3%B3ra_(Cz%C4%99stochowa)#/media/File:Jasna_G%C3%B3ra_-_widok_do_NE.jpg){:target="_blank"}
-
-

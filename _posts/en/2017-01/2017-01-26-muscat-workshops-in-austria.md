@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Muscat-Schulungen_in_OEsterreich_Wien_2_737aa0dc99.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-in-austria.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/muscat-workshops-in-austria.html
 email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---
@@ -29,4 +29,3 @@ Please enjoy these photos from the workshops (no Facebook account necessary to v
 
 
 _Photos courtesy ofStefan Engl and Eva Neumayr._
-

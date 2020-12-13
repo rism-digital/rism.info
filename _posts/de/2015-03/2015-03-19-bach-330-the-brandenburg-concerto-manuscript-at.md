@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Bach_330_dbc29bb6ca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/bach-330-the-brandenburg-concerto-manuscript-at-the-library-of-congress.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ Abbildung: Originalmanuskript der 2. Violastimme von J. S. Bachs Kantate “Ich 
 
 
 _Einträge zu dieser Kantate können Sie im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&title=Ich+liebe+den+H%C3%B6chsten+von+ganzem+Gem%C3%BCte){:target="_blank"} finden._
-
-

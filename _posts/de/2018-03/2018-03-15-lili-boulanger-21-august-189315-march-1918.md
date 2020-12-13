@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/lili-boulanger-21-august-1893-15-march-1918.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/lili-boulanger-21-august-1893-15-march-1918.html
 email: abholland@uwalumni.com
 author: Dr. Anya Holland-Barry
 ---
@@ -40,4 +40,3 @@ Note 1: “Procés-Verbal 1913-1914,” Institut de France, Académie des Beaux 
 Note 2: Auguste Mangeot, “Mlle Lili Boulanger,” _Le Monde musical_ 25 no. 13–14 (July 1913): 173; quoted in Rosenstiel, [_The Life and Works of Lili Boulanger_](http://www.worldcat.org/oclc/903332196){:target="_blank"} (London: Associated University Press, 1978), 80.
 
 Note 3: Rosenstiel, _Life and Works of Lili Boulanger_, 215.
-

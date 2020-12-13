@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Martinez_01_35a146d721.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/marianna-von-martines-1744-1812-at-275.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/marianna-von-martines-1744-1812-at-275.html
 email: ''
 author: ''
 ---
@@ -17,4 +17,3 @@ Der Schwerpunkt ihres kompositorischen Schaffens liegt im Bereich der Kirchenmus
 
 
 _Abbildung_: Marianna von Martines: "Per pietà bell'idol mio," Abschrift in der SLUB Dresden (D-Dl Mus.1-F-82,16-7; RISM ID no.[212008189](https://opac.rism.info/search?id=212008189){:target="_blank"}).
-

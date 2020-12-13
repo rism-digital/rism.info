@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Konferenzbericht_aus_Warschau_6fdab02c3a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/conference-the-music-repertoire-of-the-society-of-jesus-in-the-polish-lithuanian-commonwealth-1565.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ A third outcome of the project is musicological monographs. Aleksandra Patalas f
 The five-year project is financed by the Ministry of Science and Higher Education within the Tradition 1a module of the National Programme for the Development of Humanities.
 
 _Image:_ Canisius in Vienna, Ars Jesuitica, Institute of Jesuit Sources (public domain).
-
-

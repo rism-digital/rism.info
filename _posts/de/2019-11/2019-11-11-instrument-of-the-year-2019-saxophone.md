@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Saxophone_InstrumentDesJahres_Landesarchiv_Baden-Wuerttemberg_Staatsarchiv_Freiburg_W_134_Nr._000431_Bild_1__5-90992-1__a75dd35e78.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/instrument-of-the-year-2019-saxophone.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/instrument-of-the-year-2019-saxophone.html
 email: carmenalvarezescandell@gmail.com
 author: Carmen Álvarez
 ---
@@ -47,5 +47,3 @@ In unserer Datenbank ist es auch möglich, digitalisierte Quellen zu finden: Bei
 
 _Abbildung_: “Vier Saxophone” 1928.
 Landesarchiv Baden-Württemberg: Staatsarchiv Freiburg, Sammlung Willy Pragher I: Glasplattennegative. CC-BY. von [Europeana](https://www.europeana.eu/portal/de/record/00737/plink__f_5_90992.html?q=saxophone){:target="_blank"}.
-
-

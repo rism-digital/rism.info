@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/symphonic-music-in-great-britain.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/symphonic-music-in-great-britain.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ Am wertvollsten für RISM und unsere Benutzer ist vermutlich Anhang I, der "Alph
 Der RISM Online-Katalog nennt die Publikation für die Manuskripte in den Sekundärangaben (Kurztitel: SchaarwächterS 2015). Viele dieser Handschriften werden heute selbstverständlich in Großbritannien aufbewahrt, aber eine stattliche Zahl hat auch den Weg nach Deutschland oder in die Schweiz gefunden.
 
 Bitte beachten Sie auch die Rezension auf [info-netz-musik](http://info-netz-musik.bplaced.net/?p=13682){:target="_blank"}.
-

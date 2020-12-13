@@ -27,4 +27,3 @@ _Image_: Title page to Giovanni Paisiello's _Il re Teodoro in Venezia_, Bayerisc
 &nbsp;
 
 &nbsp;
-

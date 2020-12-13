@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Polen_Workshop_Warsaw_Guido_70948f15f8.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-workshop-and-seminar-in-warsaw-february-3-4-2016.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/rism-workshop-and-seminar-in-warsaw-february-3-4-2016.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
@@ -43,5 +43,3 @@ Guido Kraus - RISM Central Office
 
 
 _Photographs courtesy of Sonia Wronkowska. Top, Guido Kraus demonstrates Kallisto. Bottom, the RISM seminar continues._
-
-

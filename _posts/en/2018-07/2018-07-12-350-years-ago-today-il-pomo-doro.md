@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/350-years-ago-today-il-pomo-doro.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/350-years-ago-today-il-pomo-doro.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ The ballets are by Johann Heinrich Schmelzer. Copies can be found in the Czech c
 Some of the sets were designed by Ludovico Ottavio Burnacini (1636-1707), including the underworld scene in the image above, and can be viewed on the website of the [Theatermuseum in Vienna](https://www.theatermuseum.at/onlinesammlung/?query=all_persons%3AAntonio%20Cesti){:target="_blank"}.
 
 _Image_: Lodovico Ottavio Burnacini, engraved by Matthäus Küsel: Stage set for the underworld scene in Antonio Cesti's opera _Il pomo d'oro,_ ca. 1666, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
-
-

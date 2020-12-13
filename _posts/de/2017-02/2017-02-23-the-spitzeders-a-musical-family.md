@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Spitzeder_9c8629735a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-spitzeders-a-musical-family.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/the-spitzeders-a-musical-family.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Henriette Spitzeder-Schüler (1800-1828) ist die Tochter des Sängers Carl Schü
 
 
 _Abbildung_: Adele Spitzeder, aus dem Wochenmagazin _Die Gartenlaube_ 15 (1873), S. 251. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1873)_b_251.jpg){:target="_blank"}.
-
-

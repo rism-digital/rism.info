@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
 email: jbenavent@uda.ad
 author: Joan Benavent Peiró
 ---
@@ -28,5 +28,3 @@ In summary, the Andorran musical source collects different pieces that were in v
 The cataloging of the manuscript was carried out thanks to a research grant from the Government of Andorra (AM058-AND-2017). From this work the article [“El periòdic musical de Maria Rosa d'Areny i Jordana de la Casa Museu d'Areny Plandolit d'Andorra](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf)” was published by the Societat Andorrana de ciències, and included the results of the research in the R + D + I project (HAR2017-86039-C2-1-P) _El patrimonio musical de la España moderna (siglos XVII-XVIII): recuperación, digitalización, análisis, recepción y estructuras retóricas de los discursos musicales_, directed by Antonio Ezquerro.
 
 _Image_: Arxiu Nacional d’Andorra – Biblioteca Nacional d’Andorra. Cover, AND-AVbn ACAP.LP.154. RISM ID no. 001050169. Courtesy of the author.
-
-

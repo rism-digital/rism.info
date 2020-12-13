@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Vormittag_6c24af8a5f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html
 email: lucianagsh@gmail.com
 author: Luciana Giron Sheridan and Lucas Reccitelli
 ---
@@ -36,4 +36,3 @@ Was die Gastgeber betrifft, so begann GMH 2016 mit der Katalogisierung in Muscat
 Dieser RISM-Workshop war der bislang längste (insgesamt 40 Stunden) und beinhaltete einige wirklich intensive Arbeiten. All dies wäre ohne Jennifers exzellente Vorbereitung und Geduld nicht möglich gewesen. Es war eine bedeutende Erfahrung für GMH. Die Gruppe freut sich und ist bestrebt, die Zusammenarbeit mit RISM fortzusetzen.
 
 _Abbildung mit freundlicher Genehmigung von Luciana Giron Sheridan._
-

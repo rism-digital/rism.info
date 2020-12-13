@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2014.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/looking-back-at-2014.html
 email: contact@rism.info
 author: ''
 ---
@@ -98,5 +98,3 @@ RISM was also mentioned in the following articles, which we have listed on the [
 - Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info). Visitors to the RISM website come from all over the world, as you can see from the blue on the map on the left.
-
-

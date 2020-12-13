@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/corpus-musicae-ottomanicae.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/corpus-musicae-ottomanicae-critical-editions-of-ottoman-manuscripts.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ In the first phase of the CMO project, critical editions will be prepared based 
 The CMO project involves working with scholars, libraries, and archives to locate music manuscripts. A catalog of sources is being developed by the Oriental Institute in Istanbul that will organize information about printed editions of the nineteenth and twentieth centuries as well as handwritten sources. This catalog will be linked with the CMO. The CMO will be an exciting project to keep our eyes on as they make these manuscripts widely accessible.
 
 _Image:_ "Ṣabā pīşrevi" [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 - 1885)]. Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5. Published with kind permission from CMO.
-
-

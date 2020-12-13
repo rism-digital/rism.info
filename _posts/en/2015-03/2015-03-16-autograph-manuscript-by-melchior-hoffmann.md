@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Hoffmann_1c79de896a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
 email: julia.neumann@sbb.spk-berlin.de
 author: Julia Neumann
 ---
@@ -18,5 +18,3 @@ An autograph manuscript by Bach contemporary Melchior Hoffmann has recently been
 After many decades, and after comparing handwriting, the manuscript can now be identified as an autograph manuscript by Melchior Hoffmann. At the same time, we can now be certain that the mass was indeed penned by Melchior Hoffmann, as until now it was considered to be a doubtful work.
 
 The description of the source and the digitized version of it are now in the RISM online catalog ([RISM ID no. 464131272](https://opac.rism.info/search?id=464131272&db=251&View=rism){:target="_blank"}); additional links in the record lead to scale images of the watermarks that were made with a newly-developed method using thermography. A short report about correcting the attribution is in the most recent [Bach-Jahrbuch](http://www.neue-bachgesellschaft.de/bach-jahrbuch-2014/){:target="_blank"} (Julia Neumann, "Ein unbekanntes Kompositionsautograph von Melchior Hoffmann in der Staatsbibliothek zu Berlin," Bach-Jahrbuch no. 100 (2014): 213 – 219).
-
-

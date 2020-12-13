@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_rism2_3c185d75bc.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ Wolfgang Rehm was a founding member of the Association Internationales Quellenle
 After he stepped down from his position as treasurer, he remained devoted to the Association and was named an honorary member.
 
 RISM owes a great debt of gratitude to Wolfgang Rehm. We will always cherish his memory.
-

@@ -25,4 +25,3 @@ Die Projektergebnisse werden unter anderem über die Datenbank des [Répertoire 
 &nbsp;
 
 _Abbildung_: Koloriertes Augsburger Stadtwappen auf Pergament (D-As Tonk Schl 200a)
-

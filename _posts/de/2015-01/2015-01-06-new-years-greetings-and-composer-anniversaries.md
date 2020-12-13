@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-years-greetings-and-composer-anniversaries.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
 author: ''
 ---
@@ -430,4 +430,3 @@ Schöpf, Franz 1836-1915 Komponist
 Skrjabin, Aleksandr Nikolaevič 1872-1915 Komponist
 Stehle, Johann Gustav Eduard 1839-1915 Komponist
 Waldteufel, Emil 1837-1915 Komponist
-

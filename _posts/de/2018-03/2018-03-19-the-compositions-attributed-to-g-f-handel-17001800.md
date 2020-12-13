@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Haendel_Incerta_2ecd3ef55e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Alle 380 ermittelten Kompositionen wurden nach dem Prinzip der Verifizierung bzw
 Die ersten vier Abschnitte des Buchs zu Arien und Lieder (Teil I), Duette, Kantaten und Serenaten (Teil II), Oratorische Werke und Kirchenmusik (Teil III), Orchesterwerke (Teil IV) wurden bereits in den Göttinger Händel-Beiträgen (2006, 2008, 2010 und 2012) veröffentlicht. Neu hinzugekommen sind die Recherchen zur instrumentalen Kammermusik (HWV Anh. B 401-477) und zur Musik für Tasteninstrumente (HWV Anh. B 501-645). Der Katalogteil umfasst 400 Seiten und enthält auch Zusätze zu den Teilen I bis IV. Jeder Eintrag setzt sich aus den folgenden Angaben zusammen: Titel, Notenincipit, Komponist, Besetzung, Quellen, Provenienz, Ausgaben, Literatur und Anmerkungen. Der Anhang besteht aus verschiedenen Verzeichnissen und Registern. Vorwort, Einleitung und die Anmerkungen bei den Einträgen sind benutzerfreundlich in deutscher und englischer Sprache gemacht.
 
 _Abbildung:_ Violinstimme eines angeblich von Händel komponierten Violinkonzerts in E-Dur (HWV Anh. B 318). Bayerische Staatsbibliothek (D-Mbs) Mus.ms. 1166, [RISM ID no. 453011722](https://opac.rism.info/search?id=453011722){:target="_blank"}.
-
-

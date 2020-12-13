@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_03_67d53554dc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2014-annual-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/the-2014-annual-report.html
 email: ''
 author: ''
 ---
@@ -70,4 +70,3 @@ With the development of the new cataloging program Muscat, being carried out in 
 
 
 Here's to continued success in 2015!
-

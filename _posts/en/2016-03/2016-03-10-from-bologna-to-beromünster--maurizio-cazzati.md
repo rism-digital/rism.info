@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-bologna-to-beromuenster-maurizio-cazzati-messa-e-salmi-op-36.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/from-bologna-to-beromuenster-maurizio-cazzati-messa-e-salmi-op-36.html
 email: cedric.gueggi@rism-ch.org
 author: Cédric Güggi
 ---
@@ -20,5 +20,3 @@ On the occasion of the 20th anniversary of the RISM Switzerland Association – 
 Listening samples and complete information about the CD](http://www.claves.ch/collections/new-releases/products/from-bologna-to-beromunster-maurizio-cazzati-mass-psalms-op-36){:target="_blank"}
 [
 Download CD booklet (PDF)](http://docs.rism-ch.org/press/CD_1605_booklet.pdf){:target="_blank"}
-
-

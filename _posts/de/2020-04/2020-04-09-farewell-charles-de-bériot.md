@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Beriot_photo_55eea5347f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/farewell-charles-de-beriot.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/farewell-charles-de-beriot.html
 email: richard.sutcliffe@ehb.be
 author: Richard Sutcliffe
 ---
@@ -20,5 +20,3 @@ Während wir in der Bibliothek des Brüsseler Konservatoriums eine ziemlich bede
 Im heutigen Blogbeitrag habe ich zusammen mit der Hilfe von [Mary Bardet](https://fr.linkedin.com/in/mary-bardet-2117ba105){:target="_blank"} von der Universität Birmingham eine weniger bekannte frühe biografische Skizze von de Bériot übersetzt.
 
 Weiterlesen können Sie hier: "[Farewell Charles de Bériot](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}!"
-
-

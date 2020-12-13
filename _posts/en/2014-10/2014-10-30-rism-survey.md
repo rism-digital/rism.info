@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/A4_portrait_01.pdf"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-survey.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/rism-survey.html
 email: contact@rism.info
 author: ''
 ---
@@ -33,5 +33,3 @@ The survey is also available in German: [http://goo.gl/forms/02VLj4tSEj](http://
 
 
 Please let us know if you have any questions: [contact@rism.info](mailto:contact@rism.info)
-
-

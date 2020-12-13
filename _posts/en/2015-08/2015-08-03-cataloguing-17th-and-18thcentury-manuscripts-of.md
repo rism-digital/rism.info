@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Pforzheimer_8c3bab02dc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cataloguing-17th-and-18th-century-manuscripts-of-french-music-in-the-ward-collection-us-caward.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/cataloguing-17th-and-18th-century-manuscripts-of-french-music-in-the-ward-collection-us-caward.html
 email: linklat@fas.harvard.edu
 author: Natasha Roule
 ---
@@ -18,6 +18,3 @@ The John Milton and Ruth Neils Ward Collection at [Houghton Library, Harvard Uni
 The miscellanies reveal rich sites of information about 17th- and 18th-century French musical culture, and are therefore especially deserving of comprehensive records on RISM. The miscellanies with which I have worked represent a musical book culture in which operatic pieces mixed with _chansons à boire_ and other genres. Several miscellanies were each contributed to by multiple copyists over periods that spanned up to eight decades. Not all copyists recorded the title and other identifying information with the pieces they inscribed. To identify the anonymity of these works, I entered their incipits into RISM using [Plaine & Easie Code](http://www.iaml.info/plaine-easie-code){:target="_blank"}. Using this method, I have identified nearly 50 anonymous works from several miscellanies in the Ward Collection. The detailed records of these volumes should prove useful to scholars interested in documenting the role of manuscript miscellanies in Baroque musical culture.
 
 Illustration caption: Miscellany of French arias and songs. 2010TW-24, Houghton Library, Harvard University. Page 71. (RISM ID [900020371](https://opac.rism.info/search?id=900020371){:target="_blank"})
-
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -28,4 +28,3 @@ Highlights of the collection include an autograph manuscript of a song from 1952
 There is much more you can discover [in the RISM catalog from this CZ-Bu import](https://opac.rism.info/search?siglum=CZ-Bu&Language=en){:target="_blank"}. It is a collection containing a great variety of sources and musical works that is not a closed unit but rather open in all directions, both chronologically and musically. I hope you enjoy exploring and wish you success in your work with these records.
 
 _Image_: Árie italských mistrů ze 2. pol. 17. století pro soprán a basso continuo / Italian arias from the second half of the 17th century, p. 5. CZ-Bu RKPMus-0763.835; [RISM ID No. 553013031](https://opac.rism.info/search?id=553013031&View=rism&Language=en){:target="_blank"}. [Available online](http://www.digitalniknihovna.cz/mzk/view/uuid:87aea16e-b81c-41eb-890f-1756110e822e?page=uuid:19842e34-37f3-41b1-82b6-e55597d3d33e){:target="_blank"}.
-

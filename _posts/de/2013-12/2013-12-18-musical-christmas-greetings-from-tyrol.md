@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_weihnachtskonzert_2013_bild_de0b8a38b8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-christmas-greetings-from-tyrol-1.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/59/article/64/musical-christmas-greetings-from-tyrol-1.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

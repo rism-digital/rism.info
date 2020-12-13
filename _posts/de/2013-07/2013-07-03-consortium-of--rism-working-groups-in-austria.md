@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Mozart_89968ae304.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/consortium-of-rism-working-groups-in-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/60/article/64/consortium-of-rism-working-groups-in-austria.html
 email: brinzing@mozarteum.at
 author: Armin Brinzing
 ---
