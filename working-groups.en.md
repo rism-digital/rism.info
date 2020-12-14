@@ -38,14 +38,23 @@ Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)\
 See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
 RISM Working Group Salzburg\
-Archiv der Erzdiözese Salzburg\
+Internationale Stiftung Mozarteum & Archiv der Erzdiözese Salzburg\
+
+Dr. Armin Brinzing\
+Bibliotheca Mozartiana\
+Schwarzstr. 26\
+5020 Salzburg\
+Telephone: +43 662 8894014\
+Email: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
+Webseite: [https://mozarteum.at/home](https://mozarteum.at/home){:blank}
+
+Mag. Dr. Eva Neumayr\
 Kapitelplatz 3\
 A - 5020 Salzburg\
 Telephone: +43 662 8047 1505 and -1507\
 Fax: +43 662 8047 1509\
 Univ. Doz. Dr. Ernst Hintermaier (Head), email: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
-Mag. Dr. Eva Neumayr, email: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net)\
-Mag. Lars E. Laubhold, email: [lars.laubhold@archiv.kirchen.net](mailto:lars.laubhold@archiv.kirchen.net)\
+Email: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) or [eva.neumayr@mozarteum.at](mailto:eva.neumayr@mozarteum.at)\
 Website: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)\
 See also: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
