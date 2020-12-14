@@ -23,12 +23,7 @@ jobs:
 
       - name: Install packages
         run: |
-          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > /wg0.conf
           sudo apt install openresolv wireguard
-
-      - name: Set up Wireguard VPN
-        run: |
-         sudo wg-quick up /wg0.conf
 
       - uses: actions/setup-ruby@v1
         with:
@@ -57,11 +52,21 @@ jobs:
           echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
 
+      - name: Install packages
+        working-directory: ${{ github.workspace }}
+        run: |
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > ./wg0.conf
+
+      - name: Set up Wireguard VPN
+        working-directory: ${{ github.workspace }}
+        run: |
+         sudo wg-quick up ./wg0.conf
+
       # Deploy to remote server
       - name: Deploy with rsync
         uses: burnett01/rsync-deployments@4.1
         with:
-          switches: -avzr --delete --exclude="uploads" --exclude=".well-known"
+          switches: -avzr --delete --exclude="uploads" --exclude=".well-known" --exclude="wg0.conf"
           path: _site/
           remote_path: ${{ env.DEPLOY_PATH }}
           remote_host: ${{ env.DEPLOY_SERVER }}
@@ -69,5 +74,6 @@ jobs:
           remote_key: ${{ secrets.DEPLOY_KEY }}
 
       - name: Disconnect VPN
+        working-directory: ${{ github.workspace }}
         run: |
-          sudo wg-quick down /wg0.conf
+          sudo wg-quick down ./wg0.conf
