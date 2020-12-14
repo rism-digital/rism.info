@@ -12,4 +12,4 @@ RISM assigns an abbreviation, called a library siglum, to institutions worldwide
 
 
 <script type="text/javascript" src=" /javascript/sigla.js"></script>
-<div id="siglaCatalog" sruhost="https://beta.rism.info" limit="20"> </div>
+<div id="siglaCatalog" sruhost="https://muscat.rism.info" limit="20"> </div>
