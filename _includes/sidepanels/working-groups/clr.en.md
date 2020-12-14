@@ -4,19 +4,23 @@
 
 [Team](/working-groups/clr/team.html)
 
-[Wikipedia](/working-groups/clr/wikipedia.html)
-
-[Leipzig 2018](/working-groups/clr/leipzig2018.html)
-
-[Shangjai 2018](/working-groups/clr/shanghai2018.html)
-
-[Shanghai 2017](/working-groups/clr/shanghai2017.html)
-
-[Taipei 2016](/working-groups/clr/taipei2016.html)
-
-[Taipei 2015](/working-groups/clr/taipei2015.html)
-
 [Bilingual Chart of Common Chinese Instrument Names](/resources-old-website/workgroups/Bilingual_Chart_of_Common_Chinese_Instrument_Names.pdf)
+
+[New RISM article on Wikipedia](/working-groups/clr/wikipedia.html)
+
+[Meeting: Leipzig 2018](/working-groups/clr/leipzig2018.html)
+
+[Meeting: Shangjai 2018](/working-groups/clr/shanghai2018.html)
+
+[Meeting: Shanghai 2017](/working-groups/clr/shanghai2017.html)
+
+Meeting: Riga 2017
+
+[Meeting: Taipei 2016](/working-groups/clr/taipei2016.html)
+
+[Meeting: Taipei 2015](/working-groups/clr/taipei2015.html)
+
+
 
 # Contact
 
@@ -54,6 +58,6 @@ Hong Kong Central Library
 
 **International advisor**
 
-[Prof.Judy Tsou](mailto:jstsou@u.washington.edu)
+[Prof. Judy Tsou](mailto:jstsou@u.washington.edu)
 
 [Dr. Nora Yeh](mailto:yehnorareed@gmail.com)
