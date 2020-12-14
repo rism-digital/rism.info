@@ -63,7 +63,7 @@ jobs:
       - name: Deploy with rsync
         uses: burnett01/rsync-deployments@4.1
         with:
-          switches: -avzr --delete --exclude="uploads"
+          switches: -avzr --delete --exclude="uploads" --exclude=".well-known"
           path: _site/
           remote_path: ${{ env.DEPLOY_PATH }}
           remote_host: ${{ env.DEPLOY_SERVER }}
