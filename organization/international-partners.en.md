@@ -5,7 +5,7 @@ lang: en
 permalink: /organization/international-partners.html
 ---
 
-# Institutional International Partners
+# International Institutional Partners
 
 * [Bavarian State Library, Munich](https://www.bsb-muenchen.de/){:blank}
 * [Clori - Archivio della Cantata Italiana](http://cantataitaliana.it/){:blank}
