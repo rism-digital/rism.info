@@ -9,7 +9,7 @@ Librarians, [see here](/organization/rism-for-libraries.html) what RISM has to o
 
 ## Library Sigla
 
-[Search](/community/sigla.html) sigla for libraries, archives and collections with historical music holdings
+[Search RISM's abbreviations](/community/sigla.html){:blank} for libraries, archives and collections with historical music holdings
 
 ## Muscat
 
