@@ -15,4 +15,4 @@ If you are looking for a siglum that is not yet in the directory, please [contac
 
 
 <script type="text/javascript" src=" /javascript/sigla.js"></script>
-<div id="siglaCatalog" sruhost="https://beta.rism.info" limit="20"> </div>
+<div id="siglaCatalog" sruhost="https://muscat.rism.info" limit="20"> </div>
