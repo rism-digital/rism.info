@@ -23,12 +23,12 @@ jobs:
 
       - name: Install packages
         run: |
-          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > /etc/wg0.conf
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > /wg0.conf
           sudo apt install openresolv wireguard
 
       - name: Set up Wireguard VPN
         run: |
-         sudo wg-quick up /etc/wg0.conf
+         sudo wg-quick up /wg0.conf
 
       - uses: actions/setup-ruby@v1
         with:
@@ -70,4 +70,4 @@ jobs:
 
       - name: Disconnect VPN
         run: |
-          sudo wg-quick down /etc/wg0.conf
+          sudo wg-quick down /wg0.conf
