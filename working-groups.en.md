@@ -80,7 +80,7 @@ Website: [http://www.bgam.edu.by/eng/](http://www.bgam.edu.by/eng/){:target="_bl
 
 ## BELGIUM
 
-Website (Brussels and Leuven): [https://www.rism.info/working-groups/belgium/home.html](/working-groups/belgium/home.html){:blank}
+Website (Brussels and Mechelen): [https://www.rism.info/working-groups/belgium/home.html](/working-groups/belgium/home.html){:blank}
 
 RISM Working Group Brussels\
 Dr. Marie Cornaz\
@@ -90,7 +90,7 @@ Music Division\
 B-1000 Brussels\
 Telephone: +32 2 5195663\
 Fax: +32 2 5195760\
-Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)\
+Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)
 
 RISM Working Group Mechelen\
 Mariet Calsius\
