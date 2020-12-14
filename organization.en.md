@@ -22,7 +22,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_Internati
 
 # Structure of the Project
 
-## Sponsor Professional Associations
+## Sponsoring Professional Associations
 
 RISM is sponsored under the auspices of two international professional associations:
 
