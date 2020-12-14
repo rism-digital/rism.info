@@ -22,15 +22,13 @@ jobs:
         if: endsWith(github.ref, '/staging')
 
       - name: Install packages
-        working-directory: ${{ github.workspace }}
         run: |
-          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > wg0.conf
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > /etc/wg0.conf
           sudo apt install openresolv wireguard
 
       - name: Set up Wireguard VPN
-        working-directory: ${{ github.workspace }}
         run: |
-         sudo wg-quick up ./wg0.conf
+         sudo wg-quick up /etc/wg0.conf
 
       - uses: actions/setup-ruby@v1
         with:
@@ -71,6 +69,5 @@ jobs:
           remote_key: ${{ secrets.DEPLOY_KEY }}
 
       - name: Disconnect VPN
-        working-directory: ${{ github.workspace }}
         run: |
-          sudo wg-quick down ./wg0.conf
+          sudo wg-quick down /etc/wg0.conf
