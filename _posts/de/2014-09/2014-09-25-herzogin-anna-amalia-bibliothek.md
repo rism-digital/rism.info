@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/herzogin-anna-amalia-bibliothek.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/herzogin-anna-amalia-bibliothek.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Vor kurzem wurde ein [Bericht](http://www.anna-amalia-bibliothek.de/pdf/140815_F
 Gegenwärtig hat der [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} 246 Quellen aus der Anna Amalia-Bibliothek. Ohne Zweifel sind davon einige im Feuer verloren gegangen. Ein [Katalog der Musikalien](http://haab.weimar-klassik.de/Musikalienkatalog/){:target="_blank"}, die verloren gingen, befindet sich auf der Website der Bibliothek. Wir arbeiten daran, diese Informationen in die RISM Online-Datenbank zu integrieren.
 
 Bild: Das Grüne Schloss, das Herzog Anna Amalia 1761-66 als herzogliche Bibliothek im Spätbarock umbauen ließ. Hier die Südwestansicht im Jahre 2004 noch vor dem Brand. Foto aufgenommen von R.Möhler. Lizenziert unter [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/){:target="_blank"} via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gr%C3%BCnes_Schloss_%28Herzogin-Anna-Amalia-Bibliothek%29_in_Weimar.jpg?uselang=de){:target="_blank"}.
-

@@ -24,4 +24,3 @@ Thanks to Diskin and Serebrennikov's IAML presentation and the facsimile edition
 The St. Petersburg copy does seem to be the only surviving copy, and we hope that one day more will come to light.
 
 &nbsp;
-

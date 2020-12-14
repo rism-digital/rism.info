@@ -3,6 +3,7 @@ title: "Verein"
 layout: organization
 lang: de
 permalink: /organization/the-association.html
+old_url: http://www.rism.info/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html
 ---
 
 # Verein "Internationales Quellenlexikon der Musik"

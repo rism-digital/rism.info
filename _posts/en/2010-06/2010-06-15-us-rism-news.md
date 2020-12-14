@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_US-TelemannSeite1_dda1488dec.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/us-rism-news.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/66/article/64/us-rism-news.html
 email: linklat@fas.harvard.edu
 author: Christina Linklater
 ---
@@ -20,4 +20,3 @@ Contemporary copies of two pieces from the Baroque composer Johann Heinrich Butt
 An eighteenth-century copy of Georg Philipp Telemann's _Fugues légères et petits jeux à clavessin seul_ (TWV 30:21-26); call number: LM 5010b, RISM number: 900.007.908
 
 A nineteenth-century copy of a sonata by Carl Philipp Emanuel Bach (H. 20 in G major); call number: Ma21.Y11.Z91 (LM 5007b), RISM number: 900.007.545
-

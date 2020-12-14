@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Die Gesundheit des Königs, der ohnehin als Folge des andauernden Inzests in der
 Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an contact@rism.info oder senden Sie direkt eine Nachricht über den Katalogeintrag (das orangefarbene Icon neben der RISM-ID).
 
 Abbildungen aus _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Online verfügbar](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
-
-

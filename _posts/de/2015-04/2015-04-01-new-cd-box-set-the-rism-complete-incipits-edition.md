@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_CDs_01_3ac265972d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
 email: ''
 author: ''
 ---
@@ -54,5 +54,3 @@ Und das ist noch nicht alles! Wenn Sie noch heute betellen, erhalten Sie eine Bo
 Bestellen Sie jetzt bevor es zu spät ist! Benutzen Sie [dieses angenehme Bestellformular hier](https://opac.rism.info/search?id=452505866){:target="_blank"}.
 
 Auch erhältllich bei iTunes und Spotify.
-
-

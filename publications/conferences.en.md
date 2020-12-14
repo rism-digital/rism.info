@@ -3,6 +3,7 @@ layout: publications
 title: "PUBLICATIONS"
 lang: en
 permalink: /publications/conferences.html
+old_url: http://www.rism.info/en/publications/conferences.html
 ---
 
 The RISM Central Office organizes conferences from time to time. Please select from the following:

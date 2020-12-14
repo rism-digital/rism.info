@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Broschuere_Spanisch_bc0742d113.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-brochure-in-spanish-now-available.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/new-rism-brochure-in-spanish-now-available.html
 email: contact@rism.info
 author: ''
 ---
@@ -19,6 +19,3 @@ Gerne senden wir Ihnen auch ein oder mehrere Exemplare in gedruckter Form auf de
 Wir bedanken uns bei John Lazos für seine Übersetzung ins Spanische.
 
 Neben spanisch ist das RISM Kurzporträt auch in englisch, deutsch, traditionellem und vereinfachtem chinesisch sowie auf russisch verfügbar. Eine portugiesische Broschüre wird im nächsten Jahr erscheinen.
-
-
-

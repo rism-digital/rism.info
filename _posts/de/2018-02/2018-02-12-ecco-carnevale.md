@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ecco-carnevale.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/ecco-carnevale.html
 email: ''
 author: ''
 ---
@@ -35,5 +35,3 @@ Nachtrag zur Überschrift: _Ecco carnevale_ stammt übrigens von Pier Francesco 
 
 
 _Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
-
-

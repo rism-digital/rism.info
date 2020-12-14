@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-new-woman-composer-is-born.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/a-new-woman-composer-is-born.html
 email: ninaeichholz234@gmail.com
 author: Nina Eichholz
 ---
@@ -21,4 +21,3 @@ Die empfindsame, als Rondó geformte Arie Maria Carolinas ist das einzige bisher
 
 
 _Abbildung_: Maria Carolinas von Savoyen, "Per costume o mio bel nume," f. 1. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) D-Dl [Mus.1-F-49,12-12](http://digital.slub-dresden.de/id434532886){:target="_blank"}. RISM ID no. [212008692](https://opac.rism.info/search?id=212008692){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_ICCU_Krise_OPAC_df925a41aa.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Among the new records are also many for pieces by contemporary composers such as
 With this data import, we received 27,000 new personal names alone! Editing this data—which is happening independent of the manuscripts, and are already in the RISM catalog—will take some time. Around 4,600 names have already been processed.
 
 After this trial phase, we are aiming to publish data library by library, especially from larger data pools. RISM had more than 86,000 records for music manuscripts from 98 Italian libraries prior to the data import, and some of these are not yet in the SBN Musica catalog, but the records are available as [linked open data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"}.
-
-

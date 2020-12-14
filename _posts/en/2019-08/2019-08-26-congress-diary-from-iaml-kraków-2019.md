@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Krakow_Wawel_a5175c3ddb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/congress-diary-from-iaml-krakow-2019.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/congress-diary-from-iaml-krakow-2019.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ Biblioteka Jagiellońska
 Kraków Old Town
 Farewell Dinner entertainment
 _All photographs courtesy of Jennifer Ward._
-

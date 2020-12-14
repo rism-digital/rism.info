@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_BWV_248_Autograph_14255fe2fa.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/seasons-greetings.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/seasons-greetings.html
 email: ''
 author: ''
 ---

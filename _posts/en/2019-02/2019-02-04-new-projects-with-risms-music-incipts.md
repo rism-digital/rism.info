@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Externe_Incipit_Suchen_6607098cf9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-projects-with-risms-music-incipts.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/new-projects-with-risms-music-incipts.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ To close, a few articles from the field of music information retrieval (MIR) hav
 
 
 _Image: Sample search on musicalsources.org._
-
-

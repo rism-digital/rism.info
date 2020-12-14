@@ -23,4 +23,3 @@ For the fully described entries, the breadth and depth of the codicological and 
 _Image_: Ambrogio Brambilla, La Cappella Sistina (courtesy of the author)
 
 &nbsp;
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_RombergBernhard_1314d2b2f6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ Von dem umfangreichen Briefwechsel Rombergs werden etwa[70 Briefe](https://samml
 Zu der Sammlung Romberg der Universitätsbibliothek Münster zählen auch viele [Erst- und Frühdrucke](https://sammlungen.ulb.uni-muenster.de/ulbms/nav/classification/4180434){:target="_blank"} der Kompositionen von Andreas und Bernhard Romberg. 167 Titel werden auf deren Webseite aufgelistet.
 
 _Abbildung_: Bernhard Heinrich Romberg, _Le bal masqué_ für Cello und Orchester (Wien: Tobias Haslinger ca. 1836), [Universitäts- und Landesbibliothek Münster](https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4276781){:target="_blank"} (D-MÜu AA 932-1\_2; RISM ID no. [991008830](https://opac.rism.info/search?id=00000991008830&Language=en){:target="_blank"}).
-
-

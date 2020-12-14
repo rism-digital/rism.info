@@ -27,4 +27,3 @@ Die meisten dieser Werke sind Kammermusikwerke; 22 sind Orchesterwerke und eines
 _Abbildung_: Autograph von Brunettis _Sinfonie concertanti_ L. 330, C-Dur, [Library of Congress (US-Wc) ML96.B84](http://hdl.loc.gov/loc.music/musbrunetti.100000); [RISM ID no. 108547](https://opac.rism.info/search?id=108547&View=rism).
 
 &nbsp;
-

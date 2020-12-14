@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
@@ -27,4 +27,3 @@ Your browser does not support the audio element.
 </source></audio>
 
 _Image_: Gaetano Franzaroli, Arpeggio, G minor (from D-MÜs SANT Hs 1540, [RISM ID no. 451013954](https://opac.rism.info/search?id=451013954 "external-link-new-window"))
-

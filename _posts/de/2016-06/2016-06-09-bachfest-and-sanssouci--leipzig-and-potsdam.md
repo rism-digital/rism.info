@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
 email: ''
 author: ''
 ---

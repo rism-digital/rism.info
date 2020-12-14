@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitizing-materials-from-dresdens-royal-music-collections.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/digitizing-materials-from-dresdens-royal-music-collections.html
 email: Nina.Eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -18,5 +18,3 @@ Im Februar 2015 sind die ersten Manuskripte des DFG-Projekts "Hofkirche und Kön
 
 
 Im [RISM Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} sind die Digitalisate in der "Erweiterten Suche" zu recherchieren, und zwar mittels der auf unserer Website beschriebenenSelektierungsowie Auswahl von "nur Digitalisate" als "Dokumenttyp". Darüber hinaus erscheinen sie in den "[Digitalen Sammlungen](http://digital.slub-dresden.de/en/digital-collections/){:target="_blank"}" der [SLUB](http://hofmusik.slub-dresden.de/recherche/){:target="_blank"}, Kollektion "[Musikalien der Dresdner Hofkirche digital](http://digital.slub-dresden.de/kollektionen/128/){:target="_blank"}" bzw. "[Königliche Privat-Musikaliensammlung digital](http://digital.slub-dresden.de/kollektionen/115/){:target="_blank"}", wobei in diesen Kollektionen nicht nur Quellen des Projektzeitraums (Epoche der sächsisch-polnischen Union), sondern auch später entstandene Quellen aus der Katholischen Hofkirche beziehungsweise aus den Königlichen Privat-Musikaliensammlungen enthalten sind.
-
-

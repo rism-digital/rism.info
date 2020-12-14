@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Neuer_OPAC_2018_4b3dd3d042.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog-1.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/new-version-of-the-rism-online-catalog-1.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ Detailed guidance on these new features will soon appear on the catalog's help p
 
 Watch [this short video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} for an overview of the new features (_no sound until 0:29_):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-

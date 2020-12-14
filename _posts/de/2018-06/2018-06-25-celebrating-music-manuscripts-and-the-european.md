@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
 email: ''
 author: ''
 ---
@@ -46,5 +46,3 @@ Handschriften wie diese zeigen, wie gut die Idee des europäischen Kulturerbejah
 
 _Abbildung von der [Website](http://europa.eu/cultural-heritage/toolkits/logotype_en){:target="_blank"}_
 _des europäischen Kulturerbejahrs_
-
-

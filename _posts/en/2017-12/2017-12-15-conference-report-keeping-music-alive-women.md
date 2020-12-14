@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Ewha_2017_conference_report_group_227dbe9a5a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-report-keeping-music-alive-women-composers-in-digital-music-archives.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/conference-report-keeping-music-alive-women-composers-in-digital-music-archives.html
 email: hyunkchang@ewha.ac.kr
 author: Hyun Kyung Chae
 ---
@@ -81,4 +81,3 @@ The attendees of the conference were women scholars and composers from the U.S.,
 7: Conference poster
 
 _Photos courtesy of_ _Park Jeong Suk._
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_etlich_liedlein_nur_bild_247858f093.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/exhibit-in-the-bavarian-state-library-on-historic-tablatures.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Hier ein kurzes Video mit Hintergrundinformationen zum Digitalisierungsprojekt (
 
 
 _Abbildung_: _Bildmotiv des Plakats zur Kabinettpräsentation_
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Telemann_250_-_Marsch_aaf1492561.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-250th-anniversary-of-the-death-of-georg-philipp-telemann.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/the-250th-anniversary-of-the-death-of-georg-philipp-telemann.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Many of the manuscripts of Telemann’s works are accessible in digitized form; 
 _Image_: March (TWV 50:43), autograph, D-F Ms.Ff.Mus. 1588, (RISM ID no. [4500004844](https://opac.rism.info/search?id=450004844){:target="_blank"})
 
 _Translated by Vivian Tompkins (intern, summer 2017)._
-

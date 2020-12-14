@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_06_a7764d2790.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-digital-musicology-utrecht-2019.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/rism-and-digital-musicology-utrecht-2019.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Linking work information to an ontology that is standardized as much as possible
 The meeting offered a very successful framework for discussing current trends and allowing musicologists and developers the opportunity to talk about their current projects. Participants established a mailing list, ensuring that the dialogue will continue.
 
 _Stephan Hirsch, RISM IT manager_
-

@@ -3,6 +3,7 @@ title: "Editorial Center"
 layout: editorial-center
 lang: en
 permalink: /editorial-center.html
+old_url: http://www.rism.info/en/organisation/rism-zentralredaktion.html
 ---
 
 # RISM Editorial Center

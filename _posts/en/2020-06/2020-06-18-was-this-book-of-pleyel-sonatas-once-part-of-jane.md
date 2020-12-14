@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_pleyel_austen_music_00430bd055.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ You can also read some more background information by Kimber on the [Rita Benson
 
 
 _Image_: Cover and p. 23 of Pleyel's Sonata II in G, Allegro, which contains the handwritten reminder "Practice this." US-IO FOLIO M322 .P5 B.431-436 1800; [RISM ID no. 990051014](https://opac.rism.info/search?id=990051014&View=rism&Language=en){:target="_blank"}. [Available online](http://digital.lib.uiowa.edu/cdm/ref/collection/pleyel/id/4296){:target="_blank"} (public domain).
-

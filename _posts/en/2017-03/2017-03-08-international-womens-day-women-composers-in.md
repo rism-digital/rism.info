@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_International_Womens_Day_8bca1b1bc8.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-womens-day-women-composers-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/international-womens-day-women-composers-in-rism.html
 email: alexander.marxen@rism.info
 author: ''
 ---
@@ -71,4 +71,3 @@ p = after
 The full list can be [viewed here](https://docs.google.com/spreadsheets/d/1CsgG08vTu8wL8_K7EDNMlJ7QG904qEwy4vpkvrPBp6g/edit?usp=sharing){:target="_blank"}.
 
 This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info)
-

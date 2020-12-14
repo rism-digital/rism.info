@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---
@@ -26,5 +26,3 @@ Zur Sammlung gehören auch 33 Handschriften, kopiert von [Johann Friedrich Peter
 Ende des 18. Jahrhunderts und am Beginn des 19. Jahrhunderts wurden Musikdrucke in größerem Umfang nach Salem importiert; sie stammen von mindestens 38 Musikverlagen. Von einigen Ausnahmen abgesehen handelt es sich meist um Stimmen und seltener um Partituren. Viele aufführungspraktische Eintragungen sind ein Beleg dafür, dass die Noten aus benutzt wurden.
 
 _Abbildung_: Johann Ernst Bach, Sinfonie in B-Dur (Titelseite, erste Seite der 1. Violine). Moravian Music Foundation, Archie K. Davis Center, Winston-Salem, NC (US-WS) SCM 123. [RISM ID no. 240643](https://opac.rism.info/search?id=240643&View=rism){:target="_blank"}.
-
-

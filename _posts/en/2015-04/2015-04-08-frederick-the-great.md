@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Frederick_der_Grosse_01_d7d47ca716.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/frederick-the-great.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html
 email: ''
 author: ''
 ---
@@ -25,5 +25,3 @@ Below is a Flute Sonata in E minor, SpiF 154, performed by the Accademia Ottobon
 Photo credit: Adolph Menzel, Flute Concert with Frederick the Great in Sanssouci (1850-1852) via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AAdolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg){:target="_blank"}
 
 Center: Friedrich der Große; far right: [Johann Joachim Quantz](https://opac.rism.info/search?View=rism&author=Johann+Joachim+Quantz){:target="_blank"}, the king's flute teacher; left of him with violin in a long dark coat: [Franz Benda](https://opac.rism.info/search?View=rism&author=Franz+Benda){:target="_blank"}; far left in foreground: Gustav Adolf von Gotter; behind him: Jakob Friedrich Freiherr von Bielfeld; behind him, looking towards the ceiling: Pierre-Louis Moreau de Maupertuis; in the background sitting on the pink sofa: Wilhelmine von Bayreuth; to her right: [Amalie von Preußen](https://opac.rism.info/search?View=rism&author=Anna+Amalia+Prinzessin+von+Preu%C3%9Fen){:target="_blank"} with a court lady; behind them: [Carl Heinrich Graun](https://opac.rism.info/search?View=rism&author=Carl+Heinrich+Graun){:target="_blank"}; old woman behind the music stand: Gräfin Camas; behind her: Egmont von Chasôt; at the keyboard: [Carl Philipp Emanuel Bach](https://opac.rism.info/search?View=rism&author=Carl+Philipp+Emanuel+Bach){:target="_blank"}.
-
-

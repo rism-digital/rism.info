@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nachzueglerinnen_Komponistinnen_Teil_II_bddc348214.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/twelve-more-women-composers.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/twelve-more-women-composers.html
 email: ''
 author: ''
 ---
@@ -102,5 +102,3 @@ Biographical information about this composer is given in an issue of the popular
 “[Vater unser](https://opac.rism.info/search?id=1001008602&Language=en){:target="_blank"},” autograph manuscript (1840-1860).
 
 _Image_: S. M. Hutchinson, “La gloire de Napoleon,” ca. 1810 (RISM A/I: [HH 8040 I,1](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}). From the [Badische Landesbibliothek](https://digital.blb-karlsruhe.de/blbihd/content/pageview/512229){:target="_blank"}.
-
-

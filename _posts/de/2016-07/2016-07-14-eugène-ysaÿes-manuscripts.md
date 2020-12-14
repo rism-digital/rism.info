@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Ysaye_und_Bruessel_ee50e04932.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/eugene-ysayes-manuscripts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/eugene-ysayes-manuscripts.html
 email: ''
 author: ''
 ---
@@ -21,5 +21,3 @@ Eine weitere bedeutende [Eugène Ysaÿe Sammlung](http://www.juilliard.edu/stude
 
 _Abbildung_
 : Büste von Eugène Ysaÿe in seiner Geburtstadt Liège; Olnnu, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eug%C3%A8ne_Ysaye_a_Li%C3%A8ge.jpg){:target="_blank"}.
-
-

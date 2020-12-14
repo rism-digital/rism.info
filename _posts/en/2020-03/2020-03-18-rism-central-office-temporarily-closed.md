@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Christoph_Demantius_-_Corona_Harmonica_e186d80a86.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-central-office-temporarily-closed.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/rism-central-office-temporarily-closed.html
 email: contact@rism.info
 author: ''
 ---
@@ -21,4 +21,3 @@ _Updated 20 April 2020._
 
 
 _Image_: Christoph Demantius, _Corona harmonica_ (Leipzig, 1610). Leipziger Stadtbibliothek (D-LEm) II. 4. 28. [RISM ID no. 990013375](https://opac.rism.info/search?id=990013375&View=rism){:target="_blank"}. [Availbale online](http://digital.slub-dresden.de/id455638314){:target="_blank"}.
-

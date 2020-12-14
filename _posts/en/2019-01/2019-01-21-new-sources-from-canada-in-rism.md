@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-sources-from-canada-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/new-sources-from-canada-in-rism.html
 email: shawbecky1@gmail.com
 author: Becky Shaw
 ---
@@ -21,5 +21,3 @@ As part of this project, we also developed guidelines for transferring descripti
 
 
 _Image_: Heitor Villa-Lobos, _Concerto para piano e orquestra_ (1945), [RISM ID no.: 1001044620](https://opac.rism.info/search?id=1001044620&View=rism)
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Taiwan_Conference_44d24a6e80.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-conference-in-taiwan.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/rism-conference-in-taiwan.html
 email: ''
 author: ''
 ---
@@ -16,4 +16,3 @@ The 2015 Taipei Conference for a [Collaborative Project on Chinese Music Resourc
 Klaus Keil will give a presentation about RISM and will also hold a workshop on how to catalog musical sources using our Kallisto cataloging program. Our colleague Hyun Kyung Chae from [RISM South Korea](http://ewha.kor.rism.info/index.php?id=528) is also among the presenters.
 
 We are excited to have this opportunity to network with colleagues in Asia and are looking forward to fruitful collaboration with them.
-

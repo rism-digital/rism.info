@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_OPAC_Drucke_September_2019_8d5c8cf833.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/2019-upgrade-of-the-rism-catalog.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/2019-upgrade-of-the-rism-catalog.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Our international contributors are constantly improving the level of detail in t
 More improvements are planned over the next few months and we will keep you informed of the developments.
 
 _Image_: Joseph Haydn, _Die sieben letzten Worte unseres Erlösers am Kreuze_ (Leipzig, 1801), [RISM ID no. 990026684](https://opac.rism.info/search?id=990026684&View=rism&Language=en){:target="_blank"}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), D-Dl Mus.3356.D.506. [Available online](http://digital.slub-dresden.de/id477566804){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/insights-into-the-collections-of-the-heiligenkreuz-monastery-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/insights-into-the-collections-of-the-heiligenkreuz-monastery-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
@@ -26,4 +26,3 @@ Freitag, 26. Okt. 2018, 15:00 Uhr im Kaisersaal des Stiftes Heiligenkreuz/Nieder
 
 
 Die reichhaltigen Bestände des Stiftes Heiligenkreuz ([A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE){:target="_blank"}) sind auch in der RISM-Datenbank erfasst und online recherchierbar.
-

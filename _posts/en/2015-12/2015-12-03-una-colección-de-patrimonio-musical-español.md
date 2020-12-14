@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Patromonio_musical_espanol_9241af500a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/una-coleccion-de-patrimonio-musical-espanol.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/una-coleccion-de-patrimonio-musical-espanol.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Launched in 2015,**[Una colección de patrimonio musical español/Una col·lecci
 The site can be navigated in Spanish, Catalan, or English; searches may be organized by source, location, researcher, informant, genre, or title. Audio files of the melodies will eventually be added.
 
 Above, notation for the instrumental tune_Paciendo el rebaño_; the full record, which includes other visual materials, is[here](http://musicatradicional.eu/es/piece/10402).
-

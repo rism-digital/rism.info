@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Lautentabulatur_Kirsch_Braunschweig04_6502ace6fb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-previously-unknown-lute-tablature.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/a-previously-unknown-lute-tablature.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Dr. Helmut Lauterwasser
 ---
@@ -40,4 +40,3 @@ E-mail: : stadtbibliothek[at]braunschweig.de
 Telephone: +49 (0) 531 470-6835.
 
 Image of C 39 2° courtesy of the Stadtbibliothek Braunschweig, published with kind permission.
-

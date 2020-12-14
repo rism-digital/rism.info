@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Needler_Hester_e14b18b521.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hester-needler.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/hester-needler.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ The manuscript Add. 5053 at the British Library contains autograph anthems that 
 The [manuscripts Needler owned](https://opac.rism.info/search?View=rism&q=hester+needler&siglum=GB-Lbl){:target="_blank"} were copied by her husband and include music found in manuscripts at the Christ Church and Bodleian libraries in Oxford as well as music presumably copied from printed editions. The music contained in these copies would have been appropriate repertoire for the Academy of Ancient Music: music by Palestrina, Victoria, and other representatives of polyphonic vocal music from the sixteenth and seventeenth centuries (mainly Add. 5036-5043). The 10 volumes left to Hester, along with 17 other volumes Henry copied, are all in the British Library and paint a picture of [the Academy's activities at the time](https://books.google.de/books?id=gxcABQAAQBAJ&lpg=PA4&dq=%22academy%20of%20ancient%20music%22&hl=de&pg=PA21#v=snippet&q=%22a%20colossal%20twenty-seven%20volumes%22&f=false){:target="_blank"}.
 
 _Image_ : Drawing of Montagu House, the old British Museum, by Michael Angelo Rooker (1746 - 1801), 1778. From the [British Museum Collection Online](http://www.britishmuseum.org/research/collection_online/search.aspx){:target="_blank"}, Museum number 1868,0328.334 ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}).
-

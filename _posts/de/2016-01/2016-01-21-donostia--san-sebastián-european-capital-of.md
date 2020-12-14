@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Donostia_Sarriegi_-Carnaval_de_San_Sebastian_23b9a186b0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/donostia-san-sebastian-european-capital-of-culture-2016.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/donostia-san-sebastian-european-capital-of-culture-2016.html
 email: jbagues@eresbil.com
 author: ERESBIL-Basque Archives of Music
 ---
@@ -26,4 +26,3 @@ _Hier hören Sie Mateo Albénizs_ Sonata en D _gespielt von Paco Cánovas._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxIU6WBXFkU" frameborder="0" allowfullscreen></iframe>
 
 _Abbildung_: Sarriegi - Musik für Karneval, 1898 veröffentlicht. Mit freundlicher Genehmigung des ERESBIL-Basque Archives of Music.
-

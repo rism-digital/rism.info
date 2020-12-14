@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/version-40-of-weber-complete-edition-digital-edition-published.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/version-40-of-weber-complete-edition-digital-edition-published.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ From the technical side, the site's responsive web design was improved so that t
 From the content side, Weber's own work lists have been integrated. Furthermore, some previously unknown letters have been newly incorporated and many records for people, letters, and writings have now been added.
 
 A [description of all of the new features](https://weber-gesamtausgabe.de/de/A009001/Aktuelles/A050218.html){:target="_blank"} can be found on the project page.
-

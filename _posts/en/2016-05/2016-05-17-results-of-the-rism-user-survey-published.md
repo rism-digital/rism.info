@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Blumen_8ef8eabd25.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-survey-published.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/results-of-the-rism-user-survey-published.html
 email: contact@rism.info
 author: ''
 ---
@@ -24,5 +24,3 @@ We learned more about who you are, dear catalog users, and what your experiences
 We would like to thank everyone who took the time to fill out the survey. If you ever have any questions or comments about RISM or this survey, please do not hesitate to get in touch with us: [contact@rism.info](mailto:contact@rism.info).
 
 _Image: Recueil d'Airs sérieux et à boire de différents auteurs_, Chez Christophe Ballard (A Paris), 1713, p.20. Via [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k856381j#){:target="_blank"}. RISM B/II: p.313.
-
-

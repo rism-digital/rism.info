@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2018_9ee996c7b2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2018.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/looking-back-on-2018.html
 email: ''
 author: ''
 ---
@@ -56,4 +56,3 @@ Wir möchten unseren treuen Lesern und Unterstützern das ganze Jahr hindurch f�
 
 
 _Abbildung_: Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-47c3-a3d9-e040-e00a18064a99){:target="_blank"}.
-

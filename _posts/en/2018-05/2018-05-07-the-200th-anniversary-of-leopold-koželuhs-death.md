@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ The three-act opera _Gustav Vasa_ "explores the important event in the history o
 Gustav Vasa (1496-1560) freed Sweden from the rule of the King Christian of Denmark. Two strong women, Gustav Vasa's mother Cecilia and his sister Margareta, also play an important role in the opera and determine the course of events. The performance from 10 March 2018 can be [viewed online](https://areena.yle.fi/1-4313561){:target="_blank"} (the music starts at 8:38). The [German-language libretto](https://yle.fi/tiedotusradio1/Gustav_Wasa_korrigiert_yle.pdf){:target="_blank"} is also online.
 
 _Image_: Portrait of Leopold Koželuh by W. Ridley, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kozeluh349.jpg){:target="_blank"}.
-
-

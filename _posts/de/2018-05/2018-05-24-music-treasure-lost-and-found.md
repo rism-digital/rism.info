@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-treasure-lost-and-found.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/music-treasure-lost-and-found.html
 email: ''
 author: Caroline Shaw
 ---
@@ -33,5 +33,3 @@ Caroline Shaw, Music Processing and Cataloguing Team Manager
 31. Mai 2017
 
 Basierend auf einer Präsentation von James Clements (2004) mit Informationen aus: Alec Hyatt King, _Printed music in the British Museum_ (London, 1979). YA.1997.a.10519
-
-

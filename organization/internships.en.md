@@ -3,6 +3,7 @@ title: "Internships"
 layout: organization
 lang: en
 permalink: /organization/internships.html
+old_url: http://www.rism.info/organisation/internships.html
 ---
 
 # Internships at the RISM Central Office

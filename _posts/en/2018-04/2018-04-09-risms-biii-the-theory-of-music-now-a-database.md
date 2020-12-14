@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Meyer_RISM_B_III_Einsiedeln_79_p12_fbcc8ed540.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/risms-biii-the-theory-of-music-now-a-database.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/risms-biii-the-theory-of-music-now-a-database.html
 email: chr.meyer@wanadoo.fr
 author: Christian Meyer
 ---
@@ -22,4 +22,3 @@ See also Christian Meyer, "[RISM B III : Les sources manuscrites de la théorie 
 _Image_: _Musica enchiriadis_ (10th century), p. 12. Einsiedeln Stiftsbibliothek (CH-E), Codex 79(522). [Available online](http://www.e-codices.unifr.ch/en/list/one/sbe/0079){:target="_blank"} (CC-BY).
 
 Update, 13 April 2018: [Information in Spanish](https://ferranescrivallorca.com/blog/2018/04/12/nueva-base-de-datos-de-risms-b-iii-teoria-de-la-musica/){:target="_blank"}
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_Update_B1_70c2221de6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/revising-records-for-post-1600-printed-anthologies-there-is-an-end-in-sight.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/revising-records-for-post-1600-printed-anthologies-there-is-an-end-in-sight.html
 email: contact@rism.info
 author: ''
 ---
@@ -22,4 +22,3 @@ Any information about errors, copies we don’t have, or important secondary lit
 _Image_: Adriaen Valerius,_Neder-Landtsche Gedenck-Clanck_ (Haarlem, 1626). A/I: V 147, B/1 1626|14. [RISM ID no. 990065182](https://opac.rism.info/search?id=990065182&View=rism){:target="_blank"}. Universiteitsbibliotheek Gent (B-Gu) BHSL.RES.0673. [Available online](https://lib.ugent.be/catalog/ggc01:394462181){:target="_blank"}.
 [
 ](https://lib.ugent.be/catalog/ggc01:394462181)
-

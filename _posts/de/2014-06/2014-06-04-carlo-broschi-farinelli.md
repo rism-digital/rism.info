@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Broschi_Farinelli___Metastasio_d4813e79c3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/carlo-broschi-farinelli.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/58/article/64/carlo-broschi-farinelli.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ Literatur: Ellen T. Harris, New Grove (2001).
 
 Bild: Jacopo Amigoni, Il cantante Farinelli con amici, ca. 1750–1752
 From left to right: Metastasio, the singer Teresa Castellini, Farinelli, the painter himself, Farinelli's dog, Farinelli's page boy; the score is "Vi conosco amate stelle" from Metastasio's _[Zenobia](https://opac.rism.info/metaopac/search.do?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&refine=false&searchCategories%5B0%5D=-1&searchString%5B0%5D=&combinationOperator%5B1%5D=AND&searchCategories%5B1%5D=200&searchString%5B1%5D=Zenobia+&combinationOperator%5B2%5D=AND&searchCategories%5B2%5D=100&searchString%5B2%5D=Latilla+&combinationOperator%5B3%5D=AND&searchCategories%5B3%5D=6015&searchString%5B3%5D=&submitButtonCall_submitSearch=Suchen&searchRestrictionValue1%5B0%5D=&searchRestrictionID%5B0%5D=14&searchRestrictionValue1%5B1%5D=&searchRestrictionID%5B1%5D=13){:target="_blank"}_ in a musical setting by [Gaetano Latilla](https://opac.rism.info/metaopac/search.do?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&refine=false&searchCategories%5B0%5D=100&searchString%5B0%5D=Gaetano+Latilla&combinationOperator%5B1%5D=AND&searchCategories%5B1%5D=200&searchString%5B1%5D=&combinationOperator%5B2%5D=AND&searchCategories%5B2%5D=100&searchString%5B2%5D=&combinationOperator%5B3%5D=AND&searchCategories%5B3%5D=6015&searchString%5B3%5D=&searchHistoryCombinationOperator=AND&searchHistory=&submitButtonCall_submitSearch=Suchen&searchRestrictionValue1%5B0%5D=&searchRestrictionID%5B0%5D=14&searchRestrictionValue1%5B1%5D=&searchRestrictionID%5B1%5D=13){:target="_blank"} (1711–1788). Quelle: [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AFarinelli%2BMetastasio.png){:target="_blank"}
-

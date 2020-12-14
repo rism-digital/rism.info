@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Polen_56a7071878.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/iaml-poland-celebrates-50-years.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/iaml-poland-celebrates-50-years.html
 email: ''
 author: ''
 ---
@@ -17,4 +17,3 @@ Auf die nächsten fünfzig Jahre!
 Das RISM-Team der Zentralredaktion in Frankfurt am Main
 
 Guido Kraus und der Leiter der RISM Zentralredaktion Klaus Keil haben ihre Glückwünsche auf der [IAML Webseite](http://www.iaml.info/en/node/1168/){:target="_blank"} gepostet.
-

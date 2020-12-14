@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Needler_Hester_e14b18b521.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/hester-needler.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/hester-needler.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Die Handschrift Add. 5053 in der British Library enthält die einzig bekannten a
 Die [Manuskripte, die Needler besaß](https://opac.rism.info/search?View=rism&q=hester+needler&siglum=GB-Lbl){:target="_blank"}, wurden von ihrem Mann abgeschrieben und enthallten Musik, die auch in den Oxforder Bibliotheken von Christ Church und Bodleian als Handschrift oder Notendruck vorhanden waren. Die in diesen Abschriften enthaltenen Werke entsprechen dem Repertoire der Academy of Ancient Music: Kompositionen von Palestrina, Victoria und anderen Vertretern der polyphonen Vokalmusik des 16. und 17. Jahrhunderts (siehe Add. 5036-5043). Die 10 von Hester überlieferten Bände und die 17 von Henry kopierten Bänden, liegen alle in der British Library und spiegeln die [Aktivitäten der Academy der Zeit](https://books.google.de/books?id=gxcABQAAQBAJ&lpg=PA4&dq=%22academy%20of%20ancient%20music%22&hl=de&pg=PA21#v=snippet&q=%22a%20colossal%20twenty-seven%20volumes%22&f=false){:target="_blank"} wider.
 
 _Abbildung_ : Das Montagu House - das alte British Museum - von Michael Angelo Rooker (1746-1801), 1778. Aus [British Museum Collection Online](http://www.britishmuseum.org/research/collection_online/search.aspx){:target="_blank"}, Museum number 1868,0328.334 ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}).
-
-

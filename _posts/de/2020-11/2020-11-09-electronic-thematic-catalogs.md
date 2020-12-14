@@ -24,4 +24,3 @@ Unsere Liste der elektronischen Werkverzeichnisse [kann hier eingesehen und heru
 _Abbildung_: Seite aus Nikolaus Langs Katalog der Werke von Michael Haydn. Bayerische Staatsbibliothek Mus.ms. 2989, p. 2. [Online verfügbar](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00083795-4) ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)).
 
 &nbsp;
-

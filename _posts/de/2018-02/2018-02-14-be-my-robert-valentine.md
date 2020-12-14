@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/be-my-robert-valentine.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/be-my-robert-valentine.html
 email: ''
 author: ''
 ---

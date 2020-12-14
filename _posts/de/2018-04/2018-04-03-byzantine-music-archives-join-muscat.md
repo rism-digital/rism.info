@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Byzantine_Music_Archives_join_MUSCAT_Seite_2_42a9f3f6c7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/byzantine-music-archives-join-muscat.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/byzantine-music-archives-join-muscat.html
 email: arsinoi_i@hotmail.com
 author: Arsinoi Ioannidou
 ---
@@ -22,5 +22,3 @@ Ziel des Projektes ist es, alle byzantinischen musikspezifischen Metadaten so ge
 Die griechische Arbeitsgruppe arbeitet eng mit der RISM-Zentralredaktion (Jennifer Ward) und den Muscat-Entwicklern (Lauren Pugin) zusammen, so dass die zukünftige Anpassung von Muscat ein optimales Niveau der Darstellung von byzantinischer Musik ermöglicht. Sie konzentriert sich vor allem darauf, dass alle Beteiligte die Bedeutung des Projektes und seine weitreichenden positiven Auswirkungen für andere Musikprojekte - mit oder ohne Muscat - verstehen.
 
 _Abbildung_: Nikolaos Mavropoulos, _Ἄξιόν ἐστιν ὡς ἀληθῶς μακαρίζειν σε τὴν Θεοτόκον_, p. 1, School of Musical Studies, Aristotelian University of Thessaloniki, Library (GR-THms) [LMS NM 1](http://sophia.mus.auth.gr/xmlui/handle/123456789/867){:target="_blank"}. RISM ID no. [1001034415](https://opac.rism.info/search?id=1001034415){:target="_blank"}.
-
-

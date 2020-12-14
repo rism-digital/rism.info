@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-on-a-lark.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/rism-on-a-lark.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ Mendelssohns Lied erscheint auch an [anderer Stelle bei](https://opac.rism.info/
 Begeben Sie sich doch selbst in unserem Online-Katalog auf die Suche nach der Lerche, egal, ob als [skylark](https://opac.rism.info/search?View=rism&q=skylark){:target="_blank"}, [woodlark](https://opac.rism.info/search?View=rism&q=woodlark){:target="_blank"}, [lark](https://opac.rism.info/search?View=rism&q=lark){:target="_blank"}, [Lerche](https://opac.rism.info/search?View=rism&q=Lerche){:target="_blank"} oder [alouette](https://opac.rism.info/search?View=rism&q=alouette "external-link-new-window").
 
 _Abbildungsnachweis_: Seite 5 von Felix Mendelssohn Bartholdys Autograph des "Lerchengesang" Staatsbibliothek zu Berlin - PK (D-B) 55 MS 61 ([RISM ID no. 460006100](https://opac.rism.info/search?id=460006100&View=rism){:target="_blank"}).  [resolver.staatsbibliothek-berlin.de/SBB00001F8800000000](http://resolver.staatsbibliothek-berlin.de/SBB00001F8800000000)
-
-

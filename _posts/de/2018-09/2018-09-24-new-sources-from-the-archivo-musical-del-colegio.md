@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Vizcainas_Lazos_2018_Herbst_1_3c45d0c50c.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-sources-from-the-archivo-musical-del-colegio-de-vizcainas-mexico.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/new-sources-from-the-archivo-musical-del-colegio-de-vizcainas-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---
@@ -22,5 +22,3 @@ Erstes Foto: Dr. Lazos und Studenten der Facultad de Música de la Universidad d
 Zweites Foto: Die erste Abteilung, sechs Kästen und eine _legajo_ - bereits katalogisiert - aus Vizcainas.
 
 _Abbildungen mit freundlicher Genehmigung von John Lazos._
-
-

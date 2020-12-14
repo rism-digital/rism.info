@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/no-siglum-no-problem.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/no-siglum-no-problem.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ Wenn Sie uns darum bitten, ein neues Sigel zu erstellen, bereichern Sie unsere D
 
 
 2014 wurden 189 neue Bibliothekssigel für Länder in Europa, Nordamerika und Asien erstellt. Die Anfragen kamen von unseren RISM-Mitarbeitern, die die musikalischen Quellen in neuen Institutionen katalogisieren und Forschern, die eine Institution für ihre Veröffentlichung angeben müssen.
-

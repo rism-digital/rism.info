@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Polen_Titel_nach_2017_fc909847db.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-sources-in-rism-since-2017.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/polish-sources-in-rism-since-2017.html
 email: ''
 author: ''
 ---
@@ -52,4 +52,3 @@ Viele Bestände befinden sich noch in Arbeit. Es lohnt sich also immer wieder ei
 
 
 _Image_: Poland in the European Union on the globe via [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg/1200px-Poland_in_the_European_Union_on_the_globe_%28Europe_centered%29.svg.png){:target="_blank"}
-

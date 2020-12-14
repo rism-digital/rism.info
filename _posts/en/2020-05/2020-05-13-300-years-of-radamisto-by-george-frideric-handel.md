@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/300-years-of-radamisto-by-george-frideric-handel.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/300-years-of-radamisto-by-george-frideric-handel.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Handel’s music consists of an overture in the French style and, depending on t
 
 
 _Image_: Page from a score of the aria "Son lievi le catene," Lund, Universitetsbiblioteket (S-L) Engelhart 40, [RISM ID no. 190002687](https://opac.rism.info/search?id=190002687&View=rism&Language=en){:target="_blank"}. [Available online](https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:283654){:target="_blank"} (public domain).
-
-

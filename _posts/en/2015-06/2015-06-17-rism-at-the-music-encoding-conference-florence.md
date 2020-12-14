@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_MEI-Konferenz_6d2457a1e8.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-music-encoding-conference-florence-italy.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/rism-at-the-music-encoding-conference-florence-italy.html
 email: jennifer.ward@rism.info
 author: Jennifer Ward
 ---
@@ -46,5 +46,3 @@ A browser-based MEI editor (Andrew Horwitz, Andrew Hankinson, Ichiro Fujinaga)
 
 
 The next conference will be held at McGill University in 2016. Discussion about MEI takes place throughout the year on the [mailing list, MEI-L](http://music-encoding.org/community/mailing-list/){:target="_blank"}.
-
-

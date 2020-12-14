@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_03_3a0acca260.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/call-for-papers-workshopconference-on-the-work-level-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/call-for-papers-workshopconference-on-the-work-level-in-rism.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Wenn Sie hierzu einen Beitrag in Form einer Präsentation oder eines Vortrags le
 Die Konferenz wird in der Akademie der Wissenschaften und der Literatur in Mainz, vom 09. bis 11. Mai 2019 stattfinden. RISM wird sich bemühen, den Vortragenden eine Beihilfe zu den Fahrtkosten zu ermöglichen.
 
 Aktuelle Informationen werden auf der [Konferenz-Webseite](/publications/conferences/work-level-2019.html) veröffentlicht.
-

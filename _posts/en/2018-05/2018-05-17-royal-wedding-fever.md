@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/royal-wedding-fever.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/royal-wedding-fever.html
 email: ''
 author: ''
 ---
@@ -37,5 +37,3 @@ We will leave you with the brilliant Toccata by Charles-Marie Widor–played by 
 
 
 _Image_: Christoph Graupner, "Bei Pauken und Trompeten," autograph manuscript, 1748, Universitäts- und Landesbibliothek Darmstadt (D-DS), shelfmark Mus.ms 416/17. [RISM ID no. 450005709](https://opac.rism.info/search?id=450005709){:target="_blank"}. [Available online](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-416-17/0004){:target="_blank"} (CC-0). With help from [PhotoFunny.net](https://www.photofunny.net/out/615269829531550542){:target="_blank"}.
-
-

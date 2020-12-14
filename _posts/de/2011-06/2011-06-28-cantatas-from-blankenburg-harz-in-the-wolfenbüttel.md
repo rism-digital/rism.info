@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_BLAbk1_004_01_72f1f378d2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cantatas-from-blankenburg-harz-in-the-wolfenbuettel-regional-church-archives.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/64/article/64/cantatas-from-blankenburg-harz-in-the-wolfenbuettel-regional-church-archives.html
 email: ''
 author: ''
 ---

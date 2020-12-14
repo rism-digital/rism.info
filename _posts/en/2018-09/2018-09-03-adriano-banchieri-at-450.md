@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/adriano-banchieri-at-450.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/adriano-banchieri-at-450.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ His first printed music editions were published beginning in 1596. Banchieri is 
 The [239 records in the RISM catalog](https://opac.rism.info/search?View=rism&author=Banchieri+Adriano){:target="_blank"} show the distribution of the sources today, which is more or less limited to Italian and German libraries. Thirteen of the editions can be viewed online.
 
 _Image_: Title page to _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; [RISM ID no. 990003769](https://opac.rism.info/search?id=00000990003769&View=rism&Language=en){:target="_blank"}).
-
-

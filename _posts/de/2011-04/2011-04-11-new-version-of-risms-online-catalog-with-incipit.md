@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Incipit_engl_2_beige_1003bd7c07.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-version-of-risms-online-catalog-with-incipit-search-released.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/64/article/64/new-version-of-risms-online-catalog-with-incipit-search-released.html
 email: Klaus.Keil@RISM.info
 author: Klaus Keil
 ---

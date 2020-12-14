@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Opern-Premieren_-_Haydn_d2186a1ed9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/five-opera-premieres-to-look-forward-to-in-may.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/five-opera-premieres-to-look-forward-to-in-may.html
 email: ''
 author: ''
 ---
@@ -44,5 +44,3 @@ Autograph sketches in Munich (RISM ID no. [456082202](https://opac.rism.info/sea
 A comprehensive collection of autograph sketches to the opera _Sly_ by Ermanno Wolf-Ferrari (1876-1948) can be found today at the Bayerische Staatsbibliothek in Munich (D-Mbs). The differences between the sketches and the final version give insight into the compositional process.
 
 _Image_: Haydn, "Quel tuo visetto amabile." London, Edinburgh, Corri, Dussek & Co. Music Division of the New York Public Library for the Performing Arts (US-NYp), Drexel 4810.19.RISM A/I: [H 2573](https://opac.rism.info/search?id=00000990026737){:target="_blank"}. Via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:%22Quel_cor_umano_e_tenero%22_-_insertion_aria_composed_by_Joseph_Haydn.jpg){:target="_blank"}.
-
-

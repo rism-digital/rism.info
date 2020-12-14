@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Schubert_online_01_9a6a396202.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/schubert-autograph-music-manuscripts-in-schubert-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/schubert-autograph-music-manuscripts-in-schubert-online.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ _Abbildung:_ Franz Schubert: Erlkönig, D 328. Autographe Reinschrift im Liederh
 
 
 _Teile des Textes wurden mit freundlicher Genehmigung von der[Schubert Online Projektseite](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"} der SBB übernommen._
-

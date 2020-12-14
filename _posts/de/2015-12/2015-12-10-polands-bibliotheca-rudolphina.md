@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rudolphina_310c96dcbf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polands-bibliotheca-rudolphina.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/polands-bibliotheca-rudolphina.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Beginn ist jeweils um 18:00 Uhr.
 
 
 Abbildung: George Rudolf von Liegnitz (1595-1653), Grabmedaille from 1653, von Matejpavel1, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Rudolf_Lehnick%C3%BD_z_B%C5%99ehu_1653_av.jpg){:target="_blank"}
-
-

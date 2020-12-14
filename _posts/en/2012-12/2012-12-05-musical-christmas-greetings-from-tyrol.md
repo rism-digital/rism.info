@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_MissaPastoralis_Tirol_e95572532d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-christmas-greetings-from-tyrol.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/musical-christmas-greetings-from-tyrol.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

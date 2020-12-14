@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/arias-from-st-petersburg.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ A copy of Domenico Cimarosa's aria “Agitata in tante pene” from _La Vergine 
 Not as well known are the settings by [Hermann Raupach](https://opac.rism.info/search?View=rism&author=Raupach+Hermann){:target="_blank"} (1728-1778), who was assistant harpsichordist at the St. Petersburg court orchestra starting in 1755 and succeeded Francesco Araja as maestro di cappella in 1759. Other arias – apart from the ones on the CD – from his opera _Siroe_ can be found today in Belgium and Sweden.
 
 Photo credit: [Mariinsky.ru](http://www.mariinsky.ru/en/about/history_theatre/mariinsky_theatre/): The Mariinsky Theatre prior to reconstruction in 1885, designed by the architect Alberto Cavos
-

@@ -22,4 +22,3 @@ Die Suche funktioniert am besten, wenn Sie einen konkreten Gegenstand haben, nac
 Der gesamte RISM-Datenbestand (Datensätze und entsprechende Normdateien) ist als Open Data und Linked Open Data verfügbar und kann über die [Schnittstellensseite des RISM-Katalogs](https://opac.rism.info/de/hauptmenu/kachelmenu/schnittstellen) heruntergeladen werden. Auf die Daten kann auch über den [SRU-Server](https://github.com/rism-ch/muscat/wiki/SRU) zugegriffen werden. Die RISM-Daten können unter einer [Creative-Commons-Lizenz CC-BY](http://creativecommons.org/licenses/by/3.0/) frei verwendet werden. Anfang dieses Jahres berichteten wir, dass der [RISM-Datenbestand dem re3data-Repository](/self_representation/2020/04/06/rism-in-re3data.html)hinzugefügt wurde. Wir freuen uns, dass unsere Daten weiterhin in anderen Kontexten verwendet werden.
 
 &nbsp;
-

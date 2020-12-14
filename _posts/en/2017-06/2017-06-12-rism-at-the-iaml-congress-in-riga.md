@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_riga_IAML_2017_76157193c2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-riga.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/rism-at-the-iaml-congress-in-riga.html
 email: contact@rism.info
 author: ''
 ---
@@ -52,5 +52,3 @@ Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
 14.00-15.30, Commission Mixte (closed)
 Chair: John Roberts (Member of the RISM board)
-
-

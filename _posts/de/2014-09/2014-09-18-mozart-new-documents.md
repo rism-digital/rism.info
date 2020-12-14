@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Mozart_New_Documents_0900ead507.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mozart-new-documents.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/mozart-new-documents.html
 email: dexedge@gmail.com
 author: ''
 ---
@@ -28,4 +28,3 @@ URLs:
 Bild: Bericht über die Premiere von _Le nozze di Figaro, Münchner Staats=gelehrte und vermischte Nachrichten aus Journalen, Zeitungen, und Correspondenzen_ (= _Münchner_ Zeitung_)_, no. 73, Dienstag 9. Mai 1786
 
 [https://sites.google.com/site/mozartdocuments/documents/1786-05-03](https://sites.google.com/site/mozartdocuments/documents/1786-05-03)
-

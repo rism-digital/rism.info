@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Liturg._Feste_Foto_5_bfb6e05677.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ In der Klosterkirche sind drei liturgische Feste als Deckengemälde dargestellt.
 Wie finde ich aber diese Feste im RISM Online-Katalog? Die liturgischen Feste sind in der Regel in lateinischer Sprache verfasst. Sie sind nach dem Vorbild des Festeregisters im _Liber Usualis_ angelegt. Aus Gründen der Übersichtlichkeit des Suchindexes und einer leichteren Suchbarkeit sind die Kreuzesfeste unter dem Stichwort „Crux“ im Nominativ abgelegt. Die Begriffe „Inventio“ für die Auffindung des Kreuzes und „Exaltatio“ für die Erhöhung des Kreuzes sind jeweils durch ein Komma getrennt angehängt. Die Stigmatisation des heiligen Franz ist unter seinem lateinischen Namen im Genitiv zu finden: in diesem Falle unter „Francisci Confessoris“. Durch ein Komma abgetrennt ist die Beschreibung „Impressionis Sacrorum Stigmatum in Corpore“ angehängt. Probieren Sie die Suche nach diesen liturgischen Festen einfach in unserem RISM [Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2){:target="_blank"} aus und finden die passenden Musikquellen dazu.
 
 _Alle Fotos von Guido Kraus. Übersetzung von Vivian Tompkins (Praktikantin der RISM Zentralredaktion, Sommer 2017)._
-

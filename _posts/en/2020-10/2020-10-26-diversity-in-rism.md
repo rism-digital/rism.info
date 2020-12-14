@@ -45,4 +45,3 @@ The above list is doubtless incomplete, and we would be happy to hear about addi
   
   
 _Image_: Cover to the "Libro Sesto" with Maria Antonia Palacios's name written on it. Biblioteca Nacional de Chile (RCH-Sbnc) jp/o/20140924 ([RISM ID no. 390000001](https://opac.rism.info/search?id=390000001&View=rism)).
-

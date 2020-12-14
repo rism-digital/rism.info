@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Hewitt_250_constitution_c0e5ad4475.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/james-hewitt-at-250.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/james-hewitt-at-250.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Yet it is in his own compositions that Hewitt seems to embrace the character of 
 The [works of James Hewitt](https://opac.rism.info/search?View=rism&author=hewitt+james&Language=en){:target="_blank"} are only incompletely in RISM, most of them printed editions. Though he wrote [as many as 92 vocal and 75 instrumental works](https://books.google.de/books?id=NeVl_rsKhwsC&lpg=PP1&ots=1ZsN03qMZq&dq=%22James%20Hewitt%3A%20Selected%20Compositions.%22&hl=de&pg=PR7#v=onepage&q=%22James%20Hewitt:%20Selected%20Compositions.%22&f=false){:target="_blank"}, Hewitt's birth year of 1770 falls right at the cutoff point for the [original A/I project](/publications.html#c36) that documented printed music. As our contributors [add more music from the 19th century](/new_at_rism/2020/03/12/rism-and-beethoven-and-the-19th-century.html){:target="_blank"}, we can look forward to more printed music from that time in RISM, and to rounding out Hewitt's musical offspring: pianist Sophia Henrietta Emma Hewitt (1799–1845), composer [John Hill Hewitt](https://opac.rism.info/search?View=rism&q=John+Hill+Hewitt&Language=en){:target="_blank"} (1801-1890), publisher James Lang Hewitt (1803–1853), and composer George Washington Hewitt (1811–1893).
 
 Image: First page of James Hewitt's "The Federal Constitution & Liberty Forever," 1798. US-PIlevy Box 002, Item 011. [RISM ID no. 991020567](https://opac.rism.info/search?id=991020567&View=rism&Language=en){:target="_blank"}. Courtesy Lester Levy Sheet Music Collection, [The Sheridan Libraries](https://www.library.jhu.edu/){:target="_blank"}, Johns Hopkins University. [Available online](https://levysheetmusic.mse.jhu.edu/collection/002/011){:target="_blank"} (public domain).
-
-

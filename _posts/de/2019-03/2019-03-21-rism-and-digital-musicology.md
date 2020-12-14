@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-digital-musicology.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/rism-and-digital-musicology.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Die neueste Ausgabe des _International Journal on Digital Libraries_ ist ein Spe
 In dieser Sonderausgabe schreiben [die Gastherausgeber Kevin R. Page und J. Stephen Downie,](https://doi.org/10.1007/s00799-019-00268-1){:target="_blank"} dass es dringend notwendig ist, "die verschiedenen Formen der Musik, die Verbindungen zwischen ihnen und dem umgebenden wissenschaftlichen Kontext gezielt mit rechnergestützten Methoden, die auf die Musikwissenschaft und die weiteren digitalen Geisteswissenschaften angewendet werden, zu unterstützen." Wir hoffen, dass RISM in diesem Bereich eine Rolle spielen kann.
 
 In unserem Aufsatz, der seit 2017 (in einer Vorausgabe) online zur Verfügung steht, beschreiben wir, in welcher Form die RISM-Daten verfügbar sind und geben Beispiele für ihre Verwendung außerhalb von RISM. Wir sind immer daran interessiert, von Fällen zu erfahren, in denen RISM-Daten wiederverwendet werden.Lassen Sie uns bitte wissen, ob, wann und wie Sie sie verwenden.
-
-

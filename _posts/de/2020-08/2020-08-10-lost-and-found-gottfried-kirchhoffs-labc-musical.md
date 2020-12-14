@@ -24,4 +24,3 @@ Dank der IAML-Präsentation von Diskin und Serebrennikov und der Faksimile-Editi
 Das Exemplar aus St. Petersburg scheint das einzig erhaltene Exemplar zu sein. Wir hoffen, dass eines Tages weitere Exemplare ans Tageslicht kommen werden.
 
 &nbsp;
-

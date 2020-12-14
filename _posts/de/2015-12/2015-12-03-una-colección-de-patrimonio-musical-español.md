@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Patromonio_musical_espanol_9241af500a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/una-coleccion-de-patrimonio-musical-espanol.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/una-coleccion-de-patrimonio-musical-espanol.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Der Fons de Música Tradicional am [Institució Milà i Fontanals](http://www.im
 Die Website kann auf Spanisch, Catalanisch or Englisch navigiert werden; Suchen können nach Quellen, Fundorten, Forscher, Informant, Gattung oder Titel erfolgen. Audiodateien der Melodien werden eventuell noch hinzugefügt.
 
 Oben: Notation der Instrumentalmelodie _Paciendo el rebaño_; die Vollanzeige, die weiteres visuelles Material enthält, finden Sie [hier](http://musicatradicional.eu/es/piece/10402).
-

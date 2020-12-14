@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
 email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---
@@ -24,4 +24,3 @@ Die nachträgliche und laufende Katalogisierung der Musikhandschriften der BnF w
 Für das restliche Frankreich wird das Inventar der Bestände mit frühen Musikquellen, das nun neben der Buchausgabe online im [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) zur Verfügung steht, bald mit neuen regionalen Katalogen bereichert werden.
 
 _Abbildung_: Giovanni Lorenzo Lulier, "La fortuna con eccessi," Kantate aus _Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item){:target="_blank"}, [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism){:target="_blank"}.
-

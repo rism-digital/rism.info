@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-digital-interactive-mozart-edition.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/the-digital-interactive-mozart-edition.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Zum Durchstöbern stehen momentan die sechs Joseph Haydn gewidmeten Streichquart
 Das Webangebot steht auf englisch und deutsch zur Verfügung. Wir sind gespannt wie sich das auf 10 Jahre angelegte Projekt entwickelt, denn nach den Noten sollen auch die Briefe und das Köchel-Verzeichnis in digitaler Form angeboten werden.
 
 _Abbildung_: [_Ave verum corpus_](https://dme.mozarteum.at/movi){:target="_blank"} für gemischten Chor, Orchester und Orgel, KV 618
-

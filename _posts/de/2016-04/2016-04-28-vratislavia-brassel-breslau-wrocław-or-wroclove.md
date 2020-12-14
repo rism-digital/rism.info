@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Breslau_60048_Muz._b59a94f4f9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vratislavia-brassel-breslau-wroclaw-or-wroclove.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/vratislavia-brassel-breslau-wroclaw-or-wroclove.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ Durch die beiden Weltkriege wurden zahlreiche Quellen der blühenden Musikkultur
 
 
 _Abbildung_: Anonymous, "Sanguine proprio redemisti nos Deus", Teil einer Sammelhandschrift datiert zwischen 1600 und 1650, f.6v-7r. Biblioteka Uniwersytecka (PL-WRu) 60048 Muz. RISM ID no. [301006933](https://opac.rism.info/search?View=rism&documentid=301006933){:target="_blank"}.
-
-

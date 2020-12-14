@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Frederick_der_Grosse_01_d7d47ca716.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/frederick-the-great.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ Bildnachweis: Adolph Menzel, Flötenkonzert Friedrichs des Großen in Sanssouci 
 
 
 Mitte: Friedrich der Große; ganz rechts: [Johann Joachim Quantz](https://opac.rism.info/search?View=rism&author=Johann+Joachim+Quantz){:target="_blank"}, des Königs Flötenlehrer; links von ihm mit Violine im dunklen Rock: [Franz Benda](https://opac.rism.info/search?View=rism&author=Franz+Benda){:target="_blank"}; ganz links im Vordergrund: Gustav Adolf von Gotter; hinter ihm: Jakob Friedrich Freiherr von Bielfeld; hinter ihm, an die Decke schauend: Pierre-Louis Moreau de Maupertuis; in Hintergrund auf dem rosa Sofa sitzend: Wilhelmine von Bayreuth; zu ihrer rechten: [Amalie von Preußen](https://opac.rism.info/search?View=rism&author=Anna+Amalia+Prinzessin+von+Preu%C3%9Fen){:target="_blank"} mit einer Hofdame; hinter ihnen: [Carl Heinrich Graun](https://opac.rism.info/search?View=rism&author=Carl+Heinrich+Graun){:target="_blank"}; alte Dame hinter dem Notenständer: Gräfin Camas; hinter ihr: Egmont von Chasôt; am Cembalo: [Carl Philipp Emanuel Bach](https://opac.rism.info/search?View=rism&author=Carl+Philipp+Emanuel+Bach){:target="_blank"}.
-
-

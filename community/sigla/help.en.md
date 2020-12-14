@@ -3,6 +3,7 @@ title: Sigla Help
 layout: community
 lang: en
 permalink: /community/sigla/help.html
+old_url: http://www.rism.info/en/sigla/help.html
 ---
 
 # Guide to using the Online Directory of RISM Library Sigla

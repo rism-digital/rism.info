@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Hoffmann_1c79de896a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
 email: julia.neumann@sbb.spk-berlin.de
 author: Julia Neumann
 ---
@@ -19,4 +19,3 @@ In der Staatsbibliothek zu Berlin konnte kürzlich im Rahmen des DFG-Projekts �
 Nach vielen Jahrzehnten konnte die Handschrift nun im Rahmen des DFG-Projekts „KoFIM“ durch Schriftvergleiche als Kompositionsautograph Melchior Hoffmanns bestimmt werden. Damit kann gleichzeitig die Kurzmesse, die bislang als „unsicheres“ Werk Melchior Hoffmanns galt, als tatsächlich aus seiner Feder stammend eingestuft werden.
 
 Die Quellenbeschreibung sowie das zugehörige Digitalisat sind im RISM-OPAC ([RISM ID no. 464131272](https://opac.rism.info/search?id=464131272&db=251&View=rism){:target="_blank"}) zu finden; von dort aus führen weitere Verlinkungen zur maßstabgetreuen Abbildung des Wasserzeichens, das mit dem neuartigen Thermographie-Verfahren aufgenommen wurde. Ein Kurzbericht über die Korrektur der Zuschreibung ist im aktuellen [Bach-Jahrbuch](http://www.neue-bachgesellschaft.de/bach-jahrbuch-2014/){:target="_blank"} enthalten (BJ 2014, Jg. 100, S. 213 – 219).
-

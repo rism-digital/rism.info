@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Neumeyer_Katalog_Sbg_Dommusikarchiv_bild_a413b1b122.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musical-sources-in-the-salzburg-cathedral-archive-a-sd.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/musical-sources-in-the-salzburg-cathedral-archive-a-sd.html
 email: Eva.Neumayr@archiv.kirchen.net
 author: MMag. Dr. Eva Neumayr
 ---
@@ -24,4 +24,3 @@ This catalog of the Salzburg Cathedral's music archives presents key sources fro
 The editors wish to thank Stephan Hirsch from the RISM Central Office in Frankfurt am Main, who provided the basis for the printed catalog by exporting the data, and the Austrian Science Fund (FWF) for financing two projects. Dr. Ulrich Leisinger (Stiftung Mozarteum Salzburg/Digitale Mozart-Edition) and Dr. Thomas Mitterecker (Archives of the Archdiocese of Salzburg) have generously supported and facilitated the work on this catalog for years. Our thanks also go to them.
 
 This catalog is dedicated to our project leader, Univ. Doz. Dr. Ernst Hintermaier, whose comprehensive and fundamental preparatory work we were able to build upon.
-

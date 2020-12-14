@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Oboe_f3843d94ca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-oboe-instrument-of-the-year.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/the-oboe-instrument-of-the-year.html
 email: ''
 author: ''
 ---
@@ -45,5 +45,3 @@ Natürlich finden Sie im RISM Online-Katalog auch Werke mit Oboe, in denen sie k
 Die Suche im RISM Online-Katalog nach Musik für die Oboenfamilie wird einige unentdeckte Edelsteine ans Licht bringen, von denen es noch keine moderne Edition oder Aufführungen im Konzertsaal gibt. Werfen Sie einen Blick in den RISM Online-Katalog und erwecken Sie diese Werke wieder zu Leben!
 
 _Abbildung_: Die Oboe durch die Jahrhunderte, von OboeCrack (über [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cu_oboe.jpg){:target="_blank"})
-
-

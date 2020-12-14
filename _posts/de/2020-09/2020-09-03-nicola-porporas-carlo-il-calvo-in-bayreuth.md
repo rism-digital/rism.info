@@ -20,4 +20,3 @@ Die drei Vorstellungen in Bayreuth sind ausverkauft, sie können aber einen Blic
 _Abbildung_: Ouvertüre zu Nicola Porporas Opera _Carlo il Calvo_, in I-Nc Rari 7.2.16-18
 
 &nbsp;
-

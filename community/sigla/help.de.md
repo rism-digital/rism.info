@@ -3,6 +3,7 @@ title: Sigla Help
 layout: community
 lang: de
 permalink: /community/sigla/help.html
+old_url: http://www.rism.info/de/rism-bibliothekssigel/hilfe.html
 ---
 
 # Hilfe zur Benutzung der RISM-Bibliothekssigel-Suche

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Martinez_01_35a146d721.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/marianna-von-martines-1744-1812-at-275.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/marianna-von-martines-1744-1812-at-275.html
 email: ''
 author: ''
 ---
@@ -16,4 +16,3 @@ This Saturday marks the 275th birthday of Marianna von Martines (1744-1812). It 
 Martines mainly composed church music, but her oeuvre also includes arias, piano works, three concertos, and a symphony. [RISM has a total of 54 sources for Martines](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe331798%22&Language=en){:target="_blank"}, including six autograph manuscripts. The image above shows the beginning of the aria "Per pietà bell'idol mio." [The manuscript](http://digital.slub-dresden.de/id426606086){:target="_blank"} is from the collection that once belonged to Maria Antonia Walpurgis, Elector of Saxony and is now in the SLUB Dresden.
 
 _Image_: Marianna von Martines, "Per pietà bell'idol mio," SLUB Dresden (D-Dl Mus.1-F-82,16-7; [RISM ID no. 212008189](https://opac.rism.info/search?id=212008189&Language=en){:target="_blank"}).
-

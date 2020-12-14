@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Latin_America_conference_149edfc135.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/conference-documenting-musical-sources-in-latin-america.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/conference-documenting-musical-sources-in-latin-america.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ RISM has invited speakers from Latin America to share information about the stat
 Please see the program on [RISM's conference page](/publications/conferences/latin-america-conference-2016.html).
 
 _Image_: Latin America, taken by NASA, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Latin_America_terrain.jpg){:target="_blank"}
-

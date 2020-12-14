@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Rambach_afbea77628.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-jacob-rambach-theologian-and-writer.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/johann-jacob-rambach-theologian-and-writer.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ Eine Übersicht über sämtliche nachweisbare Kantatenkompositionen auf Texte vo
 
 
 _Abbildung_: Titelseite aus Rambachs _Geistliche Poesien_ (1720), Exemplar [Bayerische Staatsbibliothek München](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10116678-9){:target="_blank"} (D-Mbs, P.o.germ. 1118 n)
-

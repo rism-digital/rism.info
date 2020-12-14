@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Pinguin-Entdeckung_280f0f5bbd.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/first-music-manuscript-discovered-in-antarctica.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/first-music-manuscript-discovered-in-antarctica.html
 email: ''
 author: ''
 ---
@@ -32,4 +32,3 @@ Your browser does not support the audio element.
 </source></audio>
 
 _Credits: Unknown photographers, Papers of William Speirs Bruce, University of Edinburgh, via Europeana (CC-BY), photos [0001495](http://europeana.eu/portal/record/9200271/BibliographicResource_3000058904671.html){:target="_blank"} and [0001492](http://www.europeana.eu/portal/record/9200271/BibliographicResource_3000058904679.html){:target="_blank"}. Audio: Southern Rockhopper Penguin (Eudyptes chrysocome), recorded by Günter Tembrock, via [Tierstimmenarchiv Berlin](http://www.tierstimmenarchiv.de/){:target="_blank"}, Museum für Naturkunde Berlin (CC BY-NC-SA)_
-

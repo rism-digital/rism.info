@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Lambach-Lecq_0af6a169e6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/work-on-lambach-abbey-halfway-done.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/work-on-lambach-abbey-halfway-done.html
 email: lecqerbg@xs4all.nl
 author: Frank van der Lecq
 ---
@@ -30,4 +30,3 @@ Archivar Deinhammer ist vor allem stolz auf die Lambacher Handschrift von Mozart
 Von Peter Deinhammer kommen immer mehr Berichte, dass das Interesse im Lambacher Musikarchiv (2.500 Handschriften, Periode 1700-1850) seit dem Eintrag in RISM wächst und neue Kontakte entstehen. Deinhammer, außer Archivar auch Musiker, Musikdozent, Musikwissenschaftler, Musikveranstalter, Schmied und Vorstand des Lambacher Bildungshauses ProDiagonal, hofft dass die RISM-Bestandsaufnahme der Anfang von weiterer Forschung der Lambacher Musikpraxis werden kann - von ihm selbst und von Musikwissenschaftlern in der ganzen Welt.
 
 Foto: Frank van der Lecq bei der Arbeit (mit freundlicher Genehmigung des Autors).
-

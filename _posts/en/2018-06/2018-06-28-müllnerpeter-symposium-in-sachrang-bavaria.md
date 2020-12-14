@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_SachrangMuellerPeterSammlung_596d107067.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muellner-peter-symposium-in-sachrang-bavaria.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/muellner-peter-symposium-in-sachrang-bavaria.html
 email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---
@@ -20,5 +20,3 @@ While on vacation in Sachrang in 1938, Hans Halm, then director of the music col
 On Saturday, June 30, a symposium called "Dorf-Musik-Leben" will be held in the Sachrang Schulhaus (where the Müllner-Peter Museum is also located), which will be devoted to the life and works, and especially the music collection, of Müllner-Peter. Among the participants are RISM contributors Steffen Voss (Munich) and Hildegard Herrmann-Schneider (Innsbruck) as well as Thomas Hochradner from the Mozarteum in Salzburg. Further commemorative events and concerts will take place throughout the weekend. The full program can be found on the [event flyer](https://event.irs18.de/data/files/muellner-peter-symposium-flyer.pdf){:target="_blank"} from the Sachrang tourism office.
 
 _Image_: Title page, in Müllner-Peter's hand, of a mass by Georg Augustin Holler (1744-1814). Bayerische Staatsbibliothek (D-Mbs Mus.ms. 7364). RISM ID no. [450057417](https://opac.rism.info/search?id=450057417&Language=en). From [_bavarikon_](https://www.bavarikon.de/object/BSB-MUS-00000BSB00108832){:target="_blank"}, CC BY-NC-SA 4.0.
-
-

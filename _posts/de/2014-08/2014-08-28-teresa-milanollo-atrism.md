@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Milanollo_Bild-BnF_a5011b55a8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/teresa-milanollo-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/teresa-milanollo-rism.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Untenstehend findet Ihr den „Coldstream March“, den [Johann Valentin Hamm](h
 <iframe width="420" height="315" src="//www.youtube.com/embed/b_kGZt4pZeE" frameborder="0" allowfullscreen></iframe>
 
 Bildnachweis: [Bibliothèque nationale de France](http://gallica.bnf.fr/ark:/12148/btv1b84226699){:target="_blank"}
-
-

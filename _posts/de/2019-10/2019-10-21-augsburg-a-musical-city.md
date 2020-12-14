@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_DE_Augsburg_2019_5ba5bc4844.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/augsburg-a-musical-city.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/augsburg-a-musical-city.html
 email: ''
 author: ''
 ---
@@ -38,5 +38,3 @@ Während der gesamten Konferenz ging es um Leopold Mozart und der Familie Mozart
 
 
 Wir wurden auch mit mehreren Exponaten verwöhnt, die Schätze aus diesen Sammlungen zeigten.
-
-

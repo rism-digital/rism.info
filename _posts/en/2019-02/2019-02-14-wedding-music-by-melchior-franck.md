@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Hochzeitsmusiken_b92266ed0b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wedding-music-by-melchior-franck.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/wedding-music-by-melchior-franck.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ A little bit strange from today's point of view is the text that was chosen for 
 Georg Rüger, son of the princely Saxon forest master, and his wife Kunigunde Beßler could enjoy a [New Wedding Song](https://opac.rism.info/search?id=00000990018873&View=rism&Language=en){:target="_blank"} in a five-part setting.
 
 _Image_: Title page of “Das Himmelreich ist gleich einem Kaufmann” by Melchior Franck. Leipziger Stadtbibliothek (D-LEm II. 4. 42), RISM ID no. 990018862. Available online from [SACHSEN.digital](https://sachsen.digital/werkansicht/dlf/197709/3/0/#){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-and-the-court-of-mary-queen-of-scots.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/music-and-the-court-of-mary-queen-of-scots.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ D. James Ross, _Musick Fyne: Robert Carver and the Art of Music in Sixteenth Cen
 Jenny Wormald, _Mary, Queen of Scots: Politics, Passion and a Kingdom Lost_ (London: Tauris Parke, 2001).
 
 _Image_: "Mary, Queen of Scots, 1542 - 1587. Reigned 1542 - 1567," artist unknown, about 1610 - 1615. [Scottish National Portrait Gallery](https://www.nationalgalleries.org/art-and-artists/3235/6004/mary-queen-scots-1542-1587-reigned-1542-1567){:target="_blank"}, PG 1073, CC-BY-NC 3.0.
-
-

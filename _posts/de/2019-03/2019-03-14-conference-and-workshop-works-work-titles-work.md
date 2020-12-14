@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM-Logo_mit_Text_9f1e34aa03.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/conference-and-workshop-works-work-titles-work-authorities-perspectives-on-introducing-a-work-le.html
 email: ''
 author: ''
 ---
@@ -32,5 +32,3 @@ Dennoch sind die Werktitel im Bibliotheksbereich ein wichtiges Hilfsmittel, mit 
 Die Konferenz mit Workshop soll die unterschiedlichen Standpunkte und Erwartungen von Musikwissenschaftlern und Bibliothekaren zur Sprache bringen und Lösungsansätze für RISM als Projekt zwischen beiden Seiten erarbeiten.
 
 Weitere Information befinden sich auf der [Konferenz-Webseite](/publications/conferences/work-level-2019.html).
-
-

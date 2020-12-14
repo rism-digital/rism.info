@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2019-annual-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/the-2019-annual-report.html
 email: ''
 author: ''
 ---
@@ -41,4 +41,3 @@ Zusammen mit der Johannes Gutenberg-Universität Mainz organisierte die Zentralr
 - Korrekturen melden: Die Zentralredaktion erhält regelmäßig Hinweise und Korrekturen von den Nutzern. Wenn Sie etwas finden, das korrigiert werden sollte, lassen Sie es uns wissen und schicken und Ihr [Feedback und Korrekturen.](http://www.rism.info/en/service/feedback.html#c2895)
 - Externe Datenbanken: RISM ist an weiteren Kooperationen auch mit Quellendatenbanken von Editionsinsti­tuten oder Bibliotheks-OPACs interessiert.
 - Open Data und Linked Open Data: Die [RISM Daten](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} können direkt aus dem Online-Katalog heruntergeladen und unter der CC-BY Lizenz wiederverwendet werden. Bibliotheken können somit ihreTitel in den eigenen lokalen Online-Katalog übertragen. Um die Belieferung mit den Daten zu vereinfachen, hat die Zentralredaktion Tools entwickelt, wie z.B. eine SRU-Schnittstelle.
-

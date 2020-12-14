@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Anna_Cramer_65c1562c9d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
 email: steffen.voss@bsb.muenchen.de
 author: Steffen Voss
 ---
@@ -27,4 +27,3 @@ E-mail: [markus.ecker@hfmt-koeln.de](mailto:markus.ecker@hfmt-koeln.de)
 
 
 Image: Anna Cramer, "Wonne der Sturmnacht“ (text: Anna Ritter), closing measures with autograph of the composer. Hochschule für Musik und Tanz Köln, Bibliothek, Signatur R 1985 (olim M 7605).
-

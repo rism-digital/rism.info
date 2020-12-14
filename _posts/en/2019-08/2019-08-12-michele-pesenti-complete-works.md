@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Michele_Pesenti_deb3a82ab2.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/michele-pesenti-complete-works.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/michele-pesenti-complete-works.html
 email: ''
 author: Bibliolore
 ---
@@ -27,5 +27,3 @@ Above, a page from an early edition of Pesenti’s [_Dal lecto me levava_](http:
 
 
 _Michele Pesenti is [in the RISM Catalog ca. 50 times](https://opac.rism.info/search?View=rism&author=Pesenti+Michele&Language=en){:target="_blank"}.The above image is from_ _Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504_ _([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
-
-

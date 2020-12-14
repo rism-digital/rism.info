@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Musikakademie_hl__17_18_Rebay_Ak_4_Plakat_601a46fe6b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/4th-international-ferdinand-rebay-academy-at-heiligenkreuz-abbey-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman NÃ¤gele OCist
 ---
@@ -31,4 +31,3 @@ Auch am Schluss der 4. Internationalen Musikakademie Ferdinand Rebay steht ein Ã
 
 Info und Ausschreibung:[www.stift-heiligenkreuz-sammlungen.at](http://www.stift-heiligenkreuz-sammlungen.at){:target="_blank"}
 Kontakt:[p.roman@stift-heiligenkreuz.at](mailto:p.roman@stift-heiligenkreuz.at)
-

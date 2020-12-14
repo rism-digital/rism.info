@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_07_189d7e8765.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/presentation-materials-from-rism-conference-now-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/presentation-materials-from-rism-conference-now-online.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Wir bedanken uns bei unseren Kollegen an der Akademie für die technische Unters
 Unten ist die [YouTube Playlist](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"} der Videos, die uns bisher vorliegen:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-

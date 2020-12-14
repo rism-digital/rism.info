@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/350-years-ago-today-il-pomo-doro.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/350-years-ago-today-il-pomo-doro.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Die Ballette stammen von Johann Heinrich Schmelzer; Abschriften davon befinden s
 Einige Szenenbilder des von Ludovico Ottavio Burnacini (1636-1707) entworfenen Bühnenbildes kann man auf der Seite des[Theatermuseums in Wien](https://www.theatermuseum.at/onlinesammlung/?query=all_persons%3AAntonio%20Cesti){:target="_blank"}sehen.
 
 _Abbildung_: Lodovico Ottavio Burnacini, gestochen von Matthäus Küsel: Bühnenbild für die Unterwelt-Szene in Antonio Cestis Oper_Il pomo d'oro,_ ca. 1666, via[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_Pomo_d%27oro,_underworld_scene.jpg){:target="_blank"}.
-
-

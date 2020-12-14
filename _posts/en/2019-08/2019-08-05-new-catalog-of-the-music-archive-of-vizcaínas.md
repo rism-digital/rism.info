@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_f8f4548efa.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-catalog-of-the-music-archive-of-vizcainas-mexico.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/new-catalog-of-the-music-archive-of-vizcainas-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John G. Lazos
 ---
@@ -20,4 +20,3 @@ Dr. Lazos has completed the Catálogo del Acervo Musical del Colegio de Vizcaín
 Dr. Lazos acaba de completar el Catálogo del Acervo Musical del Colegio de Vizcaínas (AMCV). En formato en pdf, ahora podemos consultar cerca de 575 obras, manuscritas e impresas, que conformaron la práctica musical de tres colegios femeninos, Caridad (1548), Belén (1686) y Loyola (1752), activos en la Ciudad de México durante el periodo de la Nueva España y el México Independiente. La colección del AMCV se puede encontrar [en RISM bajo la clave MEX-Mahn](https://opac.rism.info/metaopac/perma.do;jsessionid=FDDD5ED846191A980A3180E13DC1EC88.touch02?v=rism&q=-1%3d%22ks30080295%22&Language=es){:target="_blank"}.
 
 _Photo courtesy of John Lazos._
-

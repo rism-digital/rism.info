@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2018_9ee996c7b2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/looking-back-on-2018.html
 email: ''
 author: ''
 ---

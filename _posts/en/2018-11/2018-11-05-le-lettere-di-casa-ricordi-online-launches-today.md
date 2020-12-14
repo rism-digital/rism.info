@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Ricordi_Briefe_online_a9abba6ab5.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/le-lettere-di-casa-ricordi-online-launches-today.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/le-lettere-di-casa-ricordi-online-launches-today.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Around 30,000 letters addressed to Casa Ricordi by composers, writers, librettis
 The Ricordi family of publishers and their activities also play a large role in the RISM catalog. [Over 500 entries](https://opac.rism.info/search?View=rism&institution=ricordi&Language=en){:target="_blank"} reflect their publication activities as well as any resulting manuscripts that came from that. In the [**Advanced Search**](https://opac.rism.info/index.php?id=22){:target="_blank"}, select **Publisher**.
 
 _Image_: Marco Aurelio Marliani, Il bravo, Milano: Ricordi, 1836; [RISM ID no. 1001026401](https://opac.rism.info/search?id=1001026401&View=rism&Language=en){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/earliest-polyphonic-music-discovered-in-british-library.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ Eine nähere Betrachtung ergibt, dass diese Symbole zwei separate Stimmen darste
 Alles spricht dafür, dass diese ungewöhnlichen Zeichen zur selben Zeit wie der Gesangstext am Ende der Seite in den frühen Jahrzehnten des 10. Jahrhunderts geschrieben wurden. Giovanni hat in einem [detaillierteren Artikel](http://journals.cambridge.org/action/displayAbstract?aid=9017444){:target="_blank"} über diese Entdeckung gezeigt, dass diese Notation der Schreibweise in einer zeitgenössischen musiktheoretischen Abhandlung sehr ähnlich ist (Manuskript in der Bibliothèque nationale de France, [MS lat. 7202](http://gallica.bnf.fr/ark:/12148/btv1b8432473s/f119.image.r=7202.langEN){:target="_blank"} - Abbildungen sind auf der [Gallica-Website](http://gallica.bnf.fr/ark:/12148/btv1b8432473s/f119.image.r=7202.langEN){:target="_blank"} verfügbar). Andere vergleichbare Systeme für zwei- und dreistimmige polyphonische Gesänge wurden in anderen musiktheoretischen Manuskripten des 10. und auch des 9. Jahrhunderts gefunden. Was die Entdeckung des Manuskripts in der British Library so aufregend macht, ist dass es nicht Teil einer theoretischen Abhandlung ist: es ist der direkt Beweis einer tatsächlichen Aufführungstradition anstelle einer theoretischen Möglichkeit. Und in dieser Hinsicht handelt es sich um ein ein Jahrhundert älteres Dokument als der [Winchester Troper](http://parkerweb.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=473){:target="_blank"}, dass bisher das Manuskript der Anfangsgründe der polyphonen Musik darstellte.
 
 Somit ist - innerhalb dieses besonderen Rahmens - dies das allererste Musikmanuskript in der Geschichte der Harmonie in der westlichen Tradition und lenkt unsere Kenntnisse von der Praxis dieser Tradition vom Jahr 1000 auf etwa 900.
-

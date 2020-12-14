@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-digital-interactive-mozart-edition.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/the-digital-interactive-mozart-edition.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ The website is available in English and German. We are looking forward to seeing
 
 
 _Image_: [_Ave verum corpus_](https://dme.mozarteum.at/movi){:target="_blank"} for mixed voices, orchestra, and organ, KV 618
-

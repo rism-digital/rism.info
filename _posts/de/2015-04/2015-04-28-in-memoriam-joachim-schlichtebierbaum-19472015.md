@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_foto_Schlichte_092310008c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/in-memoriam-joachim-schlichte-bierbaum-1947-2015.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ In seiner Zeit als Leiter der Zentralredaktion hat er immer wieder in- und ausl√
 Wir werden sein Andenken in Ehren halten.
 
 Die RISM Zentralredaktion
-

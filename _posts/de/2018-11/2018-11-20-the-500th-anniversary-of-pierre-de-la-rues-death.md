@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_De_la_Rue_500_4455370fbf.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Die Überlieferung der Werke von Pierre de la Rue ist ein unverkennbares Zeichen
 Pierre de la Rues Ouevre umfasst vor allem Messen. Er war auch einer der ersten Komponisten, die einen kompletten Magnificat-Zyklus geschrieben haben. Weiterhin wird ihm eine der frühesten Requiemvertonungen zugeschrieben. Viele seiner Werke sind im [RISM-Katalog](https://opac.rism.info/metaopac/perma.do;jsessionid=F887DC55BC13A3420C56209B4AD425A8.touch01?v=rism&q=-1%3d%22pe30001841%22&){:target="_blank"} dokumentiert.
 
 _Abbildung_: Pierre de la Rue, "Et in terra" aus _Missa Nuncqua fue pena maior_, Venezia: Ottaviano Petrucci, 1503; Exemplar in Österreichische Nationalbibliothek (A-Wn) SA.77.C.11, [RISM ID no. 990036505](https://opac.rism.info/search?id=00000990036505&View=rism){:target="_blank"}. [Online einsehbar](http://data.onb.ac.at/rec/AC09207323){:target="_blank"}.
-
-

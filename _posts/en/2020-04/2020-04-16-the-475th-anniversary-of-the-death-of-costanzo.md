@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Festa_Costanzo_475_33012218ef.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
 email: ''
 author: ''
 ---
@@ -21,5 +21,3 @@ Another _Magnificat_ settings seem to have been printed ten years after Festa’
 
 _Image_: Costanzo Festa, “Se per forza di doglia” from _Il primo libro d'i Madregali de diversi eccelentissimi autori a cinque voci_, Venice 1542 ([RISM ID no. 993102197](https://opac.rism.info/search?id=993102197&View=rism){:target="_blank"}).
 Copy: [Bayerische Staatsbibliothek München (D-Mbs) 4 Mus.pr. 155](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00080881-2){:target="_blank"}
-
-

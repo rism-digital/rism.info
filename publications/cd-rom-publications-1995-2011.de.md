@@ -3,6 +3,7 @@ layout: publications
 title: "Publikationen auf CD-ROM"
 lang: de
 permalink: /publications/cd-rom-publications-1995-2011.html
+old_url: http://www.rism.info/de/publikationen/cd-rom-publikationen-1995-2011.html
 ---
 
 # Publikationen auf CD-ROM

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_1518_8828a712ad.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-500-years-ago.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/rism-500-years-ago.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Among the editions containing music by a single composer (originally published a
 The print is one of the earliest examples of the Christian reception of Jewish language and music. Reuchlin was one of the few intellectuals of his time who incorporated Jewish culture into scholarship. As a result, he also engaged in a multitude of confrontations with anti-Semitic contemporaries.
 
 _Image_: Excerpt from Johannes Reuchlin's _De accentibus et orthographia linguae Hebraicae_ (Hagenau: Thomas Anshelm, 1518). [RISM ID no. 990059797](https://opac.rism.info/search?id=00000990059797&View=rism&Language=en){:target="_blank"}, Thüringer Universitäts- und Landesbibliothek, Jena (D-Ju) 4 Gl.II,52, fol. 84r. [Available online](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-368e133e-4324-4a26-b959-19595fa56b750){:target="_blank"}.
-
-

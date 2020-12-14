@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_CfP_Edgar_8baeba5cc2.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/call-for-papers-international-conference-celebration-and-sonority-morelia-mexico-14th-to-16th-nov.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/call-for-papers-international-conference-celebration-and-sonority-morelia-mexico-14th-to-16th-nov.html
 email: euterpe@enesmorelia.unam.mx
 author: ''
 ---
@@ -72,4 +72,3 @@ Anastasia Krutitskaya (Universidad Nacional Autónoma de México)
 Edgar Alejandro Calderón Alcántar (Conservatorio de las Rosas)
 
 Info: [http://www.euterpe.enesmorelia.unam.mx/?page\_id=5056](http://www.euterpe.enesmorelia.unam.mx/?page_id=5056)
-

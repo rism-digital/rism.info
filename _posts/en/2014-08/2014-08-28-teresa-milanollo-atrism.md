@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Milanollo_Bild-BnF_a5011b55a8.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/teresa-milanollo-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/teresa-milanollo-rism.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ Below is the "Coldstream March," written by [Johann Valentin Hamm](https://opac.
 
 
 Photo credit: [Bibliothèque nationale de France](http://gallica.bnf.fr/ark:/12148/btv1b84226699){:target="_blank"}
-

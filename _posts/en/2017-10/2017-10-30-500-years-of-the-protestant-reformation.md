@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Reformation_500_c5d204eca4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/500-years-of-the-protestant-reformation.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/500-years-of-the-protestant-reformation.html
 email: ''
 author: ''
 ---
@@ -32,4 +32,3 @@ There are [over 160 entries](https://opac.rism.info/search?View=rism&author=Luth
 And around 90 sources await you if you would like to know what compositions were written for the liturgical festival [**Reformatio Lutheri**](https://opac.rism.info/search?View=rism&q=Reformatio+Lutheri&Language=en){:target="_blank"}.
 
 _Image_: Wilhelm Schneider (1783-1843), Ein' feste Burg ist unser Gott. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB), Dresden (D-Dl [Mus.4646-E-501](http://digital.slub-dresden.de/id454508255){:target="_blank"}, RISM ID no. [211005300](https://opac.rism.info/search?id=211005300&Language=en){:target="_blank"}).
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Weihnachten_2018_Christrose_de3ad64308.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-holidays-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/happy-holidays-2018.html
 email: ''
 author: ''
 ---
@@ -16,5 +16,3 @@ The RISM Central Office wishes you and your family all the best for a festive ho
 Our office will be closed beginning December 24 and will reopen January 7, 2019.
 
 _Image: Christmas rose, from [pixabay.com](https://pixabay.com/de/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Strauss_digital_SLUB_f0096ef363.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-strauss-digital.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/richard-strauss-digital.html
 email: ''
 author: SLUB Dresden
 ---
@@ -28,5 +28,3 @@ Siehe auch [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/ric
 
 _Abbildung_: Richard Strauss, Bühnenmusikpartitur zu _[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
-
-

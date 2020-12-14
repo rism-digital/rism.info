@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mozart_-_Todestag_225_b9c02571ad.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autographs-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/mozart-autographs-online.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ The autograph to this piece is held by the Universitätsbibliothek der Eberhard 
 This Berlin manuscript helps you get a good idea how visible external factors help tell the story of the composition of a work ([RISM ID no. 464001748](https://opac.rism.info/search?id=464001748&Language=en){:target="_blank"}). In this case, different paper formats show that Mozart did not work on this piece all in one go.
 
 _Image_: Secene XIII (after no. 29): "Ah poveretto me" and no. 30: Andante "Tutte accusan le donne" from Act II of _Così fan tutte._ Universitätsbibliothek Johann Christian Senckenberg (D-F), [Mus Hs 2350](http://nbn-resolving.de/urn:nbn:de:hebis:30:2-223771){:target="_blank"}. [RISM ID no. 455002350](https://opac.rism.info/search?id=455002350&Language=en){:target="_blank"}.
-

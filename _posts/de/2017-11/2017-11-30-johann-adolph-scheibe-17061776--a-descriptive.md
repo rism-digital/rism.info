@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_ScheibeWV__Andre__f_1708__Forside_62dee28669.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/johann-adolph-scheibe-1706-1776-a-descriptive-catalogue-of-his-works.html
 email: ph@kb.dk
 author: Peter Hauge
 ---
@@ -20,4 +20,3 @@ Obwohl Scheibe laut seiner Autobiografie in Matthesons _Grundlage einer Ehrenpfo
 Der Werkkatalog, der bereits im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=Scheibe+Johann+Adolph){:target="_blank"} mit dem Kürzel SchW zitiert wird, unterschiedet sich von den traditionellen, indem er jene Kompositionen mit einbezieht, die heute nicht mehr überliefert sind, für die aber eindeutige Belege (z. B. in Form von gedruckten Libretti) zur Existenz vorliegen. Die Datenbank liefert nicht nur neue Informationen über Scheibe, den Komponisten, Übersetzer und Pädagogen, sondern beleuchtet auch das Musikleben Dänemarks und insbesondere Kopenhagens im 18. Jahrhundert.
 
 _Abbildung_: Porträt von Scheibe (Fotograf: Rolf H. Christensen). Das Porträt gehört der Sorø Akademi.
-

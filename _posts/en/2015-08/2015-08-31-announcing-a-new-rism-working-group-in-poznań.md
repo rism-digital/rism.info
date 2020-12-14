@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Posen_54be13d6c0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
 email: almadry@poczta.onet.pl
 author: ''
 ---
@@ -28,4 +28,3 @@ Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/
 
 
 Image: Title page from Wojciech Dankowski, _Regina caeli_
-

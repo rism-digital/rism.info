@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_IAML-Schokolade_b149819c3a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-ii.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/56/article/64/rism-at-iaml-part-ii.html
 email: ''
 author: ''
 ---

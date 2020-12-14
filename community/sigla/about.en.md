@@ -3,6 +3,7 @@ title: About Sigla
 layout: community
 lang: en
 permalink: /community/sigla/about.html
+old_url: http://www.rism.info/en/sigla/about-sigla.html
 ---
 
 # About RISM Library Sigla

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/help-rism-link-to-digitized-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/help-rism-link-to-digitized-music.html
 email: contact@rism.info
 author: ''
 ---
@@ -147,4 +147,3 @@ Links are gladly accepted on an ongoing basis. If you send us a spreadsheet of l
 Please send your spreadsheet(s) to: [contact@rism.info](mailto:contact@rism.info)
 
 If you need any assistance, please let us know and we are happy to help.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Brandes_309617fec5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/minna-brandes-1.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/minna-brandes-1.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Minna Brandes, [Musik und Gender im Internet](https://mugi.hfmt-hamburg.de/artik
 Matthew Head,_Sovereign Feminine: Music and Gender in Eighteenth-Century Germany_ (Berkeley: University of California Press, 2013)
 
 Image: Lithograph by Heinrich Sintzenich and Rudolf Christian Schade, ca. 18/19th century? Muller Collection, [The New York Public Library for the Performing Arts/Music Division](http://digitalgallery.nypl.org/nypldigital/id?1106184){:target="_blank"}
-

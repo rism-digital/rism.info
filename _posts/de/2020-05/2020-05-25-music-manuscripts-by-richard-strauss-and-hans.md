@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Ab sofort stehen die Digitalisate der Musikhandschriften von Richard Strauss und
 Auch über den RISM-Katalog sind diese Digitalisate nun abrufbar.
 
 _Abbildung_: Hans Pfitzner, Skizzen zu _Urworte orphisch_, D-Mbs [Mus.coll. 7.52](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00062205-1){:target="_blank"}, RISM ID no. [1001086879](https://opac.rism.info/search?id=1001086879&View=rism){:target="_blank"}.
-

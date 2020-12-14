@@ -24,4 +24,3 @@ Muscat ist webbasiert (keine Installation erforderlich), aber beachten Sie bitte
 Dieser Workshop wird im Frühjahr und Herbst 2021 wieder stattfinden. Weitere Workshops können auf Anfrage abgehalten werden.   
   
 Muscat wird von RISM genutzt, um Musikmanuskripte aus allen Epochen bis zur Gegenwart, gedruckte Materialien bis ca. 1900, sowie Libretti und Theoretika zu katalogisieren.&nbsp;
-

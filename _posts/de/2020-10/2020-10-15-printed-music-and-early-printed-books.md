@@ -27,4 +27,3 @@ _Abbildung_: Eine Illustration von Druckern von Jean D’Alembert, Robert Bénar
 &nbsp;
 
 &nbsp;
-

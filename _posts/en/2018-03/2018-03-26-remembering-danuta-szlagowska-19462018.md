@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/remembering-danuta-szlagowska-1946-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/remembering-danuta-szlagowska-1946-2018.html
 email: ''
 author: ''
 ---
@@ -32,4 +32,3 @@ Prof. Szlagowska was a member of the Musicology Section of the Polish Composers'
 For her decades of service as a teacher and musicologist, Prof. Szlagowska received awards and distinctions from the Music Academy in Gdańsk and the Chopin University of Music, a medal from the Polish Education Commission, prizes from the City of Gdańsk, and the Golden Cross of Merit from the Republic of Poland. In 2016, she received an honorary professor title from the Department of Conducting, Composition and Music Theory at the Fryderyk Chopin Music University in Warsaw.
 
 The RISM Central Office mourns the loss of Danuta Szlagowska together with her family, friends, and colleagues. We will always keep her in our memory. We will miss our colleague, who was active in the field and had a wide range of academic interests. Through her unceasing scholarly work she will remain great role model for us all.
-

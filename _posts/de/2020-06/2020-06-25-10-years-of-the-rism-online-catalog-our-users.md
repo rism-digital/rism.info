@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Hensel_01_fd9f56aa48.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog-our-users.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/10-years-of-the-rism-online-catalog-our-users.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Vielen Dank an unsere Nutzer für die freundlichen Worte, und danke, dass Sie RI
 
 
 _Abbildung_: Fanny Hensels Morgengruß, vermutlich ein Geschenk der Komponistin für ihren Ehemann Wilhelm Hensel. Staatsbibliothek zu Berlin - PK (D-B) MA Ms. 174. [RISM ID no. 462017400](https://opac.rism.info/search?id=462017400&View=rism){:target="_blank"}. [Available online](http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN779294270){:target="_blank"}.
-
-

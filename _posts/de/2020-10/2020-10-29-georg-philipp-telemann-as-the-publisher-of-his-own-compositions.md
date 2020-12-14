@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Koerperschaft_Telemann_Quartette_1738_66eb421ee5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/64/georg-philipp-telemann-as-the-publisher-of-his-own-compositions.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/1/article/64/georg-philipp-telemann-as-the-publisher-of-his-own-compositions.html
 email: ''
 author: ''
 ---
@@ -28,4 +28,3 @@ Bis auf eine Ausnahme veröffentlichte Telemann ausschließlich seine eigenen We
 _Abbildung_: Titelseite _Nouveaux quatuors en six suites_, Paris 1738, [D-Mbs 4 Mus.pr. 2009.2615#Beibd.1](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11140998-8) ([RISM ID no. 990063978](https://opac.rism.info/search?id=990063978&View=rism)).
 
 &nbsp;
-

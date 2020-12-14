@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-krakow.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/rism-at-the-iaml-congress-in-krakow.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ This year, RISM is hosting a [Muscat](/community/muscat.html) workshop in two pa
 Also on the program are two RISM sessions, where we will hear about the latest RISM developments and listen to reports from our contributors and users in Brazil, Greece, Poland, Portugal, Romania, Slovakia, and Switzerland. The meeting of the [Advisory Council](/organization/international-partners.html) will offer an opportunity for RISM contributors to meet face-to-face and talk about their work. The [Commission Mixte](/organization/the-association.html) meeting is a closed meeting for Commission Mixte members only.
 
 [Please see our Krakow Congress page](/publications/iaml-congresses/2019.html) for more details about the workshops and the other RISM activities on the program. Slides will be posted there after the congress.
-

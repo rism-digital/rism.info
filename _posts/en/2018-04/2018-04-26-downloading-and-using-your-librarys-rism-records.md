@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/downloading-and-using-your-librarys-rism-records.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/downloading-and-using-your-librarys-rism-records.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ The original RISM records had been entered by the [US RISM office](http://hcl.ha
 At RISM, we are of course interested in improving our own database by including the new information uncovered by the catalogers at the Moravian Music Foundation. The MMF has sent us their enhanced records and we are working on integrating the added information into our records. David Blum will report more about this project at the [IAML Congress in Leipzig](http://iaml2018.info/programme/){:target="_blank"}.
 
 _Image_: Record for “Siehe wie fein ist’s und lieblich” by Christian Friedrich Gregor in RISM (RISM ID no. [000107824](https://opac.rism.info/search?id=000107824&Language=en){:target="_blank"}). Manuscript held at the Moravian Music Foundation, Archie K. Davis Center [(US-WS), shelmark 28](https://moravianmusic.on.worldcat.org/oclc/932481449){:target="_blank"}.
-
-

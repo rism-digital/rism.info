@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Wagner_Bibliotheksforum_Bayern_Bild_2b1bc6ef76.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wagner-exhibit-in-bamberg.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/wagner-exhibit-in-bamberg.html
 email: ''
 author: ''
 ---

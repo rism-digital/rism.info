@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-at-2015.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/41/article/64/looking-back-at-2015.html
 email: contact@rism.info
 author: ''
 ---
@@ -51,4 +51,3 @@ RISM was also mentioned in the following articles, which we have listed on the [
 We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info).
 
 _Image_: Postcard, 1909. Art and Picture Collection, The New York Public Library. "A happy New Year." [New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4d00-a3d9-e040-e00a18064a99){:target="_blank"}.
-

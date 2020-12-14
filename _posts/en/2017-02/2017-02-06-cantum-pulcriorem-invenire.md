@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/cantum-pulcriorem-invenire.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/cantum-pulcriorem-invenire.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ In total there are 37 fields to search, and the database offers an innovative wa
 Links to RISM [B/IV](/publications.html#c2619), _Manuscripts of Polyphonic Music_, are included insofar that they are available through [DIAMM](http://www.diamm.ac.uk/){:target="_blank"}.
 
 CPI-I lists 956 poems, all of which are available full text and can be searched. In total, 866 of the poems have musical settings, taken from 565 manuscript and printed sources.
-

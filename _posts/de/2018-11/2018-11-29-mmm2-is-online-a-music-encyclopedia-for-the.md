@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_MMM2-Logo-Gruen_69367a1c94.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
 email: kontakt@mugemir.de
 author: Martin Bierwisch
 ---
@@ -18,4 +18,3 @@ Zahlreiche Einträge befassen sich mit Personen, die nun erstmals Gegenstand ein
 Neben einem biographischen Abriss gibt es eine Übersicht zu den jeweiligen Werken, wobei Fundorte natürlich mit RISM-Sigla angegeben sind und gegebenenfalls auch mit Links zu Digitalisaten ergänzt werden (siehe z.B. Artikel zu [Adolph Herget](http://www.mmm2.mugemir.de/doku.php?id=herget){:target="_blank"}). Bei Drucken der A/I-Reihe oder einzelnen Handschriften wird auch direkt in den RISM-Onlinekatalog verlinkt (siehe z.B. Artikel zu [Franz Heinrich Ehrenfried](http://www.mmm2.mugemir.de/doku.php?id=ehrenfried){:target="_blank"}). Interne Links verbinden einzelne Artikel.
 
 Weitere Artikel werden nach und nach hinzugefügt werden. Sollten Sie Interesse haben, die Herausgeber mit Artikeln oder Anregungen zu unterstützen, können Sie sich an kontakt@mugemir.de wenden.
-

@@ -53,4 +53,3 @@ We can also grant access to our internal cataloging program, Muscat, to edit ind
 Please [contact us](mailto:contact@rism.info) and we will work with you to find the best solution.
 
 &nbsp;
-

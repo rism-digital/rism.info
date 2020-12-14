@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-colloquium-and-open-house.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/rism-colloquium-and-open-house.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Der Tag der offenen Tür bietet uns die Gelegenheit allen Beteiligten der Univer
 
 
 Ein ausführliches Programm finden Sie auf der [Kolloquium-Seite](/publications/conferences/colloquium-2015.html).
-

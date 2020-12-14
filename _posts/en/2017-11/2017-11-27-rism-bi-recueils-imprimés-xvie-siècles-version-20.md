@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Bericht_B_1_9c1400458b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
 email: ''
 author: ''
 ---
@@ -42,4 +42,3 @@ Information concerning any mistakes, new copies, digitized copies, and other det
 So if you find a Petrucci print in your attic or make a clean sweep at the next music auction, send us a quick note! ;-)
 
 _Image courtesy of Martin Bierwisch._
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-the-librarys-treasure-chest-a-rism-concert-in-cologne.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/from-the-librarys-treasure-chest-a-rism-concert-in-cologne.html
 email: steffen.voss@bsb-muenchen.de
 author: Dr. Steffen Voss
 ---
@@ -23,4 +23,3 @@ Daneben besitzt die Bibliothek auch wertvolle Musikerautographe und Abschriften 
 Am Dienstag, den 27.10 um 19.30 Uhr wird Steffen Voss einen Vortrag im Rahmen des Werkstattkonzertes "[Aus dem Schatzkästchen der Bibliothek](http://www.hfmt-koeln.de/nc/de/veranstaltungen/demnaechst.html){:target="_blank"}" im Kammermusiksaal der Musikhochschule halten und einige besonders interessante Handschriften aus der Sammlung vorstellen. StudentInnen der Hochschule werden unter anderem Lieder von [Anna Cramer](https://opac.rism.info/search?View=rism&author=Anna+Cramer&siglum=D-KNh){:target="_blank"}, Kammermusik von [Hiller](https://opac.rism.info/search?View=rism&author=Ferdinand+Hiller&siglum=D-KNh){:target="_blank"} sowie eine unbekannte Bearbeitung des "Siegfried-Idylls" von Richard Wagner für[Klaviersextett](https://opac.rism.info/search?id=450062363){:target="_blank"} vortragen.
 
 _Abbildung_: Ferdinand Hiller, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ferdinand_Hiller2.jpg){:target="_blank"}
-

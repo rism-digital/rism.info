@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Valletta_2018_fa9ee0d7be.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/valletta-malta-european-capital-of-culture-2018.html
 email: ''
 author: ''
 ---
@@ -44,4 +44,3 @@ Quellennachweise aus Malta gibt es noch nicht in der RISM-Datenbank, aber das ka
 
 
 _Abbildung_: Blick auf Valletta, Foto von Joergsam, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).
-

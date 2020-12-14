@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Monn_300_D-B_4780e94726.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mathias-georg-monn-at-300.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/mathias-georg-monn-at-300.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ As far as the scholarly literature is concerned: Volume 39 of the series _Denkm√
 Treat yourself to the Cello Concerto in G minor by Mathias Georg Monn in this recording with Jacqueline du Pr√©:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
-

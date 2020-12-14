@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Auch wenn Deutsch beispielsweise in seiner Funktion als Ehrenpräsident der 1963
 Bei RISM ist Deutsch natürlich vor allem dank des Schubert-Werkverzeichnisses präsent: In fast 1.600 [Schubert-Musikquellen](https://opac.rism.info/search?View=rism&author=118610961&Language=en){:target="_blank"} ist es zitiert. Auch sein Verzeichnis _Musikverlagsnummern._ _E__ine Auswahl von 40 datierten Listen 1710-1900_ (Berlin: Merseburger 1961) ist für RISM äußerst hilfreich zur Datierung der Musikdrucke.
 
 _Abbildung_: Otto Erich Deutsch circa 1928, aus [Programmzeitschrift der RAVAG „Radio Wien“](https://de.wikipedia.org/wiki/Radio_Wien_(1924)) vom 26. März 1928, S. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Anna_Cramer_65c1562c9d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/59/article/64/unknown-lieder-by-dutch-composer-anna-merkje-cramer-discovered-in-cologne.html
 email: steffen.voss@bsb.muenchen.de
 author: Steffen Voss
 ---

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/second-muscat-workshop-in-prague.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/second-muscat-workshop-in-prague.html
 email: ''
 author: ''
 ---
@@ -50,5 +50,3 @@ Martina Kostková katalogisiert den Bestand des Museums Bohuslav Horak in Rokyca
 Markéta Králová bearbeitet die Musiksammlung des Staatlichen Regionalarchivs in Český Krumlov ([CZ-K](https://opac.rism.info/search?View=rism&siglum=CZ-K&Language=en){:target="_blank"}).
 
 _Fotografien mit freundlicher Genehmigung von Guido Kraus._
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/george-frideric-handel-at-the-british-library.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
 author: ''
 ---
@@ -28,6 +28,3 @@ With last year's [addition of records for printed music](/new_at_rism/2015/05/21
 
 
 _Image_: George Frideric Handel: Messiah, HWV 56. Autograph manuscript. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Used with kind permission. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.
-
-
-

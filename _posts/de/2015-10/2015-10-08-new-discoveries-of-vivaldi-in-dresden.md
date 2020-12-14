@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-discoveries-of-vivaldi-in-dresden.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/new-discoveries-of-vivaldi-in-dresden.html
 email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
 ---
@@ -40,5 +40,3 @@ Die durch RISM gegebenen Informationen sind wichtig und leicht zugänglich. Dank
 Es gibt über 60 Sonaten für Violine und Continuo, ungefähr zwölf Triosonaten für Streicher und mehr als 50 Konzerte, die in _Schrank II_ anonym bleiben; die meisten davon sind online verfügbar und mit RISM verlinkt. Die Hilfsmittel der SLUB und des RISM sind bestens für weitere Neuentdeckungen geeignet und werden helfen den ein oder anderen Namen auf die bisher nicht namentlich gekennzeichneten Handschriften zu setzen.
 
 Bildnachweis: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden, Kadenz zum Konzert [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
-
-

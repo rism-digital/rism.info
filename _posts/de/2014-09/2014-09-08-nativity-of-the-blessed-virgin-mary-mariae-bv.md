@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Mariae_Geburt_d969d78f72.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
 email: ''
 author: ''
 ---
@@ -41,4 +41,3 @@ Die weiteren Marienfeste sind:
 Und noch ein Hinweis zu guter Letzt: Die Suchfilter in der linken Spalte helfen Ihnen die Trefferliste einzugrenzen.
 
 Bild: Domenico Ghirlandaio, _Natività di Mari__a,_ Cappella Tornabuoni, 1485-1490, Fresko,Firenze,basilica di Santa Maria Novella, [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Birth_of_St_Mary_in_Santa_Maria_Novella_in_Firenze_by_Domenico_Ghirlandaio.jpg){:target="_blank"}
-

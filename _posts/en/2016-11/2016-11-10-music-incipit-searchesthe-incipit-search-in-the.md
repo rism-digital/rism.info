@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-incipit-searches.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/music-incipit-searches.html
 email: ''
 author: ''
 ---
@@ -120,4 +120,3 @@ Experimenting with the site will yield some interesting results – [take a look
 This incipit search from Utrecht is available open source, and all of RISM's data are freely available under a [Creative Commons license](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"}. Try it out for yourself, or build your own tool! In total there are over one million incipits to search and experiment with.
 
 _Thanks to Frans Wiering and Geert-Jan Giezeman for their assistance with the Utrecht incipit search._
-

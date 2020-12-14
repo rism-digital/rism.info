@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Kunzen-Boehlau_0a0420ffd6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-publication-about-friedrich-ludwig-aemilius-kunzen-a-composer-of-two-nations.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/new-publication-about-friedrich-ludwig-aemilius-kunzen-a-composer-of-two-nations.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Anlässlich des 250. Geburtstags im Jahr 2011 beschäftigte sich die Musikhochsc
 Mit Opern, Singspielen, Sinfonien, Oratorien, Kantaten, Liedern und Klaviermusik umspannte Kunzen das ganze Gattungsspektrum seiner Zeit. Die Beiträge des Tagungsbands spiegeln diese Schaffensvielfalt wider und hinterfragen auch die Entstehungsbedingungen, soziale Funktionen und stilistischen Umbrüche um 1800. Ein Anhang mit einer Werkübersicht, Diskographie und Bibliographie regen zur weiteren Beschäftigung mit dem Komponisten und seinem Werk an.
 
 Der RISM Online-Katalog bietet [377 Nachweise zu Friedrich Ludwig Æmilius Kunzen](https://opac.rism.info/search?View=rism&author=Kunzen+friedrich+ludwig){:target="_blank"} mit sechs Digitalisaten.Und die Quellen stammen nicht nur – wie vielleicht zu vermuten wäre – aus Det Kongelige Bibliotek Kopenhagen (DK-Kk) und der Bibliothek der Hansestadt Lübeck (D-LÜh), sondern liegen beispielsweise auch in Übersee (US-Wc), Österreich (A-Wn) und Polen (PL-WRu).
-
-

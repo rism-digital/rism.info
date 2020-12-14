@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_American_Vernacular_2c15207140.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/american-vernacular-music-manuscripts.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/american-vernacular-music-manuscripts.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ The complementary collections of the Center for Popular Music and the American A
 The manuscripts were all scanned in high resolution to archival standards for preservation, with the images stored at the Internet Archive. The AVMM website serves as a front page and search engine for the images, where users can search by year, song title, subject, origin, creator, and keyword. In addition, all of the project manuscripts were cataloged in MARC library format, making them accessible through WorldCat, and a set of guidelines was created to allow other institutions to catalog similar manuscripts in their collections.
 
 For more information, please visit the [AVMM website](http://popmusic.mtsu.edu/ManuscriptMusic){:target="_blank"}.
-
-

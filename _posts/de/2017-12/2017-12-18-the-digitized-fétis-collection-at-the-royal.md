@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Fetis_KBR_Monteverdi_Phalesius_cover_45f64f7b11.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-digitized-fetis-collection-at-the-royal-library-of-belgium.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/the-digitized-fetis-collection-at-the-royal-library-of-belgium.html
 email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---
@@ -20,5 +20,3 @@ Der belgische Musikwissenschaftler, Komponist, Musikkritiker und Lehrer Françoi
 Fétis gründete 1827 die_Revue musicale_, schrieb zahlreiche Artikel für die _Revue musicale_ und die _Revue et gazette musicale_, war Autor der weit verbreiteten Publikationen wie _Traité complet de la théorie et de la pratique de l’harmonie_ und der _Biographie universelle des musiciens_. nach seinem Tod ging seine Bibliothek 1872 an den belgischen Staat über und wird in der Königlichen Bibliothek von Belgien aufbewahrt.
 
 _Abbildung_: Dies ist ein “belgischer” Druck von Monteverdis Madrigalen durch Petrus Phalesius. Monteverdi war einer der dargeboteten Komponisten der 'Concerts historiques’: Fragment aus _Orfeo_ (ein Druck der Fétis Sammlung) wurde aufgeführt beim ersten ‘Concert historique’ im Pariser Konservatorium am 8. April 1832. Claudio Monteverdi, _Il quarto libro de madrigali a cinque voci_. Antwerpen: Pierre Phalèse, 1615. [B-Br Fétis 2.268 A (RP)](http://uurl.kbr.be/1563155){:target="_blank"}. RISM A/I: [M 3472](https://opac.rism.info/search?id=00000990042069){:target="_blank"}.
-
-

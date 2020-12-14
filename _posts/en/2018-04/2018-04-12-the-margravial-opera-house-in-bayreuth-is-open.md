@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ The ceremony will be [streamed online here](http://www.br.de/franken){:target="_
 Johann Adolph Hasse's opera _Artaserse_ places the ancient Persian court into a world dominated by political machinations and conniving adversaries, in which the father of an alleged murderer condemns his own son to death. The opera was first performed on 11 February 1730 at the Teatro San Giovanni Gristostomo in Venice and was extremely popular. This is also reflected in the over [200 sources](https://opac.rism.info/search?View=rism&author=Hasse+Johann+Adolf&title=artaserse){:target="_blank"} for Hasse's opera in the RISM online catalog.
 
 _Image_: Libretto by Metastasio for Johann Adolph Hasse's 1730 opera _Artaserse_, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Artaserse_Libretto_Cover_1730.jpg){:target="_blank"}.
-
-

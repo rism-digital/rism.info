@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-wagner-manuscripts-to-be-digitized.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/richard-wagner-manuscripts-to-be-digitized.html
 email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---
@@ -24,4 +24,3 @@ Ziel des Digitalisierungsprojektes ist es, Wissenschaftlern und Wissenschaftleri
 Bereits unmittelbar nach Abschluss des Generationenprojekts zur Sanierung, Erweiterung und Neugestaltung des Richard Wagner Museums mit dessen Neueröffnung im Sommer 2015 begann die Suche nach Förderern des Digitalisierungsprojekts, passender Soft- und Hardware, einem geeigneten Dienstleiter, der die Digitalisierung mit einem speziellen, eigens für diesen Zweck beschafften Dokumentenscanner durchführt, und nach Personal zur Erfassung der Metadaten. Gleichzeitig wurde der Bestand gründlich gesichtet und konservatorisch bedenkliches Material aussortiert, die Dokumente wurden in säurefreie Kartons umgelagert. Nach Beendigung dieser Vorarbeiten ist jetzt der Weg frei für die Digitalisierung und Erschließung in der Datenbank: Derzeit wird mit den originalen handschriftlichen Briefen Cosima und vor allem Richard Wagners sowie seinen Notizbüchern und den Reinschriften seiner Partituren ein Herzstück der Archivbestände digitalisiert. Anschließend werden die Digitalisate in der museumseigenen Datenbank erfasst und so die Grundlage für ihre Online-Präsentation geschaffen.
 
 _Abbildung_: Notenblatt mit Brief von Richard Wagner. Quelle: Nationalarchiv der Richard-Wagner-Stiftung, Bayreuth.
-

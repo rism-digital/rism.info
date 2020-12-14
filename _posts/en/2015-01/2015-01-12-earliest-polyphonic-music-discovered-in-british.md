@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/earliest-polyphonic-music-discovered-in-british-library.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
 author: ''
 ---
@@ -41,4 +41,3 @@ Closer inspection reveals that these symbols represent two separate voice parts 
 Everything suggests that these unusual signs were written at the same time as the chant along the bottom of the page, in the early decades of the tenth century. In fact, as Giovanni has shown in a more[detailed article](http://journals.cambridge.org/action/displayAbstract?aid=9017444)about this discovery, this invented system of notation is very similar to a scheme found in a contemporaneous music theory treatise, in a manuscript at the Bibliothèque nationale de France,[MS lat. 7202](http://gallica.bnf.fr/ark:/12148/btv1b8432473s/f119.image.r=7202.langEN)(images available on the[Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8432473s/f119.image.r=7202.langEN)website). Other comparable schemes for showing two- and three-part polyphony are found in other music theory manuscripts of the tenth century, and even the ninth. What makes this discovery in the British Library manuscript so exciting is that it does not form part of a theoretical treatise: it is direct evidence of an actual tradition of performance, rather than being presented as a theoretical possibility. And in that respect, it stands a century earlier than the manuscript formerly considered to represent the beginnings of polyphonic music outside theoretical writings, the[Winchester Troper](http://parkerweb.stanford.edu/parker/actions/manuscript_description_long_display.do?ms_no=473).
 
 So, withinthis very particular frame of reference, this is the very first music manuscript in the history of harmony in the Western tradition, and draws our knowledge of the practice of this tradition back from around 1000 to around 900.
-

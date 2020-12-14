@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Schlegel_Ehrenpforte_1_c9ae1d4c46.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/romantic-satire-with-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/romantic-satire-with-music.html
 email: lkoehler@stud.uni-frankfurt.de
 author: Charlotte Köhler
 ---
@@ -24,4 +24,3 @@ Schlegel's satire consists of verses of various kinds and a drama in two acts. A
 Even though [letters](https://www.august-wilhelm-schlegel.de/briefedigital/){:target="_blank"} provide evidence that the Schlegel household had a "Clavier," nothing is known about August Wilhelm Schlegel's musical activities or any further compositions. The pieces are musically and harmonically rather simple, which underlines the lyrics all the more pointedly. This context makes it seem possible that the author, translator, and scholar—committed to the uncompromising realization of the Romantic idea—here become an occasional composer. Anyone reading this know more? Any leads are welcome!
 
 _Image_: Title page from the copy of _Ehrenpforte und Triumphbogen_ in the Goethe-Haus, Frankfurt (D-Ff), shelfmark IX K 90 / S 1. Photo courtesy of Charlotte Köhler and published here with the kind permission of the Freies Deutsches Hochstift.
-

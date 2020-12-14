@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Jahresbericht_2015_Graupner_bf7a17b880.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2015-annual-report.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/40/article/64/the-2015-annual-report.html
 email: ''
 author: ''
 ---
@@ -63,4 +63,3 @@ Und wie immer:
 Auf ein erfolgreiches und produktives 2016!
 
 _Abbildung_: Christoph Graupners unvollendeter (!) Kanon mit 5.626 Umkehrungen, das vielleicht interessanteste Manuskript, auf das wir 2015 gestoßen sind (ca. 1730, Universitäts- und Landesbibliothek in Darmstadt. [RISM ID no. 450007135](https://opac.rism.info/search?id=450007135){:target="_blank"})
-

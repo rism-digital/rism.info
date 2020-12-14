@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/length-of-rism-catalog-sessions-increased.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/length-of-rism-catalog-sessions-increased.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ Wir hoffen, dass Sie die Auszeit-Nachricht nun nicht mehr so schnell sehen und d
 
 
 _Abbildung_: Ausschnitt aus Ambrogio Lorenzettis Fresco _Allegorie zur guten und schlechten Regierung_ (1338), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAmbrogio_Lorenzetti_002-detail-Temperance.jpg){:target="_blank"}.
-
-

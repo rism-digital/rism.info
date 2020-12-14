@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Cornaz_Dukes_of_Arenberg_05dda80d62.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dukes-of-arenberg-and-music-in-the-eighteenth-century-the-story-of-a-music-collection.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/the-dukes-of-arenberg-and-music-in-the-eighteenth-century-the-story-of-a-music-collection.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ Die Studie ist eine detaillierte Untersuchung der Musiksammlung, die von der Are
 
 
 Einen Katalog der Musiksammlung hat Marie Cornaz bereits in der Zeitschrift Revue belge de musicologie veröffentlicht: "Inventaire complet du fonds musical des archives privées de la famille d’Arenberg à Enghien", in: Revue belge de musicologie 58 (2004), S. 81-202.
-
-

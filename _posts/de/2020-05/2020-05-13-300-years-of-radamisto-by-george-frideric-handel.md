@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/300-years-of-radamisto-by-george-frideric-handel.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/300-years-of-radamisto-by-george-frideric-handel.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Händels Musik besteht aus einer Ouvertüre im französischen Stil und je nach F
 
 
 _Abbildung_: Partiturseite der Arie "Son lievi le catene," Lund, Universitetsbiblioteket (S-L) Engelhart 40, [RISM ID no. 190002687](https://opac.rism.info/search?id=190002687&View=rism){:target="_blank"}. [Online verfügbar](https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:283654){:target="_blank"} (public domain).
-
-

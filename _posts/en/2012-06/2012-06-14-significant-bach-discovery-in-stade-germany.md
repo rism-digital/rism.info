@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_bachstade_df00d68338.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/significant-bach-discovery-in-stade-germany.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/significant-bach-discovery-in-stade-germany.html
 email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---

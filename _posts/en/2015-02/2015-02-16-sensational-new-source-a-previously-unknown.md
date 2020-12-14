@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
 email: ''
 author: ''
 ---
@@ -80,4 +80,3 @@ Don’t even shake hands with you.
 Now you can see who rightfully called himself your true friend.
 
 \*\* “as a god and a pot” is a short form of the Cologne credo “we pray to God and eat out of one pot” meaning something like “we are so close that closer is not even possible.”
-

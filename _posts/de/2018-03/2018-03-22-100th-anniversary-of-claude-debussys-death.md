@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/100th-anniversary-of-claude-debussys-death.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/100th-anniversary-of-claude-debussys-death.html
 email: ''
 author: ''
 ---
@@ -35,5 +35,3 @@ Orledge, Robert, »Debussy’s ›House of Usher‹ Revisited«, in: _The Musica
 
 
 _Abbildung_: "The House of Usher" von Ciaran Laval, über [Flickr](https://www.flickr.com/photos/ciaran_laval/19019843280/){:target="_blank"} ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/){:target="_blank"}).
-
-

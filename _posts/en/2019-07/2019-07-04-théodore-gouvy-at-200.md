@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Theodore_Gouvy_33e4178f00.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/theodore-gouvy-at-200.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/theodore-gouvy-at-200.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Among the [Gouvy sources in RISM](https://opac.rism.info/search?View=rism&author
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr8ytXurSkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Image_: Portrait of Théodore Gouvy, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theodore_Gouvy.JPG){:target="_blank"}
-
-

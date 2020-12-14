@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Rochlitz_250_9fbeb78fdc.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/friedrich-rochlitz-at-250.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/friedrich-rochlitz-at-250.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Rochlitz published a multi-volume collection of exquisite songs with a historica
 Some of [Rochlitz's own compositions](https://opac.rism.info/search?View=rism&author=Rochlitz+Friedrich&Language=en){:target="_blank"} are indexed in the RISM catalog.
 
 _Image_: Title page of _Sammlung vorzüglicher Gesangstücke_, volume 3, copy from the Bayerische Staatsbibliothek ([D-Mbs 2 Mus.pr. 317-2](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131406-1){:target="_blank"}).
-

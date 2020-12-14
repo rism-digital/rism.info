@@ -3,6 +3,7 @@ title: Über Sigel
 layout: community
 lang: de
 permalink: /community/sigla/about.html
+old_url: http://www.rism.info/de/rism-bibliothekssigel/ueber-sigel.html
 ---
 
 # Die RISM Bibliothekssigel

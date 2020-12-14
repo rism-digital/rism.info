@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
 email: ''
 author: ''
 ---
@@ -55,4 +55,3 @@ The rest of the session, as well as much of the [Advisory Council session](/orga
 There is quite a lot to look forward to later this year! Watch this space for updates on these projects.
 
 _Thanks to Armin Brinzing for the notes about the Advisory Council session._
-

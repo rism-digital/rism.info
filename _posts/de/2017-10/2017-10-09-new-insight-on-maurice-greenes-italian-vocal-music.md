@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Greenes_Italian_2ae50396f0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Außerdem hat Talbot viele literarische Quellen für diese Werke identifiziert. 
 Die RISM-Einträge zu Green wurden überarbeitet und zeigen bereits diese neuen Informationen. Wir danken Professor Talbot, dass er uns seine Forschungsergebnisse mitgeteilt hat.
 
 _Abbildung_ : Frontispiz und Titelblatt von Di canzonette e di cantate libri due von Paolo Rolli (London, 1727), aus dem [Internet Archive](https://archive.org/details/bub_gb_pICeIHxNG-YC){:target="_blank"}.
-
-

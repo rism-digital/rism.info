@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Portugal_Jommeli_3a337a63af.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/niccolo-jommelli-rediscovered-international-award-for-essay-on-autograph-extant-at-the-national-l.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Es ist eine einzigartige Komposition im Kontext der sakralen mehrstimmigen Werke
 Das _Laudate pueri Dominum_ wurde wahrscheinlich von den Schwestern des Komponisten, seinen Erben, einige Monate nach dessen Tod (25. August 1774) dem portugiesischen König José zugesandt.
 
 Bild: 16-stimmiges _Laudate pueri Dominum_: S.18-19
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/resources-old-website/pics/Kongressbericht.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-congress-report-is-ready.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/the-congress-report-is-ready.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

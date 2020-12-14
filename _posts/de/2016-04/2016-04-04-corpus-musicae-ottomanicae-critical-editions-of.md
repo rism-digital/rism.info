@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Corpus_Musicae_Ottomanicae_Ms.or.3__S._5_-_Saba_Pesrevi__Devr-i_Kebir__Osman_Bey_b7d9711f75.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/corpus-musicae-ottomanicae.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/corpus-musicae-ottomanicae-critical-editions-of-ottoman-manuscripts.html
 email: ''
 author: ''
 ---
@@ -23,6 +23,3 @@ Das CMO-Projekt arbeitet mit Wissenschaftlern, Bibliotheken und Archiven zusamme
 
 
 Abbildung: „Ṣabā pīşrevi” [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 – 1885)], Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5; mit freundlicher Genehmigung von Corpus Musicae Ottomanicae veröffentlicht.
-
-
-

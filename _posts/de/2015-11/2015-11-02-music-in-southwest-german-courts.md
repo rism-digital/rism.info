@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Suedwestdeutsche_Hofmusik_Universitaet_Mannheim_Schloss_Ehrenhof_44e230d082.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-southwest-german-courts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/music-in-southwest-german-courts.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ Neben zahlreichen Publikationen unter anderem zur Mannheimer Hofkapelle oder der
 Darüber hinaus werden die Ergebnisse des Projektes der Heidelberger Akademie der Wissenschaften in [Vorträgen und Konzerten](http://www.hof-musik.de/html/veranstaltungen.html){:target="_blank"} präsentiert.
 
 _Abbildung_: Schloss Mannheim (Ehrenhof). Foto von Stefanie Eichler via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Universitaet_Mannheim_Schloss_Ehrenhof.jpg){:target="_blank"}.
-

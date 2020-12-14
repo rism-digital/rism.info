@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Startseite_270869d386.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-version-of-the-rism-online-catalog.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/new-version-of-the-rism-online-catalog.html
 email: ''
 author: ''
 ---
@@ -59,5 +59,3 @@ Some features, such as the option to **e-mail** records to yourself, will be exp
 We hope you enjoy using the new RISM catalog. Please don't hesitate to contact us if you have any questions. Below is a brief video highlighting the major changes.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
-
-

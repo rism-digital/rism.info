@@ -6,7 +6,7 @@ lang: fr
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_MMMO_Database_bd16d41df8.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/the-new-database-medieval-music-manuscripts-online.html
+old_url: http://www.rism.info/fr/home/newsdetails/browse/23/article/64/the-new-database-medieval-music-manuscripts-online.html
 email: ''
 author: Dominique Gatté
 ---
@@ -22,5 +22,3 @@ En juin 2017, j’avais publié une première version de cette base sous[«googl
 En plus de la recherche par[source](http://musmed.eu/sources)et par[bibliothèque](http://musmed.eu/archives), un grand nombre de critères de recherche est déjà actif comme la recherche par type de source, par date ou par ordre religieux. Certains critères de recherche sont encore en chantier, comme la recherche par[notation](http://musmed.eu/notation)ou par[répertoire](http://musmed.eu/repertoire).
 
 N'hésitez pas à vous inscrire sur MMMOd pour écrire vos commentaires sur telle ou telle source...
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Cristofori_Klavier_7994ffff72.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/listen-to-the-worlds-oldest-piano.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/listen-to-the-worlds-oldest-piano.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ From the [Metropolitan Museum of Art](http://www.metmuseum.org/){:target="_blank
 RISM has [just over 900 sources](https://opac.rism.info/search?View=rism&author=Domenico+Scarlatti){:target="_blank"} by Domenico Scarlatti in the RISM database. This sonata is represented in the database 14 times. To find it, search by the catalog of works number (KirS 9) and the composer, or by incipit and composer.
 
 Image: [Metropolitan Museum of Art](http://www.metmuseum.org/collection/the-collection-online/search/501788?=&imgNo=0&tabName=gallery-label){:target="_blank"}
-

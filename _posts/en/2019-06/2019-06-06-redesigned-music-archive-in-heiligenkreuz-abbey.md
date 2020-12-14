@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
@@ -22,5 +22,3 @@ Many who contributed to the archive's beauty were invited to the ceremony that f
 After the room was blessed, Abbot Maximilian invited everyone to a ceremony in the Salon of the Prelature. This was a rare opportunity to see these rooms. In his greeting, the abbot emphasized the importance of the archive and the achievement of P. Roman. He also emphasized the fact that in the future it will be possible for scholars and musicians to use the archival material in an uncomplicated way.
 
 The ceremony was enriched with traditional monastic music. At the end, P. Roman expressed his pleasure at how extensive and well organized the holdings of the music archive are ([RISM library siglum: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE&Language=en){:target="_blank"}), and emphasized that the intention of his work is for the music to be used and heard. Rarities and rediscoveries for masses and interesting concerts await us in the future.
-
-

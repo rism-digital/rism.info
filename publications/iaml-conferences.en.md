@@ -3,6 +3,7 @@ layout: publications
 title: "PUBLICATIONS"
 lang: en
 permalink: /publications/iaml-conferences.html
+old_url: http://www.rism.info/en/publications/iaml-congresses.html
 ---
 
 For more information about RISM at IAML congresses, please select a year:

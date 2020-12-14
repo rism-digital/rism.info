@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rudolphina_310c96dcbf.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polands-bibliotheca-rudolphina.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/polands-bibliotheca-rudolphina.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ December 19, 2015 in Warsaw (Kościół Ewangelicko-Augsburski Świętej Trójcy
 Each concert begins at 6:00 PM.
 
 Image: George Rudolf of Liegnitz (1595-1653), funerary medal from 1653, by Matejpavel1, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Rudolf_Lehnick%C3%BD_z_B%C5%99ehu_1653_av.jpg){:target="_blank"}
-
-

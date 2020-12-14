@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Chinese_Language_Region_e9a832aea0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-working-group-in-asia-founded.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/43/article/64/new-rism-working-group-in-asia-founded.html
 email: ''
 author: ''
 ---

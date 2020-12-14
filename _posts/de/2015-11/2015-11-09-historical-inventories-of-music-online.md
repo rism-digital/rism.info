@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Inventare_e4824639e3.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/historical-inventories-of-music-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/historical-inventories-of-music-online.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -22,5 +22,3 @@ Unter den historischen Katalogen befinden sich u. a. drei chronologisch aufeinan
 Sieben der Inventare stammen direkt aus dem Besitz der SLUB Dresden, das achte konnte in Kooperation mit der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz digital zugänglich gemacht werden.
 
 Abbildung: Seite aus dem [Catalogo della Musica di Chiesa](http://digital.slub-dresden.de/id425373169){:target="_blank"}, ca. 1780
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Hochzeitsmusiken_b92266ed0b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/wedding-music-by-melchior-franck.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/wedding-music-by-melchior-franck.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ Georg Rüger, Sohn des fürstlich sächsischen Forstmeisters, und seine Frau Kun
 
 
 _Abbildung_: Titelblatt der Hochzeitsmusik “Das Himmelreich ist gleich einem Kaufmann” von Melchior Franck. Leipziger Stadtbibliothek (D-LEm II. 4. 42), RISM ID no. 990018862. Online bverfügbar über [SACHSEN.digital](https://sachsen.digital/werkansicht/dlf/197709/3/0/#){:target="_blank"}.
-

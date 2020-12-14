@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/congress-diary-from-iaml-leipzig-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/congress-diary-from-iaml-leipzig-2018.html
 email: ''
 author: ''
 ---
@@ -62,4 +62,3 @@ Our guides first took us to the St. Marienkirche to hear about the 16th-century 
 These ideal acoustics were on full display in the two concerts Song gave. The selection of music, which began with Johann Sebastian Bach and ended with Denis Bédard, demonstrated that the Baroque instruments can also meet the demands of 20th-century music. Up close where we sat in the organ loft, the physical requirements of organ playing were on display (normally hidden from view when you're sitting in a church pew below) and I enjoyed watching the mechanics of the keyboard, the stops, and the pedals. Some of the modern music even required an assistant to help with all the stops—even choreographing the dance of when to pull, when to push, and what side to stand on would have required a bit of rehearsal time.
 
 In between the organ tours, we had a small break in which I wandered around the town to look at the historic water tower (alas, covered by scaffolding) and find some postcard stamps. I also saw an outdoor yellow tiled mural that reminded me of the _Fürstenzug_ in Dresden. The Rötha version is a chronology of the town and if you look at the 1700s you can find the two Silbermann organs featured prominently (see picture).
-

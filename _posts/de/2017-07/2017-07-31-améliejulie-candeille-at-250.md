@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/amelie-julie-candeille-at-250.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/amelie-julie-candeille-at-250.html
 email: ''
 author: ''
 ---
@@ -32,5 +32,3 @@ Julian Rushton, et al. "Candeille, Julie." [Grove Music Online. Oxford Music Onl
 
 
 _Abbildung_: Rose Dupuis in der Rolle der Catherine in _Catherine ou La belle fermière_ von Julie Candeille. Illustration von Atelier Maleuvre, Paris, 1818. Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b6400634h/f1.item){:target="_blank"} (Bibliothèque nationale de France).
-
-

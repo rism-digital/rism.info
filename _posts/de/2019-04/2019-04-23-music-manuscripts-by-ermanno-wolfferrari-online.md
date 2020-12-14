@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-manuscripts-by-ermanno-wolf-ferrari-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/music-manuscripts-by-ermanno-wolf-ferrari-online.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Die BSB hatte bereits jahrzehntelang zielstrebig das Werk von Ermanno Wolf-Ferra
 _Der RISM-Katalog verzeichnet die Musikhandschriften zu Wolf-Ferrari ebenfalls und seit kurzem sind auch die [Links zu den Digitalisaten in München](https://opac.rism.info/search?View=rism&author=Wolf-ferrari&siglum=D-Mbs){:target="_blank"} enthalten._
 
 _Abbildung_: Ausschnitt aus Ermanno Wolf-Ferrari, _Das Himmelskleid_ ([D-Mbs Mus.ms. 23160-4](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00108321-1){:target="_blank"}, [RISM ID no. 456082312](https://opac.rism.info/search?id=456082312&View=rism){:target="_blank"}).
-
-

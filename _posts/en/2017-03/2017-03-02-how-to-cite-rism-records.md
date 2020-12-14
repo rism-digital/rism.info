@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_zitieren_de56a1bcd3.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/how-to-cite-rism-records.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/how-to-cite-rism-records.html
 email: ''
 author: ''
 ---
@@ -71,4 +71,3 @@ Bonus tip #2: The URL to the RISM online catalog can simply be cited as:
 -
 
 [https://opac.rism.info](https://opac.rism.info/)
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-data-big-data.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/rism-data-big-data.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Die RISM-Daten sind nun als[open data und linked open data](https://opac.rism.in
 Sie können unsere Daten gerne für ähnliche (oder ganz andere) Projekte nutzen. Wenn Sie dies tun, würden wir gerne davon erfahren!
 
 _Abbildung: Ausschnitt aus den open data derBritish Library_
-
-

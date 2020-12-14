@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_MagritteDanvalKBR_479f7ab93b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-royal-library-of-belgium-brussels-acquires-the-music-collection-of-the-belgian-jazz-specialist.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/65/article/64/the-royal-library-of-belgium-brussels-acquires-the-music-collection-of-the-belgian-jazz-specialist.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---

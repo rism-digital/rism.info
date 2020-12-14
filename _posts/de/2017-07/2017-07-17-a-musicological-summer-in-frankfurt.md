@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
@@ -35,4 +35,3 @@ _Die lettischeNationalbibliothekin Riga_
 Es ist kaum zu glauben, dass fünf Wochen seit meiner Ankunft in Frankfurt schon vergangen sind. Meine Arbeit in der RISM Zentralredaktion hat mich viel gelehrt, und ich habe viele fantastische Erfahrungen gemacht. Vor allem möchte ich mich den Mitarbeiter/innen der RISM Zentralredaktion, insbesondere Jennifer Ward und Dr. Martina Falletta, bedanken; sie haben ein buntes und lehrreiches Programm für mich arrangiert und haben es mir ermöglicht, wunderbare musikalische Erlebnisse in Frankfurt zu haben. Das Praktikum war ein toller Blick in die Arbeit RISMs, dadurch ich die hochwichtige Beziehung zwischen Musikwissenschaft und Bibliothekswesen besser begreifen konnte.
 
 _Alle Fotos vonVivian Tompkins._
-

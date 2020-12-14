@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Aus dem frühen 20. Jahrhundert stammen drei gedruckte Exemplare des Klavierausz
 Bildunterschrift:
 
 Nr. 6 Duetto Elmire/Bernardo: _Ein Veilchen auf der Wiese stand_ (Takte 4–28) aus _Erwin und Elmire_ von Anna Amalia von Sachsen-Weimar-Eisenach, D-WRha DNT 6b, Partie der Elmire, f.7r
-

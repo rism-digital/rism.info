@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_HillerBehrensWeb_cc376682b9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ferdinand-hiller-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/63/article/64/ferdinand-hiller-rism.html
 email: jennifer.ward@rism.info
 author: Jennifer Ward
 ---

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_1619_Thoene_051c516a06.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-surprise-publication-from-1619.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/a-surprise-publication-from-1619.html
 email: johanna.thoene@rism.info
 author: Johanna Thöne
 ---
@@ -28,5 +28,3 @@ I wonder if the dedicatee felt flattered! We will probably never know. But you c
 Information about mistakes, additional known copies, or essential secondary literature is always welcome.
 
 _Image_: Gregorio Allegri, _Concertini a dve a tre, et a quattro voci_. (Rome: Soldi, 1619). [RISM ID no. 990000859](https://opac.rism.info/search?id=00000990000859&View=rism&Language=en){:target="_blank"}. Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.63, [available online](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_V/V063/){:target="_blank"}.
-
-

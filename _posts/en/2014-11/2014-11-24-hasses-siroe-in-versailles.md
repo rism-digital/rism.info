@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hasse_ebb19dc698.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/hasses-siroe-in-versailles.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/hasses-siroe-in-versailles.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ The upcoming performances in Versailles are based on Hasse's reworked Dresden ve
 
 
 Photo credit: Portrait of Hasse from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Johann_Adolf_Hasse.jpg){:target="_blank"}.
-

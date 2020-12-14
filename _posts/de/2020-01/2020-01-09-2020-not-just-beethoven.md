@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_2020_year_PNG40_9c0e624551.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/2020-not-just-beethoven.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/2020-not-just-beethoven.html
 email: ''
 author: ''
 ---

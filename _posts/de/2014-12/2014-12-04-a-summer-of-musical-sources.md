@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_02_c93d056fa5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-summer-of-musical-sources.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/a-summer-of-musical-sources.html
 email: contact@rism.info
 author: ''
 ---
@@ -39,6 +39,3 @@ Ebenfalls hatte ich Gelegenheit in alten Karteikarten zu suchen, welche damals f
 
 
 Insgesamt kann ich sagen, dass ich mit Hilfe der einzelnen Mitarbeiter der Zentralredaktion, besonders durch Dr. Martina Falletta einen wirklichen guten Einblick in die tägliche Arbeit werfen konnte. Dabei habe ich wichtige praktische und theoretische Kenntnisse erworben.
-
-
-

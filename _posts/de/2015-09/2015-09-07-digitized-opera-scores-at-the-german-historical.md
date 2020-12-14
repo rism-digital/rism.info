@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
 email: pfeiffer@dhi-roma.it
 author: Roland Pfeiffer
 ---
@@ -23,4 +23,3 @@ Ferner waren 36 vollständige Opernpartituren (datierbar um 1770) und 28 Arien-S
 _Abbildung_: Die Abschriften eines der Hauptkopisten der Werkstatt Cencetti zeichnen sich durch eine unverkennbare Abkürzung für die Violinen aus.
 
 .
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Franziskanermoenche_aad8814261.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-on-our-bookshelves-three-composing-franciscan-monks.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/new-on-our-bookshelves-three-composing-franciscan-monks.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Während von Benedetti nur handschriftliche Musikquellen überliefert sind, wurd
 [**BetV**](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22lit41001757%22){:target="_blank"}: Ivano Bettin, Francesco Antonio Vannarelli: La vita e il catalogo tematico delle opere, in: _Barocco Padano 9: Barocco padano e musici francescani, II. L'apporto dei maestri conventuali. Atti del XVII Convegno Internazionale sul Barocco Padano (Secoli XVII - XVIII), Padova, 1 - 3 luglio 2016_, hrsg. von Alberto Colzani, Andrea Luppi und Maurizio Padoan (Como: AMIS, 2018), S. 437-484.
 
 _Abbildung_: _Poesie heroiche morali e sacre_ (s.l., 1646). Museo internazionale e biblioteca della musica di Bologna (I-Bc Z.52; [RISM ID no. 992002440](https://opac.rism.info/search?id=00000992002440&View=rism){:target="_blank"}).
-
-

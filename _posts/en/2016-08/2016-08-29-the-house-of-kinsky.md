@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Kinsky-Wappen_3220e11f9d.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-house-of-kinsky.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/the-house-of-kinsky.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ It was especially thanks to the daughter-in-law of Ferdinand, Countess Wilhelmin
 But even in the eighteenth century, the private music ensembles of the House of Kinsky in Prague and Česká Kamenice were held in high esteem, which can be seen today by the sheer number of sources alone that are still extant. In the collection of the library of the National Museum in Prague (Knihovna Národního muzea, CZ-Pn), there are over [1,000 entries with the shelfmark "Kinsky."](https://opac.rism.info/search?View=rism&callno=Kinsky){:target="_blank"}
 
 _Image_: Coat of arms of the Kinsky family, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Kinsky-Wappen.png){:target="_blank"}
-

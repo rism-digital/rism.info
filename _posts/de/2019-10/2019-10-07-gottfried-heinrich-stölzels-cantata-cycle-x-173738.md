@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
 email: christian.ahrens@me.com
 author: Christian Ahrens
 ---
@@ -31,5 +31,3 @@ Eingangschöre von Kantaten des Stölzelschen Jahrgangs X finden sich in einer w
 
 
 _Abbildung_: Titelseite des Librettos des Kantatenzyklus. Forschungsbibliothek Gotha der Universität Erfurt, Cant.spir 8° 878. Abbildung mit freundlicher Genehmigung des Autors (CC BY-SA).
-
-

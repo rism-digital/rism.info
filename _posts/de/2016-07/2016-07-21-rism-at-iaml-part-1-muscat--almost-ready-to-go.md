@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Muscat_87a096eb84.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/rism-at-iaml-part-1-muscat-almost-ready-to-go.html
 email: ''
 author: ''
 ---
@@ -50,4 +50,3 @@ Die Testphase läuft bis zum 5. September. Die Zentralredaktion hat bereits alle
 - Nach der Veröffentlichung vonMuscat stellen wir gerne allen Interessierten einen Zugang zur Verfügung, die einen Beitrag für RISM leisten möchten.
 
 Das Feedback auf der IAML-Konferenzwarsehr positiv, so dass wir optimistisch der Veröffentlichung von Muscat entgegensehen.
-

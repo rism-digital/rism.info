@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Mozart-KV-331-EA-Artaria-1784_erste-Auflage_73146a8a1b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/the-music-world-will-sit-up-and-take-notice-on-the-new-urtext-edition-of-mozarts-piano-sonata-in-a.html
 email: seiffert@henle.de
 author: Wolf-Dieter Seiffert
 ---
@@ -30,4 +30,3 @@ You can look forward to the new[Urtext edition](http://www.henle.de/en/detail/in
 How popular especially the “Turkish March” is nowadays, is demonstrated by[Aleksey Igudesman and Hyung-ki Joo](http://www.youtube.com/watch?v=906_vLPziZY&sns=em).
 
 Image: First edition of Mozart's KV 331, Artaria, 1784
-

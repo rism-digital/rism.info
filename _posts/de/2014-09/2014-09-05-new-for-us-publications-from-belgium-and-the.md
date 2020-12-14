@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Belgium_Buecher_880f8a82ec.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-for-us-publications-from-belgium-and-the-netherlands.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/new-for-us-publications-from-belgium-and-the-netherlands.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ RISM Kurztitel: BastiaensA 2007
 Dieser Band enthält viele Artikel über Musikquellen, die von den RISM Mitarbeitern Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs und Veronique Verspeurt geschrieben wurden.
 
 Wir dankenKlaas Jaap van der Meijden von [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}für die Zusendung der Bücher.
-
-

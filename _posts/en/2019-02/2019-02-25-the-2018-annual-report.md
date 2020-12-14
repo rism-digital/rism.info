@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_13_79e5642f46.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2018-annual-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/the-2018-annual-report.html
 email: ''
 author: ''
 ---
@@ -45,5 +45,3 @@ Muscat is a platform-independent, web-based, open-source program. As such, it ca
 - **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface
 
 Here's to a successful and productive 2019!
-
-

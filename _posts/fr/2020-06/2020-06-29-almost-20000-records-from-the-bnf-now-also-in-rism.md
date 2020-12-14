@@ -6,7 +6,7 @@ lang: fr
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Text_RISM_BnF_-Lulier_Giovanni_99c85d3c4e.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/62/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
+old_url: http://www.rism.info/fr/home/newsdetails/browse/4/article/64/almost-20000-records-from-the-bnf-now-also-in-rism.html
 email: francois-pierre.goy@bnf.fr
 author: François-Pierre Goy
 ---

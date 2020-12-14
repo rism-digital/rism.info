@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2016_a6956ec9f6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2016.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/looking-back-on-2016.html
 email: ''
 author: ''
 ---
@@ -47,4 +47,3 @@ RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer 
 Wir freuen uns auf ein produktives und interessantes 2017!
 
 _Abbildung_: [www.publicdomainpictures.net](http://www.publicdomainpictures.net/view-image.php?image=189368&picture=background-wallpaper-20172016){:target="_blank"}
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Neue_Komponistin_Dresden_Hofmusik_89e2df3415.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-new-woman-composer-is-born.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/a-new-woman-composer-is-born.html
 email: ninaeichholz234@gmail.com
 author: Nina Eichholz
 ---
@@ -22,4 +22,3 @@ As a composer, the young princess was one in a long line of decidedly talented m
 The sensitive aria by Maria Carolina, which is in rondò form, is the only work by the young composer documented in the RISM database so far. For more on identifications made through the Hofmusik project, please see [here](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/identifications/){:target="_blank"}.
 
 _Image_: Maria Carolinas von Savoyen, "Per costume o mio bel nume," f. 1. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) D-Dl [Mus.1-F-49,12-12](http://digital.slub-dresden.de/id434532886){:target="_blank"}. RISM ID no. [212008692](https://opac.rism.info/search?id=212008692&Language=en){:target="_blank"}.
-

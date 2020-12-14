@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_10_e046c6c6f7.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-rism-coordinating-committee.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/new-rism-coordinating-committee.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ We are happy to announce that there are five new members of the Coordinating Com
 The new members will be confirmed at the next meeting of the Advisory Council, which will take place at the [IAML Congress in Leipzig](http://www.iaml.info/congresses/2018-leipzig){:target="_blank"} this July.
 
 We would like to thank the previous members of the Coordinating Committee for their service: Armin Brinzing, Daniel Boomhower, Marie Cornaz, Ewa Hauptman-Fischer, and Gottfried Heinz-Kronberger. We look forward to working with the new committee.
-

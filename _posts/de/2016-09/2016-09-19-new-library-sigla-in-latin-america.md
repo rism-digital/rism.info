@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Sigel-Latin_America_f0d963cbcd.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-library-sigla-in-latin-america.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/new-library-sigla-in-latin-america.html
 email: ''
 author: ''
 ---
@@ -59,5 +59,3 @@ Venezuela: [37 Nachweise](https://opac.rism.info/search?View=rism&siglum=VE-*){:
 
 
 Insgesamt sind das 1.165 Einträge aus Lateinamerika.
-
-

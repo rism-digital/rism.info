@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ Dieses Video ist zeigt die Südafrikareise mit Latrobes eigenen Zeichnungen aus 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSwTJHTlqIU" frameborder="0" allowfullscreen></iframe>
 
 _Abbildung_: Porträt von Latrobe von Samuel Bellin, nach Thomas Barber, Mitte 19. Jahrhundert. National Portrait Gallery, London, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christian_Ignatius_Latrobe_by_Samuel_Bellin,_after_Thomas_Barber_cropped.jpg){:target="_blank"}.
-
-

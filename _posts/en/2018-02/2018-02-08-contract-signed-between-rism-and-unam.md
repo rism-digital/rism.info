@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_15_Anniversary_Nov_2017_2_klein_d9a3b6f84c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/contract-signed-between-rism-and-unam.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/contract-signed-between-rism-and-unam.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The contract was signed on 21 November 2017 in Mexico City by the director of th
 We are looking forward a fruitful partnership with Musicat and UNAM.
 
 _Image, from left to right: Klaus Pietschmann, Renato González Mello, Lucero Enríquez Rubio, Mario Haza. Klaus Keil and Jennifer Ward are looking on in the background through Skype. Photograph courtesy of Klaus Pietschmann._
-
-

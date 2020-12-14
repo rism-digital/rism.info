@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Hofmusik_Dresden_1661e1cad9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/on-the-trail-of-the-music-at-the-dresden-court.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/on-the-trail-of-the-music-at-the-dresden-court.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
@@ -39,5 +39,3 @@ Die Forschungen zu den[Königlichen Privat-Musikalien](http://hofmusik.slub-dres
 Mit der Konversion Augusts des Starken zum Katholizismus im Jahr 1697 entstand das Desiderat eines neuen katholischen [Kirchenmusik-Repertoires](http://hofmusik.slub-dresden.de/en/themen/hofkirche-koenigliche-privat-musikaliensammlung/)für den Dresdner Hof. Nach einer anfänglichen Phase zögerlichen Vortastens gewannen die gottesdienstlichen Kirchenmusikaufführungen ab 1721 an Regelmäßigkeit durch den Einfluss Maria Josephas. Es entwickelte sich ein an Gattungen und Stilen vielfältiges Repertoire. Protagonisten dieser Epoche waren der Kapellmeister[Johann David Heinichen](http://de.wikipedia.org/wiki/Johann_David_Heinichen)sowie die Kirchenkompositeure Giovanni Alberto Ristori und Jan Dismas Zelenka. Zusätzliches Repertoire erwuchs der Hofkapelle aus Reisen der Wettiner nach Neapel und Venedig sowie aus weiteren dynastischen und institutionellen Verbindungen nach Wien und Böhmen. Die hieraus überlieferten Quellen sind oft Unikate und von besonderem musikhistorischen Wert.
 
 ![](http://blog.slub-dresden.de/uploads/RTEmagicC_Caldara_Missa_dolorosa.jpg.jpg)
-
-

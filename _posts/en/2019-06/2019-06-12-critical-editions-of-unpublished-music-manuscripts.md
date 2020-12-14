@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Brussels_Publications_Castejon_c45636c12b.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/critical-editions-of-unpublished-music-manuscripts-from-the-royal-conservatory-of-brussels-b-bc.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/critical-editions-of-unpublished-music-manuscripts-from-the-royal-conservatory-of-brussels-b-bc.html
 email: bibliotheque@conservatoire.be
 author: Olivia Wahnon de Oliveira
 ---
@@ -46,5 +46,3 @@ _Manuscripts B-Bc ARC-M-99/1-4_
 
 8. ZARTH, Georg, Solo a Flauto Traverso con Cembalo, 2019.
 [Manuscript B-Bc 13.365](https://opac.rism.info/search?id=701002457&View=rism&Language&en){:target="_blank"}
-
-

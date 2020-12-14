@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Bild_castle-of-dublin_d2a11c9904.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/matthew-dubourg.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/matthew-dubourg.html
 email: alexander.marxen@rism.info
 author: ''
 ---
@@ -26,5 +26,3 @@ The following biography is by [Axel Klein](http://axelklein.de/){:target="_blank
 
 
 Photo credit: Castle of Dublin. A drawing of Dublin Castle dating from the early 1800s. [Courtesy of Dublin City Public Libraries](http://www.askaboutireland.ie/learning-zone/primary-students/looking-at-places/dublin-city/dublin-castle/independence-and-beyond/buildings-at-dublin-castl/index.xml){:target="_blank"} © Dublin City Library and Archive
-
-

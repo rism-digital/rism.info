@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Latrobe_Christian_Ignatius_by_Samuel_Bellin__after_Thomas_Barber_cropped_225fa7daaa.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/christian-ignatius-latrobe-february-12-1758-may-6-1836.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ This video is about Latrobe's missionary trip to South Africa and is complete wi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSwTJHTlqIU" frameborder="0" allowfullscreen></iframe>
 
 _Image_: Portrait of Latrobe by Samuel Bellin, after Thomas Barber, mid 19th-century. National Portrait Gallery, London, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christian_Ignatius_Latrobe_by_Samuel_Bellin,_after_Thomas_Barber_cropped.jpg){:target="_blank"}.
-
-

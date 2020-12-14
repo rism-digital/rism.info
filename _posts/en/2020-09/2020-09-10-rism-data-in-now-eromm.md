@@ -22,4 +22,3 @@ The search works best if you have a concrete item you are searching for; there a
 The entire RISM dataset (records and corresponding authority files) is available as open data and linked open data, and can be downloaded through [the RISM Catalog's data page](https://opac.rism.info/main-menu-/kachelmenu/data). The data can also be accessed through the [SRU servers](https://github.com/rism-ch/muscat/wiki/SRU). The RISM data can be freely used under a [Creative Commons CC-BY](http://creativecommons.org/licenses/by/3.0/) license. Earlier this year, we reported that the RISM dataset was added to the [re3data repository](/self_representation/2020/04/06/rism-in-re3data.html). We are happy to see continued use of our data in other contexts.
 
 &nbsp;
-

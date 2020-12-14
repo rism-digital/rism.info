@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Andorra_5fd8622c25.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-new-countries-in-rism-andorra-and-and-indonesia-ri.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/two-new-countries-in-rism-andorra-and-and-indonesia-ri.html
 email: contact@rism.info
 author: ''
 ---
@@ -23,4 +23,3 @@ Die [Datenbank der Bibliothekssigel](http://www.rism.info/de/sigla.html){:target
 - RI-Jpn: [Perpustakaan Nasional Republik Indonesia](http://www.pnri.go.id/){:target="_blank"}, Jakarta, Indonesien
 
 Diese Bibliothekssigel können nun von allen verwendet werden. Wir freuen uns, neue Sigel für Sie einrichten zu dürfen: [contact@rism.info](mailto:contact@rism.info)
-

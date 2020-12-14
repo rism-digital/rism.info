@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Mozart_Clementi_Bibliographie_7d553a8de4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/current-mozart-and-clementi-projects.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/current-mozart-and-clementi-projects.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Eva Neumayr ([Internationale Stiftung Mozarteum](https://mozarteum.at/en/bibliot
 Der Beitrag von Luca Sala (Université de Montréal) gab uns einen Einblick in den neuen Clementi-Werkkatalog, der gerade in Arbeit ist. Alan Tysons thematischer Katalog erschien 1967 und war damals ein großer Schritt vorwärts (er wird in RISM mehr als [400 Mal](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22lit104%22){:target="_blank"} zitiert). Seitdem sind neue Quellen aufgetaucht - einige in RISM (wie das Manuskript im Bild oben), andere (noch) nicht - und die Gesamtausgabe der [italienischen Nationalausgabe](http://www.muzioclementi.com/critical.php){:target="_blank"} von Muzio Clementi ist derzeit in Arbeit. Eines der Ziele des neuen Katalogs besteht darin, alle bekannten Quellen - viel mehr als Tyson erwähnt - aufzuzählen, die für die primäre und sekundäre Verbreitung eines Werks relevant sind, sowie über neue Erkenntnisse zu den Quellen, Zuschreibungen und Forschungsergebnissen zu reflektieren.
 
 _Abbildung_: Muzio Clementi, _Sonate a quarte mains pour le Piano Forte_, in der Abschrift von C. F. Kindermann, 1801. Sing-Akademie zu Berlin, Notenarchiv (D-Bsa) SA 4140. [RISM ID no. 469414000](https://opac.rism.info/search?id=469414000&View=rism){:target="_blank"}. Staatsbibliothek zu Berlin - PK. [http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B6DF00000000) . [CC 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/de/){:target="_blank"}.
-
-

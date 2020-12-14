@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digitized_Irish_Music_Project_9c7f404b4a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-irish-music-project.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/digitized-irish-music-project.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ Copyright:Wanda Carin
 Cataloguing:Catherine Ferris
 
 _Image_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Available online](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.
-

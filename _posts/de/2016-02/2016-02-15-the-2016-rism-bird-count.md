@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Vogelzaehlung_2d6af1517b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-2016-rism-bird-count.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/the-2016-rism-bird-count.html
 email: ''
 author: ''
 ---
@@ -64,4 +64,3 @@ Hat irgendjemand andere Beobachtungen gemacht, die Sie uns mitteilen möchten? L
 
 _Abbildung oben_: Athanasius Kircher, _Musurgia universalis_, Rome 1650, lib. I, zwischen p.30-31. Exemplar der Music Library at University of North Carolina at Chapel Hill (US-CHH), via [Internet Archive](https://archive.org/details/athanasiikircherkirc){:target="_blank"}.
 Sehen Sie auch die nagelneue überarbeitete [Übersetzung](http://www.hmt-leipzig.de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis/){:target="_blank"}, die gerade an der Hochschule für Musik und Theater Leipzig und dem Deutschen Historischen Institut in Rom angefertigt wird.
-

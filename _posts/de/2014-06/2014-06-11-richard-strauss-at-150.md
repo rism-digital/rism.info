@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Strauss-Specht_d61b739f9e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/richard-strauss-at-150.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/57/article/64/richard-strauss-at-150.html
 email: ''
 author: ''
 ---

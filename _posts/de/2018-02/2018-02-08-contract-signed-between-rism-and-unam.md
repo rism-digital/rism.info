@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_15_Anniversary_Nov_2017_2_klein_d9a3b6f84c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/contract-signed-between-rism-and-unam.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/contract-signed-between-rism-and-unam.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Der Vertrag wurde am 21. November 2017 in Mexiko City vom Director del Instituto
 Wir freuen uns auf eine fruchtbare Zusammenarbeit.
 
 _Abbildung (von links nach rechts): Klaus Pietschmann, Renato González Mello, Lucero Enríquez Rubio, Mario Haza. Klaus Keil und Jennifer Ward sind im Hintergrund über Skype zu sehen. Foto mit freundlicher Genehmigung von Klaus Pietschmann._
-
-

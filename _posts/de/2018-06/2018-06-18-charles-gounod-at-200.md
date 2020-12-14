@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Gounod_200_Geb_Julliard_d875c22195.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/charles-gounod-at-200.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/charles-gounod-at-200.html
 email: ''
 author: ''
 ---
@@ -24,5 +24,3 @@ Sehr bekannt ist auch Gounods [Méditation sur le 1er prélude de Bach](https://
 Charles Gounod komponierte 12 Opern, Schauspielmusiken, Oratorien, Kantaten, etwa 15 Messen (incl. Requiem), Orchesterwerke, Kammermusik sowie zahlreiche weitere Chorwerke, Klavierlieder, Klavier- und andere Instrumentalstücke, von denen sich viele im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=Gounod+Charles-Francois){:target="_blank"} wiederfinden. Der Suchfilter **Schlagwort** listet die verschiedenen Gattungen auf und hilft beim Eingrenzen der 180 Nachweise zu Charles Gounod.
 
 _Abbildung_: _Roméo et Juliette. Deux scènes_ von Charles Gounod, autographes Manuskript, S. 160c. Juilliard Library (US-NYj), RISM ID no. [900004919](https://opac.rism.info/search?id=900004919){:target="_blank"}. From the [Juilliard Manuscript Collection](http://juilliardmanuscriptcollection.org/manuscript/romeo-et-juliette/){:target="_blank"}.
-
-

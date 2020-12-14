@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Teuthorn_BSB_06d077a232.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/using-rism-for-genealogy.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/46/article/64/using-rism-for-genealogy.html
 email: p@teu-net.de
 author: Peter Teuthorn
 ---
@@ -26,4 +26,3 @@ Auskunft zum RISM mit Katalog-Zugang auch unter[https://www.bsb-muenchen.de/die-
 ![Teuthorn in RISM](http://teuthorn.net/feuilleton/wp-content/uploads/2015/08/suchergebnisCBT.jpg)
 
 Kopien der Romance und der Polonaise für Clavcin oder Pianoforte hatte mir bereits früher freundlicherweise ganz unbürokratisch die [Statsbiblioteket Arhus](http://www.statsbiblioteket.dk/){:target="_blank"} überlassen.
-

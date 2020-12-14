@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Vista_de_la_basilica_de_Nuestra_Senora_del_Pilar_en_Zaragoza_0ddb98150c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/welcome-carmen-alvarez.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/welcome-carmen-alvarez.html
 email: ''
 author: Carmen Álvarez
 ---
@@ -29,5 +29,3 @@ Nuestra colaboración con Carmen es gracias a uno de los directores de su tesis,
 
 _Image_: View on the Basílica de Nuestra Señora del Pilar (Zaragoza) by Leronich under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) licence via [Wikimedia
 ](https://commons.wikimedia.org/wiki/File:Vista_de_la_bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_del_Pilar,_en_Zaragoza.jpg){:target="_blank"}
-
-

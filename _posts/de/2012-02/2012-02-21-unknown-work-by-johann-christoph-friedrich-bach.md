@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_JCFBach-Ausschnitt-1_bcc4c00e9d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/unknown-work-by-johann-christoph-friedrich-bach-discovered.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/63/article/64/unknown-work-by-johann-christoph-friedrich-bach-discovered.html
 email: ''
 author: ''
 ---

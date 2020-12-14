@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Ewha_campus_da35152378.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/bringing-the-past-into-the-future-creating-and-curating-digital-music-archives-seoul-south-korea.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ _Mit freundlicher Genehmigung von JeongYoun Chang_
 
 ![Muscat workshop in Seoul](/resources-old-website/news/Workshop_webinar_960_557.jpg)
 _Muscat Workshop_
-

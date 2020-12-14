@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/seminar-report-notated-music-in-the-digital-sphere.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/seminar-report-notated-music-in-the-digital-sphere.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Julia Craig-McFeely (University of Oxford, [DIAMM](https://www.diamm.ac.uk/){:ta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yQ5bfI9BR7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [available online](https://www.nb.no/nbsok/search){:target="_blank"}
-

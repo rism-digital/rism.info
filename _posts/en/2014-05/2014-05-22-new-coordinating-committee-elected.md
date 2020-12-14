@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_und_Flaggen_6618ee1583.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-coordinating-committee-elected.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/new-coordinating-committee-elected.html
 email: ''
 author: ''
 ---
@@ -46,4 +46,3 @@ The members of the previous Coordinating Committee were Sarah Adams (Harvard Uni
 
 
 _All flags from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}._
-

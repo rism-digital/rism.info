@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_jean-jacques-caffieri-bust-of-jean-philippe-rameau_da7acb38b5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ Internationale Konferenz in Oxford Thursday, September 11, 2014 to Sunday, Septe
 
 
 Bildnachweis: Büste von Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, Frankreich. Terrakottaskulptur, 75 cm. Von [Friends of Art](http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau){:target="_blank"}
-

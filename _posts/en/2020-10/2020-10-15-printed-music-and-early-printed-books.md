@@ -27,4 +27,3 @@ _Image_: An illustration of printers from Jean D’Alembert, Robert Bénard, Den
 &nbsp;
 
 &nbsp;
-

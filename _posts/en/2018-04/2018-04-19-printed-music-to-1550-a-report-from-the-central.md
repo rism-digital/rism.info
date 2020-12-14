@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''
 ---
@@ -28,4 +28,3 @@ The revision of the B/I entries beginning from 1551 has also begun now. From 155
 Information concerning any mistakes, new copies, digitized copies, and other details such as important literature is most welcome! Just send an email to: [contact@rism.info](mailto:contact@rism.info) or [martin.bierwisch@rism.info](mailto:martin.bierwisch@rism.info).
 
 _Image_: Daniel Megel, _Scenica progymnasmata_ (Basel: Bergmann, 1498). A/I: M 1738. RISM ID no. [990040426](https://opac.rism.info/search?id=00000990040426&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) 4 Inc.c.a. 1542 n, [available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11303249-7){:target="_blank"}.
-

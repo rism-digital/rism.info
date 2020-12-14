@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Benedictine_Monastery_in_Staniatki_PL-STAb_a0a458a2b9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-the-convent-of-st-adalberts-abbey-in-staniatki-poland.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/music-in-the-convent-of-st-adalberts-abbey-in-staniatki-poland.html
 email: marcin.konik@gmail.com
 author: Marcin Konik
 ---
@@ -27,5 +27,3 @@ Das Hauptanliegen des Aufsatzes ist es, anhand verschiedener Beispiele zu zeigen
 Der Artikel entstand im Rahmen des Forschungsprojekts Nr. 2011/03/D/HS2/01824 finanziert durch das Nationale Zentrum der Wissenschaften (Narodowe Centrum Nauki).
 
 _Abbildung_ : Die Benediktinerinnenabtei in Staniątki von Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
-
-

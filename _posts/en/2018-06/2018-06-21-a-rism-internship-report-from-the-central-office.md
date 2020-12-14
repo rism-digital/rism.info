@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-rism-internship-report-from-the-central-office-in-frankfurt.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/a-rism-internship-report-from-the-central-office-in-frankfurt.html
 email: ulrike.schaedel@gmx.net
 author: Ulrike Schädel
 ---
@@ -29,5 +29,3 @@ At first, I found it difficult to transition from studying to the working world 
 
 
 _Image_: Georg Philipp Telemann, _Das Blut Jesu Christi_, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F Ms.Ff.Mus 820), RISM ID no. [450003788](https://opac.rism.info/search?id=450003788&Language=en){:target="_blank"}.
-
-

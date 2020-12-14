@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_BibliotecaNacional_01_fdca822a68.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-sigla-search-on-risminfo.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/63/article/64/new-rism-sigla-search-on-risminfo.html
 email: contact@rism.info
 author: Klaus Keil
 ---

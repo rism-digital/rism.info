@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_A-Sm_Brinzing_f092b1cec9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cataloging-and-digitizing-the-dom-musikverein-and-mozarteum-collection-in-salzburg-to-1881.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/cataloging-and-digitizing-the-dom-musikverein-and-mozarteum-collection-in-salzburg-to-1881.html
 email: brinzing@mozarteum.at
 author: Dr. Armin Brinzing
 ---
@@ -15,4 +15,3 @@ In Salzburg startete die Internationale Stiftung Mozarteum ein neues Projekt in 
 Mehr erfahren Sie[hier](http://www.mozarteum.at/wissenschaft/bibliothek/bibliotheca-mozartiana/aktuelles-projekte.html){:target="_blank"}.
 
 Bild: Wolfgang Amadé Mozart / Gottfried von Jacquin(?): Io ti lascio, o cara, addio. KV 621a (Anh. 245). A-Sm M.N. 53a (Abschrift aus dem Nachlass von Mozarts Sohn Franz Xaver Wolfgang)
-

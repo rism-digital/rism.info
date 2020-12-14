@@ -53,4 +53,3 @@ Wir können auch Zugriff auf unser internes Katalogisierungsprogramm Muscat gew�
 Bitte [kontaktieren Sie uns](mailto:contact@rism.info) und wir werden mit Ihnen zusammen die beste Lösung finden.
 
 &nbsp;
-

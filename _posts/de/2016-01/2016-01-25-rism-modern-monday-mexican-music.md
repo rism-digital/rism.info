@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mexico_Modern_Monday_AM0811__AM0812__1__e79dab582c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-mexican-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/rism-modern-monday-mexican-music.html
 email: jlazos11@hotmail.com
 author: John G. Lazos
 ---
@@ -23,4 +23,3 @@ Im späten zwanzigsten und zu Beginn dieses Jahrhunderts gab und gibt es in Mexi
 
 
 _Abbildung_: José Antonio Gómez y Olguín, Messe in C-Dur (1839). Catedral, Ciudad de México, E10.25/ C2/ LEGBd4/ AM0811; E10.25/ C2/ LEGBd4/ AM0812. RISM ID no. [120000569](https://opac.rism.info/search?id=120000569){:target="_blank"}.
-

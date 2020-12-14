@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
 email: angelmarzalraga@gmail.com
 author: Ángel Marzal
 ---
@@ -64,4 +64,3 @@ MARZAL (2013): A. Marzal Raga, _La música de Vicent Olmos i Claver i el seu mag
 MARZAL (2019): A. Marzal Raga, _La música de Vicent Olmos i Claver_, Vols. I i II, Editorial Piles, València.
 
 _Abbildung_: Partitur der _Lamentación â Solo. 2ª del miercoles_. (ACV): PM 152/9, (f. 1 r.). Jahr: 1789. [RISM ID no. 1001111577](https://opac.rism.info/search?id=1001111577&View=rism){:target="_blank"}. Mit freundlicher Gehnehmigung des Autors.
-

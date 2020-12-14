@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Scott_Joplin_6f7fefa327.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/scott-joplins-the-cascades-and-the-st-louis-worlds-fair.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/scott-joplins-the-cascades-and-the-st-louis-worlds-fair.html
 email: ''
 author: ''
 ---
@@ -38,5 +38,3 @@ Edward A. Berlin, _King of Ragtime: Scott Joplin and his Era_ (New York: Oxford 
 Berlin, "Joplin, Scott." [Grove Music Online](http://www.oxfordmusiconline.com/subscriber/article/grove/music/A2253061){:target="_blank"}. Oxford Music Online. Oxford University Press.
 
 Missouri Historical Society, "[The 1904 World's Fair: Looking Back at Looking Forward](http://mohistory.org/exhibits/Fair/WF/HTML/Overview/index.html){:target="_blank"}."
-
-

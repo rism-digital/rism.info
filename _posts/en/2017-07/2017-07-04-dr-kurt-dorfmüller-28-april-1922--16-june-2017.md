@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Nachruf_Dorfmueller__Foto_-_Juan_Martin_Koch_88f6bdcb03.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/dr-kurt-dorfmueller-28-april-1922-16-june-2017.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/dr-kurt-dorfmueller-28-april-1922-16-june-2017.html
 email: ''
 author: ''
 ---
@@ -40,5 +40,3 @@ Catherine Massip (France): "La nouvelle de la disparition de Kurt Dormüller m'a
 José Vicente González Valle (Spain): "Es tut mir sehr Leid vom Tod des guten Freundes Dr. Dorfmüller zu hören. Der liebe Gott sei mit ihm, dem guten Musikwissenschaftler und Menschen, der mild und gütig war."
 
 _Photograph by Juan Martin Koch._
-
-

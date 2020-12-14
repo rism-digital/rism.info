@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Conservatorio_logo_2da0b93118.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musicologists-muscat-and-mexico.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/musicologists-muscat-and-mexico.html
 email: ''
 author: ''
 ---

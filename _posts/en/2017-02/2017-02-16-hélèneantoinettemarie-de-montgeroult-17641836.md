@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Montgeroult_02703b2ec0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ A more complete biography of this near-forgotten composer can be read on the [So
 [Nicolas Stavy: 8e Sonate d'Hélène de Montgeroult‏](https://vimeo.com/29382724) from [CM Culture](https://vimeo.com/user5129702) on [Vimeo](https://vimeo.com).
 
 Image: _Trois Sonates pour le forte-piano avec accompagnement de violon pour la 3me Sonat_e, œuvre 2, Paris, ca. 1807 (A/I: M 3508; RISM ID no. [00000990042105](https://opac.rism.info/search?id=00000990042105&Language=en){:target="_blank"}), via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90816108/f1.image){:target="_blank"}.
-

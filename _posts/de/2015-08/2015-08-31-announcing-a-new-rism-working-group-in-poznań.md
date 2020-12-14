@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Posen_54be13d6c0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/announcing-a-new-rism-working-group-in-poznan-poland.html
 email: almadry@poczta.onet.pl
 author: ''
 ---
@@ -28,4 +28,3 @@ Homepage: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl
 
 
 Abbildung: Titelblatt von Wojciech Dankowski, _Regina caeli_
-

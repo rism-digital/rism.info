@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/muscat-workshop-in-vienna.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/muscat-workshop-in-vienna.html
 email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---
@@ -29,4 +29,3 @@ Im 2. Teil der Schulung konnten dann die TeilnehmerInnen anhand von Musikhandsch
 ![Muscat workshop in Vienna](/resources-old-website/news/Muscat-Workshop_in_Wien4_648x384.jpg)
 
 _Alle Abbildungen mit freundlicher Genehmigung von Stefan Engl._
-

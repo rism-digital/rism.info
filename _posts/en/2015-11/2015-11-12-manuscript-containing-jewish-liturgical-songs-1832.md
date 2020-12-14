@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Sulzer_Bericht_Voss_c491e54966.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/43/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
 email: steffen.voss@bsb-muenchen.de
 author: Steffen Voss
 ---
@@ -22,4 +22,3 @@ An exhibition opened on November 5, 2015 at the BSB's Music Department entitled 
 At the exhibition opening, a concert took place at the Music Department in which compositions from the manuscript were performed, including the Schubert psalm named above as a highlight. The performers were members of the madrigal choir from the music conservatory and the Schma Kaulenu synagogue choir with soloist Amnon Seelig, a cantor from Berlin. David Rees and Martin Steidler conducted. After a few opening words from department head Dr. ReinerNägele and [President of the Jewish Congregation of Munich and Upper Bavaria Dr. Charlotte Knobloch](http://www.ikg-m.de/gemeinde/organe/){:target="_blank"}, David Rees gave an exciting introduction to the history and meaning of the song collection. After the concert, the audience had the opportunity to admire the original manuscript and ask questions.
 
 Conversations at the event brought out the importance of having the manuscript cataloged in RISM and people expressed the desire to have RISM working groups catalog more collective manuscripts containing synagogue music from the nineteenth century.
-

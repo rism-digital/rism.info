@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-helsinki-cataloging-seminar.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/rism-at-the-helsinki-cataloging-seminar.html
 email: ''
 author: Jennifer Ward
 ---
@@ -20,5 +20,3 @@ The other presentations were of course in Finnish but Jaakko kindly translated f
 I learned about [Finna](https://finna.fi/Content/about?lng=en-gb){:target="_blank"}, which is a collective catalog of libraries, museums, and archives in Finland. You can [find music manuscripts](https://finna.fi/Search/Advanced){:target="_blank"} by limiting the content type to a "musical score." I was interested to hear about the challenges presented by bilingual vocabularies: since Finland has two official languages (Swedish in addition to Finnish), terms of course have to be present in both languages. But sometimes a single word in Finnish has two possible translations in Swedish, and vice versa. The Finto service lists vocabularies and ontologies in use. For music, the [Musiikin asiasanasto](https://finto.fi/musa/en/){:target="_blank"} (Finnish Music Thesaurus), [Musiikin ontologia](https://finto.fi/muso/en/){:target="_blank"} (Ontology for Music), and [SEKO](https://finto.fi/seko/en/){:target="_blank"} for musical instruments are of interest.
 
 I would like to thank Tatja Pusa ([National Library of Finland](https://www.kansalliskirjasto.fi/en){:target="_blank"}) for her organizational assistance and Jaakko Tuohiniemi for the invitation to speak. I was grateful for the opportunity to share our work with our Finnish colleagues, and in the course of the seminar day I had the opportunity to talk to our music library colleagues from Helsinki and elsewhere. We have around [1,100 records in RISM from Finnish institutions](https://opac.rism.info/search?View=rism&siglum=FIN-*&Language=en){:target="_blank"}, and I hope that we can intensify our cooperation with them. _Kiitos_!
-
-
