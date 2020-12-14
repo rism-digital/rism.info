@@ -17,8 +17,8 @@ The vast majority of Belgian records were created between 1993 and 1998 when - t
 
 Nowadays, the RISM working group in Belgium has two offices:
 
-the [Brussels office](/working-groups/belgium/brussels.html), located at the Music Division of the [Royal Library of Belgium](http://www.kbr.be/catalogues/catalogues_en.html), which deals with the Royal Library musical sources and contributes musicological expertise to the [Coordinating Committee](/en/organisation/international-partners.html "Opens internal link in current window") of the RISM Advisory Council; and
+the [Brussels office](/working-groups/belgium/brussels.html), located at the Music Division of the [Royal Library of Belgium](http://www.kbr.be/catalogues/catalogues_en.html){:blank}, which deals with the Royal Library musical sources and contributes musicological expertise to the [Coordinating Committee](organization.html){:blank} of the RISM Advisory Council; and
 
-the [Mechelen office](/working-groups/belgium/mechelen.html), located at [Cemper - Centrum voor Muziek- en Podiumerfgoed](https://www.cemper.be/), a non-profit association financially supported by the Flemish regional government that aims to find, describe and preserve the Flemish musical heritage in Flanders.
+the [Mechelen office](/working-groups/belgium/mechelen.html), located at [Cemper - Centrum voor Muziek- en Podiumerfgoed](https://www.cemper.be/){:blank}, a non-profit association financially supported by the Flemish regional government that aims to find, describe and preserve the Flemish musical heritage in Flanders.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zVkEV29Tbhz0.kJsXPEbQlNAA" width="625" height="480"></iframe>
