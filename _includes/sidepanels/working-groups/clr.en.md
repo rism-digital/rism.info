@@ -14,7 +14,7 @@
 
 [Meeting: Shanghai 2017](/working-groups/clr/shanghai2017.html)
 
-Meeting: IAML Riga 2017
+[Meeting: IAML Riga 2017](/events/2017/11/20/201711-the-collaborative-project-on-chinese-music.html)
 
 [Meeting: Taipei 2016](/working-groups/clr/taipei2016.html)
 
