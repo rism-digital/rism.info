@@ -24,4 +24,4 @@ In ihrem Artikel geht Kimber auf die Rolle des Klaviers im Leben der Frauen im g
 Weitere Hintergrundinformationen von Kimber finden Sie im [Blog der Rita Benton Music Library](https://blog.lib.uiowa.edu/rbml/2020/04/06/sounds-from-the-field-jane-austen-in-the-age-of-digital-discovery/){:target="_blank"}.
 
 
-_Abbildung_: Einband und S. 23 von Pleyels Sonata II in G-Dur, Allegro, mit dem handschriftlichen Hinweis "Practice this." US-IO FOLIO M322 .P5 B.431-436 1800; [RISM ID no. 990051014](https://opac.rism.info/search?id=990051014&View=rism){:target="_blank"}. [Online verfügbar](http://digital.lib.uiowa.edu/cdm/ref/collection/pleyel/id/4296){:target="_blank"} (public domain).
+_Abbildung_: Einband und S. 23 von Pleyels Sonata II in G-Dur, Allegro, mit dem handschriftlichen Hinweis "Practice this." US-IO FOLIO M322 .P5 B.431-436 1800; [RISM ID no. 990051014](https://opac.rism.info/search?id=990051014&View=rism){:target="_blank"}. [Online verfügbar](https://digital.lib.uiowa.edu/islandora/object/ui:pleyel_4296){:target="_blank"} (public domain).
