@@ -4,7 +4,7 @@ title: Eine eigene Website für das Muscat-Projekt
 date: 2018-09-27
 lang: de
 post: true
-category: new_at_rism
+category: rism_digital_center
 image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org
