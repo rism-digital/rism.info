@@ -34,6 +34,8 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 
 ## Katalogisierungstools
 
+**Plaine & Easie Code**: Der [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} zur Kodierung von Musikincipits wird von der International Association of Music Libraries, Archives and Documentation Centres (IAML) und RISM als Austauschformat im Bibliotheksumfeld verwendet.
+
 **Verlinkung zum RISM Online-Katalog (OPAC):**
 
 * URL für den RISM-OPAC:  
