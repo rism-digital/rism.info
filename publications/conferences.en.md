@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "PUBLICATIONS"
+title: "Conferences"
 lang: en
 permalink: /publications/conferences.html
 old_url: http://www.rism.info/en/publications/conferences.html

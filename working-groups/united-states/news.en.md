@@ -1,6 +1,6 @@
 ---
 layout: working-group
-title: "no title"
+title: "News from the US"
 lang: en
 permalink: /working-groups/united-states/news.html
 old_url: http://us.rism.info/en/newsdetails/article/47/us-rism-news-1.html

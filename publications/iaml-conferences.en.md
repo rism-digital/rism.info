@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "PUBLICATIONS"
+title: "IAML Conferences"
 lang: en
 permalink: /publications/iaml-conferences.html
 old_url: http://www.rism.info/en/publications/iaml-congresses.html
