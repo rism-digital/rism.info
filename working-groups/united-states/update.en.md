@@ -1,6 +1,6 @@
 ---
 layout: working-group
-title: "no title"
+title: "Update"
 lang: en
 permalink: /working-groups/united-states/update.html
 old_url: http://us.rism.info/en/newsdetails/article/47/rism-series-aii-update-survey.html

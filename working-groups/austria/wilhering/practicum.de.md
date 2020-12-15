@@ -1,6 +1,6 @@
 ---
 layout: working-group
-title: "no title"
+title: "Praktikum"
 lang: de
 permalink: /working-groups/austria/wilhering/practicum.html
 old_url: http://www.rism.info/de/startseite/newsdetails/article/71/rism-practicum-at-the-university-of-vienna.html
