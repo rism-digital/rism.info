@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
@@ -28,7 +28,7 @@ _The [Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} i
 ![Printed edition at Archiv Frau und Musik](/resources-old-website/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)
 _One of the many artifacts concerning women in music at Archiv Frau und Musik_
 
-During the fourth week of my internship I attended the 66th Annual Congress of the [International Association of Music Libraries, Archives, and Documentation Centres](http://www.iaml.info/congresses/2017-riga){:target="_blank"}. This year’s congress took place at the [National Library of Latvia](http://lnb.lv/en){:target="_blank"} in Riga. The four-day event was an amazing opportunity to meet librarians and archivists from around the world and to learn about different collections and ongoing projects. I am particularly interested in library projects that involve the digital humanities, so it was exciting to hear about the digitalization of collections from institutions such as the Mozarteum Foundation Salzburg (A-Sm), the Royal Library of Belgium (B-Br), and the Leipzig Bach Archive (D-LEb). Also of great interest was the presentation from the RISM working group in the [Chinese language region](/international/working-groups.html), who spoke about the efforts to document and preserve musical sources in their countries.
+During the fourth week of my internship I attended the 66th Annual Congress of the [International Association of Music Libraries, Archives, and Documentation Centres](http://www.iaml.info/congresses/2017-riga){:target="_blank"}. This year’s congress took place at the [National Library of Latvia](http://lnb.lv/en){:target="_blank"} in Riga. The four-day event was an amazing opportunity to meet librarians and archivists from around the world and to learn about different collections and ongoing projects. I am particularly interested in library projects that involve the digital humanities, so it was exciting to hear about the digitalization of collections from institutions such as the Mozarteum Foundation Salzburg (A-Sm), the Royal Library of Belgium (B-Br), and the Leipzig Bach Archive (D-LEb). Also of great interest was the presentation from the RISM working group in the [Chinese language region](/working-groups.html), who spoke about the efforts to document and preserve musical sources in their countries.
 
 ![National Library of Latvia](/resources-old-website/news/Tompkins_Bericht_Riga_1_378x504.jpg)
 _The National Library of Latvia in Riga_
@@ -36,4 +36,3 @@ _The National Library of Latvia in Riga_
 It’s hard to believe that five weeks have already passed since I arrived in Frankfurt. I would like to thank the staff of the Central Office, particularly Jennifer Ward and Dr. Martina Falletta, who made this internship possible and enabled me to have so many invaluable scholarly and musical experiences during my time in Frankfurt. This internship was a wonderful chance to get a closer look at the work of RISM and in doing so to gain a deeper understanding of the vital relationship between the fields of musicology and librarianship.
 
 _All photographs by Vivian Tompkins._
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Jubilare_2019_PNG13_53e197c73a.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2019.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/musical-anniversaries-in-2019.html
 email: ''
 author: ''
 ---
@@ -43,6 +43,3 @@ Da die Google FusionTable nicht mehr unterstützt werden, bieten wir alternativ 
 
 
 Abbildung von [pngimg.com](http://pngimg.com/download/68427){:target="_blank"} ([CC 4.0 BY-NC](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}).
-
-
-

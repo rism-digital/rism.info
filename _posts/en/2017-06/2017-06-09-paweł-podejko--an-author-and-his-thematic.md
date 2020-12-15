@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Jasna_Gora_01_42801628cd.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ More about Podejko can be read in [Gedanopedia](http://www.gedanopedia.pl/index.
 _Image_: Photo credit: Jasna Góra, photo by Damian27 via [Wikimedia Commons](https://de.wikipedia.org/wiki/Jasna_G%C3%B3ra_(Cz%C4%99stochowa)#/media/File:Jasna_G%C3%B3ra_-_widok_do_NE.jpg){:target="_blank"}
 
 _With thanks to Vivian Tompkins for her assistance with the English translation._
-

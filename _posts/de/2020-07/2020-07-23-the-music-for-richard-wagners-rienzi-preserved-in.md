@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Im Stimmenmaterial finden sich zahlreiche Aufführungsvermerke, auch von der Ura
 Ein über eine derart lange Zeit verwendetes Stimmenmaterial weist natürlich zahlreiche Eintragungen, Sprünge, Überklebungen, aufführungspraktische Hinweise oder auch [eingeklebte Zeitungsartikel](https://sachsen.digital/werkansicht/dlf/361862/314/)auf, die uns viel über die Aufführungspraxis des 19. und 20. Jahrhunderts verrät. Die detaillierte Beschreibung im RISM-Katalog gibt zudem Auskunft über die beteiligten Sänger und Dirigenten, sofern sie in den Noten vermerkt wurden.
 
 _Abbildung_ : Richard Wagner: Rienzi. Auszug aus dem Finale des 1. Aktes (Fagott 1) mit Sprüngen und Überklebungen (Dresden, [Sächsische Staatsoper, Notenarchiv](https://sachsen.digital/werkansicht/dlf/361862/664/){:target="_blank"}; D-Ds).
-
-

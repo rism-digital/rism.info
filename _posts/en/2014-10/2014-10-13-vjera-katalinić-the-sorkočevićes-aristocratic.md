@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The book “covers and brings together previous research into the careers in mus
 The book is in Croatian and English and includes a CD of symphonies by Luka Sorkočević. The CD features the Salzburger Hofmusik led by Wolfgang Brunner and includes all the instrumental compositions that can be ascribed to Luka Sorgo with certainty.
 
 Katalinić's volume is generously illustrated with musical examples and images from archival sources. A list of works is provided for [Luka](https://opac.rism.info/search?View=rism&author=Sorgo+Luca "external-link-new-window") and [Antun Sorgo](https://opac.rism.info/search?View=rism&author=Sorgo+Antun "external-link-new-window"), including compositions of doubtful authorship, with references to RISM entries.
-
-

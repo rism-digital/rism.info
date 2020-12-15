@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Projekt_Colombia_Torres_2018_archive_small_1ac0f059f0.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-project-in-colombia.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/new-rism-project-in-colombia.html
 email: rf.torres20@uniandes.edu.co
 author: Rondy F. Torres López
 ---
@@ -35,4 +35,3 @@ Die Referenzen dieser Werke sind über die[Datenbank von RISM](https://opac.rism
 Weitere Informationen: [https://rondytorres.wordpress.com/2018/03/15/la-musica-de-los-maestros-de-capilla-del-siglo-xix-en-la-catedral-primada-de-bogota/](https://rondytorres.wordpress.com/2018/03/15/la-musica-de-los-maestros-de-capilla-del-siglo-xix-en-la-catedral-primada-de-bogota/)
 
 Video über das Musikarchiv: [https://vimeo.com/220685932/d33d5c8c79](https://vimeo.com/220685932/d33d5c8c79)
-

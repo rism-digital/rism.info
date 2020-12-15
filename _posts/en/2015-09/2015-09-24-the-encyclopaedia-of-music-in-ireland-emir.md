@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-encyclopaedia-of-music-in-ireland-emir.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/the-encyclopaedia-of-music-in-ireland-emir.html
 email: ''
 author: ''
 ---
@@ -62,5 +62,3 @@ EMIR provides a wealth of information about the people who shaped Irish musical 
 [Wallace, Vincent](https://opac.rism.info/search?View=rism&author=Wallace+Vincent){:target="_blank"} (1812-1865)
 [Walsh, George](https://opac.rism.info/search?View=rism&author=Walsh+George){:target="_blank"} (1720p-1765)
 [Woodward, Richard](https://opac.rism.info/search?View=rism&author=Woodward+Richard){:target="_blank"} (1743c-1777)
-
-

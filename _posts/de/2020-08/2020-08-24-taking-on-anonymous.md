@@ -24,4 +24,3 @@ Die Daten sind sowohl im RISM-Katalog als auch italienischen Datenbank&nbsp;[OPA
 _Abbildung_: Palazzo dei Musei, in dem sich die Biblioteca Estense Universitaria di Modena befindet ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Palazzo_dei_Musei.jpg)).&nbsp;
 
 &nbsp;
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Chile_Bericht_2018_78274e8467.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ Das Libro sesto hat eine [interessante Geschichte](/in_the_news/2016/02/25/18thc
 
 
 _Abbildung mit freundlicher Genehmigung von Klaus Keil._
-

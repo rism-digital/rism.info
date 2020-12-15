@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_pl-wtm-r926-0005_f0490f118a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/preview-of-new-records-for-polish-music-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/preview-of-new-records-for-polish-music-in-rism.html
 email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---
@@ -39,5 +39,3 @@ Die Quellen werden in der Library, Museum and Archive of Warszawskie Towarzystwo
 
 
 _Abbildung_: Józef Elsner, "Muzyka do Mszy polskiej" op. 79 (1843), autographe Handschrift, die sich 1882 im Besitz des polnischen Komponisten Adam Münchheimer befand. PL-Wtm, R 926 (RISM ID no. 1001082488)
-
-

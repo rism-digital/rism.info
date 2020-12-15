@@ -25,4 +25,3 @@ The results of the project will be included in the [Répertoire International de
 &nbsp;
 
 _Image_: Colored Augsburg city arms on parchment (D-As Tonk Schl 200a)
-

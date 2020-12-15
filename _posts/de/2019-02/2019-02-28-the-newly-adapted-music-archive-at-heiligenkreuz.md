@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-newly-adapted-music-archive-at-heiligenkreuz-abbey.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/the-newly-adapted-music-archive-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
@@ -27,5 +27,3 @@ Im Zuge der vielfältigen Aktivitäten im Musikarchiv war die Notwendigkeit gege
 
 _Abbildung_: Grammophone von 1937
 ©Zisterzienserabtei Stift Heiligenkreuz - Kustodiat
-
-

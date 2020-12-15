@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Klein_O_Kelly_book_c7680f3a16.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/axel-klein-okelly-an-irish-musical-family-in-nineteenth-century-france.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/56/article/64/axel-klein-okelly-an-irish-musical-family-in-nineteenth-century-france.html
 email: ''
 author: ''
 ---

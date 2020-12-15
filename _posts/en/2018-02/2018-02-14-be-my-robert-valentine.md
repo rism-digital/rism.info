@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Robert_Valentine_-_Valentinstag_8302a0232c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/be-my-robert-valentine.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/be-my-robert-valentine.html
 email: ''
 author: ''
 ---
@@ -26,5 +26,3 @@ Michael Talbot, "Robert Valentine and the Roman Concerto Grosso," _[Ad Parnassum
 
 
 _Image_: Robert Valentine, _Sonate di flauto a solo col basso per il cimbalo o violone_, op. 2, 1st sonata, in F, p. 2. RISM A/I: [V 50](https://opac.rism.info/search?id=00000990065089&Language=en){:target="_blank"}. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b90790357){:target="_blank"}, with the help of [PhotoFunny.net](https://www.photofunny.net/out/568380950381200201){:target="_blank"}.
-
-

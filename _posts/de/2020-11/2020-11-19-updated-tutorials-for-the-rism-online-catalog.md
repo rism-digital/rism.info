@@ -46,4 +46,3 @@ Weitere Videos werden folgen.
 Rückmeldungen und Kommentare sind jederzeit willkommen. Sie können einen Kommentar im Video hinterlassen oder an contact@rism.info schreiben.
 
 &nbsp;
-

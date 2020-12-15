@@ -45,4 +45,3 @@ Die obige Liste ist zweifellos unvollständig, und wir würden uns über weitere
   
   
 _Abbildung_: Einband des "Libro Sesto" mit dem Namenszug von Maria Antonia Palacios. Biblioteca Nacional de Chile (RCH-Sbnc) jp/o/20140924 ([RISM ID no. 390000001](https://opac.rism.info/search?id=390000001&View=rism)).
-

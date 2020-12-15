@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Oxford_Schola_Musicae_6ee2b1c702.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/digital-musicology-at-oxford-summer-school.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/digital-musicology-at-oxford-summer-school.html
 email: ''
 author: Jennifer Ward (RISM Zentralredaktion)
 ---
@@ -26,4 +26,3 @@ Was all diese Konzepte am Ende der Woche zusammenbrachte, war das [F-TEMPO-Proje
 Der faszinierende Faden, der durch die DHOxSS-Woche führte, war die Verwendung digitaler Tools, um neue und andere Fragen zu stellen. Dank der Menge an digitalisierten Daten, ob audio, notiert oder bibliographisch, gibt es Datenbestände ([einschließlich RISM](https://opac.rism.info/index.php?id=10){:target="_blank"}), die groß genug sind, um neue Untersuchungsgebiete zu erschließen.
 
 ​
-

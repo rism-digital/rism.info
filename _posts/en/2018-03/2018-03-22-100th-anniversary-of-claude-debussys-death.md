@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/100th-anniversary-of-claude-debussys-death.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/100th-anniversary-of-claude-debussys-death.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ Kabisch, Thomas. “Debussy, Claude.” In _Die Musik in Geschichte und Gegenwar
 Orledge, Robert. “Debussy’s House of Usher Revisited.” _The Musical Quarterly_ 65, no. 4 (1976): 536-553.
 
 _Image_: "The House of Usher" by Ciaran Laval, from [Flickr](https://www.flickr.com/photos/ciaran_laval/19019843280/){:target="_blank"} ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/){:target="_blank"}).
-
-

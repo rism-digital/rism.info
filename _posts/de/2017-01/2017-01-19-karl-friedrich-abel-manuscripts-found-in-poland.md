@@ -11,7 +11,7 @@ email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---
 
-_Der folgende Beitrag stammt von Sonia Wronkowska aus [RISM Polen](/international/working-groups.html):_
+_Der folgende Beitrag stammt von Sonia Wronkowska aus [RISM Polen](/working-groups.html):_
 
 Zwei neue Musikquellen zu Werken von Karl Friedrich Abel (1723-1787) sind kürzlich von Sonia Wronkowska in Polen entdeckt worden. Sie liegen in der Bibliothek der Adam Mickiewicz Universität in Poznań (PL-Pu) und stammen ursprünglich aus dem Besitz der Familie Maltzan in Milicz (früher Militsch). Graf Joachim Carl Maltzan (1733-1817) – preußischer Gesandter in London – ist der Verbindungsmann zwischen der preußischen Provinzstadt Militsch und den “Bach-Abel Konzerten” in London. Maltzan besuchte vermutlich regelmäßig die berühmte Konzertreihe, oder er war einer von Abels Schülern. Er erwarb zwei Manuskripte mit 28 Kompositionen für Viola da Gamba von Abel in London und nahm sie mit in seine Heimatstadt.
 

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_Bericht_6fa7f9c416.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iamlims-congress-in-new-york.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/rism-at-the-iamlims-congress-in-new-york.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ During our Music Documentation Round Table, Jennifer Ward talked about ways to c
 We also enjoyed discussions with the working group Access to Music Archives. More on that project will be reported in this space later this week. In addition, we had separate meetings with our colleagues from RISM national groups in Belgium, Poland, South Korea, and the United States where we discussed new and ongoing projects. Furthermore, discussions with colleagues from Belgium, Greece, Spain, and Taiwan planted seeds for what we hope will be close collaboration in the future.
 
 Photo: Manhattan skyline (courtesy of J. Ward)
-

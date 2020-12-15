@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IMS_Tokyo_b997ce8e0b.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ Andrea Lindmayr-Brandl (Universität Salzburg) will first present the project [M
 Klaus Keil and Jennifer Ward of the RISM Central Office will give a talk entitled "The RISM Online Catalog and Beyond: Using, Reusing, and Contributing RISM Data in Musicological Projects." The presentation will show musicologists how to get the most out of the RISM data through effective searching—also useful for those who teach the RISM catalog to students—and also how musicologists can collaborate with RISM when they embark upon source-oriented research.
 
 This is the first IMS congress in Asia. We look forward to seeing you there!
-
-

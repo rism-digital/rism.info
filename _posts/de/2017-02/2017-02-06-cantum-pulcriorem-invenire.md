@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Cantum_pulcriorem_invenire_f5b7f35d9f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cantum-pulcriorem-invenire.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/cantum-pulcriorem-invenire.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Insgesamt werden 37 Felder durchsucht. Die Datenbank bietet eine innovative Lös
 Links zur Serie RISM [B/IV](/publications.html#c2619) _Manuscripts of Polyphonic Music_ sind über [DIAMM](http://www.diamm.ac.uk/){:target="_blank"} verfügbar und integriert.
 
 CPI-I listet 956 Dichtungen im Volltext zur Suche auf, von denen wiederum 866 vertont wurden. 565 stammen aus handschriftlichen und gedruckten Quellen.
-
-

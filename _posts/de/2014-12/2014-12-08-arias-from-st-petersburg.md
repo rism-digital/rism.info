@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/arias-from-st-petersburg.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/arias-from-st-petersburg.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Weniger bekannt sind bislang die Vertonungen [Hermann Raupachs](https://opac.ris
 Andere Arien - als die auf der CD wiedergegebene - aus seiner Oper _Siroe_ werden heute in Belgien und Schweden aufbewahrt.
 
 Bildnachweis: [Mariinsky.ru:](http://www.mariinsky.ru/en/about/history_theatre/mariinsky_theatre/) The Mariinsky Theatre prior to reconstruction in 1885, designed by the architect Alberto Cavos
-

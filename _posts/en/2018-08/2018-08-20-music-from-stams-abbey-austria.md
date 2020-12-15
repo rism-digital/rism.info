@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_DVD_Stift_Stams_eda7b32d23.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-from-stams-abbey-austria.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/music-from-stams-abbey-austria.html
 email: rism.hh@musikland-tirol.at
 author: Manfred Schneider
 ---
@@ -28,5 +28,3 @@ Technical execution of the DVD: Michael Steiner-Schweissgut
 With support of the cultural department of the Tyrolean government.
 
 © Institut für Tiroler Musikforschung Innsbruck 2017 - All rights reserved - [www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}
-
-

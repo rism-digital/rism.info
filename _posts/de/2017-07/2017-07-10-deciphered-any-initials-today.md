@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_A1_Initialen_ALINE_bdf832e831.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/deciphered-any-initials-today.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/deciphered-any-initials-today.html
 email: mbierwis@students.uni-mainz.de
 author: Martin Bierwisch
 ---
@@ -37,4 +37,3 @@ So stellt sich die Frage: Haben Sie heute auch schon ein paar Initialen entschl�
 Dann [schreiben Sie uns](mailto:contact@rism.info)! Das gleiche gilt natürlich auch für anonyme Kompositionen.
 
 _Abbildung_: _Sechs Gesänge mit Begleitung der Guitarre_ von Caroline von Egloffstein (RISM A/I: IN 16; [RISM ID no. 990072864](https://opac.rism.info/search?id=00000990072864&Language=en){:target="_blank"}), aus der Privat-Bibliothekvon Axel Beer (D-KWbeer). Das Exemplar der Anna Amalia Bibliothek (D-WRtl) ist dem Bibliotheksbrand 2004 zum Opfer gefallen, allerings ist ein[Digitalisat des Mikrofilms](http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10001489844){:target="_blank"}zu finden.
-

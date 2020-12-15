@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/richard-wagner-manuscripts-to-be-digitized.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/richard-wagner-manuscripts-to-be-digitized.html
 email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---
@@ -26,4 +26,3 @@ Immediately after the completion of the long-term project that saw the renovatio
 Now that this preparatory work is complete, the path is now clear for digitization and cataloging in the database. At present, the heart of the archival holdings are being digitized: original handwritten letters by Cosima and especially Richard Wagner, his notebooks, and the fair copies of his scores. Following this, the digital copies will be cataloged in the museum's own database, thus creating the basis for their online presentation.
 
 _Image_: Manuscript page with a letter by Richard Wagner. Source: Nationalarchiv der Richard-Wagner-Stiftung, Bayreuth.
-

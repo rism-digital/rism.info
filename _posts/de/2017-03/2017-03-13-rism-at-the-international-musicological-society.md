@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IMS_Tokyo_b997ce8e0b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ Klaus Keil und Jennifer Ward von der RISM-Zentralredaktion werden einen Vortrag 
 
 
 Dies ist der erste IMS-Kongress in Asien und wir würden uns freuen, Sie dort zu treffen!
-

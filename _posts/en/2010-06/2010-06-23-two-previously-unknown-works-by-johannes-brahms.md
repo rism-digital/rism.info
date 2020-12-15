@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Brahms-Ms-001-web_98728df419.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/two-previously-unknown-works-by-johannes-brahms-discovered.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/two-previously-unknown-works-by-johannes-brahms-discovered.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -16,4 +16,3 @@ The copies of the two male voice choral pieces on texts by Emanuel Geibel and Wi
 Both works were first published by Breitkopf & Härtel, Wiesbaden (Choral Library 5321, edited by Helmut Lauterwasser). About 157 years after their composition, the songs were heard again, sung by the Bavarian Radio Choir, in the course of its annual press conference on 5 March<sup></sup>2010. This was an important event both for Brahms scholarship and the musical world in general because it meant the performance of the very earliest surviving music of Brahms.
 
 Click [here](http://www.br-online.de/br-klassik/leporello/klassik-news-johannes-brahms-aelteste-komposition-ID1267631685660.xml){:target="_blank"} to hear thechoral pieces online.
-

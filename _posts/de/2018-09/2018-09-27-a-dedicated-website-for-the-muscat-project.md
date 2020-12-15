@@ -4,9 +4,9 @@ title: Eine eigene Website für das Muscat-Projekt
 date: 2018-09-27
 lang: de
 post: true
-category: new_at_rism
+category: rism_digital_center
 image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-dedicated-website-for-the-muscat-project.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---
@@ -28,6 +28,3 @@ Muscat weist unter anderem neun markante technische Merkmale auf:
 - Muscat verfolgt [alle Änderungen](http://muscat-project.org/data-versioning.html), die an den einzelnen Datensätzen in der Datenbank gemacht werden.
 - Die Daten sind mit [internationalen Authoritätsdateien](http://muscat-project.org/data-interoperability.html), wie biespielsweise VIAF, verknüpft.
 - Schließlich bietet Muscat eine [dynamische Visualisierung](http://muscat-project.org/visualization.html) der Suchergebnisse auf einer geographischen Karte.
-
-
-

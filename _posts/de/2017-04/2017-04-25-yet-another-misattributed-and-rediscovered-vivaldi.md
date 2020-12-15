@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
@@ -37,6 +37,3 @@ _Michael Talbot,
 
 Abbildung: _Laetatus sum_ C-Dur, kürzlich von Michael Talbot als Werk von Vivaldi identifiziert und fortan unter RV 827 verzeichnet (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095){:target="_blank"}). Auf der ersten Notenseite verleitete die Namensnennung "Buranello" zur Zuschreibung an Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
-
-

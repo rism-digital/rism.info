@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Beethoven_0763003b24.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-peek-inside-beethovens-workshop.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/a-peek-inside-beethovens-workshop.html
 email: ''
 author: ''
 ---
@@ -16,4 +16,3 @@ Das großangelegte Forschungsprojekt „[Beethovens Werkstatt](http://beethovens
 Einen ersten Einblick in die Vorgehensweise des Projekts bietet die beeindruckende[Demo](http://beethovens-werkstatt.de/demo/index.html){:target="_blank"} zum 1. Satz der Klaviersonate c-Moll Op. 111 auf der Website von Beethovens Werkstatt mit Texterläuterungen und einer Variantenabfolge.
 
 Man darf gespannt auf weitere Ergebnisse sein.
-

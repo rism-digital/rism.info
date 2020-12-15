@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_DVD_Stift_Stams_eda7b32d23.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-from-stams-abbey-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/music-from-stams-abbey-austria.html
 email: rism.hh@musikland-tirol.at
 author: Manfred Schneider
 ---
@@ -25,5 +25,3 @@ Foto und ©: Hildegard Herrmann-Schneider (2015)
 Technische Realisierung der DVD: Michael Steiner-Schweissgut
 Edition mit Förderung der Kulturabteilung der Tiroler Landesregierung.
 © Institut für Tiroler Musikforschung Innsbruck 2017 - Alle Rechte vorbehalten - [www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_News_CH_vom_2020-01-28_11-06-36_0b38e1efba.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
 email: ''
 author: ''
 ---
@@ -25,5 +25,3 @@ Dank einer neuen Zusammenarbeit der RISM-Zentralredaktion mit der brasilianische
 **Zukünfitge Zusammenarbeit mit RISM Schweiz**
 
 Mit der Veröffentlichung von Muscat 6.0 kommt auch ein neuer Kooperationsvertrag zwischen RISM Schweiz und der Zentralredaktion zum tragen. Diese Zusammenarbeit baut auf den langfristigen Perspektiven auf, die RISM Schweiz inzwischen in Aussicht hat, sowie auf verschiedenen Gesprächen mit weiteren Partnern des RISM-Projekts. Ab sofort wird RISM Schweiz die Entwicklung von Muscat leiten. Dies wird in enger Zusammenarbeit mit der Zentralredaktion und unter der Aufsicht der Commission Mixte geschehen. Die RISM-Zentralredaktion ist weiterhin für die Verwaltung der Daten und die Richtlinien verantwortlich. Die Arbeitspakete für die von RISM Schweiz übernommenen Entwicklungs- und Managementaufgaben werden jährlich diskutiert und ggf. neu definiert. RISM Schweiz wird weiterhin eine eigene Server-Infrastruktur unterhalten, die hauptsächlich der Entwicklung von Muscat+ dient. Dabei handelt es sich um ein neues Web-Frontend für Muscat, das maßgeschneiderte Suchfunktionen bietet und die Integration anderer Ressourcen ermöglicht.
-
-

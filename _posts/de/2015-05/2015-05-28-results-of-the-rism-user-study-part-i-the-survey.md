@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-i-the-survey.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
 author: ''
 ---
@@ -82,5 +82,3 @@ Wir können die Antworten auf diese Frage auch nutzen, um Einblicke zu bekommen,
 Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
 
 Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/community/survey.html) veröffentlicht (Link auf unserer Website unten rechts).
-
-

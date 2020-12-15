@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nachzueglerinnen_3f80c883aa.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/eight-more-women-composers.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/eight-more-women-composers.html
 email: ''
 author: ''
 ---
@@ -53,5 +53,3 @@ Printed Wien, Pietro Mechetti qdm. Carlo. RISM A/I: [ZZ 223 I,1](https://opac.ri
 
 
 _Abbildung_: Comtesse de Vidampierre, "L'heureuse securité" in _Mercure de France_, Juli 1771, S. 80. Via [Bayerische Staatsbibliothek](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10407393-8){:target="_blank"}. RISM A/I: [V 1456](https://opac.rism.info/search?id=00000990066466){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2017-annual-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/the-2017-annual-report.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ The annual report for the RISM Central Office has been [published on our website
 - **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface. RISM data have been reused in the local catalogs of the Bibliotheksservicezentrum (Library Service Centre) in Konstanz, the Staatsbibliothek zu Berlin, the SLUB Dresden, the Koninklijk Conservatorium Brussel, and the Moravian Music Foundation.
 
 Here's to a successful and productive 2018!
-

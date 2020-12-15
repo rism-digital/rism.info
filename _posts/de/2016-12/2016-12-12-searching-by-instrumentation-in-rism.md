@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Besetzung_Bild_6d37d04324.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-by-instrumentation-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/searching-by-instrumentation-in-rism.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Valletta_2018_fa9ee0d7be.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/valletta-malta-european-capital-of-culture-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/valletta-malta-european-capital-of-culture-2018.html
 email: ''
 author: ''
 ---
@@ -42,4 +42,3 @@ There aren't any sources in the RISM catalog from Malta yet...does anyone out th
 **Michelangelo Vella** (1710, Senglea – 1792, Cospicua) received his musical training in — you guessed it — Naples and returned to Malta in 1738 in order to work as as a music teacher, organist, and _maestro di cappella_. The six sonatas for three violins and bass are among his most popular works and were printed in Paris during his lifetime (RISM A/I: [V 1107, VV 1107, VV 1107a](https://opac.rism.info/search?View=rism&author=Vella+Michelangelo&Language=en){:target="_blank"}).
 
 _Image_: View of Valletta, photo by Joergsam, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VallettaAufMalta2000.JPG){:target="_blank"} (CC-BY-SA-3.0).
-

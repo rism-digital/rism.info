@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-200th-birthday-to-alexander-dreyschock.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/happy-200th-birthday-to-alexander-dreyschock.html
 email: krkraeme@students.uni-mainz.de
 author: Kristina Krämer
 ---
@@ -48,4 +48,3 @@ _Am 2. Dezember 1843. Joseph Pirazzi._
 
 
 _Abbildung_: Alexander Dreyschock, Kniestück, Lithografie von Josef Kriehuber. Universitätsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Online verfügbar](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.
-

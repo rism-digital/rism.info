@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/MusMig.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-migrations-in-the-early-modern-age-the-meeting-of-the-european-east-west-and-south.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/music-migrations-in-the-early-modern-age-the-meeting-of-the-european-east-west-and-south.html
 email: ''
 author: ''
 ---

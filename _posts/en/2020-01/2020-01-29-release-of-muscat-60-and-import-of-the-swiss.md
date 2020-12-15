@@ -4,9 +4,9 @@ title: Release of Muscat 6.0 and Import of the Swiss dataset
 date: 2020-01-29
 lang: en
 post: true
-category: new_at_rism
+category: rism_digital_center
 image: "/images/news-old-website/csm_News_CH_vom_2020-01-28_11-06-36_0b38e1efba.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
 email: ''
 author: ''
 ---
@@ -25,5 +25,3 @@ Muscat 6.0 also contains a new Portuguese translation, which has been a new coll
 **Future work with the RISM Switzerland**
 
 The release of Muscat 6.0 inaugurates a new collaboration contract between the RISM Switzerland and the Central Office. This collaboration builds on the long-term perspectives the RISM Switzerland now has and following various discussions conducted with other partners of the RISM project. From now on, the RISM Switzerland will lead the development of Muscat. This will be done in close collaboration with the Central Office and under the supervision of the Commission Mixte. The RISM Central Office is responsible for the management of the data and of the guidelines. Work packages for the development and management duties taken over by the RISM Switzerland will be discussed and defined annually. The RISM Swizerland will maintain its own server infrastructure that will be used for the development of Muscat+, a new web front-end for Muscat that will offer tailored discovery features and integrate other resources.
-
-

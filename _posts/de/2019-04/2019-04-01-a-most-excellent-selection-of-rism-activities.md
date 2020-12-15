@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm__Titelseite_Bild_9413cdf091.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-most-excellent-selection-of-rism-activities.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/a-most-excellent-selection-of-rism-activities.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Der gesamte beschriebene Band kann von dieser [Seite](/resources-old-website/new
 Die Öffentlichkeit wird gebeten, ihre Lösungen zur Bewertung mit den Redakteuren zu teilen.
 
 Sollte dieser Band in günstiger Weise bei der Öffentlichkeit ankommen, werden die Redakteure veranlasst, die Arbeit an demselben Plan fortzusetzen und Abonnements anzubieten, die durch Versendung der entsprechenden Summe an den Drucker erworben werden können.
-

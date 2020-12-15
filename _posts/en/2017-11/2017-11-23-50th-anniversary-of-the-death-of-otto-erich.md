@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Deutsch appears in many ways to be inseparable from Franz Schubert, as seen for 
 In RISM, Deutsch is of course most visible thanks to his Schubert catalog: it is cited in nearly 1,600 [Schubert sources](https://opac.rism.info/search?View=rism&author=118610961&Language=en){:target="_blank"}. His _Music Publishers’ Numbers: A Selection of 40 Dated Lists, 1710–1900_ (London: Aslib, 1946; published as an expanded edition in German in 1961) is another valuable resource for RISM in dating printed music.
 
 _Image_: Otto Erich Deutsch circa 1928, from the [Radio Wien program guide](http://anno.onb.ac.at/cgi-content/anno?aid=raw&datum=19280326&seite=23&zoom=33){:target="_blank"} of 26 March 1928, p. 23, via [Wikidata](https://commons.wikimedia.org/wiki/File:Otto_Erich_Deutsch_(1883%E2%80%931967).jpg){:target="_blank"}.
-

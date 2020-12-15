@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-helsinki-cataloging-seminar.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/rism-at-the-helsinki-cataloging-seminar.html
 email: ''
 author: Jennifer Ward
 ---
@@ -20,5 +20,3 @@ Die anderen Präsentationen waren natürlich auf Finnisch, aber Jaakko hat freun
 Ich habe [Finna](https://finna.fi/Content/about?lng=en-gb){:target="_blank"} kennengelernt, ein gemeinsamer Katalog von Bibliotheken, Museen und Archiven in Finnland. Sie können [Musikmanuskripte](https://finna.fi/Search/Advanced){:target="_blank"} finden, indem Sie den Inhaltstyp auf eine „Musikpartitur" beschränken. Mich hat interessiert, welche Herausforderungen zweisprachige Vokabulare mit sich bringen: Da Finnland zwei Amtssprachen hat (Schwedisch zusätzlich zum Finnischen), müssen die Begriffe natürlich in beiden Sprachen vorhanden sein. Aber manchmal hat ein einziges Wort im Finnischen zwei mögliche Übersetzungen ins Schwedische und umgekehrt. Der Finto-Service listet die verwendeten Vokabeln und Ontologien auf. Für die Musik sind das [Musiikin asiasanasto](https://finto.fi/musa/en/){:target="_blank"} (Finnischer Musik-Thesaurus), [Musiikin ontologi](https://finto.fi/muso/en/){:target="_blank"} (Ontologie für Musik) und [SEKO](https://finto.fi/seko/en/){:target="_blank"} für Musikinstrumente von Interesse.
 
 Ich möchte Tatja Pusa ([Nationalbibliothek Finnland](https://www.kansalliskirjasto.fi/en){:target="_blank"}) für ihre organisatorische Unterstützung und Jaakko Tuohiniemi für die Einladung zu einem Vortrag danken. Ich war dankbar für die Gelegenheit, unsere Arbeit mit unseren finnischen Kollegen zu teilen, und im Laufe des Seminartages hatte ich die Gelegenheit, mit unseren Kollegen aus der Musikbibliothek in Helsinki und anderswo zu sprechen. Wir haben rund [1.100 Datensätze in RISM](https://opac.rism.info/search?View=rism&siglum=FIN-*){:target="_blank"} von finnischen Institutionen, und ich hoffe, dass wir unsere Zusammenarbeit mit ihnen intensivieren können. _Kiitos_!
-
-

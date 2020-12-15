@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Sulzer_Bericht_Voss_c491e54966.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/manuscript-containing-jewish-liturgical-songs-1832-now-in-rism-1.html
 email: steffen.voss@bsb-muenchen.de
 author: Steffen Voss
 ---
@@ -22,5 +22,3 @@ Vom 5. November 2015 bis zum 8. Januar 2016 findet im Flur der Musikabteilung de
 Parallel zum Ausstellungsbeginn fand im Lesesaal der Musikabteilung ein Werkstattkonzert statt, in dem Kompositionen aus der Handschrift (darunter als Höhepunkt der oben erwähnte Schubert-Psalm) erklangen. Als Interpreten wirkten Mitglieder des Madrigalchors der Musikhochschule München und des Synagogenchors „Schma Kaulenu“ unter abwechselnder Leitung von _David Rees_ und Martin Steidler sowie der Berliner Kantor Amnon Seelig als Solist mit. Nach der Begrüßung durch den Musikabteilungsleiter Herrn Dr. Reiner Nägele und Frau Dr. Charlotte Knobloch ([Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern](http://www.ikg-m.de/gemeinde/organe/){:target="_blank"}) hielt David Rees einen spannenden Einführungsvortrag, der auf Geschichte und Bedeutung der Sammlung hinwies, bevor das eigentliche Konzert begann, an dessen Ende das Publikum die Möglichkeit hatte, die Originalhandschrift zu bestaunen und Fragen an die anwesenden Experten zu stellen.
 
 Es wurde bei den begleitenden Gesprächen noch einmal auf die Bedeutung der Katalogisierung der Handschrift durch RISM hingewiesen und der Wunsch geäußert, dass auch andere Sammelhandschriften mit überlieferten Synagogengesängen des 19. Jahrhunderts von den zuständigen RISM-Ländergruppen erfasst würden.
-
-

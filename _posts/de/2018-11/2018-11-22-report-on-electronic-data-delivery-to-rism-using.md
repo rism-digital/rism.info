@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -29,4 +29,3 @@ Aus den zwanziger Jahren gibt es einzelne Quellen von Gelegenheitsmusiken zur Ar
 Darüberhinaus gibt es für Sie in dieser Datenlieferung von [CZ-Bu](https://opac.rism.info/search?siglum=CZ-Bu&Language=de){:target="_blank"} im RISM-Onlinekatalog noch viel mehr zu entdecken. Es ist ein Bestand mit einer großen Vielfalt an Quellen und Musikwerken, der nicht geschlossen ist, sondern offen in alle Richtungen zeitlich wie musikalisch. Viel Freude dabei und Erfolg bei der Arbeit mit den Katalogisaten.
 
 Abbildung: Árie italských mistrů ze 2. pol. 17. století pro soprán a basso continuo / Italienische Arien aus der zweiten Hälfte des 17. Jahrhunderts, p. 5; CZ<cite>-Bu </cite><cite>RKPMus-0763.835</cite><cite>; RISM ID No. <a href="https://opac.rism.info/search?id=553013031&amp;View=rism" title="Öffnet externen Link in neuem Fenster" target="_blank" class="external-link-new-window">553013031</a> <a href="http://www.digitalniknihovna.cz/mzk/view/uuid:87aea16e-b81c-41eb-890f-1756110e822e?page=uuid:19842e34-37f3-41b1-82b6-e55597d3d33e" title="Öffnet externen Link in neuem Fenster" target="_blank" class="external-link-new-window">Online verfügbar</a></cite>
-

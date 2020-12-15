@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
 email: emily.hopkins@mcgill.ca
 author: Emily Hopkins
 ---
@@ -22,5 +22,3 @@ To answer these questions, a comprehensive accounting of the surviving repertoir
 Among the goals is a freely accessible website for inventories of all musical sources of polyphonic music printed or copied during the 16th century, with information on dates, provenance, and type of source. Information from RISM's database of printed editions and manuscripts will be incorporated, among other databases, and it will include links to RISM and other online inventories and catalogues. OMR (optical music recognition) will be employed for mensural notation, making it possible to do automatic transcriptions which will be linked to the inventories. Visualization tools will be built showing how music moved across space and time.
 
 The project will contribute to a vastly expanded understanding of the musical landscape of the 16th century. The four research themes explore the role of music in the fields of religious conflict, colonization and conversion, regional and international identity, and sacred vs. secular. The project will be beneficial to not only the study of Renaissance music but will also engage with studies on the history of the book, religious studies, optical music recognition, and digital humanities.
-
-

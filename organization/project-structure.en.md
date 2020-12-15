@@ -3,6 +3,7 @@ title: "Project Structure"
 layout: organization
 lang: en
 permalink: /organization/project-structure.html
+old_url: http://www.rism.info/organisation/project-structure-and-funding.html
 ---
 
 # Project Structure
@@ -16,6 +17,12 @@ RISM is recognized within the music world as the central place for the documenta
 * Series C: directories of music research libraries
 
 Beyond these series, country groups manage projects that document extant libretti in their countries.
+
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:blank} in over 10 languages.
+
+[Presentation](http://www.bnportugal.pt/images/stories/agenda/2017/RISM_apresentacao_BNP2017.pdf){:blank} by Sílvia Sequeira in Portuguese.
+
+[A video overview](https://youtu.be/K34u716Uwmk){:blank} of RISM's work and the online catalog in German, part of the series Tübinger Tutorials zur Musikwissenschaft. 
 
 ## Funding
 

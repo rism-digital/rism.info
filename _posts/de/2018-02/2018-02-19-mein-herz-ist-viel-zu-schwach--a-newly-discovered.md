@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Telemann-neueArie_d58b4e47bc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -26,4 +26,3 @@ Der vollständige Text über den Fund, Abbildungen der Quelle sowie eine Übertr
 Helmut Lauterwasser, 'Mein Herz ist viel zu schwach, Euch zu verlassen.' Eine neu entdeckte Arie von Georg Philipp Telemann, in: CONCERTO – Das Magazin für Alte Musik Nr. 277 (Januar/Februar 2018), S. 22-25.
 
 _Abbildung_: "Aria del Opera Telemann." Stadtarchiv Braunschweig (D-BSsta), H V: 196 (Sacksche Sammlung) "Jahrhundert XVII"; RISM ID no. [1001015280](https://opac.rism.info/search?id=1001015280){:target="_blank"}. Mit freundlicher Genehmigung von Helmut Lauterwasser.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_rism2_3c185d75bc.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ Wolfgang Rehm war Gründungsmitglied des Vereins Internationales Quellenlexikon 
 Nach seinem Ausscheiden aus dem Amt des Schatzmeisters blieb er dem Verein treu und wurde zu dessen Ehrenmitglied ernannt.
 
 RISM verdankt Wolfgang Rehm unendlich viel. Wir werden sein Andenken in Ehren halten.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-viaf.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/rism-in-viaf.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Betrachten wir beispielsweise den VIAF-Cluster zu [Clara Schumann](http://viaf.o
 Für die beteiligten Bibliotheken und Projekte bieten sich viele Vorteile: Über die VIAF-ID lässt sich eine Person eindeutig identifizieren, unabhängig von der (teilweise länderspezifischen) Ansetzungsform. Besonders deutlich wird dies am Beispiel von [Pjotr Iljitsch Tschaikowski](http://viaf.org/viaf/99258155){:target="_blank"} (untere Abbildung).
 
 Konkret erleichtert dies beispielsweise den Datenaustausch; langfristig ergeben sich viele spannende Möglichkeiten der Zusammenarbeit mit anderen Projekten.
-
-

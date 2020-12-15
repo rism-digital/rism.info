@@ -6,12 +6,12 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mexico_Modern_Monday_AM0811__AM0812__1__e79dab582c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-mexican-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/rism-modern-monday-mexican-music.html
 email: jlazos11@hotmail.com
 author: John G. Lazos
 ---
 
-_Unseren dritten Beitrag zur RISM-Reihe modernen Montag schrieb[John G. Lazos](/international/working-groups.html), der sich mit mexikanischen Quellen für RISM beschäftigt:_
+_Unseren dritten Beitrag zur RISM-Reihe modernen Montag schrieb[John G. Lazos](/working-groups.html), der sich mit mexikanischen Quellen für RISM beschäftigt:_
 
 Unter Mexikanischer Musik versteht man gemeinhin die Musik aus den ersten Jahrzehnten des zwanzigsten Jahrhunderts. Diese Sichtweise etablierte sich unter dem Einfluss einer national geprägten mexikanischen Kultur-Ideologie des 20. Jahrhunderts. Die Grundlage bildete eine Kombination aus klassischen Musikformen mit vor-kolumbianischen Klängen und instrumentalen Anteilen. Die Komponisten, die diesen Ansatz am besten veranschaulichen, sind Manuel M. Ponce(1886-1948),Silvestre Revueltas(1899-1940)sowie Carlos Chávez (1899-1978). Dabei ist die _Sinfonia India_ von Chávez wohl die Komposition dieser Zeit, deren Klang zum Sinnbild mexikanischer Musik wurde.
 
@@ -23,4 +23,3 @@ Im späten zwanzigsten und zu Beginn dieses Jahrhunderts gab und gibt es in Mexi
 
 
 _Abbildung_: José Antonio Gómez y Olguín, Messe in C-Dur (1839). Catedral, Ciudad de México, E10.25/ C2/ LEGBd4/ AM0811; E10.25/ C2/ LEGBd4/ AM0812. RISM ID no. [120000569](https://opac.rism.info/search?id=120000569){:target="_blank"}.
-

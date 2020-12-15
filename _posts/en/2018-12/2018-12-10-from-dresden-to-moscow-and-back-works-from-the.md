@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
 email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---
@@ -30,4 +30,3 @@ The manuscripts, most of which date from the 18th and early 19th centuries and a
 The resulting digital copies will be included in [RISM](https://opac.rism.info/){:target="_blank"} and added to the [collection of court music](https://hofmusik.slub-dresden.de/){:target="_blank"} that is preserved in the SLUB and is already accessible online. Scholars, musicians, and anyone else who is interested will thus receive even more complete insight into the cultivation of music at the Dresden court. In the coming months, cataloging and digitization will be accompanied by joint public events in Moscow and Dresden.
 
 We will of course keep you up-to-date in this space as well.
-

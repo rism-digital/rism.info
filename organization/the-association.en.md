@@ -3,6 +3,7 @@ title: "The Association"
 layout: organization
 lang: en
 permalink: /organization/the-association.html
+old_url: http://www.rism.info/organisation/the-association.html
 ---
 
 # The Association "Internationales Quellenlexikon der Musik"

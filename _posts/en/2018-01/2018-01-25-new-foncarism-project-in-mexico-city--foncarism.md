@@ -6,12 +6,12 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_1_52641b3fed.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
 email: jlazos11@hotmail.com
 author: John Lazos
 ---
 
-_We have received the following announcement from John Lazos ([RISM Mexico/Canada](/international/working-groups.html)):_
+_We have received the following announcement from John Lazos ([RISM Mexico/Canada](/working-groups.html)):_
 
 Dr. John Lazos, who has collaborated with RISM to catalogue [over 500 music works](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} from Mexico, just received a grant from [FONCA](https://foncaenlinea.cultura.gob.mx/resultados/resultados.php?directo=3401){:target="_blank"} (Fondo Nacional para la Cultura y las Artes). This grant permits Dr. Lazos to catalogue around 450 music works from the Archivo Musical del Colegio de Vizcainas (AMCV, RISM siglum: MEX-Mahn), an archive that holds the music collections from three different religious womens' schools that were active in Mexico City between the 16thand the 19thcenturies. The music works from the AMCV will be accessible through RISM’s database sometime early in 2019.
 

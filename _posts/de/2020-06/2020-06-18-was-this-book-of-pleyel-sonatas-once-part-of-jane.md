@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_pleyel_austen_music_00430bd055.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ Weitere Hintergrundinformationen von Kimber finden Sie im [Blog der Rita Benton 
 
 
 _Abbildung_: Einband und S. 23 von Pleyels Sonata II in G-Dur, Allegro, mit dem handschriftlichen Hinweis "Practice this." US-IO FOLIO M322 .P5 B.431-436 1800; [RISM ID no. 990051014](https://opac.rism.info/search?id=990051014&View=rism){:target="_blank"}. [Online verfügbar](http://digital.lib.uiowa.edu/cdm/ref/collection/pleyel/id/4296){:target="_blank"} (public domain).
-

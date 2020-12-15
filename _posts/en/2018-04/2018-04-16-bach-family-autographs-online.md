@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Bach_digital_III_AMB_cb47f32ca5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bach-family-autographs-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/bach-family-autographs-online.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ A second phase of the project included early manuscript copies of Bach's works, 
 Sources documented in Bach Digital are also cataloged in RISM. Bach Digital is funded by the [Deutsche Forschungsgemeinschaft](http://www.dfg.de/){:target="_blank"}. The most recent issue of _[Bibliotheksmagazin](http://staatsbibliothek-berlin.de/fileadmin/user_upload/Bibliotheksmagazin_2018_1.pdf){:target="_blank"}: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ has a nice article about Phase III of the project Bach Digital.
 
 _Image_: A page from J. S. Bach's [Cello Suite in G](https://www.bach-digital.de/receive/BachDigitalSource_source_00001200){:target="_blank"} (BWV 1007), in the hand of Anna Magdalena Bach (RISM ID no. [467026901](https://opac.rism.info/search?id=467026901&Language=en){:target="_blank"}). In Berlin, Staatsbibliothek zu Berlin – PK (D-B), Mus.ms. Bach P 269. Permalink: [resolver.staatsbibliothek-berlin.de/SBB0001DAD700000000](http://resolver.staatsbibliothek-berlin.de/SBB0001DAD700000000)
-

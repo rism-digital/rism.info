@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Triosonate_ffd47d31b6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-volume-in-series-b-published-trio-sonatas.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/new-volume-in-series-b-published-trio-sonatas.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ For one of the best-loved chamber music genres of the seventeenth and eighteenth
 The trio sonatas in this publication describe works for two upper voices and basso continuo, regardless of what instrumental designation appears on the print. Composers born after 1760 are not included in the catalog. The choice to focus on trio sonatas that appeared in print was made in order to consider questions of transmission (dating and attribution) and the important role the printed medium played concerning the history of the genre.
 
 In the catalog, sonatas are listed with their movements, keeping the original names of movements and time signatures. Brief commentary contains comments on the repertory and in some cases biographical information about the composer. The complex database offers different ways of searching, including publisher, place of publication, dedicatee, year of publication, key, and name of movement. (For the database, go to [http://www.uzh.ch/musik/ssl-dir/mwitriosonate/](http://www.uzh.ch/musik/ssl-dir/mwitriosonate/) and register with the access code **3Sona10** ). The database will be imported into the RISM online catalog at a later point in time.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-in-different-languages-for-international-mother-language-day.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
 ---
@@ -75,5 +75,3 @@ Westfriesisch
 Ist Ihre Muttersprache auch dabei? Diese Liste kann jederzeit erweitert werden. Mit dem nächsten Update des RISM Online-Katalogs kommt erstmals Westfriesisch hinzu.
 
 _Abbildung von_ _[pixabay](https://pixabay.com/de/mehrsprachige-sprachen-sprechen-456774/){:target="_blank"}__._
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM-OPAC_-_Personen_c231e23988.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/searching-for-people-in-the-new-rism-catalog.html
 email: ''
 author: ''
 ---
@@ -54,5 +54,3 @@ Pietro Metastasio
 
 Ignace Pleyel
 [https://opac.rism.info/search?id=pe24761&View=rism&Language=en](https://opac.rism.info/search?id=pe24761&View=rism&Language=en){:target="_blank"}
-
-

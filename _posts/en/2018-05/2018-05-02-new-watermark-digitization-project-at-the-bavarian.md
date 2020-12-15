@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lutz_Abbildung_Projektstart_Wasserzeichen_M_02_95acceb577.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-watermark-digitization-project-at-the-bavarian-state-library.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/new-watermark-digitization-project-at-the-bavarian-state-library.html
 email: Bernhard.Lutz@bsb-muenchen.de
 author: Bernhard Lutz
 ---
@@ -20,4 +20,3 @@ The [Bavarian State Library](https://www.bsb-muenchen.de/en/) holds an internati
 In recent years, two large-scale cataloguing and digitization projects have made the manuscripts with polyphonic music accessible to researchers and the public. The manuscripts documented in the printed _Kataloge Bayerischer Musiksammlungen_ (volumes 5,1 and 5,2) were included. A new project focusing on digitizing and cataloguing the watermarks will now allow codicological details to be added to the descriptions. With funding from the [German Research Foundation](http://www.dfg.de/en/index.jsp) (DFG), all watermarks will be recorded over a period of two years beginning in May 2018 using thermographic images and will be made available free of charge through the online services of the Bavarian State Library and indexed in established subject databases such as the [RISM online catalog](https://opac.rism.info/) and the [Watermark Information System](https://www.wasserzeichen-online.de/wzis/index.php) (WZIS).
 
 Image courtesy of Bernhard Lutz.
-

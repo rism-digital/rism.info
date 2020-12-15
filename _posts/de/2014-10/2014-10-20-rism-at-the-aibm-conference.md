@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Nuernberg_18fcb467ff.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-aibm-conference.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/rism-at-the-aibm-conference.html
 email: ''
 author: ''
 ---
@@ -58,5 +58,3 @@ Die zweite Führung durch die Stadtbibliothek brachte uns in die einzelnen Abtei
 
 
 Manfred Ullrich hat für uns auf Flickr ([Teil 1](https://www.flickr.com/photos/14172859@N06/sets/72157648512908495/){:target="_blank"}) ([Teil 2](https://www.flickr.com/photos/14172859@N06/sets/72157648758442795/){:target="_blank"}) einen Ordner mit samt seinen Fotos von Nürnberg und der Tagung erstellt.
-
-

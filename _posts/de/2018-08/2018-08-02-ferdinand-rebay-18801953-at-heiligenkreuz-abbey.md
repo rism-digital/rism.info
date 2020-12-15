@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---
@@ -32,5 +32,3 @@ Viele Werke werden bei Komponistenporträts-Konzerten in Heiligenkreuz und Wien 
 Ein weiterer Teil von Rebays Kompositionen ist im Besitz der Österreichischen Nationalbibliothek.
 
 Seine letzte Ruhestätte befindet sich auf demWiener Zentralfriedhof.
-
-

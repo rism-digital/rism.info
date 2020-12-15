@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Odoevsky_vladimir_a87e8cb696.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/prince-vladimir-fyodorovich-odoyevsky-1803-1869-and-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/prince-vladimir-fyodorovich-odoyevsky-1803-1869-and-music.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ Insgesamt finden sich dort 179 Werke, die Odoevskij zugewiesen sind. Aus seiner 
 Als Literaturnachweis dient der Eintrag zur Person Odoevskijs in der [russischen Wikipedia](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87){:target="_blank"}.
 
 _Abbildung_: Porträt Odoevskijs aus den 1840ern. Der Künstler war Kirill Gorbunov. Via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/7b/Odoevsky_vladimir.jpg){:target="_blank"}.
-

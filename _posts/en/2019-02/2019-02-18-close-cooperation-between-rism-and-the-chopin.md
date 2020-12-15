@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Treffen1_99940fe63d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/close-cooperation-between-rism-and-the-chopin-institute.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/close-cooperation-between-rism-and-the-chopin-institute.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ In addition, the Chopin Institute is planning to make many modern editions from 
 We are very much looking forward to working closely with our Polish colleagues on this extraordinary project.
 
 _All images courtesy of Guido Kraus._
-

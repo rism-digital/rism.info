@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ The parts contain numerous performance markings, including from the premiere on 
 Of course, parts that were used over the course of such a long period of time reveal much about the performance practice of the 19th and 20th centuries in the form of numerous handwritten entries, cuts, pasteovers, performance notes, and even [a taped-in newspaper article](https://sachsen.digital/werkansicht/dlf/361862/314/){:target="_blank"}. The detailed descriptions in the RISM catalog adds information about the singers and conductors when they are mentioned in the music.
 
 _Image_ : Richard Wagner: Rienzi. Excerpt from the finale of Act I (bassoon 1) with cuts and pasteovers (Dresden, [Sächsische Staatsoper, Notenarchiv](https://sachsen.digital/werkansicht/dlf/361862/664/){:target="_blank"}; D-Ds).
-
-

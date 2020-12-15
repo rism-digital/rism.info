@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_02_c93d056fa5.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-summer-of-musical-sources.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/a-summer-of-musical-sources.html
 email: contact@rism.info
 author: ''
 ---
@@ -38,6 +38,3 @@ I also had the opportunity to look through the cards in RISM's old card catalog 
 
 
 All in all, I can say that with the help of individuals at the Central Office, especially Dr. Martina Falletta, I got a good overview of day-to-day work. This improved my skills on both a theoretical and practical level.
-
-
-

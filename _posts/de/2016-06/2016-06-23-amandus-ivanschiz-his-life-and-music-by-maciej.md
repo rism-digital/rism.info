@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ P. Amandus Ivanschiz' OSPPE (1727–1758) musikalisches Wirken steht exemplarisc
 Nach neueren Erkenntnissen verstarb Ivanschiz bereits im Jahre 1758 mit nur 31 Jahren, viel früher also, als bisher angenommen wurde. Das hat Konsequenzen für die Datierung seines Werkes und die Bewertung seines musikalischen Personalstils sowie des Zeitstils in der Mitte des 18. Jahrhunderts. Trotz seines frühen Todes hat Ivanschiz ein recht umfangreiches Œuvre hinterlassen. Neben circa fünfzig großen Sakralwerken wie Messen, Oratorien, Litaneien, Vespern und Antiphonen sind über dreißig Instrumentalwerke erhalten. Vor allem Symphonien und Streichtrios sind dokumentiert. Insgesamt existieren noch nahezu dreihundert Abschriften seiner Werke in verschiedenen Archiven und Bibliotheken in elf europäischen Ländern. Das zeigt die weite Verbreitung und Popularität dieser Musik im 18. Jahrhundert. Beim RISM sind bisher [158 Musikhandschriften](https://opac.rism.info/search?View=rism&author=Ivanschiz+Amand){:target="_blank"} dokumentiert und verweisen auf die neue Publikation mit dem Kürzel JochAI. Ein Großteil der Werke Ivanschiz' wurde immer wieder von ihm selbst und von Kopisten neu bearbeitet und für einzelne Aufführungen angepasst. Die vielen Varianten seiner Werke stehen für die Aufführungspraxis ihrer Zeit und einen wandlungsfähigen Werkbegriff.
 
 Der vorliegende Band ist der erste, der eine kritische Bestandsaufnahme des Werkes von Ivanschiz vornimmt auf der Grundlage der überlieferten handschriftlichen Musikquellen. Er ergänzt somit ein Stück weit unser Bild von der vorklassischen Periode und der klösterlichen Musikpraxis darin.
-
-

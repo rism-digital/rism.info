@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_muscat_03_df0154796c.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshops-this-fall.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/muscat-workshops-this-fall.html
 email: coloquio.tallerdeedicion@gmail.com
 author: ''
 ---
@@ -36,5 +36,3 @@ Location: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg
 Workshop leader: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)
 Time: 10.30 – 16.30
 Location: [Österreichische Nationalbibliothek](https://www.onb.ac.at/de/bibliothek/ausbildung/universitaetslehrgang/neuer-standort/){:target="_blank"}, Ausbildungsabteilung
-
-

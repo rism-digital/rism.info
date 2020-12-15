@@ -3,6 +3,7 @@ layout: publications
 title: "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM"
 lang: de
 permalink: /publications/conferences/work-level-2019.html
+old_url: http://www.rism.info/de/publikationen/werkebene-2019.html
 ---
 
 # Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM 

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-discoveries-of-vivaldi-in-dresden.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/new-discoveries-of-vivaldi-in-dresden.html
 email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
 ---
@@ -40,5 +40,3 @@ The information given by RISM is of high value and is easily accessible. Thanks 
 There are still more than sixty sonatas for violin and continuo, approximately twelve string trio sonatas, and more than fifty concertos that remain anonymous in _Schrank II_; most of them are available online and linked in RISM. The tools developed by the SLUB and RISM will serve as an essential catalyst for new discoveries and will help, among other things, to put a name to other unsigned manuscripts.
 
 Image credit: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden,Cadenza from the Concerto [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
-
-

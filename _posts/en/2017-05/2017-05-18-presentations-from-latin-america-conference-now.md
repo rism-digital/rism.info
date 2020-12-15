@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Gruppenphoto_95435a4794.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/presentations-from-latin-america-conference-now-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/presentations-from-latin-america-conference-now-online.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ We would like to thank Gabriele Buschmeier and our colleagues at the Akademie in
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm" frameborder="0" allowfullscreen></iframe>
-
-

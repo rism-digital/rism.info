@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-music-from-christ-church-library.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/digitized-music-from-christ-church-library.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ The manuscripts being digitized are significant to the history of English music 
 Currently, the RISM online catalog has [over 2,600 sources](https://opac.rism.info/search?View=rism&siglum=GB-Och){:target="_blank"} of music manuscripts and printed music from Christ Church, and this number continues to grow. From the Bodleian Library, RISM has [nearly 10,000 sources](https://opac.rism.info/search?View=rism&siglum=GB-Ob){:target="_blank"}.
 
 _Image_: [Mus 45](http://viewer.bodleian.ox.ac.uk/christchurch/page.php?book=mus._45&page=8){:target="_blank"}, table-book, late sixteenth century, f. 2v. "O vos omnes" by Robert White. Courtesy of Christ Church Library and used with kind permission.
-

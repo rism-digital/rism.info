@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bibliothekssigel_Polen_2_18b35d183f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/500-days-since-the-launch-of-the-rism-library-sigla-database.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/60/article/64/500-days-since-the-launch-of-the-rism-library-sigla-database.html
 email: contact@rism.info
 author: ''
 ---

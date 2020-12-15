@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_poster_01_e385b020e8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east-1.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/2012-international-conference-at-ewha-womans-university-in-seoul-the-discovery-of-modernity-in-east-1.html
 email: ''
 author: Dr. Eun-Ha Kim
 ---

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Gruppenfoto2015_483ff1da01.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/welcome-to-the-new-rism-office.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/welcome-to-the-new-rism-office.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ We have spent this week settling into our new office. We're now on the Goethe Un
 [Post](https://www.facebook.com/media/set/?set=a.900204173353761.1073741831.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
 
 [Post](https://www.facebook.com/media/set/?set=a.901231746584337.1073741833.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
-
-

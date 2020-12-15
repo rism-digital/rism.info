@@ -102,4 +102,3 @@ References
 **[1]** Holman, Peter (2012). 'A Purcell manuscript lost and found'. in Early Music. 40/3. pp.469-487.
 
 &nbsp;
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Zanni_9306c2f180.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/help-solve-a-90-year-old-musical-mystery.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/help-solve-a-90-year-old-musical-mystery.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Können Sie irgendwelche Werke finden? Eine weltweite musikalische Schatzsuche i
 Lassen Sie die Suche beginnen! (Und sagen Sie RISM bitte, wenn Sie irgendetwas finden, so dass es in unserem Online-Katalog dokumentiert werden kann.)
 
 Musica bietet [eine kurze Biographie](http://www.iaml.info/files/news/musica_-_rodolfo_zanni.pdf){:target="_blank"} von Zanni auf Italienisch. Die Wettbewerbsregeln sind in [Italienisch](http://www.iaml.info/files/news/zanni_italian.pdf){:target="_blank"}, [Spanisch](http://www.iaml.info/files/news/zanni_spanish.pdf){:target="_blank"}und [Englisch](http://www.iaml.info/files/news/zanni_english.pdf){:target="_blank"}verfügbar.
-
-

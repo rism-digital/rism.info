@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Wanhal_1_fb4acaf107.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-baptist-wanhal-and-the-first-viennese-school.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/johann-baptist-wanhal-and-the-first-viennese-school.html
 email: ''
 author: Paul Sommerfeld
 ---
@@ -42,5 +42,3 @@ _Images, top to bottom:_
 3: Artaria was one of the earliest Viennese publishers to issue Wanhal’s music. Johann Baptist Wanhal, _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
 
 4: The first page of an especially exquisite Adagio movement in a piano sonata by Wanhal, published in _Tre Sonate per il Forte piano o Clavicembalo_ (Vienna: Artaria). M23.W24 op. 30 Case, Music Division, Library of Congress. [RISM ID no. 990065693](https://opac.rism.info/search?id=00000990065693&View=rism){:target="_blank"}
-
-

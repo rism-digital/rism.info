@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_ChWolff_klein_0360ffe331.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
 email: ''
 author: ''
 ---
@@ -19,5 +19,3 @@ Christoph Wolff zu Ehren wurde Johann Sebastian Bachs Suite für Violoncello bei
 Christoph Wolff wirkte von 2004 bis 2013 als Präsident des RISM und ist jetzt einer der[Ehrenpräsidenten](/new_at_rism/2014/11/14/christoph-wolff-named-honorary-president-of-rism.html){:target="_blank"}. Herzlichen Glückwunsch Herr Wolff!
 
 _Foto mit freundlicher Genehmigung von Christoph Wolff._
-
-

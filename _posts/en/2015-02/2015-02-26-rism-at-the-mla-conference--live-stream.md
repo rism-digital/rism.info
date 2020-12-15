@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/resources-old-website/pics/RISM_MLA_conference.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-mla-conference-live-stream.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/rism-at-the-mla-conference-live-stream.html
 email: ''
 author: ''
 ---
@@ -49,5 +49,3 @@ Schedule: [http://www.musiclibraryassoc.org/page/mla\_2015\_sched](http://www.mu
 Live stream (for presentations in the Platte River room): [http://www.ustream.tv/channel/mla2015](http://www.ustream.tv/channel/mla2015){:target="_blank"}
 
 Recorded content after the conference: [http://vimeopro.com/musiclibraryassoc/denver-2015](http://vimeopro.com/musiclibraryassoc/denver-2015){:target="_blank"}
-
-

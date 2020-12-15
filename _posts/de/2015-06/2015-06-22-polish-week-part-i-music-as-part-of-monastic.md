@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Kasaty-logo.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/polish-week-part-i-music-as-part-of-monastic-heritage-in-poland.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/polish-week-part-i-music-as-part-of-monastic-heritage-in-poland.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -23,4 +23,3 @@ Bei der Online-Dokumentation von Musikquellen wirken eine Reihe polnischer RISM-
 Die Online-Datenbank ist in polnischer Sprache gehalten. Unter den Stichwörtern[**Cystersi, Lubiąż**](http://pw.kasaty.pl/klasztor/Monastery/489.html){:target="_blank"} finden sich zum Beispiel folgende Katalogisate von Musikquellen. Rechter Hand zeigt ein Suchfilter eine Liste der katalogisierten Objekte an, die Musikalien unter dem Stichwort **Muzykalia**. Viel Spaß beim Stöbern.
 
 _Was gibt es noch Neues aus der polnischen Quellenforschung? Teil 2 folgt am Mittwoch mit einer Beschreibung der Konferenz Klasztor i muzyka / Klöster und Musik - bleiben Sie dran._
-

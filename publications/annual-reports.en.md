@@ -3,6 +3,7 @@ layout: publications
 title: "Annual Reports"
 lang: en
 permalink: /publications/annual-reports.html
+old_url: http://www.rism.info/en/publications/annual-reports.html
 ---
 
 # Annual Reports

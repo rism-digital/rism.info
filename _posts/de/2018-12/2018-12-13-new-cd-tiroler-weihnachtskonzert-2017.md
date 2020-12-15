@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_CD_TWK17_CoverSm_93c3829926.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-cd-tiroler-weihnachtskonzert-2017.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/new-cd-tiroler-weihnachtskonzert-2017.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---
@@ -16,5 +16,3 @@ Im Institut für Tiroler Musikforschung ist 2018 der Livemitschnitt des 29. _Tir
 Ferner ist zu hören Weihnachtsmusik des 18. und 19. Jahrhunderts aus Tiroler Musikarchiven, nämlich in Ersteinspielung aus den Franziskanerklöstern Kaltern ([I-CALDf](https://opac.rism.info/search?View=rism&siglum=I-CALDf){:target="_blank"}) und Reutte ([A-RTf](https://opac.rism.info/search?View=rism&siglum=A-RTf){:target="_blank"}), dem Domkapitelarchiv Brixen ([I-BREd](https://opac.rism.info/search?View=rism&siglum=I-BREd){:target="_blank"}) und dem Tiroler Landesmuseum Ferdinandeum, Innsbruck ([A-Imf](https://opac.rism.info/search?View=rism&siglum=A-Imf){:target="_blank"}).
 
 Mehr Informationen zu den CD-Veröffentlichungen finden Sie [hier](http://cdeditionen.musikland-tirol.at/content/cd-editionen-2018/klingende-kostbarkeiten-aus-tirol-101.html){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_MMM2-Logo-Gruen_69367a1c94.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
 email: kontakt@mugemir.de
 author: Martin Bierwisch
 ---
@@ -20,4 +20,3 @@ As a result, a completely forgotten music teacher from Mainz such as [Frohwald T
 Articles include a biographical sketch and an overview of works; when applicable, locations of course include RISM library sigla and links to digitized versions of works (see, for example, [the article on Adolph Herget](http://www.mmm2.mugemir.de/doku.php?id=herget){:target="_blank"}). For printed editions from the RISM A/I series or individual manuscripts, links are also provided directly to the RISM catalog (see the article on [Franz Heinrich Ehrenfried](http://www.mmm2.mugemir.de/doku.php?id=ehrenfried){:target="_blank"}). Internal links connect individual articles.
 
 Additional articles will be added gradually. If you are interested in supporting the editors with articles or suggestions, please write to [kontakt@mugemir.de](mailto:kontakt@mugemir.de).
-

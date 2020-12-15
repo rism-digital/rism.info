@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Goeteborg_Mark_the_Music_Handscrift_0b45301c06.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ Slides are [available online](http://smbf.nu/arkivet/markthemusic/markthemusic.h
 The course included a study visit to the [Herbert Blomstedt Collection](http://www.ub.gu.se/samlingar/blomstedt/){:target="_blank"}, which is housed at the university and open for researchers. It includes the conductor's personal book collection plus an impressive collection of rare manuscripts that Blomstedt has collected over the course of his many travels. Since Blomstedt is still an active conductor, his personal scores are still in his possession. The curator of the collection told us of how Blomstedt still actively seeks out rare materials and buys them knowing that he will be able to entrust them to the care of the university library.
 
 Many thanks go to Pia Shekhter for the kind invitation to speak in Gothenburg and for the excellent organization of the course. Tusen tack!
-

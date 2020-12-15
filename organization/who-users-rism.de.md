@@ -3,6 +3,7 @@ title: "Who uses RISM?"
 layout: organization
 lang: de
 permalink: /organization/who-uses-rism.html
+old_url: http://www.rism.info/de/unternehmen/wer-nutzt-rism.html
 ---
 
 # Wer nutzt RISM?

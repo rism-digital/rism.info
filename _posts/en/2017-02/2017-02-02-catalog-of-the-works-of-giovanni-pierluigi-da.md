@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Palestrina-1_b6437c0fbf.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html
 email: carola.finkel@hfmdk-frankfurt.de
 author: Carola Finkel
 ---
@@ -26,4 +26,3 @@ This DFG project is being carried out in cooperation with [Schott Music](https:/
 
 ![Palestrina catalog](/resources-old-website/news/Palestrina-2.jpg)
 _A view of the search screen_
-

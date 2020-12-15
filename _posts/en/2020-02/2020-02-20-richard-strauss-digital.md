@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Strauss_digital_SLUB_f0096ef363.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/richard-strauss-digital.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/richard-strauss-digital.html
 email: ''
 author: SLUB Dresden
 ---
@@ -28,5 +28,3 @@ See also [https://www.slub-dresden.de/sammlungen/musik/musik-spezialthemen/richa
 
 _Image_: Richard Strauss, [score to](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_[Der Rosenkavalier](http://digital.slub-dresden.de/id510014771/1){:target="_blank"}_ (1943)
 CC BY-SA 4.0
-
-

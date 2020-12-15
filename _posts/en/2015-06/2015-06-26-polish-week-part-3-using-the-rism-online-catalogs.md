@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_D-FW_0931485874.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/polish-week-part-3-using-the-rism-online-catalogs-filters-with-monastic-collections.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---
@@ -25,5 +25,3 @@ The composer filter also leads to a feature of [D-FW](https://opac.rism.info/sea
 
 
 There are, of course, reasons and a variety of causes for all of these features in the collections, brought to the surface by the filters in the catalog. Now the work of the musicologist begins, answering questions as to the _why_ and deducing information from the results. Next to its documentary usefulness at the initial stages of musicological work, the RISM catalog is a demonstrably indispensable instrument.
-
-

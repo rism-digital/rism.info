@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Fontes_covers_free_4d9c4b7051.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/free-access-to-fontes-artis-musicae-through-june-30.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/free-access-to-fontes-artis-musicae-through-june-30.html
 email: ''
 author: ''
 ---
@@ -83,4 +83,3 @@ Inger Jakobsson-Wärn
 Heidi Heinmaa
 - [Texas: Where Americans, Mexicans, Germans, and Italians Meet: The Hauschild Music Collection at the Cushing Memorial Library and Archives](https://muse.jhu.edu/article/671832){:target="_blank"}
 Felicia Piscitelli
-

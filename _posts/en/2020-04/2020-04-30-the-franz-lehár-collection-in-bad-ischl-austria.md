@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
 email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
@@ -26,5 +26,3 @@ A comprehensive music collection from the Viennese publisher Glocken, which Leh�
 So far, over 700 shelfmarks for music in the Lehár Collection have been documented in the RISM database. The bulk of the collection can already be searched by the public. The entire collection should be in RISM by the end of the year.
 
 _Image_: The Franz Lehár Villa in Bad Ischl. Photo by Toffel from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
-
-

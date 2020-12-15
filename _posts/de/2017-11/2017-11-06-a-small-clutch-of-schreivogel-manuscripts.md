@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Schreivogel_06a7c82d46.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-small-clutch-of-schreivogel-manuscripts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/a-small-clutch-of-schreivogel-manuscripts.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ Den ganzen Aufsatz finden Sie in:
 Michael Talbot, Certainly Milanese, possibly Swiss: the violinist and composer Johann Friedrich Schreivogel (fl. 1707–1749), in: _[Schweizer Jahrbuch für Musikwissenschaft](http://www.smg-ssm.ch/smg/Forschung-Publikationen/Editionen/Jahrbuch.html){:target="_blank"}_ 34/35 (2014/2015), S. 41-68.
 
 _Abbildung_: Zuschreibung an Schreivogel auf dem Manuskript: _del Sig. Giov Federico | Schraifoghel detto | il Tedeschino_. Konzert d-Moll in der SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076){:target="_blank"}).
-

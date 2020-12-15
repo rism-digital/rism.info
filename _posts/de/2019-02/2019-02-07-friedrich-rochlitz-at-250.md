@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Rochlitz_250_9fbeb78fdc.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/friedrich-rochlitz-at-250.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/friedrich-rochlitz-at-250.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Rochlitz gab eine mehrbändige _Sammlung_ _vorzüglicher Gesangstücke_ _der ane
 Von [Rochlitz' eigenen Kompositionen](https://opac.rism.info/search?View=rism&author=Rochlitz+Friedrich&Language=en){:target="_blank"} sind einige im RISM-Katalog verzeichnet.
 
 _Abbildung_: Titelblatt der _Sammlung vorzüglicher Gesangstücke_, Band 3, Exemplar aus der Bayerischen Staatsbibliothek München ([D-Mbs 2 Mus.pr. 317-2](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131406-1){:target="_blank"}).
-
-

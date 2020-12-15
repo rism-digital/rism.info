@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Lost_Voices_fdff2e5ba4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-lost-voices-project-is-now-live.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/the-lost-voices-project-is-now-live.html
 email: ''
 author: ''
 ---
@@ -21,4 +21,3 @@ Hier werden Leser Faksimiles von allen Büchern sowie moderne Abschriften, wisse
 Die Transkriptionen sind mit Hilfe von [MEI](http://music-encoding.org/home){:target="_blank"} kodiert worden. Benutzer können das Buch, die Werke und Personen durchsuchen. Eine Vielfalt von Suchoptionen ist auch verfügbar. Für jedes Buch sind [RISM B/I](/publications.html#c490) Nummern angeführt. Die Werke sind mit modernen Ausgaben, einer verlässlichen Aufnahme und einem Faksimile der Originalquelle verknüpft.
 
 Der Austausch mit anderen Forschern wird gewünscht. Benutzer können sich über Werke äußern und von anderen Wissenschaftlern gemachte Anmerkungen ansehen. Das Projekt ist ein open source Projekt und wird mit der [Creative Commons Namensnennung-Nicht kommerziell 3.0 Unported Lizenz](http://creativecommons.org/licenses/by-nc/3.0/deed.de){:target="_blank"}lizenziert, so sind alle frei, diese Materialien zu teilen und zu bearbeiten.
-

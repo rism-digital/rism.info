@@ -3,6 +3,7 @@ layout: publications
 title: "RISM Conference 2012: Music Documentation in Libraries, Scholarship, and Practice"
 lang: en
 permalink: /publications/conferences/conference-2012/program.html
+old_url: http://www.rism.info/publications/music-documentation-2012/program.html
 ---
 
 # RISM Conference 2012: Music Documentation in Libraries, Scholarship, and Practice

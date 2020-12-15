@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_05_06920253fc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/this-week-perspectives-on-introducing-a-work-level-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/this-week-perspectives-on-introducing-a-work-level-in-rism.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Drei Tage lang (9. - 11. Mai) wollen wir uns austauschen, diskutieren und auspro
 Wir freuen uns, dass zahlreiche Referenten aus dem In- und Ausland zugesagt haben und sind gespannt auf die (unterschiedlichen) Standpunkte aller Teilnehmer.
 
 Die Vorträge werden aufgezeichnet und nach der Konferenz auf dem [RISM YouTube-Kanal](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w){:target="_blank"} zur Verfügung gestellt. Das ausführliche Programm mit Abstracts finden Sie auf der [Konferenzwebseite](/publications/conferences/work-level-2019.html).
-
-

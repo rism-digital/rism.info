@@ -26,4 +26,3 @@ For all of this, and for much more, I would like to thank you all personally. It
 With best wishes,
 
 Klaus Keil
-

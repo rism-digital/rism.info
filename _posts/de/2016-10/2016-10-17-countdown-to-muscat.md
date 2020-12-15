@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Muscat_Workshop_f9d349ff5a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/countdown-to-muscat.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/countdown-to-muscat.html
 email: ''
 author: ''
 ---

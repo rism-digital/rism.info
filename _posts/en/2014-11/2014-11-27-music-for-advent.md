@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Advent_wreath_70f72b1002.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-for-advent.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/music-for-advent.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---
@@ -26,6 +26,3 @@ Alternately, try selecting the index **Liturgical festival** in the drop-down li
 
 
 Now you just have to find a modern edition of the composition you have chosen or contact the holding library to inquire about ordering a reproduction.
-
-
-

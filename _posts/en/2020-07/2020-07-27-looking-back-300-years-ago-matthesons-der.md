@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Don't be surprised if you hear recordings with different instruments. Mattheson 
 
 
 _Image_: Title page for Johann Mattheson's _Der brauchbare Virtuoso_, copy in [Staats- und Universitätsbibliothek Hamburg](https://resolver.sub.uni-hamburg.de/kitodo/PPN805164146){:target="_blank"} (CC BY-SA 4.0) [RISM ID no. 990040091](https://opac.rism.info/search?id=990040091&View=rism){:target="_blank"}.
-
-

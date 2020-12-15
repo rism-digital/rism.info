@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Ungarn_Mozart_Autograph_265b1618d5.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/mozart-autograph-from-budapest-now-available-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/mozart-autograph-from-budapest-now-available-online.html
 email: mikusi@oszk.hu
 author: ''
 ---
@@ -36,5 +36,3 @@ Balázs Mikusi
 Balázs Mikusi
 
 .
-
-

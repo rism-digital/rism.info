@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Stift_Melk_Prominczel_d638112953.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/presenting-the-music-collection-at-melk-abbey.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/presenting-the-music-collection-at-melk-abbey.html
 email: musikarchiv@stiftmelk.at
 author: Johannes Prominczel
 ---
@@ -35,4 +35,3 @@ Apart from the fact that only a few manuscripts are [cataloged in RISM (siglum: 
 **Johannes Prominczel, music archivist**
 
 _All photos (c) Stift Melk and used with permission._
-

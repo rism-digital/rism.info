@@ -6,12 +6,12 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_1_52641b3fed.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/new-fonca-rism-project-in-mexico-city-fonca-rism-nuevo-proyecto-en-la-ciudad-de-mexico.html
 email: jlazos11@hotmail.com
 author: John Lazos
 ---
 
-_Die folgende Ankündigung erhielten wir von John Lazos ([RISM Mexiko/Kanada](/international/working-groups.html)):_
+_Die folgende Ankündigung erhielten wir von John Lazos ([RISM Mexiko/Kanada](/working-groups.html)):_
 
 Dr. John Lazos, der schon [über 500 Musikalien](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} aus Mexiko in einer Kooperation mit RISM katalogisierte, hat Fördermittel des [FONCA](https://foncaenlinea.cultura.gob.mx/resultados/resultados.php?directo=3401){:target="_blank"} (Fondo Nacional para la Cultura y las Artes) erhalten. Mit dieser finanziellen Unterstützung kann Dr. Lazos etwa 450 Musikalien des Archivo Musical del Colegio de Vizcainas (AMCV, RISM-Bibliothekssigel: MEX-Mahn) erfassen. Das Archiv bewahrt die Musiksammlungen von drei verschiedenen religiösen Frauenschulen, die zwischen dem 16. und 19. Jahrhudnert in Mexico City aktiv waren, auf. Die Musikalien des AMCV werden Anfang 2019 über die RISM-Datenbank zugänglich sein.
 

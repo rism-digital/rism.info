@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/pentecost-and-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/pentecost-and-music.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ Noch häufiger als der Pfingsthymnus wurde die Pfingstsequenz _[Veni Sancte Spir
 Weitere Musikquellen zu Pfingsten – insgesamt 4.341 – finden Sie, wenn Sie in der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} unter **Liturgische Feste** nach **Pentecostes** suchen. Dort haben Sie auch die Möglichkeit, differenzierter zu suchen, beispielsweise nach Musik für den Pfingstmontag: **pentecostes, feria ii.**
 
 _Abbildung_: Melodie von _Veni Creator Spiritus_ von Der wahre Jakob via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Veni_creator_spiritus.jpg){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-century-of-john-milton-ward.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/a-century-of-john-milton-ward.html
 email: cawelti@fas.harvard.edu
 author: Andrea Cawelti
 ---
@@ -48,5 +48,3 @@ Ward starb friedlich in seinem Haus im Cambridge am 12. Dezember 2011 im Alter v
 Die Quellen der Ward Collection wurden in zahllosen Artikeln und Büchern zitiert. Die Bereiche Musikethnologie, Ballett, Gesellschaftstanz und Operetten sowie Musicals, die bis zu Beginn von Wards Sammeltätigkeit nicht Teil der Forschungsarbeit waren, wurden nun intensiv untersucht und die Harvard-Sammlungen gehören dank ihm zu den besten in der Welt. Und woran denke ich selbst am Tag seines 100. Geburtstags? Ich vermisse ihn. Er sagte oft, er hatte einfach das Glück, zur richtigen Zeit am richtigen Ort zu sein. Ich denke, er selbst hat es dazu gemacht. Wir sind die Glücklichen, weil wir darin leben dürfen. Auf ein weiteres Jahrhundert mit der Ward Collection!
 
 _Alle Bilder mit freundlicher Genehmigung derHarvard University._
-
-

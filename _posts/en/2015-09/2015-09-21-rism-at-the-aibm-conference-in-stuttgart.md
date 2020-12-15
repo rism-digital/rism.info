@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Stuttgart_7a236e2a1f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-aibm-conference-in-stuttgart.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/rism-at-the-aibm-conference-in-stuttgart.html
 email: contact@rism.info
 author: Anne-Marie Wurster
 ---
@@ -16,5 +16,3 @@ The [AIBM annual conference](http://www.aibm.info/tagungen/2015-stuttgart/){:tar
 On September 24, Martina Falletta and Jennifer Ward of the RISM Central Office will be looking forward to giving an overview of the recent RISM user study and sharing the initial results and their implications.
 
 An attractive cultural program will round off the conference, including a tour through the new [Stuttgart Municipal Library](http://www1.stuttgart.de/stadtbibliothek/){:target="_blank"} and the [Stuttgart Opera](http://www.oper-stuttgart.de/ "external-link-new-window").
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amelie-julie-candeille-at-250.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/amelie-julie-candeille-at-250.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ Anja Herold, "[Candeille, Amélie-Julie](http://www.sophie-drinker-institut.de/c
 Julian Rushton, et al. "Candeille, Julie." [Grove Music Online. Oxford Music Online](http://www.oxfordmusiconline.com/subscriber/article/grove/music/04725){:target="_blank"}. Oxford University Press.
 
 _Image_: Rose Dupuis performing the role of Catherine in _Catherine ou La belle fermière_ by Julie Candeille. Illustration by Atelier Maleuvre, Paris, 1818. From [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b6400634h/f1.item){:target="_blank"} (Bibliothèque nationale de France).
-
-

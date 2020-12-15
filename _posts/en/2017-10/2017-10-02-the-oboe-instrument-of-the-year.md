@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Oboe_f3843d94ca.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-oboe-instrument-of-the-year.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/the-oboe-instrument-of-the-year.html
 email: ''
 author: ''
 ---
@@ -45,5 +45,3 @@ The RISM catalog of course contains music where oboes are included but aren't fe
 Browsing through music for the oboe family in the RISM catalog will turn up a host of undiscovered gems, many of which lack modern performing editions or don't even make an appearance in recitals. Take a look at the RISM catalog and bring these works back to life!
 
 _Image_: The oboe through the ages, by OboeCrack (from [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Cu_oboe.jpg){:target="_blank"})
-
-

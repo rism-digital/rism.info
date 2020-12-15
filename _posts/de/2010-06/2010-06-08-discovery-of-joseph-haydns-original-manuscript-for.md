@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_HaydnVieuxtempsKBRfolio2_45f6b9457f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/discovery-of-joseph-haydns-original-manuscript-for-the-pieces-hob-xix1-and-hob-xix2-royal-libr.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/66/article/64/discovery-of-joseph-haydns-original-manuscript-for-the-pieces-hob-xix1-and-hob-xix2-royal-libr.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---

@@ -28,4 +28,3 @@ Work by postgraduate researchers Micah Neale and James Ritzema, supervised by St
 This scoping study is funded by the Strategic Knowledge Exchange Initiative at Royal Holloway, University of London.
 
 We would also be very pleased to hear from holders of material within RISM’s scope who would be interested in adding its details to the database. Please contact Caroline Shaw, Secretary of the RISM (UK) Trust: [caroline.shaw@bl.uk](mailto:caroline.shaw@bl.uk) if you would like to be involved.
-

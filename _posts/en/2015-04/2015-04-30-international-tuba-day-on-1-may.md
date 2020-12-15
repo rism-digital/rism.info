@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Tuba_296eed917b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/international-tuba-day-on-1-may.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/international-tuba-day-on-1-may.html
 email: ''
 author: ''
 ---
@@ -35,5 +35,3 @@ There are links to over 50 digitized scores with tuba in the online catalog, inc
 Happy Tuba Day!
 
 Photo credit: Elongated tuba made by Emil Körner, via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Tubajuri_2004.jpg?uselang=de){:target="_blank"}. The instrument is in the Musikinstrumenten-Museum Markneukirchen.
-
-

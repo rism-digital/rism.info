@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_ICCU_contract_logo_956efb3384.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/agreement-signed-between-iccu-iaml-italy-and-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/agreement-signed-between-iccu-iaml-italy-and-rism.html
 email: ''
 author: ''
 ---
@@ -54,4 +54,3 @@ to improve the visibility of the OPAC SBN and RISM online catalogues by promotin
 
 
 RISM's partners in the agreement are [ICCU](http://www.iccu.sbn.it/){:target="_blank"}, the Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le informazioni bibliografiche, and [IAML Italy](http://www.iamlitalia.it/){:target="_blank"}, the Italian branch of the International Association of Music Libraries, Archives and Documentation Centres.
-

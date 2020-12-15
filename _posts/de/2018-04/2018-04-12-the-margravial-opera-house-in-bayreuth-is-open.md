@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Bayreuth_Wiedereroeffnung_63b4b6b599.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/the-margravial-opera-house-in-bayreuth-is-open-again-in-all-its-baroque-glory.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Der Festakt kann über [Video-Livestream](http://www.br.de/franken){:target="_bl
 Johann Adolph Hasses Oper _Artaserse_ über den persischen Großkönig zeigt eine Welt voller Machtspiele, arrangierten Beziehungen und Geschwisterliebe. Der Protagonist der Oper vertraut den Urteilsspruch dem Vater des mutmaßlichen Mörders an und verurteilt den eigenen Sohn zum Tode. Die Oper wurde am 11. Februar 1730 im Teatro San Giovanni Gristostomo in Venedig erstmals aufgeführt und war überaus beliebt. Dies schlägt sich auch mit über [200 Nachweisen](https://opac.rism.info/search?View=rism&author=Hasse+Johann+Adolf&title=artaserse){:target="_blank"} im RISM Online-Katalog nieder.
 
 _Abbildung_: Libretto von Metastasio für Johann Adolph Hasses Opera _Artaserse_ (1730), über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Artaserse_Libretto_Cover_1730.jpg){:target="_blank"}.
-
-

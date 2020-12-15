@@ -3,6 +3,7 @@ layout: publications
 title: "Bibliographie"
 lang: de
 permalink: /publications/bibliography.html
+old_url: http://www.rism.info/de/publikationen/bibliographie.html
 ---
 
 # Bibliographie

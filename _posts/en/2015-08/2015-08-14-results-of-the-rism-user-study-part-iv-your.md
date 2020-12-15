@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
 email: ''
 author: ''
 ---
@@ -30,4 +30,3 @@ It is true that several major institutions are disproportionately represented in
 To summarize this past week, the comments that we have discussed are only a small portion of the numerous questions and comments we received from the survey. Further results will be presented at the AIBM conference in Stuttgart next month. Additional questions will be answered on our website and we hope to incorporate your suggestions into the next versions of the online catalog. The complete results will be published at the end of this year.
 
 Photo credit: Österreichische Nationalbibliothek, Prunksaal. Manfred Morgner, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Nationalbibliothek2.jpg){:target="_blank"}
-

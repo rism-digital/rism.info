@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_reutte_2010_480_01_2e57216cc1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tyrolean-christmas-concert-18-19-december-2010.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/tyrolean-christmas-concert-18-19-december-2010.html
 email: ''
 author: ''
 ---

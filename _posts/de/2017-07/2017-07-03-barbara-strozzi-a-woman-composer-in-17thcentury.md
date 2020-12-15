@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Eigendarstellung_-_Barbara_Strozzi_1_623a22b790.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
@@ -23,4 +23,3 @@ Obwohl Strozzis Aufführungen in einer privaten Sphäre stattfanden, wurde ihre 
 Der [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=barbara+strozzi&Language=en){:target="_blank"} verzeichnet alle Sammeldrucke Strozzis, die überliefert sind, also op. 1-3 und 5-8 (leider ist ihr Opus 4 verschollen). Darüber hinaus findet man Abschriften von ihren Arien und anderen Vokalstücken. Die Liste von Bibliotheken, in denen sich diese Quellen befinden, ist relativ lang und vielfältig: die British Library (RISM Bibliothekssigel GB-Lbl, 3 Quellen), Biblioteka Uniwersytecka Wrocław (RISM Bibliothekssigel PL-WRu, 1 Quelle), Museo internazionale e biblioteca della musica di Bologna (RISM Bibliothekssigel I-Bc, 3 Quellen) und die Staatsbibliothek zu Berlin (Bibliothekssigel D-B, 2 Quellen) sind nur ein paar Beispiele. Außerdem sind Strozzis [op. 1](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7936){:target="_blank"}, [op. 6](http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=8518){:target="_blank"} und [op. 7](http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.200154784/default.html){:target="_blank"} als Digitalisate verfügbar. Klicken Sie auf die obigen Links, um ihre publizierte Bänder näher zu untersuchen.
 
 _Abbildung_: Bernardo Strozzi, _Eine Gambenspielerin_, ca. 1630-1640, Gemäldegalerie Alte Meister (Dresden), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABarbara_Strozzi_1.jpg){:target="_blank"}.
-

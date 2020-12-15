@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Die dreiaktige Oper _Gustav Vasa_ erzählt den Kampf zwischen Schweden und Däne
 In einer großartigen Umsetzung der Videotechnik verwandelte sich der ultramoderne Konzertsaal des Helsinki Music Center in ein mittelalterliches Schlachtfeld ([Helsinki Baroque Orchestra](http://www.hebo.fi/tapahtuma/leopold-kozeluch-gustav-vasa/){:target="_blank"}). Die komplette Aufzeichnung der Aufführung vom 10. März 2018 wird [online](https://areena.yle.fi/1-4313561){:target="_blank"} zur Verfügung gestellt (die Musik beginnt bei 8:38). Auch das deutschsprachige [Libretto](https://yle.fi/tiedotusradio1/Gustav_Wasa_korrigiert_yle.pdf){:target="_blank"} steht online zur Verfügung.
 
 _Abbildung_: Porträt Leopold Koželuh von W. Ridley, über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kozeluh349.jpg){:target="_blank"}.
-
-

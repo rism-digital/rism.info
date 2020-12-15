@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
 email: contact@rism.info
 author: ''
 ---
@@ -24,4 +24,3 @@ Als eine wahre Fundgrube hat sich auch das Verzeichnis der im deutschen Sprachra
 Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an: [contact@rism.info](mailto:contact@rism.info), [johanna.thoene@rism.info](mailto:johanna.thoene@rism.info) oder [martin.bierwisch@rism.info.](mailto:martin.bierwisch@rism.info)
 
 _Abbildung_: Ludwig Helmbold,_Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
-

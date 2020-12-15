@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Carl_Amand_Mangold_24a3327394.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rare-performance-of-mangolds-tanhaeuser.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/rare-performance-of-mangolds-tanhaeuser.html
 email: ''
 author: ''
 ---
@@ -27,4 +27,3 @@ Beginn der Opernaufführung ist um 17 Uhr im darmstadtium Darmstadt. Der Auffüh
 
 
 Bildnachweis: Porträt von Carl Amand Mangold und Szenen aus der Oper. Alle Abbildungen mit freundlicher Genehmigung des Konzertchors Darmstadt.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-data-big-data.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/rism-data-big-data.html
 email: ''
 author: ''
 ---
@@ -29,5 +29,3 @@ Anyone is welcome to take our data out for a spin. If you do so, we'd love to he
 
 
 _Image: From the British Library's open data_
-
-

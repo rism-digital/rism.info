@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ P. Amandus Ivanschiz OSPPE (1727–1758), a member of the Pauline order, was bor
 According to new findings uncovered by Jochymczyk, Ivanschiz died in 1758 at the young age of 31 - much earlier than was previously thought. This has consequences for dating his music and assessing his personal musical style and the mid-eighteenth-century style. In spite of his early death, Ivanschiz left behind a rich body of works, including around 50 large sacred works such as masses, oratorios, litanies, vespers, and antiphonies. In addition, over 30 instrumental works are preserved, especially symphonies and string trios. In total, nearly 300 manuscript copies of his works are extant in different libraries and archives in eleven European countries. That shows the broad dissemination and popularity of this music in the eighteenth century. In RISM, [158 music manuscripts](https://opac.rism.info/search?View=rism&author=Ivanschiz+Amand){:target="_blank"} are documented and include a reference to Jochymczyk's new catalog (with the abbreviation JochAI). Many of Ivanschiz's compositions were reworked by him and copyists, and adapted for new performances. The many variations of his works document the performance practice of the time as well as a versatile idea of a "work."
 
 This book is the first book that undertakes a critical appraisal of Ivanschiz's oeuvre on the basis of extant handwritten musical sources. It fills a gap in our knowledge of the pre-classical period and monastic musical life.
-

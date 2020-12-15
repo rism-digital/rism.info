@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Lim__korea_Chang_family_8875715a5b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/bessie-lim-the-first-woman-musician-of-korea-and-her-newly-discovered-work.html
 email: jchangsfz@gmail.com
 author: Dr. JeongYoun Chang
 ---
@@ -26,4 +26,3 @@ Bessie Lim's whole life was marked by her Christian faith and it reflects a big 
 _Images_:
 Top: Bessie Lim and Bernard Kim. Photo courtesy of Bessie Lim's family.
 Bottom: Manuscript of Bessie Lim's "My Bible" ([RISM ID no. 1001061643](https://opac.rism.info/search?id=1001061643&View=rism&Language=en){:target="_blank"}). Photo courtesy of JeongYoun Chang.
-

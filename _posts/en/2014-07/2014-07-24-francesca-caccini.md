@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Caccini_d64e608671.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/francesca-caccini.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/francesca-caccini.html
 email: ''
 author: ''
 ---
@@ -34,5 +34,3 @@ Bibliography: Suzanne G. Cusick, _Francesca Caccini at the Medici court: Music a
 Francesca Caccini, [Musik und Gender im Internet](http://mugi.hfmt-hamburg.de/A_lexartikel/lexartikel.php?id=cacc1587){:target="_blank"}
 
 Image credit: Anonymous cameo, [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Francesca_Caccini.jpg){:target="_blank"}
-
-

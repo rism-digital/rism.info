@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Stuttgart_7a236e2a1f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-aibm-conference-in-stuttgart.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/rism-at-the-aibm-conference-in-stuttgart.html
 email: contact@rism.info
 author: Anne-Marie Wurster
 ---
@@ -18,4 +18,3 @@ Martina Falletta und Jennifer Ward von der RISM Zentralredaktion freuen sich dar
 
 
 Ein attraktives Rahmenprogramm, das unter anderem Führungen durch die neue[Stadtbibliothek Stuttgart](http://www1.stuttgart.de/stadtbibliothek/){:target="_blank"} und die [Stuttgarter Oper](http://www.oper-stuttgart.de/ "external-link-new-window") beinhaltet, rundet das Tagungsprogramm ab.
-

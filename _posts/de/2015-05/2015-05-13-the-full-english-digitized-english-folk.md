@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Full_English_55000003a8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-full-english-digitized-english-folk-manuscripts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/the-full-english-digitized-english-folk-manuscripts.html
 email: ''
 author: ''
 ---

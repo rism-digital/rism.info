@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_Leipzig_logo_2018_3205319617.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-iaml-congress-in-leipzig.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/rism-at-the-iaml-congress-in-leipzig.html
 email: ''
 author: ''
 ---
@@ -41,4 +41,3 @@ RISM-Neuigkeiten, einschließlich einer Präsentation der neuen Version des RISM
 - David Blum (Moravian Music Foundation, Winston-Salem, NC) Erfahrungen mit der Nutzung von bibliographischen RISM-Daten
 
 Darüber hinaus gibt es noch zahlreiche weitere Vorträge und Diskussionen mit Bezug zu RISM. Das vollständige Programm ist[online verfügbar](http://iaml2018.info/de/programm/){:target="_blank"}.
-

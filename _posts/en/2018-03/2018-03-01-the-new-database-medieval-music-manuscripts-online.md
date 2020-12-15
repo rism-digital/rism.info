@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_MMMO_Database_bd16d41df8.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-new-database-medieval-music-manuscripts-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/the-new-database-medieval-music-manuscripts-online.html
 email: ''
 author: Dominique Gatté
 ---
@@ -22,5 +22,3 @@ In June 2017, I published an initial version of this database using [Google Fusi
 In addition to searching by [source](http://musmed.eu/sources){:target="_blank"} and by [library](http://musmed.eu/archives){:target="_blank"}, a number of search criteria are already available such as searching by source type, century, and religious order. Some searches are still being developed, such as searching by [notation](http://musmed.eu/notation){:target="_blank"} and [repertoire](http://musmed.eu/repertoire){:target="_blank"}.
 
 Do not hesitate to register for MMMOd to write your comments on this or that source ...
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/a-musicological-summer-in-frankfurt.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---
@@ -26,7 +26,7 @@ _Der[Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} in
 
 _Eines von zahlreichen Objektenim Archiv Frau und Musik_
 
-In der vierten Woche des Praktikums nahm ich an dem 66. ordentlichen Kongress der [Internationalen Vereinigung der Musikbibliotheken](http://www.iaml.info/congresses/2017-riga){:target="_blank"}, Musikarchive und Musikdokumentationszentren (IAML) teil. Dieses Jahr fand der Kongress an der [Nationalbibliothek von Lettland](http://lnb.lv/en){:target="_blank"} in Riga statt. Bibliothekare und Archivare aus der ganzen Welt versammelten sich, um ihre Bestände und aktuelle Projekte zu präsentierten. Besonders spannend fand ich die Vorträge über die laufenden Digitalisierungsprojekte von verschiedenen Bibliotheken und Archiven, unter anderem die International Stiftung Mozarteum Salzburg (A-Sm), Bibliothèque royale de Belgique (B-Br), und das Bach-Archiv Leipzig (D-LEb). Auch hochinteressant war der Vortrag von der [chinesisch-sprachigen RISM Arbeitsgruppe](/international/working-groups.html). Ein Mitglied dieser Gruppe sprach über die Bemühungen, chinesische Musikquellen zu dokumentieren und zu bewahren.
+In der vierten Woche des Praktikums nahm ich an dem 66. ordentlichen Kongress der [Internationalen Vereinigung der Musikbibliotheken](http://www.iaml.info/congresses/2017-riga){:target="_blank"}, Musikarchive und Musikdokumentationszentren (IAML) teil. Dieses Jahr fand der Kongress an der [Nationalbibliothek von Lettland](http://lnb.lv/en){:target="_blank"} in Riga statt. Bibliothekare und Archivare aus der ganzen Welt versammelten sich, um ihre Bestände und aktuelle Projekte zu präsentierten. Besonders spannend fand ich die Vorträge über die laufenden Digitalisierungsprojekte von verschiedenen Bibliotheken und Archiven, unter anderem die International Stiftung Mozarteum Salzburg (A-Sm), Bibliothèque royale de Belgique (B-Br), und das Bach-Archiv Leipzig (D-LEb). Auch hochinteressant war der Vortrag von der [chinesisch-sprachigen RISM Arbeitsgruppe](/working-groups.html). Ein Mitglied dieser Gruppe sprach über die Bemühungen, chinesische Musikquellen zu dokumentieren und zu bewahren.
 
 ![National Library of Latvia](/resources-old-website/news/Tompkins_Bericht_Riga_1_378x504.jpg)
 
@@ -35,4 +35,3 @@ _Die lettischeNationalbibliothekin Riga_
 Es ist kaum zu glauben, dass fünf Wochen seit meiner Ankunft in Frankfurt schon vergangen sind. Meine Arbeit in der RISM Zentralredaktion hat mich viel gelehrt, und ich habe viele fantastische Erfahrungen gemacht. Vor allem möchte ich mich den Mitarbeiter/innen der RISM Zentralredaktion, insbesondere Jennifer Ward und Dr. Martina Falletta, bedanken; sie haben ein buntes und lehrreiches Programm für mich arrangiert und haben es mir ermöglicht, wunderbare musikalische Erlebnisse in Frankfurt zu haben. Das Praktikum war ein toller Blick in die Arbeit RISMs, dadurch ich die hochwichtige Beziehung zwischen Musikwissenschaft und Bibliothekswesen besser begreifen konnte.
 
 _Alle Fotos vonVivian Tompkins._
-

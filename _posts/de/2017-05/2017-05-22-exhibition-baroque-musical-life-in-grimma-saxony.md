@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Grimma_RISM_8d9ab3cac6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
@@ -27,5 +27,3 @@ Die Musikaliensammlung der Fürstenschule Grimma (1550–1887) umfasst rund 1.30
 
 Die Musikhandschriften sind im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&q=f%C3%BCrsten+landesschule+grimma){:target="_blank"} beschrieben.
 Inzwischen wurden auch rund 1.000 Handschriften im Rahmen des Landesdigitalisierungsprogramm für Wissenschaft und Kultur des Freistaats Sachsen digitalisiert. Die Digitalisate können direkt aus den Einträgen im RISM-Katalog heraus aufgerufen werden, aber auch ein Stöbern in den [Digitalen Sammlungen](http://digital.slub-dresden.de/kollektionen/107/){:target="_blank"} der Sächsischen Landesbibliothek- Staats- und Universitätsbibliothek Dresden ist möglich.
-
-

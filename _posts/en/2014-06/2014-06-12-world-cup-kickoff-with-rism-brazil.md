@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Brasilien_249d695321.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/world-cup-kickoff-with-rism-brazil.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/world-cup-kickoff-with-rism-brazil.html
 email: ''
 author: ''
 ---
@@ -22,7 +22,7 @@ André Guerra Cotta - Universidade Federal Fluminense Polo Rio das Ostras (PURO-
 Beatriz Magalhães Castro - Universidade de Brasília / Laboratório de Musicologia (UnB/LAMUS)
 Pablo Sotuyo Blanco - Universidade Federal da Bahia (UFBA)
 
-To find out more about the participants, please visit the [RISM Brazil website](/international/working-groups.html).
+To find out more about the participants, please visit the [RISM Brazil website](/working-groups.html).
 
 There are currently [127 Brazilian sources in the RISM online database](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}, all from the Laboratório de Musicologio do Departamento de Música da Escola de Comunicação e Artes da Universidade de São Paulo. In A/1, there are 337 printed editions listed from the Escola Nacional de Música da Universidade do Brasil, the Biblioteca Nacional (both in Rio de Janeiro), and the Conservatório Dramático e Musical in São Paulo. We are looking forward to working with RISM Brazil!
 

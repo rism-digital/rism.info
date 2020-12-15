@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iaml-congress.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/rism-at-the-iaml-congress.html
 email: ''
 author: ''
 ---
@@ -114,4 +114,3 @@ After a short introduction to the instrument and room, the Wörle organ will be 
 - 16.00–17.30
 Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung,Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/fete-des-vignerons.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/fete-des-vignerons.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Zu jedem Sommer gehört ein Weinfest. Und um das Feiern fortsetzen zu können, s
 
 
 _Abbildung_: Fête des Vignerons de Vevey 1889, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vevey_-_f%C3%AAte_des_vignerons_-_affiche_de_1889.jpg?uselang=fr){:target="_blank"}
-
-

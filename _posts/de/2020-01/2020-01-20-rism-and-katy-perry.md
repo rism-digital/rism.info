@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-and-katy-perry.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/rism-and-katy-perry.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ Unten können Sie sich die Lieder von Katy Perry und Flame anhören. Sie sind au
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCcW-guAs_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-

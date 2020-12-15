@@ -3,6 +3,7 @@ title: Survey
 layout: community
 lang: en
 permalink: /community/survey.html
+old_url: http://www.rism.info/en/community/survey-2014-2015.html
 ---
 
 # The RISM survey

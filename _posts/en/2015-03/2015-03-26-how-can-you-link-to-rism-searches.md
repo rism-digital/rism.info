@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/how-can-you-link-to-rism-searches.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/how-can-you-link-to-rism-searches.html
 email: ''
 author: ''
 ---
@@ -82,4 +82,3 @@ All sources in the United States:
 All sources by Gustav Mahler that are in Canada (with interface in English):
 
 [https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler&Language=en](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler&Language=en){:target="_blank"}
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Externe_Incipit_Suchen_6607098cf9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-projects-with-risms-music-incipts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/new-projects-with-risms-music-incipts.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ Abschließend sind kürzlich einige Artikel aus dem Bereich Music Information Re
 
 
 _Abbildung: Beispielsuche auf musicalsources.org._
-
-

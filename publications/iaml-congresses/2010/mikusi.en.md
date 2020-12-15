@@ -3,6 +3,7 @@ layout: publications
 title: "IAML Conference 2010: Mikusi"
 lang: en
 permalink: /publications/iaml-congresses/2010/mikusi.html
+old_url: http://www.rism.info/en/publications/iaml-congresses/2010/rism-hungary.html
 ---
 
 ### Balázs Mikusi, National Széchényi Library, Budapest*

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2014_antwerp-logo_0d8dc53c3b.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-iaml-part-i.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/56/article/64/rism-at-iaml-part-i.html
 email: ''
 author: ''
 ---

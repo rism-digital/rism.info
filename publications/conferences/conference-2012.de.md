@@ -3,6 +3,7 @@ layout: publications
 title: "RISM-Konferenz 2012"
 lang: de
 permalink: /publications/conferences/conference-2012.html
+old_url: http://www.rism.info/de/publikationen/konferenz-2012.html
 ---
 
 # RISM-Konferenz 2012

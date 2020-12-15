@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Musikverlagswiki_137892576f.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The wiki is currently only in German. If you have the name of a publisher or pri
 If you have one of those "orphan" prints that doesn't have a title page, you can go to the page **Plattennummern** and look at sample plate numbers for dozens of publishers, even ones without further entries in the wiki, to help identify who the publisher might be. The page **Literatur** lists authentic primary sources and reliable secondary sources.
 
 Since the resource is a wiki, new information can be added, and contributions are in fact encouraged. The page **Musterseiten** can be used to add new pages for either publishers or printers.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Wagner_Slub_blog_991559831b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
 email: andrea.hammes@slub-dresden.de
 author: Andrea Hammes
 ---
@@ -28,4 +28,3 @@ Die digitalisierten Quellen zu "Die Meistersinger von Nürnberg" sind unter [www
 _Abbildung_: Richard Wagner, Tannhäuser, Paukenstimme, Handschrift in D-Dl Mus.5876-F-510 ([RISM ID no. 270002005](https://opac.rism.info/search?id=270002005&View=rism&Language=en){:target="_blank"}); [online einsehbar](https://digital.slub-dresden.de/werkansicht/dlf/72230/262/0/){:target="_blank"}.
 
 _Weitere Quelle zu Wagner aus [SLUB im RISM-Katalog finden Sie hier](https://opac.rism.info/search?View=rism&siglum=D-Dl&author=Wagner+Richard&Language=en){:target="_blank"}._
-

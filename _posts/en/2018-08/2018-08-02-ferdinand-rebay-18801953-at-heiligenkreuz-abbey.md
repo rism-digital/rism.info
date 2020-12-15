@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rebay_Ferdinand_84f8b63176.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/ferdinand-rebay-1880-1953-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Father Roman Nägele
 ---
@@ -32,5 +32,3 @@ Many works can be heard as part of "Composer Portraits" concerts in Heiligenkreu
 A further portion of Rebay's compositions are housed at the Austrian National Library.
 
 His final resting place is in the Vienna Central Cemetery.
-
-

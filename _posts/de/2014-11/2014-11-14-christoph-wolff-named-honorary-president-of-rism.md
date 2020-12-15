@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_ChWolff_512d53ba0f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/christoph-wolff-named-honorary-president-of-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/christoph-wolff-named-honorary-president-of-rism.html
 email: ''
 author: ''
 ---
@@ -15,4 +15,3 @@ Prof. Dr. Dr. h.c. Christoph Wolff wurde vom amtierenden RISM-Vorstand zum Ehren
 
 
 Bildnachweis: Mit freundlicher Genehmigung von Christoph Wolff
-

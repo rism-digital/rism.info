@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Moralt_-_Kalkant_25a5279a8f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/moralt-a-muscial-family.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/moralt-a-muscial-family.html
 email: ''
 author: ''
 ---
@@ -74,4 +74,3 @@ In [RISM](https://opac.rism.info/search?id=453005312){:target="_blank"}: Three w
 
 
 Image: A bellows blower (left), etching from [Bédos de Celles](https://de.wikipedia.org/wiki/B%C3%A9dos_de_Celles), _L'art du Facteur d'Orgues_ (1776), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OrganumFollis.jpg){:target="_blank"}
-

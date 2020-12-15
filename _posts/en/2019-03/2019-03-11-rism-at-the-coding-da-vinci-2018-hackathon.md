@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hackathon_e3d6e8cfa9.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-coding-da-vinci-2018-hackathon.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/rism-at-the-coding-da-vinci-2018-hackathon.html
 email: ''
 author: ''
 ---
@@ -43,4 +43,3 @@ Adjectives from the [openthesaurus.de](https://www.openthesaurus.de/about/api) A
 Can you figure out which melody will calm the monster?
 
 More information can be found on [hackdash.org](https://hackdash.org/projects/5bd4a33096a2952c33e302c9){:target="_blank"} and [Twitter](https://twitter.com/search?q=%23monstermelodies&src=typd&lang=de){:target="_blank"}.
-

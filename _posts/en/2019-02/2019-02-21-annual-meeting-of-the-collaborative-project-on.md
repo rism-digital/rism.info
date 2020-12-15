@@ -6,12 +6,12 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_IMG_1784_875b2775ab.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/annual-meeting-of-the-collaborative-project-on-chinese-music-resources-in-shanghai.html
 email: tzchia22@gmail.com
 author: Tzu-Chia Tseng
 ---
 
-_We have received the following from Tzu-Chia Tseng of the [RISM Chinese-Language Region](/international/working-groups.html):_
+_We have received the following from Tzu-Chia Tseng of the [RISM Chinese-Language Region](/working-groups.html):_
 
 **2018/12: RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and a Muscat workshop in Shanghai**
 
@@ -50,5 +50,3 @@ As an invited representative of the conference, Jennifer Ward introduced the RIS
 本次会议特邀RISM资深编辑Jennifer Ward访沪，向与会人员介绍RISM组织、工作小组的运作与编目方式，期望未来能有更多华语地区的伙伴投入此工作；隔天，会议亦邀请Jennifer进行了一场Muscat实务工作坊，此为RISM于亚洲地区所举办的第四次Muscat工作坊，透过工作小组与实时翻译的协助，希望让更多的人员实际认识、了解并尝试使用此数据库系统，让更多的音乐文献得以共享。
 
 在会议尾声，本次筹办人之一萧梅教授与与会学者分别提出许多具体建议，特别是针对音乐文献的编目、国际间标准的规范与依循、数字元化工作的实践以及学术研究的应用与推广等面向进行深入探讨，让与会者均获益良多。
-
-

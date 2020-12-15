@@ -3,6 +3,7 @@ layout: publications
 title: "Monday, June 4, 2012"
 lang: en
 permalink: /publications/conferences/conference-2012/abstracts.html
+old_url: http://www.rism.info/publications/music-documentation-2012/program/abstracts.html
 ---
 
 # Monday, June 4, 2012

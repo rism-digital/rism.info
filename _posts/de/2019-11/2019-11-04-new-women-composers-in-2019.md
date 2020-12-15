@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-women-composers-in-2019.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/new-women-composers-in-2019.html
 email: ''
 author: ''
 ---
@@ -43,5 +43,3 @@ Aus Südkorea:
 und [Bessie Lim](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Lim+Bessie&Language=de){:target="_blank"} (1897-1999), über die wir[bereits im April](/rediscovered/2019/04/18/bessie-lim-the-first-woman-musician-of-korea-and.html){:target="_blank"}berichteten.
 
 _Abbildung_: Beginn des geistlichen Gesangs “Occhi io vissi di voi” von Claudia Sessa (ca. 1570-ca. 1619), aus dem_Canoro pianto di Maria Vergine_ (RISM 1613|3 ). Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.125.
-
-

@@ -28,4 +28,3 @@ _Image_: Autograph manuscript of Brunetti's _Sinfonie concertanti_ L. 330, C maj
 &nbsp;
 
 &nbsp;
-

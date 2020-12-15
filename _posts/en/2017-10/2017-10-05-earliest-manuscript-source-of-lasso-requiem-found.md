@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Lasso_Requium_600px-Basilika_St._Ulrich_und_Afra_290bba65b4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/earliest-manuscript-source-of-lasso-requiem-found-in-augsburg.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ Last year, a couple of projects have sought to bring more attention to this uniq
 The provenance of the requiem is the Benedictine abbey St. Ulrich und Afra (see image), whose polyphonic repertoire from 1549 to 1632 is described in Rimek's book.
 
 _Image_: Basilika St. Ulrich und Afra by Emkaer (from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basilika_St._Ulrich_und_Afra.jpg){:target="_blank"})
-

@@ -3,6 +3,7 @@ title: Sigla Help
 layout: community
 lang: en
 permalink: /community/sigla/help.html
+old_url: http://www.rism.info/en/sigla/help.html
 ---
 
 # Guide to using the Online Directory of RISM Library Sigla
@@ -71,5 +72,5 @@ A search for **\*** will retrieve all sigla.
 
 ## Technology used
 
-Searches run against the official RISM SRU server at muscat.rism.info. The complete index configuration is available at https://muscat.rism.info/sru/institutions.
+Searches run against the official RISM SRU server at muscat.rism.info. The complete index configuration is available at [https://muscat.rism.info/sru/institutions](https://muscat.rism.info/sru/institutions){:blank}.
 

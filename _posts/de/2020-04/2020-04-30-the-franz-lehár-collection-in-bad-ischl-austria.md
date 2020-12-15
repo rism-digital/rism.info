@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
 email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---
@@ -26,5 +26,3 @@ Seit den 1990er Jahren ergänzt ein umfangreicher Notenbestand des Wiener Glocke
 Bisher sind in der RISM-Datenbank aus dem Notenbestand des Lehár-Nachlasses über 700 Signaturen dokumentiert. Der Großteil des Bestandes ist bereits öffentlich abrufbar. Bis Ende des Jahres soll der gesamte Bestand auf RISM abrufbar sein.
 
 _Abbildung_: Die Franz Lehár Villa in Bad Ischl. Foto von Toffel über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9har_Villa_Bad_Ischl.JPG?uselang=en){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Fifth_Field_card_01_d2af8ba1fa.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-fifth-field.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/the-fifth-field.html
 email: ''
 author: ''
 ---
@@ -36,5 +36,3 @@ In diesem kurzen Video wird der Einsatz des fünften Felds noch einmal gezeigt:
 
 
 <iframe src="https://www.youtube.com/embed/Qboev7w_QJI?ecver=2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-

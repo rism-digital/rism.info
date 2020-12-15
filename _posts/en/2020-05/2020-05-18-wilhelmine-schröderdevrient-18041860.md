@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/wilhelmine-schroeder-devrient-1804-1860.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/wilhelmine-schroeder-devrient-1804-1860.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ During her Dresden period, guest appearances took the singer to Paris (1830, 183
 As a concert singer, Wilhelmine Schröder-Devrient appeared once again on stage in 1856, performing lieder by Franz Schubert, Beethoven, and Felix Mendelssohn Bartholdy. In 1859 she took leave of the stage and died on 26 January 1860 in Coburg.
 
 _Image_: Madame Schröder as Adriano in Richard Wagner's _Rienzi_, from Johann Jacob Weber, ed., 1803–1880 - _Illustrirte Zeitung_ no. 7, 12 August 1843, J. J. Weber, Leipzig, 1843. [MDZ München](https://commons.wikimedia.org/w/index.php?curid=34793830){:target="_blank"} (public domain).
-
-

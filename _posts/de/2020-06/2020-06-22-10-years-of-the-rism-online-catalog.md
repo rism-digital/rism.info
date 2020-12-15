@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_OPAC_10_8b69fad6ae.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/10-years-of-the-rism-online-catalog.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/10-years-of-the-rism-online-catalog.html
 email: klaus.keil@rism.info
 author: Klaus Keil
 ---
@@ -33,5 +33,3 @@ In den nächsten Jahre soll ein komplett neuer Zugang zu den Daten über die Wer
 
 Klaus Keil
 im Juni 2020
-
-

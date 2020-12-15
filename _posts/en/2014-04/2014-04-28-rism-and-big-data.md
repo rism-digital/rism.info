@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/resources-old-website/pics/Sacred_music_Wordle.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-big-data.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/rism-and-big-data.html
 email: sandra.tuppen@bl.uk
 author: Sandra Tuppen
 ---

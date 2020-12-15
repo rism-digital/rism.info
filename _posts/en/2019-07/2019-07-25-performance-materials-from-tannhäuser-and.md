@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Wagner_Slub_blog_991559831b.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/performance-materials-from-tannhaeuser-and-meistersinger-von-nuernberg-now-online.html
 email: andrea.hammes@slub-dresden.de
 author: Andrea Hammes
 ---
@@ -28,4 +28,3 @@ The digitized sources for "Die Meistersinger von Nürnberg" are available at [ww
 _Image_: Richard Wagner, Tannhäuser, timpani part. Manuscript in D-Dl Mus.5876-F-510 ([RISM ID no. 270002005](https://opac.rism.info/search?id=270002005&View=rism&Language=en){:target="_blank"}); [available online](https://digital.slub-dresden.de/werkansicht/dlf/72230/262/0/){:target="_blank"}.
 
 _Other Wagner sources from the [SLUB in RISM can be found here](https://opac.rism.info/search?View=rism&siglum=D-Dl&author=Wagner+Richard&Language=en){:target="_blank"}._
-

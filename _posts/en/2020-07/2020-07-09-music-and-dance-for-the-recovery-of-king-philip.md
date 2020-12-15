@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: contact@rism.info
 author: ''
 ---
@@ -28,5 +28,3 @@ The health of the king, which was already weakened due to extensive Habsburg inb
 Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info) or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
 
 Images from _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Available online](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
-
-

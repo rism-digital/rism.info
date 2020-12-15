@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM-OPAC_-_Personen_c231e23988.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/searching-for-people-in-the-new-rism-catalog.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/searching-for-people-in-the-new-rism-catalog.html
 email: ''
 author: ''
 ---
@@ -34,7 +34,7 @@ XC – Afrila
 XD – Amerika
 XE – Australien und Ozeanirn
 
-Eine vollständige Liste ([PDF](http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/inhaltserschliessung/laenderCodesAlph.pdf?__blob=publicationFile){:target="_blank"}) finden Sie auch auf der Seite der Deutschen Nationalbibliothek.
+Eine vollständige Liste ([PDF](https://wiki.dnb.de/display/ILTIS/Informationsseite+zur+GND?preview=%2F90411323%2F160151404%2F02-laendercodes_2020-01-28_alph.pdf){:target="_blank"}) finden Sie auch auf der Seite der Deutschen Nationalbibliothek.
 
 **Orte** (Geburts-, Sterbe- oder Wirkungsorte)
 Ortsnamen werden grundsätzlich nur in der Landessprache angegeben (Roma statt Rom oder Rome; Wrocław statt Breslau).
@@ -55,5 +55,3 @@ Pietro Metastasio
 
 Ignace Pleyel
 [https://opac.rism.info/search?id=pe24761&View=rism](https://opac.rism.info/search?id=pe24761&View=rism&Language=en){:target="_blank"}
-
-

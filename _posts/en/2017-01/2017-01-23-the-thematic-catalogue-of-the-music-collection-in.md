@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---
@@ -30,5 +30,3 @@ The catalogue has been divided into three parts: the catalogue arranged by autho
 An introduction by Pavla Semerádová deals with music at the Želiv Monastery in the eighteenth century and the first half of the nineteenth century, the music during the liturgy at the Monastery Church of the Nativity of the Virgin Mary, feast days and celebrations in the Želiv Canonry, the grammar school at the Želiv Monastery, the organ at the monastery church and naturally the music collection.
 
 As a supplement to the catalogue, you will find an index of choirmasters, cantors and succentors in the Želiv monastery church in the period from 1663 to 1856, the indexes of alumni musici and copyists, and a complete watermark catalogue. The name index, the indexes of the filing and distinctive titles and texts, and the index of places of publication and publishers are included as well.
-
-

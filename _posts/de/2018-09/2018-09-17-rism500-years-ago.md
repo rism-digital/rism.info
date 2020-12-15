@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_1518_8828a712ad.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-500-years-ago.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/rism-500-years-ago.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Unter den vormalig bezeichneten _Einzeldrucken vor 1800_ (A/I) findet sich nur e
 Der Druck ist einer der frühesten Zeugnisse christlich geprägter Rezeption der jüdischen Sprache und Musik. Reuchlin war einer der wenigen Intellektuellen seiner Zeit, welche die jüdische Kultur in ihre humanistische Gelehrsamkeit mit einbezogen. In Folge dessen lieferte er sich auch eine Vielzahl von Auseinandersetzungen mit antisemitischen Zeitgenossen.
 
 _Abbildung_: Ausschnitt aus Johannes Reuchlin, _De accentibus et orthographia linguae Hebraicae_ (Hagenau: Thomas Anshelm, 1518). [RISM ID no. 990059797](https://opac.rism.info/search?id=00000990059797&View=rism){:target="_blank"}, Thüringer Universitäts- und Landesbibliothek, Jena (D-Ju) 4 Gl.II,52, fol. 84r. [Available online](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-368e133e-4324-4a26-b959-19595fa56b750){:target="_blank"}.
-
-

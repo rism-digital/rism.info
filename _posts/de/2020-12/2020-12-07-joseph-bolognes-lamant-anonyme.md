@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Joseph_Bologne_s_L_Amant_Anonyme__Chevalier_de_Saint-Georges_4bab01581c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/2/joseph-bolognes-lamant-anonyme.html
+old_url: http://www.rism.info/de/startseite/newsdetails/article/64/joseph-bolognes-lamant-anonyme.html
 email: 'operaritrovata@gmail.com'
 author: 'George N. Gianopoulos, Stephen Karr, Leila Núñez-Fredell, Mishkar Núñez-Fredell'
 ---
@@ -48,4 +48,3 @@ ANMERKUNGEN
 &nbsp;
 
 _Abbildung_: Titelseite des Manuskripts und Porträt von Joseph Bologne (Public Domain, mit freundlicher Genehmigung der Autoren).
-

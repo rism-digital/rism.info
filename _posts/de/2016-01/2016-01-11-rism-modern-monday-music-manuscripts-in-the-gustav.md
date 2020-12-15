@@ -6,14 +6,14 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canada_Mahler_370e57d212.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
 email: cmart29@uwo.ca
 author: Cheryl Martin
 ---
 
 **Wußten Sie, dass die RISM-Datenbank auch Musik nach 1800 verzeichnet? An den kommenden Montagen werden wir einige dieser Werke vorstellen.**
 
-**Der erste Beitrag stammt von Cheryl Martin ([RISM Kanada](/international/working-groups.html)) und betrifft Gustav Mahler Manuskripte in Kanada.**
+**Der erste Beitrag stammt von Cheryl Martin ([RISM Kanada](/working-groups.html)) und betrifft Gustav Mahler Manuskripte in Kanada.**
 
 Die [Gustav Mahler-Alfred Rosé Sammlung](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"} wurde im Oktober 1983 von Maria C. Rosé, der Witwe von Professor Alfred Rosé der University of Western Ontario (CDN-Lu) geschenkt; Rosé war ein Neffe von Gustav Mahler. Die Sammlung enthält verschiedene Manuskripte von Mahler selbst und auch einige Werke Mahlers in der Abschrift von Alfred Rosé.
 
@@ -55,5 +55,3 @@ Chorstimmen und ein Klavierauszug vorbereitet von Alfred Rosé zur Weltpremiere 
 Einige dieser Werke sind[digitalisiert worden](https://archive.org/details/mahlerrose){:target="_blank"} und die Links dazu werden auch in den RISM-Einträgen ergänzt. Weitere Informationen zur Sammlung und einen Link zum Inventar der ganzen Sammlung, finden Sie [hier](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"}.
 
 _Abbildung_: Mahlers Sinfonie Nr. 1 (mit freundlicher Genehmigung der Western University). RISM ID no. [820000232.](https://opac.rism.info/search?id=820000232){:target="_blank"}
-
-

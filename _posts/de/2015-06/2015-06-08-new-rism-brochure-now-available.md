@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_KurzportraitS1_01_67ccaf6ee6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-brochure-now-available.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/new-rism-brochure-now-available.html
 email: contact@rism.info
 author: ''
 ---
@@ -22,4 +22,3 @@ Wenn Sie an gedruckten Exemplaren der Broschüre - ebenso kostenlos - interessie
 
 
 Die neue Broschüre wurde um unsere neue Adresse und verschiedene Commission Mixte Mitglieder aktualisiert. Außerdem wurden die neuesten Entwicklungen wie die Einbeziehung der Daten aus den Serien A/I und B/I berücksichtigt: der RISM Online-Katalog dokumentiert jetzt die Musikquellen aus über 40 Ländern weltweit.
-

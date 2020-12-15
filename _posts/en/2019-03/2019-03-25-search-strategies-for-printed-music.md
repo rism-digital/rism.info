@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_Bde2_8dda4a934f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/search-strategies-for-printed-music.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/search-strategies-for-printed-music.html
 email: ''
 author: ''
 ---
@@ -23,4 +23,3 @@ When you have an A/I or B/I number, a good strategy is to search for it in the f
 If you don't find what you are looking for, then search using the field **All Fields** and put the number in quotation marks: "1684-3". Something might pop up then. The reason is because many entries from A/I are duplicates of B/I material ([reason: it's complicated](/new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20.html){:target="_blank"}), and in such cases the B/I numbers aren't indexed and will only be found through the keyword search.
 
 Printed music dating from 1551 to 1600 is mostly, but not entirely, in the catalog. Post-1610 material is the next project. However, records are continuously revised within the scope of individual RISM projects so it's worth it to search the RISM catalog first before reaching for the blue books. And of course, we have RISM projects that focus on 19th-century music ([such as these Chopin editions](https://opac.rism.info/metaopac/perma.do;jsessionid=634CDC3D78CC8963DC79AC6B958A979F.touch02?v=rism&q=-1%3d%22ks30080660%22){:target="_blank"}), which is something that was not even in the scope of RISM in earlier decades and which do not have A/I or B/I numbers at all.
-

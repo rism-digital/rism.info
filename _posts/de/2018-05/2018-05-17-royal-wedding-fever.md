@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/royal-wedding-fever.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/royal-wedding-fever.html
 email: ''
 author: ''
 ---
@@ -37,5 +37,3 @@ Wir schließen ab mit der brillianten Toccata von Charles-Marie Widor – gespie
 
 
 _Abbildung_: Christoph Graupner, "Bei Pauken und Trompeten," autographe Handschrift, 1748, Universitäts- und Landesbibliothek Darmstadt (D-DS), Signatur Mus.ms 416/17. [RISM ID no. 450005709](https://opac.rism.info/search?id=450005709){:target="_blank"}. [Online verfügbar](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-416-17/0004){:target="_blank"} (CC-0). Mit Hilfe von [PhotoFunny.net](https://www.photofunny.net/out/615269829531550542){:target="_blank"}.
-
-

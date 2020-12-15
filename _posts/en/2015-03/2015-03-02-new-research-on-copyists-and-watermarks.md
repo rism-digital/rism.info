@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Wasserzeichen_1f474109d9.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-research-on-copyists-and-watermarks.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/new-research-on-copyists-and-watermarks.html
 email: klaus.keil@rism.info
 author: Klaus Keil
 ---
@@ -29,4 +29,3 @@ This colloquium, presented by the Berlin State Library, was intended to summariz
 An article about this conference appeared in the _Zeitschrift für Bibliothekswesen und Bibliographie_ and will be available free online in 12 months from the [Thüringer Universitäts- und Landesbibliothek Jena](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
 Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62, no. 1 (2015): 49-53. [Available online in 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
-

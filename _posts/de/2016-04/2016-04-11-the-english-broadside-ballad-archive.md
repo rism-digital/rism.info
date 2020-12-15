@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_EBBA_21cb4acf98.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-english-broadside-ballad-archive.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/the-english-broadside-ballad-archive.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ Your browser does not support the audio element.
 </source></audio>
 
 _Abbildung_: "['Tis Money makes a Man](http://ebba.english.ucsb.edu/ballad/21811/citation){:target="_blank"}," Houghton Library - Huth EBB65H 2.191 (EBBA ID: 34705). [CC BY NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Grimma_RISM_8d9ab3cac6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
@@ -28,5 +28,3 @@ The music collection of the Fürstenschule Grimma (1550–1887), a state school 
 All of the music manuscripts are described in the [RISM online catalog](https://opac.rism.info/search?View=rism&q=f%C3%BCrsten+landesschule+grimma){:target="_blank"}.
 
 So far, around 1,000 manuscripts have been digitized as part of Saxony's state digitization program. The scans are linked directly to the RISM entries, or you can browse them in the [SLUB's digital collections](http://digital.slub-dresden.de/kollektionen/107/){:target="_blank"}.
-
-

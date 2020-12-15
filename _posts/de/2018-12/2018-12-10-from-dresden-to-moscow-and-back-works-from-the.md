@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
 email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---
@@ -30,4 +30,3 @@ Bei den überwiegend aus dem 18. und frühen 19. Jahrhundert stammenden Handschr
 Die entstehenden Digitalisate werden im internationalen Quellenlexikon der Musik, [RISM](https://opac.rism.info/index.php?id=15), erschlossen und mit den in der SLUB überlieferten und bereits digital zugänglichen [Hofmusikalien](https://hofmusik.slub-dresden.de/) zusammengeführt. Wissenschaftler, Musiker und alle Interessierten erhalten somit einen nochmals vollständigeren Blick auf die Musikpflege des Dresdner Hofes. Erschließung und Digitalisierung werden in den nächsten Monaten in Moskau und Dresden durch gemeinsame öffentliche Veranstaltungen begleitet.
 
 Auch an dieser Stelle halten wir Sie selbstverständlich auf dem Laufenden.
-

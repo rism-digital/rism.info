@@ -3,6 +3,7 @@ title: "Praktikum"
 layout: organization
 lang: de
 permalink: /organization/internships.html
+old_url: http://www.rism.info/de/unternehmen/praktikantenpraktikantinnen.html
 ---
 
 # Ein Praktikum in der RISM Zentralredaktion

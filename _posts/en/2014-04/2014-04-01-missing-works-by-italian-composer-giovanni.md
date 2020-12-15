@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Katzen_Bild_e11bfb84d2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html
 email: ''
 author: ''
 ---
@@ -28,5 +28,3 @@ Bibliography:
 Manfred C. Pusnow, "Giovanni Francesco Bicchini," _MGG_ 2 (1999) 1589-1590
 
 Photo credit: British Library, [Medieval manuscripts blog](http://britishlibrary.typepad.co.uk/digitisedmanuscripts/2013/01/lolcats-of-the-middle-ages.html){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Rambach_afbea77628.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/johann-jacob-rambach-theologian-and-writer.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/johann-jacob-rambach-theologian-and-writer.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ Julian Heigel offers an overview of all known cantatas that use Rambach's texts 
 
 
 _Image_: Title page from Rambach's Geistliche Poesien (1720), from the [Bayerische Staatsbibliothek München](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10116678-9){:target="_blank"} (D-Mbs, P.o.germ. 1118 n)
-

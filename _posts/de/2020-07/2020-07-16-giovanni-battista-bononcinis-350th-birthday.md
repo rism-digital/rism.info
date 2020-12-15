@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Bononcini_350_855abeaace.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/giovanni-battista-bononcinis-350th-birthday.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/giovanni-battista-bononcinis-350th-birthday.html
 email: ''
 author: ''
 ---
@@ -22,5 +22,3 @@ Bononcinis Zusammenarbeit mit dem Librettisten Silvio Stampiglia war nicht nur f
 
 
 _Abbildung_: Kantate _Io son lungi alla mia vita_, I-Nc Canate 69@21; [RISM ID no. 850021395](https://opac.rism.info/search?id=850021395&View=rism){:target="_blank"}
-
-

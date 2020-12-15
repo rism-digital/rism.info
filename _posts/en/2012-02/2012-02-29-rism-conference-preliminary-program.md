@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_02_zur_Konferenz_links_01_e22c2dd641.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-conference-preliminary-program.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/rism-conference-preliminary-program.html
 email: ''
 author: ''
 ---

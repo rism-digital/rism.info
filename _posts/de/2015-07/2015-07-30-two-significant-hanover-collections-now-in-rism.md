@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_D-HVfmg-Juliane_Benda_104_1500x2000_600KB_01_3d0a6343cb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/two-significant-hanover-collections-now-in-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/46/article/64/two-significant-hanover-collections-now-in-rism.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -22,5 +22,3 @@ Das 2006 gegründete [Forschungszentrum Musik und Gender (fmg)](http://www.fmg.h
 Die Musikmanuskripte bilden keinen einheitlichen oder gewachsenen Bestand. Vielmehr wurden in der Sammlung Reste mehrerer hannoverscher oder niedersächsischer Institutionen vereinigt: Hannoverscher Künstler-Verein, Königliches Hoforchester und Königliches Hoftheater, Liedertafel zu Hannover, Handbibliothek des Hermann Moeck Verlages in Celle. Der Vollständigkeit halber wurden auch einige Drucke des 19. Jahrhunderts aufgenommen, darunter einige seltene Erstdrucke.
 
 Daneben finden sich in dem Bestand einige sehr interessante, in den 1950er- und 60er-Jahren auf dem Antiquariatsmarkt angekaufte Notenmanuskripte, wie z.B. eine autographe Sammlung mit 67 Cembalo- und Orgelwerken (RISM ID no. [450116566](https://opac.rism.info/search?id=450116566){:target="_blank"}) des Musiklexikographen Ernst Ludwig Gerber (1746-1819). Von besonderer Bedeutung ist auch die eigenhändige Sammlung "Sämmtliche Clarinett-Compositionen" des seinerzeit sehr berühmten und mit Carl Maria von Weber befreundeten Münchner Hofmusikers Heinrich Joseph Baermann (1784-1847). Mit den 57 enthaltenen Werken ist in dieser Handschrift (RISM ID no. [450116647](https://opac.rism.info/search?id=450116647){:target="_blank"}) sein Schaffen umfassend und einzigartig dokumentiert, wenngleich von allen Stücken leider immer nur die Klarinettenstimme notiert ist. Zum Vergleich: In dem Personenartikel zu Baermann in MGG von 1999 sind ca. 26 heute noch greifbare Werke aufgelistet von ursprünglich „nah an 40“ veröffentlichten Werken.
-
-

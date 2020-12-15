@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2017_Rueckblick_ed5d67ebed.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/looking-back-on-2017.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/looking-back-on-2017.html
 email: ''
 author: ''
 ---
@@ -39,5 +39,3 @@ But in 2017—as in 2016 and 2015—the post more often read than any other stor
 
 
 Image: _Theaterpubliek_ (ca. 1840 - 1886) by Hippolyte Michaud. Rijksmuseum, via [Europeana](http://europeana.eu/portal/record/90402/SK_A_1745.html){:target="_blank"}
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
@@ -21,5 +21,3 @@ Kaum zu glauben, dass es von Heinrich Schütz immer noch neu zu entdeckende Werk
 SWV 497 liegt seit wenigen Tagen [hier](https://www.carus-verlag.com/komponisten/schuetz/heinrich-schuetz-ein-kind-ist-uns-geboren.html?redirected=1){:target="_blank"} in einer Einzelausgabe als „Edition princeps“ bei Carus vor.
 
 Abbildung: Ausschnitt aus der Sammelhandschrift Mus.Pi.57 (Bassus) in D-Dl mit dem Anfang der unbezifferten Generalbassstimme.
-
-

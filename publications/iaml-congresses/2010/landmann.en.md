@@ -3,6 +3,7 @@ layout: publications
 title: "IAML Conference 2010: Landmann"
 lang: en
 permalink: /publications/iaml-congresses/2010/landmann.html
+old_url: http://www.rism.info/en/publications/iaml-congresses/2010/landmann.html
 ---
 
 ### Ortrun Landmann, Dresden

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Vivaldi_embeded_a19db0b2ca.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/vivaldi-embedded.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/56/article/64/vivaldi-embedded-violin-concerto-by-brescianello-turns-out-to-be-a-pasticcio.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
@@ -35,4 +35,3 @@ To Talbot's surprise, the search results not only included the SLUB's two "Il Ca
 The discovery compellingly demonstrates what a powerful search tool the RISM online catalog is, whose incipit search is even capable of tracking down transposed themes without any effort.
 
 Photo credit: Second movement from [Mus.2364-O-7](http://digital.slub-dresden.de/id307162303){:target="_blank"}, the Vivaldi movement embedded in a Brescianello concerto. (RISM [212001392](https://opac.rism.info/metaopac/search?db=251&View=rism&q=rism212001392))
-

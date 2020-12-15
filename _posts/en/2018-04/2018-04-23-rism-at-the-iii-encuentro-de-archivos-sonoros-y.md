@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Chile_Bericht_2018_78274e8467.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The national library in Santiago de Chile is home to one of the oldest musical s
 The “Libro sesto” has [an interesting history](/in_the_news/2016/02/25/18thcentury-music-manuscript-libro-sesto-tells-of.html){:target="_blank"}. It was compiled by an enslaved woman named Maria Antonia Palacios, who was responsible for music at her master's home, where she played piano, and church, where she played organ. The manuscript is dated 1783 in the hand of Palacios and contains 91 pieces, most of them anonymous. It should come as no surprise that a large part of the works where composers are named are from Spain and Portugal. There is also a movement from a sonata by Joseph Haydn (1732-1809), works by the French composer Ignace Pleyel (1757-1831), a movement of a sonata by the Italian Giambattista Grazioli (1746-ca. 1820) and – as we now know, thanks to a RISM user who recognized the anonymous incipits – four sonata movements by Johann Christian Bach (1735-1782), who was born in Leipzig but spent most of his career in London. The “Libro sesto” is therefore a source that shows now international the taste in music was – at least in this family – in Chile at the end of the seventeenth century. In my presentation, I could make it clear how important detailed cataloging is and that music incipits are essential in old musical sources. It is a pity that the five books that preceded the “Libro sesto” have not survived.
 
 _Image courtesy of Klaus Keil._
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Sprache_unbekannt_adf69d48b5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/help-rism-identify-unknown-languages.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/help-rism-identify-unknown-languages.html
 email: ''
 author: ''
 ---
@@ -31,4 +31,3 @@ Please tell us the RISM number if you can identify a language. You can contact u
   
   
 _Image_: World map, published in _A compendious geographical dictionary_ (London, 1795), from the University of Minnesota Libraries, James Ford Bell Library ([public domain)](https://umedia.lib.umn.edu/item/p16022coll251:818).
-

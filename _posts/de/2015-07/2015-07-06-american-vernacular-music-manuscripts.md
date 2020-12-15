@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_American_Vernacular_2c15207140.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/american-vernacular-music-manuscripts.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/american-vernacular-music-manuscripts.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Die Manuskripte wurden alle in hoher Auflösung – den Archivierungsnormen zur 
 
 
 Für weitere Informationen besuchen Sie bitte die[AVMM Website](http://popmusic.mtsu.edu/ManuscriptMusic){:target="_blank"}.
-
-

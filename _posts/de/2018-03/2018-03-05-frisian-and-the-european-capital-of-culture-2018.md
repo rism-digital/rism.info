@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Leeuwarden_2_842320b067.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/frisian-and-the-european-capital-of-culture-2018.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/frisian-and-the-european-capital-of-culture-2018.html
 email: S.H.Groot@uva.nl
 author: Simon Groot
 ---
@@ -20,4 +20,3 @@ Eine Quelle für diese Kompositionen ist der Druck mit Werken von Jacques Vredem
 Ein weitere Ausgabe ist der _Friesche Lust-hof_ (RISM-A/I: [S 4708](https://opac.rism.info/search?View=rism&author=starter&q=Friesche){:target="_blank"}), der 1621 in Amsterdam erschien. Dieses Buch enthält weder polyphone Musik noch Texte in friesischer Sprache. Es gibt aber niederländische Lieder auf bekannte Melodien wider, zu denen auch einige Melodien von Jacques Vredeman zählen.
 
 _Abbildungen_: _Musica miscella_, Titelseite und erstes Werk in Friesisch der Canto-Stimme. Fotos mit freundlicher Genehmigung von Simon Groot.
-

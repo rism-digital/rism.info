@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
@@ -28,4 +28,3 @@ Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Ma
 The newly discovered, complete version of the cantata allows us once more to analyze the works of Humperdinck and to acquaint ourselves with one further Goethe setting. It is surprising that the prologue of Goethe's _Die Fischerin_, which in an excerpted form became famous as "Der Erlkönig," was not used in Humperdinck's setting.
 
 A record for the cantata, with incipits, can be seen in the RISM catalog ([RISM ID no. 1001053670](https://opac.rism.info/search?id=1001053670&View=rism&Language=en){:target="_blank"}).
-

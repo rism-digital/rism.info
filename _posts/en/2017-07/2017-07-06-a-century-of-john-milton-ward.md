@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/a-century-of-john-milton-ward.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/a-century-of-john-milton-ward.html
 email: cawelti@fas.harvard.edu
 author: Andrea Cawelti
 ---
@@ -49,5 +49,3 @@ Ward died quietly at his home in Cambridge on 12 December 2011, at the age of 94
 His collection has been heavily used, and features prominently in such diverse encyclopedic websites as [The Italian Opera Aria on the London Stage, 1705-1801](http://italianaria.bodleian.ox.ac.uk/){:target="_blank"}, and [The Musical Festivals Database](http://musicalfestivals.org/about-the-database/){:target="_blank"}, the latter created by [Charles McGuire](https://www.oberlin.edu/charles-mcguire){:target="_blank"}, coincidentally one of the research assistants to John Ward that I mentioned earlier.Ward Collection materials have been cited in innumerable articles and books. The areas of Ethnomusicology, ballet, social dance, and operettas/musicals, which were not actively studied when Ward began collecting, are now areas of intense investigation, and Harvard’s collections are among the best in the world, thanks to him. And what do I think, about all this, on the centennial of his birth? I miss him.He often said he was just lucky, to be in the right place, at the right time. But I think he made his place, and made his time. And we are the lucky ones, to live in it. Here’s to another century of the Ward Collection!
 
 _All images courtesy of Harvard University._
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Peale_Ode_Hawkins_9b711e1b78.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/music-and-the-natural-sciences-in-1800.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/music-and-the-natural-sciences-in-1800.html
 email: ''
 author: ''
 ---

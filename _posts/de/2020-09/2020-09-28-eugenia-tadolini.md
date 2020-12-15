@@ -24,4 +24,3 @@ Besonders schön ist eine [Abschrift von vier Opernarien](http://link "external-
 _Abbildung_: Eugenia Tadolini, Lithographie von Josef Kriehuber, 1835, via [Wikimedia Commons](https://de.wikipedia.org/wiki/Datei:Eugenia_Tadolini.jpg).
 
 &nbsp;
-

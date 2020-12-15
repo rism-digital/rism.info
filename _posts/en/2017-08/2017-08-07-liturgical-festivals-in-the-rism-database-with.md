@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Liturg._Feste_Foto_5_bfb6e05677.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
 email: ''
 author: ''
 ---
@@ -19,4 +19,3 @@ But how can one find these liturgical festivals in the RISM online catalog? Litu
 
 
 _All photos by Guido Kraus. Translated by Vivian Tompkins (RISM Central Office intern, summer 2017)._
-

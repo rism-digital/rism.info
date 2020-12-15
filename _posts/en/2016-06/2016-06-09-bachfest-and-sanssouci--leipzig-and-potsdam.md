@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Bachfest_FrdG_D-DS_320_49a9c554bf.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/bachfest-and-sanssouci-leipzig-and-potsdam.html
 email: ''
 author: ''
 ---
@@ -24,4 +24,3 @@ The musical world of France will be brought to the foreground through a partners
 There are [ten sources](https://opac.rism.info/search?View=rism&q=sanssouci){:target="_blank"} in the RISM online catalog that mention Sanssouci. The Prussian king Frederick the Great (1712-1786) is in the catalog [360 times](https://opac.rism.info/search?View=rism&q=134378261){:target="_blank"} in various functions: 121 times as a composer, but also as poet, copyist (of his own works), previous owner, and dedicatee.
 
 _Image_: Frederick the Great, Concerto for 2 Flutes and Cembalo, D major. Darmstadt, Universitäts- und Landesbibliothek, Musikabteilung (D-DS) Mus. ms. 320 (RISM ID no. [450001960](https://opac.rism.info/search?id=450001960){:target="_blank"}).
-

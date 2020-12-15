@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Gruppenbild_1_42bc7de79b.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/muscat-workshop-at-the-czech-national-library-in-prague.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/muscat-workshop-at-the-czech-national-library-in-prague.html
 email: ''
 author: ''
 ---
@@ -21,5 +21,3 @@ The workshop went into detail about how to edit and revise catalog records from 
 In addition, the group practiced creating new records, including records for anthologies (collections with individual records) and compositions issued individually.
 
 At the end, the participants practiced cataloging composite volumes, which sometimes have different materials such as handwritten and printed items or collections and individual items together in one volume.
-
-

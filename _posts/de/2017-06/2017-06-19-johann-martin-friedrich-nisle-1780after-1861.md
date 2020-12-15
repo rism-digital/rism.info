@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Nisle_266945b255.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
 email: ''
 author: ''
 ---
@@ -21,5 +21,3 @@ Wie sein Vater Johannes Nisle (1735-1788) waren auch seine beiden Brüder Johann
 Die [54 bei RISM](https://opac.rism.info/metaopac/search?View=rism&q=117022381){:target="_blank"} nachgewiesenen Quellen (36 Drucke und 18 Handschriften) zeigen, dass der Schwerpunkt in Nisles Schaffen eindeutig im Bereich der Kammermusik lag. Allerdings gibt es auch eine einzige Oper mit dem Titel „Der Eremit auf Formentera“, die am Hofe von Ignác Végh aufgeführt wurde und deren heute nur noch teilweise erhaltenes Stimmenmaterial in Székesfehérvár (István Király Múzeum) liegt (H-SFm, RISM ID no. [530004434](https://opac.rism.info/search?id=530004434){:target="_blank"}).
 
 _Abbildung_: Johann Martin Friedrich Nisle, _Zwölf freundliche Gesänge_ (Bunzlau: Appun, ca. 1844), Bayerische Staatsbibliothek (D-Mbs) Mus.pr. 8887.[Online zugänglich](https://opacplus.bsb-muenchen.de/Vta2/bsb11161810/bsb:BV007853769){:target="_blank"}.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-archive-of-the-sorbian-institute-in-germany.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/the-archive-of-the-sorbian-institute-in-germany.html
 email: bresan@serbski-institut.de
 author: Annett Bresan
 ---
@@ -44,5 +44,3 @@ _Excerpt from "Podlěćo" (Early Summer) (SKA, ZM XVIII 6 E)_
 Mětšk, Frido: _K. A._ _Kocorowe zawostajenstwo w Serbskim kulturnym archiwje_ (The K. A. Kocor Collection in the Sorbisches Kulturarchiv), Budyšin 1971.
 
 Sorbisches Kulturarchiv, [www.serbski-institut.de/de/Archiv/](http://www.serbski-institut.de/de/Archiv/)
-
-

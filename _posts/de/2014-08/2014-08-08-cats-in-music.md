@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_music-cats_fb2ca4a7a1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cats-in-music.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/cats-in-music.html
 email: ''
 author: ''
 ---
@@ -29,4 +29,3 @@ Hier spielt Elaine Comparone Scarlattis Fuge in g-Moll, später von Muzio Clemen
 <iframe width="420" height="315" src="//www.youtube.com/embed/CbW1nNBqVnI" frameborder="0" allowfullscreen></iframe>
 
 Bildquelle: [Cat Daily News](http://catdailynews.com/2013/11/classical-music-for-cats/){:target="_blank"}
-

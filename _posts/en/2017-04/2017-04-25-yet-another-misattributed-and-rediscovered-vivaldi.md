@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---
@@ -38,6 +38,3 @@ _18 April 2017._
 
 Image: _Laetatus sum_ in C major, newly discovered by Michael Talbot to be a piece by Vivaldi and henceforth known as RV 827 (RISM ID no. [212006095](https://opac.rism.info/search?id=212006095&Language=en){:target="_blank"}). On the first page of music, shown here, the heading names "Buranello" as the composer—a false attribution on the source to Baldassare Galuppi.
 SLUB Dresden, Mus. 2973-D-36, [digital.slub-dresden.de/id426604938](http://digital.slub-dresden.de/id426604938) ([CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"}).
-
-
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hopkins_Mapping_Musical_Landscapge_logo_2_03cf461534.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/11/article/64/mapping-the-musical-landscape-of-the-sixteenth-century-mml16.html
 email: emily.hopkins@mcgill.ca
 author: Emily Hopkins
 ---
@@ -22,5 +22,3 @@ Um diese Fragen zu beantworten, bedarf es einer umfassenden Erschliessung des er
 Zu den Zielen gehört eine frei zugängliche Website für die Inventarisierung musikalischen Quellen polyphoner Musik, die im 16. Jahrhundert gedruckt oder geschrieben wurden, mit Angaben zu Datum, Herkunft und Art der Quelle. Informationen aus der RISM-Datenbank für Drucke und Manuskripte werden in andere Datenbanken aufgenommen und enthalten Links zu RISM und anderen Online-Beständen und Katalogen. OMR (Optical Music Recognition) wird für die mensurale Notation eingesetzt, um automatische Transkriptionen zu ermöglichen, die mit den Inventaren verknüpft werden. Es werden Visualisierungstools entwickelt, die zeigen, wie sich Musik über Raum und Zeit bewegt.
 
 Das Projekt wird zu einem wesentlich erweiterten Verständnis der musikalischen Landschaft des 16. Jahrhunderts beitragen. Die vier Forschungsthemen untersuchen die Rolle der Musik in den Bereichen religiöser Konflikt, Kolonisation und Konversion, regionale und internationale Identität sowie sakrale und säkulare Musik. Das Projekt wird nicht nur für das Studium der Renaissancemusik von Vorteil sein, sondern auch für Studien zur Geschichte des Buches, Religionswissenschaften, optische Musikerkennung und digitale Geisteswissenschaften.
-
-

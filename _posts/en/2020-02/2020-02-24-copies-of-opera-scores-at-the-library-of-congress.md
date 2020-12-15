@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/copies-of-opera-scores-at-the-library-of-congress-and-an-identified-copyist.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/copies-of-opera-scores-at-the-library-of-congress-and-an-identified-copyist.html
 email: ''
 author: Martin Bierwisch and Kristina Krämer
 ---
@@ -20,5 +20,3 @@ One can usually determine exactly what score was used to copy from. For the 1915
 Susan J. Clermont has compiled a list of the scores that were part of this initiative ("[Transcripts of Dramatic Musical Works in Full Score at the Library of Congress Music Division](https://www.loc.gov/rr/perform/fabiblgds.html){:target="_blank"}," 2013; RISM abbreviation: ClermontT 2013). Willemsen copied predominantly operas from the 18th century found in British libraries. Italian composers are particularly prominent.
 
 If you are curious about what Willemsen did and also composed before his time in London, you can read about it in the online encyclopedia [_Musik und Musiker am Mittelrhein_](http://mmm2.mugemir.de/doku.php?id=willemsen).
-
-

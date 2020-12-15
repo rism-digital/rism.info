@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
 email: ''
 author: ''
 ---
@@ -25,4 +25,3 @@ See:
 Andrew H. Weaver, “A recently rediscovered motet by Holy Roman Emperor Ferdinand III." _Early Music_ 43, no. 2 (2015): 281–289. [Available online](https://doi.org/10.1093/em/cav001){:target="_blank"}.
 
 _Image_: Portrait of Ferdinand III, ca. 1628 - 1670, Rijksmuseum, from [Europeana](http://data.europeana.eu/item/90402/RP_P_OB_9022){:target="_blank"} (public domain).
-

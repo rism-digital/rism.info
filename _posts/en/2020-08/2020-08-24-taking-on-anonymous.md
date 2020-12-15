@@ -24,4 +24,3 @@ The records are in the RISM catalog as well as the Italian database [OPAC SBN - 
 _Image_: Palazzo dei Musei, which houses the Biblioteca Estense Universitaria di Modena ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Palazzo_dei_Musei.jpg)).&nbsp;
 
 &nbsp;
-

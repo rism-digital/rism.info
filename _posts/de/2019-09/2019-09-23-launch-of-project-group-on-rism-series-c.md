@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_08_5add72044a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/launch-of-project-group-on-rism-series-c.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/launch-of-project-group-on-rism-series-c.html
 email: ''
 author: ''
 ---
@@ -16,5 +16,3 @@ Auf dem [IAML-Kongress](/publications/iaml-congresses/2019.html) in Krakau in di
 Maria Aslanidi, Aris Bazmadelis und Arsinoi Ioannidou, die ebenfalls Mitglieder von [RISM Griechenland](/new_at_rism/2018/04/03/byzantine-music-archives-join-muscat.html){:target="_blank"} sind, werden eng mit der Zentralredaktion zusammenarbeiten, um die Funktionen von Muscat (dem speziellen Katalogisierungsprogramm von RISM) zu optimieren und zu synchronisieren, um die Ausrichtung des Programms an den jüngsten Initiativen und Modellen bibliographischer Daten zu erreichen. Die Projektmitglieder werden sich an den Standards für die Beschreibung von Archiven in Bezug auf Musiksammlungen orientieren, wobei der Schwerpunkt auf den Normdaten für griechische Institutionen liegt. Die Projektgruppe wird auch eng mit Kollegen der Research Libraries Section des IAML, dem Publications Committee sowie der Cataloguing and Metadata Section zusammenarbeiten.
 
 Die Projektgruppe RISM Serie C wird unter der Leitung der [Archives and Music Documentation Centres Section](https://www.iaml.info/archives-and-music-documentation-centres){:target="_blank"} des IAML gebildet. Sie knüpft an die Arbeit der Projektgruppe [Access to Music Archives](https://www.iaml.info/project-group-access-music-archives){:target="_blank"} (2005-2017) an, der es gelungen ist, Leitlinien für die Beschreibung von musikhaltenden Institutionen nach internationalen Standards zu entwickeln. Wir sind den letzten Vorsitzenden der AMA, Klaas Jaap van der Meijden und Jon Bagüés, für ihre Leitung des Projekts in seiner früheren Form und ihre Begleitung bei der Umwandlung in die neue Projektgruppe dankbar.
-
-

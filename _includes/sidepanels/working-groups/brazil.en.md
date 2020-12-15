@@ -1,8 +1,8 @@
 # Information
 
-[About us](/international/working-groups/brazil/home.html)
+[About us](/working-groups/brazil/home.html)
 
-[Contributors](/international/working-groups/brazil/contributors.html)
+[Contributors](/working-groups/brazil/contributors.html)
 
 # Contact
 

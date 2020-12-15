@@ -28,4 +28,3 @@ _Image_: Digitized page from Nikolaus Lang's catalog of Michael Haydn's works. B
 &nbsp;
 
 &nbsp;
-

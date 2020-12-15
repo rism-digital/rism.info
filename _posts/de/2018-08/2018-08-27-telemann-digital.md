@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/telemann-digital.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/telemann-digital.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
@@ -20,5 +20,3 @@ Telemann war von 1712 bis 1721 als städtischer Musikdirektor und Kirchen-Kapell
 Ziel des Projekts ist, die Autographen und Handschriften der Kirchenkantaten sowie einiger weltlicher Werke dieser einzigartigen Sammlung für die wissenschaftliche Forschung, für wissenschaftliche Editionen sowie für Aufführungen in Kirche und Konzertsaal zur Verfügung zu stellen. Es bildet eine sinnvolle Ergänzung zu ähnlichen Musik-Digitalisierungsprojekten in anderen wissenschaftlichen Bibliotheken.
 
 Die Kantaten-Handschriften werden in den [Digitalen Sammlungen](http://sammlungen.ub.uni-frankfurt.de/musiktheater/nav/index/all){:target="_blank"} der Universitätsbibliothek zu finden sein.
-
-

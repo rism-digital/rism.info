@@ -6,12 +6,12 @@ lang: de
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jose-vicente-gonzalez-valle-in-memoriam.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/jose-vicente-gonzalez-valle-in-memoriam.html
 email: ''
 author: ''
 ---
 
-Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/international/working-groups.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
+Mit Bedauern mussten wir zur Kenntnis nehmen, dass der Begründer [der spanischen RISM-Arbeitsgruppe](/working-groups.html) Prof. Dr. José Vicente González Valle, am 23. Februar 2019 verstorben ist.
 
 José Vicente, wie wir ihn nennen durften, war Organist, Priester, Musikwissenschaftler, ein guter Organisator und ein lieber, freundlicher Herr. Mit RISM kam er während seines Studiums in München bei Theodor Göllner in Berührung. Unser damaliger Präsident, Dr. Harald Heckmann, schreibt in einem Bericht vom 23. Janaur 1990 an seine Vorstandskollegen:
 
@@ -27,5 +27,3 @@ Wir werden sein Andenken in Ehre bewahren.
 
 Klaus Keil
 Leiter der Zentralredaktion des RISM
-
-

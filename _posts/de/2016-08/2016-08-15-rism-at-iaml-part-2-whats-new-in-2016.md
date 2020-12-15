@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
 email: ''
 author: ''
 ---
@@ -56,5 +56,3 @@ Jürgen Diet erinnerte daran, dass die Bayrische Staatsbibliothek, die für die 
 
 
 Es gibt also noch viel zu tun! Wir werden Sie an dieser Stelle über alle Neuigkeiten zu diesen Projekteninformieren.
-
-

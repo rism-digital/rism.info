@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Galuppi_0316ebe6da.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/baldassare-galuppi-1706-1785.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/baldassare-galuppi-1706-1785.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The RISM online catalog has 33 sources for this opera. Most of the sources are i
 Among the RISM sources are also two contrafacta: Erissena's aria "Son confusa pastorella" became a sacred cantata with the text "Salve regina" (RISM ID no.[455007568](https://opac.rism.info/search?id=455007568){:target="_blank"}). In one source from Prague, Poro's aria "Vedrai con tuo periglio" was later set with the texts "Beata es virgo Maria" and "Stupesce in verbum patris" (RISM ID no. [550248720](https://opac.rism.info/search?id=550248720){:target="_blank"}).
 
 Image credit: Page from a later printed version of the libretto depicting a scene from act III, scene XII: "Ferma. È tempo di morte, e non d’amori.“ (Paris: Herissant, 1780). Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png#/media/File:Metastasio_-_Alessandro_nell%E2%80%99Indie_-_Herissant_Vol.04_-_Paris_1780.png){:target="_blank"}.
-
-

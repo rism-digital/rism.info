@@ -20,4 +20,3 @@ Auf der Webseite des 2013 abgeschlosenen Projekts “[Gelegenheitsmusik des Osts
 Bisher sind die geistliche Komposition [_Da Jesus getauft war_](https://opac.rism.info/search?id=190002863&View=rism) sowie einige der Hochzeitskompositionen 1937 in der Reihe “Das Erbe deutscher Musik” ([_Hochzeitsarien und Kantaten Stettiner Meister nach 1700_](https://opac.rism.info/search?id=lit930&View=rism); EDM II/6.1) erschienen. Weitere Gelegenheitskompositionen finden sich im o.g. Buch von Tenhaef ediert.
 
 &nbsp;
-

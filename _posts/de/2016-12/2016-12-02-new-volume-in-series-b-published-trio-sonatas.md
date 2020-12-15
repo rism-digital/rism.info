@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Triosonate_ffd47d31b6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-in-series-b-published-trio-sonatas.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/new-volume-in-series-b-published-trio-sonatas.html
 email: ''
 author: ''
 ---
@@ -20,4 +20,3 @@ Zu einer der beliebtesten kammermusikalischen Gattungen des 17. und 18. Jahrhund
 Als Triosonate verstanden und erfasst wurde ein Werk für zwei Oberstimmen und Basso continuo, ungeachtet der auf dem Druck befindlichen Bezeichnung. Nach 1760 geborene Komponisten wurden im Katalog nicht mehr berücksichtigt. Die Fokussierung auf im Druck erschienene Triosonaten geschah im Hinblick auf die Fragen der Überlieferung (Datierung und Zuschreibung) und die wichtige gattungsgeschichtliche Rolle des gedruckten Mediums.
 
 Im Katalog werden die Sonaten nach Sätzen aufgeschlüsselt, die Satzbezeichnungen und Taktangaben entsprechen dem Original. Die möglichst kurzen Kommentare enthalten Anmerkungen zum Repertoire und in Einzelfällen biografische Hinweise zum Komponisten. Die komplexe Datenbank bietet differenzierte Suchmöglichkeiten. Neben der Suche nach Verlegern, Verlagsorten und Widmungsträgern kann auch nach Publikationsjahr, Tonart oder Satzbezeichnungen recherchiert werden. (Die Datenbank erreichen Sie unter [http://www.uzh.ch/musik/ssl-dir/mwitriosonate/](http://www.uzh.ch/musik/ssl-dir/mwitriosonate/), der Freischaltungcode zur Registrierung lautet **3Sona10** ). Die Datenbank wird zu einem späteren Zeitpunkt in den RISM Online-Katalog übernommen.
-

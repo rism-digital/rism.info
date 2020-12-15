@@ -6,12 +6,12 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Vieuxtemps_200_54b229b72f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/henry-vieuxtemps-at-200.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/henry-vieuxtemps-at-200.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---
 
-_We have received the following from Marie Cornaz ([Bibliothèque royale de Belgique - Koninklijke Bibliotheek van België](https://www.kbr.be/en/collections/music/){:target="_blank"}/[RISM Belgium](/international/working-groups.html)):_
+_We have received the following from Marie Cornaz ([Bibliothèque royale de Belgique - Koninklijke Bibliotheek van België](https://www.kbr.be/en/collections/music/){:target="_blank"}/[RISM Belgium](/working-groups.html)):_
 
 In 2020, Belgium celebrates the 200thbirthday of one of its main musical figures: violinist and composer Henry Vieuxtemps (1820-1881). Vieuxtemps was a child prodigy from Verviers, a small town near Liège. He had an outstanding career and was among the first musicians to go on tour across Europe, Russia and the United States. Widely acclaimed for his virtuosity and his sense of musicality, Vieuxtemps is also a composer who is worthwhile rediscovering today. The seven violin concertos, the_Fantaisie-caprice_and the_Ballade et polonaise_were often performed, notably by his most famous pupil: Eugène Ysaÿe.
 

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Bagues_Map_musical_heritage_ee08d8fec7.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-online-resource-with-the-map-of-musical-heritage-in-spain.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/new-online-resource-with-the-map-of-musical-heritage-in-spain.html
 email: jbagues@eresbil.com
 author: Jon Bagüés
 ---
@@ -23,5 +23,3 @@ The map can be found [here](http://musicadanza.es/mapatrimoniomusical/){:target=
 
 
 A short description from the National Library of Spain is available [here](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:target="_blank"}.
-
-

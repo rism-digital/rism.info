@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Davies_Catalogo_Cover_389d23d19d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/drew-edward-davies-catalogo-de-la-coleccion-de-musica-del-archivo-historico-de-la-arquidiocesi.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/drew-edward-davies-catalogo-de-la-coleccion-de-musica-del-archivo-historico-de-la-arquidiocesis-de.html
 email: ''
 author: ''
 ---
@@ -22,4 +22,3 @@ In einem Vorwort auf Spanisch beschreibt Davies die Sammlung und erklärt die Kr
 Davies sagte Northwestern: „Wir können und werden das Ausmaß des mexikanischen Kolonialrepertoires oder seinen wahren Charakter nicht kennen, bis wir die Inhalte der Archive kennen.”
 
 Bildnachweis: [Northwestern University](http://www.music.northwestern.edu/about/news/2014/drew-edward-davies-publishes-scholarly-catalog-of-18th-century-mexican-church-music.html){:target="_blank"}
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Luther_858925dff4.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/tudor-treasures.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/tudor-treasures.html
 email: ''
 author: ''
 ---
@@ -35,5 +35,3 @@ Elsewhere in the UL, we have copies of Thoinot Arbeau’s_[Orchesographie](http:
 
 
 If these treasures aren’t enough for you, there’s also an unusual setting of Macbeth featuringbaboons; one of the more esoteric items received in the 21st century under the [Legal Deposit Act](https://www.facebook.com/permalink.php?story_fbid=566563416775879&id=105359512896274 "LD"). So, if you have a moment, please come along to Tudor Treasures at the UL.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Polen_56a7071878.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/iaml-poland-celebrates-50-years.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/iaml-poland-celebrates-50-years.html
 email: ''
 author: ''
 ---
@@ -16,6 +16,3 @@ This week, our Polish colleagues are celebrating the 50th anniversary of [IAML P
 To the next 50 years!
 
 Guido Kraus and the RISM director Klaus Keil have posted their congratulations on the [IAML website](http://www.iaml.info/en/node/1168/){:target="_blank"}.
-
-
-

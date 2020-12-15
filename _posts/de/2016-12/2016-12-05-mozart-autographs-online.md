@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mozart_-_Todestag_225_b9c02571ad.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mozart-autographs-online.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/mozart-autographs-online.html
 email: ''
 author: ''
 ---
@@ -27,5 +27,3 @@ An dieser Berliner Quelle lässt sich gut nachvollziehen, wie schenbare Äußerl
 
 
 _Abbildung_: Szene XIII (nach No. 29): "Ah poveretto me" und No. 30: Andante "Tutte accusan le donne" aus dem 2. Akt von _Così fan tutte._ Universitätsbibliothek Johann Christian Senckenberg (D-F), [Mus Hs 2350](http://nbn-resolving.de/urn:nbn:de:hebis:30:2-223771){:target="_blank"}. [RISM ID no. 455002350](https://opac.rism.info/search?id=455002350&Language=en){:target="_blank"}.
-
-

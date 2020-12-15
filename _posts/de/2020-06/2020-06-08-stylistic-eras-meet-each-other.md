@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Stift_Heiligenkreuz_Alltag_d8c3b86cb2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/stylistic-eras-meet-each-other.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/stylistic-eras-meet-each-other.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman
 ---
@@ -17,5 +17,3 @@ In der romanisch-gotischen Stiftskirche der Zisterzienserabtei Stift Heiligenkre
 
 
 _Abbildung_: Kober-Orgel aus dem Jahr 1804 im romanischen Teil der Stiftskirche Heiligenkreuz. (c) Kunstsammlung Stift Heiligenkreuz
-
-

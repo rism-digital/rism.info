@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_kirschblueten_32a2a59c12.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-at-the-ims-congress-in-tokyo.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/rism-at-the-ims-congress-in-tokyo.html
 email: ''
 author: ''
 ---
@@ -59,5 +59,3 @@ Die letzte Bibliothek, die ich besuchte, war die [Tokyo Metropolitan Central Lib
 _Die Musikabteilung der Tokyo Metropolitan Central Library_
 
 Es war der erste IMS-Kongress, der in Asien stattfand. Er bot die Möglichkeit unsere japanischen Kollegen zu sehen, die wir selten persönlich treffen, und viele andere Musikwissenschaftler aus der ganzen Welt. Ich danke dem BI-International für die Unerstützung meiner Teilnahme an diesem Kongress. Weiterhin danke ich den Organisatoren des IMS Kongresses für die Gastfreundschaft. Ich hoffe, alle 2022 in Athen wiederzusehen!
-
-

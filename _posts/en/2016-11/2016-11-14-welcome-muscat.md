@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_muscat_01_bd2a4aa088.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/welcome-muscat.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/welcome-muscat.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ For the first time, RISM has full control over a cataloging program that can be 
 At the same time, the launch of Muscat is an opportunity for people – whether at universities, libraries, archives, or interested individuals – to directly contribute to RISM. If your library has holdings in RISM that need to be updated, if you are working on sources related to a specific composer, if you are in a position to add sources to RISM, please let us know.
 
 To our current contributors, national groups, partners, and future colleagues: We look forward to working with you!
-

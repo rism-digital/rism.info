@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lutz_Abbildung_Projektstart_Wasserzeichen_M_02_95acceb577.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-watermark-digitization-project-at-the-bavarian-state-library.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/new-watermark-digitization-project-at-the-bavarian-state-library.html
 email: Bernhard.Lutz@bsb-muenchen.de
 author: Bernhard Lutz
 ---
@@ -21,5 +21,3 @@ Durch zwei großangelegte Erschließungs- und Digitalisierungsprojekte konnten d
 
 
 Abbildung mit freundlicher Genehmigung von Bernhard Lutz.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Boyneburgk_Rettinghaus_0ca3a29413.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-many-lives-of-baron-friedrich-von-boyneburgk.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/the-many-lives-of-baron-friedrich-von-boyneburgk.html
 email: rettinghaus@bach-leipzig.de
 author: Klaus Rettinghaus
 ---
@@ -33,5 +33,3 @@ _Images_:
 Title page from Cherubini's _Wasserträger_, arranged by Boyneburgk ([CC 2028 I,143](https://opac.rism.info/search?id=00000991015762&View=rism){:target="_blank"}). [Availabile online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074844-2){:target="_blank"} from D-Mbs 2 Mus.pr. 4404.
 
 (not in RISM) [GB-Lbl E.824.](http://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01018681487){:target="_blank"} _Shakespeare's Lieder, mit Begleitung des Piano-Forté ... Erste (zweite) Lieferung 16tes. Werk_, Offenbach a/M , J. André, ca. 1830.
-
-

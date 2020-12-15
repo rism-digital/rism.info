@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Tuba_296eed917b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/international-tuba-day-on-1-may.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/international-tuba-day-on-1-may.html
 email: ''
 author: ''
 ---
@@ -32,5 +32,3 @@ Es gibt Verweise auf mehr als 50 digitalisierten Quellen mit Tuba im Online-Kata
 Happy Tuba Day!
 
 Bildnachweis: Ausgestreckte Tuba von Emil Körner, via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Tubajuri_2004.jpg?uselang=de){:target="_blank"}. Das Instrument befindet sich imMusikinstrumenten-Museum Markneukirchen.
-
-

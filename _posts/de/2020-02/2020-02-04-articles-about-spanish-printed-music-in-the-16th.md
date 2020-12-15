@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Braun_Toledo_UBHD_2d9318ddc4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/articles-about-spanish-printed-music-in-the-16th-century.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/articles-about-spanish-printed-music-in-the-16th-century.html
 email: ''
 author: Carmen Álvarez
 ---
@@ -64,4 +64,3 @@ _- Printed polyphony acquired by Toledo Cathedral, 1532-1669_ de Michael Noone: 
 - El Archivo del Museo Massó en Bueu (Pontevedra, también en España ([E-BUmm](https://opac.rism.info/search?id=990011332&View=rism){:target="_blank"}).
 
 Toda esta nueva información está ya disponible en nuestra base de datos, ampliando así nuestro conocimiento sobre fuentes hispánicas.
-

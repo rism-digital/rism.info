@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Jubilare_2016-2_75b89f7b92.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/musical-anniversaries-in-2016.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/musical-anniversaries-in-2016.html
 email: ''
 author: ''
 ---
@@ -63,4 +63,3 @@ m = männlich
 w / f = weiblich**
 
 _Bildnachweis:[pixabay.com](https://pixabay.com/de/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
-

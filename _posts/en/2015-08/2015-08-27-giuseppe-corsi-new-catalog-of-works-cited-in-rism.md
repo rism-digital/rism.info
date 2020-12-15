@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Corsi-stravaganza_8e01e290b2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/giuseppe-corsi-new-catalog-of-works-cited-in-rism.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/giuseppe-corsi-new-catalog-of-works-cited-in-rism.html
 email: martina.falletta@rism.info
 author: ''
 ---
@@ -23,4 +23,3 @@ The Biblioteca del Conservatorio di Musica S. Pietro a Majella in Naples has dig
 - The song "**[Ardo ma l'ardor mio](http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0153519){:target="_blank"}" from an eighteenth-century manuscript (**I-Nc C.I.2 (A.66), RISM ID no. [850009448](https://opac.rism.info/search?id=850009448){:target="_blank"})
 
 Have you written something or do you know of a publication you would like to see in the RISM database? Send a message to: [martina.falletta@rism.info](mailto:martina.falletta@rism.info)
-

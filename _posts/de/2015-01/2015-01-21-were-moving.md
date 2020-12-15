@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Umzug_7521db8844.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/were-moving.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/were-moving.html
 email: ''
 author: ''
 ---
@@ -37,4 +37,3 @@ Mertonstraße, Hauptgebäude (Bauteil D), Räume 401 – 407
 Wir bitten um Verständnis, wenn wir die ein oder andere Mail nicht unverzüglich beantworten und auch telefonisch momentan nicht gut erreichbar sind.
 
 _Bildnachweis: JeongYoun Chang, RISM-Korea_
-

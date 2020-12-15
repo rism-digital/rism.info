@@ -1,8 +1,9 @@
 ---
 layout: publications
-title: "PUBLICATIONS"
+title: "Brochures"
 lang: en
 permalink: /publications/brochures.html
+old_url: http://www.rism.info/en/publications/brochures.html
 ---
 
 # RISM Brochures

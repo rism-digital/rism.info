@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Stuttgart_-_AIBM_6024c498b2.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/music-musicology-libraries-an-interns-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/music-musicology-libraries-an-interns-report.html
 email: contact@rism.info
 author: Anne-Marie Wurster
 ---
@@ -32,4 +32,3 @@ The conference closed its formal program with an intensive panel that concerned 
 During the breaks and at a reception there were opportunities to talk to people from various libraries and areas of concentration. The pleasant, open atmosphere was a welcome surprise and I could make a few interesting new contacts.
 
 All in all, I am very happy about the experiences that I had during my internship. I learned about composers and works that had previously been completely unknown to me and it was exciting to see how the work of a project with networks worldwide goes forward. I spent ample time cataloging music in the database and got to know a lot of interesting people in the process. I also saw that it is very wise to have a background in both musicology and librarianship. Both fields together are a perfect combination and open up a wide world of career possibilities.
-

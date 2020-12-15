@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Leeuwarden_2_842320b067.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/frisian-and-the-european-capital-of-culture-2018.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/frisian-and-the-european-capital-of-culture-2018.html
 email: S.H.Groot@uva.nl
 author: Simon Groot
 ---
@@ -20,4 +20,3 @@ One source for these compositions is a printed edition with music by Jacques Vre
 Another edition from the same period is _Friesche Lust-hof_ (RISM-A/I: [S 4708](https://opac.rism.info/search?View=rism&author=starter&q=Friesche&Language=en){:target="_blank"}), first issued in Amsterdam 1621. This book is neither filled with polyphonic music, nor does it have texts in the Frisian language. It contains Dutch songs mainly on popular tunes, but also a few on melodies by Jacques Vredeman, the composer of _Musica miscella_.
 
 _Photographs_: _Musica miscella_, title page and first piece in Frisian from the Canto partbook. Photos courtesy of Simon Groot.
-

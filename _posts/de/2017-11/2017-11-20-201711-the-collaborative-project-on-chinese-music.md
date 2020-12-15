@@ -6,12 +6,12 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_DSC00327_60ecff1de3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/201711-the-collaborative-project-on-chinese-music-resources-2017-annual-meeting-and-the-rism-catal.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/201711-the-collaborative-project-on-chinese-music-resources-2017-annual-meeting-and-the-rism-catal.html
 email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---
 
-_Der folgende Beitrag stammt von TSENG Tzu-Chia von der [RISM-Arbeitsgruppe Chinesich-sprechendes Gebiet](/international/working-groups.html):_
+_Der folgende Beitrag stammt von TSENG Tzu-Chia von der [RISM-Arbeitsgruppe Chinesich-sprechendes Gebiet](/working-groups.html):_
 
 
 Das Jahrestreffen des Collaborative Project on Chinese Music Resources und der International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China fand am 8. November 2017 statt. Gleichzeitig gab es einen Workshop zur Katalogisierung mit RISM. Klaus Keil, Leiter der RISM Zentralredaktion; Nora Yeh, Internationale Beraterin der RISM Arbeitsgruppe Chinesisch-sprechendes Gebiet; HUANG Chun-Zen, Direktor des Digital Archive Center for Music (DACM), NTNU; TSENG Tzu-Chia, Wissenschaftlerin am DACM; YANG Yandi, Vizepräsident des Shanghai Conservatory of Music (SHCM); SHI Yin,Vizedirektor der SHCM Library; HAN Bin, beigeordneter Wissenschaftler der SHCM Library; und Kollegen des Hong Kong Chinese Orchestra und der SHCM Library wohnten diesem Rahmenprogramm bei.
@@ -46,4 +46,3 @@ Die Teilnehmer planten auch die weiteren Arbeiten der RISM Arbeitsgruppe Chinesi
 这一年来，RISM平台上逐渐增加了新的中文资源条目。为求数据的标准一致，华语区工作小组中的技术小组在香港中央图书馆郑学仁馆长、曾丽满高级馆长的统筹下，由专业编目人员Angie主导，逐渐统一编目规范，并一一克服相关著录问题，期待每条上传的数据都能提供可靠的信息。
 
 两天的会议中，RISM华语区工作小组也规划了明年的工作进程，包括：协助各成员管完成定量数据的上传、Muscat中文翻译、持续进行技术讨论、投稿2018 IAML会议论文发表、推动中国民族乐器英译名统一等，Mr. Keil也建议工作小组成立区域办公室，统筹协助愈来愈多华语地区相关音乐机构与团体欲加入RISM之需求。
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Allegro_WolfgangoMozart_ReproITMf_1024_378f6903e1.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria-1.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/unknown-piano-piece-by-mozart-discovered-in-tyrol-austria-1.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

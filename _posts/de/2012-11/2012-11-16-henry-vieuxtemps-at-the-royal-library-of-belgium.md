@@ -6,7 +6,7 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_vieuxtemps_a603b964d3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/henry-vieuxtemps-at-the-royal-library-of-belgium.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/henry-vieuxtemps-at-the-royal-library-of-belgium.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---

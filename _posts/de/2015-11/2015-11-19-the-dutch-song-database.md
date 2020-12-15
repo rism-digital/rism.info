@@ -6,7 +6,7 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Liederdatenbank_12f3940890.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-dutch-song-database.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/the-dutch-song-database.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Verschiedene [Sammlungen und Liedrepertorien](http://www.liederenbank.nl/index.p
 Sie werden auch die [Mörderballaden](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=moordlied+lbl&submit=zoek&enof=EN-zoeken&zoekop=allewoordenlied&sorteer=jaar&lan=en){:target="_blank"},[Trinklieder](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=drinklied&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=jaar&lan=en){:target="_blank"} und [Lieder über Hunde](http://www.liederenbank.nl/resultaatlijst.php?zoekveld=hond&submit=zoek&enof=EN-zoeken&zoekop=trefwoord&sorteer=beginregel&lan=en){:target="_blank"} nicht missen wollen.
 
 _Abbildung_: Titelblatt _Een schoon liedekens_, auch bekannt als Antwerps Liedboek (source: AntwLb1544). Scan von der [Digitale Bibliotheek voor de Nederlandse Letteren](http://www.dbnl.org/tekst/_ant001antw01_01/){:target="_blank"}.
-
-

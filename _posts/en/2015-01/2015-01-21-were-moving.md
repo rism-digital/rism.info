@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Umzug_7521db8844.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/were-moving.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/were-moving.html
 email: ''
 author: ''
 ---
@@ -33,4 +33,3 @@ Please be patient as we sort out everything during the move. We expect to be bac
 We've enjoyed hosting people from around the world here and we're looking forward to welcoming you soon in our new office.
 
 _Photo credit: JeongYoun Chang from RISM Korea, taken on her visit here in November 2014._
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Adelina_Patti._7875156beb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-100th-anniversary-of-adelina-pattis-death.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/the-100th-anniversary-of-adelina-pattis-death.html
 email: ''
 author: ''
 ---
@@ -18,5 +18,3 @@ Bei RISM finden wir ihren Namen als Sängerin in zwei dieser Rollen: 1879 gastie
 Weniger bekannt ist Adelina Patti als Komponistin. In unserem Online-Katalog findet sich allerdings eine Quelle aus ihrer Feder: Der Walzer für Klavier [_Fior di primavera_](https://opac.rism.info/search?id=852036536&View=rism){:target="_blank"} erschien 1866 bei Ricordi. Eine weitere Komposition von ihr [_Il Bacio d'addio_](https://www.digitalarchivioricordi.com/en/catalogo/40461){:target="_blank"} ist im Archiv von Ricordi nachgewiesen.
 
 _Abbildung_: Porträt von Adelina Patti, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adelina_Patti..jpg){:target="_blank"}
-
-

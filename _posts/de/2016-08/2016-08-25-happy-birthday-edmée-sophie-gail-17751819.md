@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ Einen Teil von Sophie Gails Kompositionen reflektieren die [53 Handschriften](ht
 Gail starb am 24. Juli 1819 in Paris und wurde auf dem Friedhof Père-Lachaise beigesetzt. Ihr früherer Lehrer Fétis schrieb ein Miserere auf ihren Tod ([RISM ID no. 403008216](https://opac.rism.info/search?id=403008216&Language=de){:target="_blank"}).
 
 _Abbildung_: Portrait der Edmée Sophie Gail von Auguste Delvaux, nach Eugène Isabey (1840). Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8418085x){:target="_blank"}.
-

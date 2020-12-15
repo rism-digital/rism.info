@@ -6,7 +6,7 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''
 ---
@@ -18,4 +18,3 @@ Sophie Gail's compositional output is reflected in part by the [53 manuscripts](
 Gail died in Paris on 24 July 1819 and was buried at Père-Lachaise cemetery. Her former teacher, Fétis, wrote a Miserere upon her death ([RISM ID no. 403008216](https://opac.rism.info/search?id=403008216&Language=en){:target="_blank"}).
 
 _Image_: Portrait of Edmée Sophie Gail by Auguste Delvaux, after Eugène Isabey (1840). Via [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8418085x){:target="_blank"}.
-

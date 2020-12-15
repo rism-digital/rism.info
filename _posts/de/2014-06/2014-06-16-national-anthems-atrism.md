@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Niederlande_c13dc86004.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/national-anthems-rism.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/57/article/64/national-anthems-rism.html
 email: ''
 author: ''
 ---

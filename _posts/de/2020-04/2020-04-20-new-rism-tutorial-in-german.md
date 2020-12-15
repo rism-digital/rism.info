@@ -6,7 +6,7 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-rism-tutorial-in-german.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/new-rism-tutorial-in-german.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ Das Video wurde im Rahmen des Projekts [Entwicklung innovativer Curricula und pr
 Das RISM-Video behandelt die Bedeutung der musikalischen Quellen, die Struktur der gedruckten Kataloge des RISM, die RISM-Bibliothekssigel, die Suche im Online-Katalog, weniger bekannte Musikwerke und die erweiterte Suche.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K34u716Uwmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Guillo_-_Title_page_klein_75aaf59cd6.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/new-findings-on-french-polyphonic-masses-1587-1626.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/new-findings-on-french-polyphonic-masses-1587-1626.html
 email: lguillo223@orange.fr
 author: Laurent Guillo
 ---
@@ -22,5 +22,3 @@ This volume probably reflects what was sung in French churches of this time: a m
 Bibliographical details can be found in: Laurent Guillo, “Découverte à la bibliothèque de Fels (Institut catholique de Paris)d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626),” [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102/2 (2016), p. 379-394.
 
 _Image_ : Jehan Titelouze, _Missa Simpli corde_ 6v. Paris: Pierre I Ballard, 1626. Paris, Institut Catholique: b.258(24).
-
-

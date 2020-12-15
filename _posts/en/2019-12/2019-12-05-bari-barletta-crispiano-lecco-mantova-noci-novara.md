@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---
@@ -30,5 +30,3 @@ The collection from the [Biblioteca del Conservatorio statale di musica Guido Ca
 The library is part of the project "In-audita musica," which supports the study and performance of works by women composers from all time periods. In so doing, they are building up a bibliographic and sound archive for women composers, which was recently put on depost at the [Istituto dell’Archivio dell‘Associazione Suonodonne Italia](http://inauditamusica.consno.it/ "external-link-new-window").
 
 _Image_: Record for Luigi Rossi, [_Sovra una verde riva_](https://opac.rism.info/search?id=850736349&View=rism), I-MAc [MSS.MUS.113.43](http://id.sbn.it/bid/MSM0141670){:target="_blank"} (there anonymous)
-
-

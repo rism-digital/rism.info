@@ -6,7 +6,7 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_EvaO_Meara_afe14a654f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/eva-judd-omeara-a-music-librarian-in-a-new-profession.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/eva-judd-omeara-a-music-librarian-in-a-new-profession.html
 email: richard.boursy@yale.edu
 author: Richard Boursy
 ---
@@ -32,5 +32,3 @@ O’Meara officially retired in 1952, but she continued to work on library proje
 Despite her lack of formal education, O’Meara earned the respect and admiration of those who knew her, even renowned Yale professors such as Paul Hindemith and Ralph Kirkpatrick, both of whom were not easily impressed. In 1965, the MLA gave O’Meara a Citation and Honorary Membership. The [award](https://www.musiclibraryassoc.org/?JuddOMearaAward) for the best review in Notes is named after her. Yale honored her with a medal from the Friends of Music (1975), and an endowment established in her name still helps support what is now known as the Irving S. Gilmore Music Library.
 
 _Photograph of O’Meara courtesy of the Irving S. Gilmore Music Library, Yale University, and used with kind permission._
-
-

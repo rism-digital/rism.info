@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/telemann-digital.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/telemann-digital.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---
@@ -20,5 +20,3 @@ Telemann was the city music director and church Kapellmeister in Frankfurt from 
 The aim of the project is to make the autograph and other manuscripts of the church cantatas, as well as some secular works from this unique collection, available for scholarly research, scholarly editions, and church and concert performances. It complements similar music digitization projects in other academic libraries.
 
 The cantata manuscripts will be accessible through the [Digital Collections](http://sammlungen.ub.uni-frankfurt.de/musiktheater/nav/index/all){:target="_blank"} of the University Library.
-
-

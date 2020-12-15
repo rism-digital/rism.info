@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
 email: pfeiffer@dhi-roma.it
 author: Roland Pfeiffer
 ---
@@ -21,5 +21,3 @@ In addition, 36 complete opera scores (dating to around 1770) and 28 collections
 
 
 _Image_: The manuscripts by one of the main copyists from the Cencetti workshop can be distinguished by an unmistakable abbreviation for the violins.
-
-

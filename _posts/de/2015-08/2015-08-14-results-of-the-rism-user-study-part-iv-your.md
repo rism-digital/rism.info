@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_3_OEsterreichische_Nationalbibliothek_9eda955594.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/46/article/64/results-of-the-rism-user-study-part-iv-your-comments-libraries-coverage-and-completeness.html
 email: ''
 author: ''
 ---
@@ -32,4 +32,3 @@ Mehr Informationen zu technischen Fragen finden Sie auf unserer [Datendienstseit
 Die in dieser Woche exemplarisch ausgewählten Kommentare sind nur ein kleiner Teil der zahlreichen Fragen und Anregungen, die wir von Ihnen im Rahmen der Nutzerstudie erhalten haben. Im Rahmen der AIBM-Jahrestagung in Stuttgart werden wir weitere Ergebnisse der Nutzerstudie präsentieren. Weitere Fragen wollen wir im Laufe der Zeit auf unserer Seite zur Nutzerstudie beantworten und Ihre Anregungen möglichst bald bei den nächsten Versionen des Online-Kataloges umsetzen. Eine Veröffentlichung der vollständigen Ergebnisse der Nutzerstudie ist für Ende 2015 geplant.
 
 Abbildung: Wien, Österreichische Nationalbibliothek, Prunksaal. Manfred Morgner, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Nationalbibliothek2.jpg){:target="_blank"}
-

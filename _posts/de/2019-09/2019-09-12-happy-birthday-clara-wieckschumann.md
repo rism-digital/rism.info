@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-birthday-clara-wieck-schumann.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/happy-birthday-clara-wieck-schumann.html
 email: Marina.Gordienko@sbb.spk-berlin.de
 author: Marina Schieke-Gordienko
 ---
@@ -39,4 +39,3 @@ Berliner Blumentagebuch von Clara Schumann (1857-1859)
 D-B, Mus.ms.autogr.theor. Schumann, C. 1 (Blumenblatt 4)
 
 Alle Abbildungen stammen mit freundlicher Genehmigung von Marina Schieke-Gordienko und aus der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz.
-

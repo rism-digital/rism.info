@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_wikipedia_logo_8efafa0864.png"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/risms-wikipedia-articles-now-updated.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/risms-wikipedia-articles-now-updated.html
 email: ''
 author: ''
 ---
@@ -20,5 +20,3 @@ The Wikipedia articles are important sources of information about RISM for reade
 The Wikipedia articles are read often, as well. In 2018, the RISM articles were [read over 7,000 times](https://tools.wmflabs.org/langviews?project=en.wikipedia.org&platform=desktop&agent=user&start=2018-01-01&end=2018-12-31&page=R%C3%A9pertoire_International_des_Sources_Musicales&sort=views&direction=1&view=list&page=R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}.
 
 Anyone can contribute to Wikipedia, but it is important to adhere to Wikipedia's editing rules. The Central Office is happy to assist if you have questions, and we can also help coordinate teams if there are multiple people from one language who want to contribute.
-
-

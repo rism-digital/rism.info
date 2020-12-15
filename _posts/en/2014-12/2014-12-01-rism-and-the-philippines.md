@@ -6,7 +6,7 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_20141017_093055_4f66f31cca.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-and-the-philippines.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/rism-and-the-philippines.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ Another interesting aspect was a collection of printed and handwritten music at 
 RISM was pleased to have this opportunity to strengthen ties with colleagues in Asia and we are looking forward to working with them in the future.
 
 Photo: Ikeda Hall, University of the Philippines. Courtesy of Klaus Keil.
-
-

@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Jahresbericht_2015_Graupner_bf7a17b880.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-2015-annual-report.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/the-2015-annual-report.html
 email: ''
 author: ''
 ---
@@ -63,4 +63,3 @@ And, as always:
 Here's to a successful and productive 2016!
 
 _Image_: Christoph Graupner's unfinished (!) canon with 5,626 inversions, perhaps the most interesting manuscript we stumbled upon in 2015 (ca. 1730, Universitäts- und Landesbibliothek in Darmstadt. [RISM ID no. 450007135](https://opac.rism.info/search?id=450007135){:target="_blank"})
-

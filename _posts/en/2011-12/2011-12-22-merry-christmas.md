@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Weihnachtskarte_c797b14bea.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/merry-christmas.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/63/article/64/merry-christmas.html
 email: ''
 author: ''
 ---

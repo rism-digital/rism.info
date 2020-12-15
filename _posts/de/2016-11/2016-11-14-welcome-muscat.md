@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_muscat_01_bd2a4aa088.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/welcome-muscat.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/welcome-muscat.html
 email: ''
 author: ''
 ---
@@ -38,4 +38,3 @@ Dem RISM steht nun mit Muscat erstmals ein Erfassungssystem zur Verfügung, das 
 Mit der Einführung von Muscat besteht für Universitäts-, Bibliotheks-, Archivmitarbeiter oder interssierte Personen die Möglichkeit RISMdirekt beizutragen. Wenn Ihre Bibliothek Bestände besitzt, die in RISM aktualisiert werden müssen, wenn Sie über Quellen eines bestimmten Komponisten arbeiten, wenn Sie Quellen RISM hinzufügen möchten, lassen Sie es uns bitte wissen.
 
 An alle bestehenden Ländergruppen, Partner und andere Beitragende sowie zukünfige Kollegen: Wir freuen uns auf die Zusammenarbeit mit Ihnen!
-

@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_muscat_Geburtstag_52bc35581a.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/one-year-of-muscat.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/one-year-of-muscat.html
 email: ''
 author: ''
 ---
@@ -23,5 +23,3 @@ RISM ermuntert alle Angehörige von Universitäten, Bibliotheken, Archiven oder 
 
 
 _Abbildung_: Luftballons übernommen von [Sweet Clip Art](http://sweetclipart.com/seven-rainbow-birthday-party-balloons-239){:target="_blank"}.
-
-

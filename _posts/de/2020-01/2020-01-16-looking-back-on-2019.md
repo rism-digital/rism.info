@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/looking-back-on-2019.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/looking-back-on-2019.html
 email: ''
 author: ''
 ---
@@ -50,4 +50,3 @@ Im Jahr 2019 lautete - wie in den vergangenen Jahren - die am häufigsten gelese
 Ein großes Dankeschön an unsere Leser und Unterstützer für Ihre Beiträge, Meinungen, Tipps, harte Arbeit und Entdeckungen!
 
 _Abbildung_: Postkarte aus [The New York Public Library Digital Collections](http://digitalcollections.nypl.org/items/510d47e3-4783-a3d9-e040-e00a18064a99){:target="_blank"}.
-

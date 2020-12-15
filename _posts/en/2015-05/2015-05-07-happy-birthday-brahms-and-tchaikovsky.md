@@ -6,7 +6,7 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Tchaikovsky_Brahms_9e2a13b895.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/happy-birthday-brahms-and-tchaikovsky.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/happy-birthday-brahms-and-tchaikovsky.html
 email: ''
 author: ''
 ---
@@ -34,4 +34,3 @@ _To find out a_ _connection between Brahms's Rinaldo and the music of Tchaikovsk
 
 
 Image, above left: P.I. Tchaikovsky, Quotation from Tscharodeika, Library of Congress, Moldenhauer Archives, Box 53.
-

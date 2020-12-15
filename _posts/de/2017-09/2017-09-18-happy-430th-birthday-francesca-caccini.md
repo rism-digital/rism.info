@@ -6,7 +6,7 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Caccini_430_a8a8fef1be.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/happy-430th-birthday-francesca-caccini.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/happy-430th-birthday-francesca-caccini.html
 email: ''
 author: ''
 ---
@@ -31,5 +31,3 @@ Der RISM Online-Katalog nennt [neun Nachweise zu Francesca Caccini](https://opac
 Abbildung: _Care stelle d'amor_ von Francesca Caccini, aus: Il Primo libro delle musiche a una e due voci, Florenz: Zanobi Pignoni, 1618, S. 15 (Exemplar: Biblioteca Estense, Modena (I-MOe)).
 
 Via [http://mugi.hfmt-hamburg.de/Artikel/Francesca\_Caccini](http://mugi.hfmt-hamburg.de/Artikel/Francesca_Caccini)
-
-

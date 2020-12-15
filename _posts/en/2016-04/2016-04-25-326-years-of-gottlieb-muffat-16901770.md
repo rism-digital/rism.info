@@ -6,7 +6,7 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Muffat_bbbfd9bd63.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/326-years-of-gottlieb-muffat-1690-1770.html
+old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/326-years-of-gottlieb-muffat-1690-1770.html
 email: ''
 author: ''
 ---
@@ -26,4 +26,3 @@ Below, enjoy _Componimenti musicali_ performed by Naoko Akutagawa.
 
 
 _Image_: Title page of _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitized and available from the [Austrian National Library](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.
-

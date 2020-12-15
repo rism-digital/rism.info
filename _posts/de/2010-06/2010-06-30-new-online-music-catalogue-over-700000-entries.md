@@ -6,7 +6,7 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_rism-opac-screenshot_8220384a7e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-online-music-catalogue-over-700000-entries.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/65/article/64/new-online-music-catalogue-over-700000-entries.html
 email: ''
 author: ''
 ---

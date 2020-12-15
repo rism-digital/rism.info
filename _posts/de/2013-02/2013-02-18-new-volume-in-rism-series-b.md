@@ -6,7 +6,7 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_B_XIII_307_blau_83cbccccd1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-volume-in-rism-series-b.html
+old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/new-volume-in-rism-series-b.html
 email: ''
 author: ''
 ---
