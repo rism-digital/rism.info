@@ -8,13 +8,13 @@
 
 [New RISM article on Wikipedia](/working-groups/clr/wikipedia.html)
 
-[Meeting: Leipzig 2018](/working-groups/clr/leipzig2018.html)
-
 [Meeting: Shangjai 2018](/working-groups/clr/shanghai2018.html)
+
+[Meeting: IAML Leipzig 2018](/working-groups/clr/leipzig2018.html)
 
 [Meeting: Shanghai 2017](/working-groups/clr/shanghai2017.html)
 
-Meeting: Riga 2017
+Meeting: IAML Riga 2017
 
 [Meeting: Taipei 2016](/working-groups/clr/taipei2016.html)
 
