@@ -29,7 +29,7 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_Internati
 RISM has received financial support in part from:
 
 * [Kulturfonds der VG Musikedition](https://www.vg-musikedition.de/){:target="_blank"}
-* [Stadt Frankfurt am Main](http://www.kultur.frankfurt.de/){:target="_blank"}
+* [Stadt Frankfurt am Main](https://www.kultur-frankfurt.de/){:target="_blank"}
 * [Deutsche Forschungsgemeinschaft, Bonn](http://www.dfg.de/){:target="_blank"}
 * [Union der deutschen Akademien der Wissenschaften](http://www.akademienunion.de/){:target="_blank"}
 * [The Ford Foundation, New York](http://www.fordfoundation.org/){:target="_blank"}
