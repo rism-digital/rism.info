@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news/2020-12/digital-center.png"
-email: 'contact@rism.info'
 ---
 
 We are pleased to announce that the Swiss RISM has been restructured to form the RISM Digital Center. This evolution is the result of more than a decade of active contribution to the field of digital methods, including the development of tools highly relevant for the entire RISM community and beyond. Earlier this year, the association overseeing RISM Switzerland was renamed the RISM Digital Center Association. At the same time, the Swiss National Science Foundation allocated for the next four years an increased subsidy to bolster the staff dedicated to digital development work. The RISM Digital Center will remain the host of the RISM Switzerland working group with offices at the Swiss National Library.
