@@ -16,7 +16,7 @@ RISM's other publications are divided into series, reflecting the early structur
 
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-The RISM Online Catalog is a free resource that can be accessed from [www.rism.info](https://www.rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
+The RISM Online Catalog is a free resource that can be accessed from [rism.info](https://rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
 
 The online catalog contains all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and years 1501-1550, 1601-1650, and most of 1651-1690 of [B/I](#series-b-bibliographies-organized-by-topic).
 
