@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing the RISM Digital Center"
+title: "Ankündigung des RISM Digital Center"
 date: 2020-12-15
 lang: de
 post: true
@@ -9,16 +9,16 @@ image: "/images/news/2020-12/digital-center.png"
 email: 'contact@rism.info'
 ---
 
-We are pleased to announce that the Swiss RISM has been restructured to form the RISM Digital Center. This evolution is the result of more than a decade of active contribution to the field of digital methods, including the development of tools highly relevant for the entire RISM community and beyond. Earlier this year, the association overseeing RISM Switzerland was renamed the RISM Digital Center Association. At the same time, the Swiss National Science Foundation allocated for the next four years an increased subsidy to bolster the staff dedicated to digital development work. The RISM Digital Center will remain the host of the RISM Switzerland working group with offices at the Swiss National Library.
+Wir freuen uns, Ihnen mitteilen zu können, dass das Schweizer RISM zum RISM Digital Center umstrukturiert wurde. Diese Entwicklung ist das Ergebnis von mehr als einem Jahrzehnt aktiver Beteiligung auf dem Gebiet digitaler Verfahren, einschließlich der Entwicklung von Werkzeugen, die für die gesamte RISM-Gemeinschaft und darüber hinaus von großer Bedeutung sind. Zu Beginn dieses Jahres wurde der Verein, der RISM Schweiz betreut, in RISM Digital Center Association umbenannt. Gleichzeitig bewilligte der Schweizerische Nationalfonds für die nächsten vier Jahre eine erhöhte Subvention, um das Personal, das sich der digitalen Entwicklungsarbeit widmet, aufzustocken. Das RISM Digital Center bleibt Träger der Arbeitsgruppe RISM Schweiz mit Büros in der Schweizerischen Nationalbibliothek.
  
-The RISM Digital Center will work closely with the RISM Editorial Center (Zentralredaktion) in Frankfurt, which continues to be the central contact point for all working groups, libraries and other participants and users of the RISM project. As before, the Editorial Center will also ensure that the data is regularly published through the online catalog maintained by the Bavarian State Library. The Digital Center will focus on the maintenance of the digital infrastructure, with a priority on the maintenance and the development of Muscat, the central software utilized by RISM contributors. It will continue to manage its installation at the Staatsbibliothek zu Berlin, from which all the working groups benefit. The teams of the two Centers will work together to foster a community-driven development philosophy based on close contact between technical development and the daily work of all RISM contributors.
+Das RISM Digital Center wird eng mit der RISM-Zentralredaktion in Frankfurt zusammenarbeiten, die weiterhin die zentrale Anlaufstelle für alle Arbeitsgruppen, Bibliotheken und andere Teilnehmer und Nutzer des RISM-Projekts ist. Wie bisher wird die Zentralredaktion auch dafür sorgen, dass die Daten regelmäßig über den Online-Katalog der Bayerischen Staatsbibliothek veröffentlicht werden. Das Digital Center wird sich auf die Pflege der digitalen Infrastruktur konzentrieren, wobei der Schwerpunkt auf der Pflege und Weiterentwicklung von Muscat liegt, der zentralen Software, die von den RISM-Mitarbeitern genutzt wird. Es wird weiterhin die Muscat-Instanz an der Staatsbibliothek zu Berlin betreuen, von der alle Arbeitsgruppen profitieren. Die Teams der beiden Zentren werden zusammenarbeiten, um eine gemeinschaftliche Entwicklungsphilosophie zu fördern, die auf einem engen Kontakt zwischen der technischen Entwicklung und der täglichen Arbeit aller RISM-Mitwirkenden basiert.
  
-For the RISM community, this development is a welcome reinforcement of the international network of the project. We believe this new structure will optimize the resources the RISM community currently has and strengthen the project at all levels. Good maintenance of the digital infrastructure will allow the Editorial Center to further improve its support for the working groups, the libraries and all other partners of the project whose contributions form the core of RISM.
+Für die RISM-Community ist diese Entwicklung eine willkommene Verstärkung des internationalen Netzwerks des Projekts. Wir glauben, dass diese neue Struktur die Ressourcen, über die die RISM-Gemeinschaft derzeit verfügt, optimieren und das Projekt auf allen Ebenen stärken wird. Eine gute Pflege der digitalen Infrastruktur wird es der Zentralredaktion ermöglichen, ihre Unterstützung für die Arbeitsgruppen, die Bibliotheken und alle anderen Partner des Projekts, deren Beiträge den Kern von RISM bilden, weiter zu verbessern.
   
-For more information about this news, about the staff, and the current projects, visit the websites [https://rism.info](https://rism.info) and [https://rism.digital](https://rism.digital), or contact us directly.
+Weitere Informationen über diese Neuigkeiten, über die Mitarbeiter und die aktuellen Projekte finden Sie auf den Webseiten [https://rism.info](https://rism.info) und [https://rism.digital](https://rism.digital), oder Sie können uns direkt kontaktieren.
 
 Klaus Pietschmann\
-President, Internationales Quellenlexikon der Musik e.V.
+Präsident, Internationales Quellenlexikon der Musik e.V.
 
 Hans-Joachim Hinrichsen\
-President, RISM Digital Center Association
+Präsident, RISM Digital Center Association
