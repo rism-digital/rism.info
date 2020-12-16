@@ -17,7 +17,7 @@ The [Online Directory of RISM Library Sigla](/community/sigla.html){:blank} has 
 The website is now mobile friendly and is easier to navigate on tablets and smaller devices.
 
 The new website brings with it some structural changes.
-* The page [Editorial Center](/editorial-center.html){:blank) focuses on the Frankfurt office, which is the central contact point for all working groups, libraries and other participants and users of the RISM project.
+* The page [Editorial Center](/editorial-center.html){:blank} focuses on the Frankfurt office, which is the central contact point for all working groups, libraries and other participants and users of the RISM project.
 * The page [Working Groups](/working-groups.html){:blank} offers contact information for all RISM working groups worldwide.
 * The page [Digital Center](/digital-center.html){:blank} contains information about [the newly formed central hub](/new_at_rism/2020/12/15/announcing-rism-digital-center.html){:blank} for information technology questions within the global RISM community.
 
