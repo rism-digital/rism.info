@@ -32,7 +32,7 @@ Tel: +49-69-706231
 
 Fax: +49-69-706026
 
-[https://www.rism.info/editorial-center.html](/editorial-center.html)
+[https://rism.info/de/editorial-center.html](/editorial-center.html)
 
 contact@rism.info 
 
