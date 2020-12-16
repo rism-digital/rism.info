@@ -64,14 +64,14 @@ The 2017 annual conference of IAML was held in National Library of Latvia from 1
    
   
  
-![](/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg "Wiki-Chinese RISM")
+{% include image file="/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg" pos="left" %}
 
 ## The entry “RISM” of Chinese Wikipedia is now officially online!
 
 With the assistance of RISM Zentralredaktion and International advisors Dr. Nora YEH and Prof. Judy TSOU, RISM-CLR have completed the Chinese translation of Wikipedia article of the entry “RISM.”  [_Continue..._](/working-groups/clr/wikipedia.html){:blank}
-
-
-
+­     
+­     
+­     
 
 
 

@@ -6,11 +6,10 @@ permalink: /organization.html
 old_url: http://www.rism.info/en/organisation.html
 ---
 
-The International Inventory of Musical Sources - Répertoire International des Sources Musicales (RISM) - is an international, non-profit organization which aims for comprehensive documentation of extant musical sources worldwide. These primary sources are manuscripts or printed music, writings on music theory, and libretti. They are housed in libraries, archives, monasteries, schools and private collections.
+The Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources - is an international, non-profit organization that aims to comprehensively document extant musical sources world. These primary sources are music manuscripts or printed music editions, writings on music theory, and libretti. They are preserved in libraries, archives, churches, schools and private collections.
 
-The organization, founded in Paris in 1952, is the largest and only global operation that documents written musical sources. RISM records what exists and where it can be found. As a result, musical traditions are protected through cataloguing in a comprehensive inventory while also being made available to musicologists and musicians. Such work is thus not an end in itself, but leads directly to practical applications.
+RISM was founded in Paris in 1952 and is the largest and only international organization that documents written musical sources. RISM records _what_ exists and _where_ it can be found. As a result, by virtue of being cataloged in a comprehensive inventory, music traditions are protected while also being made available to musicologists and musicians alike. Such work is thus not an end in itself, but leads directly to practical applications.
 
-<!--
 
 Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:blank} in over 10 languages.
 
@@ -18,7 +17,6 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_Internati
 
 [A video overview](https://youtu.be/K34u716Uwmk){:blank} of RISM's work and the online catalog in German, part of the series Tübinger Tutorials zur Musikwissenschaft.
 
--->
 
 # Structure of the Project
 
