@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # 2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”
 
-![](/resources-old-website/workgroups-images/csm_201808_RISM-CLR_3d5d3d1f5a.jpg)
+![](/resources-old-website/workgroups-images/clr-leipzig-2018-08.jpg)
 
 The 2018 IAML annual conference was held in the Hochschule für Musik und Theater “Felix Mendelssohn Bartholdy” Leipzig from 23 to 27 July, where more than 500 librarians, archivists and scholars all over the world came to participate in the conference. After the presentations of 2015 and 2017, RISM-CLR presented a paper titled “Cataloging Standard and Translating Unification of Chinese Musical Compositions” this year and proposed a solution to the problems that we faced over the past few years, and attracted great attention.
 

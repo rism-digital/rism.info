@@ -78,7 +78,7 @@ _[Quodlibet zu einem 80. Geburtstag](https://opac.rism.info/search?id=1001016397
 Matthias Ploner komponierte für ihre Einkleidung (Klarissenkloster Brixen) ein[_Veni Sponsa Christi_](https://opac.rism.info/search?id=1001014411&Language=en){:target="_blank"}. Eine kompositorische Tätigkeit ergibt sich aus dem Titel einer[Sammlung von Präludien](https://opac.rism.info/search?id=1001014399&Language=en){:target="_blank"}von Josef Alois Ladurner (1769-1851): “Leichte Orgelstücke von J. A. L. mppa /:nach angegebenen Thematen von M. Theresia Reifer O. S. Clarae:/.”
 
 **Philippine Schick (1893-1970)**
-Komponistin und Hochschuldozentin. Sie war eine derGründerinnen der[Gesellschaft deutscher und österreichischer Künstlerinnen](http://gedok.de/08/){:target="_blank"} (GEDOK). BeiRISM ist sieals Bearbeiterineines vierhändigen[Klavier-Marsches](https://opac.rism.info/search?id=1001016008&Language=en){:target="_blank"}ihres Lehrers Hermann Zilcher (1881-1948) vertreten.
+Komponistin und Hochschuldozentin. Sie war eine derGründerinnen der[Gesellschaft deutscher und österreichischer Künstlerinnen](https://gedok.de){:target="_blank"} (GEDOK). BeiRISM ist sieals Bearbeiterineines vierhändigen[Klavier-Marsches](https://opac.rism.info/search?id=1001016008&Language=en){:target="_blank"}ihres Lehrers Hermann Zilcher (1881-1948) vertreten.
 
 **Anna Harris Smith**
 Ihr Lied“[Absence](https://opac.rism.info/search?id=00000991002557&Language=en){:target="_blank"}” wurde in London veröffentlicht(Thomas Cahusac & Sons). Das einzig bekannte Exemplar liegt in derDetroit Public Library (RISM A/I: SS 3639 I,1).

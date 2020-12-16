@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/clr"
 
 # 2015 Taipei Conference of Collaborative Project on Chinese Music Resources –RISM Workshop Meeting Minutes
 
- ![](/resources-old-website/workgroups-images/image1198.JPG)
+ ![](/resources-old-website/workgroups-images/clr-taipei-2015.jpg)
 
 2015 Taipei Conference of Collaborative Project on Chinese Music Resources(CPCMR)was held in Digital Archive Center for Music of NTNU in Taipei, Taiwan from the 15<sup>th</sup>-16<sup>th</sup>of October, 2015.Representatives fromShanghai Conservatory of Music Library,Central Conservatory of Music Library,Hong Kong CentralLibrary, Taiwan Music Institute of NationalCentreForTraditionalArts (NCFTA)andDigital Archive Center for Music of NTNUattended this Conference.
 
