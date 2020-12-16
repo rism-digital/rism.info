@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines
   operation that documents written musical sources.
   RISM records what exists and where it can be found.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rism.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rism.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RISM_Music
 
 follow-us:
