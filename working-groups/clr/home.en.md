@@ -61,7 +61,8 @@ The 2017 annual conference of IAML was held in National Library of Latvia from 1
 
 2016 Working Group meeting of RISM-Chinese Language Region was held in Digital Archive Center for Music of NTNU in Taipei on the 3rd of June. In addition to the working report of the first half of 2016, representatives also laid down the progress of works for the second half, and kept moving towards the objective of Cooperative Development and Resource Sharing of Chinese Music Heritage! [_Continue..._](/working-groups/clr/taipei2016.html){:blank}
 
-****\
+\
+****
  
 ![](/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg "Wiki-Chinese RISM")
 
