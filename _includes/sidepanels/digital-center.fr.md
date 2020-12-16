@@ -6,7 +6,7 @@ CP 286
 3000 Berne  
 Suisse  
 
-[https://rism.digital](https://stage.rism.digital)  
+[https://rism.digital](https://rism.digital)  
 [info@rism.digital](mailto:info@rism.digital)
 
 # Outils pour la Communauté du RISM

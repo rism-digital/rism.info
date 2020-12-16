@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/sigla/help.html
 
 ## Introduction
 
-RISM sigla are used to refer to institutions that contain historical music collections.
+RISM sigla are used to refer to institutions that hold historical music collections.
 
 They are composed of a country abbreviation, a city abbreviation, and an institution abbreviation.
 
@@ -18,12 +18,12 @@ In **I-Rc**, **I** stands for Italy, **R** is for Rome, and **c** is for the Bib
 
 In **US-PHf**, **US** stands for the United States, **PH** is for Philadelphia, and **f** is for the Free Library of Philadelphia.
 
-Once you find the country and city you need, you can search the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} for all sources from this location. Choose the field Library siglum.
+Once you find the country and city you need, you can search the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"} for all sources from this location. Select the field **Library siglum**.
 
 Use the symbol * to truncate.
 
-Examples:
-I-R* for all sources currently in Rome, and US-PH* for all sources currently in Philadelphia.
+Examples:\
+I-R* for all sources currently in Rome, and US-PH* for all sources currently in Philadelphia.\
 I-* for all sources in Italy, and US-* for all sources in the United States.
 
  
@@ -31,15 +31,17 @@ I-* for all sources in Italy, and US-* for all sources in the United States.
 
 1. Search for countries using their names in English, French, German, or Italian.
 
-2. Search for cities and institutions using their local names (Roma instead of Rome)
+2. Search for cities and institutions using their local names (Roma instead of Rome).
 
-3. Search for US states by the postal abbreviation in the field City (WI, IL, etc.)
+3. Search for US states by the postal abbreviation in the field City (WI, IL, etc.).
 
 ## Simple search
 
 Enter one or more words to search. Search terms are combined by default. For example, **Archiv Austria** will return all sigla that contain the word **Archiv** and **Austria**.
 
-This may be changed by combining the search terms with a capital OR: **Archiv OR Austria** will find all sigla that contain either one term or the other. Results are sorted by relevance.
+To search for one or more terms, use OR in capital letters: **Archiv OR Austria** will find all sigla that contain either one term or the other. 
+
+Results are sorted by relevance.
 
 ## Fields
 

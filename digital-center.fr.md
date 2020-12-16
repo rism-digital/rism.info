@@ -15,4 +15,4 @@ Le RISM Digital Center a créé et maintient **Verovio**, une bibliothèque de l
 
 Le RISM Digital Center est un projet d'infrastructure de recherche du [Fonds national suisse de la recherche scientifique](http://www.snf.ch){:target="_blank"} et il est situé à Berne.
 
-Pour plus d'informations, visitez le [site web](https://stage.rism.digital) du Digital Center ou consultez les [dernières nouvelles](/news-archive/rism_digital_center/) à son sujet.
+Pour plus d'informations, visitez le [site web](https://rism.digital) du Digital Center ou consultez les [dernières nouvelles](/news-archive/rism_digital_center/) à son sujet.

@@ -32,11 +32,12 @@ The Collaborative Project on Chinese Music Resources initiated by Mainland China
 
 
 
-{% include image file="/resources-old-website/workgroups-images/clr-leipzig-2018-08.JPG" pos="left" %}
+{% include image file="/resources-old-website/workgroups-images/clr-leipzig-2018-08.jpg" pos="left" %}
 
 ## 2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”
 
 The 2018 IAML annual conference was held in the Hochschule für Musik und Theater “Felix Mendelssohn Bartholdy” Leipzig from 23 to 27 July, where more than 500 librarians, archivists and scholars all over the world came to participate in the conference. After the presentations of 2015 and 2017, RISM-CLR presented a paper titled “Cataloging Standard and Translating Unification of Chinese Musical Compositions” this year and proposed a solution to the problems that we faced over the past few years, and attracted great attention. [_Continue..._](/working-groups/clr/leipzig2018.html){:blank}
+
 
 
 
@@ -58,13 +59,22 @@ The 2017 annual conference of IAML was held in National Library of Latvia from 1
 
 ## 2016/06 Working Group meeting of RISM-Chinese Language Region was successfully held in Taipei
 
-2016 Working Group meeting of RISM-Chinese Language Region was held in Digital Archive Center for Music of NTNU in Taipei on the 3rd of June. In addition to the working report of the first half of 2016, representatives also laid down the progress of works for the second half, and kept moving towards the objective of Cooperative Development and Resource Sharing of Chinese Music Heritage! [_Continue..._](/working-groups/clr/taipei2016.html){:blank}
-
-![](/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg "Wiki-Chinese RISM")
+2016 Working Group meeting of RISM-Chinese Language Region was held in Digital Archive Center for Music of NTNU in Taipei on the 3rd of June. In addition to the working report of the first half of 2016, representatives also laid down the progress of works for the second half, and kept moving towards the objective of Cooperative Development and Resource Sharing of Chinese Music Heritage! [_Continue..._](/working-groups/clr/taipei2016.html){:blank}   
+­     
+   
+  
+ 
+{% include image file="/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg" pos="left" %}
 
 ## The entry “RISM” of Chinese Wikipedia is now officially online!
 
 With the assistance of RISM Zentralredaktion and International advisors Dr. Nora YEH and Prof. Judy TSOU, RISM-CLR have completed the Chinese translation of Wikipedia article of the entry “RISM.”  [_Continue..._](/working-groups/clr/wikipedia.html){:blank}
+­     
+­     
+­     
+
+
+
 
 {% include image file="/resources-old-website/workgroups-images/clr-taipei-2015.jpg" pos="left" %}
 

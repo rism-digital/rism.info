@@ -15,4 +15,4 @@ Das RISM Digital Center erstellte und unterhält **Verovio**, eine Open-Source-S
 
 Das RISM Digital Center ist ein Forschungsinfrastrukturprojekt des [Schweizerischen Nationalfonds](http://www.snf.ch){:target="_blank"} und hat seinen Sitz in Bern.
 
-Weitere Informationen finden Sie auf der Digital Center [Website](https://stage.rism.digital) oder in den [letzten News](/news-archive/rism_digital_center/) darüber.
+Weitere Informationen finden Sie auf der Digital Center [Website](https://rism.digital) oder in den [letzten News](/news-archive/rism_digital_center/) darüber.
