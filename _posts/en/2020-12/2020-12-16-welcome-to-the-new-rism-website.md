@@ -7,6 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news/2020-12/neue_website_2020.png"
 ---
+
 We invite you to take a look at the website of the [RISM Editorial Center](/editorial-center.html){:blank}, which has been redesigned in cooperation with the [RISM Digital Center](/digital-center.html){:blank}. 
 
 Visitors to the RISM website can still directly search the RISM Online Catalog of Musical Sources containing over 1.2 million records for historical music manuscripts and printed music. The RISM Catalog is available for free to everyone worldwide and can also be found at [opac.rism.info](https://opac.rism.info/index.php?id=4){:blank}.
