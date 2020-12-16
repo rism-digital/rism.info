@@ -64,7 +64,7 @@ The 2017 annual conference of IAML was held in National Library of Latvia from 1
    
   
  
-{% include image file="/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg pos="left" %}
+{% include image file="/resources-old-website/workgroups-images/csm_03b86f6f-c52f-4887-95e9-9655330594d4_82a87487bb.jpg" pos="left" %}
 
 ## The entry “RISM” of Chinese Wikipedia is now officially online!
 
