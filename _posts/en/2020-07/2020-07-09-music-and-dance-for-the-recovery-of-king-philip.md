@@ -13,7 +13,7 @@ author: ''
 
 Around exactly 400 years ago, the printed music anthology _Breve Racconto della Festa a Ballo_ was published in Naples by Costantino Vitale, of which only one copy is known today, held by the [Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k321253t){:target="_blank"} (F-Pn).
 
-The _Festa a Ballo_ is one of the few examples of Italian court dance with music, corresponding to the French _ballet de cour_ (see, for example, the _Discours au vray du Ballet_, B/I1617|7, [RISMIDno.993121467](https://opac.rism.info/search?id=993121467&View=rism){:target="_blank"}, dedicated to LouisXIII of France) and the English masques.
+The _Festa a Ballo_ is one of the few examples of Italian court dance with music, corresponding to the French _ballet de cour_ (see, for example, the _Discours au vray du Ballet_, B/I1617\|7, [RISMIDno.993121467](https://opac.rism.info/search?id=993121467&View=rism){:target="_blank"}, dedicated to LouisXIII of France) and the English masques.
 
 The festive music was performed on 1 March 1620, which was not only the last Sunday before Lent, but also marked a prominent occasion that probably also led to the somewhat unusual circumstances of this occasional work appearing in print. Music played as people danced “due to their happiness over the restored health of his royal Catholic majesty, Philipp III of Austria, King of Spain” (per l'allegrezza della salute | acquistata della Maestà Cattolica di | FILIPPO III. D'AVSTRIA. | Rè della Spagne).
 

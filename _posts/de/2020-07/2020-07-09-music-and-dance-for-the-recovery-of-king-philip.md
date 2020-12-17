@@ -13,7 +13,7 @@ author: ''
 
 Vor ziemlich genau 400 Jahren erschien in Neapel bei Costantino Vitale der Sammeldruck Breve Racconto della Festa a Ballo, von dem heute lediglich ein [Exemplar in der Bibliothèque nationale de France (F-Pn)](https://gallica.bnf.fr/ark:/12148/bpt6k321253t){:target="_blank"} erhalten ist.
 
-Die Festa a Ballo ist eines der wenigen aus Italien stammenden Zeugnisse höfischer Tanzveranstaltungen mit Musik – ihr Pendant findet sie im französischen ballet de cour (siehe zum Beispiel Discours au vray du Ballet B/I1617|7. RISMIDno.[993121467](https://opac.rism.info/search?id=993121467&View=rism){:target="_blank"}, gewidmet LouisXIII. von Frankreich) und in der englischen Masque.
+Die Festa a Ballo ist eines der wenigen aus Italien stammenden Zeugnisse höfischer Tanzveranstaltungen mit Musik – ihr Pendant findet sie im französischen ballet de cour (siehe zum Beispiel Discours au vray du Ballet B/I1617\|7. RISMIDno.[993121467](https://opac.rism.info/search?id=993121467&View=rism){:target="_blank"}, gewidmet LouisXIII. von Frankreich) und in der englischen Masque.
 
 Die Festmusik kam nicht nur am letzten Sonntag vor der entbehrungsreichen Fastenzeit, dem 1.März 1620, zur Aufführung, sondern hatte darüber hinaus einen prominenten Anlass, der wohl auch zu dem eher ungewöhnlichen Umstand führte, dass dieses spezifisch okkasionelle Werk im Druck erschien. So wurde
 
