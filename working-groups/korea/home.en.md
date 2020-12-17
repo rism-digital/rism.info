@@ -30,6 +30,7 @@ The Ewha Music Research Institute (EMRI) recently completed a 3-year project to 
 \
 \
 \
+
 {% include image file="/resources-old-website/pics/Logo_Suedkorea_03.jpg" pos="left" %}
 
 ## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
