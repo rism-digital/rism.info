@@ -27,4 +27,4 @@ The health of the king, which was already weakened due to extensive Habsburg inb
 
 Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info) or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
 
-Images from _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Available online](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
+Images from _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620\|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Available online](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.

@@ -46,7 +46,7 @@ Use the RISM number regardless of source type: manuscript, printed edition, trea
 
 [RISM A/I: HH 6429a](https://opac.rism.info/search?id=00000991020872&Language=en){:target="_blank"}
 
-- [RISM B/I: 1546|23](https://opac.rism.info/search?id=00000993104478&Language=en){:target="_blank"}
+- [RISM B/I: 1546\|23](https://opac.rism.info/search?id=00000993104478&Language=en){:target="_blank"}
 
 As new imprints are added to the database, however, the numbering system used in the books is not being continued. Records for new imprints will only have the RISM ID numbers as described above. If you cite an imprint that has an A/I or B/I number, you are free to cite either the series number or the nine-digit RISM ID number. Please note accordingly, however, that in the literature you may see two identifiers that refer to the same print.
 

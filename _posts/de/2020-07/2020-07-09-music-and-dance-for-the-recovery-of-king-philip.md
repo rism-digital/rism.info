@@ -29,4 +29,4 @@ Die Gesundheit des Königs, der ohnehin als Folge des andauernden Inzests in der
 
 Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an contact@rism.info oder senden Sie direkt eine Nachricht über den Katalogeintrag (das orangefarbene Icon neben der RISM-ID).
 
-Abbildungen aus _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Online verfügbar](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
+Abbildungen aus _Breve Racconto della Festa a Ballo_.(Neapel: Vitale, 1620). B/I1620\|14. [RISMIDno.993121514](https://opac.rism.info/search?id=993121514&View=rism){:target="_blank"}. Bibliothèque nationale de France, Département de la Musique (F-Pn) RES P-YD-4. [Online verfügbar](http://catalogue.bnf.fr/ark:/12148/cb33272704c){:target="_blank"}.
