@@ -71,6 +71,7 @@ Example:
 
 * A search for **\*** will retrieve all sigla.
 * In the list of results, click on any institution to see full details, including address, URL, and link to sources in the RISM Catalog of Musical Sources.
+* A gold star appears next to the institutions that have sources in the RISM Catalog.
 
 
 ## Technology used
