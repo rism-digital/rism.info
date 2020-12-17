@@ -67,9 +67,10 @@ Example:
 * The search **name=Bach AND country=USA** will find all sigla with the word “Bach” in the name that are in the United States.
 
  
-## Tip
+## Tips
 
-A search for **\*** will retrieve all sigla.
+* A search for **\*** will retrieve all sigla.
+* In the list of results, click on any institution to see full details, including address, URL, and link to sources in the RISM Catalog of Musical Sources.
 
 
 ## Technology used
