@@ -12,7 +12,7 @@ In 35 Ländern beteiligen sich derzeit eine oder mehrere nationale RISM-Arbeitsg
 
 # Gesamtliste der RISM-Arbeitsgruppen
 
-*If you are interested in describing sources from a country that is not listed, please [contact us](http://contact@rism.info/){:target="_blank"}.*
+*Wenn Sie an der Beschreibung von Musikquellen aus einem Land interessiert sind, das hier nicht aufgelistet ist, [kontaktieren Sie uns](http://contact@rism.info/){:target="_blank"} bitte.*
 
 ## BELGIEN
 
@@ -175,7 +175,7 @@ Telefon: +33 1 4703 8851\
 Fax: +33 1 4703 8828\
 E-Mail: [laurence.decobert@bnf.fr](mailto:laurence.decobert@bnf.fr)\
 Webseite: [http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html](http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html){:target="_blank"}\
-Siehe auch: [https://www.rism.info/working-groups/france/home.html] (/working-groups/france/home.html){:blank}
+Siehe auch: [https://www.rism.info/working-groups/france/home.html](/working-groups/france/home.html){:blank}
 
 ## GRIECHENLAND
 
@@ -245,7 +245,7 @@ University of Toronto Libraries\
 Canada\
 Telefon: +1 416-978-4356\
 E-Mail: [kyla.jemison@utoronto.ca](mailto:kyla.jemison@utoronto.ca)\
-Website: https://www.rism.info/working-groups/canada/home.html (/working-groups/canada/home.html){:blank}
+Website: [https://www.rism.info/working-groups/canada/home.html](/working-groups/canada/home.html){:blank}
 
 ## KOLUMBIEN
 
@@ -303,7 +303,7 @@ Telefon: + (514) 369 0982\
 Skype: John G. Lazos\
 Email: jlazos11@hotmail.com\
 Webseite: http://umontreal.academia.edu/JohnLazos\
-Siehe auch: https://www.rism.info/working-groups/mexico/home.html (/working-groups/mexico/home.html){:blank} 
+Siehe auch: [https://www.rism.info/working-groups/mexico/home.html](/working-groups/mexico/home.html){:blank}
 
 ## NIEDERLANDE
 
