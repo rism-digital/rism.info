@@ -76,7 +76,7 @@ Belarussian Academy of Music\
 Internationulnaja, 30\
 BL-220030 Minsk\
 Email: [shapiro@open.by](mailto:shapiro@open.by)\
-Website: [http://www.bgam.edu.by/eng/](http://www.bgam.edu.by/eng/){:target="_blank"}
+Website: [https://www..by/eng/](https://www.bgam.by/eng/){:target="_blank"}
 
 ## BELGIUM
 
@@ -489,7 +489,7 @@ Staff: dr Marcin Konik\
 Staff: mgr Jacek Iwaszko\
 Telephone: +48 22 44 16 185\
 Email: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Website: [www.chopin.nifc.pl](http://www.chopin.nifc.pl){:target="_blank"}
+Website: [https://www.chopin.nifc.pl/pl](https://www.chopin.nifc.pl/pl){:target="_blank"}
 
 ## PORTUGAL
 
