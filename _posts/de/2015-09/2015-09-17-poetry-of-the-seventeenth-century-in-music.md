@@ -23,7 +23,7 @@ In dieser Anthologie von vertonten Gedichten werden Sie Werke großer Dichter au
 <param name="FlashVars" value="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381">
 <embed src="http://gallica.bnf.fr/flash/LecteurExportable.swf" name="LecteurExportable" width="450" height="381" allowscriptaccess="always" wmode="window" flashvars="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer"></embed></object>
 
-_Oben: Der erste Band dieser Serie: Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
+_Oben: Der erste Band dieser Serie: Airs de différents autheurs à deux Parties (RISM B/I: 1658\|3)_
 
 
 Viele Werke diser Sammlung sind ohne Namensnennung des Dichters oder Komponisten überliefert. Das Centre de Musique Baroque de Versailles, Partner der BnF, hat eine elektronische [moderne wissenschaftliche Edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} der 1220 Airs herausgegeben.

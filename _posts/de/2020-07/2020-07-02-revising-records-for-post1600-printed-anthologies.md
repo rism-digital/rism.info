@@ -22,7 +22,7 @@ Nachdem Valerius am 27. Januar 1625 verstorben war, wurde die Sammlung von seine
 Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an [contact@rism.info](mailto:contact@rism.info) oder senden Sie direkt eine Nachricht über den Katalogeintrag (das orangefarbene Icon neben der RISM ID-Nummer).
 
 
-Abbildung: Adriaen Valerius,Neder-Landtsche Gedenck-Clanck (Haarlem, 1626). A/I: V 147, B/1 1626|14. [RISM ID no. 990065182](https://opac.rism.info/search?id=990065182&View=rism){:target="_blank"}. Universiteitsbibliotheek Gent (B-Gu) BHSL.RES.0673. O[nline verfügbar](https://lib.ugent.be/catalog/ggc01:394462181){:target="_blank"}.
+Abbildung: Adriaen Valerius,Neder-Landtsche Gedenck-Clanck (Haarlem, 1626). A/I: V 147, B/1 1626\|14. [RISM ID no. 990065182](https://opac.rism.info/search?id=990065182&View=rism){:target="_blank"}. Universiteitsbibliotheek Gent (B-Gu) BHSL.RES.0673. O[nline verfügbar](https://lib.ugent.be/catalog/ggc01:394462181){:target="_blank"}.
 
 [
 ](https://lib.ugent.be/catalog/ggc01:394462181)
