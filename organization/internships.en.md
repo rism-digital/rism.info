@@ -6,9 +6,9 @@ permalink: /organization/internships.html
 old_url: http://www.rism.info/organisation/internships.html
 ---
 
-# Internships at the RISM Central Office
+# Internships at the RISM Editorial Center
 
-The RISM Central Office in Frankfurt offers internships in its editorial department to people interested in experiencing the day-to-day work of a major digital bibliographic and musicological project.
+The RISM Editorial Center in Frankfurt offers internships in its editorial department to people interested in experiencing the day-to-day work of a major digital bibliographic and musicological project.
 
 Internships are organized based on the interests and schedules of the intern. Internships should last at least 3 weeks, though other arrangements can be considered. At the end of the internship, a short report is required that we will publish on the RISM website.
 

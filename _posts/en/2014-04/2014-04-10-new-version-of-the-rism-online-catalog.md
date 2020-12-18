@@ -56,6 +56,4 @@ Finally, in the entries themselves, designations now appear next to names so tha
 
 Some features, such as the option to **e-mail** records to yourself, will be expanded in the future. We will also create tutorials to accompany the online database and write more about specialized searches in this space.
 
-We hope you enjoy using the new RISM catalog. Please don't hesitate to contact us if you have any questions. Below is a brief video highlighting the major changes.
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/iVuL4WA-Gmw" frameborder="0" allowfullscreen></iframe>
+We hope you enjoy using the new RISM catalog. Please don't hesitate to contact us if you have any questions.
