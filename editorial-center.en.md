@@ -10,11 +10,11 @@ old_url: http://www.rism.info/en/organisation/rism-zentralredaktion.html
 
 {% include image file="/images/editorial-center/building.jpg" pos="right" %}
 
-The Editorial Center (Zentralredaktion) is the contact point for participants and other interested people from all over the world. It is available for advice or anything else related to music sources. The office primarily provides support to working groups by making available technical and subject-specific help for tools such as the cataloguing program Muscat and the use of the data server, guidelines for documenting music sources, the online catalogue, and more.
+The Editorial Center (Zentralredaktion) is the contact point for participants and other interested people from all over the world. It is available for advice or anything else related to music sources. The office primarily provides support to working groups by making available technical and subject-specific help for tools such as the cataloging program Muscat and the use of the data server, guidelines for documenting music sources, the online catalog, and more.
 
-The Editorial Center provides opportunities for working groups to acquire basic knowledge of the cataloguing program and how to describe music sources, and conducts workshops dealing with specific topics. In its editorial capacity, it is responsible for standardising data, in particular matters relating to authority control. In addition, it represents the project publicly.
+The Editorial Center provides opportunities for working groups to acquire basic knowledge of the cataloging program and how to describe music sources, and conducts workshops dealing with specific topics. In its editorial capacity, it is responsible for standardising data, in particular matters relating to authority control. In addition, it represents the project publicly.
 
-The Editorial Center cooperates with the Bavarian State Library (Bayerische Staatsbibliothek) and the State Library of Berlin (Staatsbibliothek zu Berlin) to operate the data server and the online catalogue.
+The Editorial Center cooperates with the Bavarian State Library (Bayerische Staatsbibliothek) and the State Library of Berlin (Staatsbibliothek zu Berlin) to operate the data server and the online catalog.
 
 ## Staff of the Editorial Center
 
