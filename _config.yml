@@ -1,12 +1,19 @@
 title: Répertoire International des Sources Musicales
 email: contact@rism.info
 description: >- # this means to ignore newlines
-  The organization, founded in Paris in 1952, is the largest and only global
-  operation that documents written musical sources.
-  RISM records what exists and where it can be found.
+  Répertoire International des Sources Musicales – The organization, founded in Paris in 1952, 
+  is the largest and only global operation that documents written musical sources.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rism.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RISM_Music
+twitter:
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo-square.png
 
 follow-us:
   facebook: https://www.facebook.com/RISM.info/

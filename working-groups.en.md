@@ -76,7 +76,7 @@ Belarussian Academy of Music\
 Internationulnaja, 30\
 BL-220030 Minsk\
 Email: [shapiro@open.by](mailto:shapiro@open.by)\
-Website: [http://www.bgam.edu.by/eng/](http://www.bgam.edu.by/eng/){:target="_blank"}
+Website: [https://www.bgam.by/eng/](https://www.bgam.by/eng/){:target="_blank"}
 
 ## BELGIUM
 
@@ -435,16 +435,13 @@ Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.ma
 Website: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/){:target="_blank"}
 
 Miroslav Osowski\
-Aniela Kolbuszewska\
 Biblioteka Uniwersytecka\
 Oddział Zbiorów Muzycznych\
-ul. św. Jadwigi 3-4\
-PL 50-266 Wrocław\
+ul. Fryderyka Joliot-Curie 12\
+PL 50-383 Wrocław\
 Telephone: +48 71 375 24 25\
-Fax: +48 71 346 31 66\
-Email: [miroslaw.osowski@bu.uni.wroc. pl](mailto:miroslaw.osowski@bu.uni.wroc.pl)\
-Email: [ankol@bu.uni.wroc.pl](mailto:ankol@bu.uni.wroc.pl)\
-Website: [http://www.bu.uni.wroc.pl/oddzialy/piasek/oddzial-zbiorow-muzycznych](http://www.bu.uni.wroc.pl/oddzialy/piasek/oddzial-zbiorow-muzycznych){:target="_blank"}  
+Email: [miroslaw.osowski@uwr.edu.pl](mailto:miroslaw.osowski@uwr.edu.pl)\
+Website: [https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych](https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych){:target="_blank"}  
 
 Dr. habil. Alina Mądry\
 Dr. habil. Magdalena Walter-Mazur\
@@ -489,7 +486,7 @@ Staff: dr Marcin Konik\
 Staff: mgr Jacek Iwaszko\
 Telephone: +48 22 44 16 185\
 Email: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Website: [www.chopin.nifc.pl](http://www.chopin.nifc.pl){:target="_blank"}
+Website: [https://www.chopin.nifc.pl/pl](https://www.chopin.nifc.pl/pl){:target="_blank"}
 
 ## PORTUGAL
 
@@ -536,13 +533,13 @@ Email: [roscomifla@rsl.ru](mailto:roscomifla@rsl.ru)\
 Website: [http://www.rsl.ru/](http://www.rsl.ru/){:target="_blank"}  
 
 Nataly Emelina\
-Glinka State Museum of Musical Culture\
+Rossijskij nacional'nyj muzej muzyki\
+National Music Museum of Russia\
 ul. Fadejeva 4\
 125047 Moscow\
-Telephone: +7 495 739 6226 x127\
-Telephone: +7 8 903 2637132\
-Email: [emelina.ns@gmail.com](mailto:emelina.ns@gmail.com)\
-Website: [http://www.glinka.museum/](http://www.glinka.museum/){:target="_blank"}
+Telephone: +7  8 (495) 605-65-15 (ext. 1117)
+Email: [international@glinka.museum](mailto:international@glinka.museum)\
+Website: [https://music-museum.ru/](https://music-museum.ru/){:target="_blank"}
 
 ## SLOVAKIA
 

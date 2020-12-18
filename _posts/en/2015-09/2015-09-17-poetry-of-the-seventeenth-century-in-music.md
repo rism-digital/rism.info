@@ -23,7 +23,7 @@ In these anthologies of poems set to music, you will find works by the great nam
 <param name="FlashVars" value="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381">
 <embed src="http://gallica.bnf.fr/flash/LecteurExportable.swf" name="LecteurExportable" width="450" height="381" allowscriptaccess="always" wmode="window" flashvars="ark=bpt6k45000356&amp;lang=fr&amp;mode=dp&amp;showArrows=1&amp;bgColor=15430428&amp;autoFlip=0&amp;startPage=5&amp;widthWidget=450&amp;heightWidget=381" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer"></embed></object>
 
-_Above: The first volume of this series, Airs de différents autheurs à deux Parties (RISM B/I: 1658|3)_
+_Above: The first volume of this series, Airs de différents autheurs à deux Parties (RISM B/I: 1658\|3)_
 
 
 Most of the works in the anthologies are presented without composer or poet attribution. The Centre de Musique Baroque de Versailles, partner of the BnF, has undertaken an electronic [modern scholarly edition](http://philidor.cmbv.fr/Publications/Partitions-en-ligne/Edition-moderne-des-Livres-d-airs-de-differents-auteurs-LADDA/Liste-des-recueils){:target="_blank"} of the 1220 airs.
