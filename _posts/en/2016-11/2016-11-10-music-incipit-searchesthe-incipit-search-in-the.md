@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Incipit Search(es)The Incipit Search in the Online CatalogAn Experimental Incipit Search
+title: Music Incipit Search(es)
 date: 2016-11-10
 lang: en
 post: true
@@ -103,7 +103,7 @@ Not every source described in the RISM catalog includes a music incipit. Sometim
 
 This information can also be found on the [catalog's help page](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"}, and videos are available on [RISM's YouTube channel](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HgXFyiXZq5M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UyPv80Ls3Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # An Experimental Incipit Search
 
