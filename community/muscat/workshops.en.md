@@ -110,7 +110,7 @@ RISM Workshop 2: Continuation\
 
 * November 9, 2017, Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China, Shanghai, China \
 [Report by TSENG Tzu-Chia](http://www.rism.info/en/workgroups/chinese-language-region/news/201711-shanghai-meeting.html)\
-*Klaus Keil,**TSENG Tzu-Chia*
+*Klaus Keil, TSENG Tzu-Chia*
 
 * October 17, 2017, [IAML Austria](https://www.iaml.at/) and the [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/), Salzburg and Vienna, Austria\
 *Dr. Ikarus Kaiser*
