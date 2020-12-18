@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Praktikumsbericht_Ulrike_Telemann_Ms.Ff.Mus.820_ae134884a4.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/a-rism-internship-report-from-the-central-office-in-frankfurt.html
-email: ulrike.schaedel@gmx.net
+email: contact@rism.info
 author: Ulrike Schädel
 ---
 
