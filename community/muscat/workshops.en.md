@@ -7,7 +7,7 @@ permalink: /community/muscat/workshops.html
 
 # Workshops
 
-Muscat workshops are hosted by the RISM Central Office or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give online Muscat demonstrations through Skype. 
+Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give online Muscat demonstrations through Skype. 
 
 Access to a training server is available for use in demonstrations, at conferences, or in workshops.
 

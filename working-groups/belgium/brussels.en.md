@@ -47,7 +47,7 @@ After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopo
 
 ## Rediscovered: Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
 
-The music collections of the Royal Library of Belgium (B-Br) have been recently enlarged by a previously unknown workby the Belgian violin virtuoso Eugène Ysaÿe (1858-1931), entitledLégende norvégienne, thanks to the acquisition of the autograph score version. In the spring of 1882,... [_Continue..._](/rediscovered/2014/04/11/l%C3%A9gende-norv%C3%A9gienne-unknown-work-by-the-belgian.html){:blank}
+The music collections of the Royal Library of Belgium (B-Br) have been recently enlarged by a previously unknown workby the Belgian violin virtuoso Eugène Ysaÿe (1858-1931), entitled Légende norvégienne, thanks to the acquisition of the autograph score version. In the spring of 1882,... [_Continue..._](/rediscovered/2014/04/11/l%C3%A9gende-norv%C3%A9gienne-unknown-work-by-the-belgian.html){:blank}
 
 
 
@@ -55,7 +55,7 @@ The music collections of the Royal Library of Belgium (B-Br) have been recently 
 
 ## Library collections: Henry Vieuxtemps at the Royal Library of Belgium
 
-Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, with an important find and an online exhibition. Unknown opera ‘La Fiancée de Messine’ by Henry Vieuxtemps in the Music Department of the Royal Library of Belgium In 2011, the King Baudouin Foundation bought an... [_Continue..._](/library_collections/2012/11/16/henry-vieuxtemps-at-the-royal-library-of-belgium.html){:blank}
+Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, with an important find and an online exhibition. In 2011, the King Baudouin Foundation bought an exceptional set of 32 music manuscripts by the violinist Henry Vieuxtemps. Thanks to the support of the Abbé Manoël de la Serna fund administered by the King Baudouin Foundation, the Vieuxtemps collection in the Music Department of the Royal Library of Belgium has been recently supplemented by a unique autograph manuscript of the composer’s only opera, La Fiancée de Messine, a work completely unknown until now... [_Continue..._](/library_collections/2012/11/16/henry-vieuxtemps-at-the-royal-library-of-belgium.html){:blank}
 
 
 
