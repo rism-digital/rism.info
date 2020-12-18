@@ -18,7 +18,7 @@ old_url: http://www.rism.info/en/organisation/project-history.html
 | |![1953](/images/organization/history-1953.png) *1st RISM meeting, Paris 1953: François Lesure, Vladimir Fedorov, Nanie Bridgman, Nino Pirotta* |
 | 1960 | Zentralredaktion in Kassel established |
 | 1960–1967 | Director of the Zentralredaktion: Friedrich W. Riedel |
-| 1960/64 | First publications of series B:1960 B/I: François Lesure:*Recueils Imprimés XVIe-XVIIe Siècles *1964 B/II: François Lesure:*Recueils Imprimés XVIIIe Siècle* Since then more than 30 volumes have been published; see the [RISM publications](/publications.html#c2619) |
+| 1960/64 | First publications of series B: 1960 B/I: François Lesure: _Recueils Imprimés XVIe-XVIIe Siècles_; 1964 B/II: François Lesure: _Recueils Imprimés XVIIIe Siècle_. Since then more than 30 volumes have been published; see the [RISM publications](/publications.html#c2619) |
 | 1962–1987 | Financial support from the City of Kassel |
 | 1964–1979 | Financial support from the Ford Foundation |
 | 1965–1981 | Financial support from Stiftung Volkswagenwerk Hannover |
