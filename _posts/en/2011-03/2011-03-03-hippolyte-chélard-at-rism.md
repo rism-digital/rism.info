@@ -5,7 +5,7 @@ date: 2011-03-03
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news-old-website/csm_ChelardAndreHippolyte_7ced3ffc35.jpg"
+image: "/images/news-old-website/ChelardAndreHippolyte.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/64/article/64/hippolyte-chelard-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
