@@ -5,9 +5,9 @@ date: 2014-10-30
 lang: en
 post: true
 category: new_at_rism
-image: "/resources-old-website/pics/A4_portrait_01.pdf"
+image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/rism-survey.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 

@@ -40,4 +40,4 @@ From South Korea:
 [Shirley Dean Nevin](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Nevin+Shirley+Dean&Language=en){:target="_blank"} (1894-1982)
 and [Bessie Lim](https://opac.rism.info/metaopac/search?View=rism&View=rism&author=Lim+Bessie&Language=en){:target="_blank"} (1897-1999), whom we [reported on back in April](/rediscovered/2019/04/18/bessie-lim-the-first-woman-musician-of-korea-and.html){:target="_blank"}.
 
-_Image_: Beginning of the sacred song “Occhi io vissi di voi” by Claudia Sessa (ca. 1570-ca. 1619), from _Canoro pianto di Maria Vergine_ (RISM 1613|3 ). Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.125.
+_Image_: Beginning of the sacred song “Occhi io vissi di voi” by Claudia Sessa (ca. 1570-ca. 1619), from _Canoro pianto di Maria Vergine_ (RISM 1613\|3 ). Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.125.

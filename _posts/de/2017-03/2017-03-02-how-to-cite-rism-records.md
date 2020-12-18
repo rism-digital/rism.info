@@ -46,7 +46,7 @@ Verwenden Sie die RISM-Nummer unabhängig vom Quellentyp: Handschrift, Notendruc
 
 [RISM A/I: HH 6429a](https://opac.rism.info/search?id=00000991020872){:target="_blank"}
 
-- [RISM B/I: 1546|23](https://opac.rism.info/search?id=00000993104478){:target="_blank"}
+- [RISM B/I: 1546\|23](https://opac.rism.info/search?id=00000993104478){:target="_blank"}
 
 
 Bei den neu in der Datenbank erfassten Notendrucken wird das Nummerierungssystem aus den Büchern nicht weitergeführt. Die neuen Nachweise erhalten eine RISM-Nummer wie oben beschreiben. Wenn Sie einen Notendruck aus den Serien A/I oder B/I zitieren, können Sie die Seriennummer oder die neunstellige Nummer verwenden. Bitte beachten Sie, dass auch in der Literatur zwei verschiedene Zitierweisen auf ein und denselben Druck beziehen können.
