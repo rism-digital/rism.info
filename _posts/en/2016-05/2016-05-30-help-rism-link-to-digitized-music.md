@@ -88,7 +88,7 @@ For items from B/I that are not in the online catalog, please make sure to send 
 |
 |
 
-1553|8
+1553\|8
 
 |
 
@@ -97,7 +97,7 @@ For items from B/I that are not in the online catalog, please make sure to send 
 |
 |
 
-1559|2
+1559\|2
 
 |
 

@@ -95,7 +95,7 @@ Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, 
 |
 |
 
-1553|8
+1553\|8
 
 |
 
@@ -104,7 +104,7 @@ Für Beschreibungen aus B/I, die noch nicht im Online-Katalog verzeichnet sind, 
 |
 |
 
-1559|2
+1559\|2
 
 |
 
