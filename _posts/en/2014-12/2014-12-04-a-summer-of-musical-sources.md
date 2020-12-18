@@ -8,7 +8,7 @@ category: new_at_rism
 image: "/images/news-old-website/csm_Logo_02_c93d056fa5.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/a-summer-of-musical-sources.html
 email: contact@rism.info
-author: ''
+author: Martin Bierwisch
 ---
 
 _Martin Bierwisch, a musicology student at the Universität Mainz, spent the summer with us as an intern. Read on about his experiences. If you are interested in an internship with RISM, please get in touch: [contact@rism.info](mailto:contact@rism.info)_
