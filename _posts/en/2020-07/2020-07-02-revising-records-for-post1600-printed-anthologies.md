@@ -19,6 +19,6 @@ The collection _Neder-Landtsche Gedenck-Clanck_, which was printed in Haarlem in
 
 Any information about errors, copies we don’t have, or important secondary literature is most welcome. You can reach us at [contact@rism.info](mailto:contact@rism.info) or send a message directly through the record on the catalog page (the orange message box next to the RISM ID number).
 
-_Image_: Adriaen Valerius,_Neder-Landtsche Gedenck-Clanck_ (Haarlem, 1626). A/I: V 147, B/1 1626|14. [RISM ID no. 990065182](https://opac.rism.info/search?id=990065182&View=rism){:target="_blank"}. Universiteitsbibliotheek Gent (B-Gu) BHSL.RES.0673. [Available online](https://lib.ugent.be/catalog/ggc01:394462181){:target="_blank"}.
+_Image_: Adriaen Valerius,_Neder-Landtsche Gedenck-Clanck_ (Haarlem, 1626). A/I: V 147, B/1 1626\|14. [RISM ID no. 990065182](https://opac.rism.info/search?id=990065182&View=rism){:target="_blank"}. Universiteitsbibliotheek Gent (B-Gu) BHSL.RES.0673. [Available online](https://lib.ugent.be/catalog/ggc01:394462181){:target="_blank"}.
 [
 ](https://lib.ugent.be/catalog/ggc01:394462181)

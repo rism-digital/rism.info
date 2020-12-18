@@ -19,7 +19,7 @@ It's not only the writing but also the illustrations that catch the eye. Take th
 
 Those wondering whether it is worthwhile to also look at later editions need look no further than the three-part _Canzonette spirituali anthologies_. While the [three known copies of the 1591 edition](https://opac.rism.info/search?id=993120916&Language=en){:target="_blank"} preserve only the Bassus and Altus partbooks, the[later edition from 1599](https://opac.rism.info/search?id=993121081&Language=en){:target="_blank"} also delivers a Superius. Moreover, it is only in the Superius part that the dedicatee can be found, in this case Vincenzo I of Mantua (1562-1612).
 
-Those are just a few small examples of what you can discover. Go exploring with Verovio. Most of the printed editions are digitized. For the collection _[Lodi della musica](https://opac.rism.info/search?id=993122166&View=rism&Language=en){:target="_blank"}_ (1595|6), even three of the four known copies are digitized.
+Those are just a few small examples of what you can discover. Go exploring with Verovio. Most of the printed editions are digitized. For the collection _[Lodi della musica](https://opac.rism.info/search?id=993122166&View=rism&Language=en){:target="_blank"}_ (1595\|6), even three of the four known copies are digitized.
 
 Today Verovio lends his name to the [modern digital engraving library](http://www.verovio.org/index.xhtml){:target="_blank"} developed by the Swiss RISM office. Even if you don't know the project, you know what it can do: Verovio is used to display the music incipts in both the RISM online catalog and our internal cataloging program [Muscat](/community/muscat.html).
 

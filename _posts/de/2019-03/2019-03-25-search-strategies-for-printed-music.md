@@ -15,9 +15,9 @@ Die Musikdrucke stellen neben den Handschriften, Libretti und Traktaten eine Art
 
 Seit dieser großen Erweiterung haben wir daran gearbeitet, das 16. Jahrhundert zum Abschluss zu bringen und in das 17. Jahrhundert überzugehen. Die Jahre 1601-1610 sind jetzt im RISM-Katalog (und wir werden am Donnerstag einen Blick hinter die Kulissen werfen). Angesichts der verschiedenen Projekte, die die RISM-Mitarbeiter weltweit durchführen, gibt es Musikdrucke , die in diese vermeintlichen Lücken fallen oder über die genannten Zeitspannen hinausgehen. Woher wissen Sie daher, wonach Sie suchen können?
 
-Wenn Sie eine A/I- oder B/I-Nummer vorliegen haben, bietet sich in der [**Erweiterten Suche**](https://opac.rism.info/index.php?id=3&L=0) das Feld **Serien A und B Nummern** für eine Suchanfrage an. A/I-Nummern bestehen generell aus einem (oder zwei) Großbuchstaben und einer Zahl ([Beispiel: S 6989](https://opac.rism.info/search?id=00000990063266&View=rism){:target="_blank"}). B/I-Nummern enthalten die Jahreszahl mit einer zusätzlichen Zahl ([1684|3](https://opac.rism.info/search?id=993122019&View=rism){:target="_blank"}). Die Zahl ist hochgestellt, Sie können aber auch nach folgenden Formulierungen suchen:
+Wenn Sie eine A/I- oder B/I-Nummer vorliegen haben, bietet sich in der [**Erweiterten Suche**](https://opac.rism.info/index.php?id=3&L=0) das Feld **Serien A und B Nummern** für eine Suchanfrage an. A/I-Nummern bestehen generell aus einem (oder zwei) Großbuchstaben und einer Zahl ([Beispiel: S 6989](https://opac.rism.info/search?id=00000990063266&View=rism){:target="_blank"}). B/I-Nummern enthalten die Jahreszahl mit einer zusätzlichen Zahl ([1684\|3](https://opac.rism.info/search?id=993122019&View=rism){:target="_blank"}). Die Zahl ist hochgestellt, Sie können aber auch nach folgenden Formulierungen suchen:
 1684-3
-1684|3
+1684\|3
 1684/3
 
 Wenn Sie nicht finden, wonach die suchten, geben Sie zusätzlich die Zahl in Anführungszeichen im Feld **Alle Felder** ein: "1684-3". Durch nicht indexierte Angaben des B/I-Materials können Sie dennoch zu einem Ergebnis kommen ([die Gründe dafür finden Sie hier](/new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20.html){:target="_blank"}), die nur durch die Stichwortsuche zu finden sind.
