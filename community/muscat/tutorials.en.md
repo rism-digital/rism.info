@@ -88,7 +88,7 @@ The unpublished records must be completely revised and individual entries must b
 
 3. **Add new records for printed music**
 
-**Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
+Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Two-page version: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 If your print falls outside the scope of A/I or B/I, chances are it is not in Muscat. Always do a quick search first, though, to see if someone else has already entered it. If you don't find it, create a new record.
 
