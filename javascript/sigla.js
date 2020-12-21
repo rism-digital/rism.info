@@ -44,7 +44,7 @@ var addListeners = function(){
     search();
   });
   document.querySelector("#siglaQueryInput").addEventListener("keyup", (e) => {
-    if (e.code === 13) {
+    if (e.code === "Enter") {
       e.preventDefault();
       search();
     }} );
