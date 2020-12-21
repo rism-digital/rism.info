@@ -62,8 +62,22 @@ var addListeners = function(){
 var buildQueryString = function(obj){
   if (obj.term.includes("=") || obj.term.includes(" AND ") || obj.term.includes(" OR ")){
     term = obj.term.replaceAll(" ", "%20").replaceAll("name=", "bath.corporateName=").replaceAll("country=", "rism.libraryCountry=").replaceAll("city=", "rism.place="); } 
+// Shim the string replacement function to allow the replaceAll function to work as expected.
+function shimReplaceAll(str, find, replace) {
+  return str.replace(new RegExp(find, 'g'), replace);
+}
+
+var buildQueryString = function(obj) {
+  var term = "";
+
+  if (obj.term.includes("=") || obj.term.includes(" AND ") || obj.term.includes(" OR ")) {
+    term = shimReplaceAll(obj.term, " ", "%20");
+    term = shimReplaceAll(term, "name=", "bath.corporateName=");
+    term = shimReplaceAll(term, "country=", "rism.libraryCountry=");
+    term = shimReplaceAll(term, "city=", "rism.place=");
+  }
   else {
-    term = obj.term.replaceAll(" ", "%20AND%20");  
+    term = shimReplaceAll(obj.term, " ", "%20AND%20");
   }
   startRecord = obj.offset;
   field = obj.field;
