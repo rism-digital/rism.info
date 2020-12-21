@@ -44,35 +44,48 @@ var addListeners = function(){
     search();
   });
   document.querySelector("#siglaQueryInput").addEventListener("keyup", (e) => {
-    if (e.keyCode === 13) {
+    if (e.code === 13) {
       e.preventDefault();
       search();
     }} );
   document.getElementById("siglaQueryInput").addEventListener("search", 
     function(){
-      if (this.value=="") 
+      if (this.value === "")
         {  document.querySelector('.siglaResultTables').innerHTML = "";
            document.querySelector(".siglaResultSize").innerHTML = "";
            document.querySelector('.siglaPager').innerHTML = "";
-          ;
         }
     });
 };
 
-var buildQueryString = function(obj){
-  if (obj.term.includes("=") || obj.term.includes(" AND ") || obj.term.includes(" OR ")){
-    term = obj.term.replaceAll(" ", "%20").replaceAll("name=", "bath.corporateName=").replaceAll("country=", "rism.libraryCountry=").replaceAll("city=", "rism.place="); } 
-  else {
-    term = obj.term.replaceAll(" ", "%20AND%20");  
+// Shim the string replacement function to allow the replaceAll function to work as expected.
+function shimReplaceAll(str, find, replace) {
+  return str.replace(new RegExp(find, 'g'), replace);
+}
+
+var buildQueryString = function(obj) {
+  var term = "";
+
+  if (obj.term.includes("=") || obj.term.includes(" AND ") || obj.term.includes(" OR ")) {
+    term = shimReplaceAll(obj.term, " ", "%20");
+    term = shimReplaceAll(term, "name=", "bath.corporateName=");
+    term = shimReplaceAll(term, "country=", "rism.libraryCountry=");
+    term = shimReplaceAll(term, "city=", "rism.place=");
   }
-  startRecord = obj.offset;
-  field = obj.field;
-  if (term=='*') {
+  else {
+    term = shimReplaceAll(obj.term, " ", "%20AND%20");
+  }
+
+  var startRecord = obj.offset;
+  var field = obj.field;
+  var queryString = "";
+
+  if (term === '*') {
     queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
   } else {  
     queryString = `${sruhost}/sru/institutions?operation=searchRetrieve&version=1.1&query=${field}=${term}%20AND%20librarySiglum=*-*&maximumRecords=${limit}&startRecord=${startRecord}`;
   }
-  console.log(queryString);
+
   return queryString;
 }
 
@@ -87,7 +100,7 @@ var search = function(offset=1){
     //query.term = countryCode[query.term]
   }
   */
-  console.log(query.field);
+
   var xhr = new XMLHttpRequest();
 
     // Ajax reuest to SRU  
@@ -97,7 +110,7 @@ var search = function(offset=1){
         parser = new DOMParser();
         xmlDoc = parser.parseFromString(xhr.response, "text/xml");
         var resultSize = xmlDoc.getElementsByTagNameNS(nsZing, "numberOfRecords")[0].innerHTML;
-        if (parseInt(resultSize) == 0) {
+        if (parseInt(resultSize) === 0) {
           document.querySelector("#queryTerm").innerHTML = query.term;
           document.querySelector(".siglaResultSize").innerHTML = `<div>No result for <span id="queryTerm" class="queryTerm">.</span>.`;
           document.querySelector("#queryTerm").innerHTML = query.term;
@@ -126,7 +139,7 @@ var search = function(offset=1){
       //outer
     };
     query.offset = offset;
-    q = buildQueryString(query);
+    var q = buildQueryString(query);
     xhr.open('GET', q);
     xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded;charset=UTF-8"); 
     xhr.send();
@@ -139,7 +152,7 @@ var createElements = function(collection){
     parent.firstChild.remove()
   }
   for (let i = 0; i < collection.length; i++) {
-    record = collection[i];
+    var record = collection[i];
     var div = 
       `<div id="${record._001}" onclick="showDetails(${record._001})" class="resultItem">${record.position}. ${record._110a}${record._110c ? ", " + record._110c : ""}
           ${record._667a ? `<span title="This institution has sources in the RISM Online catalog" class="sourceSize">★</span>` : ""}
@@ -172,12 +185,14 @@ var createElements = function(collection){
 
 // Helper function to build div nodes from record 
 var tagToDiv = function(record, tag, name){
+  var div, res;
+
   if (record.hasOwnProperty(tag)) {
     if (tag === '_024a'){
-      var div = `<div><span class="fieldName">${name}: </span>`;
-      var res = [];
+      div = `<div><span class="fieldName">${name}: </span>`;
+      res = [];
       for (let i = 0; i < record._024a.length; i++) {
-        if (record._0242[i]==='DNB'){
+        if (record._0242[i] === 'DNB'){
           res.push(`<span class="fieldValue">${record._0242[i]}: <a href="http://d-nb.info/gnd/${record._024a[i]}" target="_blank"> ${record._024a[i]}</a> </span>`);
         } else {
           res.push(`<span class="fieldValue">${record._0242[i]}: ${record._024a[i]}</span>`);
@@ -186,36 +201,36 @@ var tagToDiv = function(record, tag, name){
       return `${div}${res.join("; ")}</div>`;
       
     } else if (tag === '_034f') {
-        var div = `<div><span class="fieldName">${name}: </span>`;
-        var res = [];
+        div = `<div><span class="fieldName">${name}: </span>`;
+        res = [];
         for (let i = 0; i < record._034f.length; i++) {
           res.push(`<span class="fieldValue"><a href="http://www.openstreetmap.org/?mlat=${record._034f[i]}&mlon=${record._034d[i]}longitude&zoom=18" target="_blank">Show in OpenStreetMap</a> </span>`);
         }
         return `${div}${res.join("; ")}</div>`;
     } else if (tag === '_580x') {
-        var div = `<div><span class="fieldName">${name}: </span>`;
-        var res = [];
+        div = `<div><span class="fieldName">${name}: </span>`;
+        res = [];
         for (let i = 0; i < record._580x.length; i++) {
           res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=ks${record._5800[i]}&View=rism/" target="_blank"> ${record._580x[i]}</a> </span>`);
         }
         return `${div}${res.join("; ")}</div>`;
     } else if (tag === '_670a') {
-        var div = `<div><span class="fieldName">${name}: </span>`;
-        var res = [];
+        div = `<div><span class="fieldName">${name}: </span>`;
+        res = [];
         for (let i = 0; i < record._670a.length; i++) {
           res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=lit${record._6700[i]}&View=rism/" target="_blank"> ${record._670a[i]}</a> </span>`);
         }
         return `${div}${res.join("; ")}</div>`;
     } else if (tag === '_700a') {
-        var div = `<div><span class="fieldName">${name}: </span>`;
-        var res = [];
+        div = `<div><span class="fieldName">${name}: </span>`;
+        res = [];
         for (let i = 0; i < record._700a.length; i++) {
           res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=pe${record._7000[i]}&View=rism/" target="_blank"> ${record._700a[i]}</a> </span>`);
         }
         return `${div}${res.join("; ")}</div>`;
     } else if (tag === '_710a') {
-        var div = `<div><span class="fieldName">${name}: </span>`;
-        var res = [];
+        div = `<div><span class="fieldName">${name}: </span>`;
+        res = [];
         for (let i = 0; i < record._710a.length; i++) {
           res.push(`<span class="fieldValue"><a href="https://opac.rism.info/search?id=ks${record._7100[i]}&View=rism/" target="_blank"> ${record._710a[i]}</a> </span>`);
         }
@@ -233,16 +248,18 @@ var buildRecord = function(xml) {
   record.position = xml.getElementsByTagNameNS(nsZing, "recordPosition")[0].innerHTML;
   var marc = xml.getElementsByTagNameNS(nsMarc, "record")[0];
   var fields = marc.children;
-  let _410ary = [];
+  var _410ary = [];
   for (let i = 0; i < fields.length; i++) {
-    field = fields[i];
-    tag = field.getAttribute("tag");
-    subfields = field.children;
+    var field = fields[i];
+    var tag = field.getAttribute("tag");
+    var subfields = field.children;
+
     if (subfields.length > 0) {
       for (let i = 0; i < subfields.length; i++) {
-        subfield = subfields[i];
-        code = subfield.getAttribute("code");
-        tag_with_code = `_${tag}${code}`;
+        var subfield = subfields[i];
+        var code = subfield.getAttribute("code");
+        var tag_with_code = `_${tag}${code}`;
+
         if (record[tag_with_code]) {
           record[tag_with_code].push(subfield.innerHTML);
         } else {
@@ -253,7 +270,7 @@ var buildRecord = function(xml) {
       record[`_${tag}`] = field.innerHTML;
     }
   }
-  console.log(record);
+
   return record;
 }
 
@@ -275,10 +292,10 @@ window.onload = function() {
 }
 
 var buildPager = function(resultSize){
-  size = parseInt(resultSize) + limit;
-  res = [];
+  var size = parseInt(resultSize) + limit;
+  var res = [];
   for (let i = 1; i < size; i++) {
-    if (i % limit == 0) {
+    if (i % limit === 0) {
       res.push(`<span class="pagerItem" onClick="search(${i - (limit - 1)})">${i / limit }</span>   `)
     }  
   }
