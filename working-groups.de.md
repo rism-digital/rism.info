@@ -356,7 +356,7 @@ Schwarzstr. 26\
 5020 Salzburg\
 Telefon: +43 662 8894014\
 E-Mail: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
-Webseite: [https://mozarteum.at/home](https://mozarteum.at/home){:target="_blank"}  
+Webseite: [https://mozarteum.at/bibliotheca-mozartiana/](https://mozarteum.at/bibliotheca-mozartiana/){:target="_blank"}  
 
 Mag. Dr. Eva Neumayr\
 Kapitelplatz 3\
