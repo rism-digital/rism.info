@@ -4,7 +4,7 @@ title: RISM and Beethoven and the 19th Century
 date: 2020-03-12
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_RISM_und_Beethoven_109_LC_fea5a7050b.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/rism-and-beethoven-and-the-19th-century.html
 email: ''
