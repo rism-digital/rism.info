@@ -434,7 +434,7 @@ Katarzyna Spurgjasz [katarzyna.spurgjasz@gmail.com](mailto:katarzyna.spurgjasz@g
 Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.maculewicz@uw.edu.pl)\
 Website: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/){:target="_blank"}
 
-Miroslav Osowski\
+Miroslaw Osowski\
 Biblioteka Uniwersytecka\
 Oddział Zbiorów Muzycznych\
 ul. Fryderyka Joliot-Curie 12\
