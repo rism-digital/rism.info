@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RISM Data in Now EROMM
+title: RISM Data Now in EROMM
 date: 2020-09-10
 lang: en
 post: true
