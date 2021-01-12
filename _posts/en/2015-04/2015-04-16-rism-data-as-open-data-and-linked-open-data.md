@@ -4,14 +4,14 @@ title: RISM Data as Open Data and Linked Open Data
 date: 2015-04-16
 lang: en
 post: true
-category: new_at_rism
+category: rism_online_catalog
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/rism-data-as-open-data-and-linked-open-data.html
 email: contact@rism.info
 author: ''
 ---
 
-RISM data have been available asopendatasince 2013, and as linked open data since the summer of 2014. The RISM open data are available on the [linked open data page](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} of the RISM online catalog. This link allows you to download the entire batch.
+RISM data have been available as open data since 2013, and as linked open data since the summer of 2014. The RISM open data are available on the [linked open data page](https://opac.rism.info/index.php?id=8&L=1&id=8){:target="_blank"} of the RISM online catalog. This link allows you to download the entire batch.
 
 What does this mean?
 
