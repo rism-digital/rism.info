@@ -4,7 +4,7 @@ title: Ferdinand Hiller @ RISM
 date: 2011-10-27
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_HillerBehrensWeb_cc376682b9.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/63/article/64/ferdinand-hiller-rism.html
 email: jennifer.ward@rism.info
