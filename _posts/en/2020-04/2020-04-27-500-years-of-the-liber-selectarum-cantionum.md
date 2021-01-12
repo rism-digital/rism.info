@@ -4,7 +4,7 @@ title: 500 Years of the “Liber selectarum cantionum”
 date: 2020-04-27
 lang: en
 post: true
-category: in_the_news
+category: musical_anniversaries
 image: "/images/news-old-website/csm_500_Jahre_Liber_selectarum_acab537a28.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/500-years-of-the-liber-selectarum-cantionum.html
 email: ''
