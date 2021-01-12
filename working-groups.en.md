@@ -434,7 +434,7 @@ Katarzyna Spurgjasz [katarzyna.spurgjasz@gmail.com](mailto:katarzyna.spurgjasz@g
 Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.maculewicz@uw.edu.pl)\
 Website: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/){:target="_blank"}
 
-Miroslav Osowski\
+Miroslaw Osowski\
 Biblioteka Uniwersytecka\
 Oddział Zbiorów Muzycznych\
 ul. Fryderyka Joliot-Curie 12\
@@ -486,7 +486,7 @@ Staff: dr Marcin Konik\
 Staff: mgr Jacek Iwaszko\
 Telephone: +48 22 44 16 185\
 Email: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Website: [https://www.chopin.nifc.pl/pl](https://www.chopin.nifc.pl/pl){:target="_blank"}
+Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
