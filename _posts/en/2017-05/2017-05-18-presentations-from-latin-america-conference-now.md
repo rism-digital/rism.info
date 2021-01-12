@@ -4,7 +4,7 @@ title: Presentations from Latin America Conference Now Online
 date: 2017-05-18
 lang: en
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_Gruppenphoto_95435a4794.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/presentations-from-latin-america-conference-now-online.html
 email: ''
