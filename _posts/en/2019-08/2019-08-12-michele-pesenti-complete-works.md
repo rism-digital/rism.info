@@ -13,7 +13,7 @@ author: Bibliolore
 
 _The following first appeared in [Bibliolore – The RILM Blog](https://bibliolore.org/2019/05/20/michele-pesenti-complete-works/){:target="_blank"} and is reproduced here with kind permission:_
 
-In 2019 [A-R Editions](https://www.areditions.com/) published [_M__ichele Pesenti: Complete works_](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2){:target="_blank"}, a critical edition produced by an editorial team including a musicologist, a linguist, and a musicologist-performer.
+In 2019 [A-R Editions](https://www.areditions.com/) published [_Michele Pesenti: Complete works_](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2){:target="_blank"}, a critical edition produced by an editorial team including a musicologist, a linguist, and a musicologist-performer.
 
 While earlier musicologists assumed continuities between [frottola](https://en.wikipedia.org/wiki/Frottola){:target="_blank"} and [madrigal](https://en.wikipedia.org/wiki/Madrigal){:target="_blank"}, more recent scholarship has refuted this idea: they were two different genres, cultivated in different centers of patronage, by different composers, and for different audiences.
 [
