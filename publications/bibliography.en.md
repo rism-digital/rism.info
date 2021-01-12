@@ -158,6 +158,9 @@ Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'."_Die Musikforschung_ 26, n
 
 Schmieder, Wolfgang. "Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 91-92. [Link to JSTOR](http://www.jstor.org/stable/23230708){:target="_blank"}
 
+**1974**
+Weinmann, Alexander. "Neue Ergebnisse der RISM-Quellenforschung." _Österreichische Musikzeitschrift_ 29 (1974): 440-442. [Available online](https://doi.org/10.7767/omz.1974.29.jg.440){:target="_blank"}
+
 **1975:**  
 Böker-Heil, Norbert. "Computer-Einsatz bei der Serie A/II RISM: Möglichkeiten, Bedingungen, Vorschläge." _Fontes Artis Musicae_ 22 (1975): 86-89.
 
