@@ -4,7 +4,7 @@ title: 'A Royal Library: King Ludwig II''s Music Collection'
 date: 2020-08-17
 lang: en
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Ludwig_II_Bayern_175_02_d7e0361ffd.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/a-royal-library-king-ludwig-iis-music-collection.html
 email: ''
