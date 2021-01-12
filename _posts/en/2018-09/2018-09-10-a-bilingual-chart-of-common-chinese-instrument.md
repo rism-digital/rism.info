@@ -4,7 +4,7 @@ title: A Bilingual Chart of Common Chinese Instrument Names
 date: 2018-09-10
 lang: en
 post: true
-category: new_at_rism
+category: new_publications
 image: "/images/news-old-website/csm_CLR_IAML_2018_45ed98b26a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/a-bilingual-chart-of-common-chinese-instrument-names.html
 email: tzchia22@gmail.com
