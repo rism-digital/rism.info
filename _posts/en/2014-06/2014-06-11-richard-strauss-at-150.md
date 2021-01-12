@@ -4,7 +4,7 @@ title: Richard Strauss at 150
 date: 2014-06-11
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Strauss-Specht_d61b739f9e.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/richard-strauss-at-150.html
 email: ''

@@ -4,7 +4,7 @@ title: 'Looking back 300 years ago: Mattheson''s "Der brauchbare Virtuoso" from 
 date: 2020-07-27
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_RISM_1720_Mattheson_659bbc0c6a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/looking-back-300-years-ago-matthesons-der-brauchbare-virtuoso-from-1720.html
 email: ''
