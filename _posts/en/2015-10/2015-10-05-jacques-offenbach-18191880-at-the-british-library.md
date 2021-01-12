@@ -4,7 +4,7 @@ title: Jacques Offenbach (1819-1880) at the British Library
 date: 2015-10-05
 lang: en
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Offenbach_c870cb859d.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jacques-offenbach-1819-1860-at-the-british-library.html
 email: ''
