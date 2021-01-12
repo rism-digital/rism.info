@@ -486,7 +486,7 @@ Staff: dr Marcin Konik\
 Staff: mgr Jacek Iwaszko\
 Telephone: +48 22 44 16 185\
 Email: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Website: [https://www.chopin.nifc.pl/pl](https://www.chopin.nifc.pl/pl){:target="_blank"}
+Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
