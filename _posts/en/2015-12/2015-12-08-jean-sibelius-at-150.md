@@ -4,7 +4,7 @@ title: Jean Sibelius at 150
 date: 2015-12-08
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_sibelius_7fa9d878af.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/jean-sibelius-at-150.html
 email: ''

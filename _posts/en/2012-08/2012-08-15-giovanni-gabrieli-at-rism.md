@@ -4,7 +4,7 @@ title: Giovanni Gabrieli @ RISM
 date: 2012-08-15
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_GabrieliRicercareD-B_2_7786cef3d7.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/giovanni-gabrieli-rism.html
 email: martina.falletta@rism.info
