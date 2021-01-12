@@ -4,7 +4,7 @@ title: George Frideric Handel at the British Library
 date: 2016-04-14
 lang: en
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
