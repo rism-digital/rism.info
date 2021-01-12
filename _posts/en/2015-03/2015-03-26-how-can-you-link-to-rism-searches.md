@@ -4,7 +4,7 @@ title: How can you link to RISM searches?
 date: 2015-03-26
 lang: en
 post: true
-category: new_at_rism
+category: rism_online_catalog
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/how-can-you-link-to-rism-searches.html
 email: ''
