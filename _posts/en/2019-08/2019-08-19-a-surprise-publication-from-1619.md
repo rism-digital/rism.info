@@ -4,7 +4,7 @@ title: A Surprise Publication from 1619
 date: 2019-08-19
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_1619_Thoene_051c516a06.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/a-surprise-publication-from-1619.html
 email: johanna.thoene@rism.info
