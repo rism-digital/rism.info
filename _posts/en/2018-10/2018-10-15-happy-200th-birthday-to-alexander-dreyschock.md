@@ -4,14 +4,14 @@ title: Happy 200th Birthday to Alexander Dreyschock!
 date: 2018-10-15
 lang: en
 post: true
-category: in_the_news
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Dreyschock_Geburtstag_200_b058e458cf.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/happy-200th-birthday-to-alexander-dreyschock.html
 email: krkraeme@students.uni-mainz.de
 author: Kristina Krämer
 ---
 
-_The following article was contributed by Kristina Krämer, who is currently writing her master's thesis on Alexander Dreyschock at the Johannes Gutenberg University of Mainz: _
+_The following article was contributed by Kristina Krämer, who is currently writing her master's thesis on Alexander Dreyschock at the Johannes Gutenberg University of Mainz:_
 
 Born on 15 October 1818 near Prague, pianist Alexander Dreyschock spent most of his life travelling throughout Europe and competing with the likes of Liszt and Thalberg. At first only known as a pupil of Václav Jan Tomášek, he soon became famous for his strong yet dexterous left hand and overall fiery piano playing. Furthermore, he was a productive composer—until his death in 1869, he published more than 140 compositions with opus numbers.
 
