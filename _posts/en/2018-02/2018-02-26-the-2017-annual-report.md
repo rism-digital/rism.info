@@ -4,7 +4,7 @@ title: The 2017 Annual Report
 date: 2018-02-26
 lang: en
 post: true
-category: new_at_rism
+category: new_publications
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_11_3ebde7bea6.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/the-2017-annual-report.html
 email: ''
