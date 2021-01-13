@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Composer Anniversaries 2021"
-date: 2021-01-14
+date: 2021-01-13
 lang: en
 post: true
 category: musical_anniversaries
