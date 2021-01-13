@@ -4,7 +4,7 @@ title: A Century of John Milton Ward
 date: 2017-07-06
 lang: en
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/a-century-of-john-milton-ward.html
 email: cawelti@fas.harvard.edu
