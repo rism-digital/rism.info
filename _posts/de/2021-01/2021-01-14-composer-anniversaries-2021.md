@@ -20,9 +20,9 @@ Die [Google-Liste](https://docs.google.com/spreadsheets/d/1E8w5AyN-PQvL6iO9nWS09
  
  
 c = circa\
-a = before\
-p = after\
-m = male\
-w / f = female
+a = vor\
+p = nach\
+m = männlich\
+w / f = weiblich
  
 _Image from [pixabay.com](https://pixabay.com/de/illustrations/ladebalken-2021-silvester-neujahr-5514282/){:blank}_
