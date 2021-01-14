@@ -2,7 +2,7 @@
 layout: post
 title: "Jubilare 2021"
 date: 2021-01-14
-lang: en
+lang: de
 post: true
 category: musical_anniversaries
 image: "images/news/2021-01/jubilare_2021_website.jpg" 
