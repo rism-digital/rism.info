@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cataloging Music Manuscripts from the Rostock University Library by RISM Germany (Dresden)"
-date: 2021-01-15
+date: 2021-01-18
 lang: en
 post: true
 category: new_at_rism
@@ -14,9 +14,9 @@ The Dresden office of RISM Germany commenced a project in December 2020 to catal
 
 The first batch of manuscripts that arrived in Dresden for cataloging contains the music collection of [Crown Prince Friedrich Ludwig of Württemberg-Stuttgart (1698-1731)](https://opac.rism.info/search?View=rism&id=pe30001153){:blank} and his daughter, [Duchess Luise Friederike of Mecklenburg-Schwerin (1722-1791)](https://opac.rism.info/search?View=rism&id=pe30003771){:blank}.
 
-Manuscript copies of parts for instrumental chamber music can be traced back to the collecting activities of the Crown Prince himself and include pieces by composers such as Sebastian Bodinus, Giuseppe Brescianello, Johann Jacob Krebs, Johann Christoph Pez, Theodor Schwartzkopff, Johann Friedrich Fasch, Johann Joseph Fux, Johann Adolph Hasse, Johann David Heinichen, and Georg Philipp Telemann. The bulk of these originated in and around Stuttgart. The collection of the Duchess includes a large number of lute tablatures and a significant amount of contemporary Italian, French, and German vocal literature. It was put together in Stuttgart, Schwerin, and Ludwigslust, among other places. 
+Manuscript copies of parts for instrumental chamber music can be traced back to the collecting activities of the Crown Prince himself. The collection includes pieces by composers such as Sebastian Bodinus, Giuseppe Brescianello, Johann Jacob Krebs, Johann Christoph Pez, Theodor Schwartzkopff, Johann Friedrich Fasch, Johann Joseph Fux, Johann Adolph Hasse, Johann David Heinichen, and Georg Philipp Telemann. The bulk of these originated in and around Stuttgart. The collection of the Duchess includes a large number of lute tablatures and a significant amount of contemporary Italian, French, and German vocal literature. It was put together in Stuttgart, Schwerin, and Ludwigslust, among other places. 
 
-In the second phase of the project, vocal compositions from the 16th century, mostly secular, from the library of [Duke Johann Albrecht I (1525-1576)](https://opac.rism.info/search?View=rism&id=pe30046832){:blank} will be cataloged, as well as a small group of music materials from the 19th century from the collections of Rostock families and the Rostock Singakademie.
+In the second phase of the project, vocal compositions from the 16th century, mostly secular, from the library of [Duke Johann Albrecht I (1525-1576)](https://opac.rism.info/search?View=rism&id=pe30046832){:blank} will be cataloged, as well as a small group of 19th-century music materials from the collections of Rostock families and the Rostock Singakademie.
 
 
 _See also:_\
