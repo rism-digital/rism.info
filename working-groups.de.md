@@ -403,17 +403,14 @@ Katarzyna Spurgjasz [katarzyna.spurgjasz@gmail.com](mailto:katarzyna.spurgjasz@g
 Piotr Maculewicz (head of Music Department) [p.maculewicz@uw.edu.pl](mailto:p.maculewicz@uw.edu.pl)\
 Webseite: [http://www.buw.uw.edu.pl](http://www.buw.uw.edu.pl/){:target="_blank"}
 
-Miroslav Osowski\
-Aniela Kolbuszewska\
+Miroslaw Osowski\
 Biblioteka Uniwersytecka\
 Oddział Zbiorów Muzycznych\
-ul. św. Jadwigi 3-4\
-PL 50-266 Wrocław\
+ul. Fryderyka Joliot-Curie 12\
+PL 50-383 Wrocław\
 Telefon: +48 71 375 24 25\
-Fax: +48 71 346 31 66\
 E-Mail: [miroslaw.osowski@bu.uni.wroc. pl](mailto:miroslaw.osowski@bu.uni.wroc.pl)\
-E-Mail: [ankol@bu.uni.wroc.pl](mailto:ankol@bu.uni.wroc.pl)\
-Webseite: [http://www.bu.uni.wroc.pl/oddzialy/piasek/oddzial-zbiorow-muzycznych](http://www.bu.uni.wroc.pl/oddzialy/piasek/oddzial-zbiorow-muzycznych){:target="_blank"}
+Webseite: [https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych](https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych){:target="_blank"}
 
 Dr. habil. Alina Mądry\
 Dr. habil. Magdalena Walter-Mazur\
@@ -439,7 +436,7 @@ Webseite: [http://rism.amuz.gda.pl/](http://rism.amuz.gda.pl/){:target="_blank"}
 
 Dr. Dariusz Smolarek\
 Katolicki Uniwersytet Lubelski Jana Pawla II\
-Instytut Muzykologii\
+Instytut Nauk o Sztuce\
 Katedra Polifonii Religijnej\
 Sala: C-1027 (Collegium Jana Pawla II - pietro 10)\
 Aleje Raclawickie 14\
@@ -459,7 +456,7 @@ Mitarbeiter: Dr Marcin Konik\
 Mitarbeiter: Mgr Jacek Iwaszko\
 Telefon: +48 22 44 16 185\
 E-Mail: [rism@nifc.pl](mailto:rism@nifc.pl); [mchojecka@nifc.pl](mailto:mchojecka@nifc.pl)\
-Webseite: [www.chopin.nifc.pl](http://www.chopin.nifc.pl){:target="_blank"}
+Webseite: [https://nifc.pl/en//](https://nifc.pl/en//){:target="_blank"}
 
 ## PORTUGAL
 

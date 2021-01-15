@@ -4,7 +4,7 @@ title: Henry Vieuxtemps at 200
 date: 2020-02-17
 lang: en
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Vieuxtemps_200_54b229b72f.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/henry-vieuxtemps-at-200.html
 email: marie.cornaz@kbr.be

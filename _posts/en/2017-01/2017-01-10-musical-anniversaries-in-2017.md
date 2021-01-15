@@ -4,7 +4,7 @@ title: Musical Anniversaries in 2017
 date: 2017-01-10
 lang: en
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Jubilaeen_2017_9683b99ed7.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/musical-anniversaries-in-2017.html
 email: ''

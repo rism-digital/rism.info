@@ -50,7 +50,7 @@ The field **All** is the default field and all fields are searched across all si
 The fields **Name**, **Library siglum**, **City**, and **Country** can be selected and searched in the drop-down menu. Please note the following:
 
 * Name: The official name or alternative names of the institution in the local language  
-* Library siglum: Capitalization is strictly observed (for example, US-WS vs. US-Wc)  
+* Library siglum: Capitalization is strictly observed (for example, US-WS vs. US-Ws)  
 * City: Search using the local name (including diacritics). US states can also be searched here by the postal abbreviation (WI, IL, etc.).  
 * Country: Search for countries using their names in English, French, German, or Italian  
 
