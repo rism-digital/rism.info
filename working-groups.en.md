@@ -369,16 +369,14 @@ Website: [http://www.opera.lv/en/home](http://www.opera.lv/en/home){:target="_bl
 
 ## LITHUANIA
 
-Zivile Časaitė\
+Živilė Časaitė\
 Martynas Mažvydas National Library of Lithuania\
-Music Department\
-Gedimino pr. 51\
-01504 Vilnius\
-Lithuania\
-Telephone: +370 5 239 8695\
-Fax: +370 5  249 6129\
+Music and Visual Arts Department\
+Gedimino pr. 51\
+LT-01109 Vilnius\
+Telephone: +370 5 239 8677\
 Email: [Zivile.Casaite@lnb.lt](mailto:Zivile.Casaite@lnb.lt)\
-Website: [http://www.lnb.lt/en/](http://www.lnb.lt/en/){:target="_blank"}
+Webseite: [http://www.lnb.lt/en/](http://www.lnb.lt/en/){:blank}
 
 ## MEXICO
 
