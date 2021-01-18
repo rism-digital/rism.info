@@ -284,12 +284,11 @@ Webseite: [http://www.opera.lv/en/home](http://www.opera.lv/en/home){:target="_b
 
 Zivile Časaitė\
 Martynas Mažvydas National Library of Lithuania\
-Music Department\
+Music and Visual Arts Department\
 Gedimino pr. 51\
-01504 Vilnius\
+01109 Vilnius\
 Lithuania\
-Telefon: +370 5 239 8695\
-Fax: +370 5  249 6129\
+Telefon: +370 5 239 8677\
 E-Mail: [Zivile.Casaite@lnb.lt](mailto:Zivile.Casaite@lnb.lt)\
 Webseite: [http://www.lnb.lt/en/](http://www.lnb.lt/en/){:target="_blank"}  
 
@@ -502,14 +501,14 @@ E-Mail: [mz@rsl.ru](mailto:mz@rsl.ru)\
 E-Mail: [roscomifla@rsl.ru](mailto:roscomifla@rsl.ru)\
 Webseite: [http://www.rsl.ru/](http://www.rsl.ru/){:target="_blank"}  
 
+Rossijskij nacional'nyj muzej muzyki\
+National Music Museum of Russia\
 Nataly Emelina\
-Glinka State Museum of Musical Culture\
 ul. Fadejeva 4\
 125047 Moscow\
-Telefon: +7 495 739 6226 x127\
-Telefon: +7 8 903 2637132\
-E-Mail: [emelina.ns@gmail.com](mailto:emelina.ns@gmail.com) [emelina.ns@gmail.com](mailto:emelina.ns@gmail.com)\
-Webseite: [http://www.glinka.museum/](http://www.glinka.museum/){:target="_blank"}
+Telefon: +7  8 (495) 605-65-15 (direkt 1117)\
+E-Mail: [international@glinka.museum](mailto:international@glinka.museum)\
+Webseite: [https://music-museum.ru/](https://music-museum.ru/){:target="_blank"}
 
 ## SCHWEDEN
 
