@@ -201,9 +201,8 @@ Website: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/)
 Dr. Vera Katalinic\
 Hrvatska akademija znanosti i umjetnosti\
 Opaticka 18\
-HR-41000 Zagreb\
-Telephone: +385 1 272323\
-Fax: +385 1 277352\
+HR-10000 Zagreb\
+Telephone: +385 1 4895320\
 Email: [fides@mahazu.hazu.hr](http://fides@mahazu.hazu.hr/){:target="_blank"}  
 Website: [http://info.hazu.hr](http://info.hazu.hr/){:target="_blank"}
 
