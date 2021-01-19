@@ -70,7 +70,7 @@ Complete instructions:[Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
 
-  - Please note: Some B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below).
+_Please note: Some B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below)._
 
 2. **Revise existing RISM records**
 
@@ -78,9 +78,9 @@ Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
 Records imported from RISM's printed volumes [A/I](/publications.html#c36) (music by one composer published up to ca. 1800) and [B/I](/publications.html#c2619) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat. Please observe the following if you choose to revise the records:
 
-  - **A/I**: The vast majority of A/I records need to be revised. Most prints in fact contain multiple works, so an A/I record must be edited into a collection record and individual entries are needed. A/I is already in the [online catalog](https://opac.rism.info/){:target="_blank"}.
-  - **B/I to 1550**: The vast majority of B/I records up to the year 1550 need to be revised, including any individual entries that are already attached to the parent record. It is frequently the case that reprints ("following entries") do not have individual entries, while the initial entries (i.e., the prints treated as the first edition in the book) do. These are already in the [online catalog](https://opac.rism.info/){:target="_blank"}.
-  - **B/I from 1551 to 1700**: The following years are in Muscat and have been published: 1501-1550, 1601-1650, and most of 1651-1690. The rest are in Muscat but not in the online catalog because the entries are very rudimentary. All the B/I records have Muscat numbers that begin with 993.
+**A/I**: The vast majority of A/I records need to be revised. Most prints in fact contain multiple works, so an A/I record must be edited into a collection record and individual entries are needed. A/I is already in the [online catalog](https://opac.rism.info/){:target="_blank"}.\
+**B/I to 1550**: The vast majority of B/I records up to the year 1550 need to be revised, including any individual entries that are already attached to the parent record. It is frequently the case that reprints ("following entries") do not have individual entries, while the initial entries (i.e., the prints treated as the first edition in the book) do. These are already in the [online catalog](https://opac.rism.info/){:target="_blank"}.\
+**B/I from 1551 to 1700**: The following years are in Muscat and have been published: 1501-1550, 1601-1650, and most of 1651-1690. The rest are in Muscat but not in the online catalog because the entries are very rudimentary. All the B/I records have Muscat numbers that begin with 993.
 
 Even the published records can usually be improved by adding individual entries and music incipits.
 
