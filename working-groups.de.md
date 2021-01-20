@@ -259,13 +259,13 @@ Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/){:target
 
 ## KROATIEN
 
-Dr. Vera Katalinic\
+Dr. Vjera Katalinic\
 Hrvatska akademija znanosti i umjetnosti\
 Opaticka 18\
 HR-41000 Zagreb\
-Telefon: +385 1 272323\
-Fax: +385 1 277352\
-E-Mail: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr)\
+Telefon: +385 1 4895320\
+E-Mail: [fides@hazu.hr](mailto:fides@hazu.hr)\
+E-Mail: [vjkatalinic@gmail.com](mailto:vjkatalinic@gmail.com)\
 Webseite: [http://info.hazu.hr](http://info.hazu.hr/){:target="_blank"}
 
 ## LETTLAND
@@ -386,8 +386,6 @@ Zakład Zbiorów Muzycznych\
 Polskie Centrum RISM\
 Al. Niepodległości 213\
 PL 02-086 Warszawa\
-Telefon: +48 22 608 23 90\
-Fax: +48 22 608 26 55\
 E-Mail: [rism@bn.org.pl](mailto:rism@bn.org.pl)\
 Webseite: [http://bn.org.pl/en/](http://bn.org.pl/en/){:target="_blank"}\
 Siehe aiuch: [https://www.rism.info/working-groups/poland/warsaw/home.html](/working-groups/poland/warsaw/home.html){:blank}
@@ -492,12 +490,13 @@ Webseite: [http://www.mosconsv.ru/](http://www.mosconsv.ru/){:target="_blank"}
 
 Alla Semenyuk\
 Russian State Library\
-Department of Musical Scores and Records\
-15 Mokhovaya Street\
+Department of music publications and audio records\
+Vozdvizhenka str., 3/5\
 Moscow 119019\
-Telefon: +7 095 202 41 31\
+Telefon: +7 (499) 557-04-70-2054\
 Fax: +7 095 913 69 33\
-E-Mail: [mz@rsl.ru](mailto:mz@rsl.ru)\
+E-Mail: [SemenyukAA@rsl.ru](mailto:SemenyukAA@rsl.ru)\
+E-Mail: [GayshunIV@rsl.ru] (mailto:GayshunIV@rsl.ru)
 E-Mail: [roscomifla@rsl.ru](mailto:roscomifla@rsl.ru)\
 Webseite: [http://www.rsl.ru/](http://www.rsl.ru/){:target="_blank"}  
 
