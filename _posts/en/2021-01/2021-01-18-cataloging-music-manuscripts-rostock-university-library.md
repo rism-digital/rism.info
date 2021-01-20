@@ -10,7 +10,7 @@ email: miriam.roner@slub-dresden.de
 author: 'Dr. Miriam Roner'
 ---
 
-The Dresden office of RISM Germany commenced a project in December 2020 to catalog the music manuscripts in the [Rostock University Library (D-ROu)](https://opac.rism.info/search?View=rism&siglum=D-ROu){:blank}. The collection comprises ca. 950 manuscripts from the 16th to 19th centuries.
+The [Dresden office of RISM Germany](http://de.rism.info/en/organisation.html){:blank} commenced a project in December 2020 to catalog the music manuscripts in the [Rostock University Library (D-ROu)](https://opac.rism.info/search?View=rism&siglum=D-ROu){:blank}. The collection comprises ca. 950 manuscripts from the 16th to 19th centuries.
 
 The first batch of manuscripts that arrived in Dresden for cataloging contains the music collection of [Crown Prince Friedrich Ludwig of Württemberg-Stuttgart (1698-1731)](https://opac.rism.info/search?View=rism&id=pe30001153){:blank} and his daughter, [Duchess Luise Friederike of Mecklenburg-Schwerin (1722-1791)](https://opac.rism.info/search?View=rism&id=pe30003771){:blank}.
 
