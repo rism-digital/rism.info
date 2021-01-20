@@ -416,8 +416,6 @@ Zakład Zbiorów Muzycznych\
 Polskie Centrum RISM\
 Al. Niepodległości 213\
 PL 02-086 Warszawa\
-Telephone: +48 22 608 23 90\
-Fax: +48 22 608 26 55\
 Email: [rism@bn.org.pl](mailto:rism@bn.org.pl)\
 Website: [http://bn.org.pl/en/](http://bn.org.pl/en/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/poland/warsaw/home.html](/working-groups/poland/warsaw/home.html){:blank}
