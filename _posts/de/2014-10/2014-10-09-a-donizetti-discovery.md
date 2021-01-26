@@ -4,22 +4,13 @@ title: Eine Donizetti-Entdeckung
 date: 2014-10-09
 lang: de
 post: true
-category: library_collections
+category: rediscovered
 image: "/images/news-old-website/csm_Donizetti_dd1e9e1237.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/a-donizetti-discovery.html
 email: ''
 author: ''
 ---
 
-Der folgende Beitrag ist von
-
-Der folgende Beitrag ist von
-
-Der folgende Beitrag ist von
-
-Der folgende Beitrag ist von
-
-Der folgende Beitrag ist von
 
 _Der folgende Beitrag ist von Nicolas Bell_ _und ist auf dem [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/09/a-donizetti-discovery.html#){:target="_blank"}_ _erschienen._ _Wir präsentieren ihn hier mit freundlicher Genehmigung der British Library._
 
