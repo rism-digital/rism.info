@@ -27,7 +27,7 @@ Editorial staff:
 * [Alexander Marxen](mailto:alexander.marxen@rism.info){:target="_blank"}
 * [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}, MA, MA, MSLIS 
 
-IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MS
+IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MA
 
 ## Address
 
