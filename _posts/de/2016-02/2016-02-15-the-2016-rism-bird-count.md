@@ -4,7 +4,7 @@ title: Die RISM-Vogelzählung 2016
 date: 2016-02-15
 lang: de
 post: true
-category: new_at_rism
+category: in_the_news
 image: "/images/news-old-website/csm_Vogelzaehlung_2d6af1517b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/the-2016-rism-bird-count.html
 email: ''
