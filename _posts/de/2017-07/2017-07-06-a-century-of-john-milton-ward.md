@@ -4,7 +4,7 @@ title: 100 Jahre John Milton Ward
 date: 2017-07-06
 lang: de
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_A_Century_of_John_Milton_Ward_Ward_with_Seeger_768x750_44af6f1b19.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/a-century-of-john-milton-ward.html
 email: cawelti@fas.harvard.edu
@@ -34,9 +34,9 @@ _Die Wards im Jahr 1979._
 John Wards Kurse an der Harvard University deckten ein sehr breites Spektrum ab. Auch wenn er den meisten Studenten vor allem für „Music 200“ (verbindlicher Einführungskurs für alle Musikstudenten) in Erinnerung bleiben wird, leitete er auch Kurse aus seinem eigentlichem Interessengebieten. Dazu gehören beispielsweise die Instrumentalmusik des 16. Jahrhunderts, Musikethnologie oder Bühnenmusik.
 
 ![Ward in 1959](/resources-old-website/news/A_Century_of_John_Milton_Ward/A_Century_of_John_Milton_Ward_JohnMWard1959_568x465_01.jpg)
-_Ward im Jahr 1959. Während seiner Zeit als Dozent, spielte Ward Klavier, oft4-händigeArrangements mitStudenten._
+_Ward im Jahr 1959. Während seiner Zeit als Dozent, spielte Ward Klavier, oft 4-händige Arrangements mit Studenten._
 
-Eine der ersten größeren Stiftungen von Ward war die Gründung des [Archive of World Music](http://hcl.harvard.edu/libraries/loebmusic/collections/archive.cfm){:target="_blank"} im Jahr 1976.Ward unterstütze außerdem die Einrichtung des [Charles Seeger](https://de.wikipedia.org/wiki/Charles_Seeger){:target="_blank"}Raums an der Loeb Music Library für gedruckte und handschriftliche Quellen der Musikethnologie im Jahr 1985. Im selben Jahr zog sich John Ward vom aktiven Unterrichten zurück - zugunsten seiner Sammelaktivität und seiner persönlichen Forschung. In den 1990er Jahren begann er Material für spezielle thematische Bereiche zu spenden und stellte mehrere Forschungsassistenten ein, die seine Erwerbungen organisierten und dokumentierten.
+Eine der ersten größeren Stiftungen von Ward war die Gründung des [Archive of World Music](http://hcl.harvard.edu/libraries/loebmusic/collections/archive.cfm){:target="_blank"} im Jahr 1976. Ward unterstütze außerdem die Einrichtung des [Charles Seeger](https://de.wikipedia.org/wiki/Charles_Seeger){:target="_blank"} Raums an der Loeb Music Library für gedruckte und handschriftliche Quellen der Musikethnologie im Jahr 1985. Im selben Jahr zog sich John Ward vom aktiven Unterrichten zurück - zugunsten seiner Sammelaktivität und seiner persönlichen Forschung. In den 1990er Jahren begann er Material für spezielle thematische Bereiche zu spenden und stellte mehrere Forschungsassistenten ein, die seine Erwerbungen organisierten und dokumentierten.
 
 Er sammelte Quellen zur Französischen Revolution, zu Lully und anderen französischen Gebieten.Als ich im Jahr 2002 anfing für Ward zu arbeiten, katalogisierte ich eine große Sammlung von Opern-Klavierauszügen, die er der Loeb Music Library geschenkt hatte. Diese Arbeit setzte ich in Houghton fort, wo ich auch anderes Aufführungsmaterial katalogisierte. Von Beginn meiner Anstellung an genoss ich von ihm mehr Unterstützung als für eine einfache Angestellte üblich: Ich bildete mich zur Opernsängerin aus und er führte mich indie Welt der Musikwissenschaft (aus dem Blickwinkel der Harvard University) ein. Seine Leidenschaft und akribische Liebe zum Detail machten aus mir eine bessere Katalogisiererin und erweiterten mein Blick auf die Musik. Ich habe darüber mehr in [Gordon Hollis’s John Ward and his Magnificent Collection](http://id.lib.harvard.edu/aleph/012566662/catalog){:target="_blank"} geschrieben,aber der anstehende 100. Geburtstag ließ mich mehr darüber nachdenken als üblich.
 
@@ -47,4 +47,4 @@ Ward starb friedlich in seinem Haus im Cambridge am 12. Dezember 2011 im Alter v
 
 Die Quellen der Ward Collection wurden in zahllosen Artikeln und Büchern zitiert. Die Bereiche Musikethnologie, Ballett, Gesellschaftstanz und Operetten sowie Musicals, die bis zu Beginn von Wards Sammeltätigkeit nicht Teil der Forschungsarbeit waren, wurden nun intensiv untersucht und die Harvard-Sammlungen gehören dank ihm zu den besten in der Welt. Und woran denke ich selbst am Tag seines 100. Geburtstags? Ich vermisse ihn. Er sagte oft, er hatte einfach das Glück, zur richtigen Zeit am richtigen Ort zu sein. Ich denke, er selbst hat es dazu gemacht. Wir sind die Glücklichen, weil wir darin leben dürfen. Auf ein weiteres Jahrhundert mit der Ward Collection!
 
-_Alle Bilder mit freundlicher Genehmigung derHarvard University._
+_Alle Bilder mit freundlicher Genehmigung der Harvard University._

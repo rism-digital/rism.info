@@ -4,7 +4,7 @@ title: Michael Haydn @ RISM
 date: 2012-09-24
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Michaelhaydn2_ef4d655a82.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/61/article/64/michael-haydn-rism.html
 email: martina.falletta@rism.info

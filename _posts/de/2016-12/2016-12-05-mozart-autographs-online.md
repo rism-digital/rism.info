@@ -4,7 +4,7 @@ title: Mozart Autographe Online
 date: 2016-12-05
 lang: de
 post: true
-category: library_collections
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Mozart_-_Todestag_225_b9c02571ad.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/mozart-autographs-online.html
 email: ''

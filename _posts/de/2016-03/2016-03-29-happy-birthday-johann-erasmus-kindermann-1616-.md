@@ -4,7 +4,7 @@ title: Johann Erasmus Kindermann (1616 - 1655) - Happy Birthday!
 date: 2016-03-29
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Kindermann_S-Uu_f8a3f14584.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/happy-birthday-johann-erasmus-kindermann-1616-1655.html
 email: ''
