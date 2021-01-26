@@ -15,6 +15,17 @@ author: ''
 
 The RISM Central Office will be hosting an online, introductory two-part workshop on cataloging musical sources [using the program Muscat](/community/muscat.html "Opens internal link in current window"). The workshop is geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM's cataloging guidelines is welcome to attend. Sessions in English and German will be offered. The workshop is offered at no charge.
 
+* Monday, November 16, 2020\
+10:00-11:30 AM (German) and 4:00-5:30 PM (English) Central European Time (CET)\
+**RISM Workshop 1: Muscat basics**\
+In this workshop Muscat will be demonstrated and participants will learn how to catalog a music manuscript.
+
+* Wednesday, November 18, 2020\
+10:00-11:30 AM (German) and 4:00-5:30 PM (English) Central European Time (CET)\
+**RISM Workshop 2: Continuation**\
+This session will continue the skills learned in Monday's session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Monday session or participation in a previous Muscat workshop. 
+    
+
 Muscat is web-based (no installation required), but please [note the technical requirements](/community/muscat.html#c3410 "Opens internal link in current window"). The workshop will be held online using Zoom.   
   
 This workshop will be given again in the spring and fall of 2021. Additional workshops can be held upon request.   
