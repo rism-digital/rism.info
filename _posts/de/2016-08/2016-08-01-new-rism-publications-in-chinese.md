@@ -4,7 +4,7 @@ title: Neue RISM-Publikationen auf Chinesisch
 date: 2016-08-01
 lang: de
 post: true
-category: new_at_rism
+category: new_publications
 image: "/images/news-old-website/csm_Chinese_Language_Region_Broschuere_Wikipedia_02_fc4349323c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/new-rism-publications-in-chinese.html
 email: tzchia22@gmail.com
