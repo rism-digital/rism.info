@@ -4,7 +4,7 @@ title: 30 Johann Bachs oder die Suche nach "uneindeutigen" Komponisten
 date: 2015-09-10
 lang: de
 post: true
-category: new_at_rism
+category: rism_online_catalog
 image: "/images/news-old-website/csm_Johann_Bach_e908765f80.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-bach-or-searching-for-unclear-composers.html
 email: alexander.marxen@rism.info
