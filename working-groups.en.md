@@ -416,8 +416,6 @@ Zakład Zbiorów Muzycznych\
 Polskie Centrum RISM\
 Al. Niepodległości 213\
 PL 02-086 Warszawa\
-Telephone: +48 22 608 23 90\
-Fax: +48 22 608 26 55\
 Email: [rism@bn.org.pl](mailto:rism@bn.org.pl)\
 Website: [http://bn.org.pl/en/](http://bn.org.pl/en/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/poland/warsaw/home.html](/working-groups/poland/warsaw/home.html){:blank}
@@ -521,12 +519,13 @@ Website: [http://www.mosconsv.ru/](http://www.mosconsv.ru/){:target="_blank"}
 
 Alla Semenyuk\
 Russian State Library\
-Department of Musical Scores and Records\
-15 Mokhovaya Street\
+Department of music publications and audio records\
+Vozdvizhenka St., 3/5\
 Moscow 119019\
-Telephone: +7 095 202 41 31\
+Telephone: +7 (499) 557-04-70 x2054\
 Fax: +7 095 913 69 33\
-Email: [mz@rsl.ru](mailto:mz@rsl.ru)\
+Email: [SemenyukAA@rsl.ru](mailto:SemenyukAA@rsl.ru)\
+Email: [GayshunIV@rsl.ru](mailto:GayshunIV@rsl.ru)\
 Email: [roscomifla@rsl.ru](mailto:roscomifla@rsl.ru)\
 Website: [http://www.rsl.ru/](http://www.rsl.ru/){:target="_blank"}  
 
