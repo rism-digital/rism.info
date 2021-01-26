@@ -5,7 +5,7 @@ date: 2021-01-26
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2021-01/music-collection-st-john-teplice-website.jpg"
+image: "/images/news/2021-01/music-collection-st-john-teplice-website.JPG"
 email: ludmila.mikulasova@seznam.cz
 author: 'Ludmila Mikulášová'
 ---
