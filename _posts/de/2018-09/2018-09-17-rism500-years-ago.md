@@ -4,7 +4,7 @@ title: RISM - vor 500 Jahren
 date: 2018-09-17
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_RISM_1518_8828a712ad.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/rism-500-years-ago.html
 email: ''
