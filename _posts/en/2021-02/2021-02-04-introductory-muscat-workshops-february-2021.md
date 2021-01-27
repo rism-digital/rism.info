@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introductory Muscat Workshops in February 2021"
-date: 2021-01-27
+date: 2021-02-04
 lang: en
 post: true
 category: new_at_rism
@@ -24,7 +24,7 @@ In this workshop Muscat will be demonstrated and participants will learn how to 
 This course will continue the skills learned in Monday's session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Monday session or participation in a previous Muscat workshop. 
 
 
-Space is limited. To register, email contact@rism.info and indicate your preference of the English or German sessions.
+Space is limited. To register, email [contact@rism.info](mailto:contact@rism.info){:blank} and indicate your preference of the English or German sessions.
 
 Muscat is web-based (no installation required), but please note [the technical requirements](https://rism.info/community/muscat.html#technical-requirements). The workshop will be held online using Zoom.
 
