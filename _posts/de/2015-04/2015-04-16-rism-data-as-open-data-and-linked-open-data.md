@@ -4,7 +4,7 @@ title: Die RISM-Daten als Open Data und Linked Open Data
 date: 2015-04-16
 lang: de
 post: true
-category: new_at_rism
+category: rism_online_catalog
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/rism-data-as-open-data-and-linked-open-data.html
 email: contact@rism.info
