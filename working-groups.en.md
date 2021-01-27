@@ -14,6 +14,8 @@ In over 35 countries around the world, one or more national RISM working groups 
 
 *If you are interested in describing sources from a country that is not listed, please [contact us](http://contact@rism.info/){:target="_blank"}.*
 
+[Austria](https://rism.info/working-groups.html#austria) - Belarus - Belgium - Brazil - Canada - Chinese-language region - Colombia - Croatia - Czech Republic - Denmark - Estonia - Finland - France - Germany - Greece - Hungary - Ireland - Italy - Japan - Latvia - Lithuania - Mexico - Netherlands - Norway - Poland - Portugal - Romania - Russia - Slovakia - Slovenia - South Korea - Spain - Sweden - Switzerland - Ukraine - United Kingdom - United States - Venezuela
+
 ## AUSTRIA
 
 [List of RISM Austria sigla](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
