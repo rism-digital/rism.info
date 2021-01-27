@@ -4,7 +4,7 @@ title: "Introductory Muscat Workshops in February 2021"
 date: 2021-02-04
 lang: en
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_muscat_05_98c8ee9cdc.png"
 email: ''
 author: ''
