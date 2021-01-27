@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Free Access to "Fontes Artis Musicae" through June 30"
+title: Free Access to "Fontes Artis Musicae" through June 30
 date: 2020-05-04
 lang: en
 post: true
