@@ -510,14 +510,15 @@ Website: [http://www.icr.ro/bucuresti/muzica~4/](http://www.icr.ro/bucuresti/muz
 
 ## RUSSIA
 
-Emilia Rassina\
-Tanejew-Bibliothek-Tschaikowski-Konservatorium\
-Geyzen Stz. 13\
-103871 Moskwa\
-Telephone: +7 095 2296062\
-Fax: +7 095 2299659\
-Email: [nmbt@lib.mosconsv.ru](mailto:nmbt@lib.mosconsv.ru)\
-Website: [http://www.mosconsv.ru/](http://www.mosconsv.ru/){:target="_blank"}  
+Irina Brezhneva\
+Moscow State Tchaikovsky Conservatory, Taneyev Library\
+Bolshaya Nikitskaya 13/6\
+125009 Moscow\
+Telephone: +7 495 6296062, +7 495 6290759\
+Fax: +7 495 6292060\
+Email: [redk@.mosconsv.ru](mailto:redk@.mosconsv.ru)\
+Email: [tiz@.mosconsv.ru](mailto:tiz@.mosconsv.ru)\
+Website: [http://www.taneevlibrary.ru/](http://www.taneevlibrary.ru/){:target="_blank"}  
 
 Alla Semenyuk\
 Russian State Library\
