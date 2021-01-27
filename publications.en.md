@@ -35,7 +35,7 @@ _Series A is entirely [available free online](https://opac.rism.info/metaopac/st
 
 Series A/I documents printed music published between 1500 and 1800 that holds the work of a single composer. At over 100,000 entries, this is the most comprehensive source available for printed musical works. A CD-ROM that incorporates all of the printed volumes was released in 2011. The contents of the CD-ROM were added to the [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} in 2015.
 
-_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)_](/publications/bibliography.html#c2159). 
+_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#c2159)_. 
 
 **A/II: Music Manuscripts after 1600.** Database index, 1984-1986 (2 microfiches); annual CD-ROM, 1996-2008 (Munich: K. G. Saur Verlag); [free online database](http://opac.rism.info/){:target="_blank"} since 2010 (RISM Zentralredaktion). Also available as a subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008). 
 
@@ -92,7 +92,7 @@ Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diam
 * **B/IV/3:** Kurt von Fischer with Max Lütolf, _Handschriften mit mehrstimmiger Musik des 14., 15., und 16. Jahrhunderts. Mehrstimmige Musik in italienischen, polnischen und tschechischen Quellen des 14. Jahrhunderts. Mehrstimmige Stücke in Handschriften aller Länder aus der Zeit um 1400-1425/30. Organale Sätze im älteren Stil und mehrstimmige Stücke in Choralhandschriften des 15. und 16. Jahrhunderts (Austria-France)_, 1972.
   - Countries included: Austria, Belgium, Czechoslovakia, Denmark, France, Germany, Spain, Switzerland.
 
-* **B/IV/4:** Kurt von Fischer and Max Lütolf, _Handschriften mit mehrstimmiger Musik des 14., 15., und 16. Jahrhunderts. Mehrstimmige Musik in italienischen, polnischen und tschechischen Quellen des 14. Jahrhunderts. Mehrstimmige Stücke in Handschriften aller Länder aus der Zeit um 1400-1425/30. Organale Sätze im älteren Stil und mehrstimmige Stücke in Choralhandschriften des 15. und 16. Jahrhunderts (Great Britain-Yugoslavia), 1972.
+* **B/IV/4:** Kurt von Fischer and Max Lütolf, _Handschriften mit mehrstimmiger Musik des 14., 15., und 16. Jahrhunderts. Mehrstimmige Musik in italienischen, polnischen und tschechischen Quellen des 14. Jahrhunderts. Mehrstimmige Stücke in Handschriften aller Länder aus der Zeit um 1400-1425/30. Organale Sätze im älteren Stil und mehrstimmige Stücke in Choralhandschriften des 15. und 16. Jahrhunderts (Great Britain-Yugoslavia), 1972_.
   - Countries included: Great Britain, Hungary, Iceland, Italy, Netherlands, Poland, Portugal, Sweden, United States, Yugoslavia.
 
 * **B/IV/5:** Nanie Bridgman, _Manuscrits de musique polyphonique, XVe et XVIe siècles. Italie_, 1991.
