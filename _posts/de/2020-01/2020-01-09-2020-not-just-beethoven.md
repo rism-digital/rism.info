@@ -4,7 +4,7 @@ title: '2020: Nicht nur Beethoven!'
 date: 2020-01-09
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_2020_year_PNG40_9c0e624551.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/2020-not-just-beethoven.html
 email: ''

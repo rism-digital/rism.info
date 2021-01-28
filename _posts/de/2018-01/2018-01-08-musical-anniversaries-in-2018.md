@@ -4,7 +4,7 @@ title: Jubiläen im Jahr 2018
 date: 2018-01-08
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Jubilaeen_2018_6bcd9ba1bb.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/musical-anniversaries-in-2018.html
 email: ''

@@ -4,7 +4,7 @@ title: Muscat Workshops im Oktober 2018
 date: 2018-10-01
 lang: de
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_muscat_04_9222e9e554.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/muscat-workshops-in-october-2018.html
 email: ''

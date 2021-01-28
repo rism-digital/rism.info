@@ -4,7 +4,7 @@ title: Neue Version des RISM Online-Katalogs
 date: 2018-07-16
 lang: de
 post: true
-category: new_at_rism
+category: rism_online_catalog
 image: "/images/news-old-website/csm_Neuer_OPAC_2018_4b3dd3d042.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/new-version-of-the-rism-online-catalog-1.html
 email: ''

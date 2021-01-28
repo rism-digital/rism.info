@@ -4,7 +4,7 @@ title: 250. Todestag von Jean-Philippe Rameau
 date: 2014-09-12
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_jean-jacques-caffieri-bust-of-jean-philippe-rameau_da7acb38b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/250th-anniversary-of-jean-philippe-rameaus-death.html
 email: ''

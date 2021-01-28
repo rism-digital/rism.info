@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Access to "Fontes Artis Musicae" through June 30Articles featuring RISM Music Manuscripts, Printed Music, and LibrettiMusic collections
+title: Free Access to "Fontes Artis Musicae" through June 30
 date: 2020-05-04
 lang: en
 post: true
@@ -11,11 +11,11 @@ email: ''
 author: ''
 ---
 
-Project MUSE is offering free access to a number of scholarly journals in order to facilitate the use of high-quality scholarship during the COVID-19 crisis. As a result, [articles in](https://muse.jhu.edu/journal/688){:target="_blank"}_[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_, the journal of the [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/){:target="_blank"} (IAML, one of the co-sponsors of RISM) dating back to 2016 are available [free online until the end of June](https://www.iaml.info/news/free-access-fontes-artis-musicae){:target="_blank"}.
+Project MUSE is offering free access to a number of scholarly journals in order to facilitate the use of high-quality scholarship during the COVID-19 crisis. As a result, articles in [_Fontes Artis Musicae_](https://muse.jhu.edu/journal/688){:target="_blank"}, the journal of the [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/){:target="_blank"} (IAML, one of the co-sponsors of RISM) dating back to 2016 are available [free online until the end of June](https://www.iaml.info/news/free-access-fontes-artis-musicae){:target="_blank"}.
 
 There are a number of articles that are especially relevant to people interested in musical sources. Take advantage of the opportunity to read the following:
 
-# Articles featuring RISM
+## Articles featuring RISM
 
 - [An Evening of Irish Music: The Emerald Isle Comes to Germany](https://muse.jhu.edu/article/636114){:target="_blank"}
 Jennifer A. Ward, Axel Klein
@@ -25,7 +25,7 @@ Sandra Tuppen, Stephen Rose, Loukia Drosopoulou
 David Blum
 
 
-# Music Manuscripts, Printed Music, and Libretti
+## Music Manuscripts, Printed Music, and Libretti
 
 - [Bernardino de Ribera’s Compositional Summary: Toledo Polyphonic Codex 6](https://muse.jhu.edu/article/614142){:target="_blank"}
 Carlos Gutiérrez Cajaraville

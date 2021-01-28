@@ -14,6 +14,8 @@ In over 35 countries around the world, one or more national RISM working groups 
 
 *If you are interested in describing sources from a country that is not listed, please [contact us](http://contact@rism.info/){:target="_blank"}.*
 
+_Jump to:_ [Austria](https://rism.info/working-groups.html#austria) - [Belarus](https://rism.info/working-groups.html#belarus) - [Belgium](https://rism.info/working-groups.html#belgium) - [Brazil](https://rism.info/working-groups.html#brazil) - [Canada](https://rism.info/working-groups.html#canada) - [Chinese-language region](https://rism.info/working-groups.html#chinese-language-region) - [Colombia](https://rism.info/working-groups.html#colombia) - [Croatia](https://rism.info/working-groups.html#croatia) - [Czech Republic](https://rism.info/working-groups.html#czech-republic) - [Denmark](https://rism.info/working-groups.html#denmark) - [Estonia](https://rism.info/working-groups.html#estonia) - [Finland](https://rism.info/working-groups.html#finland) - [France](https://rism.info/working-groups.html#france) - [Germany](https://rism.info/working-groups.html#germany) - [Greece](https://rism.info/working-groups.html#greece) - [Hungary](https://rism.info/working-groups.html#hungary) - [Ireland](https://rism.info/working-groups.html#ireland) - [Italy](https://rism.info/working-groups.html#italy) - [Japan](https://rism.info/working-groups.html#japan) - [Latvia](https://rism.info/working-groups.html#latvia) - [Lithuania](https://rism.info/working-groups.html#lithuania) - [Mexico](https://rism.info/working-groups.html#mexico) - [Netherlands](https://rism.info/working-groups.html#the-netherlands) - [Norway](https://rism.info/working-groups.html#norway) - [Poland](https://rism.info/working-groups.html#poland) - [Portugal](https://rism.info/working-groups.html#portugal) - [Romania](https://rism.info/working-groups.html#romania) - [Russia](https://rism.info/working-groups.html#russia) - [Slovakia](https://rism.info/working-groups.html#slovakia) - [Slovenia](https://rism.info/working-groups.html#slovenia) - [South Korea](https://rism.info/working-groups.html#south-korea) - [Spain](https://rism.info/working-groups.html#spain) - [Sweden](https://rism.info/working-groups.html#sweden) - [Switzerland](https://rism.info/working-groups.html#switzerland) - [Ukraine](https://rism.info/working-groups.html#ukraine) - [United Kingdom](https://rism.info/working-groups.html#united-kingdom) - [United States](https://rism.info/working-groups.html#united-states-of-america) - [Venezuela](https://rism.info/working-groups.html#venezuela)
+
 ## AUSTRIA
 
 [List of RISM Austria sigla](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
@@ -508,14 +510,15 @@ Website: [http://www.icr.ro/bucuresti/muzica~4/](http://www.icr.ro/bucuresti/muz
 
 ## RUSSIA
 
-Emilia Rassina\
-Tanejew-Bibliothek-Tschaikowski-Konservatorium\
-Geyzen Stz. 13\
-103871 Moskwa\
-Telephone: +7 095 2296062\
-Fax: +7 095 2299659\
-Email: [nmbt@lib.mosconsv.ru](mailto:nmbt@lib.mosconsv.ru)\
-Website: [http://www.mosconsv.ru/](http://www.mosconsv.ru/){:target="_blank"}  
+Irina Brezhneva\
+Moscow State Tchaikovsky Conservatory, Taneyev Library\
+Bolshaya Nikitskaya 13/6\
+125009 Moscow\
+Telephone: +7 495 6296062, +7 495 6290759\
+Fax: +7 495 6292060\
+Email: [redk@.mosconsv.ru](mailto:redk@.mosconsv.ru)\
+Email: [tiz@.mosconsv.ru](mailto:tiz@.mosconsv.ru)\
+Website: [http://www.taneevlibrary.ru/](http://www.taneevlibrary.ru/){:target="_blank"}  
 
 Alla Semenyuk\
 Russian State Library\
