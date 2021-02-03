@@ -14,6 +14,8 @@ In 35 Ländern beteiligen sich derzeit eine oder mehrere nationale RISM-Arbeitsg
 
 *Wenn Sie an der Beschreibung von Musikquellen aus einem Land interessiert sind, das hier nicht aufgelistet ist, [kontaktieren Sie uns](http://contact@rism.info/){:target="_blank"} bitte.*
 
+_Gehe zu:_ [Belgien](https://rism.info/de/working-groups.html#belgien) - [Brasilien](https://rism.info/de/working-groups.html#brasilien) - [Chinesisch-sprechendes Gebiet](https://rism.info/de/working-groups.html#chinesisch-sprechendes-gebiet) - [Dänemark](https://rism.info/de/working-groups.html#dänemark) - [Deutschland](https://rism.info/de/working-groups.html#deutschland) - [Estland](https://rism.info/de/working-groups.html#estland) - [Finnland](https://rism.info/de/working-groups.html#finnland) - [Frankreich](https://rism.info/de/working-groups.html#frankreich) - [Griechenland](https://rism.info/de/working-groups.html#griechenland) - [Irland](https://rism.info/de/working-groups.html#irland) - [Italien](https://rism.info/de/working-groups.html#italien) - [Japan](https://rism.info/de/working-groups.html#japan) - [Kanada](https://rism.info/de/working-groups.html#kanada) - [Kolumbien](https://rism.info/de/working-groups.html#kolumbien) - [Kroatien](https://rism.info/de/working-groups.html#kroatien) - [Lettland](https://rism.info/de/working-groups.html#lettland) - [Litauen](https://rism.info/de/working-groups.html#litauen) - [Mexiko](https://rism.info/de/working-groups.html#mexiko) - [Niederlande](https://rism.info/de/working-groups.html#niederlande) - [Norwegen](https://rism.info/de/working-groups.html#norwegen) - [Österreich](https://rism.info/de/working-groups.html#österreich) - [Polen](https://rism.info/de/working-groups.html#polen) - [Portugal](https://rism.info/de/working-groups.html#portugal) - [Rumänien](https://rism.info/de/working-groups.html#rumänien) - [Russland](https://rism.info/de/working-groups.html#russland) - [Schweden](https://rism.info/de/working-groups.html#schweden) - [Schweiz](https://rism.info/de/working-groups.html#schweiz) - [Slowakische Republik](https://rism.info/de/working-groups.html#slowakische-republik) - [Slowenien](https://rism.info/de/working-groups.html#slowenien) - [Spanien](https://rism.info/de/working-groups.html#spanien) - [Südkorea](https://rism.info/de/working-groups.html#südkorea) - [Tschechische Republik](https://rism.info/de/working-groups.html#tschechische-republik) - [Ukraine](https://rism.info/de/working-groups.html#ukraine) - [Ungarn](https://rism.info/de/working-groups.html#ungarn) - [Venezuela](https://rism.info/de/working-groups.html#venezuela) - [Vereinigtes Königreich](https://rism.info/de/working-groups.html#vereinigtes-königreich) - [Vereinigte Staaten](https://rism.info/de/working-groups.html#vereinigte-staaten) - [Weißrussland](https://rism.info/de/working-groups.html#weißrussland) 
+
 ## BELGIEN
 
 Webseite Belgien (Brüssel und Mechelen): [https://www.rism.info/working-groups/belgium/home.html](/working-groups/belgium/home.html){:blank}
@@ -608,18 +610,6 @@ Telefon: +420 221663129\
 Fax: +420 222220370\
 E-Mail: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
 Webseite: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
-
-## TÜRKEI
-
-Prof. Şehvar Beşiroğlu\
-Istanbul Technical University\
-Turkish Music State Conservatory\
-Department for Musicology and Ethnomusicology\
-Maçka Campus\
-TR- 34347 Beşiktaş- İstanbul\
-Turkey\
-Telefon: +90 531 942 41 68\
-Webseite: [http://www.tmdk.itu.edu.tr](http://www.tmdk.itu.edu.tr/){:target="_blank"}
 
 ## UKRAINE
 
