@@ -38,8 +38,8 @@ Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibli
 Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) hrg. von Pietro Zappala. Die erste Hälfte von B/I - die Jahre 1500 bis 1550 - ist 2015 in den [Online-Katalog](http://opac.rism.info/){:target="_blank"} integriert worden.
 
 * **B/I**: François Lesure, *Recueils imprimés, XVIe-XVIIe siècles* (1960).
-* **B/II**: François Lesure, *Recueils imprimés, XVIIIe siècle * (1964)
-- Supplement zu B/II, siehe [Lesure (1972)](/publications/bibliography.html#c2174).
+* **B/II**: François Lesure, *Recueils imprimés, XVIIIe siècle* (1964)
+  - Supplement zu B/II, siehe [Lesure (1972)](/publications/bibliography.html#c2174).
 
 **B/III**: The Theory of Music from the Carolingian Era up to c. 1500. Descriptive Catalogue of Manuscripts (6 Bände).
 
