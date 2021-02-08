@@ -41,6 +41,7 @@ sass:
 theme: rism-theme
 
 src_link: https://github.com/rism-digital/rism.info/tree/staging
+google_analytics_id: G-ZTLSCZDXYX
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

@@ -58,11 +58,11 @@ Ulrike Schädel (Deutschland), Bericht: [Ein Praktikum bei RISM: Bericht aus der
 
 #### 2017
 
-Vivian Tompkins (USA), Bericht: [Ein musikwissenschaftlicher Sommer in Frankfurt](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5Bmonth%5D=07&tx_ttnews%5Byear%5D=2017&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1386&cHash=7741f88c37e9c0a3eccc4e8c3c697296){:target="_blank"}
+Vivian Tompkins (USA), Bericht: [Ein musikwissenschaftlicher Sommer in Frankfurt](/new_at_rism/2017-07-17-a-musicological-summer-in-frankfurt.html){:target="_blank"}
 
 #### 2015
 
-Anne-Marie Wurster (Deutschland), Bericht: [Musik, Musikwissenschaft, Bibliotheken: Ein Praktikumsbericht](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5Byear%5D=2015&tx_ttnews%5Bmonth%5D=10&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=834&cHash=b6f593cc1442dacf8fb06e0e6bb5b625){:target="_blank"}
+Anne-Marie Wurster (Deutschland), Bericht: [Musik, Musikwissenschaft, Bibliotheken: Ein Praktikumsbericht](new_at_rism/2015-10-07-music-musicology-libraries-an-interns-report. html){:target="_blank"}
 
 #### 2014
 
