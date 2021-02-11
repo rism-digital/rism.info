@@ -56,19 +56,19 @@ Andrea Ickstadt (Germany)
 
 Charlotte Köhler (Germany)
 
-Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1633&cHash=7cc8819b8fb55cc03da7b14ad53fa0ae){:target="_blank"}
+Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](/new_at_rism/2018/06/21/a-rism-internship-report-from-the-central-office.html){:target="_blank"}
 
 #### 2017
 
-Vivian Tompkins (USA): Report: [A Musicological Summer in Frankfurt](http://www.rism.info/home/newsdetails/?tx_ttnews%5Bmonth%5D=07&tx_ttnews%5Byear%5D=2017&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1386&cHash=7741f88c37e9c0a3eccc4e8c3c697296){:target="_blank"}
+Vivian Tompkins (USA): Report: [A Musicological Summer in Frankfurt](/new_at_rism/2017/07/17/a-musicological-summer-in-frankfurt.html){:target="_blank"}
 
 #### 2015
 
-Anne-Marie Wurster (Germany).  Report: [Music, musicology, libraries: An intern's report](http://www.rism.info/home/newsdetails/?tx_ttnews%5Bmonth%5D=10&tx_ttnews%5Byear%5D=2015&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=834&cHash=b6f593cc1442dacf8fb06e0e6bb5b625){:target="_blank"}
+Anne-Marie Wurster (Germany).  Report: [Music, musicology, libraries: An intern's report](/new_at_rism/2015/10/07/music-musicology-libraries-an-interns-report.html){:target="_blank"}
 
 #### 2014
 
-Martin Bierwisch (Germany). Report: [A Summer of Musical Sources](http://www.rism.info/home/newsdetails/?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=12&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=465&cHash=6fc27bb991d2e00db5253ad0775de315){:target="_blank"}
+Martin Bierwisch (Germany). Report: [A Summer of Musical Sources](/new_at_rism/2014/12/04/a-summer-of-musical-sources.html){:target="_blank"}
 
 Marc-André Leysaht (Germany)
 
