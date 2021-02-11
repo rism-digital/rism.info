@@ -66,7 +66,7 @@ Anne-Marie Wurster (Deutschland), Bericht: [Musik, Musikwissenschaft, Bibliothek
 
 #### 2014
 
-Martin Bierwisch (Deutschland), Bericht: [Ein Sommer voller Musikquellen](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5Byear%5D=2014&tx_ttnews%5Bmonth%5D=12&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=465&cHash=6fc27bb991d2e00db5253ad0775de315){:target="_blank"}
+Martin Bierwisch (Deutschland), Bericht: [Ein Sommer voller Musikquellen](/new_at_rism/2014/12/04/a-summer-of-musical-sources.html){:target="_blank"}
 
 Marc-André Leysaht (Deutschland)
 
