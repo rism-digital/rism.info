@@ -97,7 +97,7 @@ Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)
 RISM Working Group Mechelen\
 Mariet Calsius\
 Cemper - Centrum voor Muziek- en Podiumerfgoed\
-Zoutwerf 5\
+Onder den Toren 12\
 B-2800 Mechelen\
 Telephone: +32 / 15 34 94 36\
 E-mail: mariet.calsius@cemper.be\
