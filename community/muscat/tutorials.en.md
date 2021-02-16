@@ -65,14 +65,14 @@ Always search for the print first in Muscat or the [RISM online catalog](http://
 
 **Three ways to contribute printed music to RISM**
 
-1. **Add and edit your holdings to printed music**\
+(1) **Add and edit your holdings to printed music**\
 Complete instructions:[Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
 
 _Please note: Some B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below)._
 
-2. **Revise existing RISM records**
+(2) **Revise existing RISM records**
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
@@ -86,7 +86,7 @@ Even the published records can usually be improved by adding individual entries 
 
 The unpublished records must be completely revised and individual entries must be added. If you revise a record,**leave it unpublished** but add a quick comment to the record saying the record has been revised (save the record, then go to the bottom under "Comments"). Central Office staff will look at the record and we will publish it.
 
-3. **Add new records for printed music**
+(3) **Add new records for printed music**
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Two-page version: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
