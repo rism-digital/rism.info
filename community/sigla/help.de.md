@@ -57,7 +57,9 @@ Beispiel:
 
 ## Tips
 
-* Die Suche nach '\*' findet sämtliche Sigel.
+* Die Suche nach **\*** findet sämtliche Sigel.
+* Klicken Sie in der Ergebnisliste auf eine beliebige Institution, um die vollständigen Details angezeigt zu bekommen: Adresse, URL und Link zu den Quellen im RISM-Katalog der Musikquellen.
+* Ein goldener Stern erscheint neben den Institutionen, sofern Quellen im RISM-Katalog nachgewiesen sind.
 
 ## Eingesetzte Technologie
 
