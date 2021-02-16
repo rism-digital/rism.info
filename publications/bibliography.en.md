@@ -24,6 +24,8 @@ Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicolo
 <a name="c1950"></a>**1951:**  
 Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Link to JSTOR](http://www.jstor.org/stable/889991){:target="_blank"}
 
+**1952:**
+Blume, Friedrich. "Zum Plan eines Internationalen Quellenlexikons der Musik." _Die Musikforschung_, 5, no. 4 (1952): 307-315. [Link to JSTOR](https://www.jstor.org/stable/23804862){:target="_blank"}  
 
 **1953:**  
 In Federov, Vladimir, editor._Troisième Congrès international des bibliothèques musicales Paris : 22-25 juillet 1951_.Kassel: Bärenreiter-Verlag, 1953:
