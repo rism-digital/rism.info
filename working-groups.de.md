@@ -20,8 +20,7 @@ _Gehe zu:_ [Belgien](https://rism.info/de/working-groups.html#belgien) - [Brasil
 
 Webseite Belgien (Brüssel und Mechelen): [https://www.rism.info/working-groups/belgium/home.html](/working-groups/belgium/home.html){:blank}
 
-Arbeitsgruppe Brüssel
-
+Arbeitsgruppe Brüssel\
 Dr. Marie Cornaz\
 Bibliothèque royale de Belgique\
 Section de la Musique\
@@ -31,13 +30,12 @@ Telefon: +32 2 5195663\
 Fax: +32 2 5195760\
 E-Mail: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)
 
-Arbeitsgruppe Mechelen 
-
+Arbeitsgruppe Mechelen\ 
 Mariet Calsius\
 Cemper - Centrum voor Muziek- en Podiumerfgoed\
-Zoutwerf 5\
+Onder den Toren 12\
 B-2800 Mechelen\
-Telefon: +32 15 34 94 36\
+Telephone: +32 / 15 34 94 36\
 E-Mail: [mariet.calsius@cemper.be](mailto:mariet.calsius@cemper.be)\
 Website: https://www.cemper.be/
 
