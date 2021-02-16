@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introductory Muscat Workshops in February 2021"
+title: "Introductory Muscat Workshops in February 2021 (FULL)"
 date: 2021-02-04
 lang: en
 post: true
@@ -9,6 +9,8 @@ image: "/images/news-old-website/csm_muscat_05_98c8ee9cdc.png"
 email: ''
 author: ''
 ---
+
+**The English workshops are now full. If you are interested in attending a future Muscat workshop, please write to [contact@rism.info](mailto:contact@rism.info) and we will let you know when future dates have been set.**
 
 The RISM Editorial Center will be hosting an online, introductory two-part workshop on cataloging musical sources [using the program Muscat](/community/muscat.html). The workshop is geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM's cataloging guidelines is welcome to attend. Sessions in English and German will be offered. The workshop is offered at no charge.
 
