@@ -13,7 +13,10 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-Frühjahr 2021: Termine werden noch bekannt gegeben. Schreiben Sie an contact@rism.info, wenn Sie eine E-Mail erhalten möchten, sobald die Termine feststehen.
+18. Februar 2021: Koninklijk Muziekconservatorium, Gent, online (Jennifer Ward, RISM-Zentralredaktion)
+22. und 24. Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online (Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)
+
+Schreiben Sie an contact@rism.info, wenn Sie eine E-Mail erhalten möchten, sobald weitere Termine feststehen.
 
 # Vergangene Workshops und Vorführungen
 
