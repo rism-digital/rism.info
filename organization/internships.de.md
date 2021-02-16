@@ -40,7 +40,7 @@ Miquela Döppenschmitt (Deutschland) [Bericht](/new_at_rism/2020/12/03/my-intern
 
 Daniel Kneer (Deutschland)
 
-Julius Rüttger (Deutschland)
+Julius Rüttger (Deutschland) [Bericht](/new_at_rism/2021/02/08/internship-despite-corona.html){:target="_blank"}
 
 Karin Weißert (Deutschland) [Bericht](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
 
