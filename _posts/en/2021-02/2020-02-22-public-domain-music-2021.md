@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Musical Public Domain in 2021"
-date: 2021-02-17
+date: 2021-02-22
 lang: en
 post: true
 category: in_the_news
@@ -20,7 +20,7 @@ This leads to potentially complicated (and confusing) situations when exploring 
 
 This all means that libraries and archives will have a new slate of composers whose works they can scan and add to their digital collections. 
 
-In 2021, we welcome these RISM composers to the public domain in the EU. If we find out about initiatives to digitize their works, we will of course link to the digital copies in the RISM records. The table can be [viewed and downloaded here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXs43yLQT37wJqN9Uk9IDpBkOsmEvdZO2xvOsxQQwtFsyEqaU9o8u41gb001Qq4ZEq0as-ncRbO-Vt/pubhtml){:blank}.  
+In 2021, we welcome these RISM composers to the public domain in the EU. If we find out about initiatives to digitize their works, we will of course link to the digital copies in the RISM records. The table can also be [viewed and downloaded here](https://docs.google.com/spreadsheets/d/1xjd_ADg7FC_DulsQTCw0QUZk3KOBV7LeaxwuUuxHIiU/edit?usp=sharing){:blank}.  
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXs43yLQT37wJqN9Uk9IDpBkOsmEvdZO2xvOsxQQwtFsyEqaU9o8u41gb001Qq4ZEq0as-ncRbO-Vt/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
