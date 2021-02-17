@@ -25,7 +25,7 @@ The name Rebay remained known through his works for guitar and the piano arrange
 
 Unpublished compositions by Rebay were found in the music archive of Heiligenkreuz Abbey, which is in the Vienna Woods in Lower Austria ([RISM library siglum: A-HE](https://opac.rism.info/search?View=rism&author=Rebay+Ferdinand&siglum=A-HE&Language=en){:target="_blank"}), beginning in 2014 by the curator P. Roman Nägele OCist. Thanks to the research of Dr. Maria Gellew in Heiligenkreuz Abbey, 841 works were cataloged in the Rebay Catalog of Works ([FRWV in RISM](https://opac.rism.info/search?View=rism&q=FRWV&Language=en){:target="_blank"}). The FRWV [can be found online](http://www.stift-heiligenkreuz-sammlungen.at/musikarchiv/ferdinand-rebay/werkverzeichnis/){:target="_blank"}.
 
-Many works can be heard as part of "Composer Portraits" concerts in Heiligenkreuz and Vienna. The [International Ferdinand Rebay Academy](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1668&cHash=deea687b6ebefdbc5542a11a51af7559){:target="_blank"} is also dedicated to his works.
+Many works can be heard as part of "Composer Portraits" concerts in Heiligenkreuz and Vienna. The [International Ferdinand Rebay Academy](/events/2018/07/26/4th-international-ferdinand-rebay-academy-at.html){:target="_blank"} is also dedicated to his works.
 
 [Bergmann Edition](http://www.bergmannedition.com/){:target="_blank"} in Denmark has published about 100 works to date and will continue this work.
 
