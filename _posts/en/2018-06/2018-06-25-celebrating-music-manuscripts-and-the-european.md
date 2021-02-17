@@ -4,7 +4,7 @@ title: Celebrating Music Manuscripts and the European Year of Cultural Heritage
 date: 2018-06-25
 lang: en
 post: true
-category: events
+category: in_the_news
 image: "/images/news-old-website/csm_Europaeische_Kulturerbejahr_2018_fbb26fbb22.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/celebrating-music-manuscripts-and-the-european-year-of-cultural-heritage.html
 email: ''
