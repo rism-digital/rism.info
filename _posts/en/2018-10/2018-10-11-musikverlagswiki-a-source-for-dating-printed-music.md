@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Recently we told you about [current bibliographic projects about Mozart and Clementi](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1709&cHash=27ebcbd4438ffec144c40bf8992626f3){:target="_blank"}, which we learned about during this year's IAML Congress in Leipzig. Today we're sharing information about another resource we heard about in detail, from Sabine Koch (Leipzig University of Applied Sciences): [the Musikverlagswiki (Music Publishers Wiki)](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
+Recently we told you about [current bibliographic projects about Mozart and Clementi](/in_the_news/2018/09/20/current-mozart-and-clementi-projects.html){:target="_blank"}, which we learned about during this year's IAML Congress in Leipzig. Today we're sharing information about another resource we heard about in detail, from Sabine Koch (Leipzig University of Applied Sciences): [the Musikverlagswiki (Music Publishers Wiki)](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
 
 We all know how difficult it can be to track down publication dates for historical printed music, which has the pesky habit of sometimes being completely absent. The Musikverlagswiki was launched in 2011 to help fill the need for a resource in dating printed music.
 
