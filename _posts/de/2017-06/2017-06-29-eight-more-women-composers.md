@@ -38,7 +38,7 @@ _Quatre romances avec accomp.|t de forte-piano_
 Paris, Aubert (gravé par Dargonne). RISM A/I: [VV 28 I,1](https://opac.rism.info/search?id=00000991004815){:target="_blank"}
 
 **Comtesse de Vidampierre**
-3 Lieder in [_Mercure de France_](http://gazetier-universel.gazettes18e.fr/periodique/mercure-de-france-1-1724-1778){:target="_blank"} in den Jahren 1771 und 1772:
+3 Lieder in [_Mercure de France_](https://gazetier-universel.gazettes18e.fr/periodique/mercure-de-france-1-1724-1778){:target="_blank"} in den Jahren 1771 und 1772:
 "Le baiser": RISM A/I: [V 1455](https://opac.rism.info/search?id=00000990066465){:target="_blank"}
 "L'heureuse securité": RISM A/I: [V 1456](https://opac.rism.info/search?id=00000990066466){:target="_blank"} (siehe Abbildung)
 "Le regret": RISM A/I: [V 1457](https://opac.rism.info/search?id=00000990066467){:target="_blank"}

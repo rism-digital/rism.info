@@ -4,14 +4,14 @@ title: 'Instrument of the Year 2018: The Cello'
 date: 2018-12-06
 lang: en
 post: true
-category: events
+category: in_the_news
 image: "/images/news-old-website/csm_Cello_ecb14cd8f3.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/instrument-of-the-year-2018-the-cello.html
 email: ''
 author: ''
 ---
 
-Even though the year is drawing to a close, there is still enough time to take a look at the Instrument of the Year. Last year, the state music councils in Germany [selected the oboe](http://www.rism.info/home/newsdetails/?tx_ttnews%5Byear%5D=2017&tx_ttnews%5Bmonth%5D=10&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1435&cHash=a982f2d3d6c9de4bffdb14b30d136d5b){:target="_blank"} to be the Instrument of the Year. This year, [it is the cello](https://www.instrument-des-jahres.de/){:target="_blank"}.
+Even though the year is drawing to a close, there is still enough time to take a look at the Instrument of the Year. Last year, the state music councils in Germany [selected the oboe](/in_the_news/2017/10/02/the-oboe-instrument-of-the-year.html){:target="_blank"} to be the Instrument of the Year. This year, [it is the cello](https://www.instrument-des-jahres.de/){:target="_blank"}.
 
 At RISM, [a search using "vlc"](https://opac.rism.info/search?View=rism&q=vlc&Language=en){:target="_blank"} (the RISM abbreviation for cello) leads to over 102,000 results. We would like to highlight some solo concertos and quartets from this wealth of sources.
 

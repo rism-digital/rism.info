@@ -25,10 +25,10 @@ Der Name Rebay blieb durchgehend bekannt mit seinen Werken für Gitarre und den 
 
 Im Musikarchiv des Stiftes Heiligenkreuz im Wienerwald in Niederösterreich ([RISM Bibliothekssigel: A-HE](https://opac.rism.info/search?View=rism&author=Rebay+Ferdinand&siglum=A-HE){:target="_blank"}) wurden ab 2014 durch Kustos P. Roman Nägele OCist unveröffentlichte Kompositionen Rebays aufgefunden. Dank der Forschungsarbeit von Dr. Maria Gellew im Stift Heiligenkreuz wurden 841 Werke in einem Rebay-Werkverzeichnis ([FRWV in RISM](https://opac.rism.info/search?View=rism&q=FRWV){:target="_blank"}) katalogisiert. Das FRWV ist [online einsehbar](http://www.stift-heiligenkreuz-sammlungen.at/musikarchiv/ferdinand-rebay/werkverzeichnis/){:target="_blank"}.
 
-Viele Werke werden bei Komponistenporträts-Konzerten in Heiligenkreuz und Wien zu Gehör gebracht. Auch die [Internationale Musikakademie Ferdinand Rebay](http://www.rism.info/home/newsdetails/?tx_ttnews%5BbackPid%5D=2&tx_ttnews%5Btt_news%5D=1668&cHash=deea687b6ebefdbc5542a11a51af7559){:target="_blank"} widmet sich seinen Werken.
+Viele Werke werden bei Komponistenporträts-Konzerten in Heiligenkreuz und Wien zu Gehör gebracht. Auch die [Internationale Musikakademie Ferdinand Rebay](/events/2018/07/26/4th-international-ferdinand-rebay-academy-at.html){:target="_blank"} widmet sich seinen Werken.
 
 [Bergmann Edition](http://www.bergmannedition.com/){:target="_blank"} in Dänemark hat bis heute etwa 100 Werke herausgegeben und wird diese Arbeit fortgesetzen.
 
 Ein weiterer Teil von Rebays Kompositionen ist im Besitz der Österreichischen Nationalbibliothek.
 
-Seine letzte Ruhestätte befindet sich auf demWiener Zentralfriedhof.
+Seine letzte Ruhestätte befindet sich auf dem Wiener Zentralfriedhof.
