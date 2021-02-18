@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Auch wenn sich das Jahr dem Ende neigt, reicht die Zeit noch, um einen Blick auf das Instrument des Jahres zu werfen. Nach der [Oboe](http://www.rism.info/de/startseite/newsdetails/?tx_ttnews%5Byear%5D=2017&tx_ttnews%5Bmonth%5D=10&tx_ttnews%5BbackPid%5D=64&tx_ttnews%5Btt_news%5D=1435&cHash=a982f2d3d6c9de4bffdb14b30d136d5b){:target="_blank"} im vergangenen Jahr kürten die Landesmusikräte in diesem Jahr das [Cello](https://www.instrument-des-jahres.de/){:target="_blank"} zum Instrument des Jahres.
+Auch wenn sich das Jahr dem Ende neigt, reicht die Zeit noch, um einen Blick auf das Instrument des Jahres zu werfen. Nach der [Oboe](/in_the_news/2017/10/02/the-oboe-instrument-of-the-year.html){:target="_blank"} im vergangenen Jahr kürten die Landesmusikräte in diesem Jahr das [Cello](https://www.instrument-des-jahres.de/){:target="_blank"} zum Instrument des Jahres.
 
 Bei RISM führt eine Suche nach ["vlc"](https://opac.rism.info/search?View=rism&q=vlc&Language=en){:target="_blank"} (der RISM Abkürzung für Cello) zu über 102.000 Treffern. Aus dieser Fülle an Quellen haben wir einige Solokonzerte und Quartette herausgesucht.
 
