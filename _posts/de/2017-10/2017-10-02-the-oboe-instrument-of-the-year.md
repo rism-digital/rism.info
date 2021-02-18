@@ -4,7 +4,7 @@ title: 'Die Oboe: Instrument des Jahres'
 date: 2017-10-02
 lang: de
 post: true
-category: events
+category: in_the_news
 image: "/images/news-old-website/csm_Oboe_f3843d94ca.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/the-oboe-instrument-of-the-year.html
 email: ''
@@ -28,9 +28,9 @@ RISM verwendet folgende Abkürzungen für die Instrumente der Oboen-Familie:
 - **heckelphon** : Heckelfon
 - **b-ob** : Bassoboe
 
-All diese Instrumente aus der Familie der Oboen finden sich auch im[Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}. Wenn neue Quellen mit neuen Instrumenten entdeckt werden, ergänzen wir diese.
+All diese Instrumente aus der Familie der Oboen finden sich auch im [Online-Katalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}. Wenn neue Quellen mit neuen Instrumenten entdeckt werden, ergänzen wir diese.
 
-Um Kompositionen mit dem Hauptinstrument Oboe (Konzerte, Duette, etc.) zu finden, nutzen Sie die[**Erweiterte Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} und selektieren das Feld **Besetzung**. Geben Sie eine Abkürzung ein und klicken auf **Suchen**. Sie können diese Suche auch mit anderen Suchfeldern wie einer Gattung (Schlagwort) kombinieren. Hier die Suche nach Oboenkonzerten:
+Um Kompositionen mit dem Hauptinstrument Oboe (Konzerte, Duette, etc.) zu finden, nutzen Sie die [**Erweiterte Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} und selektieren das Feld **Besetzung**. Geben Sie eine Abkürzung ein und klicken auf **Suchen**. Sie können diese Suche auch mit anderen Suchfeldern wie einer Gattung (Schlagwort) kombinieren. Hier die Suche nach Oboenkonzerten:
 
 ![Search for oboe concertos](/resources-old-website/news/oboe_search_concerto_1005x355.jpg)
 
