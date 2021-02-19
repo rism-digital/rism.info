@@ -15,7 +15,6 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops
 
-* 18 February 2021: Koninklijk Muziekconservatorium, Gent, online (Jennifer Ward, RISM Editorial Center)
 * 22 and 24 February 2021: [Muscat introduction](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online (Martina Falletta and Jennifer Ward, RISM Editorial Center)
 
 Please write to contact@rism.info if you would like to receive an email once dates are determined.
@@ -23,6 +22,9 @@ Please write to contact@rism.info if you would like to receive an email once dat
 
 
 ## Past workshops and demonstrations
+
+* 18 February 2021: Koninklijk Muziekconservatorium, Gent (online)\
+*Jennifer Ward, RISM Editorial Center*   
 
 * Fall 2020 workshops: [Muscat introduction](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
     - November 16 and 18, 2020 (German, English)     
