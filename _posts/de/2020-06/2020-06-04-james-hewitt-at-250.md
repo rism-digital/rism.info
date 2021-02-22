@@ -4,7 +4,7 @@ title: Zum 250. Geburtstag von James Hewitt
 date: 2020-06-04
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Hewitt_250_constitution_c0e5ad4475.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/james-hewitt-at-250.html
 email: ''
