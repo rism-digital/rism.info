@@ -4,7 +4,7 @@ title: Music for Advent
 date: 2014-11-27
 lang: en
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_Advent_wreath_70f72b1002.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/music-for-advent.html
 email: martina.falletta@rism.info
