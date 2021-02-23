@@ -18,7 +18,7 @@ RISM uses these abbreviations for instruments from the oboe family:
 - **ob** : [oboe](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe){:target="_blank"}
 - **picc.ob** :piccolo oboe, oboe musette, musette (but not to be confused with the musette from the bagpipe family)
 - **ob grande** : oboe grande
-- **ob d'amore** : [oboe d'amore](http://www.mimo-international.com/MIMO/doc/IFD/OAI_KMKG_MRAH_RMAH_123119_NL/hobo-d-amore){:target="_blank"}
+- **ob d'amore** : [oboe d'amore](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_123119_NL){:target="_blank"}
 - **a-ob** : Altoboe, any alto oboe
 - **cor inglese** : [cor anglais](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0004622/englischhorn){:target="_blank"}, English horn
 - **ob da caccia** : [oboe da caccia](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse){:target="_blank"}, oboe di silva
