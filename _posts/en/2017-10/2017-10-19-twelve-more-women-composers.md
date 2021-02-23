@@ -78,7 +78,7 @@ _[Quodlibet zu einem 80. Geburtstag](https://opac.rism.info/search?id=1001016397
 Matthias Ploner composed a [_Veni Sponsa Christi_](https://opac.rism.info/search?id=1001014411&Language=en){:target="_blank"} when she entered the Order of Saint Clare in Brixen, Italy. Her activity as a composer can be inferred from the cover page of a [collection of preludes](https://opac.rism.info/search?id=1001014399&Language=en){:target="_blank"} by Josef Alois Ladurner (1769-1851): “Leichte Orgelstücke von J. A. L. mppa /:nach angegebenen Thematen von M. Theresia Reifer O. S. Clarae:/.”
 
 **Philippine Schick (1893-1970)**
-Composer and college instructor. She was one of the founders of the [Gesellschaft deutscher und österreichischer Künstlerinnen](http://gedok.de/08/){:target="_blank"} (GEDOK). She appears in RISM as the arranger of a four-handed [piano march](https://opac.rism.info/search?id=1001016008&Language=en){:target="_blank"} by her teacher, Hermann Zilcher (1881-1948).
+Composer and college instructor. She was one of the founders of the [Gesellschaft deutscher und österreichischer Künstlerinnen](https://gedok.de/){:target="_blank"} (GEDOK). She appears in RISM as the arranger of a four-handed [piano march](https://opac.rism.info/search?id=1001016008&Language=en){:target="_blank"} by her teacher, Hermann Zilcher (1881-1948).
 
 **Anna Harris Smith**
 Her song “[Absence](https://opac.rism.info/search?id=00000991002557&Language=en){:target="_blank"}” was published in London (Thomas Cahusac & Sons) but is only known in RISM through a copy at the Detroit Public Library (RISM A/I: SS 3639 I,1).
