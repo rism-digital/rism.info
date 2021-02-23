@@ -1212,7 +1212,6 @@ RISM-U.S. Libretto Database (contains bibliographic records of different U.S. li
 
 Sartori, Claudio._I libretti italiani a stampa dalle origini al 1800_ (5 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
 
-##### 
 
 **Catalogs of individual libraries (or parts of individual libraries) or catalogs of specific regions**
 
