@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Analysis of Chant Transmission"
-date: 2021-02-23
+date: 2021-02-25
 lang: en
 post: true
 category: electronic_resources
@@ -10,7 +10,7 @@ email: dact.fragments@gmail.com
 author: 'Anna de Bakker'
 ---
 
-We have received the following from Anna de Bakker: 
+_We have received the following from Anna de Bakker:_ 
  
  
 Do you own a piece of a chant manuscript? Or perhaps you know about a manuscript page displayed in a choir room, or at a church or library? Then we are looking for you! 
