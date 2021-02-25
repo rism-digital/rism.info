@@ -1231,7 +1231,7 @@ Tabulae musicae Austriacae. Kataloge österreichischer Musiküberlieferung, hrsg
 
 Lindner, Andreas und Klaus Petermayr: Die historischen Musikalien der Bruckner-Stätten (Historic Music Materials of the Bruckner Sites). Vol. 1: Die Pfarre Kronstorf. Veröffentlichungen des RISM-Österreich A/13. Wien: Verlag Der Apfel, 2010. 
 
-Neumayr, Eva und Lars Laubhold (Hrsg.): [Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd),_Reihe A](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Wien: Hollitzer Verlag, 2018.
+Neumayr, Eva und Lars Laubhold (Hrsg.): [Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd),_Reihe A](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Wien: Hollitzer Verlag, 2018. [Online verfügbar](https://e-book.fwf.ac.at/o:1205){:blank}
 
 ##### BR - Brasilien
 
@@ -1240,7 +1240,7 @@ Base Minas – ECA / USP [Datenbank mit musikalischen Quellen], URL: [http://www
 
 ##### CH – Schweiz
 
-Arbeitsstelle Schweiz des RISM und Christine Koch-Studer: Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern, Bern:Arbeitsstelle Schweiz des RISM, 2011.[Online verfügbar](http://docs.rism-ch.org/hans_studer_katalog.pdf "external-link-new-window").  
+Arbeitsstelle Schweiz des RISM und Christine Koch-Studer: Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern, Bern:Arbeitsstelle Schweiz des RISM, 2011. [Online verfügbar](http://docs.rism-ch.org/hans_studer_katalog.pdf "external-link-new-window").  
 (erstellt in der RISM-Ländergruppe Bern – Schweiz)  
   
 Hanke Knaus, Gabriella: Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern, Schliengen:Edition Argus, 2007.  

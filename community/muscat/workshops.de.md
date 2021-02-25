@@ -13,14 +13,17 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-18. Februar 2021: Koninklijk Muziekconservatorium, Gent, online (Jennifer Ward, RISM-Zentralredaktion)
-22. und 24. Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online (Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)
-
 Schreiben Sie an contact@rism.info, wenn Sie eine E-Mail erhalten möchten, sobald weitere Termine feststehen.
 
 # Vergangene Workshops und Vorführungen
 
-Herbst-Workshops 2020: [Muscat Einführung](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
+* 22.\ und 24.\ Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
+*(Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)* (Deutsch, Englisch)
+
+* 18\. Februar 2021: Koninklijk Muziekconservatorium, Gent (online)\
+*Jennifer Ward, RISM Zentralredaktion* 
+
+* Herbst-Workshops 2020: [Muscat Einführung](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
      - 16\. und 18\. November 2020 (Deutsch, Englisch)     
     *Martina Falletta und Jennifer Ward (RISM Zentralredaktion)*
     - 23\. und 25\. November  2020 (Italienisch)     
@@ -34,10 +37,10 @@ Herbst-Workshops 2020: [Muscat Einführung](/events/2020/10/22/introductory-musc
 
 
 * 13\. Oktober 2020: RISM United Kingdom, online\
-*Jennifer Ward, RISM**Zentralredaktion*
+*Jennifer Ward, RISM Zentralredaktion*
 
 * 15\. September 2020: [IAML Deutschland Jahrestagung](http://www.aibm.info/tagungen/2020-bonn/){:target="_blank"}, Bonn\
-*Martina Falletta (RISM***Zentralredaktion*)*
+*Martina Falletta (RISM Zentralredaktion)*
 
 * 7\.-8\. September 2020: Chopin-Institut, Warschau (Online)
 

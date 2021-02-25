@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-RISM is currently prominently featured on the website of the [Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"} (United States). It appears alongside its sister projects:
+RISM is currently prominently featured on the website of the [Music Library Association](https://www.musiclibraryassoc.org/){:target="_blank"} (United States). It appears alongside its sister projects:
 
 - Répertoire International de Littérature Musicale (RILM)
 [International Repertory of Musical Literature](http://www.rilm.org/){:target="_blank"}
@@ -25,4 +25,4 @@ Together, these four projects are known as the R projects of musicology. As is w
 All four R projects are jointly sponsored by the [International Musicological Society (IMS)](http://ims-international.ch/){:target="_blank"} and the [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"}.
 
 
-Image: From the [Music Library Association](http://www.musiclibraryassoc.org/){:target="_blank"}.
+Image: From the [Music Library Association](https://www.musiclibraryassoc.org//){:target="_blank"}.

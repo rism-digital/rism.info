@@ -1212,7 +1212,6 @@ RISM-U.S. Libretto Database (contains bibliographic records of different U.S. li
 
 Sartori, Claudio._I libretti italiani a stampa dalle origini al 1800_ (5 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
 
-##### 
 
 **Catalogs of individual libraries (or parts of individual libraries) or catalogs of specific regions**
 
@@ -1235,7 +1234,7 @@ Kommission für Musikforschung. _Tabulae musicae Austriacae: Kataloge österreic
 
 Lindner, Andreas and Klaus Petermayr. _Die historischen Musikalien der Bruckner-Stätten (Historic Music Materials of the Bruckner Sites). Vol. 1: Die Pfarre Kronstorf_. Veröffentlichungen des RISM-Österreich A/13. Vienna: Verlag Der Apfel, 2010. 
 
-Neumayr, Eva and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018.
+Neumayr, Eva and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018. [Available online](https://e-book.fwf.ac.at/o:1205){:blank}.
 
 ##### BR - Brazil
 
