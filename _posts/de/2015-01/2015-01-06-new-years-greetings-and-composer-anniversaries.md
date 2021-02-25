@@ -4,7 +4,7 @@ title: Neujahrsgruß mit Jubilaren
 date: 2015-01-06
 lang: de
 post: true
-category: new_at_rism
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
@@ -13,13 +13,7 @@ author: ''
 
 Wir wünschen allen ein gutes Neues Jahr! Wir freuen uns darauf, die Jahrestage der folgenden Musiker und anderer Personen, die Sie im RISM Online-Katalog finden, zu feiern:
 
-[opac.rism.info](http://opac.rism.info/#sthash.wWudmywh.dpuf)
-
-[opac.rism.info](http://opac.rism.info/)
-
-[opac.rism.info](http://opac.rism.info/#sthash.wWudmywh.dpuf)
-
-[opac.rism.info](http://opac.rism.info/#sthash.wWudmywh.dpuf)
+[http://opac.rism.info/](http://opac.rism.info/)
 
 c= circa
 a= vor
