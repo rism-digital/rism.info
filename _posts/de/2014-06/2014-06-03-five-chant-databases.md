@@ -14,7 +14,7 @@ author: ''
 In der neuen Ausgabe des _Journal of the [American Musicological Society](http://www.ams-net.org/){:target="_blank"}_ wird über fünf Choral-Datenbanken berichtet:
 
 - [Cantus Planus Regensburg](http://www.uni-regensburg.de.proxy.ub.uni-frankfurt.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/cantus/){:target="_blank"}
-- [Corpus Antiphonalium Officii-Ecclesiae Centralis Europae](http://zti.hu/index.php/en/early-music/research-projects/study-of-the-office/cao-ece){:target="_blank"}
+- [Corpus Antiphonalium Officii-Ecclesiae Centralis Europae](http://earlymusic.zti.hu/cao-ece/cao-ece.html){:target="_blank"}
 - [CANTUS: A Database for Latin Ecclesiastical Chant](http://www.cantusdatabase.org/){:target="_blank"}
 - [Global Chant Database](http://www.globalchant.org/){:target="_blank"}
 - [The CANTUS Index](http://cantusindex.org/){:target="_blank"}
