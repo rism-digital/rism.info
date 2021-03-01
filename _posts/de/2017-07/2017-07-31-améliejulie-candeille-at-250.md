@@ -4,7 +4,7 @@ title: Amélie-Julie Candeille zum 250. Geburtstag
 date: 2017-07-31
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Candeille_Amelie_Julie_c19849bdce.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/amelie-julie-candeille-at-250.html
 email: ''
