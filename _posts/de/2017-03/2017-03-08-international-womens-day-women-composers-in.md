@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Internationaler Frauentag: Komponistinnen bei RISM
+title: 'Internationaler Frauentag: Komponistinnen bei RISM'
 date: 2017-03-08
 lang: de
 post: true
