@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RISM Lecture on the Cappella Sistina Collection Now Online"
-date: 2021-03-3
+date: 2021-03-04
 lang: en
 post: true
 category: events
@@ -14,8 +14,6 @@ We are happy to report that the [inaugural RISM Lecture](/events/2021/01/11/firs
 
 Even before the Lecture, however, several colleagues from around the globe asked us whether those unable to attend might have a chance to watch a recording later on. We are now pleased to share the full recording of the event that has become freely available to all through [RISM’s YouTube channel](https://youtu.be/ATlxoNG6Sdg){:blank}.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ATlxoNG6Sdg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
 Besides an introduction by Thomas Schmidt (Professor, University of Huddersfield) and the central lecture by Professor Richard Sherr (Professor Emeritus, Smith College), the recording includes words of welcome offered by Klaus Pietschmann (President of RISM), Claudia Montuschi (Director of the Manuscript Department of the Biblioteca Apostolica Vaticana), and Balázs Mikusi (Executive Director of the RISM Editorial Center). Additionally, we found it important to also include the lively discussion that unfolded at the end, with insightful comments and questions from several colleagues in attendance.  
 
 Note that the project website that had kindly been set up for the Lecture by our colleagues at the RISM Digital Center, and allows users to specifically search the collections of the Biblioteca Apostolica Vaticana (V-CVbav), is available at: [https://sistina.rism.info/catalog](https://sistina.rism.info/catalog){:blank}  
@@ -23,5 +21,7 @@ Note that the project website that had kindly been set up for the Lecture by our
 We are also pleased to report that in the meantime negotiations are well underway to ensure the further cataloging for RISM of the valuable music collections of the Biblioteca. The Editorial Center is hopeful that this might be undertaken under the auspices of a new RISM working group in the Città del Vaticano, which would be an important addition to RISM’s ever-wider international network.  
 
 Needless to say, the success of the inaugural event inspires us to continue the RISM Lecture Series, focusing on other repertories of particular interest for musicians, musicologists, and music librarians. At the moment several topics are under consideration, and a second lecture will certainly be offered before the summer.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ATlxoNG6Sdg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Image: Josquin des Prez, _Missa L'homme armé super voces musicales_, f. 3v. V-CVbav CS 154. [RISM ID no. 857002213](https://opac.rism.info/search?id=857002213&View=rism){:blank}. [Available online](https://digi.vatlib.it/view/MSS_Capp.Sist.154/0014){:blank}.  © Biblioteca Apostolica Vaticana. Used with permission.
