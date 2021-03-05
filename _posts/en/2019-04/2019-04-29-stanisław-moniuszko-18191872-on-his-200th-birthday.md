@@ -4,7 +4,7 @@ title: Stanisław Moniuszko (1819-1872) on his 200th Birthday
 date: 2019-04-29
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Moniuszko_200_01_9514602a76.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/stanislaw-moniuszko-1819-1872-on-his-200th-birthday.html
 email: ''

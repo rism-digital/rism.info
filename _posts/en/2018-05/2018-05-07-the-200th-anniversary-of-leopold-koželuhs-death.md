@@ -4,7 +4,7 @@ title: The 200th Anniversary of Leopold Koželuh's Death
 date: 2018-05-07
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
