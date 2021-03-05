@@ -4,7 +4,7 @@ title: Adriano Banchieri at 450
 date: 2018-09-03
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/adriano-banchieri-at-450.html
 email: ''
