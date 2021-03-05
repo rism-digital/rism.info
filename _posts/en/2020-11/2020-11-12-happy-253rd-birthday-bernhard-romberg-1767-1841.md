@@ -4,7 +4,7 @@ title: Happy 253rd Birthday, Bernhard Romberg (1767-1841)
 date: 2020-11-12
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Bernhard_Romberg_-_Kneer_e7b6262fa2.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/article/64/happy-253rd-birthday-bernhard-romberg-1767-1841.html
 email: 'contact@rism.info'
