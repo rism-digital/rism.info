@@ -4,7 +4,7 @@ title: Happy Birthday, Clara Wieck-Schumann!
 date: 2019-09-12
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/happy-birthday-clara-wieck-schumann.html
 email: Marina.Gordienko@sbb.spk-berlin.de
