@@ -4,7 +4,7 @@ title: An Extraordinary Musical Prodigy
 date: 2018-07-05
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/an-extraordinary-musical-prodigy.html
 email: ''
