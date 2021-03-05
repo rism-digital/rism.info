@@ -4,7 +4,7 @@ title: Mathias Georg Monn at 300
 date: 2017-04-06
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Monn_300_D-B_4780e94726.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/mathias-georg-monn-at-300.html
 email: ''
