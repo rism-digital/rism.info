@@ -4,7 +4,7 @@ title: 'Timothy Swan (1758-1842): An Early American Composer'
 date: 2017-07-20
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Timothy_Swan_composer_01_7b82dbcdb2.jpg"
 old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/timothy-swan-an-early-american-composer.html
 email: ''
