@@ -4,7 +4,7 @@ title: Lili Boulanger (21 August 1893–15 March 1918)
 date: 2018-03-15
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/lili-boulanger-21-august-1893-15-march-1918.html
 email: abholland@uwalumni.com
