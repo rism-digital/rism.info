@@ -4,7 +4,7 @@ title: Johann Stamitz at 300
 date: 2017-06-16
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Stamitz_300_eca465eacf.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/johann-stamitz-at-300.html
 email: ''
