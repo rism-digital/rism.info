@@ -4,7 +4,7 @@ title: From Improvisation to Composition
 date: 2019-10-17
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Chopin_by_Bisson__1849_875251f5fe.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/from-improvisation-to-composition.html
 email: guido.kraus@rism.info
