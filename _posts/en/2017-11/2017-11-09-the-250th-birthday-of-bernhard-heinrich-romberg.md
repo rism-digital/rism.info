@@ -4,7 +4,7 @@ title: The 250th Birthday of Bernhard Heinrich Romberg
 date: 2017-11-09
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_RombergBernhard_1314d2b2f6.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
 email: ''
