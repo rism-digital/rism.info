@@ -4,7 +4,7 @@ title: Friedrich Hölderlin at 250
 date: 2020-03-20
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Ho__lderlin_Egermann_SLUB_702be13270.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/friedrich-hoelderlin-at-250.html
 email: ''
