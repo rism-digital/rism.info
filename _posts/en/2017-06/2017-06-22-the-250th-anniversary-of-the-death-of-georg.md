@@ -4,7 +4,7 @@ title: The 250th Anniversary of the Death of Georg Philipp Telemann
 date: 2017-06-22
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Telemann_250_-_Marsch_aaf1492561.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/the-250th-anniversary-of-the-death-of-georg-philipp-telemann.html
 email: ''
