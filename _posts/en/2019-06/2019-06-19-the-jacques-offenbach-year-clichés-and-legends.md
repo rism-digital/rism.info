@@ -4,7 +4,7 @@ title: 'The Jacques Offenbach Year: Clichés and Legends'
 date: 2019-06-19
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Offenbach_-_Cover_a84006ab7c.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/the-jacques-offenbach-year-cliches-and-legends.html
 email: Ralf-Olivier.Schwarz@hfmdk-frankfurt.de
