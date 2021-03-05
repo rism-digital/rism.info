@@ -4,7 +4,7 @@ title: Charles Gounod at 200
 date: 2018-06-18
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Gounod_200_Geb_Julliard_d875c22195.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/charles-gounod-at-200.html
 email: ''
