@@ -4,14 +4,14 @@ title: Lili Boulanger (21. August 1893–15. März 1918)
 date: 2018-03-15
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Lili_Boulanger_Blog_Post_2018_2cd65edbae.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/lili-boulanger-21-august-1893-15-march-1918.html
 email: abholland@uwalumni.com
 author: Dr. Anya Holland-Barry
 ---
 
-_Dieser längere Gastbeitrag stammt von Dr. Anya Holland-Barry. Sie erhielt ihren PhD in Musikwissenschaft an der University of Wisconsin at Madison. Der Titel[ihrer Dissertation](http://digital.library.wisc.edu/1711.dl/W6FF4QHCGRLNW8V){:target="_blank"} lautet "Lili Boulanger (1893-1918) and World War I France: Mobilizing Motherhood and the Good Suffering"._
+_Dieser längere Gastbeitrag stammt von Dr. Anya Holland-Barry. Sie erhielt ihren PhD in Musikwissenschaft an der University of Wisconsin at Madison. Der Titel [ihrer Dissertation](http://digital.library.wisc.edu/1711.dl/W6FF4QHCGRLNW8V){:target="_blank"} lautet "Lili Boulanger (1893-1918) and World War I France: Mobilizing Motherhood and the Good Suffering"._
 
 Marie-Juliette Olga (“Lili”) Boulanger (21 August 1893–15 March 1918) was a French composer whose musical compositions exemplified leading contemporary French musical styles of her day. She came from a long familial lineage of musicians, and her immediate family circulated in the most influential Parisian musical communities. Lili Boulanger’s mother, Raïssa Mischetzky (1858–1935), an alleged Russian princess, came to Paris to study voice with [Ernest Boulanger](https://opac.rism.info/search?View=rism&q=Boulanger+Ernest+Henri+Alexandre){:target="_blank"} (1815–1900), Boulanger’s father. Ernest Boulanger was an opera composer who won the Prix de Rome in composition in 1835. Lili Boulanger’s sister, [Nadia](https://opac.rism.info/search?View=rism&q=nadia+Boulanger){:target="_blank"} (1887–1979), was a constant and formidable influence in Lili’s life, who championed her sister’s works during her life and after her death.
 

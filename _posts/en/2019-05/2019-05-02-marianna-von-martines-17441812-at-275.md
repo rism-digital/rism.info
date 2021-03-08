@@ -4,7 +4,7 @@ title: Marianna von Martines (1744-1812) at 275
 date: 2019-05-02
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Martinez_01_35a146d721.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/marianna-von-martines-1744-1812-at-275.html
 email: ''

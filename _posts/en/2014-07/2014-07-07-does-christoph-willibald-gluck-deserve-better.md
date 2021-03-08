@@ -4,7 +4,7 @@ title: Does Christoph Willibald Gluck deserve better?
 date: 2014-07-07
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/does-christoph-willibald-gluck-deserve-better.html
 email: ''

@@ -4,7 +4,7 @@ title: Music for a while… for more than 325 years!
 date: 2020-11-23
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Purcell_BritishLibrary_325_sonataF_b213c91b0a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/article/64/music-for-a-while-for-more-than-325-years.html
 email: 'contact@rism.info'
