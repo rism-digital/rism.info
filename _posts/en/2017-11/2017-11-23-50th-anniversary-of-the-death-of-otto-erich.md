@@ -4,7 +4,7 @@ title: 50th Anniversary of the Death of Otto Erich Deutsch
 date: 2017-11-23
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Otto_Erich_Deutsch__1883-1967__0ff5359987.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/50th-anniversary-of-the-death-of-otto-erich-deutsch.html
 email: ''
