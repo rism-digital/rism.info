@@ -23,7 +23,7 @@ permalink: /community/muscat/tutorials.html
 
 * [Who is anonymous?](https://youtu.be/kKc0zzc8cbo){:target="_blank"}: This video highlights the importance of doing an incipit search first for anonymous compositions.
 
-* Crosswalk from [Rules for Archival Description](http://www.cdncouncilarchives.ca/archdesrules.html){:target="_blank"} (Canada) to RISM:[General instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} for adding descriptions to RISM from RAD or another archival standard (by Rebecca Shaw, Dalhousie University)
+* Crosswalk from [Rules for Archival Description](http://www.cdncouncilarchives.ca/archdesrules.html){:target="_blank"} (Canada) to RISM: [General instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} for adding descriptions to RISM from RAD or another archival standard (by Rebecca Shaw, Dalhousie University)
 
 * [The authority file for Personal Names](https://youtu.be/A130dB8I62k){:target="_blank"}: How to add and edit a name, what information to include, linking to VIAF
 
@@ -66,7 +66,7 @@ Always search for the print first in Muscat or the [RISM online catalog](http://
 **Three ways to contribute printed music to RISM**
 
 (1) **Add and edit your holdings to printed music**\
-Complete instructions:[Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
 
@@ -94,7 +94,7 @@ If your print falls outside the scope of A/I or B/I, chances are it is not in Mu
 
 **Current limitations**
 
-For a few prints, you will not see an "add holdings" button. (These are mostly print records that were created with Kallisto.) If you have the same print, send the Central Office (mailto:contact@rism.info) your holdings information (at least siglum and shelfmark) and we will add it once these records have been converted.
+For a few prints, you will not see an "add holdings" button. (These are mostly print records that were created with previous cataloging programs.) If you have the same print, send the [Editorial Center](mailto:contact@rism.info) your holdings information (at least siglum and shelfmark) and we will add it once these records have been converted.
 
 # Training server
 
