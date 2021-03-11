@@ -4,7 +4,7 @@ title: Zum 253. Geburtstag von Bernhard Romberg (1767-1841)
 date: 2020-11-12
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Bernhard_Romberg_-_Kneer_e7b6262fa2.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/article/64/happy-253rd-birthday-bernhard-romberg-1767-1841.html
 email: 'contact@rism.info'
@@ -14,10 +14,6 @@ author: 'Daniel Kneer'
 _Der folgende Gastbeitrag stammt von einem unserer diesjährigen Praktikanten Daniel Kneer:&nbsp;_
 
 Bernhard Heinrich Romberg war ein deutscher Violoncellist und Komponist. Er wurde am 12. November 1767 in Dinklage in eine Musikerfamilie geboren.
-
-&nbsp;
-
-&nbsp;
 
 Den ersten Cellounterricht erhält Romberg von seinem Vater sowie dem Cellisten Johann Konrad Schlick in Münster. Seine frühe musikalische Laufbahn ist kaum von der seines wenige Monate älteren Cousins Andreas zu trennen. Gemeinsam unternehmen sie Konzertreisen durch Europa, die sie auch nach Österreich führen, wo Romberg Joseph Haydn kennenlernt und ihm seine Quartette op. 1 ([RISM ID no. 1001067228](https://opac.rism.info/search?id=1001067228&View=rism)) widmet.
 
@@ -29,9 +25,5 @@ Im Anschluss an eine weitere Konzertreise bleibt er 1799 ohne seinen Cousin in P
 
 Im [RISM-Katalog ist Romberg mit 421 Einträgen](https://opac.rism.info/metaopac/search?View=rism&author=Romberg+Bernhard+Heinrich) vertreten.&nbsp;&nbsp;
 
-&nbsp;
 
 _Abbildung_: Bernhard Romberg, Stich von Angelo Gentili nach Zeichnung von Franz Krüger, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bernhard_Romberg,_Angelo_Gentili_Stich_nach_Zeichnung_von_Franz_Kr%C3%BCger.jpg) (public domain).
-
-&nbsp;
-
