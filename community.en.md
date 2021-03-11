@@ -23,7 +23,7 @@ Individuals can support our work by:
 * making us aware of new research concerning sources
 * informing us of performances that involve music found in RISM
 * alerting us to institutions not yet in the [siglum database](/community/sigla.html){:target="_blank"}
-* translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}into their local language
+* translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} into their local language
 
 [Libraries](/organization/rism-for-libraries.html){:target="_blank"} can support RISM by:
 
@@ -35,3 +35,8 @@ Individuals can support our work by:
 Anybody can:
 
 * contribute financially. All donations are welcome! (Receipt provided.)
+
+_Images:_  
+(1) Workshop in Shanghai, 2018, sponsored by RISM Chinese-Language Region. Photo by Vivian Zhang.  
+(2, 4) Workshop in Frankfurt sponsored by the Editorial Center, 2018  
+(3) Participants of the conference "Documenting Musical Sources in Latin America," Mainz, 2016  
