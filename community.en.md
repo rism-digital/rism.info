@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/community.html
 
 The RISM Community is the place where contributors and other interested individuals can come together to exchange ideas and information. 
 
-{% include image file="/community/Community572x300.png" pos="center" %}
+{% include image file="/images/community/Community572x300.png" pos="center" %}
 
 ## How can I participate in RISM?
 
