@@ -16,21 +16,13 @@ _Four members of the RISM Central Office attended the annual congress of the [In
 **Von Klaus Keil:**
 Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie möglich präsent zu machen. Dazu hatten meine KollegenInnen und ich, sowie diverse MitarbeiterInnen aus Ländergruppen so viel Gelegenheit wie bisher noch nie:
 
--
+- Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
 
-Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
+- Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
 
--
+- Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
 
-Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
-
--
-
-Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
-
--
-
-Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
+- Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
 
 
 Neben diesen "offiziellen" RISM-Veranstaltungen waren RISM Ländergruppen MitarbeiterInnen beteiligt an sechs weiteren Veranstaltungen, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
