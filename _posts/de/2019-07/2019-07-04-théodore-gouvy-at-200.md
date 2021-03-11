@@ -4,7 +4,7 @@ title: Zum 200. Geburtstag von Théodore Gouvy
 date: 2019-07-04
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Theodore_Gouvy_33e4178f00.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/theodore-gouvy-at-200.html
 email: ''
