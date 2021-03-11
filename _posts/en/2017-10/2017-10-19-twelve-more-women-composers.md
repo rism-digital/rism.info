@@ -53,7 +53,7 @@ Composer and pianist. She was a pupil of Adolf Henselt in Stuttgart and composed
 
 Pianist and teacher in Leipzig, with pupils including [Ruth Bodenstein-Hoyme](https://de.wikipedia.org/wiki/Ruth_Bodenstein-Hoyme){:target="_blank"} (1924-2006).
 
-- [_Quodlibet zu einem 80. Geburtstag_](https://opac.rism.info/search?id=1001016397&Language=en){:target="_blank"}_ (from the Rudolf Mauersberger Collection in Dresden)
+- [_Quodlibet zu einem 80. Geburtstag_](https://opac.rism.info/search?id=1001016397&Language=en){:target="_blank"} (from the Rudolf Mauersberger Collection in Dresden)
 
 
 **Theresia Reifer (19th century, baptized as Anna Reifer)**
