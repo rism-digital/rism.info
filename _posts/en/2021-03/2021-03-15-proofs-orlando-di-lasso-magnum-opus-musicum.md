@@ -5,7 +5,7 @@ date: 2021-03-12
 lang: en
 post: true
 category: rediscovered
-image: "/images/news/2021-03/proofs-orlando-di-lasso-magnum-opus-musicum_website.jpg"
+image: "/images/news/2021-03/proofs-orlando-di-lasso-magnum-opus-musicum_website.jpg.png"
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: 'Gottfried Heinz-Kronberger and Bernhold Schmid'
 ---
@@ -20,7 +20,7 @@ Initial evaluation of the 37 leaves that were found revealed that the fragments 
 
 Those who study early printed music editions know that the quality of the books is, for the most part, noticeably high. To be sure, there are errors, not all print shops worked at the same level, and even top workshops occasionally had some gaffes. Despite this, overall one can observe that the printers were masters of their trade. This was reason enough to assume that music books were proofread. After all, time and again clues to this can be found on title pages or in the forewords of the music editions. For example, the title page of the first collection of _Newe Teütsche Liedlein mit Fünff Stimmen_, published in 1567 by Adam Berg in Munich, says that it was corrected by the composer himself: "Von Orlando di Lassus […] componiert vnd von jm selbst corrigirt."   
 
-The fact that further corrections were carried out once a portion of the print run had been sold can be shown by comparing multiple copies of the same edition. One of the three copies of the Magnum Opus in the Proske Music Department of the Bischöfliche Zentralbibliothek in Regensburg (shelfmark C 117b) contains the same vocal part of the motet "Lauda Hierusalem Dominum" in two partbooks; a different vocal part for this piece is missing, which was noted by one of the edition's owners, Carl Proske (1794-1861), on a piece of paper (see _Musikalische Schätze in Regensburger Bibliotheken_, edited by Katelijne Schiltz, Regensburg 2019, p. 164-166). In contrast, two complete copies with shelfmarks 2 Mus.pr. 68 and 2 Mus.pr. 68a in the Bayerische Staatsbibliothek, Munich are correct; the mistake was also corrected in the second Regensburg copy (C 117a), but not in C 117c found in the same library.  
+The fact that further corrections were carried out once a portion of the print run had been sold can be shown by comparing multiple copies of the same edition. One of the three copies of the _Magnum Opus_ in the Proske Music Department of the Bischöfliche Zentralbibliothek in Regensburg (shelfmark C 117b) contains the same vocal part of the motet "Lauda Hierusalem Dominum" in two partbooks; a different vocal part for this piece is missing, which was noted by one of the edition's owners, Carl Proske (1794-1861), on a piece of paper (see _Musikalische Schätze in Regensburger Bibliotheken_, edited by Katelijne Schiltz, Regensburg 2019, p. 164-166). In contrast, two complete copies with shelfmarks 2 Mus.pr. 68 and 2 Mus.pr. 68a in the Bayerische Staatsbibliothek, Munich are correct; the mistake was also corrected in the second Regensburg copy (C 117a), but not in C 117c found in the same library.  
 
 It is absolutely sensational that corrections are visible on proofs. Let us take a closer look at them.  
 
