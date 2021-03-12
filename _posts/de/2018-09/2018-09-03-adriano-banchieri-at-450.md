@@ -4,7 +4,7 @@ title: Adriano Banchieri zum 450. Geburtstag
 date: 2018-09-03
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/adriano-banchieri-at-450.html
 email: ''
@@ -19,4 +19,4 @@ Ab 1596 erschienen seine ersten Musikdrucke. Banchieri gilt als einer der wichti
 
 Die [239 Nachweise im RISM-Katalog](https://opac.rism.info/search?View=rism&author=Banchieri+Adriano){:target="_blank"} zeigen die heutige Verteilung der Musikquellen, die sich überwiegend auf italienische und deutsche Bibliotheken beschränkt. Für 13 Musikdrucke steht bereits eine digitalisierte Version zur Einsicht bereit.
 
-_Abbildung_: Titelseite von _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; RISM ID no. [990003769](https://opac.rism.info/search?id=00000990003769&View=rism){:target="_blank"}).
+_Abbildung_: Titelseite von _Saviezza giovenile, ragionamenti comici vaghi, e dilettevoli_, Venezia 1628 (Museo internazionale e biblioteca della musica di Bologna (I-Bc) V.217; [RISM ID no. 990003769](https://opac.rism.info/search?id=00000990003769&View=rism){:target="_blank"}).
