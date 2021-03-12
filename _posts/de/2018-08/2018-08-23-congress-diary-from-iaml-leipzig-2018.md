@@ -16,21 +16,13 @@ _Vier Mitarbeiter der RISM-Zentralredaktion nahmen am jährlich stattfindenden K
 **Von Klaus Keil:**
 Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie möglich präsent zu machen. Dazu hatten meine KollegenInnen und ich, sowie diverse MitarbeiterInnen aus Ländergruppen so viel Gelegenheit wie bisher noch nie:
 
--
+- Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
 
-Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
+- Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
 
--
+- Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
 
-Am Mittwoch, 25. Juli, konnte Jennifer Ward eine Sitzung der Cataloguing Commission ausschließlich mit RISM-Referaten leiten.
-
--
-
-Am Donnerstag, 26. Juli, nahmen über 30 Personen an der Sitzung des Advisory Council teil. Das Commission Mixte Meeting war nicht öffentlich.
-
--
-
-Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
+- Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
 
 
 Neben diesen "offiziellen" RISM-Veranstaltungen waren RISM Ländergruppen MitarbeiterInnen beteiligt an sechs weiteren Veranstaltungen, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
@@ -55,7 +47,6 @@ Ewa versuchte in ihrem Vortrag eine Rekonstruktion des klösterlichen Musikleben
 Nach der Sektion kehrte ich dann neu inspiriert an den Ostseestrand zurück.
 
 **By Jennifer Ward:**
-
 After all the sessions, meetings, workshops, and concerts that filled the first part of my IAML week, I was looking forward to the respite offered by the Wednesday afternoon excursions. My tour took me to the nearby town of Rötha to listen to two organs built by the famous organ builder Gottfried Silbermann (1683–1753). I'm not an organist, but it seemed to me that the chance to see and hear well-preserved Baroque organs was too good to pass up, and it would fit in perfectly with a book I had just read about historical performance pitch. It was either that or the Leipzig Zoo.
 
 Our guides first took us to the St. Marienkirche to hear about the 16th-century church and the organ from 1722 (first organ picture). The second organ we saw, in the medieval Georgenkirche, was actually built first and completed in 1721 (second organ picture). We learned that the organ in the Marienkirche was removed during World War II and afterwards used in Leipzig and Berlin before returning to the Marienkirche in 1960. This was interesting to hear because it made me think about the relationship between the instrument and the room it occupies. Silbermann was very intentional with instrument design and a space's acoustics, and as it turned out apparently people weren't pleased with the sound of the organ when it was played outside of Rötha. The wooden ceiling in the Georgenkirche was added in the 19th century, so the space isn't completely authentic, but my ears weren't disappointed. The church organist, Jihoon Song (who studied at the Hochschule für Musik und Theater Leipzig), told us that the sound of an organ playing Baroque music should ideally reverberate in the room for two to three seconds before it dies out. The Rötha organs have a reverberation period of about 2.5 seconds, so in other words: perfect.
