@@ -15,33 +15,19 @@ RISM präsentiert Ihnen eine neue Version des [Online-Katalogs](http://opac.rism
 
 Die neuen Features betreffen:
 
--
+- Suche nach Digitalisaten
 
-Suche nach Digitalisaten
+- Autocomplete in den Suchfeldern
 
--
+- Bool'sche Suchoperatoren (und, oder, nicht)
 
-Autocomplete in den Suchfeldern
+- Incipiteingabe über die Klaviertastatur
 
--
+- Sortierung der Trefferliste nach Jahr, Titel oder Komponist
 
-Bool'sche Suchoperatoren (und, oder, nicht)
+- Atom-feed
 
--
-
-Incipiteingabe über die Klaviertastatur
-
--
-
-Sortierung der Trefferliste nach Jahr, Titel oder Komponist
-
--
-
-Atom-feed
-
--
-
-präzisere Darstellung der Komponistenzuschreibungen
+- präzisere Darstellung der Komponistenzuschreibungen
 
 Eine wichtige neue Funktion ist die Suche nach Digitalisaten. Sie steht über die Erweiterte Suche zur Verfügung. Unter Suche eingrenzen können Sie beim Dokumententyp anschließend nur Digitalisate auswählen. Kombinieren Sie dieses Feld mit einem Suchbegriff, um nur Datensätze mit einem Link zu digitalisierten Musikquellen abzurufen.
 
