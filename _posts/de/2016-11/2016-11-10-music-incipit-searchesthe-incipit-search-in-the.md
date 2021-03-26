@@ -36,64 +36,36 @@ Der Online-Katalog bietet zwei verschiedene Suchmöglichkeiten an, die jeweils m
 Unterhalb der Suchschlitze ist eine virtuelle Klaviertastatur angebracht, über die mit Hilfe der Maus ebenfalls Notenincipits eingegeben werden können.
 ![Incipit search with keyboard](/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
 
--
+- Diese Suche berücksichtigt die exakten Halbtonschritte.
 
-Diese Suche berücksichtigt die exakten Halbtonschritte.
+- Die einzelnen Tasten sind mit allen enharmonischen Varianten belegt: die schwarze Taste für den Ton **Fis** findet also auch den Ton **Ges**.
 
--
+- Auch hier ist es möglich, entweder nur nach Incipits in der originalen Tonhöhe zu suchen oder eine Transpositions-Option zu wählen.
 
-Die einzelnen Tasten sind mit allen enharmonischen Varianten belegt: die schwarze Taste für den Ton **Fis** findet also auch den Ton **Ges**.
-
--
-
-Auch hier ist es möglich, entweder nur nach Incipits in der originalen Tonhöhe zu suchen oder eine Transpositions-Option zu wählen.
-
--
-
-Die Suche kann mit anderen Feldern kombiniert werden.
+- Die Suche kann mit anderen Feldern kombiniert werden.
 
 
 Weitere Tipps für die Incipitsuche:
 
--
+- Rhythmische Werte, Intervalle und Oktavlagen werden ignoriert.
 
-Rhythmische Werte, Intervalle und Oktavlagen werden ignoriert.
+- Voreingestellt ist eine Rechtstrunkierung des Suchbegriffs, d.h. es werden auch Notenincipits gefunden, die länger als der eingegebene Suchbegriff sind.
 
--
+- Vorschlags- bzw. Verzierungsnoten können fakultativ eingegeben werden.
 
-Voreingestellt ist eine Rechtstrunkierung des Suchbegriffs, d.h. es werden auch Notenincipits gefunden, die länger als der eingegebene Suchbegriff sind.
+- Beginnen Sie zunächst mit einem längeren Incipit und löschendann Tonbuchstaben bis Sie eine vernünftige Treffermenge erhalten.
 
--
+- Um die Treffermenge zu erhöhen, wählen Sie Suche **Notenanfang (mit Transposition)**
 
-Vorschlags- bzw. Verzierungsnoten können fakultativ eingegeben werden.
+- Kombinieren Sie die Incipitsuche mit anderen Feldern und nutzen Sie die Suchfilter
 
--
+- Sie können Klein- und Großbuchstaben verwenden
 
-Beginnen Sie zunächst mit einem längeren Incipit und löschendann Tonbuchstaben bis Sie eine vernünftige Treffermenge erhalten.
+- Sie können H oder B eintragen
 
--
+- Übergebundene Noten müssen nicht zweimal eingegeben werden
 
-Um die Treffermenge zu erhöhen, wählen Sie Suche **Notenanfang (mit Transposition)**
-
--
-
-Kombinieren Sie die Incipitsuche mit anderen Feldern und nutzen Sie die Suchfilter
-
--
-
-Sie können Klein- und Großbuchstaben verwenden
-
--
-
-Sie können H oder B eintragen
-
--
-
-Übergebundene Noten müssen nicht zweimal eingegeben werden
-
--
-
-Verwenden Sie die Klaviatur für die Suche mit enharmonischen Noten und Akzidentien
+- Verwenden Sie die Klaviatur für die Suche mit enharmonischen Noten und Akzidentien
 
 
 **Zur Erinnerung:**
