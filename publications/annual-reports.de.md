@@ -12,21 +12,25 @@ Die Jahresberichte der Zentralredaktion sind Sachberichte, vor allem gedacht als
 
 Die Jahresberichte werden in der jährlichen Publikation der Union der Deutschen Akademien der Wissenschaften veröffentlicht. Eine Zusammenfassung erscheint im Newsletter der International Musicological Society.
 
+**2020**
+
+[Ansicht](/publications/annual-reports/2020.html) 
+
 **2019**
 
-[View](/publications/annual-reports/2019.html) | [Download as PDF](/resources-old-website/user_upload/RISM-Jahresbericht-19_DE.pdf)
+[Ansicht](/publications/annual-reports/2019.html) | [Herunterladen als pdf-Datei](/resources-old-website/user_upload/RISM-Jahresbericht-19_DE.pdf)
 
 **2018**
 
-[View](/publications/annual-reports/2018.html) | [Download as PDF](/resources-old-website/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf)
+[Ansicht](/publications/annual-reports/2018.html) | [Herunterladen als pdf-Datei](/resources-old-website/community-content/Zentralredaktion/Jahresberichte/RISM-Jahresbericht-18_DE.pdf)
 
 **2017**
 
-[View](/publications/annual-reports/2017.html) | [Download as PDF](/resources-old-website/Jahresbericht2017_EN.pdf)
+[Ansicht](/publications/annual-reports/2017.html) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht2017_EN.pdf)
 
 **2016**
 
-[Ansicht](/publications/annual-reports/2016.html#c3434) | [Herunterladenals pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
+[Ansicht](/publications/annual-reports/2016.html#c3434) | [Herunterladen als pdf-Datei](/resources-old-website/Jahresbericht_DE_2016.pdf)
 
 **2015**
 
