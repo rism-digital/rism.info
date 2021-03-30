@@ -1,0 +1,28 @@
+---
+layout: post
+title: The 2020 Annual Report
+date: 2021-03-30
+lang: en
+post: true
+category: new_publications
+image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
+email: contact@rism.info
+author: Balázs Mikusi
+---
+
+The 2020 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2020.html). Here are some of the highlights:
+
+The year 2020 brought an important change for RISM: Klaus Keil, who had served as director of the Zentralredaktion in Frankfurt for close to three decades, retired at the end of August. His successor is Balázs Mikusi who gave up his position at the head of the Music Collection of the National Széchényi Library in Budapest to navigate the RISM project through the coming years fraught with diverse challenges. Most importantly, the support by the German Academies of Sciences and Humanities, which has made possible the work of the Editorial Center for almost forty years, will end in 2023. Since no similarly generous sponsor seems in sight, RISM needs to find ways to maintain and guarantee the quality of its data with scantier editorial capacity at its disposal.
+
+While the international working groups have kept adding new sources to the central database, a few larger imports relying on pre-existing data are worth mentioning. After running a pilot project with about 400 records from the catalog of the Bibliothèque Nationale de France the previous year, in 2020 nearly 20,000 entries from this precious collection were imported, thoroughly revised and eventually published in the RISM Catalog of Musical Sources. Even though this material does not comprise all music manuscripts from the Bibliothèque Nationale, [F-Pn](https://opac.rism.info/search?View=rism&siglum=F-Pn){:blank} is now the siglum with the fifth highest number of entries in our database.
+
+An even more ambitious project involves revising and enhancing Italian RISM records through the import of over 200,000 entries from the catalog of the Istituto Centrale per il [Catalogo unico delle Biblioteche Italiane (ICCU)](http://www.sbn.it/opacsbn/opac/iccu/musica.jsp){:blank}. Besides the sheer numbers, this project is particularly challenging due to the high number of duplicates (i.e. sources already present in the RISM database), and so the first chunks of this collection will only be published in 2021. In the meantime, however, another “Italian project” has already borne fruit: the RISM database was enhanced with nearly 3,000 records, mostly music manuscripts, from the Fondo Cappella Sistina of the [Biblioteca Apostolica Vaticana (V-CVbav)](https://opac.rism.info/search?View=rism&siglum=V-VCbav){:blank}, based on the comprehensive descriptions provided by Professor Thomas Schmidt (University of Huddersfield).
+
+Early in 2020 the records of Swiss sources, which had long been available in a separate catalog, were also imported into the main RISM database, and the local working group has since also been working directly with the international installation of the cataloguing software Muscat (hosted by the Staatsbibliothek zu Berlin). This change has been yet another important step in the ever-closer cooperation between the RISM Editorial Center and RISM Switzerland, which has in the meantime been restructured to form the RISM Digital Center, primarily focusing on the maintenance and development of Muscat.
+
+In October 2020 the entire data pool in the [catalog](https://opac.rism.info/index.php?id=4){:blank} consisted of 1,425,096 records. This includes the authority files, which contain 111,863 authority records for personal names, 70,460 for institutions. A total of 1,242,773 records remain for descriptions of musical sources, which can be further differentiated into 1,037,859 records for manuscript descriptions and 204,014 for printed editions. The number of links to digital objects, a popular feature, has increased to over 57,000. On average, the online catalog was visited by about 8,500 people per month over 27,220 visits (annually: 102,000 people with 326,640 visits and 22,8 million page views). All the data available through the online catalog, which is offered in partnership with the Bavarian State Library, are open data and can be downloaded directly from the catalog under a Creative Commons License.
+
+The world-wide pandemic has of course had an impact on RISM as well. While the Zentralredaktion itself as well as numerous RISM contributors all over the globe had to adjust their plans to the restrictions of home office, the general turn toward new means of communication has also opened up new vistas for international cooperation. The Editorial Center’s Muscat workshops for instance, which had long been based on personal tutoring, have been offered online since the autumn lockdowns, and their methodology has also gradually been adapted to the confines of the new medium. By the same token, as an experiment we also held a virtual Muscat Coffee Hour to provide Muscat cataloguers with an update on the latest developments, thereby also establishing a forum that in the longer run could ensure even more direct feedback from the larger RISM community for the further development of the cataloguing software.
+
+Besides its active contributors, however, RISM also seeks to be in constant touch with its larger circle of users. Since late 2020 a new website (designed in cooperation with the RISM Digital Center) facilitates the sharing of information, and the Zentralredaktion is also active on [Facebook](https://www.facebook.com/RISM.info/){:blank} and [Twitter](https://twitter.com/RISM_music){:blank} with more than 3,800 fans and over 2,500 followers, respectively. 
+
