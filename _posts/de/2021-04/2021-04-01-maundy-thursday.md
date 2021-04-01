@@ -30,4 +30,4 @@ Die drei Lamentationen zum Gründonnerstag sind:\
 [Vau et egressus est](https://opac.rism.info/search?View=rism&title=”Vau et egressus est”){:blank} (172 Quellen, darunter 19 Mal die Vertonung von Palestrina)\ 
 [Jod manum suam](https://opac.rism.info/search?View=rism&title=”Jod manum suam”){:blank} (174 Quellen, darunter 14 Mal die Vertonung von Palestrina) 
 
-_Abbildung_: Titelblatt von Giuseppe Antonio Silvanis (1672-1728): [Sacri responsorii per li tre giorni della Settimana Santa](https://opac.rism.info/search?id=990059801&View=rism]{:blank} (Exemplar in [D-Dl Mus.2198.E.1](https://digital.slub-dresden.de/werkansicht/dlf/162074/1/){:blank})
+_Abbildung_: Titelblatt von Giuseppe Antonio Silvanis (1672-1728): [Sacri responsorii per li tre giorni della Settimana Santa](https://opac.rism.info/search?id=990059801&View=rism){:blank} (Exemplar in [D-Dl Mus.2198.E.1](https://digital.slub-dresden.de/werkansicht/dlf/162074/1/){:blank})
