@@ -36,7 +36,7 @@ Zudem gibt es einige Notenkorrekturen: In der dritten Zeile steht ein b-Vorzeich
 
 Wer die Korrekturfahnen gelesen hat, kann derzeit nicht geklärt werden. Es könnte sich um einen Mitarbeiter der Offizin Nicolaus Heinrichs handeln ebenso wie um einen der Söhne Lassos. Vielleicht waren mehrere Korrekturleser am Werk, was bei dem ungewöhnlich umfangreichen, 516 Motetten zu 2, 3, 4, 5, 6, 7, 8, 9, 10 und 12 Stimmen enthaltenden, aus sechs Bänden bestehenden Druckwerk (es umfasst in der Alten Lasso-Gesamtausgabe etwa 2000 Notenseiten) eigentlich zu erwarten wäre. Unabhängig davon: Die Korrekturfahnen bieten einen spannenden Einblick in die Werkstatt eines Notendruckers zu Beginn des 17. Jahrhunderts. Ein Vergleich der Fahnen mit einigen leicht zugänglichen Exemplaren des _Magnum opus_ dürfte weitere Erkenntnisse bringen.    
 
-_(Veröffentlicht in den _Nachrichten aus den Staatlichen Archiven Bayerns_ [ISSN 0721-9733], S. 17-19.)_  
+_(Veröffentlicht in Nachrichten aus den_ Staatlichen Archiven Bayerns _[ISSN 0721-9733], S. 17-19.)_   
 
 [Gottfried Heinz-Kronberger](mailto:gottfried.heinz-kronberger@bsb-muenchen.de){:blank} und [Bernhold Schmid](mailto:B.Schmid@musikhist.badw.de){:blank}
 
