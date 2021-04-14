@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Mit dem heutigen Gründonnerstag beginnt das Triduum Sacrum, also die heiligen drei Tage von Leiden, Tod und Auferstehung des Herrn und damit der Höhepunkt der Karwoche. Traditionell spielt in der römisch-katholischen Liturgie die Orgel letztmals zum Gloria der Abendmahlsmesse und schweigt dann bis zum Gloria in der Osternacht. Dass die musikalische Gestaltung der Messen in der Karwoche dennoch äußerst vielfältig war (und ist) zeigt auch ein Blick in unsere Datenbank.
+Mit dem heutigen Gründonnerstag beginnt das Triduum Sacrum, also die heiligen drei Tage von Leiden, Tod und Auferstehung des Herrn und damit der Höhepunkt der Karwoche. Traditionell spielt in der römisch-katholischen Liturgie die Orgel letztmals im Gloria der Gründonnerstags-Messe und schweigt dann bis zum Gloria der Osternacht. Dass die musikalische Gestaltung der Messen in der Karwoche dennoch äußerst vielfältig war (und ist) zeigt auch ein Blick in unsere Datenbank.
 
 Die Quellen zum Gründonnerstag können Sie über die **[Erweiterte Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=de){:blank}** finden. Wählen Sie dort unter Liturgische Feste “Cena Domini, Feria V. in” (gemäß Liber usualis) aus.
 
