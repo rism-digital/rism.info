@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zweite RISM Lecture zur Bach-Sammlung der Staatsbibliothek zu Berlin"
+title: 'Zweite "RISM Lecture" zur Bach-Sammlung der Staatsbibliothek zu Berlin'
 date: 2021-04-29
 lang: de
 post: true
@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Der außerordentliche Erfolg der ersten RISM Lecture zum Cappella Sistina-Bestand ermutigt uns die Reihe fortzuführen. Nun freuen wir uns ankündigen zu können, dass Professor Christoph Wolff, der von 2004 bis 2013 - neben unzähligen weiteren Augaben - Präsident vom RISM gewesen ist, und seitdem unserer Organisation als Ehrenpräsident angehört, unsere Einladung annahm und der Hauptredner der nächsten Veranstaltung sein wird.
+Der außerordentliche Erfolg der ersten RISM Lecture zum Cappella Sistina-Bestand ermutigt uns die Reihe fortzuführen. Nun freuen wir uns ankündigen zu können, dass Professor Christoph Wolff, der von 2004 bis 2013 - neben unzähligen weiteren Aufgaben - Präsident vom RISM gewesen ist, und seitdem unserer Organisation als Ehrenpräsident angehört, unsere Einladung annahm und der Hauptredner der nächsten Veranstaltung sein wird.
 
 Die zweite RISM Lecture findet online am Mittwoch, den 26. Mai 2021 um 18:00 Uhr CET (17:00 Uhr UTC) statt. Nach Willkommensgrüßen von Klaus Pietschmann (Präsident von RISM), wird Martina Rebmann (Leiterin der Musikabteilung der Staatsbibliothek Berlin) diese wertvolle Sammlung – die erst vor kurzem in das inzwischen sanierte Bibliotheksgebäude Unter den Linden zurückkehrte – vorstellen, und dabei die Bedeutung von RISM für ihre tägliche Arbeit schildern. Balázs Mikusi (Leiter der RISM Zentralredaktion) wird manche praktische Kommentare zur Einleitung des zentralen Vortrags von Christoph Wolff (Professor Emeritus, Harvard University) machen: „The Bach Collection of the Berlin Staatsbibliothek: Reflections on a historical stroke of luck, fateful events, and an enduring research platform.“ Ermutigt durch die positiven Erfahrungen der ersten Lecture, freuen wir uns auf eine rege Diskussion am Ende des offiziellen Programms..
 
