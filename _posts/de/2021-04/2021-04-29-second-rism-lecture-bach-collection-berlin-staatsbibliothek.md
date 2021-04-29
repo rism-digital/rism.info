@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zweite "RISM Lecture" zur Bach-Sammlung der Staatsbibliothek zu Berlin'
+title: 'Zweite "RISM Lecture": Die Bach-Sammlung der Staatsbibliothek zu Berlin'
 date: 2021-04-29
 lang: de
 post: true
