@@ -16,9 +16,11 @@ In the preface to [H. W. Hitchcock's Charpentier catalog published in 1982](http
 
 Guy Lambert published a modern edition of the _Te Deum_ in 1943. A recording, using Lamber's edition, conducted by Louis Martini ([Erato, 1953](https://gallica.bnf.fr/ark:/12148/bpt6k127483q){:blank}) won the [Grand Prix du Disque](https://books.google.de/books?id=lup4DwAAQBAJ&lpg=PT235&ots=_a_HZqmzFl&dq=%22eurovision%20and%20the%20ritual%20music%22&hl=de&pg=PT235#v=onepage&q=%22eurovision%20and%20the%20ritual%20music%22&f=false){:blank} and brought further attention to this work.   
 
-<div style="display: block;"><iframe style="width: 500px; height:281.25px; border: 0;" src="https://gallica.bnf.fr/ark:/12148/bpt6k127483q/f1.media.mini.auto=2"></iframe></div>  
+<div style="display: block; "><iframe style="width:500px; height: 281.25px; border: 0;" src="https://gallica.bnf.fr/ark:/12148/bpt6k127483q/f1.item.mini"></iframe></div>  
  
 In 1954, the first 8 (or 16, if you repeat) measures of the Prelude to the _Te Deum_ made their debut as the EBU anthem, heard during the broadcast of a narcissus festival in Switzerland. It also, of course, heralded in the first iteration of the Song Contest two years later. It is still somewhat unclear how the piece came to the attention of the EBU; scholars sometimes point to Lambert's uncovering of the piece, [or maybe it was the BBC, or just a fortuitous discovery]( https://www.eurovision.de/feddersens_kommentar/Die-Eurovisonsmelodie-eine-Hymne-fuer-Europa,eurovisionshymne100.html){:blank}. [Thomas Betzwieser]( https://www.degruyter.com/document/doi/10.1515/9783110479591/html){:blank} examined the EBU archives in Geneva but found no discussion of this piece linking it to an EBU decision; he suspects that the selection was made on a national level, which would point the search for relevant documentation to local archives.  
+
+{% include image file="/images/news/2021-05/Eurovision__Charpentier_TeDeum_melody.jpg" %}    
 
 Thanks to the [major import of 20,000 records from RISM France last year](https://rism.info/rism_online_catalog/2020/06/29/almost-20000-records-from-the-bnf-now-also-in-rism.html){:blank}, the RISM database now has [all 28 of Charpentier's bound _Mélanges autographes_](https://opac.rism.info/search?View=rism&author=charpentier&q=Mélanges+autographes){:blank}. Volume 10, containing the _Te Deum_, includes other motets. Just over half of the volumes can be found online through [Gallica](https://gallica.bnf.fr/){:blank}.
 
