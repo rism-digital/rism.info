@@ -13,11 +13,24 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-Schreiben Sie an contact@rism.info, wenn Sie eine E-Mail erhalten möchten, sobald weitere Termine feststehen.
+22. und 24. Juni 2021: 
+Zweiteilige Muscat-Einführung in Englisch und Deutsch, online   
+
+* **RISM Workshop 1: Muscat Basiswissen**  
+Dienstag, 22. Juni 2021  
+7:00-8:30 UTC (Englisch) und 14:00-15:30 Uhr (Deutsch)
+In diesem Workshop wird Muscat vorgestellt und die Teilnehmer lernen, wie man ein Musikhandschrift katalogisiert.
+
+* **RISM Workshop 2: Fortsetzung**  
+Donnerstag, 24. Juni 2021  
+7:00-8:30 UTC (Englisch) und 14:00-15:30 Uhr (Deutsch)
+In dieser Sitzung werden die in der Montagssitzung erlernten Fähigkeiten fortgeführt. Die Teilnehmer werden lernen, wie man sowohl Manuskriptsammlungen als auch Musikdrucke katalogisiert. Grundkenntnisse in Muscat sind erforderlich, entweder aus der Montagssitzung oder durch die Teilnahme an einem früheren Muscat-Workshop.
+
+Der Platz ist begrenzt. Um sich anzumelden, schicken Sie eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 # Vergangene Workshops und Vorführungen
 
-* 22.\ und 24.\ Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
+* 22\. und 24\. Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
 *(Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)* (Deutsch, Englisch)
 
 * 18\. Februar 2021: Koninklijk Muziekconservatorium, Gent (online)\
