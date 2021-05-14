@@ -17,16 +17,15 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 22 and 24 June 2021: 
 Two-part Muscat introduction in English and German, online  
-_German times to be determined._  
 
 * **RISM Workshop 1: Muscat basics**  
 Tuesday, June 22, 2021  
-7:00-8:30 UTC  
+7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)   
 In this workshop Muscat will be demonstrated and participants will learn how to catalog a music manuscript.
 
 * **RISM Workshop 2: Continuation**  
 Thursday, June 24, 2021  
-7:00-8:30 UTC  
+7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)  
 This course will continue the skills learned in Tuesday’s session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Tuesday session or participation in a previous Muscat workshop.
 
 Space is limited. To register, email [contact@rism.info](mailto:contact@rism.info){:blank}. 
