@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music and Pandemics"
-date: 2021-05-19
+date: 2021-05-20
 lang: en
 post: true
 category: in_the_news
