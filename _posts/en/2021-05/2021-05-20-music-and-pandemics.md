@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-[A recent review](https://doi.org/10.1525/jams.2020.73.2.397){:blank} of the book [_Plague and Music in the Renaissance_ by Remi Chiu](https://doi.org/10.1017/9781316271476){:blank} caught our eye. Chiu looks at the different ways that music found expression during the time in history when the plague was basically a constant threat. Through the book was published in 2017, it takes on an unexpected relevance today.  
+[A recent review](https://doi.org/10.1525/jams.2020.73.2.397){:blank} of the book [_Plague and Music in the Renaissance_ by Remi Chiu](https://doi.org/10.1017/9781316271476){:blank} caught our eye. Chiu looks at the different ways that music found expression during the time in history when the plague was basically a constant threat. Though the book was published in 2017, it takes on an unexpected relevance today.  
 
 [Chiu includes an appendix](https://doi.org/10.1017/9781316271476.009){:blank} of motets and madrigals addressed to specific saints, particularly St. Sebastian (protector against plague), prayer settings, and madrigals directly connected to the 1576-78 outbreak in Milan. Researchers using [the RISM catalog](https://opac.rism.info/index.php?id=4){:blank} to find music connected with plagues or other pandemics must also have on hand resources such as Chiu's book, or for example Christopher Macklin's appendix in his ["Plague, performance and the elusive history of the _Stella celi extirpavit_" (2010)](https://www.jstor.org/stable/40800907){:blank}. Records in RISM index names of musical forms and people involved, but not topical terms of what a piece is about.  
 
