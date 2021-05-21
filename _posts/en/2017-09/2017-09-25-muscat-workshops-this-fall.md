@@ -20,7 +20,7 @@ This workshop is for members of the RISM Working Group at the Chopin Institute. 
 
 **Muscat Workshop in Morelia, Mexico**
 
-A Muscat workshop will be held on October 3, 5, and 6, 2017, as part of the conference [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](http://www.enesmorelia.unam.mx/index.php/convocatorias/convocatoria-celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix/){:target="_blank"}. The conference is hosted by the [Escuela Nacional de Estudios Superiores, Unidad Morelia](http://www.enesmorelia.unam.mx/){:target="_blank"}, and the [Conservatorio de las Rosas](https://www.conservatoriodelasrosas.edu.mx/Home/){:target="_blank"}. Jennifer Ward of the RISM Central Office will lead this workshop. For more information about the conference, please contact [coloquio.tallerdeedicion@gmail.com.](mailto:coloquio.tallerdeedicion@gmail.com)
+A Muscat workshop will be held on October 3, 5, and 6, 2017, as part of the conference [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/){:target="_blank"}. The conference is hosted by the [Escuela Nacional de Estudios Superiores, Unidad Morelia](http://www.enesmorelia.unam.mx/){:target="_blank"}, and the [Conservatorio de las Rosas](https://www.conservatoriodelasrosas.edu.mx/Home/){:target="_blank"}. Jennifer Ward of the RISM Central Office will lead this workshop. For more information about the conference, please contact [coloquio.tallerdeedicion@gmail.com.](mailto:coloquio.tallerdeedicion@gmail.com)
 
 ****
 
@@ -35,4 +35,4 @@ Location: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg
 - October 17, 2017
 Workshop leader: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)
 Time: 10.30 – 16.30
-Location: [Österreichische Nationalbibliothek](https://www.onb.ac.at/de/bibliothek/ausbildung/universitaetslehrgang/neuer-standort/){:target="_blank"}, Ausbildungsabteilung
+Location: [Österreichische Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}, Ausbildungsabteilung
