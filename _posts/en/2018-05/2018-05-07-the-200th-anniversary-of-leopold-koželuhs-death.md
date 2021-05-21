@@ -17,8 +17,11 @@ Koželuh left behind [400 works](https://opac.rism.info/search?View=rism&author=
 
 This past March, Koželuh's sole surviving opera _Gustav Vasa_ was performed in Helsinki. The manuscript was located in the library of the Prague Conservatoire (CZ-Pk) and the opera was presented for the first time since the death of the composer as part of the Helsinki Baroque Orchestra’s Early Music Series.
 
-The three-act opera _Gustav Vasa_ "explores the important event in the history of the Swedish nation: the battle between Sweden and Denmark in the beginning of the 16th century. Through creative video design, the ultra-modern concert hall of the Helsinki Music Centre will be transformed to a medieval battlefield" ([Helsinki Baroque Orchestra](http://www.hebo.fi/tapahtuma/leopold-kozeluch-gustav-vasa/){:target="_blank"}).
+The three-act opera _Gustav Vasa_ "explores the important event in the history of the Swedish nation: the battle between Sweden and Denmark in the beginning of the 16th century. Through creative video design, the ultra-modern concert hall of the Helsinki Music Centre will be transformed to a medieval battlefield" ([Helsinki Baroque Orchestra](https://web.archive.org/web/20181125022341/http://www.hebo.fi/tapahtuma/leopold-kozeluch-gustav-vasa/){:target="_blank"}).
 
-Gustav Vasa (1496-1560) freed Sweden from the rule of the King Christian of Denmark. Two strong women, Gustav Vasa's mother Cecilia and his sister Margareta, also play an important role in the opera and determine the course of events. The performance from 10 March 2018 can be [viewed online](https://areena.yle.fi/1-4313561){:target="_blank"} (the music starts at 8:38). The [German-language libretto](https://yle.fi/tiedotusradio1/Gustav_Wasa_korrigiert_yle.pdf){:target="_blank"} is also online.
+Gustav Vasa (1496-1560) freed Sweden from the rule of the King Christian of Denmark. Two strong women, Gustav Vasa's mother Cecilia and his sister Margareta, also play an important role in the opera and determine the course of events. The performance from 10 March 2018 can be [viewed online](https://areena.yle.fi/1-4313561){:target="_blank"} (the music starts at 8:38).  
 
 _Image_: Portrait of Leopold Koželuh by W. Ridley, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kozeluh349.jpg){:target="_blank"}.
+
+<!-- Dead link as of May 2021, so sentence was deleted: The German-language libretto https://yle.fi/tiedotusradio1/Gustav_Wasa_korrigiert_yle.pdf  is also online.  -->
+
