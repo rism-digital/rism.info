@@ -69,7 +69,7 @@ The presentations, in alphabetical order:
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf) (PDF)
 
 **Vjera Katalinic and**  **Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF)[Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf){:target="_blank"}
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf){:target="_blank"}
 
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
