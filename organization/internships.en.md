@@ -32,7 +32,10 @@ Qualifications:
 
 Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodated per year. Please send a CV and cover letter outlining your interests and relevant skills to Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}.
 
-## Past interns
+## Past interns  
+
+### 2021
+Deanna Pellerano (United States) [Report](_new_at_rism/2021-05-25-my-rism-internship-a-new-cataloging-experience.html)
 
 #### 2020
 
