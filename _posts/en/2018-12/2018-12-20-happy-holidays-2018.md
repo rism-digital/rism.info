@@ -15,4 +15,4 @@ The RISM Central Office wishes you and your family all the best for a festive ho
 
 Our office will be closed beginning December 24 and will reopen January 7, 2019.
 
-_Image: Christmas rose, from [pixabay.com](https://pixabay.com/de/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
+_Image: Christmas rose, from [pixabay.com](https://pixabay.com/de/photos/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
