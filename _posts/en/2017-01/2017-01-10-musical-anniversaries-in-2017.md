@@ -42,4 +42,4 @@ p = after\
 m = male\
 w / f = female
 
-_Image from [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
+_Image from [pixabay.com](https://pixabay.com/de/illustrations/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
