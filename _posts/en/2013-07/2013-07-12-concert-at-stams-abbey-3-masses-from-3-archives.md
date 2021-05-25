@@ -19,4 +19,4 @@ The Esterházy Mass by the Tyrolean composer Johann Gänsbacher (composed 1806, 
 
 The Franciscan arrangement of a mass by the Stams music teacher Johann Malzat (ca. 1790, [A-ST](http://opac.rism.info/search?documentid=650008766){:target="_blank"})
 
-For more information, please click [here](http://www.musikland-tirol.at/downloads/jahresprogramm-2013_web.pdf){:target="_blank"} (PDF; in German).
+For more information, please click [here](http://www.musikland-tirol.at/content/konzerte/2013/){:target="_blank"} (PDF; in German).
