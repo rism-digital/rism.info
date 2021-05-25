@@ -34,7 +34,7 @@ But in 2016—as in 2015—the post more often read than any other story, from a
 - [Listening test](https://www.facebook.com/RISM.info/posts/1339554582752049){:target="_blank"} to evaluate algorithms for the automatic generation of chorales in the style of Bach
 - [Christoph Wolff](https://www.facebook.com/RISM.info/posts/1194654977242011){:target="_blank"}, Bach scholar extraordinaire and RISM's honorary president, who was awarded the medal "Pour le Merité"
 - [How early music was printed using movable type](https://www.facebook.com/RISM.info/posts/1104831692891007){:target="_blank"} - featuring the Plantin workshop in Antwerp:
-<iframe src="https://player.vimeo.com/video/101737669" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FL8cAROIMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
 **RISM in publications**
