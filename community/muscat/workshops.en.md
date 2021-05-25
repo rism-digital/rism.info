@@ -134,7 +134,7 @@ RISM Workshop 2: Continuation\
 * October 17, 2017, [IAML Austria](https://www.iaml.at/) and the [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/), Salzburg and Vienna, Austria\
 *Dr. Ikarus Kaiser*
 
-* October 3-6, 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/), Morelia, Mexico\
+* October 3-6, 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/), Morelia, Mexico\
 *Jennifer Ward*
 
 * September 26-27, 2017, [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/), [Warsaw, Poland](https://www.facebook.com/RISM.info/posts/1798702750170561)\
@@ -144,7 +144,7 @@ RISM Workshop 2: Continuation\
 *Klaus Keil, Jennifer Ward*\
 [Slides](/resources-old-website/community-content/Muscat_EN/Workshop_slides_Riga_expanded_01.pdf)
 
-* June 19-23, 2017, [VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/blank-3), Goiânia, Goiás, Brazil\
+* June 19-23, 2017, [VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/2017), Goiânia, Goiás, Brazil\
 *André Guerra Cotta*
 
 * June 15, 2017, [Mark the Music course, Gothenburg, Sweden](http://www.smbf.nu/dok/Program.mark_the_music.pdf)\
