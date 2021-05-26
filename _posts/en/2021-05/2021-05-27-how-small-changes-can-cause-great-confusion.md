@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How Small Changes can cause Great Confusion"
-date: 2021-05-26
+title: "How Small Changes Can Cause Great Confusion"
+date: 2021-05-27
 lang: en
 post: true
 category: new_at_rism
@@ -24,11 +24,11 @@ Looking at these, one would think that the first book was published in 1672 and 
 
 {% include image file="/images/news/2021-05/musical_companion_part_1_website.jpg" %}  
 
-The title page of the first part is dated 1673 and the second 1672. Both parts are continuously paginated but only together do they comprise over 200 pages. The names of the composers and the number of their works also refers to the complete Musical Companion. Then why is there different information concerning these points in the B/I entries? There is no evidence for an earlier edition where both title pages would have been dated 1672 with a few pieces fewer. Cyrus Lawrence Day and Eleanor Boswell Murrie, who mention the case in their bibliography English Song-Books 1651–1702 ([RISM short title: DayS 1940](https://opac.rism.info/search?View=rism&q=lit1684){:blank}) and who examined numerous English copies, do not find conclusive evidence for such an edition.  
+The title page of the first part is dated 1673 and the second part is dated 1672. Both parts are continuously paginated, but only together do they comprise over 200 pages. The names of the composers and the number of their works also refers to the complete _Musical Companion_. Then why is there different information concerning these points in the B/I entries? There is no evidence for an earlier edition, where both title pages would have been dated 1672 with a few pieces fewer. Cyrus Lawrence Day and Eleanor Boswell Murrie, who mention the case in their bibliography _English Song-Books 1651–1702_ ([RISM short title: DayS 1940](https://opac.rism.info/search?View=rism&q=lit1684){:blank}) and who examined numerous English copies, do not find conclusive evidence for such an edition.  
 
 {% include image file="/images/news/2021-05/musical_companion_part_2_website.jpg" %}  
  
-Instead, the differences can be accounted for due to pages that were added later. In one case, a sheet was added entitled "An additional sheet to the book entituled, The Musical companion," which contains ten additional pieces and whose pages are numbered 1 to 8. In another case, in the second part, four pages with double numbering 113 to 116 were added between pages 112 and 113. They contain a complementary medius voice with a note, "The three former Italian Ayres originally were but of Two Parts; I have now by the request of a friend, added to them an inward Part to complete Harmony, as occasion requires." In addition, two further pieces are printed there. The difference, then, consists of twelve additional pages with twelve new pieces and three additional voices.  
+Instead, the differences can be accounted for due to pages that were added later. In one case, a sheet was added entitled "An additional sheet to the book entituled, The Musical companion," which contains ten additional pieces and whose pages are numbered 1 to 8. In another case, in the second part, four pages with double numbering 113 to 116 were added between pages 112 and 113. They contain a complementary medius part with a note reading, "The three former Italian Ayres originally were but of Two Parts; I have now by the request of a friend, added to them an inward Part to complete Harmony, as occasion requires." In addition, two further pieces are printed there. The difference, then, consists of twelve additional pages with twelve new pieces and three additional parts.  
 
 Thus, the two B/I entries do not represent two different anthologies or editions, but rather two different stages of the same print – with or without the additional sheets bound in. Among the copies known to us, there are some that have only one of the two additions. For this reason, a single record in RISM was made for 1672\|5 and 1673\|4 ([RISM ID no. 993121950](https://opac.rism.info/search?id=993121950&View=rism){:blank}) and we have tried to note, when possible, which additions are present. A note in the record also explains the situation.  
 
