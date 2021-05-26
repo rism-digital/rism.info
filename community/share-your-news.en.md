@@ -5,6 +5,8 @@ lang: en
 permalink: /community/share-your-news.html
 ---
 
+# Share Your News with RISM 
+
 {% include image file="/images/community/NewsBanner.png" pos="center" %}
 
 RISM contributors, musicologists, librarians, archivists, researchers: Share your news with RISM! 
