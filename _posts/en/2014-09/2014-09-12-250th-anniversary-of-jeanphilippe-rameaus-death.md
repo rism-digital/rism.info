@@ -21,14 +21,16 @@ The most recent publication about Ramau is: Graham Stadler, _The Rameau Compendi
 
 Additional events and information about this anniversary:
 
-[International Rameau Ensemble](http://rameau250.wordpress.com/){:target="_blank"}
+[International Rameau Ensemble](https://web.archive.org/web/20140601142803/http://rameau250.wordpress.com/){:target="_blank"}
 
-[International Anniversary Conference](http://www.torch.ox.ac.uk/rameau-conference){:target="_blank"} in Oxford from September 11 to 14, 2014
+[International Anniversary Conference](https://www.torch.ox.ac.uk/event/jean-philippe-rameau-international-anniversary-conference){:target="_blank"} in Oxford from September 11 to 14, 2014
 
-[The Rameau Project](http://www.music.ox.ac.uk/research/projects/oae-rameau/){:target="_blank"}
+[The Rameau Project](https://www.music.ox.ac.uk/research/projects/past-projects/oae-rameau/){:target="_blank"}
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/1zzbaABSpGQ" frameborder="0" allowfullscreen></iframe>
 
 
-Photo source: Bust of Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, France. Sculpture, terracotta, 75 cm. From [Friends of Art](http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau){:target="_blank"}
+Photo source: Bust of Jean-Philippe Rameau (1760), Musée des Beaux-Arts, Dijon, France. Sculpture, terracotta, 75 cm. From Friends of Art.  
+
+<!-- May 2021: Link broken, not on archive.org http://www.friendsofart.net/en/art/jean-jacques-caffieri/bust-of-jean-philippe-rameau -->
