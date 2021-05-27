@@ -719,7 +719,7 @@ Lisken-Pruss, Marion. "Pater Dariusz Smolarek erforscht geistliche Musik." _Rhei
 
 Martin, Cheryl. "CAML 2015 Annual Report: RISM Canada." _CAML Review_ 43:2 (August 2015): 18. [Available online](http://caml.journals.yorku.ca/index.php/caml/article/view/40226/36401){:target="_blank"}.
 
-Nägele, Reine. "FID Musikwissenschaft an der Bayerischen Staatsbibliothek." _Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2015/2): 10-13. [Available online](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/BM2015_2.pdf){:target="_blank"}.  
+Nägele, Reiner. "FID Musikwissenschaft an der Bayerischen Staatsbibliothek." _Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2015/2): 10-13. [Available online](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/BM2015_2.pdf){:target="_blank"}.  
   
 Pugin, Laurent and Rodolfo Zitellini. "Verovio: A Library for Typesetting MEI." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 136-141. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
   
