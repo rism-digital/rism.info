@@ -35,7 +35,7 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 ## Past interns  
 
 ### 2021
-Deanna Pellerano (United States) [Report](_new_at_rism/2021-05-25-my-rism-internship-a-new-cataloging-experience.html)
+Deanna Pellerano (United States) [Report](/new_at_rism/2021/05/25/my-rism-internship-a-new-cataloging-experience.html)
 
 #### 2020
 
