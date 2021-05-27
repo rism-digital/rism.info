@@ -123,7 +123,7 @@ Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 * 17\. Oktober 2017, [IAML Austria](https://www.iaml.at/){:target="_blank"} und [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/){:target="_blank"} Wien,\
 *Dr. Ikarus Kaiser*
 
-* 3\.-6\. Oktober 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/){:target="_blank"}, Morelia, Mexiko\
+* 3\.-6\. Oktober 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/){:target="_blank"}, Morelia, Mexiko\
 *Jennifer Ward*
 
 * 26\.-27\. September 2017, [Fryderyk Chopin Institut](http://en.chopin.nifc.pl/institute/){:target="_blank"}, [Warsaw, Polen](https://www.facebook.com/RISM.info/posts/1798702750170561){:target="_blank"}\
@@ -132,7 +132,7 @@ Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 * 20\. Juni 2017, [IAML Kongress in Riga, Latvia](https://iaml2017.lnb.lv/programme/20-june/){:target="_blank"}\
 *Klaus Keil, Jennifer Ward*
 
-* 19\.-23\. Juni 2017, [VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/blank-3){:target="_blank"}, Goiânia, Goiás, Brasilien\
+* 19\.-23\. Juni 2017, [VII Simpósio Internacional de Musicologia]((https://www.musicologiaemac.org/2017){:target="_blank"}, Goiânia, Goiás, Brasilien\
 *André Guerra Cotta*
 
 * 15\. Juni 2017, [Mark the Music course, Göteborg, Schweden](http://www.smbf.nu/dok/Program.mark_the_music.pdf){:target="_blank"}\
