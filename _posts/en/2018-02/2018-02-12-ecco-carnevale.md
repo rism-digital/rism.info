@@ -34,6 +34,6 @@ And finally, an example from the 20th century: even the famous Cologne _Karneval
 By the way, the _Ecco carnevale_ of this post's title is the name of a work by Pier Francesco Valentini (1586-1654; RISM ID no. [850015550](https://opac.rism.info/search?id=850015550&Language=en){:target="_blank"}).
 
 
-_Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
+_Image via [pixabay.com](https://pixabay.com/de/photos/karneval-fasching-fastnacht-250936/){:target="_blank"}_
 
 _Originally published 27 February 2017._

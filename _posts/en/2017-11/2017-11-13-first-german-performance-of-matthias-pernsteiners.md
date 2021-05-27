@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-On Sunday, 26 November 2017, a traditional church concert will take place at [St. Philippus' in Munich](http://www.pfarrverband-laim.de/st-philippus/aktuelles/details/article/st-philippus-traditionelles-kirchenkonzert-im-november.html){:target="_blank"} (Westendstr. 249, 80686 Munich).
+On Sunday, 26 November 2017, a traditional church concert will take place at [St. Philippus' in Munich](https://web.archive.org/web/20171028232415/http://www.pfarrverband-laim.de/st-philippus/aktuelles/details/article/st-philippus-traditionelles-kirchenkonzert-im-november.html){:target="_blank"} (Westendstr. 249, 80686 Munich).
 
 
 A highlight of the concert will be the first German performance of a mass in E-flat by Matthias Pernsteiner (1795-1851). From 1822 to 1823, Pernsteiner was the organist at Wilhering Abbey and later went to Salzburg and Tirol. The _Missa posta in musica_ is a large-scale work for chorus, vocal and instrumental soloists, orchestra, and organ and was [published last year in a modern edition](/new_publications/2016/10/24/new-music-edition-series-founded-at-wilhering.html){:target="_blank"} by our RISM colleague Dr. Stefan Ikarus Kaiser as part of the series "Geistliche Musik im Stift Wilhering" (Linz: [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"}). The work was dedicated to Wilhering Abbey's abbot at the time, Bruno Detterle (1759-1832).
