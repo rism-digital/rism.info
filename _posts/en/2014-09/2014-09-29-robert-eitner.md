@@ -13,7 +13,7 @@ author: ''
 
 _We are pleased to present the following article written by our intern, Martin Bierwisch:_
 
-Who hasn't heard of Robert Eitner (1832-1905)? If you are a musicologist, it's hard to avoid him and his _Biographisch-Bibliographisches Quellenlexikon_ (Bio-Bibliographical Source Lexicon). This work also happens to be [available online through the University of Zürich](http://www.musik.uzh.ch/de/aboutus/eitner-digital.html){:target="_blank"}.
+Who hasn't heard of Robert Eitner (1832-1905)? If you are a musicologist, it's hard to avoid him and his _Biographisch-Bibliographisches Quellenlexikon_ (Bio-Bibliographical Source Lexicon). This work also happens to be [available online through the University of Zürich](https://www.musik.uzh.ch/de/Research_BC/research/projects/eitner-digital.html){:target="_blank"}.
 
 But why does his name appear under "Origins" in the [RISM Wikipedia article](http://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}?
 
