@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-After more than five years of renovation, the [Margravial Opera House in Bayreuth](http://www.bayreuth-wilhelmine.de/englisch/opera/opening.htm){:target="_blank"} will reopen in a ceremony today (12 April). This Baroque opera house is one of a kind in the world, with a splendid wooden interior surrounded by tiered boxes, and has been a UNESCO World Heritage site since 2012.
+After more than five years of renovation, the [Margravial Opera House in Bayreuth](https://web.archive.org/web/20180324143819/http://www.bayreuth-wilhelmine.de/englisch/opera/opening.htm){:target="_blank"} will reopen in a ceremony today (12 April). This Baroque opera house is one of a kind in the world, with a splendid wooden interior surrounded by tiered boxes, and has been a UNESCO World Heritage site since 2012.
 
 The ceremony will be [streamed online here](http://www.br.de/franken){:target="_blank"}. Afterwards, the [Theaterakademie August Everding](http://www.theaterakademie.de){:target="_blank"}, together with the Bavarian Palace Department, will stage Johann Adolph Hasse's _Artaserse_. The performance of this _opera seria_ echoes the [opening of the opera house in 1748](/events/2016/07/25/the-margravial-opera-house-in-bayreuth.html?tx_ttnews%5Byear%5D=2016&tx_ttnews%5Bmonth%5D=07&cHash=d3538917207b0c9e3631c62db6e8939a){:target="_blank"} by Wilhelmine of Bayreuth (1709-1758). Wilhelmine, the sister of Frederick the Great, chose this work to inaugurate the new building, for which she then served as director.
 
