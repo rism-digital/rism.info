@@ -17,20 +17,16 @@ He was recognized for his contributions to research in the areas of the musical 
 
 Kirsch is a former president of the Hochschule and has cataloged the collections of around 100 libraries in Franconia for RISM. His publications on musical sources from this region include:
 
--
+- “Zur Tradition einer Choral-Passion nach Matthäus in Franken,” _Kirchenmusikalisches Jahrbuch_ 92 (2008): 83-103.
 
-“Zur Tradition einer Choral-Passion nach Matthäus in Franken,” _Kirchenmusikalisches Jahrbuch_ 92 (2008): 83-103.
+- “Georg Valentin Röder (1776-1848). Königlich bayerischer Hofmusik-Direktor und Komponist,” in _Fränkische Lebensbilder: neue Folge der Lebensläufe aus Franken_, ed. Erich Schneider (Neustadt an der Aisch, 2004): 189-221.
 
--
-
-“Georg Valentin Röder (1776-1848). Königlich bayerischer Hofmusik-Direktor und Komponist,” in _Fränkische Lebensbilder: neue Folge der Lebensläufe aus Franken_, ed. Erich Schneider (Neustadt an der Aisch, 2004): 189-221.
-
--
-
-“Musik für Mandora in der Universitätsbibliothek Eichstätt,” _Sammelblatt des Historischen Vereins Eichstätt_ 86 (1993): 85-102
+- “Musik für Mandora in der Universitätsbibliothek Eichstätt,” _Sammelblatt des Historischen Vereins Eichstätt_ 86 (1993): 85-102
 
 - “Zur Geschichte der Würzburger Hofmusik im 19. Jahrhundert,” _Mainfränkisches Jahrbuch für Geschichte und Kust: Archiv des Historischen Vereins für Unterfranken und Aschaffenburg_ 48 (1996): 199-232.
 
 Please join us in congratulating Prof. Kirsch!
 
-Photo credit: [Hochschule für Musik Würzburg](http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html){:target="_blank"}
+Photo credit: [Hochschule für Musik Würzburg](https://www.hfm-wuerzburg.de/ueber-uns/ehrungen){:target="_blank"}
+
+<!-- May 2021: Link not available, not archived http://www.hfm-wuerzburg.de/home/news/verleihung-der-ehrendoktorwuerde.html -->
