@@ -18,6 +18,6 @@ Biographical information about Schreivogel is thin, but he might have been born 
 Four of the SLUB's Schreivogel manuscripts are online--see the RISM database for the links--so if you are curious you can examine the music to investigate his musical style, which has noticeable echoes of Vivaldi.
 
 The full article can be found in:
-Michael Talbot, "Certainly Milanese, possibly Swiss: the violinist and composer Johann Friedrich Schreivogel (fl. 1707–1749)." _[Schweizer Jahrbuch für Musikwissenschaft](http://www.smg-ssm.ch/smg/Forschung-Publikationen/Editionen/Jahrbuch.html){:target="_blank"}_ 34/35 (2014/2015): 41-68.
+Michael Talbot, "Certainly Milanese, possibly Swiss: the violinist and composer Johann Friedrich Schreivogel (fl. 1707–1749)." _[Schweizer Jahrbuch für Musikwissenschaft](https://www.smg-ssm.ch/smg-ssm/publikationen/publikationen/schweizer-jahrbuch-fuer-musikwissenschaft/){:target="_blank"}_ 34/35 (2014/2015): 41-68.
 
-_Image_: Attribution to Schreivogel on a manuscript: _del Sig. Giov Federico | Schraifoghel detto | il Tedeschino_. Concerto in D minor, held at the SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076&Language=en){:target="_blank"}).
+_Image_: Attribution to Schreivogel on a manuscript: _del Sig. Giov Federico \| Schraifoghel detto \| il Tedeschino_. Concerto in D minor, held at the SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076&Language=en){:target="_blank"}).
