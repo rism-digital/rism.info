@@ -15,4 +15,4 @@ The RISM Central Office wishes you and your family all the best for a festive ho
 
 Our office will be closed beginning December 23 and will reopen January 2, 2020.
 
-_Image: Prague Winter night, from[pixabay.com](https://pixabay.com/de/photos/prag-praha-winter-nacht-3010407/){:target="_blank"}_
+_Image: Prague Winter night, from [pixabay.com](https://pixabay.com/de/photos/prag-praha-winter-nacht-3010407/){:target="_blank"}_
