@@ -19,6 +19,6 @@ Similar projects have also been carried out in Germany with digital collections 
 
 Please [contact us](http://contact@rism.info/){:target="_blank"} if you would also like to use RISM records from your institution for projects such as digital collections, collection catalogs, or online databases.
 
-\*Update, October 2014: When the[Juilliard Manuscript Collection](http://juilliardmanuscriptcollection.org%E2%80%8B/){:target="_blank"} was cataloged by the US RISM office in 2008-2010, they sent the RISM records toJuilliardas they completed themso that they could be incorporated into the online catalog of the collection.
+\*Update, October 2014: When the [Juilliard Manuscript Collection](https://juilliardmanuscriptcollection.org/){:target="_blank"} was cataloged by the US RISM office in 2008-2010, they sent the RISM records to Juilliard as they completed themso that they could be incorporated into the online catalog of the collection.
 
 (Image courtesy of University of Washington Libraries. Used by permission.)
