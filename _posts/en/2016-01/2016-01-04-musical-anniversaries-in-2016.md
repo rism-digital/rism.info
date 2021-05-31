@@ -43,7 +43,7 @@ Other anniversaries worth noting are:[
 - [Marie Wieck](https://opac.rism.info/metaopac/search?View=rism&q=117346748){:target="_blank"} (1832-1916), German composer and pianist
 - [Cordula Wöhler](https://opac.rism.info/metaopac/search?View=rism&q=136125425){:target="_blank"} (1845-1916), German poet
 
-We trawled the database for people who were born or died in a year ending in 16 or 66. Below, we present names from [Luigi **A** bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) to [**Z** ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (ahem, Sigismund III of Poland; 1566-1632). Chronologically speaking, this covers the 800th anniversary of Pope Innocent III's death (ca. 1160-1216), whose words were used in the hymn [_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"}, to the 50th anniversary of tenor Fritz Wunderlich's death (1930-1966), whose waltz [_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"} is in RISM.
+We trawled the database for people who were born or died in a year ending in 16 or 66. Below, we present names from [Luigi **A**bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) to [**Z**ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (ahem, Sigismund III of Poland; 1566-1632). Chronologically speaking, this covers the 800th anniversary of Pope Innocent III's death (ca. 1160-1216), whose words were used in the hymn [_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"}, to the 50th anniversary of tenor Fritz Wunderlich's death (1930-1966), whose waltz [_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"} is in RISM.
 
 **Born in xx16 or xx66 (click on any heading to sort):**
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+19kiz0pEuED6QYnobzo35iN9X-kjDLEX29Nxbb77Q&amp;containerId=googft-gviz-canvas"></iframe>
@@ -57,4 +57,4 @@ p = after
 m = male
 w / f = female**
 
-_Image from [pixabay.com](https://pixabay.com/de/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
+_Image from [pixabay.com](https://pixabay.com/de/illustrations/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
