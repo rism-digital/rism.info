@@ -15,7 +15,7 @@ Am heutigen Rosenmontag machen wir einen Karnevalsspaziergang durch die Jahrhund
 
 Karneval wird schon seit Jahrhunderten und in vielen Ländern und Regionen ganz unterschiedlich gefeiert. Für Opernaufführungen war der Karneval seit dem 17. Jahrhundert die wichtigste Zeit des Jahres und dauerte vom 26. Dezember bis zum Tag vor Aschermittwoch. Der RISM Online-Katalog bietet zahlreiche Belege dafür, von denen wir Ihnen heute einige - recht wahllos ausgesuchte - vorstellen möchten.
 
-Bereits im 16. Jahrhundert komponierte und publizierte Giovanni Croce (1557-1609) die Canzonetten _Mascarate piacevole et ridicolose, per il carnevale, a 4. 5. 6. 7. & otto voci ... libro primo_ (Venidig 1590), die heute leider nur noch unvollständig überliefert sind (RISM ID no. [9900011825](https://opac.rism.info/search?id=00000990011825){:target="_blank"}).
+Bereits im 16. Jahrhundert komponierte und publizierte Giovanni Croce (1557-1609) die Canzonetten _Mascarate piacevole et ridicolose, per il carnevale, a 4. 5. 6. 7. & otto voci ... libro primo_ (Venidig 1590), die heute leider nur noch unvollständig überliefert sind (RISM ID no. [9900011825](https://opac.rism.info/search?id=990011825){:target="_blank"}).
 
 Die Oper _Giasone_ (Venedig 1649) von Francesco Cavalli (1602-1676) gehört zu den meistgespielten Opern des 17. Jahrhunderts und darf in dieser Liste nicht fehlen ([RISM ID no. 850003998](https://opac.rism.info/search?id=850003998){:target="_blank"}).
 
@@ -34,4 +34,4 @@ Und zu guter Letzt noch ein Beispiel aus dem 20. Jahrhundert, denn auch der beka
 Nachtrag zur Überschrift: _Ecco carnevale_ stammt übrigens von Pier Francesco Valentini (1586-1654; RISM ID no. [850015550](https://opac.rism.info/search?id=850015550){:target="_blank"}).
 
 
-_Image via [pixabay.com](https://pixabay.com/de/karneval-fasching-fastnacht-250936/){:target="_blank"}_
+_Image via [pixabay.com](https://pixabay.com/de/photos/karneval-fasching-fastnacht-250936){:target="_blank"}_
