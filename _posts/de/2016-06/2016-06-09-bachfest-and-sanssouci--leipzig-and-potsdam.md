@@ -11,11 +11,11 @@ email: ''
 author: ''
 ---
 
-Das [Bachfest](http://www.bachfestleipzig.de/en/bachfest){:target="_blank"} in der Stadt Leipzig fand erstmals 1908 statt. Seit 1999 wird es jährlich ausgerichtet und immer mit einem anderen Motto versehen. Dieses Jahr geht es vom 10. bis 19. Juni um die „Geheimnisse der Harmonie“ ([Programm als PDF](http://www.bachfestleipzig.de/sites/default/files/files/Bachfest2016_Programm.pdf){:target="_blank"}).
+Das [Bachfest](https://web.archive.org/web/20160122134107/http://www.bachfestleipzig.de/sites/default/files/files/Bachfest2016_Programm.pdf){:target="_blank"} in der Stadt Leipzig fand erstmals 1908 statt. Seit 1999 wird es jährlich ausgerichtet und immer mit einem anderen Motto versehen. Dieses Jahr geht es vom 10. bis 19. Juni um die „Geheimnisse der Harmonie“ ([Programm als PDF](http://www.bachfestleipzig.de/sites/default/files/files/Bachfest2016_Programm.pdf){:target="_blank"}).
 
 Über 100 Veranstaltungen finden an mehr als 30 Orten statt. Neu ist dieses Jahr die Einführung eines „Kantatentages“. Am 18. Juni erklingen zehn Kantaten aus dem Jahrgang 1723/24. Außerdem werden unterschiedliche Versionen berühmter Bachwerke dargeboten. Die Matthäus- und auch die Markus-Passion sowie die Kantate „Ich hatte viel Bekümmernis“ werden in verschiedenen Fassungen vorgestellt.
 
-Anläßlich des 100. Todestages von Max Reger sind auch viele seiner Werke ins[Programm des Bachfestes](http://www.bachfestleipzig.de/en/bach-festival/works-max-reger-2016-bach-festival){:target="_blank"} aufgenommen worden, da sie eng mit der Bach-Rezeption verbunden sind.
+Anläßlich des 100. Todestages von Max Reger sind auch viele seiner Werke ins [Programm des Bachfestes](https://web.archive.org/web/20151025003810/http://www.bachfestleipzig.de/en/bach-festival/works-max-reger-2016-bach-festival){:target="_blank"} aufgenommen worden, da sie eng mit der Bach-Rezeption verbunden sind.
 
 Der RISM Online-Katalog hat über [6.000 Nachweise](https://opac.rism.info/search?View=rism&author=11850553X){:target="_blank"} zu Johann Sebastian Bach mit über 1.300 Digitalisaten – das sind mehr als 20% - zu bieten!
 
@@ -30,5 +30,3 @@ Bereits ausverkauft ist das beliebte [Fahrrad-Konzert](http://www.musikfestspiel
 Es gibt [zehn Nachweise](https://opac.rism.info/search?View=rism&q=sanssouci){:target="_blank"} im RISM Online-Katalog zum Stichwort „Sanssouci“. Der preußische König Friedrich der Große (1712-1786) ist mit vielfältigen Funktionen [360 Mal](https://opac.rism.info/search?View=rism&q=134378261){:target="_blank"} im Online-Katalog vertreten. Alleine 121 Mal als Komponist, aber auch als Textdichter, Schreiber (seiner eigenen Werke), Vorbesitzer und Widmungsträger.
 
 _Abbildung_: Friedrich der Große, Konzert für 2 Flöten und Cembalo D-Dur, Darmstadt, Universitäts- und Landesbibliothek, Musikabteilung (D-DS) Mus. ms. 320 (RISM ID no. [450001960](https://opac.rism.info/search?id=450001960){:target="_blank"}).
-
-###teilen###
