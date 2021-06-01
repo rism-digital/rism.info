@@ -21,4 +21,6 @@ Alle Manuskripte sind bei RISM verzeichnet. Die RISM-Zentralredaktion bietet die
 
 Wenn Sie auch RISM-Daten aus Ihrer Institution im Rahmen von ähnlichen Projekten, digitale Sammlungen, Buchkataloge oder eigene Online-Kataloge nutzen wollen, [nehmen Sie Kontakt auf](mailto:contact@rism.info).
 
+*\Update, Oktober 2014: Als die [Juilliard Manuscript Collection](https://juilliardmanuscriptcollection.org/){:target="_blank"} in den Jahren 2008-2010 durch die amerikanische RISM-Arbeitsgruppe katalogisiert wurde, schickte man die RISM-Datensätze nach ihrer Fertigstellung an Juilliard, damit sie in den Online-Katalog der Sammlung aufgenommen werden konnten.
+
 (Bild: University of Washington Libraries. Nutzung mit freundlicher Genehmigung.)
