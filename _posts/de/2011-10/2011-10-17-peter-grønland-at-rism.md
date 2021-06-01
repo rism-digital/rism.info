@@ -22,7 +22,7 @@ Weyse charakterisierte Grønland in seiner Autobiographie: “Ohne eigentlich Mu
 
 **Grønland Online**
 
-[Heidenröslein](http://www.ericsams.org/score/composer/g/groenland/groenland.html){:target="_blank"}, Textdichter: Goethe. Partitur mit Musik.
+"[Heidenröslein](){:target="_blank"}", Textdichter: Goethe. Partitur mit Musik.
 
 "[O, stjerne, hav tak](http://www.ugle.dk/o_stjerne_hav_tak.html){:target="_blank"}," Textdichter: Johan Ludvig Heiberg. Text mit Musik.
 
