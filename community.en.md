@@ -8,6 +8,8 @@ old_url: http://www.rism.info/en/community.html
 
 # Welcome to the RISM Community!
 
+This is an example of an edit that we want to batch.
+
 The RISM Community is the place where contributors and other interested individuals can come together to exchange ideas and information. 
 
 {% include image file="/images/community/Community572x300.png" pos="center" %}
