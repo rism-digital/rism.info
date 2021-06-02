@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Nach über fünf Jahren Sanierung wird heute (12. April) das [Markgräfliche Opernhaus in Bayreuth](http://www.bayreuth-wilhelmine.de/deutsch/opernh/index.htm){:target="_blank"} mit einem Festakt wieder eröffnet. Das weltweit einzigartige, holzgefertigte Logentheater steht seit 2012 auf der Liste des UNESCO-Weltkulturerbes.
+Nach über fünf Jahren Sanierung wird heute (12. April) das [Markgräfliche Opernhaus in Bayreuth](https://web.archive.org/web/20180324143819/http://www.bayreuth-wilhelmine.de/englisch/opera/opening.htm){:target="_blank"} mit einem Festakt wieder eröffnet. Das weltweit einzigartige, holzgefertigte Logentheater steht seit 2012 auf der Liste des UNESCO-Weltkulturerbes.
 
 Der Festakt kann über [Video-Livestream](http://www.br.de/franken){:target="_blank"} verfolgt werden. Anschließend bringt die Theaterakademie August Everding mit der Bayerischen Schlösserverwaltung Johann Adolph Hasses _Artaserse_ auf die Bühne. Mit der Aufführung der Opera seria wird an die [Eröffnung des Opernhauses](/events/2016/07/25/the-margravial-opera-house-in-bayreuth.html?tx_ttnews%5Byear%5D=2016&tx_ttnews%5Bmonth%5D=07&cHash=d3538917207b0c9e3631c62db6e8939a){:target="_blank"} in Bayreuth im Jahre 1748 durch Markgräfin Wilhelmine (1709-1758) angeknüpft. Die Schwester Friedrichs des Großen wählte dieses Werk für die Einweihungsfeierlichkeiten des von ihr mit Nachdruck betriebenen Neubaus.
 

@@ -23,9 +23,9 @@ Additional events and information about this anniversary:
 
 [International Rameau Ensemble](https://web.archive.org/web/20140601142803/http://rameau250.wordpress.com/){:target="_blank"}
 
-[International Anniversary Conference](http://www.torch.ox.ac.uk/rameau-conference){:target="_blank"} in Oxford from September 11 to 14, 2014
+[International Anniversary Conference](https://www.torch.ox.ac.uk/event/jean-philippe-rameau-international-anniversary-conference){:target="_blank"} in Oxford from September 11 to 14, 2014
 
-[The Rameau Project](http://www.music.ox.ac.uk/research/projects/oae-rameau/){:target="_blank"}
+[The Rameau Project](https://www.music.ox.ac.uk/research/projects/past-projects/oae-rameau/){:target="_blank"}
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/1zzbaABSpGQ" frameborder="0" allowfullscreen></iframe>

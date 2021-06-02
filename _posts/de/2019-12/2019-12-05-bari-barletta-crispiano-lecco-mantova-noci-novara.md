@@ -16,14 +16,23 @@ Mit der letzten Aktualisierung des RISM-Katalogs sind weitere Daten zu Musikhand
 Die Bestände folgender Bibliotheken sind nun im RISM-Katalog freigeschaltet:
 
 I-BAibimus ([19 Titel](https://opac.rism.info/search?View=rism&siglum=I-BAibimus){:target="_blank"})
+
 I-BARas ([33 Titel](https://opac.rism.info/search?View=rism&siglum=I-BARas){:target="_blank"})
+
 I-CRIc ([20 Titel](https://opac.rism.info/search?View=rism&siglum=I-CRIc){:target="_blank"})
+
 I-LECc ([25 Titel](https://opac.rism.info/search?View=rism&siglum=I-LECc){:target="_blank"})
+
 I-MAc ([27 Titel](https://opac.rism.info/search?View=rism&siglum=I-MAc){:target="_blank"}, hierzu gab es bereits einige Musikdrucke in der RISM-Datenbank)
+
 I-NOCc ([22 Titel](https://opac.rism.info/search?View=rism&siglum=I-NOCc){:target="_blank"})
+
 I-NOVcon ([232 Titel](https://opac.rism.info/search?View=rism&siglum=I-NOVcon){:target="_blank"})
+
 I-SSOsp ([25 Titel](https://opac.rism.info/search?View=rism&siglum=I-SSOsp){:target="_blank"})
+
 I-VCa ([25 Titel](https://opac.rism.info/search?View=rism&siglum=I-VCa){:target="_blank"})
+
 
 Der Bestand aus der [Biblioteca del Conservatorio statale di musica Guido Cantelli Novara](https://consno.it/biblioteca/){:target="_blank"} (I-NOVcon) umfasst Musikalien vieler zeitgenössische Komponistinnen. Die überwiegend in Autographen überlieferten Werke weisen meist eine kleine bzw. kammermusikalische Besetzung auf. Besonders hervorzuheben sind die zahlreichen Kompositionen von Violeta Dinescu (1953\*).
 

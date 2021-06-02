@@ -15,4 +15,4 @@ This week, our Polish colleagues are celebrating the 50th anniversary of [IAML P
 
 To the next 50 years!
 
-Guido Kraus and the RISM director Klaus Keil have posted their congratulations on the [IAML website](http://www.iaml.info/en/node/1168/){:target="_blank"}.
+Guido Kraus and the RISM director Klaus Keil have posted their congratulations on the [IAML website](https://www.iaml.info/news/rism-congratulates-iaml-poland){:target="_blank"}.
