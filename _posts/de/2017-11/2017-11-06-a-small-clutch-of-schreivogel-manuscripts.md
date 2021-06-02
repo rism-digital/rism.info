@@ -18,6 +18,6 @@ Biografische Angaben zu Schreivogel sind spärlich, vermutlich wurde er in der S
 Vier der in der SLUB aufbewahrten Handschriften Schreivogels sind online - siehe die Links im RISM Online-Katalog - wenn SIe also neugierig geworden sind, können die Werke ansehen und seinen deutlich an Vivaldi orientierten Musikstil untersuchen.
 
 Den ganzen Aufsatz finden Sie in:
-Michael Talbot, Certainly Milanese, possibly Swiss: the violinist and composer Johann Friedrich Schreivogel (fl. 1707–1749), in: _[Schweizer Jahrbuch für Musikwissenschaft](http://www.smg-ssm.ch/smg/Forschung-Publikationen/Editionen/Jahrbuch.html){:target="_blank"}_ 34/35 (2014/2015), S. 41-68.
+Michael Talbot, Certainly Milanese, possibly Swiss: the violinist and composer Johann Friedrich Schreivogel (fl. 1707–1749), in: _[Schweizer Jahrbuch für Musikwissenschaft](https://www.smg-ssm.ch/smg-ssm/publikationen/publikationen/schweizer-jahrbuch-fuer-musikwissenschaft/){:target="_blank"}_ 34/35 (2014/2015), S. 41-68.
 
-_Abbildung_: Zuschreibung an Schreivogel auf dem Manuskript: _del Sig. Giov Federico | Schraifoghel detto | il Tedeschino_. Konzert d-Moll in der SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076){:target="_blank"}).
+_Abbildung_: Zuschreibung an Schreivogel auf dem Manuskript: _del Sig. Giov Federico \| Schraifoghel detto \| il Tedeschino_. Konzert d-Moll in der SLUB Dresden. D-Dl [Mus.2808-O-2](http://digital.slub-dresden.de/ppn314935770){:target="_blank"} (RISM ID no. [212003076](https://opac.rism.info/search?id=212003076){:target="_blank"}).

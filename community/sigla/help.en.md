@@ -64,7 +64,7 @@ You can search multiple indexed fields at once by selecting **All** and entering
 
 Example:
 
-* The search **name=Bach AND country=Germany** will find all sigla with the word “Bach” in the name that are in the United States.  
+* The search **name=Bach AND country=Germany** will find all sigla with the word “Bach” in the name that are in Germany.  
 You can use the country names as they appear in the siglum entries, with the following exceptions:  
 For Russia, search using Russian Federation  
 For the United Kingdom, use UK  

@@ -45,7 +45,7 @@ Einige weitere Jubilare sind:
 - [Marie Wieck](https://opac.rism.info/metaopac/search?View=rism&q=117346748){:target="_blank"} (1832-1916), Komponistin und Pianistin
 - [Cordula Wöhler](https://opac.rism.info/metaopac/search?View=rism&q=136125425){:target="_blank"} (1845-1916), Dichterin
 
-Wir haben die Datenbank nach Personen durchsucht, die im Geburts- oder Sterbejahr die Endziffern 16 oder 66 aufweisen. Weiter unten zeigen wir Ihnen Namen von[Luigi **A** bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) bis [**Z** ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (auch Sigismund III von Polen; 1566-1632). Die Zeitspanne reicht vom 800. Todestag von Papst Innocenz III. (ca. 1160-1216) – Textverfasser des Hymnus[_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"} – bis hin zum Tenor Fritz Wunderlich (50. Todestag), der bei RISM mit seinem Walzer „[_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"}“ vertreten ist.
+Wir haben die Datenbank nach Personen durchsucht, die im Geburts- oder Sterbejahr die Endziffern 16 oder 66 aufweisen. Weiter unten zeigen wir Ihnen Namen von [Luigi **A**bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) bis [**Z**ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (auch Sigismund III von Polen; 1566-1632). Die Zeitspanne reicht vom 800. Todestag von Papst Innocenz III. (ca. 1160-1216) – Textverfasser des Hymnus [_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"} – bis hin zum Tenor Fritz Wunderlich (50. Todestag), der bei RISM mit seinem Walzer „[_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"}“ vertreten ist.
 
 
 **Geboren in xx16 oder xx66 (zum Sortieren Überschrift anklicken):**
@@ -62,4 +62,4 @@ p = nach
 m = männlich
 w / f = weiblich**
 
-_Bildnachweis:[pixabay.com](https://pixabay.com/de/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}._
+_Bildnachweis_: [pixabay.com](https://pixabay.com/de/illustrations/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}.

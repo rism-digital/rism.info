@@ -13,7 +13,7 @@ author: ''
 
 As we mark the 280<sup>th</sup> anniversary of the birth of Croatian composer Luka Sorgo (1734-1789), Vjera Katalinić, the director of RISM Croatia, has published a new book about this family of musicians:
 
-Vjera Katalinić: Sorkočevići, dubrovački plemići i diplomati (The Sorkočevićes, Aristocratic Musicians from Dubrovnik). [Zagreb: Muzički informativni centar, 2014](http://mic.hr/products/the-sorkocevices-aristocratic-musicians-from-dubrovnik-book-and-cd){:target="_blank"}.
+Vjera Katalinić: _Sorkočevići, dubrovački plemići i diplomati_ (The Sorkočevićes, Aristocratic Musicians from Dubrovnik). Zagreb: Muzički informativni centar, 2014.
 
 The book “covers and brings together previous research into the careers in music of Luka and Antun Sorgo (and one chapter is devoted to an associate member of the family, shown to have been 'the first Croatian woman composer', Jelena Pozza-Sorgo/Pucić-Sorkočević). At the same time, their work has been placed in the context of the happenings of the time, their primary occupations, and the domestic and international forces that affected them from the musical point of view.”
 

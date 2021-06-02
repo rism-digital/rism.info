@@ -21,9 +21,9 @@ RISM A/I: C 2 (4 locations)
 A/I: C 3 (6 copies)
 
 
-A [digitized copy](http://imslp.org/wiki/Primo_Libro_della_Musiche_%28Caccini,_Francesca%29){:target="_blank"} of the _Primo Libro_ held by the Biblioteca Estense in Modena (I-MOe) can be found on IMSLP.
+A [digitized copy](https://imslp.org/wiki/Primo_Libro_della_Musiche_%28Caccini,_Francesca%29){:target="_blank"} of the _Primo Libro_ held by the Biblioteca Estense in Modena (I-MOe) can be found on IMSLP.
 
-The RISM online database lists [seven excerpts from](https://opac.rism.info/search?View=rism&q=liberazione "external-link-new-window")_[La liberazione](https://opac.rism.info/search?View=rism&q=liberazione "external-link-new-window")_ that are preserved in Rome. These copies date from the late nineteenth century and early twentieth century. For two choruses, "[O bei pensieri volate](http://opac.rism.info/search?id=853000787&db=251&View=rism){:target="_blank"}" and "[Tosche del sol più belle tosche](http://opac.rism.info/search?id=853002122&db=251&View=rism){:target="_blank"}," no fewer than 109 parts exist. They are preserved in a collection along with excerpts from operas by Cherubini, Gluck, and Rossini. This gives you an idea of how the choruses might have been performed in the hands of their previous owners at the Società Musicale Romana.
+The RISM online database lists [seven excerpts from](https://opac.rism.info/search?View=rism&q=liberazione "external-link-new-window") _[La liberazione](https://opac.rism.info/search?View=rism&q=liberazione "external-link-new-window")_ that are preserved in Rome. These copies date from the late nineteenth century and early twentieth century. For two choruses, "[O bei pensieri volate](http://opac.rism.info/search?id=853000787&db=251&View=rism){:target="_blank"}" and "[Tosche del sol più belle tosche](http://opac.rism.info/search?id=853002122&db=251&View=rism){:target="_blank"}," no fewer than 109 parts exist. They are preserved in a collection along with excerpts from operas by Cherubini, Gluck, and Rossini. This gives you an idea of how the choruses might have been performed in the hands of their previous owners at the Società Musicale Romana.
 
 Below are highlights of a performance of _La liberazione_ from the Australian premiere in 2012.
 

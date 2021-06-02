@@ -18,7 +18,7 @@ Als Beispiel sei die Suche nach Johann Bach (1604-1673) genannt. Suchen Sie schl
 
 Insgesamt gibt es bei RISM 30 verschiedene Johann Bach, von 19 sind Kompositionen nachgewiesen.
 
-Der beste Weg, um eine bestimmte Person zu suchen (oder auf sie zu verlinken) ist die Verwendung der sogenannten [GND Nummer](http://www.dnb.de/EN/Standardisierung/GND/gnd.html){:target="_blank"} (GND = Gemeinsame Normdatei). Diese Nummer dient der Deutschen Nationalbibliothek, um Personen (und andere Normdateien) eindeutig zu bestimmen. Dass wir als internationales Projekt die Normdatei der deutschen Nationalbibliothek verwenden, hat technische Gründe; längerfristig planen wir eine bessere Vernetzung mit der virtuellen internationalen Normdatei [VIAF (Virtual International Authority File](http://viaf.org/){:target="_blank"}).
+Der beste Weg, um eine bestimmte Person zu suchen (oder auf sie zu verlinken) ist die Verwendung der sogenannten [GND Nummer](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html){:target="_blank"} (GND = Gemeinsame Normdatei). Diese Nummer dient der Deutschen Nationalbibliothek, um Personen (und andere Normdateien) eindeutig zu bestimmen. Dass wir als internationales Projekt die Normdatei der deutschen Nationalbibliothek verwenden, hat technische Gründe; längerfristig planen wir eine bessere Vernetzung mit der virtuellen internationalen Normdatei [VIAF (Virtual International Authority File](http://viaf.org/){:target="_blank"}).
 
 Um nun nach Johann Bach (1604-1673) zu suchen, können Sie einfach nach der GND-Nummer 123841690 suchen. Die GND-Nummer können Sie über die Seite der [DNB](https://portal.dnb.de/opac.htm?method=showOptions#top){:target="_blank"} oder der [VIAF](http://viaf.org/){:target="_blank"} herausfinden. Wir planen außerdem eine Veröffentlichung unserer Personen-Normdatei als Datenbank - analog zum Katalog der RISM-Bibliotheks-Sigel.
 
@@ -48,10 +48,6 @@ Bach, Johann Christoph (1642-1703)
 [https://opac.rism.info/metaopac/search?View=rism&author=120327112](https://opac.rism.info/metaopac/search?View=rism&author=120327112)
 
 Bach, Johann Christoph (1782-1846)
-In RISM, aber bisher nicht in der GND!
-
-In RISM, aber bisher nicht in der GND!
-
 In RISM, aber bisher nicht in der GND!
 
 Bach, Johann Christoph Friedrich (1732-1795)

@@ -7,7 +7,7 @@ permalink: /community/muscat/workshops.html
 
 # Workshops
 
-Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give online Muscat demonstrations through Skype. 
+Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give Muscat demonstrations online. 
 
 Access to a training server is available for use in demonstrations, at conferences, or in workshops.
 
@@ -15,7 +15,20 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops
 
-_Please write to contact@rism.info if you would like to receive an email once dates are determined._
+22 and 24 June 2021: 
+Two-part Muscat introduction in English and German, online  
+
+* **RISM Workshop 1: Muscat basics**  
+Tuesday, June 22, 2021  
+7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)   
+In this workshop Muscat will be demonstrated and participants will learn how to catalog a music manuscript.
+
+* **RISM Workshop 2: Continuation**  
+Thursday, June 24, 2021  
+7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)  
+This course will continue the skills learned in Tuesday’s session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Tuesday session or participation in a previous Muscat workshop.
+
+Space is limited. To register, email [contact@rism.info](mailto:contact@rism.info){:blank}. 
 
 
 
@@ -121,7 +134,7 @@ RISM Workshop 2: Continuation\
 * October 17, 2017, [IAML Austria](https://www.iaml.at/) and the [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/), Salzburg and Vienna, Austria\
 *Dr. Ikarus Kaiser*
 
-* October 3-6, 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/), Morelia, Mexico\
+* October 3-6, 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/), Morelia, Mexico\
 *Jennifer Ward*
 
 * September 26-27, 2017, [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/), [Warsaw, Poland](https://www.facebook.com/RISM.info/posts/1798702750170561)\
@@ -131,7 +144,7 @@ RISM Workshop 2: Continuation\
 *Klaus Keil, Jennifer Ward*\
 [Slides](/resources-old-website/community-content/Muscat_EN/Workshop_slides_Riga_expanded_01.pdf)
 
-* June 19-23, 2017, [VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/blank-3), Goiânia, Goiás, Brazil\
+* June 19-23, 2017, [VII Simpósio Internacional de Musicologia](https://www.musicologiaemac.org/2017), Goiânia, Goiás, Brazil\
 *André Guerra Cotta*
 
 * June 15, 2017, [Mark the Music course, Gothenburg, Sweden](http://www.smbf.nu/dok/Program.mark_the_music.pdf)\
