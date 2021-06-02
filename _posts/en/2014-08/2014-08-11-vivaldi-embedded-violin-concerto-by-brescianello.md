@@ -26,11 +26,11 @@ Talbot has now succeeded in identifying the divergent movement from Mus.2364-O-7
 In the next issue of ["Studi vivaldiani,"](http://slubdd.de/katalog?TN_libero_mab213681701) the yearbook of the Istituto Italiano Antonio Vivaldi in Venice, Michael Talbot will personally report on his discovery in more detail. To conclude, we might emphasize how easy this discovery was for him. While searching for concordances in Vivaldi's oeuvre, Talbot entered the beginning notes of the "Il Carbonelli" Adagio using the on-screen keyboard of the [RISM online catalog](http://opac.rism.info/) found under Advanced Search. This worldwide music manuscript database is also “fed” by the SLUB (library siglum: D-Dl):
 
 
-![Vivaldi_incipit_in_RISM_catalog](http://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2C.png.png)
+![Vivaldi_incipit_in_RISM_catalog](https://blog.slub-dresden.de/fileadmin/_processed_/1/c/csm_rism2C_de81dcba9c.png)
 
 To Talbot's surprise, the search results not only included the SLUB's two "Il Carbonelli" manuscripts, but also the Brescianello manuscript Mus.2364-O-7. The variant middle movement was thus conclusively identified.
 
-![Vivaldi_search_results](http://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2B_01.png.png)
+![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_processed_/f/4/csm_rism2B_d20ea84733.png)
 
 The discovery compellingly demonstrates what a powerful search tool the RISM online catalog is, whose incipit search is even capable of tracking down transposed themes without any effort.
 

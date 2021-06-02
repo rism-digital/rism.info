@@ -4,14 +4,14 @@ title: Das Jacques Offenbach Jahr – Klischees und Legenden
 date: 2019-06-19
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Offenbach_-_Cover_a84006ab7c.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/the-jacques-offenbach-year-cliches-and-legends.html
 email: Ralf-Olivier.Schwarz@hfmdk-frankfurt.de
 author: Dr. Ralf-Olivier Schwarz
 ---
 
-_Gastbeitrag von Dr. Ralf-Olivier Schwarz (Hochschule für Musik und Darstellende Kunst Frankfurt am Main), Autor des neuen Buchs[**Jacques Offenbach – ein europäisches Porträt**](https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/52007/jacques-offenbach) (Böhlau: Köln and Wien, 2018)._
+_Gastbeitrag von Dr. Ralf-Olivier Schwarz (Hochschule für Musik und Darstellende Kunst Frankfurt am Main), Autor des neuen Buchs [**Jacques Offenbach – ein europäisches Porträt**](https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/52007/jacques-offenbach) (Böhlau: Köln and Wien, 2018)._
 
 Am 20. Juni 2019 feiert die Musikwelt ein besonderes Ereignis. [Jacques Offenbach](https://opac.rism.info/metaopac/search?View=rism&author=Offenbach&Language=de){:target="_blank"}, einer der vielleicht bedeutendsten Komponisten des 19. Jahrhunderts, würde 200 Jahre alt. Es ist zu hoffen, dass das Offenbach-Jahr – der Komponist wird nicht nur in seiner Geburtsstadt Köln, sondern auch in Paris und an vielen anderen Orten gefeiert – das Bild schiefe, schöne Bild, das seit Jahrzehnten die Offenbach-Rezeption bestimmt, in Frage stellen wird. Es ist Zeit, mit Klischees und Legenden aufräumen.
 

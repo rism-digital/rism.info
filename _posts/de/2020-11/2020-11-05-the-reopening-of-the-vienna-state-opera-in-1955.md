@@ -4,7 +4,7 @@ title: Die Wiedereröffnung der Wiener Staatsoper 1955
 date: 2020-11-05
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Wiener_Staatsoper_c94e053cd7.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/article/64/the-reopening-of-the-vienna-state-opera-in-1955.html
 email: 'contact@rism.info'
@@ -19,7 +19,6 @@ In den letzten Tagen des Zweiten Weltkriegs am 12. März 1945 weitgehend zerstö
 
 Mit neu gestaltetem Zuschauerraum und ausgestattet mit der damals neuesten Technik, wurde die Staatsoper am 5. November 1955, zehn Jahre nach ihrer Zerstörung, abermals mit Beethovens _Fidelio_ unter der Leitung von Karl Böhm wiedereröffnet. Sidefact: Auch vom österreichischen Rundfunk ORF wurde die Eröffnungsfeier genutzt, um eine der ersten Liveübertragungen der Nachkriegszeit zu senden, zu einer Zeit, in der es jedoch erst etwa 800 Fernsehgeräte in ganz Österreich gab.
 
-&nbsp;
 
 _Abbildung_: Postkarte der Wiener Staatsoper 1911. Leonard A. Lauder collection of Raphael Tuck & Sons postcards. Newberry Library, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien,_K.K._Hofoper._646B_(NBY_419464).jpg). Public domain.   
   

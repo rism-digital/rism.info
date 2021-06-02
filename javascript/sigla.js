@@ -163,7 +163,7 @@ var createElements = function(collection){
           <b>Information:</b>
           ${tagToDiv(record, '_410a', 'Other names')}
           ${record._043c ? `<div><span class="fieldName">Country: </span><span class="fieldValue">${countryCodes[record._043c]}</span></div>` : ""}
-          ${tagToDiv(record, '_371a', 'Adress')}
+          ${tagToDiv(record, '_371a', 'Address')}
           ${tagToDiv(record, '_034f', 'Map')}
           ${tagToDiv(record, '_368a', 'Type')}
           ${tagToDiv(record, '_580x', 'Now in')}

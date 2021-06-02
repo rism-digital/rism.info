@@ -18,13 +18,9 @@ Here are the new twelve. For many of the musicians, we lack biographical details
 **Mary Clément (1861-after 1907)**
 Composer, pianist, and music teacher in Rostock and Berlin.
 
--
+- “[Ach wie kann's zur Freude taugen](https://opac.rism.info/search?id=1001021061&Language=en){:target="_blank"},” autograph manuscript (1903)
 
-“[Ach wie kann's zur Freude taugen](https://opac.rism.info/search?id=1001021061&Language=en){:target="_blank"},” autograph manuscript (1903)
-
--
-
-“[Das Glöckchen](https://opac.rism.info/search?id=1001021064&Language=en){:target="_blank"},” autograph manuscript (1903)
+- “[Das Glöckchen](https://opac.rism.info/search?id=1001021064&Language=en){:target="_blank"},” autograph manuscript (1903)
 
 **Sophie Dülken (1781-1863)**
 Composer and pianist. She was the daughter of Ludwig August and Franziska Lebrun. In RISM, she is only known as the dedicatee of Philipp Carl Hoffmann’s _Deux Rondos_ ([manuscript](https://opac.rism.info/search?id=452018997&Language=en){:target="_blank"} and [print](https://opac.rism.info/search?id=00000990029850&Language=en){:target="_blank"}).
@@ -32,46 +28,32 @@ Composer and pianist. She was the daughter of Ludwig August and Franziska Lebrun
 **Clara Fiedler (19th/20th century)**
 Composer of three lieder:
 
--
+- “[Nachts in der Kajüte](https://opac.rism.info/search?id=452017397&Language=en){:target="_blank"}” (conjectural)
 
-“[Nachts in der Kajüte](https://opac.rism.info/search?id=452017397&Language=en){:target="_blank"}” (conjectural)
+- “[Aus der Ferne Walzermelodien](https://opac.rism.info/search?id=1001020102&Language=en){:target="_blank"},” possible autograph manuscript (ca. 1895-1905)
 
--
-
-“[Aus der Ferne Walzermelodien](https://opac.rism.info/search?id=1001020102&Language=en){:target="_blank"},” possible autograph manuscript (ca. 1895-1905)
-
--
-
-“[Schöne Jugend](https://opac.rism.info/search?id=1001021228&Language=en){:target="_blank"},” autograph manuscript (ca. 1890-1910)
+- “[Schöne Jugend](https://opac.rism.info/search?id=1001021228&Language=en){:target="_blank"},” autograph manuscript (ca. 1890-1910)
 
 
 **Emilie Goroncy (1818-1868)**
 Member of the Berliner Singakademie beginning in 1826 (this could be an indication that her year of birth as given in the literature is too late).
 
--
+- “[Das Kind und die Najade](https://opac.rism.info/search?id=1001016121&Language=en){:target="_blank"},” in a mid-19th-century collection of lieder
 
-“[Das Kind und die Najade](https://opac.rism.info/search?id=1001016121&Language=en){:target="_blank"},” in a mid-19th-century collection of lieder
-
-**S. M. Hutchinson**
-
-- “[La gloire de Napoleon](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}” (see image)
+**S. M. Hutchinson** - “[La gloire de Napoleon](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}” (see image)
 Printed Paris, Hippolyte-Jacques Godefroy. RISM A/I: HH 8040 I,1
 
 
 **Elisabeth Kirchner (1866-1947)**
 Composer and pianist. She was a pupil of Adolf Henselt in Stuttgart and composed chamber music, piano pieces, and lieder.
 
--
-
-“[Balder's Lied](https://opac.rism.info/search?q=Elisabeth+Kirchner+balders&Language=en){:target="_blank"}” (1896), two copies
+- “[Balder's Lied](https://opac.rism.info/search?q=Elisabeth+Kirchner+balders&Language=en){:target="_blank"}” (1896), two copies
 
 **Elisabeth Knauth (born 1894, died unknown)**
 
 Pianist and teacher in Leipzig, with pupils including [Ruth Bodenstein-Hoyme](https://de.wikipedia.org/wiki/Ruth_Bodenstein-Hoyme){:target="_blank"} (1924-2006).
 
--
-
-_[Quodlibet zu einem 80. Geburtstag](https://opac.rism.info/search?id=1001016397&Language=en){:target="_blank"}_ (from the Rudolf Mauersberger Collection in Dresden)
+- [_Quodlibet zu einem 80. Geburtstag_](https://opac.rism.info/search?id=1001016397&Language=en){:target="_blank"} (from the Rudolf Mauersberger Collection in Dresden)
 
 
 **Theresia Reifer (19th century, baptized as Anna Reifer)**
@@ -86,19 +68,13 @@ Her song “[Absence](https://opac.rism.info/search?id=00000991002557&Language=e
 **Agnes Tyrrell (1846-1883)**
 Composer and pianist.
 
--
+- [_Fünf Lieder_](https://opac.rism.info/search?id=1001020953&Language=en){:target="_blank"}, autograph manuscript
 
-[_Fünf Lieder_](https://opac.rism.info/search?id=1001020953&Language=en){:target="_blank"}, autograph manuscript
-
--
-
-[_5 Schilflieder_](https://opac.rism.info/search?id=1001021024&Language=en){:target="_blank"}, autograph manuscript (1876), available online
+- [_5 Schilflieder_](https://opac.rism.info/search?id=1001021024&Language=en){:target="_blank"}, autograph manuscript (1876), available online
 
 **Marie Mathilde Weiss**
 Biographical information about this composer is given in an issue of the popular journal _Flora, ein Unterhaltungsblatt_ (no. 78, April 10, 1827, p. 329). Here, there is a notice for a concert at the Royal Court Theater in Munich by _Kammersängerin_ Princess of Thurn und Taxis, Marie Weiß. She is described as a pupil of Tomaselli in Vienna and a Ms. Borgondio.
 
--
-
-“[Vater unser](https://opac.rism.info/search?id=1001008602&Language=en){:target="_blank"},” autograph manuscript (1840-1860).
+- “[Vater unser](https://opac.rism.info/search?id=1001008602&Language=en){:target="_blank"},” autograph manuscript (1840-1860).
 
 _Image_: S. M. Hutchinson, “La gloire de Napoleon,” ca. 1810 (RISM A/I: [HH 8040 I,1](https://opac.rism.info/search?id=00000991021170&Language=en){:target="_blank"}). From the [Badische Landesbibliothek](https://digital.blb-karlsruhe.de/blbihd/content/pageview/512229){:target="_blank"}.

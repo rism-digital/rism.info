@@ -22,24 +22,12 @@ RISM's own Gottfried Heinz-Kronberger from RISM Germany in Munich gave a present
 
 Social media was a topic in the meeting of the Public Libraries interest group. Nobody seems to fully understand Facebook's secretive, ever-changing news feed algorithm, but Martin Kramer from the [Mediothek Krefeld](http://www.mediothek-krefeld.de/){:target="_blank"} ([Facebook page](https://de-de.facebook.com/Mediothek.Krefeld){:target="_blank"}, [Seniorbook page](https://www.seniorbook.de/mediothek.krefeld){:target="_blank"}) told us that different kinds of posts have different values. Posts with the highest values will stay near the top of your users' news feeds (or show up in the first place). The types of posts ranked from most to least valuable are:
 
--
+- Videos uploaded on Facebook  
+- Pictures uploaded on Facebook with text  
+- Link with text  
+- Text only  
 
-Videos uploaded on Facebook
-
--
-
-Pictures uploaded on Facebook with text
-
--
-
-Link with text
-
--
-
-Text only
-
-
-Therefore, posting text only has the least amount of impact on your Facebook fans. His Prezi is available [here](http://prezi.com/zkjfaz0edbwh/social-media-in-bibliotheken/){:target="_blank"}.
+Therefore, posting text only has the least amount of impact on your Facebook fans.  
 
 Manfred Ullrich of the [Stadtbücherei Würzburg](http://www.wuerzburg.de/de/buerger/stadtbuecherei/index.html){:target="_blank"} ([Facebook page](https://de-de.facebook.com/stadtbuecherei.wuerzburg){:target="_blank"}) gave us tips on how to engage our audience, such as posing questions, introducing members of the staff, and showing that we are still available even during busy times (such as a move). He also showed us how easy it is to latch onto social media trends and even create new series, such as the [#klangbibliothek](http://instagram.com/p/uEGbJXAt2Y/){:target="_blank"} on Instagram. At the end of his presentation, Manfred called all librarians to contribute to [IAML's Facebook page](https://www.facebook.com/iamlaibm){:target="_blank"}, with which I can only agree.
 

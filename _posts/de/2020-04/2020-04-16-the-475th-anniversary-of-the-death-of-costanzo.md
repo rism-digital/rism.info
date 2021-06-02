@@ -4,7 +4,7 @@ title: Costanzo Festa zum 475. Todestag
 date: 2020-04-16
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Festa_Costanzo_475_33012218ef.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
 email: ''

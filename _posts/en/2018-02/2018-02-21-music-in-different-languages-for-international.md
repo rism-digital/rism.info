@@ -20,65 +20,65 @@ In the RISM online catalog, go to the [**Advanced Search**](https://opac.rism.in
 
 RISM has music in the following languages:
 
-Arabic
-Aragonese (search using arg)
-Catalan
-Chinese
-Church Slavic
-Croatian (search using hrv)
-Czech
-Danish
-Dutch
-English
-Estonian
-Finnish
-French
-German
-Greek, Ancient
-Greek, Modern
-Hebrew
-Hungarian
-Irish
-Italian
-Japanese
-Korean
-Latin
-Latvian
-Luxembourgish (search using ltz)
-Lithuanian
-Low German (search using nds)
-Macedonian
-Middle English
-Middle High German
-Mongolian
-Neapolitan (search using nap)
-Northern Frisian (search using frr)
-Norwegian
-Occitan (search using oci)
-Persian
-Polish
-Portuguese
-Romani
-Romansh (search using roh)
-Romanian
-Russian
-Serbian
-Sicilian (search using scn)
-Slavic
-Slovak
-Slovenian
-Sorbian
-Lower Sorbian (search using dsb)
-Upper Sorbian (search using hsb)
-Spanish
-Swedish
-Swiss German (search using gsw)
-Turkish
-Ukrainian
-Welsh
-West Frisian (search using fry)
-Yiddish
+* Arabic
+* Aragonese 
+* Catalan
+* Chinese
+* Church Slavic
+* Croatian 
+* Czech
+* Danish
+* Dutch
+* English
+* Estonian
+* Finnish
+* French
+* German
+* Greek, Ancient
+* Greek, Modern
+* Hebrew
+* Hungarian
+* Irish
+* Italian
+* Japanese
+* Korean
+* Latin
+* Latvian
+* Luxembourgish 
+* Lithuanian
+* Low German 
+* Macedonian
+* Middle English
+* Middle High German
+* Mongolian
+* Neapolitan 
+* Northern Frisian 
+* Norwegian
+* Occitan 
+* Persian
+* Polish
+* Portuguese
+* Romani
+* Romansh 
+* Romanian
+* Russian
+* Serbian
+* Sicilian 
+* Slavic
+* Slovak
+* Slovenian
+* Sorbian
+* Lower Sorbian 
+* Upper Sorbian 
+* Spanish
+* Swedish
+* Swiss German 
+* Turkish
+* Ukrainian
+* Welsh
+* West Frisian 
+* Yiddish
 
 Is your mother tongue on the list? We add to the list whenever we have a musical source with a new language. This month's update to the online catalog will include West Frisian for the first time.
 
-_Image from_ _[pixabay](https://pixabay.com/de/mehrsprachige-sprachen-sprechen-456774/){:target="_blank"}__._
+_Image from [pixabay](https://pixabay.com/de/vectors/mehrsprachige-sprachen-sprechen-456774/){:target="_blank"}_.

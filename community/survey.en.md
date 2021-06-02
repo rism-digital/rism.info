@@ -1,5 +1,5 @@
 ---
-title: Survey
+title: Survey (2014-2015)
 layout: community
 lang: en
 permalink: /community/survey.html
@@ -25,7 +25,7 @@ Please contact us with any questions you might have: [contact@rism.info](mailto:
 24 September 2015, Plenary session: Musikbibliothek für alle\
 "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse" (Martina Falletta, Alexander Marxen, Jennifer Ward, RISM-Zentralredaktion)\
 [Slides](/resources/community/survey/RISM_Nutzerstudie_AIBM_Stuttgart_2015.pdf)
-* [IAML Congress](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015), New York\
+* [IAML Congress](https://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015), New York\
 23 June 2015\
 As part of the session RISM Round Table, we presented initial findings from the survey. (Jennifer Ward)\
 [Slides](/resources/community/survey/RISM_survey_preliminary_results_Ward.pdf)

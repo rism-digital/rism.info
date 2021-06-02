@@ -17,7 +17,7 @@ Gaetano Donizetti's birthplace in Bergamo will host the conference **Luigi March
 
 Those interested in the art of embellishments by castrati of this period should listen to the album [_Arias for Luigi Marchesi_](http://www.glossamusic.com/glossa/context.aspx?Id=96){:target="_blank"}, which was released in September. Fortunately music still exists that preserves Marchesi's ornaments and cadenzas. For this recording, Stefano Aresi selected arias from operas by composers including Cherubini, Mysliveček, Pugnani, and Zingarelli. They are sung effortlessly and with great bravura by the soprano Ann Hallenberg.
 
-These initiatives are all outgrowths of the [Luigi Marchesi Project](http://www.luigimarchesimusic.com/home.html){:target="_blank"}, which is also planning lectures, critical editions, and a comprehensive study of the singer's life and works.
+These initiatives are all outgrowths of the [Luigi Marchesi Project](https://web.archive.org/web/20160407161039/http://www.luigimarchesimusic.com/){:target="_blank"}, which is also planning lectures, critical editions, and a comprehensive study of the singer's life and works.
 
 If you want to get an idea of the various compositions by Luigi Marchesi and the arias that he sang, take a look at the RISM online catalog. In total, [140 sources](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} are listed relating to Luigi Marchesi.
 

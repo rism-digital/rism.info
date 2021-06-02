@@ -17,49 +17,27 @@ Chélard is one of the representatives of the so-called French New Romantics in 
 
 Hardly any of Chélard’s works were published in his lifetime. Much more was published posthumously. Here is just a small selection:
 
--
+- _Solfèges á plusieurs parties_ (Paris: Lemoine, self-published 1821; 2/1825)
 
-_Solfèges á plusieurs parties_ (Paris: Lemoine, self-published 1821; 2/1825)
+- _Macbeth_, arr. for piano by Theodor Lachner (München: Falter & Sohn, 1828)
 
--
+- _Ouverture zu der Oper_ Mitternacht_. Im Clavierausz. zu 4 Händen_, arr. by Hermann Bonn [München: Falter ca. 1832]
 
-_Macbeth_, arr. for piano by Theodor Lachner (München: Falter & Sohn, 1828)
+- _Festcantate zur Feier des Einzugs des Erbgroßherzogs Carl Alexander und der Frau Erbgroßherzogin Sophie von Sachsen-Weimar-Eisenach, am 21. October 1842_ (Weimar: Voigt [ca. 1842])
 
--
+- _Album für Gesang (mit Original-Beiträgen von A. H._ _Chelard),_ed. by Rudolf Hirsch (Leipzig: Bösenberg 1843)
 
-_Ouverture zu der Oper_ Mitternacht_. Im Clavierausz. zu 4 Händen_, arr. by Hermann Bonn [München: Falter ca. 1832]
+- _Symphonies vocales ou Solfèges d'ensemble_ (Paris: Lemoine 1856)
 
--
+- _Azione eroico-lirica “Le aquile romane”_ (Turin: F. Blanchi, [1864])
 
-_Festcantate zur Feier des Einzugs des Erbgroßherzogs Carl Alexander und der Frau Erbgroßherzogin Sophie von Sachsen-Weimar-Eisenach, am 21. October 1842_ (Weimar: Voigt [ca. 1842])
+- _Potpourri über Motive der Oper:_ Macbeth _von A. H. Chelard_ (Opern-Bibliothek für das Pianoforte. Wolfenbüttel: Holle [ca. 1880])
 
--
+- _Ouvertüre zur Oper “Die Hermannsschlacht” für grosses Orchester arrangiert von Wilh. Pötzsch_ (München: Aibl, 1891)
 
-_Album für Gesang (mit Original-Beiträgen von A. H._ _Chelard),_ed. by Rudolf Hirsch (Leipzig: Bösenberg 1843)
+- _Ouvertüre zur Oper “Die Hermannsschlacht” für kleines__Orchester_ (München: Aibl 1892)
 
--
-
-_Symphonies vocales ou Solfèges d'ensemble_ (Paris: Lemoine 1856)
-
--
-
-_Azione eroico-lirica “Le aquile romane”_ (Turin: F. Blanchi, [1864])
-
--
-
-_Potpourri über Motive der Oper:_ Macbeth _von A. H. Chelard_ (Opern-Bibliothek für das Pianoforte. Wolfenbüttel: Holle [ca. 1880])
-
--
-
-_Ouvertüre zur Oper “Die Hermannsschlacht” für grosses Orchester arrangiert von Wilh. Pötzsch_ (München: Aibl, 1891)
-
--
-
-_Ouvertüre zur Oper “Die Hermannsschlacht” für kleines__Orchester_ (München: Aibl 1892)
-
--
-
-_[Marche hongroise](http://gallica.bnf.fr/ark:/12148/bpt6k3954851){:target="_blank"} für 2 Klaviere zu 8 Händen bearb. von Léon Lemoine__(1855-1916)_ (Paris, Bruxelles: H. Lemoine [1905]; Impr. A. Chaimbaud; New edition: Kempten: Helm & Baynov 2005)
+- _[Marche hongroise](http://gallica.bnf.fr/ark:/12148/bpt6k3954851){:target="_blank"} für 2 Klaviere zu 8 Händen bearb. von Léon Lemoine__(1855-1916)_ (Paris, Bruxelles: H. Lemoine [1905]; Impr. A. Chaimbaud; New edition: Kempten: Helm & Baynov 2005)
 
 
 Of the ca. 200 records of works by Chélard in RISM’s [online catalogue](https://opac.rism.info/search?View=rism&author=Hippolyte+Ch%C3%A9lard){:target="_blank"}, over 30 are for the heroic opera _Macbeth_, his most famous work.

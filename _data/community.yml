@@ -41,7 +41,12 @@
         fr: Services de données
       link: "/community/data-services.html"
     - name:
-        en: Survey
-        de: Nutzerstudie
-        fr: Survey
+        en: "Survey (2014-2015)"
+        de: "Nutzerstudie (2014-2015)"
+        fr: "Survey (2014-2015)"
       link: "/community/survey.html"
+    - name:
+        en: "Share Your News with RISM"
+        de: "Share Your News with RISM"
+        fr: "Share Your News with RISM"
+      link: "/community/share-your-news.html"

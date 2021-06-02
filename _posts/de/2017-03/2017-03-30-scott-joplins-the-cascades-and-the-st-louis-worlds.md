@@ -4,7 +4,7 @@ title: '"The Cascades" von Scott Joplin und die Weltausstellung in St. Louis'
 date: 2017-03-30
 lang: de
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Scott_Joplin_6f7fefa327.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/scott-joplins-the-cascades-and-the-st-louis-worlds-fair.html
 email: ''

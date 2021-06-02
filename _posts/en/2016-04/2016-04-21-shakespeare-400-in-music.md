@@ -4,7 +4,7 @@ title: Shakespeare 400 in Music
 date: 2016-04-21
 lang: en
 post: true
-category: events
+category: musical_anniversaries
 image: "/images/news-old-website/csm_Shakespeare_400_a9982db381.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/shakespeare-400-in-music.html
 email: ''

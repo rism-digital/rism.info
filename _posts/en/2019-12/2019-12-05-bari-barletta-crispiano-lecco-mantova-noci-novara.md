@@ -13,17 +13,17 @@ author: ''
 
 The newest records in the RISM catalog include music manuscripts that we imported from the Italian database SBN Musica. This is part of an ongoing project that we [reported on in August](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}.
 
-Records from the following libraries can now be found in RISM:
+Records from the following libraries can now be found in RISM:  
 
-I-BAibimus ([19 records](https://opac.rism.info/search?View=rism&siglum=I-BAibimus&Language=en){:target="_blank"})
-I-BARas ([33 records](https://opac.rism.info/search?View=rism&siglum=I-BARas&Language=en){:target="_blank"})
-I-CRIc ([20 records](https://opac.rism.info/search?View=rism&siglum=I-CRIc&Language=en){:target="_blank"})
-I-LECc ([25 records](https://opac.rism.info/search?View=rism&siglum=I-LECc&Language=en){:target="_blank"})
-I-MAc ([27 records](https://opac.rism.info/search?View=rism&siglum=I-MAc&Language=en){:target="_blank"}, joining some printed editions already in RISM)
-I-NOCc ([22 records](https://opac.rism.info/search?View=rism&siglum=I-NOCc&Language=en){:target="_blank"})
-I-NOVcon ([232 records](https://opac.rism.info/search?View=rism&siglum=I-NOVcon&Language=en){:target="_blank"})
-I-SSOsp ([25 records](https://opac.rism.info/search?View=rism&siglum=I-SSOsp&Language=en){:target="_blank"})
-I-VCa ([25 records](https://opac.rism.info/search?View=rism&siglum=I-VCa&Language=en){:target="_blank"})
+I-BAibimus ([19 records](https://opac.rism.info/search?View=rism&siglum=I-BAibimus&Language=en){:target="_blank"})  
+I-BARas ([33 records](https://opac.rism.info/search?View=rism&siglum=I-BARas&Language=en){:target="_blank"})  
+I-CRIc ([20 records](https://opac.rism.info/search?View=rism&siglum=I-CRIc&Language=en){:target="_blank"})  
+I-LECc ([25 records](https://opac.rism.info/search?View=rism&siglum=I-LECc&Language=en){:target="_blank"})  
+I-MAc ([27 records](https://opac.rism.info/search?View=rism&siglum=I-MAc&Language=en){:target="_blank"}, joining some printed editions already in RISM)  
+I-NOCc ([22 records](https://opac.rism.info/search?View=rism&siglum=I-NOCc&Language=en){:target="_blank"})  
+I-NOVcon ([232 records](https://opac.rism.info/search?View=rism&siglum=I-NOVcon&Language=en){:target="_blank"})  
+I-SSOsp ([25 records](https://opac.rism.info/search?View=rism&siglum=I-SSOsp&Language=en){:target="_blank"})  
+I-VCa ([25 records](https://opac.rism.info/search?View=rism&siglum=I-VCa&Language=en){:target="_blank"})  
 
 The collection from the [Biblioteca del Conservatorio statale di musica Guido Cantelli Novara](https://consno.it/biblioteca/){:target="_blank"} (I-NOVcon) includes music by many contemporary women composers. Most of these works are autograph manuscripts with music for small or chamber music ensembles. Of particular mention are the numerous compositions by Violeta Dinescu (born 1953).
 

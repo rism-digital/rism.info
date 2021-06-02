@@ -60,7 +60,7 @@ Chair: **Jürgen Diet** (Bavarian State Library, Munich)
 **Eva Neumayr** (RISM Salzburg): Using Watermarks to Identify Related Sources   
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2341)
 
-**Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](http://www.memoryofpaper.eu:8080/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research  
+**Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](https://www.memoryofpaper.eu/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2346)  
   
 **Teresa M. Gialdroni** (Italy): [Clori](http://www.cantataitaliana.it/){:target="_blank"}, Archivio della cantata italiana: Current State of Progressand New Perspectives  
