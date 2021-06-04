@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Das RISM steht unter dem Patronat der beiden internationalen Vereinigungen [International Musicological Society](https://ims-international.ch/){:target="_blank"} (IMS) und [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/){:target="_blank"} (IAML). Mit der Gründung des RISM wurde eine [Commission Mixte](/organization/international-partners.html) (CM) eingerichtet, die aus Delegierten dieser beiden Gesellschaften besteht. 2007 hat der damalige Präsident Christoph Wolff die CM reorganisiert. Dabei wurde festgelegt, dass sie aus je fünf Deligierten der beiden Gesellschaften, also 10 Mitgliedern besteht. Ihre Amtzeit beläuft sich auf 5 Jahre.
+Das RISM steht unter dem Patronat der beiden internationalen Vereinigungen [International Musicological Society](https://www.musicology.org/){:target="_blank"} (IMS) und [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/){:target="_blank"} (IAML). Mit der Gründung des RISM wurde eine [Commission Mixte](/organization/international-partners.html) (CM) eingerichtet, die aus Delegierten dieser beiden Gesellschaften besteht. 2007 hat der damalige Präsident Christoph Wolff die CM reorganisiert. Dabei wurde festgelegt, dass sie aus je fünf Deligierten der beiden Gesellschaften, also 10 Mitgliedern besteht. Ihre Amtzeit beläuft sich auf 5 Jahre.
 
 Die Aufgabe der CM ist es, den Vorstand des [Vereins](/organization/the-association.html) und die Zentralredaktion in strategischen und praktischen Fragen aus Sicht der Bibliotheken und der Wissenschaft zu beraten. Aus ihrem Kreis können auch zukünftige Vorstandsmitglieder hervorgehen.
 
