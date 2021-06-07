@@ -16,63 +16,35 @@ Before we get too far into 2015, let's take a look back at 2014 and allow us to 
 
 The ten most popular stories on our website were (according to our website statistics):
 
-1. [New Version of the RISM Online Catalog](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html){:target="_blank"}
+1. [New Version of the RISM Online Catalog](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html)
 
-1.
+2. [Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html) (our April Fool's joke)
 
-[Missing Works by Italian Composer Giovanni Francesco Bicchini Discovered](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"} (our April Fool's joke)
+3. [Mozart: New Documents](/electronic_resources/2014/09/18/mozart-new-documents.html)
 
-2.
+4. [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html)
 
-[Mozart: New Documents](/electronic_resources/2014/09/18/mozart-new-documents.html){:target="_blank"}
+5. [Niccolò Jommelli rediscovered: International award for essay on autograph extant at the National Library of Portugal](/rediscovered/2014/11/17/niccolò-jommelli-rediscovered-international-award.html)
 
-3.
+6. [An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html)
 
-[Listen to the world's oldest piano
+7. [Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium](/rediscovered/2014/04/11/légende-norvégienne-unknown-work-by-the-belgian.html)
 
-](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"}
+8. [RISM at the AIBM Conference](/events/2014/10/20/rism-at-the-aibm-conference.html)
 
-4.
+9. [New Coordinating Committee Elected](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html)
 
-[Niccolò Jommelli rediscovered: International award for essay on autograph extant at the National Library of Portugal](/rediscovered/2014/11/17/niccolò-jommelli-rediscovered-international-award.html "external-link-new-window")
-
-5.
-
-[An Evening of Irish Music
-
-](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}
-
-6.
-
-[Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
-
-](/rediscovered/2014/04/11/légende-norvégienne-unknown-work-by-the-belgian.html){:target="_blank"}
-
-7.
-
-[RISM at the AIBM Conference
-
-](/events/2014/10/20/rism-at-the-aibm-conference.html){:target="_blank"}
-
-8.
-
-[New Coordinating Committee Elected
-
-](/new_at_rism/2014/05/22/new-coordinating-committee-elected.html){:target="_blank"}
-
-9.
-
-[Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html){:target="_blank"}
+10. [Vivaldi Embedded – Violin concerto by Brescianello turns out to be a pasticcio](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html)
 
 This list also highlights the work of our colleagues in different countries: Belgium, Germany, Ireland, Portugal, and the United Kingdom.
 
-The most popular links on our Facebook page were:
+The most popular links on our Facebook page were:  
 
 1. ["Frère Jacques" a été composé par Jean Philippe Rameau ! (Radio France)](http://www.francemusique.fr/actu-musicale/frere-jacques-ete-compose-par-jean-philippe-rameau-49327){:target="_blank"}: The discovery by musicologist Sylvie Bouissou that the famous canon "Frère Jacques" was written by Jean-Philippe Rameau
 
 2. [Long-lost original score of Mozart masterpiece found in Budapest (CTV News)](http://www.ctvnews.ca/entertainment/long-lost-original-score-of-mozart-masterpiece-found-in-budapest-1.2029216#ixzz3EzxB7wtb){:target="_blank"}: Our RISM Hungary colleague Balazs Mikusi's discovery of a Mozart autograph in Budapest
 
-3. And a video from the ceremony where the autograph was unveiled to the public
+3. And a video from the ceremony where the autograph was unveiled to the public:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/LAa-Tro_FPU?list=UUSw7Qu4OQujixCfIlKETdkQ" frameborder="0" allowfullscreen></iframe>
 
@@ -95,6 +67,6 @@ RISM was also mentioned in the following articles, which we have listed on the [
 
 - Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 2 (2014): 48-52. [Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
 
-- Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
+- Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 We are always interested in hearing about work from our RISM national groups as well as news about manuscripts and other historical sources. If you have anything you'd like to share, [please drop us a line](mailto:contact@rism.info). Visitors to the RISM website come from all over the world, as you can see from the blue on the map on the left.

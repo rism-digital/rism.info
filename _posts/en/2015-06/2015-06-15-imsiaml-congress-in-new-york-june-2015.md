@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Start spreading the news: RISM will be heading to New York to take part in the IMS/IAML Congress [Music Research in the Digital Age](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"}, June 21-26, 2015.
+Start spreading the news: RISM will be heading to New York to take part in the IMS/IAML Congress [Music Research in the Digital Age](https://www.musiclibraryassoc.org/mpage/IAML_IMS_2015){:target="_blank"}, June 21-26, 2015.
 
 Please visit our table in the exhibits area during the breaks. In addition, you are invited to join us at the following events:
 
