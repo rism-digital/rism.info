@@ -887,6 +887,8 @@ Eggertsen, Chris: Musicologists Come to Katy Perry's Defense in 'Dark Horse' Cas
 
 Felder, Lynn: Back to the future: Beethoven symphony defies time and space, in: Winston-Salem Journal, 3 August 2020. [Online verfügbar](https://journalnow.com/entertainment/back-to-the-future-beethoven-symphony-defies-time-and-space/article_56263d1e-2e23-5310-bd13-2570f2df5aa9.html){:target="_blank"}
 
+Herrera, Jesús: Manejo digital de fuentes documentales para el conocimiento del patrimonio musical, in: _El Sincopado Habanero. Boletín del Gabinete de Patrimonio Musical Esteban Salas 5 (Mai/August 2020), S. 10-16. [Online verfügbar](https://gabinete.cubava.cu/sincopadohabanero/){:blank}.
+
 Johnson, Kirstin Dougan: Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis, in: Fontes Artis Musicae 67 (2020), S. 119-142. [Online verfügbar](https://muse.jhu.edu/article/758645){:target="_blank"}
 
 Lazos, John G: Why a Canadian Musicologist Would Catalogue One Thousand Mexican Music Manuscripts, in: CAML Review/Revue de l'ACBM 48 (2020). S. 38-61. [Online verfügbar](https://caml.journals.yorku.ca/index.php/caml/article/view/40375){:blank}
