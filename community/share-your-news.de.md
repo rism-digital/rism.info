@@ -32,4 +32,4 @@ Wenn Sie etwas mit der größeren RISM Community teilen möchten, lassen Sie es 
 * Bitte fügen Sie ein Bild mit Fotonachweis bei.
 * Schreiben Sie auf Englisch, Deutsch oder Französisch, oder in einer anderen Sprache, solange eine Übersetzung in eine dieser drei Sprachen enthalten ist.
 
-Bitte kontaktieren Sie uns, wenn Sie einen Vorschlag haben oder wenn Sie dies besprechen möchten: [contact@rism.info](mailto:contact@rism.info)
+Bitte kontaktieren Sie uns, wenn Sie einen Vorschlag haben oder dies besprechen möchten: [contact@rism.info](mailto:contact@rism.info)

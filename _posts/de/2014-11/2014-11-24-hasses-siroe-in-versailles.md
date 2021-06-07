@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Am 26. November hat die Oper Siroe, re di Persia von Johann Adolf Hasse Premiere in der [Opera Royal de Versailles](http://www.chateauversailles-spectacles.fr/fr/spectacles/2014/hasse-siroe){:target="_blank"}. Ein schöner Anlass, um einen Blick auf [die über 150 bei RISM nachgewiesenen Quellen](https://opac.rism.info/search?View=rism&q=Siroe+hasse){:target="_blank"} dieser Oper zu werfen.
+Am 26. November hat die Oper Siroe, re di Persia von Johann Adolf Hasse Premiere in der [Opera Royal de Versailles](https://web.archive.org/web/20141118073359/http://www.chateauversailles-spectacles.fr/fr/spectacles/2014/hasse-siroe){:target="_blank"}. Ein schöner Anlass, um einen Blick auf [die über 150 bei RISM nachgewiesenen Quellen](https://opac.rism.info/search?View=rism&q=Siroe+hasse){:target="_blank"} dieser Oper zu werfen.
 
 
 Zu zwei Quellen aus Dresden gibt es auch Digitalisate: Zum einen [eine vollständige Fassung](https://opac.rism.info/search?id=270000654&db=251&View=rism){:target="_blank"} aus der Königlichen Privat-Musikaliensammlung und zum anderen [die Ouvertüre](https://opac.rism.info/search?id=270000694&db=251&View=rism){:target="_blank"}, die im Archiv der Hofkapelle (Schrank II) überliefert ist.

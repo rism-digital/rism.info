@@ -20,7 +20,7 @@ Im Geburtshaus von Gaetano Donizetti in Bergamo findet am 16. und 17. Oktober 20
 Wer sich mit der Verzierungskunst der Kastraten aus dieser Zeit beschäftigen will, der sollte sich die im September erschienene CD [_Arias for Luigi Marchesi_](http://www.glossamusic.com/glossa/context.aspx?Id=96){:target="_blank"}anhören, denn glücklicherweise gibt es von den Arien, die Marchesi damals gesungen hat, Noten-Fassungen mit seinen Verzierungen und Kadenzen. Stefano Aresi hat für diese Aufnahme Arien aus Opern von Komponisten wie Cherubini, Myslivecek, Pugnani oder Zingarelli herausgesucht, die von der Sopranistin Ann Hallenberg mit enormer Leichtigkeit und Bravour vorgetragen werden.
 
 
-Diese Initiativen gehen alle auf das [Luigi Marchesi Project](http://www.luigimarchesimusic.com/home.html){:target="_blank"} zurück, das auch noch Lehrveranstaltungen, kritische Editionen und eine umfangreiche Studie zu Leben und Werk des Sängers plant.
+Diese Initiativen gehen alle auf das [Luigi Marchesi Project](https://web.archive.org/web/20160407161039/http://www.luigimarchesimusic.com/){:target="_blank"} zurück, das auch noch Lehrveranstaltungen, kritische Editionen und eine umfangreiche Studie zu Leben und Werk des Sängers plant.
 
 
 Wenn Sie sich schon mal ein Bild von den verschiedenen Kompositionen von Luigi Marchesi und Arien, die er gesungen hat, machen möchten, schauen Sie in unserem RISM Online-Katalog nach. Insgesamt [140 Nachweise](https://opac.rism.info/search?View=rism&q=116760079){:target="_blank"} werden dort zu Luigi Marchesi aufgelistet.
