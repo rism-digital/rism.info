@@ -20,4 +20,4 @@ die _Esterházy-Messe_ des Tiroler Komponisten Johann Gänsbacher (komponiert 18
 die franziskanische Bearbeitung einer Messe des Stamser Musiklehrers Johann Malzat (um 1790, [A-ST](http://opac.rism.info/search?documentid=650008766){:target="_blank"}).
 
 
-[weiterlesen](http://www.musikland-tirol.at/downloads/jahresprogramm-2013_web.pdf "2012\_tirolerweihnachtskonzert.pdf (1.9 MB)") (PDF)
+[weiterlesen](http://www.musikland-tirol.at/content/konzerte/2013/){:target="_blank"} (PDF)
