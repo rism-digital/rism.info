@@ -68,8 +68,8 @@ Die Referate sind alphabetisch sortiert.
 **Stefan Ikarus Kaiser** (RISM - Austrian Academy of Sciences): The Music Collection at Wilhering Abbey (Musiksammlung des Stiftes Wilhering)   
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf) (PDF)
 
-**Vjera Katalinic und** Lucija Konfic (RISM Croatia): Project RISM in Croatia: The Past Decade  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF)[Slides (PDF)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf){:target="_blank"}
+**Vjera Katalinic und Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf){:target="_blank"}
 
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
