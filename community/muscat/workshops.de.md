@@ -26,7 +26,7 @@ Donnerstag, 24. Juni 2021
 7:00-8:30 UTC (Englisch) und 14:00-15:30 Uhr (Deutsch)
 In dieser Sitzung werden die in der Montagssitzung erlernten Fähigkeiten fortgeführt. Die Teilnehmer werden lernen, wie man sowohl Manuskriptsammlungen als auch Musikdrucke katalogisiert. Grundkenntnisse in Muscat sind erforderlich, entweder aus der Montagssitzung oder durch die Teilnahme an einem früheren Muscat-Workshop.
 
-Der Platz ist begrenzt. Um sich anzumelden, schicken Sie eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:blank}.
+Die beiden deutschsprachigen Termine sind bereits ausgebucht.
 
 # Vergangene Workshops und Vorführungen
 
