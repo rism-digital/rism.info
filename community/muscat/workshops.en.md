@@ -28,7 +28,7 @@ Thursday, June 24, 2021
 7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)  
 This course will continue the skills learned in Tuesday’s session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Tuesday session or participation in a previous Muscat workshop.
 
-Space is limited. To register, email [contact@rism.info](mailto:contact@rism.info){:blank}. 
+**The German workshop is full. A limited number of spaces remain for English; please email [contact@rism.info](mailto:contact@rism.info){:blank} by Friday, June 11.**   
 
 
 
