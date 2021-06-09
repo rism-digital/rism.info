@@ -25,17 +25,11 @@ The database does not offer a subject heading for birds in music, so full-text s
 
 - Over one hundred [magpies](https://opac.rism.info/search?View=rism&q=elster){:target="_blank"} (many thanks to Rossini)
 
--
+- One [starling](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
 
-One [starling](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
+- A flock of [thrush](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [cuckoo](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"}, and French [_pigeons_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
 
--
-
-A flock of [thrush](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [cuckoo](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"}, and French [_pigeons_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
-
--
-
-A [wild goose](https://opac.rism.info/search?id=350000507){:target="_blank"}
+- A [wild goose](https://opac.rism.info/search?id=350000507){:target="_blank"}
 
 
 The most abundant species this time of year seems to be the nightingale, if you total all sightings in [English](https://opac.rism.info/search?View=rism&q=Nightingale){:target="_blank"}, [German](https://opac.rism.info/search?View=rism&q=nachtigall){:target="_blank"}, and [French](https://opac.rism.info/search?View=rism&q=rossignol "external-link-new-window") - well over 800!
@@ -46,14 +40,13 @@ _Nightingale: From_ Birds of Europe _by John Gould, London, 1837. [New York Publ
 
 As we leave you to explore music featuring our feathered friends, we'll pass on this eighteenth-century publication (RISM A/I: [C 4544](https://opac.rism.info/search?id=00000990011878){:target="_blank"}; the earliest edition dates from 1717), which according to [Sarah Angliss](http://www.sarahangliss.com/talks/birdfancyersdelightnotes){:target="_blank"} was one of several methods used by people for the once-popular pastime of teaching melodies to birds:
 
-![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)
-_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling
+![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)  
+_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling_
 
-Image from the_
-[_University of Cardiff_](http://www.cardiff.ac.uk/insrv/libraries/scolar/digital/music.html){:target="_blank"}
+Image from the [_University of Cardiff_](https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:target="_blank"}
 
 
-A version is available digitized from [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} and Angliss has recorded some excerpts [here](https://soundcloud.com/spacedoguk/sets/the-bird-fancyers-delight){:target="_blank"}.
+A version is available digitized from [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} and Angliss has recorded some excerpts [here](https://soundcloud.com/sarahangliss/sets/the-bird-fancyers-delight){:target="_blank"}.
 
 Does anyone else have other sightings they'd like to report? Let us know in the comments below!
 
