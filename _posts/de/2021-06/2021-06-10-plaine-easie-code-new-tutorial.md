@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news/2021-06/plaine_and_easie_tutorial_website.png"
 email: 'contact@rism.info'
-author: 'Christina Linklater and Jennifer Ward'
+author: 'Christina Linklater und Jennifer Ward'
 ---
 
 Wir freuen uns, ein neues Tutorial vorstellen zu können, das von der [RISM Zentralredaktion](/editorial-center.html) in Zusammenarbeit mit der [RISM-Arbeitsgruppe USA](https://library.harvard.edu/libraries/loeb-music#rism){:blank} an der Harvard University erstellt wurde .  
