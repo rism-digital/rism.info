@@ -908,6 +908,8 @@ Herrmann-Schneider, Hildegard. "Die Vision des hl. Bernhard vom Klosterbau und d
 
 Herrmann-Schneider, Hildegard. "Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams." Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Available online](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
+Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg." musiconn.publish (2021). [Available online](https://doi.org/10.25366/2021.23){:blank}.
+
 Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ 18, no. 1 (2021). DOI: [https://doi.org/10.1017/S1479409820000014](https://doi.org/10.1017/S1479409820000014){:target="_blank"}.  
 
 Wong, Chelsea and Thomas Huthwaite. “Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music.” _Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand_ 123 (April 2021): 10–18. [Available online](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}.  
