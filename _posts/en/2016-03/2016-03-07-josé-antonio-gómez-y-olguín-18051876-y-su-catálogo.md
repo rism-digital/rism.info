@@ -13,7 +13,7 @@ author: ''
 
 [John G. Lazos](/working-groups.html), who has cataloged hundreds of [manuscripts in Mexico](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} for RISM, has published a catalog of composer José Antonio Gómez y Olguín's works in Mexican archives:
 
-John G. Lazos. [_José Antonio Gómez y Olguín (1805-1876) y su Catálogo musical: Un acercamiento a la práctica musical del México decimonónico_](https://www.academia.edu/20043921/Jos%C3%A9_Antonio_G%C3%B3mez_y_Olgu%C3%ADn_1805-1876_y_su_Cat%C3%A1logo_musical_Un_acercamiento_a_la_pr%C3%A1ctica_musical_del_M%C3%A9xico_decimon%C3%B3nico_English_introduction_included_){:target="_blank"}. Montreal: John G. Lazos, 2016.
+John G. Lazos. [_José Antonio Gómez y Olguín (1805-1876) y su Catálogo musical: Un acercamiento a la práctica musical del México decimonónico_](https://www.academia.edu/29078818/_Jos%C3%A9_Antonio_G%C3%B3mez_y_Olgu%C3%ADn_1805-1876_y_su_Cat%C3%A1logo_musical_Un_acercamiento_a_la_pr%C3%A1ctica_musical_del_M%C3%A9xico_decimon%C3%B3nico_English_introduction_included_2016_){:target="_blank"}. Montreal: John G. Lazos, 2016.
 
 Gómez is a key figure in the history of nineteenth-century Mexican music, an era that has until recently been unexplored. He was a musician at the cathedral in Mexico City for over four decades, though his music was disseminated outside of the capital as well. In his catalog, Lazos documents Gómez's works as they are found in the following seven institutions:
 
