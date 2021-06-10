@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plaine & Easie Tutorial Now Available"
+title: "Neues Tutorial zu Plaine & Easie"
 date: 2021-06-10
 lang: de
 post: true
