@@ -29,7 +29,9 @@ permalink: /community/muscat/tutorials.html
 
 * [Composite volumes](https://youtu.be/46_agb6-K_0){:target="_blank"}: How to show that printed items (or printed plus manuscript items) are bound together.
 
-* Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
+* Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)  
+
+* [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank}
 
 # Tutorials: Music manuscripts
 
