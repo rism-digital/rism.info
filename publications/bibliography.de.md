@@ -908,6 +908,10 @@ Ward, Jennifer A.: Documenting Historical Printed Music in RISM: New Opportuniti
 Ward, Jennifer A.: RISM en América Latina: proyectos colaborativos para la documentación de fuentes. Translated by Juan Francisco Rangel Yáñez, in: Celebración y sonoridad en Hispanoamérica (siglos xvi y xix), hrsg. von Anastasia Krutitskaya, Moreila: Universidad Nacional Autónoma de México, Escuela Nacional de Estudios Superiores Unidad Morelia, 2020, S. 22-41. [Online verfügbar](http://www.librosoa.unam.mx/handle/123456789/3063){:target="_blank"}
 
 **2021:**  
+Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, Mai 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank}.  
+
+Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
+
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
 Wong, Chelsea und Thomas Huthwaite: Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music, in: Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand 123 (April 2021), S. 10–18. [Online verfügbar](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}  
