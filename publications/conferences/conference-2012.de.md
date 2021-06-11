@@ -128,4 +128,4 @@ Die Referate sind alphabetisch sortiert.
 **Undine Wagner** (RISM Germany): Archives of Lay Musicians as Evidence of Church Music Practice in Thuringia: Holdings atthe Thuringian Regional Music Archive and Cataloging for RISM (Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf) (PDF)
 
-**Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](http://www.memoryofpaper.eu:8080/BernsteinPortal/appl_start.disp): A Portal for Watermark Research
+**Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](https://www.memoryofpaper.eu/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research
