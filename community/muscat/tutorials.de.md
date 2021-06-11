@@ -24,7 +24,8 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 * Übergang von [Rules for Archival Description](http://www.cdncouncilarchives.ca/archdesrules.html){:target="_blank"} (Kanada) zu RISM: [Allgemeine Anweisungen](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} zum Ergänzen von Beschreibungen in RISM aus RAD oder einem anderen Archivstandard (von Rebecca Shaw, Dalhousie University)
 * [Die Personennormdatei](https://youtu.be/A130dB8I62k){:target="_blank"}: Wie kann man einen Namen hinzufügen und bearbeiten, welche Informationen enthalten sein müssen, Verlinkung zu VIAF
 * [Konvolute](https://youtu.be/46_agb6-K_0){:target="_blank"}: Wie kann man zeigen, dass gedruckte (und handschriftliche) Materialen zusammengebunden sind
-* **Verweise auf Sekundärliteratur:**[Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
+* Verweise auf Sekundärliteratur: [Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
+* [Musikincipits mittels Plaine & Easie-Code erstellen](https://youtu.be/-HplUb_L1QY){:blank}
 
 # Tutorials: Musikhandschriften
 
