@@ -13,17 +13,11 @@ author: ''
 
 Die RISM-Datenbank weist aus drei neuen Ländern Lateinamerikas neue Bibliothekssigel auf:
 
--
+- Costa Rica: [Archivo Histórico Musical](http://archivomusical.ucr.ac.cr/){:target="_blank"} in San José (CR-SJahm)
 
-Costa Rica: [Archivo Histórico Musical](http://archivomusical.ucr.ac.cr/){:target="_blank"} in San José (CR-SJahm)
+- Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca.edu.ni/){:target="_blank"} (FONMUNIC) in Managua (NIC-Mfmn)
 
--
-
-Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca.edu.ni/){:target="_blank"} (FONMUNIC) in Managua (NIC-Mfmn)
-
--
-
-Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
+- Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
 
 
 Insgesamt verzeichnet RISM jetzt 98 Institutionen aus 15 lateinamerikanischen Ländern. Sie können die Bibliotheksdatenbank über die [RISM Website](/community/sigla.html) einsehen.
@@ -37,25 +31,15 @@ RISM vergibt Abkürzungen - die sogenannten Bibliothekssigel - für Institutione
 
 Musikquellen aus den folgenden lateinamerikanische Ländern sind im RISM Online-Katalog bereits dokumentiert:
 
--
+- Brasilien: [459 Nachweise](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}
 
-Brasilien: [459 Nachweise](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}
+- Chile: [91 Nachweise](https://opac.rism.info/search?View=rism&siglum=RCH-*){:target="_blank"}
 
--
+- Mexiko: [557 Nachweise](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}
 
-Chile: [91 Nachweise](https://opac.rism.info/search?View=rism&siglum=RCH-*){:target="_blank"}
+- Uruguay: [21 Nachweise](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"}
 
--
-
-Mexiko: [557 Nachweise](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}
-
--
-
-Uruguay: [21 Nachweise](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"}
-
--
-
-Venezuela: [37 Nachweise](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
+- Venezuela: [37 Nachweise](https://opac.rism.info/search?View=rism&siglum=VE-*){:target="_blank"}
 
 
 Insgesamt sind das 1.165 Einträge aus Lateinamerika.

@@ -8,7 +8,7 @@ old_url: http://www.rism.info/de/publikationen/latin-america-conference-2016.htm
 
 # Konferenz: Dokumentation musikalischer Quellen in Lateinamerika
 
-Die Konferenz Dokumentation musikalischer Quellen in Lateinamerika findet am Rande des Kongresses der[Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} in Mainz statt.
+Die Konferenz Dokumentation musikalischer Quellen in Lateinamerika findet am Rande des Kongresses der [Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} in Mainz statt.
 
 RISM hat Referenten aus Lateinamerika eingeladen, um über die Situation der musikalischen Quellen in ihren Ländern zu berichten.   
   
@@ -21,7 +21,7 @@ Geschwister-Scholl-Str. 2
 
 Die Konferenz ist kostenfrei und öffentlich. Den Referenten wird - mit ihrem Einverständnis - die Gelegenheit geboten, ihre Präsentation aufzuzeichnen und auf **YouTube** zur Verfügung zu stellen.
 
-Der Austausch von Musikwerken – in unserem Fall, Musikwerke - zwischen Europa und Lateinamerika ist ein noch kaum erforschtes Gebiet. Im Rahmen einer im Juni 2015 an der Johannes Gutenberg-Universität Mainz veranstalteten Tagung: [Vokalpolyphonie zwischen Alter und Neuer Welt: Musikalische Austauschprozesse zwischen Europa und Lateinamerika im 16. und 17. Jahrhundert](http://www.troja-online.eu/10.html){:target="_blank"} wurden der Kenntnisstand analy­siert und wesentliche Desiderata aufgezeigt. Offenkundig sind der umfangreiche Transfer europäi­scher Musikwerke nach Lateinamerika und der damit verbundene enorme Einfluss auf indigene Musiker und Komponisten.
+Der Austausch von Musikwerken – in unserem Fall, Musikwerke - zwischen Europa und Lateinamerika ist ein noch kaum erforschtes Gebiet. Im Rahmen einer im Juni 2015 an der Johannes Gutenberg-Universität Mainz veranstalteten Tagung: [Vokalpolyphonie zwischen Alter und Neuer Welt: Musikalische Austauschprozesse zwischen Europa und Lateinamerika im 16. und 17. Jahrhundert](https://www.troja-online.eu/kolloquien-und-jahrb%C3%BCcher-ab-2013/){:target="_blank"} wurden der Kenntnisstand analysiert und wesentliche Desiderata aufgezeigt. Offenkundig sind der umfangreiche Transfer europäischer Musikwerke nach Lateinamerika und der damit verbundene enorme Einfluss auf indigene Musiker und Komponisten.
 
 Einer näheren Erforschung steht entgegen, dass die Quellen noch im Verborgenen liegen und selbst bei großen Bibliotheken die Beschreibung und Katalogisierung noch am Anfang steht. Gleichzeitig ist aber in den vergangenen Jahren ein großes Interesse in Län­dern wie Mexiko, Chile, Brasilien oder Kuba festzustellen, Musikalien als Teil des materiellen kul­turellen Erbes zu begreifen und einer Aufarbeitung zuzuführen. Um dieser Situation zu begegnen, soll die Erfassung der Quellen und der Austausch bereits erhobe­ner Daten mit RISM - in der Musikwissenschaft der umfangreichste internationale Nachweisort für Quellen - organisiert werden, um dadurch die Voraussetzungen für die Untersuchung der Quellen und Analyse der Verbreitungswege sowie die damit einhergehende Rezeption europäischer Musik zu schaffen, die in eigenen Folgeprojekten in Kooperation mit lateinamerikanischen Forschungsein­richtungen vorgesehen ist.
 

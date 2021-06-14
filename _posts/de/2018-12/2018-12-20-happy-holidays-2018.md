@@ -15,4 +15,4 @@ Die RISM Zentralredaktion wünscht Ihnen und Ihrer Familie ein besinnliches Weih
 
 Unser Büro bleibt vom 24. Dezember 2018 bis 7. Januar 2019 geschlossen.
 
-_Abbildung: Christrose von [pixabay.com](https://pixabay.com/de/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
+_Abbildung: Christrose von [pixabay.com](https://pixabay.com/de/photos/christrose-weihnachten-wei%C3%9F-natur-1212674/){:target="_blank"}_
