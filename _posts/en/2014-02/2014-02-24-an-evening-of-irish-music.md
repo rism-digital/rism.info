@@ -11,20 +11,19 @@ email: ''
 author: ''
 ---
 
-**Sunday, 16 March 2014, 6 pm** , Ev.-Luth. Wartburgkirche
+**Sunday, 16 March 2014, 6 pm**, Ev.-Luth. Wartburgkirche\
 [Hartmann-Ibach-Straße 108, 60389 **Frankfurt am Main**](https://maps.google.de/maps?q=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&hl=de&ie=UTF8&sll=51.175806,10.454119&sspn=8.281019,23.269043&hnear=Hartmann-Ibach-Stra%C3%9Fe+108,+60389+Frankfurt+am+Main&t=m&z=16){:target="_blank"}
 
-**John Sigismond Cousser** : [Serenata teatrale](http://opac.rism.info/search?documentid=451501218){:target="_blank"}
-**Matthew Dubourg** : [Violin Concerto in D](http://opac.rism.info/search?documentid=212001507){:target="_blank"}
-**Timothy Geary** : Six Canzonetts
-**Paul Alday** : [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"} (German premiere)
+**John Sigismond Cousser**: [Serenata teatrale](http://opac.rism.info/search?documentid=451501218){:target="_blank"}\
+**Matthew Dubourg**: [Violin Concerto in D](http://opac.rism.info/search?documentid=212001507){:target="_blank"}\
+**Timothy Geary**: Six Canzonetts\
+**Paul Alday**: [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"} (German premiere)  
 
-Mezzo-soprano: **[Sharon Carty](http://www.sharoncarty.com/){:target="_blank"}**
-Piano: **Jonathan Ware**
-Violin: **Frank Plieninger**
+Mezzo-soprano: **[Sharon Carty](http://www.sharoncarty.com/){:target="_blank"}**\
+Piano: **Jonathan Ware**\
+Violin: **Frank Plieninger**  
 
-[Junge Sinfoniker Frankfurt
-](http://www.junge-sinfoniker.de/)Conductor: **Bernhard Lingner**
+[Junge Sinfoniker Frankfurt](http://www.junge-sinfoniker.de/)Conductor: **Bernhard Lingner**  
 
 On the eve of St. Patrick's Day, this concert of Irish music will feature the first symphony that was composed in Ireland. French-born composer Paul Alday (ca. 1763-1835) lived and worked in Dublin at the beginning of the nineteenth century. The complete music to this symphony was recently [rediscovered and performed at a symposium last year](/events/2013/03/14/the-symphony-and-ireland-a-symposium.html?tx_ttnews%5Byear%5D=2013&tx_ttnews%5Bmonth%5D=03&cHash=93e6f96546bd53654c361ff660bc550d){:target="_blank"} for the first time after almost 200 years. Kerry Houston, director of the [Research Foundation for Music in Ireland (RFMI)](http://www.musicresearch.ie/){:target="_blank"}, will be present to introduce the work and talk about this exciting discovery. This will be the first performance of the symphony outside of Ireland.
 
@@ -34,7 +33,7 @@ Other rarities will allow a glimpse into the musical life of Ireland through the
 
 The soloist in MatthewDubourg's Violin Concerto in D will be Frank Plieninger, member of the [Frankfurt Opern- und Museumsorchester](http://www.oper-frankfurt.de/index.cfm?siteid=60){:target="_blank"}.
 
-The Irish mezzo-soprano Sharon Cartywas a member of the [Frankfurt Opera Studio](http://www.oper-frankfurt.de/en/page239.cfm){:target="_blank"} from 2010-2012 and impressed audiences in the role of Dido in Henry Purcell's _Dido and Aeneas_. She will sing songs by Timothy Geary (1775-1801) that were popular at the beginning of the nineteenth century, accompanied by American pianist Jonathan Ware.
+The Irish mezzo-soprano Sharon Cartywas a member of the [Frankfurt Opera Studio](https://oper-frankfurt.de/en/ensemble-guest-artists-opera-team/opera-studio/){:target="_blank"} from 2010-2012 and impressed audiences in the role of Dido in Henry Purcell's _Dido and Aeneas_. She will sing songs by Timothy Geary (1775-1801) that were popular at the beginning of the nineteenth century, accompanied by American pianist Jonathan Ware.
 
 For two of the works to be performed, the music was transcribed from original sources especially for this occasion.
 
