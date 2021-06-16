@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Online Directory of RISM Library Sigla"
-date: 2021-06-21
+date: 2021-06-16
 lang: en
 post: true
 category: new_at_rism
