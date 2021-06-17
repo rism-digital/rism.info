@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-In October, the RISM director, Klaus Keil, was invited to speak at a conference and workshop called [Preserving and Cataloguing Music Cultural Heritage in Asia](http://music.upd.edu.ph/research_dissemination.html){:target="_blank"}/Laon-Laon Forum at the [University of the Philippines College of Music](http://music.upd.edu.ph/){:target="_blank"}/UP Center for Ethnomusicology. He had the opportunity to present RISM to an international audience. RISM has had contact with the dean of the College of Music, [Dr. Jose Buenconsejo](http://music.upd.edu.ph/jose_buenconsejo.html){:target="_blank"}, since 2012.
+In October, the RISM director, Klaus Keil, was invited to speak at a conference and workshop called [Preserving and Cataloguing Music Cultural Heritage in Asia](https://web.archive.org/web/20141124070630/http://music.upd.edu.ph/research_dissemination.html){:target="_blank"}/Laon-Laon Forum at the [University of the Philippines College of Music](http://music.upd.edu.ph/){:target="_blank"}/UP Center for Ethnomusicology. He had the opportunity to present RISM to an international audience. RISM has had contact with the dean of the College of Music, [Dr. Jose Buenconsejo](https://music.upd.edu.ph/department-of-musicology.html){:target="_blank"}, since 2012.
 
 A large part of the conference was dedicated to ethnomusicology. There were presentations that described field studies and the use of sound and/or video recordings. These recordings are important sources for ethnomusicologists. So far, RISM has only dealt with written musical sources. Some participants expressed interest in RISM also documenting audio/visual recordings, but if and to what extent RISM can accommodate this requires more discussion.
 

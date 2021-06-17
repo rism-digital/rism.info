@@ -17,7 +17,7 @@ Muscat continues to be developed. Italian guidelines have been added since the r
 
 What's Muscat like from the perspective of those who use it every day? Here we offer you a point of view from a colleague in the United States:
 
-**Christina Linklater from the [U.S. RISM Office](http://hcl.harvard.edu/libraries/loebmusic/isham/rism.cfm){:target="_blank"} writes:**
+**Christina Linklater from the [U.S. RISM Office](https://library.harvard.edu/libraries/loeb-music#rism){:target="_blank"} writes:**
 
 Now that we have been using Muscat in the United States RISM Working Group for a few months, we thought it might be interesting for our colleagues at home and abroad to learn about our experience with the system.
 
@@ -27,4 +27,4 @@ Despite the inconvenience of toggling between browser and module, Kallisto was a
 
 Library systems are generally moving towards web-based operations. Harvard University, the institution at which the U.S. RISM Working Group is based, will be phasing out its server-based Aleph library management system in 2018 and joining the Alma community, shifting all functions (cataloging, circulation, reserves, serials, acquisitions and the public interface) to a cloud-based solution. This represents a radical shift for Harvard, yet because we’ve already implemented web cataloging here at Harvard’s RISM office, we’re uniquely able to share our perspective of online cataloging.
 
-On February 24th, 2017, two members of the U.S. RISM Working Group, director Sarah J. Adams and cataloger Christina Linklater, traveled to the Music Library Association’s [annual meeting in Orlando, Florida](http://www.musiclibraryassoc.org/BlankCustom.asp?page=mla_2017){:target="_blank"} to give a short presentation on Muscat and to offer hands-on training in the test database. We were pleased to find that our MLA colleagues are as excited as we are by the potential of Muscat; the real-time rendering of incipits in Muscat was particularly well received by the audience.
+On February 24th, 2017, two members of the U.S. RISM Working Group, director Sarah J. Adams and cataloger Christina Linklater, traveled to the Music Library Association’s [annual meeting in Orlando, Florida](https://www.musiclibraryassoc.org/mpage/mla_2017){:target="_blank"} to give a short presentation on Muscat and to offer hands-on training in the test database. We were pleased to find that our MLA colleagues are as excited as we are by the potential of Muscat; the real-time rendering of incipits in Muscat was particularly well received by the audience.

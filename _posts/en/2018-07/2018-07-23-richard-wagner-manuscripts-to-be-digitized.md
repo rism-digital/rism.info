@@ -11,7 +11,7 @@ email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---
 
-_This article first appeared on the website of the [Richard Wagner Museum Bayreuth](https://www.wagnermuseum.de/2018/05/digitalisierung-am-nationalarchiv-der-richard-wagner-stiftung-bayreuth/){:target="_blank"} and is reprinted here with kind permission._
+_This article first appeared on the website of the [Richard Wagner Museum Bayreuth](https://www.wagnermuseum.de){:target="_blank"} and is reprinted here with kind permission._
 
 **Preserving and making accessible collections of cultural and historical value: A digitization project at the National Archives of the Richard-Wagner-Stiftung in Bayreuth**
 
@@ -25,4 +25,6 @@ Immediately after the completion of the long-term project that saw the renovatio
 
 Now that this preparatory work is complete, the path is now clear for digitization and cataloging in the database. At present, the heart of the archival holdings are being digitized: original handwritten letters by Cosima and especially Richard Wagner, his notebooks, and the fair copies of his scores. Following this, the digital copies will be cataloged in the museum's own database, thus creating the basis for their online presentation.
 
-_Image_: Manuscript page with a letter by Richard Wagner. Source: Nationalarchiv der Richard-Wagner-Stiftung, Bayreuth.
+_Image_: Manuscript page with a letter by Richard Wagner. Source: Nationalarchiv der Richard-Wagner-Stiftung, Bayreuth.  
+
+<!-- Can't find URL https://www.wagnermuseum.de/2018/05/digitalisierung-am-nationalarchiv-der-richard-wagner-stiftung-bayreuth/ , not archived (June 2021)  -->

@@ -24,7 +24,9 @@ Use the symbol * to truncate.
 
 Examples:\
 I-R* for all sources currently in Rome, and US-PH* for all sources currently in Philadelphia.\
-I-* for all sources in Italy, and US-* for all sources in the United States.
+I-* for all sources in Italy, and US-* for all sources in the United States.  
+
+A [video is available here on YouTube](https://youtu.be/eeCp_7V1nm0){:blank} that demonstrates how to search the Directory of RISM Library Sigla.
 
  
 ## Search basics

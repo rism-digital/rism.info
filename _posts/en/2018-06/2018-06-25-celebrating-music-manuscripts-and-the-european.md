@@ -44,4 +44,4 @@ The autograph score is in the Staatsbibliothek zu Berlin (RISM ID no. [464000534
 
 Manuscripts such as these are where the European Year of Cultural Heritage and RISM intersect. Documentation, whether through inscription in a list or accessible through a catalog, is a form of preservation because it puts descriptions in a fixed and standardized form, making the information available to researchers. Having descriptions of music manuscripts and other musical sources in RISM helps people discover the music of their own culture and uncover connections to music found around the world.
 
-_Image from the European Year of Cultural Heritage [website](http://europa.eu/cultural-heritage/toolkits/logotype_en){:target="_blank"}._
+_Image from the European Year of Cultural Heritage [website](https://web.archive.org/web/20181226030533/http://europa.eu/cultural-heritage/toolkits/logotype_en){:target="_blank"}._

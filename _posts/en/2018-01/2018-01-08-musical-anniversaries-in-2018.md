@@ -47,4 +47,4 @@ p = after
 m = male
 w / f = female
 
-_Image from_ _[pixabay.com](https://pixabay.com/de/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}__._
+_Image from [pixabay.com](https://pixabay.com/de/illustrations/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}_.
