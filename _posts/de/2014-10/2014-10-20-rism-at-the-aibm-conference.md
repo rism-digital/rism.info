@@ -25,25 +25,16 @@ Unser RISM-Mitarbeiter Gottfried Heinz-Kronberger von der deutschen Arbeitsgrupp
 
 Die Arbeitsgruppe Öffentliche Bibliotheken widmete sich dem Thema Soziale Medien. Martin Kramer von der [Mediothek Krefeld](http://www.mediothek-krefeld.de/){:target="_blank"} ([Facebookseite](https://de-de.facebook.com/Mediothek.Krefeld){:target="_blank"}, [Seniorbookseite](https://www.seniorbook.de/mediothek.krefeld){:target="_blank"}) erläuterte die verschiedenen Arten von Posts und ihren jeweiligen Stellenwert im Facebooksystem. Auch wenn niemand die wertenden automatischen Algorhythmen des Systems wirklich versteht, und wie die Posts in den Nachrichtenordnern sortiert werden, stehen die höher bewerteten Posts am Kopf der Nachrichtenliste. Die Rangliste der Posts verläuft von einem hohen bis niedrigen Stellenwert wie folgt:
 
--
+- Auf Facebook hochgeladene Videos
 
-Auf Facebook hochgeladene Videos
+- Auf Facebook hochgeladene Fotos mit Text
 
--
+- Texte mit Links
 
-Auf Facebook hochgeladene Fotos mit Text
-
--
-
-Texte mit Links
-
--
-
-reine Textposts
+- reine Textposts
 
 
-Reine Textposts haben also den geringsten Stellenwert im System. Sein Vortrag ist [online abrufbar](http://prezi.com/zkjfaz0edbwh/social-media-in-bibliotheken/){:target="_blank"}.
-
+Reine Textposts haben also den geringsten Stellenwert im System. 
 
 Manfred Ullrich von der [Stadtbücherei Würzburg](http://www.wuerzburg.de/de/buerger/stadtbuecherei/index.html){:target="_blank"} ([Facebookseite](https://de-de.facebook.com/stadtbuecherei.wuerzburg){:target="_blank"}) gab uns noch Tipps, wie man die Teilnehmer auf Facebook stärker binden kann. Das Posten von Fragen, das Vorstellen von Bibliotheksmitarbeitern und eine verlässliche und regelmäßige Aktivität auf der Facebookseite auch in geschäftigen Zeiten helfen hier. Er zeigte uns, wie man regelrechte Postserien unter ein bestimmtes Motto stellt (Bsp.: Die [#klangbibliothek](http://instagram.com/p/uEGbJXAt2Y/){:target="_blank"} in Instagram). Manfred forderte uns zum Ende der Veranstaltung dazu auf, [die Facebookseite der IAML](https://www.facebook.com/iamlaibm){:target="_blank"} inhaltlich weiter zu unterstützen.
 
