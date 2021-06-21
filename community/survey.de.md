@@ -25,7 +25,7 @@ Sollten Sie Fragen haben, setzen Sie sich bitte mit uns in Verbindung: [contact@
 24 September 2015, 9:00 Uhr, Plenumsstizung: Musikbibliothek für alle\
 "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse" (Martina Falletta, Alexander Marxen, Jennifer Ward, RISM-Zentralredaktion)\
 [Folien](/resources/community/survey/RISM_Nutzerstudie_AIBM_Stuttgart_2015.pdf)
-* [IAML Congress](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015), New York\
+* [IAML Congress](https://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015), New York\
 23\. Juni 2015\
 In unserer informellen RISM-Sitzung (RISM Round Table) präsentieren wir erste Resultate der Umfrage. (Jennifer Ward)\
 [Folien](/resources/community/survey/RISM_survey_preliminary_results_Ward.pdf)
