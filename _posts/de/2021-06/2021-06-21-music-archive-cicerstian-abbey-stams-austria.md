@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "From Everyday Goods to Cultural Goods: The Music Archive of the Cicerstian Abbey of Stams, Austria"
+title: "Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams"
 date: 2021-06-21
-lang: en
+lang: de
 post: true
 category: library_collections
 image: "/images/news/2021-06/musikarchiv_des_zisterzienserstiftes_stams_kienhaimer_website_thumb.jpg"
