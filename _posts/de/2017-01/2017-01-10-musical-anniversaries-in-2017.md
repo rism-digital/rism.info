@@ -36,10 +36,10 @@ Die Zeitspanne beginnt mit [Titus Livius](https://opac.rism.info/search?View=ris
 
 **Zum Sortieren Überschrift anklicken [(Link zur Tabelle)](https://docs.google.com/spreadsheets/d/1f60S0ZGvNKE9gjQY_JxvdxBfvgJ5UaqaymLzt2irClY/edit?usp=sharing)**
 
-c = circa
-a = vor (ante)
-p = nach (post)
-m = männlich
+c = circa\
+a = vor (ante)\
+p = nach (post)\
+m = männlich\
 w / f = weiblich
 
-_Bildnachweis: [pixabay.com](https://pixabay.com/de/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
+_Bildnachweis: [pixabay.com](https://pixabay.com/de/illustrations/neujahr-silvester-2017-jahreswende-1599819/){:target="_blank"}._
