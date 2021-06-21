@@ -68,8 +68,8 @@ Die Referate sind alphabetisch sortiert.
 **Stefan Ikarus Kaiser** (RISM - Austrian Academy of Sciences): The Music Collection at Wilhering Abbey (Musiksammlung des Stiftes Wilhering)   
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf) (PDF)
 
-**Vjera Katalinic und Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf){:target="_blank"}
+**Vjera Katalinic and Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf)){:target="_blank"}
 
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
@@ -92,7 +92,7 @@ Die Referate sind alphabetisch sortiert.
 **Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval
 
 **Alina Mądry** (Poland): Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) (PDF)   [Slides (PDF)](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf){:target="_blank"}
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) (PDF)   [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Mądry_Mainz RISM.pdf){:target="_blank"}
 
 **Cheryl Martin** (RISM Canada): Canadian Music Resources in RISM
 
