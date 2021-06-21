@@ -20,9 +20,9 @@ Today, Avondano's manuscripts are held in places as far apart as Paris, New York
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1XaHwakNAaV3hAenyvznzDbrb9p8audBCUHXa1NU&amp;viz=MAP&amp;h=false&amp;lat=40.699139457097&amp;lng=53.89859691989818&amp;t=1&amp;z=2&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 [Link to map](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1XaHwakNAaV3hAenyvznzDbrb9p8audBCUHXa1NU&viz=MAP&h=false&lat=40.699139457097&lng=53.89859691989818&t=1&z=3&l=col0&y=2&tmplt=2&hml=ONE_COL_LAT_LNG){:target="_blank"}
 
-A conference called ["Niccolò Jommelli, Christoph Willibald Gluck and Pedro António Avondano, in the occasion of their 300th anniversary: The circulation of musical repertoires in 18th-century Europe"](http://musicologyconferences.xevents.sas.ac.uk/event/show/12702){:target="_blank"} will take place in June 2014 in Lisbon, Portugal. The call for papers has been extended to April 5.
+A conference called ["Niccolò Jommelli, Christoph Willibald Gluck and Pedro António Avondano, in the occasion of their 300th anniversary: The circulation of musical repertoires in 18th-century Europe"](https://goldenpages.jpehs.co.uk/2014/02/27/niccolo-jommelli-christoph-willibald-gluck-and-pedro-antonio-avondano-in-the-occasion-of-their-300th-anniversary-the-circulation-of-musical-repertoires-in-18th-century-europe/){:target="_blank"} will take place in June 2014 in Lisbon, Portugal. The call for papers has been extended to April 5.
 
-**Bibliography**
+**Bibliography**  
 Manuel Carlos de Brito, _New Grove_ 2nd ed., vol.2
 
 Filipe Mesquita de Oliveira, "Os Minuetes de Lisboa" de Pedro António Avondano(1714-1782), [Centro Nacional de Cultura](http://www.e-cultura.pt/DestaqueCulturalDisplay.aspx?ID=587){:target="_blank"}

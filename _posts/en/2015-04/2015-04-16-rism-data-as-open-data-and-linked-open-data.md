@@ -7,7 +7,7 @@ post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_05_12e18abc9a.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/rism-data-as-open-data-and-linked-open-data.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -19,7 +19,7 @@ It means we want ourdatato be not only **widely seen** but also **widely used**.
 
 Open data means that all of the data in the RISM online catalog are freely available, licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/3.0/de/deed.en){:target="_blank"}, in MARCXML format for unrestricted access and unrestricted reuse in other projects. In 2014, thedatawere released aslinkedopendatain RDF format. Linked open data allows you to bring datasets from different databases together.
 
-The [Detmold Court Theater project](http://hoftheater-detmold.de/){:target="_blank"} uses RISM's open data as a basis of indexing music holdings based on MEI (Music Encoding Initiative) and TEI (Text Encoding Initiative). Kristina Richts and Peter Stadler will be reporting on this project during the RISM session at the [IAML congress in June](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015 "external-link-new-window"). More and more digital projects are starting to use open data, such as [Europeana](http://labs.europeana.eu/api/linked-open-data/introduction/){:target="_blank"}, [DBpedia](http://wiki.dbpedia.org/Interlinking){:target="_blank"}, [Getty vocabularies](http://www.getty.edu/research/tools/vocabularies/lod/){:target="_blank"}, and the [Sheet Music Consortium](http://digital2.library.ucla.edu/sheetmusic/lod.html){:target="_blank"}.
+The [Detmold Court Theater project](http://hoftheater-detmold.de/){:target="_blank"} uses RISM's open data as a basis of indexing music holdings based on MEI (Music Encoding Initiative) and TEI (Text Encoding Initiative). Kristina Richts and Peter Stadler will be reporting on this project during the RISM session at the [IAML congress in June](https://www.musiclibraryassoc.org/mpage/IAML_IMS_2015 "external-link-new-window"). More and more digital projects are starting to use open data, such as [Europeana](https://pro.europeana.eu/page/linked-open-data){:target="_blank"}, [DBpedia](https://www.dbpedia.org/){:target="_blank"}, [Getty vocabularies](http://www.getty.edu/research/tools/vocabularies/lod/){:target="_blank"}, and the [Sheet Music Consortium](http://digital2.library.ucla.edu/sheetmusic/lod.html){:target="_blank"}.
 
 If you have any questions about using the data, please contact us: [contact@rism.info](mailto:contact@rism.info). Please also see the [RISM Data Services page](/community/data-services.html), with a [brochure (PDF)](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"} that you can print out.
 
