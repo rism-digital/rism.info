@@ -13,7 +13,7 @@ author: ''
 
 I (Jennifer Ward) attended the [International Musicological Society (IMS) congress in Tokyo](http://ims2017-tokyo.org/){:target="_blank"} from March 19 to 23, 2017, supported by a grant from [Bibliothek & Information International/Goethe-Institut](http://www.bi-international.de/english){:target="_blank"}. The congress was hosted by the Tokyo University of the Arts and revolved around the theme [Musicology: Theory and Practice, East and West](http://ims2017-tokyo.org/Theme/){:target="_blank"}.
 
-RISM (and the other three [R projects](http://www.r-musicprojects.org/){:target="_blank"}) is jointly sponsored by the [IMS](https://ims-international.ch/){:target="_blank"} and [IAML](http://www.iaml.info/){:target="_blank"} (the International Association of Music Libraries, Archives and Documentation Centres). While IAML meets annually, IMS congresses are pretty rare occasions, taking place only once every five years. This was my first IMS congress, and the congress can be described as gigantic in scope: there were over 600 participants; a plethora of keynote lectures, roundtables, study sessions, and papers; and at times 10 or more sessions at once. It was impossible to see everything.
+RISM (and the other three [R projects](http://www.r-musicprojects.org/){:target="_blank"}) is jointly sponsored by the [IMS](https://www.musicology.org/){:target="_blank"} and [IAML](http://www.iaml.info/){:target="_blank"} (the International Association of Music Libraries, Archives and Documentation Centres). While IAML meets annually, IMS congresses are pretty rare occasions, taking place only once every five years. This was my first IMS congress, and the congress can be described as gigantic in scope: there were over 600 participants; a plethora of keynote lectures, roundtables, study sessions, and papers; and at times 10 or more sessions at once. It was impossible to see everything.
 
 A joint R session allowed each of the R projects to present new developments. The RISM presentation was given by RISM director Klaus Keil and showed some features of the online catalog and Muscat, RISM's new cataloging program.
 
@@ -35,7 +35,7 @@ Next I visited the [university library](http://www.lib.geidai.ac.jp/Eguide.html)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865161620989%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-[digitized and available online](http://images.lib.geidai.ac.jp/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+[digitized and available online](https://archives.geidai.ac.jp/#arccenter){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 [National Diet Library](http://www.ndl.go.jp/en/){:target="_blank"}
 
 
