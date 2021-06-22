@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Everyday Goods to Cultural Goods: The Music Archive of the Cicerstian Abbey of Stams, Austria"
+title: "From Everyday Goods to Cultural Goods: The Music Archive of the Cistercian Abbey of Stams, Austria"
 date: 2021-06-21
 lang: en
 post: true
