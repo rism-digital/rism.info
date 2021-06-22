@@ -17,6 +17,6 @@ Charles de Bériot, violinist, composer, teacher, philosopher, artist, died on e
 
 While we have a rather significant collection of items which belonged to his first wife Maria Malibran in the [Brussels Conservatories Library](https://en.wikipedia.org/wiki/Maria_Malibran_fund){:target="_blank"}, [RISM only lists 10 autograph manuscripts](https://opac.rism.info/search?View=rism&author=Charles+de+B%C3%A9riot){:target="_blank"} of de Bériot. I believe the nachlass of de Bériot was passed down through his son Charles-Wilfrid de Bériot and is most likely in the possession of a family of noble descent in France. This collection was reported to even contain philosophical writings by de Bériot!
 
-In today’s blog post I have translated, together with the help of [Mary Bardet of the University of Birmingham](https://fr.linkedin.com/in/mary-bardet-2117ba105){:target="_blank"}, a lesser known early biographical sketch of de Bériot.
+In today’s blog post I have translated, together with the help of [Mary Bardet of the University of Birmingham](https://fr.linkedin.com/in/mary-bardet-phd-2117ba105){:target="_blank"}, a lesser known early biographical sketch of de Bériot.
 
 Please continue reading ["Farewell Charles de Bériot!" here](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}.

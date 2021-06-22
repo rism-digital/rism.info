@@ -24,7 +24,7 @@ Digitizing watermarks is more complicated. This is being accomplished using an i
 
 With these measures, the RISM online catalog is considerably enriched, therefore reaching the project goal of catalog enrichment.
 
-This colloquium, presented by the Berlin State Library, was intended to summarize findings, now that the project is in its third year of funding. The full program and some presentations can be found on the [library's website](http://staatsbibliothek-berlin.de/en/about-the-library/departments/musik/projekte/dfg-projekt-kofim-berlin/tagung-2014/){:target="_blank"}.
+This colloquium, presented by the Berlin State Library, was intended to summarize findings, now that the project is in its third year of funding. The full program and some presentations can be found on the [library's website](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/tagung-2014/){:target="_blank"}.
 
 An article about this conference appeared in the _Zeitschrift für Bibliothekswesen und Bibliographie_ and will be available free online in 12 months from the [Thüringer Universitäts- und Landesbibliothek Jena](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
