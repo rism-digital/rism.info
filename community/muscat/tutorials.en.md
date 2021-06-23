@@ -27,7 +27,7 @@ permalink: /community/muscat/tutorials.html
 
 * [The authority file for Personal Names](https://youtu.be/A130dB8I62k){:target="_blank"}: How to add and edit a name, what information to include, linking to VIAF
 
-* [Composite volumes](https://youtu.be/46_agb6-K_0){:target="_blank"}: How to show that printed items (or printed plus manuscript items) are bound together.
+* Composite volumes: How to show that printed items (or printed plus manuscript items) are bound together. [YouTube video](https://youtu.be/46_agb6-K_0){:blank} and [PDF guide](/resources/community/muscat/guide_add_composite_records_muscat_202106.pdf)
 
 * Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)  
 
