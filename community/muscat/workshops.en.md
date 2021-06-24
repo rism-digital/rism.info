@@ -13,26 +13,14 @@ Access to a training server is available for use in demonstrations, at conferenc
 
 To our regular Muscat users: You can also hold a Muscat workshop! Consider proposing a Muscat session for your next library or musicological association conference.
 
-## Upcoming workshops
+## Upcoming workshops  
 
-22 and 24 June 2021: 
-Two-part Muscat introduction in English and German, online  
-
-* **RISM Workshop 1: Muscat basics**  
-Tuesday, June 22, 2021  
-7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)   
-In this workshop Muscat will be demonstrated and participants will learn how to catalog a music manuscript.
-
-* **RISM Workshop 2: Continuation**  
-Thursday, June 24, 2021  
-7:00-8:30 UTC (English) and 14:00-15:30 UTC (German)  
-This course will continue the skills learned in Tuesday’s session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Tuesday session or participation in a previous Muscat workshop.
-
-**The German workshop is full. A limited number of spaces remain for English; please email [contact@rism.info](mailto:contact@rism.info){:blank} by Friday, June 11.**   
-
-
+There are no scheduled workshops at this time. To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
 
 ## Past workshops and demonstrations
+
+* 22 and 24 June 2021: Muscat introduction, online  
+*Martina Falletta and Jennifer Ward (RISM Editorial Center)*  
 
 * 22 and 24 February 2021: [Muscat introduction](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
 *Martina Falletta and Jennifer Ward (RISM Editorial Center)*
@@ -56,7 +44,7 @@ This course will continue the skills learned in Tuesday’s session. Participant
 * 13 October 2020: RISM United Kingdom, online\
 *Jennifer Ward, RISM Central Office*
 
-* 15 September 2020:[IAML Germany conference](http://www.aibm.info/tagungen/2020-bonn/), Bonn\
+* 15 September 2020: [IAML Germany conference](http://www.aibm.info/tagungen/2020-bonn/), Bonn\
 *Martina Falletta (RISM Central Office)*
 
 * 7-8 September 2020: Chopin Institute, Warsaw (online)\
@@ -71,7 +59,7 @@ This course will continue the skills learned in Tuesday’s session. Participant
 * 6 December 2019: Harvard University, Cambridge, United States. Muscat workshop for Harvard music catalogers.\
 *Christina Linklater (RISM United States)*
 
-* 27 November 2019:[Muscat Workshop](https://www.facebook.com/curtLangeUFMG/posts/355729751924800), [Acervo Curt Lange-UFMG](https://www.ufmg.br/rededemuseus/acl/), Belo Horizonte, Brazil\
+* 27 November 2019: [Muscat Workshop](https://www.facebook.com/curtLangeUFMG/posts/355729751924800), [Acervo Curt Lange-UFMG](https://www.ufmg.br/rededemuseus/acl/), Belo Horizonte, Brazil\
 *André Guerra Cotta (RISM Brazil)*
 
 * 11-14 November 2019: Musical Archivology course, University of Buenos Aires, Argentina\
@@ -81,10 +69,10 @@ Workshop following the [Congress of the Asociación Regional para América Latin
 * 27 September 2019: Ewha Womans University, Seoul, South Korea\
 *Eva Neumayr (RISM Salzburg)*
 
-* 17 September 2019:[Jahrestagung der IAML Ländergruppe Deutschland](http://www.aibm.info/tagungen/2019-augsburg/), Augsburg, Germany\
+* 17 September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](http://www.aibm.info/tagungen/2019-augsburg/), Augsburg, Germany\
 *Guido Kraus, Jennifer Ward*
 
-* 16 July 2019:[IAML Congress, Kraków, Poland](/publications/iaml-congresses/2019.html)\
+* 16 July 2019: [IAML Congress, Kraków, Poland](/publications/iaml-congresses/2019.html)\
 RISM Workshop 1: Muscat basics\
 RISM Workshop 2: Continuation\
 *Klaus Keil, Jennifer Ward*
@@ -97,7 +85,7 @@ RISM Workshop 2: Continuation\
 [Report](/events/2019/06/27/muscat-workshop-at-the-czech-national-library-in.html) \
 *Guido Kraus*
 
-* March 25-29, 2019:[Primer Seminario Argentino de Capacitación en Catalogación Musical con MUSCAT-RISM,](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/)Universidad Nacional de Córdoba, Argentina\
+* March 25-29, 2019: [Primer Seminario Argentino de Capacitación en Catalogación Musical con MUSCAT-RISM,](http://artes.unc.edu.ar/primer-seminario-argentino-de-capacitacion-en-catalogacion-musical-con-muscat-rism/)Universidad Nacional de Córdoba, Argentina\
 [Report by Luciana Giron Sheridan and Lucas Reccitelli](/events/2019/06/03/taller-de-muscat-en-córdoba-argentina-muscat.html)\
 *Jennifer Ward*
 
@@ -116,7 +104,7 @@ RISM Workshop 2: Continuation\
 *RISM Central Office staff*\
 [Schedule (PDF)](/resources-old-website/community-content/Muscat_EN/Programm_DE_EN_FINAL_Drucke_October_2018.pdf)
 
-* July 24, 2018:[IAML Congress in Leipzig](http://iaml2018.info/programme/workshops/), Germany\
+* July 24, 2018: [IAML Congress in Leipzig](http://iaml2018.info/programme/workshops/), Germany\
 *Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward*\
 [Slides](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf), [Practice examples](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf), [Handout](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf) (all English)
 
