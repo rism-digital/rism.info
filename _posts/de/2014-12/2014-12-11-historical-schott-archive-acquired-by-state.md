@@ -18,16 +18,16 @@ Weitere Förderer, die teilweise den Ankauf durch einzelne Institutionen ermögl
 
 Das nun erworbene Verlagsarchiv wird zukünftig in folgenden Institutionen bewahrt und erschlossen: Bayerische Staatsbibliothek, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Beethoven-Haus (Konvolut Ludwig van Beethoven), Carl-Orff-Stiftung (Konvolut Carl Orff), Fondation Hindemith (Konvolut Paul Hindemith), Max-Reger-Institut/Elsa-Reger-Stiftung (Konvolut Max Reger), Stiftung Akademie der Künste Berlin (Konvolut Bernd Alois Zimmermann), Universitätsbibliothek Johann Christian Senckenberg (Engelbert Humperdinck).
 
-Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
-Musikabteilung mit Mendelssohn-Archiv
-Dr. Martina Rebmann
-Unter den Linden 8
-D-10117 Berlin[
-martina.rebmann@sbb.spk-berlin.de](http://martina.rebmann.sbb.spk-berlin.de)
+Staatsbibliothek zu Berlin – Preußischer Kulturbesitz\
+Musikabteilung mit Mendelssohn-Archiv\
+Dr. Martina Rebmann\
+Unter den Linden 8\
+D-10117 Berlin\
+[martina.rebmann@sbb.spk-berlin.de](http://martina.rebmann.sbb.spk-berlin.de)
 
-Bayerische Staatsbibliothek
-Musikabteilung
-Dr. Reiner Nägele
-Ludwigstr.16
-D-80539 München
+Bayerische Staatsbibliothek\
+Musikabteilung\
+Dr. Reiner Nägele\
+Ludwigstr.16\
+D-80539 München\
 [reiner.naegele@bsb-muenchen.de](mailto:reiner.naegele@bsb-muenchen.de)
