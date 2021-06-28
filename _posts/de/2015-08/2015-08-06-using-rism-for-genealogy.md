@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kompositionen des Christian Balthasar TEUTHORN per RISM gefunden
+title: Kompositionen des Christian Balthasar Teuthorn per RISM gefunden
 date: 2015-08-06
 lang: de
 post: true
@@ -15,13 +15,13 @@ _Dass RISM neben seiner offensichtlichen Bedeutung für Musikwissenschaftler, Bi
 
 Heutige Genealogie erschöpft sich nicht mehr in der Aneinanderreihung von Ahnendaten. Familien(geschichts)forscher suchen den sozialgeschichtlichen Hintergrund der jeweiligen Lebenszeit ihrer Vorfahren. Wenn Digitalisierung jetzt den Zugang zu Bibliotheken erleichtert, Archivgut über zeitgemäße Findmittel erschließt und virtuelle Themensammlungen ermöglicht, dann öffnen sich für den Familienforscher Hilfsmittel für einen Blick in die Vergangenheit von Lebensalltag, aber auch zum kulturellen Umfeld seiner Vorfahren. Solche Quellen waren in der vordigitalen Welt nur mühsam zu erschließen.Dass dabei auch die Musik eine Rolle spielen kann, zeigt ein aktueller Blog-Beitrag.
 
-Auf den Seiten 10 bis 13 der Ausgabe 2/2015 des [_Bibliotheks-Magazins_](https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2015-2.pdf){:target="_blank"} berichtet Reiner Nägele über die Virtuelle Fachbibliothek Musik ([VifaMUSIK](https://www.vifamusik.de/startseite.html){:target="_blank"}) in der Bayerischen Staatsbibliothek München. Die Darstellung gibt einen Einblick in die Komplexität der nationalen und internationalen Musikwissenschaft.
+Auf den Seiten 10 bis 13 der Ausgabe 2/2015 des [_Bibliotheks-Magazins_](https://www.bsb-muenchen.de/ueber-uns/publikationen/bibliotheksmagazin/){:target="_blank"} berichtet Reiner Nägele über die Virtuelle Fachbibliothek Musik ([VifaMUSIK](https://www.vifamusik.de/startseite.html){:target="_blank"}) in der Bayerischen Staatsbibliothek München. Die Darstellung gibt einen Einblick in die Komplexität der nationalen und internationalen Musikwissenschaft.
 
-Für den Familienforscher, der Musiker unter seinen Ahnen hat, sowie für den hieran interessierten Historiker ist der[**Virtuelle Musikkatalog RISM-OPAC**](https://opac.rism.info/){:target="_blank"}ein wichtiges Auskunftsmittel. Für seinen Betrieb und die technische Umsetzung zeichnet die Bayerische Staatsbibliothek München verantwortlich.
+Für den Familienforscher, der Musiker unter seinen Ahnen hat, sowie für den hieran interessierten Historiker ist der [**Virtuelle Musikkatalog RISM-OPAC**](https://opac.rism.info/){:target="_blank"} ein wichtiges Auskunftsmittel. Für seinen Betrieb und die technische Umsetzung zeichnet die Bayerische Staatsbibliothek München verantwortlich.
 
-Die Suche im Internationalen Quellenlexikon der Musik ( **RISM** /Répertoire International des Sources Musicales) bündelt die Schätzeder Einzelarchive und verspricht eine zusammengefasste Auskunft mit interessanten Ergebnissen. So war es mir nun möglich mit **einer** Suchfrage den Nachweis zu den Sonaten, Polonaisen und Liedern für Klavier und Violine des[Christian Balthasar Teuthorn](https://opac.rism.info/search?View=rism&author=Christian+Balthasar+Teuthorn "external-link-new-window") zu finden.
+Die Suche im Internationalen Quellenlexikon der Musik (**RISM** /Répertoire International des Sources Musicales) bündelt die Schätze der Einzelarchive und verspricht eine zusammengefasste Auskunft mit interessanten Ergebnissen. So war es mir nun möglich mit **einer** Suchfrage den Nachweis zu den Sonaten, Polonaisen und Liedern für Klavier und Violine des [Christian Balthasar Teuthorn](https://opac.rism.info/search?View=rism&author=Christian+Balthasar+Teuthorn "external-link-new-window") zu finden.
 
-Auskunft zum RISM mit Katalog-Zugang auch unter[https://www.bsb-muenchen.de/die-bayerische-staatsbibliothek/kooperationen/repertoire-international-des-sources-musicales-rism/](https://www.bsb-muenchen.de/die-bayerische-staatsbibliothek/kooperationen/repertoire-international-des-sources-musicales-rism/). Das Suchergebnis zeigt jeweils die vorhandenen Werkinformationen und den oder die Archivstandorte, nämlich
+Auskunft zum RISM mit Katalog-Zugang auch unter [der BSB Webseite](https://www.bsb-muenchen.de/ueber-uns/kooperationen/repertoire-international-des-sources-musicales-rism/). Das Suchergebnis zeigt jeweils die vorhandenen Werkinformationen und den oder die Archivstandorte, nämlich
 
 ![Teuthorn in RISM](http://teuthorn.net/feuilleton/wp-content/uploads/2015/08/suchergebnisCBT.jpg)
 
