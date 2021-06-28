@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Auf Einladung der [University of the Philippines, College of Music](http://music.upd.edu.ph/){:target="_blank"} und UP Center for Ethnomusicology nahm der Leiter der RISM Zentralredaktion Klaus Keil an der Tagung [Laon-Laon - Forum and Conference-Workshop on Preservation of Music Heritage in Asia](http://music.upd.edu.ph/research_dissemination.html){:target="_blank"} teilgenommen und stellte RISM ausführlich vor. Seit 2012 hat RISM Kontakt zum Dean des College of Music, [Dr. Jose Buenconsejo](http://music.upd.edu.ph/jose_buenconsejo.html){:target="_blank"}.
+Auf Einladung der [University of the Philippines, College of Music](http://music.upd.edu.ph/){:target="_blank"} und UP Center for Ethnomusicology nahm der Leiter der RISM Zentralredaktion Klaus Keil an der Tagung [Laon-Laon - Forum and Conference-Workshop on Preservation of Music Heritage in Asia](https://web.archive.org/web/20141124070630/http://music.upd.edu.ph/research_dissemination.html){:target="_blank"} teilgenommen und stellte RISM ausführlich vor. Seit 2012 hat RISM Kontakt zum Dean des College of Music, [Dr. Jose Buenconsejo](https://music.upd.edu.ph/department-of-musicology.html){:target="_blank"}.
 
 Ein großer Teil der Tagung war der Ethnologischen Musikforschung gewidmet, wobei Feldstudien mittels Ton- oder Ton-Bildaufnahmen vorgestellt und besprochen wurden. Diese Aufnahmen stellen für die Musikethnologie wichtige Quellen dar. Bisher beschäftigt sich RISM aber ausschließlich mit schriftlichen Musikquellen. Ob und inwieweit RISM dem Interesse der Teilnehmer, auch solche Quellen verzeichnet zu finden, entgegenkommen kann, erfordert noch eine ausführliche Diskussion.
 

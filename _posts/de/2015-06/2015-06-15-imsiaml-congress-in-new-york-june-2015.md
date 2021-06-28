@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Bitte weitersagen: RISM nimmt am IMS/IAML Kongress “[Musikforschung im Digitalen Zeitalter](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"}“ vom 21. bis 26. Juni 2015 in New York teil.
+Bitte weitersagen: RISM nimmt am IMS/IAML Kongress “[Musikforschung im Digitalen Zeitalter](https://www.musiclibraryassoc.org/mpage/IAML_IMS_2015){:target="_blank"}“ vom 21. bis 26. Juni 2015 in New York teil.
 
 
 Bitte besuchen Sie unseren Tisch im Ausstellungsbereich während der Pausen! Außerdem laden wir Sie zu folgenden Veranstaltungen ein:
