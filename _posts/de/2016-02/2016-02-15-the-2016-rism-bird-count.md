@@ -17,7 +17,7 @@ Warum führen wir nicht als Ergebnis dieser Ereignisse eine eigeme RISM-Vogelzä
 
 Die Datenbank bietet keine Themenüberschrift für Vögel in der Musik, daher lassen wir uns von der Volltextsuche leiten. Wenn wir gewöhnliche Vögel mit ihrer Sichtung in RISM vergleichen, erhalten wir folgende Ergebnisse:
 
-- [Zwei](https://opac.rism.info/search?id=350000332){:target="_blank"} [Spatzen](https://opac.rism.info/search?id=350001256){:target="_blank"} aus koreanischen Sammlungen und ein deutscher Sperling zusammen mit einer[Turteltaube](https://opac.rism.info/search?id=220033222){:target="_blank"}, einer [Taube](https://opac.rism.info/search?id=301005537){:target="_blank"} und einem[Stieglitz](https://opac.rism.info/search?id=452517826){:target="_blank"}
+- [Zwei](https://opac.rism.info/search?id=350000332){:target="_blank"} [Spatzen](https://opac.rism.info/search?id=350001256){:target="_blank"} aus koreanischen Sammlungen und ein deutscher Sperling zusammen mit einer [Turteltaube](https://opac.rism.info/search?id=220033222){:target="_blank"}, einer [Taube](https://opac.rism.info/search?id=301005537){:target="_blank"} und einem [Stieglitz](https://opac.rism.info/search?id=452517826){:target="_blank"}
 
 - Fünf [robin redbreasts](https://opac.rism.info/search?View=rism&q=robin&q=red&q=breast){:target="_blank"} aber acht deutsche [_Rotkehlchen_](https://opac.rism.info/search?View=rism&q=Rotkehlchen){:target="_blank"}
 
@@ -25,18 +25,11 @@ Die Datenbank bietet keine Themenüberschrift für Vögel in der Musik, daher la
 
 - Über einhundert [Elstern](https://opac.rism.info/search?View=rism&q=elster){:target="_blank"} (Rossini sei es gedankt)
 
--
+- Ein [starling (Star)](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
 
-Ein [starling (Star)
-](https://opac.rism.info/search?id=00000990042495){:target="_blank"}
+- Eine Schar von [Drosseln](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [Kuckuck](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"} und französischen Tauben ([_pigeons)_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
 
--
-
-Eine Schar von [Drosseln](https://opac.rism.info/search?View=rism&q=thrush){:target="_blank"}, [Kuckuck](https://opac.rism.info/search?View=rism&q=cuckoo){:target="_blank"} und französischen Tauben ([_pigeons)_](https://opac.rism.info/search?View=rism&q=pigeons){:target="_blank"}
-
--
-
-Eine [Wildgans](https://opac.rism.info/search?id=350000507){:target="_blank"}
+- Eine [Wildgans](https://opac.rism.info/search?id=350000507){:target="_blank"}
 
 
 Die am meisten vertretene Vogelart dieser Zeit scheint die Nachtigall mit all ihrem Vorkommen in [englisch](https://opac.rism.info/search?View=rism&q=Nightingale){:target="_blank"}, [deutsch](https://opac.rism.info/search?View=rism&q=nachtigall){:target="_blank"} und [französisch](https://opac.rism.info/search?View=rism&q=rossignol "external-link-new-window") zu sein - weit mehr als 800 Mal!
@@ -48,16 +41,15 @@ _Nachtigall: Aus_ Birds of Europe _von John Gould, London, 1837. [New York Publi
 Da wir Sie Musik erkunden lassen, die unsere gefiederten Freunde bringen, möchten wir auf eine Publikation des 18. Jahrhunderts hinweisen (RISM A/I: [C 4544](https://opac.rism.info/search?id=00000990011878){:target="_blank"}; die früheste Ausgabe stammt von 1717), welche laut [Sarah Angliss](http://www.sarahangliss.com/talks/birdfancyersdelightnotes){:target="_blank"} eine von mehreren Methoden vorstellt, den Vögeln verschiedene Melodien beizubringen:
 
 ![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)
-_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling
+_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling_
 
-Abbildung von der_
-[_University of Cardiff_](http://www.cardiff.ac.uk/insrv/libraries/scolar/digital/music.html){:target="_blank"}
+Abbildung von der [_University of Cardiff_]((https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:target="_blank"}
 
-Eine digitalisierte Version ist bei [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} verfügbar und Angliss hat einige Ausschnitte [hier](https://soundcloud.com/spacedoguk/sets/the-bird-fancyers-delight){:target="_blank"} aufgezeichnet.
+Eine digitalisierte Version ist bei [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} verfügbar und Angliss hat einige Ausschnitte [hier](https://soundcloud.com/sarahangliss/sets/the-bird-fancyers-delight){:target="_blank"} aufgezeichnet.
 
 Hat irgendjemand andere Beobachtungen gemacht, die Sie uns mitteilen möchten? Lassen Sie es uns in den Kommentaren unten wissen!
 
-**Suchtipp** : Benutzen Sie die Bool'schen Operatoren, um Quellen auszuschliessen, in denen der Vogel im Namen einer Person enthalten ist. Verwenden Sie die Erweiterte Suche und geben Sie die Vogelart in **Alle Felder** ein, dann sowohl in den Feldern **Weitere Personen** und **Komponist**. Wählen Sie **und nicht** aus dem Drop-down-Menu, das den Feldern voransteht:
+**Suchtipp**: Benutzen Sie die Bool'schen Operatoren, um Quellen auszuschliessen, in denen der Vogel im Namen einer Person enthalten ist. Verwenden Sie die Erweiterte Suche und geben Sie die Vogelart in **Alle Felder** ein, dann sowohl in den Feldern **Weitere Personen** und **Komponist**. Wählen Sie **und nicht** aus dem Drop-down-Menu, das den Feldern voransteht:
 
 ![advanced search](/resources-old-website/news/Vogelzaehlung_opac.jpg)
 
