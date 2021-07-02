@@ -27,7 +27,7 @@ Es gibt drei neue Institutionen, die mit der **Henry Cowell-Forschung in Verbind
 
 - [Temple of the People](https://www.templeofthepeople.org/){:target="_blank"}: Eine Kirche in Halcyon, Californien mit der William Quan Judge Library und [Materialien zu Cowell](https://issuu.com/josephinechang/docs/cowell-papers-at-halcyon){:target="_blank"}: **US-HAL**
 - [The New School](https://library.newschool.edu/archives/){:target="_blank"} in New York: **US-NYnscl**
-- The Composers' Union Library, Moskau: **RUS-Mmdk** (für die [Musikbibliothek](http://www.house-composers.ru/){:target="_blank"} des Moskauer Hauses der Komponisten) und **RUS-Mbsmk** (für die [Musikbibliothek](http://%D1%81%D0%BE%D1%8E%D0%B7%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%85%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2.%D1%80%D1%84/library-soyuz.htm){:target="_blank"} der Vereinigung der Moskauer Komponisten Union)
+- The Composers' Union Library, Moskau: **RUS-Mmdk** (für die [Musikbibliothek](http://www.house-composers.ru/){:target="_blank"} des Moskauer Hauses der Komponisten) und **RUS-Mbsmk** (für die [Musikbibliothek](http://xn--b1aanbebkbbpfqcbebcaoyded7a1etm.xn--p1ai/library-soyuz.htm){:target="_blank"} der Vereinigung der Moskauer Komponisten Union)
 
 Und zum Schluss noch das [Grateful Dead Archive](https://guides.library.ucsc.edu/gratefuldeadarchive){:target="_blank"} an der University of California, Santa Cruz: **US-SCgda**
 
@@ -36,9 +36,9 @@ Neu im Sigel-Verzeichnis sind auch Institutionen mit Quellen in der RISM-Datenba
 - Zwei Archive, die für [Joseph Haydn](https://opac.rism.info/search?View=rism&author=joseph+haydn&Language=en){:target="_blank"}s Karriere als [_Opernkapellmeister_ in Eszterháza](https://doi.org/10.1093/em/cau133){:target="_blank"} wichtig sind:
 
 - Das [Esterházy-Archiv](https://esterhazy.at/de/burgforchtenstein/680046/Das-Archiv-der-Burg?from=suche.intern.portal){:target="_blank"} im Schloss Forchtenstein in Österreich: **A-FOea**
-- [Ungarisches Nationalarchiv](http://www.mol.gov.hu/){:target="_blank"} (Magyar Nemzeti Levéltár, MNL) in Budapest: **H-Bmnl**
+- [Ungarisches Nationalarchiv](https://mnl.gov.hu/){:target="_blank"} (Magyar Nemzeti Levéltár, MNL) in Budapest: **H-Bmnl**
 
 - Institutionen im Zusammenhang mit den ungarischen Komponisten [Béla Bartók](https://opac.rism.info/search?View=rism&author=bartok&Language=en){:target="_blank"} und [Zoltán Kodály](https://opac.rism.info/search?View=rism&author=Zoltan+kodaly&Language=en "external-link-new-window"):
 - [Bartók Archiv](http://zti.hu/index.php/hu/bartok){:target="_blank"} (Bartók Archívum), Institute for Musicology of the Research Centre for the Humanities, Hungarian Academy of Sciences: **H-Bbba**
-- [Zoltán Kodály Archiv](http://kodaly.hu/hu/muzeum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
+- [Zoltán Kodály Archiv](https://kodaly.hu/museum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
 - [Bartók Béla Memorial House](http://www.bartokmuseum.hu/){:target="_blank"} (Bartók Béla Emlékház): **H-Bbeh**

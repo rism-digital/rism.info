@@ -13,7 +13,7 @@ author: Katerina Mayrova
 
 _Die folgende Ankündigung erhielten wir von Katerina Mayrova aus dem [Nationalmuseum in Prag](http://www.nm.cz/Publications/Electronic-Publications/The-Rokycany-Music-Collection-A-Catalogue-of-Franco-Netherlandish-Sacred-Works-Preserved-in-the-Oldest-Layer-of-the-Repertoire.html){:target="_blank"} (CZ-Pnm):_
 
-Kateřina Maýrová, Stephanie P. Schlagel, Hana Hrachová: _Rokycanská hudební sbírka. Katalog franko-nizozemských duchovních skladeb dochovaných v nejstarší vrstvě repertoáru - The Rokycany Music Collection. A Catalogue of Franco-Netherlandish Sacred Works Preserved in the Oldest Layer of the Repertoire_, Praha: Národní muzeum, 2016. ISBN 978-80-7036-513-7, 461 Seiten. [Online verfügbar](http://www.nm.cz/admin/files/File/download/epublikace/Rokycanska-hudebni-sbirka.pdf){:target="_blank"}.
+Kateřina Maýrová, Stephanie P. Schlagel, Hana Hrachová: _Rokycanská hudební sbírka. Katalog franko-nizozemských duchovních skladeb dochovaných v nejstarší vrstvě repertoáru - The Rokycany Music Collection. A Catalogue of Franco-Netherlandish Sacred Works Preserved in the Oldest Layer of the Repertoire_, Praha: Národní muzeum, 2016. ISBN 978-80-7036-513-7, 461 Seiten. [Online verfügbar](https://www.nm.cz/file/8d521a6de8bda99389dd10a75211af4d/25961/Rokycanska-hudebni-sbirka.pdf){:target="_blank"}.
 
 Die Rokycany-Musiksammlung (CZ-ROk) beinhaltet wertvolle Musikhandschriften mit Werken tschechischer und nichttschechischer Komponisten, die deutlich hervortretende Elemente des konzertierenden Stils in der Kirchenmusik aufweisen.
 
