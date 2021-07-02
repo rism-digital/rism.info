@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Klaus Keil und Jennifer Ward von der RISM Zentralredaktion und RISM-Präsident Wolf-Dieter Seiffert nahmen an der[IAML/IMS-Konferenz](http://www.musiclibraryassoc.org/BlankCustom.asp?page=IAML_IMS_2015){:target="_blank"} teil, die in diesem Jahr vom 21. bis 26. Juni in New York stattfand. Wir freuten uns, unsere Kollegen aus aller Welt zu treffen und Neues über ihre Projekte zu erfahren. Das Thema der diesjährigen Konferenz lautete “Music Research in the Digital Age” (Musikforschung im digitalen Zeitalter).
+Klaus Keil und Jennifer Ward von der RISM Zentralredaktion und RISM-Präsident Wolf-Dieter Seiffert nahmen an der [IAML/IMS-Konferenz](https://www.musiclibraryassoc.org/mpage/IAML_IMS_2015){:target="_blank"} teil, die in diesem Jahr vom 21. bis 26. Juni in New York stattfand. Wir freuten uns, unsere Kollegen aus aller Welt zu treffen und Neues über ihre Projekte zu erfahren. Das Thema der diesjährigen Konferenz lautete “Music Research in the Digital Age” (Musikforschung im digitalen Zeitalter).
 
 
 Die Woche begann mit einer wunderschönen Kreuzfahrt um die Insel von Manhattan anlässlich des 50jährigen Bestehens von [RILM](http://rilm.org/){:target="_blank"}, gesponsert unter anderem von den [R-Projekten](http://www.r-musicprojects.org/){:target="_blank"}.
