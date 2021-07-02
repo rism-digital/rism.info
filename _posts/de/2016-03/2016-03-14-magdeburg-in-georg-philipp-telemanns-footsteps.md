@@ -17,7 +17,7 @@ Hochrangige Interpreten werden dieser Tage wieder in Magdeburg erwartet. Die 23.
 Vom 11.-20. März 2016 finden zahlreiche Veranstaltungen in Telemanns Geburtsstadt statt. Vom Stadtrundgang auf den Spuren Georg Philipp Telemanns bis zur Aufführung der Oper "Damon" ist alles dabei. 500 Musiker aus 20 Ländern interpretieren Telemann.
 
 
-Und heute - an Telemanns Geburtstag - beginnt eine zwei-tägige wissenschaftliche [Konferenz](http://telemann.org/veranstaltungen/telemannfesttage/konferenz.html){:target="_blank"} "Concertare – Concerto – Concert. Das Konzert bei Telemann und seinen Zeitgenossen" mit Wissenschaftlern aus Japan, den USA, der Schweiz und Deutschland.
+Und heute - an Telemanns Geburtstag - beginnt eine zwei-tägige wissenschaftliche [Konferenz](https://telemann.org/veranstaltungen/tagungen.html){:target="_blank"} "Concertare – Concerto – Concert. Das Konzert bei Telemann und seinen Zeitgenossen" mit Wissenschaftlern aus Japan, den USA, der Schweiz und Deutschland.
 
 
 Telemann war nicht nur ein äußerst produktiver Komponist, sondern auch ein Musikunternehmer, ein Mann, der seinen eigenen Verlag gegründet hatte, seine Konzerte organisierte, Karten und Texthefte verkaufte. Diese Vielfalt spiegelt sich auch im RISM Online-Katalog wieder. Telemann steht mit [über 5.000 Einträgen](https://opac.rism.info/search?View=rism&author=Telemann+georg+philipp){:target="_blank"} und knapp 700 Links zu Digitalisaten in der Rangliste des RISM OPACs ziemlich weit oben.
@@ -25,4 +25,4 @@ Telemann war nicht nur ein äußerst produktiver Komponist, sondern auch ein Mus
 
 Und da Telemann für so ziemlich jedes Instrument komponierte, auch jede Gattung bediente und sich glücklicherweise sehr viele Musikquellen erhalten haben, bietet der Online-Katalog eine reiche Vielfalt seiner Kompositionen.
 
-_Bildnachweis_: Autographes Manuskript von Telemanns Kantate, _Es ist umsonst daß ihr früh aufsteht_(TVWV 1:1753), Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F), Ms. Ff. Mus. 994 (RISM ID no. [450004277](https://opac.rism.info/search?View=rism&documentid=450004277){:target="_blank"})
+_Bildnachweis_: Autographes Manuskript von Telemanns Kantate, _Es ist umsonst daß ihr früh aufsteht_ (TVWV 1:1753), Universitätsbibliothek Johann Christian Senckenberg, Frankfurt (D-F), Ms. Ff. Mus. 994 (RISM ID no. [450004277](https://opac.rism.info/search?View=rism&documentid=450004277){:target="_blank"})
