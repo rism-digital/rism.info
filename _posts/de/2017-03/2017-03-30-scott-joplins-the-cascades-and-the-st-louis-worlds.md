@@ -26,9 +26,9 @@ Hören Sie wie das Wasser spritzt, die Kaskaden runterfließt oder nehmen Sie st
 
 "The Cascades" in RISM wurden von Etilmon J. Stark (1868-1962) bearbeitet und 1905 veröffentlicht. "Till" war der Sohn von Joplins Verleger John Stark, der etwa ein Drittel von Joplins Werken herausgab. In der Ausgabe von 1914 der Monatsschrift _Christiansen's Ragtime Review_, ist ein kurzer fiktiver Dialog von John Stark wiedergegeben, in welchem ein Zuhärer von einem "The Cascades" spielendes Orchester fasziniert wird. War unser Bearbeiter der imaginäre Zuhörer?
 
-Heute werden die Stimmen in der [Koninklijke Muziekmaatschappij Casino](http://www.casinotongeren.be/muziek-menu){:target="_blank"} in Tongeren, Belgien (B-TOekmc) aufbewahrt, eine Musikinstitution mit einer 250 Jahre alten Geschichte.
+Heute werden die Stimmen in der [Koninklijke Muziekmaatschappij Casino](https://casinotongeren.be/geschiedenis/){:target="_blank"} in Tongeren, Belgien (B-TOekmc) aufbewahrt, eine Musikinstitution mit einer 250 Jahre alten Geschichte.
 
-Zahlreiche Veranstaltungen in den Vereinigten Staaten feiern dieses Jahr Scott Joplin, beispielsweise ein Konzert im der [Carnegie Hall](http://www.scottjoplin.org/news/great-scott-a-joplin-centennial-celebration){:target="_blank"} mit ​Richard Dowling und allen Klavierwerken von Joplin, ein Konzert in Joplins Heimatort [Texarkana](http://www.arkansas.com/event/scott-joplin-international-centennial-celebra/148518){:target="_blank"}, das jährlich stattfindende [International Ragtime Festival](http://www.scottjoplin.org/){:target="_blank"} in Sedalia (Missouri) und ein Konzert in Joplins letzter Ruhestätte [St. Michael's Cemetery](http://stmichaelscemetery.com/scott-joplin/){:target="_blank"} in New York.
+Zahlreiche Veranstaltungen in den Vereinigten Staaten feiern dieses Jahr Scott Joplin, beispielsweise ein Konzert im der [Carnegie Hall](http://www.scottjoplin.org/news/great-scott-a-joplin-centennial-celebration){:target="_blank"} mit ​Richard Dowling und allen Klavierwerken von Joplin, ein Konzert in Joplins Heimatort [Texarkana](https://www.arkansas.com/articles/scott-joplin-international-centennial-celebration-texarkana){:target="_blank"}, das jährlich stattfindende [International Ragtime Festival](http://www.scottjoplin.org/){:target="_blank"} in Sedalia (Missouri) und ein Konzert in Joplins letzter Ruhestätte [St. Michael's Cemetery](http://stmichaelscemetery.com/scott-joplin/){:target="_blank"} in New York.
 
 _Abbildung_: Titelblatt zu "The Cascades" von Scott Joplin (St. Louis: John Stark, 1904). Aus der [sheet music collection](https://www.loc.gov/item/ihas.200033247/){:target="_blank"} der Library of Congress.
 
@@ -37,4 +37,4 @@ Edward A. Berlin, _King of Ragtime: Scott Joplin and his Era_ (New York: Oxford 
 
 Berlin, "Joplin, Scott." [Grove Music Online](http://www.oxfordmusiconline.com/subscriber/article/grove/music/A2253061){:target="_blank"}. Oxford Music Online. Oxford University Press.
 
-Missouri Historical Society, "[The 1904 World's Fair: Looking Back at Looking Forward](http://mohistory.org/exhibits/Fair/WF/HTML/Overview/index.html){:target="_blank"}."
+Missouri Historical Society, "[The 1904 World's Fair: Looking Back at Looking Forward](https://web.archive.org/web/20170514052655/http://mohistory.org/exhibits/Fair/WF/HTML/Overview/index.html){:target="_blank"}."
