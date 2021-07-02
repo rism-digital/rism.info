@@ -11,22 +11,22 @@ email: ''
 author: ''
 ---
 
-_" __Wir können sagen, dass Jean Sibelius einer der brilliantesten Tondichter der Gegenwart ist.__"_
+"_Wir können sagen, dass Jean Sibelius einer der brilliantesten Tondichter der Gegenwart ist._"
 
-Erik Furuhjelm, 1916
+- Erik Furuhjelm, 1916
 
-_" __Sibelius, der schlechteste Komponist der Welt__"_
+"_Sibelius, der schlechteste Komponist der Welt_"
 
-René Leibowitz 1955
+-René Leibowitz 1955
 
-[(Zitate von der Seite desFinnischen ClubsHelsinki)](http://www.sibelius.fi/english/musiikki/js_saveltajana_05.html)
+[(Zitate von der Seite des Finnischen Clubs Helsinki)](http://www.sibelius.fi/english/musiikki/js_saveltajana_05.html)
 
 Für Viele dürfte Jean Sibelius (1865-1957) der einzige finnische Komponist sein, den sie auf Anhiebnennen können. Die nicht ganz unproblematische Rezeptionsgeschichte dürfte ihren Teil dazu beigetragen haben, dass das Spektrum von überzeugten Anhängern bis hin zu erbitterten Gegnern reicht – und eine Reihe von Zuhörern, die nur schwer Zugang zu seiner Musik finden. Der 150. Geburtstag von Jean Sibelius ist ein willkommener Anlass, Finnlands “Nationalkomponisten” neu zu entdecken. Doch wo beginnt man aus Sicht der Quellenforschung?
 
 
-Größere Sammlungen findet man im[Sibelius Museum](http://www.sibeliusmuseum.fi/en/archive/collections/jean-sibelius/){:target="_blank"} in Turku (schwedisch Åbo; FIN-A), und der [Finnischen Nationalbibliothek in Helsinki](http://www.helsinki.fi/kirjasto/en/home/){:target="_blank"}(Universitätsbibliothek;FIN-Hy), deren Sibelius-Quellen in einem Katalog recherchierbar sind (Kari Kilpeläinen, _The Jean Sibelius Musical Manuscripts at Helsinki University Library: A Complete Catalogue_ [Wiesbaden: Breitkopf & Härtel, 1991]). Auch die Harold E. Johnson Jean Sibelius Collection an der [Butler University](http://legacy.butler.edu/library/library-information/departments/special-collections/){:target="_blank"} (US-INbul) darf in diesem Zusammenhang nicht fehlen. Hier liegen Handschriften, seltene Druckausgaben, frühe Aufnahmen sowie Fotografien und Artikel. Diese einzigartige Sammlung entstand während Johnsons Forschungsreisen nach Finnland, insbesondere in den 1950er Jahren. Ein Katalog der gesamten Sammlung ist [online verfügbar](http://digitalcommons.butler.edu/scbib/1/){:target="_blank"}.
+Größere Sammlungen findet man im [Sibelius Museum](https://sibeliusmuseum.fi/en/jean-sibelius/){:target="_blank"} in Turku (schwedisch Åbo; FIN-A), und der [Finnischen Nationalbibliothek in Helsinki](http://www.helsinki.fi/kirjasto/en/home/){:target="_blank"} (Universitätsbibliothek;FIN-Hy), deren Sibelius-Quellen in einem Katalog recherchierbar sind (Kari Kilpeläinen, _The Jean Sibelius Musical Manuscripts at Helsinki University Library: A Complete Catalogue_ [Wiesbaden: Breitkopf & Härtel, 1991]). Auch die Harold E. Johnson Jean Sibelius Collection an der [Butler University](https://libguides.butler.edu/SpecialCollections/Collections/SpecialCollections){:target="_blank"} (US-INbul) darf in diesem Zusammenhang nicht fehlen. Hier liegen Handschriften, seltene Druckausgaben, frühe Aufnahmen sowie Fotografien und Artikel. Diese einzigartige Sammlung entstand während Johnsons Forschungsreisen nach Finnland, insbesondere in den 1950er Jahren. Ein Katalog der gesamten Sammlung ist [online verfügbar](http://digitalcommons.butler.edu/scbib/1/){:target="_blank"}.
 
-Autographe Handschriften sind zur Zeit in einer Ausstellung im [Finnischen Nationalmuseum](http://www.kansallismuseo.fi/en/nationalmuseum/exhibitions/temporary#sibelius_eng){:target="_blank"} zu sehen, nur eine von vielen Veranstaltungen zum [150. Geburtstag von Sibelius](http://sibelius150.org/en){:target="_blank"}. Organisationen wie die [Sibelius Birthtown Foundation](http://www.sib.fi/){:target="_blank"}, die [finnische Sibelius-Gesellscha](http://www.sibeliusseura.fi/){:target="_blank"}[ft](http://www.sibeliusseura.fi/){:target="_blank"}, das [Yleisradio](http://yle.fi/aihe/klassinen/jean-sibelius-150v){:target="_blank"} (der finnische öffentlich-rechtliche Rundfunk) sowie zahlreiche Musikfestivals und Wettbewerbe feiern den runden Geburtstag.
+Autographe Handschriften sind zur Zeit in einer Ausstellung im [Finnischen Nationalmuseum](http://www.kansallismuseo.fi/en/nationalmuseum/exhibitions/temporary#sibelius_eng){:target="_blank"} zu sehen, nur eine von vielen Veranstaltungen zum [150. Geburtstag von Sibelius](https://web.archive.org/web/20151221213446/http://sibelius150.org/en){:target="_blank"}. Organisationen wie die [Sibelius Birthtown Foundation](http://www.sib.fi/){:target="_blank"}, die [finnische Sibelius-Gesellscha](http://www.sibeliusseura.fi/){:target="_blank"}[ft](http://www.sibeliusseura.fi/){:target="_blank"}, das [Yleisradio](http://yle.fi/aihe/klassinen/jean-sibelius-150v){:target="_blank"} (der finnische öffentlich-rechtliche Rundfunk) sowie zahlreiche Musikfestivals und Wettbewerbe feiern den runden Geburtstag.
 
 Standard-Literatur zu den Sibelius-Quellen sind das _Thematisch-bibliographisches Verzeichnis seiner Werke_ von Fabian Dahlström (Wiesbaden: Breitkopf & Härtel, 2003; in RISM als SiWV zitiert) und _Jean Sibelius: A Guide to Research_ von Glenda Dawn Goss (New York: Garland, 1998).Die kritische Gesamtausgabe [Jean Sibelius Works](http://www.nationallibrary.fi/en/culture/sibelius.html){:target="_blank"}verweist ebenfalls auf die handschriftlichen Quellen. Seit der Veröffentlichung des ersten Bandes im Jahr 1996 sind bereits 22 weitere Bände erschienen, insgesamt werden es etwa 52 werden.
 
@@ -37,4 +37,4 @@ Eine Aufnahme der sinfonischen Dichtung mit der Sinfonia Lahti unter der Leitung
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zaVTsGZ67IM" frameborder="0" allowfullscreen></iframe>
 
-Abbildung: Santeri Levas, Jean Sibelius, 1940-1945, Järvenpää. Finnisches Museum für Fotografie, via[Flickr](https://www.flickr.com/photos/valokuvataiteenmuseo/11064165894/in/album-72157638075319113/){:target="_blank"}.
+_Abbildung_: Santeri Levas, Jean Sibelius, 1940-1945, Järvenpää. Finnisches Museum für Fotografie, via [Flickr](https://www.flickr.com/photos/valokuvataiteenmuseo/11064165894/in/album-72157638075319113/){:target="_blank"}.
