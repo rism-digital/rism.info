@@ -14,12 +14,12 @@ author: ''
 Die [Datenbank der Bibliothekssigel](http://www.rism.info/de/sigla.html){:target="_blank"} wächst! Aufgrund der Anfragen von Musikwissenschaftlern haben wir zwei neue Länder aufgenommen: Andorra und Indonesien.
 
 
-- AND-AVan: [Arxiu Nacional d’Andorra](http://www.cultura.ad/arxiu-nacional-andorra){:target="_blank"}, Andorra la Vella, Andorra
+- AND-AVan: [Arxiu Nacional d’Andorra](https://www.cultura.ad/arxiu-nacional-d-andorra){:target="_blank"}, Andorra la Vella, Andorra
 
-- AND-AVbn: [Biblioteca Nacional d’Andorra](http://www.cultura.ad/biblioteca-nacional-2){:target="_blank"}, Andorra la Vella, Andorra
+- AND-AVbn: [Biblioteca Nacional d’Andorra](https://www.cultura.ad/biblioteca-nacional){:target="_blank"}, Andorra la Vella, Andorra
 
-- RI-Duufs: [Universitas Udayana, Fakultas Sastra](http://www.fs.unud.ac.id/ind/){:target="_blank"}, Denpasar, Indonesien
+- RI-Duufs: [Universitas Udayana, Fakultas Sastra](https://www.unud.ac.id/in/fakultas1-Fakultas%20Ilmu%20Budaya.html?lang=en){:target="_blank"}, Denpasar, Indonesien
 
-- RI-Jpn: [Perpustakaan Nasional Republik Indonesia](http://www.pnri.go.id/){:target="_blank"}, Jakarta, Indonesien
+- RI-Jpn: [Perpustakaan Nasional Republik Indonesia](https://www.perpusnas.go.id/){:target="_blank"}, Jakarta, Indonesien
 
 Diese Bibliothekssigel können nun von allen verwendet werden. Wir freuen uns, neue Sigel für Sie einrichten zu dürfen: [contact@rism.info](mailto:contact@rism.info)
