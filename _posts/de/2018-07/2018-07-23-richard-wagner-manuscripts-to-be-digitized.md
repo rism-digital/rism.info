@@ -11,7 +11,7 @@ email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---
 
-_Dieser Artikel erschien zuerst auf der Webseite des__[Richard Wagner Museums Bayreuth](https://www.wagnermuseum.de/2018/05/digitalisierung-am-nationalarchiv-der-richard-wagner-stiftung-bayreuth/){:target="_blank"}und wird hier mit freundlicher Genehmigung veröffentlicht._
+_Dieser Artikel erschien zuerst auf der Webseite des [Richard Wagner Museums Bayreuth](https://www.wagnermuseum.de){:target="_blank"} und wird hier mit freundlicher Genehmigung veröffentlicht._
 
 **Kulturgeschichtlich wertvolle Bestände sichern und zugänglich machen: Digitalisierung am Nationalarchiv der Richard-Wagner-Stiftung Bayreuth**
 
