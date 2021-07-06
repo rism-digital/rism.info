@@ -11,7 +11,8 @@ email: 'operaritrovata@gmail.com'
 author: 'George N. Gianopoulos, Stephen Karr, Leila Núñez-Fredell, Mishkar Núñez-Fredell'
 ---
 
- ![](/images/news-old-website/csm_Joseph_Bologne_s_L_Amant_Anonyme__TN-Saint-Georges_Amant_anonime_Title_e417a01340.jpg)
+
+ ![](/images/news-old-website/csm_Joseph_Bologne_s_L_Amant_Anonyme__TN-Saint-Georges_Amant_anonime_Title_e417a01340.jpg)  
 
 _[Joseph Bologne de Saint-Georges](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30002781%22) was born 275 years ago, on December 25, 1745 -- or perhaps in 1739, as documentary sources are conflicting. Regardless, we are celebrating his music with this guest post by the editors of a [new critical edition of Joseph Bologne's](https://www.operaritrovata.org/edition)_[_“L’Amant Anonyme,_](https://www.operaritrovata.org/edition)_[”](https://www.operaritrovata.org/edition) the composer's only surviving opera. The following is by George N. Gianopoulos, Stephen Karr, Leila Núñez-Fredell, and Mishkar Núñez-Fredell and is the foreword to the edition, published by Opera Ritrovata.&nbsp;_   
   
