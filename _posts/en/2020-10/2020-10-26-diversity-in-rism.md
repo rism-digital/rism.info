@@ -11,8 +11,6 @@ email: ''
 author: ''
 ---
 
-The music book of the enslaved woman Maria Antonia Palacios, ca. 1790
-
 There are over 138,000 people in the [RISM online catalog](https://opac.rism.info/index.php?id=4): not all composers or musicians who ever lived, but only those who are connected with a musical source.   
   
 Biographical information is recorded about each person in a separate record so that we can clearly identify the person and separate them from any potential conflicts, such as two composers [with the same name](/new_at_rism/2020/10/12/the-other-giacomo-puccini.html). Information we encode includes gender, nationality, places, and functions. These aspects are all searchable in the RISM catalog ([details here](/rism_online_catalog/2018/10/22/searching-for-people-in-the-new-rism-catalog.html)), enabling you to find [all female composers in RISM](https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=Composer+female&View=rism&Language=en), for example.   
