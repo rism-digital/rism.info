@@ -13,13 +13,13 @@ author: 'British Library'
 
 _The following originally appeared on the [Music Blog of the British Library](https://blogs.bl.uk/music/2020/10/announcing-the-new-rism-uk-catalogue.html) on 16 October 2020 (Creative Commons):&nbsp;_   
   
-[RISM UK](http://rism.org.uk/) is pleased to announce the launch of the new[RISM UK Catalogue](http://uk.rism-ch.org/catalog).
+[RISM UK](http://rism.org.uk/) is pleased to announce the launch of the new [RISM UK Catalogue](http://uk.rism-ch.org/catalog).
 
 The catalogue is a subset of the international [RISM Online Catalogue of Musical Sources](/index.html). It contains all data from that resource on printed and manuscript music held in British libraries and archives, and pulls data directly from the international database to ensure it remains up-to-date.&nbsp; We hope it will be of value and interest to researchers wanting to locate sources of printed and manuscript music held in repositories in Britain.
 
 The catalogue illustrates the rich resource of historic music materials that have been preserved in Britain. The information held can be searched in traditional ways, such as by composer and title, and also by the incipits of the musical notation.&nbsp; A new feature makes it possible to identify and locate unica - printed editions that survive in single copies only. It is also possible to define the date ranges of searches more precisely than was possible before. Data from search results can be freely downloaded in simple CSV format, allowing researchers to reuse the information for their own purposes.&nbsp; The database also provides access to digitised images, where they are available, from participating libraries via IIIF.
 
-The new interface has been funded by the Strategic Knowledge Exchange Initiative at Royal Holloway, University of London. You can find out more about the RISM UK database at the[Royal Holloway’s School of Music Research Projects and Centres pages](https://royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/).
+The new interface has been funded by the Strategic Knowledge Exchange Initiative at Royal Holloway, University of London. You can find out more about the RISM UK database at the [Royal Holloway’s School of Music Research Projects and Centres pages](https://royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/).
 
 RISM UK in partnership with Royal Holloway, University of London, is currently completing a scoping study of the potential for further cataloguing projects involving music manuscripts and printed music in county record offices and other archives across the UK.
 
