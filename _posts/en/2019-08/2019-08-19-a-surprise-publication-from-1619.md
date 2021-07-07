@@ -19,7 +19,7 @@ While one litany was composed by Roberto Vailero (who also has a composition in 
 
 As can be read in the dedicatory foreword, the Duke apparently unknowingly contributed his compositions to the book. Soldi writes:
 
-**...& quod caput, & ornamen- | tum est totius operis, tuos aliquos etiam concentus, qui per manus eruditorum tra- | debantur, & clam acceptos inserere cum reliquis ausus sim, vt veluti gemmę pulcher- | rimum hunc harmonię annulum exornarent.**
+**...& quod caput, & ornamen- \| tum est totius operis, tuos aliquos etiam concentus, qui per manus eruditorum tra- \| debantur, & clam acceptos inserere cum reliquis ausus sim, vt veluti gemmę pulcher- \| rimum hunc harmonię annulum exornarent.**
 
 _And as for the crowning glory of the whole book, I was so bold as to secretly receive some of your works, which have come to me through the hands of experts, and to add them to the others so that they may adorn this harmonious piece of jewelry like precious gems on the most beautiful signet ring._
 
