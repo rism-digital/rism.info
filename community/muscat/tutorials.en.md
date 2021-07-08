@@ -39,7 +39,7 @@ permalink: /community/muscat/tutorials.html
 
 **Step-by-step guides** to entering sources
 
-1. If you have a score: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) [Video on YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
+1. If you have a score: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) and [Video on YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
 2. If you have only parts: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
 3. If you have a score and parts: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_and_parts_in_Muscat_01.pdf)
 4. If you have a source that contains more than one work (a collection): [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_collections_in_Muscat.pdf)
@@ -53,9 +53,9 @@ permalink: /community/muscat/tutorials.html
 
 **More examples to practice:**
 
-1. Example 1: Score [card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
-2. Example 2: Score and part [card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
-3. Example 3: Collection [card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
+1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
+2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
+3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
 
 # Tutorials: Printed music
 
@@ -68,7 +68,7 @@ Always search for the print first in Muscat or the [RISM online catalog](http://
 **Three ways to contribute printed music to RISM**
 
 (1) **Add and edit your holdings to printed music**\
-Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} and [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
 

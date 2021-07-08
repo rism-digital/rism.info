@@ -15,4 +15,4 @@ Sie täuschen sich nicht: Die angegebenen Lebensdaten zu Marianne Teuscher sind 
 
 Wir hoffen, dass unsere RISM Modern Monday-Reihe einen Eindruck geben konnte, dass die RISM-Datenbank viel mehr als nur "Musik vor 1800" zubieten hat. Schauen Sie sich selbst mal um und lassen Sie sich überraschen!
 
-_Abbildung_: Aus Marianne Teuschers Nachruf in [_BIS - Das Magazin der Bibliotheken in Sachsen_](http://www.qucosa.de/fileadmin/data/qucosa/documents/2572/267.pdf){:target="_blank"} 2, Nr. 4 (2009): 267.
+_Abbildung_: Aus Marianne Teuschers Nachruf in [_BIS - Das Magazin der Bibliotheken in Sachsen_](https://bibliotheksmagazin.de/archiv/jahrgang-2-ausgabe-nr-4-2009/){:target="_blank"} 2, Nr. 4 (2009): 267.
