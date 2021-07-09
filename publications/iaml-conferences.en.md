@@ -1,12 +1,14 @@
 ---
+title: "IAML Congresses"
 layout: publications
-title: "IAML Conferences"
 lang: en
-permalink: /publications/iaml-conferences/index.html
+permalink: /publications/iaml-conferences.html
 old_url: http://www.rism.info/en/publications/iaml-congresses.html
 ---
 
-For more information about RISM at IAML congresses, please select a year:
+**IAML Congresses**
+
+For more information about RISM at annual [IAML congresses](https://www.iaml.info/congresses){:blank}, please select a year:
 
 [2021 (Online)](/publications/iaml-congresses/2021.html)
 
