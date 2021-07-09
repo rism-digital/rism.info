@@ -6,7 +6,7 @@ permalink: /publications/iaml-conferences.html
 old_url: http://www.rism.info/en/publications/iaml-congresses.html
 ---
 
-**IAML Congresses**
+# IAML Congresses
 
 For more information about RISM at annual [IAML congresses](https://www.iaml.info/congresses){:blank}, please select a year:
 
