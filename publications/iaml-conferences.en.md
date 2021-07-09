@@ -8,6 +8,8 @@ old_url: http://www.rism.info/en/publications/iaml-congresses.html
 
 For more information about RISM at IAML congresses, please select a year:
 
+[2021 (Online)](/publications/iaml-congresses/2021.html)
+
 [2019 (Kraków)](/publications/iaml-congresses/2019.html)
 
 [2018 (Leipzig)](/publications/iaml-congresses/2018.html)
