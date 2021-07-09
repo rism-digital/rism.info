@@ -31,9 +31,9 @@ I have to admit that one of my favorite parts of the IAML congress in Kraków wa
 
 _The photographs:_
 
-View of Wawel Castle
-Autograph manuscript of _Graduale ad Festum Nativitati BMV Felix es terra_ op. 57 by Józef Elsner (1769-1854)
-Biblioteka Jagiellońska
-Kraków Old Town
-Farewell Dinner entertainment
+View of Wawel Castle  
+Autograph manuscript of _Graduale ad Festum Nativitati BMV Felix es terra_ op. 57 by Józef Elsner (1769-1854)  
+Biblioteka Jagiellońska  
+Kraków Old Town  
+Farewell Dinner entertainment  
 _All photographs courtesy of Jennifer Ward._
