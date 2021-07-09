@@ -44,6 +44,11 @@
         fr: Conférences IAML
       items:
         - name:
+            en: 2021
+            de: 2021
+            fr: 2021
+          link: "/publications/iaml-congresses/2021.html" 
+        - name:
             en: 2019
             de: 2019
             fr: 2019
