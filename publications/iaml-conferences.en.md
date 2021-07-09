@@ -2,7 +2,7 @@
 layout: publications
 title: "IAML Conferences"
 lang: en
-permalink: /publications/iaml-conferences.html
+permalink: /publications/iaml-conferences/index.html
 old_url: http://www.rism.info/en/publications/iaml-congresses.html
 ---
 
