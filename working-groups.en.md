@@ -56,7 +56,7 @@ A - 5020 Salzburg\
 Telephone: +43 662 8047 1505 and -1507\
 Fax: +43 662 8047 1509\
 Univ. Doz. Dr. Ernst Hintermaier (Head), email: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
-Email: [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) or [eva.neumayr@mozarteum.at](mailto:eva.neumayr@mozarteum.at)\
+Email: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\
 Website: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)\
 See also: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
