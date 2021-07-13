@@ -11,15 +11,23 @@ email: ''
 author: ''
 ---
 
-The year 2020 is still young, but let's take a moment to look back on 2019 at the most popular stories from the world of musical sources that we published here on the RISM blog. May 2020 be as rich with discoveries!
+The year 2020 is still young, but let's take a moment to look back on 2019 at the most popular stories from the world of musical sources that we published here on the RISM blog. May 2020 be as rich with discoveries!  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
-&nbsp;  1. [New Music Manuscripts from Italy (ICCU) in RISM](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
+1. [New Music Manuscripts from Italy (ICCU) in RISM](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
 
-&nbsp;  2. [New RISM Cataloging Tools for Librarians](/new_at_rism/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
+2. [New RISM Cataloging Tools for Librarians](/new_at_rism/2019/07/01/new-rism-cataloging-tools-for-librarians.html){:target="_blank"}
 
-&nbsp;  3. [The Digital Interactive Mozart Edition](/electronic_resources/2019/01/24/the-digital-interactive-mozart-edition.html){:target="_blank"}
+3. [The Digital Interactive Mozart Edition](/electronic_resources/2019/01/24/the-digital-interactive-mozart-edition.html){:target="_blank"}
 
-&nbsp;  4. [New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)](/new_publications/2019/02/11/new-catalog-of-the-archivo-histórico-de-la.html){:target="_blank"} by Edgar Alejandro Calderón Alcántar and Anastasia Krutitskaya
+4. [New Catalog of the Archivo Histórico de la Arquidiócesis de Antequera Oaxaca (Mexico)](/new_publications/2019/02/11/new-catalog-of-the-archivo-histórico-de-la.html){:target="_blank"} by Edgar Alejandro Calderón Alcántar and Anastasia Krutitskaya
 
 5. [Books About Music Before 1800 Digitized and Online](/electronic_resources/2019/08/01/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} from the Library of Congress
 
