@@ -27,14 +27,14 @@ Letzten Monat wurde der neue [RISM UK-Online-Katalog](http://uk.rism-ch.org/cata
 
  ![The first edition of 'Orpheus Britannicus'](/images/news-old-website/Purcell_BritishLibrary_325_Orpheus1st.jpg)
 
-Erstausgabe von 'Orpheus Britannicus', einer posthum veröffentlichten Sammlung von Liedern Purcells (1698). BL G.100.
+_Erstausgabe von 'Orpheus Britannicus', einer posthum veröffentlichten Sammlung von Liedern Purcells (1698). BL G.100._
 
 Der RISM UK-Katalog ist eine Teilmenge des&nbsp; [internationalen Katalogs](https://opac.rism.info/), und dieser bietet eine Perspektive auf die [Verbreitung von Purcells Musik weltweit](https://opac.rism.info/search?View=rism&author=purcell+henry) – mit Material, das in ganz Europa sowie in Australien, Kanada, Japan, Neuseeland und den Vereinigten Staaten erhalten ist. Die Library of Congress ([US-Wc](https://opac.rism.info/search?View=rism&author=purcell+henry&siglum=US-Wc&Language=en)) verfügt über die größte Anzahl von Purcell-Quellen außerhalb Großbritanniens, und tatsächlich handelt es sich bei etwa einem Dutzend dieser Quellen um gedruckte Ausgaben, die nur dort zu finden sind. Das Royal Conservatory of Belgium ([B-Bc](https://opac.rism.info/search?View=rism&author=purcell+henry&siglum=B-Bc&Language=en)) beherbergt ebenso eine bedeutende Menge an Purcell-Quellen, vor allem Dank des Musiksammlers [Guido Richard Wagener (1822-1896)](http://www.conservatoire.be/en/library/collections-en/fonds-guido-richard-wageber-collection/): in den Handschriftenanthologien mit den Signaturennummern [25590](https://opac.rism.info/search?id=704002332&View=rism), [14981](https://opac.rism.info/search?id=704002420&View=rism) und [15139](https://opac.rism.info/search?id=702001169&View=rism) findet man Sonaten, Klavierstücke und Ouvertüren von Purcell.
 
 
  !['Ah! Belinda' as printed in Orpheus Britannicus](/images/news-old-website/Purcell_BritishLibrary_325_Belinda.jpg)
 
-'Ah! Belinda', gedruckt in _Orpheus Britannicus_. Der erste Teil von Purcells Oper _Dido and Aeneas_, der als Druck erschien. _BL G.100_.
+_'Ah! Belinda', gedruckt in Orpheus Britannicus. Der erste Teil von Purcells Oper Dido and Aeneas, der als Druck erschien. BL G.100._
 
 **Purcell in der British Library**
 
@@ -44,7 +44,7 @@ Vor 25 Jahren stellte die British Library anlässlich des 300. Todestages von Pu
 
  ![Autograph manuscript of 'The Yorkshire Feast Song'](/images/news-old-website/Purcell_BritishLibrary_325_Yorkshire.jpg)
 
-Eine besonders stürmische Passage im autographen Manuskript von 'The Yorkshire Feast Song' (Z. 333). _BL Egerton MS 2956, f. 13r_.
+_Eine besonders stürmische Passage im autographen Manuskript von 'The Yorkshire Feast Song' (Z. 333). BL Egerton MS 2956, f. 13r._
 
 Seit dieser Ausgabe der Klaviermusik in den 1990er Jahren gab es auch mehrere Neuerwerbungen im Zusammenhang mit Purcell&nbsp; – beispielsweise [Kopien von Liedern aus 'The Fairy Queen'](http://searcharchives.bl.uk/IAMS_VU2:IAMS032-001947129?_ga=2.242066497.276423528.1606126346-1021810909.1602762589), sowie zeitgenössische Kopien der Lieder 'She who my poor heart possesses' (Z. 415) und 'Cease anxious world' (Z. 362) (Mus. Dep. 2016/52).
 
@@ -54,7 +54,7 @@ Die jüngste Übernahme erfolgte im vergangenen Jahr. Dabei handelt es sich um e
 
  ![Sonata in G minor (Z. 780), as copied by Edward Finch](/images/news-old-website/Purcell_BritishLibrary_325_SonataFinch.jpg)
 
-Henry Purcell, Sonata in g-Moll (Z. 780), kopiert von Edward Finch. _BL MS Mus. 1851_.
+_Henry Purcell, Sonata in g-Moll (Z. 780), kopiert von Edward Finch. BL MS Mus. 1851._
 
 Der Band war im Laufe des 18. und 19. Jahrhunderts durch die Hände mehrerer Sammler gegangen und zuletzt in den frühen Jahren des 20. Jahrhunderts zu sehen gewesen, als eine Ausgabe des Purcell-Stückes, ganz im Stil der damaligen Zeit, erstellt wurde.
 
@@ -62,23 +62,23 @@ Der Band war im Laufe des 18. und 19. Jahrhunderts durch die Hände mehrerer Sam
 
  ![Frederick Bridge's 1903 edition of Purcell's Sonata in G minor](/images/news-old-website/Purcell_BritishLibrary_325_SonataBridge.jpg)
 
-Frederick Bridge's 1903 Ausgabe von Purcells Sonata in g-Moll (Z. 780).
+_Frederick Bridge's 1903 Ausgabe von Purcells Sonata in g-Moll (Z. 780)._
 
-Nachdem das Manuskript 1935 bei einer Auktion nicht verkauft werden konnte, verschwand es. Trotz der Versuche von Thurston Dart und anderen, das ursprüngliche Purcell-Stück zu rekonstruieren (frei von den Eigenheiten der Ausgabe aus dem frühen 20. Jahrhundert), blieb der Verbleib des Bandes bis 2012 ein Rätsel, als Peter Holman ihn im Spetchley Park fand.**[1]**
+Nachdem das Manuskript 1935 bei einer Auktion nicht verkauft werden konnte, verschwand es. Trotz der Versuche von Thurston Dart und anderen, das ursprüngliche Purcell-Stück zu rekonstruieren (frei von den Eigenheiten der Ausgabe aus dem frühen 20. Jahrhundert), blieb der Verbleib des Bandes bis 2012 ein Rätsel, als Peter Holman ihn im Spetchley Park fand.[1]
 
 Es ist bekannt, dass der Band das Werk von zwei Personen ist: William Armstrong (gestorben 1717) und [Edward Finch](https://en.wikipedia.org/wiki/Edward_Finch_(composer)) (1664-1738), beides gut vernetzte Persönlichkeiten im Musikleben des 17. und frühen 18. Jahrhunderts. Über William Armstrong ist nicht viel bekannt, aber er spielte sicherlich in den frühen Tagen der italienischen Oper am Haymarket-Theater, um 1710, Bratsche im Orchester, und wir wissen, dass er Anfang des 18. Jahrhunderts auch als Kopist für verschiedene Theater tätig war. Edward Finch stammte aus einer wohlhabenden Familie und scheint unter anderem ein versierter Spieler von Blasinstrumenten gewesen zu sein. Insbesondere war er ein relativ früher Anhänger der "deutschen Flöte", dem Vorläufer der modernen Flöte (die Blockflöte, damals als "gemeine Flöte" oder "englische Flöte" bekannt, war zuvor populärer gewesen). Da sich ein Teil des Bandes in der Hand von Armstrong und der andere Teil in der Hand von Finch befindet, ist er als das "Armstrong-Finch"-Manuskript bekannt geworden. Der Band ist am Anfang auf 1691 datiert, aber es ist klar, dass Finch noch bis mindestens 1720 daran gearbeitet hat.
 
 
  ![William Armstrong's inscription at the front of the volume](/images/news-old-website/Purcell_BritishLibrary_325_Armstrong.jpg)
 
-William Armstrongs Eintragung auf der Vorderseite des Bandes. _BL MS Mus. 1851_.
+_William Armstrongs Eintragung auf der Vorderseite des Bandes. BL MS Mus. 1851._
 
 
  ![A sonata copied by Armstrong and Finch's characteristic sign-off, from Christmas 1717](/images/news-old-website/Purcell_BritishLibrary_325_SonataArmstrongFinch1.jpg)
 
-Eine Sonate, kopiert von Armstrong und Finchs characteristische Unterschrift, Weihnachten 1717.
+_Eine Sonate, kopiert von Armstrong und Finchs characteristische Unterschrift, Weihnachten 1717._
 
-Neben dem Purcell-Stück ist der Band als Ganzes vor allem wegen der Verbindungen zwischen Finch, Armstrong und einigen der prominenten Musiker interessant, die sie gekannt haben könnten und deren Musik in dem Band vertreten ist - von Purcell und [Gottfried Finger](https://en.wikipedia.org/wiki/Gottfried_Finger) bis [Francesco Geminiani](https://en.wikipedia.org/wiki/Francesco_Geminiani) etwas später. Angesichts dieser Verbindungen ist der Band auch eine wichtige Informationsquelle über alle möglichen anderen Dinge, von der damaligen Verwendung von Verzierungen bis zur Etablierung der Flöte als beliebtes Instrument in Profi- und Amateurkreisen. Wir hoffen, wie Peter Holman in seinem einleitenden Artikel zum Manuskript sagt, dass es "noch lange Zeit seine Geheimnisse preisgeben wird".**[1]**
+Neben dem Purcell-Stück ist der Band als Ganzes vor allem wegen der Verbindungen zwischen Finch, Armstrong und einigen der prominenten Musiker interessant, die sie gekannt haben könnten und deren Musik in dem Band vertreten ist - von Purcell und [Gottfried Finger](https://en.wikipedia.org/wiki/Gottfried_Finger) bis [Francesco Geminiani](https://en.wikipedia.org/wiki/Francesco_Geminiani) etwas später. Angesichts dieser Verbindungen ist der Band auch eine wichtige Informationsquelle über alle möglichen anderen Dinge, von der damaligen Verwendung von Verzierungen bis zur Etablierung der Flöte als beliebtes Instrument in Profi- und Amateurkreisen. Wir hoffen, wie Peter Holman in seinem einleitenden Artikel zum Manuskript sagt, dass es "noch lange Zeit seine Geheimnisse preisgeben wird".[1]
 
 **Chris Scobie (Kurator, Musikhandschriften, British Library) und Jennifer Ward (Redakteurin, RISM Zentralredaktion)**
 
@@ -86,4 +86,4 @@ Neben dem Purcell-Stück ist der Band als Ganzes vor allem wegen der Verbindunge
 
 Literaturhinweis:
 
-**[1]** Holman, Peter (2012). 'A Purcell manuscript lost and found', in: Early Music. 40/3. pp.469-487.
+[1] Holman, Peter (2012). 'A Purcell manuscript lost and found', in: Early Music. 40/3. pp.469-487.
