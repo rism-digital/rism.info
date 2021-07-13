@@ -13,7 +13,11 @@ author: ''
 
 From the [Metropolitan Museum of Art](http://www.metmuseum.org/){:target="_blank"} in New York:
 
-"Dongsok Shin performs the Sonata in d minor, K.9 by Domenico Scarlatti (1685-1757) on the earliest known surviving piano, made by the instrument's inventor, Bartolomeo Cristofori (1655-1731), in Florence, 1720. Scarlatti's keyboard compositions were performed on both the harpsichord and the early piano."
+"Dongsok Shin performs the Sonata in d minor, K.9 by Domenico Scarlatti (1685-1757) on the earliest known surviving piano, made by the instrument's inventor, Bartolomeo Cristofori (1655-1731), in Florence, 1720. Scarlatti's keyboard compositions were performed on both the harpsichord and the early piano."  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/A2WdjyKQ57A" frameborder="0" allowfullscreen></iframe>
 
