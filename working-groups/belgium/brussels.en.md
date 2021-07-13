@@ -32,41 +32,42 @@ The team of the RISM Brussels office is composed of:
 
 ## Library collections: Major Acquisition: Fonds Toots Thielemans 
 
-The Music Division of the Royal Library of Belgium acquired a new important collection in December 2016: the Fonds Toots Thielemans, named after the Belgian musician who passed away on 22 August 2016 at the age of 94. The collection consists of hundreds of sound recordings. [_Continue..._](/library_collections/2017/01/24/major-acquisition-in-belgium-fonds-toots.html){:blank}
-
-
+The Music Division of the Royal Library of Belgium acquired a new important collection in December 2016: the Fonds Toots Thielemans, named after the Belgian musician who passed away on 22 August 2016 at the age of 94. The collection consists of hundreds of sound recordings. [_Continue..._](/library_collections/2017/01/24/major-acquisition-in-belgium-fonds-toots.html){:blank}  
+&nbsp;  
+&nbsp;  
 
 {% include image file="/resources-old-website/workgroups-images/csm_Title_page_Le_Retour_des_Plaisirs_b7240e783a.jpg" pos="left" %}
 
 ## Library collections: The Royal Library of Belgium acquires the only known manuscript of Le Retour des plaisirs (1719) by André Vaillant.
 
-After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopold-Philippe of Arenberg (1690-1754) was sent back to the Austrian Netherlands and became governor of Hainaut. On the occasion of his solemn entrance in the city of Mons, capital of Hainaut, Gilles-Joseph de Boussu... [_Continue..._](/library_collections/2015/10/19/the-royal-library-of-belgium-acquires-the-only.html){:blank}
+After his campaign in the Austro-Turkish war (1716-1718) in Hungary, Duke Léopold-Philippe of Arenberg (1690-1754) was sent back to the Austrian Netherlands and became governor of Hainaut. On the occasion of his solemn entrance in the city of Mons, capital of Hainaut, Gilles-Joseph de Boussu... [_Continue..._](/library_collections/2015/10/19/the-royal-library-of-belgium-acquires-the-only.html){:blank}  
+&nbsp;  
+&nbsp;  
 
 
 {% include image file="/resources-old-website/workgroups-images/csm_Partitur_01_6d10a3122c.jpg" pos="left" %}
 
 ## Rediscovered: Légende norvégienne: Unknown work by the Belgian violinist and composer Eugène Ysaÿe at the Royal Library of Belgium
 
-The music collections of the Royal Library of Belgium (B-Br) have been recently enlarged by a previously unknown workby the Belgian violin virtuoso Eugène Ysaÿe (1858-1931), entitled Légende norvégienne, thanks to the acquisition of the autograph score version. In the spring of 1882,... [_Continue..._](/rediscovered/2014/04/11/l%C3%A9gende-norv%C3%A9gienne-unknown-work-by-the-belgian.html){:blank}
-
-
+The music collections of the Royal Library of Belgium (B-Br) have been recently enlarged by a previously unknown workby the Belgian violin virtuoso Eugène Ysaÿe (1858-1931), entitled Légende norvégienne, thanks to the acquisition of the autograph score version. In the spring of 1882,... [_Continue..._](/rediscovered/2014/04/11/l%C3%A9gende-norv%C3%A9gienne-unknown-work-by-the-belgian.html){:blank}  
+&nbsp;  
+&nbsp;  
 
 {% include image file="/resources-old-website/workgroups-images/csm_vieuxtemps_01_c00c49c344.jpg" pos="left" %}
 
 ## Library collections: Henry Vieuxtemps at the Royal Library of Belgium
 
-Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, with an important find and an online exhibition. In 2011, the King Baudouin Foundation bought an exceptional set of 32 music manuscripts by the violinist Henry Vieuxtemps. Thanks to the support of the Abbé Manoël de la Serna fund administered by the King Baudouin Foundation, the Vieuxtemps collection in the Music Department of the Royal Library of Belgium has been recently supplemented by a unique autograph manuscript of the composer’s only opera, La Fiancée de Messine, a work completely unknown until now... [_Continue..._](/library_collections/2012/11/16/henry-vieuxtemps-at-the-royal-library-of-belgium.html){:blank}
-
-
+Henry Vieuxtemps (1820-1881) is in the news at the Royal Library of Belgium, with an important find and an online exhibition. In 2011, the King Baudouin Foundation bought an exceptional set of 32 music manuscripts by the violinist Henry Vieuxtemps. Thanks to the support of the Abbé Manoël de la Serna fund administered by the King Baudouin Foundation, the Vieuxtemps collection in the Music Department of the Royal Library of Belgium has been recently supplemented by a unique autograph manuscript of the composer’s only opera, La Fiancée de Messine, a work completely unknown until now... [_Continue..._](/library_collections/2012/11/16/henry-vieuxtemps-at-the-royal-library-of-belgium.html){:blank}  
+&nbsp;  
+&nbsp;  
 
 {% include image file="/resources-old-website/workgroups-images/csm_MagritteDanvalKBR_03_726d30e969.jpg" pos="left" %}
 
 ## Library collections: The Royal Library of Belgium (Brussels) acquires the music collection of the Belgian jazz specialist Marc Danval 
 
-In March 2010, the Music Division of the Royal Library of Belgium had the good fortune to acquire the private music collection of the Brussels jazz specialist Marc Danval (b. 1937). This collection contains more than 12,000 78 rpm, 33 rpm and 45 rpm LPs and 800 books about jazz and popular... [_Continue..._](/library_collections/2010/06/27/the-royal-library-of-belgium-brussels-acquires-the.html){:blank}
-
-
-
+In March 2010, the Music Division of the Royal Library of Belgium had the good fortune to acquire the private music collection of the Brussels jazz specialist Marc Danval (b. 1937). This collection contains more than 12,000 78 rpm, 33 rpm and 45 rpm LPs and 800 books about jazz and popular... [_Continue..._](/library_collections/2010/06/27/the-royal-library-of-belgium-brussels-acquires-the.html){:blank}  
+&nbsp;  
+&nbsp;  
 
 
 {% include image file="/resources-old-website/workgroups-images/csm_HaydnVieuxtempsKBRfolio2_03_76f68dcd61.jpg" pos="left" %}
@@ -74,4 +75,3 @@ In March 2010, the Music Division of the Royal Library of Belgium had the good f
 ## Rediscovered: Discovery of Joseph Haydn's original manuscript for the pieces Hob. XIX:1 and Hob. XIX:2 (Royal Library of Belgium, Brussels) 
 
 In February 2007, the Music Division of the Royal Library of Belgium had the good fortune to acquire from private ownership a precious document that had been previously unknown to researchers. It is a notebook that belonged to the violinist and composer Henry Vieuxtemps (1820-1881). It contains... [_Continue..._](/rediscovered/2010/06/08/discovery-of-joseph-haydns-original-manuscript-for.html){:blank}
-
