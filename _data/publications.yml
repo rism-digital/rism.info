@@ -39,10 +39,16 @@
             fr: Documentation Musicale (2012)
           link: "/publications/conferences/conference-2012.html"
     - name:
-        en: IAML Conferences
+        en: IAML Congresses
         de: IAML Konferenzen
         fr: Conférences IAML
+      link: "/publications/iaml-conferences.html"
       items:
+        - name:
+            en: 2021
+            de: 2021
+            fr: 2021
+          link: "/publications/iaml-congresses/2021.html" 
         - name:
             en: 2019
             de: 2019

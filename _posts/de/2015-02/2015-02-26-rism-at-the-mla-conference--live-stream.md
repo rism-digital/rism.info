@@ -17,39 +17,28 @@ Unsere Kollegin Sarah Adams vom RISM US-Office nimmt an der Sektion "Digitale Mu
 
 Sehen Sie hier ihre Präsentation am Freitag, den 27. Februar, 9:00-10:30 Ortszeit (UTC-7).
 
-
-<iframe width="480" height="302" src="http://www.ustream.tv/embed/19823085?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"> </iframe>
-
+<iframe src="https://player.vimeo.com/video/121137945" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/121137945">Plenary Session #2: Digital Musicology: The Role of Music Library Collections</a> from <a href="https://vimeo.com/musiclibraryassoc">Music Library Association</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Weitere Referenten der Sektion (siehe [Handout](http://c.ymcdn.com/sites/www.musiclibraryassoc.org/resource/resmgr/MLA_2015/MLA_2015_digital_humanities_.pdf){:target="_blank"}) sind:
 
--
+- Frances Barulich (The Morgan Library & Museum)
 
-Frances Barulich (The Morgan Library & Museum)
+- Bonna J. Boettcher (Cornell University) and Elizabeth Davis (Columbia University): The Contemporary Composers Web Archive under the aegis of the Borrow Direct Music Librarians Group and Columbia University
 
--
+- Darwin F. Scott (Princeton University): the Blue Mountain Project: Historic Avant-Garde Periodicals for Digital Research
 
-Bonna J. Boettcher (Cornell University) and Elizabeth Davis (Columbia University): The Contemporary Composers Web Archive under the aegis of the Borrow Direct Music Librarians Group and Columbia University
+- Sarah J. Adams (Harvard University): updates and enhancements to the RISM OPAC
 
--
-
-Darwin F. Scott (Princeton University): the Blue Mountain Project: Historic Avant-Garde Periodicals for Digital Research
-
--
-
-Sarah J. Adams (Harvard University): updates and enhancements to the RISM OPAC
-
--
-
-Jane Gottlieb (The Juilliard School) and Susan Vita (Library of Congress): the Music Treasures Consortium hosted by the Library of Congress
+- Jane Gottlieb (The Juilliard School) and Susan Vita (Library of Congress): the Music Treasures Consortium hosted by the Library of Congress
 
 
 Konferenzwebsite: [http://www.musiclibraryassoc.org/page/mla\_2015](http://www.musiclibraryassoc.org/page/mla_2015)
 
-Programm: [http://www.musiclibraryassoc.org/page/mla\_2015\_sched](http://www.musiclibraryassoc.org/page/mla_2015_sched)
+Programm: [https://www.musiclibraryassoc.org/page/mla\_2015\_sched](http://www.musiclibraryassoc.org/page/mla_2015_sched)
 
 
 Livestream (für die Präsentationen im Raum Platte River): [http://www.ustream.tv/channel/mla2015](http://www.ustream.tv/channel/mla2015){:target="_blank"}
 
 
-Aufzeichnungen nach der Konferenz: [http://vimeopro.com/musiclibraryassoc/denver-2015](http://vimeopro.com/musiclibraryassoc/denver-2015){:target="_blank"}
+Aufzeichnungen nach der Konferenz: [https://www.musiclibraryassoc.org/mpage/mla_2015_media](https://www.musiclibraryassoc.org/mpage/mla_2015_media){:target="_blank"}

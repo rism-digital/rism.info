@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neue Musik vom „Alten Fritz“ “ – „Diese Noten haben Ihro Majestät der König Friederich von Preußen eigenhändig geschrieben.“
+title: Neue Musik vom „Alten Fritz“ – „Diese Noten haben Ihro Majestät der König Friederich von Preußen eigenhändig geschrieben.“
 date: 2012-11-08
 lang: de
 post: true
@@ -19,19 +19,19 @@ Rechtzeitig vor dem Ende des Jubliäumsjahres wurde nun entdeckt, dass in den Ku
 
 Die Flötensonaten rückten nun ins Blickfeld der Musikwissenschaft, als die Musikhandschriften der Veste Coburg für RISM in einer Datenbank erfasst wurden.
 
-Präsentation der Coburger Sonaten für die Presse am
+Präsentation der Coburger Sonaten für die Presse am:\
 **Donnerstag, 15. November um 11 Uhr in den Kunstsammlungen der Veste Coburg
 Es musizieren Dr. Angelika Tasler (Cembalo) und Regina Bußmann (Flöte). Informationen zu der Autographensammlung der Veste Coburg und zur Bedeutung der Coburger Sonaten Friedrichs des Großen geben Dr. Silvia Böcking, Dr. Cristiane Wiebel-Roth (Kunstsammlungen der Veste Coburg) und Dr. Helmut Lauterwasser (Répertoire International des Sources Musicales, München).**
 
 Dazu laden wir Sie herzlich ein
 
-Dr. Klaus Weschenfelder, Direktor der Kunstsammlungen der Veste Coburg
+Dr. Klaus Weschenfelder, Direktor der Kunstsammlungen der Veste Coburg\
 Dr. Helmut Lauterwasser, RISM Arbeitsgruppe Deutschland e.V.
 
 weitere Informationen:
 
-Kunstsammlungen der Veste Coburg, Telefon 09561/879-0
+Kunstsammlungen der Veste Coburg, Telefon 09561/879-0\
 E-Mail: sekretariat@kunstsammlungen-coburg.de
 
-RISM, Arbeitsstelle München an der Bayerischen Staatsbibliothek, Telefon 089/286382884
+RISM, Arbeitsstelle München an der Bayerischen Staatsbibliothek, Telefon 089/286382884\
 E-Mail: helmut.lauterwasser@bsb-muenchen.de

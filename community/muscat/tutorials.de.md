@@ -23,7 +23,7 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 * [Who is anonymous?](https://youtu.be/kKc0zzc8cbo){:target="_blank"}: Dieses Video betont die Wichtigkeit einer Incipitsuche für eine anonym überlieferte Komposition.
 * Übergang von [Rules for Archival Description](http://www.cdncouncilarchives.ca/archdesrules.html){:target="_blank"} (Kanada) zu RISM: [Allgemeine Anweisungen](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} zum Ergänzen von Beschreibungen in RISM aus RAD oder einem anderen Archivstandard (von Rebecca Shaw, Dalhousie University)
 * [Die Personennormdatei](https://youtu.be/A130dB8I62k){:target="_blank"}: Wie kann man einen Namen hinzufügen und bearbeiten, welche Informationen enthalten sein müssen, Verlinkung zu VIAF
-* [Konvolute](https://youtu.be/46_agb6-K_0){:target="_blank"}: Wie kann man zeigen, dass gedruckte (und handschriftliche) Materialen zusammengebunden sind
+* Konvolute: Wie kann man zeigen, dass gedruckte (und handschriftliche) Materialen zusammengebunden sind. [YouTube Video](https://youtu.be/46_agb6-K_0){:blank} und [PDF](/resources/community/muscat/guide_add_composite_records_muscat_202106.pdf)
 * Verweise auf Sekundärliteratur: [Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
 * [Musikincipits mittels Plaine & Easie-Code erstellen](https://youtu.be/-HplUb_L1QY){:blank}
 
@@ -33,7 +33,7 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 **Schritt für Schritt-Anleitung** zur Erfassung einer Quelle
 
-1. Partitur: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) [Video auf YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
+1. Partitur: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) und [Video auf YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
 2. Nur Stimmenmaterial: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
 3. Partitur und Stimmen: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_and_parts_in_Muscat_01.pdf)
 4. Partitur mit mehreren Werken (Sammlung): [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_collections_in_Muscat.pdf)
@@ -47,9 +47,9 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 **Weitere Übungsbeispiele:**:
 
-1. Beispiel 1: Partitur [Karte](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
-2. Beispiel 2: Partitur und Stimme [Karte](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
-3. Beispiel 3: Sammlung [Karte](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
+1. Beispiel 1: Partitur [Karte](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
+2. Beispiel 2: Partitur und Stimme [Karte](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
+3. Beispiel 3: Sammlung [Karte](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
 
 # Tutorials: Musikdrucke
 

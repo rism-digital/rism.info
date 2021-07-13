@@ -34,7 +34,7 @@ Also look at past [IAML congresses](/publications.html){:target="_blank"} for sl
 
 ## Cataloging Tools
 
-**Plaine & Easie Code**: The [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} for encoding music incipits is maintained by the International Association of Music Libraries, Archives and Documentation Centres (IAML) and RISM for use as an exchange format in the library environment.
+**Plaine & Easie Code**: The [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} for encoding music incipits is maintained by the International Association of Music Libraries, Archives and Documentation Centres (IAML) and RISM for use as an exchange format in the library environment. It is used in [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank}. A tutorial [can be found here](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
 
 **Links to the RISM online catalog (OPAC):**
 

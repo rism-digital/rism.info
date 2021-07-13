@@ -45,4 +45,4 @@ _Manuscripts B-Bc ARC-M-99/1-4_
 [_Manuscript B-Bc 33.937_](https://opac.rism.info/search?id=703000359&View=rism&Language=en){:target="_blank"}
 
 8. ZARTH, Georg, Solo a Flauto Traverso con Cembalo, 2019.
-[Manuscript B-Bc 13.365](https://opac.rism.info/search?id=701002457&View=rism&Language&en){:target="_blank"}
+[_Manuscript B-Bc 13.365_](https://opac.rism.info/search?id=701002457&View=rism&Language&en){:target="_blank"}
