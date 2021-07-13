@@ -25,13 +25,13 @@ Es musizieren Dr. Angelika Tasler (Cembalo) und Regina Bußmann (Flöte). Inform
 
 Dazu laden wir Sie herzlich ein
 
-Dr. Klaus Weschenfelder, Direktor der Kunstsammlungen der Veste Coburg
+Dr. Klaus Weschenfelder, Direktor der Kunstsammlungen der Veste Coburg\
 Dr. Helmut Lauterwasser, RISM Arbeitsgruppe Deutschland e.V.
 
 weitere Informationen:
 
-Kunstsammlungen der Veste Coburg, Telefon 09561/879-0
+Kunstsammlungen der Veste Coburg, Telefon 09561/879-0\
 E-Mail: sekretariat@kunstsammlungen-coburg.de
 
-RISM, Arbeitsstelle München an der Bayerischen Staatsbibliothek, Telefon 089/286382884
+RISM, Arbeitsstelle München an der Bayerischen Staatsbibliothek, Telefon 089/286382884\
 E-Mail: helmut.lauterwasser@bsb-muenchen.de
