@@ -13,7 +13,7 @@ author: ''
 
 Ich (Jennifer Ward) nahm am [Kongress der International Musicological Society (IMS) in Tokio](http://ims2017-tokyo.org/){:target="_blank"} vom 19. bis 23. März 2017 teil, unterstützt von [Bibliothek & Information International/Goethe-Institut](http://www.bi-international.de/english){:target="_blank"}. Der Kongress wurde von der Tokyo University of the Arts veranstaltet und beschäftgite sich mit Themen zu [Musicology: Theory and Practice, East and West](http://ims2017-tokyo.org/Theme/){:target="_blank"}.
 
-RISM (und die anderen drei [R Projekte](http://www.r-musicprojects.org/){:target="_blank"}) wird von der [IMS](https://ims-international.ch/){:target="_blank"} und [IAML](http://www.iaml.info/){:target="_blank"} (der International Association of Music Libraries, Archives and Documentation Centres) unterstützt. Während IAML-Treffen jährlich stattfinden, sind IMS-Kongresse eine seltenere Angelegenheit, da sie nur alle fünf Jahre ausgerichtet werden. Dieser war mein erster IMS-Kongress und er kann als riesig beschrieben werden: über 600 Teilnehmer; eine Unmenge an Vorträgen, Roundtables, Sitzungen und Referaten; manchmal 10 Veranstaltungen und mehr gleichzeitig. Es war unmöglich alles aufzunehmen.
+RISM (und die anderen drei [R Projekte](http://www.r-musicprojects.org/){:target="_blank"}) wird von der [IMS](https://www.musicology.org/){:target="_blank"} und [IAML](http://www.iaml.info/){:target="_blank"} (der International Association of Music Libraries, Archives and Documentation Centres) unterstützt. Während IAML-Treffen jährlich stattfinden, sind IMS-Kongresse eine seltenere Angelegenheit, da sie nur alle fünf Jahre ausgerichtet werden. Dieser war mein erster IMS-Kongress und er kann als riesig beschrieben werden: über 600 Teilnehmer; eine Unmenge an Vorträgen, Roundtables, Sitzungen und Referaten; manchmal 10 Veranstaltungen und mehr gleichzeitig. Es war unmöglich alles aufzunehmen.
 
 Eine gemeinsame "R session" erlaubte allen R-Projekten über die neuesten Entwicklungen zu berichten. Die RISM-Präsentation übernahm der Leiter der Zentralredaktion Klaus Keil und zeigte einige Funktionen des Online-Katalogs sowie Muscat, das neue Erfassungsprogramm des RISM.
 
@@ -27,7 +27,9 @@ Es war eine besondere Freude unsere Kollegen von RISM Japan auf dem Kongress zu 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1547960328578139%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-[Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"} ![Manuscript music by Kosaku](/resources-old-website/news/IMS_Tokyo_2017_Kosaku.jpg)
+In Tokio besuchte ich so viele Bibliotheken udn Archive wie möglich. Zunächst das Tokyo University of the Arts' [Archive Center](http://archive.geidai.ac.jp/en/){:target="_blank"}, das eine Ausstellung von Materialien zu Yamada Kosaku (1886 -1965) zeigte. Zu sehen waren Dokumente, Fotos und Manuskriptpartituren des Komponisten und Dirigenten. Diese werden nach und nach digitalisiert und online verfügbar gemacht.
+
+![Manuscript music by Kosaku](/resources-old-website/news/IMS_Tokyo_2017_Kosaku.jpg)
 _Musikhandschrift von Yamada Kosaku auf dem Bildschirm des Archive Center_
 
 Danach besuchte ich die [Universitätsbibliothek](http://www.lib.geidai.ac.jp/Eguide.html){:target="_blank"} unserer gastgebenden Institution. Die Bibliothek unterstützt den Auftrag der Universität und ist mit ca. 490.000 Bänden einer der größten Kunstbibliotheken Japans. In der Musikabteilung fand ich die lange Reihe der gedruckten RISM Bände, einschließlich des neuesten von 2016!
@@ -35,8 +37,15 @@ Danach besuchte ich die [Universitätsbibliothek](http://www.lib.geidai.ac.jp/Eg
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865161620989%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-[digitalisiert und stehen online](http://images.lib.geidai.ac.jp/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-[National Diet Library](http://www.ndl.go.jp/en/){:target="_blank"}<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865158287656%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+Zu den Highlights aus den Sondersammlungen der Bibliothek (die nicht ausgestellt waren, aber eine Beschreibung kann auf der Website gefunden werden) gehören Musikbücher aus der Edo-Zeit, Bücher mit Musik für Koto (eine Art Harfe) und einige seltene gedruckte Musik von europäischen Komponisten. Es scheint, dass einige dieser Materialien [digitalisiert und stehen online](http://images.lib.geidai.ac.jp/){:target="_blank"}
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865181620987%2F%3Ftype%3D3&amp;width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+
+Unabhängig vom Kongress arrangierte ich eine Tour durch die National Diet Library und die Tokyo Metropolitan Library. 
+
+Die [National Diet Library](http://www.ndl.go.jp/en/){:target="_blank"} (NDL) dient, wie der Name schon sagt, als Präsenzbibliothek für die Mitglieder des Diet (Parlament), ist aber de facto die Nationalbibliothek Japans. Der Hauptzweck der NDL ist die Unterstützung des Parlaments bei seinen Informationsbedürfnissen im Zusammenhang mit der Gesetzgebung, aber sie sieht ihre Aufgaben auch in der Entwicklung von Informationsressourcen für Japan sowie in der Gewährleistung des Zugangs zu diesen Informationsressourcen. 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRISM.info%2Fphotos%2Fa.1412214048819435.1073741848.103775449663308%2F1550865158287656%2F%3Ftype%3D3&amp;width=500" width="500" height="484" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
 Die NDL sammet, bewahrt, restauriert und macht alle in Japan erscheinenden Veröffentlichungen (einschließlich des elektronischen Materials) verfügbar. Dies schließt auch die Mangas ein. Die Sammlung der japanischen Comics füllt die Regale farbenfroh aus. Die Bibliothek sammelt diese Mangas seit den späten 1960er Jahren.
 
