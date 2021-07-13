@@ -17,6 +17,6 @@ Charles de Bériot, Geiger, Komponist, Lehrer, Philosoph, Künstler, starb am 8.
 
 Während wir in der Bibliothek des Brüsseler Konservatoriums eine ziemlich bedeutende Sammlung von Gegenständen haben, die seiner ersten Frau [Maria Malibran](https://en.wikipedia.org/wiki/Maria_Malibran_fund){:target="_blank"} gehörten, listet [RISM nur zehn autographe Manuskripte von de Bériot](https://opac.rism.info/search?View=rism&author=Charles+de+B%C3%A9riot){:target="_blank"} auf. Ich glaube, dass der Nachlass von de Bériot über seinen Sohn Charles-Wilfrid de Bériot überliefert wurde und sich höchstwahrscheinlich im Besitz einer Familie adeliger Abstammung in Frankreich befindet. Es wurde berichtet, dass diese Sammlung sogar philosophische Schriften von de Bériot enthält!
 
-Im heutigen Blogbeitrag habe ich zusammen mit der Hilfe von [Mary Bardet](https://fr.linkedin.com/in/mary-bardet-2117ba105){:target="_blank"} von der Universität Birmingham eine weniger bekannte frühe biografische Skizze von de Bériot übersetzt.
+Im heutigen Blogbeitrag habe ich zusammen mit der Hilfe von [Mary Bardet](https://fr.linkedin.com/in/mary-bardet-phd-2117ba105){:target="_blank"} von der Universität Birmingham eine weniger bekannte frühe biografische Skizze von de Bériot übersetzt.
 
 Weiterlesen können Sie hier: "[Farewell Charles de Bériot](https://19cbelgian.music.blog/2020/04/07/farewell-charles-de-beriot/){:target="_blank"}!"
