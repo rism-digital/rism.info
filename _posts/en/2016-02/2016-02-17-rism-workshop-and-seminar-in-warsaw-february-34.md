@@ -19,27 +19,17 @@ Newcomers representing several institutions were present: the National Library, 
 
 The RISM seminar was at the end of the second day, and aimed at the exchange of information about recent, current and planned projects in the Polish RISM working groups. It was also a presentation for newcomers to demonstrate what kind of use they can make of their Kallisto skills.
 
-During the seminar 5 reports were presented by:
+During the seminar five reports were presented by:
 
--
+- Sonia Wronkowska - Polish RISM Centre in the National Library of Poland
 
-Sonia Wronkowska - Polish RISM Centre in the National Library of Poland
+- Dr hab. Magdalena Walter-Mazur - RISM working group in Poznań
 
--
+- Grzegorz Joachimiak - RISM working group in Wrocław
 
-Dr hab. Magdalena Walter-Mazur - RISM working group in Poznań
+- Katarzyna Spurgjasz - RISM working group in the Warsaw University Library
 
--
-
-Grzegorz Joachimiak - RISM working group in Wrocław
-
--
-
-Katarzyna Spurgjasz - RISM working group in the Warsaw University Library
-
--
-
-Guido Kraus - RISM Central Office
+- Guido Kraus - RISM Central Office
 
 
 _Photographs courtesy of Sonia Wronkowska. Top, Guido Kraus demonstrates Kallisto. Bottom, the RISM seminar continues._
