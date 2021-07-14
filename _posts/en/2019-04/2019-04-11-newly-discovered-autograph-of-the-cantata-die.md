@@ -23,7 +23,7 @@ The autograph manuscript measures 33 x 25,8 cm (height x width) and has 68 pages
 
 The title reads:
 
-Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Martin, ein junger Fischer. Tenor | Lisa, seine Braut. Mezzo-Sopran | Susanne, die Schenkin. Hoher Sopran.
+Die Fischerin. \| Dramatische Cantate \| für Soli und Orchester. \| Personen: \| Martin, ein junger Fischer. Tenor \| Lisa, seine Braut. Mezzo-Sopran \| Susanne, die Schenkin. Hoher Sopran.
 
 The newly discovered, complete version of the cantata allows us once more to analyze the works of Humperdinck and to acquaint ourselves with one further Goethe setting. It is surprising that the prologue of Goethe's _Die Fischerin_, which in an excerpted form became famous as "Der Erlkönig," was not used in Humperdinck's setting.
 
