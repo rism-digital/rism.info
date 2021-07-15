@@ -21,24 +21,14 @@ Das RISM-Seminar am Ende des zweiten Tages diente dem Informationsaustausch zu n
 
 Im Rahmen des Seminars wurden auch fünf Berichte präsentiert:
 
--
+- Sonia Wronkowska - Polnische RISM Zentrale an der polnischen Nationalbibliothek
 
-Sonia Wronkowska - Polnische RISM Zentrale an der polnischen Nationalbibliothek
+- Dr hab. Magdalena Walter-Mazur - RISM-Arbeitsgruppe in Posen
 
--
+- Grzegorz Joachimiak - RISM-Arbeitsgruppe in Breslau
 
-Dr hab. Magdalena Walter-Mazur - RISM-Arbeitsgruppe in Posen
+- Katarzyna Spurgjasz - RISM-Arbeitsgruppe an der Universitätsbibliothek in Warschau
 
--
-
-Grzegorz Joachimiak - RISM-Arbeitsgruppe in Breslau
-
--
-
-Katarzyna Spurgjasz - RISM-Arbeitsgruppe an der Universitätsbibliothek in Warschau
-
--
-
-Guido Kraus - RISM Zentralredaktion
+- Guido Kraus - RISM Zentralredaktion
 
 _Bilder mit freundlicher Genehmigung von Sonia Wronkowska_
