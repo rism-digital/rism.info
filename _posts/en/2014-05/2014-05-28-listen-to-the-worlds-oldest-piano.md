@@ -19,9 +19,6 @@ From the [Metropolitan Museum of Art](http://www.metmuseum.org/){:target="_blank
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/A2WdjyKQ57A" frameborder="0" allowfullscreen></iframe>
 
