@@ -8,6 +8,8 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 ---
 
 # Österreich : Innsbruck : RISM Landesleitung Tirol-Südtirol & OFM Austria
+Besuchen Sie die Webseite des [Musikland Tirol](http://www.musikland-tirol.at/){:blank} und informieren Sie sich über die Arbeit des RISM in Tirol-Südtirol und des OFM Österreich, die Musikgeschichte Tirols, eine Online-Ausstellung, moderne Musikeditionen von Tiroler Musik, CDs und Konzerte mit Tiroler Musik.
+
 
 ## Aktuelles
 
@@ -16,24 +18,14 @@ sidepanel: "sidepanels/working-groups/austria-innsbruck"
 ### Tiroler Weihnachtskonzert am 18. und 19. Dezember 2010
 
 Ein Weihnachtskonzert nach Quellen aus dem Musikarchiv des Franziskanerklosters Reutte/Tirol.Das 22. Tiroler Weihnachtskonzert wird erneut von der Idee getragen, mit weihnachtlicher Musik aus Tirol eine stimmungsvolle klingende Weihnachtsmette des 19. Jahrhunderts nachzuempfinden. [_Weiterlesen..._](/events/2010/12/12/tyrolean-christmas-concert-1819-december-2010.html){:blank}
-
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp; 
+&nbsp; 
 
 
 ### RISM Landesleitung Tirol-Südtirol & OFM Austria
 
 Besonders bemerkenswerte Titel aus der Katalogisierungsarbeit in letzter Zeit [_Weiterlesen..._](/working-groups/austria/innsbruck/ofm.html){:blank}
 
-
-
-## Projekte
-
-A-ST, I-BREd, A-Sfr
-
-**Weiteres:**
-
-"Die Städtische Musikkapelle Brixen" and "Tiroler Klangpremieren". In: Der Schlern, Heft 8, 84/2010
-
-[http://www.musikland-tirol.at](http://www.musikland-tirol.at)  
-(containing information about the music history of Tyrol, online-exibition / presentation, "Musikedition Tirol" (music edition), CD-editions and concerts with music from Tyrol etc.)
