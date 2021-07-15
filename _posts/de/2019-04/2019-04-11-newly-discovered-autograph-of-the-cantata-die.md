@@ -23,7 +23,7 @@ Das Autograph ist 33 x 25,8 cm groß (Höhe x Breite). Es umfasst insgesamt 68 S
 
 Der Titel lautet:
 
-Die Fischerin. | Dramatische Cantate | für Soli und Orchester. | Personen: | Martin, ein junger Fischer. Tenor | Lisa, seine Braut. Mezzo-Sopran | Susanne, die Schenkin. Hoher Sopran.
+Die Fischerin. \| Dramatische Cantate \| für Soli und Orchester. \| Personen: \| Martin, ein junger Fischer. Tenor \| Lisa, seine Braut. Mezzo-Sopran \| Susanne, die Schenkin. Hoher Sopran.
 
 Die nun aufgefundene vollständige Fassung der Kantate erlaubt einmal mehr, das Schaffen Humperdincks zu analysieren und auch die Vertonung eines weiteren Goetheschen Werkes kennenzulernen. Erstaunlich ist dabei, dass der in „Der Fischerin“ enthaltene Prolog, der als „Erlkönig“ exzerpiert berühmt wurde, von Humperdinck in der Vertonung keine Verwendung fand.
 
