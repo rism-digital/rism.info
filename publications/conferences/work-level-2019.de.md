@@ -12,7 +12,7 @@ old_url: http://www.rism.info/de/publikationen/werkebene-2019.html
 [Konferenzflyer (pdf](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf))
 
 Bericht von Chantal Köppl auf der Webseite der [Gesellschaft für Musikforschung  
-](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}
+](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 Die Konferenz "Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM" fand vom 9. - 11. Mai 2019 in der [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"} in Mainz in Kooperation mit der Johannes Gutenberg-Universität Mainz statt.
 
