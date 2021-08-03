@@ -15,6 +15,7 @@ The year 2020 is still young, but let's take a moment to look back on 2019 at th
 &nbsp;  
 &nbsp;  
 &nbsp;   
+&nbsp;  
 
 1. [New Music Manuscripts from Italy (ICCU) in RISM](/new_at_rism/2019/08/08/new-music-manuscripts-from-italy-iccu-in-rism.html){:target="_blank"}
 
