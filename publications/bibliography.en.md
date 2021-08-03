@@ -1250,6 +1250,9 @@ Lindner, Andreas and Klaus Petermayr. _Die historischen Musikalien der Bruckner-
 
 Neumayr, Eva and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018. [Available online](https://e-book.fwf.ac.at/o:1205){:blank}.
 
+Neumayr, Eva, ed., with contributions by Armin Brinzing and Till Reininghaus. [_Der „Mozart-Nachlass“. Musikalien aus dem Besitz der Söhne W. A. Mozarts in Salzburg_](https://www.carus-verlag.com/musiknoten-und-aufnahmen/der-mozart-nachlass-musikalien-aus-dem-besitz-der-soehne-w-a-mozarts-in-salzburg.html?listtype=search&searchparam=Mozart-Nachlass){:blank}. Beiträge zur Mozart-Dokumentation, 3; Veröffentlichungen des Archivs der Erzdiözese, 25. Stuttgart: Carus-Verlag, 2021. 823 p.  
+
+
 ##### BR - Brazil
 
 Base Minas – ECA / USP (database with musical sources). Some information available here: [http://www.rebeca.eca.usp.br/lam/minas/](http://www.rebeca.eca.usp.br/lam/minas/)   
