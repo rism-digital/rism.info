@@ -8,7 +8,7 @@ category: new_at_rism
 image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/internships-at-the-rism-central-office.html
 email: martina.falletta@rism.info
-author: ''
+author: 'Martina Falletta'
 ---
 
 We would like to announce that we are accepting applications for interns at the RISM Central Office in Frankfurt, Germany.
