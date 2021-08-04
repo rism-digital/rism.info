@@ -23,28 +23,28 @@ At the same time, Parisian publishing houses like Maurice Schlesinger started pr
 
 Back to the year 1843: After being pronounced the new discovery of the season, Dreyschock left Paris in April and continued his success in London, where he took part in concerts at the court. August and September were mostly spent recovering near the banks of the river Rhine until Dreyschock continued his activities using Frankfurt as his base to visit the surrounding area. He performed in Mainz, Darmstadt, Wiesbaden, Offenbach and Hanau. The setting of these concerts differed considerably—some of them were large events for charitable purposes, some private. The _Allgemeine musikalische Zeitung_ summed up his success: “However, he aroused enthusiasm in the surrounding towns […] whose audiences drowned him in celebrations, wreaths and sonnets.” (AmZ 21.2.1844). He also received an honorary diploma from the _Liederkranz_ in Frankfurt and was appointed court music director of the grand duke of Hessen-Darmstadt. A poem biding him farewell from Offenbach could be read in a local newspaper (_Didaskalia_ 4.12.1843):
 
-_An Alexander Dreyschock.
-(Zum Abschied von Offenbach.)
+_An Alexander Dreyschock._  
+_(Zum Abschied von Offenbach.)_  
 
-Dem Künstler ward das schöne Loos beschieden,
-Uns mit dem Ernst des Lebens zu versöhnen,
-An Edleres die Sinne zu gewöhnen
-Und unserm Geist Erquickungen zu bieten.
+_Dem Künstler ward das schöne Loos beschieden,_  
+_Uns mit dem Ernst des Lebens zu versöhnen,_  
+_An Edleres die Sinne zu gewöhnen_  
+_Und unserm Geist Erquickungen zu bieten._  
 
-Es sind die Priester, die die Flamme hüten,
-Die reine Gluth des Guten und des Schönen;
-In Bildern, wie in Worten und in Tönen
-Erfreu’n uns ihres Genius reiche Blüthen.
+_Es sind die Priester, die die Flamme hüten,_  
+_Die reine Gluth des Guten und des Schönen;_  
+_In Bildern, wie in Worten und in Tönen_  
+_Erfreu’n uns ihres Genius reiche Blüthen._  
 
-So hast auch Du, ein Liebling der Camöne,
-Uns mit dem Zauber deiner Kunst beglücket,
-Du hoher Meister in dem Reich der Töne.
+_So hast auch Du, ein Liebling der Camöne,_  
+_Uns mit dem Zauber deiner Kunst beglücket,_  
+_Du hoher Meister in dem Reich der Töne._  
 
-Nimm unsern wärmsten Dank dafür – er drücket
-Zum Lebewohl die Hand Dir jetzt, die flinke,
-Doch nicht die rechte nur, auch Deine linke.
+_Nimm unsern wärmsten Dank dafür – er drücket_  
+_Zum Lebewohl die Hand Dir jetzt, die flinke,_  
+_Doch nicht die rechte nur, auch Deine linke._  
 
-Am 2. Dezember 1843. Joseph Pirazzi._
+_Am 2. Dezember 1843. Joseph Pirazzi._
 
 
 _Image_: "Alexander Dreyschock, Kniestück," lithograph by Josef Kriehuber. Universitaetsbibliothek Johann Christian Senckenberg (Frankfurt am Main) S 36/G04012. [Available online](http://nbn-resolving.org/urn:nbn:de:hebis:30:2-214911){:target="_blank"}.
