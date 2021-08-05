@@ -77,7 +77,7 @@ The presentations, in alphabetical order:
 **Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf) (PDF)
 
-**Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
+**Peter van Kranenburg** (Meertens Institute, Amsterdam), Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
 
 **Helmut Lauterwasser** (RISM Germany): On Disappearing in One Big Pot: Distinct Collections of Church Music in Large Libraries, Small Church Archives in the RISM Database (Über das Verschwinden im großen Topf. Geschlossene Kirchenmusiksammlungen in großen Bibliotheken - Kleine Kirchenarchive in der RISM-Datenbank)
 
