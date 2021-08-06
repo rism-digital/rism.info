@@ -33,7 +33,7 @@ The presentations, in alphabetical order:
 
 **Annemarie Bösch-Niederer** (RISM Austria-Vorarlberg): "… haben diese Klosterfrauen eine schöne Musicam von Stimmen und Instrumenten." On Music in Convents: New Discoveries from Vorarlberg, Austria (Zur Musik in Frauenklöstern – neue Funde aus Vorarlberg/A)
 
-**Hyun Kyung Chae** (Music ResearchInstitute,Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
+**Hyun Kyung Chae** (Music Research Institute, Ewha Womans University - RISM South Korea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
 
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)
 
