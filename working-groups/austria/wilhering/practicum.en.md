@@ -36,7 +36,7 @@ Laptops not required but helpful
 
 Maximum number of participants: 20
 
-Register online from September 19 to October 9 by sending an e-mail to[stefan.ikarus.kaiser@oeaw.ac.at](mailto:stefan.ikarus.kaiser@oeaw.ac.at)
+Register online from September 19 to October 9 by sending an e-mail to [stefan.ikarus.kaiser@oeaw.ac.at](mailto:stefan.ikarus.kaiser@oeaw.ac.at)
 
 Block course
 
