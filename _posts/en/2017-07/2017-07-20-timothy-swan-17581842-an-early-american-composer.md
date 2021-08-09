@@ -32,6 +32,6 @@ Listen to this performance of "Montague" sung by the Oregon State University Cho
 _Timothy Swan: Psalmody and Secular Songs_
 _The core repertory of early American psalmody_
 
-_Image_[American Antiquarian Society](http://www.americanantiquarian.org/Inventories/Portraits/118.htm){:target="_blank"}
+_Image_ [American Antiquarian Society](http://www.americanantiquarian.org/Inventories/Portraits/118.htm){:target="_blank"}
 
 
