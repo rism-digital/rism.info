@@ -25,9 +25,10 @@ According to the Amici Musicologists’ brief, the frequency and dissemination o
 
 The fifteen musicologists are: Nicole Biamonte, Charles Cronin (University of Southern California Law School), Gerald Eskelin (retired), Andrew F. Farina (Butler University School of Music), Robert Fink (University of California Los Angeles), Klaus Frieler (University of Hamburg), Michael Harrington (Berklee College of Music), Katherine M. Leo (Millikin University), Daniel Müllensiefen (Goldsmiths, University of London), André O. Redwood (University at Albany – SUNY), Anthony Ricigliano (Donato Music Services, Inc.), Patrick Savage (Keio University SFC), Eleanor Selfridge-Field (Stanford University), Mark Spicer (Hunter College, CUNY), and Robert Walser (Case Western Reserve University).
 
-Below you can listen to Katy Perry’s and Flame’s Songs. You are also invited to browse the 2,300 results for the pitch sequence in RISM and explore the ways that it has been used throughout the centuries.
+Below you can listen to Katy Perry’s and Flame’s songs. You are also invited to browse the 2,300 results for the pitch sequence in RISM and explore the ways that it has been used throughout the centuries.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QCcW-guAs_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MllhC0qyEjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+&nbsp;  
