@@ -13,7 +13,7 @@ author: ''
 
 **With these Christmas greetings we would like to thank you for your kind support this year and wish you a prosperous, successful new year.**
 
-RISM Zentralredaktion
-Sophienstraße 26
-60487 Frankfurt am Main
+RISM Zentralredaktion    
+Sophienstraße 26  
+60487 Frankfurt am Main  
 Germany
