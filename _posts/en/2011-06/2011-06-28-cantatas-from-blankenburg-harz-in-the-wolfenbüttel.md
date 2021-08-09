@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-## Music manuscripts in the Wolfenbüttel regional church archives
+Music manuscripts in the Wolfenbüttel regional church archives
 
 It is certainly not among the main tasks of a church archive to collect old music prints and manuscripts. However, a recently rediscovered manuscript collection containing church cantatas shows how diverse these historical documents and sources are. The collection, dating from around 1800, was found in the regional church archives in the German town of Wolfenbüttel, where they were indexed and stored. It consists of six boxes filled with music materials that originated in the Church of St. Bartholomew in Blankenburg. There they remained unnoticed for over 200 years before they were transferred to the Archives of the Regional Church of Braunschweig (Brunswick) in Wolfenbüttel. Hans-Jürgen Engelking, who had worked there, organized and indexed the works. Remarkably, there are a number of cantatas by a man named Johann Heinrich Pröbster, who worked in Blankenburg between 1804 and 1808 as a teacher and cantor. Compositions by him are not known to exist anywhere else. In addition, there are church cantatas by musicians who were famous in Pröbster's day, such as Carl Philipp Emmanuel Bach and Carl Heinrich Graun.
 
