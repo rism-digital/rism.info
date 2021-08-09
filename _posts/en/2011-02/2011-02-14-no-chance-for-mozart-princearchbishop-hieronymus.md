@@ -8,7 +8,7 @@ category: events
 image: "/images/news-old-website/csm_Cards_69f98ab616.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/65/article/64/no-chance-for-mozart-prince-archbishop-hieronymus-colloredo-and-the-musicians-of-his-court.html
 email: eva.neumayr@archiv.kirchen.net
-author: ''
+author: 'Eva Neumayr'
 ---
 
 Luigi Gatti (1740-1817), a composer much revered by his contemporaries, spent the first half of his life in Mantua. There he was ordained priest before he dedicated himself to music. As a musician at the court chapel Santa Barbara in Mantua, and especially as an opera composer, he became famous not only in Mantua but far beyond as well. At the peak of his career in Italy he was appointed court Kappelmeister in Salzburg by Prince-Archbishop Hieronymus Colloredo, an office he held from 1782 until his death in 1817. His extensive oeuvre of sacred music has been made accessible through a research project about music at the Salzburg cathedral that the RISM Salzburg Working Group has been carrying out since 2007.
@@ -21,4 +21,4 @@ Opening remarks: March 4, 2011, 1:30
 
 For further information aboutthe program and concerts,please [consult theflyer](/resources-old-website/workgroups/salzburg/Keine_Chance_Cover.pdf) (in German).
 
-If you wish to attend the **chamber concert on March 5th,** please senda short e-mail to [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) as seating is limited.
+If you wish to attend the **chamber concert on March 5th,** please send a short e-mail to [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) as seating is limited.
