@@ -29,38 +29,38 @@ Sherard, James (1666-1738)
 Struve, Jacob Bernhard (1767-1826)  
 
 **Sonstige Botaniker:innen bei RISM**  
-Aemilius, Georg (1517-1569) - Kirchenlieddichter
-Albertini, Johann Baptist von (1769-1831) - Bischof, Dichter
-Batsch, August J. G. K. (1761-1802) - Dichter
-Beck, Abraham Reincke (1833-1928) - Kopist, Musiker
-Behr, Hans Hermann (1818-1904) - Dichter
-Bernardin de Saint-Pierre, Henri (1737-1814) - Schriftsteller
-Chałubiński, Tytus (1820-1889) - Widmungsträger, Arzt
-Darwin, Erasmus (1731-1802) - Dichter
-Favrat, Louis (1827-1893) - Dichter
-Gmelin, Johann Georg (1709-1755) - Forschungsreisender
-Haller, Albrecht von (1708-1777) - Dichter
-Henschel, August Wilhelm Eduard Theodor (1790-1856) - Arzt
-Hohenwarth, Sigismund von (1745-1825) - Bischof
-Köchel, Ludwig von (1800-1877) - Musikhistoriker
-Martinovský, Jan Otakar (1903-1980) - Dichter
-Martius, Carl Friedrich Philipp von (1794-1868) - Instrumentenbauer, Arzt
-Mikan, Johann Christian (1769-1844) - Dichter
-Muschler, Reinhold-Conrad (1882-1957) - Drehbuchautor
-Müller, Joseph (1802-1872) - Dichter
-Reinecke, Franz (1866*) - Verfasser des Werkverzeichnisses seines Vaters Carl Reinecke
-Richardson, John (1787-1865) - Dichter (Beethoven!)
-Rupprecht, Johann Baptist (1776-1846) - Dichter, Organist
-Sacchèro, Giacomo (1813-1875) - Librettist, Dichter
-Schlegel, Paul Marquard (1605-1653) - Arzt
-Schmidlin, Eduard (1808-1890) - Schriftsteller, Gärtner
-Seward, Anna (1742-1809) - Dichterin
-Strabo, Walafried OSB (808-849) - Dichter, Abt
-Thiel, Hugo (1839-1918) - Politiker
-Trinius, Karl Bernhard von (1778-1844) - Dichter
-Tschudi, Louis-Théodore de (1734-1784) - Librettist, Dichter
-Vielguth, Ferdinand Josef (1795-1874) - Bürgermeister, Schauspieler, Chemiker
-Volckamer, Johann (1576-1660) - Ratsherr, Kaufmann
+Aemilius, Georg (1517-1569) - Kirchenlieddichter\
+Albertini, Johann Baptist von (1769-1831) - Bischof, Dichter\
+Batsch, August J. G. K. (1761-1802) - Dichter\
+Beck, Abraham Reincke (1833-1928) - Kopist, Musiker\
+Behr, Hans Hermann (1818-1904) - Dichter\
+Bernardin de Saint-Pierre, Henri (1737-1814) - Schriftsteller\
+Chałubiński, Tytus (1820-1889) - Widmungsträger, Arzt\
+Darwin, Erasmus (1731-1802) - Dichter\
+Favrat, Louis (1827-1893) - Dichter\
+Gmelin, Johann Georg (1709-1755) - Forschungsreisender\
+Haller, Albrecht von (1708-1777) - Dichter\
+Henschel, August Wilhelm Eduard Theodor (1790-1856) - Arzt\
+Hohenwarth, Sigismund von (1745-1825) - Bischof\
+Köchel, Ludwig von (1800-1877) - Musikhistoriker\
+Martinovský, Jan Otakar (1903-1980) - Dichter\
+Martius, Carl Friedrich Philipp von (1794-1868) - Instrumentenbauer, Arzt\
+Mikan, Johann Christian (1769-1844) - Dichter\
+Muschler, Reinhold-Conrad (1882-1957) - Drehbuchautor\
+Müller, Joseph (1802-1872) - Dichter\
+Reinecke, Franz (1866*) - Verfasser des Werkverzeichnisses seines Vaters Carl Reinecke\
+Richardson, John (1787-1865) - Dichter (Beethoven!)\
+Rupprecht, Johann Baptist (1776-1846) - Dichter, Organist\
+Sacchèro, Giacomo (1813-1875) - Librettist, Dichter\
+Schlegel, Paul Marquard (1605-1653) - Arzt\
+Schmidlin, Eduard (1808-1890) - Schriftsteller, Gärtner\
+Seward, Anna (1742-1809) - Dichterin\
+Strabo, Walafried OSB (808-849) - Dichter, Abt\
+Thiel, Hugo (1839-1918) - Politiker\
+Trinius, Karl Bernhard von (1778-1844) - Dichter\
+Tschudi, Louis-Théodore de (1734-1784) - Librettist, Dichter\
+Vielguth, Ferdinand Josef (1795-1874) - Bürgermeister, Schauspieler, Chemiker\
+Volckamer, Johann (1576-1660) - Ratsherr, Kaufmann\
 Yatabe, Ryōkichi (1851-1899) - Dichter  
 
 _Abbildung_: _Albertinia brasiliensis_, benannt nach dem Botaniker, Bischof und Dichter Johann Baptist von Albertini (1769-1831). [Wikispecies (CC-BY-2.0)](https://species.wikimedia.org/wiki/File:Albertinia_brasiliensis_Spreng._(445294636).jpg){:blank}.  
