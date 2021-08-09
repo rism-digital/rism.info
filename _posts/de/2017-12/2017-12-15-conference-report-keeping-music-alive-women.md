@@ -23,45 +23,45 @@ Die Teilnehmer der Konferenz waren Wissenschaftlerinnen und Komponistinnen aus d
 
 **Session 1: Rethinking Women Composers in East Asia & EMDBⅡ** (Chair: Kyeung-Ja Lee Ewha Music Research Institute)
 
-· East-Asian Music Database Ⅱ: Why Do We Document and Study Women Composers (Hyun Kyung Chae, Director of Ewha Music Research Institute)
+- East-Asian Music Database Ⅱ: Why Do We Document and Study Women Composers (Hyun Kyung Chae, Director of Ewha Music Research Institute)
 
-· New Perspectives on Contemporary Korean Women Composers (Eun-Ha Kim · In Geyong Hong · Yura Suh, Ewha Womans University)
+- New Perspectives on Contemporary Korean Women Composers (Eun-Ha Kim · In Geyong Hong · Yura Suh, Ewha Womans University)
 
-· Teacher or Composer?: Examining the First Generation of Women Composers in China and Taiwan (Seung Im Seo, National Taiwan University / Ching Han HSU Ewha Womans University)
+- Teacher or Composer?: Examining the First Generation of Women Composers in China and Taiwan (Seung Im Seo, National Taiwan University / Ching Han HSU Ewha Womans University)
 
-· The Status of Women Composers in Modern Japan: From the First Composer To Internationally Acclaimed One (Jeongsook Park · Jin Jeongmin, Ewha Womans University)
+- The Status of Women Composers in Modern Japan: From the First Composer To Internationally Acclaimed One (Jeongsook Park · Jin Jeongmin, Ewha Womans University)
 
 **Concert: Voices of Women Composers in East Asia**
 
-· Xiao Shuxian (萧淑娴, 1905-1991), Yearning for Woodwind Quartet (1941)
+- Xiao Shuxian (萧淑娴, 1905-1991), Yearning for Woodwind Quartet (1941)
 
-· Tanaka Karen (田中カレン), Techno Etudes for Piano (2000)
+- Tanaka Karen (田中カレン), Techno Etudes for Piano (2000)
 
-· Chihchun Chi-sun Lee (李志純), GP (知彼知己) for Sanjo Gayageum and Grand Piano (2012)
+- Chihchun Chi-sun Lee (李志純), GP (知彼知己) for Sanjo Gayageum and Grand Piano (2012)
 
-· Sabang Cho (조사방), Colour for Two Pianos (2012)
+- Sabang Cho (조사방), Colour for Two Pianos (2012)
 
-· Hyo-shin Na (나효신), Song of the Firewood for 25 String Kayageum (2010)
+- Hyo-shin Na (나효신), Song of the Firewood for 25 String Kayageum (2010)
 
 **Session 2: Issues and Challenges in Documenting Women Composers** (Chair: Hyun Kyung Chae, Ewha Womans University)
 
-· Not Just Nuns, Nobility, and Musician’s Daughters: From Antiquity to the Rise of Professional Women Composers (Judy Tsou, University of Washington/IAML)
+- Not Just Nuns, Nobility, and Musician’s Daughters: From Antiquity to the Rise of Professional Women Composers (Judy Tsou, University of Washington/IAML)
 
-· Making Women Visible: Experiences with the RISM Database (Jennifer Ward, RISM Central Office)
+- Making Women Visible: Experiences with the RISM Database (Jennifer Ward, RISM Central Office)
 
-· Where are the Japanese Women Composers? Research and Archives (Alison Tokita, Kyoto City University)
+- Where are the Japanese Women Composers? Research and Archives (Alison Tokita, Kyoto City University)
 
 **Session 3: Music & Gender Studies** (Chair: Hyunree Cho, Seoul National University)
 
-· Between, Betwixt, and Beyond: Finding Younghi Pagh-Paan in Mondschatten (2006) (Hyun Kyung Chae, Ewha Womans University)
+- Between, Betwixt, and Beyond: Finding Younghi Pagh-Paan in Mondschatten (2006) (Hyun Kyung Chae, Ewha Womans University)
 
-· Imperialism and Instrumentalized Femininity: Focusing on the Korean Popular Music during the Japanese Colonial Era (Eun jin Lee, Ewha Womans University)
+- Imperialism and Instrumentalized Femininity: Focusing on the Korean Popular Music during the Japanese Colonial Era (Eun jin Lee, Ewha Womans University)
 
 **Session 4: Let Composers Speak!** (Chair: Eun-Ha Kim, Ewha Womans University)
 
-· Cross Culture Music Encounters (Chihchun Chi-sun Lee, Ewha Womans University)
+- Cross Culture Music Encounters (Chihchun Chi-sun Lee, Ewha Womans University)
 
-· Thoughts on Composing, Composers, and Composers’ Groups (Hyo-shin Na 나효신, San Francisco-Based Composer)
+- Thoughts on Composing, Composers, and Composers’ Groups (Hyo-shin Na 나효신, San Francisco-Based Composer)
 
 
 **Fotos (von oben nach unten):**

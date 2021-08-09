@@ -67,7 +67,7 @@ In 2008 a research project on Ludwig Senfl, one of the renowned composers of the
 
 Using as a basis the catalog of masses by Peter and Verena Schellert, a database with around 40,000 masses from the fourteenth century to the present time has been developed. It includes details about the state of extant copies, modern editions, and references to secondary literature. With the cooperation of the Department for Music Informatics of the Musicology Institute at the University of Mainz, it was converted into a relational online structure and is expected to be released to the public in consolidated form in mid-2012. In addition to explaining the current state of the database, we will also present potential plans for expansion pertaining to versions, musical characteristics, and liturgical use. This will also ensure a differentiated description of the materials that are already cataloged.
 
-**Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts**
+**Die MessDatenBank (MDB) des Mainzer Musikwissenschaftlichen Instituts**
 
 Auf der Grundlage des Messenverzeichnisses von Peter und Verena Schellert entsteht derzeit eine Datenbank mitetwa 40.000Messkompositionen vom 14. Jahrhundert bis zur Gegenwart unter Angabe der Überlieferungssituation, moderner Editionen und Hinweisen zur Forschungsliteratur. Sie wurde in Zusammenarbeit mit der Abteilung für Musikinformatik des Musikwissenschaftlichen Instituts der Universität Mainz in eine relationale Online-Struktur überführt und soll Mitte 2012 in konsolidierter Form der Öffentlichkeit zugänglich gemacht werden. Neben einer Erläuterung des derzeitigen Standes der Datenbank werden die Ausbaumöglichkeiten vorgestellt, die weitere Parameter wie etwa Fassungen, musikalische Charakteristika und liturgische Verwendung betreffen und eine differenziertere Erschließung des bereits erfassten Materials gewährleisten sollen.
 
@@ -253,7 +253,7 @@ Im Vortrag soll neben einem Rückblick auf das Projekt gezeigt werden, wie mitte
 
 # <a name="c2307"></a>Laurence Decobert: The RISM France Portal: Content and Prospects
 
-The main innovation for RISM in France has been the launch of the portal [RISM France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp){:target="_blank"}, part of the Catalogue collectif de France (CCFr/Union Catalogue of France) in June 2011. RISM France provides access to the records of printed music and music manuscripts of the Bibliothèque nationale de France (from the BnF Catalogue général), and from there, to the digital music collection available on Gallica. Moreover, RISM France stores more than 34,000 records resulting from the conversion of the French _Patrimoine musical régional_printed catalogs.
+The main innovation for RISM in France has been the launch of the portal [RISM France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp){:target="_blank"}, part of the Catalogue collectif de France (CCFr/Union Catalogue of France) in June 2011. RISM France provides access to the records of printed music and music manuscripts of the Bibliothèque nationale de France (from the BnF Catalogue général), and from there, to the digital music collection available on Gallica. Moreover, RISM France stores more than 34,000 records resulting from the conversion of the French _Patrimoine musical régional_ printed catalogs.
 
 During the coming months, several developments are expected in the RISM database, including the display and indexing of the music incipits in the records of the BnF Catalogue général.
 

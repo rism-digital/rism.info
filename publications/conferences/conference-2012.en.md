@@ -33,7 +33,7 @@ The presentations, in alphabetical order:
 
 **Annemarie Bösch-Niederer** (RISM Austria-Vorarlberg): "… haben diese Klosterfrauen eine schöne Musicam von Stimmen und Instrumenten." On Music in Convents: New Discoveries from Vorarlberg, Austria (Zur Musik in Frauenklöstern – neue Funde aus Vorarlberg/A)
 
-**Hyun Kyung Chae** (Music ResearchInstitute,Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
+**Hyun Kyung Chae** (Music Research Institute, Ewha Womans University - RISM South Korea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
 
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)
 
@@ -77,7 +77,7 @@ The presentations, in alphabetical order:
 **Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf) (PDF)
 
-**Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
+**Peter van Kranenburg** (Meertens Institute, Amsterdam), Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
 
 **Helmut Lauterwasser** (RISM Germany): On Disappearing in One Big Pot: Distinct Collections of Church Music in Large Libraries, Small Church Archives in the RISM Database (Über das Verschwinden im großen Topf. Geschlossene Kirchenmusiksammlungen in großen Bibliotheken - Kleine Kirchenarchive in der RISM-Datenbank)
 

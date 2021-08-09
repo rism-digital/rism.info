@@ -11,13 +11,15 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
+_Dieser Beistrag stammt von Helmut Lauterwasser [RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}:_
+
 Von zwei bedeutenden Musik-Institutionen in der niedersächsischen Landeshauptstadt Hannover sind seit kurzem die historischen Musikhandschriften vollständig im RISM-OPAC nachgewiesen. Auch wenn es sich dabei um relativ kleine Bestände handelt, beinhalten sie dennoch einige musikgeschichtlich äußerst interessante und bedeutsame Quellen. Die Musikalien wurden von den beiden Institutionen für mehrere Monate zur Bearbeitung an die Münchner Arbeitsstelle der deutschen Arbeitsgruppe nach München ausgeliehen.
 
-## [Forschungszentrum Musik und Gender, Hannover](https://opac.rism.info/search?View=rism&siglum=D-HVfmg){:target="_blank"} (D-HVfmg)
+**Hannover, [Forschungszentrum Musik und Gender](https://opac.rism.info/search?View=rism&siglum=D-HVfmg){:target="_blank"} (D-HVfmg)**
 
 Das 2006 gegründete [Forschungszentrum Musik und Gender (fmg)](http://www.fmg.hmtm-hannover.de/de/start/){:target="_blank"} wird von der Mariann Steegmann Stiftung zur Förderung von Frauen in Kunst und Musik finanziert und ist an der Hochschule für Musik, Theater und Medien in Hannover beheimatet. Neben zahlreichen anderen Dokumenten aus dem Bereich Musik und Gender wird auch ein bedeutender Bestand von historischen Musikdrucken und -handschriften vom 18. bis zum 20. Jahrhundert zusammengetragen, meist durch gezielte Ankäufe auf dem Antiquariatsmarkt aber auch durch Schenkungen. Ein Beispiel dafür ist eine Sammelhandschrift (s. Abbildung) aus dem Besitz Juliane Bendas, einer Tochter Franz Bendas, später verheiratet mit Johann Friedrich Reichardt. Zu dieser Sammlung (RISM ID no. [450115681](https://opac.rism.info/search?id=450115681){:target="_blank"}) konnten, ebenso wie zu einigen anderen, im Zuge der Katalogisierung für etliche - wenngleich nicht für alle - anonym überlieferte Werke die Komponistinnen oder Komponisten ermittelt werden (z.B. RISM ID no. [450116005](https://opac.rism.info/search?id=450116005){:target="_blank"}, [450115923](https://opac.rism.info/search?id=450115923), [450116049](https://opac.rism.info/search?id=450116049){:target="_blank"}). Aus dem Bestand des fmg fehlen im RISM-OPAC derzeit nur noch einige handschriftliche Anhänge an Drucke sowie einige RISM-relevante Einzeldrucke (vor 1800), die im Lauf des Jahres noch direkt vor Ort aufgenommen werden sollen.
 
-## Hannover, [Hochschule für Musik, Theater und Medien, Hochschulbibliothek](https://opac.rism.info/search?View=rism&siglum=D-HVh){:target="_blank"} (D-HVh)
+**Hannover, [Hochschule für Musik, Theater und Medien, Hochschulbibliothek](https://opac.rism.info/search?View=rism&siglum=D-HVh){:target="_blank"} (D-HVh)**
 
 Die Musikmanuskripte bilden keinen einheitlichen oder gewachsenen Bestand. Vielmehr wurden in der Sammlung Reste mehrerer hannoverscher oder niedersächsischer Institutionen vereinigt: Hannoverscher Künstler-Verein, Königliches Hoforchester und Königliches Hoftheater, Liedertafel zu Hannover, Handbibliothek des Hermann Moeck Verlages in Celle. Der Vollständigkeit halber wurden auch einige Drucke des 19. Jahrhunderts aufgenommen, darunter einige seltene Erstdrucke.
 

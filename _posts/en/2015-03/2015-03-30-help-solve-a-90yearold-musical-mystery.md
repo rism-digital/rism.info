@@ -17,4 +17,4 @@ Can you find any?A worldwide musical treasure hunt is underway! _Musica_ writes 
 
 Let the search begin! (And of course please tell RISM if you find anything so it can be documented in our online catalog.)
 
-_Musica_ has a [short biography of Zanni](http://www.iaml.info/files/news/musica_-_rodolfo_zanni.pdf){:target="_blank"} in Italian. Contest rules are available in [Italian](http://www.iaml.info/files/news/zanni_italian.pdf){:target="_blank"}, [Spanish](http://www.iaml.info/files/news/zanni_spanish.pdf){:target="_blank"}, and [English](http://www.iaml.info/files/news/zanni_english.pdf){:target="_blank"}.
+_Musica_ has a [short biography of Zanni](https://www.iaml.info/sites/default/files/musica_-_rodolfo_zanni.pdf){:target="_blank"} in Italian. Contest rules are available in [Italian](https://www.iaml.info/sites/default/files/zanni_italian.pdf){:target="_blank"}, [Spanish](https://www.iaml.info/sites/default/files/zanni_spanish.pdf){:target="_blank"}, and [English](https://www.iaml.info/sites/default/files/zanni_english.pdf){:target="_blank"}.

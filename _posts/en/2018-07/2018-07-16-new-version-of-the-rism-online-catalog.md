@@ -34,7 +34,4 @@ New features include:
 
 The new catalog will be demonstrated during the [IAML congress](https://iamlleipzig2018.sched.com/){:target="_blank"} by Klaus Keil (RISM Zentralredaktion) and Jürgen Diet (BSB) in Leipzig on Friday, 27 July, 11.00–12.30, during the RISM open session.
 
-Detailed guidance on these new features will soon appear on the catalog's help page and the RISM website.
-
-Watch [this short video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} for an overview of the new features (_no sound until 0:29_):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Detailed guidance on these new features will soon appear on the catalog's help page and the RISM website.  

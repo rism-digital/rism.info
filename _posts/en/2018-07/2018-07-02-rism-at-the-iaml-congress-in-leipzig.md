@@ -11,7 +11,7 @@ email: contact@rism.info
 author: ''
 ---
 
-This year’s IAML congress is just a short train ride away in Leipzig. From 22-27 July 2018 we will join our colleagues around the world at the[Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig (HMT)](http://www.hmt-leipzig.de) for the annual congress of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/congresses/2018-leipzig){:target="_blank"}.
+This year’s IAML congress is just a short train ride away in Leipzig. From 22-27 July 2018 we will join our colleagues around the world at the [Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig (HMT)](http://www.hmt-leipzig.de) for the annual congress of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml.info/congresses/2018-leipzig){:target="_blank"}.
 
 After the congress, look on our [congress page](/publications/iaml-congresses/2018.html) for slides from the presentations. That page will also have more complete information about the sessions, including abstracts.
 
@@ -31,7 +31,7 @@ Commission Mixte (closed)
 Chair: Richard Chesser (British Library, London)
 
 
-**Friday, 27 July **
+**Friday, 27 July**
 
 - 11.00–12.30 RISM Open Session
 Chair: Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)

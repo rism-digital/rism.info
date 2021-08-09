@@ -11,7 +11,7 @@ old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2
 **Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**   
 [Conference flyer (PDF)](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf)
 
-Report by Chantal Köppl on the [Gesellschaft für Musikforschung's website](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}
+Report by Chantal Köppl on the [Gesellschaft für Musikforschung's website](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
   

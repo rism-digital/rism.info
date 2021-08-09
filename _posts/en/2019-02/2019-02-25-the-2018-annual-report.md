@@ -13,7 +13,7 @@ author: ''
 
 The 2018 annual report for the RISM Central Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2018.html). Here are some of the highlights:
 
-**Total records** : Our contributors from all over the world have worked hard this past year to catalog music manuscripts, printed editions, treatises, and libretti. The[RISM catalog](https://opac.rism.info/){:target="_blank"} currently has 1,115,800 records for musical sources.
+**Total records** : Our contributors from all over the world have worked hard this past year to catalog music manuscripts, printed editions, treatises, and libretti. The [RISM catalog](https://opac.rism.info/){:target="_blank"} currently has 1,115,800 records for musical sources.
 
 **Contributions from national groups** : The following national groups created new records in Muscat, RISM's cataloging program, totaling over 32,500 new records: Argentina, Austria, Canada, China, Colombia, Croatia, Czech Republic, Germany, Hungary, Italy, Lithuania, Mexico, Poland, Slovakia, Slovenia, South Korea, Spain, Switzerland, Taiwan, United Kingdom, and the United States.
 
@@ -42,6 +42,6 @@ Muscat is a platform-independent, web-based, open-source program. As such, it ca
 
 - **Corrections welcome:** The Zentralredaktion regularly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by sending us your [feedback and corrections.](/service/feedback.html)
 - **External databases welcome:** RISM is interested in further partnerships with institutions and projects to import data, such as library OPACs or critical editions.
-- **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface
+- **Open data and linked open data:** [RISM data](https://opac.rism.info/index.php?id=10&L=0){:target="_blank"} can be downloaded directly from the online catalog and reused under a CC-BY license. Libraries can therefore import records for their holdings into local catalogs. The Zentralredaktion has developed tools to simplify the data delivery process, including an SRU interface.  
 
 Here's to a successful and productive 2019!

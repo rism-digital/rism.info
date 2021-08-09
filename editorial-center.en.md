@@ -59,6 +59,6 @@ If you take public transportation, the stop is **Bockenheimer Warte**. If you ta
 
 From Bockenheimer Warte:
 
-Walk past the [medieval watchtower](http://de.wikipedia.org/wiki/Datei:Bockenheimer_Warte_Pano_Turm.jpg){:target="_blank"} and turn left at Café Extrablatt. Continue south on Gräfstraße, then turn left on Mertonstraße where you will see an underground parking garage. The long building on your right is the main lecture hall building. Go to the second set of doors. Enter where you see the white sign that says **Hörsaalgebäude / Eingang Mertonstraße**. Go immediately to the stairwell on the left. Take the stairs or elevator to **floor 4**. The main entrance to RISM is room number **404 D**and there is a doorbell with the RISM logo.
+Walk past the [medieval watchtower](http://de.wikipedia.org/wiki/Datei:Bockenheimer_Warte_Pano_Turm.jpg){:target="_blank"} and turn left at Café Extrablatt. Continue south on Gräfstraße, then turn left on Mertonstraße where you will see an underground parking garage. The long building on your right is the main lecture hall building. Go to the second set of doors. Enter where you see the white sign that says **Hörsaalgebäude / Eingang Mertonstraße**. Go immediately to the stairwell on the left. Take the stairs or elevator to **floor 4**. The main entrance to RISM is room number **404 D** and there is a doorbell with the RISM logo.
 
 Call us if you get lost: +49 69 706231
