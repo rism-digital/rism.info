@@ -14,7 +14,8 @@ author: Carmen Álvarez
 _Spanish below (thanks to Carmen Álvarez Escandell)_
 
 Recently, we at RISM have read three interesting articles about Spanish printed music in the 16th century:
-
+&nbsp;  
+&nbsp;  
 - "Printed polyphony acquired by Toledo Cathedral, 1532-1669" by Michael Noone, in Early Music Printing and Publishing in the Iberian World, ed. Iain Fenlon and Tess Knighton (Kassel: Edition Reichenberger, 2006) Abbreviation in RISM: [NooneP 2006](https://opac.rism.info/metaopac/search?View=rism&View=rism&q=NooneP%202006&Language=en){:target="_blank"}
 
 Noone describes when and how the printed polyphonic music books arrived in Toledo's Cathedral, giving us some information about the books purchased and the source of adquisition of these books. Unfortunately, most of the books acquired between 1532 and 1669 have been lost, but the 7 that have survived are in RISM.

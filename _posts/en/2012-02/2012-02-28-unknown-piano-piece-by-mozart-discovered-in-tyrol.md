@@ -15,7 +15,7 @@ During the ongoing work being done for the Répertoire International des Sources
 
 **This piece for piano will be presented at 11:00 AM on March 23rd, 2012, by the Stiftung Mozarteum Salzburg in the Tanzmeistersaal of the Mozart Residence (Makartplatz).**  
 
-**Participants** : Dr. **Johannes Honsig-Erlenburg** (President, Stiftung MozarteumSalzburg), Dr. **Beate Palfrader**, Tyrolean Secretary for the Arts (Tiroler Landesrätinfür Kultur, Innsbruck), **Hildegard Herrmann-Schneider** (Innsbruck), **Florian Birsak** (Salzburg/Munich; on Mozart’s fortepiano), Dr. **Ulrich Leisinger** (Director ofAcademic Research, Stiftung Mozarteum; Moderator).
+**Participants**: Dr. **Johannes Honsig-Erlenburg** (President, Stiftung Mozarteum Salzburg), Dr. **Beate Palfrader**, Tyrolean Secretary for the Arts (Tiroler Landesrätinfür Kultur, Innsbruck), **Hildegard Herrmann-Schneider** (Innsbruck), **Florian Birsak** (Salzburg/Munich; on Mozart’s fortepiano), Dr. **Ulrich Leisinger** (Director ofAcademic Research, Stiftung Mozarteum; Moderator).
 
 Further piano pieces by the young Mozart were recently identified in 2006 in the Archives of the Archdiocese of Salzburg and in 2010 in the so-called Nannerl Music Book of the Stiftung Mozarteum in Salzburg. They have attracted attention globally.
 

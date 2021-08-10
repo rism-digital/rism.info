@@ -7,7 +7,7 @@ post: true
 category: library_collections
 image: "/images/news-old-website/csm_Willemsen-Oscar_Sonneck_1914_4fd2c19a9c.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/copies-of-opera-scores-at-the-library-of-congress-and-an-identified-copyist.html
-email: ''
+email: 'contact@rism.info'
 author: Martin Bierwisch and Kristina Krämer
 ---
 

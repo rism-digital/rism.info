@@ -15,15 +15,15 @@ Starting in 2010, the music collections of the Abbey of St. Mary in the Rock (Ma
 
 The music holdings consist of two separate collections:
 
-_- Musikarchiv_ (music manuscripts and printed music before 1850)
+- _Musikarchiv_ (music manuscripts and printed music before 1850)
 
-_- Notenbibliothek_ (printed music after 1850)
+- _Notenbibliothek_ (printed music after 1850)
 
 These offer a broad view of the musical life of the monastery of St. Mary in the Rock from the 17th century until today.
 
-In the _Musikarchiv_ collection you will also find all music manuscripts such as an autograph fragment of Wolfgang Amadeus Mozart's "Kyrie eleison" (KV 73x). This autograph came into the possession of the Benedictine cloister Mariastein through Julius André (1808-1880, son of the publisher Johann Anton André) and his friendly contact with the composer and later abbot father Leo Stöcklin (1808-1873). In the_Musikarchiv_ collection you will also find music manuscripts by the following composers of the monastery:
+In the _Musikarchiv_ collection you will also find all music manuscripts such as an autograph fragment of Wolfgang Amadeus Mozart's "Kyrie eleison" (KV 73x). This autograph came into the possession of the Benedictine cloister Mariastein through Julius André (1808-1880, son of the publisher Johann Anton André) and his friendly contact with the composer and later abbot father Leo Stöcklin (1808-1873). In the _Musikarchiv_ collection you will also find music manuscripts by the following composers of the monastery:
 
-- Ludwig Fashauer (1850-1916) -4 works
+- Ludwig Fashauer (1850-1916) - 4 works
 
 - Anton Kiefer (1627-1672) - 74 works
 

@@ -22,26 +22,24 @@ Conference presentations will be recorded and posted to [YouTube](https://www.yo
 
 Address for the conference [Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html):
 
-Akademie der Wissenschaften und der Literatur, Geisteswissenschaftliche Klasse
-Geschwister-Scholl-Str. 2
-55131 Mainz
+Akademie der Wissenschaften und der Literatur, Geisteswissenschaftliche Klasse  
+Geschwister-Scholl-Str. 2  
+55131 Mainz  
 
-Directions:
-[GfM](http://www.gfm2016.uni-mainz.de/zur-akademie-to-venue-i-akademie/){:target="_blank"} or [Akademie](http://www.adwmainz.de/anfahrt.html){:target="_blank"}
+Directions:  
+[GfM](http://www.gfm2016.uni-mainz.de/zur-akademie-to-venue-i-akademie/){:target="_blank"} or [Akademie](http://www.adwmainz.de/anfahrt.html){:target="_blank"}  
 
-Don't miss RISM at these other events during the GfM congress:
+Don't miss RISM at these other events during the GfM congress:  
 
-**Friday, September 16, 2016**
-**11:30** : The RISM online catalog for instructors and advanced users
-Philosophicum, Jakob-Welder-Weg 18, Musiksaal (01-153)
+**Friday, September 16, 2016**  
+**11:30**: The RISM online catalog for instructors and advanced users  
+Philosophicum, Jakob-Welder-Weg 18, Musiksaal (01-153)  
 
-This presentation is directed at instructors who teach RISM to students–such as part of courses on research methods, musicology, or library skills–as well as users of the online catalog who go beyond simple keyword searches.
+This presentation is directed at instructors who teach RISM to students–such as part of courses on research methods, musicology, or library skills–as well as users of the online catalog who go beyond simple keyword searches.  
 
 The full abstract is [here](/publications/conferences/latin-america-conference-2016.html#c3292).
 
-
-**12:45** : Concert: Lieder by Robert Eitner (1832-1905)
-Philosophicum, Musiksaal (01-153) (same room as above)
+**12:45**: Concert: Lieder by Robert Eitner (1832-1905)  
+Philosophicum, Musiksaal (01-153) (same room as above)  
 
 Yuliya Shein, soprano - Natalia Keil-Senserowa, piano
-

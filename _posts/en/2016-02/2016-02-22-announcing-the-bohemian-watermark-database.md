@@ -18,5 +18,5 @@ The Music Department of the [National Library of the Czech Republic](http://www.
 We appreciate your comments and suggestions!
 
 
-_Image_: Watermark 4 | WAB / [lily (small)] (no. 1) ([ID 8876](http://aleph.nkp.cz/web/watermarks/_8876.htm){:target="_blank"}), from the Stříbro papermill, by the papermaker Ondřej I. Bayer (active 1762-ca. 1796). Found on the anonymous manuscript _Buď pozdrawena na Sto tisiz_ (Národní knihovna České republiky [CZ-Pu] 59 R 3422. RISM ID no.: [550500459](https://opac.rism.info/search?id=550500459){:target="_blank"})
+_Image_: Watermark 4 \| WAB / [lily (small)] (no. 1) ([ID 8876](http://aleph.nkp.cz/web/watermarks/_8876.htm){:target="_blank"}), from the Stříbro papermill, by the papermaker Ondřej I. Bayer (active 1762-ca. 1796). Found on the anonymous manuscript _Buď pozdrawena na Sto tisiz_ (Národní knihovna České republiky [CZ-Pu] 59 R 3422. RISM ID no.: [550500459](https://opac.rism.info/search?id=550500459){:target="_blank"})
 

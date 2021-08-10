@@ -17,19 +17,19 @@ We will begin with [Queen Anne of Great Britain (1665-1714)](https://www.royal.u
 
 As with any monarch, it was not unusual to dedicate music to the queen. There are just over [30 sources in the RISM database](https://opac.rism.info/search?View=rism&q=118649450){:target="_blank"} and over 50 in A/I that mention Queen Anne. One could put together a loose timeline of her life by looking at the sources:
 
--6 anthologies compiled during her reign and 1 while she was still a princess
+- 6 anthologies compiled during her reign and 1 while she was still a princess
 
--Birthday odes by [William Croft](http://opac.rism.info/search?documentid=806041284){:target="_blank"}, Handel (A/I: [H 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"} and [HH 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"}), and Thomas Tudway (A/I: [T 1339](https://opac.rism.info/search?id=00000992002579){:target="_blank"})
+- Birthday odes by [William Croft](http://opac.rism.info/search?documentid=806041284){:target="_blank"}, Handel (A/I: [H 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"} and [HH 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"}), and Thomas Tudway (A/I: [T 1339](https://opac.rism.info/search?id=00000992002579){:target="_blank"})
 
--A [song by Henry Purcell](http://opac.rism.info/search?documentid=800238115){:target="_blank"} to celebrate her marriage to Prince George in 1683
+- A [song by Henry Purcell](http://opac.rism.info/search?documentid=800238115){:target="_blank"} to celebrate her marriage to Prince George in 1683
 
--Music for New Year's Day 1699 by [John Lenton](http://opac.rism.info/search?documentid=806252477){:target="_blank"}
+- Music for New Year's Day 1699 by [John Lenton](http://opac.rism.info/search?documentid=806252477){:target="_blank"}
 
--Coronation anthems by Thomas D'Urfey (A/I: [DD 3975 I,18](https://opac.rism.info/search?id=00000991017702){:target="_blank"}), [Stephen Jeffries](https://opac.rism.info/search?View=rism&author=Stephen+Jeffries&q=O+Lord+save+the+queen){:target="_blank"}, and [William Turner](http://opac.rism.info/search?documentid=800243850){:target="_blank"} in 1702
+- Coronation anthems by Thomas D'Urfey (A/I: [DD 3975 I,18](https://opac.rism.info/search?id=00000991017702){:target="_blank"}), [Stephen Jeffries](https://opac.rism.info/search?View=rism&author=Stephen+Jeffries&q=O+Lord+save+the+queen){:target="_blank"}, and [William Turner](http://opac.rism.info/search?documentid=800243850){:target="_blank"} in 1702
 
--An anthem by [Thomas Tudway](http://opac.rism.info/search?documentid=800262041){:target="_blank"} "Sung to the Queen after the victory at Blenheim," a major victory in 1704
+- An anthem by [Thomas Tudway](http://opac.rism.info/search?documentid=800262041){:target="_blank"} "Sung to the Queen after the victory at Blenheim," a major victory in 1704
 
--Numerous pieces performed in front of Queen Anne
+- Numerous pieces performed in front of Queen Anne
 
 To find music mentioning Queen Ann in the RISM online catalog, perform an [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} and select the field **Other names**. Enter **Anne, Queen of England.**
 

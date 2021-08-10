@@ -23,6 +23,7 @@ All the same, it is interesting to note how quickly these works traveled from Eu
 
 The manuscript is currently being cataloged for the RISM database (RISM ID no. [390000001](https://opac.rism.info/search?id=390000001){:target="_blank"}). It is possible that some anonymous works will be identified in the course of cataloging. You can view the catalog record for the _Libro sesto_ [on the website](http://descubre.bibliotecanacional.cl/BNC:bnc_completo:bnc_aleph001080018){:target="_blank"} of the Biblioteca Nacional de Chile.
 
-Below, please enjoy a performance from the ceremony in 2014 at which Maria Antonia Palacios's important manuscript was donated to the National Library. The Ensamble Alta Voce performs excerpts from the _Libro sesto._
+Below, please enjoy a performance from the ceremony in 2014 at which Maria Antonia Palacios's important manuscript was donated to the National Library. The Ensamble Alta Voce performs excerpts from the _Libro sesto._  
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/yhfqhUC-wS4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/yhfqhUC-wS4" frameborder="0" allowfullscreen></iframe>  
+&nbsp;  
