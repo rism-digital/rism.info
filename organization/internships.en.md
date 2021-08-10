@@ -43,7 +43,7 @@ Yu-Lin Chiang (Germany)
 
 Miquela Döppenschmitt (Germany) [Report](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
 
-Daniel Kneer (Germany)
+Daniel Kneer (Germany) [Report](/new_at_rism/2021/08/12/report-four-week-internship-october-2020.html){:blank}
 
 Julius Rüttger (Germany) [Report](/new_at_rism/2021/02/08/internship-despite-corona.html){:target="_blank"}
 
