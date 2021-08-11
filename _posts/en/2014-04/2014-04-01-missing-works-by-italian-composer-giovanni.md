@@ -20,7 +20,7 @@ Judging from the incipits, there is no doubt that Gioachino Rossini used this mo
 With the recording below, you can judge for yourself.
 
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/qRG6h6H0_ho?rel=0&amp;start=66&amp;end=&amp;autoplay=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRG6h6H0_ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
 Bibliography:
