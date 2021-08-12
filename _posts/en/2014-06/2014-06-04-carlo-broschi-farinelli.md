@@ -16,12 +16,11 @@ Carlo Broschi (1705-1782), known to most people as Farinelli, was the celebrated
 The last castrato was Alessandro Moreschi, who died in 1922, but he is the only castrato of whom there are recordings available. Compare his voice with the voice synthetically produced for the 1994 movie _Farinelli_, which was engineered by combining the voices of a soprano and a countertenor.
 
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/KLjvfqnD0ws" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/KLjvfqnD0ws" frameborder="0" allowfullscreen></iframe>  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3fzhMnGs5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/GIPQtelKN28" frameborder="0" allowfullscreen></iframe>
+Bibliography: Ellen T. Harris, New Grove (2001).  
 
-Bibliography: Ellen T. Harris, New Grove (2001).
-
-Image: Jacopo Amigoni, _Il cantante Farinelli con amici_, ca. 1750–1752
+Image: Jacopo Amigoni, _Il cantante Farinelli con amici_, ca. 1750–1752  
 From left to right: Metastasio, the singer Teresa Castellini, Farinelli, the painter himself, Farinelli's dog, Farinelli's page boy; the score is "Vi conosco amate stelle" from Metastasio's [_Zenobia_](https://opac.rism.info/search?View=rism&q=Zenobia){:target="_blank"} in a musical setting by [Gaetano Latilla](https://opac.rism.info/search?View=rism&q=Zenobia&author=Gaetano+Latilla){:target="_blank"} (1711–1788). Source: [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AFarinelli%2BMetastasio.png){:target="_blank"}
