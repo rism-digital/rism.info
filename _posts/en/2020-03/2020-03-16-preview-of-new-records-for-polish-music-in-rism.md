@@ -15,9 +15,9 @@ _We have received the following from Marcelina Chojecka (RISM Poland, [Narodowy 
 
 Between August 2019 and January 2020, the Fryderyk Chopin Institute has catalogued 771 manuscripts and autographs by Polish composers in the RISM database:
 
-- Józef Elsner (1769–1854) – 58;
-- Mieczysław Karłowicz (1876–1909) – 38;
-- Józef Brzowski (1803–1888) – 2;
+• Józef Elsner (1769–1854) – 58;
+• Mieczysław Karłowicz (1876–1909) – 38;
+• Józef Brzowski (1803–1888) – 2;
 - Józef Damse (1789–1852) – 3;
 - Michał Hertz (1844–1918) – 241;
 - Henryk Jarecki (1846–1918) – 3;
