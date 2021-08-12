@@ -8,7 +8,7 @@ category: new_at_rism
 image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/internships-at-the-rism-central-office.html
 email: martina.falletta@rism.info
-author: ''
+author: 'Martina Falletta'
 ---
 
 Die RISM Zentralredaktion in Frankfurt am Main bietet Praktika für Personen an, die an der täglichen Arbeit eines großen bibliographischen und musikwissenschaftlichen Projekts interessiert sind. Diese Praktika sind besonders geeignet für alle, die einen Beruf oder ein weiteres Studium im Musikbibliothekswesen oder in der Musikwissenschaft anstreben.
