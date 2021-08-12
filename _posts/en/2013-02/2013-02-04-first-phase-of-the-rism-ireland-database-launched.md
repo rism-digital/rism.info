@@ -25,6 +25,6 @@ Mercer’s Hospital was opened on Stephen Street, Dublin in 1734 to deliver medi
 
 The work of RISM Ireland is ongoing and more data will be added over the coming months and years. Current projects include Dr Karol Mullaney-Dignam’s ‘Music in the Irish Country House’ and Dr Catherine Ferris’ ‘Music at the National Library of Ireland’. All interested persons and institutions wishing to become involved in RISM Ireland projects are welcomed to apply through any member of the [RISM Ireland Steering Committee](http://www.rism-ie.org/pages/contact).
 
-For further information about theRISM Ireland database, contact Dr Catherine Ferris: [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie)
+For further information about the RISM Ireland database, contact Dr Catherine Ferris: [catherine.ferris@dit.ie](mailto:catherine.ferris@dit.ie)
 
 _Image: Copyright Trinity College Dublin. Used with permission._

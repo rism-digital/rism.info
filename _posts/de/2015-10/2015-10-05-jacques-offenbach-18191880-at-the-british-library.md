@@ -13,9 +13,7 @@ author: Susan Halstead
 
 _Heute vor 135 Jahren starb Jacques Offenbach. Aus diesem Anlass übernehmen wir einen Beitrag von Susan Halstead, der erstmals im British Library's_ _[European Studies Blog](http://britishlibrary.typepad.co.uk/european/2014/12/a-dish-fit-for-the-gods.html){:target="_blank"} ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}) veröffentlicht wurde. Der RISM Online-Katalog verzeichnet [125 Werke zu Offenbach](https://opac.rism.info/search?View=rism&author=Jacques+Offenbach){:target="_blank"}._
 
-
-## Ein passendes Gericht für die Götter: 150 Jahre ‘La belle Hélène’ von Offenbach
-
+**Ein passendes Gericht für die Götter: 150 Jahre ‘La belle Hélène’ von Offenbach**
 
 Als in den 1690ern die Académie Française von der so genannten [_Querelle des anciens et des modernes_](http://en.wikipedia.org/wiki/Quarrel_of_the_Ancients_and_the_Moderns%20 "Querelle des anciens et des modernes") zwischen den zwei von Nicolas Boileau und Charles Perrault angeführten Parteien erschüttert wurde, hätte man die Geschichte für einen kurzlebigen Konflikt ohne großen Einfluss auf die Entwicklung der französischer Kultur halten können. In einer Gesellschaft mit einer langen Tradition des Respekts für die klassische Bildung und ihrem Platz innerhalb des Bildungssystems flammte der Konflikt immer wieder auch an den unwahrscheinlichsten Stellen auf - wie auf der Bühne der Pariser Opéra comique.
 

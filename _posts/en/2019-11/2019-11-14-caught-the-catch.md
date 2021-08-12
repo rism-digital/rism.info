@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Caught_the_Catch_GB-Mr_3e67964bfe.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/caught-the-catch.html
-email: ''
+email: 'contact@rism.info'
 author: Kristina Krämer
 ---
 

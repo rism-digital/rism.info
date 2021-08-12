@@ -16,8 +16,7 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;   
 
 1. [Musical Anniversaries in 2018](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}.
 

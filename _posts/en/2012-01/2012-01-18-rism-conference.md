@@ -11,7 +11,7 @@ email: contact@RISM.info
 author: Klaus Keil
 ---
 
-## **Music Documentation in Libraries, Scholarship, and Practice**
+**Music Documentation in Libraries, Scholarship, and Practice**
 
 To mark the 60th anniversary of RISM, an international conference will take place from 4-6 June 2012 at the Akademie der Wissenschaften und der Literatur in Mainz, Germany (Academy of Sciences and Humanities; Geschwister-Scholl-Straße 2, 55131 Mainz).
 
@@ -25,5 +25,5 @@ In this spirit, we would like to invite everyone who contributes to the RISM pro
 
 We would be very pleased to see you there.
 
-For the RISM Zentralredaktion
+For the RISM Zentralredaktion  
 Klaus Keil
