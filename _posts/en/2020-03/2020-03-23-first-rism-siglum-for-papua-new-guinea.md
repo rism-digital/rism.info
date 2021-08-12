@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Siglum_Papua_New_Guinea_e69c8c66d2.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/first-rism-siglum-for-papua-new-guinea.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -17,10 +17,10 @@ A [recent article by Maureen Russell](https://www.tandfonline.com/toc/wmus20/22/
 
 The new RISM siglum is: **PNG-Bpngs**. This is our first siglum for Papua New Guinea. It can be found in the [Online Directory of RISM Library Sigla](/community/sigla.html).
 
-**About RISM sigla**
+**About RISM sigla**  
 RISM assigns an abbreviation, [called a library siglum](/community/sigla/about.html), to institutions that hold materials related to the study of music: usually historical musical sources (such as manuscripts and printed music), but also documents, letters, and archival records. The RISM library sigla make it possible to concisely name institutions without having to cite very long institutional names. Though the [RISM online catalog](https://opac.rism.info/){:target="_blank"} does not include musical sources for every institution with a siglum, the sigla are nevertheless available for scholars to cite in their research.
 
-**Do you need a siglum?**
+**Do you need a siglum?**  
 Please [contact us](mailto:contact@rism.info) if you need a RISM siglum for your research. We will create one for you.
 
 

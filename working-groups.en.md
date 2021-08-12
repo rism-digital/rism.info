@@ -441,15 +441,20 @@ Telephone: +48 71 375 24 25\
 Email: [miroslaw.osowski@uwr.edu.pl](mailto:miroslaw.osowski@uwr.edu.pl)\
 Website: [https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych](https://www.bu.uni.wroc.pl/oddzialy/curie-zbiory-specjalne/oddzial-zbiorow-muzycznych){:target="_blank"}  
 
-Dr. habil. Alina Mądry\
+Uniwersytet im. Adama Mickiewicza w Poznaniu\
+Head of working group: Dr. habil. Alina Mądry\
+Katedra Teatru i Sztuki Mediów\
+Centrum Badań nad Kulturą Muzyczną\
+ul. Fredry 10\
+PL 60-701 Poznań\
+Telephone: +48 61 829 45 32\
+Email: [alpalik@amu.edu.pl](mailto:alpalik@amu.edu.pl)\
 Dr. habil. Magdalena Walter-Mazur\
-Uniwersytet im. Adama Mickiewicza\
-Katedra Muzykologiiul \
-ul. Umultowska 89D\
+Instytut Muzykologii\
+ul. Uniwersytetu Poznańskiego 7\
 PL 61-614 Poznań\
 Telephone: +48 61 829 64 54\
-Email: [almadry@poczta.onet.pl](mailto:almadry@poczta.onet.pl) (Mądry), [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl) (Walter-Mazur)\
-Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/){:target="_blank"}\
+Email: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)\
 See also: [https://www.rism.info/working-groups/poland/poznan/home.html](/working-groups/poland/poznan/home.html){:blank}
 
 Dr. Danuta Popinigis\
