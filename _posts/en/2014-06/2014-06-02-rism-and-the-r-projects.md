@@ -13,11 +13,11 @@ author: ''
 
 RISM is currently prominently featured on the website of the [Music Library Association](https://www.musiclibraryassoc.org/){:target="_blank"} (United States). It appears alongside its sister projects:
 
-- Répertoire International de Littérature Musicale (RILM)
+• Répertoire International de Littérature Musicale (RILM)
 [International Repertory of Musical Literature](http://www.rilm.org/){:target="_blank"}
-- Répertoire International d’Iconographie Musicale (RIdIM)
+• Répertoire International d’Iconographie Musicale (RIdIM)
 [International Repertory of Musical Iconography](http://db.ridim.org/){:target="_blank"}
-- Répertoire International de la Presse Musicale (RIPM)
+• Répertoire International de la Presse Musicale (RIPM)
 [Retrospective Index to Music Periodicals](http://ripm.org/index.php){:target="_blank"}
 
 Together, these four projects are known as the R projects of musicology. As is written on the [website of the R projects](http://www.r-musicprojects.org/index.html){:target="_blank"}, "the principal function of the Rs is to create the necessary bibliographical research tools that identify and facilitate access to this extensive body of primary sources."
