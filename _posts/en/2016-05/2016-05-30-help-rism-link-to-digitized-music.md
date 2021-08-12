@@ -26,7 +26,7 @@ If RISM hasn't linked to your scans yet, please alert us to your digital collect
 | 550509317   | http://www.manuscriptorium.com/apps/index.php?direct=record&pid=rep_remake31 |
 | 900005489   | http://juilliardmanuscriptcollection.org/manuscript/siegfried-idyll |
 | 00000990000383 | http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078 | 
-| 00000993103826 | http://imslp.org/wiki/Special:ReverseLookup/307092) |  
+| 00000993103826 | http://imslp.org/wiki/Special:ReverseLookup/307092 |  
 
 The RISM database contains all of series [A/II](/publications.html#c36) (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36) series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619) (printed anthologies).
 
