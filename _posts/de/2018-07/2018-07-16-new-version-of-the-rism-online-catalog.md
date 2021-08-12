@@ -35,6 +35,3 @@ Die neuen Funktionen betreffen zunächst:
 Der neue Katalog wird während des [IAML Kongresses](https://iamlleipzig2018.sched.com/){:target="_blank"} in Leipzig von Klaus Keil (RISM Zentralredaktion) und Jürgen Diet (BSB) am Freitag, den 27. Juli, 11.00–12.30 Uhr während der öffentlichen RISM-Sitzung vorgestellt.
 
 Detaillierte Anleitungen zu diesen neuen Funktionen werden in Kürze auf der Hilfeseite des Online-Katalogs und der RISM-Webseite erscheinen.
-
-In diesem [kurzen Video](https://youtu.be/gEKnQdNK7W4){:target="_blank"} erhalten Sie einen Überblick zu den neuen Funktionen (_ohne Ton bis 0:29_):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gEKnQdNK7W4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Kürzlich berichteten wir über[laufende bibliographische Projekte zu Mozart und Clementi](/in_the_news/2018/09/20/current-mozart-and-clementi-projects.html){:target="_blank"}, die wir bei der diesjährigen IAML-Konferenz in Leipzig kennengelernt haben. Heute möchten wir Informationen zu einem anderen Hilfsmittel teilen, über das Sabine Koch (Hochschule für Technik, Wirtschaft und Kultur Leipzig) berichtete: [das Musikverlagswiki](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
+Kürzlich berichteten wir über [laufende bibliographische Projekte zu Mozart und Clementi](/in_the_news/2018/09/20/current-mozart-and-clementi-projects.html){:target="_blank"}, die wir bei der diesjährigen IAML-Konferenz in Leipzig kennengelernt haben. Heute möchten wir Informationen zu einem anderen Hilfsmittel teilen, über das Sabine Koch (Hochschule für Technik, Wirtschaft und Kultur Leipzig) berichtete: [das Musikverlagswiki](http://www.musikdrucke.htwk-leipzig.de/wordpress/){:target="_blank"}.
 
 Wir alle wissen um die Schwierigkeiten, die Publikationsdaten von gedruckten Musikquellen zu ermitteln, die leider oft komplett fehlen. Das Musikverlagswiki ging 2011 an den Start um genau diese Lücke zu füllen.
 
