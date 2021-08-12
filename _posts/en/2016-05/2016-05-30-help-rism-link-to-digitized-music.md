@@ -32,7 +32,7 @@ The RISM database contains all of series [A/II](/publications.html#c36) (mostly 
 
 But wait, there's more! We are planning to add the remainder of **B/I** and all of **B/II** (through the eighteenth century) to the online catalog in the near future, so while you're at it please send us links to those items as well, but in a separate spreadsheet.
 
-For items from B/I that are not in the online catalog, please make sure to send us the B/I number (a year plus a superscript number) and a permalink. Type the superscript number as a vertical pipe (|) followed by the number in normal type:
+For items from B/I that are not in the online catalog, please make sure to send us the B/I number (a year plus a superscript number) and a permalink. Type the superscript number as a vertical pipe (\|) followed by the number in normal type:
 
 
 | B/I number | Permalink |
