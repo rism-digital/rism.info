@@ -15,27 +15,8 @@ _Dieser Beitrag erschien zuerst im [MusiCB3 Blog](https://musicb3.wordpress.com/
 
 Im vergangenen Oktober brachte der Musikantiquar Travis & Emery seinen Musikkatalog _Sarum no. 58_ heraus. Ein Punkt fiel mir sofort auf, weil ich im letzten Jahr die online-Einträge für zwei Sammlungen von venezianischen Volksliedern – also Lieder im venezianischen Dialekt - aktualisiert hatte.
 
+**70613**. Canzonette Veneziane: Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22 x 29cm). 22 folios. Sewn in pink carta rustica with gilt paper edgings and decorations, manuscript paper title-label. Copyist’s manuscript in brown ink on 10-stave paper, with texts (verses) to the works on the opening four folios (unstaved). Contains: La mia Ninetta; Oh bella Nice; Putte vardeme inciera; Ogni donna; Amor Pettegola; Quel bianco sen de latte; Cento Basetti su quei occhietti. [Italy: c.1775]. **£500**
 
-|
-
-70613
-
-|
-
-Canzonette Veneziane
-
-|
-
-Canzonette Veneziane, e Canoni. [Voice and bass accompaniment]. Oblong folio (22 x 29cm). 22 folios. Sewn in pink carta rustica with gilt paper edgings and decorations, manuscript paper title-label. Copyist’s manuscript in brown ink on 10-stave paper, with texts (verses) to the works on the opening four folios (unstaved). Contains: La mia Ninetta; Oh bella Nice; Putte vardeme inciera; Ogni donna; Amor Pettegola; Quel bianco sen de latte; Cento Basetti su quei occhietti. [Italy: c.1775].
-
-|
-
-£500
-
-
-****
-
-|
 Beide Sammlungen, an denen ich gearbeitet hatte, sind Handschriften. Eine befindet sich in der University Library (MS.Add.9324.14) und enthält 49 Lieder, die andere ist im Fitzwilliam Museum (MU.MS.130) und enthält eine Sammlung von 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. Die zweite Canzonetta daraus ist insofern ungewöhnlich, weil sehr, sehr wenige Lieder im venezianischen Dialekt einem Komponisten zugeschrieben werden, auch so einem unbekannten wie Angelo Colonna. Eine Suche in der RISM-Datenbank nach der ersten Zeile des ersten Songs im Travis & Emery Manuskript "La mia Ninetta" (als Ausdruck in Anführungszeichen) ergab jedoch ein überraschendes Ergebnis:
 
 [https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
