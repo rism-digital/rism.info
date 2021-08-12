@@ -17,20 +17,13 @@ RISM would like to announce the release of a new version of the [online catalog]
 New features include:
 
 
-- Search for digitized music
-
-- Autocomplete in the search boxes
-
-- Boolean search (and, or, not)
-
-- Incipit input using on-screen piano keyboard
-
-- Sort results by year, title, or author
-
-- Atom feeds
-
-- Clearer attributions
-
+• Search for digitized music  
+- Autocomplete in the search boxes  
+- Boolean search (and, or, not)  
+- Incipit input using on-screen piano keyboard  
+- Sort results by year, title, or author   
+- Atom feeds  
+- Clearer attributions  
 
 One major new feature is the search for digitized music. This is available through the **Advanced search**. Under **Limit search**, go to **Document type**, then select **Digital versions exclusively**. Combine this field with a keyword to retrieve only records with a link to digitized music. After performing any search, on the left-hand side you will see different filters under **Narrow results**. If there are any records with links to digitized music, a link to those records will appear at the top.
 
