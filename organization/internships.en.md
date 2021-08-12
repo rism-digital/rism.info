@@ -35,19 +35,19 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 ## Past interns  
 
 ### 2021
-Deanna Pellerano (United States) [Report](/new_at_rism/2021/05/25/my-rism-internship-a-new-cataloging-experience.html)
+Deanna Pellerano (United States) [Report](/new_at_rism/2021/05/25/my-rism-internship-a-new-cataloging-experience.html)  
 
 #### 2020
 
 Yu-Lin Chiang (Germany)
 
-Miquela Döppenschmitt (Germany) [Report](/new_at_rism/2020/12/03/my-internship-at-rism.html){:target="_blank"}
+Miquela Döppenschmitt (Germany) [Report](/new_at_rism/2020/12/03/my-internship-at-rism.html)  
 
-Daniel Kneer (Germany) [Report](/new_at_rism/2021/08/12/report-four-week-internship-october-2020.html){:blank}
+Daniel Kneer (Germany) [Report](/new_at_rism/2021/08/12/report-four-week-internship-october-2020.html)  
 
-Julius Rüttger (Germany) [Report](/new_at_rism/2021/02/08/internship-despite-corona.html){:target="_blank"}
+Julius Rüttger (Germany) [Report](/new_at_rism/2021/02/08/internship-despite-corona.html)  
 
-Karin Weißert (Germany) [Report](/new_at_rism/2020/03/26/karin-weißert-internship-report.html){:target="_blank"}
+Karin Weißert (Germany) [Report](/new_at_rism/2020/03/26/karin-weißert-internship-report.html)  
 
 #### 2019
 
@@ -59,19 +59,19 @@ Andrea Ickstadt (Germany)
 
 Charlotte Köhler (Germany)
 
-Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](/new_at_rism/2018/06/21/a-rism-internship-report-from-the-central-office.html){:target="_blank"}
+Ulrike Schädel (Germany). Report: [A RISM Internship: A Report from the Central Office in Frankfurt](/new_at_rism/2018/06/21/a-rism-internship-report-from-the-central-office.html)  
 
 #### 2017
 
-Vivian Tompkins (USA): Report: [A Musicological Summer in Frankfurt](/new_at_rism/2017/07/17/a-musicological-summer-in-frankfurt.html){:target="_blank"}
+Vivian Tompkins (USA): Report: [A Musicological Summer in Frankfurt](/new_at_rism/2017/07/17/a-musicological-summer-in-frankfurt.html)  
 
 #### 2015
 
-Anne-Marie Wurster (Germany).  Report: [Music, musicology, libraries: An intern's report](/new_at_rism/2015/10/07/music-musicology-libraries-an-interns-report.html){:target="_blank"}
+Anne-Marie Wurster (Germany).  Report: [Music, musicology, libraries: An intern's report](/new_at_rism/2015/10/07/music-musicology-libraries-an-interns-report.html)  
 
 #### 2014
 
-Martin Bierwisch (Germany). Report: [A Summer of Musical Sources](/new_at_rism/2014/12/04/a-summer-of-musical-sources.html){:target="_blank"}
+Martin Bierwisch (Germany). Report: [A Summer of Musical Sources](/new_at_rism/2014/12/04/a-summer-of-musical-sources.html)  
 
 Marc-André Leysaht (Germany)
 
