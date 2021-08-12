@@ -33,7 +33,7 @@ Die Referate sind alphabetisch sortiert.
 
 **Annemarie Bösch-Niederer** (RISM Austria-Vorarlberg): "… haben diese Klosterfrauen eine schöne Musicam von Stimmen und Instrumenten." On Music in Convents: New Discoveries from Vorarlberg, Austria (Zur Musik in Frauenklöstern – neue Funde aus Vorarlberg/A)
 
-**Hyun Kyung Chae** (Music ResearchInstitute,Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
+**Hyun Kyung Chae** (Music ResearchInstitute, Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music
 
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)
 
@@ -56,10 +56,10 @@ Die Referate sind alphabetisch sortiert.
 **Anne Graham and Deborah Pierce** (University of Washington): RISM Data as Metadata for Digital Collections  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Graham_Pierce.pdf) (PDF)
 
-**Andrea Hartmann** (RISM Germany): The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden)  
+**Andrea Hartmann** (RISM Germany): The Dresden RISM Office Partnering with Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden (Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Hartmann.pdf) (PDF)
 
-**Hildegard Herrmann-Schneider** (RISM Tyrol - South Tyrol & OFM Austria): "Die Musikbibliographie ist die Grundlage alles historischen Wissens." On Today'sRelevance of Robert Eitner's CentralIdea from 1898 ("Die Musikbibliographie ist die Grundlage alles historischen Wissens". Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute)  
+**Hildegard Herrmann-Schneider** (RISM Tyrol - South Tyrol & OFM Austria): "Die Musikbibliographie ist die Grundlage alles historischen Wissens." On Today's Relevance of Robert Eitner's Central Idea from 1898 ("Die Musikbibliographie ist die Grundlage alles historischen Wissens". Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf) (PDF)
 
 **Heidi Heinmaa** (National Library of Estonia): Musical Sources in Estonian Collections  
@@ -71,10 +71,10 @@ Die Referate sind alphabetisch sortiert.
 **Vjera Katalinic and Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf)){:target="_blank"}
 
-**Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
+**Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM in Slovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
   
-**Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
+**Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs - Thoughts, Experiences, and Preliminary Results  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf) (PDF)
 
 **Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits
@@ -84,12 +84,13 @@ Die Referate sind alphabetisch sortiert.
 **John G. Lazos** (Canada/Mexico): A Portrait of the Composer José Antonio Gómez: Encountering Independent Mexico through New Technologies
 
 **Helmut Loos** (University of Leipzig): Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen)  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) (PDF; German)  [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf) (PDF; English summary)
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) (PDF; German)  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf) (PDF; English summary)
 
 **Mattias Lundberg** (RISM Sweden): The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf) (PDF)
   
-**Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval
+**Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-American RISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval
 
 **Alina Mądry** (Poland): Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) (PDF)   [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Mądry_Mainz RISM.pdf){:target="_blank"}
@@ -103,7 +104,7 @@ Die Referate sind alphabetisch sortiert.
 **Stanislav Oustachev** (Russia, Glinka Museum Moscow): The RISM Project atthe Glinka Museum  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf) (PDF)
 
-**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology,Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)
+**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB) des Mainzer Musikwissenschaftlichen Instituts)
 
 **Laurent Pugin** (RISM Switzerland): The Use of METS for Delivering Digital Objects together with RISM Catalog Records  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf) (PDF)
@@ -113,17 +114,17 @@ Die Referate sind alphabetisch sortiert.
 **Emilia Rassina** (RISM Russia): Current Work of RISM in Russia  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf) (PDF)  
 
-**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and[Edirom](http://www.edirom.de/)Online  
+**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects for Linking RISM and [Edirom](http://www.edirom.de/)Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/) online)
 
 **Ludmiła Sawicka** (RISM Poland):The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)   
 (Die RISM-Arbeitsgruppe in der Universitätsbibliothek zu Warschau und das Projekt Katalogisieren von alten zerstreuten Handschriften schlesischer Herkunft. Im Besonderen die Werke von Johann Georg Clement--Breslau, Warschau und Grüssau)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Sawicka.pdf) (PDF)
 
-**Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
+**Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: A Catalogue Raisonné in a Digital Environment  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Troester.pdf) (PDF)
 
-**Steffen Voss** (RISM Germany): The Instrumental Repertoire of the Dresden Court: AReport onthe DFG Project at the SLUB Dresden (Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden)
+**Steffen Voss** (RISM Germany): The Instrumental Repertoire of the Dresden Court: A Report on the DFG Project at the SLUB Dresden (Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden)
 
 **Undine Wagner** (RISM Germany): Archives of Lay Musicians as Evidence of Church Music Practice in Thuringia: Holdings atthe Thuringian Regional Music Archive and Cataloging for RISM (Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM)  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Wagner.pdf) (PDF)
