@@ -15,7 +15,7 @@ How many national anthems do you know?
 
 The songs of 32 countries are resounding at the World Cup at the moment.
 
-The RISM online catalog offers numerous[national anthems](https://opac.rism.info/search?View=rism&q=Nationalhymnen){:target="_blank"}.
+The RISM online catalog offers numerous [national anthems](https://opac.rism.info/search?View=rism&q=Nationalhymnen){:target="_blank"}.
 
 The majority of the over 700 sources are recorded anonymously. Four of them are digitally available. The series A/I _Individual prints before 1800_ shows a further 300 printed editions of national anthems.
 

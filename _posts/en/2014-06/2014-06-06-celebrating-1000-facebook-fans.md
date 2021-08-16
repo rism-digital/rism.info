@@ -17,17 +17,16 @@ Thank you to everyone who has liked the [RISM Facebook page](https://www.faceboo
 
 Where are our fans from? The top 10 countries are:
 
-Italy **Grazie!**
-Portugal **Obrigada!**
-Germany **Danke!**
-United States **Thanks!**
-France **Merci!**
-Spain **!Gracias!**
-Poland **Dziękuję!**
-United Kingdom **Cheers!**
-Netherlands **Bedankt!**
-Brazil **Valeu!**
-
+Italy **Grazie!**  
+Portugal **Obrigada!**  
+Germany **Danke!**  
+United States **Thanks!**  
+France **Merci!**  
+Spain **!Gracias!**  
+Poland **Dziękuję!**  
+United Kingdom **Cheers!**  
+Netherlands **Bedankt!**  
+Brazil **Valeu!**  
 
 _As always, a Facebook account is not required to view the RISM Facebook page._
 

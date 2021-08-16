@@ -6,6 +6,8 @@ permalink: /publications/conferences.html
 old_url: http://www.rism.info/en/publications/conferences.html
 ---
 
+## Conferences
+
 The RISM Editorial Center organizes conferences from time to time. Please select from the following:
 
 [Workshop/Conference on the Work Level in RISM](/publications/conferences/work-level-2019.html) (2019)
