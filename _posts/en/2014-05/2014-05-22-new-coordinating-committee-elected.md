@@ -17,26 +17,11 @@ The members of the Committee are involved with national working groups or work a
 
 The following people were recently elected to the Coordinating Committee:
 
--
-
-Daniel Boomhower (Library of Congress, US)
-
--
-
-Armin Brinzing (Mozarteum, Austria)
-
--
-
-Marie Cornaz (Royal Library of Belgium)
-
--
-
-Ewa Hauptman-Fischer (University of Warsaw Library, Poland)
-
--
-
-Gottfried Heinz-Kronberger (RISM Germany)
-
+- Daniel Boomhower (Library of Congress, US)  
+- Armin Brinzing (Mozarteum, Austria)  
+- Marie Cornaz (Royal Library of Belgium)  
+- Ewa Hauptman-Fischer (University of Warsaw Library, Poland)  
+- Gottfried Heinz-Kronberger (RISM Germany)  
 
 Currently, the RISM Zentralredaktion and RISM Switzerland are developing a new cataloging program to replace Kallisto. It is especially important that the needs of the RISM national groups are taken into account throughout this process as much as possible. The Coordinating Committee will monitor and follow the development of the new program as it progresses.
 

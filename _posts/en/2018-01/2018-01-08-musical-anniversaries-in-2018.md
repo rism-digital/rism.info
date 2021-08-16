@@ -30,21 +30,14 @@ There are over 900 such people who have sources in the [RISM online catalog](htt
 
 But leading the pack by far with 2,837 sources in RISM is [Gioachino Rossini](https://opac.rism.info/search?View=rism&q=118602985&Language=en){:target="_blank"} (1792-1868), who died 150 years ago this year. Composers [Leopold Koželuh](https://opac.rism.info/search?View=rism&q=11635190X&Language=en){:target="_blank"} (1747-1818; 1,302 sources) and [Nicola Porpora](https://opac.rism.info/search?View=rism&q=123494591&Language=en){:target="_blank"} (1686-1768; 1,273 sources) come next, followed by [Ernst II](https://opac.rism.info/search?View=rism&q=118685279&Language=en){:target="_blank"}, Duke of Saxe-Coburg and Gotha (1818-1893) with 1,095 sources and the librettist [Apostolo Zeno](https://opac.rism.info/search?View=rism&q=116980257&Language=en){:target="_blank"} (1668-1750) with 1,094.
 
-Here are the full lists.
+Here are the full lists ([and also as a Google Spreadsheet](https://docs.google.com/spreadsheets/d/1okAHlR5zIAgyTz28oiXXD1rPHy9PW9EpuuSZ7tfZvaA/edit?usp=sharing){:blank}).  
 
-**Born in xx18 or xx68** (click on any heading to sort):
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTt-2Ttl_yDmVxI1Vs59NBUgav7FCVCvR0ykpx2jxazaQHPUowhGNMnCxm_5dBW0F7ZxKI5uvPGcj72/pubhtml?widget=true&amp;headers=false"></iframe>  
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1Yl3qbQzkv-og7QRRYCyc8JCk6bhCKZirWbFOiptY&amp;containerId=googft-gviz-canvas"></iframe>
-
-
-**Died in xx18 or xx68** (click on any heading to sort):
-
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1fr_jL-iwB4Jsgzh2ocz14Cc0F8_orZAR6dpUKB_a&amp;containerId=googft-gviz-canvas"></iframe>
-
-c = circa
-a = before
-p = after
-m = male
-w / f = female
+c = circa  
+a = before  
+p = after  
+m = male  
+w / f = female  
 
 _Image from [pixabay.com](https://pixabay.com/de/illustrations/gl%C3%BCckliches-neues-jahr-2018-gr%C3%BC%C3%9Fe-2751594/){:target="_blank"}_.

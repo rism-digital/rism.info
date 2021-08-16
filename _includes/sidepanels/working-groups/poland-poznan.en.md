@@ -1,12 +1,16 @@
 # Contact
 
-Dr. habil. Alina Mądry  
-Dr. habil. Magdalena Walter-Mazur  
-Uniwersytet im. Adama Mickiewicza  
-Katedra Muzykologiiul.   
-Umultowska 89D  
-PL 61-614 Poznań  
-Telephone: +48 61 829 64 54  
-E-mail: [almadry@poczta.onet.pl](mailto:almadry@poczta.onet.pl) (Mądry)   
-[mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl) (Walter-Mazur)  
-Website: [http://www.muzykologia.amu.edu.pl/](http://www.muzykologia.amu.edu.pl/)
+Uniwersytet im. Adama Mickiewicza w Poznaniu\
+Head of working group: Dr. habil. Alina Mądry\
+Katedra Teatru i Sztuki Mediów\
+Centrum Badań nad Kulturą Muzyczną\
+ul. Fredry 10\
+PL 60-701 Poznań\
+Telephone: +48 61 829 45 32\
+Email: [alpalik@amu.edu.pl](mailto:alpalik@amu.edu.pl)\
+Dr. habil. Magdalena Walter-Mazur\
+Instytut Muzykologii\
+ul. Uniwersytetu Poznańskiego 7\
+PL 61-614 Poznań\
+Telephone: +48 61 829 64 54\
+Email: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)
