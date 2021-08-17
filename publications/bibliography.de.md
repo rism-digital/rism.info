@@ -583,7 +583,7 @@ Zappalà, Pietro (Hrsg.): RISM B/I (Recueils imprimés XVI-XVII siècles): Indic
 **2011:**  
 Brinzing, Armin: RISM und Bibliotheken – Stand und Perspektiven der Musikhandschriftenerschließung in Deutschland, in: Forum Musikbibliothek 32 (2011), S. 9-14.
 
-Brinzing, Armin / Diet, Jürgen: Der neue Musik-Katalog „RISM-OPAC“ mit über 700.000 Nachweisen ist online, in: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München 2011, Heft 1, p. 63-65. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Magazin_lowRes_1_2011.pdf){:target="_blank"}
+Brinzing, Armin / Diet, Jürgen: Der neue Musik-Katalog „RISM-OPAC“ mit über 700.000 Nachweisen ist online, in: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München 2011, Heft 1, p. 63-65. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2011_1.pdf){:target="_blank"}
 
 Diet, Jürgen: Neue Version des RISM Online-Katalogs mit Musikincipitsuche freigeschaltet, in: Forum Musikbibliothek 32 (2011), S. 135-137.
 
@@ -699,7 +699,7 @@ Rose, Stephen und Tuppen, Sandra: "Prospects for a Big Data History of Music." P
 
 Selfridge-Field, Eleanor: Search engines for digitally encoded scores, in: Early Music 42 (2014), S. 591-598. [Online verfügbar](http://em.oxfordjournals.org/content/42/4?etoc){:target="_blank"}
 
-Voss, Steffen: Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 2 (2014), S. 48-52. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}  
+Voss, Steffen: Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 2014, Heft 2, S. 48-52. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2014_2.pdf){:target="_blank"}  
    
 Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
@@ -740,11 +740,11 @@ Shanahan, Daniel und Eamonn Bell: Re-Examining National Influences and Stylistic
 
 Benton, Rita und Jennifer A. Ward: Répertoire International des Sources Musicales, in: Grove Music Online. Oxford Music Online. Oxford University Press, [Online verfügbar](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}
 
-Capelle, Irmlind und Kristina Richts: Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI, in: Bibliotheksdienst50 (2016), S. 199-209. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0022)
+Capelle, Irmlind und Kristina Richts: Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI, in: Bibliotheksdienst 50 (2016), S. 199-209. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0022)
 
 Chang, Jeong Youn: A South Korean Researcher's View on the Music Department of the Bavarian State Library, in: Forum Musikbibliothek 37 (2016), S. 7-13.
 
-Diet, Jürgen: Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft, in: Bibliotheksdienst50 (2016), S. 188-198. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0021)
+Diet, Jürgen: Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft, in: Bibliotheksdienst 50 (2016), S. 188-198. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0021)
 
 "[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM Konferenz, September 2016. Die folgenden Beiträge stehen online zur Verfügung:
 
@@ -761,9 +761,9 @@ Diet, Jürgen: Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinfo
 - Urchueguía, Cristina: The Concept of an International Repertory of Musical Sources.[YouTube](https://youtu.be/1ROti64TIUc)
 - Waisman,Leonardo: Spanish-American Colonial Musical Sources: Catalogues and Studies. [YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm)
 
-Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger und Alexander Staub: Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München11 (2016), Heft 1, S. 36-40. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.
+Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger und Alexander Staub: Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 11 (2016), Heft 1, S. 36-40. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.
 
-Eichholz, Nina: Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden, in: Bibliotheksdienst__50 (2016), S. 210-225. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0023))
+Eichholz, Nina: Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden, in: Bibliotheksdienst 50 (2016), S. 210-225. [Online verfügbar](http://dx.doi.org/10.1515/bd-2016-0023))
 
 Falletta, Martina, Alexander Marxen, Jennifer Ward: Die RISM-Nutzerstudie: Überblick und erste Ergebnisse, in: Forum Musikbibliothek 37 (2016), S. 7-15.
 
@@ -773,7 +773,7 @@ Fahrenkrog, Laura und Fernanda Vera: Recently Catalogued Music Archives and Fond
 
 Giezeman, Geert-Jan: RISM incipit retrieval: Architecture of the software and data. 2016. Technical documentation for the [RISM search by Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.   
 
-Giglberger, Veronika: Messen, Motetten, Chansons, Madrigale. Musikhandschriften des 16. Jahrhunderts im neuen Digitalisierungsprojekt, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 11 (2016), Heft 2, S.22-25. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/BM_2-16.pdf){:target="_blank"}   
+Giglberger, Veronika: Messen, Motetten, Chansons, Madrigale. Musikhandschriften des 16. Jahrhunderts im neuen Digitalisierungsprojekt, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 11 (2016), Heft 2, S.22-25. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2016_2.pdf){:target="_blank"}   
 
 Klugseder, Robert und Ikarus Kaiser: Wiederentdeckung eines umfangreichen Korpus an Abschriften des Linzer Dom-Musikarchivs, in:Mitteilungen des Anton Bruckner Instituts Linz 17 (2016), S. 4-10.
 
@@ -785,7 +785,7 @@ Mühlemann, Marianne: Klänge unter Taubenkot, in:Der Bund, 9. Juni 2016. [Onlin
 
 Nyffeler, Max: Musikalische Eindrücke aus Korea, in: Beckmesser, 2. Dezember 2016. Auch erschienen in [Neue Musikzeitung](https://www.nmz.de/artikel/das-loch){:target="_blank"} (Dezember 2016), S. 4-5. [Online verfügbar](http://www.beckmesser.info/musikalische-eindruecke-aus-korea/){:target="_blank"}
 
-Scoccimarro, Roberto: Das aktuelle DFG-Hofmusikprojekt der SLUB Dresden und die Konferenz 'Sammeln – Musizieren – Forschen. Zur Dresdner höfischen Musik des 18. Jahrhunderts' vom 21. bis 23. Januar 2016 in Dresden. Ein Bericht, in:Forum Musikbibliothek 37(2016), S. 22-27.
+Scoccimarro, Roberto: Das aktuelle DFG-Hofmusikprojekt der SLUB Dresden und die Konferenz 'Sammeln – Musizieren – Forschen. Zur Dresdner höfischen Musik des 18. Jahrhunderts' vom 21. bis 23. Januar 2016 in Dresden. Ein Bericht, in: Forum Musikbibliothek 37(2016), S. 22-27.
 
 Sidler, Florence: Visibilité internationale pour le fonds de Louis Niedermeyer, in: Bulletin d'information no 12 de l'Association Niedermeyer, (Juni) 2016, S. 35-37.
 
@@ -908,6 +908,8 @@ Ward, Jennifer A.: Documenting Historical Printed Music in RISM: New Opportuniti
 Ward, Jennifer A.: RISM en América Latina: proyectos colaborativos para la documentación de fuentes. Translated by Juan Francisco Rangel Yáñez, in: Celebración y sonoridad en Hispanoamérica (siglos xvi y xix), hrsg. von Anastasia Krutitskaya, Moreila: Universidad Nacional Autónoma de México, Escuela Nacional de Estudios Superiores Unidad Morelia, 2020, S. 22-41. [Online verfügbar](http://www.librosoa.unam.mx/handle/123456789/3063){:target="_blank"}
 
 **2021:**  
+Giglberger, Veronika / Lutz, Bernhard: Wasserzeichen in Musikhandschriften. Ein Erschliessungsprojekt an der Bayerischen Staatsbibliothek, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 16 (2021), Heft 1, S. 79-83. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2021_1.pdf){:target="_blank"}
+
 Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, Mai 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank}.  
 
 Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
