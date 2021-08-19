@@ -46,7 +46,7 @@ Other anniversaries worth noting are:[
 We trawled the database for people who were born or died in a year ending in 16 or 66. Below ([and on this Google spreadsheet](https://docs.google.com/spreadsheets/d/1-watBEnPiMxTm6oKp-LFLpIO_2aAZPioz1P__nspH88/edit?usp=sharing){:blank}) we present names from [Luigi **A**bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) to [**Z**ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (ahem, Sigismund III of Poland; 1566-1632). Chronologically speaking, this covers the 800th anniversary of Pope Innocent III's death (ca. 1160-1216), whose words were used in the hymn [_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"}, to the 50th anniversary of tenor Fritz Wunderlich's death (1930-1966), whose waltz [_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"} is in RISM.  
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQahst97oF2XJaZsne_AVViXJTN2WXP9gjZ50Sk41A8KzQNKOdQ5AmZXV30w6afbVBKP90KEy0vsQKI/pubhtml?widget=true&amp;headers=false"></iframe>  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQahst97oF2XJaZsne_AVViXJTN2WXP9gjZ50Sk41A8KzQNKOdQ5AmZXV30w6afbVBKP90KEy0vsQKI/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
 **c = circa**  
 **a = before**  
