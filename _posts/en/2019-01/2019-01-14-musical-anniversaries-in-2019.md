@@ -17,7 +17,7 @@ As in past years, we would like to take a look at musical anniversaries for the 
 
 This year, there are over 1,000 of them and now the lists include a direct link to the relevant sources in the [RISM catalog](https://opac.rism.info/){:target="_blank"}. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDUXlQXzt3WnwgqREHIKny0Md1wK7euBjTew73dTE-ihiwVT6UXX7gV165s7ox4hTgfz74vnl3w87z/pubhtml?widget=true&amp;headers=false"></iframe>  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDUXlQXzt3WnwgqREHIKny0Md1wK7euBjTew73dTE-ihiwVT6UXX7gV165s7ox4hTgfz74vnl3w87z/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
 c = circa  
 a = before  
