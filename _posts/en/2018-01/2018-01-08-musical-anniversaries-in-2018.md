@@ -32,7 +32,7 @@ But leading the pack by far with 2,837 sources in RISM is [Gioachino Rossini](ht
 
 Here are the full lists ([and also as a Google Spreadsheet](https://docs.google.com/spreadsheets/d/1okAHlR5zIAgyTz28oiXXD1rPHy9PW9EpuuSZ7tfZvaA/edit?usp=sharing){:blank}).  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTt-2Ttl_yDmVxI1Vs59NBUgav7FCVCvR0ykpx2jxazaQHPUowhGNMnCxm_5dBW0F7ZxKI5uvPGcj72/pubhtml?widget=true&amp;headers=false"></iframe>  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTt-2Ttl_yDmVxI1Vs59NBUgav7FCVCvR0ykpx2jxazaQHPUowhGNMnCxm_5dBW0F7ZxKI5uvPGcj72/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
 c = circa  
 a = before  
