@@ -2,7 +2,7 @@
 layout: post
 title: "Unterstützen Sie RISM bei der Verlinkung auf digitalisierte Musikquellen"
 date: 2021-08-23
-lang: en
+lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news/2021-08/help_rism_link_digitized_website.png"
