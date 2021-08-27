@@ -21,9 +21,7 @@ This world view, in which a theological view of nature and the natural sciences 
 
 - The dirge “[What alas was Aldrovandus' fate](https://opac.rism.info/search?id=1001034802&Language=en){:target="_blank"},” a reference to the Italian naturalist Ulisse Aldrovandi (1522–1605)
 
--
-
-“[Ode on the death of Titian Peale](https://opac.rism.info/search?id=1001034803&Language=en){:target="_blank"},” with the opening text “His early loss let science mourn,” a reference to Peale's son who died in 1798 at the age of 18
+- “[Ode on the death of Titian Peale](https://opac.rism.info/search?id=1001034803&Language=en){:target="_blank"},” with the opening text “His early loss let science mourn,” a reference to Peale's son who died in 1798 at the age of 18
 
 
 The words to these songs are by Rembrandt Peale (1778-1860), another son of the book's author. The music is by John Isaac Hawkins (1772-1854), and English engineer and inventor who made a name for himself as a piano builder.
