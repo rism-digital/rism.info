@@ -21,15 +21,10 @@ Dieses Weltbild, in dem eine theologische Sicht auf die Natur(-wissenschaft) und
 
 - Das Klagelied “[What alas was Aldrovandus' fate](https://opac.rism.info/search?id=1001034802){:target="_blank"}” als Referenz an den italienischen Naturforscher Ulisse Aldrovandi (1522–1605)
 
--
-
-“[Ode on the death of Titian Peale](https://opac.rism.info/search?id=1001034803){:target="_blank"}” mit dem Textbeginn “His early loss let science mourn”, eine Referenz an Peales Sohn, der 1798 im Alter von 18 Jahren starb
+- “[Ode on the death of Titian Peale](https://opac.rism.info/search?id=1001034803){:target="_blank"}” mit dem Textbeginn “His early loss let science mourn”, eine Referenz an Peales Sohn, der 1798 im Alter von 18 Jahren starb
 
 
 Die Texte stammen von Rembrandt Peale (1778-1860), einem weiteren Sohn des Autors. Die Musik komponierte John Isaac Hawkins (1772-1854); der englische Ingenieur und Erfinder machte sich vor allem als Klavierbauer einen Namen.
 
 
 _Abbildung_: John Isaac Hawkins "Ode on the death of Titan Peale", GB-Lbl B.328.(3.) ([RISM ID no. 1001034803](https://opac.rism.info/search?id=1001034803){:target="_blank"})
-
-
-#
