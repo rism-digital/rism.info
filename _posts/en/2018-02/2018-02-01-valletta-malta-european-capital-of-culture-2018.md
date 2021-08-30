@@ -15,18 +15,18 @@ Valletta and Leeuwarden are the two European Capitals of Culture for 2018. Valle
 
 The city was built by the Knights of Malta beginning in 1566 and the sights can be reached easily by foot. But as Alexiei Dingli, the mayor of Valletta, said, "This Capital of Culture is different than other cultural capitals. It's not just about Valletta, but all of Malta and Gozo, too." Fans of culture can expect a full [calendar of events](https://valletta2018.org/){:target="_blank"} throughout the year.
 
-[In RISM](/community/sigla.html), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:
-St. Augustin Convent, Valletta (M-Vsa)
-Carmelite Priory, Valletta (M-Vcp)
-Commissariat of the Holy Land, Archives, Valletta (M-Vchl)
-St. Helene Collegiate Church, Birkirkara (M-B)
-Parish Church, Cospicua (M-C)
-Parish Church, Lija (M-Lpc)
-Parish Church, Mellieha (M-MEpc)
-Carmelite Priory, Mdina (M-MDcp)
-Archconfraternity of the Blessed Sacrament, Rabat (M-Ra)
-St. Dominic Convent, Rabat (M-Rsd)
-Wignacourt Collegiate Museum, Rabat (M-Rwm)
+[In RISM](/community/sigla.html), there are 12 music archives and libraries from Malta. Three are in Valletta and the rest are in other places around the island:  
+St. Augustin Convent, Valletta (M-Vsa)  
+Carmelite Priory, Valletta (M-Vcp)  
+Commissariat of the Holy Land, Archives, Valletta (M-Vchl)  
+St. Helene Collegiate Church, Birkirkara (M-B)  
+Parish Church, Cospicua (M-C)  
+Parish Church, Lija (M-Lpc)  
+Parish Church, Mellieha (M-MEpc)  
+Carmelite Priory, Mdina (M-MDcp)  
+Archconfraternity of the Blessed Sacrament, Rabat (M-Ra)  
+St. Dominic Convent, Rabat (M-Rsd)  
+Wignacourt Collegiate Museum, Rabat (M-Rwm)  
 San Filippo, Senglea (M-S)
 
 There aren't any sources in the RISM catalog from Malta yet...does anyone out there have any leads? Nevertheless, we do have some sources by Maltese composers, and their compositions can be found around the world.
