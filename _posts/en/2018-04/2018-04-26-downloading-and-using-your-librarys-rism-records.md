@@ -19,7 +19,7 @@ The MMF's project involved RISM records from the Johannes Herbst Collection. Her
 
 How did they do it? The process was described by David Blum in an article in a recent issue of [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"}:
 
-- David Blum, "The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM."[_Fontes Artis Musicae_](https://muse.jhu.edu/article/680345){:target="_blank"}64, no. 4 (October-December 2017): 355-366.
+- David Blum, "The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM." [_Fontes Artis Musicae_](https://muse.jhu.edu/article/680345){:target="_blank"} 64, no. 4 (October-December 2017): 355-366.
 
 First, the RISM records were downloaded by the MMF. RISM records are freely available to download and reuse under a [Creative Commons (CC-BY)](http://creativecommons.org/licenses/by/3.0/){:target="_blank"} license. The entire RISM dataset can be found as open data and linked open data on the online catalog's [Open Data Service](https://opac.rism.info/index.php?id=8&L=1){:target="_blank"} page. In addition, an [SRU (Search/Retrieve via URL) server](https://github.com/rism-ch/muscat/wiki/SRU){:target="_blank"} is also available to download a specific dataset, such as records from a single library.
 
