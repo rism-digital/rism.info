@@ -26,63 +26,63 @@ Welches Team feuern Sie an? Das Musikturnier beginnt! Hinter jedem dieser Links 
 
 **Gruppe A**
 
-**Russland** : Suche [RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*){:target="_blank"} findet 6.500 Quellen
-**Saudi Arabien** : Noch nicht in RISM
-**Ägypten** : Keine Quellen im Katalog, aber 3 Institutionen genannt im [RISM Bibliothekssigelverzeichnis](/community/sigla.html) (suche ET)
-**Uruguay** : Suche [ROU-\*](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"} findet 21 Quellen in RISM
+**Russland**: Suche [RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*){:target="_blank"} findet 6.500 Quellen\
+**Saudi Arabien**: Noch nicht in RISM\
+**Ägypten**: Keine Quellen im Katalog, aber 3 Institutionen genannt im [RISM Bibliothekssigelverzeichnis](/community/sigla.html) (suche ET)\
+**Uruguay**: Suche [ROU-\*](https://opac.rism.info/search?View=rism&siglum=ROU-*){:target="_blank"} findet 21 Quellen in RISM
 
 **Gruppe B**
 
-**Portugal** : Suche [P-\*](https://opac.rism.info/search?View=rism&siglum=P-*){:target="_blank"} findet 4.300 Quellen in RISM
-**Spanien** : Suche [E-\*](https://opac.rism.info/search?View=rism&siglum=E-*){:target="_blank"} findet 8.700 Quellen in RISM
-**Marokko** : Bisher keine Quellen in RISM
-**Iran** : Keine Quellen im Katalog, aber 32 Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche IR)
+**Portugal**: Suche [P-\*](https://opac.rism.info/search?View=rism&siglum=P-*){:target="_blank"} findet 4.300 Quellen in RISM\
+**Spanien**: Suche [E-\*](https://opac.rism.info/search?View=rism&siglum=E-*){:target="_blank"} findet 8.700 Quellen in RISM\
+**Marokko**: Bisher keine Quellen in RISM\
+**Iran**: Keine Quellen im Katalog, aber 32 Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche IR)
 
 **Gruppe C**
 
-**Frankreich** : Suche [F-\*](https://opac.rism.info/search?View=rism&siglum=F-*){:target="_blank"} findet 26.300 Quellen in RISM
-**Australien** : Suche [AUS-\*](https://opac.rism.info/search?View=rism&siglum=AUS-*){:target="_blank"} findet 850 Quellen in RISM
-**Peru** : Keine Quellen im Katalog, aber eine handvoll Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche PE)
-**Dänemark** : Suche [DK-\*](https://opac.rism.info/search?View=rism&siglum=DK-*){:target="_blank"} findet 10.800 Quellen in RISM
+**Frankreich**: Suche [F-\*](https://opac.rism.info/search?View=rism&siglum=F-*){:target="_blank"} findet 26.300 Quellen in RISM\
+**Australien**: Suche [AUS-\*](https://opac.rism.info/search?View=rism&siglum=AUS-*){:target="_blank"} findet 850 Quellen in RISM\
+**Peru**: Keine Quellen im Katalog, aber eine handvoll Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche PE)\
+**Dänemark**: Suche [DK-\*](https://opac.rism.info/search?View=rism&siglum=DK-*){:target="_blank"} findet 10.800 Quellen in RISM
 
 **Gruppe D**
 
-**Argentinien** : Suche [RA-\*](https://opac.rism.info/search?View=rism&siglum=RA-*){:target="_blank"} findet die erste Quelle in RISM
-**Island** : Keine Quellen im Katalog, aber zwei Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche IS)
-**Kroatien** : Suche [HR-\*](https://opac.rism.info/search?View=rism&siglum=HR-*){:target="_blank"} findet 9.300 Quellen in RISM
-**Nigeria** : Leider keine Quellen in RISM!
+**Argentinien**: Suche [RA-\*](https://opac.rism.info/search?View=rism&siglum=RA-*){:target="_blank"} findet die erste Quelle in RISM\
+**Island**: Keine Quellen im Katalog, aber zwei Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche IS)\
+**Kroatien**: Suche [HR-\*](https://opac.rism.info/search?View=rism&siglum=HR-*){:target="_blank"} findet 9.300 Quellen in RISM\
+**Nigeria**: Leider keine Quellen in RISM!
 
 **Gruppe E**
 
-**Brasilien** : Suche [BR-\*](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"} findet 450 Quellen in RISM
-**Schweiz** : Suche [CH-\*](https://opac.rism.info/search?View=rism&siglum=CH-*){:target="_blank"} findet 67.700 Quellen in RISM
-**Costa Rica** : Keine Quellen im Katalog, aber eine Institution genannt im RISM Bibliothekssigelverzeichnis (suche CR)
-**Serbia** : Keine Quellen im Katalog, aber eine handvoll Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche SRB)
+**Brasilien**: Suche [BR-\*](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"} findet 450 Quellen in RISM\
+**Schweiz**: Suche [CH-\*](https://opac.rism.info/search?View=rism&siglum=CH-*){:target="_blank"} findet 67.700 Quellen in RISM\
+**Costa Rica**: Keine Quellen im Katalog, aber eine Institution genannt im RISM Bibliothekssigelverzeichnis (suche CR)\
+**Serbia**: Keine Quellen im Katalog, aber eine handvoll Institutionen genannt im RISM Bibliothekssigelverzeichnis (suche SRB)
 
 **Gruppe F**
 
-**Germany** : Suche [D-\*](https://opac.rism.info/search?View=rism&siglum=D-*){:target="_blank"} findet 483.000 Quellen in RISM
-**Mexiko** : Suche [MEX-\*](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} findet 550 Quellen in RISM
-**Schweden** : Suche [S-\*](https://opac.rism.info/search?View=rism&siglum=S-*){:target="_blank"} findet 39.000 Quellen in RISM
-**Südkorea** : Suche [ROK-\*](https://opac.rism.info/search?View=rism&siglum=ROK-*){:target="_blank"} findet 2.000 Quellen in RISM
+**Germany**: Suche [D-\*](https://opac.rism.info/search?View=rism&siglum=D-*){:target="_blank"} findet 483.000 Quellen in RISM\
+**Mexiko**: Suche [MEX-\*](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"} findet 550 Quellen in RISM\
+**Schweden**: Suche [S-\*](https://opac.rism.info/search?View=rism&siglum=S-*){:target="_blank"} findet 39.000 Quellen in RISM\
+**Südkorea**: Suche [ROK-\*](https://opac.rism.info/search?View=rism&siglum=ROK-*){:target="_blank"} findet 2.000 Quellen in RISM
 
 **Gruppe G**
 
-**Belgium** : Suche [B-\*](https://opac.rism.info/serch?View=rism&siglum=B-*){:target="_blank"} findet 44.000 Quellen in RISM
-**Panama** : Leider keine Quellen in RISM!
-**Tunesien** : Auch hier kein Quellen in RISM!
-**England** : Suche [GB-\*](https://opac.rism.info/search?View=rism&siglum=GB-*){:target="_blank"} (alle Quellen der Insel) findet 118.000 Quellen in RISM
+**Belgium**: Suche [B-\*](https://opac.rism.info/serch?View=rism&siglum=B-*){:target="_blank"} findet 44.000 Quellen in RISM\
+**Panama**: Leider keine Quellen in RISM!\
+**Tunesien**: Auch hier kein Quellen in RISM!\
+**England**: Suche [GB-\*](https://opac.rism.info/search?View=rism&siglum=GB-*){:target="_blank"} (alle Quellen der Insel) findet 118.000 Quellen in RISM
 
 **Gruppe H**
 
-**Polen** : Suche [PL-\*](https://opac.rism.info/search?View=rism&siglum=PL-*){:target="_blank"} findet 43.000 Quellen in RISM
-**Senegal** : Leider keine Quellen in RISM!
-**Kolumbien** : Suche [CO-\*](https://opac.rism.info/search?View=rism&siglum=CO-*){:target="_blank"} findet eine handvoll Quellen in RISM
-**Japan** : Suche [J-\*](https://opac.rism.info/search?View=rism&siglum=J-*){:target="_blank"} findet 1.600 Quellen in RISM
+**Polen**: Suche [PL-\*](https://opac.rism.info/search?View=rism&siglum=PL-*){:target="_blank"} findet 43.000 Quellen in RISM\
+**Senegal**: Leider keine Quellen in RISM!\
+**Kolumbien**: Suche [CO-\*](https://opac.rism.info/search?View=rism&siglum=CO-*){:target="_blank"} findet eine handvoll Quellen in RISM\
+**Japan**: Suche [J-\*](https://opac.rism.info/search?View=rism&siglum=J-*){:target="_blank"} findet 1.600 Quellen in RISM\
 
 Bereit zum Anpfiff!
 
 _Abbildungen_:
-Louis Adam, autographe Handschrift von _Morceau de Musique pour le piano_, Bibliothèque nationale de France (F-Pn Mus. Ms. 2926), [RISM ID no. 840000047](https://opac.rism.info/search?id=840000047){:target="_blank"}.
-Anna Lucia Bon, _6Sonateper ilFlauto Traversiere_, Det Kongelige Bibliotek på Slotsholmen (DK-Kk (mu 6210.2526)), [RISM ID no. 150205024](https://opac.rism.info/search?id=150205024){:target="_blank"}.
+Louis Adam, autographe Handschrift von _Morceau de Musique pour le piano_, Bibliothèque nationale de France (F-Pn Mus. Ms. 2926), [RISM ID no. 840000047](https://opac.rism.info/search?id=840000047){:target="_blank"}.\
+Anna Lucia Bon, _6 Sonate per il Flauto Traversiere_, Det Kongelige Bibliotek på Slotsholmen (DK-Kk (mu 6210.2526)), [RISM ID no. 150205024](https://opac.rism.info/search?id=150205024){:target="_blank"}.\
 Marcello Bernardini, aus _Li tre Orfei_ (1788), Biblioteca Nacional de España (E-Mn MC/4430/74), [RISM ID no. 100400001](https://opac.rism.info/search?id=100400001){:target="_blank"}.
