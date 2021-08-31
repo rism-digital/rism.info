@@ -19,7 +19,7 @@ Historically, as long as women were denied access to orchestras, the piano – a
 
 Here they are, the 250 female pianists in RISM:
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1n_oOky_F-B1bWWvUZ-egP-RgbymvtP3UAYdytHX5&amp;containerId=googft-gviz-canvas"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOsk3Yk_-3TynlK78oqkJBF-RQYBtlqmJCLQOrMpma6UfiShVfkNNiBSE9OTc8ZNui0UtC7dsNSLaD/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
 _Key:_  
 c = circa  
