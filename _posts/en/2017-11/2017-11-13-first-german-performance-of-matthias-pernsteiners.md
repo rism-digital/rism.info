@@ -29,4 +29,4 @@ Choir and orchestra of St. Philippus
 Gerhard Weinberger, organ
 Conductor: Beatrice-Maria Weinberger
 
-_Image_: Matthias Pernsteiner (1795–1851), artist unknown (reproduced in Johann Hölzl, "Kirchenkomponist Matthias Pernsteiner. Zum 170. Geburtstag," _Z __eit__ s__chrift_ _Glaube und Heimat_ no. 5 _(_1965): 188.
+_Image_: Matthias Pernsteiner (1795–1851), artist unknown (reproduced in Johann Hölzl, "Kirchenkomponist Matthias Pernsteiner. Zum 170. Geburtstag," _Zeitschrift Glaube und Heimat_ no. 5 (1965): 188.
