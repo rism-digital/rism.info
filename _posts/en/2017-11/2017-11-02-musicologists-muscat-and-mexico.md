@@ -31,5 +31,5 @@ I would like to thank Edgar Alejandro Calderón Alcántar (Conservatorio de las 
 
 The conference was a valuable opportunity to make connections with musicologists in Latin America. As a direct result of this conference, RISM will start working with two musicologists in Colombia and we are also talking about how to collaborate with Edgar and his colleagues at the Conservatorio. We welcome the opportunity to work with other musicologists, librarians, archivists, or other documentation experts throughout Latin America.
 
-_Jennifer Ward
-RISM Central Office_
+_Jennifer Ward_  
+_RISM Central Office_
