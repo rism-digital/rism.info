@@ -7,7 +7,7 @@ post: true
 category: events
 image: "/images/news-old-website/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/international-womens-day-women-pianists-in-rism.html
-email: alexander.marxen@rism.info
+email: ''
 author: ''
 ---
 
@@ -19,12 +19,12 @@ Historically, as long as women were denied access to orchestras, the piano – a
 
 Here they are, the 250 female pianists in RISM:
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1n_oOky_F-B1bWWvUZ-egP-RgbymvtP3UAYdytHX5&amp;containerId=googft-gviz-canvas"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOsk3Yk_-3TynlK78oqkJBF-RQYBtlqmJCLQOrMpma6UfiShVfkNNiBSE9OTc8ZNui0UtC7dsNSLaD/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
 
-_Key:_
-c = circa
-a = before
-p = after
+_Key:_  
+c = circa  
+a = before  
+p = after  
 .sc = century
 
 The full list can also be [viewed here](https://www.google.com/fusiontables/DataSource?docid=1n_oOky_F-B1bWWvUZ-egP-RgbymvtP3UAYdytHX5){:target="_blank"} and is linked on the online catalog's [Help page](https://opac.rism.info/index.php?id=4&L=1#c147){:target="_blank"} (see Question #3).

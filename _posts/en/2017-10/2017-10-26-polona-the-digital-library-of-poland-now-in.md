@@ -15,7 +15,7 @@ author: ''
 
 Polona includes treasures of Polish culture from the National Library and a number of other institutions. You can find books, old prints, manuscripts, graphics, maps, photographs, flyers, posters, postcards—and of course music. So far, over 12,000 music items are included.
 
-**How do you find music?**
+**How do you find music?**  
 Go to the main menu on the left and click on the [**Items**](https://polona.pl/items/?filters=public:1){:target="_blank"} panel.
 
 For **printed music** , select the category "[scores](https://polona.pl/items/?filters=category:scores,public:1,hasTextContent:0){:target="_blank"}" — the button with a music note.
