@@ -13,7 +13,7 @@ author: ''
 
 **Mit diesen Weihnachtsgrüßen möchten wir uns für die freundliche Zusammenarbeit bedanken und wünschen Ihnen ein fruchtbares und erfolgreiches neues Jahr.**
 
-RISM-Zentralredaktion
-Sophienstraße 26
-60487 Frankfurt am Main
+RISM-Zentralredaktion\
+Sophienstraße 26\
+60487 Frankfurt am Main\
 Deutschland
