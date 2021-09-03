@@ -22,16 +22,15 @@ Beide Gesellschaften haben bei ihren Kongressen in diesem Jahr neue Delegierte b
 - Mathias Auclair, Paris(Frankreich)
 - Richard Chesser, London (UK)
 - Dr.Massimo Gentili-Tedeschi, Mailand (Italien)
-- Prof. Dr.Beatriz Magalhães Castro, Brasilia(Brasilien)
-- Dr. Balázs Mikusi, Budapest(Ungarn)
+- Prof. Dr.Beatriz Magalhães Castro, Brasilia (Brasilien)
+- Dr. Balázs Mikusi, Budapest (Ungarn)
 
 **IMS Delegierte**
 
-- Prof. Dr. Egberto Bermudez Cujar, Bogotá(Kolumbien)
+- Prof. Dr. Egberto Bermudez Cujar, Bogotá (Kolumbien)
 - Prof. Dr. Dinko Fabris, Rom (Italien)
 - Prof. Dr. Markus Grassl, Wien (Österreich)
-- Prof. Dr. Thomas Schmidt, Manchester(UK)
-- Prof. Dr. Christiane Wiesenfeldt, Weimar(Deutschland)
+- Prof. Dr. Thomas Schmidt, Manchester (UK)
+- Prof. Dr. Christiane Wiesenfeldt, Weimar (Deutschland)
+
 RISM freut sich auf eine gute Zusammenarbeit und viele interessante Anregungen.
-
-
