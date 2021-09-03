@@ -7,8 +7,8 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Selection_of_Files_606cd09df5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/new-tools-for-kallisto-in-english.html
-email: jennifer.ward@rism.info
-author: Jennifer Ward
+email: ''
+author: ''
 ---
 
 Speziell für unsere englischsprachigen Kollegen und Anwender haben wir einige neue Tools für die Benutzung von Kallisto zur Verfügung gestellt. Diese können auf der Community-Seite eingesehen werden, sofern vorab ein Login erfolgte. Insbesondere das englischsprachige Handbuch zu Kallisto wurde aktualisiert und benutzerfreundlich gestaltet.
