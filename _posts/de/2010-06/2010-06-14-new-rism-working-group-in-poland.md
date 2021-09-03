@@ -15,14 +15,14 @@ Eine neue RISM Arbeitsgruppe wurde in Polen eingerichtet. Sie ist dem Lehrstuhl 
 
 Kontaktadresse:
 
-Dr Dariusz Smolarek
-Katolicki Uniwersytet Lubelski Jana Pawla II
-Instytut Muzykologii
-Katedra Polifonii Religijnej
-Sala: C-1027 (Collegium Jana Pawla II - pietro 10)
-Aleje Raclawickie 14
-PL 20-950 Lublin
-tel: +48 81 4453977
-mobile: +48 604 820847
-E-Mail: [dsmolar@kul.pl](mailto:dsmolar@kul.pl)
-homepage: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek)
+Dr Dariusz Smolarek\
+Katolicki Uniwersytet Lubelski Jana Pawla II\
+Instytut Muzykologii\
+Katedra Polifonii Religijnej\
+Sala: C-1027 (Collegium Jana Pawla II - pietro 10)\
+Aleje Raclawickie 14\
+PL 20-950 Lublin\
+Tel: +48 81 4453977\
+Mobile: +48 604 820847\
+E-Mail: [dsmolar@kul.pl](mailto:dsmolar@kul.pl)\
+Homepage: [http://pracownik.kul.pl/dariusz.smolarek](http://pracownik.kul.pl/dariusz.smolarek)
