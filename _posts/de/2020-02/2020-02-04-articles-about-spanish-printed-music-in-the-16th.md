@@ -7,7 +7,7 @@ post: true
 category: new_publications
 image: "/images/news-old-website/csm_Braun_Toledo_UBHD_2d9318ddc4.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/articles-about-spanish-printed-music-in-the-16th-century.html
-email: ''
+email: 'congtact@rism.info'
 author: Carmen Álvarez
 ---
 
@@ -16,7 +16,7 @@ _Spanische Version s.u. (Dank an Carmen Álvarez Escandell)_
 
 Kürzlich sind wir bei RISM auf interessante Artikel zu spanischen Musikdrucken des 16. Jahrhunderts gestoßen:
 
-_- "_Printed polyphony acquired by Toledo Cathedral, 1532-1669" von Michael Noone, in _Early Music Printing and Publishing in the Iberian World_, ed. Iain Fenlon und Tess Knighton (Kassel: Edition Reichenberger, 2006) RISM-Kürzel: [NooneP 2006](https://opac.rism.info/metaopac/search?View=rism&View=rism&q=NooneP%202006&Language=en){:target="_blank"}
+- "Printed polyphony acquired by Toledo Cathedral, 1532-1669" von Michael Noone, in _Early Music Printing and Publishing in the Iberian World_, ed. Iain Fenlon und Tess Knighton (Kassel: Edition Reichenberger, 2006) RISM-Kürzel: [NooneP 2006](https://opac.rism.info/metaopac/search?View=rism&View=rism&q=NooneP%202006&Language=en){:target="_blank"}
 
 Noone beschreibt, wann und wie die gedruckten polyphonen Musikbücher in die Kathedrale von Toledo kamen und gibt uns weitere Informationen zu den erworbenen Büchern und deren Herkunft. Unglücklicherweise sind die meisten der zwischen 1532 und 1669 erworbenen Bücher verloren, aber die 7 verbliebenen sind bei RISM nachgewiesen.
 
@@ -28,9 +28,9 @@ Dank dieses Artikels wissen wir, dass die Musikdrucke des 16. Jahrhunderts aus d
 
 Dieser Artikel enthält einen Katalog der gedruckten Musik zwischen 1539 und 1628, die in der Kathedrale von Valladolid ([E-V](https://opac.rism.info/search?View=rism&siglum=E-V&Language=en){:target="_blank"}) aufbewahrt wird. Aguirre Rincón vergibt neue Signaturen für die Bücher, einschließlich einiger bislang noch nicht katalogisierter Exemplare. Außerdem gibt er an, welche Bücher aus dem Besitz des Kapellmeisters Jerónimo Luis de León stammen, der seine Musikbücher nach seinem Tod der Kathedrale vermachte.
 
-- _Short-title catalogue of polyphonic music printed in Spain and Portugal, 1535-1648 von_Ian Fenlon: Im Anhang dieses Artikels listet Fenlon spanische und portugiesische Drucke auf und wo deren Exemplare nachgewiesen sind. Aus diesem Grund haben wir 5 neue Bibliotheks-Sigel von bislangbei RISM noch nicht vorhandenen Institutionenerstellt:
+- _Short-title catalogue of polyphonic music printed in Spain and Portugal, 1535-1648_ von Ian Fenlon: Im Anhang dieses Artikels listet Fenlon spanische und portugiesische Drucke auf und wo deren Exemplare nachgewiesen sind. Aus diesem Grund haben wir 5 neue Bibliotheks-Sigel von bislang bei RISM noch nicht vorhandenen Institutionen erstellt:
 
-- Historische BibliothekderUniversidad Complutense in Madrid, Spanien([E-Mbhmv](https://opac.rism.info/search?id=991014754&View=rism){:target="_blank"})
+- Historische Bibliothek der Universidad Complutense in Madrid, Spanien ([E-Mbhmv](https://opac.rism.info/search?id=991014754&View=rism){:target="_blank"})
 
 - Archiv der Kathedrale von Sucre in Bolivien ([BOL-SUac](https://opac.rism.info/search?id=990055270&View=rism){:target="_blank"}).
 
