@@ -11,10 +11,10 @@ email: ''
 author: ''
 ---
 
-Die [chilenische Nationalbibliothek](http://www.bibliotecanacional.cl/){:target="_blank"} in Santiago (RCH-Sbnc) verwahrt seit Januar 2014 eine seltene Musikhandschrift, die ca. 1790 entstanden ist. Sie war ein Geschenk der Erben des chilenischen Musikwissenschaftlers Guillermo Marchant Espinoza (1950-2009), der sie bei einem Hausabbruch aus dem Schutt gerettet hat. Die Handschrift ist als_Libro sesto_ bezeichnet, woraus zu entnehmen ist, dass wenigstens fünf weitere solcher Handschriften existiert haben müssen, die aber bisher nicht aufgefunden werden konnten.
+Die [chilenische Nationalbibliothek](http://www.bibliotecanacional.cl/){:target="_blank"} in Santiago (RCH-Sbnc) verwahrt seit Januar 2014 eine seltene Musikhandschrift, die ca. 1790 entstanden ist. Sie war ein Geschenk der Erben des chilenischen Musikwissenschaftlers Guillermo Marchant Espinoza (1950-2009), der sie bei einem Hausabbruch aus dem Schutt gerettet hat. Die Handschrift ist als _Libro sesto_ bezeichnet, woraus zu entnehmen ist, dass wenigstens fünf weitere solcher Handschriften existiert haben müssen, die aber bisher nicht aufgefunden werden konnten.
 
 
-Wie die[Ankündigung der Übergabe des Buches](http://www.bibliotecanacional.cl/615/w3-article-28491.html){:target="_blank"} vermeldet, ist das _Libro Sesto_ "eines der wenigen Zeugnisse der Kolonialinstrumentalmusik auf unserem (dem amerikanischen) Kontinent.“ Es enthält 165 Stücke für Klavier und/oder Orgel, die die schwarze Sklavin Maria Antonia Palacios für den eigenen Gebrauch abgeschrieben hat. Sie war nämlich in Haus und Kirche ihrer Herrin für die Musik zuständig.
+Wie die [Ankündigung der Übergabe des Buches](http://www.bibliotecanacional.cl/615/w3-article-28491.html){:target="_blank"} vermeldet, ist das _Libro Sesto_ "eines der wenigen Zeugnisse der Kolonialinstrumentalmusik auf unserem (dem amerikanischen) Kontinent.“ Es enthält 165 Stücke für Klavier und/oder Orgel, die die schwarze Sklavin Maria Antonia Palacios für den eigenen Gebrauch abgeschrieben hat. Sie war nämlich in Haus und Kirche ihrer Herrin für die Musik zuständig.
 
 
 Marchant Espinoza hat das Buch ausführlich in der _[Revista musical chilena](http://www.revistamusicalchilena.uchile.cl/index.php/RMCH/article/view/12804/13091){:target="_blank"}_ beschrieben: Es besteht aus 186 Seiten (98 folio) im Format 28,6 x 20,2 cm.
@@ -28,6 +28,7 @@ Interessant immerhin, wie schnell die Werke von Europa nach Chile gekommen sind.
 
 Die Handschrift wird gerade in die RISM Datenbank eingegeben (RISM ID no. [390000001](https://opac.rism.info/search?id=390000001){:target="_blank"}). Möglicherweise können dabei einige anonyme Werke noch identifiziert werden. Den Katalogeintrag zum _Libro sesto_ [auf der Website](http://descubre.bibliotecanacional.cl/BNC:bnc_completo:bnc_aleph001080018){:target="_blank"} der Biblioteca Nacional de Chile können ebenso einsehen.
 
-Hier finden Sie eine Aufführung, die während der Übergabe der Handschrift 2014 an die Bibliothek stattfand. Das Ensamble Alta Voce spielt Ausschnitte aus dem_Libro sesto._
+Hier finden Sie eine Aufführung, die während der Übergabe der Handschrift 2014 an die Bibliothek stattfand. Das Ensamble Alta Voce spielt Ausschnitte aus dem _Libro sesto_.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yhfqhUC-wS4" frameborder="0" allowfullscreen></iframe>
++&nbsp;
