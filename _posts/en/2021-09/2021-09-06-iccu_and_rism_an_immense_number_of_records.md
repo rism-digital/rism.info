@@ -91,7 +91,7 @@ Padova, Biblioteca del Conservatorio statale di musica Cesare Pollini [(I-Pl)](h
 Palo del Colle, Biblioteca Comunale G. M. Giuliani [(I-PDCc)](https://opac.rism.info/search?View=rism&siglum=I-PDCc){:blank}  
 Parma, Sezione musicale della Biblioteca Palatina [(I-PAc)](https://opac.rism.info/search?View=rism&siglum=I-PAc){:blank}  
 Perugia, Biblioteca capitolare Dominicini [(I-PEd)](https://opac.rism.info/search?View=rism&siglum=I-PEd){:blank}  
-Pesaro, Fondazione G. Rossini, Biblioteca [(I-PESr)](ttps://opac.rism.info/search?View=rism&siglum=I-PESr){:blank}  
+Pesaro, Fondazione G. Rossini, Biblioteca [(I-PESr)](https://opac.rism.info/search?View=rism&siglum=I-PESr){:blank}  
 Pistoia, Biblioteca San Giorgio [(I-PSbsg)](https://opac.rism.info/search?View=rism&siglum=I-PSbsg){:blank}  
 Prato, Biblioteca dell’archivio diocesano [(I-PR)](https://opac.rism.info/search?View=rism&siglum=I-PR){:blank}  
 Prato, Scuola Comunale di Musica Giuseppe Verdi, Biblioteca [(I-PRi)](https://opac.rism.info/search?View=rism&siglum=I-PRi){:blank}  
