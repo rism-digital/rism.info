@@ -15,21 +15,14 @@ Im Folgenden informieren wir Sie darüber welche Daten wir zu welchen Zwecken er
 Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist die
 
 RISM Zentralredaktion 
-
 vertreten durch den Leiter Dr. Balázs Mikusi
-
 Johann Wolfgang Goethe-Universität 
-
 Campus Bockenheim 
-
 Senckenberganlage 31-33 
-
 D-60325 Frankfurt am Main
-
 Deutschland
 
 Tel: +49-69-706231
-
 Fax: +49-69-706026
 
 [https://rism.info/de/editorial-center.html](/editorial-center.html)
@@ -83,9 +76,7 @@ Eine Auswertung der statistischen Daten wird im Jahresbericht veröffentlicht. D
 
 ## Links zu den sozialen Medien
 
-Auf unserer Seite kommen zwei unterschiedliche Arten von Links zu sozialen Medien zum Einsatz. Im Fußbereich einer jeden Seite sind Buttons angelegt, die das Folgen von RISM in den Sozialen Medien, wie Facebook, Twitter und Youtube erlauben. Durch Anklicken dieser Buttons wird der Nutzer auf die jeweilige Seite weitergeleitet. Erst dann werden Daten an den Service dieser Anbieter weitergegeben. Bitte informieren Sie sich bei den jeweiligen Anbietern über deren Datenschutz-Richtlinien.
-
-Im News-Bereich unserer Website hat der Nutzer die Möglichkeit über sogenannte Social Bookmarks die Inhalte unserer Seite zu teilen oder zu markieren. Diese Buttons werden durch ein Plugin bereitgestellt. Bitte informieren Sie sich auf [https://sharethis.com](https://www.sharethis.com/privacy/#website "Öffnet externen Link im aktuellen Fenster") wie Ihre Daten dort verarbeitet werden.
+Auf unserer Seite kommen zwei unterschiedliche Arten von Links zu sozialen Medien zum Einsatz. Im Fußbereich einer jeden Seite sind Buttons angelegt, die das Folgen von RISM in den Sozialen Medien, wie Facebook, Twitter und Youtube erlauben. Im News-Bereich unserer Website hat der Nutzer die Möglichkeit über sogenannte Social Bookmarks die Inhalte unserer Seite zu teilen oder zu markieren. Diese Buttons werden durch ein Plugin bereitgestellt. Durch Anklicken dieser Buttons wird der Nutzer auf die jeweilige Seite weitergeleitet. Erst dann werden Daten an den Service dieser Anbieter weitergegeben. Bitte informieren Sie sich bei den jeweiligen Anbietern über deren Datenschutz-Richtlinien.
 
 ## Kontakt
 
