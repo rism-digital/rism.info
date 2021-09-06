@@ -11,7 +11,7 @@ email: contact@rism.info
 author: Klaus Keil
 ---
 
-## **Musikdokumentation in Bibliothek, Wissenschaft und Praxis**
+**Musikdokumentation in Bibliothek, Wissenschaft und Praxis**
 
 aus Anlass des 60-jährigen Bestehens des RISM findet vom 4. bis 6. Juni 2012 in der Akademie der Wissenschaften und der Literatur Mainz (Geschwister-Scholl-Straße 2, 55131 Mainz, Deutschland) eine internationale Konferenz statt.
 

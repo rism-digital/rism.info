@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/the-rism-survey-we-respond-to-your-comments.html
-email: jennifer.ward@rism.info
+email: ''
 author: ''
 ---
 
@@ -20,7 +20,7 @@ This blinkered approach represents a serious failure to acknowledge non-German r
 
 **"I feel like there is too much of a focus on German sources and not enough on sources from Britain (for example). There are great inconsistencies with regards to the sources of particular composers that are available, and some information presented is often inaccurate or poorly cited. I would like to see RISM broaden its focus to be less biased towards German musical sources, and to allow for greater referencing and checking abilities." -Respondent 161**
 
-Kurze Antwort: (1.) Ja, Sie haben Recht, es gibt sehr viele Quellen aus Deutschland und (2.) bitte schicken Sie uns Ihre Aufsätze oder andere Veröffentlichungen, damit wir sie ergänzen können! ([jennifer.ward](mailto:jennifer.ward@rism.info)[@rism.info](mailto:jennifer.ward@rism.info))
+Kurze Antwort: (1.) Ja, Sie haben Recht, es gibt sehr viele Quellen aus Deutschland und (2.) [bitte schicken Sie uns](mailto:contact@rism.info) Ihre Aufsätze oder andere Veröffentlichungen, damit wir sie ergänzen können!
 
 Ausführliche Antwort: Ihr Verdacht ist richtig: Ca. 42% aller Quellen des [RISM Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} stammen aus Deutschland. Der Grund dafür lässt sich in drei Worten erklären: Geld, Zeit und Personal. Es gibt eine vollständig finanzierte [deutsche Arbeitsgruppe](http://de.rism.info/de/home.html){:target="_blank"} mit acht Mitarbeitern und zwei Büros. Hinzu kommen einige fremdfinanzierte Projekte in Deutschland, die regelmäßig Titel für RISM beitragen. Die Situation in Deutschland ist einzigartig, und zudem eine, von der viele andere Länder nur träumen können.
 
@@ -39,6 +39,4 @@ Außerdem können Sie uns über Academia.edu kontaktieren, um uns auf IhreLitera
 \* Maciej Jochymczyk, _Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727–1758)_ (Lublin: Wydawnictwo Polihymnia, 2014); Giovanni Tribuzio, "Catalogo della produzione musicale di Giuseppe Corsi", in: _"E nostra guida sia la stravaganza". Giuseppe Corsi da Celano musicista del Seicento: Atti della Giornata di Studio. Celano Auditorium "Enrico Fermi", 7 dicembre 2013_ (Bari: Florestano edizioni, 2014).
 
 
-Abbildung: Länder mit Quellenim[RISM-Onlinekatalog](https://opac.rism.info/){:target="_blank"}.
-
-
+Abbildung: Länder mit Quellen im [RISM-Onlinekatalog](https://opac.rism.info/){:target="_blank"}.

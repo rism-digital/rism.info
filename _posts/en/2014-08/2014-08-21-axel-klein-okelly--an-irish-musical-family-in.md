@@ -11,9 +11,9 @@ email: ''
 author: ''
 ---
 
-A new book has been published by Axel Klein, who was our Ireland consultant when RISM presented[An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"} in March 2014.
+A new book has been published by Axel Klein, who was our Ireland consultant when RISM presented [An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"} in March 2014.
 
-[O'Kelly - An Irish Musical Family in Nineteenth-Century France Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
+[O'Kelly - An Irish Musical Family in Nineteenth-Century France. Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
 
 As Klein writes:
 
@@ -24,3 +24,6 @@ Of note to our RISM colleagues is Appendix 2, the O'Kelly Catalogue of Works (OK
 Below is Joseph O'Kelly's _Rêves du Soir!_ (OKC 117), performed by Phillip Sear.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/u5mkmW2rBPE" frameborder="0" allowfullscreen></iframe>
+&nbsp;  
+&nbsp;  
+&nbsp;

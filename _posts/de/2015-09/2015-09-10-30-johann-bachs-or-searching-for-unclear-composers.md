@@ -8,7 +8,7 @@ category: rism_online_catalog
 image: "/images/news-old-website/csm_Johann_Bach_e908765f80.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/johann-bach-or-searching-for-unclear-composers.html
 email: alexander.marxen@rism.info
-author: ''
+author: 'Alexander Marxen'
 ---
 
 Im März hatten wir Ihnen an dieser Stelle die Möglichkeit vorgestellt, Nachweise als [Links zum RISM Online-Katalog](/new_at_rism/2015/03/26/how-can-you-link-to-rism-searches.html){:target="_blank"} einzubinden. In den meisten Fällen funktioniert dies auch problemlos, Sie können sogar Pseudonyme oder andere Namensformen verwenden, sofern diese als Variante bei RISM eingetragen ist (hier: [Melante](https://opac.rism.info/metaopac/search?View=rism&author=Melante){:target="_blank"} für Georg Philipp Telemann).

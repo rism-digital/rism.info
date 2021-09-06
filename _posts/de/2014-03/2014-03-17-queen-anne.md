@@ -21,7 +21,7 @@ Wie bei jedem Monarchen, war es nicht ungewöhnlich, der Königin Musik zu widme
 
 - Geburtstags-Ode von [William Croft](http://opac.rism.info/search?documentid=806041284){:target="_blank"}, Georg Friedrich Händel (A/I: [H 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"} and [HH 1516](https://opac.rism.info/search?id=00000990025758){:target="_blank"}) und Thomas Tudway (A/I: [T 1339](https://opac.rism.info/search?id=00000992002579){:target="_blank"})
 
--[](http://opac.rism.info/search?documentid=800238115){:target="_blank"}[ein Lied](http://opac.rism.info/search?documentid=800238115){:target="_blank"} von Henry Purcell zur Hochzeitsfeier mit Prinz George 1683
+- [ein Lied](http://opac.rism.info/search?documentid=800238115){:target="_blank"} von Henry Purcell zur Hochzeitsfeier mit Prinz George 1683
 
 - Musik von John Lenton für den [Neujahrstag 1699](http://opac.rism.info/search?documentid=806252477){:target="_blank"}
 

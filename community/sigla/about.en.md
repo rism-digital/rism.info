@@ -15,7 +15,7 @@ A siglum consists of uppercase letters, which designate the country and city, an
 For example:\
 F-Pn = **F**rance, **P**aris, Bibliothèque **n**ationale de France, Département de la Musique.
 
-In the case of private collections, the entire last name of the owner is added to the city code:
+In the case of private collections, the entire last name of the owner is added to the city code:  
 I-PEbattisti = **I**taly, **Pe**rugia, Biblioteca privata Renzo **Battisti**.
 
 The library sigla are administered in a database maintained by the RISM Editorial Center in Frankfurt am Main. Each year, the RISM office receives a couple hundred inquiries on average for institutions that do not yet have a siglum. In such cases, RISM consults with the national group in question and assigns a new siglum.

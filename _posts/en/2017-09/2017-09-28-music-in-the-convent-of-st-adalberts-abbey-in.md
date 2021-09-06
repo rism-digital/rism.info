@@ -18,7 +18,7 @@ _Marcin Konik (RISM Poland) has completed a project that investigated the music 
 
 Over the centuries, the rich musical culture of the convent at the Benedictine Monastery in Staniątki took a variety of forms. The foundation of musical life was always the sung Officium. As one of the nuns wrote:
 
-“We have proven that in a Benedictine convent the maintenance of a choir, which implied the solemn singing of the breviary was the first duty of the convent. In compliance with the celebrations of the church year and in accordance with the content arrangement of the Benedictine breviary used by the nuns of Staniątki, all feasts of the Holy Virgin Mary are at times celebrated very solemnly .”
+“We have proven that in a Benedictine convent the maintenance of a choir, which implied the solemn singing of the breviary was the first duty of the convent. In compliance with the celebrations of the church year and in accordance with the content arrangement of the Benedictine breviary used by the nuns of Staniątki, all feasts of the Holy Virgin Mary are at times celebrated very solemnly.”
 
 The main aim of the article is to show different examples of how musical life of the abbey looked like during the centuries.
 
@@ -26,4 +26,4 @@ What remains an extremely interesting issue is the matter of the possible engage
 
 The article was written as part of a research project funded by Narodowe Centrum Nauki (National Science Centre Poland), grant no. 2011/03/D/HS2/01824.
 
-_Image_ : The Benedictine Monastery in Staniątki by Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
+_Image_: The Benedictine Monastery in Staniątki by Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}

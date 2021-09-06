@@ -38,4 +38,4 @@ Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:targ
 
 
 ## More information
-Each contributor receives their own Muscat login, which is tied to the institution(s) that they will edit. Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat. Contact [Rodoflo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
+Each contributor receives their own Muscat login, which is tied to the institution(s) that they will edit. Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat. Contact [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
