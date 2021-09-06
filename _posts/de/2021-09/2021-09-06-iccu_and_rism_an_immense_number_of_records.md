@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICCU and RISM: eine immense Datenmenge"
+title: "ICCU und RISM: eine immense Datenmenge"
 date: 2021-09-06
 lang: de
 post: true
