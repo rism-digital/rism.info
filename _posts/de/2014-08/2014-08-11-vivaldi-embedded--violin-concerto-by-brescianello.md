@@ -11,7 +11,7 @@ email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
 
-_Der folgende Beitrag ist von_ _Karl Wilhelm Geck und zuerst auf dem [SLUBlog](http://blog.slub-dresden.de/beitrag/2014/08/05/vivaldi-embedded-violinkonzert-von-brescianello-entpuppt-sich-als-pasticcio/){:target="_blank"} erschienen. Wir präsentieren ihn hier mit freundlicher Genehmigung der SLUB Dresden._
+_Der folgende Beitrag ist von Karl Wilhelm Geck und zuerst auf dem [SLUBlog](http://blog.slub-dresden.de/beitrag/2014/08/05/vivaldi-embedded-violinkonzert-von-brescianello-entpuppt-sich-als-pasticcio/){:target="_blank"} erschienen. Wir präsentieren ihn hier mit freundlicher Genehmigung der SLUB Dresden._
 
 Wieder einmal erweist sich der digitale [Schranck No: II](https://hofmusik.slub-dresden.de/themen/schrank-zwei/){:target="_blank"} mit dem barocken Instrumentalrepertoire der Dresdner Hofkapelle als Reservoir für musikalische Entdeckungen. Einen faszinierenden Fund hat gerade Michael Talbot gemacht, britischer Doyen der Vivaldi-Forschung, Nutzer unserer Bibliothek seit 1967 und kürzlich sogar Interviewpartner im [Geschäftsbericht 2013](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-145734){:target="_blank"} der SLUB (S. 18). Wir danken Professor Talbot sehr für die freundliche Erlaubnis, seine Entdeckung bekanntzugeben.
 
@@ -25,12 +25,12 @@ Talbot ist es nun gelungen, den divergenten Satz in Mus.2364-O-7 zu identifizier
 In der nächsten Ausgabe der ["Studi vivaldiani"](http://slubdd.de/katalog?TN_libero_mab213681701), des Jahrbuchs des Istituto Italiano Antonio Vivaldi in Venedig, wird Michael Talbot persönlich und detaillierter über seine Entdeckung berichten. Hier sei abschließend hervorgehoben, wie leicht ihm dieser Fund gefallen ist. Auf der Suche nach Konkordanzen im Œuvre Vivaldis schrieb Talbot mit Hilfe der virtuellen Klaviatur des [RISM-Onlinekatalogs](http://opac.rism.info/) die Anfangstöne des "Il Carbonelli"-Adagios in die erweiterte Suchmaske des auch von der SLUB (Bibliothekssigel D-Dl) "gefütterten" weltweiten Musikhandschriftennachweises:
 
 
-![Vivaldi_incipit_in_RISM_catalog](http://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2C.png.png)
+![Vivaldi_incipit_in_RISM_catalog](https://blog.slub-dresden.de/fileadmin/_processed_/1/c/csm_rism2C_f2f226702d.png)
 
 
 Zu Talbots Überraschung umfasste das Rechercheergebnis nicht nur die beiden "Il Carbonelli"-Manuskripte der SLUB, sondern auch die Brescianello-Handschrift Mus.2364-O-7. Der abweichende Mittelsatz war damit schlagartig identifiziert.
 
-![Vivaldi_search_results](http://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2B_01.png.png)
+![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2B_01.png.png)
 
 
 Der Fund zeigt zwingend, was für ein mächtiges Suchinstrument der RISM-Onlinekatalog ist, dessen Incipitrecherche sogar transponierte Themen mühelos aufzuspüren vermag.
