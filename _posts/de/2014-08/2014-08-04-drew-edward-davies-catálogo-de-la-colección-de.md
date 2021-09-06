@@ -13,7 +13,7 @@ author: ''
 
 Ein neuer thematischer Katalog ist von Drew Edward Davies ([Northwestern University](http://www.music.northwestern.edu/faculty/profiles/drew-edward-davies.html){:target="_blank"}) herausgegeben worden, der zum ersten Mal den vollständigen musikalischen Bestand von Mexikos Durango Kathedrale (MEX-Dc) dokumentiert:
 
-Drew Edward Davies. _Catálogo de la Colección de música del Archivo Histórico de la Arquidiócesis de Durango_(Mexico City: [Instituto de Investigaciones Estéticas - Universidad Nacional Autónoma de México, Apoyo al Desarrollo de Archivos y Bibliotecas de México](http://www.adabi.org.mx/content/Notas.jsfx?id=2311){:target="_blank"}, 2013), ISBN 978-607-02-4521-3
+Drew Edward Davies. _Catálogo de la Colección de música del Archivo Histórico de la Arquidiócesis de Durango_ (Mexico City: [Instituto de Investigaciones Estéticas - Universidad Nacional Autónoma de México, Apoyo al Desarrollo de Archivos y Bibliotecas de México](http://www.adabi.org.mx/content/Notas.jsfx?id=2311){:target="_blank"}, 2013), ISBN 978-607-02-4521-3
 
 In einem Vorwort auf Spanisch beschreibt Davies die Sammlung und erklärt die Kriterien für die Dokumentation. Eine Bibliographie von Primär- und Sekundärquellen schließt sich an. Die Einträge umfassen den Namen des Komponisten mit Lebensdaten, Titel, Gattung, Jahr, Foliierung, Besetzung, Signatur, Werkverzeichnisnummer, Musik- und Textincipits und Bemerkungen. Insgesamt sind 945 Einheiten dokumentiert, einschließlich Manuskripte, Notendrucke und sonstiger Artikel. Der Katalog ist nach Dokumententyp und Komponist angelegt. Es gibt auch einen Signaturen- und Gattungsindex sowie ein Inventar von zwei bisher unbekannten Antiphonaren, die an der Galería Episcopal de la Catedral de Durango ausgefunden wurden.
 
