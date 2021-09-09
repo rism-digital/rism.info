@@ -17,9 +17,9 @@ We would like to call your attention to a small exhibition that is part of this 
 
 **As the hart panteth after the water brooks – Music in Grimma around 1700**
 
-**Location** : [Kreismuseum Grimma](http://www.museum-grimma.de/index.php/geschichte.html){:target="_blank"}
-**Dates** : 19–28 May 2017
-**Opening hours** : Tuesday–Friday and Sunday 10:00–17:00
+**Location**: [Kreismuseum Grimma](http://www.museum-grimma.de/index.php/geschichte.html){:target="_blank"}  
+**Dates**: 19–28 May 2017  
+**Opening hours**: Tuesday–Friday and Sunday 10:00–17:00
 
 The focus of the exhibition is on manuscripts and imprints from the music library of the Fürsten- und Landesschule Grimma, which bear witness to the lively culture of church music as practiced in Central Germany during the seventeenth and eighteenth centuries.
 
