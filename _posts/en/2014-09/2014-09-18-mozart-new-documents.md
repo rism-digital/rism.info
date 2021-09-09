@@ -7,7 +7,7 @@ post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Mozart_New_Documents_0900ead507.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/mozart-new-documents.html
-email: dexedge@gmail.com
+email: ''
 author: ''
 ---
 
@@ -20,8 +20,8 @@ Over 30 documents are now available, and we expect to add a further 60 over the 
 The site is a work in progress, and we welcome corrections and notifications of further material.
 
 URLs:
-[http://sites.google.com/site/mozartdocuments](http://sites.google.com/site/mozartdocuments)
-[http://dx.doi.org/10.7302/Z20P0WXJ](http://dx.doi.org/10.7302/Z20P0WXJ)
+[http://sites.google.com/site/mozartdocuments](http://sites.google.com/site/mozartdocuments)  
+[http://dx.doi.org/10.7302/Z20P0WXJ](http://dx.doi.org/10.7302/Z20P0WXJ)  
 [Dexter Edge](mailto:dexedge@gmail.com) and [David Black](mailto:davidblack@post.harvard.edu)
 
-Image: [Report on the premiere of](https://sites.google.com/site/mozartdocuments/documents/1786-05-03){:target="_blank"}_[Le nozze di Figaro](https://sites.google.com/site/mozartdocuments/documents/1786-05-03){:target="_blank"}, Münchner Staats=gelehrte und vermischte Nachrichten aus Journalen, Zeitungen, und Correspondenzen_ (= _Münchner_ Zeitung_)_, no. 73, Tuesday, 9 May 1786
+Image: [Report on the premiere of _Le nozze di Figaro_](https://sites.google.com/site/mozartdocuments/documents/1786-05-03){:blank}, _Münchner Staats=gelehrte und vermischte Nachrichten aus Journalen, Zeitungen, und Correspondenzen (= Münchner Zeitung)_, no. 73, Tuesday, 9 May 1786
