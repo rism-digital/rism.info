@@ -11,11 +11,10 @@ email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---
 
-_Der folgende Beitrag ist von Nina Eichholz und ist auf dem _[_SLUBlog_](https://blog.slub-dresden.de/beitrag/2014/08/19/auf-den-spuren-der-hofmusik-in-dresden/){:target="_blank"}_ erschienen. Wir präsentieren ihn hier mit freundlicher Genehmigung der SLUB Dresden._
+_Der folgende Beitrag ist von Nina Eichholz und ist auf dem [SLUBlog](https://blog.slub-dresden.de/beitrag/2014/08/19/auf-den-spuren-der-hofmusik-in-dresden/){:target="_blank"}_ erschienen. Wir präsentieren ihn hier mit freundlicher Genehmigung der SLUB Dresden._
 
 
 Finanziert von der Deutschen Forschungsgemeinschaft, ist vor einem Jahr das zweite Projekt der SLUB zur Erschließung ihrer kostbaren Notenbestände aus der Zeit der sächsisch-polnischen Union (1697 bis 1763) angelaufen. Das Projekt widmet sich dem Grundstock der Königlichen Privat-Musikaliensammlung und den Notenbeständen der katholischen Hofkirche. Damit setzt es die Arbeit des Vorgängerprojekts „Schrank no: II“ fort, das sich auf die Instrumentalmusik dieser Epoche konzentrierte. Die Zeit der sächsisch-polnischen Union, auch „Augusteisches Zeitalter“ genannt, gilt als der glanzvollste Abschnitt der Dresdner Musikhistorie. Die neue Hofmusik-[Webseite](http://hofmusik.slub-dresden.de/en/), die auch über das Projekt "Dresdner Opernarchiv digital"informiert, ist ab sofort online.
-
 
 **Das Projekt**
 
@@ -23,7 +22,7 @@ Der besondere Wert der aus der Zeit der sächsisch-polnischen Union überliefert
 
 ![](http://blog.slub-dresden.de/uploads/RTEmagicC_Pensa_a_serbarmi_o_cara __Arie_des_Ezio__ I __3__ aus_Hasses_Ezio __UA_Neapel_1730__ Datum_des_Ms._um_1755___Ms._2477-F-7.jpg.jpg)
 
-Musikwissenschaftler sichten die überlieferten gut 1.500 Manuskripte, darunter zahlreiche Autographe, und beschreiben diese ausführlich mit Hilfe der Spezialsoftware „Kallisto“. So dokumentiert das Projekt musikalische Inhalte, Angaben zur Besetzung sowie quellenkundliche Kriterien, wie z.B. die Entstehungszeit der Manuskripte, die beteiligten Schreiber und die Überlieferungsform der Quellen in Partitur oder als Stimmenmaterial. Die Quellenbeschreibungen werden in die internationale Datenbank „[RISM online](https://opac.rism.info/){:target="_blank"}“ eingespeist, die[Musikhandschriften](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/){:target="_blank"}aus über 900 Bibliotheken und Archiven weltweit verzeichnet und frei zugänglich im Internet recherchierbar macht.
+Musikwissenschaftler sichten die überlieferten gut 1.500 Manuskripte, darunter zahlreiche Autographe, und beschreiben diese ausführlich mit Hilfe der Spezialsoftware „Kallisto“. So dokumentiert das Projekt musikalische Inhalte, Angaben zur Besetzung sowie quellenkundliche Kriterien, wie z.B. die Entstehungszeit der Manuskripte, die beteiligten Schreiber und die Überlieferungsform der Quellen in Partitur oder als Stimmenmaterial. Die Quellenbeschreibungen werden in die internationale Datenbank „[RISM online](https://opac.rism.info/){:target="_blank"}“ eingespeist, die [Musikhandschriften](http://www.slub-dresden.de/sammlungen/musik/musikhandschriften-und-alte-drucke/){:target="_blank"} aus über 900 Bibliotheken und Archiven weltweit verzeichnet und frei zugänglich im Internet recherchierbar macht.
 
 ![Giove in Argo](http://blog.slub-dresden.de/fileadmin/groups/slubsite/Blog/Giove_in_Argo_Lotti_01.jpg)
 
