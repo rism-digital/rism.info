@@ -16,84 +16,56 @@ The incipit search is one of the most popular features of the RISM online catalo
 But just how does the incipit search work? In this post I'll show you what the RISM online catalog offers and then – for the adventurous among us – point to an experimental incipit search run from Utrecht University.
 
 
-# The Incipit Search in the Online Catalog
+## The Incipit Search in the Online Catalog
 
 The online catalog offers two different ways of searching for music incipits — both starting with the [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en):
 
 **1.Search by note names**
 
-1. In the **Advanced search** , select the field **Music incipit** or**Music incipit (with transposition)**.
+1. In the **Advanced search**, select the field **Music incipit** or **Music incipit (with transposition)**.
 ![Incipit search in online catalog](/resources-old-website/news/incipit_search_field_993_184.jpg)
 
-2. Enter either upper or lower case letters. For the English note name **B** , either **B** or the German **H** may be used.
+2. Enter either upper or lower case letters. For the English note name **B**, either **B** or the German **H** may be used.
 
-3. Omit accidentals, sharps, flats,andnatural signs becausethey are ignored in this field. For example, for the note **F-sharp** , enter an **F**.
+3. Omit accidentals, sharps, flats,andnatural signs becausethey are ignored in this field. For example, for the note **F-sharp**, enter an **F**.
 
-4. Selecting the option**Music incipit (with transposition)**will also include incipits that have been transposed from the initial search inquiry.
+4. Selecting the option **Music incipit (with transposition)** will also include incipits that have been transposed from the initial search inquiry.
 
 **2. Search using the on-screen pianokeyboard**
 
 Underneath the search boxes is a virtual piano keyboard. This can also be used to input music incipits.
 ![Incipit search with keyboard](/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
 
--
+- The piano keyboard enablesa chromatic search and takes into account exact half steps.
 
-The piano keyboard enablesa chromatic search and takes into account exact half steps.
+- All enharmonic tones are also searched: the black key for the note **F-sharp** also searches for the note **G-flat** - even when **xF** appears in the search field.
 
--
+- Here it is also possible to search for incipits using the original notes or you canselect the transposition option.
 
-All enharmonic tones are also searched: the black key for the note **F-sharp** also searches for the note **G-flat** - even when **xF** appears in the search field.
-
--
-
-Here it is also possible to search for incipits using the original notes or you canselect the transposition option.
-
--
-
-You can combine this field with other fields, such as composer or title.
+- You can combine this field with other fields, such as composer or title.
 
 
 More incipit search tips:
 
--
+- Rhythm, intervals, and octaves are ignored
 
-Rhythm, intervals, and octaves are ignored
+- The search is truncated right, meaning that music incipits are retrieved that are longer than the search string.
 
--
+- Grace notes and ornaments are searched if you enter them and ignored if you do not.
 
-The search is truncated right, meaning that music incipits are retrieved that are longer than the search string.
+- Start with a longer incipit and delete notes until you get results of a reasonable size.
 
--
+- To increase your chances of a match, search using **Music incipit (with transposition)**
 
-Grace notes and ornaments are searched if you enter them and ignored if you do not.
+- Combine the incipit search with other fields and make use of the search filters
 
--
+- You can use upper case or lower case letters
 
-Start with a longer incipit and delete notes until you get results of a reasonable size.
+- You may enter either an H or a B
 
--
+- Tied notes do not have to be entered twice
 
-To increase your chances of a match, search using**Music incipit (with transposition)**
-
--
-
-Combine the incipit search with other fields and make use of the search filters
-
--
-
-You can use upper case or lower case letters
-
--
-
-You may enter either an H or a B
-
--
-
-Tied notes do not have to be entered twice
-
--
-
-To search for enharmonic notes or accidentals, use the keyboard
+- To search for enharmonic notes or accidentals, use the keyboard
 
 
 **And remember:**
@@ -103,9 +75,8 @@ Not every source described in the RISM catalog includes a music incipit. Sometim
 
 This information can also be found on the [catalog's help page](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"}, and videos are available on [RISM's YouTube channel](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UyPv80Ls3Tg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# An Experimental Incipit Search
+## An Experimental Incipit Search
 
 If you are a more adventurous incipit searcher, you might want to try out the [Incipit Search run out of Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.
 

@@ -13,7 +13,7 @@ author: ''
 
 Dr. [Maciej Jochymczyk](http://jagiellonian.academia.edu/MaciejJochymczyk){:target="_blank"}, instructor at the Musicology Institute of Jagiellonian University (Kraków, Poland), has recently published his second book about composer Amandus Ivanschiz (1727-1758), which follows [_Muzyka religijna u progu klasycyzmu. Amandus Ivanschiz OSPPE (1727-1758)_](http://www.polihymnia.pl/polihymniaS/sklep/index.php?products=product&prod_id=711){:target="_blank"} (Lublin: Wydawnictwo Polihymnia, 2014).
 
-**Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
+**_Amandus Ivanschiz: His Life and Music. With a Thematic Catalog of Works_ (Kraków: [Musica Iagellonica](http://mi.pl/pl/p/Maciej-Jochymczyk-Amandus-Ivanschiz.-His-Life-and-Music.-With-a-Thematic-Catalog-of-Works/394){:target="_blank"}, 2016)**
 
 This book will certainly attract widespread attention, particularly because there has been little published research about Ivanschiz to date. The book is in two parts and begins with new information about the composer's life and works, drawing from a broad body of sources. The second part is a comprehensive thematic catalog of works, which includes Ivanschiz's sacred music and instrumental works.
 

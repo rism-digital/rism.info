@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-## A unique collection of music manuscripts in the Gottfried Wilhelm Leibniz Bibliothek ([Niedersächsische Landesbibliothek](http://www.nlb-hannover.de/){:target="_blank"}), Hanover
+**A unique collection of music manuscripts in the Gottfried Wilhelm Leibniz Bibliothek ([Niedersächsische Landesbibliothek](http://www.nlb-hannover.de/){:target="_blank"}), Hanover**
 
 
 The well over 1,000 handwritten scores of the first and last Royal Hanover Army Music Director Johann Viktor Gerold (1808-1876) form one of the most extensive collections of nineteenth-century military music. In a circuitous fashion the manuscripts, all in Gerold's hand, went from the estate of the last king of the Kingdom of Hanover, George V, and in 1979 ended up in the Niedersächsische Landesbibliothek (State Library of Lower Saxony) in Hanover, today the Gottfried Wilhelm Leibniz Bibliothek (D-HVl). All works were cataloged for RISM and have recently been published in the [RISM online catalog](https://opac.rism.info/){:target="_blank"}.

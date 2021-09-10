@@ -31,12 +31,12 @@ I would like to especially thank Dr. Helmut Lauterwasser, who cataloged the manu
 
 _Dieter Kirsch_
 
-Any questions concerning the cataloging of the Braunschweig holdings by RISM should be directed to Dr. Helmut Lauterwasser, Munich office of RISM Germany:
-E-mail: Helmut.Lauterwasser[at]bsb-muenchen.de
-Telephone: +49 (0) 89 28638-2884.
+Any questions concerning the cataloging of the Braunschweig holdings by RISM should be directed to Dr. Helmut Lauterwasser, Munich office of RISM Germany:  
+E-mail: Helmut.Lauterwasser[at]bsb-muenchen.de  
+Telephone: +49 (0) 89 28638-2884
 
-Other questions concerning the manuscript (access, ordering reproductions, etc.) should be directed to the Stadtbibliothek Braunschweig:
-E-mail: : stadtbibliothek[at]braunschweig.de
+Other questions concerning the manuscript (access, ordering reproductions, etc.) should be directed to the Stadtbibliothek Braunschweig:  
+E-mail: : stadtbibliothek[at]braunschweig.de  
 Telephone: +49 (0) 531 470-6835.
 
 Image of C 39 2° courtesy of the Stadtbibliothek Braunschweig, published with kind permission.
