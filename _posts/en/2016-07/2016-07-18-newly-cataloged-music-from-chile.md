@@ -13,39 +13,20 @@ author: ''
 
 A new article in the current issue of _[Fontes Artis Musicae](https://muse.jhu.edu/journal/688){:target="_blank"}_ calls attention to recently cataloged music collections in Chile:
 
-**Laura Fahrenkrog and Fernanda Vera, "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63, no. 2 (April-June 2016): 100-119.**RISM short title: FahrenkrogS 2016_
+**Laura Fahrenkrog and Fernanda Vera, "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." [_Fontes Artis Musicae_](http://www.iaml.info/fontes-artis-musicae){:target="_blank"} 63, no. 2 (April-June 2016): 100-119. RISM short title: FahrenkrogS 2016**
 
 Fahrenkrog and Vera describe projects that recently organized and cataloged music collections in the following institutions:
 
--
-
-Seminario Pontificio Mayor de los Ángeles Custodios of Santiago (RCH-Sspm)
-
--
-
+- Seminario Pontificio Mayor de los Ángeles Custodios of Santiago (RCH-Sspm)  
 Sacred music, secular music, books (music theory, instrument methods, textbooks)
 
-
--
-
-Biblioteca Patrimonial de la Recoleta Dominica of Santiago (RCH-Sbprd)
-
--
-
+- Biblioteca Patrimonial de la Recoleta Dominica of Santiago (RCH-Sbprd)  
 454 pieces, sacred and secular works. [Catalog available as a PDF](http://www.museodominico.cl/620/articles-9841_archivo_01.pdf){:target="_blank"}. _RISM short title: RondónR 2013._
 
-
--
-
-Archivo Central Andrés Bello of the Universidad de Chile (RCH-Sab)
-
--
-
-Sheet music: salon music, formed from private collections. Music mostly by Chileans or other people who lived in Chile, first half of the nineteenth century to the first half of the twentieth century.
-[Database available online](http://archivobello.uchile.cl/partituras/){:target="_blank"}
-
+- Archivo Central Andrés Bello of the Universidad de Chile (RCH-Sab)  
+Sheet music: salon music, formed from private collections. Music mostly by Chileans or other people who lived in Chile, first half of the nineteenth century to the first half of the twentieth century.  
+[Database available online](http://archivobello.uchile.cl/partituras/){:target="_blank"}  
 [Catalog available as PDF](http://archivobello.uchile.cl/partituras/pdf/partituras.pdf){:target="_blank"} _Short title: VeraB 2012_
-
 
 The music was cataloged according to RISM guidelines. RISM is working with Fahrenkrog and Vera to see if we can import their data into the RISM online catalog.
 

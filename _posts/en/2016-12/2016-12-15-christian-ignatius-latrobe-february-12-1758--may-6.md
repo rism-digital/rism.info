@@ -19,8 +19,8 @@ Latrobe was not only a capable administrator, he was also an accomplished musici
 
 The [211 entries in the RISM online catalog](https://opac.rism.info/search?View=rism&author=100611354){:target="_blank"} give a good overview of Latrobe's compositional output. Most of the manuscripts are housed at the Moravian Church's Unity Archives in Herrnhut (D-HER). Of the 22 music prints in RISM, 11 were self-published.
 
-![Music by Latrobe](/resources-old-website/news/Latrobe_Christian_Ignatius-1.JPG)
-_Selection of Sacred Music_[RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
+![Music by Latrobe](/resources-old-website/news/Latrobe_Christian_Ignatius-1.JPG)  
+_Selection of Sacred Music_ [RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
 
 This video is about Latrobe's missionary trip to South Africa and is complete with illustrations from his account of the journey:
 
