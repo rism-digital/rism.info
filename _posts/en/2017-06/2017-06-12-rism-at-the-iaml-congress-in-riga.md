@@ -7,7 +7,7 @@ post: true
 category: events
 image: "/images/news-old-website/csm_riga_IAML_2017_76157193c2.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/rism-at-the-iaml-congress-in-riga.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -17,38 +17,24 @@ As usual, RISM is sponsoring a number of sessions. Abstracts are available on th
 
 Tuesday, June 20
 
--
-
-14.00-15.30, Muscat Workshop (open). Klaus Keil and Jennifer Ward will give an introduction to [Muscat](/community/muscat.html), RISM’s specially developed programme for documenting musical sources.
+- 14.00-15.30, Muscat Workshop (open). Klaus Keil and Jennifer Ward will give an introduction to [Muscat](/community/muscat.html), RISM’s specially developed programme for documenting musical sources.
 Space is limited. Please register by sending an e-mail to [contact@rism.info](mailto:contact@rism.info)
 
 Thursday, June 22
 
--
+- 9.00-10.30, RISM Open Session
 
-9.00-10.30, RISM Open Session
-
--
-
-Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
+- Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)  
 RISM news and information
 
--
-
-Agnieszka Drożdżewska (University of Wrocław, Poland)
+- Agnieszka Drożdżewska (University of Wrocław, Poland)  
 Rediscovering monastic, court and church music from 18th and 19th century Silesia. Remarks about collections from Nysa, Oleśnica, Wrocław and Opole
 
--
-
-Tzu-Chia Tseng (Digital Archive Center for Music, National Taiwan Normal University, Taipei) and Bin Han (Shanghai Conservatory of Music, Shanghai)
+- Tzu-Chia Tseng (Digital Archive Center for Music, National Taiwan Normal University, Taipei) and Bin Han (Shanghai Conservatory of Music, Shanghai)  
 The challenges to construct Chinese music literature: starting from the Working Group of the RISM-Chinese language region
 
--
-
-11.00-12.30, Advisory Council (open to all national working group representatives)
+- 11.00-12.30, Advisory Council (open to all national working group representatives)  
 Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
--
-
-14.00-15.30, Commission Mixte (closed)
+- 14.00-15.30, Commission Mixte (closed)  
 Chair: John Roberts (Member of the RISM board)

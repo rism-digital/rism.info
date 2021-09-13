@@ -23,4 +23,6 @@ As far as the scholarly literature is concerned: Volume 39 of the series _Denkm√
 
 Treat yourself to the Cello Concerto in G minor by Mathias Georg Monn in this recording with Jacqueline du Pr√©:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgNLJm-rwss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+&nbsp;
+&nbsp;

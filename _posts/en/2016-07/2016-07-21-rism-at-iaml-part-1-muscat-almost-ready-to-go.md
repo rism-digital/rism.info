@@ -21,65 +21,37 @@ Work has progressed to the point where we are hoping to release the program this
 
 **Muscat offers many advantages** :
 
--
+- Muscat is browser based and platform independent. It can be used on any computer – PC or Mac; laptop, desktop, or tablet device – with an internet connection.
 
-Muscat is browser based and platform independent. It can be used on any computer – PC or Mac; laptop, desktop, or tablet device – with an internet connection.
+- Muscat is an open source program and will be freely available for anyone to develop for other projects.
 
--
+- The data are structured using MARC21. Exchanging data with libraries and other projects will be easier.
 
-Muscat is an open source program and will be freely available for anyone to develop for other projects.
+- Current Kallisto users will be happy to hear that records are displayed in their entirety and the music incipit is no longer separate.
 
--
+- It is easy to create versions of Muscat in different languages. Muscat will initially be available in English, French, German, and Italian. Other translations are welcome; please let us know if you can help.
 
-The data are structured using MARC21. Exchanging data with libraries and other projects will be easier.
-
--
-
-Current Kallisto users will be happy to hear that records are displayed in their entirety and the music incipit is no longer separate.
-
--
-
-It is easy to create versions of Muscat in different languages. Muscat will initially be available in English, French, German, and Italian. Other translations are welcome; please let us know if you can help.
-
--
-
-Earlier versions of Muscat were used by [RISM UK](http://www.rism.org.uk/){:target="_blank"} and RISM Switzerland and the newest version is already being used in Switzerland. The program has thus proven to be fully functional and major programming issues should not come up.
+- Earlier versions of Muscat were used by [RISM UK](http://www.rism.org.uk/){:target="_blank"} and RISM Switzerland and the newest version is already being used in Switzerland. The program has thus proven to be fully functional and major programming issues should not come up.
 
 **Current state of Muscat:**
 
--
+- All Kallisto functions have been integrated into Muscat, including displaying the incipit in the input phase, the link to authority files (personal names, institutions, secondary literature), and access to cataloging guidelines.
 
-All Kallisto functions have been integrated into Muscat, including displaying the incipit in the input phase, the link to authority files (personal names, institutions, secondary literature), and access to cataloging guidelines.
+- The guidelines are currently being revised and integrated into Muscat.
 
--
-
-The guidelines are currently being revised and integrated into Muscat.
-
--
-
-A beta version is currently available for testing by current RISM contributors.
+- A beta version is currently available for testing by current RISM contributors.
 
 
 **Timeline** :
 
--
+- The test phase will go until September 5, 2016. The Central Office has already sent all Kallisto users login information to the test version of Muscat.
 
-The test phase will go until September 5, 2016. The Central Office has already sent all Kallisto users login information to the test version of Muscat.
+- Workshops in Frankfurt as well as online guidance via detailed instructions, tutorials, and videos will be offered.
 
--
+- The switch to Muscat will take place at the beginning of November.
 
-Workshops in Frankfurt as well as online guidance via detailed instructions, tutorials, and videos will be offered.
+- **Please note: Due to technical reasons, a concrete date will be set when Kallisto users will stop using Kallisto and on the next day they will use Muscat. On and after the day of the switchover, it will not be possible to continue work on Kallisto.**
 
--
-
-The switch to Muscat will take place at the beginning of November.
-
--
-
-**Please note: Due to technical reasons, a concrete date will be set when Kallisto users will stop using Kallisto and on the next day they will use Muscat. On and after the day of the switchover, it will not be possible to continue work on Kallisto.**
-
--
-
-After Muscat is released, we will be happy to grant access to anyone new who wants to start contributing to RISM.
+- After Muscat is released, we will be happy to grant access to anyone new who wants to start contributing to RISM.
 
 Feedback at the IAML congress was very positive and we are looking forward to the Muscat release.
