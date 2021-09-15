@@ -17,8 +17,8 @@ Hingewiesen sei auf eine kleine Sonderausstellung im Rahmen der diesjährigen [T
 
 **„Wie der Hirsch schreyet nach frischem Wasser“ – Grimmaer Musik(leben) um 1700**
 
-[Kreismuseum Grimma](http://www.museum-grimma.de/index.php/geschichte.html){:target="_blank"}
-**Ausstellungszeitraum** : 19. bis 28. Mai 2017
+[Kreismuseum Grimma](http://www.museum-grimma.de/index.php/geschichte.html){:target="_blank"}\
+**Ausstellungszeitraum** : 19. bis 28. Mai 2017\
 **Öffnungszeiten** : Dienstag–Freitag und Sonntag 10:00–17:00 Uhr
 
 Der Schwerpunkt der Ausstellung liegt auf den Handschriften und Drucken aus der Musikbibliothek der Fürsten- und Landesschule Grimma, die Zeugnisse einer lebendigen und hochstehenden Kirchenmusikpflege Mitteldeutschlands im 17. und 18. Jahrhundert sind.
