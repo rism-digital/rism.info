@@ -14,15 +14,15 @@ Im Folgenden informieren wir Sie darüber welche Daten wir zu welchen Zwecken er
 
 Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist die
 
-RISM Zentralredaktion 
-vertreten durch den Leiter Dr. Balázs Mikusi
-Johann Wolfgang Goethe-Universität 
-Campus Bockenheim 
-Senckenberganlage 31-33 
-D-60325 Frankfurt am Main
+RISM Zentralredaktion\ 
+vertreten durch den Leiter Dr. Balázs Mikusi\
+Johann Wolfgang Goethe-Universität\
+Campus Bockenheim\
+Senckenberganlage 31-33\ 
+D-60325 Frankfurt am Main\
 Deutschland
 
-Tel: +49-69-706231
+Tel: +49-69-706231\
 Fax: +49-69-706026
 
 [https://rism.info/de/editorial-center.html](/editorial-center.html)
