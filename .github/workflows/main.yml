@@ -47,9 +47,9 @@ jobs:
       - run: |
           npm install lunr@2.3.9
           npm install lunr-languages
-          node _site/assets/js/build_index.js < _site/pages.json > index.json
+          #node _site/assets/js/build_index.js < _site/pages.json > index.json
           # looks like lemonarc/jekyll-action@1.0.0 runs as root...
-          sudo mv index.json ./_site/
+          #sudo mv index.json ./_site/
 
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
