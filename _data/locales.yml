@@ -33,3 +33,22 @@
     en: "Older in this category"
     de: "Ältere in dieser Kategorie"
     fr: "Précédent dans cette catégorie"
+
+- id: search-title
+  name:
+    en: "Website search"
+    de: "Website Suche"
+    fr: "Recherche sur le site"
+    it: "Ricerca sul sito web"
+- id: search-criteria
+  name:
+    en: "Criteria"
+    de: "Kriterien"
+    fr: "Critères"
+    it: "Criteri"
+- id: search-lang-any
+  name:
+    en: "Any"
+    de: "All"
+    fr: "Tous"
+    it: "Qualsiasi"
