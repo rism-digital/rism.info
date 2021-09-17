@@ -3,36 +3,43 @@
     en: "All the news"
     de: "Alle Nachrichten"
     fr: "Toutes les actualités"
+    it: "All the news"
 - id: latest
   name:
     en: "News"
     de: "Aktuelles"
     fr: "Actualité"
+    it: "News"
 - id: more
   name:
     en: "continue ..."
     de: "weiterlesen ..."
     fr: "lire plus..."
+    it: "leggi tutto ..."
 - id: newer
   name:
     en: "Newer"
     de: "Neure"
     fr: "Suivant"
+    it: "Newer"
 - id: newer-by-cat
   name:
     en: "Newer in this category"
     de: "Neure in dieser Kategorie"
     fr: "Suivant dans cette catégorie"
+    it: "Newer in this category" 
 - id: older
   name:
     en: "Older"
     de: "Ältere"
     fr: "Précédent"
+    it: "Older"
 - id: older-by-cat
   name:
     en: "Older in this category"
     de: "Ältere in dieser Kategorie"
     fr: "Précédent dans cette catégorie"
+    it: "Précédent dans cette catégorie"
 
 - id: search-title
   name:
@@ -40,12 +47,49 @@
     de: "Website Suche"
     fr: "Recherche sur le site"
     it: "Ricerca sul sito web"
-- id: search-criteria
+- id: search-results
   name:
-    en: "Criteria"
-    de: "Kriterien"
-    fr: "Critères"
-    it: "Criteri"
+    en: "Search results"
+    de: "Suchergebnisse"
+    fr: "Résultats de la recherche"
+    it: "Risultati della ricerca"
+- id: search-input
+  name:
+    en: "Search input"
+    de: "Sucheingabe"
+    fr: "Saisie de recherche"
+    it: "Ingresso di ricerca"
+- id: search-results-count
+  name:
+    en: "result(s)"
+    de: "Ergebnisse"
+    fr: "résultat(s)"
+    it: "resultati"
+- id: search-no-result
+  name:
+    en: "No result found when searching for"
+    de: "Kein Ergebnis gefunden bei der Suche nach"
+    fr: "Aucun résultat trouvé en cherchant pour"
+    it: "Nessun risultato trovato quando si cerca"
+- id: search-no-query
+  name:
+    en: "Enter a search term ..."
+    de: "Geben Sie einen Suchbegriff ein ..."
+    fr: "Entrez un terme de recherche ..."
+    it: "Inserisci un termine di ricerca ..."
+# uncomment to add a search tip
+#- id: search-tip
+#  name:
+#    en: "Returns results that contain all search terms."
+#    de: "Returns results that contain all search terms."
+#    fr: "Returns results that contain all search terms."
+#    it: "Returns results that contain all search terms."
+- id: search-lang-label
+  name:
+    en: "Limit to pages in"
+    de: "Begrenzung auf Seiten in"
+    fr: "Limiter aux pages en"
+    it: "Limitare alle pagine in"
 - id: search-lang-any
   name:
     en: "Any"
