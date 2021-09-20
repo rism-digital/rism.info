@@ -9,7 +9,8 @@ twitter_username: RISM_Music
 twitter:
   card: summary
 
-enable-search: true
+enable_search: true
+enable_search_posts: true
 
 defaults:
   - scope:
@@ -17,7 +18,7 @@ defaults:
     values:
       image: /images/logo-square.png
 
-follow-us:
+follow_us:
   facebook: https://www.facebook.com/RISM.info/
   twitter: https://twitter.com/RISM_music
   youtube: https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w
