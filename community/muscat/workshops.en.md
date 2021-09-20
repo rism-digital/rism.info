@@ -7,7 +7,7 @@ permalink: /community/muscat/workshops.html
 
 # Workshops
 
-Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give Muscat demonstrations online. 
+Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give Muscat demonstrations online.
 
 Access to a training server is available for use in demonstrations, at conferences, or in workshops.
 
@@ -15,7 +15,10 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-There are no scheduled workshops at this time. To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
+October (Fridays) 2021: [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, South Korea  
+*JeongYoun Chang, Korea National University of Arts*
+
+ To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
 
 ## Past workshops and demonstrations
 
@@ -38,7 +41,7 @@ There are no scheduled workshops at this time. To request a workshop for a group
     - November 29 and December 1, 2020 (English)     
     *Jennifer Ward (RISM Central Office)*
 
-* November 2020 (Fridays): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, South Korea 
+* November 2020 (Fridays): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, South Korea
 *JeongYoun Chang, Korea National University of Arts*
 
 * 13 October 2020: RISM United Kingdom, online\

@@ -16,4 +16,4 @@ On April 1 of this year a [Schubert Research Center](https://www.oeaw.ac.at/en/m
 
 A central concern of the Schubert Research Center is also the formation of networks and communication with colleagues worldwide. For this purpose, a newsletter is sent out at irregular intervals via email, giving information about new publications, calls for papers, events, job vacancies, scholarships, etc. Please send us relevant information. To subscribe to the newsletter please write to schubert -at- oeaw.ac.at. You can unsubscribe at any time.  
 
-_Image_: "Eine Schubertiade bei Ritter von Spaun" by Hans Temple, ca. 1900, Theatermuseum Wien, [from Europeana](https://www.europeana.eu/de/item/15503/GS_GGS4532){:blank}. (CC BY-NC-SA).
+_Image_: "Eine Schubertiade bei Ritter von Spaun" by Hans Temple, ca. 1900, Theatermuseum Wien, [from Europeana](https://www.europeana.eu/de/item/15503/GS_GGS4532){:blank} (CC BY-NC-SA).
