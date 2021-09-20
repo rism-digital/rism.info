@@ -96,3 +96,15 @@
     de: "All"
     fr: "Tous"
     it: "Qualsiasi"
+- id: search-category-label
+  name:
+    en: "Limit to news in"
+    de: "Begrenzung auf Nachrichten in"
+    fr: "Limiter aux actualités dans"
+    it: "Limitare alle news in"
+- id: search-category-any
+  name:
+    en: "Any and all pages"
+    de: "Alle und alle Seiten"
+    fr: "Toutes et toutes les pages"
+    it: "Qualsiasi e tutte le pagine"
