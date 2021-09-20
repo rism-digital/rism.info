@@ -9,6 +9,8 @@ twitter_username: RISM_Music
 twitter:
   card: summary
 
+enable-search: true
+
 defaults:
   - scope:
       path: ""

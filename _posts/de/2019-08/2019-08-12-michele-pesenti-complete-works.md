@@ -13,7 +13,7 @@ author: Bibliolore
 
 _Der folgende Beitrag erschien zuerst in [Bibliolore – The RILM Blog](https://bibliolore.org/2019/05/20/michele-pesenti-complete-works/){:target="_blank"} und wird hier mit freundlicher Genehmigung wiedergegeben:_
 
-2019 veröffentlichten [A-R Editions](https://www.areditions.com/) eine kritische Ausgabe _[M](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2)__[ichele Pesenti: Complete works](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2)_, die von einem Musikwissenschaftler, einem Sprachwissenschaftler und einem Musiker herausgegeben wurde.
+2019 veröffentlichten [A-R Editions](https://www.areditions.com/) eine kritische Ausgabe [_Michele Pesenti: Complete works_](https://www.areditions.com/pesenti-complete-works-r171.html?mc_cid=1d97453d3c&mc_eid=fc69aee4f2)_, die von einem Musikwissenschaftler, einem Sprachwissenschaftler und einem Musiker herausgegeben wurde.
 
 Während frühere Musikwissenschaftler enge Verbindugnen zwischen [Frottola](https://en.wikipedia.org/wiki/Frottola){:target="_blank"} und [Madrigal](https://en.wikipedia.org/wiki/Madrigal){:target="_blank"} vermuteten, widerlegten neuere Forschungen diese Idee: Es handelte sich um zwei verschiedene Genres, die von verschiedenen Komponisten und für verschiedene Zielgruppen in verschiedenen Zentren des Patronats kultiviert wurden.
 
@@ -23,7 +23,7 @@ Diese bahnbrechende Ausgabe von Pesentis Gesamtwerk bietet parallele Ausgaben vo
 
 Oben eine Seite einer frühen Ausgabe von Pesentis [_Dal lecto me levava_](http://stcpress.org/pieces/dal_lecto_me_levava); unten eine Aufnahme der Komposition.
 
-###penseti###
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xkJ-yTzmX6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-_Michele Pesenti ist [im RISM-Katalog mit ca. 50 Nachweisen vertreten](https://opac.rism.info/search?View=rism&author=Pesenti+Michele){:target="_blank"}. Die Abbildung oben ist aus_ _Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504_ _([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
+_Michele Pesenti ist [im RISM-Katalog mit ca. 50 Nachweisen vertreten](https://opac.rism.info/search?View=rism&author=Pesenti+Michele){:target="_blank"}. Die Abbildung oben ist aus_Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504 ([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
