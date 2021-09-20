@@ -44,7 +44,7 @@
 - id: search-title
   name:
     en: "Website search"
-    de: "Website Suche"
+    de: "Website duchsuchen"
     fr: "Recherche sur le site"
     it: "Ricerca sul sito web"
 - id: search-results
@@ -87,7 +87,7 @@
 - id: search-lang-label
   name:
     en: "Limit to pages in"
-    de: "Begrenzung auf Seiten in"
+    de: "Eingrenzen auf Seiten in"
     fr: "Limiter aux pages en"
     it: "Limitare alle pagine in"
 - id: search-lang-any
@@ -99,7 +99,7 @@
 - id: search-category-label
   name:
     en: "Limit to news in"
-    de: "Begrenzung auf Nachrichten in"
+    de: "Eingrenzen auf Nachrichten in"
     fr: "Limiter aux actualités dans"
     it: "Limitare alle news in"
 - id: search-category-any
