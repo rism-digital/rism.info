@@ -1,3 +1,9 @@
+- id: category
+  name:
+    en: "Category"
+    de: "Kategorie"
+    fr: "Catégorie"
+    it: "Categoria"
 - id: all
   name:
     en: "All the news"
