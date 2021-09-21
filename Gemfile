@@ -9,8 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.1"
 
-#gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
- gem "rism-theme", path: '/Users/laurent/projects/rism-theme'
+gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
+# gem "rism-theme", path: '/Users/laurent/projects/rism-theme'
 # gem "rism-theme", path: '/Users/ahankins/Documents/code/rism/rism-theme'
 
 # If you have any plugins, put them here!

@@ -6,17 +6,18 @@ GIT
       jekyll (~> 4.1)
 
 GIT
+  remote: https://github.com/rism-digital/rism-theme
+  revision: a1f4c07633614ada295abb1f15065a20d5b88756
+  specs:
+    rism-theme (0.1.66)
+      jekyll (~> 4.1)
+
+GIT
   remote: https://github.com/rism-digital/rism-website-indexer
   revision: 240973fe29cf14b1845da52c8f8c042019912248
   branch: main
   specs:
     rism-website-indexer (1.0.6)
-      jekyll (~> 4.1)
-
-PATH
-  remote: /Users/laurent/projects/rism-theme
-  specs:
-    rism-theme (0.1.66)
       jekyll (~> 4.1)
 
 GEM
