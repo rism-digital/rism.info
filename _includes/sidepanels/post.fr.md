@@ -1,4 +1,4 @@
-# Topics
+# Catégories
 
 {% include sidepanels/post-list.html %}
 
