@@ -1,3 +1,5 @@
+Durchsuchen Sie das Nachrichtenarchiv nach Kategorien oder verwenden Sie das Suchfeld.
+
 # Kategorien
 
 {% include sidepanels/post-list.html %}
