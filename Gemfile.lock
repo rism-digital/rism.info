@@ -7,17 +7,17 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: 26d37d014b490fe6a983a3c6906d0246467fce29
+  revision: a1f4c07633614ada295abb1f15065a20d5b88756
   specs:
-    rism-theme (0.1.63)
+    rism-theme (0.1.66)
       jekyll (~> 4.1)
 
 GIT
   remote: https://github.com/rism-digital/rism-website-indexer
-  revision: a3c2b0486d7a8bbaf574a8893ed80ff64faee863
+  revision: 240973fe29cf14b1845da52c8f8c042019912248
   branch: main
   specs:
-    rism-website-indexer (1.0.5)
+    rism-website-indexer (1.0.6)
       jekyll (~> 4.1)
 
 GEM
@@ -81,7 +81,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.26.0)
+    rouge (3.26.1)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
