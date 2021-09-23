@@ -7,9 +7,9 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: a1f4c07633614ada295abb1f15065a20d5b88756
+  revision: d421014bc464ca931b0120a821b10cd98b787e1b
   specs:
-    rism-theme (0.1.66)
+    rism-theme (0.1.70)
       jekyll (~> 4.1)
 
 GIT
@@ -55,7 +55,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
-    jekyll-polyglot (1.3.3)
+    jekyll-polyglot (1.5.0)
       jekyll (>= 3.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
