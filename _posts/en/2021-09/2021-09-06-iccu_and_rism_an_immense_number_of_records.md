@@ -33,7 +33,7 @@ Bari, Biblioteca del Conservatorio di Musica Niccolò Piccini [(I-BAcp)](https:/
 Bari, Biblioteca dell'Istituto Superiore di Scienze Religiose [(I-BAisr)](https://opac.rism.info/search?View=rism&siglum=I-BAisr){:blank}  
 Bari, Biblioteca nazionale Sagarriga Visconti-Volpi [(I-BAn)](https://opac.rism.info/search?View=rism&siglum=I-BAn){:blank}  
 Bari, Biblioteca di San Nicola [(I-BAsn)](https://opac.rism.info/search?View=rism&siglum=I-BAsn){:blank}  
-Barletta, Biblioteca comunale Sabino Loffredo [(I-BAR)](https://opac.rism.info/search?View=rism&siglum=I-BAR) {:blank}  
+Barletta, Biblioteca comunale Sabino Loffredo [(I-BAR)](https://opac.rism.info/search?View=rism&siglum=I-BAR){:blank}  
 Belluno, Biblioteca Civica [(I-BEc)](https://opac.rism.info/search?View=rism&siglum=I-BEc){:blank}  
 Bergamo, Gruppo biblioteche speciali di Bergamo [(I-BGgbs)](https://opac.rism.info/search?View=rism&siglum=I-BGgbs){:blank}  
 Bitonto, Biblioteca Comunale E. Rogadeo (ex Vitale Giordano) [(I-BI)](https://opac.rism.info/search?View=rism&siglum=I-BI){:blank}  
