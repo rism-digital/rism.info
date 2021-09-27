@@ -13,16 +13,18 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-Derzeit stehen noch keine neuen Termine fest. Wenn Sie über zukünftige Termine benachrichtigt werden möchten, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:blank}. 
+Oktober 2021 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, Südkorea 
+*JeongYoun Chang, Korea National University of Arts*
+
 
 
 # Vergangene Workshops und Vorführungen
 
 * 22\. und 24\. Juni 2021: Muscat Einführung, online\
-*(Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)* (Deutsch, Englisch)
+*Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
 
 * 22\. und 24\. Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
-*(Martina Falletta und Jennifer Ward, RISM-Zentralredaktion)* (Deutsch, Englisch)
+*Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
 
 * 18\. Februar 2021: Koninklijk Muziekconservatorium, Gent (online)\
 *Jennifer Ward, RISM Zentralredaktion* 
@@ -37,7 +39,8 @@ Derzeit stehen noch keine neuen Termine fest. Wenn Sie über zukünftige Termine
     - 29\. November und 1\. Dezember 2020 (Englisch)     
     *Jennifer Ward (RISM Zentralredaktion)*
 
-* November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea (JeongYoun Chang, Korea National University of Arts)
+* November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea (
+*JeongYoun Chang, Korea National University of Arts*
 
 
 * 13\. Oktober 2020: RISM United Kingdom, online\

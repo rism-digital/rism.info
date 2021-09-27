@@ -23,7 +23,4 @@ Field did not only publish in Russia, such as with Dalmas. Elsewhere in Europe, 
 
 Field wrote a total of eighteen nocturnes. [Twelve sources with nocturnes](https://opac.rism.info/search?View=rism&author=field&title=nocturnes&Language=en){:target="_blank"} by John Field are in the RISM database. Some of these are autograph manuscripts from Berlin (Staatsbibliothek zu Berlin, D-B) and Moscow (Glinka Museum, RUS-Mcm).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPFv7FyuSlI" frameborder="0" allowfullscreen></iframe>
-
-
 _Image_: John Field, circa 1835, by Carl Mayer. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Field.png){:target="_blank"}.
