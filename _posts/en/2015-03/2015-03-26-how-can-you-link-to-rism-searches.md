@@ -28,41 +28,23 @@ Start with:
 
 and add:
 
--
+- **author=**  for composer (authorized form, reference, or PND/GND number)
 
-**author=**  for composer (authorized form, reference, or PND/GND number)
+- **callno=**  for shelfmark/call number
 
--
+- **institution=**  for an institution that appears in the field Provenance
 
-**callno=**  for shelfmark/call number
+- **localkey=**  or **documentid=**  or **id=**  for RISM ID number
 
--
+- **q=**   or **query=**  for a keyword search anywhere
 
-**institution=**  for an institution that appears in the field Provenance
+- **subject=**   for a genre
 
--
+- **title=**   for filing title
 
-**localkey=**  or **documentid=**  or **id=**  for RISM ID number
+- **year=**    for year
 
--
-
-**q=**   or **query=**  for a keyword search anywhere
-
--
-
-**subject=**   for a genre
-
--
-
-**title=**   for filing title
-
--
-
-**year=**    for year
-
--
-
-**siglum=**   for library siglum
+- **siglum=**   for library siglum
 
 Truncating searches with an asteristk (\*) is possible in some cases. Blank spaces must be filled with a plus sign (+). Combine parameters with an ampersand (&).
 
