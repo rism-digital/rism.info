@@ -20,5 +20,10 @@ group :jekyll_plugins do
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
   gem "jekyll-redirect-from"
+  
   gem "rism-md", git: 'https://github.com/rism-digital/rism-md'
+  #gem "rism-md", path: '/Users/laurent/projects/rism-md'
+  
+  gem "rism-website-indexer", git: 'https://github.com/rism-digital/rism-website-indexer', branch: :main
+  #gem "rism-website-indexer", path: '/Users/laurent/projects/rism-website-indexer'
 end
