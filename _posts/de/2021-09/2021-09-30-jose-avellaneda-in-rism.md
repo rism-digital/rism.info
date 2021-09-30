@@ -6,8 +6,8 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news/2021-09/jose-avellaneda-in-rism-website.jpg"
-email: 'Enrique Payo León'
-author: 'enrique.pl@usal.es'
+email: 'enrique.pl@usal.es'
+author: 'Enrique Payo León'
 ---
 
 José Larena-Avellaneda y Rodríguez (José Avellaneda) war ein Geiger, der zwischen 1863 und 1920 in Las Palmas de Gran Canaria (Spanien) lebte. Die Entwicklung seiner künstlerischen Laufbahn führte ihn mehrmals nach London, aber die Aktivitäten des Musikers in dieser Stadt sind bisher nicht dokumentiert worden. Zu seinen bemerkenswertesten Leistungen gehört, dass er einige Konzerte mit dem berühmten Komponisten Camille Saint-Saëns in Las Palmas de Gran Canaria gab, mehrere Saisons lang Konzertmeister des Orchesters der Philharmonischen Gesellschaft von Las Palmas war, aber auch eine Stradivari- und eine Guarneri-Violine besaß (wie es in einer noch zu bestätigenden Bibliographie heißt).
