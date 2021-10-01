@@ -19,10 +19,8 @@ Although his appointment as the Viennese imperial court organist in 1717 would h
 
 More than two thirds of [Muffat sources in RISM](https://opac.rism.info/search?View=rism&author=gottlieb+muffat){:target="_blank"} are fugues or toccatas. Berlin is home to 110 of the 143 manuscript sources. Of the three printed editions in RISM, two appeared during Gottlieb Muffat's lifetime: _72 Versetl Sammt 12 Toccaten besonders zum Kirchen-Dienst bey Choral-Aemtern und Vesperen dienlich_ ([A/I: M 8133](https://opac.rism.info/search?id=00000990046456){:target="_blank"}) and _Componimenti musicali per il cembalo_ ([A/I: M 8134](https://opac.rism.info/search?id=00000990046457){:target="_blank"}). The third print, _XII Kleine Fugen sammt 2 Toccaten_ ([A/I: M 8135](https://opac.rism.info/search?id=00000990046458){:target="_blank"}), offers a small selection from the _72 Versetl_. While there are 18 and 25 extant copies of Muffat's versets and _Componiementi_, respectively, thereby documenting the broad dissemination of Muffat's works, the _12 kleinen Fugen_ is only preserved in a single copy in Vienna (Gesellschaft der Musikfreunde).
 
-Below, enjoy _Componimenti musicali_ performed by Naoko Akutagawa.
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874&amp;start=1868">
-<param name="allowscriptaccess" value="always">
-<embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
+Below, enjoy _Componimenti musicali_ performed by Naoko Akutagawa.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtAChAEIXDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
 _Image_: Title page of _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitized and available from the [Austrian National Library](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.

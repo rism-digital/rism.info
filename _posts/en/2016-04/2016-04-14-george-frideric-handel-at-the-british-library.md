@@ -15,8 +15,8 @@ Georg Friedrich Händel (1685 - 1759) died 257 years ago today. Though born in G
 
 To find the British Library's Handel holdings, go to the [RISM online database](https://opac.rism.info/){:target="_blank"} and click on **Advanced Search**. Fill out these fields:
 
-**Composer** : Handel (a list will automatically appear to help you with the name, and you can pick any of them that look like Handel)
-**Library siglum** : GB-Lbl
+**Composer**: Handel (a list will automatically appear to help you with the name, and you can pick any of them that look like Handel)  
+**Library siglum**: GB-Lbl  
 
 ![Advanced search](/resources-old-website/news/Haendel-Autographe_advanced_search.jpg)
 
