@@ -29,21 +29,21 @@ _The first edition of 'Orpheus Britannicus', a posthumously published collection
 The RISM UK catalogue is a subset of the [international catalogue](https://opac.rism.info/), and this provides a perspective on the [transmission of Purcell's music around the world](https://opac.rism.info/search?View=rism&author=purcell+henry) – with material preserved all over Europe as well as in Australia, Canada, Japan, New Zealand, and the United States. The Library of Congress ([US-Wc](https://opac.rism.info/search?View=rism&author=purcell+henry&siglum=US-Wc&Language=en)) holds the largest number of Purcell sources outside of the UK, and in fact around a dozen of these sources are printed editions that can only be found there. The Royal Conservatory of Belgium ([B-Bc](https://opac.rism.info/search?View=rism&author=purcell+henry&siglum=B-Bc&Language=en)) also houses a significant amount of music by Purcell, largely thanks to the music collector [Guido Richard Wagener (1822-1896)](http://www.conservatoire.be/en/library/collections-en/fonds-guido-richard-wageber-collection/): in the manuscript anthologies with shelfmarks [25590](https://opac.rism.info/search?id=704002332&View=rism), [14981](https://opac.rism.info/search?id=704002420&View=rism) and [15139](https://opac.rism.info/search?id=702001169&View=rism) one will find sonatas, keyboard pieces, and overtures by Purcell.  
 
  !['Ah! Belinda' as printed in Orpheus Britannicus](/images/news-old-website/Purcell_BritishLibrary_325_Belinda.jpg)  
-_'Ah! Belinda' as printed in _Orpheus Britannicus_. The first part of Purcell's opera _Dido and Aeneas_ to appear in print. _BL G.100_._
+_'Ah! Belinda' as printed in 'Orpheus Britannicus'. The first part of Purcell's opera 'Dido and Aeneas' to appear in print. BL G.100._
 
 **Purcell at the British Library**
 
 25 years ago the British Library put together an exhibition to mark the 300th anniversary of Purcell’s death, and it’s great to see that a digital trace of that can [still be found online](https://www.bl.uk/onlinegallery/features/purcell.html?_ga=2.241657281.276423528.1606126346-1021810909.1602762589) – now almost a historical source in its own right! At the time of the exhibition in 1995, a relatively recent acquisition was the newly discovered autograph manuscript of Purcell’s keyboard music ([MS Mus. 1](https://www.bl.uk/eblj/1995articles/pdf/article11.pdf?_ga=2.241657281.276423528.1606126346-1021810909.1602762589)). This was digitised along with two other major manuscript sources in Purcell’s own hand in 2012 – [a blog post from the time](https://blogs.bl.uk/music/2012/06/purcell_digitised.html) provides a bit more information about these important volumes. Since then we have also digitised the autograph score of Purcell's ‘The Yorkshire Feast Song’ ([Egerton MS 2956](https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_2956&_ga=2.241657281.276423528.1606126346-1021810909.1602762589)).  
 
  ![Autograph manuscript of 'The Yorkshire Feast Song'](/images/news-old-website/Purcell_BritishLibrary_325_Yorkshire.jpg)  
-_A particularly stormy passage in the autograph manuscript of 'The Yorkshire Feast Song' (Z. 333). _BL Egerton MS 2956, f. 13r_._
+_A particularly stormy passage in the autograph manuscript of 'The Yorkshire Feast Song' (Z. 333). BL Egerton MS 2956, f. 13r._
 
 There have also been several new Purcell-related acquisitions since that volume of keyboard music in the 1990s – [copies of songs from 'The Fairy Queen'](http://searcharchives.bl.uk/IAMS_VU2:IAMS032-001947129?_ga=2.242066497.276423528.1606126346-1021810909.1602762589), for example, as well as contemporary copies of the songs 'She who my poor heart possesses' (Z. 415) and 'Cease anxious world' (Z. 362) (Mus. Dep. 2016/52).  
 
 The most recent acquisition came last year. This is a substantial volume of music mostly for the flute or for the violin and includes what is the only known source for Purcell’s Sonata in G minor (Z. 780). It is currently awaiting attention from our conservation team, but this seems a good time to introduce it and to provide a sneaky peak inside.  
 
  ![Sonata in G minor (Z. 780), as copied by Edward Finch](/images/news-old-website/Purcell_BritishLibrary_325_SonataFinch.jpg)  
-_Henry Purcell, Sonata in G minor (Z. 780), as copied by Edward Finch. _BL MS Mus. 1851_._  
+_Henry Purcell, Sonata in G minor (Z. 780), as copied by Edward Finch. BL MS Mus. 1851._  
 
 The volume had passed through the hands of several collectors in the course of the 18th and 19th centuries and had been last seen in the early years of the 20th century, when an edition was made of the Purcell piece, very much in the style of the time.
 
@@ -55,7 +55,7 @@ After failing to sell in an auction in 1935, the manuscript disappeared. Despite
 The volume is known to be the work of two people: William Armstrong (d. 1717) and [Edward Finch](https://en.wikipedia.org/wiki/Edward_Finch_(composer)) (1664-1738), both well-connected personalities in musical life of the 1600s and early 1700s. Not much is known about William Armstrong but he certainly played viola in the orchestra in the early days of the Italian Opera at the Haymarket theatre, around 1710, and we know he undertook work as a copyist for various theatres in the early 1700s too. Edward Finch was from a wealthy family and, among other things, seems to have been a proficient player of wind instruments. In particular he was a relatively early adopter of the ‘German flute’, predecessor of the modern flute (the recorder, known then as the ‘common flute’, or 'English flute', had been more popular before that). As part of the volume is in the hand of Armstrong, and the other in the hand of Finch, it has become known as the ‘Armstrong-Finch’ manuscript. The volume is dated 1691 at the beginning, but it is clear that Finch was still adding to it up to at least 1720.  
 
  ![William Armstrong's inscription at the front of the volume](/images/news-old-website/Purcell_BritishLibrary_325_Armstrong.jpg)  
-_William Armstrong's inscription at the front of the volume. _BL MS Mus. 1851_._  
+_William Armstrong's inscription at the front of the volume. BL MS Mus. 1851._  
 
  ![A sonata copied by Armstrong and Finch's characteristic sign-off, from Christmas 1717](/images/news-old-website/Purcell_BritishLibrary_325_SonataArmstrongFinch1.jpg)  
 _A sonata copied by Armstrong and Finch's characteristic sign-off, from Christmas 1717._  
