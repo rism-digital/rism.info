@@ -19,4 +19,4 @@ In the first phase of the CMO project, critical editions will be prepared based 
 
 The CMO project involves working with scholars, libraries, and archives to locate music manuscripts. A catalog of sources is being developed by the Oriental Institute in Istanbul that will organize information about printed editions of the nineteenth and twentieth centuries as well as handwritten sources. This catalog will be linked with the CMO. The CMO will be an exciting project to keep our eyes on as they make these manuscripts widely accessible.
 
-_Image:_ "Ṣabā pīşrevi" [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 - 1885)]. Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5. Published with kind permission from CMO.
+_Image:_ "Ṣabā pīşrevi" [UsûlDevr-i kebîr, Tanburi Osman Bey (1816 - 1885)]. Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5. Published with kind permission from CMO.
