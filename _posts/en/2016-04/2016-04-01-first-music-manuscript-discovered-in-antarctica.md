@@ -24,7 +24,7 @@ The unusual manuscript was brought by members of the [British Antarctic Survey](
 
 _Penguin: Not amused by the visitor._
 
-Though the discovery of this manuscript leaves many questions open, the_Marche_ is being cataloged for RISM and will appear after the next update of the RISM online catalog, including a link to a digitized version. A facsimile edition of the manuscript will appear this summer from Aves Editions and a CD release will follow. In the meantime, please enjoy this audio excerpt from the_Marche_ kindly provided by Aves:
+Though the discovery of this manuscript leaves many questions open, the_Marche_ is being cataloged for RISM and will appear after the next update of the RISM online catalog, including a link to a digitized version. A facsimile edition of the manuscript will appear this summer from Aves Editions and a CD release will follow. In the meantime, please enjoy this audio excerpt from the _Marche_ kindly provided by Aves:
 
 <audio controls>
 <source src="http://www.tierstimmenarchiv.de/recordings/0300_Felsenpinguin_Gruppe_short.mp3" type="audio/mpeg">

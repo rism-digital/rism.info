@@ -17,44 +17,26 @@ Mother's Day is only about 100 years old. It began in the United States and spre
 
 The Swiss have taken the lead in compositions for Mother's Day, at least in RISM, but the RISM catalog can still uncover non-holiday-specific music that honors mothers. A keyword search will help you here. Searching for [_mother_](https://opac.rism.info/search?View=rism&q=mother){:target="_blank"}, [_Mutter_](https://opac.rism.info/search?View=rism&q=mutter){:target="_blank"}, [_mère_](https://opac.rism.info/search?View=rism&q=m%C3%A8re){:target="_blank"}, and other variations will give you many results to sort through, but lots of these are for sacred music that refer to the motherhood of Mary. Using the more familiar names _[mama](https://opac.rism.info/search?View=rism&q=mama){:target="_blank"}_ or _[mamma](https://opac.rism.info/search?View=rism&q=mamma){:target="_blank"}_ will help retrieve more music that deals with the relationship between mothers and their kin:
 
--
+- Johann Nikolaus Forkel's song "[An die Frau Mama](https://opac.rism.info/search?id=464140333){:target="_blank"}"
 
-Johann Nikolaus Forkel's song "[An die Frau Mama](https://opac.rism.info/search?id=464140333){:target="_blank"}"
+- Karl Gramm: "[Die liebsten Silbenpaare sind mir Mama](https://opac.rism.info/search?id=450021266){:target="_blank"}"
 
--
+- Gottlob Gottwalt Hunger's "[Auf das Bildniß einer geliebten Mutter](https://opac.rism.info/search?id=220033265){:target="_blank"}"
 
-Karl Gramm: "[Die liebsten Silbenpaare sind mir Mama](https://opac.rism.info/search?id=450021266){:target="_blank"}"
+- Teodoro Riccio: "[Mama mia cara dolc'e bella](https://opac.rism.info/search?id=455017785){:target="_blank"}"
 
--
-
-Gottlob Gottwalt Hunger's "[Auf das Bildniß einer geliebten Mutter](https://opac.rism.info/search?id=220033265){:target="_blank"}"
-
--
-
-Teodoro Riccio: "[Mama mia cara dolc'e bella](https://opac.rism.info/search?id=455017785){:target="_blank"}"
-
--
-
-Rudolf Förster: "[Das hat Mama gesagt](https://opac.rism.info/search?id=451026583){:target="_blank"}"
+- Rudolf Förster: "[Das hat Mama gesagt](https://opac.rism.info/search?id=451026583){:target="_blank"}"
 
 
 A more targeted search for _[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe){:target="_blank"}_ (mother's love) can find the following:
 
--
+- Gustav Dippe's opera [_Mutterliebe_](https://opac.rism.info/search?View=rism&q=mutterliebe+gustav+dippe){:target="_blank"}
 
-Gustav Dippe's opera [_Mutterliebe_](https://opac.rism.info/search?View=rism&q=mutterliebe+gustav+dippe){:target="_blank"}
+- Heinrich Pfeil's partsong "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=heinrich+pfeil){:target="_blank"}"
 
--
+- Johann Christian Friedrich Schneider's partsong "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=Johann+Christian+Friedrich+Schneider){:target="_blank"}"
 
-Heinrich Pfeil's partsong "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=heinrich+pfeil){:target="_blank"}"
-
--
-
-Johann Christian Friedrich Schneider's partsong "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=Johann+Christian+Friedrich+Schneider){:target="_blank"}"
-
--
-
-Leo Kunz's melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?id=401000325){:target="_blank"}
+- Leo Kunz's melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?id=401000325){:target="_blank"}
 
 
 We hope that this music will help you serenade your mother on this special day!

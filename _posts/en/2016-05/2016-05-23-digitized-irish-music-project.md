@@ -19,11 +19,11 @@ The collection has been digitised by the library to preserve, provide access to 
 
 The collection features works by prominent Irish composers of the early twentieth-century including Carl Hardebeck (1869-1945), Eamonn O Gallchobhair (1906-1982), Robert O Dwyer (1862-1949), Charles Villiers Stanford (1852-1924) and Ernest De Regge (1901-1958). Most of the material was published by the Dublin music publishers active during the nineteenth and twentieth-centuries, including the fledgling Oifig an tSolathair (the Stationary Office, run by the Irish government) and the Gaelic Press which produced mainly nationalist music based around the independence movement.
 
-The catalogue of these digitized scores can be found[here](http://library.dit.ie/search/?searchtype=d&SORT=D&searcharg=digitized+irish+music-). This is a project in progress and new materials will appear online on an ongoing basis.
+The catalogue of these digitized scores can be found [here](http://library.dit.ie/search/?searchtype=d&SORT=D&searcharg=digitized+irish+music-). This is a project in progress and new materials will appear online on an ongoing basis.
 
-Project manager:Ann Wrigley
-Ditigization:Sharon Hoefig
-Copyright:Wanda Carin
-Cataloguing:Catherine Ferris
+Project manager: Ann Wrigley  
+Ditigization: Sharon Hoefig  
+Copyright: Wanda Carin  
+Cataloguing: Catherine Ferris  
 
 _Image_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Available online](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.
