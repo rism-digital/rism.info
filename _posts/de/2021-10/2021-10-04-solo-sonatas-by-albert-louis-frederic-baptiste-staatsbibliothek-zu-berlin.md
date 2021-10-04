@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Unerhört: Die Solosonaten von Albert Louis Frédéric Baptiste in der Staatsbibliothek zu Berlin"
+date: 2021-10-04
+lang: de
+post: true
+category: library_collections
+image: "/images/news/2021-10/baptiste_website.jpg"
+email: 'flautobecker@gmail.com'
+author: 'Antje Becker'
+---
+
+_Dieser Beitrag stammt von Antje Becker, wurde zuerst im_ [Dossier Forschung der Staatsbibliothek Preußischer Kulturbesitz](https://www.preussischer-kulturbesitz.de/newsroom/dossiers-und-nachrichten/dossiers/dossier-forschung/unerhoert-die-solosonaten-von-albert-louis-frederic-baptiste-in-der-staatsbibliothek-zu-berlin.html){:blank} _veröffentlicht und wird hier mit freundlicher Genehmigung wiedergegeben_.  
+
+Albert Louis Frédéric Baptiste (auch: Batiste oder Battista) wurde im Juli 1700 in Oettingen geboren. Sein Vater, Johann, stammte aus Frankreich und hatte als Tänzer und Geiger an der Opéra de Paris gewirkt. Protestantischen Glaubens, musste er mit der von König Ludwig XIV. veranlassten Aufhebung des Edikt von Nantes 1685 jedoch sein Heimatland verlassen und sein Auskommen woanders finden. Der Hof von Fürst Albrecht Ernst II. in Oettingen bot ihm zumindest eine Zeitlang eine Wirkungsstätte. Um diese machte er sich offenbar besonders verdient: Albert Louis Frédéric wurde am 9. August von Hofpfarrer Georg Andreas Steiner im Beisein des Fürsten und dessen Gemahlin Sophia Luise in der Schlosskirche getauft – eine besondere Ehre für Mitglieder der Hofkapelle. Einige Jahre später siedelte die Familie nach Darmstadt über, das unter der Regentschaft von Landgraf Ernst Ludwig stand, ein Bruder von Fürstin Sophia Luise. Ernst Ludwig war passionierter Lautenist und im Begriff, eine der renommiertesten Hofkapellen des 18. Jahrhunderts im deutschsprachigen Raum aufzubauen.   
+
+_Abbildung, links: Ansicht der Stadt Kassel, vom rechten Fuldaufer aus, Bleistiftzeichnung von Johann Heinrich Tischbein d. Ä. (1722 – 1789), abgedruckt in Paul Heidelbach:_ Kassel. Ein Jahrtausend hessischer Stadtkultur, _hrsg. von Karl Kaltwasser, Kassel/Basel 1957, Tafel 3._ 
+
+In diesem künstlerisch inspirierenden Wirkungsumfeld seines Vaters, der ihn das Tanzen und vermutlich auch das Geige spielen lehrte, wuchs Albert Louis Frédéric auf. 1718 begab er sich auf eine mehrjährige Reise: Nach Frankreich, Italien und England, aber auch nach Spanien, Dänemark und Schweden – kurz: durch „alle Länder in Europa, außer Polen und Rußland“, wie der Lexikograf Ernst Ludwig Gerber zu berichten weiß. Acht Jahre später kehrte er in seine Heimat zurück und trat in Kassel eine Stelle als Hofmusiker und -tänzer an, die er bis zu seinem Tode innehatte. Dass [Albert Louis Frédéric Baptiste](https://opac.rism.info/search?View=rism&author=Baptiste+Albert){:blank} sich nicht nur als Musiker und Tänzer, sondern auch als Komponist betätigte, entsprach dem Usus seiner Zeit. Die Quellen sprechen sich über eine Vielzahl an Instrumentalwerken aus seiner Feder aus – überliefert ist von all dem nur Weniges.  
+
+{% include image file="/images/news/2021-10/baptiste_noten.jpg" %}  
+_Links der 3. Satz aus der Sonate Nr. 6 in G-Dur im Berliner Autograph; der Satz steht in g-Moll. Rechts oben derselbe Satz in der Kopenhagener Abschrift; der Satz (zumal ohne die im Autograph überlieferte Bezeichnung "alla Francese") steht in e-Moll. Aus: "VI Sonate da Camera à Flauto Traverso, Ò Violino solo, è Cembalo, ò Violloncello" op. 2 von Albert Louis Frédéric Baptiste._  
+
+Die dem Grafen Johann Karl Friedrich von Oettingen-Wallerstein zugeeigneten _VI Sonate da Camera à Flauto Traverso, Ò Violino solo, è Cembalo, ò Violloncello_, die in der Staatsbibliothek als in besonderer Präzision und Sauberkeit geschriebenes Autograph ([RISM ID no. 464120058](https://opac.rism.info/search?id=464120058&View=rism)){:blank} erhalten sind, nehmen sich daher als wichtiges Zeugnis seiner schöpferischen Arbeit aus. Da der Widmungsträger 1744 starb, ist davon auszugehen, dass die Sonaten entsprechend vorher entstanden sind. Sie sind überwiegend in Tonarten geschriebenen, die sowohl auf der Traversflöte als auch auf der Geige besonders angenehm zu realisieren sind: D-Dur, G-Dur, e-Moll, a-Moll; die Sonaten in d-Moll und g-Moll gehören sicher zu den schönsten des Bandes. Insbesondere letztere verlangt der/dem Interpret/in auf der Traversflöte einige technische Versiertheit ab: In D-Dur gestimmt, muss jeder sogenannte leiterfremde Ton durch mehr oder weniger aufwändige Gabelgriffe realisiert werden. In g-Moll wären das beispielsweise b (statt h), c (statt cis) und f (statt fis); das es (statt e) dagegen ist über eine Klappe – die einzige, über die das Instrument bis etwa zur Mitte des 18. Jahrhunderts verfügte – unkompliziert zu erreichen. Bei schnellen Sätzen müssen gerade diese Griffe gut koordiniert, die Finger wohlgeübt sein.
+
+Während die Anlage beziehungsweise Bezeichnung und der oft „opernhaft“ dramatische Gestus in den Allegro- und Vivace-Sätzen kompositionstechnisch italienische Einflüsse erkennen lassen, schimmern im „sprechenden Moment“, in der Feingliedrigkeit des melodischen Materials der langsamen Sätze immer wieder auch Qualitäten des französischen Kulturraums durch, in denen Baptiste, zumal als Tänzer, biografisch tief verwurzelt war und sein Leben lang verwurzelt blieb. In Kassel lebte er im Umfeld der französischen Gemeinde; beide seiner Ehefrauen waren Hugenottinnen. Interessant ist, dass in der Königlichen Bibliothek in Kopenhagen eine Abschrift von Baptistes op. 2 überliefert ist – die im Notentext einige Modifikationen aufweist. Dies betrifft neben Vortrags- und Artikulationsbezeichnungen auch das musikalische Material. Einer der Sätze wurde sogar in eine andere Tonart transkribiert, mit weitreichenden atmosphärischen Folgen für das Stück: das originale g-Moll gehörte in jenen Tagen zu den „tragischsten“ Tonarten überhaupt.  
+
+Nicht umsonst fand es vielfach bei passionsbezogener Musik Verwendung. Die vielen darin zu gebrauchenden Gabelgriffe bewirken denn auch auf der Flöte des 18. Jahrhunderts ein abgedunkeltes, klangliches Erscheinungsbild – das beim Musizieren in e-Moll, wie es die Abschrift vorsieht, so nicht mehr gegeben ist
+
+An der Schnittstelle zwischen Wissenschaft, künstlerischer Praxis und Vermittlungsarbeit wurden die in der Staatsbibliothek überlieferten Sonaten im Sommer diesen Jahres auf CD eingespielt – und so als klanglich erfahrbares Erlebnis einer breiteren Öffentlichkeit vermittelt.  
+
+{% include image file="images/news/2021-10/baptiste_floete.jpg" %}  
+_Flöte von Pierre Naust, um 1700, MIM Kat.-Nr. 2667._
