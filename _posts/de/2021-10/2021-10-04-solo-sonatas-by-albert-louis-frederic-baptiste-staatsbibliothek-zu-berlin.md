@@ -28,6 +28,3 @@ Während die Anlage beziehungsweise Bezeichnung und der oft „opernhaft“ dram
 Nicht umsonst fand es vielfach bei passionsbezogener Musik Verwendung. Die vielen darin zu gebrauchenden Gabelgriffe bewirken denn auch auf der Flöte des 18. Jahrhunderts ein abgedunkeltes, klangliches Erscheinungsbild – das beim Musizieren in e-Moll, wie es die Abschrift vorsieht, so nicht mehr gegeben ist
 
 An der Schnittstelle zwischen Wissenschaft, künstlerischer Praxis und Vermittlungsarbeit wurden die in der Staatsbibliothek überlieferten Sonaten im Sommer diesen Jahres auf CD eingespielt – und so als klanglich erfahrbares Erlebnis einer breiteren Öffentlichkeit vermittelt.  
-
-{% include image file="/images/news/2021-10/baptiste_floete.jpg" %}  
-_Flöte von Pierre Naust, um 1700, MIM Kat.-Nr. 2667._
