@@ -26,6 +26,3 @@ The _VI Sonate da Camera à Flauto Traverso, Ò Violino solo, è Cembalo, ò Vio
 Baptiste's music shows the Italian and French influences that he was rooted in, especially as a dancer. Interestingly, the Royal Library in Copenhagen possesses a manuscript copy of Baptiste's op. 2 that shows some modifications pertaining to performance and articulation indications as well as the notes themselves. One of the movements was even transcribed into a different key, with far-reaching consequences for the feeling of the piece: the original G minor was one of the era's most "tragic" keys.  
 
 The Staatsbibliothek sonatas, which find themselves at the intersection of scholarship, artistic practice, and instruction, were recorded on CD this past summer and thereby made available as an acoustic experience for a broader public.  
-
-{% include image file="/images/news/2021-10/baptiste_floete.jpg" %}  
-_Flute by Pierre Naust, ca. 1700, MIM Kat.-Nr. 2667._
