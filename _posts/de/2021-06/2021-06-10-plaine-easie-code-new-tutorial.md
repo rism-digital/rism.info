@@ -20,7 +20,7 @@ RISM nutzt Plaine & Easie, um die Musikincipits (die ersten Noten eines Musikst�
 
 Das neue Tutorial zeigt Schritt für Schritt, wie RISM-Katalogisierer Musikincipits in Muscat hinzufügen können. Am Ende des Videos zeigen wir, wie Sie den Plaine & Easie-Code außerhalb von Muscat verwenden können. 
 
-Die Musikincipits stehen auch für die Forschung zur Verfügung. Alle RISM-Einträge können kostenlos von der [Schnittstellen-Seite](https://opac.rism.info/main-menu-/kachelmenu/data){:blank} des RISM-Onlienkatalogs heruntergeladen werden. Sie finden die Musikincipits (mehr als 1,7 Millionen) in Feld 031.
+Die Musikincipits stehen auch für die Forschung zur Verfügung. Alle RISM-Einträge können kostenlos von der [Schnittstellen-Seite](https://opac.rism.info/main-menu-/kachelmenu/data){:blank} des RISM-Onlinekatalogs heruntergeladen werden. Sie finden die Musikincipits (mehr als 1,7 Millionen) in Feld 031.
 
 Musikincipits sind eine wertvolle Ergänzung für jeden RISM-Eintrag und sollten immer eingegeben werden, sofern es Zeit und Ressourcen zulassen. Wir hoffen, dass dieses Video einen Überblick gibt, wie der Code funktioniert und Sie ermuntert, eigene Musikincipits zu erstellen. Bitte kontaktieren Sie uns, falls Sie Untertitel in einer anderen Sprache ergänzen möchten.  
 
