@@ -15,11 +15,11 @@ Viele kleinere Institutionen wie Bibliotheken, Archive, Privatbesitzer etc. verf
 
 Zum Beispiel: [https://opac.rism.info/search?View=rism&siglum=A-WIL](https://opac.rism.info/search?View=rism&siglum=A-WIL){:target="_blank"}
 
-Mit dieser Abfrage bekommt man alle Titel des Musikarchive des Österreichischen Zisterzienserstifts Wilhering. DieWebsite des Stiftes bietet diesen Link an und man hat quasi einen Online-Katalog des historischen Musikarchivs des Stiftes.
+Mit dieser Abfrage bekommt man alle Titel des Musikarchive des Österreichischen Zisterzienserstifts Wilhering. Die Website des Stiftes bietet diesen Link an und man hat quasi einen Online-Katalog des historischen Musikarchivs des Stiftes.
 
 Der angezeigte Bestand ist immer auf dem jeweils aktuellen Stand des RISM Katalogs, weil die Anfrage bei jedem Anklicken neu aufgebaut wird.
 
-Das[RISM Bibliothekssigel](http://www.rism.info/en/sigla.html){:target="_blank"}finden Sie auf der Website des RISM.
+Das [RISM Bibliothekssigel](http://www.rism.info/en/sigla.html){:target="_blank"} finden Sie auf der Website des RISM.
 
 
 Weitere Abfragemöglichkeiten können gebildet werden.
@@ -30,37 +30,23 @@ Beginnen Sie mit:
 
 und ergänzen dann:
 
--
+- **author=**  für Komponist (Ansetzungs- und Verweisformen oder PND/GND Nummer)
 
-**author=**  für Komponist (Ansetzungs- und Verweisformen oder PND/GND number)
+- **callno=**  für Signatur
 
--
+- **institution=**  für eine Körperschaft
 
-**callno=**  für Signatur
+- **localkey=**  oder  **documentid=**  oder **id=**  für RISM-Nr.
 
--
-
-**institution=**  für eine Körperschaft
-
--
-
-**localkey=**  oder  **documentid=**  oder ** id=**  für RISM-Nr.
-
--
-
-**q=**  oder  **query=**  für freie Suche
+- **q=**  oder  **query=**  für freie Suche
 
 - **subject=**   für Schlagwort
 
 - **title=**   für Einordnungstitel
 
--
+- **year=**    für Jahr
 
-**year=**    für Jahr
-
--
-
-**siglum=**   für Bibliothekssigel
+- **siglum=**   für Bibliothekssigel
 
 
 Trunkieren (\*) ist in manchen Fällen möglich. Leerzeichen müssen mit einem Plus (+) gefüllt werden.
@@ -77,5 +63,5 @@ Alle Quellen aus den Vereinigten Staaten:
 
 
 Alle Quellen zu Gustav Mahler in Kanada:
-[https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler
-](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler)
+
+[https://opac.rism.info/search?View=rism&siglum=CDN-\*&author=mahler](https://opac.rism.info/search?View=rism&siglum=CDN-*&author=mahler)

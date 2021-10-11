@@ -1,4 +1,6 @@
-# Topics
+Parcourez l'archive d'actualités par catégorie ci-dessous ou utilisez le champ de recherche ci-dessus.
+
+# Catégories
 
 {% include sidepanels/post-list.html %}
 
