@@ -10,6 +10,8 @@ email: 'jil30@cam.ac.uk'
 author: 'James Luff'
 ---
 
+_The following is by James Luff and [originally appeared on the MusiCB3 Blog](https://musicb3.wordpress.com/2021/07/23/lute-manuscripts-at-cambridge/){:blank}. It is reprinted here with kind permission._  
+
 I spent quite a bit of my spare time during lockdown learning to play the lute. So naturally, I was excited when I discovered that Cambridge has some extraordinary lute manuscripts in its collection. I’ll highlight a few of the star pieces, but in particular I’d like to talk about a more recent, and lesser-known addition to the library’s lute manuscripts: the so-called ‘Medici’ lute manuscript. But first, a bit about the lute in general.
 
 _Image, left: My lute, currently on loan from the UK Lute Society – an 11-course instrument from later in the lute’s long history._
