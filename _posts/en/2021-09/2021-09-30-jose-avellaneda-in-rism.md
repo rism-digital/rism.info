@@ -6,8 +6,8 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news/2021-09/jose-avellaneda-in-rism-website.jpg"
-email: 'Enrique Payo León'
-author: 'enrique.pl@usal.es'
+email: 'enrique.pl@usal.es'
+author: 'Enrique Payo León'
 ---
 
 _We have received the following from Enrique Payo León (Universidad de Salamanca):_

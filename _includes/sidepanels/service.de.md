@@ -9,8 +9,8 @@ Senckenberganlage 31-33
 60325 Frankfurt am Main  
 Germany
 
-Telefon +49 69 706231
-Telefax +49 69 706026
+Telefon +49 69 706231\
+Telefax +49 69 706026\
 E-Mail: [contact@rism.info](mailto:contact@rism.info)
 
 **Leiter der Zentralredaktion:**  
