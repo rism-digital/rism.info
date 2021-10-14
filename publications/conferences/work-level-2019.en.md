@@ -6,7 +6,7 @@ permalink: /publications/conferences/work-level-2019.html
 old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2019.html
 ---
 
-# Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM 
+# Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM
 
 **Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**   
 [Conference flyer (PDF)](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf)
@@ -14,18 +14,18 @@ old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2
 Report by Chantal Köppl on the [Gesellschaft für Musikforschung's website](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
-  
+
 Libraries worldwide have been discussing work titles with increasing intensity. Transferring this idea to musical works seems particularly feasible at first glance, seeing as the production of catalogs of works has a tradition of more than 100 years in musicology.  
-  
+
 However, especially in recent decades, the concept of the work itself has been uncovered as a construct of the 19th century. In many cases, attention has been drawn to those genres that cannot be forced into a fixed form. This especially applies to operas, whose form can change from performance to performance. But it also concerns chamber music, which is sometimes presented in different versions and with different instruments, etc., when it is first published. The examples could easily be continued.  
-  
+
 Nevertheless, work titles in libraries are an important tool with which musical sources, modern printed music, books about specific musical works, and audiovisual media can be given detailed cataloging and made available. RISM would therefore like to adopt this tool by introducing a work level. But RISM has more, and other, possibilities than an individual library does, because descriptions of sources from a wide variety of libraries can be found in the RISM database.  
-  
+
 The conference and workshop was intended to enable a dialogue for the different points of view and expectations of musicologists and librarians and to develop solutions for RISM as a project between the two sides.  
-  
+
 Presentations are available on [RISM's YouTube](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"} channel.
 
-# Program 
+# Program
 
 ## **Thursday, May 9**
 
@@ -34,11 +34,11 @@ Presentations are available on [RISM's YouTube](https://www.youtube.com/playlist
 **14:00–14:50 Welcome and Introduction**
 
 - Gabriele Buschmeier (Akademie der Wissenschaften und der Literatur, Mainz): Welcome
-- Klaus Pietschmann (Universität Mainz, RISM Board of Directors): Opening Remarks 
+- Klaus Pietschmann (Universität Mainz, RISM Board of Directors): Opening Remarks
 - Klaus Keil (RISM Central Office): Work Titles in RISM, Planned Procedure, and Perspectives   
-[Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Keil_Introduction.pdf) [Video on YouTube](https://youtu.be/QTCYByDgN_w){:target="_blank"} 
+[Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Keil_Introduction.pdf) [Video on YouTube](https://youtu.be/QTCYByDgN_w){:target="_blank"}
 - Stephan Hirsch (RISM Central Office): Technical Aspects  
-[Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Hirsch_Work_entity_in_RISM.pdf)[Video on YouTube](https://youtu.be/LD0d3WaHOEs){:target="_blank"}
+[Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Hirsch_Work_entity_in_RISM.pdf) [Video on YouTube](https://youtu.be/LD0d3WaHOEs){:target="_blank"}
 
 **14:50–15:30 Work Titles in National Libraries and Library Cooperatives (I)  
 Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)**
