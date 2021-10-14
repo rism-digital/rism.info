@@ -18,4 +18,4 @@ Soon after our cataloging program, Muscat, was adopted by the international RISM
 
 We remember André's warmth, generosity, and sense of humor. Though we saw him in person only occasionally, our encounters with him were always highlights. He was passionate about his field and we will do our best to keep building upon the foundations he set for us. We mourn this loss to the RISM community.  
 
-Remembrances of André have been published by the [Laboratório de Musicologia, Universidade de São Paulo](https://sites.usp.br/lamus-each/nota-de-pesar/){:blank} and the [Associação Nacional de Pesquisa e Pós-Graduação em Música](https://anppom.org.br/2021/09/17/nota-de-falecimento-andre-henrique-guerra-cotta/){blank}.
+Remembrances of André have been published by the [Laboratório de Musicologia, Universidade de São Paulo](https://sites.usp.br/lamus-each/nota-de-pesar/){:blank} and the [Associação Nacional de Pesquisa e Pós-Graduação em Música](https://anppom.org.br/2021/09/17/nota-de-falecimento-andre-henrique-guerra-cotta/){:blank}.
