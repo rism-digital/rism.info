@@ -55,10 +55,7 @@ University of Campinas\
 Instituto de Artes\
 E-Mail: [hjank@iar.unicamp.br](mailto:hjank@iar.unicamp.br)
 
-Prof. Dr. André Guerra Cotta\
-Universidade Federal Fluminense, Niterói\
-Rio de Janeiro\
-Email: [agcotta@vm.uff.br](mailto:agcotta@vm.uff.br) 
+_André Guerra Cotta in memoriam_
 
 ## CHINESISCH-SPRECHENDES GEBIET
 Webseite: [https://www.rism.info/working-groups/clr/home.html](/working-groups/clr/home.html){:blank}
@@ -322,19 +319,9 @@ E-Mail: [Margrethe.Bue@nb.no](mailto:Margrethe.Bue@nb.no)\
 Webseite: [www.nb.no](http://www.nb.no/){:target="_blank"}
 
 ## ÖSTERREICH
-
 [Liste der österreichischen RISM-Bibliothekssigel](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
 
-Dr. Stefan Ikarus Kaiser\
-Stift Wilhering\
-Musikarchiv\
-Linzer Strasse 4\
-A-4073 Wilhering\
-Telefon: +43 7226 2311 51 (nachmittags) oder +43 664 8708641\
-E-Mail: [musikarchiv@stiftwilhering.at](mailto:musikarchiv@stiftwilhering.at)\
-Webseite: [http://stiftwilhering.at/kultur/musikarchiv/](http://stiftwilhering.at/kultur/musikarchiv/){:target="_blank"}\
-Siehe auch: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
-
+#### Innsbruck
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider\
 Institut für Tiroler Musikforschung\
 RISM Landesleitung Tirol-Südtirol & OFM Austria\
@@ -345,29 +332,28 @@ E-Mail: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
 Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
-RISM Arbeitsgruppe Salzburg\
-Internationale Stiftung Mozarteum &\
-Archiv der Erzdiözese Salzburg
+#### Salzburg
+Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
 Dr. Armin Brinzing\
+Internationale Stiftung Mozarteum\
 Bibliotheca Mozartiana\
 Schwarzstr. 26\
-5020 Salzburg\
+A - 5020 Salzburg\
 Telefon: +43 662 8894014\
 E-Mail: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
 Webseite: [https://mozarteum.at/bibliotheca-mozartiana/](https://mozarteum.at/bibliotheca-mozartiana/){:target="_blank"}  
 
-Mag. Dr. Eva Neumayr\
+MMag. Dr. Eva Neumayr\
+Archiv der Erzdiözese Salzburg, Musiksammlung\
 Kapitelplatz 3\
 A - 5020 Salzburg\
-Telefon: +43 662 8047 1505 and -1507\
-Fax: +43 662 8047 1509\
+Telefon: +43 662 8047 1513\
 Univ. Doz. Dr. Ernst Hintermaier (Head), E-Mail: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
 E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\
-Webseite: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv){:target="_blank"}\
-Siehe auch: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+Webseite: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
-RISM Arbeitsgruppe Vorarlberg\
+#### Vorarlberg
 Dr. Annemarie Bösch-Niederer\
 Vorarlberger Landesarchiv, Musiksammlung\
 Kirchstr. 28 \
@@ -377,6 +363,17 @@ Fax: +43 5574 511-45095\
 E-Mail: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Webseite: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}\  
 Siehe: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}
+
+#### Wilhering
+Dr. Stefan Ikarus Kaiser\
+Stift Wilhering\
+Musikarchiv\
+Linzer Strasse 4\
+A-4073 Wilhering\
+Telefon: +43 7226 2311 51 (nachmittags) oder +43 664 8708641\
+E-Mail: [musikarchiv@stiftwilhering.at](mailto:musikarchiv@stiftwilhering.at)\
+Webseite: [http://stiftwilhering.at/kultur/musikarchiv/](http://stiftwilhering.at/kultur/musikarchiv/){:target="_blank"}\
+Siehe auch: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
 
 ## POLEN
 
@@ -422,7 +419,7 @@ Instytut Muzykologii\
 ul. Uniwersytetu Poznańskiego 7\
 PL 61-614 Poznań\
 Telefon: +48 61 829 64 54\
-E-Mail: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)
+E-Mail: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)\
 Siehe auch: [https://www.rism.info/working-groups/poland/poznan/home.html](/working-groups/poland/poznan/home.html){:blank}
 
 Dr. Danuta Popinigis\
