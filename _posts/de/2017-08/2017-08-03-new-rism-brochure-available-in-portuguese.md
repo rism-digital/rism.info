@@ -7,7 +7,7 @@ post: true
 category: new_publications
 image: "/images/news-old-website/csm_Brochure_EN_PT_234ca2a80e.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/new-rism-brochure-available-in-portuguese.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -19,4 +19,4 @@ Die Veröffentlichung der Broschüre fällt mit der dritten Konferenz der [IMS R
 
 Gerne senden wir Ihnen auch ein oder mehrere Exemplare in gedruckter Form auf dem Postweg zu. Bitte nehmen Sie mit uns [Kontakt](mailto:contact@rism.info) auf. Bitte teilen Sie uns mit, wie viele Exemplare Sie benötigen.
 
-"RISM: Uma visão Geral"schließt an die RISM-Broschüren in Englisch, Deutsch, Traditionelles Chinesisch, Vereinfachtes Chinesisch, Spanisch und Russisch an. Bitte teilen Sie uns mit, ob Sie daran interessiert sind, das Kurzporträt in eine zusätzliche Sprache zu übersetzen.
+"RISM: Uma visão Geral" schließt an die RISM-Broschüren in Englisch, Deutsch, Traditionelles Chinesisch, Vereinfachtes Chinesisch, Spanisch und Russisch an. Bitte teilen Sie uns mit, ob Sie daran interessiert sind, das Kurzporträt in eine zusätzliche Sprache zu übersetzen.
