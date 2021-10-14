@@ -916,6 +916,8 @@ Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introdu
 
 Wong, Chelsea and Thomas Huthwaite. “Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music.” _Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand_ 123 (April 2021): 10–18. [Available online](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}.  
 
+YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle). _Library Journal_, 40, no. 9 (2021): 39-47.  [Available online](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}.  
+
 **Notes:**
 
 You can find out more about the work of RISM from the following publications:

@@ -11,12 +11,6 @@ sidepanel: "sidepanels/working-groups/brazil"
 
 ## Meet the members of RISM Brazil  
 
-{% include image file="/resources-old-website/workgroups-images/Andre.PNG" pos="left" %}
-
-**André Guerra Cotta - Universidade Federal Fluminense Polo Rio das Ostras (PURO-UFF)**
-
-Ph.d. in Musicology at PPGM-UNIRIO (2009). Master's degree in Information Sciences from Universidade Federal de Minas Gerais (2000). Specialist in Brazilian Musicology by UFMG School of music, where he also graduated in Conducting (1995). Has experience in the area of Arts with emphasis in musicology, working mainly on the following subjects: collections of music, Brazilian music, music research, informationtreatment. Active researcher in projects significant to Brazilian musicology in the last decade, such as the "Collection of Brazilian music/Restoration and dissemination of sheet music" (PETROBRAS/FUNDARQ/CULTURAL BUREAU, 2001-2003), "Reorganization and scanning of the Metropolitan Cabildo of Rio de Janeiro's Archives" (PETROBRAS/Movimento.com, 2005), "Installation and dissemination of the Music Museum of Mariana" (PETROBRAS/FUNDARQ, 2007/2008), "Organization and Provision of Cleofe Person de Mattos' Archives" (PETROBRAS/Movimento.com, 2008/2009). Coordinator of the Project "Conservation and Final Installation of the Curt Lange-UFMG's Archives (UFMG/FUNDEP/PETROBRAS, 2005-2006). He is currently professor in the area of Fundamentals of Arts of Cultural production course at the Federal University Fluminense in the Campus of Rio das Ostras (Rio de Janeiro).
-
 {% include image file="/resources-old-website/workgroups-images/csm_Beatriz_541d98ba30.jpg" pos="left" %}
 
 **Beatriz Magalhães Castro - Universidade de Brasília / Laboratório de Musicologia (UnB/LAMUS)**
@@ -28,6 +22,11 @@ Premier Prix in Flute at the Conservatoire National Supérieur de Musique de Par
 
 **Pablo Sotuyo Blanco - Universidade Federal da Bahia (UFBA)**
 
-Pablo Sotuyo Blanco completed his doctorate in Music at the Federal University of Bahia in 2003, and Post-doctoral studies in musicology in 2011 at the Universidade Nova de Lisboa. He is currently faculty at the Federal University of Bahia, teaching in its School of Music and the Graduate Program in Music. Published several articles in specialized journals and has numerous works in conference proceedings, being also responsible for various books published as author, co-author or organizer. Participated in the development of various technological products, and scientificevents abroad and in Brazil. Currently he coordinates research projects and collaborates editorially with others. Acts in the area of music with emphasis in music composition and historical musicology. Active researcher of Brazilian music, and initiator of many national projects related to music, including the establishment of RIdIM-Brazil (of which he is currently the President) and the Brazilian chapter (section) of the Répertoire International des Sources Musicales (RISM-Brazil).
+Pablo Sotuyo Blanco completed his doctorate in Music at the Federal University of Bahia in 2003, and Post-doctoral studies in musicology in 2011 at the Universidade Nova de Lisboa. He is currently faculty at the Federal University of Bahia, teaching in its School of Music and the Graduate Program in Music. Published several articles in specialized journals and has numerous works in conference proceedings, being also responsible for various books published as author, co-author or organizer. Participated in the development of various technological products, and scientificevents abroad and in Brazil. Currently he coordinates research projects and collaborates editorially with others. Acts in the area of music with emphasis in music composition and historical musicology. Active researcher of Brazilian music, and initiator of many national projects related to music, including the establishment of RIdIM-Brazil (of which he is currently the President) and the Brazilian chapter (section) of the Répertoire International des Sources Musicales (RISM-Brazil).  
+
+{% include image file="/resources-old-website/workgroups-images/Andre.PNG" pos="left" %}  
+
+**André Guerra Cotta  (1962-2021)**  
+_In memoriam_
 
 _All photographs are courtesy of Beatriz Magalhães Castro._

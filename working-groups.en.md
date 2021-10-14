@@ -20,15 +20,7 @@ _Jump to:_ [Austria](https://rism.info/working-groups.html#austria) - [Belarus](
 
 [List of RISM Austria sigla](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
 
-Dr. Stefan Ikarus Kaiser\
-Stift Wilhering\
-Musikarchiv\
-Linzer Strasse 4\
-A-4073 Wilhering\
-Telephone: +43 7226 2311 51\
-Email: [musikarchiv@stiftwilhering.at](http://musikarchiv@stiftwilhering.at/){:target="_blank"}\
-See also: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
-
+#### Innsbruck
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider\
 Institut für Tiroler Musikforschung\
 RISM Tirol-Südtirol & OFM Austria\
@@ -39,28 +31,27 @@ Email: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
 Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)\
 See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
-RISM Working Group Salzburg\
-Internationale Stiftung Mozarteum & Archiv der Erzdiözese Salzburg\
+#### Salzburg
+Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
 Dr. Armin Brinzing\
+Internationale Stiftung Mozarteum\
 Bibliotheca Mozartiana\
 Schwarzstr. 26\
-5020 Salzburg\
+A - 5020 Salzburg\
 Telephone: +43 662 8894014\
 Email: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
 Webseite: [https://mozarteum.at/en/bibliotheca-mozartiana/](https://mozarteum.at/en/bibliotheca-mozartiana/){:blank}
 
-Mag. Dr. Eva Neumayr\
+MMag. Dr. Eva Neumayr\
+Archiv der Erzdiözese Salzburg, Musiksammlung\
 Kapitelplatz 3\
 A - 5020 Salzburg\
-Telephone: +43 662 8047 1505 and -1507\
-Fax: +43 662 8047 1509\
-Univ. Doz. Dr. Ernst Hintermaier (Head), email: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
+Telephone: +43 662 8047 1513\
 Email: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\
-Website: [http://www.kirchen.net/archiv](http://www.kirchen.net/archiv)\
-See also: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+Website: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
-RISM Working Group Vorarlberg\
+#### Vorarlberg
 Dr. Annemarie Bösch-Niederer\
 Vorarlberger Landesarchiv, Musiksammlung\
 Kirchstr. 28 \
@@ -69,7 +60,17 @@ Telephone: +43 5574 511-45015\
 Fax: +43 5574 511-45095\
 Email: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Website: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}  
-See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}
+See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}  
+
+#### Wilhering
+Dr. Stefan Ikarus Kaiser\
+Stift Wilhering\
+Musikarchiv\
+Linzer Strasse 4\
+A-4073 Wilhering\
+Telephone: +43 7226 2311 51\
+Email: [musikarchiv@stiftwilhering.at](http://musikarchiv@stiftwilhering.at/){:target="_blank"}\
+See also: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
 
 ## BELARUS
 
@@ -120,10 +121,7 @@ University of Campinas\
 Instituto de Artes\
 Email: [hjank@iar.unicamp.br](mailto:hjank@iar.unicamp.br)
 
-Prof. Dr. André Guerra Cotta\
-Universidade Federal Fluminense, Niterói\
-Rio de Janeiro\
-Email: [agcotta@vm.uff.br](mailto:agcotta@vm.uff.br) 
+_André Guerra Cotta in memoriam_
 
 ## CANADA
 
@@ -448,7 +446,8 @@ Centrum Badań nad Kulturą Muzyczną\
 ul. Fredry 10\
 PL 60-701 Poznań\
 Telephone: +48 61 829 45 32\
-Email: [alpalik@amu.edu.pl](mailto:alpalik@amu.edu.pl)\
+Email: [alpalik@amu.edu.pl](mailto:alpalik@amu.edu.pl)
+
 Dr. habil. Magdalena Walter-Mazur\
 Instytut Muzykologii\
 ul. Uniwersytetu Poznańskiego 7\
