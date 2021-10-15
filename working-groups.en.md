@@ -20,7 +20,7 @@ _Jump to:_ [Austria](https://rism.info/working-groups.html#austria) - [Belarus](
 
 [List of RISM Austria sigla](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
 
-#### Innsbruck
+#### RISM Working Group Innsbruck
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider\
 Institut für Tiroler Musikforschung\
 RISM Tirol-Südtirol & OFM Austria\
@@ -31,7 +31,7 @@ Email: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
 Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)\
 See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
-#### Salzburg
+#### RISM Working Group Salzburg
 Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
 Dr. Armin Brinzing  
@@ -51,7 +51,7 @@ Telephone: +43 662 8047 1513
 Email: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)  
 Website: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}   
 
-#### Vorarlberg
+#### RISM Working Group Vorarlberg
 Dr. Annemarie Bösch-Niederer\
 Vorarlberger Landesarchiv, Musiksammlung\
 Kirchstr. 28 \
@@ -62,7 +62,7 @@ Email: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Website: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}  
 See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}  
 
-#### Wilhering
+#### RISM Working Group Wilhering
 Dr. Stefan Ikarus Kaiser\
 Stift Wilhering\
 Musikarchiv\
@@ -85,7 +85,7 @@ Website: [https://www.bgam.by/eng/](https://www.bgam.by/eng/){:target="_blank"}
 
 Website (Brussels and Mechelen): [https://www.rism.info/working-groups/belgium/home.html](/working-groups/belgium/home.html){:blank}
 
-RISM Working Group Brussels\
+#### RISM Working Group Brussels
 Dr. Marie Cornaz\
 Royal Library of Belgium\
 Music Division\
@@ -95,7 +95,7 @@ Telephone: +32 2 5195663\
 Fax: +32 2 5195760\
 Email: [marie.cornaz@kbr.be](mailto:marie.cornaz@kbr.be)
 
-RISM Working Group Mechelen\
+#### RISM Working Group Mechelen
 Mariet Calsius\
 Cemper - Centrum voor Muziek- en Podiumerfgoed\
 Onder den Toren 12\
