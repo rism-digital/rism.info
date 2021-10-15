@@ -12,7 +12,7 @@ author: ''
 ---
 Axel Klein, der uns bei unserem Frankfurter RISM-Konzert "[Ein Abend mit Musik aus Irland](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}" im März 2014 unterstützte, hat folgende Monographie über die irische Musikerfamilie O’Kelly publiziert:
 
-[O'Kelly - An Irish Musical Family in Nineteenth-Century France Norderstedt: BoD, 2014, 493pp. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
+[O'Kelly - An Irish Musical Family in Nineteenth-Century France, Norderstedt: BoD, 2014, 493 S. ISBN: 978-3-7357-2310-9](http://axelklein.de/publications/books/){:target="_blank"}
 
 
 Axel Klein über sein Buch:
@@ -25,3 +25,6 @@ Der zweite Teil des Buches ist für unsere RISM-Mitarbeiter sicher von Interesse
 Hier spielt Phillip Sear Joseph O'Kellys _Rêves du Soir!_ (OKC 117).
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/u5mkmW2rBPE" frameborder="0" allowfullscreen></iframe>
+&nbsp;  
+&nbsp;  
+&nbsp;
