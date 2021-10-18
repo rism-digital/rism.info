@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-We were deeply saddened to hear of the recent death of our colleague André Guerra Cotta (1962-2021).  
+We were deeply saddened to hear of the recent death of our colleague André Guerra Cotta (1966-2021).  
 
 André was one of the founding members of [RISM Brazil](/working-groups/brazil/home.html) when it was reactivated in 2005 and he represented the working group at conferences in Brazil and abroad. He was a consistent presence at IAML conferences and other international gatherings. We fondly remember hosting him in 2016, when the Editorial Center organized the conference [Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html). He gave a paper entitled "Brazilian Musical Heritage: An Overview and Some Brief Considerations," which [can be viewed on YouTube](https://youtu.be/z_VjkqV-RvE){:blank}. In it, he outlined the music collections preserved throughout the country but also made it clear what a monumental task it is to document them all, for only a minority of them have been adequately described. André joined us again in Germany in 2019 when we held [a conference about the concept of the musical work](/publications/conferences/work-level-2019.html). His paper ([also available on YouTube](https://youtu.be/yS5p6D4KeIE){:blank}) emphasized the use of international standards and even drew on non-library contexts to show what can be learned from other sectors.  
 
