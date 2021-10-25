@@ -15,8 +15,8 @@ Georg Friedrich Händel (1685 - 1759) starb heute vor 257 Jahren. Obwohl in Deut
 
 Um die Händel-Bestände der British Library zu finden, verwenden Sie den [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} und die **Erweiterte Suche** mit folgenden Feldern:
 
-**Komponist** : Händel (es erscheint automatisch eine Namen-Liste aus der sie eine Variante auswählen können)
-**Bibliothekssigel** : GB-Lbl
+**Komponist**: Händel (es erscheint automatisch eine Namen-Liste aus der sie eine Variante auswählen können)\
+**Bibliothekssigel**: GB-Lbl
 
 ![Advanced search](/resources-old-website/news/Haendel-Autographe_advanced_search.jpg)
 
@@ -27,4 +27,4 @@ In der British Library läuft ein Projekt zur Digitalisierung verschiedener Einh
 Durch die Erweiterung des Online-Katalogs um die [Musikdrucke](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} im letzten jahr, stehen nun auch über 800 Einträge dazu aus der British Library zur Verfügung. Die meisten Editionen wurden von John Walsh veröffentlicht, aber man findet auch weitere Londoner Verleger. Um sich diese im Online-Katalog anzusehen, gehen Sie zurück zur Liste der Händel-Quellen (Sie können dazu diesen [Link](https://opac.rism.info/search?View=rism&author=George+Frideric+Handel&siglum=GB-Lbl){:target="_blank"} verwenden) und grenzen die Ergenisse über die Verleger auf der linken Seite ein. Alternativ können Sie in der Erweiterten Suche den Begriff **London** im Feld **Alle Felder** ergänzen und Sie erhalten überwiegend Musikdurcke.
 
 
-_Abbildung_: Georg Friedrich Händel: Messiah, HWV 56. Autograph. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Verwendet mit freundlicher Genehmigung. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.
+_Abbildung_: Georg Friedrich Händel: _Messiah_, HWV 56. Autograph. British Library (GB-Lbl) [R.M.20.f.2, f.100r](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=R.M.20.f.2){:target="_blank"}. Verwendet mit freundlicher Genehmigung. RISM ID no. [804002301](https://opac.rism.info/search?id=804002301){:target="_blank"}.
