@@ -20,9 +20,7 @@ Auch wenn mit seiner Berufung zum kaiserlichen Hof- und Kammerorganisten im Jahr
 Von den bei [RISM nachgewiesenen Muffat-Werken](https://opac.rism.info/search?View=rism&author=gottlieb+muffat){:target="_blank"} sind mehr als zwei Drittel Fugen oder Tokkaten, 110 von 143 handschriftlichen Quellen liegen in Berlin. Von den drei bei RISM zu findenden Drucken erschienen zwei zu Lebzeiten Gottlieb Muffats: _72 Versetl Sammt 12 Toccaten besonders zum Kirchen-Dienst bey Choral-Aemtern und Vesperen dienlich_ ([A/I: M 8133](https://opac.rism.info/search?id=00000990046456){:target="_blank"}) und _Componimenti musicali per il cembalo_ ([A/I: M 8134](https://opac.rism.info/search?id=00000990046457){:target="_blank"}). Der dritte Druck _XII Kleine Fugen sammt 2 Toccaten_ ([A/I: M 8135](https://opac.rism.info/search?id=00000990046458){:target="_blank"}) bietet eine kleine Auswahl der 72 Versetl. Während die Versette und „Componiementi“ in 18 bzw. 25 Exemplaren nachgewiesen sind und somit die weite Verbreitung von Muffats Werken dokumentieren, ist von den 12 kleinen Fugen heute nur noch ein einziger Druck in Wien (Gesellschaft der Musikfreunde) erhalten.
 
 Hier hören Sie die _Componimenti musicali_ interpretiert von Naoko Akutagawa.
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874&amp;start=1868">
-<param name="allowscriptaccess" value="always">
-<embed src="http://www.youtube.com/v/EtAChAEIXDk&amp;start=874" type="application/x-shockwave-flash" allowscriptaccess="always" width="640" height="385"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtAChAEIXDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 _Abbildung_: Titelseite der _Componimenti Musicali per il Cembalo_ (Augsburg: Johann Christian Leopold, 1726), digitalisiert und verfügbar über die [Österreichische Nationalbibliothek](http://data.onb.ac.at/rec/AC09199618){:target="_blank"}.
