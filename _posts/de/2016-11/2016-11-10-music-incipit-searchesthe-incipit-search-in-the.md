@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Musikincipits suchenDie Incipitsuche im Online-KatalogEine experimentelle Incipitsuche
+title: Musikincipits suchen
 date: 2016-11-10
 lang: de
 post: true
@@ -16,9 +16,9 @@ Die Suche nach dem Musikincipit (Notenanfang) ist eines der beliebtesten Angebot
 Aber wie funktioniert die Suche nach dem Musikincipit? In diesem Beitrag zeigen wir Ihnen was der RISM Online-Katalog anbietet und – für die Abenteuerlustigen unter uns – zeigen wir eine experimentelle Incipitsuche der Universität Utrecht.
 
 
-# Die Incipitsuche im Online-Katalog
+## Die Incipitsuche im Online-Katalog
 
-Der Online-Katalog bietet zwei verschiedene Suchmöglichkeiten an, die jeweils mit der[Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=de){:target="_blank"} beginnen:
+Der Online-Katalog bietet zwei verschiedene Suchmöglichkeiten an, die jeweils mit der [Erweiterten Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=de){:target="_blank"} beginnen:
 
 **1.Suche mit Tonbuchstaben**
 
@@ -73,11 +73,10 @@ Die Musikincipits in RISM sind nicht vereinheitlicht erfasst, sondern bilden das
 
 Nicht jede Quellenbeschreibung in RISM enthält ein Musikincipit. Gelegentlich sind nur Textincipits oder allgemeine Informationen zum Satz (beispielsweise Tempo- oder Metrumangaben) vorhanden.
 
-Diese Informationenbefinden sich auch auf der [Hilfeseite des Online-Katalogs](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"} und als Video auf dem [RISM YouTube-Kanal](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
+Diese Informationen befinden sich auch auf der [Hilfeseite des Online-Katalogs](https://opac.rism.info/index.php?id=4&L=1#c47){:target="_blank"} und als Video auf dem [RISM YouTube-Kanal](https://www.youtube.com/user/RISMZentralredaktion/videos){:target="_blank"}.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HgXFyiXZq5M" frameborder="0" allowfullscreen></iframe>
 
-# Eine experimentelle Incipitsuche
+## Eine experimentelle Incipitsuche
 
 Die aberteuerlustigen Incipitsucher können die [Incipitsuche der Universität Utrecht](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"} ausprobieren.
 
