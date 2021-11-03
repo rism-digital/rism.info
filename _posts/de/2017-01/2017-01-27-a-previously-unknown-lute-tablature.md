@@ -31,12 +31,12 @@ Herr Dr. Helmut Lauterwasser, der die Handschrift bearbeitet, hat seine Erkenntn
 
 _Dieter Kirsch_
 
-Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Helmut Lauterwasser, RISM-Arbeitsstelle München:
-E-Mail: Helmut.Lauterwasser[at]bsb-muenchen.de
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Helmut Lauterwasser, RISM-Arbeitsstelle München:\
+E-Mail: Helmut.Lauterwasser[at]bsb-muenchen.de\
 Telefon: +49 (0) 89 28638-2884.
 
-Bei allen anderen Fragen (Benutzung, Bestellung von Reproduktionen usw.) wenden Sie sich bitte direkt an die Stadtbibliothek Braunschweig:
-E-Mail: stadtbibliothek[at]braunschweig.de
+Bei allen anderen Fragen (Benutzung, Bestellung von Reproduktionen usw.) wenden Sie sich bitte direkt an die Stadtbibliothek Braunschweig:\
+E-Mail: stadtbibliothek[at]braunschweig.de\
 Telefon: +49 (0) 531 470-6835.
 
 

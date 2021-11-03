@@ -918,6 +918,8 @@ Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introduc
 
 Wong, Chelsea und Thomas Huthwaite: Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music, in: Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand 123 (April 2021), S. 10–18. [Online verfügbar](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}  
 
+YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle), in: Library Journal 40(2021),  no. 9, S. 39-47. [Online verfügbar](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}
+
 
 **Anmerkung:**
 

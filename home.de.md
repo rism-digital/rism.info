@@ -2,6 +2,7 @@
 title: RISM
 layout: home-rism-info
 lang: de
+no_post_category: true
 permalink: /index.html
 old_url: http://www.rism.info/de/startseite.html
 ---

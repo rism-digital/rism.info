@@ -22,4 +22,4 @@ In einer ersten Projektphase werden kritische Editionen der zentralen Handschrif
 Das CMO-Projekt arbeitet mit Wissenschaftlern, Bibliotheken und Archiven zusammen, um Musikmanuskripte zu lokalisieren. Ein Quellenkatalog wurde vom Orient-Institut Istanbul entwickelt, das Information über gedruckte Ausgaben des 19. und 20. Jahrhunderts als auch handschriftliche Quellen sammelt. Dieser Katalog wird mit CMO vernetzt. Das CMO ist ein spannendes Projekt und wir werden ein Auge darauf werden, wenn diese Manuskripte dann weit verbreitet sind.
 
 
-Abbildung: „Ṣabā pīşrevi” [UsûlDevr-i kebîr_,_Tanburi Osman Bey (1816 – 1885)], Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5; mit freundlicher Genehmigung von Corpus Musicae Ottomanicae veröffentlicht.
+Abbildung: „Ṣabā pīşrevi” [UsûlDevr-i kebîr, Tanburi Osman Bey (1816 – 1885)], Universitäts- und Landesbibliothek Münster (D-MÜu), Sammlung Jäger, Kapsel 1, Ms.or.3, S. 5; mit freundlicher Genehmigung von Corpus Musicae Ottomanicae veröffentlicht.
