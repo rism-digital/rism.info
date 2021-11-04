@@ -34,10 +34,13 @@ Annette Oppermann betreut das Bartók-Projekt federführend im G. Henle Verlag, 
 Ein grandioses Arbeitspensum für ein grandioses kompositorisches Werk hat begonnen!
 
 ![Henle Bartók 1]((https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_2_300breit.jpg)
-_László Vikárius (Bartók-Archiv, Budapest), Tibor Tallián (__Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe) und Antal Boronkay (Editio Musica Budapest)_
+
+_László Vikárius (Bartók-Archiv, Budapest), Tibor Tallián (Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe) und Antal Boronkay (Editio Musica Budapest)_
 
 ![Henle Bartók 2](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_1_300breit.jpg)
-_Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász(Übersetzer) und Malcolm Gillies(__Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe)__._
+
+_Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász(Übersetzer) und Malcolm Gillies(Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe)._
 
 ![Henle Bartók 3](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_vertragsunterschrift_300breit.jpg)
+
 _Am 25. September 2015 unterzeichneten Wolf-Dieter Seiffert und Antal Boronkay den Kooperationsvertrag beider beteiligten Verlage._

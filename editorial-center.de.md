@@ -19,6 +19,8 @@ Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und 
 
 ## Mitarbeiter*innen der Zentralredaktion
 
+Ständige Mitarbeiter*innen
+
 Leitung: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Stellvertr. Leitung: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
@@ -26,9 +28,13 @@ Stellvertr. Leitung: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){
 Redaktion:
 * [Guido Kraus](mailto:guido.kraus@rism.info){:target="_blank"} M.A.  
 * [Alexander Marxen](mailto:alexander.marxen@rism.info){:target="_blank"}  
-* [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}
+* [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"} MA, MA, MSLIS
 
-IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}
+IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"} M.A.
+
+Außerordentliche Mitarbeiter*innen
+* [Martin Bierwisch](mailto:martin.bierwisch@rism.info){:target="_blank"} M.A.
+* [Kristina Krämer](mailto:kristina.kraemer@rism.info){:target="_blank"} M.A.
 
 ## Adresse
 
