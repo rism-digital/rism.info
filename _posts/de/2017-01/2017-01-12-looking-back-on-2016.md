@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](/publications/conferences/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht_._ Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
+2016 war ein wichtiges Jahr für uns: Unser neues Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, das sehr gut angenommen wird, wurde eingeführt, wir luden 13 Kollegen aus Mittel- und Südamerika ein, um auf der Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](/publications/conferences/latin-america-conference-2016.html) über die dortige Lage der Musikquellen zu berichten, und ein weiterer Band in der Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}) wurde veröffentlicht. Nicht unerwähnt bleiben soll die immense Arbeit unserer Kollegen weltweit - doch darüber werden zu einen anderen Zeitpunkt berichten.
 
 Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die beliebtesten Nachrichten des letzten Jahres:
 
@@ -29,7 +29,7 @@ Blicken wir zurück auf 2016. Ausgehend von unserer Website-Statistik waren die 
 
 Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über [Das älteste Klavier der Welt](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} an erster Stelle.
 
-**Highlights in den s**** ozialen Medien:**
+**Highlights in den sozialen Medien:**
 
 - [A long-lost Mozart-Salieri co-composition has been found!](https://www.facebook.com/RISM.info/posts/1097092090331634){:target="_blank"}: "Per la ricuperata salute di Ofelia" in Prag wiederentdeckt
 - [Listening test](https://www.facebook.com/RISM.info/posts/1339554582752049){:target="_blank"}, um Algorithmen für die automatische Erzeugung von Chorälen im Stile Bachs zu beurteilen
@@ -40,7 +40,9 @@ Sowohl in 2016 - als auch in 2015 - stand die Nachricht aus dem Jahre 2014 über
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3FL8cAROIMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
+
 **RISM-Publikationen**
+
 RISM wurde in vielen Aufsätzen des Jahres 2016 erwähnt, einschließlich einer Aktualisierung des eigenen Artikels in _Grove Music Online_. Eine ausführliche Liste finden Sie unter [RISM Bibliographie](/publications/bibliography.html#c2606).
 
 
