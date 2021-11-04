@@ -13,7 +13,7 @@ author: ''
 
 Wir warten immer noch auf unsere Einladung zur [Königlichen Hochzeit](https://www.royal.uk/royalwedding){:target="_blank"} am Samstag und geben die Hoffnung nicht auf (vielleicht ist sie einfach in der Post verloren gegangen). Während noch keine Details über die Werke, die speziell bei der Hochzeitszeremonie von Prinz Harry und Meghan Markle gespielt werden, bekannt sind, können wir der RISM-Datenbank entnehmen, welche Kompositionen bei anderen königlichen Hochzeitsfeierlichkeiten erklangen.
 
-Das Schlagwort “[Wedding music](https://opac.rism.info/search?View=rism&subject=Wedding+music){:target="_blank"}” ist ein guter Ausgangspunkt dafür. In der [**Erweiterten Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2){:target="_blank"} wählen Sie das Feld **Schlagwort u** nd geben **Wedding music** ein. In der Ergebnisliste sehen Sie in den Suchfiltern auf der linken Seite weitere Gattungsschlagworte von für diesen Anlass üblichen Musikwerken: Kantaten, Geistliche Gesänge, Motetten, Märsche etc.
+Das Schlagwort “[Wedding music](https://opac.rism.info/search?View=rism&subject=Wedding+music){:target="_blank"}” ist ein guter Ausgangspunkt dafür. In der [**Erweiterten Suche**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2){:target="_blank"} wählen Sie das Feld **Schlagwort** und geben **Wedding music** ein. In der Ergebnisliste sehen Sie in den Suchfiltern auf der linken Seite weitere Gattungsschlagworte von für diesen Anlass üblichen Musikwerken: Kantaten, Geistliche Gesänge, Motetten, Märsche etc.
 
 Hier einige der für königliche Hochzeiten geschriebenen Musikwerke:
 
