@@ -15,7 +15,7 @@ author: ''
 
 Bis auf eine Ausnahme erwähnt jedes von Shakespeares Stücken Musik in den Bühnenanweisungen, entweder "a flourish of trumpets“, ein "Danish march" oder ein "song fragment", um nur drei von dutzenden Musikhinweisen aus Hamlet aufzulisten, die in Gooch und Thatchers [_A Shakespeare Music Catalogue_](https://global.oup.com/academic/product/a-shakespeare-music-catalogue-9780198129417){:target="_blank"} erwähnt sind. Auch wenn Musik vielfach in den Werken Shakespeares Erwähnung findet, wissen wir nur sehr wenig über die Musik selbst und was genau gespielt wurde. Ein bedeutendes Manuskript ist [Add.10444](https://opac.rism.info/search?id=800261277){:target="_blank"} aus der British Library (GB-Lbl), das ca. 1625 - also etwa 10 Jahre nach Shakespeares Tod - geschrieben wurde. Es handelt sich um eine Sammlung von 166 Instrumentalwerken mit kurzen Masques, Suiten, Tänzen und Fancies auf nur 60 Folio. Sie geben einen Eindruck, von dem was vermutlich auf der Bühne zu hören war.
 
-Im RISM Online-Katalog erscheint Shakespeare als Ideengeber einer Vorlage oder als Textdichter. Um nach ihm zu suchen wählen Sie die **[Erweiterte Suche]**(https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} und wählen **Weitere Personen**.
+Im RISM Online-Katalog erscheint Shakespeare als Ideengeber einer Vorlage oder als Textdichter. Um nach ihm zu suchen wählen Sie die **[Erweiterte Suche](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"}** und wählen **Weitere Personen**.
 
 ![Advanced search](/resources-old-website/news/Shakespeare_400_advanced_954_x_157.jpg)
 
