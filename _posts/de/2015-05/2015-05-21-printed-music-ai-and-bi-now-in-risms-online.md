@@ -11,16 +11,15 @@ email: contact@rism.info
 author: ''
 ---
 
-RISM freut sich mit dem neuen Update des[Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} die Dokumentation der Musikdrucke erweitern zu können. Zwei seiner Hauptpublikationen sind dem Online-Katalog hinzugefügt worden und für jeden frei verfügbar unter [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} und [www.rism.info](http://www.rism.info){:target="_blank"}:
+RISM freut sich mit dem neuen Update des [Online-Katalogs](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} die Dokumentation der Musikdrucke erweitern zu können. Zwei seiner Hauptpublikationen sind dem Online-Katalog hinzugefügt worden und für jeden frei verfügbar unter [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} und [www.rism.info](http://www.rism.info){:target="_blank"}:
 
 
-- Die gesamte Serie [A/I, _Einzeldrucke vor 1800_](/publications.html#c36)_[Publikationen](/publications.html#c36)_
-Veröffentlicht als CD-ROM im Jahr 2012 und davor in 14 gedruckten Bänden
+- Die gesamte Serie [A/I, _Einzeldrucke vor 1800_](/publications.html#c36) - Veröffentlicht als CD-ROM im Jahr 2012 und davor in 14 gedruckten Bänden
 
-- Ein Teil der Serie[B/I,](/publications.html#c2619)_[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619)_ (Sammeldrucke des 16. - 18. Jahrhunderts), die Jahre 1500-1550 abdeckend
+- Ein Teil der Serie [B/I,](/publications.html#c2619) _[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619)_ (Sammeldrucke des 16. - 18. Jahrhunderts), die Jahre 1500-1550 abdeckend
 
 
-DieHinzufügung dieser gedruckten Quellen lässt die Zahl der Nachweise im Online-Katalog auf über 1.010.000 hochschnellen. Neue Suchfelder bieten sich den Nutzern für die Suche nach **Verleger** , **A/I oder B/I Nummer** und **Platennummer**. Suchergebnisse können über die Kategorien **Verleger** oder die RISM **Serien** verfeinert werden. Symbole für Drucke und Manuskripte erlauben eine schnelle visuelle Erkennung.
+Die Hinzufügung dieser gedruckten Quellen lässt die Zahl der Nachweise im Online-Katalog auf über 1.010.000 hochschnellen. Neue Suchfelder bieten sich den Nutzern für die Suche nach **Verleger**, **A/I oder B/I Nummer** und **Platennummer**. Suchergebnisse können über die Kategorien **Verleger** oder die RISM **Serien** verfeinert werden. Symbole für Drucke und Manuskripte erlauben eine schnelle visuelle Erkennung.
 
 Wir möchten dem Bärenreiter und Henle Verlag für die Erlaubnis danken, die Daten in den Online-Katalog übertragen zu können.
 

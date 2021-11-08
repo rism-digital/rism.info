@@ -11,7 +11,7 @@ email: contact@rism.info
 author: Vivian Tompkins
 ---
 
-_Unsere Praktikantin im Sommer 2017 Vivian Tompkins berichtet von ihren Erfahrungen:_
+_Unsere Praktikantin Vivian Tompkins berichtet von ihren Erfahrungen im Sommer 2017:_
 
 Musikwissenschaft, Bibliothekswesen, und die deutsche Sprache sind drei Hauptinteressen, die ich im Lauf meines Bachelorstudiums entdeckte. Deshalb war ich ganz begeistert, als ich vor einigen Monaten Bescheid bekam, dass ich ein Praktikum in der [RISM Zentralredaktion](/editorial-center.html#c2852) in Frankfurt machen könnte. So ein Praktikum war die perfekte Gelegenheit, diese drei Interessen zu kombinieren. Seit vier Wochen bin ich zu Gast in der Zentralredaktion gewesen, und die Mitarbeiter/innen der Redaktion haben mir geholfen, viel über die Arbeit der Zentralredaktion und die internationale Gemeinschaft von Musikbibliotheken zu lernen.
 
@@ -22,7 +22,11 @@ Ich hatte auch Gelegenheit, einen Einblick in die verschiedenen Bereiche der Arb
 Als amerikanische Studentin ist es mir besonders interessant gewesen, Seminare und andere Kurse an der [Goethe-Universität](http://www.uni-frankfurt.de/43265859/muwi?legacy_request=1){:target="_blank"} und an der [Hochschule für Musik und Darstellende Kunst](http://www.hfmdk-frankfurt.info/){:target="_blank"} zu besuchen. Dr. Martina Falletta hat es ermöglicht, dass ich zu Gast sowohl in einem Seminar an der Hochschule als auch in mehreren Kursen an der Goethe-Universität sein konnte. Weil 2017 das 250. Todesjahr Georg Philipp Telemanns ist, haben diese Seminare sich mit seinem Leben und seinen Werken befasst. Die Vorlesungen und studentische Vorträge waren für mich hochinteressant und auch sehr relevant, denn ich interessiere mich für Musik des Barock. Darüber hinaus konnte ich mit einer Studentengruppe von der Abteilung Musikwissenschaft der Uni Mainz die Universitätsbibliothek Johann Christian Senckenberg besuchen, um Abschriften von Telemanns Kirchenkantaten zu untersuchen. Während dieses Besuches sprach einer der Editoren der [Frankfurter Telemann-Ausgabe](https://www.habsburgerverlag.de/startseite/frankfurter-telemann-ausgaben/){:target="_blank"}n mit uns über seine Arbeit. Dieses Ereignis und mein Besuch im Büro der [Gluck Gesamtausgabe](http://www.gluck-gesamtausgabe.de/){:target="_blank"} haben meine Kenntnis der Vorbereitung einer kritischen Edition sehr viel verbessert. Daneben konnte ich das [Hindemith-Institut](http://www.hindemith.info/de/home/){:target="_blank"} (D-Fhi) sowie das [Archiv Frau und Musik](https://www.archiv-frau-musik.de/){:target="_blank"} (D-Fafm) besuchen.
 
 ![Hindemith Kuhhirtenturm](/resources-old-website/news/Tompkins_Bericht_Hindemith_1_378x504.jpg)
-_Der [Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} in Frankfurt, wo Hindemith von 1923 bis 1927 lebte_ ![Printed edition at Archiv Frau und Musik](/resources-old-website/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)
+
+_Der [Kuhhirtenturm](http://www.hindemith.info/de/kabinett/){:target="_blank"} in Frankfurt, wo Hindemith von 1923 bis 1927 lebte_ 
+
+
+![Printed edition at Archiv Frau und Musik](/resources-old-website/news/Tompkins_Bericht_Archiv_Frau_und_Musik_2_378x504_01.JPG)
 
 _Eines von zahl reichen Objekten im Archiv Frau und Musik_
 

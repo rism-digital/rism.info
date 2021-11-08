@@ -19,25 +19,25 @@ Alle Videos sind in englischer Sprache und enthalten englische Bildunterschrifte
 
 **Drei Einführungsvideos** bieten einen Überblick zu den Hauptfunktionen des Katalogs:
 
-Schnelleinstieg in den Online-Katalog ([YouTube Video](https://youtu.be/OMbo9FWDffs)): Einfache Suche, Filtern und sortieren, Vollanzeige, Noten online finden.
+- Schnelleinstieg in den Online-Katalog ([YouTube Video](https://youtu.be/OMbo9FWDffs)): Einfache Suche, Filtern und sortieren, Vollanzeige, Noten online finden.
 
-Die Erweiterte Suche ([YouTube Video](https://youtu.be/nT8W0SNAbIE)): Suche auf bestimmte Felder ausrichten.
+- Die Erweiterte Suche ([YouTube Video](https://youtu.be/nT8W0SNAbIE)): Suche auf bestimmte Felder ausrichten.
 
-Incipitsuche ([YouTube Video](https://youtu.be/Sy7kj4SNiek)): Suche nach Musikincipits in der Erweiterten Suche über den Index und die virtuelle Klaviatur.
+- Incipitsuche ([YouTube Video](https://youtu.be/Sy7kj4SNiek)): Suche nach Musikincipits in der Erweiterten Suche über den Index und die virtuelle Klaviatur.
 
-Zwei weitere Videos **demonstrieren zusätzliche Suchtechniken** :
+Zwei weitere Videos **demonstrieren zusätzliche Suchtechniken**:
 
-Das fünfte Feld ([YouTube Video](https://youtu.be/HTpQOVfLZGc)): Zusätzliche Suchfelder hinzufügen, indem man vorherige Suchanfragen kombiniert.
+- Das fünfte Feld ([YouTube Video](https://youtu.be/HTpQOVfLZGc)): Zusätzliche Suchfelder hinzufügen, indem man vorherige Suchanfragen kombiniert.
 
-Sammlungen durchblättern ([YouTube Video](https://youtu.be/WFkjj77P1sM)): Handschriftensammlungen vom ersten bis zum letzten Werk durchblättern.
+- Sammlungen durchblättern ([YouTube Video](https://youtu.be/WFkjj77P1sM)): Handschriftensammlungen vom ersten bis zum letzten Werk durchblättern.
 
-Ein Video betrifft die **Musikdrucke in RISM** :
+Ein Video betrifft die **Musikdrucke in RISM**:
 
-Musikdrucke im RISM Online-Katalog ([YouTube Video](https://youtu.be/VAYT_aU2AxA)): Welche Drucke sind in RISM, Suchstrategien, Struktur der Einträge.
+- Musikdrucke im RISM Online-Katalog ([YouTube Video](https://youtu.be/VAYT_aU2AxA)): Welche Drucke sind in RISM, Suchstrategien, Struktur der Einträge.
 
 Und schließlich ein kurzes Video zum Thema: **einen Fehler melden**.
 
-So melden Sie einen Fehler ([YouTube Video](https://youtu.be/NFfvLiRGOqs))
+- So melden Sie einen Fehler ([YouTube Video](https://youtu.be/NFfvLiRGOqs))
 
 Weitere Videos werden folgen.
 

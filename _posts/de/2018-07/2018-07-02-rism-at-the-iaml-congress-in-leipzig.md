@@ -15,12 +15,12 @@ In diesem Jahr findet der IAML-Kongress in Leipzig statt. Vom 22. bis zum 27. Ju
 
 Werfen Sie nach dem Kongress einen Blick auf unsere [Kongress-Seite](/publications/iaml-congresses/2018.html); dort finden Sie dann auch die Folien der Vorträge und noch mehr Informationen zu den Sitzungen.
 
-**Dienstag, 24. Juli **
+**Dienstag, 24. Juli**
 
 - 11–12.30 Uhr: Workshop: RISM Muscat-Einführungskurs in Englisch (ausgebucht)
 - 14–15.30 Uhr: Workshop: RISM Muscat-Einführungskurs in Deutsch (ausgebucht)
 
-**Donnerstag, 26. Juli **
+**Donnerstag, 26. Juli**
 
 - 11–12.30 Uhr
 Advisory Council (offen für alle Vertreter der nationalen Arbeitsgruppen)
@@ -31,7 +31,7 @@ Commission Mixte (geschlossene Sitzung)
 Chair: Richard Chesser (British Library, London)
 
 
-**Freitag, 27. Juli  **
+**Freitag, 27. Juli**
 
 - 11–12.30 Uhr Öffentliche RISM-Sitzung
 Chair: Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
