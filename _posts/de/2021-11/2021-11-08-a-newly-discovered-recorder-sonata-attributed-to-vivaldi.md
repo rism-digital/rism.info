@@ -18,13 +18,13 @@ Während eines künstlerischen Aufenthalts in Venedig im Oktober 2018 entdeckten
 Satz I, Andante  
 {% include image file="/images/news/2021-11/vivaldi-recorder-sonata-avena-ribeiro-incipit1.png" %}  
 
-Satz II, Andante  
+Satz II, Alleg[r]o  
 {% include image file="/images/news/2021-11/vivaldi-recorder-sonata-avena-ribeiro-incipit2.png" %}  
 
-Satz III, Alleg[r]o  
+Satz III, Largo  
 {% include image file="/images/news/2021-11/vivaldi-recorder-sonata-avena-ribeiro-incipit3.png" %}  
 
-Satz IV, Alleg[r]o  
+Satz IV, Allegro  
 {% include image file="/images/news/2021-11/vivaldi-recorder-sonata-avena-ribeiro-incipit4.png" %}  
 
 Kurzum, wir konnten feststellen, dass das Papier von _Correr_ 127.46 venezianischen Ursprungs ist und zu einem von Vivaldi verwendeten Typ gehört. Es weist das typische Wasserzeichen [_tre mezze lune_, mit der Gegenmarke "A Z", der von einem Kleeblatt mit Stiel überragt wird](https://hofmusik.slub-dresden.de/en/catalogues/watermarks-catalogue/detail/?tx_slubwatersignauthorsdb_pi1%5Bwatersign%5D=262&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5BnameTaxonomy%5D=&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5BnamePapermill%5D=&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5BnamePapermaker%5D=&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5BnameState%5D=&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5BnameRegion%5D=&tx_slubwatersignauthorsdb_pi1%5BwatersignSearch%5D%5Ball%5D=102&tx_slubwatersignauthorsdb_pi1%5Bcontroller%5D=Watersign&cHash=ec7a30711da7bdabfebe5ce2707819f6){:blank} auf. Wir können auch mit ziemlicher Sicherheit davon ausgehen, dass der Schreiber ein Venezianer war, der das Kopieren als Beruf ausübte. Dank der Untersuchung des Papiers und der Übereinstimmung des Querschnitts der Rastrographie mit dem einer anderen Handschrift konnten wir eine genauere Datierung des verwendeten Notenpapiers vornehmen und das Datum der Abschrift von _Correr_ 127.46 auf ca. 1733 zurückführen.  
