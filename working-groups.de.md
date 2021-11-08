@@ -321,7 +321,7 @@ Webseite: [www.nb.no](http://www.nb.no/){:target="_blank"}
 ## ÖSTERREICH
 [Liste der österreichischen RISM-Bibliothekssigel](https://www.iaml.at/rism/rism-sigel/){:target="_blank"}
 
-#### Innsbruck
+#### RISM Arbeitsgruppe Innsbruck
 Univ.-Doz. Mag. Dr. Hildegard Herrmann-Schneider\
 Institut für Tiroler Musikforschung\
 RISM Landesleitung Tirol-Südtirol & OFM Austria\
@@ -332,7 +332,7 @@ E-Mail: [rism.hh@musikland-tirol.at](mailto:rism.hh@musikland-tirol.at)\
 Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
-#### Salzburg
+#### RISM Arbeitsgruppe Salzburg
 Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
 
 Dr. Armin Brinzing\
@@ -353,7 +353,7 @@ Univ. Doz. Dr. Ernst Hintermaier (Head), E-Mail: [ernst.hintermaier@archiv.kirch
 E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\
 Webseite: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
-#### Vorarlberg
+#### RISM Arbeitsgruppe Vorarlberg
 Dr. Annemarie Bösch-Niederer\
 Vorarlberger Landesarchiv, Musiksammlung\
 Kirchstr. 28 \
@@ -364,7 +364,7 @@ E-Mail: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Webseite: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}\  
 Siehe: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}
 
-#### Wilhering
+#### RISM Arbeitsgruppe Wilhering
 Dr. Stefan Ikarus Kaiser\
 Stift Wilhering\
 Musikarchiv\
@@ -423,14 +423,12 @@ E-Mail: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)\
 Siehe auch: [https://www.rism.info/working-groups/poland/poznan/home.html](/working-groups/poland/poznan/home.html){:blank}
 
 Dr. Danuta Popinigis\
-Akademia Muzyczna im. St. Moniuszki\
-Instytut Teorii Muzyki\
-ul. Łąkowa 1-2\
-PL 80-847 Gdańsk\
-Telefon: +48 58 300 92 30\
-Fax: +48 58 300 92 10\
-E-Mail: [danutapopinigis@wp.pl](mailto:danutapopinigis@wp.pl)\
-Webseite: [http://rism.amuz.gda.pl/](http://rism.amuz.gda.pl/){:target="_blank"}
+Polska Akademia Nauk Biblioteka Gdańska\
+ul. Wałowa 1\
+PL 80-858 Gdańsk\
+Telefon / Fax: +48 058 301 55 23\
+E-Mail: [danutapopinigis@wp.pl](mailto:danutapopinigis@wp.pl) und [rism@bg.gda.pl](mailto:rism@bg.gda.pl)\ 
+Webseite: [https://bgpan.gda.pl/](https://bgpan.gda.pl/){:target="_blank"}
 
 Dr. Dariusz Smolarek\
 Katolicki Uniwersytet Lubelski Jana Pawla II\
