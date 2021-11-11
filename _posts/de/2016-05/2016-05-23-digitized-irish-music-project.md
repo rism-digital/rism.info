@@ -11,19 +11,19 @@ email: ''
 author: ''
 ---
 
-_DerfolgendeArtikel wurde ursprünglich auf der Seite der[Research Foundation for Music in Ireland](http://www.musicresearch.ie/?q=irishmusiccollection){:target="_blank"}veröffentlicht und wird hiermit freundlicher Genehmigung der RFMInachgedruckt:_
+_Der folgende Artikel wurde ursprünglich auf der Seite der [Research Foundation for Music in Ireland](http://www.musicresearch.ie/?q=irishmusiccollection){:target="_blank"} veröffentlicht und wird hier mit freundlicher Genehmigung der RFMI nachgedruckt:_
 
-Die Bibliothek des DIT (Dublin Institute of Technology)Conservatory of Music & Drama beherbergt eine ganz besondere Sammlung, entstanden ausgroßzügigen Schenkungen und Nachlässen: Musik, die in Irland komponiert wurde, in der Irland thematisiert wird und/oder von irischen Komponisten geschrieben wurde.
+Die Bibliothek des DIT (Dublin Institute of Technology) Conservatory of Music & Drama beherbergt eine ganz besondere Sammlung, entstanden aus großzügigen Schenkungen und Nachlässen: Musik, die in Irland komponiert wurde, in der Irland thematisiert wird und/oder von irischen Komponisten geschrieben wurde.
 
-Die Sammlung wurde von der Bibliothek digitalisiert, um deren Erhalt zu sichern, sie öffentlich zugänglich zu machen und so auch das Musikleben Irlands zu fördern. Dank der umfangreichen Forschungsarbeit konnte der Zugang zum digitalisierten Material im Rahmen des Urheberrechtes bereitgestellt werden. Die nicht urheberrechtlich geschütztenBilder können online kostenlos angesehen und verwendet werden; das geschützte Material ist für Mitarbeiter und Studenten des DITabrufbar. Auf Anfrage können die Originale vor Ort angesehen werden.
+Die Sammlung wurde von der Bibliothek digitalisiert, um deren Erhalt zu sichern, sie öffentlich zugänglich zu machen und so auch das Musikleben Irlands zu fördern. Dank der umfangreichen Forschungsarbeit konnte der Zugang zum digitalisierten Material im Rahmen des Urheberrechtes bereitgestellt werden. Die nicht urheberrechtlich geschützten Bilder können online kostenlos angesehen und verwendet werden; das geschützte Material ist für Mitarbeiter und Studenten des DIT abrufbar. Auf Anfrage können die Originale vor Ort angesehen werden.
 
-Die Sammlung bietet Werke von bedeutenden irischen Komponisten des frühen Zwanzigsten Jahrhunderts wieCarl Hardebeck (1869-1945), Eamonn O Gallchobhair (1906-1982), Robert O Dwyer (1862-1949), Charles Villiers Stanford (1852-1924) und Ernest De Regge (1901-1958). Das meiste Material wurde von Dubliner Musikverlagen aus dem 19. und 20. Jahrhundert veröffentlicht.
+Die Sammlung bietet Werke von bedeutenden irischen Komponisten des frühen Zwanzigsten Jahrhunderts wie Carl Hardebeck (1869-1945), Eamonn O Gallchobhair (1906-1982), Robert O Dwyer (1862-1949), Charles Villiers Stanford (1852-1924) und Ernest De Regge (1901-1958). Das meiste Material wurde von Dubliner Musikverlagen aus dem 19. und 20. Jahrhundert veröffentlicht.
 
-Der Katalog ist über[diesen Link](http://library.dit.ie/search/?searchtype=d&SORT=D&searcharg=digitized+irish+music-)abrufbar. Das Projekt befindet sich noch im Aufbau und es werden nach und nach neue Materialien ergänzt.
+Der Katalog ist über [diesen Link](http://library.dit.ie/search/?searchtype=d&SORT=D&searcharg=digitized+irish+music-) abrufbar. Das Projekt befindet sich noch im Aufbau und es werden nach und nach neue Materialien ergänzt.
 
-Projektmanagerin:Ann Wrigley
-Digitalisierung:Sharon Hoefig
-Copyright:Wanda Carin
-Katalogisierung:Catherine Ferris
+Projektmanagerin: Ann Wrigley\
+Digitalisierung: Sharon Hoefig\
+Copyright: Wanda Carin\
+Katalogisierung: Catherine Ferris
 
-_Abbildung_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Available online](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.
+_Abbildung_: P.J. Ryan, "Cloughmills fair" (Dublin: Walton, N.D.). Call number M783.442162415 BHA (BG 1 OFFICE). [Online verfügbar](http://library.dit.ie/record=b1006802~S0){:target="_blank"}.

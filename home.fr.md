@@ -2,6 +2,7 @@
 title: RISM
 layout: home-rism-info
 lang: fr
+no_post_category: true
 permalink: /index.html
 ---
 

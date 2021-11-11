@@ -23,4 +23,7 @@ Ein Band der Reihe _Denkmäler der Tonkunst in Österreich_ (DTÖ Band 39, Wien 
 
 Einen Eindruck des g-Moll Celllokonzerts von Mathias Georg Monn in einer Aufnahme mit Jacqueline du Pré erhalten Sie hier:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jo35eBBCkK0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgNLJm-rwss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
+&nbsp;
+
