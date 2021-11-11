@@ -11,9 +11,9 @@ email: ''
 author: ''
 ---
 
-Acompetitionhas been set up by the Italian music monthly_Musica_to find works by the almost unknown Italian-Argentinian composer Rodolfo Zanni (1901-1927). After his mysterious death, his works completely disappeared. He composed over 80 works: symphonies, overtures, ballets, sonatas, and two operas.
+A competition has been set up by the Italian music monthly _Musica_ to find works by the almost unknown Italian-Argentinian composer Rodolfo Zanni (1901-1927). After his mysterious death, his works completely disappeared. He composed over 80 works: symphonies, overtures, ballets, sonatas, and two operas.
 
-Can you find any?A worldwide musical treasure hunt is underway! _Musica_ writes that a prize of €5,000 will be awarded to whoever finds a "manuscript or a printed copy of Rosmunda, opera in four acts with libretto by Sem Benelli" or to whoever finds "another musical composition, which...will give a significant contribution to the understanding and the knowledge of Zanni’s music."
+Can you find any? A worldwide musical treasure hunt is underway! _Musica_ writes that a prize of €5,000 will be awarded to whoever finds a "manuscript or a printed copy of Rosmunda, opera in four acts with libretto by Sem Benelli" or to whoever finds "another musical composition, which...will give a significant contribution to the understanding and the knowledge of Zanni’s music."
 
 Let the search begin! (And of course please tell RISM if you find anything so it can be documented in our online catalog.)
 
