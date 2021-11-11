@@ -39,15 +39,12 @@ You will never listen to [solfeggio](https://opac.rism.info/search?id=850507984 
 ![Solfeggio](/resources-old-website/news/Aprilscherz_2015/solfeggio.jpg)
 <iframe width="50%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198573761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Dedicated RISM users will know that sometimes a record only has a text incipit or a tempo indication. These are included as well, featuring the celebrity voices of David Attenborough, Morgan Freeman, Werner Herzog, William Shatner, and Meryl Streep. Enjoy as they read out classics such as
+Dedicated RISM users will know that sometimes a record only has a text incipit or a tempo indication. These are included as well, featuring the celebrity voices of David Attenborough, Morgan Freeman, Werner Herzog, William Shatner, and Meryl Streep. Enjoy as they read out classics such as  
 
+_1.1.1vl 1,c; 3/4; c/Ouverture. Più moto;b; B_  
 
-_1.1.1vl 1,c; 3/4; c/Ouverture. Più moto;b; B_
-
-
-and
-_1.6.16/4;e Tell him Apollo greets him well_
-
+and   
+_1.6.16/4;e Tell him Apollo greets him well_  
 
 Order today and become the proud new owner of the **RISM Complete Incipits Edition**. Or buy a set for your favorite music library.
 

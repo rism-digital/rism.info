@@ -7,12 +7,11 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/looking-back-at-2014.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
-Before we get too far into 2015, let's take a look back at 2014 and allow us to share some stories from the past year.
-
+Before we get too far into 2015, let's take a look back at 2014 and allow us to share some stories from the past year.  
 
 The ten most popular stories on our website were (according to our website statistics):
 

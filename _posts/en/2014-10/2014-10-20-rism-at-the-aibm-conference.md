@@ -13,19 +13,19 @@ author: ''
 
 [IAML Germany](http://www.aibm.info/){:target="_blank"} held its annual meeting in beautiful Nuremberg last month. Three members of the RISM Central Office were in attendance. Topics included:
 
-- Data transfers of RISM data
-- Social Media
-- RDA
-- Cultural Program
+• Data transfers of RISM data
+• Social Media
+• RDA
+• Cultural Program
 
 RISM's own Gottfried Heinz-Kronberger from RISM Germany in Munich gave a presentation about how the RISM data are used in the Bavarian Union catalog (BayerischerVerbundkatalog). This allows the RISM records to be used in local catalogs. More about the routine that has been set up and details are available in his [PowerPoint presentation](/resources-old-website/workgroups/munich/AIBM_2014.pptx). Magda Gerritsen of the Bavarian State Library used RISM data as an example of linked open data being used in libraries. More technical details are in her [presentation](http://www.aibm.info/wp-content/uploads/2014/10/Gerritsen_LOD_in_Musikbibliotheken.pdf){:target="_blank"}.
 
 Social media was a topic in the meeting of the Public Libraries interest group. Nobody seems to fully understand Facebook's secretive, ever-changing news feed algorithm, but Martin Kramer from the [Mediothek Krefeld](http://www.mediothek-krefeld.de/){:target="_blank"} ([Facebook page](https://de-de.facebook.com/Mediothek.Krefeld){:target="_blank"}, [Seniorbook page](https://www.seniorbook.de/mediothek.krefeld){:target="_blank"}) told us that different kinds of posts have different values. Posts with the highest values will stay near the top of your users' news feeds (or show up in the first place). The types of posts ranked from most to least valuable are:
 
-- Videos uploaded on Facebook  
-- Pictures uploaded on Facebook with text  
-- Link with text  
-- Text only  
+• Videos uploaded on Facebook  
+• Pictures uploaded on Facebook with text  
+• Link with text  
+• Text only  
 
 Therefore, posting text only has the least amount of impact on your Facebook fans.  
 

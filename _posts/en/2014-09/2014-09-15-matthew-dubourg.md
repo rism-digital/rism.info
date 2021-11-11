@@ -7,7 +7,7 @@ post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Bild_castle-of-dublin_d2a11c9904.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/matthew-dubourg.html
-email: alexander.marxen@rism.info
+email: ''
 author: ''
 ---
 
@@ -15,10 +15,10 @@ Today, our series **RISM from A to Z** brings us to **Matthew Dubourg**.
 
 Though there are only [7 works by him](https://opac.rism.info/search?View=rism&author=Matthew+Dubourg){:target="_blank"} in the RISM database, one of those is a digitized copy of his Violin Concerto in D major, for which no published edition had previously existed. For RISM's concert "[An Evening of Irish Music](/events/2014/02/24/an-evening-of-irish-music.html){:target="_blank"}" in March 2014, during which we presented the German premiere of the first symphony that was written in Ireland (Paul Alday's Grand Symphony), we also presented another first: the first modern performance of Dubourg's concerto. For this event, our colleague in the RISM Central Office, Alexander Marxen, transcribed the manuscript into a modern edition and it was played by Frank Plieninger and the Junge Sinfoniker Frankfurt:
 
-Matthew Dubourg, Violinkonzert D-Dur. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek, Dresden, [Mus.2962-O-1](http://digital.slub-dresden.de/id333924312){:target="_blank"}(RISM ID no. [212001507](https://opac.rism.info/search?id=212001507){:target="_blank"})
+Matthew Dubourg, Violinkonzert D-Dur. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek, Dresden, [Mus.2962-O-1](http://digital.slub-dresden.de/id333924312){:target="_blank"} (RISM ID no. [212001507](https://opac.rism.info/search?id=212001507){:target="_blank"})
 
 
-It may be downloaded [here (PDF)](/resources-old-website/news/Dubourg_Violinkonzert_D-Dur.pdf), distributed, and performed. You may use the score for non-commercial purposes ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}); in these cases, please mention RISM in the program. If you have questions or comments, or if you would like to receive the parts, please contact[alexander.marxen@rism.info](mailto:alexander.marxen@rism.info).
+It may be downloaded [here (PDF)](/resources-old-website/news/Dubourg_Violinkonzert_D-Dur.pdf), distributed, and performed. You may use the score for non-commercial purposes ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}); in these cases, please mention RISM in the program. If you have questions or comments, or if you would like to receive the parts, please contact [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info).
 
 The following biography is by [Axel Klein](http://axelklein.de/){:target="_blank"} and was written for the program:
 
