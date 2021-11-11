@@ -562,6 +562,8 @@ Hankinson, Andrew, Laurent Pugin und Ichiro Fujinaga: Interfaces for document re
 
 <a name="c2010"></a>**2010:** 
 
+Bemmann, Katrin und Steffen Voss: Ein Notenschrank wandert ins Internet, in: BIS - das Magazin der Bibliotheken in Sachsen 3 (2010), S. 14-16. [Online verfügbar](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-63239){:target="_blank"} 
+
 Downie , J. Stephen, Andreas F. Ehmann, Mert Bay, M. Cameron Jones: The Music Information Retrieval Evaluation eXchange: Some Observations and Insights, in: Advances in Music Information Retrieval: Studies in Computational Intelligence, hrsg. von Zbigniew W. Raś und Alicja A. Wieczorkowska, Springer: Berlin and Heidelberg 2010 (= Studies in Computational Intelligence 274), S. 93-115.
 
 RISM - Wissenschaftliche und technische Herausforderung musikhistorischer Quellenforschung im internationalen Rahmen. Academic and Technical Challenges of Musicological Source Research in an International Framework, hg. von Martina Falletta, Renate Hüsken und Klaus Keil, Hildesheim: Olms 2010 (= Studien und Materialien zur Musikwissenschaft 58), ISBN 978-3-487-14431-3
