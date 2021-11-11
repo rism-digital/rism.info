@@ -8,7 +8,7 @@ category: rediscovered
 image: "/images/news-old-website/csm_Carl_Amand_Mangold_24a3327394.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/rare-performance-of-mangolds-tanhaeuser.html
 email: ''
-author: ''
+author: 'Konzertchor Darmstadt'
 ---
 
 _We would like to draw your attention to a performance in Darmstadt of_ Tanhäuser _by – not Wagner – Carl Amand Mangold. The RISM database has records for a copy of the manuscript in Berlin ([RISM ID no. 456014917](https://opac.rism.info/search?id=456014917){:target="_blank"}) and an aria ([RISM ID no. 464122202](https://opac.rism.info/search?id=464122202){:target="_blank"}) in Mangold's hand. The press release was kindly provided by the [Konzertchor Darmstadt](http://www.konzertchor-darmstadt.de/){:target="_blank"}._

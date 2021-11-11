@@ -11,7 +11,7 @@ email: klaus.keil@rism.info
 author: Klaus Keil
 ---
 
-Colloquium: Researching Copyists and Watermarks in the Digital Age: Between Academic Specialization and Catalog Enrichment
+Colloquium: Researching Copyists and Watermarks in the Digital Age: Between Academic Specialization and Catalog Enrichment  
 Staatsbibliothek zu Berlin, 6-8 October 2014
 
 The study of copyists and watermarks is deeply rooted in the German tradition of researching historical musical sources. Both branches of research are descended from the practice of making scholarly editions for collected works series, especially from the oldest among them, Bach's collected works.

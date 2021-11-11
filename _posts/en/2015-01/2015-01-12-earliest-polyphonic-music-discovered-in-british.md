@@ -8,7 +8,7 @@ category: library_collections
 image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
-author: ''
+author: 'Nicolas Bell'
 ---
 
 _The following entry is by Nicolas Bell and originally appeared on the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/12/earliest-polyphonic-music-discovered-in-british-library.html){:blank}. It is reprinted here with kind permission._
