@@ -456,15 +456,13 @@ Telephone: +48 61 829 64 54\
 Email: [mazurki@amu.edu.pl](mailto:mazurki@amu.edu.pl)\
 See also: [https://www.rism.info/working-groups/poland/poznan/home.html](/working-groups/poland/poznan/home.html){:blank}
 
-Dr. Danuta Popinigis\
-Akademia Muzyczna im. St. Moniuszki\
-Instytut Teorii Muzyki\
-ul. Łąkowa 1-2\
-PL 80-847 Gdańsk\
-Telephone: +48 58 300 92 30\
-Fax: +48 58 300 92 10\
-Email: [danutapopinigis@wp.pl](mailto:danutapopinigis@wp.pl)\
-Website: [http://rism.amuz.gda.pl/](http://rism.amuz.gda.pl/){:target="_blank"}
+Dr. habil. Danuta Popinigis\
+Polska Akademia Nauk Biblioteka Gdańska\
+ul. Wałowa 1\
+PL 80-858 Gdańsk\
+Telephone/fax: +48 / 058 / 301 55 23\
+Email: [danutapopinigis@wp.pl](mailto:danutapopinigis@wp.pl) or [rism@bg.gda.pl](mailto:rism@bg.gda.pl)\
+Website: [https://bgpan.gda.pl/](https://bgpan.gda.pl/){:target="_blank"}
 
 Dr. Dariusz Smolarek\
 Katolicki Uniwersytet Lubelski Jana Pawla II\
@@ -597,7 +595,7 @@ Egipciacas, 15 \
 E-08001 Barcelona\
 Telephone: +34 3 442 65 76\
 Fax: +34 3 4430071\
-Email: [ezquerro@bicat.csic.es](mailto:ezquerro@bicat.csic.es)\
+Email: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
 

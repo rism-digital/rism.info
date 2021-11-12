@@ -13,10 +13,12 @@ author: ''
 
 We have spent this week settling into our new office. We're now on the Goethe Universität Frankfurt campus. While we unpack our boxes and sort out some details, please enjoy these photos that we took before, during, and after the move. More are available on our [Facebook page](https://www.facebook.com/RISM.info){:target="_blank"} (no Facebook account required to view). We look forward to welcoming you here!
 
-[Post](https://www.facebook.com/media/set/?set=a.902365976470914.1073741834.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
 
-[Post](https://www.facebook.com/media/set/?set=a.900206696686842.1073741832.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
 
-[Post](https://www.facebook.com/media/set/?set=a.900204173353761.1073741831.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
+[Saying goodbye to Sophienstraße](https://www.facebook.com/media/set/?set=a.900206696686842.1073741832.103775449663308&type=1)  
 
-[Post](https://www.facebook.com/media/set/?set=a.901231746584337.1073741833.103775449663308&type=1) by [RISM - Répertoire International des Sources Musicales](https://www.facebook.com/RISM.info).
+[Empty Sophienstraße](https://www.facebook.com/media/set/?set=a.901231746584337.1073741833.103775449663308&type=1)  
+
+[Our new office...before](https://www.facebook.com/media/set/?set=a.900204173353761.1073741831.103775449663308&type=1)  
+
+[First day in the new office](https://www.facebook.com/media/set/?set=a.902365976470914.1073741834.103775449663308&type=1)

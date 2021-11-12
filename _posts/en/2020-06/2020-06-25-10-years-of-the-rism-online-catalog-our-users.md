@@ -15,13 +15,13 @@ author: ''
 
 Today we’d like to share a few encouraging words from a very important group of people: our catalog users. When we asked how the catalog has helped research, these are some of the responses we received:
 
-- “The description of notations on the manuscript are quite helpful along with paper date, copyist and ownership details.”
+• “The description of notations on the manuscript are quite helpful along with paper date, copyist and ownership details.”
 _Dennette McDermott, USA_
 
-- “While adding records to RISM, I have also been using it in my research of historic catalogues of the Moravian Church in Europe and America. These catalogues from the late 18th and early 19th centuries cover a core body of music, but also appear to reveal local creations and/or preferences.”
+• “While adding records to RISM, I have also been using it in my research of historic catalogues of the Moravian Church in Europe and America. These catalogues from the late 18th and early 19th centuries cover a core body of music, but also appear to reveal local creations and/or preferences.”
 _Dave Blum, USA_
 
-- “I use RISM probably on a daily basis. I have been able to identify so many concordances in sources and hence works during the last ten years. For my doctorate work, I was able to identify and reunite some manuscript part books of Louis Spohr, thanks to RISM. The feedback form is very easy to use and only helps the whole musical community to collaborate in updating the database and information. Right now, I am working on identifying several new early 18th-century harp sources, which I happened upon totally by accident quite recently. I began looking up a certain composer and then noticed that several collections of this composer also included quite a lot of anonymous music, all having the same book size, format and same origins. I am terribly excited about this research, which could only have begun with RISM. Otherwise, I would have to know the manuscript collections of several libraries across the world intimately. The RISM online cross-references truly open up new directions in research.”
+• “I use RISM probably on a daily basis. I have been able to identify so many concordances in sources and hence works during the last ten years. For my doctorate work, I was able to identify and reunite some manuscript part books of Louis Spohr, thanks to RISM. The feedback form is very easy to use and only helps the whole musical community to collaborate in updating the database and information. Right now, I am working on identifying several new early 18th-century harp sources, which I happened upon totally by accident quite recently. I began looking up a certain composer and then noticed that several collections of this composer also included quite a lot of anonymous music, all having the same book size, format and same origins. I am terribly excited about this research, which could only have begun with RISM. Otherwise, I would have to know the manuscript collections of several libraries across the world intimately. The RISM online cross-references truly open up new directions in research.”
 _Maria Christina Cleary, Italy_
 
 Thank you to our users for the kind words, and thank you for using RISM! We are looking forward to continued collaboration for years to come.

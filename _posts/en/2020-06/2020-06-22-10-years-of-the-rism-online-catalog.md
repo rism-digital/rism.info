@@ -31,5 +31,5 @@ The free RISM database is the central reference point for the publication of the
 
 Over the next few years, a completely new access point to the records will be made possible through musical works. The starting point will be authority files for works, which are already used in some libraries. The Central Office has used VIAF as a guide in its initial attempts but is now intensively looking into opportunities with the Integrated Authority File of the German National Library.
 
-Klaus Keil
+Klaus Keil  
 June 2020

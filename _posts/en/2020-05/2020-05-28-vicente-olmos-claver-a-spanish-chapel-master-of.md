@@ -75,7 +75,7 @@ BAMV: Biblioteca Ateneo Mercantil de Valencia
 
 PM: Score [Partitura Musical]
 
-(ACV): 2796 Música y músicos, Volumen 1631. L_ibro de salarios y nombramiento de Capellanes cantores y de músicos de 1605 a 1810_.
+(ACV): 2796 Música y músicos, Volumen 1631. _Libro de salarios y nombramiento de Capellanes cantores y de músicos de 1605 a 1810_.
 
 (ARV), sección Clero, _Libro de Misas celebradas por su Capellanía_, libro núm. 2828.
 
