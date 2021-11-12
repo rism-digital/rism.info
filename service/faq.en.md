@@ -10,7 +10,7 @@ old_url: http://www.rism.info/service/faqs.html
 
 ## Which sources can be found in RISM?
 
-The [online catalog](https://opac.rism.info/){:target="_blank"} contains over 1.2 million entries, mainly music manuscripts from between the years 1600 and 1850. As of 2021, there are also ca. 212,000 entries for printed music, as well as some libretti and treatises. Please see [the catalog's "Content" page](https://opac.rism.info/main-menu-/kachelmenu/content){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog. 
+The [online catalog](https://opac.rism.info/){:target="_blank"} contains over 1.3 million entries, mainly music manuscripts from between the years 1600 and 1850. As of 2021, there are also ca. 212,000 entries for printed music, as well as some libretti and treatises. Please see [the catalog's "Content" page](https://opac.rism.info/main-menu-/kachelmenu/content){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog. 
 
 Some of the bigger libraries are not (yet) completely documented in RISM but they tend to have - as opposed to, say, smaller church libraries - their own comprehensive, searchable catalog. We are actively working on transferring records from other libraries to RISM. Sources that are now lost are not documented in RISM.
 
@@ -18,7 +18,7 @@ RISM's [book publications](/publications.html), specifically series B, document 
 
 ## How complete is RISM?
 
-We estimate - based on a survey we sent to our national groups 20 years ago - that there are approximately 1.8 million extant manuscripts dating between 1600 and 1800 and at least 2 million from between 1800 and 1950. Of printed music to 1800, there must be around 140,000 copies still extant. Thanks to new printing technology, this figure increases rapidly during the nineteenth century and there might be as many as 4 million music printed editions worldwide from this time. Our numbers are just estimates; nobody has the resources to count such a large amount of manuscripts and prints. 
+We estimate - based on a survey we sent to our national groups 20 years ago - that there are approximately 1.8 million extant manuscripts dating between 1600 and 1800 and at least 2 million from between 1800 and 1950. Of printed music to 1800, there must be around 140,000 copies still extant. Thanks to new printing technology, this figure increases rapidly during the nineteenth century and there might be as many as 4 million music printed editions worldwide from this time. Our numbers are just estimates; nobody has the resources to count such a large amount of manuscripts and prints.
 
 RISM is, therefore, far from complete, but it is the most comprehensive resource for historical musical sources there is.
 

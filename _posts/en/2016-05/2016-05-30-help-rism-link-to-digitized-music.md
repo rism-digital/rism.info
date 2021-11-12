@@ -11,6 +11,8 @@ email: ''
 author: ''
 ---
 
+_This post was [updated in 2021](/rism_online_catalog/2021/08/23/help-rism-link-digitized-sources.html){:blank}._  
+
 The RISM online catalog offers over 18,000 links to digitized music: scores, parts, and printed editions from all around the world. This ease of access to the sources is one of the most popular features of the catalog.
 
 Current RISM contributors add links to digital objects (when available) when creating new RISM records, but there are thousands of older records without links. We at the Central Office try to link to digital collections when we hear about them, but invariably we miss some.
@@ -25,7 +27,7 @@ If RISM hasn't linked to your scans yet, please alert us to your digital collect
 | 290002576   | http://digital.slub-dresden.de/id435400657 |
 | 550509317   | http://www.manuscriptorium.com/apps/index.php?direct=record&pid=rep_remake31 |
 | 900005489   | http://juilliardmanuscriptcollection.org/manuscript/siegfried-idyll |
-| 00000990000383 | http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078 | 
+| 00000990000383 | http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7078 |
 | 00000993103826 | http://imslp.org/wiki/Special:ReverseLookup/307092 |  
 
 The RISM database contains all of series [A/II](/publications.html#c36) (mostly music manuscripts but also some printed music, libretti, and treatises), plus all of the [A/I](/publications.html#c36) series (items printed separately) and years 1500 to 1550 of [B/I](/publications.html#c2619) (printed anthologies).
@@ -38,7 +40,7 @@ For items from B/I that are not in the online catalog, please make sure to send 
 | B/I number | Permalink |
 | ----------- | ----------- |
 | 1553\|8   | http://purl.org/rism/BI/1553/8 |
-| 1559\|2 | http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.200182423/default.html | 
+| 1559\|2 | http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.200182423/default.html |
 
 Items from B/II do not have unique reference numbers. For these, please indicate the title, page number, and permalink:
 

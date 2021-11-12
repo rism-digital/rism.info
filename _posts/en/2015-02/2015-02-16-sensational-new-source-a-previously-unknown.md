@@ -40,11 +40,11 @@ A is the sole source, and all following Individual comments refer to it.
 
 _Individual Comments_
 
-12  Notated with red crayon above staff: "Alaaf!!!" [Cologne carnival cheer].
-41–43 pf u Only partly written out. Completed according to parallel measures.
+12  Notated with red crayon above staff: "Alaaf!!!" [Cologne carnival cheer].  
+41–43 pf u Only partly written out. Completed according to parallel measures.  
 69–76 pf l Only partly written out. Completed according to parallel measures.
 
-Cologne/Munich, Thursday before Shrove Tuesday 2015
+Cologne/Munich, Thursday before Shrove Tuesday 2015  
 G. Henle Publishers
 
 **English translation of text:**  

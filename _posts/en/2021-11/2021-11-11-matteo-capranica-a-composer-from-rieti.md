@@ -32,7 +32,7 @@ His only known instrumental works — some toccatas for cembalo  and a duet for 
 
 A collection of charming, virtuous "Solfeggi di Contraldo" [sic], which are preserved in the National Library of Portugal, completes our picture of the composer's known works.  
 
-Image: “Amoroso” from the _Solfeggi di Contraldo [sic]_, Biblioteca nacional de Portugal (P-Ln F.C.R. 32). [Available online](https://purl.pt/30130){:blank} (public domain).  
+_Image_: “Amoroso” from the _Solfeggi di Contraldo [sic]_, Biblioteca nacional de Portugal (P-Ln F.C.R. 32). [Available online](https://purl.pt/30130){:blank} (public domain).  
 
 
 **Italiano:**  
