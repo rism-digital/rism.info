@@ -562,6 +562,8 @@ Hankinson, Andrew, Laurent Pugin und Ichiro Fujinaga: Interfaces for document re
 
 <a name="c2010"></a>**2010:** 
 
+Bemmann, Katrin und Steffen Voss: Ein Notenschrank wandert ins Internet, in: BIS - das Magazin der Bibliotheken in Sachsen 3 (2010), S. 14-16. [Online verfügbar](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-63239){:target="_blank"} 
+
 Downie , J. Stephen, Andreas F. Ehmann, Mert Bay, M. Cameron Jones: The Music Information Retrieval Evaluation eXchange: Some Observations and Insights, in: Advances in Music Information Retrieval: Studies in Computational Intelligence, hrsg. von Zbigniew W. Raś und Alicja A. Wieczorkowska, Springer: Berlin and Heidelberg 2010 (= Studies in Computational Intelligence 274), S. 93-115.
 
 RISM - Wissenschaftliche und technische Herausforderung musikhistorischer Quellenforschung im internationalen Rahmen. Academic and Technical Challenges of Musicological Source Research in an International Framework, hg. von Martina Falletta, Renate Hüsken und Klaus Keil, Hildesheim: Olms 2010 (= Studien und Materialien zur Musikwissenschaft 58), ISBN 978-3-487-14431-3
@@ -917,6 +919,8 @@ Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv d
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
 Wong, Chelsea und Thomas Huthwaite: Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music, in: Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand 123 (April 2021), S. 10–18. [Online verfügbar](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}  
+
+YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle), in: Library Journal 40(2021),  no. 9, S. 39-47. [Online verfügbar](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}
 
 
 **Anmerkung:**

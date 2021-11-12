@@ -7,7 +7,7 @@ post: true
 category: events
 image: "/images/news-old-website/csm_muscat_03_df0154796c.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/muscat-workshops-this-fall.html
-email: coloquio.tallerdeedicion@gmail.com
+email: ''
 author: ''
 ---
 
@@ -28,11 +28,12 @@ Ein weiterer Muscat Workshop wird am 3., 5. und 6. Oktober 2017 im Rahmen der Ko
 
 Zwei Workshops werden in Österreich angeboten und von zwei Mitarbeitern der dortigen RISM-Arbeitgruppen druchgeführt. Begrenzte Teilnehmerzahl. Anmeldung bei Stefan Engl ([stefan.engl@onb.ac.at](mailto:stefan.engl@onb.ac.at)).
 
-- 12. Oktober 2017
-Workshopleitung: Dr. Eva Neumayr (Stiftung Mozarteum, RISM Salzburg)
-Uhrzeit: 10.30 – 16.30
-Ort: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg
-- 17. Oktober 2017
-Workshopleitung: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)
-Uhrzeit: 10.30 – 16.30
+- 12. Oktober 2017\
+Workshopleitung: Dr. Eva Neumayr (Stiftung Mozarteum, RISM Salzburg)\
+Uhrzeit: 10.30 – 16.30\
+Ort: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg\
+
+- 17. Oktober 2017\
+Workshopleitung: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)\
+Uhrzeit: 10.30 – 16.30\
 Ort: [Österreichische Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}, Ausbildungsabteilung
