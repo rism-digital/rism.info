@@ -15,7 +15,7 @@ author: ''
 
 "Mrs. Hurst sang with her sister, and while they were thus employed, Elizabeth could not help observing, as she turned over some music-books that lay on the instrument, how frequently Mr. Darcy's eyes were fixed on her."
 
-- Jane Austen, [_Pride and Prejudice_](http://www.janeausten.org/pride-and-prejudice/chapter-10.asp){:target="_blank"} (1813)
+\- Jane Austen, [_Pride and Prejudice_](http://www.janeausten.org/pride-and-prejudice/chapter-10.asp){:target="_blank"} (1813)
 
 Any fan of Jane Austen (1775-1817) knows to what degree music permeates the atmosphere of her books, making a [recent announcement](http://www.southampton.ac.uk/news/2015/12/jane-austen-music-books.page){:target="_blank"} from the University of Southampton's Hartley Library (GB-SOu) all the more exciting: the Austen Family Music Books collection has been digitized and is available online. Several of the books were compiled or used by Austen herself.
 
