@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RISM auf dem IAML-Kongress RISM-SitzungenPräsentationen der RISM-Kollegen
+title: RISM auf dem IAML-Kongress
 date: 2016-06-13
 lang: de
 post: true
@@ -22,54 +22,33 @@ Besuchen Sie auch den RISM-Tisch während der Konferenz.
 
 **Dienstag, 5. Juli**
 
--
-
-9:00-10:30: Workshop (offen): The Ins and Outs of the RISM OPAC
+- 9:00-10:30: Workshop (offen): The Ins and Outs of the RISM OPAC
 Dieser Workshop stellt verschiedene Aspekte des RISM Online-Katalogs vor, der seit 2010 frei zugänglich ist. Für alle Interessenten, die mit dem RISM-OPAC arbeiten oder ihn Studenten und Fakultätsmitgliedern vermitteln wollen.
 
--
+  - Klaus Keil (RISM Zentralredaktion, Frankfurt am Main): The RISM OPAC: Contents and development
 
-Klaus Keil (RISM Zentralredaktion, Frankfurt am Main): The RISM OPAC: Contents and development
+  - Jennifer Ward (RISM Zentralredaktion, Frankfurt am Main): RISM like a Pro: Tips, Tricks, and Mistakes to Avoid
 
--
+  - Zuzana Petrášková (Národní knihovna České republiky): OPAC RISM = Hilfe für die Forschung, Edition und Interpretation der überlieferten Musik. Erfahrungen aus der Nationalbibliothek der Tschechischen Republik
 
-Jennifer Ward (RISM Zentralredaktion, Frankfurt am Main): RISM like a Pro: Tips, Tricks, and Mistakes to Avoid
-
--
-
-Zuzana Petrášková (Národní knihovna České republiky): OPAC RISM = Hilfe für die Forschung, Edition und Interpretation der überlieferten Musik. Erfahrungen aus der Nationalbibliothek der Tschechischen Republik
-
--
-
-Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM and ICCU Musica
+  - Massimo Gentili-Tedeschi (Istituto Centrale per il Catalogo Unico, Rome): RISM and ICCU Musica
 
 
 **Donnerstag, 7. Juli**
 
--
+- 9:00-10:30: RISM Open Session
 
-9:00-10:30: RISM Open Session
+  - Klaus Keil (RISM Zentralredaktion): News and information
 
--
+  - Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer Ward (RISM Zentralredaktion): Presentation of the new program for source documentation: Muscat 3.0
 
-Klaus Keil (RISM Zentralredaktion): News and information
-
--
-
-Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer Ward (RISM Zentralredaktion): Presentation of the new program for source documentation: Muscat 3.0
-
-
--
-
-11:00-12:30: Advisory Council (offen für alle Vertreter der Arbeitsgruppen)
+- 11:00-12:30: Advisory Council (offen für alle Vertreter der Arbeitsgruppen)\
 Vorsitz: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
 
 **Freitag, 8. Juli**
 
--
-
-9:00-10:30: Commission Mixte (geschlossenes Arbeitstreffen; offen nur für Mitglieder oder auf Einladung)
+- 9:00-10:30: Commission Mixte (geschlossenes Arbeitstreffen; offen nur für Mitglieder oder auf Einladung)\
 Vorsitz: Wolf‐Dieter Seiffert (Präsident des RISM, RISM Commission Mixte, München)
 
 

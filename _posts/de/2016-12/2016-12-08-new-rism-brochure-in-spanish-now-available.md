@@ -7,9 +7,10 @@ post: true
 category: new_publications
 image: "/images/news-old-website/csm_Broschuere_Spanisch_bc0742d113.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/new-rism-brochure-in-spanish-now-available.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
+
 Das RISM Kurzporträt ist jetzt auch in einer englisch-spanisch Version unter dem Titel "RISM: Presentación general" verfügbar. Von der [RISM Website](/publications/brochures.html){:target="_blank"} ist ein Download möglich.
 
 
