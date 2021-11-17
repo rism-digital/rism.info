@@ -37,7 +37,7 @@ This session will continue the skills learned in Monday’s session. Participant
 
 **To register,** please email [contact@rism.info](mailto:contact@rism.info){:blank}.
 
-Additional online workshops are planned for the spring and fall of 2022. Additional workshops can be held upon request. To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
+This introductory workshop will be repeated in the spring and fall of 2022. Additional workshops can be held upon request. To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
 
 ## Past workshops and demonstrations  
 
