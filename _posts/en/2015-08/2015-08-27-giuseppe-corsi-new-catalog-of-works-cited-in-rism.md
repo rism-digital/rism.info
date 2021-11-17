@@ -7,7 +7,7 @@ post: true
 category: new_publications
 image: "/images/news-old-website/csm_Corsi-stravaganza_8e01e290b2.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/giuseppe-corsi-new-catalog-of-works-cited-in-rism.html
-email: martina.falletta@rism.info
+email: ''
 author: ''
 ---
 Each year, numerous scholarly books, editions, and catalogs of works are published. Many foreign prints or publications from smaller publishers are not acquired by libraries. Not every publication gets the recognition that it really deserves.

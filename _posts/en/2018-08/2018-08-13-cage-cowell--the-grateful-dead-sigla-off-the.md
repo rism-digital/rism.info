@@ -23,7 +23,7 @@ We hope that these new institutions can be of use for researchers.
 
 For **John Cage** researchers, we now have a siglum for the [John Cage Trust](http://www.johncage.org/){:target="_blank"} at Bard College: **US-RHjct**
 
-There are three new-to-us institutions related to the research of **Henry Cowell** :
+There are three new-to-us institutions related to the research of **Henry Cowell**:
 
 - [Temple of the People](https://www.templeofthepeople.org/){:target="_blank"}: A church in Halcyon, California with the William Quan Judge Library and [materials related to Cowell](https://issuu.com/josephinechang/docs/cowell-papers-at-halcyon){:target="_blank"}: **US-HAL**
 - [The New School](https://library.newschool.edu/archives/){:target="_blank"} in New York: **US-NYnscl**

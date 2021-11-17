@@ -19,4 +19,6 @@ The video was created as part of the project [Entwicklung innovativer Curricula 
 
 The RISM video covers the importance of musical sources, the structure of RISM’s printed catalogs, RISM library sigla, searching using the online catalog, lesser-known music, and using the advanced search.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K34u716Uwmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K34u716Uwmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+&nbsp;  
+&nbsp;  

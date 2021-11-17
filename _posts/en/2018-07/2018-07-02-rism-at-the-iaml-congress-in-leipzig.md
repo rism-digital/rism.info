@@ -7,7 +7,7 @@ post: true
 category: events
 image: "/images/news-old-website/csm_IAML_Leipzig_logo_2018_3205319617.png"
 old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/rism-at-the-iaml-congress-in-leipzig.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -42,4 +42,4 @@ RISM news, including a presentation of the newly released RISM online catalog
 
 In addition, don’t miss RISM-related presentations and talks from our RISM contributors throughout the week. The full program is [available online](http://iaml2018.info/programme/){:target="_blank"}.
 
-**After the congress** : Come visit us in Frankfurt! [Contact us](mailto:contact@rism.info) and let us know if you will be coming. You can visit us Monday through Friday between 9 and 5.
+**After the congress**: Come visit us in Frankfurt! [Contact us](mailto:contact@rism.info) and let us know if you will be coming. You can visit us Monday through Friday between 9 and 5.

@@ -19,7 +19,7 @@ Also involved in the development process are members of the [Coordinating Commit
 
 Work has progressed to the point where we are hoping to release the program this fall.
 
-**Muscat offers many advantages** :
+**Muscat offers many advantages**:
 
 - Muscat is browser based and platform independent. It can be used on any computer – PC or Mac; laptop, desktop, or tablet device – with an internet connection.
 
@@ -42,7 +42,7 @@ Work has progressed to the point where we are hoping to release the program this
 - A beta version is currently available for testing by current RISM contributors.
 
 
-**Timeline** :
+**Timeline**:
 
 - The test phase will go until September 5, 2016. The Central Office has already sent all Kallisto users login information to the test version of Muscat.
 

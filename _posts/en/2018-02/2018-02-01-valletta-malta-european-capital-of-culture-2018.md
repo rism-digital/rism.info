@@ -31,7 +31,7 @@ San Filippo, Senglea (M-S)
 
 There aren't any sources in the RISM catalog from Malta yet...does anyone out there have any leads? Nevertheless, we do have some sources by Maltese composers, and their compositions can be found around the world.
 
-**Nicolas Isouard** , also Nicolò de Malte (1775, Mosta – 1818, Paris), was a Maltese composer with French roots. He composed over 40 operas that were popular in Paris and elsewhere. This can be seen in the over [200 sources in RISM](https://opac.rism.info/search?View=rism&author=Isouard+Nicolas&Language=en){:target="_blank"}.
+**Nicolas Isouard**, also Nicolò de Malte (1775, Mosta – 1818, Paris), was a Maltese composer with French roots. He composed over 40 operas that were popular in Paris and elsewhere. This can be seen in the over [200 sources in RISM](https://opac.rism.info/search?View=rism&author=Isouard+Nicolas&Language=en){:target="_blank"}.
 
 [Almost as many sources](https://opac.rism.info/search?View=rism&author=Abos+Girolamo&Language=en){:target="_blank"} can be found for **Girolamo Abos** (1715, Valletta – 1760, Naples). He left Malta at the young age of 10 in order to study music in Naples. Abos spent his life there as a music teacher at different conservatories and was also _maestro di cappella_ at several churches. His sacred and secular works were performed throughout Europe, though to varying degrees of success.
 

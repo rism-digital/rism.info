@@ -32,7 +32,7 @@ Chair: Laurent Pugin, RISM Switzerland
 **Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2322)
 
-**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and[Edirom](http://www.edirom.de/){:target="_blank"}Online  
+**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/){:target="_blank"}Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/){:target="_blank"} online)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2309)
 
@@ -62,7 +62,7 @@ Chair: **Jürgen Diet** (Bavarian State Library, Munich)
 
 **Emanuel Wegner** (Austrian Academy of Sciences, Vienna): [Bernstein - The Memory of Paper](https://www.memoryofpaper.eu/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2346)  
-  
+
 **Teresa M. Gialdroni** (Italy): [Clori](http://www.cantataitaliana.it/){:target="_blank"}, Archivio della cantata italiana: Current State of Progressand New Perspectives  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2273)
 
@@ -118,10 +118,10 @@ Chair: Christoph Wolff (President, RISM Commission Mixte)
 
 **Heidi Heinmaa** (National Library of Estonia): Musical Sources in Estonian Collections  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2280)  
-  
+
 **Hildegard Herrmann-Schneider** (RISM Tyrol - South Tyrol & OFM Austria): "Die Musikbibliographie ist die Grundlage alles historischen Wissens." On Today'sRelevance of Robert Eitner's CentralIdea from 1898 ("Die Musikbibliographie ist die Grundlage alles historischen Wissens". Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2281)  
-  
+
 3:30-4:00 PM Coffee break
 
 Chair: Catherine Massip (Bibliothèque nationale de France)  
@@ -141,9 +141,9 @@ Chair: Catherine Massip (Bibliothèque nationale de France)
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2283)  
 **Franz Jürgen Götz** (RISM Germany): Musical Figures: The Transmission of Music Notation in the Visual Arts (Notenbilder – Überlieferung von musikalischer Notation in der bildenden Kunst)   
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2345)  
-  
+
 6:00 PM Light dinner  
-  
+
 7:30 PM Concert
 
 Members of Barock vokal and the Neumeyer Consort, directed by Felix Koch, will play works by Johann Christian Bach in arrangements by Wolfgang Amadeus Mozart, Giovanni Battista Bononcini, Arcangelo Corelli, Georg Friedrich Händel and Georg Philipp Telemann.
@@ -152,15 +152,15 @@ Members of Barock vokal and the Neumeyer Consort, directed by Felix Koch, will p
 # Wednesday, June 6, 2012
 
 9:00 AM Full meeting, continued   
-  
+
 Chair: Karl Wilhelm Geck (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)  
-  
+
 **Steffen Voss** (RISM Germany): The Instrumental Repertoire of the Dresden Court: AReport onthe DFG Project at the SLUB Dresden (Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2318)  
-  
+
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2307)  
-  
+
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2285)
 
@@ -178,10 +178,10 @@ Chair: Karl Wilhelm Geck (Sächsische Landesbibliothek – Staats- und Universit
 **Emilia Rassina** (RISM Russia): Current Work of RISM in Russia  
 _This paper will be read in absentia by Jennifer Ward (RISM Zentralredaktion)_  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2287)  
-  
+
 **Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2323)  
-  
+
 **John G. Lazos** (Canada/Mexico): A Portrait of the Composer José Antonio Gómez: Encountering Independent Mexico through New Technologies  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2288)
 
@@ -204,5 +204,5 @@ _This paper will be read in absentia by Cristina Urchueguía (RISM Switzerland).
 
 **Sarah Adams** (RISM US): Update on the US Working Group  
 _This paper will be read in absentia by Jennifer Ward (RISM Zentralredaktion)_  
-  
+
 3:30-4:30 PM Closing discussion

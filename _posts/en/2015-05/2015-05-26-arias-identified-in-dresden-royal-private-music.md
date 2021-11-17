@@ -11,8 +11,7 @@ email: Roberto.Scoccimarro@slub-dresden.de
 author: Roberto Scoccimarro
 ---
 
-_Our colleague Roberto Scoccimarro from the SLUB in Dresden (D-Dl) brings us the latest from the_ _[Dresden Court Music](http://hofmusik.slub-dresden.de/news/details/single/neue-zuschreibungen-bei-den-ariensammlungen/){:target="_blank"}_ _project._
-
+_Our colleague Roberto Scoccimarro from the SLUB in Dresden (D-Dl) brings us the latest from the_ _[Dresden Court Music](http://hofmusik.slub-dresden.de/news/details/single/neue-zuschreibungen-bei-den-ariensammlungen/){:target="_blank"}_ _project._  
 
 Arias in the Royal Private Music Collection are full of exciting surprises, allowing us to identify composers and put stray arias back with their operas.
 
