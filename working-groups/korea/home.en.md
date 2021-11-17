@@ -29,14 +29,14 @@ The Ewha Music Research Institute (EMRI) recently completed a 3-year project to 
 
 {% include image file="/resources-old-website/pics/Logo_Suedkorea_03.jpg" pos="left" %}
 
-## In the news: From the First[最初] to the Best[最高]: Ewha Music Research Institute
+## In the news: From the First [最初] to the Best [最高]: Ewha Music Research Institute
 
 The Ewha Music ResearchInstitute (EMRI) is consistently gaining recognition as a hub for the study of East Asian music, namely that of China, Japan, and Korea, as it continues to embark on new collaborative research projects and organizes pertinent conferences focusing on important issues of documenting and digitizing primary sources in East Asian music. The Ewha College of Music, as the first music education institute in Korea, has led the field of Western music education and performance since its establishment in 1925. And, since its establishment in 1997, the EMRI has been diligently creating inner-connective environments in which the three important field of music (education, performance and research) are integrated through interdisciplinary approaches. [_Continue..._](/in_the_news/2015/03/12/from-the-first-to-the-best-ewha-music.html){:blank}  
 &nbsp;  
 &nbsp;  
 
 {% include image file="/resources-old-website/workgroups-images/Ewha_2013_conference_program.JPG" pos="left" %}
- 
+
 ## Events: 2013 Conference: Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation
 
 The [Ewha Music Research Institute](http://my.ewha.ac.kr/musicie/){:blank} held an international conference, “Keeping Music Alive: Innovative Approaches to Music Documentation and Interpretation” on November the 8th and the 9th at the Recital Hall in the Music Building at Ewha Womans University in Seoul, South Korea. This conference facilitated prolific academic conversations about critical issues on the documentation, sharing, and interpretation of music materials. Practical issues revolving around the collecting and indexing of music documents in different societies were addressed and compared; technical issues on digitalization and database establishment were discussed; and their implications for new musicological research were elaborated. Scholars, representatives of international organizations, such as RISM, [RILM](http://rilm.org/){:blank}, and [IAML](http://www.iaml.info/){:blank}, and representatives of local music archives and libraries from ten different countries were partaking in this interdisciplinary collaboration and conversation as guest speakers. Concerts and a cultural tour pertaining to the theme of the conference were also offered on November the 8th and the 10th as affiliated programs.

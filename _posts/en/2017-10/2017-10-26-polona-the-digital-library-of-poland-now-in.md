@@ -18,9 +18,9 @@ Polona includes treasures of Polish culture from the National Library and a numb
 **How do you find music?**  
 Go to the main menu on the left and click on the [**Items**](https://polona.pl/items/?filters=public:1){:target="_blank"} panel.
 
-For **printed music** , select the category "[scores](https://polona.pl/items/?filters=category:scores,public:1,hasTextContent:0){:target="_blank"}" — the button with a music note.
+For **printed music**, select the category "[scores](https://polona.pl/items/?filters=category:scores,public:1,hasTextContent:0){:target="_blank"}" — the button with a music note.
 
-For **music manuscripts** , select the category "[manuscripts](https://polona.pl/items/?filters=category:manuscripts,public:1,hasTextContent:0){:target="_blank"}" — the button showing a page with writing — and further select the genre "[rękopisy muzyczne](https://polona.pl/items/?filters=category:manuscripts,metatype:r%C4%99kopisy_muzyczne,public:1,hasTextContent:0){:target="_blank"}" (music manuscripts).
+For **music manuscripts**, select the category "[manuscripts](https://polona.pl/items/?filters=category:manuscripts,public:1,hasTextContent:0){:target="_blank"}" — the button showing a page with writing — and further select the genre "[rękopisy muzyczne](https://polona.pl/items/?filters=category:manuscripts,metatype:r%C4%99kopisy_muzyczne,public:1,hasTextContent:0){:target="_blank"}" (music manuscripts).
 
 High-resolution images are available and items in the public domain may be reused without asking for permission.
 

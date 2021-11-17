@@ -27,7 +27,7 @@ Last year, we enjoyed sharing news with you from the world of musical sources: d
 
 But in 2017—as in 2016 and 2015—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.
 
-**Social media highlights** :
+**Social media highlights**:
 
 - [The newly discovered Leuven Chansonnier](http://www.standaard.be/cnt/dmf20170424_02848707){:target="_blank"}
 - [A 13th-century English book of hours with an animal parade

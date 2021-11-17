@@ -44,7 +44,7 @@ The presentations, in alphabetical order:
 
 **Catherine Ferris** (RISM Ireland): RISM Activity in the UK and Ireland  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ferris.pdf) (PDF)  
-  
+
 **Massimo Gentili-Tedeschi** (URFM Italy): Music Manuscripts as a Special Case toward the Extension of Bibliographic Descriptive Standards for Unpublished Resources  
 [Link to presentation](http://www.urfm.braidense.it/rism2012){:target="_blank"}
 
@@ -112,8 +112,8 @@ The presentations, in alphabetical order:
 
 **Emilia Rassina** (RISM Russia): Current Work of RISM in Russia  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf) (PDF)  
-  
-**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and[Edirom](http://www.edirom.de/)Online  
+
+**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/)Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/) online)
 
 **Ludmiła Sawicka** (RISM Poland):The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)   

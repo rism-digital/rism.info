@@ -48,7 +48,7 @@ _1.6.16/4;e Tell him Apollo greets him well_
 
 Order today and become the proud new owner of the **RISM Complete Incipits Edition**. Or buy a set for your favorite music library.
 
-And that's not all! If you order today you will receive a bonus CD, **The Best of RISM Complete Incipits Edition** , to listen to in your car or take to the beach.
+And that's not all! If you order today you will receive a bonus CD, **The Best of RISM Complete Incipits Edition**, to listen to in your car or take to the beach.
 
 Order now before it is too late! Use [this convenient order form](https://opac.rism.info/search?id=806426732){:target="_blank"}.
 

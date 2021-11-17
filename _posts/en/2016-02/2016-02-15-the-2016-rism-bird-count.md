@@ -50,7 +50,7 @@ A version is available digitized from [IMSLP](http://imslp.org/wiki/The_Bird_Fan
 
 Does anyone else have other sightings they'd like to report? Let us know in the comments below!
 
-**Search tip** : Use Boolean operators to exclude sources where the bird is found in a person's name. Do an Advanced Search and enter the bird in the field **All fields** , then enter the bird name in both the fields **Other names** and **Composer**. Select **not** from the drop-down menu that precedes these fields:
+**Search tip**: Use Boolean operators to exclude sources where the bird is found in a person's name. Do an Advanced Search and enter the bird in the field **All fields**, then enter the bird name in both the fields **Other names** and **Composer**. Select **not** from the drop-down menu that precedes these fields:
 
 ![advanced search](/resources-old-website/news/Vogelzaehlung_opac.jpg)
 

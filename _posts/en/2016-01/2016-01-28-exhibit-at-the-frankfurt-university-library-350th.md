@@ -23,6 +23,6 @@ Exploring the Herbst collection can yield some treasures, such as the only compl
 
 Enjoy this performance of "Probasti Domine" from Vinko Jelić's collection (start on p. 25 if you're following along with the digitized parts):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wV1b0Kj1onM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wV1b0Kj1onM" frameborder="0" allowfullscreen></iframe>  
 
-_Image_
+_Image_: Sebastian Furck, Johann Andreas Herbst, copper plate engraving, Frankfurt am Main, 1635. Universitätsbibliothek Frankfurt am Main, S36_G04115.

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-We are currently going through the results of the first-ever RISM user study about the online catalog.An online survey with 62 questions was available from 30 October 2014 until 28 February 2015. Our goal is to get to know our users better (such as where they are from, what kind of experience they have with RISM, and how they use RISM) and find out how they use the online catalog (both available for free from [www.rism.info](http://www.rism.info) and [opac.rism.info](http://opac.rism.info)).
+We are currently going through the results of the first-ever RISM user study about the online catalog. An online survey with 62 questions was available from 30 October 2014 until 28 February 2015. Our goal is to get to know our users better (such as where they are from, what kind of experience they have with RISM, and how they use RISM) and find out how they use the online catalog (both available for free from [www.rism.info](http://www.rism.info) and [opac.rism.info](http://opac.rism.info)).
 
 We are very pleased to report that 551 people filled out the survey (342 in English and 209 in German). We'd like to thank every participant for sharing their opinions and comments with us!
 
@@ -60,8 +60,8 @@ As we continue to evaluate the responses to this question, we will especially ke
 
 ![Question 55](/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_What_country.jpg)
 
-**55. What country do you live in?
-56. If your country does not appear above, please enter it here.**
+**55. What country do you live in?**
+**56. If your country does not appear above, please enter it here.**
 
 23 responses in question 55 were either blank or marked "other." 4 people filled in question 56. In total, 532 people indicated a country.
 

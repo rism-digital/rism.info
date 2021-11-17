@@ -43,7 +43,7 @@ Printed Paris, Aubert (gravé par Dargonne). RISM A/I: [VV 28 I,1](https://opac.
 "L'heureuse securité": RISM A/I: [V 1456](https://opac.rism.info/search?id=00000990066466){:target="_blank"} (see image)
 "Le regret": RISM A/I: [V 1457](https://opac.rism.info/search?id=00000990066467){:target="_blank"}
 
-**Mme. De Villeblanche** , who died before 1782 at the age of 24 in France
+**Mme. De Villeblanche**, who died before 1782 at the age of 24 in France
 _Quatre sonates pour le piano-forte ou le clavecin_
 Printed Paris, Desormery (gravées par Mme Brichet de St. Quentin). RISM A/I: [V 1560](https://opac.rism.info/search?id=00000990066570){:target="_blank"}
 
