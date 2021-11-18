@@ -9,7 +9,7 @@ sidepanel: "sidepanels/working-groups/poland-lublin"
 
 # Poland: Lublin: The John Paul II Catholic University of Lublin
 
-**Ongoing projects** :
+**Ongoing projects**:
 
 Currently, the music collection of the [diocesan library](http://www.bdsandomierz.pl/){:blank} in Sandomierz (PL-SA) is being processed.
 

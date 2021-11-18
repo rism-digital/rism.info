@@ -26,6 +26,6 @@ The concomitant conference will shed light onto issues of collection history, ta
 
 Initiated by papers on the interdependence of collection history and professional music history and on the historic transition of court collections to modern research libraries, the symposium will also contribute to the bicentennial of SLUB Dresden’s Music Department.
 
-In order to make the music of the project come alive, a choice of compositions of the Court Church Music and the Royal Private Collection will be performed in a[concert](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/conference/concert/) by students of the University of Music and Theatre "Felix Mendelssohn Bartholdy" of Leipzig. For the concert programme will be in charge the well-known Italian conductor[Federico Maria Sardelli](https://en.wikipedia.org/wiki/Federico_Maria_Sardelli).
+In order to make the music of the project come alive, a choice of compositions of the Court Church Music and the Royal Private Collection will be performed in a [concert](http://hofmusik.slub-dresden.de/en/themes/court-church-and-royal-private-music-collection/conference/concert/) by students of the University of Music and Theatre "Felix Mendelssohn Bartholdy" of Leipzig. For the concert programme will be in charge the well-known Italian conductor [Federico Maria Sardelli](https://en.wikipedia.org/wiki/Federico_Maria_Sardelli).
 
-We thank the[Deutschen Forschungsgemeinschaft](http://www.dfg.de/)for the support.
+We thank the [Deutschen Forschungsgemeinschaft](http://www.dfg.de/)for the support.

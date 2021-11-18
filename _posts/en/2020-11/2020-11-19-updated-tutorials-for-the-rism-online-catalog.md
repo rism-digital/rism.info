@@ -12,9 +12,9 @@ author: ''
 ---
 
 New, updated tutorials are now available for the [RISM Online Catalog](https://opac.rism.info/index.php?id=4).   
-  
+
 All tutorials are available through the [catalog's Help page](https://opac.rism.info/main-menu-/kachelmenu/help) as well as through [RISM's YouTube channel](https://www.youtube.com/channel/UCWLRkiqVuq8BrYbCArubi_w) and the playlist [Guides to the RISM Online Catalog](https://www.youtube.com/playlist?list=PL9SyOIE9iSYL2YlhBKnoLn9ZUuw7Rjc13).   
-  
+
 All videos are in English and include English captions.
 
 **Three introductory videos** give an overview of how to use the catalog's main features:
@@ -31,7 +31,7 @@ Two additional videos **demonstrate advanced techniques** in the catalog:
 
 * Paging through collections ([YouTube video](https://youtu.be/WFkjj77P1sM)): How to page through manuscript collections, from the first piece to the last.
 
-One video focuses on **printed music in RISM** :
+One video focuses on **printed music in RISM** 
 
 * Printed Music Editions in the RISM Online Catalog ([YouTube video](https://youtu.be/VAYT_aU2AxA)): What printed editions are in RISM, search strategies, how records are structured.
 

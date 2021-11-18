@@ -7,11 +7,11 @@ post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Hofkirche_02_711638f0b5.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/arias-identified-in-dresden-royal-private-music-collection.html
-email: Roberto.Scoccimarro@slub-dresden.de
+email: contact@rism.info
 author: Roberto Scoccimarro
 ---
 
-_Unser Kollege Roberto Scoccimarro von der SLUB in Dresden (D-Dl) schrieb diese Neuigkeiten zum__[Dresdener Hofmusik](http://hofmusik.slub-dresden.de/news/details/single/neue-zuschreibungen-bei-den-ariensammlungen/){:target="_blank"}_ _Projekt._
+_Unser Kollege Roberto Scoccimarro von der SLUB in Dresden (D-Dl) schrieb diese Neuigkeiten zum [Dresdener Hofmusik](http://hofmusik.slub-dresden.de/news/details/single/neue-zuschreibungen-bei-den-ariensammlungen/){:target="_blank"} Projekt._
 
 
 Die einzeln überlieferten Arien der "Königlichen Privat-Musikaliensammlung" bieten aufregende Überraschungen in den Bereichen der Komponistenzuschreibung und der Zuordnung von Arien zur zugehörigen Oper.

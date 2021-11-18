@@ -576,7 +576,7 @@ Egipciacas, 15 \
 E-08001 Barcelona\
 Tel: +34 3 442 65 76\
 Fax: +34 3 4430071\
-E-Mail: [ezquerro@bicat.csic.es](mailto:ezquerro@bicat.csic.es)\
+E-Mail: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Webseite: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
 

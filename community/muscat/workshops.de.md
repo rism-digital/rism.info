@@ -7,18 +7,24 @@ permalink: /community/muscat/workshops.html
 
 # Schulungen
 
-Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der einzelnen Ländergruppen organisiert und angeboten. Wir unterstützen Sie gerne. Muscat kann auch online via Skype gezeigt werden. 
+Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der einzelnen Ländergruppen organisiert und angeboten. Wir unterstützen Sie gerne. Muscat kann auch online gezeigt und vorgestellt werden. 
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
 ## Zukünftige Schulungen
 
-Oktober 2021 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, Südkorea 
-*JeongYoun Chang, Korea National University of Arts*
+**Archivpraktikum, Universität Salzburg, 26. November und 10. Dezember 2021**  
+_Eva Neumayr, RISM Salzburg_
+
+**2021 Herbst-Workshop: Muscat Einführung (Englisch), online**  
+ **Montag, 29. November und Mittwoch, 1. Dezember 2021**   
+_Jennifer Ward, RISM-Zentralredaktion_
 
 
+## Vergangene Workshops und Vorführungen
 
-# Vergangene Workshops und Vorführungen
+* Oktober 2021 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea 
+* *JeongYoun Chang, Korea National University of Arts*
 
 * 22\. und 24\. Juni 2021: Muscat Einführung, online\
 *Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
