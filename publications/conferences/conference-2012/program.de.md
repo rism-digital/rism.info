@@ -15,7 +15,7 @@ ab 9.00 Uhr Registrierung
 10.00 Uhr Eröffnung  
 Raum: Plenarsaal
 
-Redner: Vertreter der Akademie der Wissenschaften un der Literatur, Mainz; President der Commission Mixte des RISM; Vertreter der Johannes Gutenberg Universität Mainz; Vertreter der Patronatsgesellschaften IAML und IMS
+Redner: Vertreter der Akademie der Wissenschaften un der Literatur, Mainz; Präsident der Commission Mixte des RISM; Vertreter der Johannes Gutenberg Universität Mainz; Vertreter der Patronatsgesellschaften IAML und IMS
 
 11.00-11.30 Kaffeepause
 
@@ -37,16 +37,16 @@ Vorsitz: Laurent Pugin, RISM Schweiz
 13.00 - 14.00 Uhr Mittagspause
 
 Vorsitz: Klaus Keil  
-**Catherine Ferris** (RISM Ireland):RISM Activity in the UK and Ireland  
+**Catherine Ferris** (RISM Ireland): RISM Activity in the UK and Ireland  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2343)
 
-**Sonja Tröster, Birgit Lodes** (Österreichische Akademie der Wissenschaften, Wien): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
+**Sonja Tröster, Birgit Lodes** (Österreichische Akademie der Wissenschaften, Wien): Tracing Ludwig Senfl in Sixteenth-Century Sources: A Catalogue Raisonné in a Digital Environment  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2272)
 
-**Klaus Pietschmann** (Johann Gutenberg Universität Mainz) **,**  **Christiane Wiesenfeldt** (Universität Hamburg) **:** Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts  
+**Klaus Pietschmann** (Johann Gutenberg Universität Mainz), **Christiane Wiesenfeldt** (Universität Hamburg): Die MessDatenBank (MDB) des Mainzer Musikwissenschaftlichen Instituts  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2313)
 
-**Jürgen Diet** (Bayerische Staatsbibliothek München): Searchingthe RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources  
+**Jürgen Diet** (Bayerische Staatsbibliothek München): Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2271)
 
 **Anne Graham, Deborah Pierce** (University of Washington): RISM Data as Metadata for Digital Collections   
@@ -58,21 +58,21 @@ Vorsitz: Richard Chesser
 **Eva Neumayr** (RISM Salzburg): Wasserzeichen zur Identifizierung von zusammengehörigen Quellenbestandteilen  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2341)
 
-**Emanuel Wegner** (Österreichische Akademie der Wissenschaften, Wien):[Bernstein - The Memory of Paper](http://www.memoryofpaper.eu:8080/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research  
+**Emanuel Wegner** (Österreichische Akademie der Wissenschaften, Wien): [Bernstein - The Memory of Paper](http://www.memoryofpaper.eu:8080/BernsteinPortal/appl_start.disp){:target="_blank"}: A Portal for Watermark Research  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2346)  
   
 **Teresa M. Gialdroni** (Italien): [Clori](http://www.cantataitaliana.it/){:target="_blank"}, Archivio della cantata italiana: Current State of Progressand New Perspectives  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2273)
 
-**Laurent Pugin** (RISM CH): The Use of METS for Delivering Digital Objects together with RISM CatalogRecords  
+**Laurent Pugin** (RISM Schweiz): The Use of METS for Delivering Digital Objects together with RISM Catalog Records  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2344)
 
-**Peter van Kranenburg** (Meertens Institute, Amsterdam) **, Geert-Jan Giezeman and Frans Wiering** (University ofUtrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits  
+**Peter van Kranenburg** (Meertens Institute, Amsterdam), **Geert-Jan Giezeman and Frans Wiering** (University of Utrecht): An Alignment-Based Melodic Similarity Measure for RISM Incipits  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2275)
 
 # Dienstag, 5. Juni 2012
 
-09.00 - 11.00 **Workshop**  **für RISM Ländergruppen**. Gestaltung eigener Websites im Rahmen von rism.info  
+09.00 - 11.00 **Workshop für RISM Ländergruppen**. Gestaltung eigener Websites im Rahmen von rism.info  
 Stephan Hirsch, Jennifer Ward (RISM Zentralredaktion) und Jörg Hambuch (Akademie der Wissenschaften und der Literatur, Mainz)  
 In der Mathematisch-naturwissenschaftliche Klasse  
   
@@ -108,7 +108,7 @@ Vorsitz: Christoph Wolff (Präsident, RISM Commission Mixte)
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2279)
 
 
-**Andrea Hartmann** (RISMArbeitsgruppe Deutschland): Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden  
+**Andrea Hartmann** (RISM Arbeitsgruppe Deutschland): Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2317)  
   
 **Heidi Heinmaa** (National Library of Estonia): Musical Sources in Estonian Collections  
@@ -151,13 +151,13 @@ Mitglieder von Barock vokal und das Neumeyer Consort unter Leitung von Felix Koc
 
 Vorsitz: Karl Wilhelm Geck (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)  
   
-**Steffen Voss** (RISMArbeitsgruppe Deutschland): Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden.  
+**Steffen Voss** (RISM Arbeitsgruppe Deutschland): Das Instrumentalmusikrepertoire der Dresdner Hofkapelle – Ein Erfahrungsbericht über das DFG-Projekt an der SLUB Dresden.  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2318)
 
 **Laurence Decobert** (RISM France): The Databases of RISM in France: Outlook and New Prospects (Le portail RISM France : contenu et perspectives)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2307)
 
-**Metoda Kokole,**  **Klemen Grabnar** (RISM Slowenien): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Centuty Choirbooks  
+**Metoda Kokole, Klemen Grabnar** (RISM Slowenien): RISM in Slovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Centuty Choirbooks  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2285)
 
 **Cheryl Martin** (RISM Kanada): Canadian Music Resources in RISM  
@@ -174,7 +174,7 @@ Vorsitz: Karl Wilhelm Geck (Sächsische Landesbibliothek – Staats- und Univers
 _Dieser Beitrag wird von Jennifer Ward (RISM Zentralredaktion) vorgelesen._  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2287)  
   
-**Beatriz Magalhaes Castro** (UniversitätBrasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval  
+**Beatriz Magalhaes Castro** (Universität Brasilia): RISM Brazil in Relation to Ibero-American RISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2323)
 
 **John G. Lazos** (Canada/Mexiko): A Portrait of the Composer José Antonio Gómez: Encountering Independent Mexico through New Technologies  

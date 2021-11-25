@@ -20,6 +20,6 @@ Das von polnischen Historikern initiierte Forschungsprojekt „Hereditas Monaste
 Bei der Online-Dokumentation von Musikquellen wirken eine Reihe polnischer RISM-Mitarbeiter mit: Agnieszka Drożdżewska (Wrocław), Ewa Hauptman-Fischer (Warsaw), Patryk Frankowski (Poznań), Grzegorz Joachimiak (Wrocław), Alina Mądry (Poznań), Remigiusz Pośpiech (Opole/Wrocław), Ludmiła Sawicka (Cardiff/Lublin) und Katarzyna Spurgjasz (Warsaw).
 
 
-Die Online-Datenbank ist in polnischer Sprache gehalten. Unter den Stichwörtern[**Cystersi, Lubiąż**](http://pw.kasaty.pl/klasztor/Monastery/489.html){:target="_blank"} finden sich zum Beispiel folgende Katalogisate von Musikquellen. Rechter Hand zeigt ein Suchfilter eine Liste der katalogisierten Objekte an, die Musikalien unter dem Stichwort **Muzykalia**. Viel Spaß beim Stöbern.
+Die Online-Datenbank ist in polnischer Sprache gehalten. Unter den Stichwörtern [**Cystersi, Lubiąż**](http://pw.kasaty.pl/klasztor/Monastery/489.html){:target="_blank"} finden sich zum Beispiel folgende Katalogisate von Musikquellen. Rechter Hand zeigt ein Suchfilter eine Liste der katalogisierten Objekte an, die Musikalien unter dem Stichwort **Muzykalia**. Viel Spaß beim Stöbern.
 
 _Was gibt es noch Neues aus der polnischen Quellenforschung? Teil 2 folgt am Mittwoch mit einer Beschreibung der Konferenz Klasztor i muzyka / Klöster und Musik - bleiben Sie dran._

@@ -11,10 +11,10 @@ email: marcin.konik@gmail.com
 author: Marcin Konik
 ---
 
-_Marcin Konik (RISM Polen) hat ein Projekt zur Musikpflege im Benediktinerinnenkloster in Staniątki, Polen (PL-STAb)_ _abgeschlossen. Daraus resultieren [250 neue Einträge](https://opac.rism.info/search?View=rism&siglum=PL-STAb){:target="_blank"} in der RISM-Datenbank, die von Ludmiła Sawicka eingearbeitet wurden. Dies ist eine Zusammenfassung eines [neu veröffentlichten Aufsatzes](https://doi.org/10.5281/zenodo.846546){:target="_blank"}, der ausführlich über die Musikkultur an diesem Kloster berichtet:_
+_Marcin Konik (RISM Polen) hat ein Projekt zur Musikpflege im Benediktinerinnenkloster in Staniątki, Polen (PL-STAb) abgeschlossen. Daraus resultieren [250 neue Einträge](https://opac.rism.info/search?View=rism&siglum=PL-STAb){:target="_blank"} in der RISM-Datenbank, die von Ludmiła Sawicka eingearbeitet wurden. Dies ist eine Zusammenfassung eines [neu veröffentlichten Aufsatzes](https://doi.org/10.5281/zenodo.846546){:target="_blank"}, der ausführlich über die Musikkultur an diesem Kloster berichtet:_
 
 
-**Musik im Klosterleben**  **der Abtei St. Adalbert in Staniątki**
+**Musik im Klosterleben der Abtei St. Adalbert in Staniątki**
 
 Im Laufe der Jahrhunderte hat die reiche Musikkultur im Benediktinerinnenkloster in Staniątki eine große Formenvielfalt angenommen. Das Fundament des Musiklebens war wie immer das gesungene Officium. Eine der Nonnen schrieb:
 
@@ -22,8 +22,8 @@ Im Laufe der Jahrhunderte hat die reiche Musikkultur im Benediktinerinnenkloster
 
 Das Hauptanliegen des Aufsatzes ist es, anhand verschiedener Beispiele zu zeigen, wie das Musikleben im Kloster über die Jahrhunderte hinweg aussah.
 
-Äußerst interessant erscheint dabei die Frage eines möglichen Engagements von Nonnen bei der Aufführung vokal-instrumentaler Msuik durch eine Ensemble. Die Praxis solcher Lösungen in polnischen Benediktinerinnenklöstern wird durch die Erforschung anderer Klöster bestätigt. In Sandomierz beispielsweise gab es im 18. Jahrhundert eine Gruppe von Nonen, die ohne eine Mitgift, aber aufgrund ihrer musikalischen Talente in das Kloster aufgenommen wurden. Darüber hinaus wich ihr Tagesrhythmus leicht von dem anderer Nonnen ab. Sie wurden gelegentlich von einigen Stunden befreit, um sich auf die Aufführung vorbereiten zu können. Leider haben wir keine Belege, die ähnliche Rückschlüsse auf diesen Brauch für die Nonnen von Staniątki zulassen. Wir können jedoch bestimmte Fakten kombinieren udn davon ausgehen, dass wie in Sandomierz, die Nonnen aktiv an der vokal-instrumentalen Musikdarbietung teilnahmen.
+Äußerst interessant erscheint dabei die Frage eines möglichen Engagements von Nonnen bei der Aufführung vokal-instrumentaler Msuik durch eine Ensemble. Die Praxis solcher Lösungen in polnischen Benediktinerinnenklöstern wird durch die Erforschung anderer Klöster bestätigt. In Sandomierz beispielsweise gab es im 18. Jahrhundert eine Gruppe von Nonen, die ohne eine Mitgift, aber aufgrund ihrer musikalischen Talente in das Kloster aufgenommen wurden. Darüber hinaus wich ihr Tagesrhythmus leicht von dem anderer Nonnen ab. Sie wurden gelegentlich von einigen Stunden befreit, um sich auf die Aufführung vorbereiten zu können. Leider haben wir keine Belege, die ähnliche Rückschlüsse auf diesen Brauch für die Nonnen von Staniątki zulassen. Wir können jedoch bestimmte Fakten kombinieren und davon ausgehen, dass wie in Sandomierz, die Nonnen aktiv an der vokal-instrumentalen Musikdarbietung teilnahmen.
 
 Der Artikel entstand im Rahmen des Forschungsprojekts Nr. 2011/03/D/HS2/01824 finanziert durch das Nationale Zentrum der Wissenschaften (Narodowe Centrum Nauki).
 
-_Abbildung_ : Die Benediktinerinnenabtei in Staniątki von Piotrekwas, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
+_Abbildung_: Die Benediktinerinnenabtei in Staniątki von Piotrekwas, über [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_klasztorny_Benedyktynek,_Stani%C4%85tki,_A-251_M_16.jpg){:target="_blank"}
