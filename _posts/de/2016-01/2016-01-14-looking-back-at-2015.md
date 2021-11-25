@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_Website_2015_45b59b0cc6.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/looking-back-at-2015.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -18,9 +18,6 @@ Die fünf beliebtesten Nachrichten, die wir auf unserer Webseite 2015 veröffent
 1. [Neue CD-Ausgabe im Set: Die vollständige RISM-Incipit Edition](/new_at_rism/2015/04/01/new-cd-box-set-the-rism-complete-incipits-edition.html){:target="_blank"} (unser Aprilscherz)
 2. [Frühestes polyphonies Musikwerk in British Library entdeckt](/library_collections/2015/01/12/earliest-polyphonic-music-discovered-in-british.html){:target="_blank"} - gemeinsam mit unseren Kollegen der British Library veröffentlicht
 3. [Neue Vivaldi-Entdeckungen in Dresden](/rediscovered/2015/10/08/new-discoveries-of-vivaldi-in-dresden.html){:target="_blank"} - von unseren RISM-Nutzer Francisco Javier Lupiáñez Ruiz
-
-Francisco Javier Lupiáñez Ruiz
-
 4. [Digitalisierung von Opernpartituren am Deutschen Historischen Institut in Rom](/library_collections/2015/09/07/digitized-opera-scores-at-the-german-historical.html){:target="_blank"} - von unserem Kollegen Roland Pfeiffer am DHI
 5. [Orontea von Antonio Cesti](/in_the_news/2015/02/02/antonio-cestis-orontea.html){:target="_blank"} - unser Blick auf eine in Frankfurt gespielte Oper
 
@@ -34,7 +31,7 @@ Diese Beiträge zeigen die Kooperation, die wir mit unseren RISM-Partnerinstitut
 2. [Die Karten- und Musiksammlung der Bodleian Library jetzt online](https://iamlukirl.wordpress.com/2015/10/26/bodleians-entire-maps-and-music-collection-now-searchable-online/){:target="_blank"} - vom IAML (UK & Irl) blog
 3. Die [Portuguese Early Music Database](http://pemdatabase.eu/){:target="_blank"}: freier Zugang zu einer großen Zahl von vor ca. 1650 geschriebenen Notenhandschriften, die in vielen Bibliotheken und Archiven in Portugal und umliegenden spanischen Orten aufbewahrt werden
 4. Die "Original-Quelle" einer vertrauten Weihnachtsmelodie? "[Reno erat Rudolphus](https://youtu.be/BwkH1SAwphY){:target="_blank"}" aus dem Mittelalter
-5. Mozart-Autograph in Budapest gefunden:[Ein Interview (2014)](https://youtu.be/lRrqKZYSSIE){:target="_blank"} mit unserem Kollegen Balázs Mikusi von RISM-Ungarn
+5. Mozart-Autograph in Budapest gefunden: [Ein Interview (2014)](https://youtu.be/lRrqKZYSSIE){:target="_blank"} mit unserem Kollegen Balázs Mikusi von RISM-Ungarn
 
 **RISM-Publikationen**
 RISM wurde in den folgenden Aufsätzen erwähnt, die wir in der [RISM-Bibliographie](http://rism.info/?id=56){:target="_blank"} aufgelistet haben:
@@ -45,7 +42,7 @@ RISM wurde in den folgenden Aufsätzen erwähnt, die wir in der [RISM-Bibliograp
 - Lisken-Pruss, Marion: Pater Dariusz Smolarek erforscht geistliche Musik, in: Rheinische Post, 11. August 2015. [Online verfügbar](http://www.rp-online.de/nrw/staedte/korschenbroich/pater-dariusz-smolarek-erforscht-geistliche-musik-aid-1.5303071){:target="_blank"}.
 - Martin, Cheryl: CAML 2015 Annual Report: RISM Canada, in: CAML Review 43 (2015), S. 18. [Online verfügbar](http://caml.journals.yorku.ca/index.php/caml/article/view/40226/36401){:target="_blank"}.
 - Nägele, Reiner: FID Musikwissenschaft an der Bayerischen Staatsbibliothek, in: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München (2015/2), S. 10-13. [Online verfügbar](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/BM2015_2.pdf){:target="_blank"}.
-- Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in:Early Music (2015).[Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}.
+- Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in:Early Music (2015). [Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}.
 - Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment, in:Zeitschrift für Bibliothekswesen und Bibliographie 62 (2015), S. 49-53. [Online in 2016](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
 Wir sind immer daran interessiert, Nachrichten über die Arbeit aus den RISM-Ländergruppen oder über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas berichten möchten, [bitte schreiben Sie uns](mailto:contact@rism.info).

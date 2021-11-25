@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-The annual conference of the [German Musicological Society (Gesellschaft für Musikforschung)](https://www.musikforschung.de/):{blank} is taking place this week in Bonn. The theme of the conference is [Musicology after Beethoven](https://www.gfm2020.uni-bonn.de/startseite){:blank}.  
+The annual conference of the [German Musicological Society (Gesellschaft für Musikforschung)](https://www.musikforschung.de/){:blank} is taking place this week in Bonn. The theme of the conference is [Musicology after Beethoven](https://www.gfm2020.uni-bonn.de/startseite){:blank}.  
 
 Please join us on Thursday, 30 September at 11:30 for our paper entitled "[Source Documentation in RISM since Beethoven](https://www.gfm2020.uni-bonn.de/programm){:blank}."  
 

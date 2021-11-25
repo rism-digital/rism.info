@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Vor einem Monat aalten wir uns noch in der warmen italienischen Sonne genossen die vielen Vorträge auf der[IAML-Konferenzin Rom](http://www.iaml2016.org/){:target="_blank"}. Kürzlich brachten wir Sie auf den neuesten Stand über die [Entwicklung unseres neuen Katalogisierungsprogrammes Muscat](/new_at_rism/2016/07/21/rism-at-iaml-part-1-muscat-almost-ready-to-go.html){:target="_blank"} (freundlicherweise von unseren Kollegen von Papeles de Musicá[ins Spanische übersetzt](https://papelesdemusica.wordpress.com/2016/07/22/muscat-nuevo-software-libre-para-la-catalogacion-de-musica/){:target="_blank"}). Einige andere von RISM durchgeführte Sitzungen, die für Sie ebenfalls von Interesse sein könnten, möchten wir an dieser Stelle zusammenfassen.
+Vor einem Monat aalten wir uns noch in der warmen italienischen Sonne genossen die vielen Vorträge auf der [IAML-Konferenz in Rom](http://www.iaml2016.org/){:target="_blank"}. Kürzlich brachten wir Sie auf den neuesten Stand über die [Entwicklung unseres neuen Katalogisierungsprogrammes Muscat](/new_at_rism/2016/07/21/rism-at-iaml-part-1-muscat-almost-ready-to-go.html){:target="_blank"} (freundlicherweise von unseren Kollegen von Papeles de Musicá [ins Spanische übersetzt](https://papelesdemusica.wordpress.com/2016/07/22/muscat-nuevo-software-libre-para-la-catalogacion-de-musica/){:target="_blank"}). Einige andere von RISM durchgeführte Sitzungen, die für Sie ebenfalls von Interesse sein könnten, möchten wir an dieser Stelle zusammenfassen.
 
 Am 5. Juli organisierte RISM einen Workshop mit dem Titel "The Ins and Outs of the RISM OPAC", der aufgrund des unerwarteten Ausfalls der Internetverbindung, nicht wirklich einen Workshop-Charakter hatte und uns Einiges an Improvisation abverlangte. Jennifer Wards Präsentation "RISM Like a Pro" (die Folien sind [hier](/resources-old-website/community-content/Zentralredaktion/Ward_RISM_like_a_pro_IAML_Rome_2016.pdf){:target="_blank"} verfügbar) richtete sich an alle (beispielsweise Bibliothekare), die den Onlinekatalog an Andere (Studenten oder Dozenten)vermitteln müssen und war gespickt mit Insider-Tipps und Tricks. Werfen Sie einen Blick auf die Folien, vielleicht entdecken auch Sie noch etwas ganz Neues!
 
@@ -19,30 +19,20 @@ Zwei Vorträge der Tagung waren Beiträgevon RISM-Ländergruppen. Zuzana Petrá�
 
 Am 7. Juli fand die traditionelle offene RISM-Sitzung statt. Zu Beginn berichtete Klaus Keil, woran RISM akutell arbeitet ([Folien](/resources-old-website/community-content/Zentralredaktion/Praesentation_Keil_Rome_2016_IAML.pdf){:target="_blank"}). Einige Highlights:
 
--
+- Datenimporte sind in Zusammenarbeit mit RISM Frankreich, ICCU Musica, der [Spanischen Nationalbibliothek](http://www.bne.es/){:target="_blank"} und der [Österreichischen Nationalbibliothek](http://www.onb.ac.at/ev/){:target="_blank"}geplant.
 
-Datenimporte sind in Zusammenarbeit mit RISM Frankreich, ICCU Musica, der[Spanischen Nationalbibliothek](http://www.bne.es/){:target="_blank"}und der[Österreichischen Nationalbibliothek](http://www.onb.ac.at/ev/){:target="_blank"}geplant.
+- Der [Online-Katalog](https://opac.rism.info/){:target="_blank"} wird im Spätherbst ein kleineres Update erleben, sobald Muscat veröffentlicht wurde. Wir hoffen außerdem auf eine bessere Integration sowohl unserer eigenen als auch der externen Normdaten beispielsweise aus Ressourcen wie VIAF.
 
--
+- Auch [Serie B](/publications.html) wächst weiter und der Band _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wird in diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
 
-Der[Online-Katalog](https://opac.rism.info/){:target="_blank"} wird im Spätherbst ein kleineres Update erleben, sobald Muscat veröffentlicht wurde. Wir hoffen außerdemauf eine bessere Integration sowohlunserer eigenen als auch der externenNormdaten beispielsweise aus Ressourcen wie VIAF.
+- Die Ergebnisse der [RISM-Nutzerstudie](/community/survey.html) wurden veröffentlicht.
 
--
-
-Auch[Serie B](/publications.html) wächst weiter und der Band_Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (herausgegeben von Ludwig Finscher, Laurenz Lütteken und Inga Mai Groote, mit Unterstützung von Cristina Urchueguía, Gabriela Freiburghaus und Nicola Schneider), wirdin diesem Jahr bei Henle in Buchform und als Datenbank erscheinen.
-
--
-
-Die Ergebnisse der[RISM-Nutzerstudie](/community/survey.html)wurdenveröffentlicht.
-
--
-
-RISM führt die Zusammenarbeit mit der[Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"}fort, um die Bestände der[RISM Serie C](/publications.html#c2620)zu aktualisieren und zu ergänzen. Die Richtlinien wurden verfasst und erste Testdaten wurden in eine Datenbank importiert.
+- RISM führt die Zusammenarbeit mit der [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} fort, um die Bestände der [RISM Serie C](/publications.html#c2620)zu aktualisieren und zu ergänzen. Die Richtlinien wurden verfasst und erste Testdaten wurden in eine Datenbank importiert.
 
 
-Die übrige Sitzung widmete sich vor allemMuscat.
+Die übrige Sitzung widmete sich vor allem Muscat.
 
-Bei der Sitzung desAdvisory Council, an der Mitglieder der RISM-Ländergruppen mit anderen interessierten Parteien teilnahmen, vereinbarten das Council und die RISM-Zentralredaktion Folgendes:
+Bei der Sitzung des Advisory Council, an der Mitglieder der RISM-Ländergruppen mit anderen interessierten Parteien teilnahmen, vereinbarten das Council und die RISM-Zentralredaktion Folgendes:
 
 Jede Arbeitsgruppe wird einen Monat vor dem Wechsel auf Muscat Zugang zur finalen Muscat-Version bekommen (vermutlich zwischen Mitte September und Mitte Oktober). Während dieser Zeit wird Kallisto weiterhin das einzige Erfassungsprogramm bleiben. Daten, die während dieses Zeitraums in Muscat eingegeben werden, gehen verloren. Es wird keine Übergangsphase geben, in der beide Systeme parallel laufen.Kallisto wird zu einem bestimmten Zeitpunkt abgeschaltet und Muscat wird innerhalb weniger Tage (über das Wochenende) freigeschaltet.
 
@@ -55,4 +45,4 @@ Sobald die finaleMuscat-Version vorliegt, wird die Zentralredaktion die Richtlin
 Jürgen Diet erinnerte daran, dass die Bayrische Staatsbibliothek, die für die Publikation des RISM-Onlinekataloges verantwortlich ist, ausreichend Zeit benötigt, um für die Implementierung der Daten von Muscat zu planen.
 
 
-Es gibt also noch viel zu tun! Wir werden Sie an dieser Stelle über alle Neuigkeiten zu diesen Projekteninformieren.
+Es gibt also noch viel zu tun! Wir werden Sie an dieser Stelle über alle Neuigkeiten zu diesen Projekten informieren.
