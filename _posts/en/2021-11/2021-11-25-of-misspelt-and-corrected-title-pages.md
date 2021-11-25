@@ -21,19 +21,19 @@ Leonhard von Call, _Trois duos pour deux flutes_, Schott 1452, ([1820]). [RISM I
 
 With regard to the names of composers and dedicatees, caution is advised. If you think about the sheer endless number of ways to spell names like Johann Baptist Vanhal (RISM lists 51 variants) it can be impossible to tell if the engraver actually misspelt it or intended it the way it appears. Some variants might seem strange to the modern eye (such as “Mozard”) but that doesn’t mean they were uncommon back in their day. The same can be said for the varying use of umlauts and French or Italian name variants. This shows why it is so important that RISM entries include an exact title page transcription as well as standardised names.  
 
-As an example, the title pages of works by Joseph Küffner published by Schott in Mainz offer a wide range of variants such as Küffner, Kuffner, Kûffner and Kuͤffner.  
+As an example, the title pages of works by Joseph Küffner published by Schott in Mainz offer a wide range of variants such as Küffner, Kuffner, Kûffner and Ku&#x0364;ffner.  
 
 {% include image file="/images/news/2021-11/Fehlerhafte Titelblätter_2_website.jpg" %}   
-Joseph Küffner, _10 pieces pour guitarre, flûte et alto_, Schott 574, [1812]. [D-Mbs Mus.Schott.Ha 725-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00115138-3){:blank}; _Serenade pour clarinette ou violon, alto & guitarre_, Schott 710, [1813]. [D-Mbs Mus.Schott.Ha 833](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00114969-2){:blank}; _Cinquieme Pot-Pourri pour guitarre et flûte_, Schott 1699, [1822]. [D-Mbs Mus.Schott.Ha 1633-2](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00116061-1){:blank}; and two editions of _Polonaise favorite pour Piano-Forte_, Schott 1875, [1823]. [D-Mbs Mus.Schott.Ha 1796-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00113992-6){:blank} and [D-Mbs Mus.Schott.Ha 1796-2](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00113993-1){:blank}.  
+_Joseph Küffner, 10 pieces pour guitarre, flûte et alto, Schott 574, [1812]. [D-Mbs Mus.Schott.Ha 725-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00115138-3){:blank}; Serenade pour clarinette ou violon, alto & guitarre, Schott 710, [1813]. [D-Mbs Mus.Schott.Ha 833](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00114969-2){:blank}; Cinquieme Pot-Pourri pour guitarre et flûte, Schott 1699, [1822]. [D-Mbs Mus.Schott.Ha 1633-2](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00116061-1){:blank}; and two editions of Polonaise favorite pour Piano-Forte, Schott 1875, [1823]. [D-Mbs Mus.Schott.Ha 1796-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00113992-6){:blank} and [D-Mbs Mus.Schott.Ha 1796-2](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00113993-1){:blank}._  
 
 In contrast, the following title page is certainly the result of a mishap. The engraver obviously skipped over one “e” in “Beethoven” and then sought to correct it as quickly as possible.  
 
 {% include image file="/images/news/2021-11/Fehlerhafte Titelblätter_3_website.jpg" %}  
-Ludwig van Beethoven, _Ouverture de Prometeo_, Schott edition of the earlier Zulehner edition, number 241, [1818]. [D-Mbs Mus.Schott.Ha 484-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00112925-5){:blank}.  
+_Ludwig van Beethoven, Ouverture de Prometeo, Schott edition of the earlier Zulehner edition, number 241, [1818]. [D-Mbs Mus.Schott.Ha 484-1](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00112925-5){:blank}._  
 
 And last but not least, a personal favourite which shall be left open for your speculation. Were the words on this title page arranged this way on purpose, or is it the result of something else—whatever that may be?  
 
 {% include image file="/images/news/2021-11/Fehlerhafte Titelblätter_4_website.jpg" %}  
-Wolfgang Amadeus Mozart, _Cosi fan tutte_, Schott 1483, [1821]. [RISM ID no.  990043315](https://opac.rism.info/search?id=990043315&View=rism){:blank}; A/I M/MM 4749. [D-Mbs Mus.Schott.Ha 1458](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00115552-2){:blank}.  
+_Wolfgang Amadeus Mozart, Cosi fan tutte, Schott 1483, [1821]. [RISM ID no.  990043315](https://opac.rism.info/search?id=990043315&View=rism){:blank}; A/I M/MM 4749. [D-Mbs Mus.Schott.Ha 1458](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00115552-2){:blank}._  
 
 _All images used under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de){:blank} license._
