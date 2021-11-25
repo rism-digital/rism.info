@@ -10,11 +10,11 @@ old_url: http://www.rism.info/en/community/muscat.html
 
 {% include image file="/images/community/muscat.png" pos="right" %}
 
-Muscat is RISM's central cataloging program for musical sources (manuscripts, printed music, libretti, and treatises). It is developed as an open-source project by the RISM under the leadership of the [RISM Digital Center](https://rism.digital){:target="_blank"} and in close collaboration with the Editorial Center and the working groups. For more information about the project, its philosophy and its history, visit the [Muscat Project](http://muscat-project.org/history.html){:target="_blank"} website.
+Muscat is RISM's central cataloging program for musical sources (manuscripts, printed music, libretti, and treatises). It is developed as an open-source project by RISM under the leadership of the [RISM Digital Center](https://rism.digital){:target="_blank"} and in close collaboration with the Editorial Center and the working groups. For more information about the project, its philosophy and its history, visit the [Muscat Project](http://muscat-project.org/history.html){:target="_blank"} website.
 
 ## About Muscat
 
-As of December 2020, Muscat contains in total 1,484,000 musical sources, 139,000 authority records for personal names, 59,000 institutions, and 36,000 records for secondary literature. Muscat includes sources from the RISM series A/I, A/II, and B/I, as well as sources outside these series. 
+As of December 2020, Muscat contains in total 1,484,000 musical sources, 139,000 authority records for personal names, 59,000 institutions, and 36,000 records for secondary literature. Muscat includes sources from the RISM series A/I, A/II, and B/I, as well as sources outside these series.
 
 Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:target="_blank"}, web-based, platform-independent program. It uses MARC21 and thus has an internationally widespread and standardized data model at its core. Additional features include:
 * Built-in version control to identify changes
