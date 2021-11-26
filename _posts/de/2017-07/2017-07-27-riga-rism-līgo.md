@@ -19,12 +19,17 @@ _Vier Personen aus der RISM-Zentralredaktion nahmen im Juni 2017 am jährlichen 
 Der Tagungsort, die Lettische Nationalbibliothek, ist ein imposantes Gebäude. Besonders beeindruckend ist der Blick aus dem 14. Stock, quasi ein Panorama der Stadt Riga.
 
 Die Musikabteilung hält aber noch einen weiteren, leider noch ungehobenen Schatz. Hier werden ca. 30 Regalmeter Material aus dem ehemaligen Städtischen Deutschen Theater - heute Lettische Nationaloper - aufbewahrt. Es handelt sich um gedruckte und handgeschriebene Noten, Libretti, Theaterzettel.
+
+
 ![Regale](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_keil_opernsammlung_1.jpg)
+
 _Foto: K. Keil_
 
-Mikus Čeže hat schon vor Jahren bei einer Konferenz des Instituts Deutsche Musikkultur im östlichen Europa an der Universität Bonn berichtet, dass dieser Bestand bei Umbauarbeiten hinter einem zugemauerten Treppenaufgang gefunden wurde.\* Es dürfte sich also um Material aus dem 18. Jahrhundert handeln, das man zum Zeitpunkt des Umbaus nicht mehr brauchte. Rein zufällig bin ich auf einen gedruckten Klavierauszug der Oper „Il Matrimonio per Raggiro“ von Domenico Cimarosa (1749-1801) gestoßen, die hier offensichtlich in deutscher Fassung mit dem Titel „Die Heirat durch List“ vorliegt. Es ist ein weit verbreiteter Druck; bei RISM zu finden unter [RISM ID no. 00000990009693](https://opac.rism.info/search?id=00000990009693) (A/I: C 2247) .
+Mikus Čeže hat schon vor Jahren bei einer Konferenz des Instituts Deutsche Musikkultur im östlichen Europa an der Universität Bonn berichtet, dass dieser Bestand bei Umbauarbeiten hinter einem zugemauerten Treppenaufgang gefunden wurde.\* Es dürfte sich also um Material aus dem 18. Jahrhundert handeln, das man zum Zeitpunkt des Umbaus nicht mehr brauchte. Rein zufällig bin ich auf einen gedruckten Klavierauszug der Oper „Il Matrimonio per Raggiro“ von Domenico Cimarosa (1749-1801) gestoßen, die hier offensichtlich in deutscher Fassung mit dem Titel „Die Heirat durch List“ vorliegt. Es ist ein weit verbreiteter Druck; bei RISM zu finden unter [RISM ID no. 00000990009693](https://opac.rism.info/search?id=00000990009693) (A/I: C 2247).
+
 
 ![Druck](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_keil_opernsammlung_2.jpg)
+
 _Foto: K. Keil_
 
 1882 brannte das Weisse Haus, das Gebäude in dem sich die Oper befindet, nieder. Der Bestand scheint das überstanden zu haben, doch sein Zustand ist heute nicht gut. Die Bibliothek hat alles in Kartons verpackt und verwahrt ihn unter optimalen Bedingungen. Dringend wäre eine Reinigung und ggf. Restaurierung erforderlich. Auch weiß derzeit niemand, was sich in den vielen Kisten verbirgt. Dem kann nur eine sorgsame Katalogisierung abhelfen.
@@ -48,6 +53,7 @@ Meine Teilnahme an den verschiedensten Sektionen war sehr inspirierend für mich
 Many of the presentations at this year’s Congress focused on the digitization of music materials. A session dedicated to this theme, entitled “Digitisation Projects: Mozart, Bach and Contemporaries,” took place on Tuesday; the topic was also frequently addressed in other sessions throughout the week. The ongoing digitization projects presented at the Congress revolve around a diversity of materials and collections, including recordings from the sound archives in the Royal Library of Belgium (B-Br), the manuscript collection of Manfred Gorke (a current project of the Leipzig Bach Archive, D-LEb), and the “Mozart-Nachlass” in the Salzburg Mozarteum Foundation (A-Sm), among many others. The librarians and archivists who work on these digitization projects encounter many difficult decisions and challenges. Some of these challenges stem from considerations relating to the type of material that is being digitized. A clear example is the digitization of old sound recordings, since the digitized media should ideally reflect the original conditions in which the recording was created. Additionally, digitization projects are often hindered by a lack of funding. The engaging presentations given this year in Riga helped to shed further light on these and many other aspects of the digitization process.
 
 ![Celebrating Ligo](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_tompkins_ligo_378x504.jpg)
+
 _Foto: V. Tompkins_
 
 
@@ -66,7 +72,9 @@ One of the aspects of Riga that will stay in my mind is how musical the city is.
 The perfect city for musicians.
 
 ![Statue in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_park_331x527.jpg)
+
 _The entrance to the Mežaparks (Foto: J. Ward)_
 
 ![Art nouveau in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_jugendstil528x437.jpg)
+
 _Art Nouveau off the beaten track_ _(Foto: J. Ward)_

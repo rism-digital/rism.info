@@ -5,7 +5,7 @@ date: 2021-10-18
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2021-06/website.png"
+image: "/images/news/2021-10/british-library-digitised-music-manuscripts-update-website.jpg"
 email: 'music-collections@bl.uk'
 author: 'Chris Scobie'
 ---

@@ -24,22 +24,30 @@ Dabei befindet sich auch eine Notiz, die die detaillierte Kaufgeschichte des urs
 
 
 ![Thomas Jones note](/resources-old-website/news/Secret_garden_3_Thomas-Jones-note-676x277.jpg)
+
 Merritt Mus 745.1.383.1
 
 ![newspaper](/resources-old-website/news/Secret_garden_4_Newspaper-ad-676x667.jpg)
+
 Merritt Mus 745.1.383.1
 
 ![Family portrait](/resources-old-website/news/Secret_garden_5_Family-portrait-676x949.jpg)
+
 Merritt Mus 745.1.383.1
 
 Diese Einheit wurde vom Schafer Mozart Book Fund erworben. Abbildungen der gesamten Partitur stehen in Kürze zur Verfügung.
 
-Und es gibt noch zwei Sammlungen mit frühen Triosonaten von Arcangelo Corelli, gedruckt in[Bologna 1688](http://id.lib.harvard.edu/aleph/015053434/catalog) (RISM A/I: [C 3661](https://opac.rism.info/search?id=00000990011046){:target="_blank"}) und in[Venidig 1691](http://id.lib.harvard.edu/aleph/015053440/catalog){:target="_blank"} (RISM A/I: [C 3733](https://opac.rism.info/search?id=00000990011118){:target="_blank"}).
+Und es gibt noch zwei Sammlungen mit frühen Triosonaten von Arcangelo Corelli, gedruckt in [Bologna 1688](http://id.lib.harvard.edu/aleph/015053434/catalog) (RISM A/I: [C 3661](https://opac.rism.info/search?id=00000990011046){:target="_blank"}) und in [Venidig 1691](http://id.lib.harvard.edu/aleph/015053440/catalog){:target="_blank"} (RISM A/I: [C 3733](https://opac.rism.info/search?id=00000990011118){:target="_blank"}).
 
 
 ![Trio sonatas](/resources-old-website/news/Secret_garden_6_Trio-sonatas-title-page-676x480.jpg)
 
+Merritt Mus 640.2.383.15
+
 ![Trio sonatas stacked](/resources-old-website/news/Secret_garden_7_Trio-sonatas-stacked-676x507.jpg)
 
+Merritt Mus 640.2.383.15 und Merritt Mus 640.2.373.5
 
-[Pierre Bergés Bibliothek](http://www.labibliothequedepierreberge.com/en/video/conversation-with-pierre-berge-by-umberto-eco/){:target="_blank"}[zwei](http://id.lib.harvard.edu/aleph/009598193/catalog)[andere](http://id.lib.harvard.edu/aleph/009686040/catalog)
+[So wie der Rest der Bilbiothek von Pierre Bergé](http://www.labibliothequedepierreberge.com/en/video/conversation-with-pierre-berge-by-umberto-eco/){:target="_blank"} sind alle drei Partituren exquisit aufbewahrt. Die Mozart-Sonaten wurden von der viktorianischen Buchbinderei Blunson & Company, von der die Harvard Library [zwei](http://id.lib.harvard.edu/aleph/009598193/catalog) [weitere](http://id.lib.harvard.edu/aleph/009686040/catalog) ebenso prächtige Exemplare besitzt, in reiches grünes Marokko-Leder mit Goldschnitt gebunden. Die Corelli-Partituren wurden kürzlich in blasslilafarbene Mappen verpackt, die in passende Schuber passen, die vom Atelier de Libraire - einem Familienunternehmen in Paris - entworfen wurden. Alle drei Exemplare tragen das schlichte, elegante Exlibris von Bergé.  
+
+Die Sammlungen des Merritt Room können vor Ort von jedem genutzt werden, der ein Konto für die Sondersammlungen hat. Bitte stellen Sie Ihre Anfrage, indem Sie in HOLLIS auf Vor-Ort-Ansicht klicken, und warten Sie dann auf die Rückmeldung der Mitarbeiter der Isham Memorial Library, bevor Sie Ihren Besuch planen.
