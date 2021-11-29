@@ -5,7 +5,7 @@ date: 2021-11-29
 lang: de
 post: true
 category: in_the_news
-image: "/images/news/2021-11/vogel-des-jahres-robin-hayes.jpg"
+image: "/images/news/2021-11/vogel-des-jahres-robin-website.jpg"
 email: ''
 author: ''
 ---
