@@ -31,5 +31,5 @@ Ich danke Edgar Alejandro Calderón Alcántar (Conservatorio de las Rosas) und A
 
 Die Konferenz bot eine gute Gelegenheit mit Musikwissenschaftlern aus Lateinamerika in Kontakt zu treten. Ein direktes Ergebnis der Konferenz ist die Zusammenarbeit zweier Musikwissenschaftler aus Kolumbien mit RISM.
 
-_Jennifer Ward
-RISM Zentralredaktion_
+_Jennifer Ward_
+_RISM Zentralredaktion_

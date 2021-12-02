@@ -21,38 +21,24 @@ Die Schweizer haben scheinbar die Führung bei den Kompositionen zum Muttertag �
 
 - Johann Nikolaus Forkels Lied "[An die Frau Mama](https://opac.rism.info/search?id=464140333){:target="_blank"}"
 
--
+- Karl Gramm: "[Die liebsten Silbenpaare sind mir Mama](https://opac.rism.info/search?id=450021266){:target="_blank"}"
 
-Karl Gramm: "[Die liebsten Silbenpaare sind mir Mama](https://opac.rism.info/search?id=450021266){:target="_blank"}"
+- Gottlob Gottwalt Hungers "[Auf das Bildniß einer geliebten Mutter](https://opac.rism.info/search?id=220033265){:target="_blank"}"
 
--
-
-Gottlob Gottwalt Hungers "[Auf das Bildniß einer geliebten Mutter](https://opac.rism.info/search?id=220033265){:target="_blank"}"
-
--
-
-Teodoro Riccio: "[Mama mia cara dolc'e bella](https://opac.rism.info/search?id=455017785){:target="_blank"}"
+- Teodoro Riccio: "[Mama mia cara dolc'e bella](https://opac.rism.info/search?id=455017785){:target="_blank"}"
 
 - Rudolf Förster: "[Das hat Mama gesagt](https://opac.rism.info/search?id=451026583){:target="_blank"}"
 
 
 Bei der Suche nach Mutterliebe kann man folgendes finden:
 
--
+- Gustav Dippes Oper [_Mutterliebe_](https://opac.rism.info/search?View=rism&q=mutterliebe+gustav+dippe){:target="_blank"}
 
-Gustav Dippes Oper [_Mutterliebe_](https://opac.rism.info/search?View=rism&q=mutterliebe+gustav+dippe){:target="_blank"}
+- Heinrich Pfeils Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=heinrich+pfeil){:target="_blank"}"
 
--
+- Johann Christian Friedrich Schneiders Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=Johann+Christian+Friedrich+Schneider){:target="_blank"}"
 
-Heinrich Pfeils Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=heinrich+pfeil){:target="_blank"}"
-
--
-
-Johann Christian Friedrich Schneiders Lied "[Mutterliebe](https://opac.rism.info/search?View=rism&q=mutterliebe&author=Johann+Christian+Friedrich+Schneider){:target="_blank"}"
-
--
-
-Leo Kunzs Melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?id=401000325){:target="_blank"}
+- Leo Kunzs Melodrama [_Mutterliebe und Mutterlob_](https://opac.rism.info/search?id=401000325){:target="_blank"}
 
 Wir hoffen, dass Ihnen diese Musik hilft, Ihrer Mutter an diesem speziellen Tag ein Ständchen zu bringen!
 

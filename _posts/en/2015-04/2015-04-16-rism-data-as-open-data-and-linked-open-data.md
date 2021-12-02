@@ -15,9 +15,9 @@ RISM data have been available as open data since 2013, and as linked open data s
 
 What does this mean?
 
-It means we want ourdatato be not only **widely seen** but also **widely used**.
+It means we want our data to be not only **widely seen** but also **widely used**.
 
-Open data means that all of the data in the RISM online catalog are freely available, licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/3.0/de/deed.en){:target="_blank"}, in MARCXML format for unrestricted access and unrestricted reuse in other projects. In 2014, thedatawere released aslinkedopendatain RDF format. Linked open data allows you to bring datasets from different databases together.
+Open data means that all of the data in the RISM online catalog are freely available, licensed under a [Creative Commons license](https://creativecommons.org/licenses/by/3.0/de/deed.en){:target="_blank"}, in MARCXML format for unrestricted access and unrestricted reuse in other projects. In 2014, the data were released as linked open data in RDF format. Linked open data allows you to bring datasets from different databases together.
 
 The [Detmold Court Theater project](http://hoftheater-detmold.de/){:target="_blank"} uses RISM's open data as a basis of indexing music holdings based on MEI (Music Encoding Initiative) and TEI (Text Encoding Initiative). Kristina Richts and Peter Stadler will be reporting on this project during the RISM session at the [IAML congress in June](https://www.musiclibraryassoc.org/mpage/IAML_IMS_2015 "external-link-new-window"). More and more digital projects are starting to use open data, such as [Europeana](https://pro.europeana.eu/page/linked-open-data){:target="_blank"}, [DBpedia](https://www.dbpedia.org/){:target="_blank"}, [Getty vocabularies](http://www.getty.edu/research/tools/vocabularies/lod/){:target="_blank"}, and the [Sheet Music Consortium](http://digital2.library.ucla.edu/sheetmusic/lod.html){:target="_blank"}.
 
@@ -26,4 +26,6 @@ If you have any questions about using the data, please contact us: [contact@rism
 
 Watch this video introduction to linked open data from Europeana:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uju4wT9uBIA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/uju4wT9uBIA" frameborder="0" allowfullscreen></iframe>  
+&nbsp;  
+&nbsp;  

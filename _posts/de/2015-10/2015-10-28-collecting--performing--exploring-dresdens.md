@@ -13,8 +13,8 @@ author: Nina Eichholz
 
 _Die nachfolgende Ankündigung erreichte uns von der [Sächsischen Landes- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/startseite/){:target="_blank"} (SLUB):_
 
-21. bis 23. Januar 2016
-Internationale Konferenz der Sächsischen Landes- und Universitätsbibliothek Dresden (SLUB)
+- 21. bis 23. Januar 2016\
+- Internationale Konferenz der Sächsischen Landes- und Universitätsbibliothek Dresden (SLUB)
 
 Im Rahmen des DFG-geförderten Projekts „Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union. Erschließung – Digitalisierung – Präsentation“ veranstaltet die SLUB Dresden vom 21.–23. Januar 2016 das Internationale Kolloquium „[Sammeln – Musizieren – Forschen. Zur Dresdner höfischen Musik des 18. Jahrhunderts](http://hofmusik.slub-dresden.de/themen/hofkirche-koenigliche-privat-musikaliensammlung/konferenz/){:target="_blank"}“.
 

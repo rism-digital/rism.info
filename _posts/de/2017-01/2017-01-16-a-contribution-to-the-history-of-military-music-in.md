@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-## **Eine einzigartige Sammlung von Musikhandschriften in der Gottfried Wilhelm Leibniz Bibliothek ([Niedersächsische Landesbibliothek](http://www.nlb-hannover.de/){:target="_blank"}) Hannover.**
+**Eine einzigartige Sammlung von Musikhandschriften in der Gottfried Wilhelm Leibniz Bibliothek ([Niedersächsische Landesbibliothek](http://www.nlb-hannover.de/){:target="_blank"}) Hannover.**
 
 
 Die weit über tausend handschriftlichen Partituren des ersten und zugleich letzten königlich-hannoverschen Armeemusikdirektors Johann Viktor Gerold (1808-1876) gehört zu den umfangreichsten Sammlungen von Militärmusik des 19. Jahrhunderts. Aus dem Nachlass des letzten Regenten des Königreichs Hannover Georg V. gelangten die Manuskripte, ausschließlich von Gerold geschrieben, über Umwege im Jahr 1979 an die damalige Niedersächsische Landesbibliothek, heute Gottfried Wilhelm Leibniz Bibliothek in Hannover. Seit einigen Wochen sind sämtliche Titel im [RISM Online-Katalog](https://opac.rism.info/){:target="_blank"} recherchierbar. Ergänzend dazu erschien jetzt in der Reihe Berichte der Gottfried Wilhelm Leibniz Bibliothek ein Aufsatz, in dem die wichtigsten Erkenntnisse aus der Katalogisierungsarbeit zusammen gefasst sind. Der Text bietet einen Überblick über die Sammlung Gerold und informiert darüber hinaus über musikgeschichtliche Zusammenhänge, die allein aus den Katalogisaten in der RISM-Datenbank nicht ersichtlich wären.

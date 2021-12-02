@@ -28,4 +28,5 @@ Das DFG-Projekt erfolgt in Zusammenarbeit mit den Kooperationspartnern [Schott M
 
 
 ![Palestrina catalog](/resources-old-website/news/Palestrina-2.jpg)
-_En kleiner Einblick in die Software_
+
+_Ein kleiner Einblick in die Software_
