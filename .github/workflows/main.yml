@@ -25,17 +25,13 @@ jobs:
         run: |
           sudo apt install openresolv wireguard
 
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
-
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2.1.0
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-v2
           restore-keys: |
-            ${{ runner.os }}-gems-
+            ${{ runner.os }}-gems-v2
 
       # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.0
