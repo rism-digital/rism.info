@@ -23,4 +23,4 @@ The catalogue entries include information about the composers (including dates o
 
 The database provides information not only about the dissemination of works by composers who are still well known today, but also a wealth of knowledge about those many creative musicians who were highly regarded in their time but are little-known today or even forgotten. This makes the database invaluable for music historians and also gives performing musicians opportunities for "excavations" and rediscoveries.
 
-A variety of search fields makes it possible to search not onlyparticular composers,titles or performing forces, but also by place and time of origin or various people like librettists, previous owners or dedicatees.
+A variety of search fields makes it possible to search not onlyparticular composers, titles or performing forces, but also by place and time of origin or various people like librettists, previous owners or dedicatees.

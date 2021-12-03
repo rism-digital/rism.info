@@ -39,4 +39,4 @@ The information given by RISM is of high value and is easily accessible. Thanks 
 
 There are still more than sixty sonatas for violin and continuo, approximately twelve string trio sonatas, and more than fifty concertos that remain anonymous in _Schrank II_; most of them are available online and linked in RISM. The tools developed by the SLUB and RISM will serve as an essential catalyst for new discoveries and will help, among other things, to put a name to other unsigned manuscripts.
 
-Image credit: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden,Cadenza from the Concerto [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
+Image credit: Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden, Cadenza from the Concerto [Mus.2-O-1,45](http://digital.slub-dresden.de/werkansicht/dlf/25738/1/cache.off)
