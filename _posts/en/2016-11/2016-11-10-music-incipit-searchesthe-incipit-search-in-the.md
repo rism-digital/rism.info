@@ -27,7 +27,7 @@ The online catalog offers two different ways of searching for music incipits —
 
 2. Enter either upper or lower case letters. For the English note name **B**, either **B** or the German **H** may be used.
 
-3. Omit accidentals, sharps, flats,andnatural signs becausethey are ignored in this field. For example, for the note **F-sharp**, enter an **F**.
+3. Omit accidentals, sharps, flats, and natural signs because they are ignored in this field. For example, for the note **F-sharp**, enter an **F**.
 
 4. Selecting the option **Music incipit (with transposition)** will also include incipits that have been transposed from the initial search inquiry.
 
@@ -36,11 +36,11 @@ The online catalog offers two different ways of searching for music incipits —
 Underneath the search boxes is a virtual piano keyboard. This can also be used to input music incipits.
 ![Incipit search with keyboard](/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
 
-- The piano keyboard enablesa chromatic search and takes into account exact half steps.
+- The piano keyboard enables a chromatic search and takes into account exact half steps.
 
 - All enharmonic tones are also searched: the black key for the note **F-sharp** also searches for the note **G-flat** - even when **xF** appears in the search field.
 
-- Here it is also possible to search for incipits using the original notes or you canselect the transposition option.
+- Here it is also possible to search for incipits using the original notes or you can select the transposition option.
 
 - You can combine this field with other fields, such as composer or title.
 

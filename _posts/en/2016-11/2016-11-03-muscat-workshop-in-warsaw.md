@@ -13,6 +13,6 @@ author: Sonia Wronkowska
 
 _The following has come in from Sonia Wronkowska of the Polish RISM Centre:_
 
-On Monday and Tuesday last week 14 people took part in a [Muscat](/community/muscat.html) workshop at the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"} in Warsaw. The workshop was organised by the Music Department and Librarian Education Department, and it wasconducted by Sonia Wronkowska, the head of the Polish RISM Centre. Representatives of Polish libraries, universities,cultural institutions as well as private collectors – both regular catalogers and newcomers – attended two days of intensive training. As a result, RISM has gained a few new contributors.
+On Monday and Tuesday last week 14 people took part in a [Muscat](/community/muscat.html) workshop at the [National Library of Poland](http://bn.org.pl/en/){:target="_blank"} in Warsaw. The workshop was organised by the Music Department and Librarian Education Department, and it wasconducted by Sonia Wronkowska, the head of the Polish RISM Centre. Representatives of Polish libraries, universities, cultural institutions as well as private collectors – both regular catalogers and newcomers – attended two days of intensive training. As a result, RISM has gained a few new contributors.
 
 _Photograph courtesy of Sonia Wronkowska._

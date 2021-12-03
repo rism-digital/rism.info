@@ -21,11 +21,11 @@ Hardly any of Chélard’s works were published in his lifetime. Much more was p
 
 - _Macbeth_, arr. for piano by Theodor Lachner (München: Falter & Sohn, 1828)
 
-- _Ouverture zu der Oper_ Mitternacht_. Im Clavierausz. zu 4 Händen_, arr. by Hermann Bonn [München: Falter ca. 1832]
+- _Ouverture zu der Oper Mitternacht. Im Clavierausz. zu 4 Händen_, arr. by Hermann Bonn [München: Falter ca. 1832]
 
 - _Festcantate zur Feier des Einzugs des Erbgroßherzogs Carl Alexander und der Frau Erbgroßherzogin Sophie von Sachsen-Weimar-Eisenach, am 21. October 1842_ (Weimar: Voigt [ca. 1842])
 
-- _Album für Gesang (mit Original-Beiträgen von A. H._ _Chelard),_ed. by Rudolf Hirsch (Leipzig: Bösenberg 1843)
+- _Album für Gesang (mit Original-Beiträgen von A. H. Chelard),_ ed. by Rudolf Hirsch (Leipzig: Bösenberg 1843)
 
 - _Symphonies vocales ou Solfèges d'ensemble_ (Paris: Lemoine 1856)
 
@@ -35,13 +35,13 @@ Hardly any of Chélard’s works were published in his lifetime. Much more was p
 
 - _Ouvertüre zur Oper “Die Hermannsschlacht” für grosses Orchester arrangiert von Wilh. Pötzsch_ (München: Aibl, 1891)
 
-- _Ouvertüre zur Oper “Die Hermannsschlacht” für kleines__Orchester_ (München: Aibl 1892)
+- _Ouvertüre zur Oper “Die Hermannsschlacht” für kleines Orchester_ (München: Aibl 1892)
 
-- _[Marche hongroise](http://gallica.bnf.fr/ark:/12148/bpt6k3954851){:target="_blank"} für 2 Klaviere zu 8 Händen bearb. von Léon Lemoine__(1855-1916)_ (Paris, Bruxelles: H. Lemoine [1905]; Impr. A. Chaimbaud; New edition: Kempten: Helm & Baynov 2005)
+- _[Marche hongroise](http://gallica.bnf.fr/ark:/12148/bpt6k3954851){:target="_blank"} für 2 Klaviere zu 8 Händen bearb. von Léon Lemoine (1855-1916)_ (Paris, Bruxelles: H. Lemoine [1905]; Impr. A. Chaimbaud; New edition: Kempten: Helm & Baynov 2005)
 
 
 Of the ca. 200 records of works by Chélard in RISM’s [online catalogue](https://opac.rism.info/search?View=rism&author=Hippolyte+Ch%C3%A9lard){:target="_blank"}, over 30 are for the heroic opera _Macbeth_, his most famous work.
 
-Of the printed librettos, two are available digitally: one is [_Macbeth_](http://publikationen.ub.uni-frankfurt.de/volltexte/2008/110603/){:target="_blank"}_[](http://publikationen.ub.uni-frankfurt.de/volltexte/2008/110603/){:target="_blank"}(_Macbeth. Heroische Oper in vier Aufzügen, Musik von Andreas Hypolite Chelard. Nach dem Franz. des Rougêt de Lille frei bearb. von Cäsar Max Heigel_, München: [s. n., ca. 1829]) held by the university library in Frankfurt; and the other is the operetta _[Der Student](http://daten.digitale-sammlungen.de/bsb00054329/image_1){:target="_blank"}_ held by the Bavarian State Library in Munich (_Hippolyte-André-Jean-Baptiste Chelard,_ _Jules Joseph Gabriel de Lurieu, and Théophile Marion Dumersan: Gesänge zu der Operette in einem Akt: Der Student_, München: George Jaquet, 1832).
+Of the printed librettos, two are available digitally: one is [_Macbeth_](http://publikationen.ub.uni-frankfurt.de/volltexte/2008/110603/){:target="_blank"} (_Macbeth. Heroische Oper in vier Aufzügen, Musik von Andreas Hypolite Chelard. Nach dem Franz. des Rougêt de Lille frei bearb. von Cäsar Max Heigel_, München: [s. n., ca. 1829]) held by the university library in Frankfurt; and the other is the operetta [_Der Student_](http://daten.digitale-sammlungen.de/bsb00054329/image_1){:target="_blank"} held by the Bavarian State Library in Munich (_Hippolyte-André-Jean-Baptiste Chelard, Jules Joseph Gabriel de Lurieu, and Théophile Marion Dumersan: Gesänge zu der Operette in einem Akt: Der Student_, München: George Jaquet, 1832).
 
 The 150th anniversary of the death of this French composer and violinist will probably, to a large extent, pass unobserved...
