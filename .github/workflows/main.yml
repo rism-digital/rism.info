@@ -25,10 +25,6 @@ jobs:
         run: |
           sudo apt install openresolv wireguard
 
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
-
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2.1.0
         with:
