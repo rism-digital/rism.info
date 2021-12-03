@@ -11,7 +11,7 @@ email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---
 
-**Proyecto de catalogación del Conservatorio de Querétaro, México**(Deutsch, siehe unten)_
+**Proyecto de catalogación del Conservatorio de Querétaro, México** _(Deutsch, siehe unten)_
 
 John G. Lazos, nuestro colaborador está a punto de comenzar el proyecto de catalogación del acervo musical del Fondo reservado del [Conservatorio “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} en Querétaro, México (siendo su clave en RISM: MEX-SQamc). Durante su visita de este mes, Dr. Lazos ha podido reunirse con el bibliotecario y las autoridades para asegurar el permiso de este proyecto.
 
@@ -20,8 +20,9 @@ Hasta el momento hay [seis entradas en RISM sobre este conservatorio](https://op
 Dr. Lazos estará catalogando con Mariana Iniesta, Jazmín M. Villalobos Soto y Jorge Vargas, todos estudiantes del Conservatorio de Querétaro.
 
 **Neues RISM-Katalogisierungsprojekt am Konservatorium von Queretaro, Mexiko**
-Unser RISM-Mitarbeiter John G. Lazos beginnt demnächst mit der Katalogisierung der Musikbestände des[Conservatorio de Música “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} in Queretaro, Mexiko (RISM-Bibliothekssigel: MEX-SQamc). Auf seiner Reise nach Mexiko konnte Dr. Lazos in diesem Monat den Archivar treffen und die Erlaubnis einholen, das Archiv zu katalogisieren.
 
-Bislang gibt es[sechs Einträge bei RISM aus diesem Konservatorium](https://opac.rism.info/search?View=rism&siglum=MEX-SQamc&Language=de){:target="_blank"}, die Dr. Lazos im Rahmen eines früheren Projektes, das sich mit der Musik von José Antonio Gómez y Olguín (1805-1876) befasste, katalogisiert hat. Das gesamte Archiv ist sehr umfangreich, aber am Ende der Arbeit ist das Fundament gelegt, um die Musikgeschichte dieses Archivs zu erzählen.
+Unser RISM-Mitarbeiter John G. Lazos beginnt demnächst mit der Katalogisierung der Musikbestände des [Conservatorio de Música “José Guadalupe Velázquez”](http://www.conservatorioqueretaro.mx/){:target="_blank"} in Queretaro, Mexiko (RISM-Bibliothekssigel: MEX-SQamc). Auf seiner Reise nach Mexiko konnte Dr. Lazos in diesem Monat den Archivar treffen und die Erlaubnis einholen, das Archiv zu katalogisieren.
+
+Bislang gibt es [sechs Einträge bei RISM aus diesem Konservatorium](https://opac.rism.info/search?View=rism&siglum=MEX-SQamc&Language=de){:target="_blank"}, die Dr. Lazos im Rahmen eines früheren Projektes, das sich mit der Musik von José Antonio Gómez y Olguín (1805-1876) befasste, katalogisiert hat. Das gesamte Archiv ist sehr umfangreich, aber am Ende der Arbeit ist das Fundament gelegt, um die Musikgeschichte dieses Archivs zu erzählen.
 
 Neben Dr. Lazos werden Mariana Iniesta, Jazmin M. Villalobos Soto und Jorge Vargas (alle Studenten des Konservatoriums von Queretaro) die Katalogisierungsarbeiten durchführen.

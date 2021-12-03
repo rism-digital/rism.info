@@ -36,6 +36,8 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 Deanna Pellerano (USA) [Bericht](/new_at_rism/2021-05-25-my-rism-internship-a-new-cataloging-experience.html){:target="_blank"}
 
+Carina Umanski (Deutschland)
+
 #### 2020
 
 Yu-Lin Chiang (Deutschland)
