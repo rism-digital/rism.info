@@ -26,7 +26,7 @@ Modern scholars have pointed out that “Grønland often wrote music reviews for
 
 "[O, stjerne, hav tak](http://www.ugle.dk/o_stjerne_hav_tak.html){:target="_blank"}" from _Old Danish Songs_, text by Johan Ludvig Heiberg. Text with sound.
 
-[Digital copy of](http://img.kb.dk/ma/uklav/bach_viitrios-m.pdf){:target="_blank"}_[VII Trios für zwey Claviere und Pedal](http://img.kb.dk/ma/uklav/bach_viitrios-m.pdf){:target="_blank"}_ by Johann Sebastian Bach in the hand of Peter Grønland from the Royal Danish Library
+[Digital copy of VII Trios für zwey Claviere und Pedal](http://img.kb.dk/ma/uklav/bach_viitrios-m.pdf){:target="_blank"}_ by Johann Sebastian Bach in the hand of Peter Grønland from the Royal Danish Library
 
 [Autograph copy of _188 Folk Songs_](http://img.kb.dk/ma/div/groenl_nyograh-m.pdf){:target="_blank"} from the Royal Danish Library.  
 

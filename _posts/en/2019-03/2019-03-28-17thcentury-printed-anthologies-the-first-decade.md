@@ -23,4 +23,4 @@ The Union Catalogue of Books Printed in German Speaking Countries in the 17th Ce
 
 We are always happy to hear from you when you notice mistakes or know of additional copies and indispensable secondary literature. Just send an email to  [contact@rism.info](mailto:contact@rism.info).
 
-_Image_: Ludwig Helmbold,_Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
+_Image_: Ludwig Helmbold, _Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism&Language=en){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Available online](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.

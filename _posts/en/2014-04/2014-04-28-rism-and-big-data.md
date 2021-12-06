@@ -11,8 +11,7 @@ email: sandra.tuppen@bl.uk
 author: Sandra Tuppen
 ---
 
-_The following article has been adapted, with kind permission, from the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/04/a-big-data-history-of-music.html){:target="_blank"}_:
-
+_The following article has been adapted, with kind permission, from the [British Library Music Blog](http://britishlibrary.typepad.co.uk/music/2014/04/a-big-data-history-of-music.html){:target="_blank"}_:  
 
 The [British Library](http://www.bl.uk/){:target="_blank"} and [Royal Holloway, University of London](https://www.royalholloway.ac.uk/home.aspx){:target="_blank"} (partner institutions for [RISM United Kingdom](http://www.rism.org.uk/){:target="_blank"}) have announced that they have received a grant from the [Arts and Humanities Research Council](http://www.ahrc.ac.uk/Pages/Home.aspx){:target="_blank"} (AHRC) for just over £79,000 towards aresearch project exploring centuries' worth of documentation of printed and manuscript music. This collaboration between Royal Holloway and the British Libraryis bringing together for the first time the world's biggest datasets about published sheet music, music manuscripts and classical concerts (in excess of 5 million records) for statistical analysis, manipulation and visualisation and will, it is to be hoped, provide a paradigm shift in how music history is researched.
 
