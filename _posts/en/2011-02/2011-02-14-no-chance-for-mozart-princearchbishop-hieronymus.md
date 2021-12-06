@@ -19,6 +19,6 @@ Conference location: Kardinal-Schwarzenberg-Haus, Kapitelplatz 3, Salzburg
 
 Opening remarks: March 4, 2011, 1:30
 
-For further information aboutthe program and concerts,please [consult theflyer](/resources-old-website/workgroups/salzburg/Keine_Chance_Cover.pdf) (in German).
+For further information aboutthe program and concerts, please [consult theflyer](/resources-old-website/workgroups/salzburg/Keine_Chance_Cover.pdf) (in German).
 
 If you wish to attend the **chamber concert on March 5th,** please send a short e-mail to [eva.neumayr@archiv.kirchen.net](mailto:eva.neumayr@archiv.kirchen.net) as seating is limited.

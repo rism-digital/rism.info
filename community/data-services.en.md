@@ -98,7 +98,7 @@ Lines 1-6 contain the Plaine & Easie code of the music incipit, in line 7 Verovi
 ### Catalog Settings
 As a default, catalogs are created with English headings and the page layout is in two columns in DIN-A4 format. The records are sorted by composer, then title, with collections appearing at the end.  
 
-Thanks to the high flexibility of the program, basically all of the settings can be changed so that, for example, a different printing areas or a different font can be employed.  
+Thanks to the high flexibility of the program, basically all of the settings can be changed so that, for example, a different printing area or a different font can be employed.  
 
 The time needed to generate the catalog depends to a large extent on the performance of the computer being used. Using typical hardware, about two hours are needed to create a catalog of all Bach sources in RISM: about 20,000 records on 5,700 pages, a file of 150 MB. By far the greatest part of computing time is taken up by rendering the graphics.  
 

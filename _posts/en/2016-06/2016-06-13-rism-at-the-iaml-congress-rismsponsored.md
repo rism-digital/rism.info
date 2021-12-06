@@ -89,5 +89,5 @@ Revising the RISM A/II Records: The case of SI‐ Lnr, Mss 339–344
 **Thursday, July 7**
 
 - 16.00–17.30
-Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung,Innsbruck)
+Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung, Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol

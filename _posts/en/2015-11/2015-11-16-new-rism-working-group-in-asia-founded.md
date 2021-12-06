@@ -26,4 +26,4 @@ In addition, Dr. Nora Yeh (former archivist of the American Folklife Center, Lib
 
 RISM-Chinese Language Region joins [RISM Japan](/working-groups.html) and [RISM South Korea](http://ewha.kor.rism.info/index.php?id=531) in documenting music sources in Asia. We are looking forward to working together with our new colleagues in Chinese-speaking Asia.
 
-Photo: From left to right are WU Xu, HO Wing,Natalia Keil-Senserowa, Klaus Keil, HUANG Chun-Zen, Hyan Kyang Chae, Alan Thrasher, YANG Yandi,CHANGHok-yan, Nora YEH, WANG Ying-Fen, and HAN Bin.
+Photo: From left to right are WU Xu, HO Wing, Natalia Keil-Senserowa, Klaus Keil, HUANG Chun-Zen, Hyan Kyang Chae, Alan Thrasher, YANG Yandi,CHANGHok-yan, Nora YEH, WANG Ying-Fen, and HAN Bin.

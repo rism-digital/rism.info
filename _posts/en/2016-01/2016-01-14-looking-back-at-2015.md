@@ -37,7 +37,7 @@ RISM was also mentioned in the following articles, which we have listed on the [
 
 - Capelle, Irmlind and Kristina Richts. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26.
 - Chae, Hyun Kyung. "From the First [最初] to the Best [最高]: Ewha Music Research Institute." _Ewha's Research Power for Humanities, Arts & Social Sciences_ (February 2015). [Available online](http://researchpower1.ewha.ac.kr/bbs/board.php?bo_table=2015s&wr_id=7){:target="_blank"}.
-- Gustar,Andrew. "Quantitative perspectives." _Early Music_ 43:2(2015):365-66. [Available online](https://doi.org/10.1093/em/cav033){:target="_blank"}.
+- Gustar, Andrew. "Quantitative perspectives." _Early Music_ 43:2(2015):365-66. [Available online](https://doi.org/10.1093/em/cav033){:target="_blank"}.
 - Lisken-Pruss, Marion. "Pater Dariusz Smolarek erforscht geistliche Musik." _Rheinische Post_, August 11, 2015. [Available online](http://www.rp-online.de/nrw/staedte/korschenbroich/pater-dariusz-smolarek-erforscht-geistliche-musik-aid-1.5303071){:target="_blank"}.
 - Martin, Cheryl. "CAML 2015 Annual Report: RISM Canada." _CAML Review_ 43:2 (August 2015): 18. [Available online](http://caml.journals.yorku.ca/index.php/caml/article/view/40226/36401){:target="_blank"}.
 - Nägele, Reiner. "FID Musikwissenschaft an der Bayerischen Staatsbibliothek." _Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2015/2): 10-13. [Available online](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/BM2015_2.pdf){:target="_blank"}.

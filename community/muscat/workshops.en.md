@@ -14,32 +14,13 @@ Access to a training server is available for use in demonstrations, at conferenc
 To our regular Muscat users: You can also hold a Muscat workshop! Consider proposing a Muscat session for your next library or musicological association conference.
 
 ## Upcoming workshops  
-**Archival Skills, Universität Salzburg, 26 November and 10 December, 2021**  
+### Archival Skills, Universität Salzburg, 26 November and 10 December, 2021  
 _Eva Neumayr, RISM Salzburg_
 
-**2021 Fall Workshop: Muscat Introduction (English), online**  
-**Monday, November 29 and Wednesday, December 1, 2021**   
-This two-part workshop is an introduction to cataloging musical sources using the program Muscat. The workshop is geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshop is offered at no charge.  
-
-Muscat is web-based (no installation required), but please [note the technical requirements](/community/muscat.html). The workshop will be held online using Zoom.
-
-Muscat is used by the RISM project to catalog music manuscripts from any time period up to the present, printed materials until ca. 1900, as well as libretti and treatises.    
-
-* Monday, November 29, 2021    
-15:00-16:30 UTC (16:00-17:30 CET in Frankfurt)  
-**RISM Workshop 1: Muscat basics**  
-In this workshop Muscat will be demonstrated and participants will learn how to catalog a music manuscript.  
-
-* Wednesday, December 1, 2021  
-15:00-16:30 UTC (16:00-17:30 CET in Frankfurt)  
-**RISM Workshop 2: Continuation**  
-This session will continue the skills learned in Monday’s session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Monday session or participation in a previous Muscat workshop.  
-
-**To register,** please email [contact@rism.info](mailto:contact@rism.info){:blank}.
-
-This introductory workshop will be repeated in the spring and fall of 2022. Additional workshops can be held upon request. To request a workshop for a group of people, or to receive notification of upcoming workshops, please email [contact@rism.info](mailto:contact@rism.info){:blank}.   
-
 ## Past workshops and demonstrations  
+
+* 29 November and 1 December 2021: Muscat introduction, online  
+*Jennifer Ward (RISM Editorial Center)*  
 
 * October (Fridays) 2021: [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do), Seoul, South Korea  
 *JeongYoun Chang, Korea National University of Arts*

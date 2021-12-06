@@ -45,7 +45,7 @@ The RISM Working Group in Poznań is cataloging items of certain provenance from
 [PL-SA](https://opac.rism.info/search?View=rism&siglum=PL-SA&Language=en){:target="_blank"} (more than 1,400 records)
 
 Project at the Warsaw University Library:\
-The working group at the Warsaw University Library has been working with RISM for many decades. The very large collection has a high proportion of materials with Wroclaw provenances,which are constantly added to RISM.\
+The working group at the Warsaw University Library has been working with RISM for many decades. The very large collection has a high proportion of materials with Wroclaw provenances, which are constantly added to RISM.\
 [PL-Wu](https://opac.rism.info/search?View=rism&siglum=PL-Wu&Language=en){:target="_blank"} (almost 600 records)
 
 It is always worth looking at the RISM catalog from time to time to find the latest from these projects. Many collections are still in the process of being cataloged.
