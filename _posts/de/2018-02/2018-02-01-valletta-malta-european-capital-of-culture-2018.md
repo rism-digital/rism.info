@@ -17,18 +17,18 @@ In der ab 1566 von Malteserrittern erbauten Stadt sind alle Sehenswürdigkeiten 
 
 [In RISM](/community/sigla.html) sind 12 Musikarchive und Bibliotheken aus Malta bekannt. Drei davon befinden sich in der Hauptstadt Valletta, die übrigen in anderen Orten der Insel. Es handelt sich um folgende Institutionen:
 
-St. Augustin Convent, Valletta (M-Vsa)
-Carmelite Priory, Valletta (M-Vcp)
-Commissariat of the Holy Land, Archives, Valletta (M-Vchl)
-St. Helene Collegiate Church, Birkirkara (M-B)
-Parish Church, Cospicua (M-C)
-Parish Church, Lija (M-Lpc)
-Parish Church, Mellieha (M-MEpc)
-Carmelite Priory, Mdina (M-MDcp)
-Archconfraternity of the Blessed Sacrament, Rabat (M-Ra)
-St. Dominic Convent, Rabat (M-Rsd)
-Wignacourt Collegiate Museum, Rabat (M-Rwm)
-San Filippo, Senglea (M-S)
+St. Augustin Convent, Valletta (M-Vsa)\
+Carmelite Priory, Valletta (M-Vcp)\
+Commissariat of the Holy Land, Archives, Valletta (M-Vchl)\
+St. Helene Collegiate Church, Birkirkara (M-B)\
+Parish Church, Cospicua (M-C)\
+Parish Church, Lija (M-Lpc)\
+Parish Church, Mellieha (M-MEpc)\
+Carmelite Priory, Mdina (M-MDcp)\
+Archconfraternity of the Blessed Sacrament, Rabat (M-Ra)\
+St. Dominic Convent, Rabat (M-Rsd)\
+Wignacourt Collegiate Museum, Rabat (M-Rwm)\
+San Filippo, Senglea (M-S)\
 
 Quellennachweise aus Malta gibt es noch nicht in der RISM-Datenbank, aber das kann ja noch kommen … Dafür sind einige maltesische Komponisten verzeichnet, deren Werke heute auf der ganzen Welt überliefert sind und die wir hier gerne vorstellen.
 

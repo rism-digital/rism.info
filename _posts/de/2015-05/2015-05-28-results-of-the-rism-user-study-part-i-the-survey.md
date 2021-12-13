@@ -27,6 +27,8 @@ Etwa die Hälfte der Befragten (48%, 258 Personen) antworteten, dass Sie RISM (e
 
 ![Frage 3](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_3.jpg)
 
+[_Abbildung vergrößern._](/resources-old-website/community-content/Zentralredaktion/Umfrage/3._How_often_do_you_use.JPG)
+
 **3. Wie oft benutzen Sie den Online-Katalog?**
 
 Wir erhielten 538 gültige Antworten auf diese Frage (12 Antworten waren leer und eine war irrelevant).
@@ -36,6 +38,9 @@ Die Mehrheit der Befragten (68%, 367 Personen) besuchen den RISM Online-Katalog 
 Von den 258 Personen, die RISM seit mehr als 10 Jahren nutzen, nutzen es 125 (48%) mehrmals im Monat.
 
 ![Frage 43](/resources-old-website/community-content/Zentralredaktion/Umfrage/Frage_43.jpg)
+
+_[Abbildung vergrößern](/resources-old-website/community-content/Zentralredaktion/Umfrage/43._Which_3_words.JPG)._
+
 
 **43. Ihrer Meinung nach, welche 3 Worte beschreiben RISM am besten?**
 
@@ -57,8 +62,8 @@ Wenn wir die Auswertung der Antworten auf diese Frage fortsetzen, werden wir bes
 
 ![Frage 55](/resources-old-website/community-content/Zentralredaktion/Umfrage/55_56_In_welchem_Land.jpg)
 
-**55. In welchem Land wohnen Sie?
-56. Falls Ihr Land nicht genannt ist, geben Sie es bitte hier an.**
+**55. In welchem Land wohnen Sie?**\
+**56. Falls Ihr Land nicht genannt ist, geben Sie es bitte hier an.**
 
 23 Antworten in Frage 55 waren nicht ausgefüllt oder mit "Sonstige" angegeben. 4 Personen füllten Frage 56 aus. Insgesamt gaben 532 Personen ein Land an.
 
@@ -79,6 +84,6 @@ Wir können die Antworten auf diese Frage auch nutzen, um Einblicke zu bekommen,
 
 **Ihre Kommentare**
 
-Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats[meldeten](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
+Wir sind auch mit der Auswertung von hunderten von Kommentaren beschäftigt. Einen vielfach geäußerten Wunsch konnten wir mit der Einbindung der Musikdrucke in den Online-Katalog bereits erfüllen. Anfang des Monats [meldeten](/new_at_rism/2015/05/21/printed-music-ai-and-bi-now-in-risms-online.html){:target="_blank"} wir, dass die gesamte Serie A/I und ein Teil von B/I (die Jahre 1500-1550) nun im Online-Katalog zur Verfügung stehen - ein Schritt, von dem wir hoffen, dass er einer von vielen ist, um alle RISM Publikationen in einer zentralen Ressource zu intergrieren.
 
 Beobachten Sie diesen blog für weitere Ergenisse der Nutzerstudie. Alle Nachrichten werden auf der [RISM Nutzerstudie Seite](/community/survey.html) veröffentlicht (Link auf unserer Website unten rechts).

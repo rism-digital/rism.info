@@ -1,35 +1,116 @@
+- id: category
+  name:
+    en: "Category"
+    de: "Kategorie"
+    fr: "Catégorie"
+    it: "Categoria"
 - id: all
   name:
     en: "All the news"
     de: "Alle Nachrichten"
     fr: "Toutes les actualités"
+    it: "All the news"
 - id: latest
   name:
     en: "News"
     de: "Aktuelles"
     fr: "Actualité"
+    it: "News"
 - id: more
   name:
     en: "continue ..."
     de: "weiterlesen ..."
     fr: "lire plus..."
+    it: "leggi tutto ..."
 - id: newer
   name:
     en: "Newer"
     de: "Neure"
     fr: "Suivant"
+    it: "Newer"
 - id: newer-by-cat
   name:
     en: "Newer in this category"
     de: "Neure in dieser Kategorie"
     fr: "Suivant dans cette catégorie"
+    it: "Newer in this category" 
 - id: older
   name:
     en: "Older"
     de: "Ältere"
     fr: "Précédent"
+    it: "Older"
 - id: older-by-cat
   name:
     en: "Older in this category"
     de: "Ältere in dieser Kategorie"
     fr: "Précédent dans cette catégorie"
+    it: "Précédent dans cette catégorie"
+
+- id: search-title
+  name:
+    en: "Website search"
+    de: "Website duchsuchen"
+    fr: "Recherche sur le site"
+    it: "Ricerca sul sito web"
+- id: search-results
+  name:
+    en: "Search results"
+    de: "Suchergebnisse"
+    fr: "Résultats de la recherche"
+    it: "Risultati della ricerca"
+- id: search-input
+  name:
+    en: "Search input"
+    de: "Sucheingabe"
+    fr: "Saisie de recherche"
+    it: "Ingresso di ricerca"
+- id: search-results-count
+  name:
+    en: "result(s)"
+    de: "Ergebnisse"
+    fr: "résultat(s)"
+    it: "resultati"
+- id: search-no-result
+  name:
+    en: "No result found when searching for"
+    de: "Kein Ergebnis gefunden bei der Suche nach"
+    fr: "Aucun résultat trouvé en cherchant pour"
+    it: "Nessun risultato trovato quando si cerca"
+- id: search-no-query
+  name:
+    en: "Enter a search term ..."
+    de: "Geben Sie einen Suchbegriff ein ..."
+    fr: "Entrez un terme de recherche ..."
+    it: "Inserisci un termine di ricerca ..."
+# uncomment to add a search tip
+#- id: search-tip
+#  name:
+#    en: "Returns results that contain all search terms."
+#    de: "Returns results that contain all search terms."
+#    fr: "Returns results that contain all search terms."
+#    it: "Returns results that contain all search terms."
+- id: search-lang-label
+  name:
+    en: "Limit to pages in"
+    de: "Eingrenzen auf Seiten in"
+    fr: "Limiter aux pages en"
+    it: "Limitare alle pagine in"
+- id: search-lang-any
+  name:
+    en: "Any"
+    de: "All"
+    fr: "Tous"
+    it: "Qualsiasi"
+- id: search-category-label
+  name:
+    en: "Limit to news in"
+    de: "Eingrenzen auf Nachrichten in"
+    fr: "Limiter aux actualités dans"
+    it: "Limitare alle news in"
+- id: search-category-any
+  name:
+    en: "Any and all pages"
+    de: "Alle und alle Seiten"
+    fr: "Toutes et toutes les pages"
+    it: "Qualsiasi e tutte le pagine"

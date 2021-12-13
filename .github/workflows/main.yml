@@ -25,20 +25,27 @@ jobs:
         run: |
           sudo apt install openresolv wireguard
 
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
-
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2.1.0
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-v2
           restore-keys: |
-            ${{ runner.os }}-gems-
+            ${{ runner.os }}-gems-v2
 
       # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.0
+      
+      # Build the lunr index with node
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: |
+          npm install lunr@2.3.9
+          npm install lunr-languages
+          node _site/assets/js/build_index.js _site/pages.json index.json
+          # looks like lemonarc/jekyll-action@1.0.0 runs as root...
+          sudo mv index.json ./_site/
 
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')

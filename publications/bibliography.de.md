@@ -562,6 +562,8 @@ Hankinson, Andrew, Laurent Pugin und Ichiro Fujinaga: Interfaces for document re
 
 <a name="c2010"></a>**2010:** 
 
+Bemmann, Katrin und Steffen Voss: Ein Notenschrank wandert ins Internet, in: BIS - das Magazin der Bibliotheken in Sachsen 3 (2010), S. 14-16. [Online verfügbar](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-63239){:target="_blank"} 
+
 Downie , J. Stephen, Andreas F. Ehmann, Mert Bay, M. Cameron Jones: The Music Information Retrieval Evaluation eXchange: Some Observations and Insights, in: Advances in Music Information Retrieval: Studies in Computational Intelligence, hrsg. von Zbigniew W. Raś und Alicja A. Wieczorkowska, Springer: Berlin and Heidelberg 2010 (= Studies in Computational Intelligence 274), S. 93-115.
 
 RISM - Wissenschaftliche und technische Herausforderung musikhistorischer Quellenforschung im internationalen Rahmen. Academic and Technical Challenges of Musicological Source Research in an International Framework, hg. von Martina Falletta, Renate Hüsken und Klaus Keil, Hildesheim: Olms 2010 (= Studien und Materialien zur Musikwissenschaft 58), ISBN 978-3-487-14431-3
@@ -908,6 +910,10 @@ Ward, Jennifer A.: Documenting Historical Printed Music in RISM: New Opportuniti
 Ward, Jennifer A.: RISM en América Latina: proyectos colaborativos para la documentación de fuentes. Translated by Juan Francisco Rangel Yáñez, in: Celebración y sonoridad en Hispanoamérica (siglos xvi y xix), hrsg. von Anastasia Krutitskaya, Moreila: Universidad Nacional Autónoma de México, Escuela Nacional de Estudios Superiores Unidad Morelia, 2020, S. 22-41. [Online verfügbar](http://www.librosoa.unam.mx/handle/123456789/3063){:target="_blank"}
 
 **2021:**  
+Aslanidi, Maria / Aris Bazmadelis / Arsinoi Ioannidou: The Greek RISM Office: Describing Byzantine Music-Related Resources and Other Projects, in: Fontes Artis Musicae 68 (2021), no. 3, S. 256-266. [Online verfügbar](https://muse.jhu.edu/article/810848){:blank}.
+
+Walter-Mazur, Magdalena. The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (Compiled in cooperation with RISM)
+
 Giglberger, Veronika / Lutz, Bernhard: Wasserzeichen in Musikhandschriften. Ein Erschliessungsprojekt an der Bayerischen Staatsbibliothek, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 16 (2021), Heft 1, S. 79-83. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2021_1.pdf){:target="_blank"}
 
 Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, Mai 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank}.  
@@ -916,7 +922,11 @@ Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv d
 
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
+Ward, Jennifer A.: RISM and Digital Research with Historical Musical Sources, in: Nota Bene: Studies from the National Library of Norway. Vol. 15,  Notated Music in the Digital Sphere, hrsg. von Margrethe Støkken Bue und Annika Rockenberger, Oslo: National Library of Norway, 2021, S. 20-34. [Online verfügbar](https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu){:blank} 
+
 Wong, Chelsea und Thomas Huthwaite: Finding Harmony Between ‘commonplace’ and ‘copyright’: A Sound Legal Approach to Borrowing in Popular Music, in: Intellectual Property Forum: Journal of the Intellectual and Industrial Property Society of Australia and New Zealand 123 (April 2021), S. 10–18. [Online verfügbar](https://search.informit.org/doi/10.3316/informit.689662183806209){:blank}  
+
+YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle), in: Library Journal 40(2021),  no. 9, S. 39-47. [Online verfügbar](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}
 
 
 **Anmerkung:**
@@ -1426,6 +1436,8 @@ Podejko, Paweł: Katalog tematyczny rękopisów i druków muzycznych kapeli woka
 
 Popinigis, Danuta / Szlagowska, Danuta / Woźniak, Jolanta: Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk. Wiek XVIII-XIX. Katalog, (in Vorbereitung).  
 (erstellt in der RISM-Ländergruppe Danzig - Polen)
+
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
 
 ##### SK – Slowakei
 

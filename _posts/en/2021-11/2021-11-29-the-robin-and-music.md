@@ -5,7 +5,7 @@ date: 2021-11-29
 lang: en
 post: true
 category: in_the_news
-image: "/images/news/2021-11/vogel-des-jahres-robin-hayes.jpg"
+image: "/images/news/2021-11/vogel-des-jahres-robin-website.jpg"
 email: ''
 author: ''
 ---
@@ -22,7 +22,7 @@ The Rotkehlchen also charmed non-German composers. Four manuscripts of the lied 
 
 In English, the bird has such an affinity to people that it is used as a first name, not least in reference to [Robin Hood](https://opac.rism.info/search?View=rism&q=robin+hood){:blank}. Robin also figures as a character in countless English songs.  
 
-{% include image file="/images/news/2021-11/vogel-des-jahres-robin-hayes.jpg.jpg" %}  
+{% include image file="/images/news/2021-11/vogel-des-jahres-robin-hayes.jpg" %}  
 _Auld Robin Gray by Philip Hayes (1738-1797). London: S.A. & P. Thompson, ca. 1779. [RISM ID no. 990029000](https://opac.rism.info/search?id=990029000&View=rism){:blank}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB) (D-Dl) Mus.3408.J.1. [Available online](https://digital.slub-dresden.de/werkansicht/dlf/444800/1){:blank} ([Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/){:blank})._
 
 _Image, top:_ Erithacus rubecula with cocked head, © [Francis C. Franklin](https://commons.wikimedia.org/wiki/User:Baresi_franco){:blank} / [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/){:blank}, from [Wikimedia Commons](https://en.wikipedia.org/wiki/European_robin#/media/File:Erithacus_rubecula_with_cocked_head.jpg){:blank}.  
