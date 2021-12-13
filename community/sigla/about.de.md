@@ -18,6 +18,6 @@ F-Pn = **F**rankreich, **P**aris, Bibliothèque **n**ationale de France, Départ
 Bei Privatsammlungen wird der gesamte Name des Besitzers an das Städtekürzel angeschlossen:
 I-PEbattisti = **I**talien, **Pe**rugia, Biblioteca privata Renzo **Battisti**.
 
-Die Bibliothekssigel werden in der RISM-Zentralredaktion in Frankfurt am Main in einer Datenbank verwaltet. Durchschnitt erhält die RISM-Zentralredaktion pro Jahr mehrere hundert Anfragen zu Institutionen, die noch kein Sigel haben. In diesen Fällen legt die Redaktion nach Rücksprache mit der betreffenden Ländergruppe ein neues Sigel fest.
+Die Bibliothekssigel werden in der RISM-Zentralredaktion in Frankfurt am Main in einer Datenbank verwaltet. Im Durchschnitt erhält die RISM-Zentralredaktion pro Jahr mehrere hundert Anfragen zu Institutionen, die noch kein Sigel haben. In diesen Fällen legt die Redaktion nach Rücksprache mit der betreffenden Ländergruppe ein neues Sigel fest.
 
 Die Zentralredaktion bittet um [Meldung](mailto:contact@rism.info), sollte ein Sigel fehlen oder Angaben nicht korrekt sein. 
