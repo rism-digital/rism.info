@@ -1,3 +1,5 @@
+Browse the news archive by category below or use the search box above.  
+
 # Categories
 
 {% include sidepanels/post-list.html %}
