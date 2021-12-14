@@ -13,18 +13,19 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-**Archivpraktikum, Universität Salzburg, 26. November und 10. Dezember 2021**  
-_Eva Neumayr, RISM Salzburg_
-
-**2021 Herbst-Workshop: Muscat Einführung (Englisch), online**  
- **Montag, 29. November und Mittwoch, 1. Dezember 2021**   
-_Jennifer Ward, RISM-Zentralredaktion_
+Die nächsten online Muscat-Workshops der RISM-ZEntralredaktion sind für das Frühjahr und den Herbst 2022 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: contact@rism.info
 
 
 ## Vergangene Workshops und Vorführungen
 
+* Archival Skills, Universität Salzburg, 26\. November und 10\. Dezember 2021  
+*Eva Neumayr, RISM Salzburg*
+
+* 29\. November und 1\. Dezember 2021: Muscat Einführung (Englisch), online  
+*Jennifer Ward, RISM-Zentralredaktion*
+
 * Oktober 2021 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea 
-* *JeongYoun Chang, Korea National University of Arts*
+*JeongYoun Chang, Korea National University of Arts*
 
 * 22\. und 24\. Juni 2021: Muscat Einführung, online\
 *Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
