@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RISM: How is it good for musicians?"
-date: 2021-12-11
+date: 2021-12-16
 lang: en
 post: true
 category: events
@@ -21,6 +21,8 @@ As she argued, the critical eye of educated musicians should become even more im
 The presentation also included a few sobering insights gained from a small poll carried out among performing musicians, suggesting that those lacking a more scholarly component in their educational background rarely make use of RISM – a tendency that higher music education institutions and RISM should fight shoulder to shoulder.
 
 
-In the meantime [a recording of Professor Schwindt’s talk](https://youtu.be/C81Mqg2Je7E?t=72){:blank} has become available, and we warmly recommend listening to it in its entirety (shared here with kind permission):
+In the meantime [a recording of Professor Schwindt’s talk](https://youtu.be/C81Mqg2Je7E?t=104){:blank} has become available, and we warmly recommend listening to it in its entirety (shared here with kind permission):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C81Mqg2Je7E?start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C81Mqg2Je7E?start=104" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;  
+&nbsp;  
