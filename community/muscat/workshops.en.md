@@ -14,11 +14,14 @@ Access to a training server is available for use in demonstrations, at conferenc
 To our regular Muscat users: You can also hold a Muscat workshop! Consider proposing a Muscat session for your next library or musicological association conference.
 
 ## Upcoming workshops  
+### Universität Salzburg
+Archival Skills: 26 November and 10 December 2021, 14 January 2022  
+_Eva Neumayr, RISM Salzburg_          
+
+#### Online workshops
 The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring and fall of 2022. Further workshops can be held on request; please contact us for more information: contact@rism.info
 
 ## Past workshops and demonstrations  
-* Archival Skills, Universität Salzburg, 26 November and 10 December, 2021  
-_Eva Neumayr, RISM Salzburg_
 
 * 29 November and 1 December 2021: Muscat introduction, online  
 *Jennifer Ward (RISM Editorial Center)*  
