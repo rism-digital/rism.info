@@ -19,7 +19,7 @@ Archival Skills: 26 November and 10 December 2021, 14 January 2022
 _Eva Neumayr, RISM Salzburg_          
 
 #### Online workshops
-The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring and fall of 2022. Further workshops can be held on request; please contact us for more information: contact@rism.info
+The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring and fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ## Past workshops and demonstrations  
 

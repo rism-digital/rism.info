@@ -30,6 +30,6 @@ Workshop leader: Dr. Eva Neumayr (Stiftung Mozarteum, RISM Salzburg)
 Time: 10.30 – 16.30  
 Location: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg
 - October 17, 2017  
-Workshop leader: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)  
+Workshop leader: Dr. Ikarus Kaiser (Musikarchiv Stift Wilhering, RISM Oberösterreich)  
 Time: 10.30 – 16.30  
 Location: [Österreichische Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}, Ausbildungsabteilung

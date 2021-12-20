@@ -27,4 +27,4 @@ RISM short title: BastiaensA 2007
 • Maarten Beirens, Ellen Kempers, and Heidi Moyson: _[Achter de muziek aan. Muzikaal erfgoed in Vlaanderen en Nederland](https://www.acco.be/nl-be/items/9789033482472/Achter-de-muziek-aan){:target="_blank"}_. Leuven: Acco, 2010.  
 This volume contains many articles related to musical sources and features pieces written by our RISM contributors Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs, and Veronique Verspeurt.  
 
-With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}for sending us the books.
+With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"} for sending us the books.
