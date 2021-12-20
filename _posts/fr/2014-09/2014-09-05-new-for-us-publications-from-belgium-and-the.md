@@ -30,4 +30,4 @@ RISM short title: BastiaensA 2007
 
 This volume contains many articles related to musical sources and features pieces written by our RISM contributors Ellen Kempers, Klaas Jaap van der Meijden, Eugeen Schreurs, and Veronique Verspeurt.
 
-With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"}for sending us the books.
+With thanks to Klaas Jaap van der Meijden of [Resonant](http://www.muzikaalerfgoed.be/){:target="_blank"} for sending us the books.

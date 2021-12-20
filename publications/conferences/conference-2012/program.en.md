@@ -32,7 +32,7 @@ Chair: Laurent Pugin, RISM Switzerland
 **Niels Krabbe and Axel Teich Geertinger** (Danish Center for Music Publication, Copenhagen): MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2322)
 
-**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/){:target="_blank"}Online  
+**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/){:target="_blank"} Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/){:target="_blank"} online)  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2309)
 
@@ -45,7 +45,7 @@ Chair: Klaus Keil, RISM Zentralredaktion
 **Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2272)
 
-**Klaus Pietschmann** (University of Mainz) **and**  **Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology,Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)   
+**Klaus Pietschmann** (University of Mainz) **and**  **Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)   
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2313)
 
 **Jürgen Diet** (Bavarian State Library, Munich): Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources  
@@ -199,7 +199,7 @@ Chair: Martina Falletta, RISM Zentralredaktion
 _This paper will be read in absentia by Cristina Urchueguía (RISM Switzerland)._  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2320)
 
-**Hyun Kyung Chae** (Music ResearchInstitute,Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music  
+**Hyun Kyung Chae** (Music ResearchInstitute, Ewha Womans University - RISM SouthKorea): Establishing a Database of East Asian Music Educational Materials from the “Modern Era” [近代] as a Foundation for the Cultural Study of Music  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2310)
 
 **Sarah Adams** (RISM US): Update on the US Working Group  

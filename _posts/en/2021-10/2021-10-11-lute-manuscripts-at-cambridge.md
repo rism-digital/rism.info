@@ -46,7 +46,7 @@ All of these manuscripts employ tablature notation. Still familiar to all modern
 _Details of Dowland’s famous 'Lachrimae Pavan' in the first Holmes’ lute book.
 CUDL image licensed under CC BY-NC 3.0_  
 
-There are a few different kinds of lute tablature and the particular variety used in these lute books is the French system, which is the most widely used in lute music generally (with the other varieties being Italian and German). Here, the horizontal lines represent the strings of the lute, with the top line being the highest-pitched string and the letters indicating which frets to play: a=open, b=1st fret, c(actually written ‘r’ to avoid confusion with ‘e’)=2nd fret, d=3rd fret, e=4th fret, and so on.  
+There are a few different kinds of lute tablature and the particular variety used in these lute books is the French system, which is the most widely used in lute music generally (with the other varieties being Italian and German). Here, the horizontal lines represent the strings of the lute, with the top line being the highest-pitched string and the letters indicating which frets to play: a=open, b=1st fret, c (actually written ‘r’ to avoid confusion with ‘e’)=2nd fret, d=3rd fret, e=4th fret, and so on.  
 
 ### The Medici Manuscript  
 

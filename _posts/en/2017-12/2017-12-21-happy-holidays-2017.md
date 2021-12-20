@@ -4,7 +4,7 @@ title: Happy Holidays 2017!
 date: 2017-12-21
 lang: en
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_Weihnachtsgruss_2017_7573db1267.jpg"
 old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/happy-holidays-2017.html
 email: ''

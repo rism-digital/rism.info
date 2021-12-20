@@ -32,7 +32,15 @@ Website: [http://www.musikland-tirol.at](http://www.musikland-tirol.at)\
 See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
 #### RISM Working Group Salzburg
-Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}  
+
+MMag. Dr. Eva Neumayr  
+Archiv der Erzdiözese Salzburg, Musiksammlung (and Internationale Stiftung Mozarteum)
+Kapitelplatz 3  
+A - 5020 Salzburg  
+Telephone: +43 662 8047 1513  
+Email: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)  
+Website: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}   
 
 Dr. Armin Brinzing  
 Internationale Stiftung Mozarteum  
@@ -41,15 +49,7 @@ Schwarzstr. 26
 5020 Salzburg  
 Telephone: +43 662 8894014  
 Email: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)  
-Webseite: [https://mozarteum.at/en/bibliotheca-mozartiana/](https://mozarteum.at/en/bibliotheca-mozartiana/){:blank}    
-
-MMag. Dr. Eva Neumayr  
-Archiv der Erzdiözese Salzburg, Musiksammlung  
-Kapitelplatz 3  
-A - 5020 Salzburg  
-Telephone: +43 662 8047 1513  
-Email: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)  
-Website: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}   
+Website: [https://mozarteum.at/en/bibliotheca-mozartiana/](https://mozarteum.at/en/bibliotheca-mozartiana/){:blank}    
 
 #### RISM Working Group Vorarlberg
 Dr. Annemarie Bösch-Niederer\

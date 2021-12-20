@@ -11,7 +11,7 @@ old_url: http://www.rism.info/en/publications/sources-in-latin-america-2016.html
 The conference Documenting Musical Sources in Latin America took place as a peripheral event of the annual congress of the [Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} (German Society for Music Research) in Mainz.
 
 RISM invited speakers from Latin America to share information about the state of musical sources in their countries.  
-  
+
 **Location**: [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Geisteswissenschaftliche Klasse  
 Geschwister-Scholl-Str. 2  
 55131 Mainz
@@ -40,7 +40,7 @@ Klaus Keil (Director, RISM Zentralredaktion, Frankfurt am Main)
 
 **Speakers**
 
-- **Leonardo Waisman** (Professor of Musicology,Universidad de Córdoba, Argentinia): Spanish-American Colonial Musical Sources: Catalogues and Studies ([view on YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"})
+- **Leonardo Waisman** (Professor of Musicology, Universidad de Córdoba, Argentinia): Spanish-American Colonial Musical Sources: Catalogues and Studies ([view on YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"})
 - **Cecilia Astudillo Rojas** (Director, Archivo de Música, Biblioteca Nacional de Chile): Historical Music Scores in Chile and their Documentation ([view on YouTube](https://youtu.be/AoIwrrvLWeg?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm){:target="_blank"})
 - **Egberto Bermúdez Cujar** (Universidad Nacional de Colombia, Bogotá): Documenting Popular Music Sources in Latin America: The Case of Colombia ([view on YouTube](https://youtu.be/CEpYx2ZmjIM){:target="_blank"})
 - **Edgar Alejandro Calderón Alcantar** (Professor of Musicology, Conservatorio de las Rosas, Morelia, Mexico): Music Documentation Projects in Morelia ([view on YouTube](https://youtu.be/JMC5JgEJCnQ){:target="_blank"})
@@ -49,14 +49,14 @@ Klaus Keil (Director, RISM Zentralredaktion, Frankfurt am Main)
 - **Miriam Escudero** (Cuba): Management of Historical-Documentary Heritage of Music in Cuba
 - **André Guerra Cotta** (Professor of Musicology, Universidade Federal Fluminense, Rio das Ostras, Brazil): Brazilian Musical Heritage: An Overview and Some Brief Considerations ([view on YouTube](https://youtu.be/z_VjkqV-RvE){:target="_blank"})
 - **John G. Lazos** (Mexico/Canada): José Antonio Gómez y Olguín (1805-1876) and his Music Catalogue ([view on YouTube](https://youtu.be/Yo5ev9ZZ5mA){:target="_blank"})
-- **Beatriz Magalhães Castro** (Professor at Universidade de Brasilia (UnB),Brazil): Musical Patrimony and Source Studies in Brazil: References, Materials, and Research Tools for the Digital Age
+- **Beatriz Magalhães Castro** (Professor at Universidade de Brasilia (UnB), Brazil): Musical Patrimony and Source Studies in Brazil: References, Materials, and Research Tools for the Digital Age
 - **Piotr Nawrot** (Director, Festival de Musica, Chiquitos, Bolivia): Musical Sources in the Moxos Missions ([view on YouTube](https://youtu.be/7TFxTM_A55o){:target="_blank"})
 - **Pablo Sotuyo Blanco** (Professor of Musicology, Universidade Federal da Bahia, Brazil): The RISM Brazil Database: Concept, Research, and Development ([view on YouTube](https://youtu.be/mwbE5XK1j6M){:target="_blank"})
 - **Federica Riva** (IAML Italy, Conservatorio di Musica "L. Cherubini", Firenze): On the Way Towards an International Libretto Project: An Overview of Collections in Cuba
 
 **Muscat presentation**
 
-- **Martina Falletta, Jennifer Ward** (RISM Zentralredaktion): Muscat: A New Program for Music Documentation 
+- **Martina Falletta, Jennifer Ward** (RISM Zentralredaktion): Muscat: A New Program for Music Documentation
 
 **Roundtable discussion of possible further steps**
 

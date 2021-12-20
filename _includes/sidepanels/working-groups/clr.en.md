@@ -32,7 +32,7 @@ HUANG Chun-Zen(Director)
 
 [TSENG Tzu-Chia](mailto:tzchia22@gmail.com)
 
-162, Sec. 1 Heping E. Rd., Taipei City, 106,Taiwan (R.O.C.)  
+162, Sec. 1 Heping E. Rd., Taipei City, 106, Taiwan (R.O.C.)  
 +886 2 7734 1692
 
 Shanghai Conservatory of Music Library
@@ -41,7 +41,7 @@ YANG Yandi (Director)
 
 [HAN Bin](mailto:hanbin@shcmusic.edu.cn)
 
-20, Fen Yang Rd., Shanghai, 200031,China  
+20, Fen Yang Rd., Shanghai, 200031, China  
 +86 21 64315745
 
 **Cataloging Advice**
@@ -52,7 +52,7 @@ Hong Kong Central Library
 
 [TSANG Lai-moon](mailto:lmtsang@lcsd.gov.hk)
 
-66, Causeway Rd., Causeway Bay,Hong Kong
+66, Causeway Rd., Causeway Bay, Hong Kong
 
 +852 2921 0288
 
