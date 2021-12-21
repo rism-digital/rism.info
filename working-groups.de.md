@@ -333,7 +333,15 @@ Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at){:targe
 Siehe auch: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
 #### RISM Arbeitsgruppe Salzburg
-Website: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+Webseite: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+
+MMag. Dr. Eva Neumayr\  
+Archiv der Erzdiözese Salzburg, Musiksammlung (und Internationale Stiftung Mozarteum)\
+Kapitelplatz 3\  
+A - 5020 Salzburg\  
+Telefon: +43 662 8047 1513\  
+E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\  
+Webseite: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
 Dr. Armin Brinzing\
 Internationale Stiftung Mozarteum\
@@ -343,15 +351,6 @@ A - 5020 Salzburg\
 Telefon: +43 662 8894014\
 E-Mail: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)\
 Webseite: [https://mozarteum.at/bibliotheca-mozartiana/](https://mozarteum.at/bibliotheca-mozartiana/){:target="_blank"}  
-
-MMag. Dr. Eva Neumayr\
-Archiv der Erzdiözese Salzburg, Musiksammlung\
-Kapitelplatz 3\
-A - 5020 Salzburg\
-Telefon: +43 662 8047 1513\
-Univ. Doz. Dr. Ernst Hintermaier (Head), E-Mail: [ernst.hintermaier@archiv.kirchen.net](mailto:ernst.hintermaier@archiv.kirchen.net)\
-E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\
-Webseite: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
 #### RISM Arbeitsgruppe Vorarlberg
 Dr. Annemarie Bösch-Niederer\
