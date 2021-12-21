@@ -10,7 +10,7 @@ old_url: http://www.rism.info/service/faqs.html
 
 ## Which sources can be found in RISM?
 
-The [online catalog](https://opac.rism.info/){:target="_blank"} contains over 1.3 million entries, mainly music manuscripts from between the years 1600 and 1850. As of 2021, there are also ca. 212,000 entries for printed music, as well as some libretti and treatises. Please see [the catalog's "Content" page](https://opac.rism.info/main-menu-/kachelmenu/content){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog. 
+The [online catalog](https://opac.rism.info/){:target="_blank"} contains over 1.3 million entries, mainly music manuscripts from between the years 1600 and 1850. As of 2021, there are also ca. 212,000 entries for printed music, as well as some libretti and treatises. Please see [the catalog's "Content" page](https://opac.rism.info/main-menu-/kachelmenu/content){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog.
 
 Some of the bigger libraries are not (yet) completely documented in RISM but they tend to have - as opposed to, say, smaller church libraries - their own comprehensive, searchable catalog. We are actively working on transferring records from other libraries to RISM. Sources that are now lost are not documented in RISM.
 
@@ -46,7 +46,7 @@ Individuals can support our work by:
 * making us aware of new research concerning sources
 * informing us of performances that involve music found in RISM
 * alerting us to institutions not yet in the [siglum database](/community/sigla.html){:target="_blank"}
-* translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}into their local language
+* translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} into their local language
 
 [Libraries](/organization/rism-for-libraries.html){:target="_blank"} can support RISM by:
 

@@ -20,6 +20,6 @@ The Biblioteca del Conservatorio di Musica S. Pietro a Majella in Naples has dig
 
 - [Four secular cantatas](http://www.internetculturale.it/opencms/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0152458){:target="_blank"} that are found in a seventeenth-century collective manuscript (I-Nc C.I.5 (A.44), RISM ID no. [850009946](https://opac.rism.info/search?id=850009946){:target="_blank"})
 
-- The song "**[Ardo ma l'ardor mio](http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0153519){:target="_blank"}" from an eighteenth-century manuscript (**I-Nc C.I.2 (A.66), RISM ID no. [850009448](https://opac.rism.info/search?id=850009448){:target="_blank"})
+- The song "[Ardo ma l'ardor mio](http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0153519){:target="_blank"}" from an eighteenth-century manuscript (I-Nc C.I.2 (A.66), RISM ID no. [850009448](https://opac.rism.info/search?id=850009448){:target="_blank"})
 
 Have you written something or do you know of a publication you would like to see in the RISM database? Send a message to: [martina.falletta@rism.info](mailto:martina.falletta@rism.info)

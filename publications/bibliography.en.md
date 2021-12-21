@@ -743,7 +743,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
 - Pietschmann, Klaus. "Opening remarks." [View on YouTube](https://youtu.be/bYvK-w2qTNo).
 - Sotuyo Blanco, Pablo. **"** The RISM Brazil Database: Concept, Research, and Development." [View on YouTube](https://youtu.be/mwbE5XK1j6M).
 - Urchueguía, Cristina. "The Concept of an International Repertory of Musical Sources." [View on YouTube](https://youtu.be/1ROti64TIUc).
-- Waisman,Leonardo. "Spanish-American Colonial Musical Sources: Catalogues and Studies." [View on YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm).
+- Waisman, Leonardo. "Spanish-American Colonial Musical Sources: Catalogues and Studies." [View on YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm).
 
 Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
 
@@ -1008,7 +1008,7 @@ Rose, Stephen. "RISM in the Digital Age." _Early Music_ (February 2013): 158-160
 "Bibliographies." _Early Music News,_ June 1988.
 
 **CD-ROM edition:**  
-Karasch, Angela and Reinhard Ziegler. 3rd edition,CD-ROM 1. _Informationsmittel für Bibliotheken_ 4, no. 2/3 (1996): 466-470.
+Karasch, Angela and Reinhard Ziegler. 3rd edition, CD-ROM 1. _Informationsmittel für Bibliotheken_ 4, no. 2/3 (1996): 466-470.
 
 Seyfried, Bettina von and Achim Oßwald. 3rd edition, CD-ROM 1. _Zeitschrift für Bibliothekswesen und Bibliographie_ 44, no. 1 (1997): 83-88.
 

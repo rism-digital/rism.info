@@ -29,4 +29,4 @@ The Salzburg Museum displayed the libretto of Georg Muffat's opera _Le fatali fe
 
 The opera was presented in the court theatre in Salzburg on the occasion of the inauguration of Prince Archbishop Johann Ernst Graf von Thun.
 
-The title page of the libretto(RISM A/II no. 653.005.669) can likewise be found on the website of the [Tyrol Land of Music](http://www.musikland-tirol.at/forschung/aktuellearbeitsprojekte/das-musikarchiv.php){:blank}.
+The title page of the libretto (RISM A/II no. 653.005.669) can likewise be found on the website of the [Tyrol Land of Music](http://www.musikland-tirol.at/forschung/aktuellearbeitsprojekte/das-musikarchiv.php){:blank}.

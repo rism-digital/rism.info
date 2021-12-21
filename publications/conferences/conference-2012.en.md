@@ -103,7 +103,7 @@ The presentations, in alphabetical order:
 **Stanislav Oustachev** (Russia, Glinka Museum Moscow): The RISM Project atthe Glinka Museum  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf) (PDF)
 
-**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology,Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)
+**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)
 
 **Laurent Pugin** (RISM Switzerland): The Use of METS for Delivering Digital Objects together with RISM Catalog Records  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf) (PDF)

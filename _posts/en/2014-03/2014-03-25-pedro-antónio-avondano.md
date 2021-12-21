@@ -22,6 +22,6 @@ A conference called ["Niccolò Jommelli, Christoph Willibald Gluck and Pedro Ant
 **Bibliography**  
 Manuel Carlos de Brito, _New Grove_ 2nd ed., vol.2
 
-Filipe Mesquita de Oliveira, "Os Minuetes de Lisboa" de Pedro António Avondano(1714-1782), [Centro Nacional de Cultura](http://www.e-cultura.pt/DestaqueCulturalDisplay.aspx?ID=587){:target="_blank"}
+Filipe Mesquita de Oliveira, "Os Minuetes de Lisboa" de Pedro António Avondano (1714-1782), [Centro Nacional de Cultura](http://www.e-cultura.pt/DestaqueCulturalDisplay.aspx?ID=587){:target="_blank"}
 
 Image credit: "Gedaente en ... vant Landt van Portugal" from _Mariner’s Mirror (T'eerste deel vande Spieghel der zeevaerdt, van de navigatie der Westersche zee, innehoudende alle de custen van Vranckrijck, Spaingen ende 't principaelste deel van Engelandt, in diversche zee caerten begrepen)_. Leiden: Christoffel Plantijn, 1584. Via [Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3A1584_Portugal_Waghenaer.jpg){:target="_blank"}

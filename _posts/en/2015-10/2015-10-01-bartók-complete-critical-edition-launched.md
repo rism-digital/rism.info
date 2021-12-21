@@ -36,7 +36,7 @@ A phenomenal workload for a phenomenal compositional œuvre has been launched!
 _László Vikárius (Bartók Archives, Budapest), Tibor Tallián (Member of the editorial board of the Bartók Complete Edition) and Antal Boronkay (Editio Musica Budapest)_
 
 ![Henle Bartók 2](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_1_300breit.jpg)  
-_Wolf-Dieter Seiffert (G. Henle Publishers), Péter Halász(Translator) and Malcolm Gillies(Member of the editorial board of the Bartók Complete Edition)_.
+_Wolf-Dieter Seiffert (G. Henle Publishers), Péter Halász (Translator) and Malcolm Gillies (Member of the editorial board of the Bartók Complete Edition)_.
 
 ![Henle Bartók 3](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_vertragsunterschrift_300breit.jpg)  
 _On 25 September Wolf-Dieter Seiffert and Antal Boronkay signed the cooperation treaty of both publishers._
