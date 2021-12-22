@@ -17,7 +17,7 @@ _"We can say that Jean Sibelius is one of the most brilliant tone poets of the p
 _"Sibelius, the worst composer in the world"_  
 -René Leibowitz, 1955
 
-[(Quotes from the Finnish Club of Helsinki)](http://www.sibelius.fi/english/musiikki/js_saveltajana_05.html)
+[(Quotations from the Finnish Club of Helsinki)](http://www.sibelius.fi/english/musiikki/js_saveltajana_05.html)
 
 For many people, Jean Sibelius (1865-1957) is the only Finnish composer they can name. His troubled reception history has left the composer with uneven popularity across the globe, with staunch supporters on one side but also a fair share of opponents and the unimpressed on the other. With his 150th birthday today, now is a good time to explore Finland's national composer. Where can you start, from a musical sources point of view?
 

@@ -19,38 +19,14 @@ The [Gustav Mahler-Alfred Rosé Collection](https://www.lib.uwo.ca/music/gmar.ht
 
 The manuscripts have recently been [catalogued for RISM](https://opac.rism.info/search?View=rism&siglum=CDN-Lu&author=mahler){:target="_blank"}. They include:
 
--
-
-the earliest known manuscript of Mahler's Symphony no. 1 _(see image)_; this is a copyist's manuscript which includes annotations written by Mahler
-
--
-
-Mahler's Clavier-Quartett, 1. Satz; manuscript copy, in the hand of Alfred Rosé
-
--
-
-the text of _Des Knaben Wunderhorn_; in Mahler's hand, written on three pages of Vienna State Opera stationery
-
--
-
-_Josephinen Lieder_ for tenor and piano
-
--
-
-several songs
-
--
-
-a few measures of the second movement of the Fourth Symphony (1 January 1902) with a note from Mahler
-
--
-
-the original first movement of _Das Klagende Lied (Waldmärchen)_; copy, in the hand of Alfred Rosé
-
--
-
-choral parts and a piano-vocal score prepared by Alfred Rosé for the world premiere of _Waldmärchen_, which he conducted in 1934
-
+- the earliest known manuscript of Mahler's Symphony no. 1 _(see image)_; this is a copyist's manuscript which includes annotations written by Mahler  
+- Mahler's Clavier-Quartett, 1. Satz; manuscript copy, in the hand of Alfred Rosé  
+- the text of _Des Knaben Wunderhorn_; in Mahler's hand, written on three pages of Vienna State Opera stationery  
+- _Josephinen Lieder_ for tenor and piano  
+- several songs  
+- a few measures of the second movement of the Fourth Symphony (1 January 1902) with a note from Mahler  
+- the original first movement of _Das Klagende Lied (Waldmärchen)_; copy, in the hand of Alfred Rosé  
+- choral parts and a piano-vocal score prepared by Alfred Rosé for the world premiere of _Waldmärchen_, which he conducted in 1934
 
 Some of these items [have been digitized](https://archive.org/details/mahlerrose){:target="_blank"}, and links to the digital copies will be added to the RISM records. More information about the collection, and a link to an inventory of the entire collection, can be found [here](https://www.lib.uwo.ca/music/gmar.html){:target="_blank"}.
 

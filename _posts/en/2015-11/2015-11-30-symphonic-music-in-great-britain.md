@@ -19,6 +19,6 @@ This book is a comprehensive survey of symphonic music in Great Britain and serv
 
 Perhaps most valuable for RISM and our users is Appendix I, the "Alphabetic catalogue of British symphonies up to 1945" in volume 2 of the work (p. 801-1018). This hefty section provides detailed information about the works discussed in the main body of the text. Each entry names the composer and the work and gives detailed scoring, movements, the location of autograph manuscripts, publication details, the location of performing material, information about first or other performances, recordings available, duration, dedications, and the text to works with voices.
 
-The RISM online catalog now cites this book in the records for the manuscripts named in the appendix (short title:[SchaarwächterS 2015](https://opac.rism.info/search?View=rism&q=Schaarwa%CC%88chterS+2015){:target="_blank"}). Most of the manuscripts in RISM are today held by institutions in, logically, the UK, but a fair number have found their way to Germany and Switzerland.
+The RISM online catalog now cites this book in the records for the manuscripts named in the appendix (short title: [SchaarwächterS 2015](https://opac.rism.info/search?View=rism&q=Schaarwa%CC%88chterS+2015){:target="_blank"}). Most of the manuscripts in RISM are today held by institutions in, logically, the UK, but a fair number have found their way to Germany and Switzerland.
 
 You can also read a review on [info-netz-musik](http://info-netz-musik.bplaced.net/?p=13682){:target="_blank"}.

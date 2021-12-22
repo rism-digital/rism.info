@@ -23,7 +23,7 @@ An extensive documentation system with digital archiving will therefore be devel
 
 ## Electronic resources: Introducing the Ewha Music Data Base (EMDB)
 
-The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’sEducational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the EMRI’s work of collecting and digitizing music education materials of East Asia: over 12,000 items of various types of music materials are listed. Its website (eMUSICdb.info) has been open to the public since November 1, 2014. [_Continue..._](/electronic_resources/2015/04/14/introducing-the-ewha-music-data-base-emdb.html){:blank}  
+The Ewha Music Research Institute (EMRI) recently completed a 3-year project to establish a database of East Asia’s Educational Music Documents in October 2014. The result, Ewha Music Data Base (EMDB), now showcases the EMRI’s work of collecting and digitizing music education materials of East Asia: over 12,000 items of various types of music materials are listed. Its website (eMUSICdb.info) has been open to the public since November 1, 2014. [_Continue..._](/electronic_resources/2015/04/14/introducing-the-ewha-music-data-base-emdb.html){:blank}  
 &nbsp;  
 &nbsp;  
 
@@ -31,7 +31,7 @@ The Ewha Music Research Institute (EMRI) recently completed a 3-year project to 
 
 ## In the news: From the First [最初] to the Best [最高]: Ewha Music Research Institute
 
-The Ewha Music ResearchInstitute (EMRI) is consistently gaining recognition as a hub for the study of East Asian music, namely that of China, Japan, and Korea, as it continues to embark on new collaborative research projects and organizes pertinent conferences focusing on important issues of documenting and digitizing primary sources in East Asian music. The Ewha College of Music, as the first music education institute in Korea, has led the field of Western music education and performance since its establishment in 1925. And, since its establishment in 1997, the EMRI has been diligently creating inner-connective environments in which the three important field of music (education, performance and research) are integrated through interdisciplinary approaches. [_Continue..._](/in_the_news/2015/03/12/from-the-first-to-the-best-ewha-music.html){:blank}  
+The Ewha Music Research Institute (EMRI) is consistently gaining recognition as a hub for the study of East Asian music, namely that of China, Japan, and Korea, as it continues to embark on new collaborative research projects and organizes pertinent conferences focusing on important issues of documenting and digitizing primary sources in East Asian music. The Ewha College of Music, as the first music education institute in Korea, has led the field of Western music education and performance since its establishment in 1925. And, since its establishment in 1997, the EMRI has been diligently creating inner-connective environments in which the three important field of music (education, performance and research) are integrated through interdisciplinary approaches. [_Continue..._](/in_the_news/2015/03/12/from-the-first-to-the-best-ewha-music.html){:blank}  
 &nbsp;  
 &nbsp;  
 

@@ -31,6 +31,6 @@ _Sources_:
 
 Laurence Libin, “Philip Reinagle's 'Extraordinary Musical Dog',” Music in Art 23, no. 1/2 (Spring-Fall 1998): 97-100. [Available online](https://www.jstor.org/stable/41561907){:target="_blank"}.
 
-Nicholas Temperley andSimon Heighes, “Crotch, William,” [_Grove Music Online_](https://doi.org/10.1093/gmo/9781561592630.article.06886){:target="_blank"}, retrieved 12 June 2018.
+Nicholas Temperley and Simon Heighes, “Crotch, William,” [_Grove Music Online_](https://doi.org/10.1093/gmo/9781561592630.article.06886){:target="_blank"}, retrieved 12 June 2018.
 
 _Image_: Philip Reinagle, _Portrait of an Extraordinary Musical Dog_, 1805. [Virginia Museum of Fine Arts](https://www.vmfa.museum/piction/6027262-8151754/){:target="_blank"}, Richmond. [CC BY-NC.](https://creativecommons.org/licenses/by-nc/4.0/) RIdIM record ID: [5041](http://db.ridim.org/display.php?ridim_id=5041){:target="_blank"}

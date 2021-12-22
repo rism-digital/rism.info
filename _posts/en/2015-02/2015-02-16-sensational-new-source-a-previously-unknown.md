@@ -15,7 +15,7 @@ _The following extremely important announcement has reached us from_ [_Henle Ver
 
 The new series **PianoPlus** is an ideal entry and re-access to the world of classical music, and likewise for all carnival enthusiasts and carnival grouches, who would like to make music with others.  
 
-As a sensational new source proves, Ludwig van Beethoven was – one can hardly believe – of a foolish nature and not at all averse to merry making and carnival.The Lied, discovered just a while ago in the attic of the [Cologne Gürzenich](http://www.koelnkongress.de/wEnglisch/locations/guerzenich/historie.php), was supposedly composed during the Bonn period, but never published.
+As a sensational new source proves, Ludwig van Beethoven was – one can hardly believe – of a foolish nature and not at all averse to merry making and carnival. The Lied, discovered just a while ago in the attic of the [Cologne Gürzenich](http://www.koelnkongress.de/wEnglisch/locations/guerzenich/historie.php), was supposedly composed during the Bonn period, but never published.
 
 Hence, this opus opens our new series – following strict academic editing criteria and of course published in best proven Urtext quality.
 

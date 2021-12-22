@@ -30,7 +30,7 @@ Most startlingly of all, perhaps, Orestes makes his entrance as a precocious pla
 
 
 ![Schneider](/resources-old-website/news/Offenbach_Schneider.jpg)  
-_Hortense Schneider as Helen inLa belle Hélène, from Louis Schneider, Offenbach (Paris, 1923) 7896.t.20._  
+_Hortense Schneider as Helen in La belle Hélène, from Louis Schneider, Offenbach (Paris, 1923) 7896.t.20._  
 
 Yet despite these trials the first night went ahead on 17th December 1864 at the Théâtre des Variétés, delighting critics and public so much that it launched a run of 700 performances. Among its admirers was the famous chef [Auguste Escoffier](http://www.escoffier-society.com/biography.php "Auguste Escoffier"), who created a special dish in its honour – Poire Belle Hélène, a luscious confection of poached pears and vanilla ice-cream topped with chocolate sauce and crystallized violets. Like the opera itself, it is a treat for the connoisseur – and certainly fit for an Emperor.
 
