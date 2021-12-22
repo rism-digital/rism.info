@@ -21,8 +21,8 @@ New delegates to the CM were appointed at the respective congresses of the two s
 
 - Mathias Auclair, Paris (France)
 - Richard Chesser, London (UK)
-- Dr.Massimo Gentili-Tedeschi, Milan (Italy)
-- Prof. Dr.Beatriz Magalhães Castro, Brasilia (Brazil)
+- Dr. Massimo Gentili-Tedeschi, Milan (Italy)
+- Prof. Dr. Beatriz Magalhães Castro, Brasilia (Brazil)
 - Dr. Balázs Mikusi, Budapest (Hungary)
 
 **IMS delegates**
@@ -34,5 +34,3 @@ New delegates to the CM were appointed at the respective congresses of the two s
 - Prof. Dr. Christiane Wiesenfeldt, Weimar (Germany)
 
 RISM would like to extend a warm welcome the new members of the CM. We are looking forward to working with them and engaging in fruitful discussions.
-
-

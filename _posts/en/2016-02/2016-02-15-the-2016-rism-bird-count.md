@@ -41,9 +41,7 @@ _Nightingale: From_ Birds of Europe _by John Gould, London, 1837. [New York Publ
 As we leave you to explore music featuring our feathered friends, we'll pass on this eighteenth-century publication (RISM A/I: [C 4544](https://opac.rism.info/search?id=00000990011878){:target="_blank"}; the earliest edition dates from 1717), which according to [Sarah Angliss](http://www.sarahangliss.com/talks/birdfancyersdelightnotes){:target="_blank"} was one of several methods used by people for the once-popular pastime of teaching melodies to birds:
 
 ![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)  
-_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling_
-
-Image from the [_University of Cardiff_](https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:target="_blank"}
+_The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling. Image from the [University of Cardiff](https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:blank}_
 
 
 A version is available digitized from [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} and Angliss has recorded some excerpts [here](https://soundcloud.com/sarahangliss/sets/the-bird-fancyers-delight){:target="_blank"}.

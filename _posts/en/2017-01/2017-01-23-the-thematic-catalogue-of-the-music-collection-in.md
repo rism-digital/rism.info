@@ -13,7 +13,7 @@ author: Eliška Šedivá
 
 _We have received the following publication announcement from Eliška Šedivá (RISM Czech Republic):_
 
-**Pavla Semerádová and Eliška Šedivá. [_Catalogus collectionis operum artis musicae de Monasterii Siloensis_](http://www.cupress.cuni.cz/ink2_ext/index.jsp?include=podrobnosti&id=277126){:target="_blank"}. Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2. Prague: Národní knihovna České republiky, 2016. 2 vols. 660p.ISBN 978-80-7050-664-6.**
+**Pavla Semerádová and Eliška Šedivá. [_Catalogus collectionis operum artis musicae de Monasterii Siloensis_](http://www.cupress.cuni.cz/ink2_ext/index.jsp?include=podrobnosti&id=277126){:target="_blank"}. Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2. Prague: Národní knihovna České republiky, 2016. 2 vols. 660p. ISBN 978-80-7050-664-6.**
 
 At the time of its greatest burgeoning in the eighteenth century, musical life in the Czech lands was far from concentrated only in the metropolises. The Czech lands were interwoven with a dense network of monasteries. The monastic choirs were significant rural centres of spiritual and cultural life alongside aristocratic seats and patronage churches.
 

@@ -724,11 +724,11 @@ Shanahan, Daniel and Eamonn Bell. "Re-Examining National Influences and Stylisti
 **2016:**  
 Benton, Rita and Jennifer A. Ward. "Répertoire International des Sources Musicales." _Grove Music Online_. _Oxford Music Online_. Oxford University Press,[http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}.    
 
-Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi:[10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
+Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi: [10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
 
 Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of the Bavarian State Library." Forum Musikbibliothek 37, no. 1 (2016): 7-13.  
 
-Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi:[10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
+Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi: [10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
 
 "[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
@@ -747,7 +747,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
 
 Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
 
-Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi:[10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
+Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi: [10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
 
 Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." _Fontes Artis Musicae_ 63, no. 2 (April-June 2016): 100-119.   
 

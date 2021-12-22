@@ -45,7 +45,7 @@ Chair: Klaus Keil, RISM Zentralredaktion
 **Sonja Tröster and Birgit Lodes** (Austrian Academy of Sciences, Vienna): Tracing Ludwig Senfl in Sixteenth-Century Sources: ACatalogue Raisonné in a Digital Environment  
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2272)
 
-**Klaus Pietschmann** (University of Mainz) **and**  **Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)   
+**Klaus Pietschmann** (University of Mainz) **and**  **Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB) des Mainzer Musikwissenschaftlichen Instituts)   
 [Abstract](/publications/conferences/conference-2012/abstracts.html#c2313)
 
 **Jürgen Diet** (Bavarian State Library, Munich): Searching the RISM Data in the Future: Improved Content-Based Searching and Linking to Other Data Sources  

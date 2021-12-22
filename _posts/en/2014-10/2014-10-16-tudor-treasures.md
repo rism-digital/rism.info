@@ -13,7 +13,7 @@ author: 'Margaret Jones'
 
 _The following entry is by [Margaret Jones](http://musicb3.wordpress.com/author/mj263/){:target="_blank"} and originally appeared on the [MusiCB3 Blog](http://musicb3.wordpress.com/2014/09/05/tudor-treasures/ "MusiCB3 Blog"). It is reprinted here with kind permission of Cambridge University Libraries._  
 
-I was asked to look out some of the Music Department’s “Tudor treasures” to complement items displayed by other departments. An early item of printed music is [Martin Luther’s](http://www.greatsite.com/timeline-english-bible-history/martin-luther.html "Luther") _[Deudsche Messe vnd Ordnung Gottis Diensts](http://ul-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=3772428 "Deudsche")_, published by Michael Lotter in [Wittenberg](http://en.wikipedia.org/wiki/Wittenberg "Wittenberg")in 1526. This first edition sets out Luther’s views on how the Mass should be conducted, and also includes chants and hymns.
+I was asked to look out some of the Music Department’s “Tudor treasures” to complement items displayed by other departments. An early item of printed music is [Martin Luther’s](http://www.greatsite.com/timeline-english-bible-history/martin-luther.html "Luther") _[Deudsche Messe vnd Ordnung Gottis Diensts](http://ul-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=3772428 "Deudsche")_, published by Michael Lotter in [Wittenberg](http://en.wikipedia.org/wiki/Wittenberg "Wittenberg") in 1526. This first edition sets out Luther’s views on how the Mass should be conducted, and also includes chants and hymns.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/W77p6CGgaWE" frameborder="0" allowfullscreen></iframe>
 

@@ -17,7 +17,7 @@ A new book has been published by Axel Klein, who was our Ireland consultant when
 
 As Klein writes:
 
-"This book describes the careers and the music of four generations of Irish musicians in 19th and early 20th-century France. It is a fascinating story of hopes and disappointments, successes and failures, musical talent and tastes, as this family integrated more and more into French society.The book collects documentary evidence about all members of the family with numerous music examples and other illustrations. It is not only a study of the prototype minor composer in one of Europe's musical capitals, but also discusses issues of identity, change, aesthetics and Irishness in exile. It is a contribution to both French and Irish musical history."
+"This book describes the careers and the music of four generations of Irish musicians in 19th and early 20th-century France. It is a fascinating story of hopes and disappointments, successes and failures, musical talent and tastes, as this family integrated more and more into French society. The book collects documentary evidence about all members of the family with numerous music examples and other illustrations. It is not only a study of the prototype minor composer in one of Europe's musical capitals, but also discusses issues of identity, change, aesthetics and Irishness in exile. It is a contribution to both French and Irish musical history."
 
 Of note to our RISM colleagues is Appendix 2, the O'Kelly Catalogue of Works (OKC). The musical works of the five members of the O'Kelly family who wrote music are documented here. Information on instrumentation, publications, performances, and dedications are included.
 

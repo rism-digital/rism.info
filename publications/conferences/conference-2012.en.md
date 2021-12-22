@@ -103,7 +103,7 @@ The presentations, in alphabetical order:
 **Stanislav Oustachev** (Russia, Glinka Museum Moscow): The RISM Project atthe Glinka Museum  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf) (PDF)
 
-**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB)des Mainzer Musikwissenschaftlichen Instituts)
+**Klaus Pietschmann** (University of Mainz) **and Christiane Wiesenfeldt** (University of Hamburg) **:** The MassDataBase (MDB) at the Institute of Musicology, Mainz (Die MessDatenBank (MDB) des Mainzer Musikwissenschaftlichen Instituts)
 
 **Laurent Pugin** (RISM Switzerland): The Use of METS for Delivering Digital Objects together with RISM Catalog Records  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf) (PDF)
@@ -113,7 +113,7 @@ The presentations, in alphabetical order:
 **Emilia Rassina** (RISM Russia): Current Work of RISM in Russia  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf) (PDF)  
 
-**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/)Online  
+**Daniel Röwenstrunk** (Detmold/Paderborn): Prospects forLinking RISM and [Edirom](http://www.edirom.de/) Online  
 (Perspektiven für eine Verknüpfung von RISM und [Edirom](http://www.edirom.de/) online)
 
 **Ludmiła Sawicka** (RISM Poland):The RISM Working Group at the Warsaw University Library and the Project to Catalog Old Dispersed Manuscripts of Silesian Origin, in Particular the Works of Johann Georg Clement (Wrocław, Warsaw and Krzeszów)   

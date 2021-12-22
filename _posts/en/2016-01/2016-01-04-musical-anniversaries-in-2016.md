@@ -15,13 +15,11 @@ Happy New Year!
 
 Once again, the new year brings us many opportunities to celebrate musicians who have big (sometimes very big) birthdays and remember those who have died. We've found over 800 people in the RISM database who will have their semicentennials, centennials, and various combinations thereof in 2016. These include not only composers but also librettists, performers, dedicatees, and people who are in other ways related to a source.
 
-A person in this last category is Walt Disney, who died 50 years ago this year. Disney is represented in the database through FrankChurchill's music from the film _Snow White and the Seven Dwarfs_ in an arrangement by Francis Salabert (held by the Koninklijke Harmonie Strijd voor Vrijheid in Belgium, B-TOeksv B.019, RISM ID no. [702012744](https://opac.rism.info/search?id=702012744){:target="_blank"}).
+A person in this last category is Walt Disney, who died 50 years ago this year. Disney is represented in the database through Frank Churchill's music from the film _Snow White and the Seven Dwarfs_ in an arrangement by Francis Salabert (held by the Koninklijke Harmonie Strijd voor Vrijheid in Belgium, B-TOeksv B.019, RISM ID no. [702012744](https://opac.rism.info/search?id=702012744){:target="_blank"}).
 
 The big winner this year in terms of quantity is Italian composer Giovanni Paisiello (1740-1816), who has [nearly 4,000 sources in the database](https://opac.rism.info/search?View=rism&author=Giovanni+Paisiello){:target="_blank"}.
 
-Other anniversaries worth noting are:[
-](https://opac.rism.info/metaopac/search?View=rism&q=189529342){:target="_blank"}
-
+Other anniversaries worth noting are:  
 - [Agnes, Princess of Bentheim-Tecklenburg](https://opac.rism.info/metaopac/search?View=rism&q=189529342){:target="_blank"} (1804-1866), German music collector and patron
 - [Christina von Brühl](https://opac.rism.info/metaopac/search?View=rism&q=116750715){:target="_blank"} (1756-1816), German composer and author
 - [Carlos III](https://opac.rism.info/metaopac/search?View=rism&q=118925059){:target="_blank"} (1716-1788), King of Spain

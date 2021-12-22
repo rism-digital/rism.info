@@ -17,7 +17,7 @@ Manuscripts, modern editions, and eighteenth-century printed music--RISM likes i
 New additions to Digitised Manuscripts at the British Library  
 Egerton MS 274 is now online (see photo, left, taken from f.27v), "a little anthology written in the thirteenth century which combines sacred Latin songs with French courtly lyrics."
 
-• [Vespro della BeataVergine](http://bibliolore.org/2014/05/31/vespro-della-beata-vergine/){:target="_blank"}  
+• [Vespro della Beata Vergine](http://bibliolore.org/2014/05/31/vespro-della-beata-vergine/){:target="_blank"}  
 RILM reports on this Urtext edition from Bärenreiter of this work by Monteverdi.  
 
 • [Benefit night at the Black BearInn](http://musicb3.wordpress.com/2014/05/30/benefit-night-at-the-black-bear-inn/){:target="_blank"}    
