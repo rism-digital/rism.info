@@ -30,8 +30,8 @@ Editorial staff:
 IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MA  
 
 **Project staff**
-* [Martin Bierwisch](mailto:martin.bierwisch@rism.info){:target="_blank"} M.A.
-* [Kristina Krämer](mailto:kristina.kraemer@rism.info){:target="_blank"} M.A.
+* [Martin Bierwisch](mailto:martin.bierwisch@rism.info){:target="_blank"}, MA
+* [Kristina Krämer](mailto:kristina.kraemer@rism.info){:target="_blank"}, MA
 
 ## Address
 
