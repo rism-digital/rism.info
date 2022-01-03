@@ -39,4 +39,6 @@ _László Vikárius (Bartók Archives, Budapest), Tibor Tallián (Member of the 
 _Wolf-Dieter Seiffert (G. Henle Publishers), Péter Halász (Translator) and Malcolm Gillies (Member of the editorial board of the Bartók Complete Edition)_.
 
 ![Henle Bartók 3](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_vertragsunterschrift_300breit.jpg)  
-_On 25 September Wolf-Dieter Seiffert and Antal Boronkay signed the cooperation treaty of both publishers._
+_On 25 September Wolf-Dieter Seiffert and Antal Boronkay signed the cooperation treaty of both publishers._  
+
+_Top image: András Batta (Franz Liszt Academy of Music), Wolf-Dieter Seiffert (G. Henle Publishers)_

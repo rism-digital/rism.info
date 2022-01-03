@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Our series RISM A-Z is moving right along, and here is the second entry for letter N.
+Our series RISM A–Z is moving right along, and here is the second entry for letter N.
 
 Anyone who looks for Johann Martin Friedrich Nisle in music encyclopedias will first come across the alternative first names Jean (Frédéric) and Giovanni. This is in fact an indication that the horn player and composer (and also violist) was on the move throughout Europe. Nisle, who was born in Neuwied (near Koblenz), studied in Rostock and went to Vienna before going on to Hungary, where he received his first permanent position in the court of Ignác Végh. Between 1809 and 1821, he was in Italy before joining the court orchestra in Stuttgart as a violist. After Switzerland, Berlin, and Paris, Nisle finally landed in London, where the trail grows cold.
 

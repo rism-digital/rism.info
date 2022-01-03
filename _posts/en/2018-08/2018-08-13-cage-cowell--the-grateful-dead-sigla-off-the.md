@@ -34,10 +34,10 @@ And finally, the [Grateful Dead Archive](https://guides.library.ucsc.edu/gratefu
 Also new to the Siglum Directory are these institutions, which complement sources in the RISM database:
 
 - Two archives that are important to [Joseph Haydn](https://opac.rism.info/search?View=rism&author=joseph+haydn&Language=en){:target="_blank"}’s career as [_Opernkapellmeister_ at Eszterháza](https://doi.org/10.1093/em/cau133){:target="_blank"}:
-- The [Esterházy-Archiv](https://esterhazy.at/de/burgforchtenstein/680046/Das-Archiv-der-Burg?from=suche.intern.portal){:target="_blank"} at Forchtenstein Castle in Austria: **A-FOea**
-- [Hungarian National Archives](https://mnl.gov.hu/){:target="_blank"} (Magyar Nemzeti Levéltár, MNL) in Budapest: **H-Bmnl**
+ - The [Esterházy-Archiv](https://esterhazy.at/de/burgforchtenstein/680046/Das-Archiv-der-Burg?from=suche.intern.portal){:target="_blank"} at Forchtenstein Castle in Austria: **A-FOea**
+ - [Hungarian National Archives](https://mnl.gov.hu/){:target="_blank"} (Magyar Nemzeti Levéltár, MNL) in Budapest: **H-Bmnl**
 
 - Institutions related to the Hungarian composers [Béla Bartók](https://opac.rism.info/search?View=rism&author=bartok&Language=en){:target="_blank"} and [Zoltán Kodály](https://opac.rism.info/search?View=rism&author=Zoltan+kodaly&Language=en "external-link-new-window"):
-- [Bartók Archives](http://zti.hu/index.php/hu/bartok){:target="_blank"} (Bartók Archívum), Institute for Musicology of the Research Centre for the Humanities, Hungarian Academy of Sciences: **H-Bbba**
-- [Zoltán Kodály Archives](https://kodaly.hu/museum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
-- [Bartók Béla Memorial House](http://www.bartokmuseum.hu/){:target="_blank"} (Bartók Béla Emlékház): **H-Bbeh**
+ - [Bartók Archives](http://zti.hu/index.php/hu/bartok){:target="_blank"} (Bartók Archívum), Institute for Musicology of the Research Centre for the Humanities, Hungarian Academy of Sciences: **H-Bbba**
+ - [Zoltán Kodály Archives](https://kodaly.hu/museum){:target="_blank"} (Kodály Zoltán Archívum), Budapest: **H-Bkema**
+ - [Bartók Béla Memorial House](http://www.bartokmuseum.hu/){:target="_blank"} (Bartók Béla Emlékház): **H-Bbeh**

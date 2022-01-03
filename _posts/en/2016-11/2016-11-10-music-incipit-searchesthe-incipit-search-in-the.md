@@ -31,7 +31,7 @@ The online catalog offers two different ways of searching for music incipits —
 
 4. Selecting the option **Music incipit (with transposition)** will also include incipits that have been transposed from the initial search inquiry.
 
-**2. Search using the on-screen pianokeyboard**
+**2. Search using the on-screen piano keyboard**
 
 Underneath the search boxes is a virtual piano keyboard. This can also be used to input music incipits.
 ![Incipit search with keyboard](/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
@@ -69,7 +69,7 @@ More incipit search tips:
 
 
 **And remember:**
-The music incipits in RISM are not standardised in any way. Rather, they reflect the incipits as they appear on the sources themselves. Accordingly, there may be slight variations among different copies of what is essentially the same work.
+The music incipits in RISM are not standardized in any way. Rather, they reflect the incipits as they appear on the sources themselves. Accordingly, there may be slight variations among different copies of what is essentially the same work.
 
 Not every source described in the RISM catalog includes a music incipit. Sometimes, only text incipits are included or only basic information about the movement (such as time signature or tempo marking).
 

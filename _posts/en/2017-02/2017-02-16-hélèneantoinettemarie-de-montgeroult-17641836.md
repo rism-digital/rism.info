@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-_Our series RISM A-Z brings us to the letter M._
+_Our series RISM A–Z brings us to the letter M._
 
 The French composer and pianist Hélène de Montgeroult (1764 Lyon – 1836 Florence) was a pupil of Jan Ladislav Dussek and Muzio Clementi. She did not perform publicly as a pianist but was active in salons. In 1784, Hélène de Nervo married the retired officer André Marie Gautier, Marquis de Montgeroult. This marriage was followed by two further ones.
 

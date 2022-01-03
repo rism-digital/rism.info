@@ -21,15 +21,15 @@ The partners agree to collaborate, through a working group, as follows:
 
 - consequently, to improve the respective catalogues and their services to users with specific projects which may include:
 
-- selecting and importing into the SBN catalogue records concerning resources preserved in Italian libraries that are currently available only in the RISM card and electronic catalogues;
+ - selecting and importing into the SBN catalogue records concerning resources preserved in Italian libraries that are currently available only in the RISM card and electronic catalogues;
 
-- making bibliographic and authority records that are only in SBN searchable and indexed through the online catalogue of RISM;
+ - making bibliographic and authority records that are only in SBN searchable and indexed through the online catalogue of RISM;
 
-- identifying and solving the issue of duplicate bibliographic records that are in the SBN and RISM databases;
+ - identifying and solving the issue of duplicate bibliographic records that are in the SBN and RISM databases;
 
-- implementing searching and enabling rendering of music incipits in the OPAC SBN;
+ - implementing searching and enabling rendering of music incipits in the OPAC SBN;
 
-- aligning, updating and maintaining data concerning music libraries in the RISM database (RISM Series C) and ICCU databases, including the Anagrafe delle biblioteche italiane;
+ - aligning, updating and maintaining data concerning music libraries in the RISM database (RISM Series C) and ICCU databases, including the Anagrafe delle biblioteche italiane;
 
 - to improve the visibility of the OPAC SBN and RISM online catalogues by promoting specific actions, such as making their collaboration public, through reciprocal links on websites, to publish documentation for scholarly as well as for educational purposes.
 

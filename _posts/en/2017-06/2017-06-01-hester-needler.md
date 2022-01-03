@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-We've reached the halfway point in our series RISM A-Z. We'll start the second half of the series with the letter N, which today stands for Hester Needler.
+We've reached the halfway point in our series RISM A–Z. We'll start the second half of the series with the letter N, which today stands for Hester Needler.
 
 Not much is known about Needler, but she is the composer of a collection of 6 anthems in the RISM online catalog and appears as a previous owner for a further 10 manuscripts. These 10 manuscripts are copies made by her husband, Henry Needler (1685-1760), who was known as an early member and leader of the ensemble Academy of Ancient Music in London. Sometime after Henry's death, Hester gave the manuscripts to James Mathias (another colleague from the Academy), and it is Mathias's bookplate that is found in these items. Mathias bequeathed these manuscripts to the British Museum (today the British Library) in 1782.
 
