@@ -12,7 +12,7 @@ author: ''
 
 **Happy New Year!**  
 
-As in past years, we are using the beginning of the year to look at significant anniversaries of birth or death for people found in the RISM catalog. We are listing not only composers in RISM, but also librettists, performers, and dedicatees, or also people who are in other ways connected to a musical source. They were born or died in a year that ends in 22 or 72.  
+As in past years, we are using the beginning of the year to look at significant anniversaries of birth or death for people found in the RISM catalog. We are listing not only composers in RISM, but also librettists, performers, dedicatees, or other people who are connected to a musical source in any way. They were born or died in a year that ends in 22 or 72.  
 
 [Our Google spreadsheet](https://docs.google.com/spreadsheets/d/1bvZPKofW2ynSZOm4tBBNx-5zky7A7qhkv_dIgwkYtZQ/edit#gid=0){:blank} is divided into two sheets, one for year of birth and one for year of death. You can sort by name, life dates, or gender, and we’re also including a direct link to the RISM catalog.  
 
