@@ -11,7 +11,7 @@ email: info@henle.de
 author: G. Henle Verlag
 ---
 
-_This news originally appeared on the [website of the G. Henle Verlag](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/){:target="_blank"} (whose CEO, Wolf-Dieter Seiffert, is also the RISM president) and are reprinting it with kind permission._ _RISM has just a handful of works by Bartók in the [RISM database](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"}._
+_This news originally appeared on the [website of the G. Henle Verlag](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/){:target="_blank"} (whose CEO, Wolf-Dieter Seiffert, is also the RISM president) and are reprinting it with kind permission. RISM has just a handful of works by Bartók in the [RISM database](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"}._
 
 26 September 2015 was the 70th anniversary of Béla Bartók’s death. At the same time it was an important day for Bartók research. In Budapest the Critical Complete Edition of Béla Bartók’s works was announced.
 

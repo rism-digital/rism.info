@@ -41,7 +41,7 @@ You will never listen to [solfeggio](https://opac.rism.info/search?id=850507984 
 
 Dedicated RISM users will know that sometimes a record only has a text incipit or a tempo indication. These are included as well, featuring the celebrity voices of David Attenborough, Morgan Freeman, Werner Herzog, William Shatner, and Meryl Streep. Enjoy as they read out classics such as  
 
-_1.1.1 vl 1, c; 3/4; c/Ouverture. Più moto;b; B_  
+_1.1.1 vl 1, c; 3/4; c/ Ouverture. Più moto; b; B_  
 
 and   
 _1.6.1 6/4; e Tell him Apollo greets him well_  

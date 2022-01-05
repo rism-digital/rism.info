@@ -16,11 +16,11 @@ _RISM: An Overview_ is a 14-page, full-color brochure that describes RISM's goal
 
 The brochure is available in six bilingual editions. High-resolution files are available upon request.
 
-- [German-English](/resources-old-website/community-content/Zentralredaktion/20150410_RISM_Broschuere_NEU-1_FINAL.pdf) (PDF; last updated: April 2015) 
+- [German-English](/resources-old-website/community-content/Zentralredaktion/20150410_RISM_Broschuere_NEU-1_FINAL.pdf) (PDF; last updated: April 2015)
 - [Traditional Chinese-English](/resources-old-website/community-content/Zentralredaktion/RISM_brochure_Traditional_Chinese_2017_compressed.pdf) (PDF; last updated: 2017)  
 _Translated by WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU, and Nora YEH_   
 - [Simplified Chinese-English](/resources-old-website/community-content/Zentralredaktion/RISM_brochure_Simplified_Chinese_2017_compressed.pdf) (PDF; last updated: 2017)  
-_Translated by_ _WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU, and Nora YEH_ 
+_Translated by WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU, and Nora YEH_ 
 - [Portuguese-English](/resources-old-website/community-content/Zentralredaktion/RISM_brochure_English_Portuguese_web_version.pdf) (PDF; last updated: 2017)   
 _Translated by Beatriz Magalhães Castro and Sílvia Sequeira_  
 - [Russian-English](/resources-old-website/community-content/Zentralredaktion/RISM_Broschuere_English_Russian.pdf) (PDF; last updated: 2012)  

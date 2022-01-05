@@ -24,4 +24,4 @@ Le catalogage rétrospectif ou courant des manuscrits de la BnF continue: [ce li
 Pour le reste de la France, le recensement des fonds musicaux anciens, à présent disponible en ligne dans le [Catalogue collectif de France](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?action=public_formsearch_sources_musicales) en plus de la version imprimée, s’enrichira prochainement de nouveaux catalogues régionaux.
 
 
-_Image_: Giovanni Lorenzo Lulier, _La fortuna con eccessi,_ _Cantate du Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item "Ouvre un lien externe dans une nouvelle fenêtre"), [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism "Ouvre un lien externe dans une nouvelle fenêtre").
+_Image_: Giovanni Lorenzo Lulier, _La fortuna con eccessi, Cantate du Recueil de cantates italiennes_, [F-Pn RES VMF MS-45](https://gallica.bnf.fr/ark:/12148/btv1b105073100/f7.item "Ouvre un lien externe dans une nouvelle fenêtre"), [RISM ID no. 840029588](https://opac.rism.info/search?id=840029588&View=rism "Ouvre un lien externe dans une nouvelle fenêtre").

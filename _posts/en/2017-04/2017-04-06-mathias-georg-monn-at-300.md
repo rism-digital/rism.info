@@ -26,3 +26,5 @@ Treat yourself to the Cello Concerto in G minor by Mathias Georg Monn in this re
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qgNLJm-rwss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 &nbsp;
 &nbsp;
+
+_Image, top:_ Concerto Ex B moll \| à \| Clavicembalo. \| Flauto Traverso. \| Violino. \| è \| Basso. Staatsbibliothek zu Berlin - PK (D-B) Mus.ms. 14630/1, http://resolver.staatsbibliothek-berlin.de/SBB00019D2600000000 ([RISM ID no. 453501269](https://opac.rism.info/search?id=453501269]{:blank})).

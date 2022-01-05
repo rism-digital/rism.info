@@ -17,7 +17,7 @@ Misjudged, underappreciated, a failure, _enfant terrible_, the most abused compo
 
 - The theme of an international academic conference was “Wilhelm Friedemann Bach and the Protestant Church Cantata after 1750” on 7-8 June in the Handel House in Halle and 19-20 November 2010 in the Bach Archive in Leipzig.
 
-- A new biographical study by Ulrich Kahmann, _Wilhelm Friedemann Bach:_ _Der unterschätzte Sohn_ (_Wilhelm Friedemann Bach: The Underappreciated Son_) (Bielefeld: Aisthesis Verlag, 2010), presents the oldest Bach son as a driven man, for whom it is difficult to loosen himself from his overpowering father and search for his place in music somewhere between baroque and classical.
+- A new biographical study by Ulrich Kahmann, _Wilhelm Friedemann Bach: Der unterschätzte Sohn_ (_Wilhelm Friedemann Bach: The Underappreciated Son_) (Bielefeld: Aisthesis Verlag, 2010), presents the oldest Bach son as a driven man, for whom it is difficult to loosen himself from his overpowering father and search for his place in music somewhere between baroque and classical.
 
 - David Schulenberg has also written a book called _The Music of Wilhelm Friedemann Bach_ (University of Rochester Press, 2010) in which he discusses every extant Wilhelm Friedemann work, considers aspects of performance practice, and lists manuscript sources.
 

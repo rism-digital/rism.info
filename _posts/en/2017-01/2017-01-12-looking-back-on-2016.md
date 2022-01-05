@@ -36,10 +36,10 @@ But in 2016—as in 2015—the post more often read than any other story, from a
 - [How early music was printed using movable type](https://www.facebook.com/RISM.info/posts/1104831692891007){:target="_blank"} - featuring the Plantin workshop in Antwerp:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3FL8cAROIMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).
-**RISM in publications**
-RISM was also mentioned in a number of articles in 2016, including an update of the article in _Grove Music Online_, but also articles where RISM is used as a resource in digital humanities projects. See the full list [in the RISM bibliography](/publications/bibliography.html#c2606).
+[Early music printing](https://vimeo.com/101737669) from [Cantum Mensurable](https://vimeo.com/luiscfhenriques) on [Vimeo](https://vimeo.com).  
 
+**RISM in publications**  
+RISM was also mentioned in a number of articles in 2016, including an update of the article in _Grove Music Online_, but also articles where RISM is used as a resource in digital humanities projects. See the full list [in the RISM bibliography](/publications/bibliography.html#c2606).
 
 We are looking forward to a productive and newsworthy 2017!
 

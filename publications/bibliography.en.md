@@ -286,7 +286,7 @@ Prokopowicz, Maria. "RISM w różnych krajach." In _Biblioteka muzyczna 1980-198
 
 Rösing, Helmut and Joachim Schlichte. "Die Serie A/II des Internationalen Quellenlexikons der Musik." _Fontes Artis Musicae_ 31 (1984): 167-172; addendum in _Fontes Artis Musicae_ 32 (1985): 117-118.
 
-Rostirolla, Giancarlo. "Le attività di inventariazione delle fonti musicali in Italia." _Associazione Italiana Biblioteche._ _Bolletino_ 24, no. 2-3 (1984): 185-196.
+Rostirolla, Giancarlo. "Le attività di inventariazione delle fonti musicali in Italia." _Associazione Italiana Biblioteche. Bolletino_ 24, no. 2-3 (1984): 185-196.
 
 Schlichte, Joachim. "Erstellung von Bibliographien mittels EDV, dargestellt am Beispiel der Handschriftenserie A/II." _Forum Musikbibliothek_ 4 (1984): 172-187.
 
@@ -482,7 +482,7 @@ Esteve Vaquer, José-Joaquin, Andreu Juliа Serra, and Cristina Menzel Sansу. "
 
 Grand, Cécile. "L’inventaire du patrimoine musical régional français (1989-2000): Organization et méthodes de travail." _Fontes Artis Musicae_ 47 (2000): 150-163.
 
-"RISM. Répertoire International des Sources Musicales". _IFLA Moskva._ _Novosti Rossijskogo Komiteta IFLA_ no. 29-30 (2000): 17.
+"RISM. Répertoire International des Sources Musicales". _IFLA Moskva. Novosti Rossijskogo Komiteta IFLA_ no. 29-30 (2000): 17.
 
 **2001:**  
 Benton, Rita. "Répertoire International des Sources Musicales." In _New Grove Dictionary of Music and Musicians,_ 2<sup>nd</sup> edition, 21: 194-195. London: Macmillan, 2001.
@@ -903,7 +903,7 @@ Wong, Chelsea and Thomas Huthwaite. “Finding Harmony Between ‘commonplace’
 
 YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle). _Library Journal_, 40, no. 9 (2021): 39-47.  [Available online](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}.  
 
-"國臺交啟動「省交歷史文物回娘家捐贈徵集」計畫." Yahoo News (Taiwan), 2 December 2021. [Available online](https://tw.news.yahoo.com/%E5%9C%8B%E8%87%BA%E4%BA%A4%E5%95%9F%E5%8B%95-%E7%9C%81%E4%BA%A4%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E5%9B%9E%E5%A8%98%E5%AE%B6%E6%8D%90%E8%B4%88%E5%BE%B5%E9%9B%86-%E8%A8%88%E7%95%AB-093657794.html?guccounter=1){:blank}. 
+"國臺交啟動「省交歷史文物回娘家捐贈徵集」計畫." Yahoo News (Taiwan), 2 December 2021. [Available online](https://tw.news.yahoo.com/%E5%9C%8B%E8%87%BA%E4%BA%A4%E5%95%9F%E5%8B%95-%E7%9C%81%E4%BA%A4%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E5%9B%9E%E5%A8%98%E5%AE%B6%E6%8D%90%E8%B4%88%E5%BE%B5%E9%9B%86-%E8%A8%88%E7%95%AB-093657794.html?guccounter=1){:blank}.
 
 **Notes:**
 
