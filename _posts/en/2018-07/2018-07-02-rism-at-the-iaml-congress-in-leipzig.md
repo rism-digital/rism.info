@@ -35,10 +35,10 @@ Chair: Richard Chesser (British Library, London)
 
 - 11.00–12.30 RISM Open Session
 Chair: Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
-- Klaus Keil (RISM Zentralredaktion, Frankfurt am Main) and Jürgen Diet (Bayerische Staatsbibliothek, Munich)
+ - Klaus Keil (RISM Zentralredaktion, Frankfurt am Main) and Jürgen Diet (Bayerische Staatsbibliothek, Munich)
 RISM news, including a presentation of the newly released RISM online catalog
-- Andrea Hartmann (RISM Germany, Dresden office) Cataloguing music prints in RISM. Recent developments
-- David Blum (Moravian Music Foundation, Winston-Salem, NC) Experience using bibliographic records downloaded from RISM
+ - Andrea Hartmann (RISM Germany, Dresden office) Cataloguing music prints in RISM. Recent developments
+ - David Blum (Moravian Music Foundation, Winston-Salem, NC) Experience using bibliographic records downloaded from RISM
 
 In addition, don’t miss RISM-related presentations and talks from our RISM contributors throughout the week. The full program is [available online](http://iaml2018.info/programme/){:target="_blank"}.
 

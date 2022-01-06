@@ -41,7 +41,6 @@ This workshop will present different aspects of the RISM online catalog, which h
 
   - Laurent Pugin (RISM Switzerland), Klaus Keil (RISM Zentralredaktion), Jennifer Ward (RISM Zentralredaktion): Presentation of the new program for source documentation: Muscat 3.0
 
-
 - 11:00-12:30: Advisory Council (open to all national working group representatives)
 Chair: Armin Brinzing (Internationale Stiftung Mozarteum, Salzburg)
 
@@ -66,28 +65,31 @@ Revising the RISM A/II Records: The case of SI‐ Lnr, Mss 339–344
 
 **Tuesday, July 5**
 
-- 9.00–10.30 Alina Mądry (Adam Mickiewicz University, Poznań)
-  Probleme mit der Zuordnung in polnischen Sammlungen von Musikalien aus dem 18. Jahrhundert
+- 9.00–10.30 Alina Mądry (Adam Mickiewicz University, Poznań)  
+  Probleme mit der Zuordnung in polnischen Sammlungen von Musikalien aus dem 18. Jahrhundert  
 - 11.00–12.30 Working Group on the Access to Music Archives Project
-  Working meeting (open)
-  - Patrizia Rebulla (RISM Belgium, Brussels office)
+  Working meeting (open)  
+  - Patrizia Rebulla (RISM Belgium, Brussels office)  
   Géo‐localisation des institutions belges liées au RISM
-  - Klaas Jaap van der Meijden (Resonant, Leuven)
+  - Klaas Jaap van der Meijden (Resonant, Leuven)  
   Open discussion “Towards the future of AMA‐WG” and News of the updating of RISM‐C Directory
 
 **Wednesday, July 6, 15.30: Guided tours**
 
 - 7–Organs in Roman Churches\
    Oratorio del Crocifisso, Piazza dell’Oratorio\
-   Presentation of the organ (1744) by Johann Konrad Wörle/Giovanni Corrado Verlè (1701 Vils – 1777 Rome)
-   Florian Bassani, Organ (Universität Bern, Institut für Musikwissenschaft)
-   P. Urban Stillhard OSB, P. Ulrich Kössler OSB (Schola Benedictina, Muri-Gries Abbey, Bozen/South Tyrol)
-   Hildegard Herrmann-Schneider (RISM Tirol-Südtirol & OFM Austria/Institut für Tiroler Musikforschung)
-   The organ, built in 1744 by one of the best eighteenth-century organ builders in Rome (who had immigrated from Austria), is in the sacred room in which the oratorio as a music genre began. The Oratorio del Crocifisso is completely decorated with frescos by representative artists from Rome ca. 1580/90 and otherwise rarely open to visitors.
+   Presentation of the organ (1744) by Johann Konrad Wörle/Giovanni Corrado Verlè (1701 Vils – 1777 Rome)  
+
+   Florian Bassani, Organ (Universität Bern, Institut für Musikwissenschaft)  
+   P. Urban Stillhard OSB, P. Ulrich Kössler OSB (Schola Benedictina, Muri-Gries Abbey, Bozen/South Tyrol)  
+   Hildegard Herrmann-Schneider (RISM Tirol-Südtirol & OFM Austria/Institut für Tiroler Musikforschung)  
+
+   The organ, built in 1744 by one of the best eighteenth-century organ builders in Rome (who had immigrated from Austria), is in the sacred room in which the oratorio as a music genre began. The Oratorio del Crocifisso is completely decorated with frescos by representative artists from Rome ca. 1580/90 and otherwise rarely open to visitors.  
+
    After a short introduction to the instrument and room, the Wörle organ will be sounded live in a short concert with eighteenth-century repertoire from Rome, held by libraries in Rome (Biblioteca dell’Accademia Nazionale dei Lincei e Corsiniana [I-Rli] and Biblioteca Nazionale Centrale [I-Rn]), including works by Girolamo Chiti (director of music at the Basilika S. Giovanni in Laterano from 1726) and anonymous _alternatim_ pieces.
 
 **Thursday, July 7**
 
-- 16.00–17.30
+- 16.00–17.30  
 Hildegard Herrmann‐Schneider (Institut für Tiroler Musikforschung, Innsbruck)
 “Tu mi sprezzi e mi deridi” or “Salve Pater Benedicte”? On sources containing music by Italian composers at the Cistercian Abbey in Stams/Tyrol
