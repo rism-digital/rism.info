@@ -19,8 +19,8 @@ Some of the music written for royal weddings includes:
 
 - Henry Purcell's autograph manuscript of "From hardy climes and dangerous toils of war," written for the wedding of Prince George and Queen Anne in 1683 ([RISM ID no. 800238115](https://opac.rism.info/search?id=800238115&Language=en){:target="_blank"})
 - A couple compositions by Christoph Graupner for weddings related to the Darmstadt court:
-- "Ihr schlummert ihr schlafet" for the wedding of Ludwig VIII and Charlotte von Hanau on 5 April 1717 ([RISM ID no. 450005715](https://opac.rism.info/search?id=450005715&Language=en){:target="_blank"})
-- And then a cantata for the wedding one of the couple's children: "Bei Pauken und Trompeten" for the wedding of Prince George and Louise von Leiningen on 16 March 1748 ([RISM ID no. 450005709](https://opac.rism.info/search?id=450005709&Language=en){:target="_blank"})
+ - "Ihr schlummert ihr schlafet" for the wedding of Ludwig VIII and Charlotte von Hanau on 5 April 1717 ([RISM ID no. 450005715](https://opac.rism.info/search?id=450005715&Language=en){:target="_blank"})
+ - And then a cantata for the wedding one of the couple's children: "Bei Pauken und Trompeten" for the wedding of Prince George and Louise von Leiningen on 16 March 1748 ([RISM ID no. 450005709](https://opac.rism.info/search?id=450005709&Language=en){:target="_blank"})
 
 - An intrada by Carl Friedrich Weideman for the wedding of Princess Augusta of Great Britain and Charles William Ferdinand, Duke of Brunswick-Wolfenbüttel in 1764 ([RISM ID no. 800256603](https://opac.rism.info/search?id=800256603&Language=en){:target="_blank"})
 - A song by James Hook entitled simply “Charlotte and Leopold,” on the occasion of the wedding of Charlotte, Princess of Wales, to Prince Leopold of Saxe-Coburg in 1816 ([RISM ID no. 806294454](https://opac.rism.info/search?id=806294454&Language=en){:target="_blank"})

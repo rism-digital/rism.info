@@ -17,7 +17,7 @@ Peter Grønland left behind a rich body of vocal music. Many of his lieder and s
 
 In his autobiography, the Danish composer Christoph Ernst Friedrich Weyse (1774-1842) characterized Grønland as follows: “Without actually being, or wanting to be, a musician, indeed without even being able to play an instrument with any particular proficiency, he possessed musical knowledge--and even then only especially dedicated to theory, criticism, or speculation--that coincides only rarely and he had the most vivid sense for all things beautiful” (Hatting, ‘Weyses selvbiografi’, p. 64).
 
-Modern scholars have pointed out that “Grønland often wrote music reviews for German newspapers and set a series of Swedish folk songs to music, which he published in 1818. In addition, even at this early point he was engaged from a historical perspective with songs, although his settings of the Danish material unfortunately never got past the manuscript phase” (Anne Ørbæk Jensen, Claus Røllum-Larsen, and Inger Sørensen, _Wahlverwandtschaften._ _Zwei Jahrhunderte musikalischer Wechselwirkungen zwischen Dänemark und Deutschland_ [Copenhagen: Det Kongelige Bibliotek, 2004], p. 34).
+Modern scholars have pointed out that “Grønland often wrote music reviews for German newspapers and set a series of Swedish folk songs to music, which he published in 1818. In addition, even at this early point he was engaged from a historical perspective with songs, although his settings of the Danish material unfortunately never got past the manuscript phase” (Anne Ørbæk Jensen, Claus Røllum-Larsen, and Inger Sørensen, _Wahlverwandtschaften. Zwei Jahrhunderte musikalischer Wechselwirkungen zwischen Dänemark und Deutschland_ [Copenhagen: Det Kongelige Bibliotek, 2004], p. 34).
 
 
 **Grønland Online**

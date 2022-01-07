@@ -28,10 +28,8 @@ Listen to this performance of "Montague" sung by the Oregon State University Cho
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9-gsNpea4Mw" frameborder="0" allowfullscreen></iframe>
 
-**Sources:**
-_Timothy Swan: Psalmody and Secular Songs_
-_The core repertory of early American psalmody_
+**Sources:**  
+Nym Cooke, ed., _Timothy Swan: Psalmody and Secular Songs_ (Madison: A-R Editions, 1997).  
+Richard Crawford, _The core repertory of early American psalmody_ (Madison: A-R Editions, 1983).
 
-_Image_ [American Antiquarian Society](http://www.americanantiquarian.org/Inventories/Portraits/118.htm){:target="_blank"}
-
-
+_Image:_ Portrait of Swan by an unknown artist, c. 1797. Courtesy of the [American Antiquarian Society](http://www.americanantiquarian.org/Inventories/Portraits/118.htm){:target="_blank"}, Worcester, MA.

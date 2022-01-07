@@ -26,4 +26,4 @@ Above, a page from an early edition of Pesenti’s [_Dal lecto me levava_](http:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xkJ-yTzmX6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-_Michele Pesenti is [in the RISM Catalog ca. 50 times](https://opac.rism.info/search?View=rism&author=Pesenti+Michele&Language=en){:target="_blank"}.The above image is from_ _Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504_ _([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._
+_Michele Pesenti is [in the RISM Catalog ca. 50 times](https://opac.rism.info/search?View=rism&author=Pesenti+Michele&Language=en){:target="_blank"}.The above image is from Michele Pesenti, Dal lecto me levava, Venezia: Ottaviano Petrucci, 1504 ([A-Wn SA.77.C.2/1](http://data.onb.ac.at/rep/10044D45){:target="_blank"}, [RISM ID no. 993112001](https://opac.rism.info/search?id=00000993112001&View=rism){:target="_blank"})._

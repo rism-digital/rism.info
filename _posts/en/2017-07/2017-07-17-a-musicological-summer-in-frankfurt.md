@@ -35,4 +35,4 @@ _The National Library of Latvia in Riga_
 
 It’s hard to believe that five weeks have already passed since I arrived in Frankfurt. I would like to thank the staff of the Central Office, particularly Jennifer Ward and Dr. Martina Falletta, who made this internship possible and enabled me to have so many invaluable scholarly and musical experiences during my time in Frankfurt. This internship was a wonderful chance to get a closer look at the work of RISM and in doing so to gain a deeper understanding of the vital relationship between the fields of musicology and librarianship.
 
-_All photographs by Vivian Tompkins._
+_Top image: Instruments at Hindemith's Kuhhirtenturm. All photographs by Vivian Tompkins._

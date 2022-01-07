@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-This is our last entry in our series RISM A-Z for the year, and with this entry we've come nearly halfway through the alphabet.
+This is our last entry in our series RISM A–Z for the year, and with this entry we've come nearly halfway through the alphabet.
 
 Christian Ignatius Latrobe was born in the Moravian settlement in Fulneck, England and traveled to Niesky in Saxony in 1771 to attend the Moravian school there. He stayed there as an English teacher until 1784. After his return to England, he became secretary of the church's Society for the Furtherance of the Gospel, a position he held for 50 years. In 1796, he began to issue various missionary publications. An account of his official missionary trip to South Africa appeared in 1818 with the title [_Journal of a Visit to South Africa in 1815 and 1816 with Some Account of the Missionary Settlements of the United Brethren Near the Cape of Good Hope_](https://archive.org/details/journalofvisitto01latr){:target="_blank"}, which he embellished with numerous impressive drawings.
 
@@ -20,7 +20,7 @@ Latrobe was not only a capable administrator, he was also an accomplished musici
 The [211 entries in the RISM online catalog](https://opac.rism.info/search?View=rism&author=100611354){:target="_blank"} give a good overview of Latrobe's compositional output. Most of the manuscripts are housed at the Moravian Church's Unity Archives in Herrnhut (D-HER). Of the 22 music prints in RISM, 11 were self-published.
 
 ![Music by Latrobe](/resources-old-website/news/Latrobe_Christian_Ignatius-1.JPG)  
-_Selection of Sacred Music_ [RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
+_Selection of Sacred Music_, D-Mbs 2 Mus.pr. 547-1, [RISM A/I: L 1062](https://opac.rism.info/search?id=00000990036847){:target="_blank"}
 
 This video is about Latrobe's missionary trip to South Africa and is complete with illustrations from his account of the journey:
 

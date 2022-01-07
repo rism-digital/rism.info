@@ -23,14 +23,11 @@ Space is limited. Please register by sending an e-mail to [contact@rism.info](ma
 Thursday, June 22
 
 - 9.00-10.30, RISM Open Session
-
-- Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)  
+ - Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)  
 RISM news and information
-
-- Agnieszka Drożdżewska (University of Wrocław, Poland)  
+ - Agnieszka Drożdżewska (University of Wrocław, Poland)  
 Rediscovering monastic, court and church music from 18th and 19th century Silesia. Remarks about collections from Nysa, Oleśnica, Wrocław and Opole
-
-- Tzu-Chia Tseng (Digital Archive Center for Music, National Taiwan Normal University, Taipei) and Bin Han (Shanghai Conservatory of Music, Shanghai)  
+ - Tzu-Chia Tseng (Digital Archive Center for Music, National Taiwan Normal University, Taipei) and Bin Han (Shanghai Conservatory of Music, Shanghai)  
 The challenges to construct Chinese music literature: starting from the Working Group of the RISM-Chinese language region
 
 - 11.00-12.30, Advisory Council (open to all national working group representatives)  

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-James Hewitt was born on this day--June 4--in 1770 in England and died in 1827 in Boston. Two things stand out right away: first, he is a near exact contemporary of Ludwig van Beethoven, and second, he was in the United States when the United States was itself in its infancy.
+James Hewitt was born on this day—June 4—in 1770 in England and died in 1827 in Boston. Two things stand out right away: first, he is a near exact contemporary of Ludwig van Beethoven, and second, he was in the United States when the United States was itself in its infancy.
 
 Indeed, Hewitt was in New York by 1792, a scant ten years after the Revolutionary War ended. Though he had published a little bit in London, it was in America that he established himself as a music publisher and composer. The RISM database contains ca. 270 editions published by Hewitt in places including New York and Boston (search for **James Hewitt** in the [Advanced Search](https://opac.rism.info/advanced-search){:target="_blank"} under **Publisher**, or [follow this link](https://opac.rism.info/search?View=rism&q=James+Hewitt&Language=en){:target="_blank"} and filter by **Publisher**). British composers played a large role here: Charles Dibdin, James Hook, William Shield, Stephen Storace comprise 40% of his publishing output in RISM.
 

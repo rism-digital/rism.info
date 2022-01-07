@@ -11,7 +11,7 @@ email: contact@rism.info
 author: Vivian Tompkins
 ---
 
-_The following was written by Vivian Tompkins, our intern at the Central Office in Frankfurt_ _in summer 2017:_
+_The following was written by Vivian Tompkins, our intern at the Central Office in Frankfurt in summer 2017:_
 
 2017 is an important anniversary for Venice. This year the city celebrates the life and works of Claudio Monteverdi (1567-1643), who was born 450 years ago. While Monteverdi is certainly the best known composer who was active in Venice during the seventeenth century, the “Floating City” was also home to many other musicians whose works and performances shaped the central genres of the Baroque. One of these musicians was the composer and singer Barbara Strozzi (1619-1677).
 
