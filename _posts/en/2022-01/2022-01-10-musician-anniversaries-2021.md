@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Musician Anniversaries in 2021"
+title: "Musician Anniversaries in 2022"
 date: 2022-01-10
 lang: en
 post: true
