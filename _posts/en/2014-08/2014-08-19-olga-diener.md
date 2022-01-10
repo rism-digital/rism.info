@@ -24,7 +24,7 @@ Unfortunately, there is very little information about Olga Diener in the literat
 - The New Grove Dictionary of Music and Musicians
 - International Encyclopedia of Women Composers
 - The New Grove Dictionary of Women Composers
-- Komponistinnen von A-Z
+- Komponistinnen von A–Z
 - Dizionario Enciclopedico Universale della Musica e dei Musicisti.
 
 There is no reference to her in the web resource [Musik und Gender im Internet](http://mugi.hfmt-hamburg.de/){:target="_blank"}, nor is there a Wikipedia article about her.
@@ -32,5 +32,3 @@ There is no reference to her in the web resource [Musik und Gender im Internet](
 With her musical works all in one place, this would be the perfect opportunity for someone to dedicate some musicological energy to her legacy. Who wants to take up this challenge?
 
 Photo source: [Nachlass Olga Diener](http://ead.nb.admin.ch/html/diener.html){:target="_blank"}, Schweizer Nationalbibliothek zu Bern
-
-

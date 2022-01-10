@@ -10,7 +10,7 @@ old_url: http://www.rism.info/publications/cd-rom-publications-1995-2011.html
 
 ## Series A/I: Individual prints before 1800
 
-_Series A/I:_ _Individual Prints Before 1800_ was published in 2011 as a database on CD-ROM (Bärenreiter-Verlag, Kassel). The database includes the entries from volumes 1-9 and the new entries from volumes 11-14. Addenda and corrigenda to volumes 11-14 have been integrated into the original entries. Library sigla are adjusted to the forms currently used by RISM, and known changes in the holdings have been integrated. Composers' names are aligned to the usage in Series A/II. The database is accessible through a full text search, which saves the user the step of consulting an index, something unavoidable in the printed version.
+_Series A/I: Individual Prints Before 1800_ was published in 2011 as a database on CD-ROM (Bärenreiter-Verlag, Kassel). The database includes the entries from volumes 1-9 and the new entries from volumes 11-14. Addenda and corrigenda to volumes 11-14 have been integrated into the original entries. Library sigla are adjusted to the forms currently used by RISM, and known changes in the holdings have been integrated. Composers' names are aligned to the usage in Series A/II. The database is accessible through a full text search, which saves the user the step of consulting an index, something unavoidable in the printed version.
 
 In 2015, the contents of this CD-ROM were transferred to the free online catalog.
 

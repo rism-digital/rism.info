@@ -33,9 +33,12 @@ In addition to projects, we heard about database design and theory from:
 For RISM, Klaus Keil gave an overview of the structure of the RISM database and focused on linking out to digital resources and collaboration with other international projects. Jennifer Ward talked about the format of the RISM data and ways these are reused in digital music archives and other projects. Chun-Zen Huang (National Taiwan Normal University) spoke as a representative of our newest RISM working group, [RISM Chinese Language Region](/working-groups.html), and emphasized the need for digital initiatives to meet international standards for description and preservation. He told us how many projects in the region have been quick to digitize without paying attention to preserving the physical item. Challenges include training professionals and the lack of people with music backgrounds involved in the digitization process. RISM is therefore an important partner for his working group and provides well-established guidelines and a clear structure for describing and preserving important cultural heritage items.
 
 ![Conference in Seoul](/resources-old-website/news/Panel_Fotographin_JeongYoun_Chang_5456_3632.JPG)
-_Photo courtesy of JeongYoun Chang_
+_Photo courtesy of JeongYoun Chang_  
+
+After the conference, fifteen participants joined Jennifer, Klaus, and Laurent for a Muscat workshop that was simultaneously webcast to participants in the Philippines. The two-hour workshop had the practical goal to introduce both long-time and newer RISM contributors to our new cataloging program, and had the added benefit of showing conference attendees how we created structured data for our database. Our colleagues from RISM Chinese Language Region flew in especially for this workshop, so it was exciting to see them there.  
 
 ![Muscat workshop in Seoul](/resources-old-website/news/Workshop_webinar_960_557.jpg)
-_Muscat workshop_
+_Muscat workshop_  
+We are grateful to our colleagues at Ewha for the invitation to the conference and to BI-International for providing financial assistance for travel. We are looking forward to continued collaboration with our colleagues in East Asia.   
 
 <!-- May 2021: http://www.emri2016.com/ not online, not archived. -->

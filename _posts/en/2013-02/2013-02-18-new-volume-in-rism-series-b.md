@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-_Hymnologica Slavica. Volume I. Hymnologica Bohemica, Slovaca (HBS), Polonica (HP), Sorabica (HS)._ _Notendrucke_ _des 16. bis 18._ _Jahrhunderts_
+_Hymnologica Slavica. Volume I. Hymnologica Bohemica, Slovaca (HBS), Polonica (HP), Sorabica (HS). Notendrucke des 16. bis 18. Jahrhunderts_
 
 Compiled by Jan Kouba and Marie Skalická (edited by Gerhard Schuhmacher) (HBS), Karol Hławiczka and Leon Witkowski (revised and supplemented by Teresa Krukowski and Gerhard Schuhmacher) (HP), Jan Raupp (HS).
 

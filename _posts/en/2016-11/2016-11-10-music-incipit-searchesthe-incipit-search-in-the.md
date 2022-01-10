@@ -31,7 +31,7 @@ The online catalog offers two different ways of searching for music incipits —
 
 4. Selecting the option **Music incipit (with transposition)** will also include incipits that have been transposed from the initial search inquiry.
 
-**2. Search using the on-screen pianokeyboard**
+**2. Search using the on-screen piano keyboard**
 
 Underneath the search boxes is a virtual piano keyboard. This can also be used to input music incipits.
 ![Incipit search with keyboard](/resources-old-website/news/incipit_search_keyboard_965_415.jpg)
@@ -69,7 +69,7 @@ More incipit search tips:
 
 
 **And remember:**
-The music incipits in RISM are not standardised in any way. Rather, they reflect the incipits as they appear on the sources themselves. Accordingly, there may be slight variations among different copies of what is essentially the same work.
+The music incipits in RISM are not standardized in any way. Rather, they reflect the incipits as they appear on the sources themselves. Accordingly, there may be slight variations among different copies of what is essentially the same work.
 
 Not every source described in the RISM catalog includes a music incipit. Sometimes, only text incipits are included or only basic information about the movement (such as time signature or tempo marking).
 
@@ -80,7 +80,7 @@ This information can also be found on the [catalog's help page](https://opac.ris
 
 If you are a more adventurous incipit searcher, you might want to try out the [Incipit Search run out of Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.
 
-Though still experimental, it goes beyond our online catalog's offerings by rating how well incipits match. This way, you get not only incipits that _do_ match but also incipits that _closely_ but _not_ _exactly_ match. (More information about the selection criteria and the types of searches used can be found of the search's [About page](https://www.projects.science.uu.nl/monochord/risma2/about){:target="_blank"}.)
+Though still experimental, it goes beyond our online catalog's offerings by rating how well incipits match. This way, you get not only incipits that _do_ match but also incipits that _closely_ but _not exactly_ match. (More information about the selection criteria and the types of searches used can be found of the search's [About page](https://www.projects.science.uu.nl/monochord/risma2/about){:target="_blank"}.)
 
 For example, take the incipit from the folk song "Roslin Castle" ([RISM ID no. 900005286](https://opac.rism.info/search?id=900005286){:target="_blank"}). After entering the RISM ID number into the search box, [my results page has 50 hits](https://www.projects.science.uu.nl/monochord/risma2/results/db/1142439/s200){:target="_blank"}. Starting with incipit 23, the incipits are no longer exact, but the search still has found further incipits with the title "Roslin Castle." Also included are incipits that follow the contour of the "Roslin Castle" melody or have rhythmic similarities. The search will find differences in transposition, pitch and rhythm changes, insertion and deletion of notes, and ornaments.
 

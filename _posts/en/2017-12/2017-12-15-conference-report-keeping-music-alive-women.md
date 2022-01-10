@@ -80,4 +80,4 @@ The attendees of the conference were women scholars and composers from the U.S.,
 
 7: Conference poster
 
-_Photos courtesy of_ _Park Jeong Suk._
+_Photos courtesy of Park Jeong Suk._

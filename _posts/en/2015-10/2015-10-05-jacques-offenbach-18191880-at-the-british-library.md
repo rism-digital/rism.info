@@ -13,7 +13,7 @@ author: Susan Halstead
 
 _Jacques Offenbach died 135 years ago today. To mark the occasion we're bringing you this post by Susan Halstead, which originally appeared on the British Library's [European Studies Blog](http://britishlibrary.typepad.co.uk/european/2014/12/a-dish-fit-for-the-gods.html){:target="_blank"} ([CC-BY](https://creativecommons.org/licenses/by/2.0/){:target="_blank"}). The RISM database has [125 works relating to Offenbach](https://opac.rism.info/search?View=rism&author=Jacques+Offenbach){:target="_blank"}._
 
-**A dish fit for the gods: 150 years of Offenbach’s ‘La belle Hélène’**
+### A dish fit for the gods: 150 years of Offenbach’s ‘La belle Hélène’
 
 When in the 1690s the Académie Française was rocked by the so-called [_Querelle des anciens et des modernes_](http://en.wikipedia.org/wiki/Quarrel_of_the_Ancients_and_the_Moderns%20 "Querelle des anciens et des modernes") between two factions headed by Nicolas Boileau and Charles Perrault respectively, history might have regarded it as a short-lived conflict unlikely to have much lasting influence on the development of French culture. However, in a society with a long tradition of respect for classical learning and its place within the educational system, it was never completely extinguished, and continued to flare up in the most unlikely places – such as the Paris comic opera stage.
 
@@ -30,8 +30,10 @@ Most startlingly of all, perhaps, Orestes makes his entrance as a precocious pla
 
 
 ![Schneider](/resources-old-website/news/Offenbach_Schneider.jpg)  
-_Hortense Schneider as Helen inLa belle Hélène, from Louis Schneider, Offenbach (Paris, 1923) 7896.t.20._  
+_Hortense Schneider as Helen in La belle Hélène, from Louis Schneider, Offenbach (Paris, 1923) 7896.t.20._  
 
 Yet despite these trials the first night went ahead on 17th December 1864 at the Théâtre des Variétés, delighting critics and public so much that it launched a run of 700 performances. Among its admirers was the famous chef [Auguste Escoffier](http://www.escoffier-society.com/biography.php "Auguste Escoffier"), who created a special dish in its honour – Poire Belle Hélène, a luscious confection of poached pears and vanilla ice-cream topped with chocolate sauce and crystallized violets. Like the opera itself, it is a treat for the connoisseur – and certainly fit for an Emperor.
 
-_Susan Halstead, Curator Czech and Slovak_
+_Susan Halstead, Curator Czech and Slovak_  
+
+_Image, top:_ An early photograph of Offenbach, from ‘Argus’ Jacques Offenbach (Paris, 1872). 10602.e.4.

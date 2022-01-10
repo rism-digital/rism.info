@@ -14,22 +14,22 @@ old_url: http://www.rism.info/publications/bibliography.html
 - [Reviews](#reviews)   
 - [Appendix: Libretto and library/regional catalogs relating to RISM](#appendix-libretto-and-library-catalogs-relating-to-rism)
 
-## Publications about RISM
+### Publications about RISM
 
 _Jump to:_ [1940s](#c1940) [1950s](#c1950)   [1960s](#c1960)   [1970s](#c1970)   [1980s](#c1980)  [1990s](#c1990)   [2000s](#c2000)   [2010s](#c2010) [2020s](#c2020)
 
-<a name="c1940"></a>**1949:**  
+#### 1949 <a name="c1940"></a>  
 Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicological Society Congress Report_ 4 (1949): 37.  
 
 Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 523-524.  
 
-<a name="c1950"></a>**1951:**  
+#### 1951 <a name="c1950"></a>  
 Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Available online](https://www.jstor.org/stable/889991){:target="_blank"}
 
-**1952:**
+#### 1952  
 Blume, Friedrich. "Zum Plan eines Internationalen Quellenlexikons der Musik." _Die Musikforschung_, 5, no. 4 (1952): 307-315. [Available online](https://www.jstor.org/stable/23804862){:target="_blank"}.  
 
-**1953:**  
+#### 1953  
 In Federov, Vladimir, editor._Troisième Congrès international des bibliothèques musicales Paris : 22-25 juillet 1951_.Kassel: Bärenreiter-Verlag, 1953:
 
 - Blume, Friedrich. "Die Frage eines internationalen Quellenlexikons der Musik." 20-24.
@@ -40,17 +40,17 @@ In Federov, Vladimir, editor._Troisième Congrès international des bibliothèqu
 - Pirrotta, Nino. "Fondi musicali non inventariati nè catalogati." 46-47.
 - Zehnter, Hans. "A propos de la refonte d'un Répertoire international des Sources musicales." 24-28.
 
-**1954:**  
+#### 1954  
 Blume, Friedrich. "Internationales Quellenlexikon der Musik." _Fontes Artis Musicae_ 1, no. 1 (1954): 19-22. [Available online](https://www.jstor.org/stable/23504276){:target="_blank"}.  
 
 Lesure, François. "RISM identifications. Les anonymes des Recueils imprimés du XVIe siècle (I)." _Fontes Artis Musicae_ 1, no. 2 (1954): 78-84. [Available online](https://www.jstor.org/stable/23504008){:target="_blank"}.
 
 Bridgman, Nanie. "Enquête provisoire sur les fonds musicaux des bibliothèques provinciales de France." _Fontes Artis Musicae_ 1, no. 2 (1954): 84-87. [Available online](https://www.jstor.org/stable/23504009){:target="_blank"}.  
 
-**1955:**  
+#### 1955
 Lesure, François. "RISM identifications. Les anonymes des Recueils imprimés du XVIe siècle (II)." _Fontes Artis Musicae_ 2, no. 1 (1955): 37-39. [Available online](https://www.jstor.org/stable/23504048){:target="_blank"}.  
 
-**1956:**  
+#### 1956  
 Blume, Friedrich. "Problèmes musicologiques d’un Répertoire des Sources musicales." _Fontes Artis Musicae_ 3 (1956): 44-48. [Available online](https://www.jstor.org/stable/23504145){:target="_blank"}.  
 
 Lesure, François. "Quelques conséquences bibliographiques et techniques d’un Répertoire International des Sources Musicales." _Fontes Artis Musicae_ 3, no. 1 (1956): 49-50. [Available online](https://www.jstor.org/stable/23504146){:target="_blank"}. Also published in _Congrès international des bibliothèques et des centres de documentation_ (Belgium, 1955).
@@ -59,13 +59,13 @@ Lesure, François. "Le RISM. Deux ans d’experience." _Fontes Artis Musicae_ 3,
 
 Schanzlin, Peter. "Die Mitarbeit der Schweiz am 'Répertoire International des Sources Musicales'." _Schweizerische Musikforschende Gesellschaft – Mitteilungsblatt_ 25 (1956): 1-5.
 
-**1957:**  
+#### 1957
 Schanzlin, Peter. "Musik-Sammeldrucke des 16. und 17. Jahrhunderts in schweizerischen Bibliotheken." _Fontes Artis Musicae_ 4, no. 1 (1957): 38-42. [Available online](https://www.jstor.org/stable/23504260){:target="_blank"}.  
 
-**1959:**  
+#### 1959
 King, Alec Hyatt. "The Music Librarian and his tasks, national and international." _Fontes Artis Musicae_ 6, no. 2 (1959): 54. [Available online](https://www.jstor.org/stable/23504108){:target="_blank"}.  
 
-<a name="c1960"></a>**1961:**  
+#### 1961 <a name="c1960"></a>
 "Editorial." _The Musical Quarterly_ 47 (1961): 91-94. [Available online](https://www.jstor.org/stable/740544){:target="_blank"}.  
 
 Heartz, Daniel. "The Répertoire International des Sources Musicales." _Journal of the American Musicological Society_ 14 (1961): 268-273. [Available online](https://www.jstor.org/stable/829761){:target="_blank"}.  
@@ -286,7 +286,7 @@ Prokopowicz, Maria. "RISM w różnych krajach." In _Biblioteka muzyczna 1980-198
 
 Rösing, Helmut and Joachim Schlichte. "Die Serie A/II des Internationalen Quellenlexikons der Musik." _Fontes Artis Musicae_ 31 (1984): 167-172; addendum in _Fontes Artis Musicae_ 32 (1985): 117-118.
 
-Rostirolla, Giancarlo. "Le attività di inventariazione delle fonti musicali in Italia." _Associazione Italiana Biblioteche._ _Bolletino_ 24, no. 2-3 (1984): 185-196.
+Rostirolla, Giancarlo. "Le attività di inventariazione delle fonti musicali in Italia." _Associazione Italiana Biblioteche. Bolletino_ 24, no. 2-3 (1984): 185-196.
 
 Schlichte, Joachim. "Erstellung von Bibliographien mittels EDV, dargestellt am Beispiel der Handschriftenserie A/II." _Forum Musikbibliothek_ 4 (1984): 172-187.
 
@@ -482,7 +482,7 @@ Esteve Vaquer, José-Joaquin, Andreu Juliа Serra, and Cristina Menzel Sansу. "
 
 Grand, Cécile. "L’inventaire du patrimoine musical régional français (1989-2000): Organization et méthodes de travail." _Fontes Artis Musicae_ 47 (2000): 150-163.
 
-"RISM. Répertoire International des Sources Musicales". _IFLA Moskva._ _Novosti Rossijskogo Komiteta IFLA_ no. 29-30 (2000): 17.
+"RISM. Répertoire International des Sources Musicales". _IFLA Moskva. Novosti Rossijskogo Komiteta IFLA_ no. 29-30 (2000): 17.
 
 **2001:**  
 Benton, Rita. "Répertoire International des Sources Musicales." In _New Grove Dictionary of Music and Musicians,_ 2<sup>nd</sup> edition, 21: 194-195. London: Macmillan, 2001.
@@ -724,11 +724,11 @@ Shanahan, Daniel and Eamonn Bell. "Re-Examining National Influences and Stylisti
 **2016:**  
 Benton, Rita and Jennifer A. Ward. "Répertoire International des Sources Musicales." _Grove Music Online_. _Oxford Music Online_. Oxford University Press,[http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}.    
 
-Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi:[10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
+Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi: [10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
 
 Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of the Bavarian State Library." Forum Musikbibliothek 37, no. 1 (2016): 7-13.  
 
-Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi:[10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
+Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi: [10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
 
 "[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
@@ -747,7 +747,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
 
 Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
 
-Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi:[10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
+Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi: [10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
 
 Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." _Fontes Artis Musicae_ 63, no. 2 (April-June 2016): 100-119.   
 
@@ -903,6 +903,8 @@ Wong, Chelsea and Thomas Huthwaite. “Finding Harmony Between ‘commonplace’
 
 YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle). _Library Journal_, 40, no. 9 (2021): 39-47.  [Available online](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}.  
 
+"國臺交啟動「省交歷史文物回娘家捐贈徵集」計畫." Yahoo News (Taiwan), 2 December 2021. [Available online](https://tw.news.yahoo.com/%E5%9C%8B%E8%87%BA%E4%BA%A4%E5%95%9F%E5%8B%95-%E7%9C%81%E4%BA%A4%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E5%9B%9E%E5%A8%98%E5%AE%B6%E6%8D%90%E8%B4%88%E5%BE%B5%E9%9B%86-%E8%A8%88%E7%95%AB-093657794.html?guccounter=1){:blank}.
+
 **Notes:**
 
 You can find out more about the work of RISM from the following publications:
@@ -913,7 +915,7 @@ You can find out more about the work of RISM from the following publications:
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/resources-old-website/community-content/Zentralredaktion/communiques.pdf).  
   - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/publications/info-rism.html).
 
-## Reviews
+### Reviews
 
 _Jump to:_  
 [Series A/I: Individual Prints before 1800](#series-a)  
@@ -1203,7 +1205,7 @@ Brusniak, Friedhelm. _Musik und Kirche_ 58 (1988): 95-96.
 
 Steinbeck, Wolfram. _Die Musikforschung_ 41 (1988): 265-266.
 
-## Appendix: Libretto and library catalogs relating to RISM
+### Appendix: Libretto and library catalogs relating to RISM
 
 This section lists further libretto and library catalogs connected with RISM. The main focus is on catalogs compiled by colleagues in RISM national groups and on catalogs compiled in accordance with RISM guidelines. We have also mentioned some catalogs that have no obvious connection with RISM regarding their compilation but have been included in the RISM A/II database.
 

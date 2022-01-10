@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The series RISM A-Z is moving on to the letter C, which today stands for the Baroque composer and performer Francesca Caccini (1587-c.1640). She was a _musica_ in the Medici court in Florence from 1607 to 1627 and from 1633 to 1641: a composer, singer, instrumentalist, voice teacher, and concert organizer. In this position, she composed for the stage as well as for chamber ensembles. Most of her 17 theatrical works were performed at the court and she is thought to have composed hundreds of smaller vocal works. Today she is remembered as the first woman to have composed an opera--though at the time, it was called a _balletto_: _La liberazione di Ruggiero dall'isola d'Alcina_ (1625).
+The series RISM A–Z is moving on to the letter C, which today stands for the Baroque composer and performer Francesca Caccini (1587-c.1640). She was a _musica_ in the Medici court in Florence from 1607 to 1627 and from 1633 to 1641: a composer, singer, instrumentalist, voice teacher, and concert organizer. In this position, she composed for the stage as well as for chamber ensembles. Most of her 17 theatrical works were performed at the court and she is thought to have composed hundreds of smaller vocal works. Today she is remembered as the first woman to have composed an opera--though at the time, it was called a _balletto_: _La liberazione di Ruggiero dall'isola d'Alcina_ (1625).
 
 Unusually for a professional woman musician at the time, both the opera and her _Primo Libro_ of vocal songs were published during her lifetime. RISM A/I lists both of these:
 

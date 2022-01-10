@@ -16,7 +16,7 @@ This year, the oboe has pride of place as [Instrument of the Year](http://www.in
 RISM uses these abbreviations for instruments from the oboe family:
 
 - **ob**: [oboe](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe){:target="_blank"}
-- **picc.ob**:piccolo oboe, oboe musette, musette (but not to be confused with the musette from the bagpipe family)
+- **picc.ob**: piccolo oboe, oboe musette, musette (but not to be confused with the musette from the bagpipe family)
 - **ob grande**: oboe grande
 - **ob d'amore**: [oboe d'amore](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_123119_NL){:target="_blank"}
 - **a-ob**: Altoboe, any alto oboe

@@ -52,7 +52,7 @@ _Photo: V. Tompkins_
 
 **Jennifer Ward: Riga, City of Music**
 
-One of the aspects of Riga that will stay in my mind is how musical the city is. Apart from the congress itself, where we heard the acclaimed composerĒriks Ešenvalds, the conductorInts Teterovskis, and the [State Choir LATVIJA](http://www.koris.lv/), the city seemed to have music coming from every street corner. Some of the things I will remember:
+One of the aspects of Riga that will stay in my mind is how musical the city is. Apart from the congress itself, where we heard the acclaimed composer Ēriks Ešenvalds, the conductor Ints Teterovskis, and the [State Choir LATVIJA](http://www.koris.lv/), the city seemed to have music coming from every street corner. Some of the things I will remember:
 
 - The buskers: two children playing recorders and one elderly woman playing a _kokle_
 - The building that depicts lyres and a treble clef, clearly in Art Nouveau style (and way off the beaten track from our Wednesday afternoon [Art Nouveau tour](http://www.latvia.eu/traditions-culture/art-nouveau)), modestly tucked among buildings that have seen better days
@@ -68,4 +68,4 @@ The perfect city for musicians.
 _The entrance to the Mežaparks (photo: J. Ward)_
 
 ![Art nouveau in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_jugendstil528x437.jpg)  
-_Art Nouveau off the beaten track_ _(photo: J. Ward)_
+_Art Nouveau off the beaten track (photo: J. Ward)_

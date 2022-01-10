@@ -19,6 +19,6 @@ In addition, there are 12 prints with music by Jehan (Jean) Titelouze, Hugues de
 
 This volume probably reflects what was sung in French churches of this time: a mix between late Renaissance masters such as Du Caurroy and Lassus, and the first generation of French seventeenth-century masters who, as Titelouze did, have traced the road of Baroque influence. The reason why this volume had not been identified before remains a bit mysterious: it comes from the music library of the Minims of Paris, set up for the personal use of the theorist Marin Mersenne, and entered the library in 1912 ...
 
-Bibliographical details can be found in: Laurent Guillo, “Découverte à la bibliothèque de Fels (Institut catholique de Paris)d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626),” [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102/2 (2016), p. 379-394.
+Bibliographical details can be found in: Laurent Guillo, “Découverte à la bibliothèque de Fels (Institut catholique de Paris) d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626),” [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102/2 (2016), p. 379-394.
 
 _Image_ : Jehan Titelouze, _Missa Simpli corde_ 6v. Paris: Pierre I Ballard, 1626. Paris, Institut Catholique: b.258(24).

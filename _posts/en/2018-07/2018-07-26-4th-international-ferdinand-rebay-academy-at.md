@@ -11,9 +11,9 @@ email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---
 
-_The director of the Music Archive of Heiligenkreuz Abbey, P. Roman Nägele OCist, would like to call our attention to this interesting event in Heiligenkreuz Abbey. A detailed post about the life of the composer_ _Ferdinand Rebay will follow next week._
+_The director of the Music Archive of Heiligenkreuz Abbey, P. Roman Nägele OCist, would like to call our attention to this interesting event in Heiligenkreuz Abbey. A detailed post about the life of the composer Ferdinand Rebay will follow next week._
 
-Courses for GUITAR -- FLUTE – VOICE
+Courses for GUITAR – FLUTE – VOICE
 Closing concert in the Kaisersaal (21-25 August 2018)
 
 **Originals from the Heiligenkreuz Music Archive**

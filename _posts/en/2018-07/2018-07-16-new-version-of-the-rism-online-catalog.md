@@ -21,14 +21,13 @@ New features include:
 - A mobile-friendly format: You can comfortably access RISM on your mobile phones and tablets.
 - New languages for the search interface: French, Italian, and Spanish
 - New incipit search features:
-- The on-screen piano keyboard is now five octaves
-- Notes can be entered through the piano keyboard or using shortcut keys through your computer keyboard
-- The note sounds when you press a key on the piano keyboard
-- The query appears on an editable musical staff
-- You can search any part of the incipit rather than just the beginning
-- The incipit search can also find similar sequences of intervals
-- Incipits are rendered using the [Verovio library](https://www.verovio.org/){:target="_blank"}
-
+ - The on-screen piano keyboard is now five octaves
+ - Notes can be entered through the piano keyboard or using shortcut keys through your computer keyboard
+ - The note sounds when you press a key on the piano keyboard
+ - The query appears on an editable musical staff
+ - You can search any part of the incipit rather than just the beginning
+ - The incipit search can also find similar sequences of intervals
+ - Incipits are rendered using the [Verovio library](https://www.verovio.org/){:target="_blank"}  
 - Standardized terms: RISM's institutions, people, and secondary literature are now searchable in the catalog. While in the previous catalog a search for _Bach_ resulted in only musical sources for the Bachs, today you will find, in addition, institutions with Bach in the name, composers named Bach, and our secondary literature that treat Bach. These appear at the end of the results and can be filtered using the facets in the page of results (left-hand side).
 - Feedback: A small button appears at the bottom of each record, next to the RISM number, which you can use to contact the RISM Central Office if you notice a mistake, have a suggestion, or wish to call our attention to the record.
 

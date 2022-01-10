@@ -25,5 +25,4 @@ During the two days of the conference, the following contents were discussed and
 
 (2) TSENG Tzu-Chia will be responsible to contact RISM Zentralredaktion to confirm the formalities and procedures in joining RISM.
 
-4. The nextConference of CPCMRis tentatively scheduled in Spring 2016.The working group will propare a report and make plans concerning issues connected with technology standard, operation and resource integration to promote the project.
-
+4. The next Conference of CPCMRis tentatively scheduled in Spring 2016.The working group will prepare a report and make plans concerning issues connected with technology standard, operation and resource integration to promote the project.

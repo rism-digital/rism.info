@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The 2014/2015 opera and theater season is wrapping up, so let's take the opportunity to combine our series RISM A-Z with a current production.
+The 2014/2015 opera and theater season is wrapping up, so let's take the opportunity to combine our series RISM A–Z with a current production.
 
 On June 20, the opera _Alessandro nell'Indie_ by Baldassare Galuppi (libretto by Pietro Metastasio) premiered at the [Mainfranken-Theater in Würzburg](https://www.theaterwuerzburg.de/index.php?option=com_mftplayground&view=play&play_id=984&Itemid=116){:target="_blank"}. The last performance is tomorrow, July 14.
 
