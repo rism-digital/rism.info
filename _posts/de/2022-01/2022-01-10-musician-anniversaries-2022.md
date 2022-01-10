@@ -18,10 +18,10 @@ Wie in den vergangenen Jahren möchten wir den Jahresbeginn nutzen, um schon ein
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJqw70UQolTO4WISo2Eqjh14BlGxtSyPf3mLBB5Jk6_leKwmRxxRMEeiQnMyFhmFK_SCS1SZsPC_AD/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
-c = circa\  
-a = vor\
-p = nach\  
-m = männlich\  
+c = circa  
+a = vor
+p = nach  
+m = männlich  
 w / f = weiblich  
 
 _Abbildung_: [https://openclipart.org/](https://openclipart.org/detail/333844/2022-fire-text){:blank} (Creative Commons Zero 1.0 Public Domain License).
