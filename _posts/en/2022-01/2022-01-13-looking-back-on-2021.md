@@ -38,7 +38,7 @@ Some of our social media highlights were:
 - [The Vatican Library's digital collections](https://digi.vatlib.it/mss/Capp.Sist){:blank}
 - The project [Música escondida](http://www.escond.es/musicaescondida){:blank}, uniting digitized music with new sound recordings
 - [Experiments with colorizing microfilms](https://twitter.com/PonteIneptique/status/1435163187494727680){:blank}
-- - The [Códice de los Músicos](https://bit.ly/3x4mGDE){:blank} and [Códice Rico](https://bit.ly/3dpdZfe), digitized from El Escorial
+- The [Códice de los Músicos](https://bit.ly/3x4mGDE){:blank} and [Códice Rico](https://bit.ly/3dpdZfe){:blank}, digitized from El Escorial
 - An [autograph manuscript of canons](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-989 ){:blank} by Joseph Haydn in Darmstadt
 
 We hope that your 2022 is full of health, happiness, and music. If you have news of your own that would be of interest to the RISM community, [please do share it with us](/community/share-your-news.html).
