@@ -13,20 +13,20 @@ author: ''
 
 This year, the oboe has pride of place as [Instrument of the Year](http://www.instrument-des-jahres.de/){:target="_blank"} according the state music council in Germany. This honor is meant to call more attention to an instrument that, in the view of the music councils, needs more young players. In the RISM database, we have plenty of music to keep oboists young and old busy.
 
-RISM uses these abbreviations for instruments from the oboe family:
+RISM uses these abbreviations for instruments from the oboe family:  
 
-- **ob**: [oboe](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe){:target="_blank"}
-- **picc.ob**: piccolo oboe, oboe musette, musette (but not to be confused with the musette from the bagpipe family)
-- **ob grande**: oboe grande
-- **ob d'amore**: [oboe d'amore](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_123119_NL){:target="_blank"}
-- **a-ob**: Altoboe, any alto oboe
-- **cor inglese**: [cor anglais](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0004622/englischhorn){:target="_blank"}, English horn
-- **ob da caccia**: [oboe da caccia](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse){:target="_blank"}, oboe di silva
-- **taille de hautbois**: [taille de hautbois](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874852){:target="_blank"}
-- **voce umana**: [voce umana](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0160341/hautbois-tenor-vox-humana){:target="_blank"}, vox humana
-- **t-ob**: Any tenor oboe
-- **heckelphon**: heckelphone
-- **b-ob**: Any bass oboe
+•  **ob**: [oboe](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe){:target="_blank"}
+•  **picc.ob**: piccolo oboe, oboe musette, musette (but not to be confused with the musette from the bagpipe family)
+•  **ob grande**: oboe grande
+•  **ob d'amore**: [oboe d'amore](https://mimo-international.com/MIMO/doc/IFD/OAI_RMAH_123119_NL){:target="_blank"}
+•  **a-ob**: Altoboe, any alto oboe
+•  **cor inglese**: [cor anglais](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0004622/englischhorn){:target="_blank"}, English horn
+•  **ob da caccia**: [oboe da caccia](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse){:target="_blank"}, oboe di silva
+•  **taille de hautbois**: [taille de hautbois](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874852){:target="_blank"}
+•  **voce umana**: [voce umana](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0160341/hautbois-tenor-vox-humana){:target="_blank"}, vox humana
+•  **t-ob**: Any tenor oboe
+•  **heckelphon**: heckelphone
+•  **b-ob**: Any bass oboe
 
 These are all the instruments from the oboe family that appear in the [online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} so far. If new sources are uncovered with new instruments, we will add them.
 
