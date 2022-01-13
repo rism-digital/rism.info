@@ -11,6 +11,10 @@ author: ''
 ---
 
 Wie bei der [jährlichen Vorstellung der Musikerjubiläen](/musical_anniversaries/2022/01/10/musician-anniversaries-2022.html) ist es für uns zur Gewohnheit geworden, auf das vergangene Jahr zurückzublicken und mitzuteilen, was bei den Lesern unserer Webseite am beliebtesten war. Dies sind die Blogbeiträge des Jahres 2021, die laut unserer Webseite-Statistik am häufigsten gelesen wurden:
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 1. Die RISM Lecture-Reihe: Der Fondo Cappella Sistina in RISM ([Ankündigung](/events/2021/01/11/first-rism-lecture-fondo-cappella-sistina.html) und [Video](/events/2021/03/04/rism-lecture-cappella-sistina-online.html)) und die Bach-Sammlung in der Berliner Staatsbibliothek ([Ankündigung](/events/2021/04/29/second-rism-lecture-bach-collection-berlin-staatsbibliothek.html) und [Video](/events/2021/07/08/rism-lecture-bach-collection-berlin-staatsbibliothek-now-online.html)). Wir freuen uns sehr, dass Ihnen die Vorträge gefallen haben. Die Reihe wird dieses Jahr fortgesetzt.
 
