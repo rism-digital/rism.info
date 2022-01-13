@@ -12,10 +12,12 @@ author: ''
 
 As with [presenting the year's musician anniversaries](/musical_anniversaries/2022/01/10/musician-anniversaries-2022.html), it has become custom for us to take a look back on the past year and share what was most popular with our website readers. These are the year's blog posts that were read the most often, according to our website statistics:  
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
+&nbsp;   
+&nbsp;   
 1. The RISM Lecture Series: the The Fondo Cappella Sistina in RISM ([announcement](/events/2021/01/11/first-rism-lecture-fondo-cappella-sistina.html) and [video](/events/2021/03/04/rism-lecture-cappella-sistina-online.html)) and the Bach Collection of the Berlin Staatsbibliothek ([announcement](/events/2021/04/29/second-rism-lecture-bach-collection-berlin-staatsbibliothek.html) and [video](/events/2021/07/08/rism-lecture-bach-collection-berlin-staatsbibliothek-now-online.html)). We're so glad you enjoyed them. Please stay tuned for more this year.
 
 2. The [discovery of the proofs for Orlando di Lasso's 'Magnum Opus Musicum' (1604)](/rediscovered/2021/03/15/proofs-orlando-di-lasso-magnum-opus-musicum.html), truly a sensational find from our RISM Germany colleagues.  
