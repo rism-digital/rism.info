@@ -13,7 +13,11 @@ author: ''
 
 The year 2016 was a big year for us: we released our long-awaited and well-received cataloging program [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, we invited thirteen colleagues to speak on the state of source research in Central and South America at the conference [Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html), and we published another volume in Series B ([_Die Triosonate_](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"})_._ Not to mention all the work contributed by our colleagues around the world—we will have a separate post about that later on.
 
-Let's take a look back at 2016. Allow us to share the top ten stories from the past year, at least from the point of view of our website statistics:
+Let's take a look back at 2016. Allow us to share the top ten stories from the past year, at least from the point of view of our website statistics:  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 1. [First Music Manuscript Discovered in Antarctica](/rediscovered/2016/04/01/first-music-manuscript-discovered-in-antarctica.html){:target="_blank"}: Our April Fool's joke (we tricked some of you!)
 2. [Musical Anniversaries in 2016](/new_at_rism/2016/01/04/musical-anniversaries-in-2016.html){:target="_blank"}: Don't miss our [2017 installment](/new_at_rism/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}!
