@@ -26,7 +26,7 @@ Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 5
 
 #### 1951 <a name="c1950"></a>  
 
-Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Available online](https://www.jstor.org/stable/889991){:target="_blank"}
+Bukofzer, Manfred F. "Toward a new inventory of musical sources." _Notes_ 8 (1950-1951): 265-278. [Available online](https://www.jstor.org/stable/889991){:target="_blank"}.
 
 #### 1952  
 
@@ -133,7 +133,7 @@ Riedel, Friedrich W. "Zur Geschichte der musikalischen Quellenüberlieferung und
 
 #### 1967
 
-Shirley, Wayne D. "RISM: A Report on US Activities." _Notes_ 23, no. 3 (1967): 477-497. [Available online](https://www.jstor.org/stable/895076){:target="_blank"}
+Shirley, Wayne D. "RISM: A Report on US Activities." _Notes_ 23, no. 3 (1967): 477-497. [Available online](https://www.jstor.org/stable/895076){:target="_blank"}.
 
 #### 1968
 
@@ -162,7 +162,7 @@ BM. "Für die Forschungsarbeit von Generationen." _Hessisch-Niedersächsische Al
 
 Blume, Friedrich. "Zwanzig Jahre RISM." _Acta musicologica_ 44 (1972): 171-180. [Available online](https://www.jstor.org/stable/932168){:target="_blank"}.  
 
-Lesure, François. "Recueils imprimés, XVIIIe siècle (RISM B/II): Supplement." _Notes_ 28 (1972): 397-418. [Available online](https://www.jstor.org/stable/939435){:target="_blank"}
+Lesure, François. "Recueils imprimés, XVIIIe siècle (RISM B/II): Supplement." _Notes_ 28 (1972): 397-418. [Available online](https://www.jstor.org/stable/939435){:target="_blank"}.
 
 Münster, Robert. "Ein Quellenlexikon der Musik." _Börsenblatt für den Deutschen Buchhandel - Frankfurter Ausgabe_, June 30, 1972.
 
@@ -176,7 +176,7 @@ Prokopowicz, Maria. Sprawozdanie [Report] ofKonferencja Międzynarodowego Stowar
 
 Schlager, Karlheinz. "RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 89-91. [Available online](https://www.jstor.org/stable/23230707){:target="_blank"}.  
 
-Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'."_Die Musikforschung_ 26, no. 1 (1973): 81-89. [Available online](https://www.jstor.org/stable/23230706){:target="_blank"}
+Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'."_Die Musikforschung_ 26, no. 1 (1973): 81-89. [Available online](https://www.jstor.org/stable/23230706){:target="_blank"}.
 
 Schmieder, Wolfgang. "Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 91-92. [Available online](https://www.jstor.org/stable/23230708){:target="_blank"}.  
 
@@ -954,7 +954,7 @@ Ward, Jennifer A. "RISM en América Latina: proyectos colaborativos para la docu
 
 Aslanidi, Maria, Aris Bazmadelis, and Arsinoi Ioannidou. "The Greek RISM Office: Describing Byzantine Music-Related Resources and Other Projects." _Fontes Artis Musicae_ 68, no. 3 (July-September 2021): 256-266. [Available online](https://muse.jhu.edu/article/810848){:blank}.  
 
-Giglberger, Veronika and Bernhard Lutz. "Wasserzeichen in Musikhandschriften: Ein Erschliessungsprojekt an der Bayerischen Staatsbibliothek." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 16, no. 1 (2021): 79-83. [Available online](https://www.bsb-muenchen.de/ueber-uns/publikationen/bibliotheksmagazin){:blank}
+Giglberger, Veronika and Bernhard Lutz. "Wasserzeichen in Musikhandschriften: Ein Erschliessungsprojekt an der Bayerischen Staatsbibliothek." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 16, no. 1 (2021): 79-83. [Available online](https://www.bsb-muenchen.de/ueber-uns/publikationen/bibliotheksmagazin){:blank}.
 
 Herrmann-Schneider, Hildegard. "Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams." Ordensgemeinschaften Österreich/Kultur und Dokumentation, May 21, 2021. [Available online](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank}.  
 
