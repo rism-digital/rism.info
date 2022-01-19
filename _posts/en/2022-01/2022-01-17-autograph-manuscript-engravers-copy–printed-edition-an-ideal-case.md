@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autograph Manuscript—Engraver's Copy–Printed Edition: An Ideal Case"
+title: "Autograph Manuscript—Engraver's Copy—Printed Edition: An Ideal Case"
 date: 2022-01-17
 lang: en
 post: true

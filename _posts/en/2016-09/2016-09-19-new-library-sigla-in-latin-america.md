@@ -13,10 +13,9 @@ author: ''
 
 Three new countries in Latin America have been added to the RISM database of library sigla:
 
-•  Costa Rica: [Archivo Histórico Musical](http://archivomusical.ucr.ac.cr/){:target="_blank"} in San José (CR-SJahm)
-•  Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca.edu.ni/){:target="_blank"} (FONMUNIC) in Managua (NIC-Mfmn)
+• Costa Rica: [Archivo Histórico Musical](http://archivomusical.ucr.ac.cr/){:target="_blank"} in San José (CR-SJahm)  
+• Nicaragua: [Fondo Histórico Documental de la Música Nicaraguense](http://ihnca.edu.ni/){:target="_blank"} (FONMUNIC) in Managua (NIC-Mfmn)  
 • Puerto Rico: [Archivo General de Puerto Rico, Archivo de la Música y Sonido](http://www.icp.gobierno.pr/programas/archivo-general-de-puerto-rico){:target="_blank"} (AMS) in San Juan (PRI-SJams)
-
 
 Altogether, RISM now documents 98 institutions in 15 Latin American countries. You can search the entire database of RISM library sigla [on the RISM website here](/community/sigla.html).
 
