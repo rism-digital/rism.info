@@ -6,8 +6,8 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news/2022-01/public-domain-2022-website.jpg"
-email: 'contact@rism.info'
-author: 'Name Name'
+email: ''
+author: ''
 ---
 
 Was haben die Komponisten [Arnold Schönberg](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe86683%22){:blank}, [Armin Knab](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe24573%22){:blank} und [Camillo de Nardis](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe30024107%22){:blank} gemeinsam? Sie starben 1951, so dass ihre Musik am 1. Januar 2022 in der Europäischen Union gemeinfrei wurde.  
