@@ -6,8 +6,8 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news/2022-01/arbeitsgruppe-danzig-neu-website.jpg"
-email: ''
-author: ''
+email: 'rism@bg.gda.pl'
+author: 'Danuta Popinigis and Agnieszka Kubiak'
 ---
 
 _The following is by Danuta Popinigis and Agnieszka Kubiak (RISM Gdańsk):_    
