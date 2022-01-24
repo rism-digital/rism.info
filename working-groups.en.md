@@ -12,7 +12,7 @@ In over 35 countries around the world, one or more national RISM working groups 
 
 # Full list of RISM working groups
 
-*If you are interested in describing sources from a country that is not listed, please [contact us](http://contact@rism.info/){:target="_blank"}.*
+*If you are interested in describing sources from a country that is not listed, please [contact us](mailto:contact@rism.info){:target="_blank"}.*
 
 _Jump to:_ [Austria](https://rism.info/working-groups.html#austria) - [Belarus](https://rism.info/working-groups.html#belarus) - [Belgium](https://rism.info/working-groups.html#belgium) - [Brazil](https://rism.info/working-groups.html#brazil) - [Canada](https://rism.info/working-groups.html#canada) - [Chinese-language region](https://rism.info/working-groups.html#chinese-language-region) - [Colombia](https://rism.info/working-groups.html#colombia) - [Croatia](https://rism.info/working-groups.html#croatia) - [Czech Republic](https://rism.info/working-groups.html#czech-republic) - [Denmark](https://rism.info/working-groups.html#denmark) - [Estonia](https://rism.info/working-groups.html#estonia) - [Finland](https://rism.info/working-groups.html#finland) - [France](https://rism.info/working-groups.html#france) - [Germany](https://rism.info/working-groups.html#germany) - [Greece](https://rism.info/working-groups.html#greece) - [Hungary](https://rism.info/working-groups.html#hungary) - [Ireland](https://rism.info/working-groups.html#ireland) - [Italy](https://rism.info/working-groups.html#italy) - [Japan](https://rism.info/working-groups.html#japan) - [Latvia](https://rism.info/working-groups.html#latvia) - [Lithuania](https://rism.info/working-groups.html#lithuania) - [Mexico](https://rism.info/working-groups.html#mexico) - [Netherlands](https://rism.info/working-groups.html#the-netherlands) - [Norway](https://rism.info/working-groups.html#norway) - [Poland](https://rism.info/working-groups.html#poland) - [Portugal](https://rism.info/working-groups.html#portugal) - [Romania](https://rism.info/working-groups.html#romania) - [Russia](https://rism.info/working-groups.html#russia) - [Slovakia](https://rism.info/working-groups.html#slovakia) - [Slovenia](https://rism.info/working-groups.html#slovenia) - [South Korea](https://rism.info/working-groups.html#south-korea) - [Spain](https://rism.info/working-groups.html#spain) - [Sweden](https://rism.info/working-groups.html#sweden) - [Switzerland](https://rism.info/working-groups.html#switzerland) - [Ukraine](https://rism.info/working-groups.html#ukraine) - [United Kingdom](https://rism.info/working-groups.html#united-kingdom) - [United States](https://rism.info/working-groups.html#united-states-of-america) - [Venezuela](https://rism.info/working-groups.html#venezuela)
 
@@ -458,7 +458,7 @@ See also: [https://www.rism.info/working-groups/poland/poznan/home.html](/workin
 
 Dr. habil. Danuta Popinigis\
 Polska Akademia Nauk Biblioteka Gdańska\
-ul. Wałowa 1\
+Wałowa 15\
 PL 80-858 Gdańsk\
 Telephone/fax: +48 / 058 / 301 55 23\
 Email: [danutapopinigis@wp.pl](mailto:danutapopinigis@wp.pl) or [rism@bg.gda.pl](mailto:rism@bg.gda.pl)\
