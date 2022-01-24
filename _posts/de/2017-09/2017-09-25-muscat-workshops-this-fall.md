@@ -34,6 +34,6 @@ Uhrzeit: 10.30 – 16.30\
 Ort: Präsidium der Stiftung Mozarteum, Schwarzstr. 26, 5020 Salzburg\
 
 - 17. Oktober 2017\
-Workshopleitung: Dr. Ikarus Kaiser(Musikarchiv Stift Wilhering, RISM Oberösterreich)\
+Workshopleitung: Dr. Ikarus Kaiser (Musikarchiv Stift Wilhering, RISM Oberösterreich)\
 Uhrzeit: 10.30 – 16.30\
 Ort: [Österreichische Nationalbibliothek](https://www.onb.ac.at/){:target="_blank"}, Ausbildungsabteilung
