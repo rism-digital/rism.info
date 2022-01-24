@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tie neu gegründete RISM-Arbeitsgruppe in Danzig"
+title: "Die neu gegründete RISM-Arbeitsgruppe in Danzig"
 date: 2022-01-24
 lang: de
 post: true
