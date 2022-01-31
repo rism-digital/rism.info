@@ -21,7 +21,28 @@ The classical-romantic solo repertoire for trombone being, on the other hand, un
 As is often the case, alas, this work’s popularity stands in stark contrast to the quality and reliability of its editions available to date. We are not aware of any modern edition where the solo part has not been “adjusted” to a greater or lesser extent by the respective editor, with supplementary details of articulation and dynamics, expression markings, changes to rhythm and pitches or even entire tone passages, everything, mind you, without identifying any as independent editorial additions. Here is a small impression of such, using the example of the last measures before the opening of the slow movement – also showing for comparison the original version of the first edition published in 1838, as authorised by the composer Ferdinand David. The most striking differences are marked in yellow:  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-2 erstausgabe-website.jpg" pos="left" %}  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 _Kistner first edition, 1838, mm. 118 to the end of the first movement._  
+
+
+{% include image file="/images/news/2022-01/henle-blog-rahmer-3-ausgabe-zimmermann-website.jpg" pos="left" %}  
+_J.H. Zimmermann edition, edited by Robert Müller._  
+
+{% include image file="/images/news/2022-01/henle-blog-rahmer-4-ausgabe-imc-website.jpg" pos="left" %}  
+_IMC edition, edited by William Gibson._
+
+
+{% include image file="/images/news/2022-01/henle-blog-rahmer-5-ausgabe-fischer-website.jpg" pos="left" %}  
+_A.E. Fischer/A. Benjamin edition, edited by Fritz Grube._  
+
+
+{% include image file="/images/news/2022-01/henle-blog-rahmer-6-ausgabe-hofmeister-website.jpg" pos="left" %}  
+_Fr. Hofmeister edition, editor unknown._  
 
 G. Henle Verlag has now published a new edition with the goal of recovering the David Urtext. The editor of this critical edition is Sebastian Krause, solo trombonist of the Leipzig MDR Symphony, conservatory teacher and specialist on the history of the trombone, especially in Central Germany. Not only does Krause have decades of practical and artistic experience with the David concertino, but he also made a fundamental contribution to researching its history, in particular, with the biography of Carl Traugott Queisser (1800–1846), its first interpreter, purported to have commissioned the work.  
 
