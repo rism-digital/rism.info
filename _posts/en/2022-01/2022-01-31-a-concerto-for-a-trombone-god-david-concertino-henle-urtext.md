@@ -16,18 +16,20 @@ The trombone is an instrument with a venerable though also chequered history. Af
 
 _Image, above: Ferdinand David (1810–1873). Lithograph by J. G. Weinhold, Leipzig, 1846_  
 
-The classical-romantic solo repertoire for trombone being, on the other hand, unfortunately small. One of the very few bright spots is Ferdinand David’s Concertino in E-flat major op. 4 for trombone and orchestra. This enchanting concert piece, composed in Leipzig in 1837 in the best “Mendelssohnian” style, is today one of the trombone compositions most frequently played worldwide, having become an essential standard work for auditions and competitions.  
-https://opac.rism.info/search?id=1001004892&View=rism
-https://opac.rism.info/search?id=1001004891&View=rism  
+The classical-romantic solo repertoire for trombone being, on the other hand, unfortunately small. One of the very few bright spots is Ferdinand David’s [Concertino in E-flat major](https://opac.rism.info/search?id=1001004892&View=rism){:blank} op. 4 for trombone and orchestra. This enchanting [concert piece](https://opac.rism.info/search?id=1001004891&View=rism){:blank}, composed in Leipzig in 1837 in the best “Mendelssohnian” style, is today one of the trombone compositions most frequently played worldwide, having become an essential standard work for auditions and competitions.
+
 As is often the case, alas, this work’s popularity stands in stark contrast to the quality and reliability of its editions available to date. We are not aware of any modern edition where the solo part has not been “adjusted” to a greater or lesser extent by the respective editor, with supplementary details of articulation and dynamics, expression markings, changes to rhythm and pitches or even entire tone passages, everything, mind you, without identifying any as independent editorial additions. Here is a small impression of such, using the example of the last measures before the opening of the slow movement – also showing for comparison the original version of the first edition published in 1838, as authorised by the composer Ferdinand David. The most striking differences are marked in yellow:  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-2 erstausgabe-website.jpg" pos="left" %}  
-
+&nbsp;  
 _Kistner first edition, 1838, mm. 118 to the end of the first movement._  
-
+&nbsp;  
+&nbsp;  
 {% include image file="/images/news/2022-01/henle-blog-rahmer-3-ausgabe-zimmermann-website.jpg" pos="left" %}  
-
+&nbsp;  
 _J.H. Zimmermann edition, edited by Robert Müller._  
+&nbsp;  
+&nbsp;  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-4-ausgabe-imc-website.jpg" pos="left" %}  
 
