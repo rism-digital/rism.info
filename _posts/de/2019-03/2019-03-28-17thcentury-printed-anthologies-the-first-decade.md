@@ -7,7 +7,7 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
-email: contact@rism.info
+email: ''
 author: ''
 ---
 
@@ -21,6 +21,6 @@ Neben der Gewährleistung einer besseren Übersichtlichkeit durch das Zusammenf�
 
 Als eine wahre Fundgrube hat sich auch das Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts ([VD 17](http://www.vd17.de/){:target="_blank"}) herausgestellt, denn auf der Suche nach Signaturen und Digitalisaten ist die Entdeckung von bisher gar nicht in RISM verzeichneten Exemplaren keine Seltenheit. Ein gutes Beispiel dafür ist Ludwig Helmbolds _Crepundia Sacra_ (Erfurt: Singe, 1608; B/I 1608\|6 und [A/I B 4976](https://opac.rism.info/search?id=00000990007573&View=rism){:target="_blank"}). Während B/I lediglich Exemplare in Halle/Saale (D-HAu), Wolfenbüttel (D-W) und London (GB-Lbl) verzeichnet, weist der A/I-Eintrag bereits ein ergänztes Exemplar der Privatsammlung Schneider (D-Fschneider) auf. Bei Konsultation von VD 17 ([39:149280Z](https://gso.gbv.de/DB=1.28/CMD?ACT=SRCHA&IKT=8002&TRM=%2739:149280Z%27){:target="_blank"}) zeigen sich schließlich drei zusätzliche Exemplare in München (D-Mbs), Göttingen (D-Gs) und Gotha (D-GOl). Allerdings verzeichnet VD 17 wiederum die Exemplare von D-Fschneider und GB-Lbl nicht. Wo können Sie also in Zukunft nachschauen, wenn sie alle (bekannten) Exemplare eines Sammeldrucks aufgelistet sehen wollen? Genau! Im [RISM-Katalog](https://opac.rism.info/){:target="_blank"}.
 
-Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an: [contact@rism.info](mailto:contact@rism.info) oder [martin.bierwisch@rism.info.](mailto:martin.bierwisch@rism.info)
+Hinweise auf Fehler, weitere bisher nicht erfasste Exemplare oder unverzichtbare Literatur sind immer willkommen. Senden Sie einfach eine Mail an: [contact@rism.info](mailto:contact@rism.info)
 
-_Abbildung_: Ludwig Helmbold, _Crepundia Sacra_(Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Online verfügbar](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
+_Abbildung_: Ludwig Helmbold, _Crepundia Sacra_ (Erfurt: Singe, 1608). RISM ID no. [990007573](https://opac.rism.info/search?id=00000990007573&View=rism){:target="_blank"}. Bayerische Staatsbibliothek (D-Mbs) Liturg. 1467 g. [Online verfügbar](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11361715-0){:target="_blank"}.
