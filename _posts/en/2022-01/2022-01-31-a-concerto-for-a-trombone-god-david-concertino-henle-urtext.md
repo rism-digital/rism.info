@@ -21,26 +21,49 @@ The classical-romantic solo repertoire for trombone being, on the other hand, un
 As is often the case, alas, this work’s popularity stands in stark contrast to the quality and reliability of its editions available to date. We are not aware of any modern edition where the solo part has not been “adjusted” to a greater or lesser extent by the respective editor, with supplementary details of articulation and dynamics, expression markings, changes to rhythm and pitches or even entire tone passages, everything, mind you, without identifying any as independent editorial additions. Here is a small impression of such, using the example of the last measures before the opening of the slow movement – also showing for comparison the original version of the first edition published in 1838, as authorised by the composer Ferdinand David. The most striking differences are marked in yellow:  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-2 erstausgabe-website.jpg" pos="left" %}  
-&nbsp;  
 _Kistner first edition, 1838, mm. 118 to the end of the first movement._  
 &nbsp;  
 &nbsp;  
-{% include image file="/images/news/2022-01/henle-blog-rahmer-3-ausgabe-zimmermann-website.jpg" pos="left" %}  
 &nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+{% include image file="/images/news/2022-01/henle-blog-rahmer-3-ausgabe-zimmermann-website.jpg" pos="left" %}  
 _J.H. Zimmermann edition, edited by Robert Müller._  
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 {% include image file="/images/news/2022-01/henle-blog-rahmer-4-ausgabe-imc-website.jpg" pos="left" %}  
-
-_IMC edition, edited by William Gibson._  
+_IMC edition, edited by William Gibson._
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-5-ausgabe-fischer-website.jpg" pos="left" %}  
-
 _A.E. Fischer/A. Benjamin edition, edited by Fritz Grube._  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-6-ausgabe-hofmeister-website.jpg" pos="left" %}  
-
 _Fr. Hofmeister edition, editor unknown._  
 
 G. Henle Verlag has now published a new edition with the goal of recovering the David Urtext. The editor of this critical edition is Sebastian Krause, solo trombonist of the Leipzig MDR Symphony, conservatory teacher and specialist on the history of the trombone, especially in Central Germany. Not only does Krause have decades of practical and artistic experience with the David concertino, but he also made a fundamental contribution to researching its history, in particular, with the biography of Carl Traugott Queisser (1800–1846), its first interpreter, purported to have commissioned the work.  
@@ -48,7 +71,6 @@ G. Henle Verlag has now published a new edition with the goal of recovering the 
 Queisser was solo violist at the Leipzig Gewandhaus orchestra, though simultaneously also a trombone virtuoso of international standing. He then enjoyed such a great reputation in Germany and beyond that he was ranked in concert announcements on an equal footing with such artists as Franz Liszt or Ignaz Moscheles. Robert Schumann even described Queisser as a “trombone god” in an article on Leipzig’s orchestral life…! ([_Neue Zeitschrift für Musik_](https://www.digitale-sammlungen.de/de/view/bsb10527926?page=194,195){:blank}, 6 December 1836, p. 185)
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-7-posaune-sattler-website.jpg" pos="left" %}   
-
 _The Leipzig-style trombone model, such as Queisser presumably played: Wide-bore tenor-bass trombone by Christian Friedrich Sattler, 1841. [Museum für Musikinstrumente der Universität Leipzig](https://www.europeana.eu/de/item/09102/_ULEI_M0003731){:blank}. (License: Creative Commons BY-NC-SA)_  
 
 Queisser was a close acquaintance of the Gewandhaus orchestra’s concertmaster – none other than Ferdinand David, at the time one of Germany’s most famous violin virtuosos (for whom Felix Mendelssohn Bartholdy composed his violin concerto). David was also active as a composer and wrote the trombone concertino, so to speak, as a tailor-made piece of music for his friend (for further details on the history of its genesis, see the [preface by Sebastian Krause](https://www.henle.de/media/foreword/1155.pdf){:blank}).  
@@ -56,7 +78,6 @@ Queisser was a close acquaintance of the Gewandhaus orchestra’s concertmaster 
 As the concertino’s autograph score has unfortunately been lost, the main source for the new edition has been the first edition of 1838 mentioned above, published in Leipzig by Carl Friedrich Kistner. It is basically a reliable source, undoubtedly reflecting David’s intentions, though the solo part has some engraving errors and inaccuracies needing correction.  
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-8-posaune-schallstueck-website.jpg" pos="left" %}  
-
 _Original bell section of a tenor trombone by C. F. Sattler, ca. 1840s. Private owner, Sebastian Krause_  
 
 Here, a fortunate circumstance came up: in 1838 Ferdinand David produced an arrangement of the trombone concertino for cello and piano, certainly with a view to making the work accessible to a wider circle of musicians. Kistner also published this arrangement of David’s in 1838. The editor and Henle were able to locate not only an exemplar of the very rare edition, but also even its autograph! The manuscript, presently preserved in the library of Northwestern University at Evanston, Illinois, has, to the best of our knowledge, not yet been evaluated by scholars.  
@@ -78,6 +99,6 @@ Further inadvertent errors in the first edition can occasionally be found in the
 
 {% include image file="/images/news/2022-01/henle-blog-rahmer-13-henle-315ff-website.jpg" pos="left" %}  
 
-The goal of Henle's Urtext edition is to offer musicians a secure music text as the basis for the most authentic possible interpretations intended by the composer. "Back to the source" is the slogan here and the RISM database is an indispensable resource for this.    
+The goal of Henle's Urtext edition is to offer musicians a secure music text as the basis for the most authentic possible interpretations intended by the composer. "Back to the source" is the slogan and the RISM database is an indispensable resource for this.    
 
 _All images courtesy of the author._
