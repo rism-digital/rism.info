@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Features in the RISM Catalog"
-date: 2022-02-07
+date: 2022-02-08
 lang: en
 post: true
 category: rism_online_catalog
