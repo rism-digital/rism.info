@@ -20,6 +20,8 @@ Luiz Mantovani chose the abbey's Kaisersaal as the location for his recording. I
 
 Ferdinand Rebay's 2nd Sonata in E major for guitar solo has four movements. They are called: 1st movement: _Moderato con espressione_ in E major; 2nd movement: _Scherzo. Presto_ in E minor; 3rd movement: _Adagio. Sehr ruhig und ausdrucksvoll_ in A minor; 4th movement: _Finale, a la Marzia_ in E major.  
 
-Hans-Ulrich Holst and Christoph Binner of [Fibonacci-Film (Hamburg)](https://www.fibonacci-films.com/){:blank} carried out the project. It was made possible by the [Hermann Hauser Guitar Foundation, Munich](http://www.guitarfoundation.de/){:blank}. Thanks to this and Luiz Mantovani, a major solo sonata by Ferdinand Rebay was captured on film.
+Hans-Ulrich Holst and Christoph Binner of [Fibonacci-Film (Hamburg)](https://www.fibonacci-films.com/){:blank} carried out the project. It was made possible by the [Hermann Hauser Guitar Foundation, Munich](http://www.guitarfoundation.de/){:blank}. Thanks to this and Luiz Mantovani, a major solo sonata by Ferdinand Rebay was captured on film.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qYRsOV3K580" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 _Image courtesy of the author._
