@@ -7,7 +7,7 @@ permalink: /community/muscat/tutorials.html
 
 # Tutorials: General
 
-**Introductory videos for Muscat:**
+## Introductory videos for Muscat:
 
 * [Muscat: A Quick Overview](https://youtu.be/ncnQ-TD9dGM){:target="_blank"}: If you have time to watch only one video on Muscat, this is it!
 
@@ -59,44 +59,43 @@ permalink: /community/muscat/tutorials.html
 
 # Tutorials: Printed music
 
-Always search for the print first in Muscat or the [RISM online catalog](http://opac.rism.info){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](http://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Always search for the print first in Muscat or the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * If you find the print, you can add/edit your holdings. You may also revise the record.
 * If you don't find a match, enter a new record.
 * Records are sometimes inconsistent or confusing. Ask us if you have any questions!
+* Only edit records that have been published. If you wish to use an unpublished record, please contact us first.
 
-**Three ways to contribute printed music to RISM**
+## Three ways to contribute printed music to RISM
 
-(1) **Add and edit your holdings to printed music**\
+### 1. Add and edit your holdings to printed music
+
 Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} and [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
-This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark.
+This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark. Note: if you do not see an "add holdings" button, notify the Editorial Center and we will correct the record.
 
-_Please note: Some B/I records from the years 1551-1700 are currently unpublished. If you add holdings, the record will remain unpublished unless it is revised (see below)._
 
-(2) **Revise existing RISM records**
+### 2. Revise existing RISM records
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
-Records imported from RISM's printed volumes [A/I](/publications.html#c36) (music by one composer published up to ca. 1800) and [B/I](/publications.html#c2619) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat. Please observe the following if you choose to revise the records:
+Records imported from RISM's printed volumes [A/I](/publications.html#c36) (music by one composer published up to ca. 1800) and [B/I](/publications.html#c2619) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat.
 
-**A/I**: The vast majority of A/I records need to be revised. Most prints in fact contain multiple works, so an A/I record must be edited into a collection record and individual entries are needed. A/I is already in the [online catalog](https://opac.rism.info/){:target="_blank"}.\
-**B/I to 1550**: The vast majority of B/I records up to the year 1550 need to be revised, including any individual entries that are already attached to the parent record. It is frequently the case that reprints ("following entries") do not have individual entries, while the initial entries (i.e., the prints treated as the first edition in the book) do. These are already in the [online catalog](https://opac.rism.info/){:target="_blank"}.\
-**B/I from 1551 to 1700**: The following years are in Muscat and have been published: 1501-1550, 1601-1650, and most of 1651-1690. The rest are in Muscat but not in the online catalog because the entries are very rudimentary. All the B/I records have Muscat numbers that begin with 993.
+Please observe the following if you choose to revise records from RISM's A/I or B series:
 
-Even the published records can usually be improved by adding individual entries and music incipits.
+* The vast majority of A/I and B/I records needs to be revised. Most prints in fact contain multiple works, so a record must be edited into a collection record and individual entries are needed.  
+* Some records from B/I have very basic individual entries, but these can frequently be enhanced.
+* For B/I, note that it is frequently the case that reprints ("following entries") do not have individual entries, while the initial entries (i.e., the prints treated as the first edition in the book) do. You are welcome to create individual entries for the reprints.
+* Almost all of the A/I records have RISM IDs that begin with 990; the B/I records almost always begin with 993.
+* Please contact us if you wish to add editions that were included in other RISM B series, particularly B/II.
 
-The unpublished records must be completely revised and individual entries must be added. If you revise a record, **leave it unpublished** but add a quick comment to the record saying the record has been revised (save the record, then go to the bottom under "Comments"). Editorial Center staff will look at the record and we will publish it.
+In addition, we now also have other prints that were not included in the RISM printed catalogs (especially post-1800) that have been added by RISM contributors in the meantime. You can generally identify these by a RISM ID that begins with 1001 as well as a named library in the field "Copy used for cataloging" (588). These records do not need be revised; simply add your holdings.
 
-(3) **Add new records for printed music**
+### 3. Add new records for printed music
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Two-page version: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 If your print falls outside the scope of A/I or B/I, chances are it is not in Muscat. Always do a quick search first, though, to see if someone else has already entered it. If you don't find it, create a new record.
-
-**Current limitations**
-
-For a few prints, you will not see an "add holdings" button. (These are mostly print records that were created with previous cataloging programs.) If you have the same print, send the [Editorial Center](mailto:contact@rism.info) your holdings information (at least siglum and shelfmark) and we will add it once these records have been converted.
 
 # Training server
 
