@@ -9,7 +9,7 @@ permalink: /community/muscat/tutorials.html
 
 Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden Sie mit dem Programm vertraut gemacht.
 
-**Einführungsvideos zu Muscat:**
+## Einführungsvideos zu Muscat:
 
 * [Muscat: A Quick Overview](https://youtu.be/ncnQ-TD9dGM){:target="_blank"}: Wenn Sie nur Zeit haben sich ein Video anzusehen, dann dieses!
 * [Authority files and indexes](https://youtu.be/ySwd8q5kuFY){:target="_blank"}: Alles über die RISM Authoritätsdateien, Indices und festgelegte Begriffe; wie wird verlinkt und neu erstellt.
@@ -53,31 +53,36 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 # Tutorials: Musikdrucke
 
-Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](http://opac.rism.info){:target="_blank"}. Vergleichen Sie die gefundenen Angaben mit dem Ihnen vorliegenden Exemplar. Beachten Sie die Richtlinien zur Eingabe eines [neuen Eintrags](http://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](https://opac.rism.info/de/hauptmenu/kachelmenu){:target="_blank"}. Vergleichen Sie die gefundenen Angaben mit dem Ihnen vorliegenden Exemplar. Beachten Sie die Richtlinien zur Eingabe eines [neuen Eintrags](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * Wenn Sie den Druck gefunden haben, können Sie Ihr Exemplar ergänzen oder bearbeiten. Ebenso können Sie den Eintrag mit dem bibliographischen Angaben zum Musikdruck überarbeiten.
 * Wenn Sie keinen Treffer finden, geben Sie einen neuen Datensatz ein.
 * Die Datensätze sind manchmal uneinheitlich und verwirrend. Bitte kontaktieren Sie uns bei Fragen!
 
-**Drei Möglichkeiten um zu den Musikdrucken des RISM beizutragen**
+## Drei Möglichkeiten um zu den Musikdrucken des RISM beizutragen
 
-1. **Ergänzen und bearbeiten Ihres Exemplars**
+### 1. Ergänzen und bearbeiten Ihres Exemplars
 
 Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
-Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an.
-    - Bitte beachten Sie: B/I-Einträge der Jahre 1600-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten).
+Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an. Hinweis: Wenn Sie keine Schaltfläche "Neuer Exemplareintrag" sehen, benachrichtigen Sie die Zentralredaktion, damit wir den Eintrag korrigieren können.
 
-2. **Überarbietung existierender RISM-Einträge**
+_Bitte beachten Sie: Einige B/I-Einträge der Jahre 1551-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten)_.
+
+### 2. Überarbietung existierender RISM-Einträge
 
 Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
-Die aus den gedruckten RISM [A/I](/publications.html#c36) (Einzeldrucke vor 1800) und [B/I](/publications.html#c2619)-Bänden (Sammeldrucke bis 1700) importierten Daten sind in Muscat. Bitte beachten Sie das Folgende, bevor Sie mit der Überarbeitung der Datensätze beginnen:
-  - **A/I**: Die Mehrheit der A/I-Titel muss überarbeitet werden. Die meisten Drucke enthalten mehrere Werke, so dass der A/I-Eintrag einen Sammel- und mehrere Einzeleinträge benötigt. A/I ist bereits im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
-  - **B/I to 1550**: Auch die Mehrheit der B/I-Einträge bis zum Jahr 1550 muss überarbeitet werden. Hier sind es vor allem die Teileinträge, die bereits an den Stammdatensatz angehängt sind. Es ist häufig der Fall, dass Folgedrucke keine Teileinträge im Gegensatz zu den sogenannten Erstdrucke (d.h. die im gedruckten Band zuerst genannten) haben. Diese sind ebenfalls bereits im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
-  - **B/I von 1551 bis 1700**: Diese Einträge sind nur in Muscat aber **nicht** im Online-Katalog, weil sie noch sehr spärliche Angaben enthalten. Die RISM ID beginnt mit 993. Diese Einträge müssen grundlegend überarbeitet und Teileinträge ergänzt werden. Wenn SIe einen solchen Eintrag überarbeiten, lassen Sie ihn **unpublished** (unveröffentlicht) und schreiben uns einen kurzen Kommentar, dass der Titel überarbeitet wurde. Die Zentralredaktion wird einen Blick darauf werfen und den Datensatz veröffentlichen. Vielen Dank für Ihr Verständnis.
+Die aus den gedruckten RISM [A/I](/publications.html#c36) (Einzeldrucke vor 1800) und [B/I](/publications.html#c2619)-Bänden (Sammeldrucke bis 1700) importierten Daten sind in Muscat. Bitte beachten Sie die folgenden Hinweise, wenn Sie sich für eine Überarbeitung der Musikdrucke entscheiden:
+* Die Mehrheit der A/I- und B/I-Titel muss überarbeitet werden. Die meisten Drucke enthalten mehrere Werke, so dass ein Sammel- und mehrere Einzeleinträge nötig sind.
+* Einige Datensätze aus B/I enthalten sehr spärliche Angaben, die jedoch gerne angereichert werden können. 
+* Weiterhin ist es häufig der Fall, dass Folgedrucke keine Teileinträge im Gegensatz zum sogenannten Erstdruck (d.h. die im gedruckten Band zuerst genannten) haben. Auch hier dürfen gerne Ergänzungen vorgenommen werden. 
+* Fast alle A/I-Datensätze beginnen mit der RISM ID 990; die B/I-Datensätze beginnen fast immer mit 993.  
+* Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Musikdrucke hinzufügen möchten, die in anderen RISM B-Reihen, insbesondere B/II, enthalten sind.
 
-3. **Neue Musikdrucke hinzufügen**
+Darüber hinaus gibt e jetzt auch viele andere Drucke, die nicht in den gedruckten RISM-Bänden enthalten waren (vor allem nach 1800), die aber in der Zwischenzeit von RISM-Mitarbeitern eingegebent wurden. Sie sind in der Regel an der RISM ID zu erkennen, die mit 1001 beginnt, sowie an der Angabe einer Bibliothek im Feld "Copy used for cataloging" (588). Diese Datensätze müssen nicht überarbeitet werden; fügen Sie einfach Ihr Exemplar hinzu.
+
+### 3. Neue Musikdrucke hinzufügen
 
 Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
@@ -85,8 +90,8 @@ Wenn Ihr Musikdruck nicht in den Bereich der Serien A/I und B/I fällt, ist er v
 
 **Einige Einschränkungen**
 
-1. Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können.  (Diese Datensätze wurde überwiegend mit Kallisto erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info)) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
-2. Wir beschäftigen uns mit einer geeigneten Darstellung von gemischt vorliegendem Material: Musikdrucke an die Handschriften angebunden sind bzw. Manuskripte, die mit gedrucktem Material unter einer Signatur vereinigt sind. Wenn SIe solche Fälle vorliegen haben, sollten Sie sie möglichst auf die Seite legen, bis die entsprechende Vorlage entwickelt ist und auf eine Ankündigung über dei Muscat-Liste warten.
+Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können. (Diese Datensätze wurden mit Vorgängerprogrammen von Muscat erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info)) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
+
 
 # Trainingsserver
 
