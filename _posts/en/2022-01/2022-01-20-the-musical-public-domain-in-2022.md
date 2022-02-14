@@ -6,8 +6,8 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news/2022-01/public-domain-2022-website.jpg"
-email: 'contact@rism.info'
-author: 'Name Name'
+email: ''
+author: ''
 ---
 
 What do the composers [Arnold Schönberg](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe86683%22){:blank}, [Armin Knab](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe24573%22){:blank}, and [Camillo de Nardis](https://opac.rism.info/metaopac/perma.do;jsessionid=1B2ADF1C782D4966E8D9DA3C4772C964.touch01?v=rism&q=-1%3d%22pe30024107%22){:blank} have in common? They all died in 1951, so their music entered the public domain in the European Union on January 1, 2022.  
