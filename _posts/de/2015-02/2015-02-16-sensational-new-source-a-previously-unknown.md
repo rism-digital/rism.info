@@ -34,7 +34,7 @@ _Klav o = Klavier oberes System; Klav u = Klavier unteres System; St = Singstimm
 
 _Quelle_
 
-A Autograph. 3 Blätter, 6 beschriebene Seiten, Hochformat. Posth. WoO 4711 auf Bl. 2v–3v. Kopftitel: _Eschte Fründe_ | _stonn zesamme_. | [mit Rötel:] _dem Dreygestirn zugeeignet_. 1. – 4. Strophe als Wiederholung notiert. T. 41–63 und T 69–76 nur teilweise ausgeschrieben.
+A Autograph. 3 Blätter, 6 beschriebene Seiten, Hochformat. Posth. WoO 4711 auf Bl. 2v–3v. Kopftitel: _Eschte Fründe_ | _stonn zesamme_. | [mit Rötel:] _dem Dreygestirn zugeeignet_. 1\. – 4\. Strophe als Wiederholung notiert. T. 41–63 und T 69–76 nur teilweise ausgeschrieben.
 
 _Zur Edition_
 

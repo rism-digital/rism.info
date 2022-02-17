@@ -16,11 +16,11 @@ Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952
 
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-Der RISM Online-Katalog ist kostenlos und kann über [www.rism.info](https://www.rism.info) und [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er dokumentiert Musikhandschriften, Musikdrucke, Libretti und Traktate.
+Der RISM Catalog of Musical Sources ist kostenlos und kann über [www.rism.info](https://www.rism.info) und [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er dokumentiert Musikhandschriften, Musikdrucke, Libretti und Traktate.
 
-Der Online-Katalog enthält inzwischen die Serien [A/I, A/II](#die-rism-serien-a-b-und-c) und die Jahre 1500-1550, 1601-1650 sowie das meiste aus den Jahren 1651-1690 von [B/I](#die-rism-serien-a-b-und-c).
+Der Katalog enthält inzwischen die Serien [A/I, A/II](#die-rism-serien-a-b-und-c) und [B/I](#die-rism-serien-a-b-und-c).
 
-Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/"), München, der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und dem [RISM](https://www.rism.info/ "https://www.rism.info/"). Verantwortlich für den Betrieb und die technische Umsetzung des RISM Online-Katalogs ist die Bayerische Staatsbibliothek München.
+Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/"), München, der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und dem [RISM](https://www.rism.info/ "https://www.rism.info/"). Verantwortlich für den Betrieb und die technische Umsetzung des RISM-Katalogs ist die Bayerische Staatsbibliothek München.
 
 ## Die RISM Serien A, B und C
 
@@ -28,14 +28,14 @@ Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibli
 
 **Serie A** ([Bärenreiter-Verlag, Kassel](http://www.baerenreiter.com/){:target="_blank"}; Datenbank im Internet: [EBSCO, Ipswish](http://www.ebscohost.com/){:target="_blank"}, USA)
 
-* A/I: Einzeldrucke vor 1800 (9 Bände, 4 Supplementbände, 1 Registerband, CD-ROM). Seit 2015 im [Online-Katalog](http://opac.rism.info/){:target="_blank"}.
-* A/II: Musikhandschriften nach 1600: Datenbankindex, Stand 1986, (2 Microfiches); jährlich kumulierte CD-ROM, 1995-2010; [frei zugänglicher Online-Katalog](http://opac.rism.info/){:target="_blank"} seit 2010. Auch als Subskription verschiedener Datenbanken bei [EBSCO](http://www.ebscohost.com/){:target="_blank"} erhältlich.
+* A/I: Einzeldrucke vor 1800 (9 Bände, 4 Supplementbände, 1 Registerband, CD-ROM). Seit 2015 im [Online-Katalog](https://opac.rism.info/){:target="_blank"}.
+* A/II: Musikhandschriften nach 1600: Datenbankindex, Stand 1986, (2 Microfiches); jährlich kumulierte CD-ROM, 1995-2010; [frei zugänglicher Online-Katalog](https://opac.rism.info/){:target="_blank"} seit 2010. Auch als Subskription verschiedener Datenbanken bei [EBSCO](http://www.ebscohost.com/){:target="_blank"} erhältlich.
 
 **Serie B**  ([G. Henle Verlag, München](http://www.henle.de/){:target="_blank"})
 
 **B/I und B/II**: Recueils Imprimés XVIe-XVIIIe Siècles (2 Bände).
 
-Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) hrg. von Pietro Zappala. Die erste Hälfte von B/I - die Jahre 1500 bis 1550 - ist 2015 in den [Online-Katalog](http://opac.rism.info/){:target="_blank"} integriert worden.
+Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) hrg. von Pietro Zappala. B/I ist auch im [Online-Katalog](https://opac.rism.info/){:target="_blank"} integriert.
 
 * **B/I**: François Lesure, *Recueils imprimés, XVIe-XVIIe siècles* (1960).
 * **B/II**: François Lesure, *Recueils imprimés, XVIIIe siècle* (1964)
