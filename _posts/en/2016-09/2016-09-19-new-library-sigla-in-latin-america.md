@@ -25,7 +25,7 @@ Countries in Central and South America that do not yet have any institutions in 
 
 RISM assigns an abbreviation, called a library siglum, to institutions that hold musical sources. The RISM library sigla make it possible to concisely name holding institutions without having to cite very long institutional names. Though the RISM online catalog does not include musical sources for every institution with a siglum, the sigla are nevertheless available for scholars to cite in their research.
 
-Latin American countries with musical sources in the RISM online catalog are:
+Latin American countries with musical sources in the RISM online catalog are:  
 • Brazil: [459 records](https://opac.rism.info/search?View=rism&siglum=BR-*){:target="_blank"}  
 • Chile: [91 records](https://opac.rism.info/search?View=rism&siglum=RCH-*){:target="_blank"}  
 • Mexico: [557 records](https://opac.rism.info/search?View=rism&siglum=MEX-*){:target="_blank"}  
