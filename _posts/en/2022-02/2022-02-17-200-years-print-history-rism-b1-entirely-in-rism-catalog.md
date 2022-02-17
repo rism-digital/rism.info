@@ -10,11 +10,11 @@ email: ''
 author: ''
 ---
 
-It all began with the famous first Petrucci edition from 1501 (see image). After around four years of editing, all of the entries from B/I, _Recueils imprimés, XVIe-XVIIe siècles_ (over 2,700) have been revised and can be found in the RISM catalog. As with all records in the RISM catalog, each record from B/I has a unique RISM ID number, though the original B/I numbers are included as references.
+It all began with the famous first Petrucci edition from 1501 (see image). After around four years of editing, all of the entries from B/I, _Recueils imprimés, XVIe-XVIIe siècles_ (over 2,700) have been revised and can be found in the RISM catalog. As with all records in the RISM catalog, each record from B/I has a unique RISM ID number, though the original B/I numbers are included as references.  
 
 We reported on different stages of the project here:
 
-- November 2017: [RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - A Report from the Central Office](new_at_rism/2017/11/27/rism-bi-recueils-imprim%C3%A9s-xvie-si%C3%A8cles-version-20.html)
+- November 2017: [RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - A Report from the Central Office](/new_at_rism/2017/11/27/rism-bi-recueils-imprim%C3%A9s-xvie-si%C3%A8cles-version-20.html)
 - April 2018: [Printed Music to 1550: A Report from the Central Office II](/new_at_rism/2018/04/19/printed-music-to-1550-a-report-from-the-central.html)
 - March 2019: [17th-Century Printed Anthologies: The First Decade is Now Online](/new_at_rism/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html)
 - July 2020: [Revising Records for Post-1600 Printed Anthologies: There is an End in Sight!](/new_at_rism/2020/07/02/revising-records-for-post1600-printed-anthologies.html)
