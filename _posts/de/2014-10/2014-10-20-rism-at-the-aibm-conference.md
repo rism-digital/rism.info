@@ -14,7 +14,10 @@ author: ''
 [Die deutsche Sektion der AIBM](http://www.aibm.info/){:target="_blank"} hielt vergangenen Monat ihre Jahrestagung in Nürnberg ab. Drei Mitglieder der RISM-Zentralredaktion nahmen daran teil.
 
 Themen der Tagung:
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 - RISM-Daten und ihre Migration
 - Soziale Medien
 - RDA
