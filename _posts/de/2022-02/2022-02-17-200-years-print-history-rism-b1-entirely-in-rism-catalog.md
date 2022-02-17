@@ -14,12 +14,12 @@ Alles fing mit dem berühmten ersten Petrucci-Druck von 1501 an (siehe Abbildung
 
 Zu den einzelnen Projektetappen, sei auf die verschiedenen Berichte verwiesen:
 
-- November 2017: [RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - Bericht aus der Zentralredaktion](new_at_rism/de/2017/11/27/rism-bi-recueils-imprim%C3%A9s-xvie-si%C3%A8cles-version-20.html)
-- April 2018: [Musikdrucke bis 1550: Bericht aus der Zentralredaktion II](/new_at_rism/de/2018/04/19/printed-music-to-1550-a-report-from-the-central.html)
-- März 2019: [Sammeldrucke ab 1601: Die erste Dekade ist jetzt online](/new_at_rism/de/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html)
-- Juli 2020: [Überarbeitung der Sammeldrucke ab 1601: Es ist ein Ende in Sicht!](/new_at_rism/de/2020/07/02/revising-records-for-post1600-printed-anthologies.html)
+- November 2017: [RISM B/I (Recueils imprimés XVIe Siècles) Version 2.0 - Bericht aus der Zentralredaktion](new_at_rism/2017/11/27/rism-bi-recueils-imprimés-xvie-siècles-version-20.html)
+- April 2018: [Musikdrucke bis 1550: Bericht aus der Zentralredaktion II](/new_at_rism/2018/04/19/printed-music-to-1550-a-report-from-the-central.html)
+- März 2019: [Sammeldrucke ab 1601: Die erste Dekade ist jetzt online](/new_at_rism/2019/03/28/17thcentury-printed-anthologies-the-first-decade.html)
+- Juli 2020: [Überarbeitung der Sammeldrucke ab 1601: Es ist ein Ende in Sicht!](/new_at_rism/2020/07/02/revising-records-for-post1600-printed-anthologies.html)
 
-Wenn man diese 200 Jahre Druckgeschichte irgendwie zusammenfassen möchte, könnte man von der Zeit der Typographie sprechen. Natürlich gibt es auch hier Ausnahmen, die im 17. Jahrhundert zahlreicher werden; siehe das beschriebene Beispiel: [Frühste Notenstiche der Musikgeschichte – Simone Verovio](/in_the_news/de/2019/07/22/music-historys-earliest-engraved-notes-simone.html){:blank}.  
+Wenn man diese 200 Jahre Druckgeschichte irgendwie zusammenfassen möchte, könnte man von der Zeit der Typographie sprechen. Natürlich gibt es auch hier Ausnahmen, die im 17. Jahrhundert zahlreicher werden; siehe das beschriebene Beispiel: [Frühste Notenstiche der Musikgeschichte – Simone Verovio](/in_the_news/2019/07/22/music-historys-earliest-engraved-notes-simone.html){:blank}.  
 
 Auch was die Druckorte angeht, diversifiziert sich der Befund. Während zu Beginn Sammeldrucke aus Italien und dem deutschen Sprachgebiet besonders häufig begegnen, trifft man bald zunehmend auf Publikationen aus Paris, Antwerpen und London. So ist es nicht verwunderlich, dass der allerletzte B/I-Eintrag ein gestochener Londoner Druck ist. Das hier abgebildete Beispiel aus demselben Jahr wiederum ist ein Pariser Typendruck, der eine weitere Tendenz aufzuzeigen vermag: gegen Ende des 17. Jahrhunderts wurden mehr und mehr Sammeldrucke periodischen Charakters verlegt. In regelmäßigen Lieferungen verbreiteten sie aktuelle Stücke der gefragten Gattungen und Komponisten. Das setzte sich auch im 18. Jahrhundert for.
 
