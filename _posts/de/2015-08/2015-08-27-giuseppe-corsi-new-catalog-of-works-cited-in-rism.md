@@ -24,7 +24,7 @@ Die Biblioteca del Conservatorio di Musica S. Pietro a Majella in Neapel hat ein
 
 - [Vier weltliche Kantaten](http://www.internetculturale.it/opencms/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0152458){:target="_blank"}, die sich in einer Sammelhandschrift aus dem 17. Jahrhundert befinden (I-Nc C.I.5 (A.44), RISM ID no. [850009946](https://opac.rism.info/search?id=850009946){:target="_blank"}) sowie
 
-- die Arie "**[Ardo ma l'ardor mio](http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0153519){:target="_blank"}**" in einer Handschrift des 18. Jahrhunderts (I-Nc C.I.2 (A.66), RISM ID no. [850009448](https://opac.rism.info/search?id=850009448){:target="_blank"})
+- die Arie "[Ardo ma l'ardor mio](http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=IT%5CICCU%5CMSM%5C0153519){:target="_blank"}" in einer Handschrift des 18. Jahrhunderts (I-Nc C.I.2 (A.66), RISM ID no. [850009448](https://opac.rism.info/search?id=850009448){:target="_blank"})
 
 
 Haben Sie selbst eine Publikation verfasst oder vermissen Sie in unseren Daten eine bestimmte Literatur? Dann schreiben Sie bitte an: [martina.falletta@rism.info](mailto:martina.falletta@rism.info)

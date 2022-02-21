@@ -11,7 +11,7 @@ email: info@henle.de
 author: G. Henle Verlag
 ---
 
-_Diese Nachricht erschien erstmals auf der Website des [G. Henle Verlages](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/){:target="_blank"} (dessen Geschäftsführer Wolf-Dieter Seiffert unser RISM Präsident ist) und wird hier mit freundlicher Genehmigung wiedergegeben._ _RISM listet gerade eine Handvoll von Bartóks Werken im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"} auf._
+_Diese Nachricht erschien erstmals auf der Website des [G. Henle Verlages](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/){:target="_blank"} (dessen Geschäftsführer Wolf-Dieter Seiffert unser RISM Präsident ist) und wird hier mit freundlicher Genehmigung wiedergegeben. RISM listet gerade eine Handvoll von Bartóks Werken im [RISM Online-Katalog](https://opac.rism.info/search?View=rism&author=bartok+bela){:target="_blank"} auf._
 
 Am 26. September 2015 jährte sich Béla Bartóks Todestag zum 70. Mal. Zugleich wurde er zu einem großen Tag für die Bartók-Forschung. In Budapest konnte der Beginn der Kritischen Gesamtausgabe Béla Bartók bekanntgegeben werden.
 
@@ -33,14 +33,16 @@ Annette Oppermann betreut das Bartók-Projekt federführend im G. Henle Verlag, 
 
 Ein grandioses Arbeitspensum für ein grandioses kompositorisches Werk hat begonnen!
 
-![Henle Bartók 1]((https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_2_300breit.jpg)
+![Henle Bartók 1](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_2_300breit.jpg)
 
 _László Vikárius (Bartók-Archiv, Budapest), Tibor Tallián (Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe) und Antal Boronkay (Editio Musica Budapest)_
 
 ![Henle Bartók 2](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_pk_1_300breit.jpg)
 
-_Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász(Übersetzer) und Malcolm Gillies(Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe)._
+_Wolf-Dieter Seiffert (G. Henle Verlag), Péter Halász (Übersetzer) und Malcolm Gillies (Mitglied im Wissenschaftlichen Beirat der Bartók-Gesamtausgabe)._
 
 ![Henle Bartók 3](https://www.henle.de/de/aktuelles/bartok-gesamtausgabe-startet/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=bartok_vertragsunterschrift_300breit.jpg)
 
 _Am 25. September 2015 unterzeichneten Wolf-Dieter Seiffert und Antal Boronkay den Kooperationsvertrag beider beteiligten Verlage._
+
+_Foto oben: András Batta (Franz Liszt Academy of Music), Wolf-Dieter Seiffert (G. Henle Verlag)_
