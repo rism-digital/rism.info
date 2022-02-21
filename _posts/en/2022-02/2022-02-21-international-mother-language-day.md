@@ -12,9 +12,9 @@ author: ''
 
 For 22 years, 21 February has been celebrated as [International Mother Language Day](https://events.unesco.org/event?id=2813562716&lang=1033){:blank}. On this day, the United Nations highlights the significance of native languages as a cultural asset because many languages are endangered. And since many languages do not have an online presence, [multilinguialsim online](https://en.unesco.org/themes/linguistic-diversity-and-multilingualism-internet/recommendation){:blank} can be strengthened.  
 
-The [RISM catalog](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:blank}) has pieces in many languages. Go to the **Advanced Search** and select **Language** to search for vocal pieces in different languages. Enter the name of the language in English or German (such as Italian or Italienisch).
+The [RISM catalog](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:blank} has pieces in many languages. Go to the **Advanced Search** and select **Language** to search for vocal pieces in different languages. Enter the name of the language in English or German (such as Italian or Italienisch).
 
-RISM has music in the following languages:  
+You can search for the following languages in the RISM catalog:  
 - Afrikaans
 - Arabic
 - Aragonese
@@ -90,6 +90,7 @@ RISM has music in the following languages:
 - Spanish
 - Swedish
 - Swiss German
+- Tagalog
 - Tatar
 - Thai
 - Tibetan
