@@ -4,7 +4,7 @@ title: Weihnachtsgrüße
 date: 2010-12-21
 lang: de
 post: true
-category: new_at_rism
+category: events
 image: "/images/news-old-website/csm_BWV_248_Autograph_14255fe2fa.jpg"
 old_url: http://www.rism.info/de/startseite/newsdetails/browse/65/article/64/seasons-greetings.html
 email: ''
