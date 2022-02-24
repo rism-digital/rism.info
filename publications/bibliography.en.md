@@ -964,6 +964,8 @@ Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen
 
 Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ 18, no. 1 (2021). DOI: [https://doi.org/10.1017/S1479409820000014](https://doi.org/10.1017/S1479409820000014){:target="_blank"}.  
 
+Vojčáková, Veronika. "Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou." _Opera Plus_, December 4, 2021. [Available online](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}.
+
 Ward, Jennifer A. "RISM and Digital Research with Historical Musical Sources." In _Nota Bene: Studies from the National Library of Norway_. Vol. 15,  _Notated Music in the Digital Sphere_, edited by Margrethe Støkken Bue and Annika Rockenberger, 20-34. Oslo: National Library of Norway, 2021. [Available online](
 https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu){:blank}.
 
