@@ -16,7 +16,8 @@ Among the most "famous" new names from 2021 include the Polish composers [Witold
 
 Even though the RISM Editorial Center is responsible for editing the records for personal names (as well as other fields with standardized forms), this work would not have been possible without the incredible cooperation of our national groups. Thank you very much!  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3VzjVCc-OJYIVhPHoOgmIyo4Jn7lnwdCMGBPqwX3i9RmYmshDKiIIXEH74LKpdLurHWi6cEUz6-nX/pubhtml?widget=true&amp;headers=false "width="700" height="1000"></iframe>  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3VzjVCc-OJYIVhPHoOgmIyo4Jn7lnwdCMGBPqwX3i9RmYmshDKiIIXEH74LKpdLurHWi6cEUz6-nX/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+
 You can also view [the entire table here](https://docs.google.com/spreadsheets/d/1QGHIenW0UhDy-rprel4i_NypnveqAyXlkug23d5jhb4/edit?usp=sharing){:blank}.
 
 _Image from [Pixabay](https://pixabay.com/de/illustrations/menschenmenge-menschen-kontinente-3205491/){:blank}_.
