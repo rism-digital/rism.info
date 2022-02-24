@@ -40,12 +40,12 @@ Sie werden das [Solfeggio](https://opac.rism.info/search?id=850507984){:target="
 
 Hingebungsvolle RISM-Nutzer wissen, dass eine Titelaufnahme manchmal nur ein Textincipit oder einen Tempohinweis enthält. Diese wurden auch auf der CD eingespielt und werden von berühmten Stimmen wie Dietmar Bär, Udo Schenk, Rufus Beck, August Zürner und Gundula Gause vorgetragen. Genießen Sie, sie lesen die Klassiker wie
 
-_1.1.1vl 1,c; 3/4; c/Ouverture. Più moto;b; B_
+_1.1.1 vl 1,c; 3/4; c/Ouverture. Più moto; b; B_
 
 und
 
 
-_1.6.16/4;e Tell him Apollo greets him well_
+_1.6.1 6/4; e Tell him Apollo greets him well_
 
 Bestellen Sie noch heute und werden sie stolzer Besitzer der vollständigen **RISM-Incipit Edition.** Oder bestellen Sie ein Exemplar für Ihre Musikbibliothek.
 
