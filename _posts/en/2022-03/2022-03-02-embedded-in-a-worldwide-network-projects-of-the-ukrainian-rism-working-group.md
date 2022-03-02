@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Ukraine still features a number of music collections especially in the Northern part of the country, in venerable Lviv. The musical sources that are preserved in this multiethnic and multiconfessional trading town represent several music cultures. Besides the Greek Catholic and Ukrainian Orthodox confessions, Lviv also has a Polish Catholic and an Armenian church. Recent years have also seen the resurgence of Jewish life in the city.
+Ukraine still features a number of music collections especially in the northern part of the country, in venerable Lviv. The musical sources that are preserved in this multiethnic and multiconfessional trading town represent several music cultures. Besides the Greek Catholic and Ukrainian Orthodox confessions, Lviv also has a Polish Catholic and an Armenian church. Recent years have also seen the resurgence of Jewish life in the city.
 
 In Eastern Europe Lviv was among the first cities to contribute to the rise of book printing. One notable figure was Ivan Fyodorov, a Russian printer active there in the 1570s and 1580s. The number of prints surviving from this period is of course modest, while manuscript sources have survived in greater numbers.
 
