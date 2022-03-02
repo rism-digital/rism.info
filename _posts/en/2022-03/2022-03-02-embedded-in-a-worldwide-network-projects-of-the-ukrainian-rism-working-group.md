@@ -14,12 +14,11 @@ Ukraine still features a number of music collections especially in the Northern 
 
 In Eastern Europe Lviv was among the first cities to contribute to the rise of book printing. One notable figure was Ivan Fyodorov, a Russian printer active there in the 1570s and 1580s. The number of prints surviving from this period is of course modest, while manuscript sources have survived in greater numbers.
 
-At the library of the Ivan Franco University (UA-LVu  https://opac.rism.info/search?View=rism&siglum=UA-LVu) a collection containing music manuscripts from the Middle Ages and the Modern Age has been cataloged for RISM.
+At the library of the Ivan Franco University ([UA-LVu] https://opac.rism.info/search?View=rism&siglum=UA-LVu) a collection containing music manuscripts from the Middle Ages and the Modern Age has been cataloged for RISM.
 
-The Stefanyk Library and in particular its Ossoliński Collection (UA-LVs https://opac.rism.info/search?View=rism&siglum=UA-LVs) also includes numerous music historical sources that await cataloguing, among others the collection of the Lviv Philharmonic Society as well as musical sources from the Soviet period. The RISM entries pertaining to the manuscripts of the composer Johann Ruckgaber (https://opac.rism.info/search?View=rism&siglum=UA-LVs&author=Ruckgaber), a collection featuring piano music of the 19th century, have originated in this library.
+The Stefanyk Library and in particular its Ossoliński Collection ([UA-LVs] https://opac.rism.info/search?View=rism&siglum=UA-LVs) also includes numerous music historical sources that await cataloguing, among others the collection of the Lviv Philharmonic Society as well as musical sources from the Soviet period. The RISM entries pertaining to the manuscripts of the composer [Johann Ruckgaber] (https://opac.rism.info/search?View=rism&siglum=UA-LVs&author=Ruckgaber), a collection featuring piano music of the 19th century, have originated in this library.
 
-In Kyiv, the music department of the national library (UA-Knbuv https://opac.rism.info/search?View=rism&siglum=UA-Knbuv) holds the Razumovsky Collection, which have suffered losses over time, but still offers a representative overview of the repertory of the 18th and early 19th centuries. The following (in these turbulent days unfortunately inaccessible) website offers a good introduction to the music collection: 
-http://www.nbuv.gov.ua/node/66 
+In Kyiv, the music department of the national library ([UA-Knbuv] https://opac.rism.info/search?View=rism&siglum=UA-Knbuv) holds the Razumovsky Collection, which have suffered losses over time, but still offers a representative overview of the repertory of the 18th and early 19th centuries. The following (in these turbulent days unfortunately inaccessible) [website] (http://www.nbuv.gov.ua/node/66) offers a good introduction to the music collection. 
 
 As early as the 1990s, RISM offered music cataloguing workshops in Kyiv. The cooperation was continued in June 2013 in Kyiv and in February 2019 in Lviv.
 
