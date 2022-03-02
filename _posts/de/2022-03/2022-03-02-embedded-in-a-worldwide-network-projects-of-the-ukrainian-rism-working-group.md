@@ -29,4 +29,4 @@ An dieser Stelle möchte das RISM noch einmal daran erinnern, das im Jahre 2001 
 Wir denken an unsere Kolleginnen und Kollegen in der Ukraine. Möge ihr Leid und das Leid der Soldaten und ihrer Angehörigen schnell beendet sein.
  
  
-Abbildung: Ukraine auf der Karte von Europa via [clker.com](https://www.clker.com/clipart-457972.html){:blank} ([public domain](https://creativecommons.org/publicdomain/zero/1.0/){:blank}).
+_Abbildung_: Ukraine auf der Karte von Europa via [clker.com](https://www.clker.com/clipart-457972.html){:blank} ([public domain](https://creativecommons.org/publicdomain/zero/1.0/){:blank}).
