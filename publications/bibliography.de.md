@@ -973,6 +973,8 @@ Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und da
 
 Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
+Vojčáková, Veronika: Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou, in: Opera Plus, 4. Dezember 2021. [Online verfügbar](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}
+
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
 Ward, Jennifer A.: RISM and Digital Research with Historical Musical Sources, in: Nota Bene: Studies from the National Library of Norway. Vol. 15,  Notated Music in the Digital Sphere, hrsg. von Margrethe Støkken Bue und Annika Rockenberger, Oslo: National Library of Norway, 2021, S. 20-34. [Online verfügbar](https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu){:blank} 
