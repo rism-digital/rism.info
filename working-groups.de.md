@@ -121,7 +121,7 @@ Webseite: [http://www.kb.dk/en/nb/materialer/musik/](http://www.kb.dk/en/nb/mate
 
 ## DEUTSCHLAND
 
-Webseite (Dresden und München): [http://de.rism.info](http://de.rism.info/de/home.html){:target="_blank"}
+Webseite (Dresden und München): [https://de.rism.info/de/index.html](https://de.rism.info/de/index.html){:target="_blank"}
 
 Arbeitsstelle Dresden\
 Dr. Andrea Hartmann\
