@@ -11,7 +11,7 @@ author: ''
 ---
 Dieser Beitrag erschien bereits [anlässlich des Weltfrauentages 2018](https://rism.info/de/events/2018/03/08/international-womens-day-women-pianists-in-rism.html){:blank}; allerdings ist die Zahl der Pianistinnen bei RISM inzwischen von 250 auf über 400 gestiegen, Grund genug, um eine aktualisierte Fassung zu veröffentlichen.
 
-Heute ist [Internationaler Frauentag](internationalwomensday.com){:blank}. [Ein Jahr zuvor](https://rism.info/de/events/2017/03/08/international-womens-day-women-composers-in.html){:blank} hatten wir anlässlich des Internationalen Frauentages 2017 eine Liste mit ca. 800 Komponistinnen veröffentlicht (inzwischen sind es fast 1200), die in unserem Online-Katalog vertreten sind.
+Heute ist [Internationaler Frauentag](https://internationalwomensday.com/){:blank}. [Ein Jahr zuvor](https://rism.info/de/events/2017/03/08/international-womens-day-women-composers-in.html){:blank} hatten wir anlässlich des Internationalen Frauentages 2017 eine Liste mit ca. 800 Komponistinnen veröffentlicht (inzwischen sind es fast 1200), die in unserem Online-Katalog vertreten sind.
 
 In diesem Jahr widmen wir uns den bei RISM vertretenen Pianistinnen. Da RISM eine Quellen-Datenbank und keine Musik- oder Personen-Datenbank ist, werden nur Personen erfasst, die in irgendeinem Bezug zu einer Musikquelle stehen. Dies ist bei Pianistinnen sehr viel seltener der Fall als beispielsweise bei Sängerinnen, die häufig auch direkt in der Quelle genannt sind. So liegt die Zahl der Sopranistinnen beispielsweise bei fast 900, bei den Pianistinnen sind es hingegen nur etwa 400.
 
