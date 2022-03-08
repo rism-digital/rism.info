@@ -16,16 +16,16 @@ Since RISM is a database that documents specific sources rather than being a gen
  
 Historically, as long as women were denied access to orchestras, the piano – and harp, too – became the instrument of choice that enabled participation in any form of musical life. The fact that the piano did not serve as entertainment for only well-bred ladies of privilege is thanks to role models such as [Clara Schumann](https://opac.rism.info/search?View=rism&q=clara+schumann&Language=en){:blank}, [Leopoldine Blahetka](https://opac.rism.info/search?View=rism&q=Leopoldine+Blahetka&Language=en){:blank}, and [Maria Theresia von Paradis](https://opac.rism.info/search?View=rism&q=Maria+Theresia+von+Paradis&Language=en){:blank}, who became pioneers despite facing at times considerable resistance.
 
-Here they are, the 400 female pianists in RISM (as of March 2022):
+Here they are, the 400 female pianists in RISM (as of March 2022):  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_VhY5OH9-_pE3pBM5R9kV-aLdtsXzoS-J6z3x6WIagUAF8Ax_pRoRsUEewd8ygbYsoGljIeCNrIzq/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_VhY5OH9-_pE3pBM5R9kV-aLdtsXzoS-J6z3x6WIagUAF8Ax_pRoRsUEewd8ygbYsoGljIeCNrIzq/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
-_Key_:
-c = circa
-a = before
-p = after
-.sc = century
+_Key_:  
+c = circa  
+a = before  
+p = after  
+.sc = century  
 
-The full list can also be [viewed here](https://docs.google.com/spreadsheets/d/1JdVhVWyJTPnA9AVDddINJpYZK4TEuv-4Qsemy25mDRI/edit?usp=sharing){:blank}. This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info){:blank}
+The full list can also be [viewed here](https://docs.google.com/spreadsheets/d/1JdVhVWyJTPnA9AVDddINJpYZK4TEuv-4Qsemy25mDRI/edit?usp=sharing){:blank}. This list will continue to grow, and any corrections or additional information concerning biographical details can be sent to: [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info){:blank}  
 
 _Image_: Clara Schumann, circa 1853, photographer unknown, from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=507751){:blank}

@@ -17,15 +17,15 @@ In diesem Jahr widmen wir uns den bei RISM vertretenen Pianistinnen. Da RISM ein
 
 Solange Frauen der Zugang zum Orchester verwehrt blieb, wurde das Klavier - neben der Harfe - zum entscheidenden Instrument, um überhaupt am Musikleben teilhaben zu können. Dass es dabei nicht nur zu einem Unterhaltungsmedium für „höhere Töchter“ wurde, ist vor allem Vorbildern wie [Clara Schumann](https://opac.rism.info/search?View=rism&q=clara+schumann&Language=de){:blank}, [Leopoldine Blahetka](https://opac.rism.info/search?View=rism&q=Leopoldine+Blahetka&Language=de){:blank}, und [Maria Theresia von Paradis](https://opac.rism.info/search?View=rism&q=Maria+Theresia+von+Paradis&Language=de){:blank} zu verdanken, die teilweise gegen erhebliche Widerstände zu Vorreiterinnen wurden.
 
-Hier sind sie nun, die 400 Pianistinnen bei RISM (Stand: März 2022):
+Hier sind sie nun, die 400 Pianistinnen bei RISM (Stand: März 2022):  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_VhY5OH9-_pE3pBM5R9kV-aLdtsXzoS-J6z3x6WIagUAF8Ax_pRoRsUEewd8ygbYsoGljIeCNrIzq/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_VhY5OH9-_pE3pBM5R9kV-aLdtsXzoS-J6z3x6WIagUAF8Ax_pRoRsUEewd8ygbYsoGljIeCNrIzq/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>  
 
-_Abkürzungen_:
-c = circa
-a = vor
-p = nach
-.sc = Jahrhundert
+_Abkürzungen_:  
+c = circa  
+a = vor  
+p = nach  
+.sc = Jahrhundert  
 
 Die vollständige Liste können Sie auch [hier abrufen](https://docs.google.com/spreadsheets/d/1JdVhVWyJTPnA9AVDddINJpYZK4TEuv-4Qsemy25mDRI/edit?usp=sharing){:blank}. Diese Liste wird kontinuierlich erweitert; falls Sie Korrektur-oder Änderungsvorschläge haben, können Sie diese an [alexander.marxen@rism.info](mailto:alexander.marxen@rism.info){:blank} senden.
 
