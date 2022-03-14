@@ -979,7 +979,9 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
 
-Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.
+Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.  
+
+"Zur Situation der Archive in der Ukraine." _MGG Online_, March 2, 2022. [Available online](https://www.mgg-online.com/news?id=d4c65a27-1254-451a-819e-8ce8db7f042d){:blank}.
 
 
 ##### Notes

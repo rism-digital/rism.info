@@ -64,7 +64,7 @@ Dokumentation and examples on the SRU interface can be found [here](https://gith
 
 ## Data Transfers
 
-As long as your data are available in a structured form, RISM can convert them into MARC XML and integrate them into the data pool. So far, we have converted files from Microsoft Access databases, Word documents, and plaintext files. A converter for UNIMARC is in preparation. The conversion process is presented in a straightforward, web-based manner through our own RISM Toolkit application.
+As long as your data are available in a structured form, RISM can convert them into MARC XML and integrate them into the data pool. So far, we have converted files from Microsoft Access databases, Word documents, and plaintext files. A converter for UNIMARC is in preparation. The conversion process is presented in a straightforward, web-based manner:  through our own RISM Toolkit application, the imported file is displayed in a test environment before it is incorporated into the larger data pool.
 
 ## Catalog Printouts of RISM Data
 

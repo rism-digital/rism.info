@@ -81,7 +81,7 @@ Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
 Records imported from RISM's printed volumes [A/I](/publications.html#c36) (music by one composer published up to ca. 1800) and [B/I](/publications.html#c2619) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat.
 
-Please observe the following if you choose to revise records from RISM's A/I or B series:
+#### Revising records from RISM's A/I or B series
 
 * The vast majority of A/I and B/I records needs to be revised. Most prints in fact contain multiple works, so a record must be edited into a collection record and individual entries are needed.  
 * Some records from B/I have very basic individual entries, but these can frequently be enhanced.
@@ -96,6 +96,19 @@ In addition, we now also have other prints that were not included in the RISM pr
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Two-page version: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 If your print falls outside the scope of A/I or B/I, chances are it is not in Muscat. Always do a quick search first, though, to see if someone else has already entered it. If you don't find it, create a new record.
+
+#### Contributing records from RISM's series B/II or B/VI
+
+[RISM's series B](/publications.html#series-b-bibliographies-organized-by-topic) includes two inventories of printed musical sources that have not yet been systematically added to Muscat: B/II, Printed anthologies (_Recueils imprimés, XVIIIe siècle_, published in 1964) and B/VI: Printed writings about music (_Écrits imprimés concernant la musique_, 2 volumes, 1971).
+While there are no current plans for a wholescale import of these books, RISM contributors are welcome to add records for items that are indexed in these publications. Please observe the following:
+1. Some records from these series are already in Muscat. Always check first before creating a new record. Neither B/II nor B/VI has unique identifiers, so searching for them by page number is difficult.
+2. There are some (less than 1,000) duplicates between A/I and B/II, so you might see records from B/II that also have A/I numbers. Simply add your holdings to the A/I record.
+3. Most B/II and B/VI records, however, are not in Muscat, so you will likely have to create a new record.
+4. When you create a new record, it is **very important** that you add the reference to the book in the field RISM Series (510). This helps Editorial Center staff find the new records and add additional holdings. Do not use the field Bibliographic reference (691) to refer to the print's presence in the RISM series.
+5. If you are interested in adding items from other RISM B series, please contact Editorial Center staff to coordinate.
+6. If you have any questions about this, or cannot find your print, please ask us and we will help.
+
+
 
 # Training server
 
