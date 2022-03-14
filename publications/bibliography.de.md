@@ -11,28 +11,32 @@ old_url: http://www.rism.info/de/publikationen/bibliographie.html
 Hier finden Sie eine chronologische Liste aller Publikationen.
 
 
-**Inhalt**
+## Inhalt
 
 - [Publikationen über RISM](#publikationen-über-rism)
 - [Rezensionen](#rezensionen)   
 - [Anhang: Libretto- und Bibliothekskataloge im Umkreis von RISM](#anhang-libretto--und-bibliothekskataloge-im-umkreis-von-rism)
 
-## Publikationen über RISM
+### Publikationen über RISM
 
 _Springen zu:_ [1940er](#c1940) [1950er](#c1950)   [1960er](#c1960)   [1970er](#c1970)   [1980er](#c1980)  [1990er](#c1990)   [2000er](#c2000)   [2010er](#c2010) [2020er](#c2020)
 
-<a name="c1940"></a>**1949:**  
+#### 1949 <a name="c1940"></a>
+
 Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: International musicological society congress report 4 (1949), S. 37.
 
 Fleischer, Herbert: Florenz, in: Stimmen: Monatsblätter für Musik 18 (1949), S. 523-524.
 
-<a name="c1950"></a>**1951:**  
+#### 1951 <a name="c1950"></a>
+
 Bukofzer, Manfred F.: Toward a new inventory of musical sources, in: Notes 8 (1950-1951), S. 265-278. [Online verfügbar](https://www.jstor.org/stable/889991){:target="_blank"}
 
-**1952:**
+#### 1952
+
 Blume, Friedrich: Zum Plan eines Internationalen Quellenlexikons der Musik, in: Die Musikforschung 5 (1952), S. 307-315. [Online verfügbar](https://www.jstor.org/stable/23804862){:target="_blank"}  
+
+#### 1953
  
-**1953:**  
 In: Federov, Vladimir (Hrsg.), Troisième Congrès international des bibliothèques musicales Paris, 22-25 juillet 1951. Kassel: Bärenreiter-Verlag, 1953:
 
 - Blume, Friedrich: Die Frage eines internationalen Quellenlexikons der Musik, S. 20-24.
@@ -43,17 +47,20 @@ In: Federov, Vladimir (Hrsg.), Troisième Congrès international des bibliothèq
 - Pirrotta, Nino: Fondi musicali non inventariati nè catalogati, S. 46-47.
 - Zehnter, Hans:A propos de la refonte d'un Répertoire international des Sources musicales, S. 24-28.
 
-**1954:**  
+#### 1954
+
 Blume, Friedrich: Internationales Quellenlexikon der Musik, in: Fontes Artis Musicae 1 (1954), S. 19-22. [Online verfügbar](https://www.jstor.org/stable/23504276){:target="_blank"}
 
 Lesure, François: RISM identifications. Les anonymes des Recueils imprimés du XVIe siècle (I), in: Fontes Artis Musicae 1 (1954), S. 78-84. [Online verfügbar](https://www.jstor.org/stable/23504008){:target="_blank"}
 
 Bridgman, Nanie: Enquête provisoire sur les fonds musicaux des bibliothèques provinciales de France, in: Fontes Artis Musicae 1 (1954), S. 84-87. [Online verfügbar](https://www.jstor.org/stable/23504009){:target="_blank"}
 
-**1955:**
+#### 1955
+
 Lesure, François: RISM identifications. Les anonymes des Recueils imprimés du XVIe siècle (II), in: Fontes Artis Musicae 2 (1955), S. 37-39. [Online verfügbar](https://www.jstor.org/stable/23504048){:target="_blank"}
 
-**1956:**  
+#### 1956
+
 Blume, Friedrich: Problèmes musicologiques d’un Répertoire des Sources musicales, in: Fontes Artis Musicae 3 (1956), S. 44-48. [Online verfügbar](https://www.jstor.org/stable/23504145){:target="_blank"}
 
 Lesure, François: Quelques conséquences bibliographiques et techniques d’un Répertoire International des Sources Musicales, in: Fontes Artis Musicae 3 (1956), S. 49-50. [Online verfügbar](https://www.jstor.org/stable/23504146){:target="_blank"}. Auch erschienen in _Congrès international des bibliothèques et des centres de documentation_ (Belgium, 1955).
@@ -62,13 +69,16 @@ Lesure, François: Le RISM. Deux ans d’experience, in: Fontes Artis Musicae 3 
 
 Schanzlin, Peter: Die Mitarbeit der Schweiz am „Répertoire International des Sources Musicales“, in: Schweizerische Musikforschende Gesellschaft – Mitteilungsblatt 25 (1956), S. 1-5.
 
-**1957:**  
+#### 1957
+
 Schanzlin, Peter: Musik-Sammeldrucke des 16. und 17. Jahrhunderts in schweizerischen Bibliotheken, in: Fontes Artis Musicae 4 (1957), S. 38-42. [Online verfügbar](https://www.jstor.org/stable/23504260){:target="_blank"}
 
-**1959:**  
+#### 1959 
+
 King, Alec Hyatt: The Music Librarian, his tasks, national and international, in: Fontes Artis Musicae 6 (1959), S. 54. [Online verfügbar](https://www.jstor.org/stable/23504108){:target="_blank"}
 
-<a name="c1960"></a>**1961:**  
+#### 1961 <a name="c1960"></a>
+
 Editorial, in: The musical quarterly 47 (1961), S. 91-94. [Online verfügbar](http://www.jstor.org/stable/740544){:target="_blank"}
 
 Heartz, Daniel: The Répertoire International des Sources Musicales, in: Journal of the American musicological society 14 (1961), S. 268-273. [Online verfügbar](https://www.jstor.org/stable/829761){:target="_blank"}
@@ -77,7 +87,8 @@ Jacquot, Jean: La musique pour luth, in: Report of the Eighth Congress of the In
 
 Weinmann, Alexander: Internationales Quellenlexikon der Musik, in: Österreichische Musikzeitschrift 16 (1961), S. 168-170.
 
-**1962:**  
+#### 1962
+
 RISM: the Washington Meeting, in: Fontes Artis Musicae 9 (1962), S. 3-28. [Online verfügbar](https://www.jstor.org/stable/i23504215){:target="_blank"}
 Darin enthalten:
 
@@ -99,55 +110,66 @@ Darin enthalten:
 - Claudio Sartori, "The RISM Work in Italy", S. 27
 - Miguel Querol Gavalda , "The RISM in Spain", S. 27-28
 
-**1963:**  
+#### 1963
+
 Vellkoop, Gerrit: Muziek en archief, in: Mens en Melodie 18 (1963), S. 6-10.
 
 Weinhold, Liesbeth: RISM im Rahmen der Musikdokumentation, in: Bericht über den internationalen musikwissenschaftlichen Kongreß, Kassel 1963, S. 341-342.
 
-**1964:**  
+#### 1964
+
 Blume, Friedrich: Report on the Current Organizations and Plans of RISM, in: Journal of the American musicological society 17 (1964), S. 415. [Online verfügbar](https://www.jstor.org/stable/830111){:target="_blank"}
 
 Fünfzehn Jahre “Internationales Quellenlexikon der Musik“, in: Musica 18 (1964), S. 325.
 
 Sartori, Claudio: Le RISM et l’Italie. A l’aventure dans les bibliothèques italiennes, in: Fontes Artis Musicae 11 (1964), S. 28-33.
 
-**1965:**
+#### 1965
+
 Gleich, Clemens-Christoph von. "Le Répertoire International des Sources Musicales (RISM) et les collections théâtrales," in: _Acts of the VIIth International Congress of Libraries and Museums of the Performing Arts/Actes du VIIe Congrès international des bibliotèques-musées des arts du spectacle_. The Hague: Netherlands Centre of the International Theatre Institute, 1965?
 
 Heckmann, Harald: Fünfzehn Jahre “Internationales Quellenlexikon der Musik”, in: The world of music 7 (1965), S. 18-19.
 
-**1966:**   
+#### 1966
+
 Riedel, Friedrich W.: Zur Geschichte der musikalischen Quellenüberlieferung und Quellenkunde, in: Acta musicologica 38 (1966), S. 3-27. [Online verfügbar](http://www.jstor.org/stable/932302){:target="_blank"}
 
-**1967:** 
+#### 1967
+
 Shirley, Wayne D.: RISM: a Report in US Activities, in: Notes 23 (1966-1967), S. 477-497. [Online verfügbar](https://www.jstor.org/stable/895076){:target="_blank"}
 
-**1968:**  
+#### 1968
+
 Kempers, K. Ph. Bernet: Das Sigel RISM 1553 <sup>11</sup> und 1553 <sup>16</sup>, in: Fontes Artis Musicae 15 (1968), S. 108-110.
 
 Schlager, Karlheinz und Joscelyn Godwin: RISM, Series A: A progress report, in: Notes 25 (1968), S. 209-210. [Online verfügbar](https://www.jstor.org/stable/893977){:target="_blank"}
 
 Weinhold, Liesbeth: Der Anteil der Bundesrepublik Deutschland am Internationalen Quellenlexikon der Musik, in: Fontes Artis Musicae 15 (1968), S. 102-107.
 
-**1969:**  
+#### 1969
+
 Répertoire international des Sources Musicales. Protokoll über die RISM-Sitzungen, in: Fontes Artis Musicae 16 (1969), S. 20-24.
 
-<a name="c1970"></a>**1970:**  
+#### 1970 <a name="c1970"></a>
+
 Schiødt, Nanna: RISM: Répertoire International des Sources Musicales, in: Dansk Musiktidsskrift 45 (1970), S. 91-96. [Online verfügbar](http://dvm.nu/periodical/dmt/dmt_1970/dmt_1970_04/rism-repertoire-internationale-des-sources-musicales/){:target="_blank"}
 
 Theurich, Jutta: Die Arbeiten am RISM in der Deutschen Demokratischen Republik, in: Fontes Artis Musicae 17 (1970), S. 28-32.
 
-**1971:**  
+#### 1971
+
 BM: Für die Forschungsarbeit von Generationen, in: Hessisch-Niedersächsische Allgemeine vom 29.9.1971.
 
-**1972:**  
+#### 1972
+
 Blume, Friedrich: Zwanzig Jahre RISM, in: Acta musicologica 44 (1972), S. 171-180. [Online verfügbar](https://www.jstor.org/stable/932168){:target="_blank"}
 
 Lesure, François: Printed collections – 18th century (RISM B/II supplement), in: Notes 28 (1972), S. 397-414. [Online verfügbar](https://www.jstor.org/stable/939435){:target="_blank"}
 
 Münster, Robert: Ein Quellenlexikon der Musik, in: Börsenblatt für den Deutschen Buchhandel - Frankfurter Ausgabe vom 30.6.1972.
 
-**1973:**  
+#### 1973
+
 Internationales Quellenlexikon der Musik, in: Neue Zürcher Zeitung vom 23.1.1973.
 
 Krummel, Donald W.: Project RISM-XIX: bibliographical control of the printed music of the nineteenth century, in: Fontes Artis Musicae 20 (1973), S. 11-14.
@@ -160,11 +182,11 @@ Schmieder, Wolfgang: Bemerkungen zum 'neuen Eitner',in: Die Musikforschung 26 (1
 
 Schmieder, Wolfgang: Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wirklichkeit, in: Die Musikforschung 26 (1973), S. 91-92. [Online verfügbar](https://www.jstor.org/stable/23230708){:target="_blank"}
 
-**1974:**
+#### 1974
 
 Weinmann, Alexander: Neue Ergebnisse der RISM-Quellenforschung, in: Österreichische Musikzeitschrift 29 (1974), S. 440-442. [Online verfügbar](https://doi.org/10.7767/omz.1974.29.jg.440){:target="_blank"}
 
-**1975:**
+#### 1975
 
 Böker-Heil, Norbert: Computer-Einsatz bei der Serie A/II RISM: Möglichkeiten, Bedingungen, Vorschläge, in: Fontes Artis Musicae 22 (1975), S. 86-89.
 
@@ -172,14 +194,16 @@ Lesure, François: Un nouveau départ pour le RISM?, in: Fontes Artis Musicae 22
 
 Neue Pläne für RISM. Die Ziele des Advisory Research Committee (ARC), in: Fontes Artis Musicae 22 (1975), S. 83-85.
 
-**1976:**  
+#### 1976
+
 Jenny, Markus: Die gedruckten musikalischen Quellen des deutschen Kirchenliedes, in: Jahrbuch für Liturgik und Hymnologie 20 (1976), S. 182-187.
 
 Rösing, Helmut: Zur Planung und zum gegenwärtigen Stand des RISM Handschriftenprojekts, in: Fontes Artis Musicae 23 (1976), S. 2-6.
 
 Schiødt, Nanna: Musicat. A method of cataloguing manuscripts by computer as applied in the Danish RISM manuscript project, in: Fontes Artis Musicae 23 (1976), S. 158-166.
 
-**1977:**  
+#### 1977
+
 Heckmann, Harald: IAML Annual Conference in Bergen. RISM, in: Fontes Artis Musicae 24 (1977), S. 31-34.
 
 Lopez-Calo, José: The RISM A/II project in Spain, in: Fontes Artis Musicae 24 (1977), S. 34-35.
@@ -188,7 +212,8 @@ Sartori, Claudio: L’Ufficio Ricerche Musicali ha compiuto dieci anni, in: AIB 
 
 Schiødt, Nanna / Reventlow, Sybille: RISM-Katalogen. Manuskripter i danske samlinger: en introduktion, København 1977-1978.
 
-**1978:**  
+#### 1978
+
 Dorfmüller, Kurt: RISM’s wechselnde Gesichter / The changing face of RISM / Les visages changeants de RISM, in: Fontes Artis Musicae 25 (1978), S. 285-293.
 
 Lopez-Calo, José: RISM-España: un proyecto ambicioso, in: Revista de Musicología de la Sociedad Española de Musicología 1 (1978), S. 254-260.
@@ -199,7 +224,8 @@ Rösing, Helmut: Fürstlich Hohenlohe-Langenburg’sche Schlossbibliothek. Katal
 
 Rösing, Helmut: Das Internationale Quellenlexikon der Musik. Zur Serie A. Drucke und Handschriften der Musik, in: Neue Zürcher Zeitung vom 4./5.11.1978.
 
-**1979:**  
+#### 1979  
+
 Bierbaum, Angelika / Howitz, Jürgen / Rösing, Helmut: Liste der Abkürzungen zur Serie A/II des RISM - List of Abbreviations for RISM Series A/II – Liste des abréviation pour la série A/II du RISM, in: Fontes Artis Musicae 26 (1979), S. 251-257. 
 
 Boetticher, Wolfgang: Zur inhaltlichen Bestimmung des für Laute intavolierten Handschriftenbestands, in: Acta Musicologica 51 (1979), S. 193-203. [Online verfügbar](https://www.jstor.org/stable/932453){:target="_blank"}
@@ -224,7 +250,8 @@ Schlager, Karl-Heinz / Kindermann, Jürgen / Rösing, Helmut: RISM: zur Katalogi
 
 Surian, Elvidio: L’inventariazione del patrimonio bibliografico-musicale italiano, in: Revista Italiana di Musicologia 14 (1979), S. 3-10.
 
-<a name="c1980"></a>**1980:**  
+#### 1980 <a name="c1980"></a>
+
 Benton, Rita: Répertoire International des Sources Musicales, in: New Grove Dictionary of Music and Musicians, vol. 15, London 1980, S. 747-749.
 
 Fabris, Dinko: Corso Convegno a Roma per la schedatura dei manoscritti musicali, in: Nuova rivista musicale italiana 14 (1980), S. 671-673.
@@ -235,7 +262,8 @@ Schwandt, Erich: Some 17<sup>th</sup>-century French unica in Canada: notes for 
 
 Surian, Elvidio: The italian RISM group: a report on its activity (1975-1979) and a plan to meet future tasks, in: Fontes Artis Musicae 27 (1980), S. 23-25.
 
-**1981:**  
+#### 1981
+
 Alessandro, Domenico Antonio d’: Ritorna alla luce il Fondo Musicale S. Martino presso la Biblioteca Musicale di Napoli, in: Nuova rivista musicale italiana 15 (1981), S. 440-446.
 
 Cossato, Paolo: In città opera il centro internazionale (RISM), in: L’Unità Venezia vom 2.1.1981.
@@ -246,7 +274,8 @@ Richtlinien für die RISM-Mitarbeiter der Serie A/II; Guidelines for RISM Co-wor
 
 Willier, Stephen A.: The Present Location of Libraries Listed in Robert Eitner's Biographisch-bibliographisches Quellen-Lexikon, in: Fontes Artis Musicae 28 (1981), S. 220-239. [Online verfügbar](https://www.jstor.org/stable/23505338){:target="_blank"}
 
-**1982:**  
+#### 1982
+
 BM: Für die gesamte Musikwelt, in: Hessisch-Niedersächsische Allgemeine vom 26.3.1982.
 
 Fabris, Dinko: Prime aggiunte italiane al volume RISM B/VII – intavolature mss. per liuto e chitarra, in: Fontes Artis Musicae 29 (1982), S. 103-121.
@@ -255,7 +284,8 @@ Rösing, Helmut: Sinn und Nutzen des Versuchs einer weltweiten Erfassung von Que
 
 Unentbehrliche Fundgrube, in: Musica 36 (1982), S. 373.
 
-**1983:**  
+#### 1983
+
 Bierbaum, Angelika / Rösing, Helmut / Schlichte, Joachim: RISM Serie A/II Musikhandschriften 1600-1800. Datenbank-Index. Stand 1983 (dt., engl., franz.), in: Fontes Artis Musicae 30 (1983), S. 142-158.
 
 Múdra, Darina: Sen hudobnej vedy skutočnosťou?, in: Hudobný Život vom 17.1.1983.
@@ -266,7 +296,8 @@ Rösing, Helmut / Schlichte, Joachim: Die Serie A/I des RISM. Eine Dokumentation
 
 Ross, Peter: Die Schweizer Mitarbeit am Internationalen Quellenlexikon der Musik. Musikhandschriften in der Schweiz (1600-1800), in: Schweizerische Musikzeitung 123 (1983), S. 92-97.
 
-**1984:**  
+#### 1984
+
 RISM, in: Dizionario enciclopedico universale della musica e dei musicisti, Il lessico, vol. 4, Torino 1984, S. 103-104.
 
 Bogdany-Popielowa, Wanda: Stan dotychczasowych prac nad RISM w Polsce, in: Biblioteka muzyczna 1980-1982, Warszawa 1984, S. 47-50.
@@ -293,7 +324,8 @@ Rostirolla, Giancarlo: Le attività di inventariazione delle fonti musicali in I
 
 Schlichte, Joachim: Erstellung von Bibliographien mittels EDV, dargestellt am Beispiel der Handschriftenserie A/II, in: Forum Musikbibliothek (1984), Heft 4, S. 172-187.
 
-**1985:**  
+#### 1985
+
 Byczkowska-Sztaba, Jolanta: Zakład Zbiorów Muzycznych: Program i dotychczasowa działalność Ośrodka koordynującego RISM w Zakładzie Zbiorów Muzycznych Biblioteki Narodowej, in: Biuletyn Informacyjny biblioteki narodowej 92-93 (1985), S. 8-9.
 
 Dorfmüller, Kurt: Das Répertoire International des Sources Musicales (RISM) und seine Arbeitsgruppe für die Bundesrepublik Deutschland an der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern 13 (1985), S. 217-225.
@@ -310,7 +342,8 @@ Mischiati, Oscar: Bibliografia e musicologia, in: Note d’archivio 3 (1985), S.
 
 Tuksar, Stanislav: New musical sources in Croatia (Yugoslavia), in: Acta Musicologica 57 (1985), S. 121-138. [Online verfügbar](https://www.jstor.org/stable/932693){:target="_blank"}
 
-**1986:**  
+#### 1986
+
 Dorfmüller, Kurt: Über die Kunst, Kunst zu verzeichnen, in: Börsenblatt für den Deutschen Buchhandel - Frankfurter Ausgabe vom 30.12.1986.
 
 Fischer, Kurt von: Quellendokumentation zur Musik vor 1800, in: Neue Zürcher Zeitung vom 22./23.2.1986.
@@ -322,21 +355,23 @@ Renggli, Hanspeter: Im Dienst der Schweizer Musikgeschichte. Die Mitarbeit der S
 Schlichte, Joachim: Bibliografia e musicologia. Una replica “assolutamente“ polemica, in: Note d’archivio 4 (1986), S. 261-264.
 
 Siddons, James: Supplement for the Japan section of the Dictionary of Music Research Libraries (RISM series C, vol. IV), in: Fontes Artis Musicae 33 (1986), S. 266-273.
-
   
-**1987:**  
+#### 1987
+
 Cidrais Rodrígues, María Fernandes: El proyecto RISM y sus implicaciones en Portugal y en España, in: Casares Rodicio, Emilio / Fernández de la Cuesta González, Ismael (Hrsg.): España en la música de occidente, Madrid 1997, vol. 2, S. 499-502.
 
 Rostirolla, Giancarlo: L’inventariazione e la catalogazione del patrimonio bibliografico musicale, in: Notiziario 10 (1987), S. 6-11.
 
 Schlichte, Joachim: Il RISM e l’Italia, in: Le fonti musicali in Italia 1 (1987), S. 9-15.
 
-**1988:**
+#### 1988
+
 Cobbe, Hugh: RISM A/II: The United Kingdom Contribution, in: Journal of the Royal Musical Association 113 (1988), S. 146-148. [Online verfügbar](https://www.jstor.org/stable/766276){:target="_blank"}
 
 Répertoire International des Sources Musicales (RISM). Creación de un Grupo de Trabajo de ámbito estatal en España, in: Anuario musical 43 (1988), S. 269-279.
 
-**1989:**  
+#### 1989
+
 Howard, John B. (et al): Bibliographical databases for music research, in: Computing and Musicology (1989), S. 7-32.
 
 Lambea Castro, Mariano: I jornados internacionales del RISM, in: Revista de Musicología 12 (1989), S. 383-384. [Online verfügbar](https://www.jstor.org/stable/20795327){:target="_blank"}
@@ -349,14 +384,16 @@ Schlichte, Joachim: Internationales Quellenlexikon der Musik. Zentralredaktion F
 
 Società Italiana di Musicologia / Associazione Veneta per la Ricerca delle Fonti Musicali: Cataloghi di fondi musicali italiani a cura della Società italiana di Musicologia in collaborazione con il RISM. Norme per la redazione, Padova: CLEUP, 1989.
 
-<a name="c1990"></a>**1990:**  
+#### 1990 <a name="c1990"></a>
+
 Idaszak, Danuta: RISM - międzynarodowy leksykon źródeł muzycznych, in: Ruch muzyczny 34 (1990), S. 7.
 
 Kantner, Leopold M.: Musiklandschaft Österreich?! RISM in Österreich - ein Aufruf, in: Informationen 34 (1990).
 
 Schlichte, Joachim: Der automatische Vergleich von 83.243 Musikincipits aus der RISM-Datenbank: Ergebnisse - Nutzen - Perspektiven, in: Fontes Artis Musicae 37 (1990), p. 35-46; ebenfalls in: Fleischhauer, Günther / Siegmund-Schultze, Walther (Hrsg.): Historische Aufführungspraxis im heutigen Musikleben. I., Michaelstein/Blankenburg 1990, S. 65-75 (= Studien zur Aufführungsgeschichte und Interpretation der Musik des 18. Jahrhunderts 42).
 
-**1991:**  
+#### 1991
+
 Costonis, Maureen Needham: The U.S. RISM Libretto Project: Accessible online database for researchers, in: Dance Research Journal 23/2 (1991), S. 55-57. [Online verfügbar](https://www.jstor.org/stable/1478775){:target="_blank"}
 
 Gerlach, Wolf-Günther: Anonymus und Klaviersachen. Mit alten Noten ins neue Jahr, in: Dreieich-Spiegel vom 27.12.1991.
@@ -369,7 +406,8 @@ Murányi, Róbert Arpád: RISM (Répertoire International des Sources Musicales)
 
 Schlichte, Joachim: RISM- Musikincipitvergleich. Ein Ansatz zur Lösung des Incerta-Problems mit den Mitteln der EDV, in: Bennwitz, Hanspeter (Hrsg.): Opera incerta. Echtheitsfragen als Problem musikwissenschaftlicher Gesamtausgaben, Stuttgart 1991, S. 215-228 (= Abhandlungen der geistes- und sozialwissenschaftlichen Klasse 11).
 
-**1992:**  
+#### 1992
+
 Haberkamp, Gertraut: Répertoire International des Sources Musicales (RISM): Quellenerfassung in Deutschland, in: Bibliotheksforum Bayern 20 (1992), S. 153-168.
 
 Howard, John: RISM-US Music Manuscript Inventory, in: Computing in Musicology 8 (1992), S. 25-26.
@@ -380,14 +418,16 @@ Pinegar, Sandra (et al): Text applications and inventories of musical sources, i
 
 Ragni, Silvia: Al RISM, manoscritti musicali antichi. 280.000 i titoli già catalogati, in: Corriere d’Italia dal 9.10.1992.
 
-**1993:**  
+#### 1993
+
 Brook, Barry S. / Viano, Richard J.: The thematic catalogue in music: Further reflections on its past, present and future, in: Foundations in music bibliography, New York 1993 (= Music Reference Services Quarterly, vol. 2), S. 27-46. [Artikel via Taylor & Francis](http://dx.doi.org/10.1300/J116v02n01_02){:target="_blank"}
 
 Ragni, Silvia: Schedare il mondo al RISM, in: Giornale della musica 1993, no. 89, S. 20.
 
 Schlichte, Joachim: Der automatische Vergleich von 83.243 Musikincipits aus der RISM-Datenbank. Ergebnisse - Perspektiven: auch für die Erforschung west-europäischer und west-slavischer Musikkulturen?, in: Tuksar, Stanislav (Hrsg.): The musical baroque, western Slavs, and the spirit of the European cultural communion, Zagreb 1993, S. 29-44, 181-196 (kroatische Übersetzung).
 
-**1994:**  
+#### 1994
+
 Ezquerro Esteban, Antonio: El ambicioso proyecto R.I.S.M. (Répertoire International des Sources Musicales) y su aplicación en España, in: Patrimonio Cultural no. 19 y 20 1994, S. 80-86.
 
 Ezquerro Esteban, Antonio: RISM-España. Importancia del proyecto y alcance de sus actividades - La redacción de Barcelona, in: Anuario musical 49 (1994), S. 273-277.
@@ -408,14 +448,16 @@ Martín Moreno, Antonio: El projecto RISM España: La musicología universitaria
 
 Sancho Campo, Angel: El proyecto RISM España: Breve informe y reflexión sobre el mismo, desde el punto de vista de la Iglesia, in: Anuario musical 49 (1994), S. 296-298.
 
-**1995:**  
+#### 1995
+
 Cornaz, Marie / Verspeurt, Veronique: Een volledige inventarisatie van het il België bewaarde muzikaal bronnenmateriaal: Een droom die werkelijkheid wordt, in: Musica Antiqua 12 (1995), S. 80-84.
 
 Ezquerro Esteban, Antonio: Memoria de actividades de RISM-España 1994, in: Anuario musical 50 (1995), S. 271-301.
 
 Heckmann, Harald: Das Repertoire International des Sources Musicales in Geschichte und Gegenwart, in: Fontes Artis Musicae 42 (1995), S. 135-143.
 
-**1996:**  
+#### 1996
+
 Ezquerro Esteban, Antonio: Memoria de actividades de RISM-España 1995. V: Archivio de música de la Catedral de Coria (E-COR), in: Anuario Musical 51 (1996), S. 247-269.
 
 Herrmann-Schneider, Hildegard: Das Tiroler Musikkataster: Aktuell, in: Mitteilungen der österreichischen Gesellschaft für Musikwissenschaft, Heft 30 (1996), S. 83-87.
@@ -438,7 +480,8 @@ Musikdokumentation in der Schweiz - Symposium vom 20. Oktober 1995 in Bern. Beri
 
 Pavia i Simó, Josep: Memoria de actividades de RISM-España 1995. VI: Archivio de música de la Catedral de Tortosa (Tarragona) (E-TO), in: Anuario Musical 51 (1996), S. 270-299.
 
-**1997:**  
+#### 1997
+
 Baumann, Dorothea: Music Documentation in Switzerland. The Future of Shared Cataloguing and RISM A/II, in: Fontes Artis Musicae 44 (1997), S. 23-31.
 
 Brook, Barry S. / Viano, Richard J.: Introduction and RISM, in: Thematic catalogues in music. An annotated Bibliography, Stuyvesant 1997, S. XIX, XXV-XXVII, XXXI, 365-377.
@@ -455,7 +498,8 @@ Holm, Anna Lena: Meddelanden från Statens Musikbibliotek: Nya verk till RISM, i
 
 Howard, John: Plaine and Easie Code: A Code for Music Bibliography, in: Beyond MIDI: The Handbook of Musical Codes, hrsg. v. EleanorSelfridge-Field, Cambridge (MA) 1997, S. 362–372.
 
-**1998:**  
+#### 1998
+
 Ezquerro Esteban, Antonio: Cataloguing musical sources in Spain. A RISM perspective, in: Fontes Artis Musicae 45 (1998), S. 81-89.
 
 Gerhard, Anselm / Hanke Knaus, Gabriella: Repertorium Schweizer Komponisten des 19. Jahrhunderts, in: Revue musicale suisse / Schweizer Musikzeitung, Nr. 11 (1998), S. 13-14.
@@ -472,7 +516,8 @@ Selfridge-Field, Eleanor: Conceptual and Represenational Issues in Melodic Compa
 
 Wojnowska, Elübieta: Probleme bei der Katalogisierung alter Musikdrucke im Lichte der Formate RISM und US-MARC, in: Forum Musikbibliothek 1998, Heft 1, S. 61-66.
 
-**1999:**  
+#### 1999
+
 Ezquerro Esteban, Antonio: El trabajo del RISM en España, in: González Peña, María Luz (Hrsg.): 18° congreso de la Asociación International de Bibliotecas Musicales, Archivos y Centros de Documentatión - IAML, IVBM, AIBM, Madrid 1999, S. 335-342 (= Colección de monografías 3).
 
 Juricic, Vedrana: Kompjutorizacija RISM A/II projekta u svijetu i u Hravatskoj, in: Blazekovic, Zdravko / Katalinic, Vjera (Hrsg.): Glazba, riječi i slike: Svečani zbornik za Koraljku Kos, Zagreb 1999, S. 395-413 (= Muzikološki zbornici 6).
@@ -481,7 +526,8 @@ Keil, Klaus: Zu 'PC-Datenbanken für die Musikwissenschaft', in: Die Musikforsch
 
 Schwindt-Gross, Nicole: Einschub: Arbeiten mit RISM, in: Dies., Musikwissenschaftliches Arbeiten, Kassel 4/1999, S. 122-129 (= Bärenreiter Studienbücher Musik 1).
 
-<a name="c2000"></a>**2000:**  
+#### 2000 <a name="c2000"></a>
+
 Digitale Erfassung zum Ziel. Einsiedler Musikbibliothek: Inventarisierung eines wertvollen Kulturgutes, in: Einsiedler Anzeiger 18.7.2000.
 
 Esteve Vaquer, José-Joaquin / Juliа Serra, Andreu / Menzel Sansу, Cristina: Memoria de actividades RISM-España 1999-2000, in: Anuario Musical 55 (2000), S. 273-286.
@@ -490,7 +536,8 @@ Grand, Cécile: L’inventaire du patrimoine musical régional français (1989-2
 
 RISM. Répertoire International des Sources Musicales, in: IFLA Moskva. Novosti Rossijskogo Komiteta IFLA, No. 29-30 (2000), S. 17.
 
-**2001:**  
+#### 2001
+
 Benton, Rita: Répertoire International des Sources Musicales, in: New Grove Dictionary of Music and Musicians, 2<sup>nd</sup> edition, vol. 21, London 2001, S. 194-195.
 
 Heckmann, Harald: Das ‚Répertoire Internationale des Sources Musicales’ (RISM) nach Fünfzig Jahren, in: Anuario musical 56 (2001), S. 197-202.
@@ -501,7 +548,8 @@ Riva, Federica: Anno 2000. La catalogazione dei manoscritti musicali in Italia e
 
 Zappalà, Pietro (übers. Wilson, Alex): Rezension zu _Catalogue of Early Music Prints from the Collections of the Former Preußische Staatsbibliothek in Berlin, Kept at the Jagiellonian Library in Cracow = Katalog Starodruków Muzycznych Ze Zbiorów Byłej Pruskiej Biblioteki Państwowej w Berlinie, Przechowywanych w Bibliotece Jagiellońskiej w Krakowie_ by Aleksandra Patalas, in: Fontes artis musicae 48, no. 3 (2001), S. 303–14. [Online verfügbar](https://www.jstor.org/stable/23509025){:target="_blank"}.
 
-**2002:**  
+#### 2002
+
 Herrmann-Schneider, Hildegard: Vom ‚Tiroler Musikkataster’ zu RISM (Répertoire International des Sources Musicales) – Landesleitung Westösterreich und Referat Südtirol, in: Kulturberichte aus Tirol 56 (2002), S. 44-51.
 
 Jaenecke, Joachim: Wissenschaftliche und technische Herausforderung der musikhistorischen Quellenforschung im internationalen Rahmen = Scientific and Technological Challenge of Musicological Source Research at International Level: Internationaler Kongress, 6.-9. März 2002 in Frankfurt am Main: Konferenzbericht, in: Fontes Artis Musicae 49 (2002), S. 206-208; ebenfalls in: Forum Musikbibliothek 23 (2002), S. 152-154.
@@ -510,19 +558,22 @@ Jaenecke, Joachim: RISM: Eine Fundgrube für verschollen geglaubte Musikdrucke a
 
 Keil, Klaus: Rabota RISMa. Serija AII: Muzykal’nye Rukopici posle 1600 Goda, in: Russkie muzykal’nye archivy za rubežom. Zarubežnye muzykal’nye archivy v Rossii, Moskva 2002, S. 28-33 (= Moskovskaja gosudarstvennaja konservatorija imeni P. I. Čajkovskogo 40).
 
-**2004:**  
+#### 2004
+
 Sapp, Craig Stuart, Yi-Wen Liu und Eleanor Selfridge-Field: Search Effectiveness Measures for Symbolic Music Queries in Very Large Databases, in: Paper presented at ISMIR 2004, 5th International Conference on Music Information Retrieval, Barcelona, Spain, October 10-14, 2004. [Online verfügbar](http://dblp.org/rec/conf/ismir/StuartLS04){:target="_blank"}.
 
 Tuppen, Sandra: New RISM (U.K. and Ireland) database launched, in: Brio: Journal of the United Kingdom branch ofthe International Association of Music Libraries, Archives andDocumentation Centres41, no. 2 (Fall-winter 2004), S. 40-42. Auch veröffentlicht in Early music performer: Journal of the National Early Music Association14 (2004), S. 33-35.
 
-**2005:**  
+#### 2005
+
 Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}
 
 Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM), in: Hudobný archív15 (2005), S. 250-254.
 
 Schmidt-Hensel, Roland: Erschließung von Nachlässen, Briefen und Musikhandschriften mit Kalliope und Kallisto, in: Forum Musikbibliothek 26, no. 4 (2005), S. 381-395.
 
-**2006:**  
+#### 2006
+
 Grün, Birgit: RISM-Bibliothekssigel, in: Forum Musikbibliothek 27 (2006), S. 331-332.  
   
 Heinz-Kronberger, Gottfried: Die Bestandserschließung der Musikhandschriften der Hochschul- und Landesbibliothek Fulda durch das Répertoire International des Sources Musicales (RISM), in: Fuldaer Geschichtsblätter 82 (2006), S. 178-198.
@@ -531,7 +582,8 @@ Iglesias Martínez, Nieves: Bibliotecas e investigación musical, in: Arbor: Cie
 
 Keil, Klaus: Contributo ad un catalogo tematico palestriniano: La documentazione dei manoscritti presso il RISM, in:Palestrina e l'Europa: Atti del III Convegno Internazionale di Studi (Palestrina, 6-9 ottobre 1994), hrsg. von Giancarlo Rostirolla, Stefania Soldati und Elena Zomparelli, Palestrina: Fondazione Giovanni Pierluigi da Palestrina 2006, S. 809-815.
 
-**2007:**  
+#### 2007
+
 Die elektronische Datenbank mit dem Notenschlüssel, in: Frankfurter Neue Presse vom 12.03.2007
 
 Heckmann, Harald: Das Répertoire International des Souces Musicales (RISM) in Geschichte, Gegenwart und Zukunft, in: Wege und Spuren. Verbindungen zwischen Bildung, Wissenschaft, Kultur, Geschichte und Politik. Festschrift für Joachim-Felix Leonhard, hg. von Helmut Knüppel u.a., Berlin 2007, S. 597-605.
@@ -544,7 +596,8 @@ Rettelbach, Simon: Digitales Archiv der Musikgeschichte. Ein Besuch in der Zentr
 
 Wygoda, Hermann: Datenbank des weltweiten Musikschaffens vom 06.03.2007
 
-**2008:**  
+#### 2008
+
 Frühauf, Wolfgang und Andrea Hartmann: Musiksammlungen erhalten und bewahren. Eine Handreichung zur präventiven und konservierenden Pflege, Müncenh und Dresden: RISM Arbeitsgruppe Deutschland e.V., 2008.
 
 Hanke Knaus, Gabriella: Research and preservation of the musical heritage: The Swiss office of the Repertoire International des Sources Musicales (RISM), in: Ictus: Periódico do Programa de Pós-Graduação em Música da UFBA9 (2008), S. 55-64. [Online verfügbar](http://www.ictus.ufba.br/index.php/ictus/article/view/173){:target="_blank"}
@@ -555,12 +608,13 @@ Keil, Klaus: Ergänzende Informationen zum Erfassungsprogramm 'Kallisto', in: Fo
 
 Schieke-Gordienko, Marina: Das Musikarchiv der Sing-Akademie zu Berlin - Depositum in der Musikabteilung der Staatsbibliothek zu Berlin: zum aktuellen Stand der Erschließung - ein Zwischenbericht, in: Forum Musikbibliothek 29, no. 1 (2008), S. 31-42.
 
-**2009:**  
+#### 2009
+
 Ezquerro Esteban, Antonio: Neue Herausforderungen im Umfeld des RISM-Projektes: Der Fall Spanien, in: Fontes Artis Musicae 56 (2009), S. 201-206.
 
 Hankinson, Andrew, Laurent Pugin und Ichiro Fujinaga: Interfaces for document representation in digital music libraries, in: ISMIR 2009: Proceedings of the 10th international conference on music information retrieval, Kobe International Conference Center, Kobe, Japan, October 26-30, Kobe, Japan: 2009, S. 39–44. [Online verfügbar](http://docs.rism-ch.org/hankinson2009interfaces.pdf){:target="_blank"}
 
-<a name="c2010"></a>**2010:** 
+#### 2010 <a name="c2010"></a>
 
 Bemmann, Katrin und Steffen Voss: Ein Notenschrank wandert ins Internet, in: BIS - das Magazin der Bibliotheken in Sachsen 3 (2010), S. 14-16. [Online verfügbar](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-63239){:target="_blank"} 
 
@@ -582,7 +636,8 @@ Van Kranenburg, Peter: A Computational Approach to Content-Based Retrieval, PhD 
 
 Zappalà, Pietro (Hrsg.): RISM B/I (Recueils imprimés XVI-XVII siècles): Indice dei compositori. 2005-2010. [Online verfügbar](/resources-old-website/community-content/Zentralredaktion/RecueilsKomponistenindex.pdf){:target="_blank"}
 
-**2011:**  
+#### 2011
+
 Brinzing, Armin: RISM und Bibliotheken – Stand und Perspektiven der Musikhandschriftenerschließung in Deutschland, in: Forum Musikbibliothek 32 (2011), S. 9-14.
 
 Brinzing, Armin / Diet, Jürgen: Der neue Musik-Katalog „RISM-OPAC“ mit über 700.000 Nachweisen ist online, in: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München 2011, Heft 1, p. 63-65. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2011_1.pdf){:target="_blank"}
@@ -591,7 +646,7 @@ Diet, Jürgen: Neue Version des RISM Online-Katalogs mit Musikincipitsuche freig
 
 Falletta, Martina: Telemanns Kompositionen aus dem Blickwinkel neuer, durch das RISM-Projekt erschlossener Quellen, in: Telemann und die Kirchenmusik. Bericht über die Internationale Wissenschaftliche Konferenz, Magdeburg, 15. bis 17. März 2006, anlässlich der 18. Magdeburger Telemann-Festtage, hrsg. von Carsten Lange und Brit Reipsch, Hildesheim: Olms 2011 (= Telemann-Konferenzberichte XVI), S. 178-207.
 
-**2012:**
+#### 2012
 
 Brinzing, Armin: Das Internationale Quellenlexikon der Musik (RISM) und dieErschließung der historischen Musikalienbestände in Deutschland, in:Zeitschrift für Bibliothekswesen und Bibliographie 59 (2012), S. 146-151.[Online verfügbar](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
@@ -647,7 +702,7 @@ Voss, Steffen: Musikdokumentation in Bibliothek, Wissenschaft und Praxis. Konfer
 
 Wolf, Ulrike: 60 Jahre RISM: Interview mit dem Präsidenten Christoph Wolff, in:Forum Musikbibliothek 33 (2012), S. 16-20. [Online verfügbar](https://journals.qucosa.de/fmb/issue/view/FM%202%202012){:target="_blank"}
 
-**2013:**
+#### 2013
 
 Bastlová, Eliška: Collectio operum musicalium quae in Bibliotheca Kinsky adservantur. Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8 (Prague: Národní knihovna České Repubiky, 2013).
 
@@ -675,7 +730,7 @@ Talkner, Katharina: "I’ve got the rism and you’ve got the music!" Moderne We
 
 Tuppen, Sandra: Music manuscripts from the 17th and 18th centuries in the British Library, in: Public Domain Review, Dezember 2013. [Online verfügbar](http://publicdomainreview.org/collections/music-manuscripts-from-the-17th-and-18th-centuries-in-the-british-library/ "the").
 
-**2014:**
+#### 2014
 
 Chae, Hyun Kyung et al.: Challenges to music documentation: Design and implementation of a web-based content management system for East Asian music education documents, in: Fontes artis musicae 61 (2014), S. 249-259.
 
@@ -707,7 +762,7 @@ Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Kompo
 
 Wagner, Undine: Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen, in: Musicologica brunensia49 (2014), S. 139-167. [Online verfügbar](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}
 
-**2015:**
+#### 2015
 
 Chae, Hyun Kyung: From the First[最初] to the Best[最高]: Ewha Music Research Institute, in: Ewha's Research Power for Humanities, Arts & Social Sciences (Februar 2015).[Online verfügbar](http://researchpower1.ewha.ac.kr/bbs/board.php?bo_table=2015s&wr_id=7){:target="_blank"}.
 
@@ -737,8 +792,7 @@ Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeich
 
 Shanahan, Daniel und Eamonn Bell: Re-Examining National Influences and Stylistic Shifts with the RISM Dataset, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 159-161. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
 
-
-**2016:**
+#### 2016
 
 Benton, Rita und Jennifer A. Ward: Répertoire International des Sources Musicales, in: Grove Music Online. Oxford Music Online. Oxford University Press, [Online verfügbar](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}
 
@@ -795,24 +849,23 @@ Tuppen, Sandra, Stephen Rose und Loukia Drosopoulou: Library Catalogue Records a
 
 Van Nuss, Jelmer: Monochord Melodic Similarity Retrieval Evaluation and Applications for Composer Classification, Bachelor's thesis, Universiteit Utrecht, 2016.
 
-Ward, Jennifer: 7 Things You Might Not Know About RISM, in: MLA Newsletterno. 185 (2016). [Online verfügbar](https://www.musiclibraryassoc.org/resource/collection/EF36C0DF-5954-4A46-B8FB-55C73A2BE86B/185PDF.pdf).
+Ward, Jennifer: 7 Things You Might Not Know About RISM, in: MLA Newsletterno. 185 (2016). [Online verfügbar](https://www.musiclibraryassoc.org/resource/collection/EF36C0DF-5954-4A46-B8FB-55C73A2BE86B/185PDF.pdf)
 
 Ward, Jennifer A. und Axel Klein: An Evening of Irish Music: The Emerald Isle Comes to Germany, in: Fontes Artis Musicae 63 (2016), S. 277-284. [Online verfügbar](https://www.jstor.org/stable/44709383){:target="_blank"}
 
-Ward, Jennifer: The use and reuse of RISM data in libraries, in: Journal of Electronic Resources Librarianship 28 (2016), S. 129-133. [Online verfügbar](http://dx.doi.org/10.1080/1941126X.2016.1167551){:target="_blank"}.
+Ward, Jennifer: The use and reuse of RISM data in libraries, in: Journal of Electronic Resources Librarianship 28 (2016), S. 129-133. [Online verfügbar](http://dx.doi.org/10.1080/1941126X.2016.1167551){:target="_blank"}
 
-
-**2017:**
+#### 2017
 
 A Protocol between the Istituto Centrale per il Catalogo Unico (ICCU), IAML-Italia and RISM has been signed (Briefs/Feuilletons), in: Fontes Artis Musicae 64 (2017), S. 68-69. [Online verfügbar](https://muse.jhu.edu/article/650243){:target="_blank"}
 
 Bacciagaluppi, Claudio: Wie Marenzios 'Pastor Fido' nach Zuoz kam, in: Schweizer Musikzeitung 6 (2017): S. 37. [Online verfügbar](http://docs.rism-ch.org/press/smz.2017.06_37.pdf){:target="_blank"}
 
-Blum, David: The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM, in: Fontes Artis Musicae 64, No. 4 (2017), S. 355-366. [Online verfügbar](https://muse.jhu.edu/article/680345){:target="_blank"}.
+Blum, David: The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM, in: Fontes Artis Musicae 64, No. 4 (2017), S. 355-366. [Online verfügbar](https://muse.jhu.edu/article/680345){:target="_blank"}
 
 Díaz, Antonio: Seminario de Música de la Nueva España celebra 15 años con concierto, in: La Crónica de Hoy, 21. November 2017. [Online verfügbar](http://www.cronica.com.mx/notas/2017/1053365.html){:target="_blank"}.
 
-Diet, Jürgen: Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern11, Nr. 2 (2017), S. 82-85. [Online verfügbar](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}.
+Diet, Jürgen: Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern11, Nr. 2 (2017), S. 82-85. [Online verfügbar](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}
 
 Güggi, Cédric und Laurent Pugin: Zehn Jahre Entwicklungs- und Katalogisierungserfahrung mit Muscat, in: Forum Musikbibliothek38, Nr. 1 (2017), S. 20-27.  
   
@@ -820,7 +873,7 @@ Lindmayr-Brandl, Andrea: "Répertoire International des Sources Musicales." Beri
 
 McAulay, Karen: The Big Picture: Bibliographic Control, in: Claimed from Stationers’ Hall: The United Kingdom’s Historical Copyright Music Collections, 28. Dezember 2017. [Online verfügbar](https://claimedfromstationershall.wordpress.com/2017/12/28/the-big-picture-bibliographic-control/){:target="_blank"}.
 
-Münch, Vera: "Wie finden Sie die Melodie?", in: _b.i.t.online_ 20, no. 5 (2017), S.409-414. [Online verfügbar](http://www.b-i-t-online.de/heft/2017-05-reportage-muench.pdf){:target="_blank"}.
+Münch, Vera: "Wie finden Sie die Melodie?", in: _b.i.t.online_ 20, no. 5 (2017), S.409-414. [Online verfügbar](http://www.b-i-t-online.de/heft/2017-05-reportage-muench.pdf){:target="_blank"}
 
 "RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox, in: Cataloging & Classification Quarterly 55 (2017), no. 3, S. 172-186.  [Online verfügbar](https://doi.org/10.1080/01639374.2017.1281673){:target="_blank"} or [Online verfügbar](http://catalogingandclassificationquarterly.com/ccq55nr3.html){:target="_blank"}
 
@@ -836,8 +889,7 @@ Ward, Jennifer A.: Notes for Notes, in: Notes__73, Nr. 4 (Juni 2017), S. 698-699
 
 Ward, Jennifer A.: RISM for Librarians, in: Musikbiblioteksnytt 3 (2017), S. 10-11. [Online verfügbar](http://www.smbf.nu/dok/mbn/mbn_2017_03.pdf){:target="_blank"}.
 
-
-**2018:**
+#### 2018
 
 Bicher, Katrin und Barbara Wiermann: Normdaten zu „Werken der Musik“ und ihr Potenzial für die digitale Musikwissenschaft, in: Bibliothek Forschung und Praxis 42, Nr. 2 (2018), p. 222-235. [Online verfügbar](https://doi.org/10.1515/bfp-2018-0043){:target="_blank"}
 
@@ -865,7 +917,7 @@ Veit, Joachim und Kristina Richts: Stand und Perspektiven der Nutzung von MEI in
 
 Zitellini, Rodolfo, Geert-Jan Giezeman, Frans Wiering und Laurent Pugin: "Incipit Melodic Similarity Matching in Muscat." 19th International Society for Music Information Retrieval Conference, Paris, France, 2018. [Abstract verfügbar](http://ismir2018.ircam.fr/pages/events-lbd.html){:target="_blank"}
 
-**2019:**
+#### 2019
 
 Benavent i Peiró, Joan: El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra, in: Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019, S. 151-188. [Online verfügbar](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf){:target="_blank"}
 
@@ -881,7 +933,7 @@ Köppl, Chantal: "Works, Work Titles, Work Authorities: Perspectives on Introduc
 
 Ward, Jennifer: Répertoire International des Sources Musicales/International Inventory of Musical Sources, in: _Historic Libraries Forum Bulletin_ 44 (April 2019), S. 3-4. [Online verfügbar](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}
 
-<a name="c2020"></a>**2020:**
+#### 2020 <a name="c2020"></a>
 
 Eggertsen, Chris: Musicologists Come to Katy Perry's Defense in 'Dark Horse' Case: Verdict Is 'Inhibiting the Work of Songwriters', in: Billboard, 13. Januar 2020. [Online verfügbar](https://www.billboard.com/articles/business/legal-and-management/8547957/musicologists-katy-perry-dark-horse){:target="_blank"}
 
@@ -909,7 +961,8 @@ Ward, Jennifer A.: Documenting Historical Printed Music in RISM: New Opportuniti
 
 Ward, Jennifer A.: RISM en América Latina: proyectos colaborativos para la documentación de fuentes. Translated by Juan Francisco Rangel Yáñez, in: Celebración y sonoridad en Hispanoamérica (siglos xvi y xix), hrsg. von Anastasia Krutitskaya, Moreila: Universidad Nacional Autónoma de México, Escuela Nacional de Estudios Superiores Unidad Morelia, 2020, S. 22-41. [Online verfügbar](http://www.librosoa.unam.mx/handle/123456789/3063){:target="_blank"}
 
-**2021:**  
+#### 2021  
+
 Aslanidi, Maria / Aris Bazmadelis / Arsinoi Ioannidou: The Greek RISM Office: Describing Byzantine Music-Related Resources and Other Projects, in: Fontes Artis Musicae 68 (2021), no. 3, S. 256-266. [Online verfügbar](https://muse.jhu.edu/article/810848){:blank}.
 
 Walter-Mazur, Magdalena. The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (Compiled in cooperation with RISM)
@@ -920,6 +973,8 @@ Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und da
 
 Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
+Vojčáková, Veronika: Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou, in: Opera Plus, 4. Dezember 2021. [Online verfügbar](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}
+
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
 
 Ward, Jennifer A.: RISM and Digital Research with Historical Musical Sources, in: Nota Bene: Studies from the National Library of Norway. Vol. 15,  Notated Music in the Digital Sphere, hrsg. von Margrethe Støkken Bue und Annika Rockenberger, Oslo: National Library of Norway, 2021, S. 20-34. [Online verfügbar](https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu){:blank} 
@@ -928,8 +983,13 @@ Wong, Chelsea und Thomas Huthwaite: Finding Harmony Between ‘commonplace’ an
 
 YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐界的启示" (The History and Development of Thematic Catalogue of Western Music Works and Its Implication to Chinese Music Circle), in: Library Journal 40(2021),  no. 9, S. 39-47. [Online verfügbar](http://www.libraryjournal.com.cn/EN/Y2021/V40/I9/39){:blank}
 
+#### 2022
 
-**Anmerkung:**
+Álvarez Escandell, Carmen: El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges, in: Cuadernos de Investigación Musical 14 (enero-junio 2022), S. 115-187. [Online verfügbar](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}
+
+Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438)
+
+##### Anmerkung:
 
 Weitere Informationen über die Arbeit des RISM bieten folgende Publikationen:
 
