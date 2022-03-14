@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beethoven at the British Library – a list of online resources"
-date: 2022-02-XX
+date: 2022-02-28
 lang: en
 post: true
 category: library_collections
