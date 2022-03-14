@@ -10,7 +10,7 @@ email: 'Chris.Scobie@bl.uk'
 author: 'Chris Scobie'
 ---
 
-_The following originally appeared on the [British Library's Music blog](https://blogs.bl.uk/music/2021/12/beethoven-at-the-british-library-a-list-of-online-resources.html) (© British Library Board, [Creative Commons Attribution Licence](https://blogs.bl.uk/music/about-this-blog.html). The British Library is currently hosting [an exhibition about Beethoven](https://www.bl.uk/events/beethoven?_ga=2.42944877.938033194.1644224074-310397521.1598974978), which can be viewed until the end of April._
+_The following is by Chris Scobie and originally appeared on the [British Library's Music blog](https://blogs.bl.uk/music/2021/12/beethoven-at-the-british-library-a-list-of-online-resources.html) (© British Library Board, [Creative Commons Attribution Licence](https://blogs.bl.uk/music/about-this-blog.html)). The British Library is currently hosting [an exhibition about Beethoven](https://www.bl.uk/events/beethoven?_ga=2.42944877.938033194.1644224074-310397521.1598974978), which can be viewed until the end of April._
 
 Our [Beethoven exhibition](https://www.bl.uk/events/beethoven) draws on the British Library's rich collection of Beethoven material to reflect on the composer's creativity, his struggles, and the impact and legacy that he has left to future generations. This is a rare opportunity for visitors to see a wide range of Beethoven material together and up close.
 
