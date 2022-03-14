@@ -265,7 +265,7 @@ See also: [https://www.rism.info/working-groups/france/home.html](/working-group
 
 ## GERMANY
 
-Website (Dresden and Munich): [http://de.rism.info](http://de.rism.info/en/home.html){:target="_blank"}  
+Website (Dresden and Munich): [https://de.rism.info/index.html](https://de.rism.info/index.html){:target="_blank"}  
 
 Arbeitsstelle Dresden\
 Dr. Andrea Hartmann\
