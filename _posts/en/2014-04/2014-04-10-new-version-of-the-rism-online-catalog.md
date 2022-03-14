@@ -31,7 +31,7 @@ In the **Advanced search**, you will probably notice the on-screen keyboard at t
 
 In the search results list, you can now **sort** results by year, title, or author. You can subscribe to a search using the **Atom feed** to find out when new records matching your criteria are added to the database.
 
-Finally, in the entries themselves, designations now appear next to names so that you know how secure the attributions are. [In this piece](https://opac.rism.info/metaopac/search?q=rism461003201&db=251&View=rism){:target="_blank"} (RISM ID no.461003201), attribution to Frauenberger is **conjectural**, meaning it is just a guess based on secondary literature. The word **alleged** next to Haydn's name means that his name appears on the source, but the attribution is doubtful. The word **misattributed** denotes that this piece has been misattributed to Mozart in the past.
+Finally, in the entries themselves, designations now appear next to names so that you know how secure the attributions are. [In this piece](https://opac.rism.info/metaopac/search?q=rism461003201&db=251&View=rism){:target="_blank"} (RISM ID no. 461003201), attribution to Frauenberger is **conjectural**, meaning it is just a guess based on secondary literature. The word **alleged** next to Haydn's name means that his name appears on the source, but the attribution is doubtful. The word **misattributed** denotes that this piece has been misattributed to Mozart in the past.
 
 Some features, such as the option to **e-mail** records to yourself, will be expanded in the future. We will also create tutorials to accompany the online database and write more about specialized searches in this space.
 
