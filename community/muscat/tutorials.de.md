@@ -59,9 +59,9 @@ Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](h
 * Wenn Sie keinen Treffer finden, geben Sie einen neuen Datensatz ein.
 * Die Datensätze sind manchmal uneinheitlich und verwirrend. Bitte kontaktieren Sie uns bei Fragen!
 
-## Drei Möglichkeiten um zu den Musikdrucken des RISM beizutragen
+## Möglichkeiten um zu den Musikdrucken des RISM beizutragen
 
-### 1. Ergänzen und bearbeiten Ihres Exemplars
+### Ergänzen und bearbeiten Ihres Exemplars
 
 Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
@@ -69,7 +69,7 @@ Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art
 
 _Bitte beachten Sie: Einige B/I-Einträge der Jahre 1551-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten)_.
 
-### 2. Überarbietung existierender RISM-Einträge
+### Überarbeitung existierender RISM-Einträge der Serien A/I und B/I
 
 Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
@@ -82,7 +82,7 @@ Die aus den gedruckten RISM [A/I](/publications.html#c36) (Einzeldrucke vor 1800
 
 Darüber hinaus gibt e jetzt auch viele andere Drucke, die nicht in den gedruckten RISM-Bänden enthalten waren (vor allem nach 1800), die aber in der Zwischenzeit von RISM-Mitarbeitern eingegebent wurden. Sie sind in der Regel an der RISM ID zu erkennen, die mit 1001 beginnt, sowie an der Angabe einer Bibliothek im Feld "Copy used for cataloging" (588). Diese Datensätze müssen nicht überarbeitet werden; fügen Sie einfach Ihr Exemplar hinzu.
 
-### 3. Neue Musikdrucke hinzufügen
+### Neue Musikdrucke hinzufügen
 
 Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
@@ -91,6 +91,18 @@ Wenn Ihr Musikdruck nicht in den Bereich der Serien A/I und B/I fällt, ist er v
 **Einige Einschränkungen**
 
 Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können. (Diese Datensätze wurden mit Vorgängerprogrammen von Muscat erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info)) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
+
+
+### Datensätze aus dem RISM Sserien B/II oder B/VI ergänzen
+
+Die [RISM Serie B](/publications.html#series-b-bibliographies-organized-by-topic) enthält zwei Verzeichnisse gedruckter musikalischer Quellen, die noch nicht systematisch in Muscat aufgenommen wurden: B/II _Recueils imprimés, XVIIIe siècle_ (veröffentlicht 1964) und B/VI _Écrits imprimés concernant la musique_ (2 Bände, 1971).
+Da es derzeit keine Pläne für einen Import dieser Bücher gibt, können RISM-Mitarbeiter gerne Datensätze aus diesen Publikationen erfassen. Bitte beachten Sie die folgenden Hinweise::
+1. Einige Datensätze aus diesen Reihen befinden sich bereits in Muscat. Prüfen Sie dies bitte immer zuerst, bevor Sie einen neuen Datensatz anlegen. Weder B/II noch B/VI haben eindeutige Identifikatoren, so dass die Suche nach der Seitenzahl schwierig ist.
+2. Es gibt einige (weniger als 1.000) Dubletten zwischen A/I und B/II, so dass Sie möglicherweise Datensätze aus B/II sehen, die auch A/I-Nummern haben. Fügen Sie Ihre Bestände einfach dem A/I-Datensatz hinzu.
+3. Die meisten B/II- und B/VI-Einträge befinden sich jedoch nicht in Muscat, so dass Sie wahrscheinlich einen neuen Eintrag anlegen müssen.
+4.  Wenn Sie einen neuen Datensatz anlegen, ist es **sehr wichtig**, dass Sie den Verweis auf das Buch in das Feld RISM-Serieb (510) eintragen. Dies hilft den Mitarbeitern der Zentralredaktion, die neuen Datensätze zu finden und zusätzliche Bestände hinzuzufügen. Verwenden Sie nicht das Feld Literaturverweis (691), um auf das Vorhandensein des Drucks in der RISM-Reihe hinzuweisen.
+5. Wenn Sie Einträge aus anderen RISM B-Serien hinzufügen möchten, setzen Sie sich bitte mit der Zentralredaktion in Verbindung, um dies zu koordinieren.
+6. Wenn Sie Fragen dazu haben oder Ihren Druck nicht finden können, wenden Sie sich bitte an uns und wir werden Ihnen weiterhelfen.
 
 
 # Trainingsserver
