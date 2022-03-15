@@ -39,7 +39,7 @@ Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) h
 
 * **B/I**: François Lesure, *Recueils imprimés, XVIe-XVIIe siècles* (1960).
 * **B/II**: François Lesure, *Recueils imprimés, XVIIIe siècle* (1964)
-  - Supplement zu B/II, siehe [Lesure (1972)](/publications/bibliography.html#c2174).
+  - Supplement zu B/II, siehe [Lesure (1972)](/publications/bibliography.html#c1970).
 
 **B/III**: The Theory of Music from the Carolingian Era up to c. 1500. Descriptive Catalogue of Manuscripts (6 Bände).
 
@@ -65,13 +65,13 @@ Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) h
 * **B/V/2:** Nancy van Deusen, *Katalog der mittelalterlichen Sequenzen* [in preparation].
 
 **B/VI**: Ecrits Imprimés Concernant la musique (2 Bände).
-Supplement zu B/VI, siehe [Lesure (1979)](/publications/bibliography.html#c2174).
+Supplement zu B/VI, siehe [Lesure (1979)](/publications/bibliography.html#c1970).
 
 * **B/VI/1:** François Lesure, *Écrits imprimés concernant la musique (A-L)*, 1971.
 * **B/VI/2:** François Lesure, *Écrits imprimés concernant la musique (M-Z)*, 1971.
 
 **B/VII**: Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts (1 Band).
-Supplement zu B/VII, siehe [Boetticher (1979)](/publications/bibliography.html#c2174) and [Fabris (1982)](/publications/bibliography.html#c2159).
+Supplement zu B/VII, siehe [Boetticher (1979)](/publications/bibliography.html#c1970) and [Fabris (1982)](/publications/bibliography.html#c1980).
 
 * **B/VII/1:** Wolfgang Boetticher, *Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts*, 1978.
 
@@ -141,7 +141,7 @@ Kanada und die Vereinigten Staaten
 Israel, Japan und Ozeanien
 
 * **C/IV:** Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of music research libraries. Band 4: Australien, Israel, Japan, Neuseeland*, 1979.
-  - Als Supplement zu C/IV, siehe [Siddons (1986)](/publications/bibliography.html#c2159).
+  - Als Supplement zu C/IV, siehe [Siddons (1986)](/publications/bibliography.html#c1980).
 
 Osteuropa
 
@@ -160,4 +160,4 @@ Die RISM-Bibliothekssigel sind ab sofort [über die Website des RISM](/community
   - Böker-Heil, Norbert / Heckmann, Harald / Kindermann, Ilse: Das Tenorlied. Mehrstimmige Lieder in deutschen Quellen 1450-1580. Band 3: Register, 1986.
 
 * *RISM-Bibliothekssigel. Gesamtverzeichnis*, bearbeitet von der Zentralredaktion in den Ländergruppen des RISM, München und Kassel: G. Henle und Bärenreiter, 1999.  
-Das Verzeichnis wird regelmäßig aktualisiert und ist [heute online suchbar](/community/sigla.html)
+Das Verzeichnis wird regelmäßig aktualisiert und ist [online verfügbar](/community/sigla.html)
