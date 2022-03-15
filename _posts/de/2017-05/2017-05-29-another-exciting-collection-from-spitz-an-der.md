@@ -11,7 +11,7 @@ email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-_Die nachfolgende Mitteilung stammt von Gottfried Heinz-Kronberger ([RISM Deutschland, Arbeitsstelle München](http://de.rism.info/de/home.html){:target="_blank"}):_
+_Die nachfolgende Mitteilung stammt von Gottfried Heinz-Kronberger ([RISM Deutschland, Arbeitsstelle München](https://de.rism.info/de/index.html){:target="_blank"}):_
 
 
 Kurz nach Abschluss der Arbeiten am [Niederalteicher](/rediscovered/2016/06/20/an-exciting-collection.html){:target="_blank"} Bestand ([RISM-Sigel: D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}) ergab sich das überraschende Angebot, einen weiteren Teilbestand, der vor Kurzem direkt in Spitz a. d. D. wiedergefunden worden war, zu erfassen und somit einen bisher nicht gekannten Teil von über 230 Musikalien zu erschließen.
