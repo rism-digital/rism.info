@@ -11,7 +11,7 @@ email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---
 
-_We have received the following from Steffen Voss ([RISM Germany](http://de.rism.info/de/home/){:target="_blank"}):_
+_We have received the following from Steffen Voss ([RISM Germany](https://de.rism.info/index.html){:target="_blank"}):_
 
 This year marks the 175th anniversary of the death of Peter Huber, known as Müllner-Peter, the "Milner Peter from Sachrang" (1766-1843). Huber owned a mill in the small mountain village of Sachrang in the Chiemgau region of Bavaria and was particularly committed to the musical life of his community. For several years, he worked as a part-time choirmaster and organist, and for many years he collected and copied an extensive music collection, which included mostly sacred works as well as dance music, instrumental chamber music, and a few secular vocal works.
 
