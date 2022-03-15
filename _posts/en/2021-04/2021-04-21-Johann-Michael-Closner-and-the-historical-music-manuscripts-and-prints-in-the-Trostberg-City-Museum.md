@@ -10,7 +10,7 @@ email: helmut.lauterwasser@bsb-muenchen.de
 author: 'Helmut Lauterwasser'
 ---
 
-_We have received the following from our colleague Helmut Lauterwasser ([RISM Germany](http://de.rism.info/de/home.html)):_  
+_We have received the following from our colleague Helmut Lauterwasser ([RISM Germany](https://de.rism.info/index.html)):_  
 
 One of the most important tasks for RISM is to catalog historical sources of music also in small libraries, archives, and museums. In extreme cases one encounters collections that contain very few historical music sources, sometimes only a single one of them. Such institutions have, as a rule, no professional or personal resources that could allow for an appropriate, musicologically competent cataloguing of their musical sources. This holds true for countries that have been centrally governed for centuries, but even more so for Germany, which was split up into a number of small states and principalities up until the 20th century. For music historians, however, these holdings constitute an important building block. Firstly, because they often feature compositions that have never been disseminated beyond their immediate environment, and are accordingly not known from any other source; and, secondly, since they time and again include manuscript copies that shed light on the transmission and reception of works by great composers.
 
