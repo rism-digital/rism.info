@@ -989,6 +989,9 @@ YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438)
 
+"Zur Situation der Archive in der Ukraine", in: MGG Online, 2. März 2022. [Online verfügbar](https://www.mgg-online.com/news?id=d4c65a27-1254-451a-819e-8ce8db7f042d){:blank}.
+
+
 ##### Anmerkung:
 
 Weitere Informationen über die Arbeit des RISM bieten folgende Publikationen:
