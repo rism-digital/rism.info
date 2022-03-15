@@ -60,7 +60,7 @@ Dokumentation und Beispiele zur SRU-Schnittstelle finden Sie [hier](https://gith
 
 ## Datenaustausch
 
-Sofern Ihre Daten in strukturierter Form vorliegen, können diese als Service des RISM in MarcXML umgewandelt und in den Gesamtpool eingespielt werden. Bisher wurden Konvertierungen von MS Access-Datenbanken, MS Word-Dokumenten und Reintext-Dateien umgesetzt. Ein Konverter für Unimarc ist in Vorbereitung. Die Konvertierungsprozesse werden über die eigene RISMToolkit-Anwendung transparent webbasiert präsentiert.
+Sofern Ihre Daten in strukturierter Form vorliegen, können diese als Service des RISM in MarcXML umgewandelt und in den Gesamtpool eingespielt werden. Bisher wurden Konvertierungen von MS Access-Datenbanken, MS Word-Dokumenten und Reintext-Dateien umgesetzt. Ein Konverter für Unimarc ist in Vorbereitung. Der Konvertierungsprozess ist einfach und webbasiert: Über unsere eigene RISM-Toolkit-Anwendung wird die importierte Datei in einer Testumgebung angezeigt, bevor sie in den größeren Datenpool aufgenommen wird.
 
 ## Katalogausdruck von RISM-Daten
 
