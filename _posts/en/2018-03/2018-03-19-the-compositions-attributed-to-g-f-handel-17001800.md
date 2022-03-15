@@ -13,7 +13,7 @@ author: ''
 
 This one is new to our bookshelves:
 
-Hans Joachim Marx and [Steffen Voss](http://de.rism.info/de/mitarbeiter/dr-steffen-voss.html#c3002){:target="_blank"}, _Die G. F. Händel zugeschriebenen Kompositionen, 1700-1800 / The Compositions Attributed to G. F. Handel, 1700-1800 (HWV Anh. B)_ ([Hildesheim: Olms, 2017](http://www.olms.de/search/Detail.aspx?pr=2008841){:target="_blank"}). ISBN: 978-3-487-15483-1.
+Hans Joachim Marx and [Steffen Voss](https://de.rism.info/team/dr-steffen-voss.html#c3002){:target="_blank"}, _Die G. F. Händel zugeschriebenen Kompositionen, 1700-1800 / The Compositions Attributed to G. F. Handel, 1700-1800 (HWV Anh. B)_ ([Hildesheim: Olms, 2017](http://www.olms.de/search/Detail.aspx?pr=2008841){:target="_blank"}). ISBN: 978-3-487-15483-1.
 
 This book is the result of a project called “Händel-Incerta,” or works of uncertain Handel authorship, which was funded by the Deutsche Forschungsgemeinschaft from 1999 to 2003. Now we have a systematic appraisal of the compositions attributed to Handel. The book supplements the _Händel-Handbuch_ which appeared between 1978 and 1986 ([_Thematisch-systematisches Verzeichnis der Werke Händels_, HWV](https://opac.rism.info/search?View=rism&q=HWV&Language=en){:target="_blank"}) by Bernd Baselt and has the abbreviation [HWV Anh. B](https://opac.rism.info/search?View=rism&q=HWV+Anh.&Language=en){:target="_blank"}.
 
