@@ -10,7 +10,7 @@ email: helmut.lauterwasser@bsb-muenchen.de
 author: 'Helmut Lauterwasser'
 ---
 
-_Der folgende Beitrag stammt von unserem Kollegen Helmut Lauterwasser ([RISM Deutschland](http://de.rism.info/de/home.html)):_  
+_Der folgende Beitrag stammt von unserem Kollegen Helmut Lauterwasser ([RISM Deutschland](https://de.rism.info/de/index.html)):_  
 
 Zu den wichtigsten Aufgaben des RISM gehört die Katalogisierung historischer Musikquellen gerade auch in kleineren Bibliotheken, Archiven und Museen. Im Extremfall gibt es Bestände, die nur ganz wenige, manchmal sogar nur eine einzige historische Musikquelle aufbewahren. Diese Institutionen verfügen meist über keine fachlichen und personellen Ressourcen, die es erlauben würden, Musikalien wissenschaftlich fundiert und angemessen zu erschließen. Dies gilt für das bis ins 20. Jahrhundert hinein in zahlreiche Kleinstaaten und Fürstentümer aufgesplitterte Deutschland sogar noch mehr als für viele andere Länder, die seit Jahrhunderten zentralistisch regiert wurden. Für die Musikgeschichtsschreibung sind diese Bestände aber ein wichtiger Baustein, zum einen weil sie oft Unikate von Musikwerken enthalten, die nie über einen lokal eng begrenzten Raum hinaus Verbreitung gefunden haben, zum andern weil sich darin immer wieder auch Abschriften finden, die für die Quellenlage und Rezeption von Werken großer Komponisten bedeutend sind.
 
