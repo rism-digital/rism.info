@@ -35,7 +35,7 @@ _Series A is entirely [available free online](https://opac.rism.info/metaopac/st
 
 Series A/I documents printed music published between 1500 and 1800 that holds the work of a single composer. At over 100,000 entries, this is the most comprehensive source available for printed musical works. A CD-ROM that incorporates all of the printed volumes was released in 2011. The contents of the CD-ROM were added to the [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} in 2015.
 
-_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#c2159)_.
+_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#c1980)_.
 
 **A/II: Music Manuscripts after 1600.** Database index, 1984-1986 (2 microfiches); annual CD-ROM, 1996-2008 (Munich: K. G. Saur Verlag); [free online database](http://opac.rism.info/){:target="_blank"} since 2010 (RISM Zentralredaktion). Also available as a subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008).
 
@@ -56,7 +56,7 @@ Includes about 4,500 printed collections (anthologies). An index of composers in
 
 * **B/II**: François Lesure, _Recueils imprimés, XVIIIe siècle_ (1964)
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
-  - For a supplement to B/II, see [Lesure (1972)](/publications/bibliography.html#c2174).
+  - For a supplement to B/II, see [Lesure (1972)](/publications/bibliography.html#c1970).
 
 ### B/III: The theory of music from the Carolingian Era up to c.1500
 
@@ -113,7 +113,7 @@ Attempts to bring together all literature concerning music 1474-1800, whether th
 
 More than 2,000 publications from the Library of Congress (US-Wc) reported in these volumes are digitized and available online through the collection [Books About Music Before 1800](https://www.loc.gov/collections/books-about-music-before-1800/){:target="_blank"}.
 
-For a supplement to B/VI, see [Lesure (1979)](/publications/bibliography.html#c2174).
+For a supplement to B/VI, see [Lesure (1979)](/publications/bibliography.html#c1970).  
 
 * **B/VI/1:** François Lesure, _Écrits imprimés concernant la musique (A-L)_, 1971.
 * **B/VI/2:** François Lesure, _Écrits imprimés concernant la musique (M-Z)_, 1971.
@@ -122,7 +122,7 @@ For a supplement to B/VI, see [Lesure (1979)](/publications/bibliography.html#c2
 
 A descriptive catalog of all manuscripts handed down in lute and guitar tablature. Countries included: Argentina, Austria, Belgium, Czechoslovakia, Denmark, East Germany, France, Great Britain, Hungary, Ireland, Italy, Japan, Mexico, Netherlands, Norway, Poland, Spain, Sweden, Switzerland, United States, USSR, West Germany, Yugoslavia.
 
-For a supplement to B/VII, see [Boetticher (1979)](/publications/bibliography.html#c2174) and [Fabris (1982)](/publications/bibliography.html#c2159).
+For a supplement to B/VII, see [Boetticher (1979)](/publications/bibliography.html#c1970) and [Fabris (1982)](/publications/bibliography.html#c1980).
 
 * **B/VII/1:** Wolfgang Boetticher, _Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts_, 1978.
 
@@ -223,7 +223,7 @@ This series was based on Rita Benton, ed.,  _Directory of Music Research Librari
 
 * **C/IV:** Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, _Directory of music research libraries. Volume 4: Australia, Israel, Japan, New Zealand_, 1979.
 
-  - For a supplement to C/IV, see [Siddons (1986)](/publications/bibliography.html#c2159).
+  - For a supplement to C/IV, see [Siddons (1986)](/publications/bibliography.html#c1980).
 
 ### Eastern Europe
 
@@ -236,5 +236,5 @@ This series was based on Rita Benton, ed.,  _Directory of Music Research Librari
   - Volume 2: Handschriften, 1982.
   - Volume 3: Register, 1986.
 
-* _RISM-Bibliothekssigel: Gesamtverzeichnis_ (RISM library sigla). Munich: Henle, 1998.  
+* _RISM-Bibliothekssigel: Gesamtverzeichnis_ (RISM library sigla: Complete index). Munich: Henle, 1998.  
 A searchable edition is available [through the Online Directory of RISM Library Sigal](/community/sigla.html) on this website.
