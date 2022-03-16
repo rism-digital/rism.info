@@ -11,7 +11,7 @@ email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
 
-_This post is by Andrea Hartmann of [RISM Germany–Dresden Office](http://de.rism.info/en/home.html){:target="_blank"}:_
+_This post is by Andrea Hartmann of [RISM Germany–Dresden Office](https://de.rism.info/){:target="_blank"}:_
 
 We would like to call your attention to a small exhibition that is part of this year's festival of Baroque music in Grimma (near Leipzig), [Tage Mitteldeutscher Barockmusik](http://www.unmittelbarock.de/){:target="_blank"}.
 
