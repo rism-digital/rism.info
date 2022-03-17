@@ -333,7 +333,7 @@ Webseite: [http://www.musikland-tirol.at](http://www.musikland-tirol.at){:targe
 Siehe auch: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/working-groups/austria/innsbruck/home.html){:blank}
 
 #### RISM Arbeitsgruppe Salzburg
-Webseite: [http://salzburg.rism.info/en/home.html](http://salzburg.rism.info/en/home.html){:blank}
+Webseite: [https://salzburg.rism.info/de/index.html](https://salzburg.rism.info/de/index.html){:blank}
 
 MMag. Dr. Eva Neumayr\  
 Archiv der Erzdiözese Salzburg, Musiksammlung (und Internationale Stiftung Mozarteum)\

@@ -11,7 +11,7 @@ email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---
 
-_Folgenden Beitrag erhielten wir von__Steffen Voss ([RISM Deutschland](http://de.rism.info/de/home/){:target="_blank"}):_
+_Folgenden Beitrag erhielten wir von__Steffen Voss ([RISM Deutschland](https://de.rism.info/de/index.html){:target="_blank"}):_
 
 In diesem Jahr wird des 175. Todestages von Peter Huber, des „Müllner-Peter von Sachrang“ (1766-1843), gedacht. Huber war Mühlenbesitzer in dem kleinen Chiemgauer Bergdorf, und setzte sich besonders für das Musikleben seiner Gemeinde ein. Er wirkte für mehrere Jahre nebenamtlich als Chorregent und Organist, und sammelte und kopierte über viele Jahre hinweg eine umfangreiche Musikaliensammlung, die neben überwiegend geistlichen Werken auch Tanzmusik, instrumentale Kammermusik und wenige weltliche Vokalwerke enthielt.
 

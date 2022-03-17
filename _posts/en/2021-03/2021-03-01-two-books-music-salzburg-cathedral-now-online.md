@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-The newest issue of [_Fontes Artis Musicae_](https://muse.jhu.edu/issue/43682){:blank} caught our eye because it contains reviews of two recent publications involving our [RISM Salzburg working group](http://salzburg.rism.info/home.html).  
+The newest issue of [_Fontes Artis Musicae_](https://muse.jhu.edu/issue/43682){:blank} caught our eye because it contains reviews of two recent publications involving our [RISM Salzburg working group](https://salzburg.rism.info/index.html).  
 
 * _Dommusikarchiv Salzburg (A-Sd). Thematischer Katalog der musikalischen Quellen, Reihe A_. Edited by Eva Neumayr and Lars E. Laubhold with Ernst Hintermaier, RISM Arbeitsgruppe Salzburg. Vienna: [Hollitzer Verlag](http://www.hollitzer.at/buch/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/){:blank}, 2018.  
 

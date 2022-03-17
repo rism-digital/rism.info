@@ -963,19 +963,21 @@ Ward, Jennifer A.: RISM en América Latina: proyectos colaborativos para la docu
 
 #### 2021  
 
-Aslanidi, Maria / Aris Bazmadelis / Arsinoi Ioannidou: The Greek RISM Office: Describing Byzantine Music-Related Resources and Other Projects, in: Fontes Artis Musicae 68 (2021), no. 3, S. 256-266. [Online verfügbar](https://muse.jhu.edu/article/810848){:blank}.
+Aslanidi, Maria / Aris Bazmadelis / Arsinoi Ioannidou: The Greek RISM Office: Describing Byzantine Music-Related Resources and Other Projects, in: Fontes Artis Musicae 68 (2021), no. 3, S. 256-266. [Online verfügbar](https://muse.jhu.edu/article/810848){:blank}
 
 Walter-Mazur, Magdalena. The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (Compiled in cooperation with RISM)
 
 Giglberger, Veronika / Lutz, Bernhard: Wasserzeichen in Musikhandschriften. Ein Erschliessungsprojekt an der Bayerischen Staatsbibliothek, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 16 (2021), Heft 1, S. 79-83. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2021_1.pdf){:target="_blank"}
 
-Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, Mai 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank}.  
+Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und das Engelskonzert im Zisterzienserstift Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, Mai 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1597-die-vision-des-hl-bernhard-vom-klosterbau-und-das-engelskonzert-im-zisterzienserstift-stams){:blank} 
 
-Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
+Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}  
 
-Vojčáková, Veronika: Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou, in: Opera Plus, 4. Dezember 2021. [Online verfügbar](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}
+Loos, Helmut: Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis, in: Lithuanian Musicology / Lietuvos muzikologija 22 (2021), S. 24–33. [Online verfügbar](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}
 
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
+
+Vojčáková, Veronika: Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou, in: Opera Plus, 4. Dezember 2021. [Online verfügbar](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}
 
 Ward, Jennifer A.: RISM and Digital Research with Historical Musical Sources, in: Nota Bene: Studies from the National Library of Norway. Vol. 15,  Notated Music in the Digital Sphere, hrsg. von Margrethe Støkken Bue und Annika Rockenberger, Oslo: National Library of Norway, 2021, S. 20-34. [Online verfügbar](https://issuu.com/nasjonalbiblioteket/docs/nota_bene_15_layout_issuu){:blank} 
 

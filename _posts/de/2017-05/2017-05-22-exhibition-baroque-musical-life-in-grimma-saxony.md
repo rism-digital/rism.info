@@ -11,7 +11,7 @@ email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---
 
-_Dieser Beitrag stammt von Andrea Hartmann ([RISM Deutschland - Arbeitsstelle Dresden](http://de.rism.info/en/home.html){:target="_blank"}:_
+_Dieser Beitrag stammt von Andrea Hartmann ([RISM Deutschland - Arbeitsstelle Dresden](https://de.rism.info/de/index.html){:target="_blank"}:_
 
 Hingewiesen sei auf eine kleine Sonderausstellung im Rahmen der diesjährigen [Tage Mitteldeutscher Barockmusik](http://www.unmittelbarock.de/){:target="_blank"} in Grimma (bei Leipzig).
 
