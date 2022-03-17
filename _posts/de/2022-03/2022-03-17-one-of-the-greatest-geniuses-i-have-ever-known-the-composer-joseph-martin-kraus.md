@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '„… eines der größten Genies, die ich je gekannt habe…': Der Komponist Joseph Martin Kraus“'
+title: '„… eines der größten Genies, die ich je gekannt habe…“: Der Komponist Joseph Martin Kraus'
 date: 2022-03-17
 lang: de
 post: true
