@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "’One of the greatest geniuses I have ever known…’: The composer Joseph Martin Kraus"
+title: '“One of the greatest geniuses I have ever known…”: The composer Joseph Martin Kraus'
 date: 2022-03-17
 lang: en
 post: true
