@@ -10,7 +10,8 @@ email: ''
 author: 'Wolfram Enßlin'
 ---
 
-Dieser Beitrag stammt von Wolfram Enßlin, erschien zuerst im [Carus-Blog]( https://blog.carus-verlag.com/persoenlichkeiten/der-komponist-joseph-martin-kraus/){:blank} und wird hier mit freundlicher Genehmigung wiederabgedruckt. 
+Dieser Beitrag stammt von Wolfram Enßlin, erschien zuerst im [Carus-Blog]( https://blog.carus-verlag.com/persoenlichkeiten/der-komponist-joseph-martin-kraus/){:blank} und wird hier mit freundlicher Genehmigung wiederabgedruckt.
+
 _„Welcher Verlust ist nicht dieses Mannes Tod. Ich besitze von ihm eine Sinfonie, die ich zur Erinnerung an eines der größten Genies, die ich je gekannt habe, aufbewahre.“_
 
 Kein Geringerer als Joseph Haydn sagte dies über Joseph Martin Kraus, einen der interessantesten und spannendsten Künstlerpersönlichkeiten in der zweiten Hälfte des 18. Jahrhunderts, der aufgrund der nahezu gleichen Lebensdaten wie Mozart auch als der „badische“ bzw. „Odenwälder Mozart“ bezeichnet wird. Bei der von Haydn angesprochenen Sinfonie handelt es sich um die [_Sinfonie c-Moll_](https://opac.rism.info/search?View=rism&q=boek+142){:blank} VB2 142 (VB2 = 2. Auflage des Kraus-Werkverzeichnisses nach Bertil van Boer 1998), in der Tat eine der faszinierendsten und packendsten sinfonischen Kompositionen und stilistisch sehr stark noch der Epoche des Sturm und Drangs verbunden, wie überhaupt Kraus in seinem Wesen und in seinem Künstlertum ein Mann des Sturm und Drangs war.
