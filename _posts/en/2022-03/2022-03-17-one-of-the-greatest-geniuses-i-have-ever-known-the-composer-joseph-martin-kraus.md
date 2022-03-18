@@ -4,7 +4,7 @@ title: '“One of the greatest geniuses I have ever known…”: The composer Jo
 date: 2022-03-17
 lang: en
 post: true
-category: in_memoriam
+category: rism_a_z
 image: "/images/news/2022-03/kraus-ensslin-carus.jpg"
 email: ''
 author: 'Wolfram Enßlin'
