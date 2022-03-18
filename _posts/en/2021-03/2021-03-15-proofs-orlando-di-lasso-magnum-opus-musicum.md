@@ -10,7 +10,7 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: 'Gottfried Heinz-Kronberger and Bernhold Schmid'
 ---
 
-_We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](http://de.rism.info/de/home.html)):_  
+_We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](https://de.rism.info/)):_  
 
 An exciting discovery was made in the course of a scoping study of fragments in the [Archives of the Bavarian State](https://www.gda.bayern.de/english/){:break}. This is not the first gem to be uncovered from the Fragment Collection. In 2018, parts of a sonata for two violins and basso continuo by Johann Caspar Teubner from 1695 were found (BayHStA, Fragmentensammlung Vorl. Nr. 176). In the course of cataloging work, the fragments of the printed music edition discussed here were cataloged by Dr. Sarah Hadry in 2017 and made part of the Fragment Collection. The Bavarian State Library office of RISM Germany was contacted to examine this music more closely.  
 
