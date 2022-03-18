@@ -4,7 +4,7 @@ title: '„… eines der größten Genies, die ich je gekannt habe…“: Der Ko
 date: 2022-03-17
 lang: de
 post: true
-category: in_memoriam
+category: rism_a_z
 image: "/images/news/2022-03/kraus-ensslin-carus.jpg"
 email: ''
 author: 'Wolfram Enßlin'
