@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-_This post comes to us from Helmut Lauterwasser of [RISM Germany](http://de.rism.info/de/home.html){:target="_blank"}:_
+_This post comes to us from Helmut Lauterwasser of [RISM Germany](https://de.rism.info/){:target="_blank"}:_
 
 Cataloging historical manuscripts in RISM has recently been completed for two important music institutions in Hanover, the capital of Lower Saxony. Though these collections are relatively small, they contain sources that are of great historical interest and significance. Both institutions loaned their items to the RISM Germany office in Munich for several months while cataloging took place.  
 
