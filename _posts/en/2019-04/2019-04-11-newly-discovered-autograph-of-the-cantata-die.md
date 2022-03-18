@@ -11,7 +11,7 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-_We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](http://de.rism.info/de/home.html){:target="_blank"}):_
+_We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](https://de.rism.info/){:target="_blank"}):_
 
 An autograph manuscript by Engelbert Humperdinck (1854-1921) has been discovered in the library collections of the Universität der Künste in Berlin: the dramatic cantata _Die Fischerin_ for three solo voices and orchestra with words by Johann Wolfgang von Goethe, which previously had only been known in fragments.
 
