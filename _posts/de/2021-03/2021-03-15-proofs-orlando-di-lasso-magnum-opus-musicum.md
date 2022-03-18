@@ -10,7 +10,7 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: 'Gottfried Heinz-Kronberger und Bernhold Schmid'
 ---
 
-_Den folgenden Beitrag erhielten wir von Gottfried Heinz-Kronberger ([RISM Deutschland](http://de.rism.info/de/home.html)):_  
+_Den folgenden Beitrag erhielten wir von Gottfried Heinz-Kronberger ([RISM Deutschland](https://de.rism.info/de/index.html)):_  
 
 Im Rahmen der Sichtung von Fragmenten im [Bayerischen Hauptstaatsarchiv](https://www.gda.bayern.de/english/){:break} wurde eine aufregende Entdeckung gemacht. Es ist nicht die erste Blüte, die aus diesem Fundus der Fragmentensammlung herausragt. 2018 wurden schon Teile einer Sonate für zwei Violinen und Basso Continuo von Johann Caspar Teubner aus dem Jahr 1695 gefunden (BayHStA, Fragmentensammlung Vorl. Nr. 176). Im Zuge von Erschließungsarbeiten wurden auch die vorliegenden Fragmente eines Musiknotendruckes von Dr. Sarah Hadry 2017 erfasst und der Fragmentensammlung zugeordnet. Um diese Musikalien genauer zu untersuchen wurde die deutsche Arbeitsstelle des Répertoire International des Sources Musicales (RISM) in der Bayerischen Staatsbibliothek kontaktiert. 
 
