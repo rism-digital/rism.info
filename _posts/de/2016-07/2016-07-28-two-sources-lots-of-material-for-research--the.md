@@ -11,7 +11,7 @@ email: andrea.hammes@slub-dresden.de
 author: Dr. Andrea Hammes
 ---
 
-_Die beiden unten beschriebenen Annaberger Chorbücher sind von der_ _[RISM Arbeitsgruppe in Dresden](http://de.rism.info/de/home.html){:target="_blank"} dokumentiert worden und im Online-Katalog detailliert beschrieben. Sie finden die beiden Sammelhandschriften unter den SLUB-Signaturen D-Dl Mus.1-D-505_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) bzw. Mus.1-D-506_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). Desweiteren haben die Titelaufnahmen als Metadaten für das Digitalisat gedient._
+_Die beiden unten beschriebenen Annaberger Chorbücher sind von der_ _[RISM Arbeitsgruppe in Dresden](https://de.rism.info/de/index.html){:target="_blank"} dokumentiert worden und im Online-Katalog detailliert beschrieben. Sie finden die beiden Sammelhandschriften unter den SLUB-Signaturen D-Dl Mus.1-D-505_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) bzw. Mus.1-D-506_ _([Link zu RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). Desweiteren haben die Titelaufnahmen als Metadaten für das Digitalisat gedient._
 
 _Den folgenden Beitrag erschien zuerst im_ _[SLUBlog](http://blog.slub-dresden.de/beitrag/2016/07/19/zwei-quellen-viel-futter-fuer-die-forschung-annaberger-chorbuecher-digital/){:target="_blank"}. Wir übernehmen ihn mit freundlicher Genehmigung._
 
