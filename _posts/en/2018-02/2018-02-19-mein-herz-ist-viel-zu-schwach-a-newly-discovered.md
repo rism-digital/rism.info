@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-_We have received the following from Helmut Lauterwasser ([RISM Germany, Munich](http://de.rism.info/en/home.html){:target="_blank"}):_
+_We have received the following from Helmut Lauterwasser ([RISM Germany, Munich](https://de.rism.info/){:target="_blank"}):_
 
 In 2017, numerous concerts and other events marked the 250th anniversary of Georg Philipp Telemann's death, especially in the places where he lived and worked. In [_CONCERTO_](http://concerto-magazin.de/index.php/aktuelle-ausgabe/items/concerto-das-magazin-fuer-alte-musik-nr-277-januarfebruar-2018.html){:target="_blank"} magazine's first issue of 2018, there is an article about a previously unknown aria from a lost Telemann opera that was discovered in the course of RISM research last year in the Braunschweig City Archive.
 

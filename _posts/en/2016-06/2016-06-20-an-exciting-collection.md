@@ -11,7 +11,7 @@ email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---
 
-_The following article has reached us from Gottfried Heinz-Kronberger of [RISM Germany](http://de.rism.info/de/home.html){:target="_blank"}:_
+_The following article has reached us from Gottfried Heinz-Kronberger of [RISM Germany](https://de.rism.info/){:target="_blank"}:_
 
 The music collection from Spitz an der Donau in Austria is preserved in the archives of the Benedictine Abbey Niederaltaich ([D-NATk](https://opac.rism.info/search?View=rism&siglum=D-NATk){:target="_blank"}) in southeast Germany. This arrangement has a historical reason. Niederaltaich Abbey, which was founded in 741, stretched its circle of influence along the Danube River into the Wachau region of Austria (where Spitz is located) in the course of Carolingian rule. In a letter dated 6 October 830 Louis the German confirms a gift of the region around Spitz to the abbey. The Spitz provost district was then in possession of Niederaltaich Abbey until secularization in 1803. For a closer examination, see Erich Schöner's two-volume _Geschichte des Marktes Spitz a. d. Donau_ (1979). Niederaltaich Abbey was not reestablished until 1918.
 
