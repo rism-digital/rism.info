@@ -36,7 +36,7 @@ These are some of the music websites and collections that have been preserved th
 
 - [МАЛА УКРАЇНСЬКА МУЗИЧНА ЕНЦИКЛОПЕДІЯ](http://diasporiana.org.ua/wp-content/uploads/books/2176/file.pdf){:blank} / Concise Encyclopedia of Ukrainian Music ([Internet Archive](https://web.archive.org/web/20190809061656/http://diasporiana.org.ua/wp-content/uploads/books/2176/file.pdf){:blank})                      	
 
-- [Українське музикознавство](http://musicology.com.ua/){:blank} / Ukranian Musicology, a journal ([Internet Archive](https://web.archive.org/web/20220307092831/http://musicology.com.ua/){:blank})
+- [Українське музикознавство](http://musicology.com.ua/){:blank} / Ukrainian Musicology, a journal ([Internet Archive](https://web.archive.org/web/20220307092831/http://musicology.com.ua/){:blank})
 
 - [Музично-інформаційний центр](http://anm.odessa.ua/mic/mic-main.html){:blank} / МІЦ Одеса Україна/ Music Information Centre Odessa Ukraine ([Internet Archive](https://web.archive.org/web/20210414173217/http://www.anm.odessa.ua/mic/u-mic-cbase.html){:blank})
 
