@@ -44,4 +44,4 @@ Dies sind einige der Musik-Webseiten und -Sammlungen, die durch SUCHO bewahrt wu
 
 - [Webseite der Musikakademie Lviv](https://lnma.edu.ua/){:blank} ([Internet Archive](https://web.archive.org/web/20220226162231/https://lnma.edu.ua/){:blank})
 
-_Image_: Umschlag zu einer Sammlung von ukrainischen Liedern, Великий співаник "Червоної калини", Lviv, 1937.  [Originallink über die Digitale Bibliothek des historischen und kulturellen Erbes der Nationalbibliothek der Ukraine](http://irbis-nbuv.gov.ua/dlib/item/0002218){:blank}, [archivierte Kopie über Internet Archive](https://archive.org/details/sucho-id-00004892/00004892_01/mode/2up){:blank}.
+_Abbildung_: Umschlag zu einer Sammlung von ukrainischen Liedern, Великий співаник "Червоної калини", Lviv, 1937.  [Originallink über die Digitale Bibliothek des historischen und kulturellen Erbes der Nationalbibliothek der Ukraine](http://irbis-nbuv.gov.ua/dlib/item/0002218){:blank}, [archivierte Kopie über Internet Archive](https://archive.org/details/sucho-id-00004892/00004892_01/mode/2up){:blank}.
