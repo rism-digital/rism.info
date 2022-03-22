@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rescuing Music Data: Saving Ukrainian Cultural Heritage Online (SUCHO)"
-date: 2022-003-22
+date: 2022-03-22
 lang: en
 post: true
 category: electronic_resources
