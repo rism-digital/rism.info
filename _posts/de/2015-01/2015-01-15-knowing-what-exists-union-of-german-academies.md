@@ -11,7 +11,7 @@ email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---
 
-_Dieser Artikel stammt von unserem Kollegen Karl Wilhelm Geck von der deutschen [RISM Arbeitsgruppe](http://de.rism.info/de/home.html){:target="_blank"} und wurde in[BIS: Das Magazin der Bibliotheken in Sachsen](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-155850){:target="_blank"} 7:3 (2014), S. 179 ([CC-BY SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en){:target="_blank"}) veröffentlicht._
+_Dieser Artikel stammt von unserem Kollegen Karl Wilhelm Geck von der deutschen [RISM Arbeitsgruppe](https://de.rism.info/de/index.html){:target="_blank"} und wurde in[BIS: Das Magazin der Bibliotheken in Sachsen](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-155850){:target="_blank"} 7:3 (2014), S. 179 ([CC-BY SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en){:target="_blank"}) veröffentlicht._
 
 
 Maß der Dinge in puncto Dokumentation von Musikmanuskripten ist der Online-Verbundkatalog[http://opac.rism.info](http://opac.rism.info/){:target="_blank"}. Seit seiner Freischaltung im Jahre 2010 ist er das globale Schaufenster von RISM, ausgeschrieben Répertoire International des Sources Musicales oder Internationales Quellenlexikon der Musik. Das bislang in 34 Ländern tätige Vorhaben widmet sich der Erschließung der jeweiligen historischen Musikalien. Die hergestellten Katalogisate werden an die RISM-Zentralredaktion in Frankfurt/Main übermittelt, die sie redaktionell bearbeitet und veröffentlicht (vgl. [BIS 2010](http://www.qucosa.de/recherche/frontdoor/?tx_slubopus4frontend%5Bid%5D=6128){:target="_blank"}, H. 3, S. 180–182).

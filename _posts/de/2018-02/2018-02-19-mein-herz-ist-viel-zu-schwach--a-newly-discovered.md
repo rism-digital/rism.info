@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-_Den nachfolgenden Beitrag erhielten wir von_ _Helmut Lauterwasser ([RISM Deutschland, München](http://de.rism.info/en/home.html){:target="_blank"}):_
+_Den nachfolgenden Beitrag erhielten wir von_ _Helmut Lauterwasser ([RISM Deutschland, München](https://de.rism.info/de/index.html){:target="_blank"}):_
 
 Vor allem in den Wohn- und Wirkungsorten Telemanns wurde 2017 seines 250. Todestags in zahlreichen Konzerten und sonstigen Veranstaltungen gedacht. Im kürzlich erschienenen ersten Heft des Jahres 2018 der Zeitschrift [_CONCERTO_](http://concerto-magazin.de/index.php/aktuelle-ausgabe/items/concerto-das-magazin-fuer-alte-musik-nr-277-januarfebruar-2018.html){:target="_blank"} wird nun über eine im Rahmen von RISM-Recherchen im Jahr 2017 im Stadtarchiv Braunschweig entdeckte bisher unbekannte Arie aus einer verschollenen Telemann-Oper berichtet.
 

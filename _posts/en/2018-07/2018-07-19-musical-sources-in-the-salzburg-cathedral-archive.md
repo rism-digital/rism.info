@@ -11,7 +11,7 @@ email: Eva.Neumayr@archiv.kirchen.net
 author: MMag. Dr. Eva Neumayr
 ---
 
-_We have received the following from Eva Neumayr ([RISM Salzburg](http://salzburg.rism.info/index.php?id=82)):_
+_We have received the following from Eva Neumayr ([RISM Salzburg](https://salzburg.rism.info/index.html)):_
 
 A new thematic catalog of the musical sources in the archives of the Salzburg Cathedral (RISM siglum: [A-Sd](https://opac.rism.info/search?View=rism&siglum=A-Sd&Language=en){:target="_blank"}) has been published:
 

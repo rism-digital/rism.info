@@ -11,7 +11,7 @@ email: andrea.hammes@slub-dresden.de
 author: Dr. Andrea Hammes
 ---
 
-_The two Annaberg choirbooks described below have been documented by the [RISM working group in Dresden](http://de.rism.info/de/home.html){:target="_blank"} and are detailed in the RISM online catalog. The two manuscript collections can be found at the SLUB with the shelfmarks Mus.1-D-505 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) and Mus.1-D-506 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). The RISM records were used as metadata for the choirbooks in the SLUB's digital collections._
+_The two Annaberg choirbooks described below have been documented by the [RISM working group in Dresden](https://de.rism.info/){:target="_blank"} and are detailed in the RISM online catalog. The two manuscript collections can be found at the SLUB with the shelfmarks Mus.1-D-505 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-505){:target="_blank"}) and Mus.1-D-506 ([link in RISM](https://opac.rism.info/search?View=rism&callno=Mus.1-D-506){:target="_blank"}). The RISM records were used as metadata for the choirbooks in the SLUB's digital collections._
 
 _The following post originally appeared on the [SLUBlog](http://blog.slub-dresden.de/beitrag/2016/07/19/zwei-quellen-viel-futter-fuer-die-forschung-annaberger-chorbuecher-digital/){:target="_blank"} and is published here with kind permission._
 

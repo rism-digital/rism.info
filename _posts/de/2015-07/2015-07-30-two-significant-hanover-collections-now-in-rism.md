@@ -11,7 +11,7 @@ email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---
 
-_Dieser Beistrag stammt von Helmut Lauterwasser [RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}:_
+_Dieser Beistrag stammt von Helmut Lauterwasser [RISM Deutschland](https://de.rism.info/de/index.html){:target="_blank"}:_
 
 Von zwei bedeutenden Musik-Institutionen in der niedersächsischen Landeshauptstadt Hannover sind seit kurzem die historischen Musikhandschriften vollständig im RISM-OPAC nachgewiesen. Auch wenn es sich dabei um relativ kleine Bestände handelt, beinhalten sie dennoch einige musikgeschichtlich äußerst interessante und bedeutsame Quellen. Die Musikalien wurden von den beiden Institutionen für mehrere Monate zur Bearbeitung an die Münchner Arbeitsstelle der deutschen Arbeitsgruppe nach München ausgeliehen.
 

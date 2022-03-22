@@ -11,7 +11,7 @@ email: 'geck@slub-dresden.de'
 author: 'Karl Wilhelm Geck'
 ---
 
-_This article is by our [RISM Germany](http://de.rism.info/de/home.html){:target="_blank"} colleague Karl Wilhelm Geck and has been republished from [BIS: Das Magazin der Bibliotheken in Sachsen](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-155850){:target="_blank"} 7:3 (2014), 179 ([CC-BY SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en){:target="_blank"}):_
+_This article is by our [RISM Germany](https://de.rism.info/){:target="_blank"} colleague Karl Wilhelm Geck and has been republished from [BIS: Das Magazin der Bibliotheken in Sachsen](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-155850){:target="_blank"} 7:3 (2014), 179 ([CC-BY SA](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en){:target="_blank"}):_
 
 
 Where the documentation of music manuscripts is concerned, the benchmark is the online union catalog [http://opac.rism.info](http://opac.rism.info/){:target="_blank"}. Since its release in 2010, it has been the global showcase for RISM, the Répertoire International des Sources Musicales (International Repertory of Musical Sources). The project is dedicated to cataloging the historical musical sources in the 34 countries in which it is currently active. The catalog records are sent to the RISM Central Office in Frankfurt am Main, which edits and publishes them (see [BIS 3 [2010]](http://www.qucosa.de/recherche/frontdoor/?tx_slubopus4frontend%5Bid%5D=6128){:target="_blank"}, 180–182).
