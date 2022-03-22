@@ -11,7 +11,7 @@ email: steffen.voss@bsb-muenchen.de
 author: Steffen Voss
 ---
 
-_Der folgende Beitrag stammt von Steffen Voss ([RISM Deutschland](http://de.rism.info/de/home.html){:target="_blank"}):_
+_Der folgende Beitrag stammt von Steffen Voss ([RISM Deutschland](https://de.rism.info/de/index.html){:target="_blank"}):_
 
 2010 wurde in den Räumen der [Israelitische Kultusgemeinde München und Oberbayern](http://www.ikg-muenchen.de/){:target="_blank"} eine wertvolle Musikhandschrift entdeckt: Es handelt sich um den Band _Gottesdienstliche Gesänge der Israeliten in_ _Wien_ von 1832. Die Entdecker der Handschrift Alon Schab (Haifa) und David Rees (München) stießen bei ihrem Fund auf eine kleine Sensation: Der Band enthält unter anderem die älteste Quelle zu Franz Schuberts hebräischem Psalm „_Tôw_ l'hôdôs“ DV 953; auch unter den übrigen knapp 100 liturgischen mehrstimmigen Gesängen finden sich interessante Raritäten. Kern des Repertoires bilden frühe Fassungen von Gesängen, die der Wiener Kantor Salomon Sulzer später in seinem epochalen Sammelwerk „Schir Zion“ (Wien 1840) veröffentlichte. Daneben finden sich jedoch auch Werke der Münchener Komponisten David Hessel (Sohn des Oberrabbiners der 1826 eingeweihten großen Münchener Synagoge) und Caspar Ett in der Sammlung, was auf eine rege Wechselbeziehung zwischen den großen jüdischen Gemeinden Wiens und Münchens in diesen Jahren hinweist. Vermutlich handelt es sich bei der Handschrift um Kompositionen, die Sulzer an die Münchener Gemeinde schickte. Wohl nicht ohne Zufall wurde auch der Synagogenchor der Münchener Gemeinde im Jahr 1832 gegründet, so dass man die Handschrift als „Gründungsdokument“ dieses Ensembles ansehen kann.
 

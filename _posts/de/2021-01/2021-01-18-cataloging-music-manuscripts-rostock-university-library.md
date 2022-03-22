@@ -10,7 +10,7 @@ email: miriam.roner@slub-dresden.de
 author: 'Dr. Miriam Roner'
 ---
 
-Seit Dezember 2020 werden an der [RISM-Arbeitsstelle Dresden](http://de.rism.info/de/organisation.html){:blank} die Musikhandschriften der [Universitätsbibliothek Rostock (D-ROu)](https://opac.rism.info/search?View=rism&siglum=D-ROu){:blank} erschlossen. Der Bestand umfasst ca. 950 Handschriften vom 16. bis zum 19. Jahrhundert.
+Seit Dezember 2020 werden an der [RISM-Arbeitsstelle Dresden](https://de.rism.info/de/index.html){:blank} die Musikhandschriften der [Universitätsbibliothek Rostock (D-ROu)](https://opac.rism.info/search?View=rism&siglum=D-ROu){:blank} erschlossen. Der Bestand umfasst ca. 950 Handschriften vom 16. bis zum 19. Jahrhundert.
 
 Die erste Lieferung, die zur Bearbeitung in Dresden eingetroffen ist, enthält die Musikaliensammlungen des [Erbprinzen Friedrich Ludwig von Württemberg-Stuttgart (1698-1731)](https://opac.rism.info/search?View=rism&id=pe30001153){:blank} und seiner Tochter, der [Herzogin Luise Friederike von Mecklenburg-Schwerin (1722-1791)](https://opac.rism.info/search?View=rism&id=pe30003771){:blank}.
 

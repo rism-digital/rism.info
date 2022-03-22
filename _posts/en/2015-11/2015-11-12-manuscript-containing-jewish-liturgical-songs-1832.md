@@ -11,7 +11,7 @@ email: steffen.voss@bsb-muenchen.de
 author: Steffen Voss
 ---
 
-_The following has reached us from Steffen Voss ([RISM Germany](http://de.rism.info/en/home.html){:target="_blank"}):_
+_The following has reached us from Steffen Voss ([RISM Germany](https://de.rism.info/){:target="_blank"}):_
 
 In 2010, a valuable music manuscript was discovered within the rooms of the Jewish Congregation of Munich and Upper Bavaria ([Israelitische Kultusgemeinde München und Oberbayern](http://www.ikg-muenchen.de/){:target="_blank"}): a manuscript from 1832 entitled _Gottesdienstliche Gesänge der Israeliten in Wien_, liturgical songs of the Jewish community in Vienna. The discoverers of the manuscript, Alon Schab (Haifa) and David Rees (Munich) stumbled upon a minor sensation with this find: the volume contains, among other things, the oldest source for Franz Schubert's Hebrew psalm "Tôw l'hôdôs" (D 953). But even among the 100 or so remaining liturgical polyphonic songs, there are interesting rarities. The core of the repertoire is made up of early versions of songs that the Viennese cantor Salomon Sulzer later published in his monumental collection Schir Zion (Vienna, 1840). In addition, there are also works in the collection by the Munich composers David Hessel (son of the Chief Rabbi of the Munich synagogue that was dedicated in 1826) and Caspar Ett, which points to lively interaction between the large Jewish congregations in Vienna and Munich during these years. The compositions in this manuscript were likely works that Sulzer sent to the Munich congregation. The synagogue's choir was founded--probably not coincidentally--in 1832, so one can view this manuscript as one of the founding documents of the ensemble.
 
