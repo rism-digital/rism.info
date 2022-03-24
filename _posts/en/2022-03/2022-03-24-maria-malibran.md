@@ -5,7 +5,7 @@ date: 2022-03-24
 lang: en
 post: true
 category: musical_anniversaries
-image: "/images/news/2022-02/Maria_Malibran_by_Henri_Decaisne.jpg"
+image: "/images/news/2022-03/Maria_Malibran_by_Henri_Decaisne.jpg"
 email: ''
 author: ''
 ---
