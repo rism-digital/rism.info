@@ -22,6 +22,6 @@ Dieses Buch bietet einen umfassenden Überblick über die symphonische Musik in 
 Am wertvollsten für RISM und unsere Benutzer ist vermutlich Anhang I, der "Alphabetische Katalog der britischen Symphonien bis 1945" im Band 2 der Arbeit (S. 801-1018). Diese mächtige Abteilung gibt ausführlich Auskunft über die im Hauptteil des Textes besprochenen Werke. Jeder Eintrag nennt den Namen des Komponisten und des Werks und gibt detaillierte Besetzungsangaben, die einzelnen Sätze, den Fundort des Autographs, Angaben zu Editionen, Aufführungsmaterialien, Informationen zur Erstaufführung, Tonaufnahmen, Dauer, Widmungen und den Text sofern Vokalstimmen beteiligt sind.
 
 
-Der RISM Online-Katalog nennt die Publikation für die Manuskripte in den Sekundärangaben (Kurztitel: SchaarwächterS 2015). Viele dieser Handschriften werden heute selbstverständlich in Großbritannien aufbewahrt, aber eine stattliche Zahl hat auch den Weg nach Deutschland oder in die Schweiz gefunden.
+Der RISM Online-Katalog nennt die Publikation für die Manuskripte in den Sekundärangaben (SchaarwächterS 2015](https://opac.rism.info/search?View=rism&q=SchaarwächterS+2015){:target="_blank"})). Viele dieser Handschriften werden heute selbstverständlich in Großbritannien aufbewahrt, aber eine stattliche Zahl hat auch den Weg nach Deutschland oder in die Schweiz gefunden.
 
 Bitte beachten Sie auch die Rezension auf [info-netz-musik](http://info-netz-musik.bplaced.net/?p=13682){:target="_blank"}.

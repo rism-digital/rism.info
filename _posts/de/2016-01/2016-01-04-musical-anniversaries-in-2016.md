@@ -48,18 +48,15 @@ Einige weitere Jubilare sind:
 Wir haben die Datenbank nach Personen durchsucht, die im Geburts- oder Sterbejahr die Endziffern 16 oder 66 aufweisen. Weiter unten zeigen wir Ihnen Namen von [Luigi **A**bbiate](https://opac.rism.info/search?View=rism&author=Luigi+Abbiate){:target="_blank"} (1866-1933) bis [**Z**ygmunt III Waza](https://opac.rism.info/search?id=452507522){:target="_blank"} (auch Sigismund III von Polen; 1566-1632). Die Zeitspanne reicht vom 800. Todestag von Papst Innocenz III. (ca. 1160-1216) – Textverfasser des Hymnus [_Eia Phoebe nunc serena_](https://opac.rism.info/search?id=454000421){:target="_blank"} – bis hin zum Tenor Fritz Wunderlich (50. Todestag), der bei RISM mit seinem Walzer „[_Abends unterm Sternenzelt_](https://opac.rism.info/search?id=457000441){:target="_blank"}“ vertreten ist.
 
 
-**Geboren in xx16 oder xx66 (zum Sortieren Überschrift anklicken):**
+**Geboren oder gestorben in xx16 oder xx66**
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+19kiz0pEuED6QYnobzo35iN9X-kjDLEX29Nxbb77Q&amp;containerId=googft-gviz-canvas"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQahst97oF2XJaZsne_AVViXJTN2WXP9gjZ50Sk41A8KzQNKOdQ5AmZXV30w6afbVBKP90KEy0vsQKI/pubhtml?widget=true&headers=false" width="700" height="1000"></iframe>
 
-**Gestorben in xx16 oder xx66 (****zum Sortieren Überschrift anklicken):**
 
-<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2+from+1dNgB2HKvkXLD9gNIylBWA7aZWHly1ETbUyjPVMZ-&amp;containerId=googft-gviz-canvas"></iframe>
-
-**c = circa
-a = vor
-p = nach
-m = männlich
+**c = circa\
+a = vor\
+p = nach\
+m = männlich\
 w / f = weiblich**
 
 _Bildnachweis_: [pixabay.com](https://pixabay.com/de/illustrations/jahreswechsel-2016-jahreswende-936219/){:target="_blank"}.
