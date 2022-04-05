@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Im Rahmen der ständigen Erweiterung im Bereich von Schnittstellen stellt die Bayerische Staatsbibliothek München jetzt BEACON-Dateien von RISM-Normdaten zur Verfügung. Solche Beacon-Dateien dienen der Verknüpfung externer Datenanbieter mit Nachweisen des RISM. Das verbindende Element sind dabei Identifier eines Normdatenproviders wie z.B. der GND ([Gemeinsame Normdatei](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html){:blank}) oder der VIAF ([Virtual International Authority File](https://viaf.org/{:blank})).
+Im Rahmen der ständigen Erweiterung im Bereich von Schnittstellen stellt die Bayerische Staatsbibliothek München jetzt BEACON-Dateien von RISM-Normdaten zur Verfügung. Solche Beacon-Dateien dienen der Verknüpfung externer Datenanbieter mit Nachweisen des RISM. Das verbindende Element sind dabei Identifier eines Normdatenproviders wie z.B. der GND ([Gemeinsame Normdatei](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html){:blank}) oder der VIAF ([Virtual International Authority File](https://viaf.org/){:blank}).
 
 Diese Beacon-Dateien sind einfach strukturierte Textdateien, die vorhandene Normdateneinträge in schlichter und lesbarer Form auflisten. Dabei können Datenprovider auf den jeweiligen Webseiten automatisiert Links erstellen, um z.B. die nachgewiesenen Musikquellen einer Person in RISM anzuzeigen. 
 
@@ -18,4 +18,4 @@ Im Angebot der Beacon-Dateien, die unter [https://opac.rism.info/de/hauptmenu/ka
 
 Weitere Informationen findet man auf [Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:BEACON){:blank}.
 
-_Abbildung:_ Zusammenführung verschiedener Quellen zu Franz Beckenbauer mittels des Beacon-Formats. [Wikipedia](https://de.m.wikipedia.org/wiki/Gemeinsame_Normdatei#/media/Datei%3AGnd_beacon.jpg) ([public domain]https://creativecommons.org/publicdomain/mark/1.0/)
+_Abbildung:_ Zusammenführung verschiedener Quellen zu Franz Beckenbauer mittels des Beacon-Formats. [Wikipedia](https://de.m.wikipedia.org/wiki/Gemeinsame_Normdatei#/media/Datei%3AGnd_beacon.jpg){:blank} ([public domain](https://creativecommons.org/publicdomain/mark/1.0/))
