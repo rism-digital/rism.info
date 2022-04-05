@@ -16,4 +16,4 @@ The Beacon files are simply structured text files that list available authority 
 
 The Beacon files are available [here](https://opac.rism.info/main-menu-/kachelmenu/data), and offer links to persons and institutions as sorted in two groups (according to GND and VIAF, respectively). We hope that this new offer can contribute to the further dissemination and use of RISM data.
 
-_Image:_ A list of various sources related to Franz Beckenbauer created by way of the Beacon format. From [Wikipedia](https://de.m.wikipedia.org/wiki/Gemeinsame_Normdatei#/media/Datei%3AGnd_beacon.jpg) ([public domain](https://creativecommons.org/publicdomain/mark/1.0/))
+_Image:_ A list of various sources related to Franz Beckenbauer created by way of the Beacon format. From [Wikipedia](https://de.m.wikipedia.org/wiki/Gemeinsame_Normdatei#/media/Datei%3AGnd_beacon.jpg){:blank} ([public domain](https://creativecommons.org/publicdomain/mark/1.0/)){:blank}
