@@ -10,7 +10,7 @@ email: contact@rism.info
 author: Balázs Mikusi
 ---
 
-The 2021 annual report for the RISM Editorial Office has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2021.html). Here are some of the highlights:
+The 2021 annual report for the RISM Editorial Center has now been published. You can read the report in its entirety [on the RISM website](/publications/annual-reports/2021.html). Here are some of the highlights:
 
 The year 2021 was still overshadowed by the COVID pandemic and the diverse social restrictions inevitably also hindered RISM contributors from accessing source materials all around the world. Most working groups, nonetheless, found ways to keep adding new records, and the overall increase of source descriptions in the RISM database eventually surpassed our plans and amounted to over 112,000 new records.
 
