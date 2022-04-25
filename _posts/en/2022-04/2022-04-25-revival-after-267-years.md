@@ -20,4 +20,4 @@ Christoph Koop spared no time and effort to produce a full score and playable in
 
 While listening to the performance on the eve of Palm Sunday 2022, the Leipzig audience could experience strikingly how profoundly Passion music had changed after Bach’s death, with Harrer’s Passion oratorios.
 
-_Image:_ Gottlob Harrer, _Abraham und Isaac_, end of the full score (D-NUEtb 254, RISM ID no. 1001036816). Courtesy of the author.
+_Image:_ Gottlob Harrer, _Abraham und Isaac_, end of the full score (D-NUEtb 254, RISM ID no. 1001036816). Courtesy of the author. 
