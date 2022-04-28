@@ -20,6 +20,9 @@ The next online Muscat workshops from the RISM Editorial Center are tentatively 
 
 ## Past workshops and demonstrations  
 
+* 14 and 16 March 2022: Muscat introduction, online  
+*Jennifer Ward (RISM Editorial Center)*  
+
 * 26 November and 10 December 2021, 14 January 2022: Archival Skills, Universität Salzburg  
 _Eva Neumayr, RISM Salzburg_
 

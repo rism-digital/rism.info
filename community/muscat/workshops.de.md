@@ -21,6 +21,9 @@ Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Fr
 
 ## Vergangene Workshops und Vorführungen
 
+* 14\. und 16.\ März 2022: Muscat Einführung (Englisch), online  
+*Jennifer Ward, RISM-Zentralredaktion*
+
 * 26\. November, 10\. Dezember 2021, 14\. Januar 2022: Archival Skills, Universität Salzburg  
 *Eva Neumayr, RISM Salzburg*
 
