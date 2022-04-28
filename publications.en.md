@@ -105,8 +105,6 @@ Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diam
 * **B/V/1:** Heinrich Husmann, _Tropen- und Sequenzen Handschriften_, 1964.
   - Countries included: Austria, Belgium, Czechoslovakia, France, Germany, Great Britain, Italy, Netherlands, Poland, Spain, Sweden, Switzerland, Vatican City.
 
-* **B/V/2:** Nancy van Deusen,  _Katalog der mittelalterlichen Sequenzen_ (in preparation).
-
 ### B/VI: Printed writings about music
 
 Attempts to bring together all literature concerning music 1474-1800, whether theoretical, historical, aesthetic, or technical. Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.

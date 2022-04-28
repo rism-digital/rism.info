@@ -72,7 +72,7 @@ _Work in progress – inside the British Library Conservation Centre. Photograph
 
 As well as some small paper repairs to support areas of fragile ink and small tears to the edges of some folia, the main solution was to remove the identified leaves from the original guards and hinge them onto a sheet of archival handmade paper with fine Japanese tissue.  
 
-{% include image file="images/news/2022-03/beethoven-kafka-sketch-british-library-image8-support.jpg" %}  
+{% include image file="/images/news/2022-03/beethoven-kafka-sketch-british-library-image8-support.jpg" %}  
 _Add MS 29801 after work to create support pages. Photograph by Zoë Miller._  
 
 {% include image file="/images/news/2022-03/beethoven-kafka-sketch-british-library-image9-supportdetail.jpg" %}  
