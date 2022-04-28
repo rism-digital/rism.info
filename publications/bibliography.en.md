@@ -789,7 +789,7 @@ Benton, Rita and Jennifer A. Ward. "Répertoire International des Sources Musica
 
 Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi: [10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
 
-Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of the Bavarian State Library." Forum Musikbibliothek 37, no. 1 (2016): 7-13.  
+Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of the Bavarian State Library." _Forum Musikbibliothek_ 37, no. 1 (2016): 7-13.  
 
 Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi: [10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
 
@@ -960,7 +960,9 @@ Herrmann-Schneider, Hildegard. "Die Vision des hl. Bernhard vom Klosterbau und d
 
 Herrmann-Schneider, Hildegard. "Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams." Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Available online](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
-Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg." musiconn.publish (2021). [Available online](https://doi.org/10.25366/2021.23){:blank}.
+Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg." musiconn.publish (2021). [Available online](https://doi.org/10.25366/2021.23){:blank}.  
+
+Loos, Helmut. "Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis." _Lithuanian Musicology / Lietuvos muzikologija_ 22 (2021): 24–33. [Available online](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}.  
 
 Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ 18, no. 1 (2021). DOI: [https://doi.org/10.1017/S1479409820000014](https://doi.org/10.1017/S1479409820000014){:target="_blank"}.  
 
@@ -1332,7 +1334,7 @@ _Libretti in deutschen Bibliotheken: Katalog der gedruckten Texte zu Opern, Orat
 
 RISM-U.S. Libretto Database (contains bibliographic records of different U.S. libraries for more than 11,000 printed and manuscript libretti for musical stage pieces from the earliest manifestations through the beginning of the twentieth century), URL: [http://search.lib.virginia.edu/](http://search.lib.virginia.edu/){:target="_blank"}
 
-Sartori, Claudio._I libretti italiani a stampa dalle origini al 1800_ (5 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
+Sartori, Claudio. _I libretti italiani a stampa dalle origini al 1800_ (5 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
 
 
 #### Catalogs of individual libraries (or parts of individual libraries) or catalogs of specific regions
@@ -1519,6 +1521,8 @@ Borges de Azevedo, João Manuel. _Biblioteca do Palácio Nacional de Mafra: Cat
 (Compiled using RISM rules)
 
 ##### PL - Poland
+
+Bohdanowicz, Bogna and Jolanta Byczkowska-Sztaba. _Musicalia manuscripta Chori Sacro-Lindensis_. Fontes Musicae in Polonia, A VI. Warszawa: Wydawnictwo Naukowe Sub Lupa, 2021.
 
 Idaszak, Danuta. _Grodzisk Wielkopolski: Katalog tematyczny muzykaliów_. Studia et Dissertationes Instituti Musicologiae Universitatis Varsoviensis 1. Kraków: Musica Iagellonica, 1993.   
 (Compiled using RISM rules)
