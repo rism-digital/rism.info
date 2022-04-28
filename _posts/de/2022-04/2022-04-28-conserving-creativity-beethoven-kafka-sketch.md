@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bewahrung der Kreativität - der Fall von Beethovens "Kafka"-Skizzenband"
+title: "Bewahrung der Kreativität - der Fall von Beethovens ‘Kafka’-Skizzenband"
 date: 2022-04-28
 lang: de
 post: true
