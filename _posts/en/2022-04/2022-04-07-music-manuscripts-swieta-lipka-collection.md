@@ -16,7 +16,7 @@ In addition, the RISM records were used to publish a printed catalog. The printe
 
 The collection reflects the Jesuit music culture of its time on the regional, Central European, and international levels. Composers from German-speaking areas dominate the repertoire, as do the anonymous works, which make up more than a third of the collection. The manuscripts are from the 18th, 19th, and 20th centuries.
 
-A noteworthy part of the collection is made up of copies of works by the Premonstratensian [Isfrid Kayser of Upper Swabia](https://opac.rism.info/search?View=rism&siglum=PL-Wb&author=kayser+Isfrid){:blank}, who was brought up at a Jesuit school in Munich. More about this can be read in an article by Jolanta Byczkowska-Sztaba: “Die Werke von Isfrid Kayser im Repertoire der Jesuitenkapelle des Marienheiligtums zu Heiligelinde,” in _Oberschwäbische Klostermusik im europäischen Kontext: Alexander Sumski zum 70. Geburtstag_ (Frankfurt am Main 2004): 131-143. 
+A noteworthy part of the collection is made up of copies of works by the Premonstratensian [Isfrid Kayser of Upper Swabia](https://opac.rism.info/search?View=rism&siglum=PL-Wb&author=kayser+Isfrid){:blank}, who was brought up at a Jesuit school in Munich. More about this can be read in an article by Jolanta Byczkowska-Sztaba: “Die Werke von Isfrid Kayser im Repertoire der Jesuitenkapelle des Marienheiligtums zu Heiligelinde,” in _Oberschwäbische Klostermusik im europäischen Kontext: Alexander Sumski zum 70. Geburtstag_ (Frankfurt am Main, 2004): 131-143. 
 
 RISM users can be pleased to have this extraordinary collection in the RISM catalog. We would like to thank our Polish colleagues for this.
 
