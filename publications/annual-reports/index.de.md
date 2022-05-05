@@ -11,6 +11,10 @@ Die Jahresberichte der Zentralredaktion sind Sachberichte, vor allem gedacht als
 
 Die Jahresberichte werden in der jährlichen Publikation der Union der Deutschen Akademien der Wissenschaften veröffentlicht. Eine Zusammenfassung erscheint im Newsletter der International Musicological Society.
 
+**2021**
+
+[Ansicht](/publications/annual-reports/2021.html)
+
 **2020**
 
 [Ansicht](/publications/annual-reports/2020.html)

@@ -62,7 +62,6 @@ Komponistenindex zu B/I als [pdf]( /publications/RecueilsKomponistenindex.pdf) h
 **B/V**: Tropen- und Sequenzenhandschriften (1 Band). [Musicologie Médiévale](http://gregorian-chant.ning.com/group/lesmanuscritsduweb/page/rism-b-v){:target="_blank"} enthält eine sowohl Liste zu B/V-Einträgen, zu denen einen Digitalisat existiert, als auch weitere Quellen, die nicht in B/V erwähnt sind.
 
 * **B/V/1:** Heinrich Husmann, *Tropen- und Sequenzen Handschriften*, 1964.
-* **B/V/2:** Nancy van Deusen, *Katalog der mittelalterlichen Sequenzen* [in preparation].
 
 **B/VI**: Ecrits Imprimés Concernant la musique (2 Bände).
 Supplement zu B/VI, siehe [Lesure (1979)](/publications/bibliography.html#c1970).
