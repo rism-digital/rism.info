@@ -1,4 +1,4 @@
-- label: 
+- label:
     en: "Publications"
     de: "Publikationen"
     fr: "Publications"
@@ -46,15 +46,20 @@
       link: "/publications/iaml-conferences.html"
       items:
         - name:
+            en: 2022
+            de: 2022
+            fr: 2022
+          link: "/publications/iaml-congresses/2022.html" 
+        - name:
             en: 2021
             de: 2021
             fr: 2021
-          link: "/publications/iaml-congresses/2021.html" 
+          link: "/publications/iaml-congresses/2021.html"
         - name:
             en: 2019
             de: 2019
             fr: 2019
-          link: "/publications/iaml-congresses/2019.html" 
+          link: "/publications/iaml-congresses/2019.html"
         - name:
             en: 2018
             de: 2018
@@ -115,64 +120,64 @@
             en: 2020
             de: 2020
             fr: 2020
-          link: "/publications/annual-reports/2020.html" 
+          link: "/publications/annual-reports/2020.html"
         - name:
             en: 2019
             de: 2019
             fr: 2019
-          link: "/publications/annual-reports/2019.html" 
+          link: "/publications/annual-reports/2019.html"
         - name:
             en: 2018
             de: 2018
             fr: 2018
-          link: "/publications/annual-reports/2018.html" 
+          link: "/publications/annual-reports/2018.html"
         - name:
             en: 2017
             de: 2017
             fr: 2017
-          link: "/publications/annual-reports/2017.html" 
+          link: "/publications/annual-reports/2017.html"
         - name:
             en: 2016
             de: 2016
             fr: 2016
-          link: "/publications/annual-reports/2016.html" 
+          link: "/publications/annual-reports/2016.html"
         - name:
             en: 2015
             de: 2015
             fr: 2015
-          link: "/publications/annual-reports/2015.html" 
+          link: "/publications/annual-reports/2015.html"
         - name:
             en: 2014
             de: 2014
             fr: 2014
-          link: "/publications/annual-reports/2014.html" 
+          link: "/publications/annual-reports/2014.html"
         - name:
             en: 2013
             de: 2013
             fr: 2013
-          link: "/publications/annual-reports/2013.html" 
+          link: "/publications/annual-reports/2013.html"
         - name:
             en: 2012
             de: 2012
             fr: 2012
-          link: "/publications/annual-reports/2012.html" 
+          link: "/publications/annual-reports/2012.html"
         - name:
             en: 2011
             de: 2011
             fr: 2011
-          link: "/publications/annual-reports/2011.html" 
+          link: "/publications/annual-reports/2011.html"
         - name:
             en: 2010
             de: 2010
             fr: 2010
-          link: "/publications/annual-reports/2010.html" 
+          link: "/publications/annual-reports/2010.html"
     - name:
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
         fr: Publications CD-ROM (1995-2011)
-      link: "publications/cd-rom-publications-1995-2011.html" 
+      link: "publications/cd-rom-publications-1995-2011.html"
     - name:
         en: Info-RISM (1989-2001)
         de: Info-RISM (1989-2001)
         fr: Info-RISM (1989-2001)
-      link: "publications/info-rism.html" 
+      link: "publications/info-rism.html"
