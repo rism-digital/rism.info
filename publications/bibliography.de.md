@@ -1494,6 +1494,8 @@ Biblioteca do Palácio Nacional de Mafra. Catálogo dos Fundos Musicais, organiz
 
 ##### PL - Polen
 
+Bohdanowicz, Bogna und Jolanta Byczkowska-Sztaba: Musicalia manuscripta Chori Sacro-Lindensis (= Fontes Musicae in Polonia, A VI). Warszawa: Wydawnictwo Naukowe Sub Lupa, 2021.
+
 Idaszak, Danuta: Grodzisk Wielkopolski. Katalog tematyczny muzykaliów, Kraków 1993 (= Studia et Dissertationes Instituti Musicologiae Universitatis Varsoviensis 1). (erstellt nach RISM-Richtlinien)
 
 Podejko, Paweł: Katalog tematyczny rękopisów i druków muzycznych kapeli wokalno-instrumentalnej na Jasnej Górze, Kraków 1992.  
