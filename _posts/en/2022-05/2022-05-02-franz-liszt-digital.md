@@ -16,4 +16,4 @@ Just eleven years ago at the opening of the international conference “Der ganz
 
 Until the first fruits are available, you can browse [over 350 compositions by Franz Liszt in our catalog](https://opac.rism.info/search?View=rism&author=Liszt,%20Franz){:blank}, including 50 autograph manuscripts.
 
-Image: Franz Liszt, album leaf, autograph manuscript. [RISM ID no. 1001183463](https://opac.rism.info/search?id=1001183463&View=rism){:blank}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (D-Dl) Mus.1-T-370 (Public Domain Mark 1.0).
+_Image_: Franz Liszt, album leaf, autograph manuscript. [RISM ID no. 1001183463](https://opac.rism.info/search?id=1001183463&View=rism){:blank}. Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (D-Dl) Mus.1-T-370 (Public Domain Mark 1.0).
