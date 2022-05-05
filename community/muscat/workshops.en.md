@@ -15,7 +15,11 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
+### IAML Prague
+A two-part Muscat training session will be held on 26 July 2022 during the IAML Congress in Prague. Please see [our IAML Prague page](/publications/iaml-congresses/2022.html) for details, including registration information.
+ 
 ### Online workshops
+
 The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring and fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ## Past workshops and demonstrations  
