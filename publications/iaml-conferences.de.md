@@ -11,6 +11,8 @@ old_url: http://www.rism.info/de/publikationen/iaml-conferences.html
 
 Für weitere Information zu RISM bei den jährlichen [IAML Konferenzen](https://www.iaml.info/congresses){:blank} wählen Sie bitte ein Jahr aus:
 
+[2022 (Prag)](/publications/iaml-congresses/2022.html)
+
 [2021 (Online)](/publications/iaml-congresses/2021.html)
 
 [2019 (Kraków)](/publications/iaml-congresses/2019.html)
