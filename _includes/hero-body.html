@@ -14,8 +14,8 @@
                 <div>
                     <div class="columns opac-search">
                         <div class="column">
-                            <h1 class="is-hidden-mobile">RISM Catalog of Musical Sources</h1>
-                            <h2 class="is-hidden-tablet">RISM Catalog of Musical Sources</h2>
+                            <h1 class="is-hidden-mobile">Search in RISM</h1>
+                            <h2 class="is-hidden-tablet">Search in RISM</h2>
                         </div>
                     </div>
                     <div class="columns is-desktop opac-search">
@@ -25,19 +25,46 @@
                                     <div class="control">
                                         <input id="opac-search-term" class="input is-primary" type="text" placeholder="Search ...">
                                     </div>
-                                    <div class="control">
-                                        <a class="button is-primary" href="javascript:opac()">Go</a>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="column">
                             <div class="field is-grouped">
                                 <div class="control">
-                                    <a class="button is-primary" href="https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en">Advanced search</a>
+                                    <a class="button is-primary" href="javascript:rism_online()">
+                                        <span>RISM Online</span>
+                                        <span class="icon is-small engine">
+                                            <i class="unchecked fas" id="rism-online-unchecked"></i>
+                                            <i class="checked fas fa-check" style="display: none;" id="rism-online-checked"></i>
+                                        </span>
+                                    </a>
                                 </div>
                                 <div class="control">
-                                    <a class="button is-primary" href="https://opac.rism.info/index.php?id=8">?</a>
+                                    <div class="dropdown is-hoverable">
+                                        <div class="dropdown-trigger">  
+                                            <div class="control">                                        
+                                                <a class="button is-primary" aria-haspopup="true" aria-controls="dropdown-menu4" href="javascript:opac()">
+                                                    <span>RISM OPAC</span>
+                                                    <span class="icon is-small engine">
+                                                        <i class="unchecked fas" id="opac-unchecked"></i>
+                                                        <i class="checked fas fa-check" style="display: none;" id="opac-checked"></i>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-menu" id="dropdown-menu4">
+                                            <div class="">
+                                                <div class="control">
+                                                    <a class="button is-primary" href="javascript:opac_advanced()">
+                                                        <span class="icon is-small">
+                                                            <i class="fas fa-arrow-right"></i>
+                                                        </span>
+                                                        <span>Advanced search</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -51,20 +78,55 @@
 
 {% if page.permalink == "/index.html" %}
 <script>
+    window.onload = function() {
+        var search = localStorage.getItem("search");
+        if (search == "rism-online") {
+            document.getElementById("rism-online-unchecked").style.display = "none";
+            document.getElementById("rism-online-checked").style.display = "block"; 
+        }
+        else {
+            document.getElementById("opac-unchecked").style.display = "none";
+            document.getElementById("opac-checked").style.display = "block"; 
+        }
+    }
+
     document.getElementById("opac-search-term").addEventListener("keyup", function(event) {
         // Number 13 is the "Enter" key on the keyboard
         if (event.keyCode === 13) {
             // Cancel the default action, if needed
             event.preventDefault();
             // Trigger the button element with a click
-            opac();
+            search();
         }
-    }); 
+    });
+
+    function search() {
+        // Retrieve
+        var search = localStorage.getItem("search");
+        if (search == "rism-online") rism_online();
+        else opac();
+    }
 
     function opac() {
+        localStorage.setItem("search", "opac");
         var search = document.getElementById("opac-search-term").value;
         var link = "https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=" + search + "&View=rism&Language={{ site.active_lang }}"
         window.location.href = link; 
     }
+
+    function opac_advanced() {
+        localStorage.setItem("search", "opac");
+        var search = document.getElementById("opac-search-term").value;
+        var link = "https://opac.rism.info/metaopac/start.do?SearchType=2&searchString=" + search + "&View=rism&Language={{ site.active_lang }}"
+        window.location.href = link; 
+    }
+
+    function rism_online() {
+        localStorage.setItem("search", "rism-online");
+        var search = document.getElementById("opac-search-term").value;
+        var link = "https://rism.online/search?q=" + search
+        window.location.href = link; 
+    }
+
 </script>
 {% endif %}
