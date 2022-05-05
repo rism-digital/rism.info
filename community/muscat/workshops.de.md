@@ -12,7 +12,10 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
 ## Zukünftige Schulungen
-      
+
+### IAML Prag
+
+Eine zweiteilige Muscat-Schulung wird am 26. Juli 2022 während des IAML-Kongresses in Prag stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Prag-Seite](/publications/iaml-congresses/2022.html).      
 
 ### Online workshops
 
