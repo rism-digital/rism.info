@@ -79,15 +79,7 @@
 {% if page.permalink == "/index.html" %}
 <script>
     window.onload = function() {
-        var search = localStorage.getItem("search");
-        if (search == "rism-online") {
-            document.getElementById("rism-online-unchecked").style.display = "none";
-            document.getElementById("rism-online-checked").style.display = "block"; 
-        }
-        else {
-            document.getElementById("opac-unchecked").style.display = "none";
-            document.getElementById("opac-checked").style.display = "block"; 
-        }
+        update_checkboxes();
     }
 
     document.getElementById("opac-search-term").addEventListener("keyup", function(event) {
@@ -100,6 +92,18 @@
         }
     });
 
+    function update_checkboxes() {
+        var search = localStorage.getItem("search");
+        if (search == "rism-online") {
+            document.getElementById("rism-online-unchecked").style.display = "none";
+            document.getElementById("rism-online-checked").style.display = "block"; 
+        }
+        else {
+            document.getElementById("opac-unchecked").style.display = "none";
+            document.getElementById("opac-checked").style.display = "block"; 
+        }
+    }
+
     function search() {
         // Retrieve
         var search = localStorage.getItem("search");
@@ -109,6 +113,7 @@
 
     function opac() {
         localStorage.setItem("search", "opac");
+        update_checkboxes();
         var search = document.getElementById("opac-search-term").value;
         var link = "https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=" + search + "&View=rism&Language={{ site.active_lang }}"
         window.location.href = link; 
@@ -116,6 +121,7 @@
 
     function opac_advanced() {
         localStorage.setItem("search", "opac");
+        update_checkboxes();
         var search = document.getElementById("opac-search-term").value;
         var link = "https://opac.rism.info/metaopac/start.do?SearchType=2&searchString=" + search + "&View=rism&Language={{ site.active_lang }}"
         window.location.href = link; 
@@ -123,6 +129,7 @@
 
     function rism_online() {
         localStorage.setItem("search", "rism-online");
+        update_checkboxes();
         var search = document.getElementById("opac-search-term").value;
         var link = "https://rism.online/search?q=" + search
         window.location.href = link; 
