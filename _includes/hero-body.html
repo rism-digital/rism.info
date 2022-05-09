@@ -78,10 +78,12 @@
 
 {% if page.permalink == "/index.html" %}
 <script>
+    // update the checkbox when the page loads
     window.onload = function() {
         update_checkboxes();
     }
 
+    // listen to 'Enter' on the input box
     document.getElementById("opac-search-term").addEventListener("keyup", function(event) {
         // Number 13 is the "Enter" key on the keyboard
         if (event.keyCode === 13) {
@@ -92,6 +94,8 @@
         }
     });
 
+    // look at the 'search' local storage value
+    // Default search is the opac
     function update_checkboxes() {
         var search = localStorage.getItem("search");
         if (search == "rism-online") {
@@ -104,8 +108,9 @@
         }
     }
 
+    // search from the input box - use selected engine
     function search() {
-        // Retrieve
+        // Retrieve from the local storage - default is the opac
         var search = localStorage.getItem("search");
         if (search == "rism-online") rism_online();
         else opac();

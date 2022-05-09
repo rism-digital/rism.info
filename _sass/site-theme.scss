@@ -85,6 +85,7 @@ $control-radius: 1px;
             font-size: 18px; 
         }
     }
+    // Show / hide the checkbox on mouse over
     div.engine:hover i.checked { 
         display: block !important;
     }
