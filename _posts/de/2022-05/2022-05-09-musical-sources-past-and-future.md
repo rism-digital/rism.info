@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Musical Sources, Past and Future: Internationale Konferenz - 70 Jahre RISM"
+title: "Musical Sources: Past and Future — Internationale Konferenz"
 date: 2022-05-09
 lang: de
 post: true
