@@ -20,6 +20,11 @@
       link: "/publications/conferences.html"
       items:
         - name:
+            en: "Musical Sources: Past and Future (2022)"
+            de: "Musical Sources: Past and Future (2022)"
+            fr: "Musical Sources: Past and Future (2022)"
+          link: "/publications/conferences/musical-sources-past-future-2022.html"
+        - name:
             en: Introducing a Work Level in RISM (2019)
             de: Werkebene (2019)
             fr: Introduction d'Oeuvres dans le RISM (2019)
@@ -49,7 +54,7 @@
             en: 2022
             de: 2022
             fr: 2022
-          link: "/publications/iaml-congresses/2022.html" 
+          link: "/publications/iaml-congresses/2022.html"
         - name:
             en: 2021
             de: 2021
@@ -177,7 +182,7 @@
         fr: Publications CD-ROM (1995-2011)
       link: "publications/cd-rom-publications-1995-2011.html"
     - name:
-        en: Info-RISM (1989-2001)
+        en: Info RISM (1989-2001)
         de: Info-RISM (1989-2001)
         fr: Info-RISM (1989-2001)
       link: "publications/info-rism.html"
