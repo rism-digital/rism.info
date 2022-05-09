@@ -12,7 +12,10 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
 ## Zukünftige Schulungen
-      
+
+### IAML Prag
+
+Eine zweiteilige Muscat-Schulung wird am 26. Juli 2022 während des IAML-Kongresses in Prag stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Prag-Seite](/publications/iaml-congresses/2022.html).      
 
 ### Online workshops
 
@@ -20,6 +23,9 @@ Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Fr
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 14\. und 16.\ März 2022: Muscat Einführung (Englisch), online  
+*Jennifer Ward, RISM-Zentralredaktion*
 
 * 26\. November, 10\. Dezember 2021, 14\. Januar 2022: Archival Skills, Universität Salzburg  
 *Eva Neumayr, RISM Salzburg*
