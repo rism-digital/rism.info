@@ -117,6 +117,11 @@
       link: "/publications/annual-reports/index.html"
       items:
         - name:
+            en: 2021
+            de: 2021
+            fr: 2021
+          link: "/publications/annual-reports/2021.html"
+        - name:
             en: 2020
             de: 2020
             fr: 2020
