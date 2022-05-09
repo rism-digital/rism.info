@@ -16,7 +16,7 @@ old_url: http://www.rism.info/publications/bibliography.html
 
 ### Publications about RISM
 
-_Jump to:_ [1940s](#c1940) [1950s](#c1950)   [1960s](#c1960)   [1970s](#c1970)   [1980s](#c1980)  [1990s](#c1990)   [2000s](#c2000)   [2010s](#c2010) [2020s](#c2020)
+_Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c1970) \|  [1980s](#c1980) \| [1990s](#c1990) \| [2000s](#c2000) \| [2010s](#c2010) \| [2020s](#c2020)
 
 #### 1949 <a name="c1940"></a>  
 
@@ -991,7 +991,8 @@ Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The 
 You can find out more about the work of RISM from the following publications:
 
 - RISM [annual reports](/publications/annual-reports.html)
-- RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"}.  
+- RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"} and (to 2015) in [_Fontes artis musicae_](https://www.jstor.org/journal/fontartimusi){:blank}  
+- RISM annual reports published in the [_IMS Newsletter_](https://www.musicology.org/publications/ims-newsletter){:blank}  
 - Publications from the RISM Zentralredaktionen
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/resources-old-website/community-content/Zentralredaktion/communiques.pdf).  
   - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/publications/info-rism.html).
