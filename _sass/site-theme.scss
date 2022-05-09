@@ -85,10 +85,10 @@ $control-radius: 1px;
             font-size: 18px; 
         }
     }
-    a.button:hover span.engine i.checked { 
+    div.engine:hover i.checked { 
         display: block !important;
     }
-    a.button:hover span.engine i.unchecked {
+    div.engine:hover i.unchecked {
         display: none !important;
     }
 }
