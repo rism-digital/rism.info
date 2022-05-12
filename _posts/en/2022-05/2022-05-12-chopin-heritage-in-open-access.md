@@ -6,8 +6,8 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news/2022-04/chopin-heritage-in-open-access-website.jpg"
-email: ''
-author: ''
+email: 'mail@nifc.pl'
+author: 'Fryderyk Chopin Institute'
 ---
 
 _We have received the following from the [Fryderyk Chopin Institute](https://nifc.pl/pl):_
