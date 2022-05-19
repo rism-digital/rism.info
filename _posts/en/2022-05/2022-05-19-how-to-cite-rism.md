@@ -12,7 +12,7 @@ author: ''
 
 Most publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historical music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians to ensure that everyone knows what musical source you are talking about. Clearly identifying the item will also help RISM find the item quicker, enabling us to cite your research in our records.  
 
-Your style guide will tell you how to generally cite historical published music editions or unpublished material such as a manuscript. For people in the field of source studies, including us at RISM, identifying the exact item and specific holding institution is important. We encourage researchers to additionally include the **institution where the item is preserved** and the **shelfmark**. If the item is in the RISM online catalog, also include the **RISM ID number**.  
+Your style guide will tell you how to generally cite historical published music editions or unpublished material such as manuscripts. For people in the field of source studies, including us at RISM, identifying the exact item and specific holding institution is important. We encourage researchers to additionally include the **institution where the item is preserved** and the **shelfmark**. If the item is in the RISM online catalog, also include the **RISM ID number**.  
 
 ### Institution and shelfmark
 Use the [RISM library sigla](/community/sigla.html). This saves space in your publication and avoids confusion if institutions have similar names. If we do not yet have a siglum for an institution you need, we will create one for you. Cite the shelfmark as given by the library.  
@@ -34,7 +34,7 @@ Sources from series A/I ([_Individual Prints before 1800_](/publications.html#se
 
 - [RISM A/I: S 6989](https://opac.rism.info/search?id=990063266&View=rism){:blank}  
 - [RISM A/I: HH 6429a](https://opac.rism.info/search?id=991020872&View=rism){:blank}  
-- [RISM B/I: 1546|23](https://opac.rism.info/search?id=993104478&View=rism){:blank}  
+- [RISM B/I: 1546\|23](https://opac.rism.info/search?id=993104478&View=rism){:blank}  
 
 This numbering system refers to the books only and is not being continued for new imprints added to the database. Records for new imprints will only have the RISM ID numbers as described above. If you cite an imprint that has an A/I or B/I number, you are free to cite either the series number or the RISM ID number. Please note accordingly, however, that in the literature you may see two identifiers that refer to the same print. Our preference is the RISM ID number.  
 
@@ -45,15 +45,15 @@ Each record in the [RISM Catalog of Musical Sources](https://opac.rism.info/inde
 
 [https://opac.rism.info/search?id=450031804&View=rism](https://opac.rism.info/search?id=450031804&View=rism){:blank}  
 
-Note that URLs that appear in your browser's address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see “How to link to a record or a search” on the catalog's help page.  
+Note that the URLs that appear in your browser's address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see []“How to link to a record or a search” on the catalog's help page](https://opac.rism.info/main-menu-/kachelmenu/help#c49){:blank}.  
 
 ### Example
 A citation that follows the _Chicago Manual of Style_ for a printed item in a footnote but incorporates all of the above information would therefore look like this:  
 
 Francesca Caccini, _Il primo libro delle musiche_ (Florence: Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) D.39 (A/I: C 2; [RISM ID no. 990007800](https://opac.rism.info/search?id=990007800&View=rism){:blank}).
 
-### Cataloging Tools for Libraries
-For information about citing RISM records in MARC21 records, please refer to our [RISM for Libraries page under Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools). There you will also find a "Table of RISM Citation Styles" that covers A/I, every volume in the B series, and the online catalog.
+### Cataloging tools for libraries
+For information about citing RISM in MARC21 records, please refer to our [RISM for Libraries page under Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools). There you will also find a "Table of RISM Citation Styles" that covers A/I, every volume in the B series, and the online catalog.
 
 **And for everyone...**  
-If you note any errors in a record you would like to cite in a publication, please let us know about it.
+If you note any errors in a record you would like to cite in a publication, [please let us know](/service/feedback.html) and we will correct it.
