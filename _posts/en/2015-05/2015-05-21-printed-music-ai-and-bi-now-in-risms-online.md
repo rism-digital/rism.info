@@ -13,10 +13,10 @@ author: ''
 
 RISM is pleased to announce a major addition to its [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} that strengthens its utility as a resource for the documentation of printed music. Two of its major publications have been added to the online catalog and are freely available online for anyone to search at [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} and [www.rism.info](http://www.rism.info/){:target="_blank"}:
 
-• The entire contents of [A/I,](/publications.html#c36)_[Individual Prints before 1800](/publications.html#c36)_
+• The entire contents of [A/I, _Individual Prints before 1800_](/publications.html#series-a-inventories-of-musical-sources)
 Released on CD-ROM in 2012 and previously in 14 printed volumes
 
-• A portion of [B/I,](/publications.html#c2619)_[Recueils imprimés, XVIe-XVIIe siècles](/publications.html#c2619)_ (Printed collections of the 16th-17th centuries), covering the years 1500-1550
+• A portion of [B/I,_Recueils imprimés, XVIe-XVIIe siècles](/publications.html#series-b-bibliographies-organized-by-topic)_ (Printed collections of the 16th-17th centuries), covering the years 1500-1550
 
 
 The addition of these printed sources brings the total number of records in the online catalog to over 1,010,000. New search fields allow users to search by **Publisher**, **A/I or B/I number**, and **Plate number**. Search results can be refined using the categories **Publisher** or a RISM **Series**. Icons of prints and manuscripts allow quick visual recognition.
