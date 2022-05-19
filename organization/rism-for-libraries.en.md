@@ -14,6 +14,8 @@ RISM has a long tradition of working with libraries. We would like to strengthen
 
 **Brochures**: We will gladly send you copies of our brochure outlining the RISM project at no charge. It is available in English with translations in Chinese, German, Russian, and Spanish. For more information, see [Publications](/publications/brochures.html).
 
+**Citing RISM in publications**: [Our recommendations for citing RISM in scholarly publications](https://rism.info/new_at_rism/2022/05/19/how-to-cite-rism.html){:blank}, whether print or online.  
+
 **Guides to the RISM online catalog:** We have created some guides to the online catalog about various topics. They are linked on [opac.rism.info](http://opac.rism.info)'s Help page.
 
 Also look at past [IAML congresses](/publications.html){:target="_blank"} for slides relating to using RISM (also on the [IAML website](http://www.iaml.info/r-projects)).
@@ -55,7 +57,7 @@ Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](http
 
 **OCLC record for the RISM OPAC**: Download this record from OCLC for the RISM online catalog so that your library users can find the free catalog: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}
 
-**Standard citation form in cataloging**: The official form of RISM from the [Rare Books and Manuscripts Section](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} is **RISM (Répertoire international des sources musicales)**. When citing RISM in the 510 of a catalog record, cite the RISM ID number from the online catalog whenever possible (initial zeros may be omitted). Permalinks to the OPAC can also be included. Use references from [A/I](/publications.html#c36){:target="_blank"} and [B/I](/publications.html#c2619) to refer to the books only. The 510 can be repeated to include references to both the OPAC and the books.
+**Standard citation form in cataloging**: The official form of RISM from the [Rare Books and Manuscripts Section](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} is **RISM (Répertoire international des sources musicales)**. When citing RISM in the 510 of a catalog record, cite the RISM ID number from the online catalog whenever possible (initial zeros may be omitted). Permalinks to the OPAC can also be included. Use references from [A/I](/publications.html#series-a-inventories-of-musical-sources){:target="_blank"} and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) to refer to the books only. The 510 can be repeated to include references to both the OPAC and the books.
 
 As an example, these records from the Princeton University Library cite the A/I number as well as the record in the OPAC. In the public view, the links in $u point the user directly to the entry in the RISM OPAC using the English interface.
 
