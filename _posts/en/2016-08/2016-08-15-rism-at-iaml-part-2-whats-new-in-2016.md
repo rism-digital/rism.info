@@ -27,7 +27,7 @@ July 7 was the traditional RISM open session. To start the session, Klaus presen
 
 - Results from the [online RISM survey](/community/survey.html) were published.
 
-- RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#c2620) directory of music repositories. Guidelines have been written and test data was imported into a database.
+- RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#series-c-directory-of-music-research-libraries) directory of music repositories. Guidelines have been written and test data was imported into a database.
 
 The rest of the session, as well as much of the [Advisory Council session](/organization/international-partners.html), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
 

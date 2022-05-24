@@ -32,7 +32,7 @@ Musical gifts with dedications in Silesian musical manuscripts of monastery prov
 
 **Thursday, 25 June**
 
-- 9.00–10.30: RISM Session (Abstracts are available [here](/publications/iaml-congresses/2015.html#c3139).)
+- 9.00–10.30: RISM Session (Abstracts are available [here](/publications/iaml-congresses/2015.html).)
 Chair: Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)
 
 - Klaus Keil (RISM Zentralredaktion, Frankfurt am Main)

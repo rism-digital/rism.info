@@ -28,7 +28,7 @@ old_url: http://www.rism.info/en/organisation/project-history.html
 | 1976–1982 | Director of the Zentralredaktion: Dr. Helmut Rösing |
 | 1978 | Start of [series A/II](/publications.html#series-a-inventories-of-musical-sources): Publication of the [catalogue of the Fürstlich Hohenlohe-Langenburg'sche Schlossbibliothek](/publications/bibliography.html#1978) in *Fontes* |
 | since 1978 | Support from UNESCO Conseil International de la Philosophie et des Sciences Humaines |
-| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publications.html#c2620) |
+| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publications.html#series-c-directory-of-music-research-libraries) |
 | 1979–1986 | Publication of three [special volumes](/publications.html#special-volumes): Norbert Böker-Heil, Harald Heckmann, Ilse Kindermann: *Das Tenorlied. Mehrstimmige Lieder in deutschen Quellen 1450- 1580* |
 | 1980 | Inclusion of the Zentralredaktion in the "Akademienprogramm" financed by state and federal governments through the Conference of the Academies of Sciences |
 | 1981 | Publication of the [guidelines for series A/II](/publications/bibliography.html#1981) in *Fontes* |
