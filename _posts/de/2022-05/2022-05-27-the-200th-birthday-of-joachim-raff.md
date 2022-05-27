@@ -2,7 +2,7 @@
 layout: post
 title: "200. Geburtstag von Joachim Raff"
 date: 2022-05-27
-lang: den
+lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news/2022-05/joachim-raff-website.jpg"
