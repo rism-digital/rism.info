@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Moritz, Landgrave of Hesse-Kassel (25 May 1572-15 March 1632) received the nickname "the Learned" in the 18th century because he was not only a regent (from 1592 to 1627 he was the ruling landgrave of Hesse-Kassel) but  also a composer and patron of the arts.  
+Moritz, Landgrave of Hesse-Kassel (25 May 1572–15 March 1632) received the nickname "the Learned" in the 18th century because he was not only a regent (from 1592 to 1627 he was the ruling landgrave of Hesse-Kassel) but  also a composer and patron of the arts.  
 
 He founded the Collegium Mauritianum court school, which was not restricted to just aristocrats, and established the Ottoneum, the first purpose-built theater in the German-speaking lands. He was probably a good lutenist and is considered to be the one who discovered Heinrich Schütz, whom he supported. Through the Collegium Mauritianum, the Hofkapelle, and the printing press that was established in 1596 to print his own works and the disputations at the Collegium, Kassel became a center for the cultivation of music and scholarship.  
 
