@@ -26,7 +26,7 @@ In the case of private collections, the entire last name of the owner is added t
 
 Since each musical source in RISM includes a siglum indicating its current location, the sigla will help you find the sources in a particular location.
 
-In the catalog's **Advanced search**, select Library siglum.
+In the catalog's **Advanced search**, select **Library siglum**.
 
 {% include image file="/images/news/2022-04/sigelsuche_nach_staedten_erweiterteSuche.png" %}
 
