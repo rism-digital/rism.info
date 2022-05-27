@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Searching by city in the RISM Catalog"
+title: "Searching by City in the RISM Catalog"
 date: 2022-04-13
 lang: en
 post: true
@@ -19,10 +19,10 @@ And there is another use for them: Using a RISM siglum when searching the [RISM 
 A siglum consists of uppercase letters, which designate the country and city, and lowercase letters, which stand for the institution.
 
 For example:\
-F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
+**F-Pn** = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
 In the case of private collections, the entire last name of the owner is added to the city code:\
-I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti
+**I-PEbattisti** = Italy, Perugia, Biblioteca privata Renzo Battisti
 
 Since each musical source in RISM includes a siglum indicating its current location, the sigla will help you find the sources in a particular location.
 
@@ -31,10 +31,10 @@ In the catalog's **Advanced search**, select Library siglum.
 {% include image file="/images/news/2022-04/sigelsuche_nach_staedten_erweiterteSuche.png" %}
 
 To search for all the sources in a particular country, enter the initial capital letters followed by a hyphen and asterisk:\
-F-* for all the sources in France.
+**F-*** for all the sources in France.
 
 Add the city abbreviation to this for all the sources in a particular city:\
-F-P* for all the sources in Paris.
+**F-P*** for all the sources in Paris.
 
 And search by the entire siglum to find all the sources in RISM from the institution.
 

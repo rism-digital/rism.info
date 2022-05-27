@@ -22,7 +22,7 @@ The annual reports are published in the yearly publication of the Union of the G
 
 ## 2019
 
-[View](/publications/annual-reports/2019.html#c3967) \| [Download as PDF](/resources-old-website/user_upload/RISM-Jahresbericht-19_EN.pdf)
+[View](/publications/annual-reports/2019.html) \| [Download as PDF](/resources-old-website/user_upload/RISM-Jahresbericht-19_EN.pdf)
 
 ## 2018
 
@@ -34,11 +34,11 @@ The annual reports are published in the yearly publication of the Union of the G
 
 ## 2016
 
-[View](/publications/annual-reports/2016.html#c3434) \| [Download as PDF](/resources-old-website/Jahresbericht_EN_2016.pdf)
+[View](/publications/annual-reports/2016.html) \| [Download as PDF](/resources-old-website/Jahresbericht_EN_2016.pdf)
 
 ## 2015
 
-[View](/publications/annual-reports/2015.html#c3227) \| [Download as PDF](/resources-old-website/Jahresbericht_EN_2015.pdf)
+[View](/publications/annual-reports/2015.html) \| [Download as PDF](/resources-old-website/Jahresbericht_EN_2015.pdf)
 
 ## 2014
 
@@ -46,11 +46,11 @@ The annual reports are published in the yearly publication of the Union of the G
 
 ## 2013
 
-[View](/publications/annual-reports/2013.html#c2693) \| [Download as PDF](/resources-old-website/community-content/Zentralredaktion/Jahresbericht_EN_web_2013.pdf)
+[View](/publications/annual-reports/2013.html) \| [Download as PDF](/resources-old-website/community-content/Zentralredaktion/Jahresbericht_EN_web_2013.pdf)
 
 ## 2012
 
-[View](/publications/annual-reports/2012.html#c2449) \| [Download as PDF](/resources-old-website/community-content/Zentralredaktion/JahresberichtEnglisch.pdf)
+[View](/publications/annual-reports/2012.html) \| [Download as PDF](/resources-old-website/community-content/Zentralredaktion/JahresberichtEnglisch.pdf)
 
 ## 2011
 
