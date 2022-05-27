@@ -26,7 +26,7 @@ In this workshop Muscat will be demonstrated and participants will learn how to 
 This session will continue the skills learned in Monday's session. Participants will learn how to catalog manuscript collections as well as printed music. Basic knowledge of Muscat is required, either from the Monday session or participation in a previous Muscat workshop.
 
 
-Muscat is web-based (no installation required), but please [note the technical requirements](/community/muscat.html#c3410). The workshop will be held online using Zoom.   
+Muscat is web-based (no installation required), but please [note the technical requirements](/community/muscat.html). The workshop will be held online using Zoom.   
 
 This workshop will be given again in the spring and fall of 2021. Additional workshops can be held upon request.   
 

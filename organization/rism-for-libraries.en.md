@@ -77,7 +77,7 @@ Not everything from the books is in the OPAC (see the [Publications page](/publi
 
 ## Using RISM Data
 
-The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html#c2671) for more information.**
+The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
 
 ## RISM Logos
 
