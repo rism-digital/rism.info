@@ -1,3 +1,8 @@
+<article class="notification is-warning is-light">
+    <p class="has-text-weight-semibold">Temporary Closure</p>
+    <p>As a precautionary measure due to the novel coronavirus, the RISM Editorial Central in Frankfurt is closed. <a href="/new_at_rism/2020/03/18/rism-central-office-temporarily-closed.html">Details here</a></p>
+</article>
+
 ## Library Sigla
 
 [Search RISM's abbreviations](/community/sigla.html){:blank} for libraries, archives and collections with historical music holdings
