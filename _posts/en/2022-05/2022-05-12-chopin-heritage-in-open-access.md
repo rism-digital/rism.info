@@ -10,7 +10,7 @@ email: 'mail@nifc.pl'
 author: 'Fryderyk Chopin Institute'
 ---
 
-_We have received the following from the [Fryderyk Chopin Institute](https://nifc.pl/pl):_
+_We have received the following from the [Fryderyk Chopin Institute](https://nifc.pl/pl){:blank}:_
 
 30,000 photographs, 500 first editions of Chopin’s works, more than 3,000 issues of 19th-century magazines, almost 1,000 hours of recordings, manuscripts, works, Fryderyk Chopin’s correspondence, hundreds of iconographic objects and works of art – the largest Chopin collection in the world is now available online for free!  
 

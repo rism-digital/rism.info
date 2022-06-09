@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Temporary Closure</p>
-    <p>As a precautionary measure due to the novel coronavirus, the RISM Editorial Central in Frankfurt is closed. <a href="/new_at_rism/2020/03/18/rism-central-office-temporarily-closed.html">Details here</a></p>
+    <p class="has-text-weight-semibold">Call for Papers</p>
+    <p>Submissions are open for our conference Musical Sources: Past and Future. Please submit your abstract by June 15. <a href="/events/2022/05/09/musical-sources-past-and-future.html">Details here</a></p>
 </article>
 
 ## Library Sigla
