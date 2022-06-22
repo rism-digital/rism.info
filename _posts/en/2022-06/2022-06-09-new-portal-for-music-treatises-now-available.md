@@ -30,4 +30,6 @@ Take a look at [the animation which promotes the portal](https://youtu.be/OsymHq
 
 [You can visit the portal here](https://musictreatises.nifc.pl/en){:blank}.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OsymHqKI-ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OsymHqKI-ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+&nbsp;  
+&nbsp;  
