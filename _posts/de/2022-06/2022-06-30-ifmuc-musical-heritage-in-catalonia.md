@@ -16,7 +16,7 @@ Katalonien ist eine der wenigen europäischen Regionen, die noch den Reichtum ih
 
 Das Projekt IFMuC, ein katalanisches Akronym, das für "Inventar der Musiksammlungen in Katalonien" steht, wurde 2001-2002 an der Universitat Autònoma de Barcelona unter Beteiligung des Institut d'Estudis Catalans ins Leben gerufen. Seitdem hat das IFMuC zahlreiche Archive, Bestände und Manuskriptsammlungen in den "Census Fontes Musicæ Cataloniæ" aufgenommen und 28 verschiedene Bestände in öffentlichen, kirchlichen und privaten Archiven katalogisiert. Es ist ein Gesamtverzeichnis von mehr als tausend Komponisten und 15.247 Werken, die meisten davon auf Katalanisch.
 
-Das IFMuC baut eine digitale Plattform auf, um den freien Zugang zu all unseren Aufzeichnungen der handschriftlichen Sammlungen zu erleichtern, die aus zugeschriebenen  und anonymen Werken, Chorbüchern, mehrstimmigen Büchern [= handschriftlichen Partituren ???] und gedruckten Partituren bestehen.
+Das IFMuC baut eine digitale Plattform auf, um den freien Zugang zu all unseren Aufzeichnungen der handschriftlichen Sammlungen zu erleichtern, die aus zugeschriebenen und anonymen Werken, Chorbüchern, mehrstimmigen Büchern und gedruckten Partituren bestehen.
 
 Link zur Datenbank: [https://ifmuc.uab.cat/?ln=en](https://ifmuc.uab.cat/?ln=en){:blank}
 Link zur Webseite des IFMuC Projekts: [https://pagines.uab.cat/ifmuc/es](https://pagines.uab.cat/ifmuc/es){:blank}
