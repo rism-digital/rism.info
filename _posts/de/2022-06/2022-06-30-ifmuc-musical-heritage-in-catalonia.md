@@ -18,7 +18,7 @@ Das Projekt IFMuC, ein katalanisches Akronym, das für "Inventar der Musiksammlu
 
 Das IFMuC baut eine digitale Plattform auf, um den freien Zugang zu all unseren Aufzeichnungen der handschriftlichen Sammlungen zu erleichtern, die aus zugeschriebenen  und anonymen Werken, Chorbüchern, mehrstimmigen Büchern [= handschriftlichen Partituren ???] und gedruckten Partituren bestehen.
 
-Link zur Datenbank: https://ifmuc.uab.cat/?ln=en(https://ifmuc.uab.cat/?ln=en){:blank}
-Link zur Webseite des IFMuC Projekts: https://pagines.uab.cat/ifmuc/es(https://pagines.uab.cat/ifmuc/es){:blank}
+Link zur Datenbank: [https://ifmuc.uab.cat/?ln=en](https://ifmuc.uab.cat/?ln=en){:blank}
+Link zur Webseite des IFMuC Projekts: [https://pagines.uab.cat/ifmuc/es](https://pagines.uab.cat/ifmuc/es){:blank}
 
-Abbildung: Juan Barter (ca. 1648-1706), Incipit zu "Siganla todos," Fons de l'Església parroquial de Sant Pere i Sant Pau de Canet de Mar 1/40, aus der IFMuC Datenbank.  https://ifmuc.uab.cat/record/2136(https://ifmuc.uab.cat/record/2136){:blank}.
+Abbildung: Juan Barter (ca. 1648-1706), Incipit zu "Siganla todos," Fons de l'Església parroquial de Sant Pere i Sant Pau de Canet de Mar 1/40, [aus der IFMuC-Datenbank]https://ifmuc.uab.cat/record/2136(https://ifmuc.uab.cat/record/2136){:blank}.
