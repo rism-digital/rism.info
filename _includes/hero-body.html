@@ -44,7 +44,7 @@
                                         <div class="dropdown-trigger">  
                                             <div class="control">                                        
                                                 <a class="button is-primary" aria-haspopup="true" aria-controls="dropdown-menu4" href="javascript:opac()">
-                                                    <span>RISM OPAC</span>
+                                                    <span>RISM Catalog</span>
                                                     <span class="icon is-small">
                                                         <i class="unchecked fas" id="opac-unchecked"></i>
                                                         <i class="checked fas fa-check" style="display: none;" id="opac-checked"></i>
@@ -101,8 +101,12 @@
         if (search == "rism-online") {
             document.getElementById("rism-online-unchecked").style.display = "none";
             document.getElementById("rism-online-checked").style.display = "block"; 
+            document.getElementById("opac-unchecked").style.display = "block";
+            document.getElementById("opac-checked").style.display = "none"; 
         }
         else {
+            document.getElementById("rism-online-unchecked").style.display = "block";
+            document.getElementById("rism-online-checked").style.display = "none"; 
             document.getElementById("opac-unchecked").style.display = "none";
             document.getElementById("opac-checked").style.display = "block"; 
         }
