@@ -19,8 +19,8 @@ $navbar-item-active-color: $rism-editorial-center-white;
 $notification-radius: 3px;
 $notification-padding-ltr: 0.75rem;
 
-$input-radius: 1px;
-$control-radius: 1px;
+$input-radius: 3px;
+$control-radius: 3px;
 
 .sidenavbar {
     @extend .navbar;
@@ -72,9 +72,6 @@ $control-radius: 1px;
 }
 
 .opac-search {
-    input {
-        border-radius: 3px;
-    }
     .column {
         padding: 5px 0px;
         h1, h2 {
@@ -94,9 +91,6 @@ $control-radius: 1px;
     }
     div.engine:hover i.unchecked {
         display: none !important;
-    }
-    div.engine a {
-        border-radius: 3px;
     }
 }
 
