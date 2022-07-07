@@ -17,6 +17,9 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 Eine zweiteilige Muscat-Schulung wird am 26. Juli 2022 während des IAML-Kongresses in Prag stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Prag-Seite](/publications/iaml-congresses/2022.html).      
 
+### Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych, Warsaw
+Ewa Hauptman-Fischer, 4\.–6\. Juli 2022
+
 ### Online workshops
 
 Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Frühjahr und den Herbst 2022 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
@@ -24,7 +27,7 @@ Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Fr
 
 ## Vergangene Workshops und Vorführungen
 
-* 20\.–22\. Juni 2022: Muscat-Einführung, Chopin Institut, Warschau 
+* 21\.–22\. Juni 2022: Muscat-Einführung, Chopin Institut, Warschau 
 *Guido Kraus, RISM-Zentralredaktion*
 
 * 14\. und 16\. März 2022: Muscat-Einführung (Englisch), online  
