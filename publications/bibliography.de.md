@@ -566,6 +566,8 @@ Tuppen, Sandra: New RISM (U.K. and Ireland) database launched, in: Brio: Journal
 
 #### 2005
 
+Assunção, Maria Clara: Catalogação de documentos musicais escritos: uma abordagem à luz da evolução normativa. Master's thesis, Universidade de Évora, 2005. [Online verfügbar](https://doi.org/10.17613/M6ZZ9W){:blank}
+
 Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}
 
 Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM), in: Hudobný archív15 (2005), S. 250-254.
@@ -989,7 +991,9 @@ YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen: El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges, in: Cuadernos de Investigación Musical 14 (enero-junio 2022), S. 115-187. [Online verfügbar](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}
 
-Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438)
+Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}
+
+Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told, in: In Music Encoding Conference Proceedings 2021, hrsg. von Stefan Münnich und David Rizo, p. 107–115. Humanities Commons. 2022. [Online verfügbar](https://doi.org/10.17613/bqd1-yf81){:blank}
 
 "Zur Situation der Archive in der Ukraine", in: MGG Online, 2. März 2022. [Online verfügbar](https://www.mgg-online.com/news?id=d4c65a27-1254-451a-819e-8ce8db7f042d){:blank}.
 
