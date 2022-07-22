@@ -79,7 +79,7 @@ This is RISM's priority for printed music and is the easiest way for a library t
 
 Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
-Records imported from RISM's printed volumes [A/I](/publications.html#c36) (music by one composer published up to ca. 1800) and [B/I](/publications.html#c2619) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat.
+Records imported from RISM's printed volumes [A/I](/publications.html#series-a-inventories-of-musical-sources) (music by one composer published up to ca. 1800) and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat.
 
 #### Revising records from RISM's A/I or B series
 

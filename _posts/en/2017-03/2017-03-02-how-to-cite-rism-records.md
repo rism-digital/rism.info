@@ -11,6 +11,8 @@ email: ''
 author: ''
 ---
 
+[_This post was updated in 2022._](https://rism.info/new_at_rism/2022/05/19/how-to-cite-rism.html){:blank}  
+
 RISM is happy when scholars cite RISM records in their publications. Here we'll show you how to do that.
 
 **RISM ID number:** To cite musical sources that have records in the RISM online catalog, use the RISM ID number. This number appears in the bottom right-hand corner of a record (see image, left).
@@ -28,7 +30,7 @@ The RISM number can consist of nine or more digits, sometimes preceded by zeros.
 
 Use the RISM number regardless of source type: manuscript, printed edition, treatise, or libretto.
 
-**A/I and B/I numbers:** Sources from series A/I (_[Individual Prints before 1800](/publications.html#c36)_) and B/I ([printed anthologies](/publications.html#c2619), currently covering 1500-1550) that were originally reported in the printed volumes have their own identifiers—which are still valid—in addition to the electronic catalog's nine-digit numbers. If you wish to cite the A/I or B/I number, make sure to include the series name and note the space between the letters and numbers:
+**A/I and B/I numbers:** Sources from series A/I (_[Individual Prints before 1800](/publications.html#series-a-inventories-of-musical-sources)_) and B/I ([printed anthologies](/publications.html#series-b-bibliographies-organized-by-topic), currently covering 1500-1550) that were originally reported in the printed volumes have their own identifiers—which are still valid—in addition to the electronic catalog's nine-digit numbers. If you wish to cite the A/I or B/I number, make sure to include the series name and note the space between the letters and numbers:
 
 - [RISM A/I: S 6989](https://opac.rism.info/search?id=00000990063266&Language=en){:target="_blank"}
 

@@ -13,7 +13,7 @@ author: ''
 
 We are delighted to announce that there are some new cataloging tools available that will help improve the presence of RISM in local library catalogs.
 
-You can find these new resources in the [Cataloging Tools](/organization/rism-for-libraries.html#c3947) section of the RISM for Libraries page.
+You can find these new resources in the [Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools) section of the RISM for Libraries page.
 
 Among the new tools is a link to the OCLC record for the RISM OPAC. You can download this record so that your library users can find the free catalog in local discovery systems: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}. This record is the only up-to-date record for the OPAC in OCLC.
 

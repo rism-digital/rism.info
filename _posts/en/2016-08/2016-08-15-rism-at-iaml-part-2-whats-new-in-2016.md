@@ -23,11 +23,11 @@ July 7 was the traditional RISM open session. To start the session, Klaus presen
 
 - The [online catalog](https://opac.rism.info/){:target="_blank"} will undergo a minor update later this fall when Muscat is released. We also hope to better integrate our own authority files as well as those created by resources such as VIAF.
 
-- [Series B](/publications.html#c2619) continues to grow, and _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (edited by Ludwig Finscher, Laurenz Lütteken and Inga Mai Groote, assisted by Cristina Urchueguía, Gabriela Freiburghaus and Nicola Schneider), will be published this year by Henle as a book and database.
+- [Series B](/publications.html#series-b-bibliographies-organized-by-topic) continues to grow, and _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_ (edited by Ludwig Finscher, Laurenz Lütteken and Inga Mai Groote, assisted by Cristina Urchueguía, Gabriela Freiburghaus and Nicola Schneider), will be published this year by Henle as a book and database.
 
 - Results from the [online RISM survey](/community/survey.html) were published.
 
-- RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#c2620) directory of music repositories. Guidelines have been written and test data was imported into a database.
+- RISM continues to collaborate with the [Working Group on the Access to Music Archives](http://www.iaml.info/working-group-access-music-archives-project){:target="_blank"} to expand and update the [RISM Series C](/publications.html#series-c-directory-of-music-research-libraries) directory of music repositories. Guidelines have been written and test data was imported into a database.
 
 The rest of the session, as well as much of the [Advisory Council session](/organization/international-partners.html), was devoted to Muscat. In the Advisory Council session, which was attended by members of the RISM working groups along with a couple other interested parties, the council and the RISM Central Office agreed upon the following:
 

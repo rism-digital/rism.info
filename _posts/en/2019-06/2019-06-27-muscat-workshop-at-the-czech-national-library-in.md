@@ -16,7 +16,7 @@ A workshop for advanced users of Muscat, RISM's cataloging program for describin
 Guido Kraus from the RISM Central Office led the workshop for experienced catalogers from the RISM Prague working group, which is under the leadership of Zuzana Petrášková. The focus was on printed music and composite volumes.
 
 For the specialists out there:
-The workshop went into detail about how to edit and revise catalog records from the RISM series [A/I](/publications.html#c36) and [B/I](/publications.html#c2619) by adding holdings information to existing records and using the library's copy to revise a record.
+The workshop went into detail about how to edit and revise catalog records from the RISM series [A/I](/publications.html#series-a-inventories-of-musical-sources) and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) by adding holdings information to existing records and using the library's copy to revise a record.
 
 In addition, the group practiced creating new records, including records for anthologies (collections with individual records) and compositions issued individually.
 

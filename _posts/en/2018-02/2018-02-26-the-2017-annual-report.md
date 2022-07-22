@@ -11,11 +11,11 @@ email: ''
 author: ''
 ---
 
-The annual report for the RISM Central Office has been [published on our website](/publications/annual-reports/2017.html#c3550). Here are some of the highlights:
+The annual report for the RISM Central Office has been [published on our website](/publications/annual-reports/2017.html). Here are some of the highlights:
 
 **Total records:** Thanks to the hard work of our international contributors, the [RISM online catalog](https://opac.rism.info/){:target="_blank"} currently has 1,090,000 records.
 
-**Contributions from national groups:** The following national groups created new records in [Muscat](/community/muscat.html#c3306), RISM's cataloging program, totaling over 31,000 new records: Argentina, Austria, Belgium, Czech Republic, Germany, Hungary, Italy, Poland, Slovakia, Slovenia, South Korea, and the United States.
+**Contributions from national groups:** The following national groups created new records in [Muscat](/community/muscat.html), RISM's cataloging program, totaling over 31,000 new records: Argentina, Austria, Belgium, Czech Republic, Germany, Hungary, Italy, Poland, Slovakia, Slovenia, South Korea, and the United States.
 
 **Plans to import data:** RISM continues to work with [RISM France](http://ccfr.bnf.fr/){:target="_blank"}, [ICCU (Italy)](https://opac.sbn.it/opacsbn/opac/iccu/avanzata.jsp){:target="_blank"}, and the [Moravian Music Foundation](http://moravianmusic.org/){:target="_blank"} (US) to transfer records for musical sources to the RISM database. This year, [an agreement](/new_at_rism/2018/02/08/contract-signed-between-rism-and-unam.html){:target="_blank"} was reached with the [Seminario de Música en la nueva España y el México independiente](http://musicat.unam.mx/){:target="_blank"} at the Universidad Nacional Autónoma de México (UNAM). RISM will receive descriptions of the historical music collections from the Mexico City Cathedral.
 
@@ -31,7 +31,7 @@ The annual report for the RISM Central Office has been [published on our website
 
 **And, as always:**
 
-- **Corrections welcome:** The Zentralredaktion regularly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by sending us your [feedback and corrections.](http://www.rism.info/en/service/feedback.html#c2895)
+- **Corrections welcome:** The Zentralredaktion regularly receives suggestions and corrections from users. If you find something that should be corrected, please let us know by sending us your [feedback and corrections](/service/feedback.html).
 
 - **External databases welcome:** RISM is interested in further partnerships with institutions and projects to import data, such as library OPACs or critical editions.
 

@@ -68,8 +68,8 @@ The presentations, in alphabetical order:
 **Stefan Ikarus Kaiser** (RISM - Austrian Academy of Sciences): The Music Collection at Wilhering Abbey (Musiksammlung des Stiftes Wilhering)   
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf) (PDF)
 
-**Vjera Katalinic and**  **Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf){:target="_blank"}
+**Vjera Katalinic and Lucija Konfic** (RISM Croatia): Project RISM in Croatia: The Past Decade  
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) (PDF) \| [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic Konfic Folien.pdf){:target="_blank"}
 
 **Metoda Kokole and Klemen Grabnar** (RISM Slovenia): RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf) (PDF)
@@ -84,7 +84,7 @@ The presentations, in alphabetical order:
 **John G. Lazos** (Canada/Mexico): A Portrait of the Composer José Antonio Gómez: Encountering Independent Mexico through New Technologies
 
 **Helmut Loos** (University of Leipzig): Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen)  
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) (PDF; German)  [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf) (PDF; English summary)
+[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) (PDF; German) \| [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf) (PDF; English summary)
 
 **Mattias Lundberg** (RISM Sweden): The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?  
 [Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf) (PDF)
@@ -92,7 +92,7 @@ The presentations, in alphabetical order:
 **Beatriz Magalhaes Castro** (University of Brasilia): RISM Brazil in Relation to Ibero-AmericanRISM Projects: A Contextual Problem in Cross-Cultural Reference and Information Retrieval
 
 **Alina Mądry** (Poland): Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena (A Collection of Music Manuscripts from the Archive of the Archdiocese in Poznań: St. Maria Magdalena Collegiate Church)   
-[Paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) (PDF)   [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Mądry_Mainz RISM.pdf){:target="_blank"}
+[Paper (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) \| [Slides (PDF)](/resources-old-website/community-content/events/RISM_Conference_2012/Mądry_Mainz RISM.pdf){:target="_blank"}
 
 **Cheryl Martin** (RISM Canada): Canadian Music Resources in RISM
 

@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Fermeture Temporaire</p>
-    <p>Par mesure de précaution en lien avec le coronavirus, le RISM Editorial Center est actuellement fermé. <a href="/new_at_rism/2020/03/18/rism-central-office-temporarily-closed.html">Details ici</a></p>
+    <p class="has-text-weight-semibold">Upcoming Events</p>
+    <p>Join us at the IAML Congress in Prague, 24–29 July 2022. <a href="/publications/iaml-congresses/2022.html">Details here</a></p>
 </article>
 
 ## Sigles de bibliothèques

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-It is not surprising that music bibliographers find it difficult enough to distinguish between composers with common names, but that this also happens with somewhat rarer names is something we are going to illustrate today using an example from the [RISM A/I series](/publications.html#c36) (works by a single composer printed to 1800).
+It is not surprising that music bibliographers find it difficult enough to distinguish between composers with common names, but that this also happens with somewhat rarer names is something we are going to illustrate today using an example from the [RISM A/I series](/publications.html#series-a-inventories-of-musical-sources) (works by a single composer printed to 1800).
 
 RISM A/I number T 1262 ([RISM ID no. 992002574](https://opac.rism.info/search?id=00000992002574&Language=en){:target="_blank"}) is a volume of twelve three-part canons by the composer and doctor [Wenzel Trnka von Krzowitz](https://opac.rism.info/metaopac/perma.do?v=rism&q=-1%3d%22pe30004766%22&Language=en){:target="_blank"} (1739-1791). This man is not unknown to musicology because he created, among other things, the musical model for Mozart's notorious canon KV 233 (382d) (see Wolfgang Plath's essay on the subject, cited in RISM as [PlathT 1991](https://opac.rism.info/search?id=lit41000475&Language=en){:target="_blank"}, or Trnka's article on [Wikipedia](https://en.wikipedia.org/wiki/Wenzel_Trnka){:target="_blank"}). In the supplement volume to A/I, another twelve four-voice canons (TT 1262a; [RISM ID no. 991004429](https://opac.rism.info/search?id=00000991004429&Language=en){:target="_blank"}) are by the same Trnka.
 
@@ -22,9 +22,9 @@ A bit of searching in the publisher's catalogs by Alexander Weinmann, the Karlsr
 **Wenzel Johann Trnka (1782 - after 1849)**  
 
 | Without opus number | Title | Publisher | Year | Source found / Note |
-| ----------- | ----------- | ----------- | ----------- | ----------- | 
-| -      | 12 Danses Villageoises, pf 4hands, [1me Livraison?]       | Diabelli (PN ?) | 1821 | WeinmannC 1983; MGG1 | 
-| -   | 12 Danses Villageoises, pf 4hands, 2me Livraison        | Diabelli (PN 851) | 1821/22 | WeinmannC 1983 (A-Wgm); MGG1 | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| -      | 12 Danses Villageoises, pf 4hands, [1me Livraison?]       | Diabelli (PN ?) | 1821 | WeinmannC 1983; MGG1 |
+| -   | 12 Danses Villageoises, pf 4hands, 2me Livraison        | Diabelli (PN 851) | 1821/22 | WeinmannC 1983 (A-Wgm); MGG1 |
 | - | 12 Böhmische National-Ländler mit Trios, pf | Cappi & Diabelli (PN 1189) | 1823 (WZ: 26.2.1824) | WeinmannC 1983 (A-Wgm); MGG1; D-B (Imagekat I) |
 | - | Grande Polonaise, pf | Diabelli |  | MGG1 |
 | - | 8 Allemandes | Pennauer | 1827 | MGG1; WeinmannP 1981 |
@@ -35,25 +35,25 @@ A bit of searching in the publisher's catalogs by Alexander Weinmann, the Karlsr
 | - | Soirée-Galop mit Trio, pf | Weigl (PN 2902) | 1830 | HofmeisterMB; D-B (Imagekat I) |
 | - | Pickenick-Galopp sammt Trio, pf 4hands? | Weigl (PN 2816) | WZ: 19.2.1829 | WeinmannW 1982; D-B (Imagekat I) |
 | - | Sicheres Geleite, Gedicht v. Adolph Berger, V, pf, arp/guit | Lyra (Wien) Jg. 1, 1839, Nr 30. | 1839 | A-Wn |
-| - | Des Hauses letzte Stunde, V, pf | B & H | 1840? | US-LOs | 
+| - | Des Hauses letzte Stunde, V, pf | B & H | 1840? | US-LOs |
 | - | Die nächtliche Heerschau | B & H | 1839? | US-LOs |
 | - | Galoppe (Klänge des Frohsinns Heft 7) | Berka & Comp. | WZ: 7.2.1835 | |
 | **Opus** | | | | |
-| 1-9 | ? | | | | 
+| 1-9 | ? | | | |
 | 10 | Seconde Polonaise brillant | Pennauer | 1826 | A-Wst; WeinmannP 1981 |
 | 11 | 12 Walzer, pf | Sauer & Leidesdorf (PN 859) | 1826 | MGG1; WeinmannS 1972 (A-Wgm) |
 | 12 | Marche funebre a l’occacion de la mort S.M. Alexandre I, Empereur de Russie, pf 4hands | Weigl (PN 2507) | 1825? | WeinmannW 1982; D-B (Imagekat I) |
-| 13 | 6 Polonaises, pf | Weigl (PN 2510) | WZ: 22.8.1826 | PL-Tu; D-B (Imagekat I) | 
+| 13 | 6 Polonaises, pf | Weigl (PN 2510) | WZ: 22.8.1826 | PL-Tu; D-B (Imagekat I) |
 | 14 | Jubel-Marsch zur Feyer der Wiedergenesung des Landesvaters im März 1826, pf 4hands | Weigl (PN 2511) | 1826 | WeinmannW 1982; D-B (Imagekat I) |
 | 15 | 6 charakteristische Ländler, pf | Weigl (PN 2515) | 1826 | WeinmannW 1982; A-Wst; D-B (Imagekat I) |
 | 16 | 3 große Märsche d. löbl Inf.Rgt.60, pf 4hands | Sauer & Leidesdorf (PN 929) | WZ: 21.9.1826 | WeinmannS 1972; D-Dl |
 | 17 | 12 Walzer für Czakan und Pianoforte | ? Bei Haslinger z.h. | WZ: 27.2.1827 | Not in Weinmann Hasl.! |
-| 18 | Die Hirtenschalmei, 6 Ländler, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 | 
+| 18 | Die Hirtenschalmei, 6 Ländler, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 |
 | 19 | 6 Walzer samt Trio, pf | Weigl (PN ? ) | 1827 | WeinmannW 1982 |
 | 20 | 12 Walzer, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 |
 | 21 | Großer Parademarsch d. löbl. Inf.Rgt.60, pf 4hands | Leidesdorf (PN 956) | WZ: 25.6.1827 | WeinmannS 1972; D-B (Imagekat I) |
 | 22 | 6 Gedichte (Um Mitternacht, Rheinweinlied, Geisternähe, Petrarchische Bettler-Ode, Vergißmeinnicht, Der Traum) V, pf | Weigl (PN ?) | WZ: 27.4.1827 | WeinmannW 1982 |
-| 23 | 12 Walzer, pf, Csakan | Leidesdorf (PN ?) | 1827 | WeinmannS 1972 | 
+| 23 | 12 Walzer, pf, Csakan | Leidesdorf (PN ?) | 1827 | WeinmannS 1972 |
 | 24 | 6 Ländler mit Trios, Czakan, pf | Leidesdorf | 1828 | WeinmannS 1972 |
 | 25 | 12 Walzer, pf | Leidesdorf (PN ?) | 1828 | WeinmannS 1972 |
 | 26 | 3 militärische Märsche, pf 4hands | Weigl (PN 2786\|2787\|2788) | 1828? | D-B (Imagekat I) |

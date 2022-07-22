@@ -13,7 +13,7 @@ author: Christian Meyer
 
 _We have received this announcement from our colleague Christian Meyer:_
 
-The catalogs of manuscripts described in RISM's series B/III ([The Theory of Music](/publications.html#c2619), 6 vol., Munich: G. Henle, 1961-2003), published online in 2001 through the Lexicon musicum Latinum (LML), is now [available as a database](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.
+The catalogs of manuscripts described in RISM's series B/III ([The Theory of Music](/publications.html#series-b-bibliographies-organized-by-topic), 6 vol., Munich: G. Henle, 1961-2003), published online in 2001 through the Lexicon musicum Latinum (LML), is now [available as a database](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"}.
 
 The HTML pages and the transcriptions of texts that were in PDF were revised in the fall of 2017, edited, and updated. They are now available on the website [Musmed.fr](http://musmed.fr/RISM/rismindex01.htm){:target="_blank"}.
 

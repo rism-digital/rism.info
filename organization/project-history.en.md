@@ -28,7 +28,7 @@ old_url: http://www.rism.info/en/organisation/project-history.html
 | 1976–1982 | Director of the Zentralredaktion: Dr. Helmut Rösing |
 | 1978 | Start of [series A/II](/publications.html#series-a-inventories-of-musical-sources): Publication of the [catalogue of the Fürstlich Hohenlohe-Langenburg'sche Schlossbibliothek](/publications/bibliography.html#1978) in *Fontes* |
 | since 1978 | Support from UNESCO Conseil International de la Philosophie et des Sciences Humaines |
-| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publications.html#c2620) |
+| 1979 | Foundation of the association Internationales Quellenlexikon der Musik e.V. First publications of series C: C/IV: Cecil Hill, Katya Manor, James Siddons, Dorothy Freed, *Directory of Music Research Libraries. Volume 4: Australia, Israel, Japan, New Zealand*. Since then, 5 volumes have appeared in series C (some revised; see [RISM publications](/publications.html#series-c-directory-of-music-research-libraries) |
 | 1979–1986 | Publication of three [special volumes](/publications.html#special-volumes): Norbert Böker-Heil, Harald Heckmann, Ilse Kindermann: *Das Tenorlied. Mehrstimmige Lieder in deutschen Quellen 1450- 1580* |
 | 1980 | Inclusion of the Zentralredaktion in the "Akademienprogramm" financed by state and federal governments through the Conference of the Academies of Sciences |
 | 1981 | Publication of the [guidelines for series A/II](/publications/bibliography.html#1981) in *Fontes* |
@@ -48,7 +48,8 @@ old_url: http://www.rism.info/en/organisation/project-history.html
 | 1995 | First CD-ROM edition of series A/II (K.G. Saur). New editions annually until 2008. |
 | 1997 | First version of internet database of series A/II, a joint project of the RISM Zentralredaktion and the U.S. RISM Office at Harvard University. |
 | 1999 | Publication of the RISM library sigla as a [complete index](/publications.html#special-volumes) |
-| 2002 | International congress: **Scientific and Technological Challenges of Musicological Source Research at International Level — 50 Years RISM**. Second version of internet database of Series A/II with biannual updates. Provider: National Information Services Corporation (NISC USA) | 2006 | Introduction of the program Kallisto to catalog musical sources; PIKaDo phased out |
+| 2002 | International congress: **Scientific and Technological Challenges of Musicological Source Research at International Level — 50 Years RISM**. Second version of internet database of Series A/II with biannual updates. Provider: National Information Services Corporation (NISC USA) |
+| 2006 | Introduction of the program Kallisto to catalog musical sources; PIKaDo phased out |
 | since 2008 | Database offered through EBSCO |
 | 2010 | RISM Catalog of Musical Sources database launched online free of charge with monthly updates at [https://opac.rism.info/](https://opac.rism.info/){:blank}, a project of the RISM Zentralredaktion in cooperation with the Bavarian State Library (Munich) and the State Library of Berlin.  |
 | 2012 | International conference: **[Music Documentation in Libraries, Scholarship, and Practice](/publications/conferences/conference-2012.html)** |

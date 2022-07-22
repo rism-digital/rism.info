@@ -19,6 +19,6 @@ The Lost Voices Project is now online:
 
 "Here readers will find facsimiles of all sixteen sets of books, plus modern transcriptions, scholarly commentaries, and tools for research."
 
-The transcriptions have been encoded using [MEI](https://music-encoding.org/){:target="_blank"}. Users can browse by book, pieces, and people. A variety of search options are also available. For each book, [RISM B/I](/publications.html#c2619) numbers are cited. Pieces include links to a modern edition, a sound recording, and a facsimile of the original source.
+The transcriptions have been encoded using [MEI](https://music-encoding.org/){:target="_blank"}. Users can browse by book, pieces, and people. A variety of search options are also available. For each book, [RISM B/I](/publications.html#series-b-bibliographies-organized-by-topic) numbers are cited. Pieces include links to a modern edition, a sound recording, and a facsimile of the original source.
 
 Interaction from other scholars is encouraged. Users can comment on pieces and view annotations made by other scholars. The project is open source and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US), so scholars are free to share and adapt these materials.

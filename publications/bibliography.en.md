@@ -16,7 +16,7 @@ old_url: http://www.rism.info/publications/bibliography.html
 
 ### Publications about RISM
 
-_Jump to:_ [1940s](#c1940) [1950s](#c1950)   [1960s](#c1960)   [1970s](#c1970)   [1980s](#c1980)  [1990s](#c1990)   [2000s](#c2000)   [2010s](#c2010) [2020s](#c2020)
+_Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c1970) \|  [1980s](#c1980) \| [1990s](#c1990) \| [2000s](#c2000) \| [2010s](#c2010) \| [2020s](#c2020)
 
 #### 1949 <a name="c1940"></a>  
 
@@ -562,6 +562,8 @@ Tuppen, Sandra. "New RISM (U.K. and Ireland) database launched." _Brio: Journal 
 
 #### 2005
 
+Assunção, Maria Clara. "Catalogação de documentos musicais escritos: uma abordagem à luz da evolução normativa." Master's thesis, Universidade de Évora, 2005. [Available online.](https://doi.org/10.17613/M6ZZ9W){:blank}.   
+
 Hanke Knaus, Gabriella. "Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz." _KGS Forum PBC PCP_ 6 (2005): 34-41. [Available online](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}.  
 
 Mikušák, Adrián. "Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM)." _Hudobný archív_ 15 (2005):250-254.   
@@ -983,6 +985,8 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.  
 
+Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told." In _Music Encoding Conference Proceedings 2021_, edited by Stefan Münnich and David Rizo, 107–115. Humanities Commons. 2022. [Available online](https://doi.org/10.17613/bqd1-yf81){:blank}.  
+
 "Zur Situation der Archive in der Ukraine." _MGG Online_, March 2, 2022. [Available online](https://www.mgg-online.com/news?id=d4c65a27-1254-451a-819e-8ce8db7f042d){:blank}.
 
 
@@ -991,7 +995,8 @@ Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The 
 You can find out more about the work of RISM from the following publications:
 
 - RISM [annual reports](/publications/annual-reports.html)
-- RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"}.  
+- RISM reports from the annual IAML conferences, regularly published [on the IAML website](https://www.iaml.info/r-projects){:target="_blank"} and (to 2015) in [_Fontes artis musicae_](https://www.jstor.org/journal/fontartimusi){:blank}  
+- RISM annual reports published in the [_IMS Newsletter_](https://www.musicology.org/publications/ims-newsletter){:blank}  
 - Publications from the RISM Zentralredaktionen
   - RISM. Plans, Rapports, Communiqués, Paris ca. 1954, Continuation: Communiqués 5-8, ca. 1954-1960. [Available online](/resources-old-website/community-content/Zentralredaktion/communiques.pdf).  
   - _Info RISM_, published by the RISM Zentralredaktion from 1989-2001. All issues are now [available online](/publications/info-rism.html).

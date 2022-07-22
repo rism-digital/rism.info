@@ -12,7 +12,13 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
 ## Zukünftige Schulungen
-      
+
+### IAML Prag
+
+Eine zweiteilige Muscat-Schulung wird am 26. Juli 2022 während des IAML-Kongresses in Prag stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Prag-Seite](/publications/iaml-congresses/2022.html).      
+
+### Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych, Warsaw
+Ewa Hauptman-Fischer, 4\.–6\. Juli 2022
 
 ### Online workshops
 
@@ -21,51 +27,53 @@ Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Fr
 
 ## Vergangene Workshops und Vorführungen
 
-* 14\. und 16.\ März 2022: Muscat Einführung (Englisch), online  
+* 21\.–22\. Juni 2022: Muscat-Einführung, Chopin Institut, Warschau 
+*Guido Kraus, RISM-Zentralredaktion*
+
+* 14\. und 16\. März 2022: Muscat-Einführung (Englisch), online  
 *Jennifer Ward, RISM-Zentralredaktion*
 
 * 26\. November, 10\. Dezember 2021, 14\. Januar 2022: Archival Skills, Universität Salzburg  
 *Eva Neumayr, RISM Salzburg*
 
-* 29\. November und 1\. Dezember 2021: Muscat Einführung (Englisch), online  
+* 29\. November und 1\. Dezember 2021: Muscat-Einführung (Englisch), online  
 *Jennifer Ward, RISM-Zentralredaktion*
 
 * Oktober 2021 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea 
 *JeongYoun Chang, Korea National University of Arts*
 
-* 22\. und 24\. Juni 2021: Muscat Einführung, online\
+* 22\. und 24\. Juni 2021: Muscat-Einführung, online\
 *Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
 
-* 22\. und 24\. Februar 2021: [Muscat Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
+* 22\. und 24\. Februar 2021: [Muscat-Einführung](/events/2021/02/04/introductory-muscat-workshops-february-2021.html), online\
 *Martina Falletta und Jennifer Ward, RISM-Zentralredaktion* (Deutsch, Englisch)
 
 * 18\. Februar 2021: Koninklijk Muziekconservatorium, Gent (online)\
-*Jennifer Ward, RISM Zentralredaktion* 
+*Jennifer Ward, RISM-Zentralredaktion* 
 
-* Herbst-Workshops 2020: [Muscat Einführung](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
+* Herbst-Workshops 2020: [Muscat-Einführung](/events/2020/10/22/introductory-muscat-workshops-in-november-full.html), online      
      - 16\. und 18\. November 2020 (Deutsch, Englisch)     
-    *Martina Falletta und Jennifer Ward (RISM Zentralredaktion)*
-    - 23\. und 25\. November  2020 (Italienisch)     
-    *Martina Falletta (RISM Zentralredaktion)*
+    *Martina Falletta und Jennifer Ward (RISM-Zentralredaktion)*
+    - 23\. und 25\. November 2020 (Italienisch)     
+    *Martina Falletta (RISM-Zentralredaktion)*
     - 24\. und 26\. November 2020 (Englisch)     
-    *Jennifer Ward (RISM Zentralredaktion)*
+    *Jennifer Ward (RISM-Zentralredaktion)*
     - 29\. November und 1\. Dezember 2020 (Englisch)     
-    *Jennifer Ward (RISM Zentralredaktion)*
+    *Jennifer Ward (RISM-Zentralredaktion)*
 
-* November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea (
+* November 2020 (Freitags): [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/academics/music.do){:target="_blank"}, Seoul, Südkorea\ 
 *JeongYoun Chang, Korea National University of Arts*
 
-
 * 13\. Oktober 2020: RISM United Kingdom, online\
-*Jennifer Ward, RISM Zentralredaktion*
+*Jennifer Ward, RISM-Zentralredaktion*
 
 * 15\. September 2020: [IAML Deutschland Jahrestagung](http://www.aibm.info/tagungen/2020-bonn/){:target="_blank"}, Bonn\
-*Martina Falletta (RISM Zentralredaktion)*
+*Martina Falletta, RISM-Zentralredaktion*
 
-* 7\.-8\. September 2020: Chopin-Institut, Warschau (Online)
+* 7\.-8\. September 2020: Chopin-Institut, Warschau (online)
 
-* 3\.-7\. August 2020: Chopin-Institut, Warschau (Online)\
-*Guido Kraus (RISM Zentralredaktion) und Marcelina Chojecka (Chopin-Institut NIFC, Warschau)*
+* 3\.-7\. August 2020: Chopin-Institut, Warschau (online)\
+*Guido Kraus (RISM-Zentralredaktion) und Marcelina Chojecka (Chopin-Institut NIFC, Warschau)*
 
 * 19\.-21\. Februar 2020: Seminario de Introducción a la Catalogación Musical con Muscat-RISM, Teil der Konferenz [Primeras Jornadas de Investigación Musical](https://unl.edu.ec/joim2020/ponente){:target="_blank"}, Universidad Nacional de Loja, Ecuador\
 *Rodrigo Balaguer and Lucas Reccitelli (RISM Arbeitsgruppe Córdoba, Argentinien)*

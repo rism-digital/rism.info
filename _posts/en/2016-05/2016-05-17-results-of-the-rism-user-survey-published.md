@@ -13,7 +13,7 @@ author: ''
 
 We are pleased to present the results of the RISM catalog survey, available on the RISM Survey page:
 
-[The RISM Online User Survey: Report](/community/survey.html#c3127) (May 2016; also available in German)
+[The RISM Online User Survey: Report](/community/survey.html) (May 2016; also available in German)
 
 The survey was conducted from October 30, 2014 until February 28, 2015. We received a total of 551 responses from people around the world.
 

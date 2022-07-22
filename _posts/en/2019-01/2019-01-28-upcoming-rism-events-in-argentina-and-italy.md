@@ -13,7 +13,7 @@ author: ''
 
 Thanks to the efforts of our colleagues in other countries, two events will enable the close study of musical sources: a workshop and an internship.
 
-[**Muscat Workshop**](/community/muscat.html#c3432)  
+[**Muscat Workshop**](/community/muscat.html)  
 **Universidad Nacional de Córdoba, Argentina  
 March 25-29, 2019**
 

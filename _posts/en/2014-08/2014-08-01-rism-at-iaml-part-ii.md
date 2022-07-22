@@ -15,7 +15,7 @@ As we wrote in this space on Wednesday, RISM reported on its activities at the [
 
 Highlights include:
 
-- There is a new [Board of Directors](/organization/the-association.html) and a new [Coordinating Committee](/organization/international-partners.html#c32)
+- There is a new [Board of Directors](/organization/the-association.html) and a new [Coordinating Committee](/organization.html#coordinating-committee)
 
 - A new version of the [OPAC](http://opac.rism.info/){:target="_blank"} was released in April 2014
 

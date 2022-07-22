@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Printed music is one of the "classic" RISM sources, with a long RISM tradition alongside music manuscripts, libretti, and treatises. Searching for printed music in the RISM catalog has only been possible since 2015, when printed editions by a single composer (to 1800) were added along with anthologies printed between 1500 and 1550. A translation for our long-time RISM users: this was all of [series A/I](/publications.html#c36) and the first half of [B/I](/publications.html#c2619), published in the blue books (see photo).
+Printed music is one of the "classic" RISM sources, with a long RISM tradition alongside music manuscripts, libretti, and treatises. Searching for printed music in the RISM catalog has only been possible since 2015, when printed editions by a single composer (to 1800) were added along with anthologies printed between 1500 and 1550. A translation for our long-time RISM users: this was all of [series A/I](/publications.html#series-a-inventories-of-musical-sources) and the first half of [B/I](/publications.html#series-b-bibliographies-organized-by-topic), published in the blue books (see photo).
 
 Since this major addition, we have been working on bringing the 16th century to a close and moving into the 17th century. The years 1601-1610 are now in RISM (and we'll have a behind-the-scenes look at this on Thursday). But given the different projects being undertaken by our RISM contributors around the world, you'll find printed music that falls into the supposed chronological gaps, and even beyond. So how do you know what you can search for?
 

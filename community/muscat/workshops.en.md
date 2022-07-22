@@ -15,10 +15,19 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
+### IAML Prague
+A two-part Muscat training session will be held on 26 July 2022 during the IAML Congress in Prague. Please see [our IAML Prague page](/publications/iaml-congresses/2022.html) for details, including registration information.
+
 ### Online workshops
-The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring and fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
+
+The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ## Past workshops and demonstrations  
+* 4–6 July 2022: Muscat Introduction, Warsaw  
+_Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_  
+
+* 21–22 June 2022: [Muscat introduction, Chopin Institute, Warsaw](/new_at_rism/2022/07/07/muscat-workshop-in-warsaw.html)
+*Guido Kraus (RISM Editorial Center)*  
 
 * 14 and 16 March 2022: Muscat introduction, online  
 *Jennifer Ward (RISM Editorial Center)*  

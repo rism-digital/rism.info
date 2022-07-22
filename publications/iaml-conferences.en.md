@@ -8,7 +8,9 @@ old_url: http://www.rism.info/en/publications/iaml-congresses.html
 
 # IAML Congresses
 
-For more information about RISM at annual [IAML congresses](https://www.iaml.info/congresses){:blank}, please select a year:
+For more information about RISM at annual [IAML congresses](https://www.iaml.info/congresses){:blank}, please select a year:  
+
+[2022 (Prague)](/publications/iaml-congresses/2022.html)
 
 [2021 (Online)](/publications/iaml-congresses/2021.html)
 

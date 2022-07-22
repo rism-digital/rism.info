@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The newest volume in RISM's [Series B](/publications.html#c2619) has just been published:
+The newest volume in RISM's [Series B](/publications.html#series-b-bibliographies-organized-by-topic) has just been published:
 
 Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, eds., _[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](http://www.henle.de/en/detail/index.html?Title=Die+Triosonate.+Catalogue+Raisonn%C3%A9+der+gedruckten+Quellen_2531){:target="_blank"}._ RISM B/XVII. Munich: Henle, 2016. ISBN 978-3-87328-156-1
 
