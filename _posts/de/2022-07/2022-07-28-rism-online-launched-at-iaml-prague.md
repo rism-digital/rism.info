@@ -5,7 +5,7 @@ date: 2022-07-28
 lang: en
 post: true
 category: events
-image: "/images/news/2022-07/rism-iaml-prague-website.jpg"
+image: "/images/news/2022-07/2022-07-rism-online-iaml-prague-screen.jpg"
 email: ''
 author: ''
 ---
