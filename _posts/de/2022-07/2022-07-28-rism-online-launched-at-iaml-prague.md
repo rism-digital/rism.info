@@ -2,7 +2,7 @@
 layout: post
 title: "RISM Online wird auf dem IAML-Kongress in Prag vorgestellt"
 date: 2022-07-28
-lang: en
+lang: de
 post: true
 category: events
 image: "/images/news/2022-07/2022-07-rism-online-iaml-prague-screen.jpg"
