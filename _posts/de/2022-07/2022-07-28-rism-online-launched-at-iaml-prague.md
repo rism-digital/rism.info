@@ -16,7 +16,7 @@ Die Einführung des neuen Tools bringt auch eine kleine Änderung auf unserer Ho
 
 Zu den wichtigsten Funktionen von RISM Online, die für unsere Benutzer interessant sein könnten, gehören:  
 - Eine neue Incipit-Suche (über das Achtelnoten-Symbol auf der linken Seite) mit farbiger Hervorhebung der Noten, die die Übereinstimmung mit der Suchanfrage anzeigen.  
-. Spezielle Suchfunktionen für unsere Personen und Institutionen (durch Anklicken der entsprechenden Symbole über den Achtelnoten auf der linken Seite) und eine neue Schnittstelle zur Erkundung der mit ihnen verbundenen Quellen.  
+- Spezielle Suchfunktionen für unsere Personen und Institutionen (durch Anklicken der entsprechenden Symbole über den Achtelnoten auf der linken Seite) und eine neue Schnittstelle zur Erkundung der mit ihnen verbundenen Quellen.  
 - Eine neue Funktion "Globale Sammlungen" (zu erreichen über das Globus-Symbol in der oberen linken Ecke), die einen Link zum Durchsuchen nur der Sammlungen eines bestimmten Landes bietet.  
 - Eine innovative Datensatzvorschau, die Suchergebnisse und Datensätze auf demselben Bildschirm anzeigt und es den Nutzern ermöglicht, schnell nützliche Ergebnisse zu identifizieren, die sie möglicherweise weiter untersuchen möchten.  
 
