@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Call for Papers</p>
-    <p>Submissions are open for our conference Musical Sources: Past and Future. Please submit your abstract by June 15. <a href="/events/2022/05/09/musical-sources-past-and-future.html">Details here</a></p>
+    <p class="has-text-weight-semibold">Upcoming Events</p>
+    <p>Join us at the IAML Congress in Prague, 24–29 July 2022. <a href="/publications/iaml-congresses/2022.html">Details here</a></p>
 </article>
 
 ## Library Sigla

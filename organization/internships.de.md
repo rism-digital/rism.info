@@ -32,6 +32,10 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 # Ehemalige Praktikanten
 
+#### 2022
+
+Noah Lieven (Deutschland)
+
 #### 2021
 
 Deanna Pellerano (USA) [Bericht](/new_at_rism/2021-05-25-my-rism-internship-a-new-cataloging-experience.html){:target="_blank"}
