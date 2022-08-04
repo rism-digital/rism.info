@@ -19,6 +19,9 @@ $navbar-item-active-color: $rism-editorial-center-white;
 $notification-radius: 3px;
 $notification-padding-ltr: 0.75rem;
 
+$input-radius: 3px;
+$control-radius: 3px;
+
 .sidenavbar {
     @extend .navbar;
     display: flex;
@@ -81,7 +84,14 @@ $notification-padding-ltr: 0.75rem;
         h2 {
             font-size: 18px; 
         }
-    }   
+    }
+    // Show / hide the checkbox on mouse over
+    div.engine:hover i.checked { 
+        display: block !important;
+    }
+    div.engine:hover i.unchecked {
+        display: none !important;
+    }
 }
 
 @import 'sigla';
