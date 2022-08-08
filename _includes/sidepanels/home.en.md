@@ -1,5 +1,5 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Call for Papers</p>
+    <p class="has-text-weight-semibold">Upcoming Events</p>
     <p>Join us at the IMS Congress in Athens, 22-26 August 2022. <a href="https://pcoconvin.eventsair.com/ims22/">Details here</a></p>
 </article>
 
