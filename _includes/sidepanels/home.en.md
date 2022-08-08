@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
     <p class="has-text-weight-semibold">Call for Papers</p>
-    <p>Submissions are open for our conference Musical Sources: Past and Future. Please submit your abstract by June 15. <a href="/events/2022/05/09/musical-sources-past-and-future.html">Details here</a></p>
+    <p>Join us at the IMS Congress in Athens, 22-26 August 2022. <a href="https://pcoconvin.eventsair.com/ims22/">Details here</a></p>
 </article>
 
 ## Library Sigla
