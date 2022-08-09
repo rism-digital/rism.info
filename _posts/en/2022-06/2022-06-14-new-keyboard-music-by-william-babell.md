@@ -24,4 +24,4 @@ One might wonder what the purpose of this manuscript was, which includes, at the
 
 More details can be read in the full article, including Babell's relationship with Handel's music and the music of other composers such as Jean-François Dandrieu. We have updated the RISM entries for the Bergamo manuscript in accordance with Woolley's findings.
 
-_Image_: Babell's Toccata no. 3 in a transcription by Grant Colburn, based on the Bergamo manuscript. This and other selections from the manuscript are available on [IMSLP](https://imslp.org/wiki/Toccata_No.3_(Babell%2C_William)){:blank} ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){:blank})
+_Image_: Babell's Toccata no. 3 in a transcription by Grant Colburn, based on the Bergamo manuscript. This and other selections from the manuscript are available on [IMSLP](https://imslp.org/wiki/Toccata_No.3_(Babell%2C_William)){:blank} ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){:blank}).

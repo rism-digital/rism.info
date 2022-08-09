@@ -21,8 +21,8 @@ Beide Gesellschaften haben bei ihren Kongressen in diesem Jahr neue Delegierte b
 
 - Mathias Auclair, Paris(Frankreich)
 - Richard Chesser, London (UK)
-- Dr.Massimo Gentili-Tedeschi, Mailand (Italien)
-- Prof. Dr.Beatriz Magalhães Castro, Brasilia (Brasilien)
+- Dr. Massimo Gentili-Tedeschi, Mailand (Italien)
+- Prof. Dr. Beatriz Magalhães Castro, Brasilia (Brasilien)
 - Dr. Balázs Mikusi, Budapest (Ungarn)
 
 **IMS Delegierte**
