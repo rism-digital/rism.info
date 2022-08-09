@@ -11,9 +11,9 @@ email: eliska.sediva@nkp.cz
 author: Eliška Šedivá
 ---
 
-_Die nachfolgende Meldung erreichte uns von Eliška Šedivá (Nationalbibliothek, Prag):_
+_Die nachfolgende Meldung erreichte uns von Eliška Šedivá (Nationalbibliothek Prag):_
 
-Die Musikabteilung der [tschechischen Nationalbibliothek](http://www.en.nkp.cz/about-us/professional-activities/music){:target="_blank"} präsentiert eine Datenbank der böhmischen Wasserzeichen, die kontinuierlich wachsen wird durch die Katalogisierung und Überprüfung der Musikquellen, die in der elektronischen Musikdatenbank der tschechischen Nationalbibliothek von der RISM-Arbeitsgruppe in Prag bearbeitet werden. Weitere Informationen erhalten Sie direkt auf der Seite der Datenbank:[http://aleph.nkp.cz/web/watermarks/eng/intro.htm](http://aleph.nkp.cz/web/watermarks/eng/intro.htm)
+Die Musikabteilung der [tschechischen Nationalbibliothek](http://www.en.nkp.cz/about-us/professional-activities/music){:target="_blank"} präsentiert eine Datenbank der böhmischen Wasserzeichen, die kontinuierlich wachsen wird durch die Katalogisierung und Überprüfung der Musikquellen, die in der elektronischen Musikdatenbank der tschechischen Nationalbibliothek von der RISM-Arbeitsgruppe in Prag bearbeitet werden. Weitere Informationen erhalten Sie direkt auf der Seite der Datenbank: [http://aleph.nkp.cz/web/watermarks/eng/intro.htm](http://aleph.nkp.cz/web/watermarks/eng/intro.htm)
 
 Wir schätzen Ihre Anmerkungen und Kommentare!
 
