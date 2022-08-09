@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-_Vier Personen aus der RISM-Zentralredaktion nahmen im Juni 2017 am jährlichen IAML Kongress in Riga (Lettland) teil. Die Tagebucheinträge der vier Teilnehmer wurden vorab auf der_ _[IAML Website](http://www.iaml.info/news/iaml-riga-congress-diary-5-riga-rism-ligo-germany-usa){:target="_blank"} veröffentlicht. Die Eindrücke werden in der jeweiligen Muttersprache wiedergegeben._
+_Vier Personen aus der RISM-Zentralredaktion nahmen im Juni 2017 am jährlichen IAML-Kongress in Riga (Lettland) teil. Die Tagebucheinträge der vier Teilnehmer wurden vorab auf der_ _[IAML Website](http://www.iaml.info/news/iaml-riga-congress-diary-5-riga-rism-ligo-germany-usa){:target="_blank"} veröffentlicht. Die Eindrücke werden in der jeweiligen Muttersprache wiedergegeben._
 
 
 **Klaus Keil: Opernsammlung in der Nationalbibliothk**
@@ -59,7 +59,7 @@ _Foto: V. Tompkins_
 
 **Jennifer Ward: Riga, City of Music**
 
-One of the aspects of Riga that will stay in my mind is how musical the city is. Apart from the congress itself, where we heard the acclaimed composerĒriks Ešenvalds, the conductorInts Teterovskis, and the [State Choir LATVIJA](http://www.koris.lv/), the city seemed to have music coming from every street corner. Some of the things I will remember:
+One of the aspects of Riga that will stay in my mind is how musical the city is. Apart from the congress itself, where we heard the acclaimed composer Ēriks Ešenvalds, the conductor Ints Teterovskis, and the [State Choir LATVIJA](http://www.koris.lv/), the city seemed to have music coming from every street corner. Some of the things I will remember:
 
 - The buskers: two children playing recorders and one elderly woman playing a _kokle_
 - The building that depicts lyres and a treble clef, clearly in Art Nouveau style (and way off the beaten track from our Wednesday afternoon [Art Nouveau tour](http://www.latvia.eu/traditions-culture/art-nouveau)), modestly tucked among buildings that have seen better days
@@ -77,4 +77,4 @@ _The entrance to the Mežaparks (Foto: J. Ward)_
 
 ![Art nouveau in Riga](http://www.iaml.info/sites/default/files/rigaerfahrung_iaml_2017_ward_jugendstil528x437.jpg)
 
-_Art Nouveau off the beaten track_ _(Foto: J. Ward)_
+_Art Nouveau off the beaten track (Foto: J. Ward)_
