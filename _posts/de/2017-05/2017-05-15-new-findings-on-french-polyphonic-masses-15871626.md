@@ -19,6 +19,6 @@ Weiterhin gibt es 12 Drucke mit Werken von Jehan (Jean) Titelouze, Hugues de Fon
 
 Dieser Band spiegelt das Repertoire wider, das vermutlich in den französischen Kirchen der Zeit gesunden wurde: eine Mischung aus Meistern der Spätrenaissance - wie Du Caurroy und Lassus - und der ersten Generation französischer Meister des 17. Jahrhunderts, die - wie Titelouze - dem barocken Einfluss gefolgt sind. Der Grund, warum dieser Band bisher nicht entdeckt wurde, bleibt im vagen verborgen: er stammt aus der Musikbibliothek der Minims von Paris, die zum persönlichen Gebrauch des Theoretikers Marin Mersenne eingerichtet wurde und 1912 in die Bibliothek überging ...
 
-Bibliographische Details finden Sie in: Laurent Guillo, Découverte à la bibliothèque de Fels (Institut catholique de Paris)d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626), in: [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102 (2016), S. 379-394.
+Bibliographische Details finden Sie in: Laurent Guillo, Découverte à la bibliothèque de Fels (Institut catholique de Paris) d’un recueil de messes contenant des œuvres retrouvées de Titelouze, Du Caurroy, Fontenay et Bournonville (Paris, 1587-1626), in: [_Revue de musicologie_](http://www.sfmusicologie.fr/index.php?id=64){:target="_blank"} 102 (2016), S. 379-394.
 
 _Abbilidung_ : Jehan Titelouze, _Missa Simpli corde_ 6v. Paris: Pierre I Ballard, 1626. Paris, Institut Catholique: b.258(24).
