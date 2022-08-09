@@ -1,6 +1,6 @@
 <div class="p-2 notification is-warning is-light">
     <p class="has-text-weight-semibold">Kommende Veranstaltungen</p>
-    <p>Besuchen Sie uns auf dem IAML-Kongress in Prag vom 24.–29. Juli 2022. <a href="/publications/iaml-congresses/2022.html">Details hier</a></p>
+    <p>Besuchen Sie uns auf dem IMS-Kongress in Athen vom 22.–26. August 2022. <a href="https://pcoconvin.eventsair.com/ims22/">Details hier</a></p>
 </div>
 
 ## RISM Bibliothekssigel
