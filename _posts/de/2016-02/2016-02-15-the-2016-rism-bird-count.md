@@ -41,9 +41,10 @@ _Nachtigall: Aus_ Birds of Europe _von John Gould, London, 1837. [New York Publi
 Da wir Sie Musik erkunden lassen, die unsere gefiederten Freunde bringen, möchten wir auf eine Publikation des 18. Jahrhunderts hinweisen (RISM A/I: [C 4544](https://opac.rism.info/search?id=00000990011878){:target="_blank"}; die früheste Ausgabe stammt von 1717), welche laut [Sarah Angliss](http://www.sarahangliss.com/talks/birdfancyersdelightnotes){:target="_blank"} eine von mehreren Methoden vorstellt, den Vögeln verschiedene Melodien beizubringen:
 
 ![Bird Fancyer's Delight](/resources-old-website/news/Vogelzaehlung_bird_fancyers.jpg)
+
 _The Bird Fancyer's Delight, or Choice Observations And Directions Concerning the Teaching of all sorts of Singing Birds, after the Flagelet and Flute...within the Compass and faculty of each Bird, viz for the Canary-Bird, Linnet, Bull-Finch, Wood-Lark, Black-Bird, Throustill, Nightingale and Starling_
 
-Abbildung von der [_University of Cardiff_]((https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:target="_blank"}
+Abbildung von der [University of Cardiff](https://www.cardiff.ac.uk/special-collections/explore/collection/mackworth-music-scores){:target="_blank"}
 
 Eine digitalisierte Version ist bei [IMSLP](http://imslp.org/wiki/The_Bird_Fancyer's_Delight_%28Walsh,_John%29){:target="_blank"} verfügbar und Angliss hat einige Ausschnitte [hier](https://soundcloud.com/sarahangliss/sets/the-bird-fancyers-delight){:target="_blank"} aufgezeichnet.
 
