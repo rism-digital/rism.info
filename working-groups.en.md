@@ -394,9 +394,9 @@ See also: [https://www.rism.info/working-groups/mexico/home.html](/working-group
 ## THE NETHERLANDS
 
 RISM-Nederland\
-Drs Simon Groot\
+Dr. Simon Groot\
 Universiteit van Amsterdam\
-Bijzondere Collecties\
+Allard Pierson \| Bijzondere Collecties\
 Email: [rism-nederland@uva.nl](mailto:rism-nederland@uva.nl)
 
 ## NORWAY
