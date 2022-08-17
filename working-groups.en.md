@@ -259,7 +259,7 @@ Département de la Musique\
 F-75002 Paris\
 Telephone: +33 1 53798851\
 Email: [mathias.auclair@bnf.fr](mailto:mathias.auclair@bnf.fr)\
-Website: https://www.bnf.fr/fr/departement-de-la-musique
+Website: https://www.bnf.fr/fr/departement-de-la-musique\
 See also: [https://www.rism.info/working-groups/france/home.html](/working-groups/france/home.html){:blank}
 
 ## GERMANY
