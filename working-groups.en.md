@@ -252,15 +252,14 @@ Website: [http://www.sibeliusmuseum.fi/](http://www.sibeliusmuseum.fi/){:target=
 
 ## FRANCE
 
-Laurence Decobert  \
+Mathias Auclair\
 Bibliothèque Nationale de France,\
 Département de la Musique\
-2, rue de Louvois\
+58, rue de Richelieu\
 F-75002 Paris\
-Telephone: +33 1 4703 8851\
-Fax: +33 1 4703 8828\
-Email: [laurence.decobert@bnf.fr](mailto:laurence.decobert@bnf.fr)\
-Website: [http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html](http://www.bnf.fr/fr/collections_et_services/mus/s.partitions.html){:target="_blank"}\
+Telephone: +33 1 53798851\
+Email: [mathias.auclair@bnf.fr](mailto:mathias.auclair@bnf.fr)\
+Website: https://www.bnf.fr/fr/departement-de-la-musique
 See also: [https://www.rism.info/working-groups/france/home.html](/working-groups/france/home.html){:blank}
 
 ## GERMANY
