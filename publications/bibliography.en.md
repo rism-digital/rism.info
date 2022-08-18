@@ -172,7 +172,7 @@ Münster, Robert. "Ein Quellenlexikon der Musik." _Börsenblatt für den Deutsch
 
 Krummel, Donald W. "Project RISM-XIX: Bibliographical Control of the Printed Music of the Nineteenth Century." _Fontes Artis Musicae_ 20 (1973): 11-14.
 
-Prokopowicz, Maria. Sprawozdanie [Report] ofKonferencja Międzynarodowego Stowarzyszenia Bibliotek Muzycznych (Association Internationale des Bibliotheques Musicales). Bolonia, September 9-15, 1972._Muzyka_ 18 (1973): 134-137.
+Prokopowicz, Maria. Sprawozdanie [Report] of Konferencja Międzynarodowego Stowarzyszenia Bibliotek Muzycznych (Association Internationale des Bibliotheques Musicales). Bolonia, September 9-15, 1972._Muzyka_ 18 (1973): 134-137.
 
 Schlager, Karlheinz. "RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 89-91. [Available online](https://www.jstor.org/stable/23230707){:target="_blank"}.  
 
@@ -492,7 +492,7 @@ Heckmann, Harald. "Presentación RISM-España 1997." _Anuario Musical_ 52 (1997)
 
 Holm, Anna Lena. "Meddelanden från Statens Musikbibliotek: Nya verk till RISM." _Svensk tidskrift för musikforsknung_ 2 (1997). [Available online](http://www.musikforskning.se/stm/STM1997/STM1997_2Rapporter.pdf){:target="_blank"}.  
 
-Howard, John. "Plaine and Easie Code: A Code for Music Bibliography." In _Beyond MIDI: The Handbook of Musical Codes_, edited by EleanorSelfridge-Field, 362–372. Cambridge, MA: MIT Press, 1997.
+Howard, John. "Plaine and Easie Code: A Code for Music Bibliography." In _Beyond MIDI: The Handbook of Musical Codes_, edited by Eleanor Selfridge-Field, 362–372. Cambridge, MA: MIT Press, 1997.
 
 #### 1998
 
@@ -586,7 +586,7 @@ Keil, Klaus. "Contributo ad un catalogo tematico palestriniano: La documentazion
 
 Heckmann, Harald. "Das Répertoire International des Souces Musicales (RISM) in Geschichte, Gegenwart und Zukunft." In _Wege und Spuren. Verbindungen zwischen Bildung, Wissenschaft, Kultur, Geschichte und Politik. Festschrift für Joachim-Felix Leonhard_, edited by Helmut Knüppel and Joachim-Felix Leonhard, 597-605. Berlin: Berlin Verlag für Berlin-Brandenburg, 2007.
 
-Lehotská, Miriam. "Slovenský súpis hudobnohistorických prameňov (SKHP) a Répertoire International des Sources Musicales (RISM) ako podnecujúci fenomén hudobno-historického výskumu." In_Hudobnohistorický výskum na Slovensku začiatkom 21. storočia. I_, edited byMarta Hulková, 437-448. Bratislava: Katedra hudobnej vedy Filozofickej fakulty Univerzity Komenskégo, 2007.  
+Lehotská, Miriam. "Slovenský súpis hudobnohistorických prameňov (SKHP) a Répertoire International des Sources Musicales (RISM) ako podnecujúci fenomén hudobno-historického výskumu." In_Hudobnohistorický výskum na Slovensku začiatkom 21. storočia. I_, edited by Marta Hulková, 437-448. Bratislava: Katedra hudobnej vedy Filozofickej fakulty Univerzity Komenskégo, 2007.  
 
 Manus, Christoph. "Die Noten-Superdatenbank." _Frankfurter Rundschau_, March 21, 2007.
 
@@ -646,7 +646,7 @@ Falletta, Martina. "Telemanns Kompositionen aus dem Blickwinkel neuer, durch das
 
 #### 2012
 
-Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und dieErschließung der historischen Musikalienbestände in Deutschland."_Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
+Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland."_Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
 Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2012-08.pdf){:target="_blank"}.
 
@@ -660,7 +660,7 @@ Hartmann, Andrea. "60 Jahre internationale Musikquellenerschließung. Das RISM a
 
 Kaiser, Ikarus. "Die Katalogisierung des historischen Musikarchivs der Pfarrkirche Ranshofen." _Festschrift. Orgelweihe Pfarrkirche Ranshofen_ 2012: 32-35.  
 
-Koch, Juan Martin. "Die musikalischen Quellen zum Leben erwecken! Klaus Keil, der Leiterder Zentralredaktion des 'Répertoire International des SourcesMusicales', im Gespräch." Neue Musikzeitung, 61, no. 7 (2012). [Available online](http://www.nmz.de/artikel/die-musikalischen-quellen-zum-leben-erwecken){:target="_blank"}.  
+Koch, Juan Martin. "Die musikalischen Quellen zum Leben erwecken! Klaus Keil, der Leiterder Zentralredaktion des 'Répertoire International des Sources Musicales', im Gespräch." Neue Musikzeitung, 61, no. 7 (2012). [Available online](http://www.nmz.de/artikel/die-musikalischen-quellen-zum-leben-erwecken){:target="_blank"}.  
 
 Kraus, Guido. "Sixty years of the RISM." In _Source Studies in Musical Culture_, edited by Alina Mądry and Magdalena Walter-Mazur, 17-19. Interdisciplinary Studies in Musicology 11. Poznań: Wydawnictwo Naukowe Uniwersytetu im. Adama Mickiewicza w Poznaniu, 2012. [Available online](http://hdl.handle.net/10593/8476){:target="_blank"}.  
 
@@ -673,11 +673,11 @@ Kraus, Guido. "Sixty years of the RISM." In _Source Studies in Musical Culture_,
 - Gialdroni, Teresa M. "Clori, Archivio della cantata italiana: Current State of Progressand New Perspectives." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Gialdroni.pdf)
 - Graham, Anne and Deborah Pierce. "RISM Data as Metadata for Digital Collections." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Graham_Pierce.pdf)
 - Hartmann, Andrea. "The Dresden RISM Office Partneringwith Libraries and Archives: New Paths toward Collaboration with the SLUB Dresden."(Kooperationen der RISM-Arbeitsstelle Dresden mit Bibliotheken und Archiven: Neue Wege in der Zusammenarbeit mit der SLUB Dresden.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Hartmann.pdf)
-- Herrmann-Schneider, Hildegard. "'Die Musikbibliographie ist die Grundlage alles historischen Wissens.' On Today'sRelevance of Robert Eitner's CentralIdea from 1898." ('Die Musikbibliographie ist die Grundlage alles historischen Wissens'. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf)
+- Herrmann-Schneider, Hildegard. "'Die Musikbibliographie ist die Grundlage alles historischen Wissens.' On Today's Relevance of Robert Eitner's Central Idea from 1898." ('Die Musikbibliographie ist die Grundlage alles historischen Wissens'. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf)
 - Heinmaa, Heidi. "Musical Sources in Estonian Collections." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Heinmaa.pdf)
 - Kaiser, Stefan Ikarus. "The Music Collection at Wilhering Abbey." (Musiksammlung des Stiftes Wilhering.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf)
 - Katalinic, Vjera and Lucija Konfic. "Project RISM in Croatia: The Past Decade." Available online: [paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf)  [slides](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf)
-- Kokole, Metoda and Klemen Grabnar. "RISM inSlovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf)
+- Kokole, Metoda and Klemen Grabnar. "RISM in Slovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf)
 - Krabbe, Niels and Axel Teich Geertinger. "MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf)
 - Loos, Helmut. "Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities." (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen.) Available online: [German](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf)  [English summary](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf)
 - Lundberg, Mattias. "The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?" [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf)
