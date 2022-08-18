@@ -34,6 +34,10 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 
 ## Current and former interns  
 
+### 2022
+Ayleen Klinder (Deutschland)  
+Noah Lieven (Deutschland)  
+
 ### 2021
 Carina Umanski (Germany, Fall 2021)  
 Deanna Pellerano (United States) [Report](/new_at_rism/2021/05/25/my-rism-internship-a-new-cataloging-experience.html)  
