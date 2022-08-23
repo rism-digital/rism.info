@@ -18,4 +18,4 @@ Die Sammlung aus Sandomierz ist eine der umfangreichsten ihrer Art in Polen. Sie
 
 Fast alle Manuskripte sind in digitalisierter Form auf der Homepage der [Diözesanbibliothek in Sandomierz](http://bc.bdsandomierz.pl/dlibra/collectiondescription/48){:blank} online zugänglich.
 
-_Abbildung_: Titelseite von Jan Piotr Habermann, _Ista quam laeti_. Autographes Manuskript, 1742-1762. [RISM ID no. 1001068027](https://opac.rism.info/search?id=1001068027&View=rism){:blank}. [Diözesanbibliothek in Sandomierz, PL-SA 258/A VII 18](http://bc.bdsandomierz.pl/dlibra/publication/1773/edition/1741/content) (public domain). 
+_Abbildung_: Titelseite von Jan Piotr Habermann, _Ista quam laeti_. Autographes Manuskript, 1742-1762. [RISM ID no. 1001068027](https://opac.rism.info/search?id=1001068027&View=rism){:blank}. [Diözesanbibliothek in Sandomierz, PL-SA 258/A VII 18](https://bc.bdsandomierz.pl/dlibra/publication/1773/edition/1741/content) (public domain). 
