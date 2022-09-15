@@ -1,0 +1,21 @@
+---
+layout: post
+title: "RISM beim IMS Kongress 2022 in Athen"
+date: 2022-09-15
+lang: de
+post: true
+category: events
+image: "/images/news/2022-09/rism-ims-athens-website.jpg"
+email: ''
+author: ''
+---
+
+Während eine der Patronatsgesellschaften von RISM, die [International Association of Music Libraries, Archives and Documentation Centres (IAML)](https://www.iaml.info/){:blank}, jedes Jahr einen Kongress abhält, der die Möglichkeit bietet, uns persönlich über unsere Arbeit auszutauschen, veranstaltet die [International Musicological Society (IMS)](https://www.musicology.org/){:blank} nur alle fünf Jahre einen solchen Kongress. In diesem Jahr fand der Kongress, der unter dem Motto ["Music across Borders"](https://pcoconvin.eventsair.com/ims22/){:blank} stand, vom 22. bis 26. August in Athen statt. Mit unseren Beiträgen wollten wir unsere Kollegen an das 70-jährige Bestehen des RISM erinnern und sie über unsere neuesten Entwicklungen informieren.
+
+Die RISM-Sitzung, die am 23. August im schönen Mehrzwecksaal der [Musikbibliothek Griechenlands "Lilian Voudouri"](https://www.megaron.gr/en/at-the-library/){:blank} stattfand, bestand aus einem Roundtable mit dem Titel "RISM at 70: Perspectives of a Project without Borders" sowie einer allgemeinen Informationsveranstaltung. Aufgrund kurzfristiger gesundheitlicher Komplikationen wich die Besetzung des Runden Tisches etwas von der ursprünglich im offiziellen Programm veröffentlichten Aufstellung ab: Andrea Lindmayr-Brandl (Vizepräsidentin der IMS und der RISM Association), Christina Urchueguía (Generalsekretärin der IMS), Laurent Pugin (Sekretär der RISM Association und Co-Direktor des RISM Digital Center) und Leonardo Waisman (gewähltes Mitglied der RISM Association) gaben unter der Moderation von Balázs Mikusi (Executive Director der RISM-Zentralredaktion) einen Einblick in die 70-jährige Geschichte des Projekts. Besondere Punkte waren die mehrfachen Interessenverschiebungen hinsichtlich der zu erfassenden Quellentypen, die immer wieder schwankende Beteiligung bestimmter Länder und die daraus resultierenden Ungleichgewichte in der RISM-Abdeckung auf globaler Ebene, die technologischen Veränderungen, mit denen wir in den letzten drei Jahrzehnten Schritt halten mussten, und natürlich die Perspektiven für die Zeit nach 2025, wenn die RISM-Zentralredaktion nicht mehr unter der Schirmherrschaft des deutschen [Akademienprogramms](https://www.akademienunion.de/forschung/akademienprogramm){:blank} finanziert werden kann, das unsere Arbeit seit über vier Jahrzehnten ermöglicht hat.
+
+Der Höhepunkt des informellen zweiten Teils der Sitzung (mit dem einfachen Titel "What's New at RISM?") war zweifellos der letzte Programmpunkt: eine Präsentation von Andrew Hankinson ([RISM Digital Center](https://rism.digital/){:blank}) über [RISM Online](https://rism.online/){:blank}, das neue Tor zu unseren Daten, das Forschern helfen soll, einige alte Forschungsfragen zu beantworten und sie gleichzeitig zu neuen Fragen inspirieren. Darüber hinaus gab es kurze Berichte von Balázs Mikusi über die Arbeit der RISM-Zentralredaktion, von Laurent Pugin über die neuesten Entwicklungen des Digital Center und von Jennifer Ward und Rodolfo Zitellini (RISM-Zentralredaktion bzw. Digital Center) über Neuerungen der [Muscat-Katalogisierungsanwendung](https://rism.info/community/muscat.html){:blank} und darüber, wie sie Musikwissenschaftlern und Studenten bei der Erforschung unbekannter Repertorien und Sammlungen helfen könnte.
+
+Der nächste IMS-Kongress wird im Jahr 2027 stattfinden, dem Jahr, in dem die Gesellschaft ihr 100-jähriges Bestehen und RISM sein 75-jähriges Bestehen feiern wird. Der Ort der Veranstaltung wurde noch nicht bekannt gegeben, aber wir werden auf jeden Fall vor Ort sein und einige Programme anbieten, die die Aufmerksamkeit auf die entscheidende Rolle lenken, die das IMS bei der Konzeption und Realisierung des RISM-Projekts in den späten 1940er und frühen 50er Jahren gespielt hat, in dem Bemühen, eine Bestandsaufnahme der überlieferten musikalischen Quellen nach den Zerstörungen des Zweiten Weltkriegs zu machen.
+
+Abbildung: Roundtable-Diskussion mit (von links nach rechts) Leonardo Waisman, Christina Urchueguía, Balázs Mikusi, Laurent Pugin und Andrea Lindmayr-Brandl. Foto mit freundlicher Genehmigung des RISM.
