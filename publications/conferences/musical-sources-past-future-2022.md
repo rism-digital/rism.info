@@ -53,7 +53,7 @@ Music in the Libri Amicorum Between the 16th and 17th Centuries: An Investigatio
 ##### 11:00 Special Challenges  
 Chair: Andrea Lindmayr-Brandl
 * **Luigi Collarile** (Schola Cantorum Basiliensis FHNW / Bern University of the Arts)  
-Lost Music Books by the Venetian Publisher Giacomo Vincenti** (1554–1619): New Data, New Perspectives  
+Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives  
 * **Anne Piéjus** (IReMus – Institut de recherche en musicologie / Bibliothèque nationale de France)  
 Scattered Music Sources in the Literature of the Modern Period: What Prospects for Integration into RISM?  
 * **Emilio Ros-Fábregas** (Consejo Superior de Investigaciones Científicas, Institución Milá y Fontanals de Investigación en Humanidades)  
