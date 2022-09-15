@@ -34,6 +34,8 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 #### 2022
 
+Ayleen Klinder (Deutschland)
+
 Noah Lieven (Deutschland)
 
 #### 2021
