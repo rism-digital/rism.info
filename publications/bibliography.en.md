@@ -868,7 +868,7 @@ McAulay, Karen. "The Big Picture: Bibliographic Control." _Claimed from Statione
 
 Münch, Vera. "Wie finden Sie die Melodie?" _b.i.t.online_ 20, no. 5 (2017): 409-414. [Available online](http://www.b-i-t-online.de/heft/2017-05-reportage-muench.pdf){:target="_blank"}.
 
-"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox. _Cataloging & Classification Quarterly_ 55, no. 3 (2017): 172-186. [doi: 10.1080/01639374.2017.1281673](https://doi.org/10.1080/01639374.2017.1281673){:target="_blank"}. [Available online](http://catalogingandclassificationquarterly.com/ccq55nr3.html){:target="_blank"}.  
+"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox. _Cataloging & Classification Quarterly_ 55, no. 3 (2017): 172-186. [Available online](http://catalogingandclassificationquarterly.com/ccq55nr3.html){:target="_blank"}.  
 
 Selfridge-Field, Eleanor. "A Topography and Taxonomy of Digital Musicology." _Arti musices: Croatian Musicological Review_, 48, no. 2 (2017): 215-225. [Available online](https://doi.org/10.21857/yq32oh4e79){:target="_blank"}.   
 
@@ -878,7 +878,7 @@ Ward, Jennifer A. "Announcing Muscat, RISM’s New Program for Cataloging Musica
 
 Ward, Jennifer A. "Getting Back to the Source, Virtually: RISM as a Tool in the Digital Environment." _Arti musices: Croatian Musicological Review_, 48, no. 2 (2017): 281-294. [Available online](https://doi.org/10.21857/ygjwrcj1ry){:target="_blank"}.   
 
-Ward, Jennifer A. "Notes for Notes." _Notes_ 73, no. 4 (June 2017): 698-699. [doi:10.1353/not.2017.0038](https://doi.org/10.1353/not.2017.0038){:target="_blank"}.   
+Ward, Jennifer A. "Notes for Notes" (Muscat announcement) _Notes_ 73, no. 4 (June 2017): 698-699. [Available online](https://doi.org/10.1353/not.2017.0038){:target="_blank"}.   
 
 Ward, Jennifer A. "RISM for Librarians." _Musikbiblioteksnytt_ no. 3 (2017): 10-11. [Available online](http://www.smbf.nu/dok/mbn/mbn_2017_03.pdf){:target="_blank"}.
 
@@ -983,7 +983,11 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
 
-Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.  
+Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann, and Barbara Wiermann. "Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 69, no. 4 (2022): 196-209. [Available online](http://dx.doi.org/10.3196/186429502069422){:blank}.  
+
+Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.   
+
+Krämer, Kristina. "Two Hundred Years of Printed Music History." Notes for _Notes_. _Notes_ 79, no. 1 (September 2022): 54. [Available online](https://doi.org/10.1353/not.2022.0064){:blank}; and Briefs/Feuilletons. _Fontes Artis Musicae_ 69, no. 2 (April-June 2022): 139. [Available online](https://muse.jhu.edu/article/862514){:blank}.
 
 Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told." In _Music Encoding Conference Proceedings 2021_, edited by Stefan Münnich and David Rizo, 107–115. Humanities Commons. 2022. [Available online](https://doi.org/10.17613/bqd1-yf81){:blank}.  
 

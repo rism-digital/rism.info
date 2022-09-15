@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
     <p class="has-text-weight-semibold">Upcoming Events</p>
-    <p>Join us at the IMS Congress in Athens, 22-26 August 2022. <a href="https://pcoconvin.eventsair.com/ims22/">Details here</a></p>
+    <p>Join us at our conference Musical Sources: Past and Future, 7–9 October 2022 in Mainz. <a href="/publications/conferences/musical-sources-past-future-2022.html">Details here</a></p>
 </article>
 
 ## Library Sigla
