@@ -10,11 +10,11 @@ old_url: http://www.rism.info/de/publikationen/broschueren.html
 
 ## RISM Kurzporträt
 
-{% include image file="/images/news-old-website/csm_KurzportraitS1_bda028b738.jpg" pos="right" %}
+{% include image file="/images/publications/2022-brochure-de-en.jpg" pos="right" %}
 
-Die 14-seitige Broschüregibt einen Einblick in die Arbeit und Organisation des RISM und wird allen Interessenten kostenlos zur Verfügung gestellt.
+Die Broschüre gibt einen Einblick in die Arbeit und Organisation des RISM und wird allen Interessenten kostenlos zur Verfügung gestellt.
 
-- [Deutsch - Englisch](/resources-old-website/community-content/Zentralredaktion/20150410_RISM_Broschuere_NEU-1_FINAL.pdf) (PDF, Stand: April 2015)
+- [Deutsch - Englisch](/resources/publications/brochures/20220630_RISM-brochure-de-en.pdf) (PDF, Stand: Juni 2022)
 - [Traditionelles Chinesisch - Englisch](/resources-old-website/community-content/Zentralredaktion/RISM_brochure_Traditional_Chinese_2017_compressed.pdf) (PDF; Stand: Juli 2016)  
 _Übersetzt von_ _WU Xu, CHANG Hok-yan, HAN Bin, TSENG Tzu-Chia, Judy TSOU und Nora YEH_ 
 - [Vereinfachtes Chinesisch - Englisch](/resources-old-website/community-content/Zentralredaktion/RISM_brochure_Simplified_Chinese_2017_compressed.pdf) (PDF; Stand: Juli 2016)  
