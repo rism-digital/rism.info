@@ -41,7 +41,7 @@ Presentations are available on [RISM's YouTube](https://www.youtube.com/playlist
 [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Hirsch_Work_entity_in_RISM.pdf) \| [Video on YouTube](https://youtu.be/LD0d3WaHOEs){:target="_blank"}
 
 #### 14:50–15:30 Work Titles in National Libraries and Library Cooperatives (I)    
-Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)**
+Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)
 
 - Constanze Schumann (Die Deutsche Nationalbibliothek) and Jürgen Kett (Die Deutsche Nationalbibliothek): Work Titles in the GND (Gemeinsame Normdatei, German Integrated Authority File)  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3881) \| [Video on YouTube](https://youtu.be/Y-3D2s_qR90){:target="_blank"}
@@ -60,7 +60,7 @@ Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)**
 ### Friday, May 10
 
 #### 9:00–10:00 Work Titles in National Libraries and Library Cooperatives (III)   
-Chair: Jürgen Diet (Bayerische Staatsbibliothek, Munich)**
+Chair: Jürgen Diet (Bayerische Staatsbibliothek, Munich)
 
 - María Teresa Delgado Sánchez (Biblioteca Nacional de España): Standardization in the National Library of Spain: Name Authority Headings and Name-Title Authority Headings in Musical Works  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3894) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Delgado_RISM_English_NatLibrarySpain.pdf)
@@ -118,7 +118,7 @@ Natalia Keil-Senserova, _piano_
 ### Saturday, May 11
 
 #### 9:00–10:20 Composers and Their Work Titles  
-Chair: Balázs Mikusi (National Széchényi Library, Budapest; RISM Board of Directors)**
+Chair: Balázs Mikusi (National Széchényi Library, Budapest; RISM Board of Directors)
 
 - Daniel Boomhower (Dumbarton Oaks, USA): J. S. Bach, the Meanings of Print, and the Implications for Work Records  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3906) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Boomhower_Bach_Print_workRecords.pdf) \| [Video on YouTube](https://youtu.be/b1fUhaZsaYE){:target="_blank"}
