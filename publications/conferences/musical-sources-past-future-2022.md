@@ -18,10 +18,10 @@ This impressive 70-year history has inspired us to invite all those invested in 
 Geschwister-Scholl-Straße 2  
 D-55131 Mainz  
 
-Online streaming will be available. More information will follow.
+Online streaming will be available. If you would like to join, please register in advance (see the instructions below).
 
 #### Registration  
-To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Enter in the subject line "RISM conference registration" and also add "in person" or "online," depending on how you would like to attend.  
+If you would like to attend the event either in person or online, we ask you to register well in advance. To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Include the subject line "RISM conference registration" and also add "in person" or "online" as appropriate.  
 
 ### Program
 
