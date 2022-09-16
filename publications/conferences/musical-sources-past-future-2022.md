@@ -21,7 +21,7 @@ D-55131 Mainz
 Online streaming will be available. More information will follow.
 
 #### Registration  
-To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Specify in the subject line whether you will be attending in person or online.  
+To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Enter in the subject line "RISM conference registration" and also add "in person" or "online," depending on how you would like to attend.  
 
 ### Program
 
