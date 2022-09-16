@@ -18,4 +18,4 @@ Der Höhepunkt des informellen zweiten Teils der Sitzung (mit dem einfachen Tite
 
 Der nächste IMS-Kongress wird im Jahr 2027 stattfinden, dem Jahr, in dem die Gesellschaft ihr 100-jähriges Bestehen und RISM sein 75-jähriges Bestehen feiern wird. Der Ort der Veranstaltung wurde noch nicht bekannt gegeben, aber wir werden auf jeden Fall vor Ort sein und einige Programme anbieten, die die Aufmerksamkeit auf die entscheidende Rolle lenken, die das IMS bei der Konzeption und Realisierung des RISM-Projekts in den späten 1940er und frühen 50er Jahren gespielt hat, in dem Bemühen, eine Bestandsaufnahme der überlieferten musikalischen Quellen nach den Zerstörungen des Zweiten Weltkriegs zu machen.
 
-Abbildung: Roundtable-Diskussion mit (von links nach rechts) Leonardo Waisman, Christina Urchueguía, Balázs Mikusi, Laurent Pugin und Andrea Lindmayr-Brandl. Foto mit freundlicher Genehmigung des RISM.
+_Abbildung:_ Roundtable-Diskussion mit (von links nach rechts) Leonardo Waisman, Christina Urchueguía, Balázs Mikusi, Laurent Pugin und Andrea Lindmayr-Brandl. Foto mit freundlicher Genehmigung des RISM.
