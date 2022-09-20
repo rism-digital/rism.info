@@ -27,10 +27,10 @@ If you would like to attend the event either in person or online, we ask you to 
 
 #### Friday, October 7
 ##### 18:00 Official Opening of the Conference  
-* **Reiner Anderl** (President of the Academy of Sciences and Literature, Mainz)  
-* **Pia Shekhter** (President of the International Association of Music Libraries, Archives and Documentation Centres)  
-* **Cristina Urchueguía** (Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften)  
-* **Klaus Pietschmann** (President of the International RISM Association)  
+* **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz 
+* **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres 
+* **Cristina Urchueguía** (Bern), Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften 
+* **Klaus Pietschmann** (Mainz), President of the International RISM Association 
 
 ##### 18:30 RISM Lecture: Musical Sources in Mexico  
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
@@ -38,7 +38,7 @@ From Data, Understanding the Past, Orienting the Future
 
 #### Saturday, October 8
 ##### 9:00 Fragmenta, Codices, Libri
-Chair: Nicole Schwindt  
+Chair: Nicole Schwindt (Trossingen) 
 * **Fiona Baldwin** (University College Dublin)  
 How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
 * **Anne-Zoé Rillon-Marne** (Université catholique de l’Ouest, Angers)  
@@ -51,7 +51,7 @@ Music in the Libri Amicorum Between the 16th and 17th Centuries: An Investigatio
 ##### Coffee break
 
 ##### 11:00 Special Challenges  
-Chair: Andrea Lindmayr-Brandl
+Chair: Andrea Lindmayr-Brandl (Salzburg)
 * **Luigi Collarile** (Schola Cantorum Basiliensis FHNW / Bern University of the Arts)  
 Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives  
 * **Anne Piéjus** (IReMus – Institut de recherche en musicologie / Bibliothèque nationale de France)  
@@ -66,7 +66,7 @@ The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections
 ##### Lunch
 
 ##### 14:30 Beyond Europe  
-Chair: Stefanie Acquavella-Rauch
+Chair: Stefanie Acquavella-Rauch (Mainz)
 * **Sven Gronemeyer** (Max Weber Stiftung, Bonn / La Trobe University, Melbourne), **Zeynep Helvacı & Ralf Martin Jäger** (both University of Münster)  
 New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts
 * **Ali Tüfekçi & Güneş Çetinkaya Şerik** (both Istanbul Technical University Turkish Music State Conservatory)  
@@ -79,7 +79,7 @@ The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Met
 ##### Coffee break  
 
 ##### 16:30 New Source Types
-Chair: Jonathan Gammert
+Chair: Jonathan Gammert (Mainz)
 * **Eva Moreda Rodríguez** (University of Glasgow), Inja Stanović (City, University of London)  
 Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History
 * **Francesco Finocchiaro** (“L. Campiani” Conservatory, Mantua)  
@@ -90,7 +90,7 @@ Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-C
 
 #### Sunday, October 9    
 ##### 9:00 Historical Perspectives  
-Chair: Thomas Betzwieser
+Chair: Thomas Betzwieser (Frankfurt am Main)
 * **Paul Allen Sommerfeld** (Library of Congress)  
 Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)
 * **Andrea Hartmann & Steffen Voss** (both RISM Deutschland e.V.)  
@@ -103,7 +103,7 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 ##### Coffee break
 
 ##### 11:00 The Digital Turn  
-Chair: Laurent Pugin  
+Chair: Laurent Pugin (Bern) 
 * **Thomas Schmidt** (University of Manchester)  
 The Changed Role of Catalogues of Music Sources in the Digital Age  
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
