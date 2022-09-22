@@ -21,11 +21,11 @@ D-55131 Mainz
 Eine Online-Übertragung wird verfügbar sein. Wenn Sie teilnehmen möchten, melden Sie sich bitte im Voraus an (siehe unten).
 
 #### Anmeldung  
-Wenn Sie persönlich oder online an der Veranstaltung teilnehmen möchten, bitten wir Sie, sich rechtzeitig anzumelden. Um sich anzumelden, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Geben Sie in der Betreffzeile "RISM Konferenzanmeldung" an und fügen Sie gegebenenfalls "persönlich" oder "online" hnzu.  
+Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie persönlich oder online an der Veranstaltung teilnehmen möchten, bitten wir um eine rechtzeitige Anmeldung. Um sich anzumelden, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Geben Sie in der Betreffzeile "RISM Konferenzanmeldung" an und fügen Sie gegebenenfalls "persönlich" oder "online" hnzu.  
 
 ### Programm
 
-#### Frritag, 7. Oktober
+#### Freitag, 7. Oktober
 ##### 18:00 Uhr Official Opening of the Conference  
 * **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz 
 * **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres 
