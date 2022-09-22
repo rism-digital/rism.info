@@ -21,16 +21,16 @@ D-55131 Mainz
 Online streaming will be available. If you would like to join, please register in advance (see the instructions below).
 
 #### Registration  
-If you would like to attend the event either in person or online, we ask you to register well in advance. To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Include the subject line "RISM conference registration" and also add "in person" or "online" as appropriate.  
+The conference is free of charge and open to all. If you would like to attend the event either in person or online, we ask you to register well in advance. To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Include the subject line "RISM conference registration" and also add "in person" or "online" as appropriate.  
 
 ### Program
 
 #### Friday, October 7
 ##### 18:00 Official Opening of the Conference  
-* **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz 
-* **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres 
-* **Cristina Urchueguía** (Bern), Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften 
-* **Klaus Pietschmann** (Mainz), President of the International RISM Association 
+* **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz
+* **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres
+* **Cristina Urchueguía** (Bern), Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften
+* **Klaus Pietschmann** (Mainz), President of the International RISM Association
 
 ##### 18:30 RISM Lecture: Musical Sources in Mexico  
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
@@ -38,7 +38,7 @@ From Data, Understanding the Past, Orienting the Future
 
 #### Saturday, October 8
 ##### 9:00 Fragmenta, Codices, Libri
-Chair: Nicole Schwindt (Trossingen) 
+Chair: Nicole Schwindt (Trossingen)
 * **Fiona Baldwin** (University College Dublin)  
 How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
 * **Anne-Zoé Rillon-Marne** (Université catholique de l’Ouest, Angers)  
@@ -103,7 +103,7 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 ##### Coffee break
 
 ##### 11:00 The Digital Turn  
-Chair: Laurent Pugin (Bern) 
+Chair: Laurent Pugin (Bern)
 * **Thomas Schmidt** (University of Manchester)  
 The Changed Role of Catalogues of Music Sources in the Digital Age  
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
