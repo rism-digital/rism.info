@@ -991,7 +991,11 @@ YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen: El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges, in: Cuadernos de Investigación Musical 14 (enero-junio 2022), S. 115-187. [Online verfügbar](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}
 
+Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann und Barbara Wiermann: Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland, in: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), Nr. 4, S. 196-209. [Online verfügbar](http://dx.doi.org/10.3196/186429502069422){:blank}
+
 Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}
+
+Krämer, Kristina: Two Hundred Years of Printed Music History, in: Notes for Notes. Notes 79, no. 1 (September 2022), S. 54. [Online verfügbar](https://doi.org/10.1353/not.2022.0064){:blank} siehe auch unter Briefs/Feuilletons, in: Fontes Artis Musicae 69, no. 2 (April-June 2022), S. 139. [Online verfügbar](https://muse.jhu.edu/article/862514){:blank}
 
 Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told, in: In Music Encoding Conference Proceedings 2021, hrsg. von Stefan Münnich und David Rizo, p. 107–115. Humanities Commons. 2022. [Online verfügbar](https://doi.org/10.17613/bqd1-yf81){:blank}
 
