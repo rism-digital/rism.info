@@ -80,7 +80,7 @@ The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Met
 
 ##### 16:30 New Source Types
 Chair: Jonathan Gammert (Mainz)
-* **Eva Moreda Rodríguez** (University of Glasgow), Inja Stanović (City, University of London)  
+* **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
 Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History
 * **Francesco Finocchiaro** (“L. Campiani” Conservatory, Mantua)  
 The Musical Documents of the Silent Film Era
