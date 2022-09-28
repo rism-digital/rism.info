@@ -317,8 +317,8 @@ Website: [www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collecti
 ## IRELAND
 
 Kerry Houston \
-DIT Conservatory of Music and Drama\
-Email: [kerry.houston@dit.ie](mailto:kerry.houston@dit.ie)\
+Technological University Dublin - Conservatoire\
+Email: [kerry.houston@TUDublin.ie](mailto:kerry.houston@TUDublin.ie)\
 Website: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}
 
 
