@@ -54,7 +54,7 @@ Music in the _Libri Amicorum_ Between the 16th and 17th Centuries: An Investigat
 
 ##### 11:00 Special Challenges  
 Chair: Andrea Lindmayr-Brandl (Salzburg)  
-Abstracts  
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#special-challenges)
 * **Luigi Collarile** (Schola Cantorum Basiliensis FHNW / Bern University of the Arts)  
 Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives    
 * **Anne Piéjus** (IReMus – Institut de recherche en musicologie / Bibliothèque nationale de France)  
@@ -70,64 +70,54 @@ The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections
 
 ##### 14:30 Beyond Europe  
 Chair: Stefanie Acquavella-Rauch (Mainz)
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#beyond-europe)
 * **Sven Gronemeyer** (Max Weber Stiftung, Bonn / La Trobe University, Melbourne), **Zeynep Helvacı & Ralf Martin Jäger** (both University of Münster)  
 New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts  
-Abstract  
 * **Ali Tüfekçi & Güneş Çetinkaya Şerik** (both Istanbul Technical University Turkish Music State Conservatory)  
-Digitization of the Cultural Heritage of Turkish Music  
-Abstract  
+Digitization of the Cultural Heritage of Turkish Music    
 * **Wantana Tancharoenpol** (Chulalongkorn University, Bangkok)  
-Thai Musical Sources in the Berlin Staatsbibliothek  
-Abstract  
+Thai Musical Sources in the Berlin Staatsbibliothek    
 * **Edgar Alejandro Calderón Alcántar** (National Conservatory of Music, Mexico / Faculty of Fine Arts of Michoacán University of San Nicolás de Hidalgo, Mexico)  
-The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation  
-Abstract  
+The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation   
+
 ##### Coffee break  
 
 ##### 16:30 New Source Types
 Chair: Jonathan Gammert (Mainz)
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#new-source-types)
 * **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
-Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History  
-Abstract  
+Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History    
 * **Francesco Finocchiaro** (“L. Campiani” Conservatory, Mantua)  
-The Musical Documents of the Silent Film Era  
-Abstract  
+The Musical Documents of the Silent Film Era    
 * **Valentina Bertolani** (University of Birmingham / Carleton University)  
 Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-Century Music  
-Abstract  
 
 
 #### Sunday, October 9    
 ##### 9:00 Historical Perspectives  
-Chair: Thomas Betzwieser (Frankfurt am Main)
+Chair: Thomas Betzwieser (Frankfurt am Main)  
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#historical-perspectives)  
 * **Paul Allen Sommerfeld** (Library of Congress)  
-Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)  
-Abstract  
+Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)    
 * **Andrea Hartmann & Steffen Voss** (both RISM Deutschland e.V.)  
 The Early Years of the Two RISM Working Groups in Germany  
-Abstract
 * **Armin Brinzing** (Bibliotheca Mozartiana, International Mozarteum Foundation)  
-RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries  
-Abstract  
+RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries    
 * **Sara Taglietti** (Ufficio Ricerca Fondi Musicali, Milan)  
-“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries  
-Abstract  
+“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries    
 
 ##### Coffee break
 
 ##### 11:00 The Digital Turn  
 Chair: Laurent Pugin (Bern)
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#the-digital-turn)  
 * **Thomas Schmidt** (University of Manchester)  
-The Changed Role of Catalogues of Music Sources in the Digital Age  
-Abstract  
+The Changed Role of Catalogues of Music Sources in the Digital Age   
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
-Integration of Digital Tools for Music Data  
-Abstract  
+Integration of Digital Tools for Music Data   
 * **Sandra Tuppen** (The British Library / RISM (UK) Trust)  
 Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650  
-Abstract
 * **Frans Wiering & Mirjam Visscher** (both Utrecht University)  
-Mining the RISM Data for Music-Historical Insight  
-Abstract  
+Mining the RISM Data for Music-Historical Insight    
 
 ##### 12:30 Close
