@@ -36,12 +36,12 @@ Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie pers�
 
 ##### 18:30 Uhr RISM Lecture: Musical Sources in Mexico  
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
-From Data, Understanding the Past, Orienting the Future
+From Data, Understanding the Past, Orienting the Future\
 [Abstract](/publications/conferences/musical-sources-past-future-2022/abstracts.html#rism-lecture)
 
 #### Samstag, 8. Oktober
 ##### 9:00 Uhr Fragmenta, Codices, Libri
-Chair: Nicole Schwindt (Trossingen)
+Chair: Nicole Schwindt (Trossingen)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#fragmenta-codices-libri)
 * **Fiona Baldwin** (University College Dublin)  
 How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
@@ -55,7 +55,7 @@ Music in the _Libri Amicorum_ Between the 16th and 17th Centuries: An Investigat
 ##### Kaffeepause
 
 ##### 11:00 Uhr Special Challenges  
-Chair: Andrea Lindmayr-Brandl (Salzburg)
+Chair: Andrea Lindmayr-Brandl (Salzburg)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#special-challenges)
 * **Luigi Collarile** (Schola Cantorum Basiliensis FHNW / Bern University of the Arts)  
 Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives  
@@ -71,7 +71,7 @@ The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections
 ##### Mittagessen
 
 ##### 14:30 Uhr Beyond Europe  
-Chair: Stefanie Acquavella-Rauch (Mainz)
+Chair: Stefanie Acquavella-Rauch (Mainz)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#beyond-europe)
 * **Sven Gronemeyer** (Max Weber Stiftung, Bonn / La Trobe University, Melbourne), **Zeynep Helvacı & Ralf Martin Jäger** (both University of Münster)  
 New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts
@@ -85,7 +85,7 @@ The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Met
 ##### Kaffeepause  
 
 ##### 16:30 Uhr New Source Types
-Chair: Jonathan Gammert (Mainz)
+Chair: Jonathan Gammert (Mainz)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#new-source-types)
 * **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
 Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History
@@ -97,7 +97,7 @@ Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-C
 
 #### Sonntag, 9. Oktober    
 ##### 9:00 Uhr Historical Perspectives  
-Chair: Thomas Betzwieser (Frankfurt am Main)
+Chair: Thomas Betzwieser (Frankfurt am Main)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#historical-perspectives)
 * **Paul Allen Sommerfeld** (Library of Congress)  
 Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)
@@ -111,7 +111,7 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 ##### Kaffeepause
 
 ##### 11:00 Uhr The Digital Turn  
-Chair: Laurent Pugin (Bern)
+Chair: Laurent Pugin (Bern)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#the-digital-turn) 
 * **Thomas Schmidt** (University of Manchester)  
 The Changed Role of Catalogues of Music Sources in the Digital Age  
