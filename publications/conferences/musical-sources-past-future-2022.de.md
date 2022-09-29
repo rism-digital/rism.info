@@ -11,7 +11,7 @@ permalink: /publications/conferences/musical-sources-past-future-2022.html
 
 Das 1952 von Vertretern der [International Musicological Society (IMS)](https://www.musicology.org/){:blank} und der [International Association of Music Libraries (IAML)](https://www.iaml.info/){:blank} gegründete Répertoire International des Sources Musicales (RISM) setzt seit langem Maßstäbe auf dem Gebiet der musikalischen Quellenkunde. Im Laufe von sieben Jahrzehnten haben sich die Publikationen des RISM einer Vielzahl von Quellenarten gewidmet - gedruckte Sammlungen ebenso wie Ausgaben eines einzelnen Komponisten, Musikmanuskripte aller Art, Schriften über Musik und theoretische Abhandlungen -, die insgesamt eine erstaunliche Bandbreite abdecken, sowohl chronologisch (vom antiken Griechenland bis zu zeitgenössischen Manuskripten) als auch geografisch (von der arabischen Welt über iberoamerikanische Quellen bis zur Musik Südkoreas). Im Laufe der Zeit hat sich das RISM auch in der digitalen Welt verankert, und seine Arbeit konzentriert sich heute vor allem auf die Pflege und den weiteren Ausbau einer frei zugänglichen Datenbank (siehe den [RISM Catalog](https://opac.rism.info/index.php?id=4){:blank} und [RISM Online](https://rism.online/){:blank}) mit rund 1,4 Millionen Datensätzen, die Musikhandschriften und Notendrucke beschreiben.  
 
-Diese beeindruckende 70-jährige Geschichte hat uns dazu inspiriert, alle, die sich mit der Erforschung von Musikquellen beschäftigen, zu einer Jubiläumstagung einzuladen, um den Stand der Musikquellenforschung zu diskutieren, die Lehren der Vergangenheit zu bedenken und einige Perspektiven für die Zukunft zu skizzieren. Beiträge, die sich speziell auf RISM beziehen, sind natürlich sehr willkommen, sei es, dass sie sich mit der traditionellen Reichweite des Projekts befassen, die allmählichen Veränderungen in der Behandlung bestimmter Quellentypen untersuchen oder die Aufmerksamkeit auf mögliche neue Wege lenken, die es noch zu entdecken gilt. Wir sind aber auch an Präsentationen interessiert, die sich mit anderen Arten von Musikquellen befassen, die nicht in den traditionellen Geltungsbereich von RISM fallen, einschließlich musikbezogener Ephemera, "Manuskripte", die vielleicht nur in Form einer digitalen Datei existieren, audiovisuelle Materialien und mehr. Insgesamt sollte die Konferenz die Teilnehmer dazu anregen, zu überdenken, was wir als "musikalische Quellen" betrachten, und die verschiedenen Methoden zu untersuchen, die in der Vergangenheit und in der absehbaren Zukunft zu ihrer Erforschung eingesetzt werden.  
+Unsere Tagung zum 70-jährigen Jubiläum bietet ein Forum, um den Stand der musikalischen Quellenforschung zu diskutieren, die Lehren aus der Vergangenheit zu überdenken und Perspektiven für die Zukunft zu skizzieren. Es gibt RISM-spezifische Beiträge, die sich mit unserer eigenen Geschichte befassen, Material aus dem traditionellen Bereich des Projekts untersuchen und neue Quellen ans Licht bringen. Aber unsere Konferenz ist auch eine Plattform für Präsentationen, die die Aufmerksamkeit auf mögliche neue - noch zu entdeckende - Wege lenken, die andere Arten von Musikquellen behandeln, die nicht in den üblichen RISM-Bereich fallen, und die geographische Gebiete erkunden, in denen RISM unterrepräsentiert ist. Wir laden die Teilnehmer ein, zu erörtern, was wir als "musikalische Quellen" betrachten, und die verschiedenen Methoden zu untersuchen, die in der Vergangenheit und in absehbarer Zukunft zu ihrer Erforschung eingesetzt werden.  
 
 #### Konferenzort
 [Akademie der Wissenschaften und Literatur Mainz](https://www.adwmainz.de/en/home.html){:blank}  
@@ -21,11 +21,11 @@ D-55131 Mainz
 Eine Online-Übertragung wird verfügbar sein. Wenn Sie teilnehmen möchten, melden Sie sich bitte im Voraus an (siehe unten).
 
 #### Anmeldung  
-Wenn Sie persönlich oder online an der Veranstaltung teilnehmen möchten, bitten wir Sie, sich rechtzeitig anzumelden. Um sich anzumelden, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Geben Sie in der Betreffzeile "RISM Konferenzanmeldung" an und fügen Sie gegebenenfalls "persönlich" oder "online" hnzu.  
+Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie persönlich oder online an der Veranstaltung teilnehmen möchten, bitten wir um eine rechtzeitige Anmeldung. Um sich anzumelden, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Geben Sie in der Betreffzeile "RISM Konferenzanmeldung" an und fügen Sie gegebenenfalls "persönlich" oder "online" hnzu.  
 
 ### Programm
 
-#### Frritag, 7. Oktober
+#### Freitag, 7. Oktober
 ##### 18:00 Uhr Official Opening of the Conference  
 * **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz 
 * **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres 
@@ -80,7 +80,7 @@ The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Met
 
 ##### 16:30 Uhr New Source Types
 Chair: Jonathan Gammert (Mainz)
-* **Eva Moreda Rodríguez** (University of Glasgow), Inja Stanović (City, University of London)  
+* **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
 Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History
 * **Francesco Finocchiaro** (“L. Campiani” Conservatory, Mantua)  
 The Musical Documents of the Silent Film Era
