@@ -196,8 +196,8 @@ E-Mail: [arsinoi_i@hotmail.com](mailto:arsinoi_i@hotmail.com)
 ## IRLAND
 
 Kerry Houston \
-DIT Conservatory of Music and Drama\
-E-Mail: [kerry.houston@dit.ie](mailto:kerry.houston@dit.ie)\
+Technological University Dublin - Conservatoire\
+E-Mail: [kerry.houston@TUDublin.ie](mailto:kerry.houston@TUDublin.ie)\
 Webseite: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}
 
 ## ITALIEN

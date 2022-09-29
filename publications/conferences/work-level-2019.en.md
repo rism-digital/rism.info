@@ -9,9 +9,6 @@ old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2
 # Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM
 
 **Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**   
-[Conference flyer (PDF)](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf)
-
-Report by Chantal Köppl on the [Gesellschaft für Musikforschung's website](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
 
@@ -23,7 +20,9 @@ Nevertheless, work titles in libraries are an important tool with which musical 
 
 The conference and workshop was intended to enable a dialogue for the different points of view and expectations of musicologists and librarians and to develop solutions for RISM as a project between the two sides.  
 
-Presentations are available on [RISM's YouTube](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"} channel.
+* [Conference flyer (PDF)](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf)   
+* Presentations on [RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"}.
+* Report by Chantal Köppl on the [Gesellschaft für Musikforschung's website](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 ## Program
 
@@ -46,7 +45,7 @@ Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)
 - Constanze Schumann (Die Deutsche Nationalbibliothek) and Jürgen Kett (Die Deutsche Nationalbibliothek): Work Titles in the GND (Gemeinsame Normdatei, German Integrated Authority File)  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3881) \| [Video on YouTube](https://youtu.be/Y-3D2s_qR90){:target="_blank"}
 - Caroline Shaw (The British Library): The Musical Work: Pragmatic Approaches to an Abstract Entity  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) \| [Video on YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) \| [Video on YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
 
 #### 15:30–16:00 Coffee break  
 
