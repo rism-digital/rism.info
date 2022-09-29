@@ -45,7 +45,7 @@ Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)
 - Constanze Schumann (Die Deutsche Nationalbibliothek) and Jürgen Kett (Die Deutsche Nationalbibliothek): Work Titles in the GND (Gemeinsame Normdatei, German Integrated Authority File)  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3881) \| [Video on YouTube](https://youtu.be/Y-3D2s_qR90){:target="_blank"}
 - Caroline Shaw (The British Library): The Musical Work: Pragmatic Approaches to an Abstract Entity  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) \| [Video on YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3882) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Caroline_Shaw_The_Musical_Work_slides.pdf) \| [Video on YouTube](https://youtu.be/mdn9eVSwW8g){:target="_blank"}
 
 #### 15:30–16:00 Coffee break  
 

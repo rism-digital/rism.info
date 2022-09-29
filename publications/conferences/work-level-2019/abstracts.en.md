@@ -7,6 +7,8 @@ old_url: www.rism.info/en/publications/introducing-a-work-level-in-rism-2019/abs
 ---
 
 # Introducing a Work Level in RISM: Abstracts
+[Conference and Workshop, 9-11 May 2019](/publications/conferences/work-level-2019.html)  
+
 ## Thursday, May 9
 
 ### <a name="c3881"></a>Constanze Schumann (Die Deutsche Nationalbibliothek) and Jürgen Kett (Die Deutsche Nationalbibliothek)
