@@ -35,70 +35,83 @@ The conference is free of charge and open to all. If you would like to attend th
 ##### 18:30 RISM Lecture: Musical Sources in Mexico  
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
 From Data, Understanding the Past, Orienting the Future  
+[Abstract](/publications/conferences/musical-sources-past-future-2022/abstracts.html#rism-lecture)   
 
 #### Saturday, October 8
-##### 9:00 Fragmenta, Codices, Libri
-Chair: Nicole Schwindt (Trossingen)
+##### 9:00 Fragmenta, Codices, Libri  
+Chair: Nicole Schwindt (Trossingen)  
+[Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#fragmenta-codices-libri)  
 * **Fiona Baldwin** (University College Dublin)  
-How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
+How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin   
 * **Anne-Zoé Rillon-Marne** (Université catholique de l’Ouest, Angers)  
-A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1
+A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1   
 * **Nicolò Ferrari** (University of Manchester)  
-Complex Codices: Describing the Syntax of Late Medieval and Early Modern Music Manuscripts
+Complex Codices: Describing the Syntax of Late Medieval and Early Modern Music Manuscripts   
 * **Giorgio Peloso Zantaforni** (University of Padua / Hochschule für Musik und Tanz Köln)  
-Music in the Libri Amicorum Between the 16th and 17th Centuries: An Investigation of an Important Source to be Rediscovered
+Music in the _Libri Amicorum_ Between the 16th and 17th Centuries: An Investigation of an Important Source to be Rediscovered  
 
 ##### Coffee break
 
 ##### 11:00 Special Challenges  
-Chair: Andrea Lindmayr-Brandl (Salzburg)
+Chair: Andrea Lindmayr-Brandl (Salzburg)  
+Abstracts  
 * **Luigi Collarile** (Schola Cantorum Basiliensis FHNW / Bern University of the Arts)  
-Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives  
+Lost Music Books by the Venetian Publisher Giacomo Vincenti  (1554–1619): New Data, New Perspectives    
 * **Anne Piéjus** (IReMus – Institut de recherche en musicologie / Bibliothèque nationale de France)  
 Scattered Music Sources in the Literature of the Modern Period: What Prospects for Integration into RISM?  
 * **Emilio Ros-Fábregas** (Consejo Superior de Investigaciones Científicas, Institución Milá y Fontanals de Investigación en Humanidades)  
-The Digital Platform Books of Hispanic Polyphony IMF-CSIC and RISM: Perspectives on Collaboration  
+The Digital Platform _Books of Hispanic Polyphony IMF-CSIC_ and RISM: Perspectives on Collaboration    
 * **Stephen Rose** (Royal Holloway, University of London)  
-Musical Heritage in Local Archives: RISM and the Challenges of Decentralised Vernacular Repertories  
+Musical Heritage in Local Archives: RISM and the Challenges of Decentralised Vernacular Repertories   
 * **Boris Voigt, Daniel Tiemeyer, Ulrike Roesler, Severin Kolb** (Musikwissenschaftliches Seminar der Universität Heidelberg)  
-The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections from the Perspective of a Source-Based Catalogue
+The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections from the Perspective of a Source-Based Catalogue   
 
 ##### Lunch
 
 ##### 14:30 Beyond Europe  
 Chair: Stefanie Acquavella-Rauch (Mainz)
 * **Sven Gronemeyer** (Max Weber Stiftung, Bonn / La Trobe University, Melbourne), **Zeynep Helvacı & Ralf Martin Jäger** (both University of Münster)  
-New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts
+New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts  
+Abstract  
 * **Ali Tüfekçi & Güneş Çetinkaya Şerik** (both Istanbul Technical University Turkish Music State Conservatory)  
-Digitization of the Cultural Heritage of Turkish Music
+Digitization of the Cultural Heritage of Turkish Music  
+Abstract  
 * **Wantana Tancharoenpol** (Chulalongkorn University, Bangkok)  
-Thai Musical Sources in the Berlin Staatsbibliothek
+Thai Musical Sources in the Berlin Staatsbibliothek  
+Abstract  
 * **Edgar Alejandro Calderón Alcántar** (National Conservatory of Music, Mexico / Faculty of Fine Arts of Michoacán University of San Nicolás de Hidalgo, Mexico)  
-The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation
-
+The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation  
+Abstract  
 ##### Coffee break  
 
 ##### 16:30 New Source Types
 Chair: Jonathan Gammert (Mainz)
-* **Eva Moreda Rodríguez** (University of Glasgow), Inja Stanović (City, University of London)  
-Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History
+* **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
+Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History  
+Abstract  
 * **Francesco Finocchiaro** (“L. Campiani” Conservatory, Mantua)  
-The Musical Documents of the Silent Film Era
+The Musical Documents of the Silent Film Era  
+Abstract  
 * **Valentina Bertolani** (University of Birmingham / Carleton University)  
-Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-Century Music
+Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-Century Music  
+Abstract  
 
 
 #### Sunday, October 9    
 ##### 9:00 Historical Perspectives  
 Chair: Thomas Betzwieser (Frankfurt am Main)
 * **Paul Allen Sommerfeld** (Library of Congress)  
-Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)
+Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)  
+Abstract  
 * **Andrea Hartmann & Steffen Voss** (both RISM Deutschland e.V.)  
-The Early Years of the Two RISM Working Groups in Germany
+The Early Years of the Two RISM Working Groups in Germany  
+Abstract
 * **Armin Brinzing** (Bibliotheca Mozartiana, International Mozarteum Foundation)  
-RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries
+RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries  
+Abstract  
 * **Sara Taglietti** (Ufficio Ricerca Fondi Musicali, Milan)  
-“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries
+“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries  
+Abstract  
 
 ##### Coffee break
 
@@ -106,11 +119,15 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 Chair: Laurent Pugin (Bern)
 * **Thomas Schmidt** (University of Manchester)  
 The Changed Role of Catalogues of Music Sources in the Digital Age  
+Abstract  
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
 Integration of Digital Tools for Music Data  
+Abstract  
 * **Sandra Tuppen** (The British Library / RISM (UK) Trust)  
-Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650
+Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650  
+Abstract
 * **Frans Wiering & Mirjam Visscher** (both Utrecht University)  
 Mining the RISM Data for Music-Historical Insight  
+Abstract  
 
 ##### 12:30 Close
