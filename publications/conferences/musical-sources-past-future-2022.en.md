@@ -9,6 +9,8 @@ permalink: /publications/conferences/musical-sources-past-future-2022.html
 ### An International Conference Celebrating 70 Years of RISM  
 #### 7–9 October 2022, [Academy of Sciences and Literature Mainz (Germany)](https://www.adwmainz.de/en/home.html){:blank}
 
+[Conference brochure (PDF)](\resources\publications\musical-sources-past-future-2022\2022_10_7-9_RISM-Tagung.pdf)
+
 Founded in 1952 by representatives of the [International Musicological Society (IMS)](https://www.musicology.org/){:blank} and the [International Association of Music Libraries (IAML)](https://www.iaml.info/){:blank}, the Répertoire International des Sources Musicales (RISM) has long set the standard in the field of musical source studies. Over the course of seven decades, RISM’s publications have targeted a variety of source types—printed anthologies as well as editions by a single composer, music manuscripts of all sorts, writings about music and theoretical treatises—all in all covering an astonishing range both chronologically (from ancient Greece up to contemporary manuscripts) and geographically (from the Arabic world to Ibero-American sources and the music of South Korea). Along the way RISM has also anchored itself in the digital world, and its work today is primarily focused on maintaining and further enriching our freely accessible database (searchable through the [RISM Catalog](https://opac.rism.info/index.php?id=4){:blank} and [RISM Online](https://rism.online/){:blank}) of about 1.4 million records describing music manuscripts and printed editions.  
 
 Our 70th anniversary conference is meant as a forum for discussing the state of musical source research, pondering the lessons of the past, and outlining some perspectives for the future. We have contributions pertaining specifically to RISM that focus on our own history, examine material falling into the traditional coverage of the project, and bring new sources to light. But our conference is equally a platform for presentations that call attention to potential new paths yet to be discovered, treat other types of musical sources that fall outside of RISM's usual scope, and explore geographic areas where RISM is underrepresented. We invite participants to reconsider what we regard as “musical sources” and to scrutinize the diverse methods used for studying them in both the past and the foreseeable future.   
@@ -69,7 +71,7 @@ The Concept of “Work” in Franz Liszt’s Compositional Practice: Reflections
 ##### Lunch
 
 ##### 14:30 Beyond Europe  
-Chair: Stefanie Acquavella-Rauch (Mainz)
+Chair: Stefanie Acquavella-Rauch (Mainz)  
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#beyond-europe)
 * **Sven Gronemeyer** (Max Weber Stiftung, Bonn / La Trobe University, Melbourne), **Zeynep Helvacı & Ralf Martin Jäger** (both University of Münster)  
 New Perspectives: The Indexing and Cataloging of Non-European Music Manuscript Sources Using the Example of 19th-Century Ottoman Music Manuscripts  
@@ -82,8 +84,8 @@ The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Met
 
 ##### Coffee break  
 
-##### 16:30 New Source Types
-Chair: Jonathan Gammert (Mainz)
+##### 16:30 New Source Types  
+Chair: Jonathan Gammert (Mainz)  
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#new-source-types)
 * **Inja Stanović** (City, University of London), **Eva Moreda Rodríguez** (University of Glasgow)  
 Early Recordings have RISM: Redefining Early Recordings as Sources for Performance Practice and History    
@@ -109,7 +111,7 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 ##### Coffee break
 
 ##### 11:00 The Digital Turn  
-Chair: Laurent Pugin (Bern)
+Chair: Laurent Pugin (Bern)  
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#the-digital-turn)  
 * **Thomas Schmidt** (University of Manchester)  
 The Changed Role of Catalogues of Music Sources in the Digital Age   
