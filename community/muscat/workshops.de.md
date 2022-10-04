@@ -13,19 +13,22 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-### IAML Prag
+###  Historical Musicology Study Group, Universidad Nacional de Córdoba  
+RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
+30. September 2022, Valentín Mansilla
 
-Eine zweiteilige Muscat-Schulung wird am 26. Juli 2022 während des IAML-Kongresses in Prag stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Prag-Seite](/publications/iaml-congresses/2022.html).      
-
-### Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych, Warsaw
-Ewa Hauptman-Fischer, 4\.–6\. Juli 2022
 
 ### Online workshops
 
-Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für das Frühjahr und den Herbst 2022 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
+Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den Herbst 2022 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 
 ## Vergangene Workshops und Vorführungen
+* 26. Juli 2022: Muscat Workshop, [IAML Kongress, Prag](/publications/iaml-congresses/2022.html)  
+_Jennifer Ward, Guido Kraus, RISM-Zentralredaktion_  
+
+* 4\.–6\. Juli 2022: Muscat Introduction, Warschau  
+_Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_ 
 
 * 21\.–22\. Juni 2022: Muscat-Einführung, Chopin Institut, Warschau 
 *Guido Kraus, RISM-Zentralredaktion*
