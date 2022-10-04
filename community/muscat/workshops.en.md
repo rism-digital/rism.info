@@ -15,16 +15,14 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-###  Historical Musicology Study Group, Universidad Nacional de Córdoba  
-RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
-30 September 2022, Valentín Mansilla  
-
-
 ### Online workshops
 
 The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ## Past workshops and demonstrations  
+* 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
+_Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de Córdoba_  
+
 * 26 July 2022: Muscat Workshop, [IAML Congress, Prague](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM Zentralredaktion_  
 
