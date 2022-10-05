@@ -52,7 +52,7 @@ RISM's records can be searched at no cost through two different but complementar
 * Permalinks are found in each RISM record in the top left when you click on the chain link symbol. The URLs that appear in your browser's address bar are not stable.
 * To make a permalink go directly to the page in English, add this to the end of the permalink:`&Language=en`  
 Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](https://opac.rism.info/search?id=453009722&View=rism&Language=en){:target="_blank"}
-* To create stable URLs for specific search strings, please see "[How to link to a record or a search](https://opac.rism.info/index.php?id=8&L=0#c49){:target="_blank"}" on the OPAC page.
+* To create stable URLs for specific search strings, please see "[How to link to a record or a search](https://opac.rism.info/index.php?id=8&L=0#c49){:target="_blank"}" on the RISM Catalog page.
 
 #### Links to RISM Online  
 * URL of RISM Online:  
@@ -87,7 +87,7 @@ Not everything from the books is in the RISM Catalog (see the [Publications page
 
 ## Using RISM Data
 
-The RISM data in the [online catalog](http://opac.rism.info/){:target="_blank"} may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
+RISM data may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
 
 ## RISM Logos
 
