@@ -13,10 +13,6 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
-###  Historical Musicology Study Group, Universidad Nacional de Córdoba  
-RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
-30. September 2022, Valentín Mansilla
-
 
 ### Online workshops
 
@@ -24,7 +20,10 @@ Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den He
 
 
 ## Vergangene Workshops und Vorführungen
-* 26. Juli 2022: Muscat Workshop, [IAML Kongress, Prag](/publications/iaml-congresses/2022.html)  
+* 30\. September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives 
+_Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de Córdoba_
+
+* 26\. Juli 2022: Muscat Workshop, [IAML Kongress, Prag](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM-Zentralredaktion_  
 
 * 4\.–6\. Juli 2022: Muscat Introduction, Warschau  
