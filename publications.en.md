@@ -8,19 +8,22 @@ old_url: http://www.rism.info/en/publications.html
 
 # Publications
 
-The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The [online catalog](#online-catalog) is the focus of RISM's current activities and is freely available online.
+The RISM publications represent RISM's activities that began in 1952 and continue to the present day. RISM's electronic database, the focus of RISM's current activities, can be searched at no cost through [the RISM Catalog and RISM Online](#online-catalogs).
 
-RISM's other publications are divided into series, reflecting the early structure of the project, though with the integration of much of the data into the online environment, the strict division into series plays a secondary role. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the _Tenorlied_ and RISM library sigla (now available in the [Online Directory of RISM Library Sigal](/community/sigla.html)).
+RISM's other publications are divided into series. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the _Tenorlied_ and RISM library sigla (now available in the [Online Directory of RISM Library Sigal](/community/sigla.html)).
 
-## Online Catalog
+## Online Catalogs
+RISM's over 1.4 million records can be searched at no cost on our homepage through the **RISM Catalog** and **RISM Online.** The online catalogs contain all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and [B/I](#series-b-bibliographies-organized-by-topic). Manuscripts, printed music, libretti, and treatises are described in RISM.
 
+### RISM Catalog
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-The RISM Catalog of Musical Sources is a free resource that can be accessed from [rism.info](https://rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
+The RISM Catalog can be accessed through our homepage or from [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.  
 
-The catalog contains all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and [B/I](#series-b-bibliographies-organized-by-topic).
+### RISM online
+{% include image file="/images/news/2022-07/2022-07-rism-online-iaml-prague-screen.jpg" pos="right" %}
 
-It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and RISM. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.
+RISM Online can be accessed through our homepage or from [rism.online](https://rism.online/){:blank}. It is a collaboration between the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland and the RISM Editorial Center.
 
 ## Series A: Inventories of musical sources
 
