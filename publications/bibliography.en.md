@@ -384,6 +384,8 @@ Società Italiana di Musicologia and Associazione Veneta per la Ricerca delle Fo
 
 #### 1990 <a name="c1990"></a>
 
+Brook, Barry S. and José López-Calo. "El 'Plaine and easie code' aplicado a la música española." In _Jornadas metodológicas de catalogación de los fondos musicales de la Iglesia Católicas en Andalucía: 18 y 19 de noviembre de 1988_, edited by Xoan M. Carreira, 145-155. Granada: Centro de Documentación Musical de Andalucía, 1990. [Available online](http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.do?id=1014826){:blank}.
+
 Idaszak, Danuta. "RISM - międzynarodowy leksykon źródeł muzycznych." _Ruch muzyczny_ 34 (1990): 7.
 
 Kantner, Leopold M. "Musiklandschaft Österreich?! RISM in Österreich - ein Aufruf." _Informationen_ 34 (1990).
@@ -418,7 +420,7 @@ Ragni, Silvia. "Al RISM, manoscritti musicali antichi. 280.000 i titoli già cat
 
 #### 1993
 
-Brook, Barry S. and Richard J. Viano. "The thematic catalogue in music: Further reflections on its past, present and future." _Music Reference Services Quarterly_ 2, no. 1-2 (1993): 27-46. [Access through Taylor & Francis](http://dx.doi.org/10.1300/J116v02n01_02){:target="_blank"}.  
+Brook, Barry S. and Richard J. Viano. "The thematic catalogue in music: Further reflections on its past, present and future." _Music Reference Services Quarterly_ 2, no. 1-2 (1993): 27-46. [Available online](http://dx.doi.org/10.1300/J116v02n01_02){:target="_blank"}.  
 
 Ragni, Silvia. "Schedare il mondo al RISM." _Giornale della musica_ 89 (1993): 20.
 

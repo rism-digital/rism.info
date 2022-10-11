@@ -13,7 +13,7 @@ The RISM publications represent RISM's activities that began in 1952 and continu
 RISM's other publications are divided into series. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the _Tenorlied_ and RISM library sigla (now available in the [Online Directory of RISM Library Sigal](/community/sigla.html)).
 
 ## Online Catalogs
-RISM's over 1.4 million records can be searched at no cost on our homepage through the **RISM Catalog** and **RISM Online.** The online catalogs contain all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and [B/I](#series-b-bibliographies-organized-by-topic). Manuscripts, printed music, libretti, and treatises are described in RISM.
+Two digital tools are available to search RISM: the **RISM Catalog** and **RISM Online.** Both search RISM's over 1.4 million records that describe music manuscripts, printed music, libretti, and treatises in over 900 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate series [A/I, A/II](#series-a-inventories-of-musical-sources), [B/I](#series-b-bibliographies-organized-by-topic), some of B/II and other B volumes, and much more not assigned to any series.
 
 ### RISM Catalog
 {% include image file="/images/publications/opac.png" pos="right" %}
@@ -29,22 +29,25 @@ RISM Online can be accessed through our homepage or from [rism.online](https://r
 
 {% include image file="/images/publications/books.jpg" pos="right" %}
 
-_Series A is entirely [available free online](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}._  
+All of Series A is [available online](#online-catalogs).
 
-**A/I: Einzeldrucke vor 1800** (Individual Prints before 1800). [Kassel: Bärenreiter](https://www.baerenreiter.com/){:target="_blank"}, 1971-2012. 9 volumes, 4 supplements, index, CD-ROM; [free online database](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} since 2015.
+### A/I: Einzeldrucke vor 1800 (Individual Prints before 1800)  
+[Kassel: Bärenreiter](https://www.baerenreiter.com/){:target="_blank"}, 1971-2011. 9 volumes, 4 supplements, index, CD-ROM; available online since 2015.
 *  _Einzeldrucke vor 1800_, 9 vols., 1971-1981.
 *  _Einzeldrucke vor 1800: Addenda et Corrigenda_, 4 vols., 1986-1999.
 *  _Einzeldrucke vor 1800: Register der Verleger, Drucker und Stecher und Register der Orte zu den Bänden 1-9 und 11-14_, 2003.
+* _A/I: Einzeldrucke vor 1800. Datenbank auf CD-ROM_, 2011.
 
-Series A/I documents printed music published between 1500 and 1800 that holds the work of a single composer. At over 100,000 entries, this is the most comprehensive source available for printed musical works. A CD-ROM that incorporates all of the printed volumes was released in 2011. The contents of the CD-ROM were added to the [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} in 2015.
+Series A/I was published in fourteen printed volumes between 1971 and 2003, and one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. At around 100,000 entries, at the time of publication it was the most comprehensive resource available for printed music editions. A/I was added to the online RISM Catalog in 2015. The alphanumeric A/I identification numbers are searchable online but are not being continued for new entries in the database.
 
-_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.
+_For a supplement to A/I volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.
 
-**A/II: Music Manuscripts after 1600.** Database index, 1984-1986 (2 microfiches); annual CD-ROM, 1996-2008 (Munich: K. G. Saur Verlag); [free online database](http://opac.rism.info/){:target="_blank"} since 2010 (RISM Zentralredaktion). Also available as a subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008).
+### A/II: Music Manuscripts after 1600  
+*  _Musikhandschriften nach 1600_  
+Sixteen editions total: 1-2 on microfiche (1984-1986); 3-16 on CD-ROM in German, English, French, Italian, Spanish (Munich: K. G. Saur Verlag, 1996-2008). Subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008). Free online database since 2010.
 
-*  _Musikhandschriften nach 1600_: Sixteen editions in total: 1-2 on microfiche; 3-16 on CD-ROM (German, English, French, Italian, Spanish). First edition, 1984 (ca. 19,000 entries); sixteenth edition, 2008 (ca. 614,000 entries).
+At the time of its conception, A/II was the most comprehensive guide available to music manuscripts created after 1600. The first edition (1984) contained ca. 19,000 entries and the sixteenth (2008) contained ca. 614,000 entires. In 2010, A/II was published as a freely available online database. 
 
-Series A/II is the most comprehensive guide available to music manuscripts created after 1600.  Sources from over 900 libraries, museums, archives, churches, schools, and private collections in more than 35 countries around the world are described in the database. Full bibliographic information is available for over one million records. Included are manuscripts, printed music, librettos, and treatises. The database is updated monthly.
 
 ## Series B: Bibliographies organized by topic
 
