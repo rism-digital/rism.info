@@ -414,7 +414,7 @@ Haberkamp, Gertraut: Répertoire International des Sources Musicales (RISM): Que
 
 Howard, John: RISM-US Music Manuscript Inventory, in: Computing in Musicology 8 (1992), S. 25-26.
 
-Mann, Brian Richard: From Berlin to Cracow: Sixteenth- and Seventeenth-Century Prints of Italian Secular Vocal Music in the Jagiellonian Library, in: Notes 49, no. 1 (1992), S. 11–27. [Online verfügbar](https://www.jstor.org/stable/897183){:target="_blank"}.
+Mann, Brian Richard: From Berlin to Cracow: Sixteenth- and Seventeenth-Century Prints of Italian Secular Vocal Music in the Jagiellonian Library, in: Notes 49, no. 1 (1992), S. 11–27. [Online verfügbar](https://www.jstor.org/stable/897183){:target="_blank"}
 
 Pinegar, Sandra (et al): Text applications and inventories of musical sources, in: Computing and Musicology 8 (1998), S. 9-30.
 
@@ -422,7 +422,7 @@ Ragni, Silvia: Al RISM, manoscritti musicali antichi. 280.000 i titoli già cata
 
 #### 1993
 
-Brook, Barry S. / Viano, Richard J.: The thematic catalogue in music: Further reflections on its past, present and future, in: Foundations in music bibliography, New York 1993 (= Music Reference Services Quarterly, vol. 2), S. 27-46. [Artikel via Taylor & Francis](http://dx.doi.org/10.1300/J116v02n01_02){:target="_blank"}
+Brook, Barry S. / Viano, Richard J.: The thematic catalogue in music: Further reflections on its past, present and future, in: Foundations in music bibliography, New York 1993 (= Music Reference Services Quarterly, vol. 2), S. 27-46. [Online verfügbar](http://dx.doi.org/10.1300/J116v02n01_02){:target="_blank"}
 
 Ragni, Silvia: Schedare il mondo al RISM, in: Giornale della musica 1993, no. 89, S. 20.
 
