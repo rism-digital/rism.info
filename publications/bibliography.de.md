@@ -386,6 +386,8 @@ Società Italiana di Musicologia / Associazione Veneta per la Ricerca delle Font
 
 #### 1990 <a name="c1990"></a>
 
+Brook, Barry S. und José López-Calo: El 'Plaine and easie code' aplicado a la música española; in: Jornadas metodológicas de catalogación de los fondos musicales de la Iglesia Católicas en Andalucía: 18 y 19 de noviembre de 1988, hrsg. von Xoan M. Carreira,  Granada: Centro de Documentación Musical de Andalucía, 1990, S. 145-155. [Online verfügbar](http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.do?id=1014826){:blank}.
+
 Idaszak, Danuta: RISM - międzynarodowy leksykon źródeł muzycznych, in: Ruch muzyczny 34 (1990), S. 7.
 
 Kantner, Leopold M.: Musiklandschaft Österreich?! RISM in Österreich - ein Aufruf, in: Informationen 34 (1990).
