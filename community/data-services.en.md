@@ -46,13 +46,13 @@ This cataloging format was developed at the Library of Congress in the 1960s and
 
 [BEACON](http://meta.wikimedia.org/wiki/BEACON){:target="_blank"} is a very simple file format that is used to display links to websites that offer content on certain authority files. Currently, the format is primarily used for personal names, which are identified by means of a GND (formerly PND) number, although it is suitable for other types of authority files as well.
 
-RISM provides GND BEACON files for personal names. Several projects have already integrated RISM's BEACON data:
+GND and VIAF BEACON files for personal names and institutions. Several projects have already integrated RISM's BEACON data:
 
 * The [Neue Deutsche Biographie](http://www.deutsche-biographie.de/index.html){:target="_blank"} (New German Biography)
 * Wikipedia's [Personensuche](http://toolserver.org/~apper/pd/){:target="_blank"} (People Search)
 * The [Bayerisches Musiker-Lexikon Online](http://www.bmlo.lmu.de/){:target="_blank"} (Bavarian Online Dictionary of Musicians)
 
-RISM's GND BEACON files can be found at [http://dl.rism.info/pnd.txt](http://dl.rism.info/pnd.txt){:target="_blank"}.
+The BEACON files can be found through the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu/data){:target="_blank"}.  
 
 ![NDB](/images/community/data-services/NDB.jpg)
 
