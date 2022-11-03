@@ -19,7 +19,7 @@ RISM's over 1.4 million records can be searched through two different but comple
 The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.  
 
 ### RISM Online
-{% include image file="/images/news/2022-07/2022-07-rism-online-iaml-prague-screen.jpg" pos="right" %}
+{% include image file="/images/publications/rism-online-screenshot.jpg" pos="right" %}
 
 RISM Online can be accessed through the RISM homepage or from [rism.online](https://rism.online/){:blank}. It is developed by the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland.
 
