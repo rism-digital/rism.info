@@ -8,51 +8,58 @@ old_url: http://www.rism.info/en/publications.html
 
 # Publications
 
-The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The [online catalog](#online-catalog) is the focus of RISM's current activities and is freely available online.
+The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The focus of RISM's current activities is its electronic database, which can be searched at no cost through two resources, the RISM Catalog and RISM Online. RISM's library sigla can be searched through the [Online Directory of RISM Library Sigla](/community/sigla.html).
 
-RISM's other publications are divided into series, reflecting the early structure of the project, though with the integration of much of the data into the online environment, the strict division into series plays a secondary role. [Series A](#series-a-inventories-of-musical-sources) documents musical sources in two parts: printed music containing works by one composer (A/I) and music manuscripts (A/II). [Series B](#series-b-bibliographies-organized-by-topic) is designed to cover specific categories of repertory. Series A and B are supplemented by [Series C](#series-c-directory-of-music-research-libraries), the Directory of Music Research Libraries. [Special volumes](#special-volumes) have also been published on the _Tenorlied_ and RISM library sigla (now available in the [Online Directory of RISM Library Sigal](/community/sigla.html)).
+## RISM Database
+RISM's over 1.4 million records can be searched through two different but complementary resources, the RISM Catalog and RISM Online. They both search the same rich pool of sources that stands at the core of the RISM project: music manuscripts, printed music, libretti, and treatises preserved in over 3,000 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate records from earlier series (all of A/I, all of A/II, all of B/I, some of B/II and other B volumes; for details, see below), but also expand well beyond our early publications. The database grows monthly and reflects the work of our active RISM contributors worldwide.
 
-## Online Catalog
-
+### RISM Catalog
 {% include image file="/images/publications/opac.png" pos="right" %}
 
-The RISM Catalog of Musical Sources is a free resource that can be accessed from [rism.info](https://rism.info) and [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It documents manuscripts, printed music, libretti, and treatises.
+The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.  
 
-The catalog contains all of series [A/I, A/II](#series-a-inventories-of-musical-sources), and [B/I](#series-b-bibliographies-organized-by-topic).
+### RISM Online
+{% include image file="/images/news/2022-07/2022-07-rism-online-iaml-prague-screen.jpg" pos="right" %}
 
-It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and RISM. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.
+RISM Online can be accessed through the RISM homepage or from [rism.online](https://rism.online/){:blank}. It is a collaboration between the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland and the RISM Editorial Center.
 
 ## Series A: Inventories of musical sources
 
 {% include image file="/images/publications/books.jpg" pos="right" %}
 
-_Series A is entirely [available free online](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}._  
+All of Series A is available online through [RISM's electronic catalogs](/publications.html#rism-database). Items within the scope of A/I and A/II are added directly to the RISM database. The alphanumeric A/I identification numbers (for example, T 444) are searchable online but are not being continued for new records in RISM.
 
-**A/I: Einzeldrucke vor 1800** (Individual Prints before 1800). [Kassel: Bärenreiter](https://www.baerenreiter.com/){:target="_blank"}, 1971-2012. 9 volumes, 4 supplements, index, CD-ROM; [free online database](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} since 2015.
+### A/I: Einzeldrucke vor 1800 (Individual Prints before 1800)  
+[Kassel: Bärenreiter](https://www.baerenreiter.com/){:target="_blank"}, 1971-2011. 9 volumes, 4 supplements, index, CD-ROM; available online since 2015.
 *  _Einzeldrucke vor 1800_, 9 vols., 1971-1981.
 *  _Einzeldrucke vor 1800: Addenda et Corrigenda_, 4 vols., 1986-1999.
 *  _Einzeldrucke vor 1800: Register der Verleger, Drucker und Stecher und Register der Orte zu den Bänden 1-9 und 11-14_, 2003.
+* _A/I: Einzeldrucke vor 1800. Datenbank auf CD-ROM_, 2011.  
 
-Series A/I documents printed music published between 1500 and 1800 that holds the work of a single composer. At over 100,000 entries, this is the most comprehensive source available for printed musical works. A CD-ROM that incorporates all of the printed volumes was released in 2011. The contents of the CD-ROM were added to the [free online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} in 2015.
+_For a supplement to A/I volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.  
 
-_For a supplement to the printed volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.
+Series A/I was published in fourteen printed volumes between 1971 and 2003, and in one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. At around 100,000 entries, at the time of publication it was the most comprehensive resource available for printed music editions. A/I was added to the online RISM Catalog in 2015.  
 
-**A/II: Music Manuscripts after 1600.** Database index, 1984-1986 (2 microfiches); annual CD-ROM, 1996-2008 (Munich: K. G. Saur Verlag); [free online database](http://opac.rism.info/){:target="_blank"} since 2010 (RISM Zentralredaktion). Also available as a subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008).
+### A/II: Music Manuscripts after 1600  
+*  _Musikhandschriften nach 1600_  
+Sixteen editions total: 1-2 on microfiche (1984-1986); 3-16 on CD-ROM in German, English, French, Italian, Spanish (Munich: K. G. Saur Verlag, 1996-2008). Subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008). Published in the RISM Catalog in 2010.
 
-*  _Musikhandschriften nach 1600_: Sixteen editions in total: 1-2 on microfiche; 3-16 on CD-ROM (German, English, French, Italian, Spanish). First edition, 1984 (ca. 19,000 entries); sixteenth edition, 2008 (ca. 614,000 entries).
+At the time of its conception, A/II was the most comprehensive guide available to music manuscripts created after 1600. The first edition (1984) contained ca. 19,000 entries and the sixteenth (2008) contained ca. 614,000 entries. In 2010, A/II was published as a freely available online catalog with over 700,000 entries. The nature of the A/II project has expanded over the years to include music manuscripts from before 1600 to the present day, and all music manuscripts are now part of the larger [RISM database](/publications.html#rism-database).
 
-Series A/II is the most comprehensive guide available to music manuscripts created after 1600.  Sources from over 900 libraries, museums, archives, churches, schools, and private collections in more than 35 countries around the world are described in the database. Full bibliographic information is available for over one million records. Included are manuscripts, printed music, librettos, and treatises. The database is updated monthly.
 
 ## Series B: Bibliographies organized by topic
 
-Publisher: [Munich: G. Henle](http://www.henle.de/){:target="_blank"} (unless otherwise noted)
+Publisher: [Munich: G. Henle](http://www.henle.de/){:target="_blank"} (unless otherwise noted)  
+
+RISM's series B covers specific categories of repertory. All of B/I and a portion of B/II are in the RISM electronic database, as are a few items from other B series (for details, see the specific B volumes below).
 
 ### B/I and B/II: Printed collections of the 16th-18th centuries
 
-Includes about 4,500 printed collections (anthologies). An index of composers in B/I, edited by Petro Zappalà, is available as a [PDF]( /publications/RecueilsKomponistenindex.pdf). B/I is included in the [online catalog](https://opac.rism.info/){:target="_blank"}.
+Includes about 4,500 printed collections (anthologies). All of B/I and about 25% of B/II are included in the [RISM electronic database](/publications.html#rism-database). While items within the scope of these series are added directly to the RISM database, the numbering scheme used in the books is not being continued.
 
 * **B/I**: François Lesure, _Recueils imprimés, XVIe-XVIIe siècles_ (1960).
-  - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
+  - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.  
+ - An index of composers in B/I, edited by Petro Zappalà, is available as a [PDF]( /publications/RecueilsKomponistenindex.pdf).  
 
 * **B/II**: François Lesure, _Recueils imprimés, XVIIIe siècle_ (1964)
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
@@ -75,7 +82,6 @@ B/III is available as a searchable database through [Lexicon musicum Latinum](ht
   - Countries included: Australia, Austria, Belgium, Brazil, Czech Republic, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Luxembourg, Netherlands, New Zealand, Poland, Portugal, Romania, Russia, Slovenia, South Africa, Spain, Sweden, Switzerland, United States.
 
 ### B/IV: Manuscripts of polyphonic music, 11-16 centuries
-
 Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"}.
 * **B/IV/1:** Gilbert Reaney, _Manuscripts of Polyphonic Music. 11th-Early 14th Century_, 1966.
   - Description, bibliography and thematic incipits for all the known polyphonic manuscripts up to the beginning of the Ars Nova period.
@@ -106,8 +112,9 @@ Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diam
   - Countries included: Austria, Belgium, Czechoslovakia, France, Germany, Great Britain, Italy, Netherlands, Poland, Spain, Sweden, Switzerland, Vatican City.
 
 ### B/VI: Printed writings about music
+A very small number of sources from B/VI are in the [RISM electronic database](/publications.html#rism-database).  
 
-Attempts to bring together all literature concerning music 1474-1800, whether theoretical, historical, aesthetic, or technical. Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
+B/VI attempts to bring together all literature concerning music 1474-1800, whether theoretical, historical, aesthetic, or technical. Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
 
 More than 2,000 publications from the Library of Congress (US-Wc) reported in these volumes are digitized and available online through the collection [Books About Music Before 1800](https://www.loc.gov/collections/books-about-music-before-1800/){:target="_blank"}.
 
@@ -125,8 +132,9 @@ For a supplement to B/VII, see [Boetticher (1979)](/publications/bibliography.ht
 * **B/VII/1:** Wolfgang Boetticher, _Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts_, 1978.
 
 ### B/VIII: German hymns (DKL)
+A very small number of sources from B/VIII are in the [RISM electronic database](/publications.html#rism-database).  
 
-A catalog of traceable printed sources of German hymns, of all denominations, from the end of the 15th century until 1800 that contain at least one melody in musical notation. Also contains those editions of which no copy is known but whose former existence has been determined by previous bibliographies or research. Part 2 is an index arranged by title, names, places, publishers, and sigla.
+B/VIII is a catalog of traceable printed sources of German hymns, of all denominations, from the end of the 15th century until 1800 that contain at least one melody in musical notation. Also contains those editions of which no copy is known but whose former existence has been determined by previous bibliographies or research. Part 2 is an index arranged by title, names, places, publishers, and sigla.
 
 Countries included: Austria, Belgium, Canada, Czechoslovakia, Denmark, East Germany, France, Great Britain, Hungary, Italy, Netherlands, Norway, Poland, Romania, Sweden, Switzerland, United States, USSR, West Germany, Yugoslavia.
 
@@ -176,10 +184,10 @@ Publications of hymn sources in the Czech, Slovak, Polish, and Sorbian languages
 
 Descriptions of over 1100 notated processionals and over 150 manuscripts with processional chant.
 
-* **B/XIV/1:** Michel Huglo, _Les manuscrits du processionnal, vol. 1: Autriche à Espagne_, 1999.
+* **B/XIV/1:** Michel Huglo, _Les Manuscrits du processionnal, vol. 1: Autriche à Espagne_, 1999.
   - Countries included: Australia, Austria, Belgium, Canada, Czech Republic, Denmark, Germany, Spain, Switzerland.
 
-* **B/XIV/2:** Michel Huglo, _Les manuscrits du processionnal, vol. 2: France à Afrique du Sud_, 2004.
+* **B/XIV/2:** Michel Huglo, _Les Manuscrits du processionnal, vol. 2: France à Afrique du Sud_, 2004.
   - Countries included: Croatia, France, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Russia, Slovenia, South Africa, Sweden, United Kingdom, United States.
 
 ### B/XV: Polyphonic music in Ibero-American sources
@@ -190,12 +198,17 @@ Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal,
 
 * **B/XV:** Cristina Urchueguía, _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630. Drucke, Handschriften und verlorene Quellen_, 2005.
 
-**B/XVI: Palm-leaf manuscripts**
+### B/XVI: Palm-leaf manuscripts  
+
 * **B/XVI:** Tilman Seebass, _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_, 2015.
 
 ### B/XVII: Trio Sonatas
 
-* **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_, 2016. 2 vols. plus database ([database access information here](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).
+* **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_, 2016. 2 vols. plus database ([database access information here](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).  
+
+### B/XVIII: Manuscripts of notated sequences and proses
+
+* **B/XVIII/1**: Christian Meyer, _Les Sources manuscrites des séquences et proses notées. IXe–XVIe siècles. Volume 1, France. Catalogue descriptif_, 2022.
 
 ## Series C: Directory of Music Research Libraries
 
