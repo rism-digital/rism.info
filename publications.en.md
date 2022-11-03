@@ -14,12 +14,12 @@ The RISM publications represent RISM's activities that began in 1952 and continu
 RISM's over 1.4 million records can be searched through two different but complementary resources, the RISM Catalog and RISM Online. They both search the same rich pool of sources that stands at the core of the RISM project: music manuscripts, printed music, libretti, and treatises preserved in over 3,000 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate records from earlier series (all of A/I, all of A/II, all of B/I, some of B/II and other B volumes; for details, see below), but also expand well beyond our early publications. The database grows monthly and reflects the work of our active RISM contributors worldwide.
 
 ### RISM Catalog
-{% include image file="/images/publications/rism-online-screenshot.jpg" pos="right" %}  
+{% include image file="/images/publications/opac.png"  %}  
 
 The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM online catalog.  
 
 ### RISM Online
-{% include image file="/images/publications/rism-online-screenshot.jpg" pos="right" %}
+{% include image file="/images/publications/rism-online-screenshot.jpg" %}
 
 RISM Online can be accessed through the RISM homepage or from [rism.online](https://rism.online/){:blank}. It is developed by the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland.
 
