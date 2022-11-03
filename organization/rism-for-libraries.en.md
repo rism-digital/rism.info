@@ -52,7 +52,7 @@ RISM's records can be searched at no cost through two different but complementar
 * Permalinks are found in each RISM record in the top left when you click on the chain link symbol. The URLs that appear in your browser's address bar are not stable.
 * To make a permalink go directly to the page in English, add this to the end of the permalink:`&Language=en`  
 Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](https://opac.rism.info/search?id=453009722&View=rism&Language=en){:target="_blank"}
-* To create stable URLs for specific search strings, please see "[How to link to a record or a search](https://opac.rism.info/index.php?id=8&L=0#c49){:target="_blank"}" on the RISM Catalog page.
+* To create stable URLs for specific search strings, please see "[How to link to a record or a search](https://opac.rism.info/index.php?id=8&L=0#c49){:target="_blank"}" on the RISM Catalog's Help page.
 
 #### Links to RISM Online  
 * URL of RISM Online:  
@@ -68,7 +68,7 @@ Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](http
 
 **OCLC record for the RISM Catalog**: Download this record from OCLC for the RISM Catalog so that your library users can find the free catalog: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}
 
-**Standard citation form in cataloging**: The official form of RISM from the [Rare Books and Manuscripts Section](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} is **RISM (Répertoire international des sources musicales)**. When citing RISM in the 510 of a catalog record, cite the RISM ID number from the online catalog whenever possible (initial zeros may be omitted). Permalinks to the RISM Catalog can also be included. Use references from [A/I](/publications.html#series-a-inventories-of-musical-sources){:target="_blank"} and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) to refer to the books only. The 510 can be repeated to include references to both the RISM Catalog and the books.
+**Standard citation form in cataloging**: The official form of RISM from the [Rare Books and Manuscripts Section](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} is **RISM (Répertoire international des sources musicales)**. When citing RISM in the 510 of a catalog record, cite the RISM ID number from the online database whenever possible (initial zeros may be omitted). Permalinks can also be included. Use references from [A/I](/publications.html#series-a-inventories-of-musical-sources){:target="_blank"} and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) to refer to the books only. The 510 can be repeated to include references to both the online RISM database and the books.
 
 As an example, these records from the Princeton University Library cite the A/I number as well as the record in the RISM Catalog. In the public view, the links in $u point the user directly to the entry in the RISM Catalog using the English interface.
 
@@ -82,13 +82,13 @@ As an example, these records from the Princeton University Library cite the A/I 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Not everything from the books is in the RISM Catalog (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the RISM Catalog.
+Not everything from the books is in the RISM electronic database (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the RISM Catalog.
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
 ## Using RISM Data
 
-RISM data may be used and reused in a variety of projects. We offer our data as open data and linked open data, through SRU servers, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
+RISM records may be used and reused in a variety of projects. The RISM data is available as open data and linked open data, through SRU servers and an API, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
 
 ## RISM Logos
 
