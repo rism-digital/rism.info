@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/organisation/project-history.html
 
 |  |
 | :---: |
-| 1949 | Decision to establish an International Inventory of Musical Sources through the [International Musicological Society (IMS)](http://ims-international.ch/){:target="_blank"} |
+| 1949 | Decision to establish an International Inventory of Musical Sources through the [International Musicological Society (IMS)](https://www.musicology.org/){:target="_blank"} |
 | 1951 | Decision to carry out the project in cooperation with the [International Association of Music Libraries, Music Archives and Music Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"} |
 | 1952 | First conference of the Commission Mixte set up by both organizations. Elaboration of a master plan |
 | 1953 | Establishment of the first secretariat in Paris. Director: François Lesure  |
