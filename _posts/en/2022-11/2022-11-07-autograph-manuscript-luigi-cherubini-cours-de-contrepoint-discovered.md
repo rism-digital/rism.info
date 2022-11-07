@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launch of the new RISM Website"
+title: "Autograph Manuscript of Luigi  Cherubini’s 'Cours de contrepoint et de fugue' Discovered"
 date: 2022-11-07
 lang: en
 post: true
