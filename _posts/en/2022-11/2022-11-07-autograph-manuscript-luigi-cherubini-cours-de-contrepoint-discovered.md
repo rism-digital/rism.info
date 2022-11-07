@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launch of the new RISM Website"
-date: 2022-11-XX
+date: 2022-11-07
 lang: en
 post: true
 category: rediscovered
