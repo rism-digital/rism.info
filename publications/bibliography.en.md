@@ -985,12 +985,12 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
 
-_Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celebration of RISM’s Seventieth Anniversary. Guest Editor: Nicole Schwindt. [Available online](https://muse.jhu.edu/issue/48911){:blank}  
+_Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celebration of RISM’s Seventieth Anniversary. Guest Editor: Nicole Schwindt. [Available online](https://muse.jhu.edu/issue/48911){:blank}.  
 - Schwindt, Nicole. "Editor's Preface." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 169-171. [Available online](https://muse.jhu.edu/article/867380){:blank}.    
 - Sherr, Richard. "Fifty Years with the Fondo Cappella Sistina of The Biblioteca Apostolica Vaticana." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 172-185. [Available online](https://muse.jhu.edu/article/867381){:blank}  
-- Zitellini, Rodolfo. "Maurizio Cazzati's 'Unsold Music.'" _Fontes artis musicae_ 69, no. 3 (July–September 2022): 186-204. [Available online](https://muse.jhu.edu/article/867382){:blank}   
-- Rost, Henrike. "Die Notenautographe (1825–1884) im Album von Ferdinand Hiller: Überblick, Einordnung, Quellenwert." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 206-227. [Available online](https://muse.jhu.edu/article/867383){:blank}  
-- Morgan, Emerson, Christina Linklater, and Pramantha Tagore. "'Pure or Tainted?': Representing a Source of Colonial Bengali-English Music in RISM." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 229-251. [Available online](https://muse.jhu.edu/article/867384){:blank}  
+- Zitellini, Rodolfo. "Maurizio Cazzati's 'Unsold Music.'" _Fontes artis musicae_ 69, no. 3 (July–September 2022): 186-204. [Available online](https://muse.jhu.edu/article/867382){:blank}.   
+- Rost, Henrike. "Die Notenautographe (1825–1884) im Album von Ferdinand Hiller: Überblick, Einordnung, Quellenwert." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 206-227. [Available online](https://muse.jhu.edu/article/867383){:blank}.  
+- Morgan, Emerson, Christina Linklater, and Pramantha Tagore. "'Pure or Tainted?': Representing a Source of Colonial Bengali-English Music in RISM." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 229-251. [Available online](https://muse.jhu.edu/article/867384){:blank}.  
 
 Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann, and Barbara Wiermann. "Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 69, no. 4 (2022): 196-209. [Available online](http://dx.doi.org/10.3196/186429502069422){:blank}.  
 
