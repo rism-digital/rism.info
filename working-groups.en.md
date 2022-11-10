@@ -79,7 +79,7 @@ Belarussian Academy of Music\
 Internationulnaja, 30\
 BL-220030 Minsk\
 Email: [shapiro@open.by](mailto:shapiro@open.by)\
-Website: [https://www.bgam.by/eng/](https://www.bgam.by/eng/){:target="_blank"}
+Website: [https://www.bgam.by/en/](https://www.bgam.by/en/){:target="_blank"}
 
 ## BELGIUM
 
