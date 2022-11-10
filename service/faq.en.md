@@ -65,4 +65,4 @@ RISM relies on the work of individuals and working groups from around the world 
 
 ## How can I find a RISM contact person near me?
 
-Please consult the list of [RISM working groups worldwide](/international.html){:target="_blank"}. If your country is not listed, please [contact us](mailto:contact@rism.info).
+Please consult the list of [RISM working groups worldwide](/working-groups.html){:target="_blank"}. If your country is not listed, please [contact us](mailto:contact@rism.info).
