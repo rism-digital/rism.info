@@ -22,7 +22,7 @@ For example, a [search for **RUS-\***](https://opac.rism.info/search?View=rism&s
 
 ![](/resources-old-website/news/Fussball_WM_2018_Suche.png)
 
-What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/international.html) who have made the RISM project so international.
+What team are you rooting for? The musical tournament begins! Behind each of these links are decades of work and research from our [national groups worldwide](/working-groups.html) who have made the RISM project so international.
 
 **Group A**  
 **Russia**: Search [RUS-\*](https://opac.rism.info/search?View=rism&siglum=RUS-*&Language=en){:target="_blank"} to find 6,500 sources  

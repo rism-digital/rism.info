@@ -25,4 +25,4 @@ In light of the complementary relationships between the collections in Vienna an
 
 _Image_: Franz Schubert: Erlkönig, D 328. Autograph fair copy in a songbook for Johann Wolfgang von Goethe (D-B Mus.ms.autogr. Schubert, F. 1, p. 25. [RISM ID no. 464000243](https://opac.rism.info/search?id=464000243){:target="_blank"})
 
-_Portions of this text were taken from the SBB's [Schubert Online project website](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"}, with kind permission._
+_Portions of this text were taken from the SBB's [Schubert Online project website](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online){:target="_blank"}, with kind permission._

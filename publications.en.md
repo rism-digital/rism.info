@@ -69,7 +69,7 @@ Includes about 4,500 printed collections (anthologies). All of B/I and about 25%
 
 These publications are focused on sources of medieval music theory. They offer a "description of all manuscripts in which are preserved Latin treatises--however small--dealing with the theory of music which was in use from the Carolingian era to 1400 \[which was extended to 1500 in volume 3]. Moreover, it relates the anonymous treatises in one or other manuscript to those other manuscripts in which the same--generally unpublished--treatise is found...The Index supplies a survey of the manuscripts in which this theoretical tradition is preserved, by providing a list of the authors' names and the incipits of the anonymous treatises."
 
-B/III is available as a searchable database through [Lexicon musicum Latinum](http://www.lml.badw.de/lml-digital/datenbanken.html){:target="_blank"} and in revised form through [Musmed.fr](http://musmed.fr/RISM/rismindex01.htm){:target="_blank"}.
+B/III is available as a searchable database through [Lexicon musicum Latinum](https://lml.badw.de/lml-digital/zu-den-datenbanken.html){:target="_blank"} and in revised form through [Musmed.fr](http://musmed.fr/RISM/rismindex01.htm){:target="_blank"}.
 
 * **B/III/1:** Joseph Smits van Waesberghe with Peter Fischer and Christian Maas, _The Theory of Music from the Carolingian Era up to 1400. Volume I: Descriptive Catalogue of Manuscripts_, 1961.
   - Countries included: Austria, Belgium, Denmark, France, Luxembourg, Netherlands, Switzerland.

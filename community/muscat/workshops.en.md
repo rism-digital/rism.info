@@ -94,7 +94,7 @@ Workshop following the [Congress of the Asociación Regional para América Latin
 * 27 September 2019: Ewha Womans University, Seoul, South Korea\
 *Eva Neumayr (RISM Salzburg)*
 
-* 17 September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](http://www.aibm.info/tagungen/2019-augsburg/), Augsburg, Germany\
+* 17 September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](https://web.archive.org/web/20201113231253/http://www.aibm.info/tagungen/2019-augsburg/), Augsburg, Germany\
 *Guido Kraus, Jennifer Ward*
 
 * 16 July 2019: [IAML Congress, Kraków, Poland](/publications/iaml-congresses/2019.html)\
@@ -129,7 +129,7 @@ RISM Workshop 2: Continuation\
 *RISM Central Office staff*\
 [Schedule (PDF)](/resources-old-website/community-content/Muscat_EN/Programm_DE_EN_FINAL_Drucke_October_2018.pdf)
 
-* July 24, 2018: [IAML Congress in Leipzig](http://iaml2018.info/programme/workshops/), Germany\
+* July 24, 2018: [IAML Congress in Leipzig](https://web.archive.org/web/20180607100004/http://iaml2018.info/programme/workshops/), Germany\
 *Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward*\
 [Slides](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf), [Practice examples](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf), [Handout](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf) (all English)
 
@@ -144,13 +144,13 @@ RISM Workshop 2: Continuation\
 [Report by TSENG Tzu-Chia](http://www.rism.info/en/workgroups/chinese-language-region/news/201711-shanghai-meeting.html)\
 *Klaus Keil, TSENG Tzu-Chia*
 
-* October 17, 2017, [IAML Austria](https://www.iaml.at/) and the [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/), Salzburg and Vienna, Austria\
+* October 17, 2017, [IAML Austria](https://www.iaml.at/) and the [Kommission für Musik der VÖB](https://voeb-b.at/voeb-kommissionen/musik/), Salzburg and Vienna, Austria\
 *Dr. Ikarus Kaiser*
 
 * October 3-6, 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/), Morelia, Mexico\
 *Jennifer Ward*
 
-* September 26-27, 2017, [Fryderyk Chopin Institute](http://en.chopin.nifc.pl/institute/), [Warsaw, Poland](https://www.facebook.com/RISM.info/posts/1798702750170561)\
+* September 26-27, 2017, [Fryderyk Chopin Institute](https://nifc.pl/en/), [Warsaw, Poland](https://www.facebook.com/RISM.info/posts/1798702750170561)\
 *Guido Kraus*
 
 * June 20, 2017, [IAML Congress in Riga, Latvia](https://iaml2017.lnb.lv/programme/20-june/)\
@@ -183,7 +183,7 @@ Guido Kraus
 [Report](/events/2016/11/28/bringing-the-past-into-the-future-creating-and.html)\
 *Klaus Keil, Laurent Pugin, Jennifer Ward*
 
-* October 26-27, 2016, [Staatsbibliothek zu Berlin, Germany](https://www.facebook.com/pg/RISM.info/photos/?tab=album&album_id=1349473175093523)\
+* October 26-27, 2016, [Staatsbibliothek zu Berlin, Germany](https://www.facebook.com/media/set/?set=a.1349473175093523&type=3)\
 *Guido Kraus*
 
 * October 24-25, 2016, National Library of Poland, Warsaw, Poland\

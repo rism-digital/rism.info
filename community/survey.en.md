@@ -21,7 +21,7 @@ Please contact us with any questions you might have: [contact@rism.info](mailto:
     - August 12, 2015: [Part III: Your Comments - Chronological limits](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html)
     - August 14, 2015: [Part IV: Your Comments - Libraries, Coverage, and Completeness](/new_at_rism/2015/08/14/results-of-the-rism-user-study-part-iv-your.html)
 
-* IAML Germany annual conference, Stuttgart ([AIBM-Tagung](http://www.aibm.info/tagungen/2015-stuttgart/))\
+* IAML Germany annual conference, Stuttgart ([AIBM-Tagung](https://web.archive.org/web/20151018095708/http://www.aibm.info/tagungen/2015-stuttgart/))\
 24 September 2015, Plenary session: Musikbibliothek für alle\
 "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse" (Martina Falletta, Alexander Marxen, Jennifer Ward, RISM-Zentralredaktion)\
 [Slides](/resources/community/survey/RISM_Nutzerstudie_AIBM_Stuttgart_2015.pdf)
@@ -40,4 +40,3 @@ First up, we talked about [coverage in RISM and how we cite secondary literature
 Next, we talked about the [chronological limits of RISM and how these limits are set](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html).
 
 Lastly, we discussed the issue of [libraries, coverage, and completeness](/new_at_rism/2015/08/14/results-of-the-rism-user-study-part-iv-your.html).
-
