@@ -46,9 +46,14 @@ Das Katalogisierungsformat wurde unter Federführung der Library of Congress in 
 
 [BEACON](http://meta.wikimedia.org/wiki/BEACON){:target="_blank"} ist ein sehr einfaches Dateiformat, mit dem Links auf Webseiten angegeben werden können, die Inhalte zu bestimmten Normdaten bieten. Derzeit wird das Format vor allem für Personen genutzt, die mittels ihrer GND-Nummer (früher PND) identifiziert werden, ist aber grundsätzlich auch für weitere Normdaten geeignet.
 
-RISM publiziert im Internet ein frei verfügbares GND-Beacon für die Nutzung von Personendaten. Eine Beispielintegration findet sich auf den Seiten der [Neuen Deutschen Biographie](http://www.deutsche-biographie.de/index.html){:target="_blank"}.
+GND und VIAF BEACON für Personennamen und Institutionen. Mehrere Projekte haben bereits die BEACON-Daten von RISM integriert:
 
-Ein jeweils aktuelle RISM GND-Beacon befindet sich unter [http://dl.rism.info/pnd.txt](http://www.loc.gov/marc/){:target="_blank"}
+* Die [Neue Deutsche Biographie](http://www.deutsche-biographie.de/index.html){:target="_blank"}
+* Wikipedia [Personensuche](http://toolserver.org/~apper/pd/){:target="_blank"}
+* [Bayerisches Musiker-Lexikon Online](http://www.bmlo.lmu.de/){:target="_blank"} 
+
+Ein jeweils aktuelle RISM GND-Beacon befindet sich unter [http://dl.rism.info/pnd.txt](http://dl.rism.info/pnd.txt){:target="_blank"}.
+Die BEACON-Dateien finden Sie über den [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu/data){:target="_blank"}.
 
 ![NDB](/images/community/data-services/NDB.jpg)
 
