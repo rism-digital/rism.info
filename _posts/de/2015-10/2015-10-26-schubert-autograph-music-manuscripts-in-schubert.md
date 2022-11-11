@@ -26,4 +26,4 @@ Angesichts des vielfach komplementären Verhältnisses der Wiener und Berliner B
 _Abbildung:_ Franz Schubert: Erlkönig, D 328. Autographe Reinschrift im Liederheft für Johann Wolfgang von Goethe (D-B Mus.ms.autogr. Schubert, F. 1, p. 25. [RISM ID no. 464000243](https://opac.rism.info/search?id=464000243){:target="_blank"})
 
 
-_Teile des Textes wurden mit freundlicher Genehmigung von der [Schubert Online Projektseite](http://staatsbibliothek-berlin.de/de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online/){:target="_blank"} der SBB übernommen._
+_Teile des Textes wurden mit freundlicher Genehmigung von der [Schubert Online Projektseite](https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/schubert-online){:target="_blank"} der SBB übernommen._
