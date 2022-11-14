@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Autograph von Luigi  Cherubinis 'Cours de contrepoint et de fugue' entdeckt"
+date: 2022-11-07
+lang: de
+post: true
+category: rediscovered
+image: "/images/news/2022-11/cherubini-cours-de-contrepoint-website.jpg"
+email: 'maxime.margolle@ntnu.no'
+author: 'Maxime Margollé'
+---
+
+_Den folgenden Beitrag erhielten wir von Maxime Margollé (Postdoctoral fellow, Marie Skłodowska-Curie, Norwegian University of Science and Technology):_  
+
+Cherubinis _Cours de contrepoint et de fugue_ wurde 1835 veröffentlicht und entwickelte sich sehr schnell zu einem Referenzwerk. Nach Angaben der _Gazette musicale_ wurden am Tag des Erscheinens 500 Exemplare verkauft, und die Abhandlung wurde in den Jahren nach ihrer Erstausgabe dank Übersetzungen ins Deutsche (F. Stöpel, ca. 1836 und G. Jensen, 1896), Englische (J. A. Hamilton, 1837 und C. Clarke, 1854) und Italienische (L. F. Rossi, ca. 1855) in der ganzen Welt verbreitet. Als Cherubini 1842 starb, genoss der _Cours de contrepoint et de fugue_ sowohl in Frankreich als auch international ein unbestreitbar hohes Ansehen. Schumann, Chopin, Halévy und Auber, neben vielen anderen, profitierten von Cherubinis Buch. In den Monaten nach Cherubinis Tod, als der Verkauf seiner Manuskripte vorbereitet wurde, äußerte François-Joseph Fétis (1784-1871), ein belgischer Komponist und Pädagoge, Zweifel an der Urheberschaft des Werks und bekräftigte damit eine erste Stellungnahme aus seiner _Biographie universelle des musiciens_. Er schrieb in der _Gazette musicale_: "Man würde sich irren, wenn man glaubte, dass der unter seinem Namen [Cherubini] veröffentlichte _Cours de contrepoint et de fugue_ meinen Behauptungen zu diesem Thema widerspricht, denn Cherubini hat nie davon geträumt, eine dogmatische Abhandlung über diese Themen zu schreiben."  
+
+Fétis brauchte fünfundzwanzig Jahre, um seinen Verdacht zu klären: "[Cherubini] hatte für seine Schüler Modelle für alle Arten von einfachen und doppelten Kontrapunkten, Imitationen, Kanons und Fugen angefertigt: ein oder zwei Blätter mit Prinzipien, ganz ähnlich denen, die wir in Matteis Werk finden, gingen den Beispielen voraus; alle Schüler Cherubinis haben diese Blätter kopiert und wissen, wie ich, worum es geht. Ich weiß nicht, wer auf die Idee kam, über diese Modelle zu spekulieren; aber es brauchte einen Text; Cherubini wollte nicht darüber schreiben. Es war, glaube ich, Halévy, der so freundlich war, diese Aufgabe für seinen Meister zu übernehmen."  
+
+Diese Zweifel finden sich noch immer in Einträgen moderner Enzyklopädien, in denen der Text in der Regel sowohl als Werk von Halévy als auch von Cherubini aufgeführt wird. François Lesure und Claudio Sartori wiesen jedoch bereits 1962 in ihrem Versuch, die Werke Cherubinis zu katalogisieren, darauf hin, dass sich zu Beginn des 20. Jahrhunderts ein autographes Manuskript des _Cours de contrepoint et de fugue_ von Cherubini in der Sammlung Heyer befand [siehe Anmerkung 1]. Der Katalog dieser Sammlung, der zwischen 1911 und 1916 von dem Bibliothekar Georg Kinsky erstellt wurde, weist tatsächlich das Manuskript eines "Cours de composition" von Cherubini aus. Zur Untermauerung seines Arguments fügte Kinsky eine Faksimile-Seite des von ihm beschriebenen Manuskripts bei [siehe Anmerkung 2], die der Seite 92 der ersten französischen Ausgabe des _Cours_ entspricht. Leider ging die Spur dieses Dokuments bei der Versteigerung der Sammlung Heyer am 6. und 7. Dezember 1926 verloren. Der Vermerk, der im (ebenfalls von Kinsky verfassten) Verkaufskatalog unter der Nummer 92 aufgeführt war, enthielt die gleichen Elemente wie der einige Jahre zuvor veröffentlichte Katalog der Sammlung Heyer. Allerdings wurde der Käufer nicht genannt [siehe Anmerkung 3].
+
+Im Zuge der Recherchen für die Vorbereitung einer [kritischen Ausgabe und Übersetzung von Cherubinis _Cours de contrepoint et de fugue_](https://musictreatises.nifc.pl/en/traktaty/38-cours-de-contrepoint-et-de-fugue) im Rahmen des Projekts ["Zwischen Chopin und Tellefsen: Europäische Musiktraktate - Universalität und nationale Identität"](https://musictreatises.nifc.pl/en), das vom Fryderyk-Chopin-Institut zwischen 2020 und 2022 durchgeführt wird, wurde ich von Bella Brover-Lubosky auf die Stiftelsen Musikkulturens Främjande, Nydahl Collection in Stockholm hingewiesen. In dieser Sammlung fand ich das von Kinsky für die Heyer-Sammlung beschriebene Manuskript, und ich konnte seine Reise zurückverfolgen: 1926 nahm Rudolf Nydahl am Verkauf der Heyer-Sammlung teil und kaufte 330 Lose. Unter den Manuskripten, die er kaufte, befand sich auch das Manuskript mit dem Titel "Cours de composition" von Cherubini. Dieses Manuskript unterscheidet sich nur in wenigen Details von der Ausgabe von 1835, aber um die Identität des Autors des im Stiftelsen Musikkulturens Främjande aufbewahrten _Cours de composition_ mit absoluter Sicherheit bestätigen zu können, wurde ein Vergleich der Handschrift Cherubinis und Halévys mit der des Manuskripts durchgeführt. Es wurde von Sandrine Lefranc-Loisel, Expertin am Internationalen Strafgerichtshof, als von Cherubinis Hand geschrieben bestätigt.
+
+Die Entdeckung und Beglaubigung des Originalmanuskripts von Cherubinis _Cours de contrepoint et de fugue_ im Stiftelsen Musikkulturens Främjande, Nydahl Collection in Stockholm, ermöglicht es uns, eine fast hundertfünfzig Jahre alte Debatte zu beenden und die Urheberschaft dieses Werks endgültig Cherubini allein zuzuschreiben.  
+
+Anmerkungen:  
+[1] François Lesure et Claudio Sartori, “Tentativo di un catalogo della produzione di Luigi Cherubini,” _Luigi Cherubini nel II centenario della nascita_, Firenze: L. S. Olschki, 1962, pp. 135–187.  
+[2] Ibid., table XXXII.  
+[3] Georg Kinsky, Karl Ernst Henrici und Leo Liepmannssohn, _Versteigerung von Musiker-Autographen aus dem Nachlaß des Herrn Kommerzienrates Wilhelm Heyer in Köln_, Berlin: Henrici & Liepmannssohn, 1926, p. 21.  
+
+Abbildung: Erste Seite des _Cours de Composition_ in der Hand von Luigi Cherubini, ca. 1810-1835. Stiftelsen Musikkulturens främjande, Stockholm (S-Smf) MMS394. RISM ID no. 1001228429 ([RISM Katalog](https://opac.rism.info/search?id=1001228429&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001228429){:blank}).
+Abbildung mit freundlicher Genehmigung von Maxime Margollé
