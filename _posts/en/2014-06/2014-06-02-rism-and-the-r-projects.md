@@ -22,7 +22,7 @@ RISM is currently prominently featured on the website of the [Music Library Asso
 
 Together, these four projects are known as the R projects of musicology. As is written on the [website of the R projects](http://www.r-musicprojects.org/index.html){:target="_blank"}, "the principal function of the Rs is to create the necessary bibliographical research tools that identify and facilitate access to this extensive body of primary sources."
 
-All four R projects are jointly sponsored by the [International Musicological Society (IMS)](http://ims-international.ch/){:target="_blank"} and the [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"}.
+All four R projects are jointly sponsored by the [International Musicological Society (IMS)](https://www.musicology.org){:target="_blank"} and the [International Association of Music Libraries, Archives and Documentation Centres (IAML)](http://www.iaml.info/){:target="_blank"}.
 
 
 Image: From the [Music Library Association](https://www.musiclibraryassoc.org//){:target="_blank"}.
