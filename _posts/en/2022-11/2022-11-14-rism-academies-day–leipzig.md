@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-This year's Academies' Day of the [Union of the German Academies of Sciences and Humanities](https://www.akademienunion.de/en){:blank} took place in Leipzig on 6 October 2022. The theme of the day was Music and Society. Different research projects from the eight member academies of the Union of the German Academies of Sciences and Humanities were presented alongside a packed accompanying program. The close proximity of the Gewandhaus, Paulinum, and Oper Leipzig allowed the participants and guests to move easily between the venues and take advantage of the diverse aspects of the program.  
+This year's Academies' Day of the [Union of the German Academies of Sciences and Humanities](https://www.akademienunion.de/en){:blank} took place in Leipzig on 6 October 2022. The theme of the day was Music and Society. Different research projects from the eight member academies were presented alongside a packed accompanying program. The close proximity of the Gewandhaus, Paulinum, and Oper Leipzig allowed the participants and guests to move easily between the venues and take advantage of the diverse aspects of the program.  
 
 Presentations, discussions, and short musical performances were held in connection with different sessions entitled Music and Ancient Cultures, Music and the Economy, Music and Education, Music and Impact Research, Music and the Media, and Music and Health. The music was played from editions that were prepared by the academies.  
 
