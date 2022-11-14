@@ -28,8 +28,7 @@ To date, project outputs have included academic conference and seminar papers, p
 This project is funded by the Irish Research Council for the Humanities & Social Sciences.
 
 
-
-[http://www.rism-ie.org/](http://www.rism-ie.org/){:blank}
+<!-- [http://www.rism-ie.org/](http://www.rism-ie.org/){:blank}  -->
 
 ## News
 

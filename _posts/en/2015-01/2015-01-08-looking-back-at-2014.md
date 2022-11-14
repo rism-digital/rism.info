@@ -56,7 +56,7 @@ As you may have noticed from this list, 2014 was a year of exciting discoveries.
 
 RISM was also mentioned in the following articles, which we have listed on the [RISM bibliography](/publications/bibliography.html){:target="_blank"}:
 
-- Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen."_BIS: Das Magazin der Bibliotheken in Sachsen_ 7:3 (2014), 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}
+- Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen." _BIS: Das Magazin der Bibliotheken in Sachsen_ 7:3 (2014), 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}
 
 - Herrmann-Schneider, Hildegard. "Throwing Some Light on the History of Verdi and Wagner Reception in Tyrol," _Fontes artis musicae_ 61, no. 2 (2014): 163-172.
 
