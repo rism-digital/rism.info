@@ -17,7 +17,7 @@ author: ''
 **John Sigismond Cousser**: [Serenata teatrale](http://opac.rism.info/search?documentid=451501218){:target="_blank"}\
 **Matthew Dubourg**: [Violin Concerto in D](http://opac.rism.info/search?documentid=212001507){:target="_blank"}\
 **Timothy Geary**: Six Canzonetts\
-**Paul Alday**: [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"} (German premiere)  
+**Paul Alday**: Grand Symphony <!-- [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"}--> (German premiere)  
 
 Mezzo-soprano: **[Sharon Carty](http://www.sharoncarty.com/){:target="_blank"}**\
 Piano: **Jonathan Ware**\
@@ -37,7 +37,7 @@ The Irish mezzo-soprano Sharon Carty was a member of the [Frankfurt Opera Studio
 
 For two of the works to be performed, the music was transcribed from original sources especially for this occasion.
 
-This concert is being organized in cooperation with the RISM Zentralredaktion, [RISM Ireland](http://www.rism-ie.org/){:target="_blank"} and the Research Foundation for Music in Ireland (RFMI). The RFMI promotes the dynamic musical life of Ireland, manifested in performance, musicology, pedagogy, and composition. The term 'Music in Ireland’ includes the broadest spectrum of musical experience in this country; that is both music in Ireland and music of Ireland. Given the centrality of music to Ireland’s culture, the research foundation advances the study and performance of music in Ireland to national and international audiences, to the scholarly community and to the music industry.
+This concert is being organized in cooperation with the RISM Zentralredaktion, RISM Ireland <!-- [RISM Ireland](http://www.rism-ie.org/){:target="_blank"}  --> and the Research Foundation for Music in Ireland (RFMI). The RFMI promotes the dynamic musical life of Ireland, manifested in performance, musicology, pedagogy, and composition. The term 'Music in Ireland’ includes the broadest spectrum of musical experience in this country; that is both music in Ireland and music of Ireland. Given the centrality of music to Ireland’s culture, the research foundation advances the study and performance of music in Ireland to national and international audiences, to the scholarly community and to the music industry.
 
 Entrance is free.
 

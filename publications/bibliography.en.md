@@ -82,7 +82,7 @@ Heartz, Daniel. "The Répertoire International des Sources Musicales." _Journal 
 
 Jacquot, Jean. "La musique pour luth." In _Report of the Eighth Congress of the International Musicological Society. I: Papers_, edited by Jan LaRue, 75-88. Kassel: Bärenreiter, 1961.  
 
-Weinmann, Alexander. "Internationales Quellenlexikon der Musik."_Österreichische Musikzeitschrift_ 16 (1961): 168-170.
+Weinmann, Alexander. "Internationales Quellenlexikon der Musik." _Österreichische Musikzeitschrift_ 16 (1961): 168-170.
 
 #### 1962
 
@@ -123,7 +123,7 @@ Sartori, Claudio. "Le RISM et l’Italie. A l’aventure dans les bibliothèques
 
 #### 1965
 
-Gleich, Clemens-Christoph von. "Le Répertoire International des Sources Musicales (RISM) et les collections théâtrales."_Acts of the VIIth International Congress of Libraries and Museums of the Performing Arts/Actes du VIIe Congrès international des bibliotèques-musées des arts du spectacle_. The Hague: Netherlands Centre of the International Theatre Institute, 1965?
+Gleich, Clemens-Christoph von. "Le Répertoire International des Sources Musicales (RISM) et les collections théâtrales." _Acts of the VIIth International Congress of Libraries and Museums of the Performing Arts/Actes du VIIe Congrès international des bibliotèques-musées des arts du spectacle_. The Hague: Netherlands Centre of the International Theatre Institute, 1965?
 
 Heckmann, Harald. "Fünfzehn Jahre 'Internationales Quellenlexikon der Musik'." _The World of Music_ 7 (1965): 18-19.
 
@@ -176,7 +176,7 @@ Prokopowicz, Maria. Sprawozdanie [Report] of Konferencja Międzynarodowego Stowa
 
 Schlager, Karlheinz. "RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 89-91. [Available online](https://www.jstor.org/stable/23230707){:target="_blank"}.  
 
-Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'."_Die Musikforschung_ 26, no. 1 (1973): 81-89. [Available online](https://www.jstor.org/stable/23230706){:target="_blank"}.
+Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'." _Die Musikforschung_ 26, no. 1 (1973): 81-89. [Available online](https://www.jstor.org/stable/23230706){:target="_blank"}.
 
 Schmieder, Wolfgang. "Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 91-92. [Available online](https://www.jstor.org/stable/23230708){:target="_blank"}.  
 
@@ -228,7 +228,7 @@ Bierbaum, Angelika, Jürgen Howitz, and Helmut Rösing. "Liste der Abkürzungen 
 
 Boetticher, Wolfgang. "Zur inhaltlichen Bestimmung des für Laute intavolierten Handschriftenbestands." _Acta Musicologica_ 51 (1979): 193-203. [Available online](https://www.jstor.org/stable/932453){:target="_blank"}.  
 
-Esses, Maurice. "New information concerning some music research libraries in Spain."_Fontes Artis Musicae_ 26 (1979): 189-191.
+Esses, Maurice. "New information concerning some music research libraries in Spain." _Fontes Artis Musicae_ 26 (1979): 189-191.
 
 Fenlon, Iain. "Manuscript Sources of Polyphonic Secular Song ca. 1520-1600: A RISM Project." _Fontes Artis Musicae_ 26 (1979): 121-127.
 
@@ -446,7 +446,7 @@ Keil, Klaus. "La redación central del RISM (Frankfurt)." _Anuario Musical_ 49 (
 
 Martín Moreno, Antonio. "El projecto RISM España: La musicología universitaria en el cincuenta aniversaio de la fundación del Instituto Español de Musicología." _Anuario musical_ 49 (1994): 291-295.
 
-Sancho Campo, Angel. "El proyecto RISM España: Breve informe y reflexión sobre el mismo, desde el punto de vista de la Iglesia."_Anuario musical_ 49 (1994): 296-298.
+Sancho Campo, Angel. "El proyecto RISM España: Breve informe y reflexión sobre el mismo, desde el punto de vista de la Iglesia." _Anuario musical_ 49 (1994): 296-298.
 
 #### 1995
 
@@ -500,7 +500,7 @@ Howard, John. "Plaine and Easie Code: A Code for Music Bibliography." In _Beyond
 
 Ezquerro Esteban, Antonio. "Cataloguing musical sources in Spain. A RISM perspective." _Fontes Artis Musicae_ 45 (1998): 81-89.
 
-Gerhard, Anselm and Gabriella Hanke Knaus. "Repertorium Schweizer Komponisten des 19. Jahrhunderts."_Revue musicale suisse / Schweizer Musikzeitung_ 11 (1998): 13-14.
+Gerhard, Anselm and Gabriella Hanke Knaus. "Repertorium Schweizer Komponisten des 19. Jahrhunderts." _Revue musicale suisse / Schweizer Musikzeitung_ 11 (1998): 13-14.
 
 Grawe, Hubert. "PC-Datenbanken für die Musikwissenschaft." _Die Musikforschung_. 51:3 (July-September 1998): 319-326. [Available online](https://www.jstor.org/stable/41123125){:target="_blank"}. (See also Keil, 1999.)
 
@@ -578,7 +578,7 @@ Grün, Birgit. "RISM-Bibliothekssigel." _Forum Musikbibliothek_ 27, no. 4 (2006)
 
 Heinz-Kronberger, Gottfried. "Die Bestandserschließung der Musikhandschriften der Hochschul- und Landesbibliothek Fulda durch das Répertoire International des Sources Musicales (RISM)." _Fuldaer Geschichtsblätter_ 82 (2006): 178-198.
 
-Iglesias Martínez, Nieves. "Bibliotecas e investigación musical."_Arbor: Ciencia, pensamiento y cultura_ 182, no. 717 (2006):55-65. [Available online](http://arbor.revistas.csic.es/index.php/arbor/issue/view/1){:target="_blank"}.
+Iglesias Martínez, Nieves. "Bibliotecas e investigación musical." _Arbor: Ciencia, pensamiento y cultura_ 182, no. 717 (2006):55-65. [Available online](http://arbor.revistas.csic.es/index.php/arbor/issue/view/1){:target="_blank"}.
 
 Keil, Klaus. "Contributo ad un catalogo tematico palestriniano: La documentazione dei manoscritti presso il RISM." In _Palestrina e l'Europa: Atti del III Convegno Internazionale di Studi (Palestrina, 6-9 ottobre 1994)_, edited by Giancarlo Rostirolla, Stefania Soldati, and Elena Zomparelli, 809-815. Palestrina, Italy: Fondazione Giovanni Pierluigi da Palestrina, 2006.
 
@@ -612,7 +612,7 @@ Schieke-Gordienko, Marina. "Das Musikarchiv der Sing-Akademie zu Berlin - Deposi
 
 Ezquerro Esteban, Antonio. "Neue Herausforderungen im Umfeld des RISM-Projektes: Der Fall Spanien," _Fontes Artis Musicae_, 56 no. 2 (April–June 2009): 201-206.   
 
-Hankinson, Andrew, Laurent Pugin, and Ichiro Fujinaga. "Interfaces for document representation in digital music libraries." _ISMIR 2009: Proceedings of the 10th international conference on music information retrieval, Kobe International Conference Center, Kobe, Japan, October 26-30_, 39–44. Kobe, Japan: 2009. [Available online](http://docs.rism-ch.org/hankinson2009interfaces.pdf){:target="_blank"}.
+Hankinson, Andrew, Laurent Pugin, and Ichiro Fujinaga. "Interfaces for document representation in digital music libraries." _ISMIR 2009: Proceedings of the 10th international conference on music information retrieval, Kobe International Conference Center, Kobe, Japan, October 26-30_, 39–44. Kobe, Japan: 2009. [Available online](https://rism.digital/resources/hankinson2009interfaces.pdf){:target="_blank"}.
 
 #### 2010 <a name="c2010"></a>
 
@@ -628,7 +628,7 @@ Heckmann, Harald. "Das Répertoire International des Souces Musicales (RISM) in 
 
 Petrobelli, Pierluigi. "Towards a RISM series for libretti." _Fontes artis musicae_ 57, no. 2 (April-June, 2010): 135-139. [Available online](https://www.jstor.org/stable/23512324){:target="_blank"}.  
 
-Schneider, Oliver. "Auf Entdeckungsreise in Schweizer Musikbibliotheken."_Schweizer Musikzeitung_ 6 (June 2010): 9–10. [Available online](http://docs.rism-ch.org/press/smz.2010.06_09.10.pdf){:target="_blank"}.
+Schneider, Oliver. "Auf Entdeckungsreise in Schweizer Musikbibliotheken." _Schweizer Musikzeitung_ 6 (June 2010): 9–10. [Available online](https://rism.digital/resources/press/smz.2010.06_09.10.pdf){:target="_blank"}.
 
 Urbano, Julián, Mónica Marrero, Diego Martín, and Juan Lloréns. "Improving the Generation of Ground Truths Based on Partially Ordered Lists." _Proceedings of the 11th International Society for Music Information Retrieval Conference, ISMIR 2010, Utrecht, Netherlands, August 9-13, 2010_, edited by J. Stephen Downie and Remco C. Veltkamp, 285-290. International Society for Music Information Retrieval: 2010. [Available online](http://dblp.org/rec/conf/ismir/UrbanoMML10){:target="_blank"}.
 
@@ -640,7 +640,7 @@ Zappalà, Pietro, ed. "RISM B/I (Recueils imprimés XVI-XVII siècles): Indice d
 
 Brinzing, Armin. "RISM und Bibliotheken – Stand und Perspektiven der Musikhandschriftenerschließung in Deutschland." _Forum Musikbibliothek_ 32 (2011): 9-14.
 
-Brinzing, Armin and Jürgen Diet. "Der neue Musik-Katalog „RISM-OPAC“ mit über 700.000 Nachweisen ist online." _Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2011/1): 63-65. [Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Magazin_lowRes_1_2011.pdf){:target="_blank"}.  
+Brinzing, Armin and Jürgen Diet. "Der neue Musik-Katalog „RISM-OPAC“ mit über 700.000 Nachweisen ist online." _Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2011/1): 63-65. [Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2011_1.pdf){:target="_blank"}.  
 
 Diet, Jürgen. "Neue Version des RISM Online-Katalogs mit Musikincipitsuche freigeschaltet." _Forum Musikbibliothek_ 32, no. 2 (2011): 135-137.
 
@@ -648,15 +648,15 @@ Falletta, Martina. "Telemanns Kompositionen aus dem Blickwinkel neuer, durch das
 
 #### 2012
 
-Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland."_Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
+Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
 Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2012-08.pdf){:target="_blank"}.
 
-Güggi, Cédric. "Musikalische Quellen in der Schweiz und ihre Erschliessung." _NIKE-Bulletin_ 6 (2012): 34-37. [Available online](http://docs.rism-ch.org/press/nike.2012.11_06.pdf){:target="_blank"}.
+Güggi, Cédric. "Musikalische Quellen in der Schweiz und ihre Erschliessung." _NIKE-Bulletin_ 6 (2012): 34-37. [Available online](http://doi.org/10.5169/seals-727130){:target="_blank"}.
 
-Güggi, Cédric. "Neue Suchfunktionen bei RISM Schweiz: Von der Datenbank ins Konzert."_Musik & Liturgie_ 137 (2012): 6, 23.
+Güggi, Cédric. "Neue Suchfunktionen bei RISM Schweiz: Von der Datenbank ins Konzert." _Musik & Liturgie_ 137 (2012): 6, 23.
 
-Güggi, Cédric. "Von der Datenbank ins Konzert: Neue Suchfunktionen bei RISM Schweiz." _Schweizer Musikzeitung_ 10 (October 2012): 52. [Available onilne](http://docs.rism-ch.org/press/smz.2012.10_52.pdf)
+Güggi, Cédric. "Von der Datenbank ins Konzert: Neue Suchfunktionen bei RISM Schweiz." _Schweizer Musikzeitung_ 10 (October 2012): 52. [Available onilne](https://rism.digital/de/resources/press/smz.2012.10_52.pdf)
 
 Hartmann, Andrea. "60 Jahre internationale Musikquellenerschließung. Das RISM als Instrument der Musikforschung." _BIS - Das Magazin der Bibliotheken in Sachsen_ 5 (2012): 164-166. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-96589){:target="_blank"}.
 
@@ -678,12 +678,12 @@ Kraus, Guido. "Sixty years of the RISM." In _Source Studies in Musical Culture_,
 - Herrmann-Schneider, Hildegard. "'Die Musikbibliographie ist die Grundlage alles historischen Wissens.' On Today's Relevance of Robert Eitner's Central Idea from 1898." ('Die Musikbibliographie ist die Grundlage alles historischen Wissens'. Zur Aktualität von Robert Eitners Leitgedanken aus dem Jahre 1898 heute.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Herrmann-Schneider.pdf)
 - Heinmaa, Heidi. "Musical Sources in Estonian Collections." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Heinmaa.pdf)
 - Kaiser, Stefan Ikarus. "The Music Collection at Wilhering Abbey." (Musiksammlung des Stiftes Wilhering.) [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Kaiser.pdf)
-- Katalinic, Vjera and Lucija Konfic. "Project RISM in Croatia: The Past Decade." Available online: [paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf)  [slides](http://dl.rism.info/Katalinic%20Konfic%20Folien.pdf)
+- Katalinic, Vjera and Lucija Konfic. "Project RISM in Croatia: The Past Decade." Available online: [paper](/resources-old-website/community-content/events/RISM_Conference_2012/KatalinicKonfic.pdf) \| [slides](https://rism.info/resources-old-website/community-content/events/RISM_Conference_2012/Katalinic%20Konfic%20Folien.pdf)
 - Kokole, Metoda and Klemen Grabnar. "RISM in Slovenia in the Past Decade: Newly Cataloged Music Collections, Especially Early Seventeenth-Century Choirbooks." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Grabnar.pdf)
 - Krabbe, Niels and Axel Teich Geertinger. "MEI (Music Encoding Initiative) as a Tool for Thematic Catalogs -Thoughts, Experiences, and Preliminary Results." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/TeichGeertinger_Final.pdf)
-- Loos, Helmut. "Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities." (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen.) Available online: [German](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf)  [English summary](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf)
+- Loos, Helmut. "Large-Scale Data Analysis in Historical Musicology: Potential and Opportunities." (Massendatenauswertung in der historischen Musikwissenschaft. Möglichkeiten und Chancen.) Available online: [German](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_DE.pdf) \| [English summary](/resources-old-website/community-content/events/RISM_Conference_2012/Loos_EN.pdf)
 - Lundberg, Mattias. "The Swedish Working Group of RISM in Relation to National and Regional Projects in Archival Research and Music Bibliography: Where to Go from Here?" [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Lundberg.pdf)
-- Mądry, Alina. "Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena." (A Collection of Music Manuscripts from the Archive of the Archdiocese in Poznań: St. Maria Magdalena Collegiate Church.) Available online: [paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf)  [slides](http://dl.rism.info/Alina%20M%C4%85dry_Mainz%20RISM.pdf)
+- Mądry, Alina. "Eine Sammlung von Musikhandschriften aus dem Archiv der Erzdiözese in Posen: Die Stiftskirche von St. Maria Magdalena." (A Collection of Music Manuscripts from the Archive of the Archdiocese in Poznań: St. Maria Magdalena Collegiate Church.) Available online: [paper](/resources-old-website/community-content/events/RISM_Conference_2012/Madry.pdf) \|  [slides](https://rism.info/resources-old-website/community-content/events/RISM_Conference_2012/M%C4%85dry_Mainz%20RISM.pdf)
 - Oustachev, Stanislav. "The RISM Project atthe Glinka Museum." [Available online](/resources-old-website/community-content/events/RISM_Conference_2012/Ousatchev.pdf).
 - Pugin, Laurent. "The Use of METS for Delivering Digital Objects together with RISM Catalog Records." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Pugin.pdf)
 - Rassina, Emilia. "Current Work of RISM in Russia." [Available online.](/resources-old-website/community-content/events/RISM_Conference_2012/Rassina.pdf)
@@ -703,7 +703,7 @@ Wolf, Ulrike. "60 Jahre RISM: Interview mit dem Präsidenten Christoph Wolff." _
 
 #### 2013
 
-Giglberger, Veronika. "Zeugen einer Blütezeit europäischer Musikkultur in München:Chorbuch-Handschriften mit mehrstimmiger Musik werden digitalisiert." _Bibliotheks-Magazin_ no. 1 (2013):38-42. [Available online](http://rism.info/http:// "external-link-new-window").
+Giglberger, Veronika. "Zeugen einer Blütezeit europäischer Musikkultur in München:Chorbuch-Handschriften mit mehrstimmiger Musik werden digitalisiert." _Bibliotheks-Magazin_ no. 1 (2013):38-42. [Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2013_1.pdf){:blank}.
 
 Griffin, Thomas. "Some Late Scarlatti Recovered: Part Two of Alessandro Scarlatti's Serenata Erminia (1723)." _Studi musicali_ 1 (2013): 101-113. [Available online](http://www.ascarlatti2010.net/main_page/erminia_info/Griffin_Studi.pdf){:target="_blank"}.
 
@@ -711,7 +711,7 @@ Jahn, Michael. "RISM-Österreich und die musikalische Quellenforschung in Oberö
 
 Keil, Klaus. "New prospects for printed music with RISM." _Fontes artis musicae_ 60, no. 2 (2013): 107-111.
 
-Meluzzi, Cecilia._Catalogo dei manoscritti musicali di Alessandro Vessella. Per la storia della musica a Roma tra otto e novecento_. Studi, cataloghi e sussidi dell’istituto di bibliografia musicale (IBIMUS) 16_._ Rome: Istituto Bibliografia Musicale, 2011.
+Meluzzi, Cecilia. _Catalogo dei manoscritti musicali di Alessandro Vessella. Per la storia della musica a Roma tra otto e novecento. Studi, cataloghi e sussidi dell’istituto di bibliografia musicale (IBIMUS) 16._ Rome: Istituto Bibliografia Musicale, 2011.
 
 NAT. "Auf dem Cembalo tobt die Schlacht von 1796." _MainPost.de_, June 26, 2013. [Available online](http://www.mainpost.de/regional/wuerzburg/Cembalo-Forschung-Handschriften-Musikgeschichte-Schlachten-Krieg-Stadtarchive;art735,7543229 "external-link-new-window").  
 
@@ -733,7 +733,7 @@ Chae, Hyun Kyung et al. "Challenges to music documentation: Design and implement
 
 Fabris, Dinko. "国际音乐学协会和四个“文献资料库”的创立——历程与展望" (The International Musicological Society and the establishment of the four R-Projects: The history and the future). _Zhongyang Yinyue Xueyuan xuebao/Journal of the Central Conservatory of Music_ 130, no. 1 (2014): 57-65.
 
-Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen."_BIS: Das Magazin der Bibliotheken in Sachsen_ 7, no. 3 (2014): 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
+Geck, Karl Wilhelm. "Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen." _BIS: Das Magazin der Bibliotheken in Sachsen_ 7, no. 3 (2014): 179. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
 
 Herrmann-Schneider, Hildegard. "Throwing Some Light on the History of Verdi and Wagner Reception in Tyrol," _Fontes artis musicae_ 61, no. 2 (2014): 163-172.  
 
@@ -751,7 +751,7 @@ Rose, Stephen and Sandra Tuppen. "Prospects for a Big Data History of Music." _P
 
 Selfridge-Field, Eleanor. "Search engines for digitally encoded scores," Early Music 42:4 (November 2014): 591-598. [Available online](http://em.oxfordjournals.org/content/42/4?etoc){:target="_blank"}.
 
-Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2014/2): 48-52. [Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}.  
+Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2014/2): 48-52. [Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2014_2.pdf){:target="_blank"}.  
 
 Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}.
 
@@ -812,7 +812,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
 - Urchueguía, Cristina. "The Concept of an International Repertory of Musical Sources." [View on YouTube](https://youtu.be/1ROti64TIUc).
 - Waisman, Leonardo. "Spanish-American Colonial Musical Sources: Catalogues and Studies." [View on YouTube](https://youtu.be/EyF2N63DOOk?list=PL9SyOIE9iSYI-qGaDNQhXCptexIif8Scm).
 
-Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
+Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
 
 Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi: [10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
 
@@ -824,7 +824,7 @@ Falletta, Martina, Alexander Marxen, and Jennifer Ward. "The RISM Online User Su
 
 Giezeman, Geert-Jan. "RISM incipit retrieval: Architecture of the software and data." 2016. Technical documentation for the [RISM search by Utrecht University](https://www.projects.science.uu.nl/monochord/risma2/query/db){:target="_blank"}.   
 
-Giglberger, Veronika. "Messen, Motetten, Chansons, Madrigale. Musikhandschriften des 16. Jahrhunderts im neuen Digitalisierungsprojekt." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 2 (2016): 22-25. [Available online](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/BM_2-16.pdf){:target="_blank"}.  
+Giglberger, Veronika. "Messen, Motetten, Chansons, Madrigale. Musikhandschriften des 16. Jahrhunderts im neuen Digitalisierungsprojekt." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 2 (2016): 22-25. [Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2016_2.pdf){:target="_blank"}.  
 
 Klugseder, Robert and Ikarus Kaiser. "Wiederentdeckung eines umfangreichen Korpus an Abschriften des Linzer Dom-Musikarchivs." _Mitteilungen des Anton Bruckner Instituts Linz_ 17 (2016): 4-10.  
 
@@ -854,7 +854,7 @@ Ward, Jennifer A. "The use and reuse of RISM data in libraries." _Journal of Ele
 
 "A Protocol between the Istituto Centrale per il Catalogo Unico (ICCU), IAML-Italia and RISM has been signed." Briefs/Feuilletons._Fontes Artis Musicae_ 64, no. 1 (January-March 2017): 68-69. [Available online](https://muse.jhu.edu/article/650243){:target="_blank"}.  
 
-Bacciagaluppi, Claudio. "Wie Marenzios 'Pastor Fido' nach Zuoz kam." _Schweizer Musikzeitung_ 6 (June 2017): 37. [Available online](http://docs.rism-ch.org/press/smz.2017.06_37.pdf){:target="_blank"}.   
+Bacciagaluppi, Claudio. "Wie Marenzios 'Pastor Fido' nach Zuoz kam." _Schweizer Musikzeitung_ 6 (June 2017): 37. [Available online](https://rism.digital/resources/press/smz.2017.06_37.pdf){:target="_blank"}.   
 
 Blum, David. "The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM." _Fontes Artis Musicae_ 64, no. 4 (October-December 2017): 355-366. [Available online](https://muse.jhu.edu/article/680345){:target="_blank"}.   
 
@@ -1387,7 +1387,7 @@ Base Minas – ECA / USP (database with musical sources). Some information avail
 
 ##### CH – Switzerland
 
-Arbeitsstelle Schweiz des RISM and Christine Koch-Studer._Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern_. Bern:Arbeitsstelle Schweiz des RISM, 2011. [Available online](http://docs.rism-ch.org/hans_studer_katalog.pdf "external-link-new-window").  
+Arbeitsstelle Schweiz des RISM and Christine Koch-Studer._Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern_. Bern:Arbeitsstelle Schweiz des RISM, 2011. [Available online](https://rism.digital/resources/hans_studer_katalog.pdf){:blank}.  
 (Compiled by RISM Switzerland-Bern)  
 
 Hanke Knaus, Gabriella._Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern_. Schliengen:Edition Argus, 2007.  
@@ -1396,7 +1396,7 @@ Hanke Knaus, Gabriella._Richard Sturzenegger: Katalog des Nachlasses in der Musi
 Helg, Lukas. "_Katalog der Werke von P. Daniel Meier in der Musikbibliothek des Klosters Einsiedeln_." In _Ad mairorem Dei gloriam: Festgabe für P. Daniel Meier OSB zum 80. Geburtstag_, edited by Helg and Gabriella Hanke Knaus, 41-120. Einsiedeln: Musikbibliothek des Klosters Einsiedeln; Arbeitsstelle Schweiz des Répertoire International des Sources Musicales (RISM), 2001.   
 (Compiled by RISM Switzerland-Bern)
 
-Ross, Peter and Andreas Traub. "Die Kirchenmusik von Johann Christian Bach im Kloster Einsiedeln."_Fontes Artis Musicae_ 32 (1985): 92-102.  
+Ross, Peter and Andreas Traub. "Die Kirchenmusik von Johann Christian Bach im Kloster Einsiedeln." _Fontes Artis Musicae_ 32 (1985): 92-102.  
 (Compiled by RISM Switzerland-Bern)
 
 Werner, Rudolf. _Die Pflege der Musik in St. Katharinental im 18. und 19. Jahrhundert_. Frauenfeld: Thurgauische Kantonsbibliothek, 1979.  

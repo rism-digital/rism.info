@@ -54,20 +54,19 @@ Publisher: [Munich: G. Henle](http://www.henle.de/){:target="_blank"} (unless ot
 RISM's Series B covers specific categories of repertory. All of B/I and a portion of B/II are in the RISM electronic database, as are a few items from other B series (for details, see the specific B volumes below).
 
 ### B/I and B/II: Printed collections of the 16th-18th centuries
-
-Includes about 4,500 printed collections (anthologies). All of B/I and about 25% of B/II are included in the [RISM electronic database](/publications.html#rism-database). While items within the scope of these series are added directly to the RISM database, the numbering scheme used in the books is not being continued.
+All of B/I and about 25% of B/II are included in the [RISM electronic database](/publications.html#rism-database). While items within the scope of these series are added directly to the RISM database, the numbering scheme used in the books is not being continued.  
 
 * **B/I**: François Lesure, _Recueils imprimés, XVIe-XVIIe siècles_ (1960).
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.  
- - An index of composers in B/I, edited by Petro Zappalà, is available as a [PDF]( /publications/RecueilsKomponistenindex.pdf).  
+  - An index of composers in B/I, edited by Petro Zappalà, is available as a [PDF](/publications/RecueilsKomponistenindex.pdf).  
 
 * **B/II**: François Lesure, _Recueils imprimés, XVIIIe siècle_ (1964)
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
   - For a supplement to B/II, see [Lesure (1972)](/publications/bibliography.html#1972).
 
-### B/III: The theory of music from the Carolingian Era up to c.1500
+Taken together, B/I and B/II describe about 4,500 printed collections (anthologies) published between 1501 and 1799.  
 
-These publications are focused on sources of medieval music theory. They offer a "description of all manuscripts in which are preserved Latin treatises--however small--dealing with the theory of music which was in use from the Carolingian era to 1400 \[which was extended to 1500 in volume 3]. Moreover, it relates the anonymous treatises in one or other manuscript to those other manuscripts in which the same--generally unpublished--treatise is found...The Index supplies a survey of the manuscripts in which this theoretical tradition is preserved, by providing a list of the authors' names and the incipits of the anonymous treatises."
+### B/III: The theory of music from the Carolingian Era up to c.1500
 
 B/III is available as a searchable database through [Lexicon musicum Latinum](https://lml.badw.de/lml-digital/zu-den-datenbanken.html){:target="_blank"} and in revised form through [Musmed.fr](http://musmed.fr/RISM/rismindex01.htm){:target="_blank"}.
 
@@ -79,10 +78,13 @@ B/III is available as a searchable database through [Lexicon musicum Latinum](ht
 * **B/III/4:** Michel Huglo, Christian Meyer, and Nancy C. Phillips, _The Theory of Music. Manuscripts from the Carolingian Era up to c. 1500 in Great Britain and in the United States of America: Descriptive Catalogue_, 1992.
 * **B/III/5:** Christian Meyer, Elżbieta Witkowska-Zaremba, Karl Werner Gümpel, _The Theory of Music: Manuscripts from the Carolingian Era up to c. 1500 in the Czech Republic, Poland, Portugal and Spain: Descriptive Catalogue_, 1997.
 * **B/III/6:** Christian Meyer with Giuliano Di Bacco, Pia Ernstbrunner, Alexander Rausch, and Cesarino Ruini, _The Theory of Music. Manuscripts from the Carolingian Era up to c. 1500: Descriptive Catalogue of Manuscripts: Addenda, Corrigenda_, 2003.
-  - Countries included: Australia, Austria, Belgium, Brazil, Czech Republic, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Luxembourg, Netherlands, New Zealand, Poland, Portugal, Romania, Russia, Slovenia, South Africa, Spain, Sweden, Switzerland, United States.
+  - Countries included: Australia, Austria, Belgium, Brazil, Czech Republic, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Luxembourg, Netherlands, New Zealand, Poland, Portugal, Romania, Russia, Slovenia, South Africa, Spain, Sweden, Switzerland, United States.  
 
-### B/IV: Manuscripts of polyphonic music, 11-16 centuries
-Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"}.
+The catalogs in the B/III series are focused on sources of medieval music theory. They offer a "description of all manuscripts in which are preserved Latin treatises—however small—dealing with the theory of music which was in use from the Carolingian era to 1400," which was extended to 1500 in volume 3. "Moreover, it relates the anonymous treatises in one or other manuscript to those other manuscripts in which the same--generally unpublished--treatise is found...The Index supplies a survey of the manuscripts in which this theoretical tradition is preserved, by providing a list of the authors' names and the incipits of the anonymous treatises."  
+
+### B/IV: Manuscripts of polyphonic music, 11th-16th centuries
+Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"}.  
+
 * **B/IV/1:** Gilbert Reaney, _Manuscripts of Polyphonic Music. 11th-Early 14th Century_, 1966.
   - Description, bibliography and thematic incipits for all the known polyphonic manuscripts up to the beginning of the Ars Nova period.
   - Countries included: Austria, Belgium, France, Germany, Great Britain, Italy, Spain, Sweden, Switzerland, United States, USSR.
@@ -106,13 +108,16 @@ Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diam
 
 ### B/V: Manuscripts of tropes and sequences
 
-[Musicologie Médiévale](http://gregorian-chant.ning.com/group/lesmanuscritsduweb/page/rism-b-v){:target="_blank"} maintains a list of B/V entries for which digitized music exists, as well as other sources not in B/V but within the scope of the volume.
+[Musicologie Médiévale](https://gregorian-chant.ning.com/main/authorization/signIn?target=https%3A%2F%2Fgregorian-chant.ning.com%2Fpage%2Frism-b-v-online-manuscripts-troparium-prosarium){:target="_blank"} maintains a list of B/V entries for which digitized music exists, as well as other sources not in B/V but within the scope of the volume.
 
 * **B/V/1:** Heinrich Husmann, _Tropen- und Sequenzen Handschriften_, 1964.
   - Countries included: Austria, Belgium, Czechoslovakia, France, Germany, Great Britain, Italy, Netherlands, Poland, Spain, Sweden, Switzerland, Vatican City.
 
 ### B/VI: Printed writings about music
-A very small number of sources from B/VI are in the [RISM electronic database](/publications.html#rism-database).  
+A very small number of sources from B/VI are in the [RISM electronic database](/publications.html#rism-database).   
+
+* **B/VI/1:** François Lesure, _Écrits imprimés concernant la musique (A-L)_, 1971.
+* **B/VI/2:** François Lesure, _Écrits imprimés concernant la musique (M-Z)_, 1971.
 
 B/VI attempts to bring together all literature concerning music 1474-1800, whether theoretical, historical, aesthetic, or technical. Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
 
@@ -120,27 +125,28 @@ More than 2,000 publications from the Library of Congress (US-Wc) reported in th
 
 For a supplement to B/VI, see [Lesure (1979)](/publications/bibliography.html#1979).  
 
-* **B/VI/1:** François Lesure, _Écrits imprimés concernant la musique (A-L)_, 1971.
-* **B/VI/2:** François Lesure, _Écrits imprimés concernant la musique (M-Z)_, 1971.
+
 
 ### B/VII: Manuscripts of lute and guitar tablatures
+
+* **B/VII/1:** Wolfgang Boetticher, _Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts_, 1978.  
 
 A descriptive catalog of all manuscripts handed down in lute and guitar tablature. Countries included: Argentina, Austria, Belgium, Czechoslovakia, Denmark, East Germany, France, Great Britain, Hungary, Ireland, Italy, Japan, Mexico, Netherlands, Norway, Poland, Spain, Sweden, Switzerland, United States, USSR, West Germany, Yugoslavia.
 
 For a supplement to B/VII, see [Boetticher (1979)](/publications/bibliography.html#1979) and [Fabris (1982)](/publications/bibliography.html#1982).
 
-* **B/VII/1:** Wolfgang Boetticher, _Handschriftlich überlieferte Lauten- und Gitarrentabulaturen des 15. bis 18. Jahrhunderts_, 1978.
-
 ### B/VIII: German hymns (DKL)
-A very small number of sources from B/VIII are in the [RISM electronic database](/publications.html#rism-database).  
+A very small number of sources from B/VIII are in the [RISM electronic database](/publications.html#rism-database).   
 
-B/VIII is a catalog of traceable printed sources of German hymns, of all denominations, from the end of the 15th century until 1800 that contain at least one melody in musical notation. Also contains those editions of which no copy is known but whose former existence has been determined by previous bibliographies or research. Part 2 is an index arranged by title, names, places, publishers, and sigla.
-
-Countries included: Austria, Belgium, Canada, Czechoslovakia, Denmark, East Germany, France, Great Britain, Hungary, Italy, Netherlands, Norway, Poland, Romania, Sweden, Switzerland, United States, USSR, West Germany, Yugoslavia.
 
 * **B/VIII/1:** Konrad Ameln, Markus Jenny, and Walter Lipphardt, _Das deutsche Kirchenlied. Kritische Gesamtausgabe der Melodien. Band 1, Teil 1: Verzeichnis der Drucke von den Anfängen bis 1800_. Kassel: Bärenreiter, 1975.
 
 * **B/VIII/2:** Markus Jenny, _Das deutsche Kirchenlied. Kritische Gesamtausgabe der Melodien. Band 1, Teil 2: Verzeichnis der Drucke. Register_. Kassel: Bärenreiter, 1980.
+
+B/VIII is a catalog of traceable printed sources of German hymns, of all denominations, from the end of the 15th century until 1800 that contain at least one melody in musical notation. Also contains those editions of which no copy is known but whose former existence has been determined by previous bibliographies or research. Part 2 is an index arranged by title, names, places, publishers, and sigla.
+
+Countries included: Austria, Belgium, Canada, Czechoslovakia, Denmark, East Germany, France, Great Britain, Hungary, Italy, Netherlands, Norway, Poland, Romania, Sweden, Switzerland, United States, USSR, West Germany, Yugoslavia.  
+
 
 ### B/IX: Hebrew sources
 
@@ -155,48 +161,49 @@ Countries included: Austria, Belgium, Canada, Czechoslovakia, Denmark, East Germ
 
 ### B/X: The theory of music in Arabic writings, c. 900 - 1900
 
-Over 500 sources of Arabic music theory from its beginnings to the end of the nineteenth century.
-
 * **B/X:** Amnon Shiloah, _The theory of music in Arabic writings (c. 900-1900). Descriptive catalog of manuscripts in libraries of Europe and the U.S.A_, 1979.
   - Countries included: Austria, Denmark, East Germany, France, Great Britain, Ireland, Israel, Italy, Lebanon, Netherlands, Spain, Sweden, Turkey, United States, West Germany.
 
-* **B/X/A:** Amnon Shiloah, _The theory of music in Arabic writings (c. 900-1900). Descriptive catalog of manuscripts in libraries of Egypt, Israel, Morocco, Russia, Tunisia, Uzbekistan, and supplement to B/X_, 2003.
+* **B/X/A:** Amnon Shiloah, _The theory of music in Arabic writings (c. 900-1900). Descriptive catalog of manuscripts in libraries of Egypt, Israel, Morocco, Russia, Tunisia, Uzbekistan, and supplement to B/X_, 2003.  
+
+Over 500 sources of Arabic music theory from its beginnings to the end of the 19th century.
 
 ### B/XI: Ancient Greek music theory
 
-Descriptions for nearly 300 codices, extending from the 11th through the 17th centuries. Countries included: Austria, Denmark, East Germany, Egypt, France, Great Britain, Greece, Italy, Netherlands, Spain, Sweden, Switzerland, United States, West Germany.
+* **B/XI:** Thomas J. Mathiesen, _Ancient Greek music theory: A catalogue raisonné of manuscripts_, 1988.  
 
-* **B/XI:** Thomas J. Mathiesen, _Ancient Greek music theory: A catalogue raisonné of manuscripts_, 1988.
+Descriptions for nearly 300 codices, extending from the 11th through the 17th centuries. Countries included: Austria, Denmark, East Germany, Egypt, France, Great Britain, Greece, Italy, Netherlands, Spain, Sweden, Switzerland, United States, West Germany.
 
 ### B/XII: Persian music theory
 
-Over 200 Persian musical manuscripts, encompassing virtually the total corpus thereof. Countries included: Afghanistan, Austria, Azerbaijan, Bulgaria, Denmark, Egypt, France, Georgia, Germany, Great Britain, India, Iran, Ireland, Netherlands, Pakistan, Russia, Saudi Arabia, Sweden, Tajikistan, Turkey, United States, Uzbekistan.
+* **B/XII:** Mohammed Taghi Massoudieh, _Manuscrits persans concernant la musique_, 1996.  
 
-* **B/XII:** Mohammed Taghi Massoudieh, _Manuscrits persans concernant la musique_, 1996.
+Over 200 Persian musical manuscripts, encompassing virtually the total corpus thereof. Countries included: Afghanistan, Austria, Azerbaijan, Bulgaria, Denmark, Egypt, France, Georgia, Germany, Great Britain, India, Iran, Ireland, Netherlands, Pakistan, Russia, Saudi Arabia, Sweden, Tajikistan, Turkey, United States, Uzbekistan.
 
 ### B/XIII: Hymnologica Slavica (Slavic hymns)
 
+* **B/XIII/1:** Jan Kouba, Marie Skalická, Gerhard Schuhmacher, Karol Hławiczka, Leon Witkowski, Teresa Krukowski, Gerhard Schuhmacher, Jan Raupp,  _Hymnologica Slavica: Hymnologica Bohemica, Slovaca (HBS), Polonica (HP), Sorabica (HS). Notendrucke des 16. bis 18. Jahrhunderts_, 2012.  
+
 Publications of hymn sources in the Czech, Slovak, Polish, and Sorbian languages containing musical notation, from the 16th to 18th centuries. Countries included: Austria, Czech Republic, Denmark, France, Germany, Hungary, Latvia, Poland, Romania, Russia, Slovakia, Sweden, Switzerland, Ukraine, United Kingdom, United States.
 
-* **B/XIII/1:** Jan Kouba, Marie Skalická, Gerhard Schuhmacher, Karol Hławiczka, Leon Witkowski, Teresa Krukowski, Gerhard Schuhmacher, Jan Raupp,  _Hymnologica Slavica: Hymnologica Bohemica, Slovaca (HBS), Polonica (HP), Sorabica (HS). Notendrucke des 16. bis 18. Jahrhunderts_, 2012.
-
 ### B/XIV: Manuscripts of the processional
-
-Descriptions of over 1,100 notated processionals and over 150 manuscripts with processional chant.
 
 * **B/XIV/1:** Michel Huglo, _Les Manuscrits du processionnal, vol. 1: Autriche à Espagne_, 1999.
   - Countries included: Australia, Austria, Belgium, Canada, Czech Republic, Denmark, Germany, Spain, Switzerland.
 
 * **B/XIV/2:** Michel Huglo, _Les Manuscrits du processionnal, vol. 2: France à Afrique du Sud_, 2004.
-  - Countries included: Croatia, France, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Russia, Slovenia, South Africa, Sweden, United Kingdom, United States.
+  - Countries included: Croatia, France, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Russia, Slovenia, South Africa, Sweden, United Kingdom, United States.  
+
+Descriptions of over 1,100 notated processionals and over 150 manuscripts with processional chant.
+
 
 ### B/XV: Polyphonic music in Ibero-American sources
+
+* **B/XV:** Cristina Urchueguía, _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630. Drucke, Handschriften und verlorene Quellen_, 2005.  
 
 Printed music and manuscripts that form "a general inventory of polyphonic masses, mass sections and Requiem masses transmitted in sources from Spain, Portugal and Latin America between circa 1490 and 1630."
 
 Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal, Spain, United States.
-
-* **B/XV:** Cristina Urchueguía, _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630. Drucke, Handschriften und verlorene Quellen_, 2005.
 
 ### B/XVI: Palm-leaf manuscripts  
 
