@@ -21,7 +21,7 @@ Sollten Sie Fragen haben, setzen Sie sich bitte mit uns in Verbindung: [contact@
   - 12\. August 2015: [Teil II: Häufig gestellte Fragen](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html)
   - 14\. August 2015: [Nutzerstudie Teil III](/new_at_rism/2015/08/14/results-of-the-rism-user-study-part-iv-your.html)
 
-* Jahrestagung AIBM Deutschland, Stuttgart ([AIBM-Tagung](http://www.aibm.info/tagungen/2015-stuttgart/))\
+* Jahrestagung AIBM Deutschland, Stuttgart ([AIBM-Tagung](https://web.archive.org/web/20151018095708/http://www.aibm.info/tagungen/2015-stuttgart/))\
 24 September 2015, 9:00 Uhr, Plenumsstizung: Musikbibliothek für alle\
 "Die RISM-Nutzerstudie: Überblick und erste Ergebnisse" (Martina Falletta, Alexander Marxen, Jennifer Ward, RISM-Zentralredaktion)\
 [Folien](/resources/community/survey/RISM_Nutzerstudie_AIBM_Stuttgart_2015.pdf)
