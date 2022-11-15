@@ -17,7 +17,7 @@ author: ''
 **John Sigismond Cousser** : [Serenata teatrale](http://opac.rism.info/search?documentid=451501218){:target="_blank"}\
 **Matthew Dubourg** : [Violinkonzert D-Dur](http://opac.rism.info/search?documentid=212001507){:target="_blank"}\
 **Timothy Geary** : Six Canzonetts\
-**Paul Alday** : [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"} (Deutsche Erstaufführung)
+**Paul Alday** : Grand Symphony <!-- [Grand Symphony](http://www.rism-ie.org/manuscripts?filter_1=Any+field&operator_1=1&search_1=Alday&filter_2=Any+field&operator_2=1&search_2=&filter_3=Digital+Objects&operator_3=0&search_3=&incipit_0=&search_0=&filter_0=&operator_0=&ng_key_0=*&clef_0=G-2&key_0=&timesig_0=&strategy=index){:target="_blank"}--> (Deutsche Erstaufführung)
 
 Mezzo-Sopran: [**Sharon Carty**](http://www.sharoncarty.com/){:target="_blank"}\
 Klavier: **Jonathan Ware**\
@@ -38,7 +38,7 @@ Die irische Mezzo-Sopranistin Sharon Carty war 2010-2012 Mitglied des [Frankfurt
 
 Die Noten zu zwei der erklingenden Werke wurden extra für diesen Anlass aus den Originalquellen transkribiert.
 
-Ein Konzert in Zusammenarbeit mit der Zentralredaktion des Répertoire International des Sources Musicales -[RISM](http://www.rism.info/de/startseite.html)(Internationales Quellenlexikon der Musik), der [irischen Ländergruppe des RISM](http://www.rism-ie.org/){:target="_blank"} und der Research Foundation for Music in Ireland ([RFMI](http://www.musicresearch.ie/)). Das RFMI fördert das lebendige Musikleben Irlands, dies manifestiert sich in Aufführungen, der Musikwissenschaft, Pädagogik und Komposition. Der Begriff "Musik in Irland" umfasst das breite Spektrum der musikalischen Erfahrung in diesem Land; das ist Musik in Irland und Musik von Irland. Da die Musik von zentraler Bedeutung für die Kultur Irlands ist, fördert die Forschungsgemeinschaft die Studien und Aufführungen von Musik in Irland auf nationaler und internationaler Ebene für die wissenschaftliche Gemeinschaft und Musikindustrie.
+Ein Konzert in Zusammenarbeit mit der Zentralredaktion des Répertoire International des Sources Musicales -[RISM](http://www.rism.info/de/startseite.html)(Internationales Quellenlexikon der Musik), der irischen Ländergruppe des RISM <!-- [RISM Ireland](http://www.rism-ie.org/){:target="_blank"}  --> und der Research Foundation for Music in Ireland (RFMI). Das RFMI fördert das lebendige Musikleben Irlands, dies manifestiert sich in Aufführungen, der Musikwissenschaft, Pädagogik und Komposition. Der Begriff "Musik in Irland" umfasst das breite Spektrum der musikalischen Erfahrung in diesem Land; das ist Musik in Irland und Musik von Irland. Da die Musik von zentraler Bedeutung für die Kultur Irlands ist, fördert die Forschungsgemeinschaft die Studien und Aufführungen von Musik in Irland auf nationaler und internationaler Ebene für die wissenschaftliche Gemeinschaft und Musikindustrie.
 
 Eintritt frei
 
