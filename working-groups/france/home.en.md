@@ -12,6 +12,7 @@ sidepanel: "sidepanels/working-groups/france"
 **Ongoing projects:**   
 Le Patrimoine muscal régionale (PMR), Collections of the National Library (F-Pn)
 
+<!--
 **News:**
 
-[www.bnf.fr/fr/professionnels/signalement\_collections.html](http://www.bnf.fr/fr/professionnels/signalement_collections.html)
+[www.bnf.fr/fr/professionnels/signalement\_collections.html](http://www.bnf.fr/fr/professionnels/signalement_collections.html) -->

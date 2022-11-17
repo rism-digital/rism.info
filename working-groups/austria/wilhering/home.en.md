@@ -61,7 +61,7 @@ November 24, 2013, Wilhering Abbey, Upper Austria
 
 In the music archive at Wilhering Abbey, Dr. Ikarus Kaiser discovered the only known copy of a mass by the Baroque composer Franz Anton Ertl, who was active around Linz, Austria ([RISM ID no. 600077182](http://opac.rism.info/search?documentid=600077182){:blank}).On Sunday, November 24 at 10 AM (Feast of Christ the King), the work has been be performed during High Mass at Wilhering by musicians of the abbey. It was under the direction of Kurt Azesberger with Dr. Kaiser at the organ.
 
-More information about this performance can be found on the website of [Stift Wilhering](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:blank}.
+More information about this performance can be found on the website of [Stift Wilhering](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:blank}.
 
 # Performances of Rediscovered Musical Rarities from the Music Collection of Wilhering Abbey
 
