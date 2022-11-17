@@ -713,7 +713,7 @@ Keil, Klaus. "New prospects for printed music with RISM." _Fontes artis musicae_
 
 Meluzzi, Cecilia. _Catalogo dei manoscritti musicali di Alessandro Vessella. Per la storia della musica a Roma tra otto e novecento. Studi, cataloghi e sussidi dell’istituto di bibliografia musicale (IBIMUS) 16._ Rome: Istituto Bibliografia Musicale, 2011.
 
-NAT. "Auf dem Cembalo tobt die Schlacht von 1796." _MainPost.de_, June 26, 2013. [Available online](http://www.mainpost.de/regional/wuerzburg/Cembalo-Forschung-Handschriften-Musikgeschichte-Schlachten-Krieg-Stadtarchive;art735,7543229 "external-link-new-window").  
+NAT. "Auf dem Cembalo tobt die Schlacht von 1796." _MainPost.de_, June 26, 2013. [Available online](https://www.mainpost.de/regional/wuerzburg/auf-dem-cembalo-tobt-die-schlacht-von-1796-art-7543229){:blank}.  
 
 Pugin, Laurent and Rodolfo Zitellini. "Instrument distribution and music notation search for enhancing bibliographic music score retrieval." In _Proceedings of the ACM-IEEE Joint Conference on Digital Libraries_, 195–198. Indianapolis, IN, 2013. [Available online](https://dl.acm.org/citation.cfm?doid=2467696.2467728){:target="_blank"}.  
 
@@ -753,9 +753,9 @@ Selfridge-Field, Eleanor. "Search engines for digitally encoded scores," Early M
 
 Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ (2014/2): 48-52. [Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2014_2.pdf){:target="_blank"}.  
 
-Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}.
+Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Available online](https://web.archive.org/web/20190531062414/http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}.
 
-Wagner, Undine. "Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen." _Musicologica brunensia_ 49, no. 2 (2014): 139-167. [Available online](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}.
+Wagner, Undine. "Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen." _Musicologica brunensia_ 49, no. 2 (2014): 139-167. [Available online (archived)](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}.
 
 #### 2015
 
@@ -858,7 +858,7 @@ Bacciagaluppi, Claudio. "Wie Marenzios 'Pastor Fido' nach Zuoz kam." _Schweizer 
 
 Blum, David. "The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM." _Fontes Artis Musicae_ 64, no. 4 (October-December 2017): 355-366. [Available online](https://muse.jhu.edu/article/680345){:target="_blank"}.   
 
-Díaz, Antonio. "Seminario de Música de la Nueva España celebra 15 años con concierto." _La Crónica de Hoy_, November 21, 2017. [Available online](http://www.cronica.com.mx/notas/2017/1053365.html){:target="_blank"}.  
+Díaz, Antonio. "Seminario de Música de la Nueva España celebra 15 años con concierto." _La Crónica de Hoy_, November 21, 2017. [Available online (archived)](https://web.archive.org/web/20210917183711/http://www.cronica.com.mx/notas/2017/1053365.html){:target="_blank"}.  
 
 Diet, Jürgen. "Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek." _Bibliotheksforum Bayern_ 11, no. 2 (2017): 82-85. [Available online](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}.
 

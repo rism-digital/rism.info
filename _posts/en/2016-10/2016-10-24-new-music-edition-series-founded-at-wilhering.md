@@ -21,7 +21,7 @@ Several works by Matthias Pernsteiner were printed in Austria and Bavaria during
 
 The score has been worked out by Father Maximilian Bak OCist with assistance of the editor. The edition contains also a detailed introduction with biographical notes, several images, and a critical commentary.
 
-The Mass is going to be performed for the first time on Sunday, 20 November 2016 (Christkönigsfest), 10.00 a.m. in Wilhering Abbey by the choir, soloists and instrumentalists of Wilhering Abbey, Ikarus Kaiser at the organ and directed by Kurt Azesberger. More information [can be found here](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"}.
+The Mass is going to be performed for the first time on Sunday, 20 November 2016 (Christkönigsfest), 10.00 a.m. in Wilhering Abbey by the choir, soloists and instrumentalists of Wilhering Abbey, Ikarus Kaiser at the organ and directed by Kurt Azesberger. More information [can be found here](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"}.
 
 Sacred Music in Wilhering Abbey, ed. by Wilhering Abbey, vol. 1:
 Matthias Pernsteiner (1795-1851), Messa posta in musica, ed. by Ikarus Kaiser (German / English)  
@@ -30,4 +30,4 @@ EUR 45
 ISMN979-0-000-00190-9  
 ISBN978-3-903040-13-7
 
-For further information see the websites of [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"} as well as [Wilhering Abbey](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} and the [music collection of Wilhering Abbey](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
+For further information see the websites of [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"} as well as [Wilhering Abbey](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} and the [music collection of Wilhering Abbey](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
