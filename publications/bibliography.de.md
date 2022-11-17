@@ -720,15 +720,15 @@ Keil, Klaus: New prospects for printed music with RISM, in: Fontes artis musicae
 
 Meluzzi, Cecilia: Catalogo dei manoscritti musicali di Alessandro Vessella. Per la storia della musica a Roma tra otto e novecento, Roma 2011 (Studi, cataloghi e sussidi dell’istituto di bibliografia musicale (IBIMUS) 16), Roma: Istituto Bibliografia Musicale, 2011
 
-NAT. "Auf dem Cembalo tobt die Schlacht von 1796", in: MainPost.de, 26. Juni 2013. [Online verfügbar](http://www.mainpost.de/regional/wuerzburg/Cembalo-Forschung-Handschriften-Musikgeschichte-Schlachten-Krieg-Stadtarchive;art735,7543229 "external-link-new-window").  
+NAT. "Auf dem Cembalo tobt die Schlacht von 1796", in: MainPost.de, 26. Juni 2013. [Online verfügbar](https://www.mainpost.de/regional/wuerzburg/auf-dem-cembalo-tobt-die-schlacht-von-1796-art-7543229){:blank}.  
 
 Pugin, Laurent und Rodolfo Zitellini: Instrument distribution and music notation search for enhancing bibliographic music score retrieval, in: Proceedings of the ACM-IEEE Joint Conference on Digital Libraries, Indianapolis, IN, 2013, S. 195–198. [Online verfügbar](https://dl.acm.org/citation.cfm?doid=2467696.2467728){:target="_blank"}.
 
-Rose, Stephen: RISM in the Digital Age, in: Early Music 41 (2013), S. 158-160
+Rose, Stephen: RISM in the Digital Age, in: Early Music 41 (2013), S. 158-160.
 
-Shekhter, Pia: 'Keeping Music Alive' - IAML goes Far East; in: IAML.info. 11. November 2013. [Online verfügbar](http://www.iaml.info/news/keeping-music-alive-iaml-goes-far-east){:target="_blank"}.
+Shekhter, Pia: 'Keeping Music Alive' - IAML goes Far East; in: IAML.info. 11. November 2013. [Online verfügbar](http://www.iaml.info/news/keeping-music-alive-iaml-goes-far-east){:target="_blank"}
 
-Stanley, Roy: The Symphony and Ireland: A symposium. Dublin 20 April 2013, in: IAML UK & Ireland Newsletter, no. 65 (Juni 2013), S. 4-6. [Online verfügbar](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2013-06.pdf){:target="_blank"}.
+Stanley, Roy: The Symphony and Ireland: A symposium. Dublin 20 April 2013, in: IAML UK & Ireland Newsletter, no. 65 (Juni 2013), S. 4-6. [Online verfügbar](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2013-06.pdf){:target="_blank"}
 
 Talkner, Katharina: "I’ve got the rism and you’ve got the music!" Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe," in: Perspektive Bibliothek 2.2 (2013), S. 75-103. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bsz:16-pb-112446){:target="_blank"}
 
@@ -762,9 +762,9 @@ Selfridge-Field, Eleanor: Search engines for digitally encoded scores, in: Early
 
 Voss, Steffen: Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 2014, Heft 2, S. 48-52. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2014_2.pdf){:target="_blank"}  
    
-Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
+Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](https://web.archive.org/web/20190531062414/http://www.nederlandsmuziekinstituut.nl/images/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
-Wagner, Undine: Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen, in: Musicologica brunensia49 (2014), S. 139-167. [Online verfügbar](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}
+Wagner, Undine: Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen, in: Musicologica brunensia49 (2014), S. 139-167. [Online verfügbar (archiviert)](http://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1){:target="_blank"}
 
 #### 2015
 
@@ -867,7 +867,7 @@ Bacciagaluppi, Claudio: Wie Marenzios 'Pastor Fido' nach Zuoz kam, in: Schweizer
 
 Blum, David: The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM, in: Fontes Artis Musicae 64, No. 4 (2017), S. 355-366. [Online verfügbar](https://muse.jhu.edu/article/680345){:target="_blank"}
 
-Díaz, Antonio: Seminario de Música de la Nueva España celebra 15 años con concierto, in: La Crónica de Hoy, 21. November 2017. [Online verfügbar](http://www.cronica.com.mx/notas/2017/1053365.html){:target="_blank"}.
+Díaz, Antonio: Seminario de Música de la Nueva España celebra 15 años con concierto, in: La Crónica de Hoy, 21. November 2017. [Online verfügbar (archiviert)](https://web.archive.org/web/20210917183711){:target="_blank"}.
 
 Diet, Jürgen: Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern11, Nr. 2 (2017), S. 82-85. [Online verfügbar](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}
 
