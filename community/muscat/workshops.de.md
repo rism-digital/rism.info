@@ -87,7 +87,7 @@ _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Mu
 *André Guerra Cotta (RISM Brasilien)*
 
 * 11\.-14\. November 2019, Musical Archivology course, University of Buenos Aires, Argentinien\
-Workshop nach dem [Congress of the Asociación Regional para América Latina y el Caribe de la Sociedad Internacional de Musicología](http://4congreso.arlac-ims.com/){:target="_blank"} (ARLAC/IMS)\
+Workshop nach dem [Congress of the Asociación Regional para América Latina y el Caribe de la Sociedad Internacional de Musicología](https://web.archive.org/web/20200807231924/http://4congreso.arlac-ims.com/){:target="_blank"} (ARLAC/IMS)\
 *André Guerra Cotta (RISM Brazil)*
 
 * 27\. September 2019, Ewha Womans University, Seoul, Südkorea\
