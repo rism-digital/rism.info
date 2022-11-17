@@ -69,7 +69,7 @@ RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliog
 
 - Voss, Steffen: Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 2 (2014), S. 48-52. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
 
-- Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
+- Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](https://web.archive.org/web/20190531062414/http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.
