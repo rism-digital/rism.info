@@ -44,7 +44,7 @@ Sonntag, 24. November 2013, StiftWilhering (Oberösterreich)
 
 Dr. Ikarus Kaiser entdeckte im Musikarchiv des Stiftes Wilhering die einzige Abschrift einer Messe des barocken Komponisten Franz Anton Ertl (um 1730), vermutlich im Linzer Umfeld tätig([RISM ID no. 600077182](http://opac.rism.info/search?documentid=600077182){:blank}). Am Christkönigsfest, Sonntag 24.11.2013 wurde die Messe nun beim Hochamt in Wilhering um 10 Uhr wieder durch den Stiftschor und die Stiftsmusik aufgeführt (Leitung: Kurt Azesberger, Orgel: Ikarus Kaiser).
 
-Nähere Informationen sind auch [auf der Webseite des Stiftes](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:blank} zu finden.
+Nähere Informationen sind auch [auf der Webseite des Stiftes](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:blank} zu finden.
 
 # Aufführungen von wiederentdeckten musikalischen Raritäten aus dem historischen Musikarchiv des Stiftes Wilhering
 
