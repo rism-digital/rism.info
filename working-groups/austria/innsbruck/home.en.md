@@ -21,10 +21,10 @@ A Christmas concert with musicfrom the archives of the Franciscan Monastery Reut
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp; 
+&nbsp;
 &nbsp;  
 &nbsp;  
 
 ### Particularly remarkable titles from recently catalogued materials
 
-Particularly remarkable titles from recently catalogued materials: Stams Monastery, Brixen Diocesan Archives, Franciscan Monastery, Salzburg [_Continue..._](working-groups/austria/innsbruck/ofm.html){:blank}
+Particularly remarkable titles from recently catalogued materials: Stams Monastery, Brixen Diocesan Archives, Franciscan Monastery, Salzburg [_Continue..._](/working-groups/austria/innsbruck/ofm.html){:blank}
