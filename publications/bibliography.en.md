@@ -715,7 +715,7 @@ Meluzzi, Cecilia. _Catalogo dei manoscritti musicali di Alessandro Vessella. Per
 
 NAT. "Auf dem Cembalo tobt die Schlacht von 1796." _MainPost.de_, June 26, 2013. [Available online](https://www.mainpost.de/regional/wuerzburg/auf-dem-cembalo-tobt-die-schlacht-von-1796-art-7543229){:blank}.  
 
-Pugin, Laurent and Rodolfo Zitellini. "Instrument distribution and music notation search for enhancing bibliographic music score retrieval." In _Proceedings of the ACM-IEEE Joint Conference on Digital Libraries_, 195–198. Indianapolis, IN, 2013. [Available online](https://dl.acm.org/citation.cfm?doid=2467696.2467728){:target="_blank"}.  
+Pugin, Laurent and Rodolfo Zitellini. "Instrument distribution and music notation search for enhancing bibliographic music score retrieval." In _Proceedings of the ACM-IEEE Joint Conference on Digital Libraries_, 195–198. Indianapolis, IN, 2013. [Available online](https://doi.org/10.1145/2467696.2467728){:target="_blank"}.  
 
 Shekhter, Pia. "'Keeping Music Alive' - IAML goes Far East." IAML.info. November 11, 2013. [Available online](http://www.iaml.info/news/keeping-music-alive-iaml-goes-far-east){:target="_blank"}.
 
@@ -924,7 +924,7 @@ Gillion, Marianne C. E. "The printed edition." _Early Music_, 26 October 2019. [
 
 Keil, Klaus and Jennifer A. Ward. "Applications of RISM data in digital libraries and digital musicology," "Digital Libraries for Musicology," ed. J. Stephen Downie and Kevin Page, special issue, ​_International Journal on Digital Libraries_ 20, no. 1 (March 2019): 3-12. [Available online](https://doi.org/10.1007/s00799-016-0205-3){:target="_blank"}.   
 
-Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}.
+Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 Ward, Jennifer. "Répertoire International des Sources Musicales/International Inventory of Musical Sources." _Historic Libraries Forum Bulletin_ 44 (April 2019): 3-4. [Available online](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}.
 
@@ -1376,7 +1376,7 @@ Kommission für Musikforschung. _Tabulae musicae Austriacae: Kataloge österreic
 
 Lindner, Andreas and Klaus Petermayr. _Die historischen Musikalien der Bruckner-Stätten (Historic Music Materials of the Bruckner Sites). Vol. 1: Die Pfarre Kronstorf_. Veröffentlichungen des RISM-Österreich A/13. Vienna: Verlag Der Apfel, 2010.
 
-Neumayr, Eva and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018. [Available online](https://e-book.fwf.ac.at/o:1205){:blank}.
+Neumayr, Eva and Lars Laubhold, eds., _Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_. Vienna: Hollitzer Verlag, 2018. [Available online](https://e-book.fwf.ac.at/o:1205){:blank}.
 
 Neumayr, Eva, ed., with contributions by Armin Brinzing and Till Reininghaus. [_Der „Mozart-Nachlass“. Musikalien aus dem Besitz der Söhne W. A. Mozarts in Salzburg_](https://www.carus-verlag.com/musiknoten-und-aufnahmen/der-mozart-nachlass-musikalien-aus-dem-besitz-der-soehne-w-a-mozarts-in-salzburg.html?listtype=search&searchparam=Mozart-Nachlass){:blank}. Beiträge zur Mozart-Dokumentation, 3; Veröffentlichungen des Archivs der Erzdiözese, 25. Stuttgart: Carus-Verlag, 2021. 823 p.  
 
