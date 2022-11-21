@@ -21,7 +21,7 @@ Einige Werke Pernsteiners wurden bereits zu Lebzeiten in Österreich und Bayern 
 
 Der Notensatz wurde von Fr. Maximilian Bak OCist im Stift Wilhering erarbeitet und vom Herausgeber lektoriert. Die Edition enthält außerdem eine detaillierte Einleitung mit einer biographischen Skizze, mehreren Abbildungen und einem kritischen Kommentar.
 
-Die Messe wird am Sonntag, den 20. November 2016, am Fest Christkönig, um 10 Uhr in der Stiftskirche Wilhering vom Chor und den Solisten und Instrumentalisten der Stiftskirche Wilhering und Ikarus Kaiser an der Orgel unter der Leitung von Kurt Azesberger erstaufgeführt werden. Weitere Informationen [erhalten Sie hier](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"}.
+Die Messe wird am Sonntag, den 20. November 2016, am Fest Christkönig, um 10 Uhr in der Stiftskirche Wilhering vom Chor und den Solisten und Instrumentalisten der Stiftskirche Wilhering und Ikarus Kaiser an der Orgel unter der Leitung von Kurt Azesberger erstaufgeführt werden. Weitere Informationen [erhalten Sie hier](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"}.
 
 Geistliche Musik im Stift Wilhering, hrsg. Stift Wilhering, Bd. 1:\
 Matthias Pernsteiner (1795-1851), Messa posta in musica, hrsg. Ikarus Kaiser (Deutsch / Englisch)\
@@ -30,4 +30,4 @@ Wagner Verlag, Linz 2016\
 ISMN 979-0-000-00190-9\
 ISBN 978-3-903040-13-7
 
-Weitere Informationen finden Sie auf den Websiten vom [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"}, der [Abtei Wilhering](http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} und [Musiksammlung der Abtei Wilhering](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
+Weitere Informationen finden Sie auf den Websiten vom [Wagner Verlag](http://www.wagnerverlag.at/content/?product=matthias-pernsteiner-1795-1851-messa-posta-in-musica){:target="_blank"}, der [Abtei Wilhering](https://web.archive.org/web/20160313154422/http://stiftwilhering.at/termine/stift-wilhering-christkoenigssonntag-hochamt/){:target="_blank"} und [Musiksammlung der Abtei Wilhering](https://opac.rism.info/metaopac/search?View=rism&View=rism&siglum=A-WIL){:target="_blank"}.
