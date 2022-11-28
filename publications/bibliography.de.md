@@ -584,6 +584,8 @@ Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire In
 
 Schmidt-Hensel, Roland: Erschließung von Nachlässen, Briefen und Musikhandschriften mit Kalliope und Kallisto, in: Forum Musikbibliothek 26, no. 4 (2005), S. 381-395.
 
+Wojnowska, Elżbieta: RISM w Polsce, in: Sekcja Bibliotek Muzycznych Stowarzyszenia Bibliotekarzy Polskich: Polska Grupa Narodowa IAML, 1964-2004 (Music Libraries Section of the Polish Librarians Association—Polish National Branch of IAML), hrsg. von Piotr Maculewicz und Andrzej Spóz, Warszawa: Stowarzyszenie Bibliotekarzy Polskich 2005, S. 213-230. 
+
 #### 2006
 
 Grün, Birgit: RISM-Bibliothekssigel, in: Forum Musikbibliothek 27 (2006), S. 331-332.  
