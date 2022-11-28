@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Upcoming Events</p>
-    <p>Join us at our conference Musical Sources: Past and Future, 7–9 October 2022 in Mainz. <a href="/publications/conferences/musical-sources-past-future-2022.html">Details here</a></p>
+    <p class="has-text-weight-semibold">Events</p>
+    <p>Conference Musical Sources: Past and Future, 7–9 October 2022, Mainz. <a href="/publications/conferences/musical-sources-past-future-2022.html">Details here</a></p>
 </article>
 
 ## Library Sigla

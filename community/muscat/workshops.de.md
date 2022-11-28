@@ -87,13 +87,13 @@ _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Mu
 *André Guerra Cotta (RISM Brasilien)*
 
 * 11\.-14\. November 2019, Musical Archivology course, University of Buenos Aires, Argentinien\
-Workshop nach dem [Congress of the Asociación Regional para América Latina y el Caribe de la Sociedad Internacional de Musicología](http://4congreso.arlac-ims.com/){:target="_blank"} (ARLAC/IMS)\
+Workshop nach dem [Congress of the Asociación Regional para América Latina y el Caribe de la Sociedad Internacional de Musicología](https://web.archive.org/web/20200807231924/http://4congreso.arlac-ims.com/){:target="_blank"} (ARLAC/IMS)\
 *André Guerra Cotta (RISM Brazil)*
 
 * 27\. September 2019, Ewha Womans University, Seoul, Südkorea\
 *Eva Neumayr (RISM Salzburg)*
 
-* 17\. September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](http://www.aibm.info/tagungen/2019-augsburg/){:target="_blank"}, Augsburg\
+* 17\. September 2019: [Jahrestagung der IAML Ländergruppe Deutschland](https://web.archive.org/web/20201113231253/http://www.aibm.info/tagungen/2019-augsburg/){:target="_blank"}, Augsburg\
 *Guido Kraus, Jennifer Ward*
 
 * 16\. Juli 2019: [IAML Kongress, Krakau, Polen](/publications/iaml-congresses/2019.html)\
@@ -124,7 +124,7 @@ RISM Workshop 2: Continuation\
 * 4\.-6\. Oktober 2018: Katalogisierung von Musikdrucken, Frankfurt\
 *Mitarbeiter der RISM-Zentralredaktion*
 
-* 24\. Juli 2018: [IAML Kongress in Leipzig](http://iaml2018.info/programme/workshops/){:target="_blank"}, Deutschland\
+* 24\. Juli 2018: [IAML Kongress in Leipzig](https://web.archive.org/web/20180607100004/http://iaml2018.info/programme/workshops/){:target="_blank"}, Deutschland\
 Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 [Folien](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Workshop_slides_Leipzig_version.pdf), [Übungsbeispiele](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Workshop_examples.pdf), [Handout](/resources-old-website/community-content/events/2018_IAML_Leipzig/Ward_Leipzig_Handout_with_examples.pdf) (alle Englisch)
 
@@ -137,13 +137,13 @@ Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 * 9\. November 2017, [Collaborative Project on Chinese Music Resources 2017 Annual Meeting and the International Workshop on Repatriation: History and Significance of Early Sound Recordings Made in China](http://www.rism.info/en/workgroups/chinese-language-region/news/201711-shanghai-meeting.html){:target="_blank"}, Shanghai, China\
 *Klaus Keil,**TSENG Tzu-Chia*
 
-* 17\. Oktober 2017, [IAML Austria](https://www.iaml.at/){:target="_blank"} und [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb/kommissionen/musik/){:target="_blank"} Wien,\
+* 17\. Oktober 2017, [IAML Austria](https://www.iaml.at/){:target="_blank"} und [Kommission für Musik der VÖB](http://www.univie.ac.at/voeb-kommissionen/musik/){:target="_blank"} Wien,\
 *Dr. Ikarus Kaiser*
 
 * 3\.-6\. Oktober 2017, [Celebración y sonoridad en Hispanoamérica (siglos XVI-XIX)](https://web.archive.org/web/20180606170938/http://www.enesmorelia.unam.mx/index.php/eventos-enes-campus/celebracion-y-sonoridad-en-hispanoamerica-siglos-xvi-xix-homenaje-a-jose-lopez-calo/){:target="_blank"}, Morelia, Mexiko\
 *Jennifer Ward*
 
-* 26\.-27\. September 2017, [Fryderyk Chopin Institut](http://en.chopin.nifc.pl/institute/){:target="_blank"}, [Warsaw, Polen](https://www.facebook.com/RISM.info/posts/1798702750170561){:target="_blank"}\
+* 26\.-27\. September 2017, [Fryderyk Chopin Institut](https://nifc.pl/en/){:target="_blank"}, [Warsaw, Polen](https://www.facebook.com/RISM.info/posts/1798702750170561){:target="_blank"}\
 *Guido Kraus*
 
 * 20\. Juni 2017, [IAML Kongress in Riga, Latvia](https://iaml2017.lnb.lv/programme/20-june/){:target="_blank"}\
@@ -170,7 +170,7 @@ Martina Falletta, Klaus Keil, Guido Kraus, Jennifer Ward\
 * 29\. Oktober 2016, Ewha Womans University, [Seoul, Südkorea](/events/2016/11/28/bringing-the-past-into-the-future-creating-and.html){:target="_blank"}\
 *Klaus Keil, Laurent Pugin, Jennifer Ward*
 
-* 26\.-27\. Oktober 2016, [Staatsbibliothek zu Berlin, Deutschland](https://www.facebook.com/pg/RISM.info/photos/?tab=album&album_id=1349473175093523){:target="_blank"}\
+* 26\.-27\. Oktober 2016, [Staatsbibliothek zu Berlin, Deutschland](https://www.facebook.com/media/set/?set=a.1349473175093523&type=3){:target="_blank"}\
 *Guido Kraus*
 
 * 24\.-25\. Oktober 2016, Nationalbibliothek, [Warschau, Polen](/events/2016/11/03/muscat-workshop-in-warsaw.html){:target="_blank"}\

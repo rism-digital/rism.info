@@ -17,7 +17,7 @@ Die zehn beliebtesten Geschichten unserer Website waren (entsprechend unseren We
 
 1. [Neue Version des RISM Online-Katalogs](/new_at_rism/2018/07/16/new-version-of-the-rism-online-catalog.html)
 
-2. [Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"}(unser Aprilscherz)
+2. [Verschollene Werke des italienischen Komponisten Giovanni Francesco Bicchini wiederentdeckt](/rediscovered/2014/04/01/missing-works-by-italian-composer-giovanni.html){:target="_blank"} (unser Aprilscherz)
 
 3. [Mozart: Neue Dokumente](/electronic_resources/2014/09/18/mozart-new-documents.html){:target="_blank"}
 
@@ -59,17 +59,17 @@ Anhand der Liste bemerken Sie, dass 2014 ein Jahr der aufregenden Entdeckungen w
 
 RISM wurde auch in den folgenden Artikeln erwähnt, die wir in der [RISM-Bibliographie](/publications/bibliography.html){:target="_blank"} aufgeführt haben:
 
-- Geck, Karl Wilhelm. Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen, in BIS - Das Magazin der Bibliotheken in Sachsen 7(2014)3, S. 179. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
+- Geck, Karl Wilhelm. Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen, in: BIS - Das Magazin der Bibliotheken in Sachsen 7(2014)3, S. 179. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
 
-- Herrmann-Schneider, Hildegard: "Throwing Some Light on the History of Verdi and Wagner Reception in Tyrol," _Fontes artis musicae_ 61, no. 2 (2014): 163-172.
+- Herrmann-Schneider, Hildegard: Throwing Some Light on the History of Verdi and Wagner Reception in Tyrol, in: Fontes artis musicae 61 (2014), no. 2, S. 163-172.
 
-- Martin, Cheryl: RISM Canada Report, in CAML Review 42:3 (November 2014), S. 23-26. [Online verfügbar](http://pi.library.yorku.ca/ojs/index.php/caml/article/viewFile/39684/35943){:target="_blank"}
+- Martin, Cheryl: RISM Canada Report, in: CAML Review 42:3 (November 2014), S. 23-26. [Online verfügbar](http://pi.library.yorku.ca/ojs/index.php/caml/article/viewFile/39684/35943){:target="_blank"}
 
-- Selfridge-Field, Eleanor, Search engines for digitally encoded scores, in Early Music 42: 4 (November 2014): 591-598 [Online verfügbar](http://em.oxfordjournals.org/content/42/4?etoc){:target="_blank"}
+- Selfridge-Field, Eleanor: Search engines for digitally encoded scores, in: Early Music 42 (2014), no. 4, S. 591-598 [Online verfügbar](http://em.oxfordjournals.org/content/42/4?etoc){:target="_blank"}
 
-- Voss, Steffen. "Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 2 (2014): 48-52. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
+- Voss, Steffen: Friedrich der Grosse würde sich freuen. Finanzierung deutscher RISM-Arbeitsstellen bis 2025 gesichert, in: Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München 2 (2014), S. 48-52. [Online verfügbar](http://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/pdf/Bibliotheksmagazin/Bibliotheksmagazin_2014-2.pdf){:target="_blank"}
 
-- Voss, Steffen. "Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt." _VivaVoce_ 98 (Frühling 2014): 12-13. [Online verfügbar](http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
+- Voss, Steffen: Anna Merkje Cramer. Unbekannte Lieder von niederländischer Komponistin in Köln entdeckt, in: VivaVoce 98 (2014), S. 12-13. [Online verfügbar](https://web.archive.org/web/20190531062414/http://www.nederlandsmuziekinstituut.nl/files/archief/pdf/publicaties/extern/vivavoce.pdf){:target="_blank"}
 
 
 Wir sind immer daran interessiert, Nachrichten sowohl über die Arbeit unserer nationalen RISM-Arbeitsgruppen als auch über Manuskripte und andere historische Quellen zu erhalten. Wenn Sie irgendetwas Sie mitteilen möchten, bitte schreiben Sie uns. Die Besucher der RISM-Website kommen aus aller Welt, wie Sie den Blautönen auf der Landkarte auf der linken Seite entnehmen können.
