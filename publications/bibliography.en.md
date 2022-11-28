@@ -516,7 +516,7 @@ Schaefer, Hartmut. "Thematische Verzeichnisse. IV. Bibliothekskataloge und das R
 
 Selfridge-Field, Eleanor. "Conceptual and Represenational Issues in Melodic Comparison." In _Melodic Similarity: Concepts, Procedures, and Applications_, edited by Walter B. Hewlett and Eleanor Selfrigde-Field, 3-64. Computing and Musicology 11. Cambridge, Mass.: MIT Press, 1998.
 
-Wojnowska, Elübieta. "Probleme bei der Katalogisierung alter Musikdrucke im Lichte der Formate RISM und US-MARC." _Forum Musikbibliothek_ 1 (1998): 61-66.
+Wojnowska, Elżbieta. "Probleme bei der Katalogisierung alter Musikdrucke im Lichte der Formate RISM und US-MARC." _Forum Musikbibliothek_ 1 (1998): 61-66.
 
 #### 1999
 

@@ -24,7 +24,7 @@ The conference and workshop was intended to enable a dialogue for the different 
 * Presentations on [RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"}.
 * Reports
     - Kapsa, Václav. "Konference Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." _Hudební věda_ 56, no. 2 (2019): 191-194.
-    - Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
+    - Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 ## Program
 
