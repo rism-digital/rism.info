@@ -24,8 +24,8 @@ Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_Internati
 
 RISM is sponsored under the auspices of two international professional associations:
 
-* [IAML](http://www.iaml.info/){:blank} – International Association of Music Libraries, Archives and Documentation Centres
-* [IMS](http://www.ims-online.ch/){:blank} – International Musicological Society
+* [IAML](https://www.iaml.info/){:blank} – International Association of Music Libraries, Archives and Documentation Centres
+* [IMS](https://www.musicology.org/){:blank} – International Musicological Society
 
 ## Commission Mixte
 
