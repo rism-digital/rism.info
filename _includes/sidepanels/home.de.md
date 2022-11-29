@@ -1,7 +1,7 @@
 <div class="p-2 notification is-warning is-light">
-    <p class="has-text-weight-semibold">Veranstaltungen</p>
-     <p>Konferenz "Musical Sources: Past and Future", 7.–9. Oktober 2022 in Mainz. <a href="/publications/conferences/musical-sources-past-future-2022.html">Details hier</a></p>
-</div>
+    <p class="has-text-weight-semibold">Fontes Sonderheft</p>
+    <p>Die Ausgabe 69 (2022), Heft 3 von _Fontes Artis Musicae_ feiert RISM. <a href="/new_publications/2022/11/10/fontes-special-issue-in-celebration-of-risms-seventieth-anniversary.html">Details hier</a></p>
+</article>
 
 ## RISM Bibliothekssigel
 
