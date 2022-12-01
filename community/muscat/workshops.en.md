@@ -17,7 +17,7 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ### Online workshops
 
-The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the fall of 2022. Further workshops can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
+The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring of 2023. Further workshops and training can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ## Past workshops and demonstrations  
 * 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
