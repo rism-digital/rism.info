@@ -5,7 +5,7 @@ date: 2022-12-08
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news/2022-12/Musical sources on postage stamps_website.jpg"
+image: "/images/news/2022-12/Musical sources on postage stamps_website.JPG"
 email: ''
 author: ''
 ---
@@ -16,7 +16,7 @@ The German Postal Service issued a remarkable stamp to commemorate the 350th ann
 
 Of course, music manuscripts are also depicted on stamps. The following example shows how this does not always go smoothly: they struck a wrong chord in East Germany in 1956 when Franz Schubert's "Wandrers Nachtlied" (RISM ID no. 464000227, autograph manuscript in D-B [RISM Catalog](https://opac.rism.info/search?id=464000227&View=rism){:blank} \| [RISM Online](https://rism.online/sources/464000227){:blank}) was depicted alongside an image of Robert Schumann for the latter's centennial of death. This makes it all the more interesting for stamp collectors. Some people must have noticed, and the stamp was reissued shortly after with Schumann's "Mondnacht." The beginning of the piece was taken from the autograph working manuscript in his _Liederbuch_, which you can view online (RISM ID no. 464000024 [RISM Catalog](https://opac.rism.info/search?id=464000024&View=rism){:blank} \| [RISM Online](https://rism.online/sources/464000024){:blank}). The autograph fair copy (RISM ID no. 464000043 [RISM Catalog](https://opac.rism.info/search?id=464000043&View=rism){:blank} \| [RISM Online](https://rism.online/sources/464000043){:blank}) arrived on deposit at the Staatsbibliothek in Berlin only in 1984, so it wasn't available to the stamp creators.
 
-{% include image file="/images/news/2022-12/Musikquellen auf Briefmarken Schumann DDR 1956.jpg" %}
+{% include image file="/images/news/2022-12/Musikquellen auf Briefmarken Schumann DDR 1956.JPG" %}
 
 There are many more examples that could be given. You can find out more about music in stamps in Gerhard K. Megla's _Musik im Spiegel der Philatelie_ (Tübingen: Wasmuth, 1984) and on [Twitter from Musical Stamps](https://twitter.com/musicalstamps){:blank}.
 
