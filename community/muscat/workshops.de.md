@@ -16,7 +16,7 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ### Online workshops
 
-Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den Herbst 2022 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
+Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den Frühling 2023 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 
 ## Vergangene Workshops und Vorführungen
