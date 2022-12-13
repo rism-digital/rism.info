@@ -644,7 +644,7 @@ Heckmann, Harald: Das Répertoire International des Souces Musicales (RISM) in G
 
 Petrobelli, Pierluigi: Towards a RISM series for libretti, in: Fontes artis musicae57 (2010), S. 135-139. [Online verfügbar](https://www.jstor.org/stable/23512324){:target="_blank"}
 
-Schneider, Oliver: Auf Entdeckungsreise in Schweizer Musikbibliotheken, in: Schweizer Musikzeitung,6 (Juni 2010), S. 9–10. [Online verfügbar](http://docs.rism-ch.org/press/smz.2010.06_09.10.pdf){:target="_blank"}
+Schneider, Oliver: Auf Entdeckungsreise in Schweizer Musikbibliotheken, in: Schweizer Musikzeitung, 6 (Juni 2010), S. 9–10. [Online verfügbar](http://docs.rism-ch.org/press/smz.2010.06_09.10.pdf){:target="_blank"}
 
 Urbano, Julián, Mónica Marrero, Diego Martín und Juan Lloréns: Improving the Generation of Ground Truths Based on Partially Ordered Lists, in: Proceedings of the 11th International Society for Music Information Retrieval Conference, ISMIR 2010, Utrecht, Netherlands, August 9-13, 2010, hrsg. v. J. Stephen Downie und Remco C. Veltkamp, International Society for Music Information Retrieval: 2010, S. 285-290. [Online verfügbar](http://dblp.org/rec/conf/ismir/UrbanoMML10){:target="_blank"}
 
@@ -734,7 +734,7 @@ Meluzzi, Cecilia: Catalogo dei manoscritti musicali di Alessandro Vessella. Per 
 
 NAT. "Auf dem Cembalo tobt die Schlacht von 1796", in: MainPost.de, 26. Juni 2013. [Online verfügbar](https://www.mainpost.de/regional/wuerzburg/auf-dem-cembalo-tobt-die-schlacht-von-1796-art-7543229){:blank}.  
 
-Pugin, Laurent und Rodolfo Zitellini: Instrument distribution and music notation search for enhancing bibliographic music score retrieval, in: Proceedings of the ACM-IEEE Joint Conference on Digital Libraries, Indianapolis, IN, 2013, S. 195–198. [Online verfügbar](https://dl.acm.org/citation.cfm?doid=2467696.2467728){:target="_blank"}.
+Pugin, Laurent und Rodolfo Zitellini: Instrument distribution and music notation search for enhancing bibliographic music score retrieval, in: Proceedings of the ACM-IEEE Joint Conference on Digital Libraries, Indianapolis, IN, 2013, S. 195–198. [Online verfügbar](https://doi.org/10.1145/2467696.2467728){:target="_blank"}.
 
 Rose, Stephen: RISM in the Digital Age, in: Early Music 41 (2013), S. 158-160.
 
@@ -951,7 +951,7 @@ Kapsa, Václav: Konference Works, Work Titles, Work Authorities: Perspectives on
 
 Keil, Klaus und Jennifer A. Ward: Applications of RISM data in digital libraries and digital musicology, in: Digital Libraries for Musicology, hrsg. von J. Stephen Downie und Kevin Page, Sonderheft, International Journal on Digital Libraries 20 (2019), S. 3-12. [Online verfügbar](https://doi.org/10.1007/s00799-016-0205-3){:target="_blank"}
 
-Köppl, Chantal: "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22. September 2019. [Online verfügbar](https://musikforschung.de/index.php/aktuelles/tagungen-kongresse/tagungsberichte/tagungsberichte-2019/1834-mainz-9-bis-11-mai-2019){:target="_blank"}
+Köppl, Chantal: "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22. September 2019. [Online verfügbar](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
 Ward, Jennifer: Répertoire International des Sources Musicales/International Inventory of Musical Sources, in: _Historic Libraries Forum Bulletin_ 44 (April 2019), S. 3-4. [Online verfügbar](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}
 
@@ -1367,7 +1367,7 @@ Tabulae musicae Austriacae. Kataloge österreichischer Musiküberlieferung, hrsg
 
 Lindner, Andreas und Klaus Petermayr: Die historischen Musikalien der Bruckner-Stätten (Historic Music Materials of the Bruckner Sites). Vol. 1: Die Pfarre Kronstorf. Veröffentlichungen des RISM-Österreich A/13. Wien: Verlag Der Apfel, 2010. 
 
-Neumayr, Eva und Lars Laubhold (Hrsg.): [Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd),_Reihe A](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Wien: Hollitzer Verlag, 2018. [Online verfügbar](https://e-book.fwf.ac.at/o:1205){:blank}
+Neumayr, Eva und Lars Laubhold (Hrsg.): [Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd),_Reihe A], Wien: Hollitzer Verlag, 2018. [Online verfügbar](https://e-book.fwf.ac.at/o:1205){:blank}
 
 Neumayr, Eva (Hrsg.), mit Beiträgen von Armin Brinzing und Till Reininghaus: [_Der „Mozart-Nachlass“. Musikalien aus dem Besitz der Söhne W. A. Mozarts in Salzburg_](https://www.carus-verlag.com/musiknoten-und-aufnahmen/der-mozart-nachlass-musikalien-aus-dem-besitz-der-soehne-w-a-mozarts-in-salzburg.html?listtype=search&searchparam=Mozart-Nachlass){:blank}. Beiträge zur Mozart-Dokumentation, 3; Veröffentlichungen des Archivs der Erzdiözese, 25. Stuttgart: Carus-Verlag, 2021. 823 S.
 
