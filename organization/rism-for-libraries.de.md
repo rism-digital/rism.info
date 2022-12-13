@@ -14,14 +14,14 @@ RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekaren zusammen. W
 
 **Broschüren**: Gerne senden wir Ihnen kostenlos unsere RISM-Broschüre zu. Es gibt sie in Englisch mit Übersetzungen in chinesisch, deutsch, russisch und spanisch. Für weitere Information, siehe [Publikationen](/publications/brochures.html).
 
-**RISM Catalog:** Wir haben einige Anleitungen zu verschiedenen Themen zum Online-Katalog erstellt. Sie sind auf der [Hilfeseite](https://opac.rism.info/index.php?id=4&L=1&id=4){:target="_blank"} unter [opac.rism.info](http://opac.rism.info) zu finden.
+**RISM Catalog:** Wir haben einige Anleitungen zu verschiedenen Themen zum  RISM Catalog erstellt. Sie sind auf der [Hilfeseite](https://opac.rism.info/index.php?id=4&L=1&id=4){:target="_blank"} unter [opac.rism.info](http://opac.rism.info) zu finden.
 
 Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen Präsentationen zur Nutzung des RISM (auch auf der [IAML Website](http://www.iaml.info/r-projects)) zur Verfügung.
 
 **Live Demonstration**: Ein Mitglied der RISM-Zentralredaktion kann eine kostenlose, webbasierte Demonstration zu verschiedenen Themen im Zusammenhang mit RISM in englischer oder deutscher Sprache durchführen. Dies ist eine ideale Möglichkeit für Bibliothekare, Dozenten oder Studenten, sich mit RISM vertraut zu machen und zu lernen, wie die Publikationen des RISM für die Forschung genutzt werden können. [Kontaktieren](mailto:contact@rism.info) Sie uns, um eine Demonstration zu vereinbaren. Mögliche Themen sind unter anderem: 
 
 * Ein Überblick über das RISM-Projekt
-* Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} des RISM (Manuskripte und gedruckte Noten) 
+* Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} und [RISM Online](https://rism.online/){:blank} (Manuskripte und gedruckte Noten) 
 * Einführung in Muscat, das Katalogisierungsprogramm des RISM, und wie Bibliotheken RISM beitragen können
 
 **Logos**: Logos stehen weiter unten zum Download bereit.
@@ -34,10 +34,13 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 
 ## Katalogisierungstools
 
-**Plaine & Easie Code**: Der [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} zur Kodierung von Musikincipits wird von der International Association of Music Libraries, Archives and Documentation Centres (IAML) und RISM als Austauschformat im Bibliotheksumfeld verwendet. Es wird im [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank} verwendet. Eine Videoanleitung [finden Sie hier](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
+### Plaine & Easie Code 
+Der [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} zur Kodierung von Musikincipits wird von der International Association of Music Libraries, Archives and Documentation Centres (IAML) und RISM als Austauschformat im Bibliotheksumfeld verwendet. Es wird im [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank} verwendet. Eine Videoanleitung [finden Sie hier](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
 
-**Verlinkung zum RISM Catalog (OPAC):**
+### Links zu den elektronischen Katalogen des RISM
+Die Daten des RISM können kostenlos über zwei verschiedene, sich ergänzende Ressourcen durchsucht werden, dem [RISM Catalog](https://opac.rism.info){:target="_blank"} und [RISM Online](https://rism.online/){:blank}.  
 
+#### RISM Catalog
 * URL für den RISM Catalog:  
 [https://opac.rism.info](https://opac.rism.info){:target="_blank"}
 * Direkte URL für die Erweiterte Suche in Deutsch:  
@@ -46,6 +49,14 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 [https://opac.rism.info/search?View=rism&q=\*](https://opac.rism.info/search?View=rism&q=*){:target="_blank"}
 * Permalinks finden Sie in jedem RISM-Datensatz oben links, wenn Sie auf das Kettengliedsymbol klicken. Die in der Adressleiste des Browsers angezeigten URLs sind nicht stabil.
 * Informationen zum Erstellen stabiler URLs für bestimmte Suchstrings finden Sie unter "[Link zum Eintrag oder zur Suche](https://opac.rism.info/index.php?id=8&L=1#c49){:target="_blank"}" auf der Hilfeseite des Catalogs.
+
+#### RISM Online  
+* URL of RISM Online:  
+[https://rism.online/](https://rism.online/){:blank}  
+* Schnelleinstieg zu allen Datensätzen in RISM Online:  
+[https://rism.online/search?mode=sources&page=1&rows=20](https://rism.online/search?mode=sources&page=1&rows=20){:blank}  
+* Permalinks werden in jedem Datensatz angegeben, egal ob Musikquelle, Person oder Institution. Die URLs für Suchbegriffe in RISM Online sind stabil und können direkt aus der Adressleiste Ihres Browsers übernommen werden.  
+* So finden Sie die Unikate Ihrer Bibliothek: Unter **Holding institutions** [auf der Startseite](https://rism.online/){:blank} geben Sie ihr Bibliohtekssigel an und klick auf die Box neben **Number of holdings: 1.**
 
 **VIAF**: Die RISM-Normdaten für Personennamen sind in [VIAF (Virtual International Authority File)](http://www.viaf.org/){:target="_blank"} enthalten.
 
@@ -57,12 +68,12 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 
 In dieser Auflistung der Princeton University Library werden beispielsweise die A/I-Nummer sowie der Eintrag im Catalog genannt. In der öffentlichen Ansicht verweisen die Links in $u den Benutzer über die englische Oberfläche direkt auf den Eintrag im RISM Catalog.
 
-Giaches de Wert, Il secondo libro de madregali a cinque voci:  
+**Beispiel 1**: Giaches de Wert, Il secondo libro de madregali a cinque voci:  
 ([Public view](https://catalog.princeton.edu/catalog/10096131){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/10096131/staff_view){:target="_blank"})
 
 ![csm_510_w862_princeton](/images/organization/csm_510_w862_princeton.jpg)
 
-Giovanni Bononcini, Cantate e duetti:  
+**Beispiel 2**: Giovanni Bononcini, Cantate e duetti:  
 ([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
