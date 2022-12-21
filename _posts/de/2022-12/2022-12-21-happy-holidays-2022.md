@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frohe Festtage 2022!"
-date: 2022-12-22
+date: 2022-12-21
 lang: de
 post: true
 category: events
