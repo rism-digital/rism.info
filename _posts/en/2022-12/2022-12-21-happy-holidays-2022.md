@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Holidays 2022!"
-date: 2022-12-22
+date: 2022-12-21
 lang: en
 post: true
 category: events
