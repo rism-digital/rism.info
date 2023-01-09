@@ -16,8 +16,7 @@ The Editorial Center provides opportunities for working groups to acquire basic 
 
 The Editorial Center cooperates with the Bavarian State Library (Bayerische Staatsbibliothek) and the State Library of Berlin (Staatsbibliothek zu Berlin) to operate the data server and the online catalog.
 
-## Staff of the Editorial Center
-**Core Staff**    
+## Staff of the Editorial Center  
 Executive Director: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Assistant Director: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
@@ -28,10 +27,6 @@ Editorial staff:
 * [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}, MA, MA, MSLIS
 
 IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MA  
-
-**Project staff**
-* [Martin Bierwisch](mailto:martin.bierwisch@rism.info){:target="_blank"}, MA
-* [Kristina Krämer](mailto:kristina.kraemer@rism.info){:target="_blank"}, MA
 
 ## Address
 

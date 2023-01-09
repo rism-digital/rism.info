@@ -1003,6 +1003,8 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
 
+Ferrari, Nicolò."Musical sources: 70 years of RISM." _Early Music_ caac061 (2022). [Available online](https://doi.org/10.1093/em/caac061){:blank}.   
+
 _Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celebration of RISM’s Seventieth Anniversary. Guest Editor: Nicole Schwindt. [Available online](https://muse.jhu.edu/issue/48911){:blank}.  
 - Schwindt, Nicole. "Editor's Preface." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 169-171. [Available online](https://muse.jhu.edu/article/867380){:blank}.    
 - Sherr, Richard. "Fifty Years with the Fondo Cappella Sistina of The Biblioteca Apostolica Vaticana." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 172-185. [Available online](https://muse.jhu.edu/article/867381){:blank}  
