@@ -49,11 +49,11 @@ Chair: Nicole Schwindt (Trossingen)\
 How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
 [Video auf YouTube](https://youtu.be/vXZ9NjhomV4){:blank} 
 * **Anne-Zoé Rillon-Marne** (Université catholique de l’Ouest, Angers)  
-A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1
+A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1\
 [Video auf YouTube](https://youtu.be/xkPpLiOSOj8){:blank} 
 * **Nicolò Ferrari** (University of Manchester)  
 Complex Codices: Describing the Syntax of Late Medieval and Early Modern Music Manuscripts
-[Video auf YouTube](https://youtu.be/e0EUWGlAyxk){:blank}  
+<!-- [Video auf YouTube](https://youtu.be/e0EUWGlAyxk){:blank} -->
 
 ##### Kaffeepause
 
@@ -83,7 +83,7 @@ Digitization of the Cultural Heritage of Turkish Music
 * **Wantana Tancharoenpol** (Chulalongkorn University, Bangkok)  
 Thai Musical Sources in the Berlin Staatsbibliothek
 * **Edgar Alejandro Calderón Alcántar** (National Conservatory of Music, Mexico / Faculty of Fine Arts of Michoacán University of San Nicolás de Hidalgo, Mexico)  
-The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation
+The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation\
 [Video auf YouTube](https://youtu.be/MXT_3SNQ4DU){:blank}
 
 ##### Kaffeepause  
@@ -104,16 +104,16 @@ Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-C
 Chair: Thomas Betzwieser (Frankfurt am Main)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#historical-perspectives)
 * **Paul Allen Sommerfeld** (Library of Congress)  
-Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)
+Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)\
 [Video auf YouTube](https://youtu.be/D3rb4943xdU){:blank}
 * **Andrea Hartmann & Steffen Voss** (both RISM Deutschland e.V.)  
-The Early Years of the Two RISM Working Groups in Germany
+The Early Years of the Two RISM Working Groups in Germany\
 [Video auf YouTube](https://youtu.be/GvaMCI7S4NY){:blank}
 * **Armin Brinzing** (Bibliotheca Mozartiana, International Mozarteum Foundation)  
-RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries
+RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries\
 [Video auf YouTube](https://youtu.be/7E1s15ENPGw){:blank}
 * **Sara Taglietti** (Ufficio Ricerca Fondi Musicali, Milan)  
-“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries
+“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries\
 [Video auf YouTube](https://youtu.be/VrVuNaF0K5E){:blank}
 
 ##### Kaffeepause
@@ -122,16 +122,16 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 Chair: Laurent Pugin (Bern)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#the-digital-turn) 
 * **Thomas Schmidt** (University of Manchester)  
-The Changed Role of Catalogues of Music Sources in the Digital Age
+The Changed Role of Catalogues of Music Sources in the Digital Age\
 [Video auf YouTube](https://youtu.be/e0O9KNTIkL0){:blank}
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
-Integration of Digital Tools for Music Data 
+Integration of Digital Tools for Music Data\ 
 [Video auf YouTube](https://youtu.be/86jvhnEdVJ0){:blank}
 * **Sandra Tuppen** (The British Library / RISM (UK) Trust)  
-Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650
+Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650\
 [Video auf YouTube](https://youtu.be/rlxkqkhVS7k){:blank}
 * **Frans Wiering & Mirjam Visscher** (both Utrecht University)  
-Mining the RISM Data for Music-Historical Insight
+Mining the RISM Data for Music-Historical Insight\
 [Video on YouTube](https://youtu.be/3bwpwkupPyA){:blank}
 
 ##### 12:30 Uhr Ende
