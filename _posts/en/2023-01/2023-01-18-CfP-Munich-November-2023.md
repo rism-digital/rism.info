@@ -5,7 +5,7 @@ date: 2023-01-18
 lang: en
 post: true
 category: events
-image: '/images/news-old-website/csm_Humperdinck-Die_Fischerin_Titel_703c1566dc.jpg'
+image: "/images/news-old-website/csm_Humperdinck-Die_Fischerin_Titel_703c1566dc.jpg"
 author: Nicole Schwindt
 ---
 
