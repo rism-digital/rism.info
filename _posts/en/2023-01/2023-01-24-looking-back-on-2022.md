@@ -5,7 +5,7 @@ date: 2023-01-24
 lang: en
 post: true
 category: events
-image: "/images/news/2023-01/looking-back-on-2022.jpg"
+image: "/images/news/2023-01/looking-back-2022.jpg"
 email: ''
 author: ''
 ---
