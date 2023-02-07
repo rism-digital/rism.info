@@ -7,7 +7,7 @@ post: true
 category: new_publications
 image: "/images/news/2023-02/Lazos_Book_review_cover-website.jpg"
 email: 'jlazos11@hotmail.com'
-author: 'Karen Benner and John G. Lazos'
+author: 'Karen Zacy Benner and John G. Lazos'
 ---
 
 Antonio Ezquerro Esteban (ed.), [_Tomás Vicente Tosca y la renovación musical en el siglo XVIII_](http://www.edicions.ub.edu/ficha.aspx?cod=14117){:blank}, Universidad de Barcelona (2022), 392 p., ISBN: 978-84-9168-701-6.
