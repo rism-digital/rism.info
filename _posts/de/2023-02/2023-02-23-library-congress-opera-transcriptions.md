@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transcripts of Dramatic Musical Works in Full Score at the Library of Congress"
+title: "Abschriften von Musikdramen in Partitur in der Library of Congress"
 date: 2023-02-23
 lang: de
 post: true
