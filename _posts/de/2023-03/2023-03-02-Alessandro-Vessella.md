@@ -5,7 +5,7 @@ date: 2023-03-02
 lang: de
 post: true
 category: rism_a_z
-image: "images/news/2022-08/rism-a-z-vessella-website.jpg"
+image: "/images/news/2022-08/rism-a-z-vessella-website.jpg"
 email: ''
 author: ''
 ---
