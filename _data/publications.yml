@@ -45,6 +45,11 @@
             fr: Documentation Musicale (2012)
           link: "/publications/conferences/conference-2012.html"
     - name:
+        en: RISM Lectures
+        de: RISM Lectures
+        fr: RISM Lectures
+      link: "publications/rism-lectures.html"
+    - name:
         en: IAML Congresses
         de: IAML Konferenzen
         fr: Conférences IAML
