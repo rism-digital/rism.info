@@ -75,11 +75,11 @@
             de: All IAML congresses
             fr: All IAML congresses
           link: "/publications/iaml-conferences.html"
-        - name:
-            en: Annual reports
-            de: Jahresberichte
-            fr: Rapports annuels
-          link: "/publications/annual-reports/index.html"
+    - name:
+        en: Annual reports
+        de: Jahresberichte
+        fr: Rapports annuels
+      link: "/publications/annual-reports/index.html"
       items:
         - name:
             en: 2021
