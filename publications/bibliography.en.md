@@ -662,7 +662,7 @@ Falletta, Martina. "Telemanns Kompositionen aus dem Blickwinkel neuer, durch das
 
 Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
-Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2012-08.pdf){:target="_blank"}.
+Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/media/newsletter_2012-08.pdf){:target="_blank"}.
 
 Güggi, Cédric. "Musikalische Quellen in der Schweiz und ihre Erschliessung." _NIKE-Bulletin_ 6 (2012): 34-37. [Available online](http://doi.org/10.5169/seals-727130){:target="_blank"}.
 
@@ -731,7 +731,7 @@ Pugin, Laurent and Rodolfo Zitellini. "Instrument distribution and music notatio
 
 Shekhter, Pia. "'Keeping Music Alive' - IAML goes Far East." IAML.info. November 11, 2013. [Available online](http://www.iaml.info/news/keeping-music-alive-iaml-goes-far-east){:target="_blank"}.
 
-Stanley, Roy. "The Symphony and Ireland: A symposium. Dublin 20 April 2013." _IAML UK & Ireland Newsletter_, no. 65 (June 2013): 4-6. [Available online](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2013-06.pdf){:target="_blank"}.
+Stanley, Roy. "The Symphony and Ireland: A symposium. Dublin 20 April 2013." _IAML UK & Ireland Newsletter_, no. 65 (June 2013): 4-6. [Available online](https://iaml-uk-irl.org/media/newsletter_2013-06.pdf){:target="_blank"}.
 
 Talkner, Katharina. "I’ve got the rism and you’ve got the music! Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe." _Perspektive Bibliothek_ 2.2 (2013): 75-103. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:16-pb-112446){:target="_blank"}.
 
