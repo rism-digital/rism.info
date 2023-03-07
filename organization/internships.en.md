@@ -34,10 +34,14 @@ Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodat
 
 ## Current and former interns  
 
+### 2023  
+Tanja Rodić (Germany)  
+
 ### 2022
+Henryk Edlund (Germany)  
 Ayleen Klinder (Germany)  
 Noah Lieven (Germany)  
-Till Umbach (Germany), fall 2022
+Till Umbach (Germany)  
 
 ### 2021
 Carina Umanski (Germany)  
