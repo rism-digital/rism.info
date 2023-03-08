@@ -666,7 +666,7 @@ Falletta, Martina: Telemanns Kompositionen aus dem Blickwinkel neuer, durch das 
 
 Brinzing, Armin: Das Internationale Quellenlexikon der Musik (RISM) und dieErschließung der historischen Musikalienbestände in Deutschland, in:Zeitschrift für Bibliothekswesen und Bibliographie 59 (2012), S. 146-151.[Online verfügbar](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
-Ferris, Catherine:RISM Ireland, in: IAML UK & Ireland Newsletter 63 (August 2012), S. 5-7. [Online verfügbar](http://www.iaml.info/iaml-uk-irl/publications/newsletters/newsletter_2012-08.pdf){:target="_blank"}.
+Ferris, Catherine:RISM Ireland, in: IAML UK & Ireland Newsletter 63 (August 2012), S. 5-7. [Online verfügbar](http://www.iaml.info/iaml-uk-irl/media/newsletter_2012-08.pdf){:target="_blank"}.
 
 Güggi, Cédric: Musikalische Quellen in der Schweiz und ihre Erschliessung, in: NIKE-Bulletin 6 (2012), S .34-37. [Online verfügbar](http://docs.rism-ch.org/press/nike.2012.11_06.pdf){:target="_blank"}
 
@@ -722,7 +722,7 @@ Wolf, Ulrike: 60 Jahre RISM: Interview mit dem Präsidenten Christoph Wolff, in:
 
 Bastlová, Eliška: Collectio operum musicalium quae in Bibliotheca Kinsky adservantur. Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8 (Prague: Národní knihovna České Repubiky, 2013).
 
-Giglberger, Veronika: Zeugen einer Blütezeit europäischer Musikkultur in München:Chorbuch-Handschriften mit mehrstimmiger Musik werden digitalisiert, in: Bibliotheks-Magazin8 (2013), S. 38-42. [Online verfügbar](http://rism.info/http:// "external-link-new-window")
+Giglberger, Veronika: Zeugen einer Blütezeit europäischer Musikkultur in München:Chorbuch-Handschriften mit mehrstimmiger Musik werden digitalisiert, in: Bibliotheks-Magazin8 (2013), S. 38-42. [Online verfügbar](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2013_1.pdf){:target="_blank"}
 
 Griffin, Thomas: Some Late Scarlatti Recovered: Part Two of Alessandro Scarlatti's Serenata Erminia (1723), in: Studi musicali 1 (2013), S. 101-113. [Online verfügbar](http://www.ascarlatti2010.net/main_page/erminia_info/Griffin_Studi.pdf){:target="_blank"}
 
@@ -740,7 +740,7 @@ Rose, Stephen: RISM in the Digital Age, in: Early Music 41 (2013), S. 158-160.
 
 Shekhter, Pia: 'Keeping Music Alive' - IAML goes Far East; in: IAML.info. 11. November 2013. [Online verfügbar](http://www.iaml.info/news/keeping-music-alive-iaml-goes-far-east){:target="_blank"}
 
-Stanley, Roy: The Symphony and Ireland: A symposium. Dublin 20 April 2013, in: IAML UK & Ireland Newsletter, no. 65 (Juni 2013), S. 4-6. [Online verfügbar](https://iaml-uk-irl.org/sites/default/files/files/newsletter_2013-06.pdf){:target="_blank"}
+Stanley, Roy: The Symphony and Ireland: A symposium. Dublin 20 April 2013, in: IAML UK & Ireland Newsletter, no. 65 (Juni 2013), S. 4-6. [Online verfügbar](https://iaml-uk-irl.org/media/newsletter_2013-06.pdf){:target="_blank"}
 
 Talkner, Katharina: "I’ve got the rism and you’ve got the music!" Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe," in: Perspektive Bibliothek 2.2 (2013), S. 75-103. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bsz:16-pb-112446){:target="_blank"}
 
