@@ -45,7 +45,7 @@ A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1
 [Video on YouTube](https://youtu.be/xkPpLiOSOj8){:blank}  
 * **Nicolò Ferrari** (University of Manchester)  
 Complex Codices: Describing the Syntax of Late Medieval and Early Modern Music Manuscripts   
-[Video on YouTube](https://youtu.be/e0EUWGlAyxk){:blank}  
+<!-- [Video on YouTube](https://youtu.be/e0EUWGlAyxk){:blank} -->
 
 ##### Coffee break
 

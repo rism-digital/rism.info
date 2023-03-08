@@ -49,6 +49,12 @@
         de: RISM Lectures
         fr: RISM Lectures
       link: "publications/rism-lectures.html"
+      items:
+        - name:
+            en: "1: Cappella Sistina"
+            de: "1: Cappella Sistina"
+            fr: "1: Cappella Sistina"
+          link: "/publications/rism-lectures.html"      
     - name:
         en: IAML Congresses
         de: IAML Konferenzen
@@ -75,7 +81,7 @@
             de: All IAML congresses
             fr: All IAML congresses
           link: "/publications/iaml-conferences.html"
-        - name:
+    - name:
         en: Annual reports
         de: Jahresberichte
         fr: Rapports annuels
