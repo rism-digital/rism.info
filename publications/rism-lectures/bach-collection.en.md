@@ -5,6 +5,7 @@ lang: en
 permalink: /publications/rism-lectures/bach-collection.html
 ---
 
+# Second RISM Lecture: The Bach Collection of the Berlin Staatsbibliothek  
 The second RISM Lecture focused on the most important collection of Bach sources in the world.  
 May 26, 2021
 [Announcement](/events/2021/04/29/second-rism-lecture-bach-collection-berlin-staatsbibliothek.html) | [View on YouTube](https://youtu.be/Op5iQncmZ30){:blank}  

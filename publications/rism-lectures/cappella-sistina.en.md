@@ -5,6 +5,8 @@ lang: en
 permalink: /publications/rism-lectures/cappella-sistina.html
 ---
 
+# First RISM Lecture: The Fondo Cappella Sistina in RISM  
+
 The first RISM Lecture was dedicated to the unique collection of choirbooks preserved in the Biblioteca Apostolica Vaticana.   
 January 28, 2021  
 [Announcement](/events/2021/01/11/first-rism-lecture-fondo-cappella-sistina.html) | [View on YouTube](https://youtu.be/ATlxoNG6Sdg){:blank}  

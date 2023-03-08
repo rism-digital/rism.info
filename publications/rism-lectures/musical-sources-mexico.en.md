@@ -5,6 +5,7 @@ lang: en
 permalink: /publications/rism-lectures/musical-sources-mexico.html
 ---
 
+# Third RISM Lecture: Musical Sources in Mexico  
 The third RISM Lecture presented rare insight into the complex relationship between a center and its periphery through the lens of liturgical music in Mexico. It served as the opening talk for the conference [Musical Sources: Past and Future—An International Conference Celebrating 70 Years of RISM](/publications/conferences/musical-sources-past-future-2022.html)
 October 7, 2022  
 [Announcement](/events/2022/09/29/third-rism-lecture-musical-sources-in-mexico.html) | [View on YouTube](https://youtu.be/Y7pEOPziz28){:blank}  

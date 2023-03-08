@@ -49,6 +49,22 @@
         de: RISM Lectures
         fr: RISM Lectures
       link: "publications/rism-lectures.html"
+      items:
+        - name:
+            en: "1: Cappella Sistina"
+            de: "1: Cappella Sistina"
+            fr: "1: Cappella Sistina"
+          link: "/publications/rism-lectures/cappella-sistina.html"
+        - name:
+            en: "2: Bach Collection"
+            de: "2: Bach Collection"
+            fr: "2: Bach Collection"
+          link: "/publications/rism-lectures/bach-collection.html"
+        - name:
+            en: "3: Musical Sources in Mexico"
+            de: "3: Musical Sources in Mexico"
+            fr: "3: Musical Sources in Mexico"
+          link: "/publications/rism-lectures/musical-sources-mexico.html"
     - name:
         en: IAML Congresses
         de: IAML Konferenzen
@@ -100,7 +116,7 @@
             en: All annual reports
             de: All annual reports
             fr: All annual reports
-          link: "/publications/annual-reports/index.html"        
+          link: "/publications/annual-reports/index.html"
     - name:
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
