@@ -13,7 +13,7 @@ author: ''
 
 With Coronavirus restrictions still in place to varying degrees around the world, not everyone has been able to return to their library or archive to work at full capacity. We have a few suggestions for those of you who are looking for projects that can be carried out from home that involve your library's holdings in RISM.   
 
-To find out what your library has in RISM, search using your library siglum in the RISM online catalog's [**Advanced Search**](https://opac.rism.info/advanced-search) under **Library siglum**. (To find your library's siglum, use the [Directory of RISM Library Sigla](/community/development/rism-sigla-directory.html).)   
+To find out what your library has in RISM, search using your library siglum in the RISM online catalog's [**Advanced Search**](https://opac.rism.info/advanced-search) under **Library siglum**. (To find your library's siglum, use the [Directory of RISM Library Sigla](/community/sigla.html).)   
 
 Or, add your library's siglum to the end of this direct link (without quotation marks):
 

@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-All roads lead to Rome - will we see you there? RISM is looking forward to the annual conference of the [International Association of Music Libraries, Archives and Documentation Centres](http://www.iaml2016.org/){:target="_blank"} from 3 to 8 July 2016.
+All roads lead to Rome - will we see you there? RISM is looking forward to the annual conference of the [International Association of Music Libraries, Archives and Documentation Centres](https://web.archive.org/web/20170521213051/http://www.iaml2016.org/){:target="_blank"} from 3 to 8 July 2016.
 
 As in years past, RISM will be sponsoring sessions. In addition, several of our RISM colleagues will be presenting on topics that relate to RISM and musical sources, demonstrating how RISM is used to locate musical sources and how they use this information in libraries and performances. Abstracts are available on the [IAML website](http://www.iaml.info/congresses/2016-rome){:target="_blank"}.
 

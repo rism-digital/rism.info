@@ -71,7 +71,7 @@ _Eva Neumayr, RISM Salzburg_
 * 13 October 2020: RISM United Kingdom, online\
 *Jennifer Ward, RISM Central Office*
 
-* 15 September 2020: [IAML Germany conference](http://www.aibm.info/tagungen/2020-bonn/), Bonn\
+* 15 September 2020: [IAML Germany conference](https://iaml-deutschland.info/2020-bonn/), Bonn\
 *Martina Falletta (RISM Central Office)*
 
 * 7-8 September 2020: Chopin Institute, Warsaw (online)\
