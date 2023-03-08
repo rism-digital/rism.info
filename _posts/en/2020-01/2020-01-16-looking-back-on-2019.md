@@ -27,8 +27,8 @@ The year 2020 is still young, but let's take a moment to look back on 2019 at th
 
 5. [Books About Music Before 1800 Digitized and Online](/electronic_resources/2019/08/01/books-about-music-before-1800-digitized-and-online.html){:target="_blank"} from the Library of Congress
 
-6. [Musical Anniversaries in 2019](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
-Don't miss [the 2020 edition](/events/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}!
+6. [Musical Anniversaries in 2019](/musical_anniversaries/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}
+Don't miss [the 2020 edition](/musical_anniversaries/2020/01/09/2020-not-just-beethoven.html){:target="_blank"}!
 
 7. [2019 Upgrade of the RISM Catalog](/rism_online_catalog/2019/09/09/2019-upgrade-of-the-rism-catalog.html){:target="_blank"}
 

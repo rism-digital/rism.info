@@ -21,7 +21,7 @@ Several anonymous manuscript fragments from around 1600 came to light in 2009 as
 
 In 2007, on the basis of manuscript DKA 319 held by I-BREd, Wolfgang Amadeus Mozart's mass KV 257 was identified definitively as the so-called "Spaur Mass" and the source used at the first performance of the work in Salzburg in 1776. The illustration shows markings by Leopold Mozart (marked in green) and by the court copyist Maximilian Raab (marked in blue). Mozart’s father added signs for dynamics and cue notes (1<sup><span lang="en-GB">st</span></sup> violin) to the following movement.
 
-Excerpts from the Kyrie (organ part, p. 1, RISM A/II no. 650.004.848) can be found on the website of the [Tyrol Land of Music](http://www.musikland-tirol.at/forschung/kv257/die-handschrift-in-brixen.php){:blank}.
+Excerpts from the Kyrie (organ part, p. 1, RISM A/II no. 650.004.848) can be found on the website of the [Tyrol Land of Music](https://forschung.musikland-tirol.at/content/kv257/){:blank}.
 
 ## Franciscan Monastery, Salzburg (A-Sfr; holdings currently being processed)
 
@@ -29,4 +29,4 @@ The Salzburg Museum displayed the libretto of Georg Muffat's opera _Le fatali fe
 
 The opera was presented in the court theatre in Salzburg on the occasion of the inauguration of Prince Archbishop Johann Ernst Graf von Thun.
 
-The title page of the libretto (RISM A/II no. 653.005.669) can likewise be found on the website of the [Tyrol Land of Music](http://www.musikland-tirol.at/forschung/aktuellearbeitsprojekte/das-musikarchiv.php){:blank}.
+The title page of the libretto (RISM A/II no. 653.005.669) can likewise be found on the website of the [Tyrol Land of Music](https://forschung.musikland-tirol.at/content/aktuellearbeitsprojekte/){:blank}.
