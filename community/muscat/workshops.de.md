@@ -13,6 +13,7 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Zukünftige Schulungen
 
+April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, Südkorea _JeongYoun Chang_ 
 
 ### Online workshops
 
