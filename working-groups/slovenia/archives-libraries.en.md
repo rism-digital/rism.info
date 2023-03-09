@@ -19,7 +19,7 @@ Koper, Arhiv stolne župnije (SI-Ka)
 
 [Koper, Osrednja knjižnica Srečka Vilharja](http://www.kp.sik.si/en){:blank} (SI-Ko)
 
-[Koper, Pokrajinski arhiv](http://www.arhiv-koper.si/web/guest/home){:blank} (SI-Kp)
+[Koper, Pokrajinski arhiv](https://arhiv-koper.si/){:blank} (SI-Kp)
 
 Koper, Škofijski arhiv (SI-Kš)
 
@@ -27,13 +27,13 @@ Kamnik, Frančiškanski samostan, Knjižnica (SI-KAf)
 
 Ljubljana, Frančiškanski samostan, Knjižnica (SI-Lf)
 
-[Ljubljana, Narodna in univerzitetna knjižnica, Glasbena zbirka](http://www.nuk.uni-lj.si/nukeng1.asp?id=1228518){:blank} (SI-Lng)
+[Ljubljana, Narodna in univerzitetna knjižnica, Glasbena zbirka](https://www.nuk.uni-lj.si/nuk/organizacija/glasbena-zbirka){:blank} (SI-Lng)
 
 Ljubljana, Stolnica, Arhiv stolnega kora (SI-Ls)
 
 Maribor, Stolnica, Glasbeni arhiv (SI-Ms)
 
-[Maribor, Univerzitetna knjižnica](http://www.ukm.uni-mb.si/podrocje.aspx#){:blank} (SI-Mu)
+[Maribor, Univerzitetna knjižnica](https://ukm.um.si/){:blank} (SI-Mu)
 
 Novo mesto, Frančiškanski samostan (SI-Nf)
 
