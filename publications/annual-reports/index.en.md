@@ -12,6 +12,9 @@ The annual reports of the Zentralredaktion are status reports, primarily intende
 
 The annual reports are published in the yearly publication of the Union of the German Academies of Sciences and Humanities. A summary is published in the newsletter of the International Musicological Society.
 
+## 2022  
+
+[View][/publications/annual-reports/2022.html]
 ## 2021
 
 [View](/publications/annual-reports/2021.html)

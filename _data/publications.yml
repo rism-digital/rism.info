@@ -61,9 +61,9 @@
             fr: "2: Bach Collection"
           link: "/publications/rism-lectures/bach-collection.html"
         - name:
-            en: "3: Musical Sources in Mexico"
-            de: "3: Musical Sources in Mexico"
-            fr: "3: Musical Sources in Mexico"
+            en: "3: Mexico City Cathedral"
+            de: "3: Mexico City Cathedral"
+            fr: "3: Mexico City Cathedral"
           link: "/publications/rism-lectures/musical-sources-mexico.html"
     - name:
         en: IAML Congresses
@@ -72,19 +72,19 @@
       link: "/publications/iaml-conferences.html"
       items:
         - name:
-            en: 2022
-            de: 2022
-            fr: 2022
+            en: 2022: Prague
+            de: 2022: Praha
+            fr: 2022: Prague
           link: "/publications/iaml-congresses/2022.html"
         - name:
-            en: 2021
-            de: 2021
-            fr: 2021
+            en: 2021: Online
+            de: 2021: Online
+            fr: 2021: Online
           link: "/publications/iaml-congresses/2021.html"
         - name:
-            en: 2019
-            de: 2019
-            fr: 2019
+            en: 2019: Kraków
+            de: 2019: Krakau
+            fr: 2019: Cracovie
           link: "/publications/iaml-congresses/2019.html"
         - name:
             en: All IAML congresses
@@ -98,6 +98,11 @@
       link: "/publications/annual-reports/index.html"
       items:
         - name:
+            en: 2022
+            de: 2022
+            fr: 2022
+          link: "/publications/annual-reports/2022.html"
+        - name:
             en: 2021
             de: 2021
             fr: 2021
@@ -107,11 +112,6 @@
             de: 2020
             fr: 2020
           link: "/publications/annual-reports/2020.html"
-        - name:
-            en: 2019
-            de: 2019
-            fr: 2019
-          link: "/publications/annual-reports/2019.html"
         - name:
             en: All annual reports
             de: All annual reports
