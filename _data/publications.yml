@@ -73,7 +73,7 @@
       items:
         - name:
             en: "2022: Prague"
-            de: "2022: Praha"
+            de: "2022: Prag"
             fr: "2022: Prague"
           link: "/publications/iaml-congresses/2022.html"
         - name:
@@ -88,7 +88,7 @@
           link: "/publications/iaml-congresses/2019.html"
         - name:
             en: All IAML congresses
-            de: All IAML congresses
+            de: Alle IAML Konferenzen
             fr: All IAML congresses
           link: "/publications/iaml-conferences.html"
     - name:
@@ -114,7 +114,7 @@
           link: "/publications/annual-reports/2020.html"
         - name:
             en: All annual reports
-            de: All annual reports
+            de: Alle Jahresberichte
             fr: All annual reports
           link: "/publications/annual-reports/index.html"
     - name:
