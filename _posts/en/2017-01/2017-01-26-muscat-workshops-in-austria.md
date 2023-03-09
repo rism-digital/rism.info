@@ -17,7 +17,7 @@ _We have received the following from our colleagues in IAML Austria:_
 
 On January 12, 2017, a Muscat workshop was held at the [Internationale Stiftung Mozarteum](http://www.mozarteum.at/){:target="_blank"}, led by Dr. Eva Neumayr (RISM Salzburg). The workshop enjoyed active participation from its seven attendees.
 
-This week, Dr. Neumayr also presented Muscat during the Study Day of the [Verband Österreichischer Archivarinnen und Archivare](http://www.voea.at/){:target="_blank"} (Association of Austrian Archivists) held at the [Archiv der Erzdiözese Salzburg](http://www.kirchen.net/archiv/home/){:target="_blank"}.
+This week, Dr. Neumayr also presented Muscat during the Study Day of the [Verband Österreichischer Archivarinnen und Archivare](http://www.voea.at/){:target="_blank"} (Association of Austrian Archivists) held at the [Archiv der Erzdiözese Salzburg](https://eds.at/archiv/home){:target="_blank"}.
 
 The second workshop took place on January 18, 2017, at the [Austrian National Library](https://www.onb.ac.at/){:target="_blank"} in Vienna and was led by Dr. Ikarus Kaiser (RISM Oberösterreich). Nine participants practiced creating records in Muscat using music manuscripts from [Stift Wilhering](http://stiftwilhering.at/){:target="_blank"} and the National Library.
 

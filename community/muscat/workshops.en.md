@@ -15,6 +15,8 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
+April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea _JeongYoun Chang_  
+
 ### Online workshops
 
 The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring of 2023. Further workshops and training can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
@@ -69,7 +71,7 @@ _Eva Neumayr, RISM Salzburg_
 * 13 October 2020: RISM United Kingdom, online\
 *Jennifer Ward, RISM Central Office*
 
-* 15 September 2020: [IAML Germany conference](http://www.aibm.info/tagungen/2020-bonn/), Bonn\
+* 15 September 2020: [IAML Germany conference](https://iaml-deutschland.info/2020-bonn/), Bonn\
 *Martina Falletta (RISM Central Office)*
 
 * 7-8 September 2020: Chopin Institute, Warsaw (online)\
