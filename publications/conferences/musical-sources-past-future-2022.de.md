@@ -36,7 +36,10 @@ Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie pers�
 * **Cristina Urchueguía** (Bern), Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften 
 * **Klaus Pietschmann** (Mainz), President of the International RISM Association 
 
-##### 18:30 Uhr RISM Lecture: Musical Sources in Mexico  
+##### 18:30 Uhr RISM Lecture: Musical Sources in Mexico 
+
+[Video on YouTube](https://youtu.be/Y7pEOPziz28){:blank}  
+
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
 From Data, Understanding the Past, Orienting the Future\
 [Abstract](/publications/conferences/musical-sources-past-future-2022/abstracts.html#rism-lecture)
