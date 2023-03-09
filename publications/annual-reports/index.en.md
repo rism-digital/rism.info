@@ -14,7 +14,7 @@ The annual reports are published in the yearly publication of the Union of the G
 
 ## 2022  
 
-[View][/publications/annual-reports/2022.html]
+[View](/publications/annual-reports/2022.html)
 ## 2021
 
 [View](/publications/annual-reports/2021.html)
