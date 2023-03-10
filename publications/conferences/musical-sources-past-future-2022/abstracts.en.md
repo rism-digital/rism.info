@@ -11,7 +11,7 @@ permalink: /publications/conferences/musical-sources-past-future-2022/abstracts.
 
 ### Friday, October 7
 #### RISM Lecture  
-##### Lucero Enríquez (Universidad Nacional Autónoma de México), Drew Edward Davies (Northwestern University), Analía Cherñavsky (Universidade Federal de Integracāo Latino-Americana)  
+##### Lucero Enríquez (Universidad Nacional Autónoma de México), Drew Edward Davies (Northwestern University), Analía Cherñavsky (Universidade Federal de Integração Latino-Americana)  
 ###### From Data, Understanding the Past, Orienting the Future     
 Understanding a peripheral cathedral within a globalized empire requires an empirical look from the perspective of the periphery, so as not to preconceive the periphery as a duplication of the center. This is especially true when the object is the ritual music of a culture that legitimized itself through that very ritual, a ritual imposed by blood and fire onto a totally alien culture resulting in its decimation. It is a discussion about conquest, not simply colonization, and something more complex than “transplantation.” How are we to interpret and understand the products of this cultural phenomenon, specifically liturgical music, across multiple centuries of history?
 
