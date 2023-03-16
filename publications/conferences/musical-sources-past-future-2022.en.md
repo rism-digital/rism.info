@@ -32,7 +32,7 @@ Our 70th anniversary conference is meant as a forum for discussing the state of 
 
 [Video on YouTube](https://youtu.be/Y7pEOPziz28){:blank}  
 
-* **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integracāo Latino-Americana)  
+* **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integração Latino-Americana)  
 From Data, Understanding the Past, Orienting the Future  
 [Abstract](/publications/conferences/musical-sources-past-future-2022/abstracts.html#rism-lecture)   
 
