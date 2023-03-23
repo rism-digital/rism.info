@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demestvo or Demestvennoe mnogogolosie: Ein Beispiel für frühe russisch-orthodoxe Vokal-Polyphonie"
+title: "Demestvo oder Demestvennoe mnogogolosie: Ein Beispiel für frühe russisch-orthodoxe Vokal-Polyphonie"
 date: 2023-03-23
 lang: de
 post: true
