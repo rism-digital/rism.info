@@ -15,11 +15,34 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea _JeongYoun Chang_  
+### Introduction to Muscat  
 
-### Online workshops
+The RISM Editorial Center will be hosting introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are  offered at no charge.  
 
-The next online Muscat workshops from the RISM Editorial Center are tentatively scheduled for the spring of 2023. Further workshops and training can be held on request; please contact us for more information: [contact@rism.info](mailto:contact@rism.info){:blank}
+Please register by sending an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
+
+#### Online  
+
+- Tuesday, 25 April 16:00-17:30 CEST (Part I) and Thursday, 27 April 16:00-17:30 CEST (Part II)  
+
+#### Cambridge, England (IAML Congress)  
+
+- Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
+
+
+### Special Topics: Printed Music  
+
+This single, 90-minute workshop is intended for current RISM contributors who wish to catalog printed music in Muscat. Topics covered include the structure of records, enhancing RISM records, creating new records, and composite volumes (prints and manuscripts bound together). Familiarity with Muscat and RISM's cataloging rules is required.  
+
+- Thursday, 4 May, 16:00-17:30 CEST
+- Friday, 2 June, 10:00-11:30 CEST
+- Additional sessions will be offered in the fall.
+
+Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
+
+### Seoul, South Korea
+- April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
+_JeongYoun Chang_  
 
 ## Past workshops and demonstrations  
 * 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
