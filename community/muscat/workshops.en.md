@@ -27,6 +27,7 @@ Please register by sending an email to [contact@rism.info](mailto:contact@rism.i
 
 #### Cambridge, England (IAML Congress)  
 
+Participants must bring their own laptops.   
 - Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
 
 
