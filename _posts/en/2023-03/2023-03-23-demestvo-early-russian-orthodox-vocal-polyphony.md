@@ -16,6 +16,8 @@ Elena Chernova has also cataloged this source for RISM. There are 200 entries fo
 
 In her article "[The All-Night Vigil in Early Russian Demestvenny Polyphony (Add. MS 30063 of the British Library): Presentation of the Critical Edition](https://doi.org/10.57050/jisocm.113326){:blank}" (_Journal of the International Society for Orthodox Church Music_ 6, no. 1 (2022): 149-160, cited in RISM as ChernovaD 2022), Elena Chernova goes into more detail about this particular form of Russian Orthodox vocal polyphony and describes the basis of her critical edition, which is part of her dissertation.  
 
-We are proud to be able to publish these records.  
+We are proud to be able to publish these records.   
+
+To get an idea of how this music sounds, [a demestvenny chant to "Let all mortal flesh keep silence"](https://www.youtube.com/watch?v=vON0iMsKYsQ){:blank} by the Chronos Ensemble is available on the group's YouTube channel, Evgeny Skurat, director.   
 
 _Image_: Incipit for "Благослови душе моѧ гѡспода" (Blagoslovi dushe moi͡a gospoda), RISM ID no. 1001103406.

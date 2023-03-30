@@ -18,4 +18,6 @@ In ihrem Artikel "[The All-Night Vigil in Early Russian Demestvenny Polyphony (A
 
 Wir sind sehr stolz darauf, jetzt Frau Chernovas Katalogisate veröffentlicht zu haben.  
 
+Um eine Vorstellung davon zu bekommen, wie diese Musik klingt, ist [ein Demestvenny-Gesang zu "Let all mortal flesh keep silence"](https://www.youtube.com/watch?v=vON0iMsKYsQ){:blank} des Chronos-Ensembles auf dem YouTube-Kanal der Gruppe unter der Leitung von Evgeny Skurat verfügbar. 
+
 _Abbildung_: Incipit für "Благослови душе моѧ гѡспода" (Blagoslovi dushe moi͡a gospoda), RISM ID no. 1001103406.
