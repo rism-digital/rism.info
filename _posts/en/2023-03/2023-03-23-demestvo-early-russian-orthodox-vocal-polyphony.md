@@ -18,10 +18,6 @@ In her article "[The All-Night Vigil in Early Russian Demestvenny Polyphony (Add
 
 We are proud to be able to publish these records.   
 
-Below, a demestvenny chant to "Let all mortal flesh keep silence" by the Chronos Ensemble, Evgeny Skurat, director.  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vON0iMsKYsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
-
+To get an idea of how this music sounds, [a demestvenny chant to "Let all mortal flesh keep silence"](https://www.youtube.com/watch?v=vON0iMsKYsQ){:blank} by the Chronos Ensemble is available on the group's YouTube channel, Evgeny Skurat, director.   
 
 _Image_: Incipit for "Благослови душе моѧ гѡспода" (Blagoslovi dushe moi͡a gospoda), RISM ID no. 1001103406.

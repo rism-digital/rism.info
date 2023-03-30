@@ -32,7 +32,7 @@ Please register by sending an email to [contact@rism.info](mailto:contact@rism.i
 
 ### Special Topics: Printed Music  
 
-This single, 90-minute workshop is intended for current RISM contributors who wish to catalog printed music in Muscat. Topics covered include the structure of records, enhancing RISM records, creating new records, and composite volumes (prints and manuscripts bound together). Familiarity with Muscat and RISM's cataloging rules is required.  
+This single, 90-minute online workshop is intended for current RISM contributors who wish to catalog printed music in Muscat. Topics covered include the structure of records, enhancing RISM records, creating new records, and composite volumes (prints and manuscripts bound together). Familiarity with Muscat and RISM's cataloging rules is required.  
 
 - Thursday, 4 May, 16:00-17:30 CEST
 - Friday, 2 June, 10:00-11:30 CEST
