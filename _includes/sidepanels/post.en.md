@@ -6,11 +6,11 @@ Browse the news archive by category below or use the search box above.
 
 # Top posts  
 
-\- [Joseph Bologne's "L’Amant Anonyme"](/new_publications/2020/12/07/joseph-bolognes-lamant-anonyme.html)
-\- [Scott Joplin's "The Cascades" and the St. Louis World's Fair](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)
-\- [Elizaveta, Elisabeth, and Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)
-\- [Franz Liszt digital](/electronic_resources/2022/05/02/franz-liszt-digital.html)
-\- [Schubert Autograph Manuscripts in Schubert Online](/library_collections/2015/10/26/schubert-autograph-music-manuscripts-in-schubert.html)  
+\- [Joseph Bologne's "L’Amant Anonyme"](/new_publications/2020/12/07/joseph-bolognes-lamant-anonyme.html)  
+\- [Scott Joplin's "The Cascades" and the St. Louis World's Fair](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)  
+\- [Elizaveta, Elisabeth, and Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)  
+\- [Franz Liszt digital](/electronic_resources/2022/05/02/franz-liszt-digital.html)  
+\- [Schubert Autograph Manuscripts in Schubert Online](/library_collections/2015/10/26/schubert-autograph-music-manuscripts-in-schubert.html)   
 
 # Featured posts  
 
@@ -18,7 +18,7 @@ Browse the news archive by category below or use the search box above.
 - [“Le Pêcheur Catalan” by Louise Farrenc](/rediscovered/2022/09/09/an-unexpected-find-le-pecheur-catalan-by-louise-farrenc.html)  
 - [RISM and Katy Perry](/in_the_news/2020/01/20/rism-and-katy-perry.html)   
 - [Three Venetian Manuscripts: Originals or Forgeries?](/library_collections/2021/10/28/three-venetian-manuscripts-originals-or-forgeries.html)  
-- [A Manuscript and Colonial History in Chile](/in_the_news/2016/02/25/18thcentury-music-manuscript-libro-sesto-tells-of.html)
+- [A Manuscript and Colonial History in Chile](/in_the_news/2016/02/25/18thcentury-music-manuscript-libro-sesto-tells-of.html)  
 
 # Send us your news  
 
