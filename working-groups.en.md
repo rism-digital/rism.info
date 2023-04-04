@@ -649,14 +649,14 @@ Website: [http://www.lsl.lviv.ua/index.php/uk/golovna2/](http://www.lsl.lviv.ua/
 
 ## UNITED KINGDOM
 
-Richard Chesser\
+Sandra Tuppen\
 Music Collections\
 The British Library\
 96 Euston Road\
 London NW1 2DB\
 Telephone: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-Email: [Richard.Chesser@bl.uk](http://Richard.Chesser@bl.uk)\
+Email: [sandra.tuppen@bl.uk](http://Richard.Chesser@bl.uk)\
 [Website](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 
