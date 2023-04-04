@@ -8,7 +8,7 @@ old_url: http://www.rism.info/de/rism-bibliothekssigel.html
 
 # Online-Verzeichnis der RISM-Bibliothekssigel
 
-RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materialien zur Musikforschung besitzen, eine Abkürzung - das sogenannte Bibliothekssigel.  Gegenwärtig sind ca. 8.500 RISM Sigel nachgewiesen. Ein goldener Stern erscheint neben den Institutionen, sofern Quellen im [RISM-Katalog](https://opac.rism.info/de/hauptmenu/kachelmenu){:blank} nachgewiesen sind.
+RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materialien zur Musikforschung besitzen, eine Abkürzung - das sogenannte Bibliothekssigel.  Gegenwärtig (März 2023) sind ca. 8.700 RISM Sigel nachgewiesen. Ein goldener Stern erscheint neben den Institutionen, sofern Quellen im [RISM-Katalog](https://opac.rism.info/de/hauptmenu/kachelmenu){:blank} nachgewiesen sind.
 
 Wenn Sie ein Sigel suchen, das noch nicht im Verzeichnis enthalten ist, [kontaktieren Sie uns](mailto:contact@rism.info) bitte und wir werden ein neues erstellen.
 
