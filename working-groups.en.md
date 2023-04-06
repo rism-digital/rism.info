@@ -656,7 +656,7 @@ The British Library\
 London NW1 2DB\
 Telephone: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-Email: [sandra.tuppen@bl.uk](http://Richard.Chesser@bl.uk)\
+Email: [sandra.tuppen@bl.uk](sandra.tuppen@bl.uk)\
 [Website](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 
