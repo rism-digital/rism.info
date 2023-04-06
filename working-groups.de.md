@@ -649,14 +649,14 @@ Email: [mendozag@sicht.ucv.ve] (mailto:mendozag@sicht.ucv.ve)
 
 ## VEREINIGTES KÖNIGREICH
 
-Richard Chesser\
+Sandra Tuppen\
 Music Collections\
 The British Library\
 96 Euston Road\
 UK-London NW1 2DB\
 Telefon: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-E-Mail: [Richard.Chesser@bl.uk](mailto:Richard.Chesser@bl.uk)\
+E-Mail: [sandra.tuppen@bl.uk](mailto:sandra.tuppen@bl.uk)\
 [Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 
