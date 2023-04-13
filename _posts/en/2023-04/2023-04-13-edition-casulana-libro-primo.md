@@ -18,4 +18,4 @@ The [edition](https://opac.rism.info/search?id=lit50007322&View=rism){:blank} wa
 
 The book contains seventeen madrigals, including one in two parts and one in four parts: the recovery of this music almost doubles the number of Casulana’s compositions now available complete for study and performance. 
 
-The print edition is available from [Musica Secreta’s website](https://musicasecreta.org/product/five-voice-madrigals-casulana-complete){:blank}. Individual madrigals, together with keyboard rehearsal scores, are available for PDF download. The complete book has been recorded by the British-based ensemble, Fieri Consort, [available for pre-order](https://www.fiericonsort.co.uk/shop/p/theexcellenceofwomen){:blank}.
+The print edition is available from [Musica Secreta’s website](https://musicasecreta.org/product/five-voice-madrigals-casulana-complete){:blank}. Individual madrigals, together with keyboard rehearsal scores, are available for PDF download. The complete book has been recorded by the British-based ensemble, Fieri Consort, [available for pre-order](https://www.fiericonsort.co.uk/shop/p/theexcellenceofwomen){:blank}. 
