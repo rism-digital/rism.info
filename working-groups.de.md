@@ -460,7 +460,7 @@ Biblioteca Nacional de Portugal\
 Campo Grande, 83\
 1749-081 Lisboa, Portugal\
 Telefon: +351 21 798 20 32\
-E-Mail: [igoncalves@bnportugal.gov.pt](igoncalves@bnportugal.gov.pt)\
+E-Mail: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)\
 Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
