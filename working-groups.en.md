@@ -489,13 +489,13 @@ Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício \
+Isabel Novais Gonçalves \
 Área de Música \
 Biblioteca Nacional de Portugal \
 Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
 Telephone: +351 21 798 20 32 \
-Email: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)  \
+Email: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)  \
 Website: [http://www.bnportugal.gov.pt/](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## ROMANIA
