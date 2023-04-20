@@ -5,7 +5,7 @@ date: 2023-04-20
 lang: de
 post: true
 category: events
-image: "/images/news/2023-04/Out-of-the-box_website.png"
+image: "/images/news/2023-04/ootb_pen_03.png"
 author: ''
 ---
 
