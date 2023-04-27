@@ -53,9 +53,9 @@ permalink: /community/muscat/tutorials.html
 
 **More examples to practice:**
 
-1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
-2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
-3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
+1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf) ([RISM ID no. 850630435](https://muscat.rism.info/admin/sources/850630435){:blank})
+2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf) ([RISM ID no. 859000527](https://muscat.rism.info/admin/sources/859000527){:blank})
+3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf) ([RISM ID no. 850632279](https://muscat.rism.info/admin/sources/850632279){:blank})
 
 # Tutorials: Printed music
 
