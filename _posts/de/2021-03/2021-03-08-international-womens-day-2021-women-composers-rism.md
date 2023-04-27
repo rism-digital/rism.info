@@ -12,7 +12,7 @@ author: ''
 
 Im Jahr 2017 veröffentlichten wir anlässlich des [Internationalen Weltfrauentages](https://www.internationalwomensday.com/About){:blank} erstmals eine Tabelle mit allen bei [RISM vertretenen Komponistinnen](/events/2017/03/08/international-womens-day-women-composers-in.html).  
 
-In den vergangenen vier Jahren ist deren Zahl von ca. 800 auf über 1.000 angewachsen. Das war für uns mehr als Grund genug, eine [neue Version der Tabelle] (https://docs.google.com/spreadsheets/d/1H1I4C5Fkww-EbPhK3_1XpZk6I1FxYFEFIGDjm-S3hXk/edit?usp=sharing){:blank} zu veröffentlichen.  
+In den vergangenen vier Jahren ist deren Zahl von ca. 800 auf über 1.000 angewachsen. Das war für uns mehr als Grund genug, eine [neue Version der Tabelle](https://docs.google.com/spreadsheets/d/1H1I4C5Fkww-EbPhK3_1XpZk6I1FxYFEFIGDjm-S3hXk/edit?usp=sharing){:blank} zu veröffentlichen.  
 
 Darüber hinaus flossen auch neue Erkenntnisse ein, so konnte beispielsweise die Initiale "A. von K." als Agnes von Knobloch aufgelöst werden.  
 
