@@ -9,8 +9,6 @@ permalink: /publications/conferences/musical-sources-past-future-2022.html
 ### Internationale Konferenz zur 70-Jahrfeier des RISM  
 #### 7.–9. Oktober 2022, [Akademie der Wissenschaften und Literatur Mainz (Deutschland)](https://www.adwmainz.de/en/home.html){:blank}
 
-[Flyer zur Konferenz (pdf)](\resources\publications\musical-sources-past-future-2022\2022_10_7-9_RISM-Tagung.pdf)
-
 Das 1952 von Vertretern der [International Musicological Society (IMS)](https://www.musicology.org/){:blank} und der [International Association of Music Libraries (IAML)](https://www.iaml.info/){:blank} gegründete Répertoire International des Sources Musicales (RISM) setzt seit langem Maßstäbe auf dem Gebiet der musikalischen Quellenkunde. Im Laufe von sieben Jahrzehnten haben sich die Publikationen des RISM einer Vielzahl von Quellenarten gewidmet - gedruckte Sammlungen ebenso wie Ausgaben eines einzelnen Komponisten, Musikmanuskripte aller Art, Schriften über Musik und theoretische Abhandlungen -, die insgesamt eine erstaunliche Bandbreite abdecken, sowohl chronologisch (vom antiken Griechenland bis zu zeitgenössischen Manuskripten) als auch geografisch (von der arabischen Welt über iberoamerikanische Quellen bis zur Musik Südkoreas). Im Laufe der Zeit hat sich das RISM auch in der digitalen Welt verankert, und seine Arbeit konzentriert sich heute vor allem auf die Pflege und den weiteren Ausbau einer frei zugänglichen Datenbank (siehe den [RISM Catalog](https://opac.rism.info/index.php?id=4){:blank} und [RISM Online](https://rism.online/){:blank}) mit rund 1,4 Millionen Datensätzen, die Musikhandschriften und Notendrucke beschreiben.  
 
 Unsere Tagung zum 70-jährigen Jubiläum bietet ein Forum, um den Stand der musikalischen Quellenforschung zu diskutieren, die Lehren aus der Vergangenheit zu überdenken und Perspektiven für die Zukunft zu skizzieren. Es gibt RISM-spezifische Beiträge, die sich mit unserer eigenen Geschichte befassen, Material aus dem traditionellen Bereich des Projekts untersuchen und neue Quellen ans Licht bringen. Aber unsere Konferenz ist auch eine Plattform für Präsentationen, die die Aufmerksamkeit auf mögliche neue - noch zu entdeckende - Wege lenken, die andere Arten von Musikquellen behandeln, die nicht in den üblichen RISM-Bereich fallen, und die geographische Gebiete erkunden, in denen RISM unterrepräsentiert ist. Wir laden die Teilnehmer ein, zu erörtern, was wir als "musikalische Quellen" betrachten, und die verschiedenen Methoden zu untersuchen, die in der Vergangenheit und in absehbarer Zukunft zu ihrer Erforschung eingesetzt werden.  
@@ -21,6 +19,9 @@ Geschwister-Scholl-Straße 2
 D-55131 Mainz  
 
 Eine Online-Übertragung wird verfügbar sein. Wenn Sie teilnehmen möchten, melden Sie sich bitte im Voraus an (siehe unten).
+* [Flyer zur Konferenz (pdf)](\resources\publications\musical-sources-past-future-2022\2022_10_7-9_RISM-Tagung.pdf)
+* Präsentationen auf dem [RISM YouTube-Kanal](https://www.youtube.com/playlist?list=PL9SyOIE9iSYJGvExsgIxUo_r5xQdm3fBY){:blank}
+* Bericht von Nicolò Ferrari: Musical sources: 70 years of RISM, in: Early Music caac061 (2022). [Online verfügbar](https://doi.org/10.1093/em/caac061){:blank}
 
 #### Anmeldung  
 Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie persönlich oder online an der Veranstaltung teilnehmen möchten, bitten wir um eine rechtzeitige Anmeldung. Um sich anzumelden, senden Sie bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info){:target="_blank"}. Geben Sie in der Betreffzeile "RISM Konferenzanmeldung" an und fügen Sie gegebenenfalls "persönlich" oder "online" hnzu.  
@@ -28,13 +29,17 @@ Die Teilnahme an der Konferenz ist kostenlos und offen für alle. Wenn Sie pers�
 ### Programm
 
 #### Freitag, 7. Oktober
-##### 18:00 Uhr Official Opening of the Conference  
+##### 18:00 Uhr Official Opening of the Conference
+[Video auf YouTube](https://youtu.be/tXUFvGNeYvg){:blank} 
 * **Reiner Anderl** (Darmstadt/Mainz), President of the Academy of Sciences and Literature, Mainz 
 * **Pia Shekhter** (Gothenburg), President of the International Association of Music Libraries, Archives and Documentation Centres 
 * **Cristina Urchueguía** (Bern), Secretary General of the International Musicological Society & President of the Schweizerische Akademie der Geistes- und Sozialwissenschaften 
 * **Klaus Pietschmann** (Mainz), President of the International RISM Association 
 
-##### 18:30 Uhr RISM Lecture: Musical Sources in Mexico  
+##### 18:30 Uhr RISM Lecture: Musical Sources in Mexico 
+
+[Video on YouTube](https://youtu.be/Y7pEOPziz28){:blank}  
+
 * **Lucero Enríquez** (Universidad Nacional Autónoma de México), **Drew Edward Davies** (Northwestern University), **Analía Cherñavsky** (Universidade Federal de Integração Latino-Americana)  
 From Data, Understanding the Past, Orienting the Future\
 [Abstract](/publications/conferences/musical-sources-past-future-2022/abstracts.html#rism-lecture)
@@ -45,12 +50,13 @@ Chair: Nicole Schwindt (Trossingen)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#fragmenta-codices-libri)
 * **Fiona Baldwin** (University College Dublin)  
 How Medieval Trash Became Musical Treasure: Virtual Encounters with Notated Liturgical Fragments in Marsh’s Library, Dublin  
+[Video auf YouTube](https://youtu.be/vXZ9NjhomV4){:blank} 
 * **Anne-Zoé Rillon-Marne** (Université catholique de l’Ouest, Angers)  
-A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1
+A New Look at an Old Book: Investigating the Making of I-Fl MS Pluteus 29.1\
+[Video auf YouTube](https://youtu.be/xkPpLiOSOj8){:blank} 
 * **Nicolò Ferrari** (University of Manchester)  
 Complex Codices: Describing the Syntax of Late Medieval and Early Modern Music Manuscripts
-* **Giorgio Peloso Zantaforni** (University of Padua / Hochschule für Musik und Tanz Köln)  
-Music in the _Libri Amicorum_ Between the 16th and 17th Centuries: An Investigation of an Important Source to be Rediscovered
+<!-- [Video auf YouTube](https://youtu.be/e0EUWGlAyxk){:blank} -->
 
 ##### Kaffeepause
 
@@ -80,7 +86,8 @@ Digitization of the Cultural Heritage of Turkish Music
 * **Wantana Tancharoenpol** (Chulalongkorn University, Bangkok)  
 Thai Musical Sources in the Berlin Staatsbibliothek
 * **Edgar Alejandro Calderón Alcántar** (National Conservatory of Music, Mexico / Faculty of Fine Arts of Michoacán University of San Nicolás de Hidalgo, Mexico)  
-The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation
+The Ancient Conformation of an Eighteenth-century New Spain Music Archive: A Methodological Perspective of Musical Documentation\
+[Video auf YouTube](https://youtu.be/MXT_3SNQ4DU){:blank}
 
 ##### Kaffeepause  
 
@@ -100,13 +107,17 @@ Bespoke Objects and Instruments as Crucial Material Sources for 20th- and 21st-C
 Chair: Thomas Betzwieser (Frankfurt am Main)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#historical-perspectives)
 * **Paul Allen Sommerfeld** (Library of Congress)  
-Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)
+Report from the Water Closet: Richard S. Hill and RISM’s Foundational History at the Library of Congress (US-Wc)\
+[Video auf YouTube](https://youtu.be/D3rb4943xdU){:blank}
 * **Andrea Hartmann & Steffen Voss** (both RISM Deutschland e.V.)  
-The Early Years of the Two RISM Working Groups in Germany
+The Early Years of the Two RISM Working Groups in Germany\
+[Video auf YouTube](https://youtu.be/GvaMCI7S4NY){:blank}
 * **Armin Brinzing** (Bibliotheca Mozartiana, International Mozarteum Foundation)  
-RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries
+RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libraries\
+[Video auf YouTube](https://youtu.be/7E1s15ENPGw){:blank}
 * **Sara Taglietti** (Ufficio Ricerca Fondi Musicali, Milan)  
-“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries
+“RISM Resources: What Exists and Where it is Kept”: The State of the Art in Italy Among OPACs, Card and Printed Catalogues, and New Discoveries\
+[Video auf YouTube](https://youtu.be/VrVuNaF0K5E){:blank}
 
 ##### Kaffeepause
 
@@ -114,12 +125,16 @@ RISM Past and Future: Some Thoughts from the Viewpoint of Collaborators and Libr
 Chair: Laurent Pugin (Bern)\
 [Abstracts](/publications/conferences/musical-sources-past-future-2022/abstracts.html#the-digital-turn) 
 * **Thomas Schmidt** (University of Manchester)  
-The Changed Role of Catalogues of Music Sources in the Digital Age  
+The Changed Role of Catalogues of Music Sources in the Digital Age\
+[Video auf YouTube](https://youtu.be/e0O9KNTIkL0){:blank}
 * **Marcin Konik** (The Fryderyk Chopin Institute, Warsaw)  
-Integration of Digital Tools for Music Data  
+Integration of Digital Tools for Music Data\ 
+[Video auf YouTube](https://youtu.be/86jvhnEdVJ0){:blank}
 * **Sandra Tuppen** (The British Library / RISM (UK) Trust)  
-Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650
+Using RISM Metadata to Track Posthumously Published Single-Composer Prints Before 1650\
+[Video auf YouTube](https://youtu.be/rlxkqkhVS7k){:blank}
 * **Frans Wiering & Mirjam Visscher** (both Utrecht University)  
-Mining the RISM Data for Music-Historical Insight  
+Mining the RISM Data for Music-Historical Insight\
+[Video on YouTube](https://youtu.be/3bwpwkupPyA){:blank}
 
 ##### 12:30 Uhr Ende
