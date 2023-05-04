@@ -7,7 +7,7 @@ permalink: /community/muscat/tutorials.html
 
 # Tutorials: General
 
-## Introductory videos for Muscat:
+## Introductory videos for Muscat  
 
 * [Muscat: A Quick Overview](https://youtu.be/ncnQ-TD9dGM){:target="_blank"}: If you have time to watch only one video on Muscat, this is it!
 
@@ -19,7 +19,7 @@ permalink: /community/muscat/tutorials.html
   - Search using filters and faceted search
   - Duplicate a record and use new record template
 
-## Special topics:
+## Special topics  
 
 * [Who is anonymous?](https://youtu.be/kKc0zzc8cbo){:target="_blank"}: This video highlights the importance of doing an incipit search first for anonymous compositions.
 
@@ -27,19 +27,21 @@ permalink: /community/muscat/tutorials.html
 
 * [The authority file for Personal Names](https://youtu.be/A130dB8I62k){:target="_blank"}: How to add and edit a name, what information to include, linking to VIAF
 
-* Composite volumes: How to show that printed items (or printed plus manuscript items) are bound together. [YouTube video](https://youtu.be/46_agb6-K_0){:blank} and [PDF guide](/resources/community/muscat/guide_add_composite_records_muscat_202106.pdf)
+* Composite volumes: How to show that printed items (or printed plus manuscript items) are bound together.   
+[YouTube video](https://youtu.be/46_agb6-K_0){:blank} and [PDF guide](/resources/community/muscat/guide_add_composite_records_muscat.pdf)
 
 * Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)  
 
-* [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank}
+* [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank} (Video)
 
 # Tutorials: Music manuscripts
 
-## Basic source cataloging:
+## Basic source cataloging  
 
-**Step-by-step guides** to entering sources
+**Step-by-step guides** to entering sources (PDFs updated for 2023)
 
-1. If you have a score: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) and [Video on YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
+1. If you have a score: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) and [Video on YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}  
+ _Start with this one and then do the rest_  
 2. If you have only parts: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
 3. If you have a score and parts: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_and_parts_in_Muscat_01.pdf)
 4. If you have a source that contains more than one work (a collection): [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_collections_in_Muscat.pdf)
@@ -47,38 +49,38 @@ permalink: /community/muscat/tutorials.html
 
 **Download the examples used in the videos:**
 
-[Score](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)
-
-[Score and part](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
+- [Score](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)  
+- [Score and part](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
 
 **More examples to practice:**
 
-1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf) ([RISM ID no. 850630435](https://muscat.rism.info/admin/sources/850630435){:blank})
-2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf) ([RISM ID no. 859000527](https://muscat.rism.info/admin/sources/859000527){:blank})
-3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf) ([RISM ID no. 850632279](https://muscat.rism.info/admin/sources/850632279){:blank})
+1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf) (PDFs)   
+2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf) (PDFs)   
+3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf) (PDFs)   
 
 # Tutorials: Printed music
 
-Always search for the print first in Muscat or the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Always search for the print first in Muscat, the [RISM Catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}, or [RISM Online](https://rism.online/){:blank}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * If you find the print, you can add/edit your holdings. You may also revise the record.
 * If you don't find a match, enter a new record.
 * Records are sometimes inconsistent or confusing. Ask us if you have any questions!
 * Only edit records that have been published. If you wish to use an unpublished record, please contact us first.
 
-## Three ways to contribute printed music to RISM
+## Three ways to contribute printed music to RISM  
+_(PDFs updated for 2023)_
 
 ### 1. Add and edit your holdings to printed music
 
-Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} and [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} and [PDF](/resources/community/muscat/adding_editing_holdings_printed_music.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark. Note: if you do not see an "add holdings" button, notify the Editorial Center and we will correct the record.
 
 
 ### 2. Revise existing RISM records
 
-Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
-One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
+Complete instructions: [PDF](/resources/community/muscat/revised_printed_edition.pdf)\
+One-page version: [PDF](/resources/community/muscat/revised_record_1_page.pdf)\
 Records imported from RISM's printed volumes [A/I](/publications.html#series-a-inventories-of-musical-sources) (music by one composer published up to ca. 1800) and [B/I](/publications.html#series-b-bibliographies-organized-by-topic) (music by multiple composers, i.e. anthologies, published up to 1700) are in Muscat.
 
 #### Revising records from RISM's A/I or B series
@@ -93,7 +95,7 @@ In addition, we now also have other prints that were not included in the RISM pr
 
 ### 3. Add new records for printed music
 
-Complete instructions: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
+Complete instructions: [PDF](/resources/community/muscat/new_printed_edition.pdf)\
 Two-page version: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 If your print falls outside the scope of A/I or B/I, chances are it is not in Muscat. Always do a quick search first, though, to see if someone else has already entered it. If you don't find it, create a new record.
 
