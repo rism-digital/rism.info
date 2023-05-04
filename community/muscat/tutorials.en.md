@@ -54,13 +54,13 @@ permalink: /community/muscat/tutorials.html
 
 **More examples to practice:**
 
-1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)  
-2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)  
-3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)  
+1. Example 1: Score. [Card](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf) (PDFs)   
+2. Example 2: Score and part. [Card](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf) (PDFs)   
+3. Example 3: Collection. [Card](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) and [full record in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf) (PDFs)   
 
 # Tutorials: Printed music
 
-Always search for the print first in Muscat or the [RISM online catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Always search for the print first in Muscat, the [RISM Catalog](https://opac.rism.info/index.php?id=4){:target="_blank"}, or [RISM Online](https://rism.online/){:blank}. [Watch this YouTube video](https://youtu.be/PbP7K3QU6-s){:target="_blank"} about different search strategies for finding the right record in RISM. Check to see if the print in RISM is identical with the item in hand. Refer to the guidelines in Muscat on [when to enter a new record](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * If you find the print, you can add/edit your holdings. You may also revise the record.
 * If you don't find a match, enter a new record.
