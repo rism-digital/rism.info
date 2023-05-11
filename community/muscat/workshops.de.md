@@ -11,12 +11,26 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
-## Zukünftige Schulungen
+#### Online  (in englischer Sprache)
+
+- Dienstag, 25\. April 2023, 16:00-17:30 CEST (Teil 1) und Donnerstag, 27\. April 2023, 16:00-17:30 CEST (Teil 2)  
+
+#### Cambridge, England (IAML Kongress)  
+
+- Dienstag, 1\. August 2023, 11:00-12:30 BST (Teil 1) und 14:00-15:30 (Teil 2)
 
 
-### Online workshops
+### Spezialthema: Musikdrucke  (in englischer Sprache)
 
-Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den Frühling 2023 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
+Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
+
+- Dienstag, 4\. Mai, 16:00-17:30 CEST
+- Freitag, 2\. Juni, 10:00-11:30 CEST
+- Weitere Termine werden im Herbst angeboten.
+
+### Seoul, Südkorea
+- April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
+_JeongYoun Chang_
 
 
 ## Vergangene Workshops und Vorführungen
