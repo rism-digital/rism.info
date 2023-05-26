@@ -31,7 +31,7 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 **Grundlagen der Quellenkatalogisierung:**
 
-**Schritt für Schritt-Anleitung** zur Erfassung einer Quelle
+**Schritt für Schritt-Anleitung** zur Erfassung einer Quelle (PDFs 2023 aktualisiert)
 
 1. Partitur: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_scores_in_Muscat_03.pdf) und [Video auf YouTube](https://youtu.be/XXd9F2C1iGw){:target="_blank"}
 2. Nur Stimmenmaterial: [PDF](/resources-old-website/community-content/Muscat_EN/Cataloging_parts_in_Muscat_01.pdf)
@@ -41,59 +41,57 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 
 **Download der in den Videos verwendeten Beispiele**:
 
-[Partitur](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)
-
-[Partitur und Stimme](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
+- [Partitur](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score.pdf)
+- [Partitur und Stimme](/resources-old-website/community-content/Muscat_EN/Muscat_tutorial_example_Score_and_part.pdf)
 
 **Weitere Übungsbeispiele:**:
 
-1. Beispiel 1: Partitur [Karte](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf)
-2. Beispiel 2: Partitur und Stimme [Karte](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf)
-3. Beispiel 3: Sammlung [Karte](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf)
+1. Beispiel 1: Partitur [Karte](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Zingarelli_Scena_e_aria_I-Bsf_MZI13_Full_record_in_Muscat_01.pdf) (PDFs)
+2. Beispiel 2: Partitur und Stimme [Karte](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Morandi_Tantum_ergo_I-Bsf_FCMIV17_Full_record_in_Muscat.pdf) (PDFs)
+3. Beispiel 3: Sammlung [Karte](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_card.pdf) und [Eintrag in Muscat](/resources-old-website/community-content/Muscat_EN/Anon_sonatas_collection_I-Bsf_FCAIV17_Full_record_in_Muscat.pdf) (PDFs)
+
 
 # Tutorials: Musikdrucke
 
-Suchen Sie immer zuerst nach dem Druck in Muscat oder im [RISM Online-Katalog](https://opac.rism.info/de/hauptmenu/kachelmenu){:target="_blank"}. Vergleichen Sie die gefundenen Angaben mit dem Ihnen vorliegenden Exemplar. Beachten Sie die Richtlinien zur Eingabe eines [neuen Eintrags](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
+Suchen Sie immer zuerst nach dem Druck in Muscat, dem [RISM Catalog](https://opac.rism.info/de/hauptmenu/kachelmenu){:target="_blank"} oder [RISM Online](https://rism.online/){:blank}. Vergleichen Sie die gefundenen Angaben mit dem Ihnen vorliegenden Exemplar. Beachten Sie die Richtlinien zur Eingabe eines [neuen Eintrags](https://muscat.rism.info/admin/guidelines#doc_when_new_record){:target="_blank"}.
 
 * Wenn Sie den Druck gefunden haben, können Sie Ihr Exemplar ergänzen oder bearbeiten. Ebenso können Sie den Eintrag mit dem bibliographischen Angaben zum Musikdruck überarbeiten.
 * Wenn Sie keinen Treffer finden, geben Sie einen neuen Datensatz ein.
 * Die Datensätze sind manchmal uneinheitlich und verwirrend. Bitte kontaktieren Sie uns bei Fragen!
 
 ## Möglichkeiten um zu den Musikdrucken des RISM beizutragen
+_(PDFs 2023 aktualisiert)_
 
-### Ergänzen und bearbeiten Ihres Exemplars
+### 1. Ergänzen und bearbeiten Ihres Exemplars
 
-Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources-old-website/community-content/Muscat_EN/Adding_Editing_holdings_to_imprints_2020.pdf)\
+Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources/community/muscat/adding_editing_holdings_printed_music.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
 Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an. Hinweis: Wenn Sie keine Schaltfläche "Neuer Exemplareintrag" sehen, benachrichtigen Sie die Zentralredaktion, damit wir den Eintrag korrigieren können.
 
-_Bitte beachten Sie: Einige B/I-Einträge der Jahre 1551-1700 werden momentan nicht veröffentlicht. Wenn Sie Ihren Exemplareintrag ergänzen, bleibt der Eintrag weiterhin unveröffentlicht (nähere Erläuterungen siehe unten)_.
 
-### Überarbeitung existierender RISM-Einträge der Serien A/I und B/I
+### Überarbeitung existierender RISM-Einträge
 
-Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/revised_printed_edition.pdf)\
-Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Revised_record_1_page.pdf)\
-Die aus den gedruckten RISM [A/I](/publications.html#c36) (Einzeldrucke vor 1800) und [B/I](/publications.html#c2619)-Bänden (Sammeldrucke bis 1700) importierten Daten sind in Muscat. Bitte beachten Sie die folgenden Hinweise, wenn Sie sich für eine Überarbeitung der Musikdrucke entscheiden:
+Ausführliche Anleitung: [PDF](/resources/community/muscat/revised_printed_edition.pdf)\
+Kurzversion: [PDF](/resources/community/muscat/revised_record_1_page.pdf)\
+Die aus den gedruckten RISM [A/I](/publications.html#c36) (Einzeldrucke vor 1800) und [B/I](/publications.html#c2619)-Bänden (Sammeldrucke bis 1700) importierten Daten sind in Muscat. 
+
+#### Überarbeitung der Musikdrucke aus der Serie A/I oder B
+
 * Die Mehrheit der A/I- und B/I-Titel muss überarbeitet werden. Die meisten Drucke enthalten mehrere Werke, so dass ein Sammel- und mehrere Einzeleinträge nötig sind.
 * Einige Datensätze aus B/I enthalten sehr spärliche Angaben, die jedoch gerne angereichert werden können. 
 * Weiterhin ist es häufig der Fall, dass Folgedrucke keine Teileinträge im Gegensatz zum sogenannten Erstdruck (d.h. die im gedruckten Band zuerst genannten) haben. Auch hier dürfen gerne Ergänzungen vorgenommen werden. 
 * Fast alle A/I-Datensätze beginnen mit der RISM ID 990; die B/I-Datensätze beginnen fast immer mit 993.  
 * Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Musikdrucke hinzufügen möchten, die in anderen RISM B-Reihen, insbesondere B/II, enthalten sind.
 
-Darüber hinaus gibt e jetzt auch viele andere Drucke, die nicht in den gedruckten RISM-Bänden enthalten waren (vor allem nach 1800), die aber in der Zwischenzeit von RISM-Mitarbeitern eingegebent wurden. Sie sind in der Regel an der RISM ID zu erkennen, die mit 1001 beginnt, sowie an der Angabe einer Bibliothek im Feld "Copy used for cataloging" (588). Diese Datensätze müssen nicht überarbeitet werden; fügen Sie einfach Ihr Exemplar hinzu.
+Darüber hinaus gibt es jetzt auch viele andere Drucke, die nicht in den gedruckten RISM-Bänden enthalten waren (vor allem nach 1800), die aber in der Zwischenzeit von RISM-Mitarbeitern eingegebent wurden. Sie sind in der Regel an der RISM ID zu erkennen, die mit 1001 beginnt, sowie an der Angabe einer Bibliothek im Feld "Vorlageexemplar" (588). Diese Datensätze müssen nicht überarbeitet werden; fügen Sie einfach Ihr Exemplar hinzu.
 
 ### Neue Musikdrucke hinzufügen
 
-Ausführliche Anleitung: [PDF](/resources-old-website/community-content/Muscat_EN/new_printed_edition.pdf)\
+Ausführliche Anleitung: [PDF](/resources/community/muscat/new_printed_edition.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/New_record_2_pages.pdf)\
 Wenn Ihr Musikdruck nicht in den Bereich der Serien A/I und B/I fällt, ist er vermutlich noch nicht in Muscat enthalten. Führen Sie dennoch bitte immer vorab eine Suche durch, um zu sehen, ob nicht schon jemand anderes den Eintrag erstellt hat. Wenn Sie ihn nicht finden, erstellen See einen neuen Eintrag.
 
-**Einige Einschränkungen**
-
-Bei einigen Drucken sehen Sie keine Schaltfläche, um ihr "Exemplar hinzufügen" zu können. (Diese Datensätze wurden mit Vorgängerprogrammen von Muscat erstellt.) Wenn Ihre Institution den gleichen Druck besitzt, senden Sie der Zentralredaktion ([contact@rism.info](mailto:contact@rism.info)) bitte Ihre Bestandsinformation (mindestens Sigel und Signatur) und wir werden den Eintrag ergänzen sobald die Datensätze konvertiert sind.
-
-
-### Datensätze aus dem RISM Sserien B/II oder B/VI ergänzen
+### Datensätze aus dem RISM Serien B/II oder B/VI ergänzen
 
 Die [RISM Serie B](/publications.html#series-b-bibliographies-organized-by-topic) enthält zwei Verzeichnisse gedruckter musikalischer Quellen, die noch nicht systematisch in Muscat aufgenommen wurden: B/II _Recueils imprimés, XVIIIe siècle_ (veröffentlicht 1964) und B/VI _Écrits imprimés concernant la musique_ (2 Bände, 1971).
 Da es derzeit keine Pläne für einen Import dieser Bücher gibt, können RISM-Mitarbeiter gerne Datensätze aus diesen Publikationen erfassen. Bitte beachten Sie die folgenden Hinweise::
