@@ -2,7 +2,7 @@
 layout: post
 title: "Das Archivio musicale Luca Moretti in RISM"
 date: 2023-06-01
-lang: en
+lang: de
 post: true
 category: library_collections
 image: "/images/news/2023-06/Archivio-Moretti-Cartier_restauriert-website.jpg"
