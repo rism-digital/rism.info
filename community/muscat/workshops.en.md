@@ -17,13 +17,13 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ### Introduction to Muscat  
 
-The RISM Editorial Center will be hosting introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are  offered at no charge.  
+The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
 
 Please register by sending an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 #### Online  
 
-- Tuesday, 25 April 16:00-17:30 CEST (Part I) and Thursday, 27 April 16:00-17:30 CEST (Part II)  
+The next online introductory Muscat workshops will be held in the fall.   
 
 #### Cambridge, England (IAML Congress)  
 
@@ -35,7 +35,6 @@ Participants must bring their own laptops.
 
 This single, 90-minute online workshop is intended for current RISM contributors who wish to catalog printed music in Muscat. Topics covered include the structure of records, enhancing RISM records, creating new records, and composite volumes (prints and manuscripts bound together). Familiarity with Muscat and RISM's cataloging rules is required.  
 
-- Thursday, 4 May, 16:00-17:30 CEST
 - Friday, 2 June, 10:00-11:30 CEST
 - Additional sessions will be offered in the fall.
 
@@ -46,6 +45,13 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 _JeongYoun Chang_  
 
 ## Past workshops and demonstrations  
+
+* 4 May 2023: Special Topics: Printed music  
+_Jennifer Ward, RISM Zentralredaktion_
+
+* - 25 and 27 April 2023: Muscat Introduction  
+_Jennifer Ward, RISM Zentralredaktion_
+
 * 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
 _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de Córdoba_  
 
