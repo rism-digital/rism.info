@@ -30,23 +30,26 @@ The next online introductory Muscat workshops will be held in the fall.
 Participants must bring their own laptops.   
 - Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
 
+#### Kraków, Poland
+- 13-14 June 2023, Kraków, Poland  
+_Guido Kraus, RISM Zentralredaktion_  
+
+#### Seoul, South Korea
+- April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
+_JeongYoun Chang_  
+
 
 ### Special Topics: Printed Music  
 
 This single, 90-minute online workshop is intended for current RISM contributors who wish to catalog printed music in Muscat. Topics covered include the structure of records, enhancing RISM records, creating new records, and composite volumes (prints and manuscripts bound together). Familiarity with Muscat and RISM's cataloging rules is required.  
 
-- Friday, 2 June, 10:00-11:30 CEST
-- Additional sessions will be offered in the fall.
+- The next sessions will be offered in the fall.  
 
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
-### Seoul, South Korea
-- April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
-_JeongYoun Chang_  
-
 ## Past workshops and demonstrations  
 
-* 4 May 2023: Special Topics: Printed music  
+* 4 May and 2 June 2023: Special Topics: Printed music  
 _Jennifer Ward, RISM Zentralredaktion_
 
 * - 25 and 27 April 2023: Muscat Introduction  
