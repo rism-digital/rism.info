@@ -32,6 +32,10 @@ Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika ve
 
 # Ehemalige Praktikanten
 
+#### 2023
+
+Tanja Rodić (Deutschland)
+
 #### 2022
 
 Henryk Edlund (Deutschland)
