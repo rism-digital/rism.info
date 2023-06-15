@@ -20,7 +20,7 @@ RISM Zentralredaktion
 represented by the director, Dr. Balázs Mikusi  
 Johann Wolfgang Goethe-Universität  
 Campus Bockenheim  
-Senckenberganlage 31-33  
+Bockenheimer Landstr. 133  
 D-60325 Frankfurt am Main  
 Germany
 

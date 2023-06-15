@@ -69,7 +69,7 @@
         en: IAML Congresses
         de: IAML Konferenzen
         fr: Conférences IAML
-      link: "/publications/iaml-conferences.html"
+      link: "/publications/iaml-congresses.html"
       items:
         - name:
             en: 2023: Cambridge
@@ -88,14 +88,14 @@
           link: "/publications/iaml-congresses/2021.html"
         - name:
             en: All IAML congresses
-            de: All IAML congresses
+            de: Alle IAML Konferenzen
             fr: All IAML congresses
-          link: "/publications/iaml-conferences.html"
-        - name:
+          link: "/publications/iaml-congresses/all.html"
+    - name:
         en: Annual reports
         de: Jahresberichte
         fr: Rapports annuels
-      link: "/publications/annual-reports/index.html"
+      link: "/publications/annual-reports.html"
       items:
         - name:
             en: 2022
@@ -114,9 +114,9 @@
           link: "/publications/annual-reports/2020.html"
         - name:
             en: All annual reports
-            de: All annual reports
+            de: Alle Jahresberichte
             fr: All annual reports
-          link: "/publications/annual-reports/index.html"
+          link: "/publications/annual-reports/all.html"
     - name:
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
