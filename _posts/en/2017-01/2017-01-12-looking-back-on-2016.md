@@ -20,10 +20,10 @@ Let's take a look back at 2016. Allow us to share the top ten stories from the p
 &nbsp;  
 
 1. [First Music Manuscript Discovered in Antarctica](/rediscovered/2016/04/01/first-music-manuscript-discovered-in-antarctica.html){:target="_blank"}: Our April Fool's joke (we tricked some of you!)
-2. [Musical Anniversaries in 2016](/new_at_rism/2016/01/04/musical-anniversaries-in-2016.html){:target="_blank"}: Don't miss our [2017 installment](/new_at_rism/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}!
+2. [Musical Anniversaries in 2016](/musical_anniversaries/2016/01/04/musical-anniversaries-in-2016.html){:target="_blank"}: Don't miss our [2017 installment](/musical_anniversaries/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}!
 3. [Welcome, Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}: The day we were all waiting for!
 4. [18th-Century Music Manuscript "Libro Sesto" Tells of Colonial History in Chile](/in_the_news/2016/02/25/18thcentury-music-manuscript-libro-sesto-tells-of.html){:target="_blank"}: the fascinating story of an enslaved woman responsible for the music at her household
-5. [Mozart Autographs Online](/library_collections/2016/12/05/mozart-autographs-online.html){:target="_blank"}: To mark the 225th anniversary of the death of Mozart
+5. [Mozart Autographs Online](/musical_anniversaries/2016/12/05/mozart-autographs-online.html){:target="_blank"}: To mark the 225th anniversary of the death of Mozart
 6. [Jane Austen's Music Collection Now Online](/electronic_resources/2016/03/21/jane-austens-music-collection-now-online.html){:target="_blank"}
 7. [RISM at IAML, Part 1: Muscat – (almost) ready to go](/new_at_rism/2016/07/21/rism-at-iaml-part-1-muscat-almost-ready-to-go.html){:target="_blank"}: Drumming up excitement about Muscat
 8. [Cheryl Martin In Memoriam](/in_memoriam/2016/11/23/remembering-cheryl-martin.html){:target="_blank"}: We said goodbye to the coordinator of RISM Canada
