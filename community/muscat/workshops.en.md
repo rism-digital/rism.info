@@ -31,7 +31,7 @@ Participants must bring their own laptops.
 - Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
 
 #### Kraków, Poland
-- 13-14 June 2023, Kraków, Poland  
+- 13-15 June 2023, NIFC, Kraków, Poland  
 _Guido Kraus, RISM Zentralredaktion_  
 
 #### Seoul, South Korea

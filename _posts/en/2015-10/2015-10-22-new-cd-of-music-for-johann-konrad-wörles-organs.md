@@ -19,11 +19,11 @@ Using the [RISM database](https://opac.rism.info/metaopac/start.do?View=rism){:t
 
 For more information about this CD, including sound samples and an excerpt from the 96-page accompanying book, visit [Musikland Tirol](http://cdeditionen.musikland-tirol.at/content/cd-editionen-2015/klingende-kostbarkeiten-aus-tirol-94.html){:target="_blank"}.
 
-Below, listen to this organ in a work by Gaetano Franzaroli (before 1700-after 1756), Arpeggio, F minor, Partimento (excerpt). From the collective manuscript _Bassi per bene accompagnare_ […] D-MÜs SANT Hs 1540 ([RISM ID no. 451013954](https://opac.rism.info/search?id=451013954 "external-link-new-window"))
+Below, listen to this organ in a work by Gaetano Franzaroli (before 1700-after 1756), Arpeggio, F minor, Partimento (excerpt). From the collective manuscript _Bassi per bene accompagnare_ […] D-MÜs SANT Hs 1540 ([RISM ID no. 451013954](https://opac.rism.info/search?id=451013954){:blank})
 
 <audio controls>
 <source src="http://cdeditionen.musikland-tirol.at/store/7d/f8/10/13/w7df810130f0f201c182150850216021/kost94_cd1_track09.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </source></audio>
 
-_Image_: Gaetano Franzaroli, Arpeggio, G minor (from D-MÜs SANT Hs 1540, [RISM ID no. 451013954](https://opac.rism.info/search?id=451013954 "external-link-new-window"))
+_Image_: Gaetano Franzaroli, Arpeggio, G minor (from D-MÜs SANT Hs 1540, [RISM ID no. 451013954](https://opac.rism.info/search?id=451013954){:blank})

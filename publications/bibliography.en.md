@@ -610,7 +610,7 @@ Wygoda, Hermann. "Datenbank des weltweiten Musikschaffens," March 6, 2007.
 
 Frühauf, Wolfgang and Andrea Hartmann. "Musiksammlungen erhalten und bewahren. Eine Handreichung zur präventiven und konservierenden Pflege." Munich and Dresden: RISM Arbeitsgruppe Deutschland e.V., 2008.
 
-Hanke Knaus, Gabriella. "Research and preservation of the musical heritage: The Swiss office of the Repertoire International des Sources Musicales (RISM)." Ictus: Periódico do Programa de Pós-Graduação em Música da UFBA9, no. 2 (2008): 55-64. [Available online](https://doi.org/10.9771/ictus.v9i2.34331).  
+Hanke Knaus, Gabriella. "Research and preservation of the musical heritage: The Swiss office of the Repertoire International des Sources Musicales (RISM)." _Ictus: Periódico do Programa de Pós-Graduação em Música da UFBA9_ 9, no. 2 (2008): 55-64. [Available online](https://periodicos.ufba.br/index.php/ictus/issue/view/1920).  
 
 Herrmann-Schneider, Hildegard. "Ein Juwel im Schatzkammerland Salzburg. Das Musikarchiv des Franziskanerklosters Salzburg." _Salzburger Nachrichten_, June 21-22, 2008, 26-27.
 
@@ -733,7 +733,7 @@ Shekhter, Pia. "'Keeping Music Alive' - IAML goes Far East." IAML.info. November
 
 Stanley, Roy. "The Symphony and Ireland: A symposium. Dublin 20 April 2013." _IAML UK & Ireland Newsletter_, no. 65 (June 2013): 4-6. [Available online](https://iaml-uk-irl.org/media/newsletter_2013-06.pdf){:target="_blank"}.
 
-Talkner, Katharina. "I’ve got the rism and you’ve got the music! Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe." _Perspektive Bibliothek_ 2.2 (2013): 75-103. [Available online](http://nbn-resolving.de/urn:nbn:de:bsz:16-pb-112446){:target="_blank"}.
+Talkner, Katharina. "I’ve got the rism and you’ve got the music! Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe." _Perspektive Bibliothek_ 2.2 (2013): 75-103. [Available online](https://doi.org/10.11588/pb.2013.2.11244){:target="_blank"}.
 
 Tuppen, Sandra. "Music manuscripts from the 17th and 18th centuries in the British Library." _Public Domain Review_, December 2013. [Available online](http://publicdomainreview.org/collections/music-manuscripts-from-the-17th-and-18th-centuries-in-the-british-library/ "the").
 
@@ -773,7 +773,7 @@ Wagner, Undine. "Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistlic
 
 Chae, Hyun Kyung. "From the First [最初] to the Best [最高]: Ewha Music Research Institute." _Ewha's Research Power for Humanities, Arts & Social Sciences_ (February 2015). [Available online](http://researchpower1.ewha.ac.kr/bbs/board.php?bo_table=2015s&wr_id=7){:target="_blank"}.  
 
-Diet, Jürgen and Magda Gerritsen. "Encoding, Searching, and Displaying of Music Incipits in the RISM-OPAC." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 11-14. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.  
+Diet, Jürgen and Magda Gerritsen. "Encoding, Searching, and Displaying of Music Incipits in the RISM-OPAC." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 11-14. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](https://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.  
 
 Güggi, Cédric. "Musiksammlungen in der Schweiz und ihre Erschliessung." In _Musiksammlungen in den Regionalbibliotheken Deutschlands, Österreichs und der Schweiz_, edited by Ludger Syré, 407-424. Zeitschrift für Bibliothekswesen und Bibliographie Sonderband 116. Frankfurt am Main: Klostermann, 2015.  
 

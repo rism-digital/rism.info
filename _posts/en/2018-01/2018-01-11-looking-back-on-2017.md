@@ -17,7 +17,7 @@ Last year, we enjoyed sharing news with you from the world of musical sources: d
 &nbsp;   
 &nbsp;  
 
-1. [Musical Anniversaries in 2017](/new_at_rism/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}: Glad you liked it! [Here's the 2018 edition](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}.
+1. [Musical Anniversaries in 2017](/musical_anniversaries/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}: Glad you liked it! [Here's the 2018 edition](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}.
 2. [Karl Friedrich Abel Manuscripts Found in Poland](/rediscovered/2017/01/19/karl-friedrich-abel-manuscripts-found-in-poland.html){:target="_blank"} by Sonia Wronkowska
 3. [Yet another misattributed (and rediscovered) Vivaldi work in Dresden](/rediscovered/2017/04/25/yet-another-misattributed-and-rediscovered-vivaldi.html){:target="_blank"} by Michael Talbot
 4. [A Previously Unknown Lute Tablature](/rediscovered/2017/01/27/a-previously-unknown-lute-tablature.html){:target="_blank"} by Dieter Kirsch

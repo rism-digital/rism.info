@@ -72,6 +72,11 @@
       link: "/publications/iaml-conferences.html"
       items:
         - name:
+            en: 2023: Cambridge
+            de: 2023: Cambridge
+            fr: 2023: Cambridge
+          link: "/publications/iaml-congresses/2023.html"
+        - name:
             en: 2022: Prague
             de: 2022: Praha
             fr: 2022: Prague
@@ -79,13 +84,8 @@
         - name:
             en: 2021: Online
             de: 2021: Online
-            fr: 2021: Online
+            fr: 2021: Online 
           link: "/publications/iaml-congresses/2021.html"
-        - name:
-            en: 2019: Kraków
-            de: 2019: Krakau
-            fr: 2019: Cracovie
-          link: "/publications/iaml-congresses/2019.html"
         - name:
             en: All IAML congresses
             de: All IAML congresses
