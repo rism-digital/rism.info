@@ -15,7 +15,7 @@ RISM relies on its international partners and benefits from several structures i
 
 We are happy to announce that there are five new members of the Coordinating Committee:
 
-- Jeong Youn Chang (cataloger for RISM South Korea)
+- JeongYoun Chang (cataloger for RISM South Korea)
 - Stefan Ikarus Kaiser (Titular organist of Wilhering Abbey, Upper Austria)
 - Zuzana Petrášková (National Library of the Czech Republic, head of the Department of Music)
 - Roland Schmidt-Hensel (deputy head of the Music Department at the Staatsbibliothek zu Berlin – Preußischer Kulturbesitz)

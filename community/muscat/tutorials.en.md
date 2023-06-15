@@ -23,7 +23,7 @@ permalink: /community/muscat/tutorials.html
 
 * [Who is anonymous?](https://youtu.be/kKc0zzc8cbo){:target="_blank"}: This video highlights the importance of doing an incipit search first for anonymous compositions.
 
-* Crosswalk from [Rules for Archival Description](https://archivescanada.ca/publications){:target="_blank"} (Canada) to RISM: [General instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} for adding descriptions to RISM from RAD or another archival standard (by Rebecca Shaw, Dalhousie University)
+* Crosswalk from [Rules for Archival Description](https://archivescanada.ca/resources/){:target="_blank"} (Canada) to RISM: [General instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} for adding descriptions to RISM from RAD or another archival standard (by Rebecca Shaw, Dalhousie University)
 
 * [The authority file for Personal Names](https://youtu.be/A130dB8I62k){:target="_blank"}: How to add and edit a name, what information to include, linking to VIAF
 

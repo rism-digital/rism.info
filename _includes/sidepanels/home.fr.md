@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Fontes Special Issue</p>
-    <p>Issue 69/3 (2022) of Fontes Artis Musicae is in celebration of RISM. <a href="/new_publications/2022/11/10/fontes-special-issue-in-celebration-of-risms-seventieth-anniversary.html">Details here</a></p>
+    <p class="has-text-weight-semibold">Upcoming events</p>
+    <p>RISM will be at at the 2023 IAML Congress in Cambridge, UK, 30 July–4 August. <a href="/publications/iaml-congresses/2023.html">Details here</a></p>
 </article>
 
 ## Sigles de bibliothèques
