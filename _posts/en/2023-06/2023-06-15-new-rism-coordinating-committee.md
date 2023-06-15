@@ -14,7 +14,6 @@ RISM relies on its international partners and benefits from several structures i
 
 We would like to welcome the five new members of the Coordinating Committee:  
 &nbsp;  
-&nbsp; 
 - JeongYoun Chang (Ewha Womans University, South Korea; re-elected)  
 - Christina Linklater (Harvard University, USA)  
 - Eliška Šedivá (National Library of the Czech Republic)  
