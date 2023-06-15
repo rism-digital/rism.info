@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
     <p class="has-text-weight-semibold">Upcoming events</p>
-    <p>RISM will be at the 2023 IAML Congress in Cambridge, UK, 30 July–4 August <a href="/publications/iaml-congresses/2023.html">Details here</a></p>
+    <p>RISM will be at the 2023 IAML Congress in Cambridge, UK, 30 July–4 August. <a href="/publications/iaml-congresses/2023.html">Details here</a></p>
 </article>
 
 ## Library Sigla
