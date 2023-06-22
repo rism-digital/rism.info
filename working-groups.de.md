@@ -454,13 +454,13 @@ Webseite: [https://nifc.pl/en//](https://nifc.pl/en//){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício\
+Isabel Novais Gonçalves\
 Área de Música\
 Biblioteca Nacional de Portugal\
 Campo Grande, 83\
 1749-081 Lisboa, Portugal\
 Telefon: +351 21 798 20 32\
-E-Mail: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)\
+E-Mail: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)\
 Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
@@ -649,14 +649,14 @@ Email: [mendozag@sicht.ucv.ve] (mailto:mendozag@sicht.ucv.ve)
 
 ## VEREINIGTES KÖNIGREICH
 
-Richard Chesser\
+Sandra Tuppen\
 Music Collections\
 The British Library\
 96 Euston Road\
 UK-London NW1 2DB\
 Telefon: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-E-Mail: [Richard.Chesser@bl.uk](mailto:Richard.Chesser@bl.uk)\
+E-Mail: [sandra.tuppen@bl.uk](mailto:sandra.tuppen@bl.uk)\
 [Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 

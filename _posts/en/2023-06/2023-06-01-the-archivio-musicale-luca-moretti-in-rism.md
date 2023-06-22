@@ -23,4 +23,4 @@ _Jean Baptiste Cartier, L’Art du violon, Paris, 1798, a partially burned page.
 
 This is the story of the origin and purpose of this collection, which continues to bring great joy despite high self-financed costs.  
 
-_Image_ (above): Jean Baptiste Cartier, _L’Art du violon_, Paris 1798, RISM ID no. 1001250121 [RISM Catalog](https://opac.rism.info/search?id=1001250121&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001250121){:blank}, a page after restoration. Images courtesy of Luca Moretti.
+_Image_ (top): Jean Baptiste Cartier, _L’Art du violon_, Paris 1798, RISM ID no. 1001250121 ([RISM Catalog](https://opac.rism.info/search?id=1001250121&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001250121){:blank}), a page after restoration. Images courtesy of Luca Moretti.
