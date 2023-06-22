@@ -12,7 +12,7 @@
 
 # Contact
 
-Marko Motnik
+Marko Motnik 
 Tonja Čakš  
 Institute of Musicology (Head: Dr. Katarina Šter)  
 Scientific Research Centre  
