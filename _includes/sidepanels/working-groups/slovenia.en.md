@@ -12,8 +12,8 @@
 
 # Contact
 
-Marko Motnik 
-Tonja Čakš  
+Marko Motnik                   
+Tonja Čakš    
 Institute of Musicology (Head: Dr. Katarina Šter)  
 Scientific Research Centre  
 Slovenian Academy of Sciences and Arts  
