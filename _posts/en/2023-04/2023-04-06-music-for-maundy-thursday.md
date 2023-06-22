@@ -12,7 +12,7 @@ author: ''
 
 Today, Maundy Thursday, marks the beginning of the Triduum Sacrum, the three holy days of the Lord’s passion, death and resurrection, and thus the climax of Holy Week. Traditionally, in the Roman Catholic liturgy, the organ plays for the last time in the Gloria of the Mass of the Lord’s Supper and then remains silent until the Gloria of the Easter Vigil. Nevertheless, a look into our database suggests that the musical realization of the masses in Holy Week has been extremely varied.  
 
-You can find musical sources for Maundy Thursday in the RISM Catalog by using the [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:blank}. Select the option “Liturgical festival” and enter “Cena Domini, Feria V. in” (in accordance with the _Liber usualis_). In RISM Online you can find the sources by searching for “[Cena Domini, Feria V." in](https://rism.online/search?q=%E2%80%9CCena%20Domini%2C%20Feria%20V.%22&mode=sources&page=1&rows=20){:blank}.”
+You can find musical sources for Maundy Thursday in the RISM Catalog by using the [Advanced Search](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:blank}. Select the option “Liturgical festival” and enter “Cena Domini, Feria V. in” (in accordance with the _Liber usualis_). In RISM Online you can find the sources by searching for “[Cena Domini, Feria V. in](https://rism.online/search?q=%E2%80%9CCena%20Domini%2C%20Feria%20V.%22&mode=sources&page=1&rows=20){:blank}.”
 
 
 The most common Maundy Thursday responsories include:  
