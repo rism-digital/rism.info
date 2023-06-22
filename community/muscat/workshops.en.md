@@ -30,10 +30,6 @@ The next online introductory Muscat workshops will be held in the fall.
 Participants must bring their own laptops.   
 - Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
 
-#### Kraków, Poland
-- 13-15 June 2023, NIFC, Kraków, Poland  
-_Guido Kraus, RISM Zentralredaktion_  
-
 #### Seoul, South Korea
 - April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
 _JeongYoun Chang_  
@@ -49,10 +45,13 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 
 ## Past workshops and demonstrations  
 
+* 13–15 June 2023, NIFC, Kraków, Poland   
+_Guido Kraus, RISM Zentralredaktion_  
+
 * 4 May and 2 June 2023: Special Topics: Printed music  
 _Jennifer Ward, RISM Zentralredaktion_
 
-* - 25 and 27 April 2023: Muscat Introduction  
+* 25 and 27 April 2023: Muscat Introduction  
 _Jennifer Ward, RISM Zentralredaktion_
 
 * 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
