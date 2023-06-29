@@ -7,18 +7,18 @@ Durchsuchen Sie das Nachrichtenarchiv nach Kategorien oder verwenden Sie das Suc
 # Beliebte Beiträge  
 
 \- ["L’Amant Anonyme" von Joseph Bologne](/new_publications/2020/12/07/joseph-bolognes-lamant-anonyme.html)  
-\- [Scott Joplin und die Weltausstellung](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)  
-\- [Elizaveta, Elisabeth und Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)  
-\- [Franz Liszt digital](/electronic_resources/2022/05/02/franz-liszt-digital.html)  
-\- [Schubert-Autographe in Schubert online](/library_collections/2015/10/26/schubert-autograph-music-manuscripts-in-schubert.html)   
+\- [Werke, die 2023 gemeinfrei werden](/in_the_news/2023/02/14/public-domain-2023.html)  
+\- [Wiedereröffnung Wiener Staatsoper 1955](/musical_anniversaries/2020/11/05/the-reopening-of-the-vienna-state-opera-in-1955.html)  
+\- [Elizaveta, Elisabeth, and Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)  
+\- [Scott Joplin und die Weltausstellung](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)   
 
 # Ausgewählte Beiträge  
 
-\- [Jubilare 2023](/musical_anniversaries/2023/01/09/musical-anniversaries-in-2023.html)  
-\- [“Le Pêcheur Catalan” von Louise Farrenc](/rediscovered/2022/09/09/an-unexpected-find-le-pecheur-catalan-by-louise-farrenc.html)  
-\- [RISM und Katy Perry](/in_the_news/2020/01/20/rism-and-katy-perry.html)   
-\- [Venezianische Handschriften: Original oder Fälschung?](/library_collections/2021/10/28/three-venetian-manuscripts-originals-or-forgeries.html)  
-\- [Eine Musikhandschrift zur Kolonialgeschichte in Chile](/in_the_news/2016/02/25/18thcentury-music-manuscript-libro-sesto-tells-of.html)  
+\- [Die Magdalene-Stimmbücher](/library_collections/2022/10/27/magdalene-partbooks.html)  
+\- [Lautenhandschriften in Cambridge](/library_collections/2021/10/11/lute-manuscripts-at-cambridge.html)  
+\- [Finnisches Gesangbuch entdeckt](/rediscovered/2016/01/07/oldest-complete-finnish-songbook-discovered-in.html)   
+\- [Telemann digital](/library_collections/2018/08/27/telemann-digital.html)  
+\- [Liedertisch](/rediscovered/2013/10/22/musical-tables.html)  
 
 # Teilen Sie Ihre Neuigkeiten mit RISM  
 
