@@ -6,8 +6,8 @@ lang: de
 post: true
 category: events
 image: "/images/news/2023-06/adabi-simposio-mexico-2023-website.jpg"
-email: ''
-author: ''
+email: 'jennifer.ward@rism.info'
+author: 'Jennifer Ward'
 ---
 
 Vom 7. bis 9. Juni 2023 veranstaltete die mexikanische Organisation [Apoyo al Desarrollo de Archivos y Bibliotecas de México](https://adabi.pages.fahho.mx/){:blank}  (Unterstützung für die Entwicklung mexikanischer Archive und Bibliotheken, ADABI) ein dreitägiges Online-Symposium über Quellen für die Musikforschung mit dem Titel [“Il Simposio Fuentes para la investigación musical”](https://adabi.pages.fahho.mx/ii-simposio-fuentes-para-la-investigacion-musical/#gsc.tab=0){:blank}.  
