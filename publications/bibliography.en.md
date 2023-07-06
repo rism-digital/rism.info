@@ -1022,6 +1022,9 @@ Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A 
 
 "Zur Situation der Archive in der Ukraine." _MGG Online_, March 2, 2022. [Available online](https://www.mgg-online.com/news?id=d4c65a27-1254-451a-819e-8ce8db7f042d){:blank}.
 
+#### 2023  
+
+Álvarez-Escandell, Carmen. "The Cataloguing Process of the 'C Collection' in the Music Archive of the Cathedrals of Zaragoza." _Fontes Artis Musicae_ 70, no. 2 (April-June 2023): 114-126. [Available online](https://muse.jhu.edu/pub/287/article/901180){:blank}.   
 
 ##### Notes
 
@@ -1157,11 +1160,11 @@ Rommel, Martina. 6th edition, CD-ROM 4. _Informationsmittel für Bibliotheken_ 7
 
 Popinigis, Danuta. 8th edition, CD-ROM 6. _Muzyka_ 48, no. 1 (2003): 136-143.  
 
-##### Online catalog
+##### RISM Catalog
 
 Balz, Nina. "RISM-Katalog kostenlos online." _Ars Organi: Zeitschrift für das Orgelwesen_ 59, no. 3 (2011): 200-201.  
 
-Colvin, Jenny. _Music Reference Services Quarterly_ 14, no. 3 (2011): 170-171. [Available online](http://dx.doi.org/10.1080/10588167.2011.597247){:target="_blank"}.  
+Colvin, Jenny. "International Inventory of Musical Sources (RISM), http://opac.rism.info." _Music Reference Services Quarterly_ 14, no. 3 (2011): 170-171. [Available online](http://dx.doi.org/10.1080/10588167.2011.597247){:target="_blank"}.  
 
 Tsou, Judy. _Notes_ (June 2011): 789-792. [Available online](https://www.jstor.org/stable/23012840){:target="_blank"}.  
 
