@@ -1039,12 +1039,7 @@ You can find out more about the work of RISM from the following publications:
 
 ### Reviews
 
-_Jump to:_  
-[Series A/I: Individual Prints before 1800](#series-a)  
-[Series A/II: Musical Manuscripts after 1600](#series-aii-musical-manuscripts-after-1600)  
-[Series B](#series-b)  
-[Series C: Directory of Music Research Libraries](#series-c-directory-of-music-research-libraries)  
-[Special Volumes](#special-volumes)
+_Jump to:_ [Series A/I: Individual Prints before 1800](#series-a) \| [Series A/II: Musical Manuscripts after 1600](#series-aii-musical-manuscripts-after-1600) \| [Series B](#series-b) \| [Series C: Directory of Music Research Libraries](#series-c-directory-of-music-research-libraries) \| [Special Volumes](#special-volumes)
 
 #### Series A
 
