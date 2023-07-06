@@ -34,7 +34,7 @@ IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MA
 
 RISM Zentralredaktion  
 Johann Wolfgang Goethe-Universität  
-Senckenberganlage 31-33  
+Bockenheimer Landstr. 133  
 60325 Frankfurt am Main  
 Germany
 
