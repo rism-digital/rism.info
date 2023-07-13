@@ -23,11 +23,13 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 - Weitere Termine werden im Herbst angeboten.
 
 ### Seoul, Südkorea
-- April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
-_JeongYoun Chang_
+
 
 
 ## Vergangene Workshops und Vorführungen
+* April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
+_JeongYoun Chang_
+
 * 13\.-15\. Juni 2023, NIFC, Kraków, Poland  
 _Guido Kraus, RISM Zentralredaktion_ 
 
