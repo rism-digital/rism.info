@@ -489,13 +489,13 @@ Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício \
+Isabel Novais Gonçalves \
 Área de Música \
 Biblioteca Nacional de Portugal \
 Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
 Telephone: +351 21 798 20 32 \
-Email: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)  \
+Email: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)  \
 Website: [http://www.bnportugal.gov.pt/](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## ROMANIA
@@ -553,19 +553,17 @@ Website: [www.snm.sk](http://www.snm.sk/){:target="_blank"}
 
 ## SLOVENIA
 
-Klemen Grabnar\
-Muzikološki inštitut (Director: Dr. Metoda Kokole)\
+Marko Motnik\
+Muzikološki inštitut (Director: Dr. Katarina Šter)\
 Znanstvenoraziskovalni center\
 Slovenske akademije znanosti in umetnosti\
 Novi trg 2\
-p.p. 306\
 SI-1001 Ljubljana\
-Telephone: +386 1 4706219 (Grabnar)\
-Telephone: +386 1 4706196 (Kokole)\
-Fax: +386 1 4257799\
-Email: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
-Email: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Website: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}\
+Telephone: +386 2 4213154 (Motnik)\
+Telephone: +386 1 4706217 (Šter)\
+Email: [marko.motnik@zrc-sazu.si](mailto:marko.motnik@zrc-sazu.si)\
+Email: [katarina.ster@zrc-sazu.si](mailto:katarina.ster@zrc-sazu.si)\
+Website: [https://mi.zrc-sazu.si](https://mi.zrc-sazu.si){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/slovenia/home.html](/working-groups/slovenia/home.html){:blank}
 
 ## SOUTH KOREA
