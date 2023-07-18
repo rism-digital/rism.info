@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
     <p class="has-text-weight-semibold">Upcoming events</p>
-    <p>RISM will be at <a href="/events/2023/07/18/two-rism-sessions-at-medren-2023.html">MedRen 2023 in Munich</a> 24–28 July and <a href="/publications/iaml-congresses/2023.html">IAML 2023 in Cambridge</a> 31 July–4 August.</p>
+    <p>RISM will be at at the 2023 IAML Congress in Cambridge, UK, 30 July–4 August. <a href="/publications/iaml-congresses/2023.html">Details here</a></p>
 </article>
 
 ## Sigles de bibliothèques
