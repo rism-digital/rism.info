@@ -138,41 +138,43 @@ Website: [https://www.rism.info/working-groups/canada/home.html](/working-groups
 
 Website: [https://www.rism.info/working-groups/clr/home.html](/working-groups/clr/home.html){:blank}
 
-HO Wing (Director)\
 WU Xu\
 Central Conservatory of Music Library\
 Baojia Street No.43, Xicheng District, Beijing, 100031\
 China\
 Telephone: +86 10 66425609\
-Email: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn), [wingho@ccom.edu.cn](mailto:wingho@ccom.edu.cn)\
+Email: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn)  
 Website: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/)
 
 Dr. HUANG Chun-Zen (Director)\
-TSENG Tzu-Chia\
+Email: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
+TSENG Tzu-Chia   
+Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
 Digital Archive Center for Music of National Taiwan Normal University\
 162 Sec. 1 Heping E. Rd., Taipei City, 106\
 Taiwan (R.O.C.)\
 Telephone: +886 2 7734 1692\
-Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com), [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw),\
 Website: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
 
-Dr. YANG Yandi (Director)\
 HAN Bin\
 Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-Email: [hanbin@shcmusic.edu.cn](mailto:hanbin@shcmusic.edu.cn), [yyd@shcmusic.edu.cn](mailto:yyd@shcmusic.edu.cn)\
+Email: [harmonic73@163.com](harmonic73@163.com)\
 Website: [http://www.shcmusic.edu.cn](http://www.shcmusic.edu.cn){:target="_blank"}
 
-WENG Chih-Tsung (Director)\
-HUANG Hsin-Ying\
 Taiwan Music Institute of the National Centre For Traditional Arts\
 No. 751, Wenlin Rd., Shilin Dist., Taipei City, 111\
 Taiwan (R.O.C.)\
 Telephone: +886 2 25550288 #305\
-Email: [bhsinying@ncfta.gov.tw](mailto:bhsinying@ncfta.gov.tw), [won540505@gmail.com](mailto:won540505@gmail.com), \
-Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)
+Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)  
+
+Melinda LEE (Chief Librarian)   
+Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
+TSANG Lai-moon  
+Email: [lmtsang@lcsd.gov.hk](mailto:lmtsang@lcsd.gov.hk)  
+Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\
 Email: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
