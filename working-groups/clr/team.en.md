@@ -32,7 +32,7 @@ Website: [www.hkpl.gov.hk/hkcl](http://www.hkpl.gov.hk/hkcl)
 
 # Shanghai Conservatory of Music Library
 
-[HAN Bin](mailto:hanbin@shcmusic.edu.cn)
+[HAN Bin](mailto:hanbin@shcmusic.edu.cn)  
 20, Fen Yang Rd., Shanghai, 200031, China  
 Phone: +86 21 64315745  
 Website: [http://www.shcmusic.edu.cn](http://www.shcmusic.edu.cn/)
