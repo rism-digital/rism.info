@@ -60,41 +60,43 @@ _André Guerra Cotta in memoriam_
 ## CHINESISCH-SPRECHENDES GEBIET
 Webseite: [https://www.rism.info/working-groups/clr/home.html](/working-groups/clr/home.html){:blank}
 
-HO Wing  (Director)\
-Wu Xu\
+WU Xu\
 Central Conservatory of Music Library\
 Baojia Street No.43, Xicheng District, Beijing, 100031\
 China\
 Telefon: +86 10 66425609\
-E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn), [wingho@ccom.edu.cn](mailto:wingho@ccom.edu.cn)\
+E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn)\
 Webseite: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/){:target="_blank"}
 
 Dr. Huang Chun-Zen (Director)\
-Tseng Tzu-Chia\
+Email: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
+TSENG Tzu-Chia   
+Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
 Digital Archive Center for Music of National Taiwan Normal University \
 162 Sec. 1 Heping E. Rd., Taipei City, 106\
 Taiwan (R.O.C.)\
 Telefon: +886 2 7734 1692\
-E-Mail: [tzchia22@gmail.com](mailto:tzchia22@gmail.com), [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
 Webseite: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/){:target="_blank"}
 
-Dr. Yang Yandi (Director)\
-Han Bin\
+HAN Bin\
 Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-Email: [hanbin@shcmusic.edu.cn](mailto:hanbin@shcmusic.edu.cn), [yyd@shcmusic.edu.cn](mailto:yyd@shcmusic.edu.cn)\
+Email: [harmonic73@163.com](harmonic73@163.com)\
 Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/){:target="_blank"}
 
-Weng Chih-Tsung (Director)\
-Huang Hsin-Ying\
 Taiwan Music Institute of the National Centre For Traditional Arts\
 No. 751, Wenlin Rd., Shilin Dist., Taipei City, 111\
 Taiwan (R.O.C.)\
 Telefon: +886 2 25550288 #305\
-E-Mail: [bhsinying@ncfta.gov.tw](mailto:bhsinying@ncfta.gov.tw), [won540505@gmail.com](mailto:won540505@gmail.com)\
 Webseite: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/){:target="_blank"}
+
+Melinda LEE (Chief Librarian)   
+Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
+TSANG Lai-moon  
+Email: [lmtsang@lcsd.gov.hk](mailto:lmtsang@lcsd.gov.hk)  
+Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\
 E-Mail: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
@@ -102,7 +104,7 @@ E-Mail: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
 Prof. Judy Tsou, International advisor\
 E-mail: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
 
-Dr. Chang Hok-Yan, Jim, Liaison\
+Dr. CHANG Hok-Yan, Jim, Liaison\
 Telefon: +852 29210288\
 E-Mail: [jhychang@lcsd.gov.hk](mailto:jhychang@lcsd.gov.hk)
 
