@@ -454,13 +454,13 @@ Webseite: [https://nifc.pl/en//](https://nifc.pl/en//){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício\
+Isabel Novais Gonçalves\
 Área de Música\
 Biblioteca Nacional de Portugal\
 Campo Grande, 83\
 1749-081 Lisboa, Portugal\
 Telefon: +351 21 798 20 32\
-E-Mail: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)\
+E-Mail: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)\
 Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
@@ -548,19 +548,17 @@ Webseite: [www.snm.sk](http://www.snm.sk){:target="_blank"}
 
 ## SLOWENIEN
 
-Klemen Grabnar\
-Muzikološki inštitut (Direktor: Dr. Metoda Kokole)\
+Marko Motnik\
+Muzikološki inštitut (Direktor: Dr. Katarina Šter)\
 Znanstvenoraziskovalni center\
 Slovenske akademije znanosti in umetnosti\
 Novi trg 2\
-p.p. 306\
 SI-1001 Ljubljana\
-Telefon: +386 1 4706219 (Grabnar)\
-Telefon: +386 1 4706196 (Kokole)\
-Fax: +386 1 4257799\
-E-Mail: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
-E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Webseite: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}\
+Telefon: +386 2 4213154 (Motnik)\
+Telefon: +386 1 4706217 (Šter)\
+E-Mail: [marko.motnik@zrc-sazu.si](mailto:marko.motnik@zrc-sazu.si)\
+E-Mail: [katarina.ster@zrc-sazu.si](mailto:katarina.ster@zrc-sazu.si)\
+Webseite: [https://mi.zrc-sazu.si](https://mi.zrc-sazu.si){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/slovenia/home.html](/working-groups/slovenia/home.html){:blank}
 
 ## SPANIEN
@@ -649,14 +647,14 @@ Email: [mendozag@sicht.ucv.ve] (mailto:mendozag@sicht.ucv.ve)
 
 ## VEREINIGTES KÖNIGREICH
 
-Richard Chesser\
+Sandra Tuppen\
 Music Collections\
 The British Library\
 96 Euston Road\
 UK-London NW1 2DB\
 Telefon: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-E-Mail: [Richard.Chesser@bl.uk](mailto:Richard.Chesser@bl.uk)\
+E-Mail: [sandra.tuppen@bl.uk](mailto:sandra.tuppen@bl.uk)\
 [Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 
