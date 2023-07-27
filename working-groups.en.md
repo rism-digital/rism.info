@@ -147,12 +147,13 @@ Email: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn)
 Website: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/)
 
 Dr. HUANG Chun-Zen (Director)\
-TSENG Tzu-Chia\
+Email: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
+TSENG Tzu-Chia   
+Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
 Digital Archive Center for Music of National Taiwan Normal University\
 162 Sec. 1 Heping E. Rd., Taipei City, 106\
 Taiwan (R.O.C.)\
 Telephone: +886 2 7734 1692\
-Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com), [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw),\
 Website: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
 
 HAN Bin\
@@ -163,13 +164,10 @@ Telephone: +86 21 64315745\
 Email: [harmonic73@163.com](harmonic73@163.com)\
 Website: [http://www.shcmusic.edu.cn](http://www.shcmusic.edu.cn){:target="_blank"}
 
-WENG Chih-Tsung (Director)\
-HUANG Hsin-Ying\
 Taiwan Music Institute of the National Centre For Traditional Arts\
 No. 751, Wenlin Rd., Shilin Dist., Taipei City, 111\
 Taiwan (R.O.C.)\
 Telephone: +886 2 25550288 #305\
-Email: [bhsinying@ncfta.gov.tw](mailto:bhsinying@ncfta.gov.tw), [won540505@gmail.com](mailto:won540505@gmail.com), \
 Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)  
 
 Melinda LEE (Chief Librarian)   
