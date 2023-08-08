@@ -43,8 +43,8 @@ Five elected members from the Council form a Coordinating Committee. The Coordin
 
 Members of the Coordinating Committee:
 
-* JeongYoun Chang (Korea National University of Arts, Seoul, South Korea)
-* Stefan Ikarus Kaiser (Titular organist of Wilhering Abbey, Austria)
-* Zuzana Petrášková (National Library of the Czech Republic, Head of the Music Department)
-* Roland Schmidt-Hensel (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Deputy Head of the Music Department)
-* Sonia Wronkowska (National Library of Poland, Head of the Polona Development Unit)
+* JeongYoun Chang (Ewha Womans University, South Korea)
+* Christina Linklater (Harvard University, USA)
+* Eliška Šedivá (National Library of the Czech Republic)
+* Sonia Rzepka (University of Warsaw, Poland)
+* Steffen Voss (Bayerische Staatsbibliothek, Germany)
