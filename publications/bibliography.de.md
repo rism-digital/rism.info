@@ -1034,6 +1034,8 @@ Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A D
 
 Álvarez-Escandell, Carmen: The Cataloguing Process of the 'C Collection' in the Music Archive of the Cathedrals of Zaragoza, in: Fontes Artis Musicae 70, no. 2 (April-June 2023), S. 114-126. [Online verfügbar](https://muse.jhu.edu/pub/287/article/901180){:blank}.
 
+Clermont, Susan: Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division. Washington, D.C.: Library of Congress, 2023. [Online verfügbar](https://guides.loc.gov/music-anthologies/anthologies-bibliography){blank}.
+
 
 ##### Anmerkung:
 
