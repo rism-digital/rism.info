@@ -12,21 +12,19 @@
 
 # Contact
 
-Klemen Grabnar  
-Tonja Čakš  
-Institute of Musicology (Head: Dr. Metoda Kokole)  
+Marko Motnik                   
+Tonja Čakš    
+Institute of Musicology (Head: Dr. Katarina Šter)  
 Scientific Research Centre  
 Slovenian Academy of Sciences and Arts  
 Novi trg 2  
-P.O.Box 306  
 SI-1001 Ljubljana  
-Tel: +386 1 4706219 (Grabnar)  
+Tel: +386 2 4213154 (Motnik)  
 Tel: +386 1 4706198 (Čakš)  
-Tel: +386 1 4706196 (Kokole)  
-Fax: +386 1 4257799  
-E-Mail: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)  
+Tel: +386 1 4706217 (Šter)  
+E-Mail: [marko.motnik@zrc-sazu.si](mailto:marko.motnik@zrc-sazu.si)  
 E-Mail: [tonja.caks@zrc-sazu.si](mailto:tonja.caks@zrc-sazu.si)  
-E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokolem@zrc-sazu.si)
+E-Mail: [katarina.ster@zrc-sazu.si](mailto:katarina.ster@zrc-sazu.si)
 
 [http://mi.zrc-sazu.si](http://mi.zrc-sazu.si)
 
