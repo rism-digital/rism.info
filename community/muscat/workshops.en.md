@@ -19,16 +19,10 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
 
-Please register by sending an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 #### Online  
 
 The next online introductory Muscat workshops will be held in the fall.   
-
-#### Cambridge, England (IAML Congress)  
-
-Participants must bring their own laptops.   
-- Tuesday, 1 August, 11.00-12.30 BST (Part I) and 14.00-15.30 (Part II)
 
 
 ### Special Topics: Printed Music  
@@ -40,6 +34,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 1 August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
+_Jennifer Ward, Balázs Mikusi_  
 
 * April-June 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea   
 _JeongYoun Chang, RISM South Korea_  
