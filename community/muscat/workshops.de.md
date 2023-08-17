@@ -11,10 +11,9 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
-#### Cambridge, England (IAML Kongress)  
+#### Online  
 
-- Dienstag, 1\. August 2023, 11:00-12:30 BST (Teil 1) und 14:00-15:30 (Teil 2)
-Teilnehmer müssen einen eigenen Laptop mitbringen
+- Weitere Termine werden im Herbst angeboten.
 
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
@@ -22,11 +21,11 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 - Weitere Termine werden im Herbst angeboten.
 
-### Seoul, Südkorea
-
-
 
 ## Vergangene Workshops und Vorführungen
+* 1\. August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
+_Jennifer Ward, Balázs Mikusi_ 
+
 * April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
 _JeongYoun Chang_
 
