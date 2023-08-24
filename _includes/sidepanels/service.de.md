@@ -4,8 +4,8 @@
 
 RISM Zentralredaktion  
 Johann Wolfgang Goethe-Universität  
-Campus Bockenheim  
-Senckenberganlage 31-33  
+Campus Bockenheim
+Bockenheimer Landstr. 133  
 60325 Frankfurt am Main  
 Germany
 

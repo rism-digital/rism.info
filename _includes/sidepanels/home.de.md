@@ -1,6 +1,6 @@
 <div class="p-2 notification is-warning is-light">
-    <p class="has-text-weight-semibold">Fontes Sonderheft</p>
-    <p>Die Ausgabe 69 (2022), Heft 3 von Fontes Artis Musicae feiert RISM. <a href="/new_publications/2022/11/10/fontes-special-issue-in-celebration-of-risms-seventieth-anniversary.html">Details hier</a></p>
+    <p class="has-text-weight-semibold">Bevorstehender Termin</p>
+    <p>RISM auf dem IAML-Kongress in Cambridge (GB) vom 30. Juli–4 August 2023. <a href="/publications/iaml-congresses/2023.html">Details hier</a></p>
 </div>
 
 ## RISM Bibliothekssigel
