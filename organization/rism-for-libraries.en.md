@@ -60,7 +60,7 @@ Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](http
 * Quick link to all records in RISM Online:  
 [https://rism.online/search?mode=sources&page=1&rows=20](https://rism.online/search?mode=sources&page=1&rows=20){:blank}  
 * Permalinks are given in each record, whether source, person, or institution. The URLs for search strings in RISM Online are stable and can be taken directly from your browser's address bar.  
-* Finding your library's unica: Under **Holding institutions** [on the search page](https://rism.online/){:blank}, enter your library siglum and click the box next to **Number of holdings: 1.**
+* Finding your library's unica: Under **Holding institutions** [on the search page](https://rism.online/){:blank}, enter your library siglum and click the box next to **Number of holdings: 1**. Please see also our blog post, "[Finding unica in the RISM database](/electronic_resources/2023/08/31/finding-unica-in-the-rism-database.html)."
 
 **VIAF**: RISM's authority records for personal names are included in [VIAF (Virtual International Authority File)](http://www.viaf.org/){:target="_blank"}.
 
