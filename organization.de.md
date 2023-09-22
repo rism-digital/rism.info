@@ -31,11 +31,11 @@ RISM steht unter dem Patronat der beiden internationalen Berufsvereinigungen:
 
 ## Commission Mixte
 
-Zusammen mit dem Vorstand des Vereins bildet die Commission Mixte des RISM das Leitungsgremium, das 체ber strategische Ziele des Unternehmens entscheidet. Die Commission Mixte wird aus je 5 Mitgliedern der AIBM und IMS gebildet (Rules of procedure).
+Zusammen mit dem Vorstand der Vereine bildet die Commission Mixte des RISM das Leitungsgremium, das 체ber strategische Ziele des Unternehmens entscheidet. Die Commission Mixte wird aus je 5 Mitgliedern der AIBM und IMS gebildet (Rules of procedure).
 
 Mitglieder der Commission Mixte:
 
-siehe: [Verein](/organization/the-association.html)
+siehe: [Vereine](/organization/the-association.html)
 
 ## Advisory council
 
@@ -43,7 +43,7 @@ Das Council besteht aus allen aktiven Mitgliedern der Arbeitsgruppen in allen L�
 
 ## Coordinating Committee
 
-F체nf gew채hlte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen und der Zentralredaktion zu koordinieren.
+F체nf gew채hlte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen, der Zentralredaktion und dem RISM Digital Center zu koordinieren.
 
 Mitglieder des Coordinating Committee:
 
