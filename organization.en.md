@@ -31,7 +31,7 @@ RISM is sponsored under the auspices of two international professional associati
 
 The Commission Mixte consists of ten members, five each from IAML and IMS. Together with the Board of [the associations], the Commission Mixte forms the executive committee that determines the strategic goals of the organization.
 
-Members of the Commission Mixte are listed on the page about the [Associations](/organization/the-associations.html).
+Members of the Commission Mixte are listed on the page about the [Associations](/organization/the-association.html).
 
 ## Advisory Council
 
