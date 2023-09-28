@@ -29,9 +29,9 @@ RISM is sponsored under the auspices of two international professional associati
 
 ## Commission Mixte
 
-The Commission Mixte consists of ten members, five each from IAML and IMS. Together with the Board of [the association], the Commission Mixte forms the executive committee that determines the strategic goals of the organization.
+The Commission Mixte consists of ten members, five each from IAML and IMS. Together with the Board of [the associations], the Commission Mixte forms the executive committee that determines the strategic goals of the organization.
 
-Members of the Commission Mixte are listed on the [Association](/organization/the-association.html) page.
+Members of the Commission Mixte are listed on the page about the [Associations](/organization/the-association.html).
 
 ## Advisory Council
 
@@ -39,7 +39,7 @@ The Council consists of all active members of the different working groups in al
 
 ## Coordinating Committee
 
-Five elected members from the Council form a Coordinating Committee. The Coordinating Committee facilitates communication between the working groups and the Zentralredaktion, conveys suggestions and requests between both sides, and encourages conversation among the working groups.
+Five elected members from the Council form a Coordinating Committee. The Coordinating Committee facilitates communication between the working groups, the Editorial Center and the Digital Center, conveys suggestions and requests between both sides, and encourages conversation among the working groups.
 
 Members of the Coordinating Committee:
 

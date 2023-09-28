@@ -6,6 +6,8 @@ permalink: /organization/the-association.html
 old_url: http://www.rism.info/organisation/the-association.html
 ---
 
+Two associations administer the international centers that oversee the activities of the RISM network: the Association "Internationales Quellenlexikon der Musik" for the Editorial Center (Zentralredaktion) in Frankfurt, and the "RISM Digital Center Association" for the Digital Center in Bern. The Commission Mixte members are ex-officio members of both associations.
+
 # The Association "Internationales Quellenlexikon der Musik"
 
 The RISM Zentralredaktion is sponsored by the association "Internationales Quellenlexikon der Musik e.V.", registered at the Amtsgericht Frankfurt am Main, VR 16016. The association receives funding for the Zentralredaktion from the [Akademie der Wissenschaften und Literatur Mainz](http://www.adwmainz.de/){:target="_blank"}.
@@ -25,3 +27,9 @@ Treasurer: Jane Gottlieb, New York (USA)
 
 * Additional Members: Dr. Sarah Adams, Cambridge (USA); Dr. Martin Bente, Grabenstätt (Germany); Mikhail Bryzgalov, Moscow (Russia); Prof. Dr. Sergio Durante, Padova (Italy); Jürgen Diet, Munich (Germany); Dr. Antonio Ezquerro-Esteban, Barcelona (Spain); Elizabeth Giuliani, Paris (France); Prof. Dr. José V. González Valle (†), Zaragoza (Spain); Prof. Dr. Hans-Joachim Hinrichsen, Zurich (Switzerland); Dr. John B. Howard, Dublin (Ireland); Klaus Keil, Oberzent (Germany); Dr. Thomas Leibnitz, Vienna (Austria); Catherine Massip, Paris (France); Dr. Massimo Gentili-Tedeschi, Milan (Italy); Dr. habil. Christian Meyer, Strasbourg (France); Dr. Reiner Nägele, Munich (Germany); Dr. Martina Rebmann, Berlin (Germany); Prof. Dr. Nicole Schwindt, Trossingen (Germany); Dr. Wolf-Dieter Seiffert, Munich (Germany); Dr. Leonardo Waisman, Córdoba (Argentina);
 * Honorary Members: Dr. Kurt Dorfmüller (†), Regensburg (Germany); Prof. Dr. Wolfgang Rehm (†), Hallein / Salzburg (Austria)
+
+# The RISM Digital Center Association
+
+The RISM Digital Center Association is registered in Switzerland. The main funding agency of the RISM Digital Center is the [Swiss National Science Foundation](https://snf.ch).
+
+See the RISM Digital Center website for a list of its [board members](https://rism.digital/organization/committee.html).
