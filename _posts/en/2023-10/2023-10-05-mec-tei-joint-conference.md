@@ -5,7 +5,7 @@ date: 2023-10-05
 lang: en
 post: true
 category: events
-image: "/images/news/2023-10/mei-tei-joint-conference_website.jpg"
+image: "/images/news/2023-10/mec-tei-joint-conference_website.jpg"
 email: 'contact@rism.info'
 author: 'Jennifer Ward'
 ---
