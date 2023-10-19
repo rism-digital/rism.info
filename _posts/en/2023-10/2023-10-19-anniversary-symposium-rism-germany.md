@@ -24,4 +24,4 @@ Please note that the official language of the event is German.
 If you have any further questions or would like to register for the event, please contact Professor Nicole Schwindt at
 [nicole.schwindt@doz.hfm-trossingen.de](mailto:nicole.schwindt@doz.hfm-trossingen.de).
 
-Image: Gaspare Spontini, _Fernand Cortez ou La Conquête du Mexique_, Paris: Erard [ca. 1818], RISM ID no. 270001620 ([RISM Catalog](https://opac.rism.info/search?id=270001620&View=rism){:blank} \| [RISM Online](https://rism.online/sources/270001620){:blank}, [D-Dl Mus.4308.F.515](http://digital.slub-dresden.de/id379903962){:blank}, [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/){:blank}
+Image: Gaspare Spontini, _Fernand Cortez ou La Conquête du Mexique_, Paris: Erard [ca. 1818], RISM ID no. 270001620 ([RISM Catalog](https://opac.rism.info/search?id=270001620&View=rism){:blank} \| [RISM Online](https://rism.online/sources/270001620){:blank}), [D-Dl Mus.4308.F.515](http://digital.slub-dresden.de/id379903962){:blank}, [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/){:blank}
