@@ -1,6 +1,6 @@
 <div class="p-2 notification is-warning is-light">
     <p class="has-text-weight-semibold">Bevorstehender Termin</p>
-    <p>Jubiläumssymposium RISM Deutschland <a href="/events/2023/10/19/anniversary-symposium-rism-germany.html">21.-22. November in München.</a></p
+    <p>Jubiläumssymposium RISM Deutschland <a href="/events/2023/10/19/anniversary-symposium-rism-germany.html">21.-22. November in München</a>.</p>
 </div>
 
 ## RISM Bibliothekssigel
