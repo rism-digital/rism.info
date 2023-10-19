@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Anlässlich des 70-jährigen Jubiläums der Gründung der [Deutschen RISM-Arbeitsgruppe](https://de.rism.info/index.html){:blank} findet am 21. und 22. November 2023 ein Symposium in der Bayerischen Staatsbibliothek in München statt. Unter dem Titel “Musikquellen des 19. Jahrhunderts in Deutschland - Herausforderungen und Chancen” bietet die Veranstaltung neben Referaten auch ein abschließendes Roundtable. 
+Anlässlich des 70-jährigen Jubiläums der Gründung der [Deutschen RISM-Arbeitsgruppe](https://de.rism.info/de/index.html){:blank} findet am 21. und 22. November 2023 ein Symposium in der Bayerischen Staatsbibliothek in München statt. Unter dem Titel “Musikquellen des 19. Jahrhunderts in Deutschland - Herausforderungen und Chancen” bietet die Veranstaltung neben Referaten auch ein abschließendes Roundtable. 
 
 Obwohl die Musik der sogenannten Romantik, Spät- und Nachromantik einen Schwerpunkt der musikgeschichtlichen Forschung wie der musikalischen Praxis bildet, ist der Zugang zu den originalen Quellen dieser Musik dezentral und insgesamt uneinheitlich, während älteres handschriftliches und gedrucktes Notenmaterial tendenziell vollständig, mindestens aber systematisch von RISM erfasst und durch Katalogisierung erschlossen wird. Die exponentielle Vermehrung der musikalischen Materialien im 19. Jahrhundert legte bisher eine pragmatische Terminierung nahe.
 
