@@ -28,7 +28,7 @@ Antonio Ezquerro-Esteban presents interesting discoveries from the “Fondo Rese
 
 Luis Antonio González Marín draws attention to the lack of primary musical sources from the 18th century, taking as a basis for his analyses the only known copy of a treatise by Manuel Cavaza, which came to be known only in the last decade. The four recitatives he presents from two cantatas reveal how the types used by a Toledo musician relied on Italian models both formally and historically.
 
-Paulino Capdepón Verdú’s contribution focuses on Francesco Corselli (1750-1778), an Italian composer of sacred vocal and instrumental music, who was active at the Royal Chapel of Madrid, and in fact became one of the most influential musicians in eighteenth-century Spain. Since his name was as good as forgotten by the 19th century, Verdú seeks to rediscover Corselli’s oeuvre for our times.
+Paulino Capdepón Verdú’s contribution focuses on Francesco Corselli (1705-1778), an Italian composer of sacred vocal and instrumental music, who was active at the Royal Chapel of Madrid, and in fact became one of the most influential musicians in eighteenth-century Spain. Since his name was as good as forgotten by the 19th century, Verdú seeks to rediscover Corselli’s oeuvre for our times.
 
 Victoriano J. Pérez Mancilla examines the prolific Spanish religious villancico tradition of the later 18th century, which was heavily influenced by the cantata’s formal structure consisting of recitatives and arias. The church of Santa María de Huéscar preserves about four hundred works of this kind, and the author discusses in depth the cavatinas, among which nine out of ten were written by the chapel master José Miguel Carmona.
 
