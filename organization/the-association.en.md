@@ -14,7 +14,7 @@ The RISM Zentralredaktion is sponsored by the association "Internationales Quell
 
 Members of the Association:
 
-* Honorary President: Dr. Harald Heckmann, Ruppertshain (Germany), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Germany)
+* Honorary President: Dr. Harald Heckmann (†), Ruppertshain (Germany), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Germany)
 * Board of Directors\
 President: Prof. Dr. Klaus Pietschmann, Mainz (Germany)\
 Vice President: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Austria)\
