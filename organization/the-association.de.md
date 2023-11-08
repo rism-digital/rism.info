@@ -14,7 +14,7 @@ Die RISM Zentralredaktion wird getragen von dem Verein „Internationales Quelle
 
 Mitglieder des Vereins:
 
-* Ehrenpräsident: Dr. Harald Heckmann, Ruppertshain (Deutschland), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Deutschland)
+* Ehrenpräsident: Dr. Harald Heckmann (†), Ruppertshain (Deutschland), Prof. Dr. Dr. h.c. Christoph Wolff, Cambridge/Freiburg (USA/Deutschland)
 * Vorstand\
 Präsident: Prof. Dr. Klaus Pietschmann, Mainz (Deutschland)\
 Vizepräsidentin: Prof. Dr. Andrea Lindmayr-Brandl, Salzburg (Österreich)\
