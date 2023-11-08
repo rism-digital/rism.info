@@ -25,13 +25,13 @@
 - id: newer
   name:
     en: "Newer"
-    de: "Neure"
+    de: "Neuere"
     fr: "Suivant"
     it: "Newer"
 - id: newer-by-cat
   name:
     en: "Newer in this category"
-    de: "Neure in dieser Kategorie"
+    de: "Neuere in dieser Kategorie"
     fr: "Suivant dans cette catégorie"
     it: "Newer in this category" 
 - id: older
