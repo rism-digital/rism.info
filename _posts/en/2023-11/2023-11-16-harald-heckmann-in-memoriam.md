@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-In Harald Heckmann, the world of music archivists and documentors has lost one of its most distinguished personalities. Those of us who had the privilege of working with him have also lost a wise mentor and fatherly friend.
+In Harald Heckmann, the world of music archivists and documenters has lost one of its most distinguished personalities. Those of us who had the privilege of working with him have also lost a wise mentor and fatherly friend.
 
 Born the son of an art historian and teacher in Dortmund, he studied musicology in Freiburg im Breisgau with Wilibald Gurlitt, among others. In 1952, he completed his doctorate with a dissertation on “Wolfgang Caspar Printz (1641–1717) and his theory of rhythm.” He remained Gurlitt’s assistant until 1954, while working on the renowned Handwörterbuch of musical terminology and lecturing on the history of Lutheran church music and hymnology at the Musikhochschule Freiburg.
 
