@@ -10,7 +10,7 @@ email: 'pavel.kordik@nkp.cz'
 author: 'Pavel Kordík'
 ---
 
-_Der heutige Geastbeitrag stammt von Pavel Kordík (Répertoire International de Littérature Musicale (RILM), Nationalbibliothek Prag):_
+_Der heutige Gastbeitrag stammt von Pavel Kordík (Répertoire International de Littérature Musicale (RILM), Nationalbibliothek Prag):_
 
 Anlässlich des 100. Jahrestages der Gründung der Musikabteilung (1923-2023) stellt die Nationalbibliothek der Tschechischen Republik eine gedruckte Ausgabe eines wichtigen Werks ihres Gründers, des Komponisten Ladislav Vycpálek (1882-1969), aus.
 
