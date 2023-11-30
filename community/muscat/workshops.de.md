@@ -23,13 +23,17 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 08\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
+_Guido Kraus, RISM Zentralredaktion_ 
+
 * 1\. August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
 _Jennifer Ward, Balázs Mikusi_ 
 
-* April-Juni 2023, Muscat introduction, Ewha Womans University, Seoul, South Korea  
+* April-Juni 2023: Muscat introduction, Ewha Womans University, Seoul, South Korea  
 _JeongYoun Chang_
 
-* 13\.-15\. Juni 2023, NIFC, Kraków, Poland  
+* 13\.-15\. Juni 2023: NIFC, Kraków, Poland  
 _Guido Kraus, RISM Zentralredaktion_ 
 
 * 4\. Mai und 2\. Juni 2023: Special Topics: Printed music
