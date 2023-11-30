@@ -640,12 +640,13 @@ Email: [ivchenko@nbuv.gov.ua](mailto:ivchenko@nbuv.gov.ua)\
 Website: [http://www.nbuv.gov.ua](http://www.nbuv.gov.ua/){:target="_blank"}
 
 Olga Osadcja\
-L'vivs'ka nacional'na naukova biblioteka Ukrajiny imeni V. Stefanyka (The Lviv National Vasyl Stefanyk Scientific Library of Ukraine)\
-Vul. Bibliotečna, 2  \
-M. L'viv, 79000  \
-Telephone: +380 / (032) / 261-55-20\
+L'vivs'ka nacional'na muzyčna akademija imeni Mykoly Lysenka, Biblioteka\
+Vul. O. Hyžankivs'koho, bud. 5 \
+L'viv, 79000  \
+Telephone: +380 / (032) / 259-07-51\
 Email: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
-Website: [http://www.lsl.lviv.ua/index.php/uk/golovna2/](http://www.lsl.lviv.ua/index.php/uk/golovna2/){:target="_blank"}
+Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua) \
+Website: [https://lnma.edu.ua/](https://lnma.edu.ua/)){:target="_blank"}
 
 ## UNITED KINGDOM
 

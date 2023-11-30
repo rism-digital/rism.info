@@ -35,6 +35,9 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 
 ## Past workshops and demonstrations  
 
+* 08-10 November 2023: Muscat Workshop, National Library, Prague, Czech Republic \
+_Guido Kraus, RISM Zentralredaktion_
+
 * 1 August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
 _Jennifer Ward, Balázs Mikusi_  
 
