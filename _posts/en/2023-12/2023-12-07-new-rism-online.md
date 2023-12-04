@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-We are pleased to announce a significant new update to our [RISM Online](https://rism.online) service, bringing several useful and oft-requested features to our users. 
+We are pleased to announce a significant new update to the [RISM Online](https://rism.online) service, bringing several useful and oft-requested features to our users. 
 
 Perhaps the biggest change is that our users will now see results from the [Digital Image Archive of Medieval Music](https://www.diamm.ac.uk) integrated in their search results. This enhances the coverage of RISM Online to include results for music manuscripts from the Medieval and Renaissance periods, and particularly those entries that are available in the printed RISM B/IV series. At the time of launch, this functionality has added 3,714 new source records, 2,586 new person records, and 707 new institution records to RISM Online, significantly enhancing our coverage of these periods.
 
