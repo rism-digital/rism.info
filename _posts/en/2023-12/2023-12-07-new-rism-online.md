@@ -4,7 +4,7 @@ title: Autumn 2023 Update to RISM Online
 date: 2023-12-03
 lang: en
 post: true
-category: news
+category: rism_digital_center
 image: "/images/news/2023-12/rism-online-2023-update.png"
 email: ''
 author: ''
