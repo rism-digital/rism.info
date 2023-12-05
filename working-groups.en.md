@@ -335,13 +335,12 @@ Telephone and fax: +39 06 491325\
 Email: [ibimus@libero.it](mailto:ibimus@libero.it)\
 Website: [https://www.ibimus.eu/](https://www.ibimus.eu/){:target="_blank"}
 
-Dr. Attilio Rossi\
+Sara Taglietti\
 Ufficio Ricerca Fondi Musicali\
 Via Conservatorio, 12\
 I-20122 Milano\
-Telephone: +39 0276 011 822\
-Fax: +39 0276 003 097\
-Email: [b-brai.urfm@beniculturali.it](mailto:b-brai.urfm@beniculturali.it)\
+Telephone: +39 02 36559499\
+Email: [b-brai.urfm@cultura.gov.it](mailto:b-brai.urfm@cultura.gov.it)\
 Website: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidense.it/index/index.php){:target="_blank"}
 
 ## JAPAN
