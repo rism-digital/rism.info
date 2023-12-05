@@ -5,7 +5,7 @@ date: 2023-11-30
 lang: de
 post: true
 category: in_memoriam
-image: "/images/news/2023-11/Haberkamp_memoriam_Farbe_website.jpg"
+image: "/images/old/Haberkamp_memoriam_Farbe_website.jpg"
 email: ''
 author: ''
 ---
