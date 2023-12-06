@@ -19,7 +19,7 @@ For example, [a search for "Ockeghem"](https://rism.online/search?q=Ockeghem&mod
 In addition to the new DIAMM integration, a number of user interface improvements have been made. Some of the new features include:
 
  - An “Active filters” section for seeing, at a glance, all search terms that are currently active
- - Icons in search results help to better visually distinguish record types. They are described here: [https://rism.online/about/help]([https://rism.online/about/help)
+ - Icons in search results help to better visually distinguish record types. They are described here: [https://rism.online/about/help](https://rism.online/about/help)
  - Improvements to page layout on screens of different sizes
  - Improvements to the Incipit search and display, including downloading an image of the incipit for use in papers, presentations, or websites
  - Many improvements to our languages and translations
