@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mise à jour d'automne 2023 de RISM Online"
-date: 2023-12-06
+date: 2023-12-07
 lang: fr
 post: true
 category: rism_digital_center
