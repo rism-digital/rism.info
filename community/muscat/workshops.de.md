@@ -13,7 +13,7 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 #### Online  
 
-- Weitere Termine werden im Herbst angeboten.
+- Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
 
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
