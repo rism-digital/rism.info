@@ -11,7 +11,7 @@ old_url: http://www.rism.info/de/publikationen.html
 Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. Der Schwerpunkt der derzeitigen Aktivitäten des RISM liegt auf seiner elektronischen Datenbank, die über zwei Ressourcen, den RISM-Katalog und RISM Online, kostenlos durchsucht werden kann. Die Bibliothekssigel von RISM können über das [Online-Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html) recherchiert werden.
 
 ## RISM-Datenbank
-Die über 1,4 Millionen Datensätze des RISM können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online. Beide durchsuchen denselben reichhaltigen Quellenbestand, der den Kern des RISM-Projekts bildet: Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
+Die über 1,4 Millionen Datensätze des RISM können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online.  Die musikalischen Quellen, die im Mittelpunkt des RISM-Projekts stehen, sind Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
 
 ### RISM-Katalog
 {% include image file="/images/publications/opac.png"  %}
@@ -21,9 +21,9 @@ Der RISM-Katalog kann über die RISM-Webseite oder [opac.rism.info](https://opa
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}
 
-RISM Online kann über die RISM-Webseite oder über [rism.online](https://rism.online/){:blank} erreicht werden. Er wird vom [RISM Digital Center](/digital-center.html){:blank} in Bern (Schweiz) entwickelt.
+RISM Online kann über die RISM-Webseite oder über [rism.online](https://rism.online/){:blank} erreicht werden. Er wird vom [RISM Digital Center](/digital-center.html){:blank} in Bern (Schweiz) entwickelt. Neben dem RISM-Quellenkernbestand bietet RISM Online auch die Möglichkeit, das Digital Image Archive of Medieval Music (DIAMM) zu durchsuchen.
 
-## Series A:
+## Serie A:
 
 {% include image file="/images/publications/books.jpg" pos="right" %}
 
@@ -77,7 +77,7 @@ B/III ist als Datenbank über [Lexicon musicum Latinum](https://lml.badw.de/lml-
 Die Kataloge der Reihe B/III sind auf Quellen zur mittelalterlichen Musiktheorie ausgerichtet. Sie bieten eine "Beschreibung aller Handschriften, in denen lateinische Traktate - und seien sie noch so klein - erhalten sind, die sich mit der Musiktheorie befassen, die von der Karolingerzeit bis 1400 in Gebrauch war". In Band 3 wurde die Zeitraum auf 1500 erweitert. "Darüber hinaus werden die anonymen Traktate in der einen oder anderen Handschrift mit jenen anderen Handschriften in Beziehung gesetzt, in denen sich dasselbe - in der Regel unveröffentlichte - Traktat befindet... Der Index bietet einen Überblick über die Handschriften, in denen diese theoretische Tradition erhalten ist, indem er eine Liste der Namen der Autoren und der Incipits der anonymen Traktate liefert."  
 
 ### B/IV: Handschriften mit mehrstimmiger Musik des 11.-16. Jahrhunderts 
-Siehe auch B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"}.
+Siehe auch B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"} und [RISM Online](https://rism.online/){:blank}.
 
 * **B/IV/1:** Gilbert Reaney, _Manuscripts of Polyphonic Music. 11th-Early 14th Century_, 1966.
 * **B/IV/2:** Gilbert Reaney, _Manuscripts of Polyphonic Music (c. 1320-1400)_. Mit Supplement zu B/IV/1. 1969.

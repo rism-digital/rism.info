@@ -22,7 +22,7 @@ The RISM Editorial Center regularly hosts introductory, two-part workshops on ca
 
 #### Online  
 
-The next online introductory Muscat workshops will be held in the fall.   
+The next online introductory Muscat workshops will be held upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank} to express interest.
 
 
 ### Special Topics: Printed Music  
