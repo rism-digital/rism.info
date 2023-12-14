@@ -172,8 +172,8 @@ Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)
 
 Melinda LEE (Chief Librarian)   
 Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
-TSANG Lai-moon  
-Email: [lmtsang@lcsd.gov.hk](mailto:lmtsang@lcsd.gov.hk)  
+LI King-Yin  
+Email: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)  
 Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\

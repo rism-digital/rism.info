@@ -69,9 +69,9 @@ E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn)\
 Webseite: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/){:target="_blank"}
 
 Dr. Huang Chun-Zen (Director)\
-Email: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
+E-Mail: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
 TSENG Tzu-Chia   
-Email: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
+E-Mail: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
 Digital Archive Center for Music of National Taiwan Normal University \
 162 Sec. 1 Heping E. Rd., Taipei City, 106\
 Taiwan (R.O.C.)\
@@ -83,7 +83,7 @@ Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-Email: [harmonic73@163.com](harmonic73@163.com)\
+E-Mail: [harmonic73@163.com](harmonic73@163.com)\
 Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/){:target="_blank"}
 
 Taiwan Music Institute of the National Centre For Traditional Arts\
@@ -93,16 +93,16 @@ Telefon: +886 2 25550288 #305\
 Webseite: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/){:target="_blank"}
 
 Melinda LEE (Chief Librarian)   
-Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
-TSANG Lai-moon  
-Email: [lmtsang@lcsd.gov.hk](mailto:lmtsang@lcsd.gov.hk)  
+E-Mail: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk) 
+LI King-Yin  
+E-Mail: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)  
 Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\
 E-Mail: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
 
 Prof. Judy Tsou, International advisor\
-E-mail: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
+E-Mail: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
 
 Dr. CHANG Hok-Yan, Jim, Liaison\
 Telefon: +852 29210288\
