@@ -22,7 +22,7 @@ The RISM Editorial Center regularly hosts introductory, two-part workshops on ca
 
 #### Online  
 
-The next online introductory Muscat workshops will be held in the fall.   
+The next online introductory Muscat workshops will be held upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank} to express interest.
 
 
 ### Special Topics: Printed Music  
@@ -34,6 +34,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 08-10 November 2023: Muscat Workshop, National Library, Prague, Czech Republic \
+_Guido Kraus, RISM Zentralredaktion_
 
 * 1 August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
 _Jennifer Ward, Balázs Mikusi_  
