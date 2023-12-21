@@ -16,7 +16,7 @@ The precious collection of the Berlin Sing-Akademie (D-Bsa), which had gone miss
 
 One of these less studied documents is a manuscript ([RISM Catalog](https://opac.rism.info/search?id=469093200&View=rism){:blank} \| [RISM Online](https://rism.online/sources/469093200){:blank}) containing six songs for multiple voices by Carl Eberwein (1786–1868), a composer best known for his long-standing contact with Goethe, in whose Weimar home he was responsible for the house music. Whether the neatly written manuscript is in Eberwein’s own hand, seems difficult to tell, even though a few obvious corrections in the score appear to confirm such a hypothesis. In any case, the entire set evokes a convivial performing tradition where the composer’s personal participation could be taken for granted: the texts typically celebrate festive occasions or praise drinking, and have accordingly prompted musical settings which emphatically invite all members of a joyful company to join in the singing.
 
-The final piece in the collection, written (as the title makes clear) [“For the New Year 1811”](http://resolver.staatsbibliothek-berlin.de/SBB00019A7D00000011){:blank} is no exception. While it offers (in contrast to the rest of the manuscript) an elaborate keyboard accompaniment, it remains true to the popular “Rundgesang” tradition of the period by having each strophe sung by a solo voice and then letting the full chorus enter for the (textual) repetition of the refrain – apart from the final strophe, where the soloist’s role is taken over by a group of four soloists, to ensure a most effective conclusion. This compositional contrast seems as appropriate today as it must have been two centuries ago, and the same can be said for the text, which makes no claims whatever at high poetry, but offers a series of friendly greetings that we are happy to pass on to our own “guests” – that is, to every user of RISM’s services:
+The final piece in the collection, written (as the title makes clear) [“For the New Year 1811”](http://resolver.staatsbibliothek-berlin.de/SBB00019A7D00000011){:blank} is no exception. While it offers (in contrast to the rest of the manuscript) an elaborate keyboard accompaniment, it remains true to the popular “Rundgesang” tradition of the period by having each strophe sung by a solo voice and then letting the full chorus enter for the (textual) repetition of the refrain – apart from the final strophe, where the soloist’s role is taken over by a group of four soloists to ensure a most effective conclusion. This compositional contrast seems as appropriate today as it must have been two centuries ago, and the same can be said for the text, which makes no claims whatever at high poetry, but offers a series of friendly greetings that we are happy to pass on to our own “guests” – that is, to every user of RISM’s services:
 
 (_English translation below_)
 
@@ -45,7 +45,7 @@ Am meisten stets gefalle,\
 O wenn es _dem_ nur halb gelang,\
 Sind wir belohnt für alle.
 
-(English translation:)
+(_English translation:_)
  
 For the New Year, according to old custom,\
 One wishes oneself the best;\
