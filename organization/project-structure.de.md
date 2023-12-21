@@ -8,7 +8,7 @@ old_url: http://www.rism.info/de/unternehmen/struktur-und-finanzierung.html
 
 # Projektstruktur
 
-In 35 Ländern beteiligen sich eine oder mehrere [nationale RISM-Arbeitsgruppen](/working-groups.html) an diesem Projekt. Rund 100 Mitarbeiterinnen und Mitarbeiter beschreiben die musikalischen Quellen, die in ihren Ländern aufbewahrt werden. Die Arbeitsergebnisse geben sie an die RISM-Zentralredaktion in Frankfurt am Main weiter, welche die Titelmeldungen redaktionell bearbeitet und in der entsprechenden Serie veröffentlicht.
+In 35 Ländern beteiligen sich eine oder mehrere [nationale RISM-Arbeitsgruppen](/working-groups.html) an diesem Projekt. Rund 100 Mitarbeiterinnen und Mitarbeiter beschreiben die musikalischen Quellen, die in ihren Ländern aufbewahrt werden. Die Arbeitsergebnisse geben sie an die RISM-Zentralredaktion in Frankfurt am Main weiter, welche die Titelmeldungen redaktionell bearbeitet und in der entsprechenden Serie veröffentlicht. Die technische Infrastruktur für die Katalogisierung wird vom RISM Digital Center in Bern betrieben.
 
 RISM ist in der Fachwelt als zentrale Nachweisstelle für Quellen der Musikgeschichte weltweit anerkannt. Die Publikationen des RISM sind unterteilt in folgende Reihen:
 

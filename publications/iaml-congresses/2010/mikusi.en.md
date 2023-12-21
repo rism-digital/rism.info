@@ -36,4 +36,4 @@ Thirdly, we should of course not give up all hopes that at some point having a s
 
 To sum up, RISM had its ups and downs in Hungary as well, and the past decade and a half certainly constitute the longest *down* in this process. Still, if we can make the appropriate compromises and bring the project back to life in Budapest in whatever form, the hope always remains that another *up*-phase might arrive. Rather than mourning for what we have lost, and wait patiently for the turn of the wind, I suggest that we do what can be done even under these difficult circumstances (like converting the printed catalogs), and in the meantime keep explaining to everybody how much better all of this could be done with the appropriate means at hand. Perhaps culture will at some point return among those issues taken seriously by politicians – if that happens, we should be ready to demonstrate what we have already achieved, and specify what sort of help the government should give us in the future.
 
-*[June 2010]*
+*[presented on 1 July 2010 at the RISM session of the annual IAML congress in Moscow]*
