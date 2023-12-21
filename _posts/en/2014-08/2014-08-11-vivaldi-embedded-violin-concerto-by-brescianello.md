@@ -24,7 +24,7 @@ In the next issue of ["Studi vivaldiani,"](http://slubdd.de/katalog?TN_libero_ma
 ![Vivaldi_incipit_in_RISM_catalog](https://blog.slub-dresden.de/fileadmin/_processed_/1/c/csm_rism2C_f2f226702d.png)
 
 To Talbot's surprise, the search results not only included the SLUB's two "Il Carbonelli" manuscripts, but also the Brescianello manuscript Mus.2364-O-7. The variant middle movement was thus conclusively identified.  
-![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_processed_/f/4/csm_rism2B_d20ea84733.png)
+![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_processed_/f/4/csm_rism2B_9b4ef01500.png)
 
 The discovery compellingly demonstrates what a powerful search tool the RISM online catalog is, whose incipit search is even capable of tracking down transposed themes without any effort.  
 
