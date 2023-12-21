@@ -1,6 +1,6 @@
 <div class="p-2 notification is-warning is-light">
-    <p class="has-text-weight-semibold">Bevorstehender Termin</p>
-    <p>Jubiläumssymposium RISM Deutschland <a href="/events/2023/10/19/anniversary-symposium-rism-germany.html">21.-22. November in München</a>.</p>
+    <p class="has-text-weight-semibold">Ankündigung</p>
+    <p>Die Zentralredkation ist vom 23. Dezember 2023 bis 7. Januar 2024 geschlossen.</p>
 </div>
 
 ## RISM Bibliothekssigel
