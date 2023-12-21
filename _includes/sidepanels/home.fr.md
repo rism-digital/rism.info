@@ -1,6 +1,6 @@
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Upcoming events</p>
-    <p>Anniversary Symposium of RISM Germany <a href="/events/2023/10/19/anniversary-symposium-rism-germany.html">November 21-22 in Munich</a>.</p>
+    <p class="has-text-weight-semibold">Announcements</p>
+    <p>The Editorial Center office will be closed from December 23 to January 7.</p>
 </article>  
 
 ## Sigles de bibliothèques

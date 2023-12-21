@@ -195,7 +195,7 @@ Universidad de los Andes\
 Departamento de Música\
 Calle 19A n° 1-37 E - Bogotá\
 Telephone +571 339 4949 ext. 3436\
-Email: rf.torres20@uniandes.edu.co\
+Email: [rf.torres20@uniandes.edu.co](mailto:rf.torres20@uniandes.edu.co)\
 Website: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/)
 
 ## CROATIA
@@ -206,19 +206,21 @@ Opaticka 18\
 HR-41000 Zagreb\
 Telephone: +385 1 272323\
 Fax: +385 1 277352\
-Email: [fides@mahazu.hazu.hr](http://fides@mahazu.hazu.hr/){:target="_blank"}  
+Email: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"}  
 Website: [http://info.hazu.hr](http://info.hazu.hr/){:target="_blank"}
 
 ## CZECH REPUBLIC
 
 Zuzana Petrášková\
+Email: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
+Eliška Šedivá  
+Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)  
 Národní knihovna České republiky\
 Hudební oddělení\
 Klementinum 190\
 11001 Praha 1\
 Telephone: +420 221663129\
 Fax: +420 222220370\
-Email: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
 Website: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
 
 ## DENMARK

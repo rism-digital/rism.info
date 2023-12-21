@@ -251,7 +251,7 @@ Universidad de los Andes\
 Departamento de Música\
 Calle 19A n° 1-37 E - Bogotá\
 Telefon +571 339 4949 ext. 3436\
-E-Mail: rf.torres20@uniandes.edu.co\
+E-Mail: [rf.torres20@uniandes.edu.co](mailto:rf.torres20@uniandes.edu.co)\
 Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/){:target="_blank"}
 
 ## KROATIEN
@@ -596,13 +596,15 @@ Siehe auch: [https://www.rism.info/working-groups/korea/home.html](/working-grou
 ## TSCHECHISCHE REPUBLIK
 
 Zuzana Petrášková\
+E-Mail: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
+Eliška Šedivá  
+Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)\
 Národní knihovna České republiky\
 Hudební oddělení\
 Klementinum 190\
 11001 Praha 1\
 Telefon: +420 221663129\
 Fax: +420 222220370\
-E-Mail: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
 Webseite: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
 
 ## UKRAINE
