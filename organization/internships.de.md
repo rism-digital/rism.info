@@ -28,7 +28,8 @@ Anforderungen:
 
 #### Bewerbungsverfahren
 
-Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika vergeben werden. Bitte senden Sie Ihren Lebenslauf und ein Motivationsschreiben an Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}.
+Derzeit können keine Praktikumsplätze angeboten werden.
+<!-- Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika vergeben werden. Bitte senden Sie Ihren Lebenslauf und ein Motivationsschreiben an Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}. -->
 
 # Ehemalige Praktikanten
 
