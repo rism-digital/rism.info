@@ -30,7 +30,9 @@ Qualifications:
 
 #### Application procedure
 
-Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodated per year. Please send a CV and cover letter outlining your interests and relevant skills to Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}.
+Currently we are not accepting any new interns.
+
+<!-- Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodated per year. Please send a CV and cover letter outlining your interests and relevant skills to Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}. -->
 
 ## Current and former interns  
 
