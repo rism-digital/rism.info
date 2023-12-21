@@ -8,17 +8,18 @@ Durchsuchen Sie das Nachrichtenarchiv nach Kategorien oder verwenden Sie das Suc
 
 \- ["L’Amant Anonyme" von Joseph Bologne](/new_publications/2020/12/07/joseph-bolognes-lamant-anonyme.html)  
 \- [Werke, die 2023 gemeinfrei werden](/in_the_news/2023/02/14/public-domain-2023.html)  
+\- [Scott Joplin und die Weltausstellung](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)
 \- [Wiedereröffnung Wiener Staatsoper 1955](/musical_anniversaries/2020/11/05/the-reopening-of-the-vienna-state-opera-in-1955.html)  
-\- [Elizaveta, Elisabeth, and Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)  
-\- [Scott Joplin und die Weltausstellung](/musical_anniversaries/2017/03/30/scott-joplins-the-cascades-and-the-st-louis-worlds.html)   
+\- [Elizaveta, Elisabeth und Elizabeth](/rism_a_z/2015/02/23/elizaveta-elisabeth-and-elizabeth.html)  
+   
 
 # Ausgewählte Beiträge  
 
-\- [Die Magdalene-Stimmbücher](/library_collections/2022/10/27/magdalene-partbooks.html)  
-\- [Lautenhandschriften in Cambridge](/library_collections/2021/10/11/lute-manuscripts-at-cambridge.html)  
-\- [Finnisches Gesangbuch entdeckt](/rediscovered/2016/01/07/oldest-complete-finnish-songbook-discovered-in.html)   
-\- [Telemann digital](/library_collections/2018/08/27/telemann-digital.html)  
-\- [Liedertisch](/rediscovered/2013/10/22/musical-tables.html)  
+\- [Ein Wort über RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)  
+\- [Chopin-Erbe im Open Access](/electronic_resources/2022/05/12/chopin-heritage-in-open-access.html)  
+\- [Sarah Levy](/rism_a_z/2016/09/29/sara-levy.html)   
+\- [Entdeckung von Vivaldi-Quellen](/rediscovered/2014/08/11/vivaldi-embedded-violin-concerto-by-brescianello.html)  
+\- [Unikate suchen in RISM](/electronic_resources/2023/08/31/finding-unica-in-the-rism-database.html)    
 
 # Teilen Sie Ihre Neuigkeiten mit RISM  
 
