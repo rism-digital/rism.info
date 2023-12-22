@@ -25,7 +25,7 @@ Website: [dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
 # Hong Kong Central Library
 
 [Melinda LEE](mailto:mmllee@lcsd.gov.hk) (Chief Librarian)  
-[TSANG Lai-moon](mailto:lmtsang@lcsd.gov.hk)  
+[LI King-Yin](mailto:dkyli@lcsd.gov.hk)  
 66, Causeway Rd., Causeway Bay, Hong Kong  
 Phone:+852 2921 0288  
 Website: [www.hkpl.gov.hk/hkcl](http://www.hkpl.gov.hk/hkcl)

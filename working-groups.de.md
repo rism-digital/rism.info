@@ -60,49 +60,51 @@ _André Guerra Cotta in memoriam_
 ## CHINESISCH-SPRECHENDES GEBIET
 Webseite: [https://www.rism.info/working-groups/clr/home.html](/working-groups/clr/home.html){:blank}
 
-HO Wing  (Director)\
-Wu Xu\
+WU Xu\
 Central Conservatory of Music Library\
 Baojia Street No.43, Xicheng District, Beijing, 100031\
 China\
 Telefon: +86 10 66425609\
-E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn), [wingho@ccom.edu.cn](mailto:wingho@ccom.edu.cn)\
+E-Mail: [wxu@ccom.edu.cn](mailto:wxu@ccom.edu.cn)\
 Webseite: [http://library.ccom.edu.cn/](http://library.ccom.edu.cn/){:target="_blank"}
 
 Dr. Huang Chun-Zen (Director)\
-Tseng Tzu-Chia\
+E-Mail: [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
+TSENG Tzu-Chia   
+E-Mail: [tzchia22@gmail.com](mailto:tzchia22@gmail.com)  
 Digital Archive Center for Music of National Taiwan Normal University \
 162 Sec. 1 Heping E. Rd., Taipei City, 106\
 Taiwan (R.O.C.)\
 Telefon: +886 2 7734 1692\
-E-Mail: [tzchia22@gmail.com](mailto:tzchia22@gmail.com), [czh@ntnu.edu.tw](mailto:czh@ntnu.edu.tw)\
 Webseite: [http://dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/){:target="_blank"}
 
-Dr. Yang Yandi (Director)\
-Han Bin\
+HAN Bin\
 Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-Email: [hanbin@shcmusic.edu.cn](mailto:hanbin@shcmusic.edu.cn), [yyd@shcmusic.edu.cn](mailto:yyd@shcmusic.edu.cn)\
+E-Mail: [harmonic73@163.com](harmonic73@163.com)\
 Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/){:target="_blank"}
 
-Weng Chih-Tsung (Director)\
-Huang Hsin-Ying\
 Taiwan Music Institute of the National Centre For Traditional Arts\
 No. 751, Wenlin Rd., Shilin Dist., Taipei City, 111\
 Taiwan (R.O.C.)\
 Telefon: +886 2 25550288 #305\
-E-Mail: [bhsinying@ncfta.gov.tw](mailto:bhsinying@ncfta.gov.tw), [won540505@gmail.com](mailto:won540505@gmail.com)\
 Webseite: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/){:target="_blank"}
+
+Melinda LEE (Chief Librarian)   
+E-Mail: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk) 
+LI King-Yin  
+E-Mail: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)  
+Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\
 E-Mail: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
 
 Prof. Judy Tsou, International advisor\
-E-mail: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
+E-Mail: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
 
-Dr. Chang Hok-Yan, Jim, Liaison\
+Dr. CHANG Hok-Yan, Jim, Liaison\
 Telefon: +852 29210288\
 E-Mail: [jhychang@lcsd.gov.hk](mailto:jhychang@lcsd.gov.hk)
 
@@ -211,13 +213,12 @@ Telefon & Fax: +39 06 491325\
 E-Mail: [ibimus@libero.it](mailto:ibimus@libero.it)\
 Webseite: [http://www.ibimus.it/](http://www.ibimus.it/){:target="_blank"}  
 
-Dr. Attilio Rossi\
+Sara Taglietti\
 Ufficio Ricerca Fondi Musicali\
 Via Conservatorio, 12\
 I-20122 Milano\
-Telefon: +39 0276 011 822\
-Fax: +39 0276 003 097\
-E-Mail: [b-brai.urfm@beniculturali.it](mailto:b-brai.urfm@beniculturali.it)\
+Telefon: +39 02 36559499\
+E-Mail: [b-brai.urfm@cultura.gov.it](mailto:b-brai.urfm@cultura.gov.it)\
 Webseite: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidense.it/index/index.php){:target="_blank"}  
 
 ## JAPAN
@@ -250,7 +251,7 @@ Universidad de los Andes\
 Departamento de Música\
 Calle 19A n° 1-37 E - Bogotá\
 Telefon +571 339 4949 ext. 3436\
-E-Mail: rf.torres20@uniandes.edu.co\
+E-Mail: [rf.torres20@uniandes.edu.co](mailto:rf.torres20@uniandes.edu.co)\
 Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/){:target="_blank"}
 
 ## KROATIEN
@@ -454,13 +455,13 @@ Webseite: [https://nifc.pl/en//](https://nifc.pl/en//){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício\
+Isabel Novais Gonçalves\
 Área de Música\
 Biblioteca Nacional de Portugal\
 Campo Grande, 83\
 1749-081 Lisboa, Portugal\
 Telefon: +351 21 798 20 32\
-E-Mail: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)\
+E-Mail: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)\
 Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
@@ -548,19 +549,17 @@ Webseite: [www.snm.sk](http://www.snm.sk){:target="_blank"}
 
 ## SLOWENIEN
 
-Klemen Grabnar\
-Muzikološki inštitut (Direktor: Dr. Metoda Kokole)\
+Marko Motnik\
+Muzikološki inštitut (Direktor: Dr. Katarina Šter)\
 Znanstvenoraziskovalni center\
 Slovenske akademije znanosti in umetnosti\
 Novi trg 2\
-p.p. 306\
 SI-1001 Ljubljana\
-Telefon: +386 1 4706219 (Grabnar)\
-Telefon: +386 1 4706196 (Kokole)\
-Fax: +386 1 4257799\
-E-Mail: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
-E-Mail: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Webseite: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}\
+Telefon: +386 2 4213154 (Motnik)\
+Telefon: +386 1 4706217 (Šter)\
+E-Mail: [marko.motnik@zrc-sazu.si](mailto:marko.motnik@zrc-sazu.si)\
+E-Mail: [katarina.ster@zrc-sazu.si](mailto:katarina.ster@zrc-sazu.si)\
+Webseite: [https://mi.zrc-sazu.si](https://mi.zrc-sazu.si){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/slovenia/home.html](/working-groups/slovenia/home.html){:blank}
 
 ## SPANIEN
@@ -597,13 +596,15 @@ Siehe auch: [https://www.rism.info/working-groups/korea/home.html](/working-grou
 ## TSCHECHISCHE REPUBLIK
 
 Zuzana Petrášková\
+E-Mail: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
+Eliška Šedivá  
+Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)\
 Národní knihovna České republiky\
 Hudební oddělení\
 Klementinum 190\
 11001 Praha 1\
 Telefon: +420 221663129\
 Fax: +420 222220370\
-E-Mail: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
 Webseite: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
 
 ## UKRAINE
@@ -619,12 +620,13 @@ E-Mail:  [ivchenko@nbuv.gov.ua](mailto:ivchenko@nbuv.gov.ua)\
 Webseite: [http://www.nbuv.gov.u](http://www.nbuv.gov.ua/){:target="_blank"}
 
 Olga Osadcja\
-L'vivs'ka nacional'na naukova biblioteka Ukrajiny imeni V. Stefanyka (The Lviv National Vasyl Stefanyk Scientific Library of Ukraine)\
-Vul. Bibliotečna, 2  \
-M. L'viv, 79000  \
-Telefon: +380 / (032) / 261-55-20\
-E-Mail: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
-Webseite: [http://www.lsl.lviv.ua/index.php/uk/golovna2/](http://www.lsl.lviv.ua/index.php/uk/golovna2/){:target="_blank"}
+L'vivs'ka nacional'na muzyčna akademija imeni Mykoly Lysenka, Biblioteka\
+Vul. O. Hyžankivs'koho, bud. 5 \
+L'viv, 79000  \
+Telephone: +380 / (032) / 259-07-51\
+Email: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
+Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua) \
+Website: [https://lnma.edu.ua/](https://lnma.edu.ua/)){:target="_blank"}
 
 ## UNGARN
 
@@ -649,14 +651,14 @@ Email: [mendozag@sicht.ucv.ve] (mailto:mendozag@sicht.ucv.ve)
 
 ## VEREINIGTES KÖNIGREICH
 
-Richard Chesser\
+Sandra Tuppen\
 Music Collections\
 The British Library\
 96 Euston Road\
 UK-London NW1 2DB\
 Telefon: +44 (0)20 7412 7500\
 Fax: +44 (0)20 7412 7751\
-E-Mail: [Richard.Chesser@bl.uk](mailto:Richard.Chesser@bl.uk)\
+E-Mail: [sandra.tuppen@bl.uk](mailto:sandra.tuppen@bl.uk)\
 [Webseite](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/music/research/research-projects-and-centres/rism-uk-database/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/united-kingdom/home.html](/working-groups/united-kingdom/home.html){:blank}
 
