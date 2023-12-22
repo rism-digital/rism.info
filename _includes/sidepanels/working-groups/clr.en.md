@@ -41,7 +41,7 @@ Shanghai Conservatory of Music Library
 
 Hong Kong Central Library  
 [Melinda LEE](mailto:mmllee@lcsd.gov.hk) (Chief Librarian)   
-[TSANG Lai-moon](mailto:lmtsang@lcsd.gov.hk)  
+[LI King-Yin](mailto:dkyli@lcsd.gov.hk)    
 66, Causeway Rd., Causeway Bay, Hong Kong  
 +852 2921 0288
 
