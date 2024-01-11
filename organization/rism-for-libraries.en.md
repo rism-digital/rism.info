@@ -82,7 +82,7 @@ As an example, these records from the Princeton University Library cite the A/I 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Not everything from the books is in the RISM electronic database (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles](/resources/organization/RISM_Citation_Styles_2019_06.pdf), which includes A/I, every volume in the B series, and the RISM Catalog.
+Not everything from the books is in the RISM electronic database (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles](/resources/organization/table-of-rism-citation-styles.pdf), which includes A/I, every volume in the B series, and the RISM database.
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
