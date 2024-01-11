@@ -20,10 +20,10 @@ Wie in den vergangenen Jahren möchten wir den Jahresbeginn nutzen, um schon ein
 
  
 c = circa   
-a = before  
-p = after  
-m = male  
-w / f = female
+a = vor  
+p = nach  
+m = männlich  
+w / f = weiblich
 
 Image: [pixabay.com](https://pixabay.com/de/photos/neujahr-2024-jahresbeginn-silvester-8431886/){:blank} 
 
