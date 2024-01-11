@@ -91,7 +91,7 @@ _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Mu
 * 13\. Oktober 2020: RISM United Kingdom, online\
 *Jennifer Ward, RISM-Zentralredaktion*
 
-* 15\. September 2020: [IAML Deutschland Jahrestagung](http://www.aibm.info/tagungen/2020-bonn/){:target="_blank"}, Bonn\
+* 15\. September 2020: [IAML Deutschland Jahrestagung](https://iaml-deutschland.info/tagungen-1966-2016/){:target="_blank"}, Bonn\
 *Martina Falletta, RISM-Zentralredaktion*
 
 * 7\.-8\. September 2020: Chopin-Institut, Warschau (online)
