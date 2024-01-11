@@ -760,15 +760,15 @@ Herrmann-Schneider, Hildegard: Throwing Some Light on the History of Verdi and W
 
 Hofmann, Anke und Barbara Wiermann: Customizing Music Discovery Services: Experiences at the Hochschule für Musik und Theater, Leipzig, in: Music Reference Services Quarterly 17, no. 2 (2014), S. 61–75. [Online verfügbar](https://doi.org/10.1080/10588167.2014.904699){:target="_blank"}.
 
-Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36.
+Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36. [Online verfügbar](https://doi.org/10.13141/fmb.v20143715){:target="_blank"}
 
-Kaiser, Stefan Ikarus: Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs, in: Forum Musikbibliothek 35 (2014), S. 7-16. [Online verfügbar](https://oa.slub-dresden.de/ejournals/fmb/article/view/295){:target="_blank"}.
+Kaiser, Stefan Ikarus: Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs, in: Forum Musikbibliothek 35 (2014), S. 7-16. [Online verfügbar](https://doi.org/10.13141/fmb.v2014348){:target="_blank"}
 
-Lauterwasser, Helmut: München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM), in: Forum Musikbibliothek 35 (2014), S. 51-53. [Online verfügbar](https://oa.slub-dresden.de/ejournals/fmb/article/view/283){:target="_blank"}. 
+Lauterwasser, Helmut: München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM), in: Forum Musikbibliothek 35 (2014), S. 51-53. [Online verfügbar](https://oa.slub-dresden.de/ejournals/fmb/article/view/283){:target="_blank"}
 
 Martin, Cheryl: RISM Canada Report, in: CAML Review 42 (2014), S. 23-26. [Online verfügbar](http://pi.library.yorku.ca/ojs/index.php/caml/article/viewFile/39684/35943){:target="_blank"}
 
-Rose, Stephen und Tuppen, Sandra: "Prospects for a Big Data History of Music." Proceedings of the 1st International Workshop on Digital Libraries for Musicology. (2014), S. 1-3 [Online verfügbar](http://dl.acm.org/citation.cfm?id=2660177){:target="_blank"}.
+Rose, Stephen und Tuppen, Sandra: "Prospects for a Big Data History of Music." Proceedings of the 1st International Workshop on Digital Libraries for Musicology. (2014), S. 1-3. [Online verfügbar](http://dl.acm.org/citation.cfm?id=2660177){:target="_blank"}
 
 Selfridge-Field, Eleanor: Search engines for digitally encoded scores, in: Early Music 42 (2014), S. 591-598. [Online verfügbar](http://em.oxfordjournals.org/content/42/4?etoc){:target="_blank"}
 
@@ -790,19 +790,19 @@ Gustar, Andrew: Quantitative perspectives, in: Early Music 43 (2015), S. 365-366
 
 Lewis, David und Frans Wiering: Practicalities of Corpus Building: Creating and Exploring Digital Data, in: Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 91-117. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
 
-Lisken-Pruss, Marion: Pater Dariusz Smolarek erforscht geistliche Musik, in: Rheinische Post, 11. August 2015. [Online erhältlich](http://www.rp-online.de/nrw/staedte/korschenbroich/pater-dariusz-smolarek-erforscht-geistliche-musik-aid-1.5303071){:target="_blank"}.
+Lisken-Pruss, Marion: Pater Dariusz Smolarek erforscht geistliche Musik, in: Rheinische Post, 11. August 2015. [Online erhältlich](http://www.rp-online.de/nrw/staedte/korschenbroich/pater-dariusz-smolarek-erforscht-geistliche-musik-aid-1.5303071){:target="_blank"}
 
-Martin, Cheryl: CAML 2015 Annual Report: RISM Canada, in:CAML Review 43 (2015), S. 18. [Online verfügbar](http://caml.journals.yorku.ca/index.php/caml/article/view/40226/36401){:target="_blank"}.
+Martin, Cheryl: CAML 2015 Annual Report: RISM Canada, in:CAML Review 43 (2015), S. 18. [Online verfügbar](http://caml.journals.yorku.ca/index.php/caml/article/view/40226/36401){:target="_blank"}
 
 Nägele, Reiner: FID Musikwissenschaft an der Bayerischen Staatsbibliothek, in: Bibliotheksmagazin. Mitteilungen aus den Staatsbibliotheken in Berlin und München 10 (2015), Heft 2, S. 10-13. [Online verfügbar](https://www.bsb-muenchen.de/fileadmin/pdf/publikationen/bibliotheksmagazin/BM2015_2.pdf){:target="_blank"}.
 
-Pugin, Laurent und Rodolfo Zitellini: Verovio: A Library for Typesetting MEI, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 136-141. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
+Pugin, Laurent und Rodolfo Zitellini: Verovio: A Library for Typesetting MEI, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 136-141. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
-Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in:Forum Musikbibliothek 36 (2015), S. 20-26.  
+Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in: Forum Musikbibliothek 36 (2015), S. 20-26. [Online verfügbar](https://doi.org/10.13141/fmb.v2015393){:target="_blank"}  
   
-Rizo, David und José M. Iñesta: A Grammar for Plaine and Easie Code, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 54-64. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.
+Rizo, David und José M. Iñesta: A Grammar for Plaine and Easie Code, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 54-64. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
-Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in: Early Music (2015). [Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}.
+Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in: Early Music (2015). [Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}
 
 Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment, in: Zeitschrift für Bibliothekswesen und Bibliographie 62 (2015), S. 49-53. [Online verfügbar](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
@@ -883,7 +883,7 @@ Blum, David: The Moravian Music Foundation Experience Using Bibliographic Record
 
 Díaz, Antonio: Seminario de Música de la Nueva España celebra 15 años con concierto, in: La Crónica de Hoy, 21. November 2017. [Online verfügbar (archiviert)](https://web.archive.org/web/20210917183711){:target="_blank"}.
 
-Diet, Jürgen: Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern11, Nr. 2 (2017), S. 82-85. [Online verfügbar](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}
+Diet, Jürgen: Zwischen musikalischen Kostbarkeiten und digitaler Musikwissenschaft: Ein aktuelles Porträt der Musikabteilung der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern 11, Nr. 2 (2017), S. 82-85. [Online verfügbar](https://www.bibliotheksforum-bayern.de/index.php?id=145){:target="_blank"}
 
 Güggi, Cédric und Laurent Pugin: Zehn Jahre Entwicklungs- und Katalogisierungserfahrung mit Muscat, in: Forum Musikbibliothek38, Nr. 1 (2017), S. 20-27.  
   
@@ -893,7 +893,7 @@ McAulay, Karen: The Big Picture: Bibliographic Control, in: Claimed from Station
 
 Münch, Vera: "Wie finden Sie die Melodie?", in: _b.i.t.online_ 20, no. 5 (2017), S.409-414. [Online verfügbar](http://www.b-i-t-online.de/heft/2017-05-reportage-muench.pdf){:target="_blank"}
 
-"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox, in: Cataloging & Classification Quarterly 55 (2017), no. 3, S. 172-186.  [Online verfügbar](https://doi.org/10.1080/01639374.2017.1281673){:target="_blank"} or [Online verfügbar](http://catalogingandclassificationquarterly.com/ccq55nr3.html){:target="_blank"}
+"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox, in: Cataloging & Classification Quarterly 55 (2017), no. 3, S. 172-186.  [Online verfügbar](https://doi.org/10.1080/01639374.2017.1281673){:target="_blank"} 
 
 Selfridge-Field, Eleanor: A Topography and Taxonomy of Digital Musicology, in: Arti musices: Croatian Musicological Review, 48 (2017), S. 215-225. [Online verfügbar](https://doi.org/10.21857/yq32oh4e79){:target="_blank"}.
 
@@ -963,7 +963,7 @@ Eggertsen, Chris: Musicologists Come to Katy Perry's Defense in 'Dark Horse' Cas
 
 Felder, Lynn: Back to the future: Beethoven symphony defies time and space, in: Winston-Salem Journal, 3 August 2020. [Online verfügbar](https://journalnow.com/entertainment/back-to-the-future-beethoven-symphony-defies-time-and-space/article_56263d1e-2e23-5310-bd13-2570f2df5aa9.html){:target="_blank"}
 
-Herrera, Jesús: Manejo digital de fuentes documentales para el conocimiento del patrimonio musical, in: _El Sincopado Habanero. Boletín del Gabinete de Patrimonio Musical Esteban Salas 5 (Mai/August 2020), S. 10-16. [Online verfügbar](https://gabinete.cubava.cu/sincopadohabanero/){:blank}.
+Herrera, Jesús: Manejo digital de fuentes documentales para el conocimiento del patrimonio musical, in: _El Sincopado Habanero. Boletín del Gabinete de Patrimonio Musical Esteban Salas 5 (Mai/August 2020), S. 10-16. [Online verfügbar](https://issuu.com/gabinetepatrimoniomusical/docs/sincopado_may-ago_2020){:blank} \| ([Archived](https://web.archive.org/web/20201024195836/https://gabinete.cubava.cu/sincopadohabanero/)){:blank}.
 
 Johnson, Kirstin Dougan: Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis, in: Fontes Artis Musicae 67 (2020), S. 119-142. [Online verfügbar](https://muse.jhu.edu/article/758645){:target="_blank"}
 
