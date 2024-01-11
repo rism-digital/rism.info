@@ -11,15 +11,37 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
-## Zukünftige Schulungen
+#### Online  
 
+- Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
 
-### Online workshops
+### Spezialthema: Musikdrucke  (in englischer Sprache)
 
-Die nächsten online Muscat-Workshops der RISM-Zentralredaktion sind für den Frühling 2023 geplant. Weitere Workshops können auf Anfrage abgehalten werden; bitte kontaktieren Sie uns für weitere Informationen: [contact@rism.info](mailto:contact@rism.info){:blank}
+Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
+
+- Weitere Termine werden im Herbst angeboten.
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 08\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
+_Guido Kraus, RISM Zentralredaktion_ 
+
+* 1\. August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
+_Jennifer Ward, Balázs Mikusi_ 
+
+* April-Juni 2023: Muscat introduction, Ewha Womans University, Seoul, South Korea  
+_JeongYoun Chang_
+
+* 13\.-15\. Juni 2023: NIFC, Kraków, Poland  
+_Guido Kraus, RISM Zentralredaktion_ 
+
+* 4\. Mai und 2\. Juni 2023: Special Topics: Printed music
+_Jennifer Ward, RISM-Zentralredaktion_
+
+* 25\. und 27\. April 2023: Muscat Introduction
+_Jennifer Ward, RISM-Zentralredaktion_
+
 * 30\. September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives 
 _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de Córdoba_
 
