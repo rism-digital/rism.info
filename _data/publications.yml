@@ -118,6 +118,11 @@
             fr: All annual reports
           link: "/publications/annual-reports/all.html"
     - name:
+        en: Fondo Cappella Sistina in RISM
+        de: Fondo Cappella Sistina in RISM
+        fr: Fondo Cappella Sistina dans le RISM
+      link: "/publications/sistina"
+    - name:
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
         fr: Publications CD-ROM (1995-2011)
