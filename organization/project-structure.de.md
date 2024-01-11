@@ -29,7 +29,7 @@ Für Einzelprojekte erhielt RISM finanzielle Unterstützung u.a. von:
 * [The Ford Foundation, New York](http://www.fordfoundation.org/){:target="_blank"}
 * [Institut de Recherche et d'Histoire des Textes (CNRS), Strasbourg](http://www.irht.cnrs.fr/){:target="_blank"}
 * [Memorial Foundation for Jewish Culture, Jerusalem](http://www.mfjc.org/){:target="_blank"}
-* [Otto-Wolff-Stiftung, Köln](http://www.otto-wolff-institut.de/){:target="_blank"}
+* [Otto-Wolff-Stiftung, Köln](http://www.ottowolffstiftung.de/){:target="_blank"}
 * [Research Division of the National Endowment for the Humanities, Washington](http://www.neh.gov/){:target="_blank"}
 * [Stiftung für wissenschaftliche Forschung, Zürich](http://www.researchers.uzh.ch/){:target="_blank"}
 * [VolkswagenStiftung, Hannover](http://www.volkswagen-stiftung.de/){:target="_blank"}

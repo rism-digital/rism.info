@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consortium of  RISM Working Groups in Austria
+title: Consortium of RISM Working Groups in Austria
 date: 2013-07-03
 lang: en
 post: true

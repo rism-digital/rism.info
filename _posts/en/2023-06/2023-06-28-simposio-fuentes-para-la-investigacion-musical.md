@@ -19,15 +19,15 @@ The RISM talk was part of a session moderated by John Lazos and included present
 I pulled the musicological and library threads together and talked about RISM cataloging projects in Mexico and Latin America, highlighting [the work of John Lazos](/working-groups/mexico/home.html) and [our recent collaboration with the Musicat project in Mexico City](/publications/rism-lectures/musical-sources-mexico.html), our [colleagues in Argentina](/events/2019/06/03/taller-de-muscat-en-c%C3%B3rdoba-argentina-muscat.html), and the translating work of RISM Brazil. I showed how the RISM incipit search (either using the [RISM Catalog](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:blank} or [RISM Online](https://rism.online/?mode=incipits){:blank}) can lead to new discoveries, and how RISM Online offers national collections and other views that can offer direct access to the catalog of composers or institutions.  
 
 From Latin America, the RISM database currently has:
-- Bolivia: 7 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=BOL-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=BOL){:blank})    
+- Bolivia: 7 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=BOL-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=BOL){:blank})    
 - Brazil: 646 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=BR-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=BR){:blank})  
-- Chile: 93 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=RCH-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=RCH){:blank})  
-- Colombia: 73 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=CO-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=CO){:blank})  
-- Guatemala: 1 record ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=GCA-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=GCA){:blank})  
+- Chile: 93 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=RCH-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=RCH){:blank})  
+- Colombia: 73 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=CO-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=CO){:blank})  
+- Guatemala: 1 record ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=GCA-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=GCA){:blank})  
 - Mexico: 3,075 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=MEX-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=MEX){:blank})  
-- Peru: 7 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=PE-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=PE){:blank})  
-- Uruguay: 21 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=ROU-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=ROU){:blank})  
-- Venezuela: 37 records ([RISM Catalog]( https://opac.rism.info/search?View=rism&siglum=VE-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=VE){:blank})  
+- Peru: 7 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=PE-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=PE){:blank})  
+- Uruguay: 21 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=ROU-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=ROU){:blank})  
+- Venezuela: 37 records ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=VE-*){:blank} \| [RISM Online](https://rism.online/?mode=sources&nc=VE){:blank})  
 
 I closed my talk with an invitation for anyone working on documenting musical sources to collaborate with us. This extends to readers here as well: We would welcome new partnerships with our colleagues in Latin America. Our cataloging program, Muscat, is available in eight languages, including Spanish and Portuguese. Training and the software are provided at no cost. Please get in touch if you would like more information.  
 

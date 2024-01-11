@@ -12,7 +12,7 @@ Muscat ist das Katalogisierungsprogramm des RISM für musikalische Quellen (Manu
 
 ## Über Muscat
 
-Im Dezember 2020 wies Muscat insgesamt 1.484.000 Musikquellen, 139.000 Einträge zu Personennamen, 59.000 Institutionen und 36.000 Einträge für Sekundärliteratur auf. Muscat enthält Musikquellen aus den verschiedenen RISM-Serien A/I, A/II und B/I, die nun in einer Datenbank vereint sind. 
+Im Januar 2024 wies Muscat insgesamt 1.658.000 Musikquellen, 154.000 Einträge zu Personennamen, 26.900 Institutionen und 15.200 Einträge für Sekundärliteratur auf. Muscat enthält Musikquellen aus den verschiedenen RISM-Serien A/I, A/II und B/I, die nun in einer Datenbank vereint sind. 
 
 Muscat ist ein mehrsprachiges, [open source](https://github.com/rism-ch/muscat){:targe="_blank"} und webbasiertes Programm. Es verwendet MARC21 und somit ein international weitverbreitetes und standardisiertes Datenmodell. Additional features include:
 * Eingebaute Versionskontrolle zum Verlauf von Änderungen

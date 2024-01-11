@@ -25,7 +25,7 @@ Hensel was not the only composer who reacted musically to the health crisis. [A 
 Hensel's Cholera Cantata is performed here:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aOhFHoMEQvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
- 
+
 _Image_: "Elegy" (Trauerchor) from Fanny Hensel's cantata _Höret zu merket auf_.
-D-B  MA Ms. 39. [RISM ID No. 462003900](https://opac.rism.info/search?id=462003900&View=rism){:blank}.  
+D-B MA Ms. 39. [RISM ID No. 462003900](https://opac.rism.info/search?id=462003900&View=rism){:blank}.  
 Available online: Staatsbibliothek zu Berlin - PK [http://resolver.staatsbibliothek-berlin.de/SBB000075D500000040](http://resolver.staatsbibliothek-berlin.de/SBB000075D500000040){:blank}

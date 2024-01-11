@@ -20,5 +20,4 @@ A new bibliography, titled _[Anthologies of Musical Works in Print and Manuscrip
 
 Please contact the [Performing Arts librarians using this form](https://ask.loc.gov/performing-arts){:blank} with any questions.
 
-
-_Image_: Barbara Strozzi, "Quis dabit mihi?" from _Sacra corona_ (Venice, 1656). According to ClermontA 2023, this piece is "one of the earliest appearances of a woman composer’s work in an anthology" (p. 147-148). Library of Congress, Washington, D.C. (US-Wc  M1490.M185 S2 Case). RISM ID no. 993121844 ([RISM Catalog](https://opac.rism.info/search?id=993121844&View=rism){:blank} \| [RISM Online](https://rism.online/sources/993121844){:blank}). [Available online](https://www.loc.gov/item/2008575478/){:blank} (public domain). 
+_Image_: Barbara Strozzi, "Quis dabit mihi?" from _Sacra corona_ (Venice, 1656). According to ClermontA 2023, this piece is "one of the earliest appearances of a woman composer’s work in an anthology" (p. 147-148). Library of Congress, Washington, D.C. (US-Wc M1490.M185 S2 Case). RISM ID no. 993121844 ([RISM Catalog](https://opac.rism.info/search?id=993121844&View=rism){:blank} \| [RISM Online](https://rism.online/sources/993121844){:blank}) [Available online](https://www.loc.gov/item/2008575478/){:blank} (public domain). 
