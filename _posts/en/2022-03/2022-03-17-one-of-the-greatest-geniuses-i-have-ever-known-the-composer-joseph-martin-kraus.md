@@ -10,7 +10,7 @@ email: ''
 author: 'Wolfram Enßlin'
 ---
 
-The following is by Wolfram Enßlin and originally appeared on the [Carus Verlag blog]( https://blog.carus-verlag.com/en/personalities/the-composer-joseph-martin-kraus/){:blank}. It is reprinted here with kind permission.
+The following is by Wolfram Enßlin and originally appeared on the [Carus Verlag blog](https://blog.carus-verlag.com/en/personalities/the-composer-joseph-martin-kraus/){:blank}. It is reprinted here with kind permission.
 
 _“What a loss is this man’s death. I have a Sinfonie by him which I will preserve in memory of one of the greatest geniuses I have ever known.”_
 
@@ -31,4 +31,4 @@ After his one-year interruption, he resumed his legal studies and continued thes
 His gravestone bears the inscription: _“Here lie the earthly remains of Kraus – the divine lie in his music.”_ It is thanks to the Swedish diplomat Frederik Samuel Silverstolpe that a considerable portion of his musical output survives and can thus be performed at all today. In preparing a planned extensive biography of Kraus shortly after the composer’s death, Silverstolpe copied many widely-dispersed compositions and later left his collection to the University Library in Uppsala. The unique copies of no fewer than 37 compositions, including the _Requiem_ and _Der Tod Jesu_, survive in [Silverstolpe’s valuable music collection](https://opac.rism.info/search?View=rism&siglum=S-Uu&q=silverstolpe){:blank}.
 
 
-_Image_: Joseph Martin Kraus, _Quintett für Flöte und Streicher_ (BoeK 184), manuscript copy in DK-Kk (mu 6404.2266), [RISM ID no. 150205112]( https://opac.rism.info/search?id=150205112&View=rism).
+_Image_: Joseph Martin Kraus, _Quintett für Flöte und Streicher_ (BoeK 184), manuscript copy in DK-Kk (mu 6404.2266), [RISM ID no. 150205112](https://opac.rism.info/search?id=150205112&View=rism).

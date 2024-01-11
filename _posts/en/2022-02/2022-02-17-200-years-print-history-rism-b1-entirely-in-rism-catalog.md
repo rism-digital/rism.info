@@ -27,6 +27,6 @@ The places of publication found in these editions are also varied. While we enco
 
 Even though revising the B/I records has been completed, there is still the opportunity to edit and improve them. This is especially important for editions that have not yet been digitized or are especially rare. And in spite of the many overlaps with records from Series A/I (_Individual Prints before 1800_) there is still a significant number of A/I records, especially from the 17th century, that need to be revised in a similar manner. To say nothing of the records from the 18th century.
 
-_Image, top_: _Harmonice Musices Odhecaton_, Venice: Petrucci, 1501 ([B/I 1501\|1; RISM ID no. 993103756](https://opac.rism.info/search?id=993103756&View=rism){:blank}). The only known copy is in [I-Bc, Q.51]( http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q051/){:blank}.  
+_Image, top_: _Harmonice Musices Odhecaton_, Venice: Petrucci, 1501 ([B/I 1501\|1; RISM ID no. 993103756](https://opac.rism.info/search?id=993103756&View=rism){:blank}). The only known copy is in [I-Bc, Q.51](http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q051/){:blank}.  
 
 _Image, middle_: _Recueil d’airs sérieux et à boire_, Paris; C. Ballard 1700 ([B/I 1700\|2; RISM ID no. 993122141](https://opac.rism.info/search?id=993122141&View=rism){:blank}), [B-Br Fétis 2.459 A (RP)](https://uurl.kbr.be/1567245){:blank}.  

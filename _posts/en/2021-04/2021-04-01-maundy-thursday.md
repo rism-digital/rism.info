@@ -26,7 +26,7 @@ The most common Maundy Thursday responsories include:\
 [Unus ex discipulis](https://opac.rism.info/search?View=rism&title=”Unus ex discipulis”){:blank}
 
 The three Lamentations for Maundy Thursday are as follows:\
-[Incipit lamentatio Jeremiae prophetae](https://opac.rism.info/search?View=rism&title=”Incipit lamentatio Jeremiae prophetae”){:blank} (320 sources, including  Palestrina's and Allegri's settings 60 times)\
+[Incipit lamentatio Jeremiae prophetae](https://opac.rism.info/search?View=rism&title=”Incipit lamentatio Jeremiae prophetae”){:blank} (320 sources, including Palestrina's and Allegri's settings 60 times)\
 [Vau et egressus est](https://opac.rism.info/search?View=rism&title=”Vau et egressus est”){:blank} (172 sources, including Palestrina's setting 19 times)\
 [Jod manum suam](https://opac.rism.info/search?View=rism&title=”Jod manum suam”){:blank} (174 sources, including Palestrina's setting 14 times)
 

@@ -751,9 +751,9 @@ Herrmann-Schneider, Hildegard. "Throwing Some Light on the History of Verdi and 
 
 Hofmann, Anke and Barbara Wiermann. "Customizing Music Discovery Services: Experiences at the Hochschule für Musik und Theater, Leipzig." _Music Reference Services Quarterly_ 17, no. 2 (2014): 61–75. [Available online](https://doi.org/10.1080/10588167.2014.904699){:target="_blank"}.  
 
-Janitzek, Kerstin. "Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt." _Forum Musikbibliothek_ 35:3 (2014): 34-36. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/346){:target="_blank"}.
+Janitzek, Kerstin. "Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt." _Forum Musikbibliothek_ 35:3 (2014): 34-36. [Available online](https://doi.org/10.13141/fmb.v20143715 ){:target="_blank"}.
 
-Kaiser, Stefan Ikarus. "Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs." _Forum Musikbibliothek_ 35, no. 2 (2014): 7-16. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/295){:target="_blank"}.
+Kaiser, Stefan Ikarus. "Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs." _Forum Musikbibliothek_ 35, no. 2 (2014): 7-16. [Available online](https://doi.org/10.13141/fmb.v2014348){:target="_blank"}.
 
 Lauterwasser, Helmut. "München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM)." _Forum Musikbibliothek_ 35:1 (2014): 51-53. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/283){:target="_blank"}.  
 
@@ -789,7 +789,7 @@ Nägele, Reiner. "FID Musikwissenschaft an der Bayerischen Staatsbibliothek." _B
 
 Pugin, Laurent and Rodolfo Zitellini. "Verovio: A Library for Typesetting MEI." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 136-141. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
 
-Richts, Kristina and Irmlind Capelle. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI: Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/321){:target="_blank"}.  
+Richts, Kristina and Irmlind Capelle. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI: Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26. [Available online](https://doi.org/10.13141/fmb.v2015393 ){:target="_blank"}.  
 
 Rizo, David and José M. Iñesta. "A Grammar for Plaine and Easie Code." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 54-64. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
 
@@ -884,7 +884,7 @@ McAulay, Karen. "The Big Picture: Bibliographic Control." _Claimed from Statione
 
 Münch, Vera. "Wie finden Sie die Melodie?" _b.i.t.online_ 20, no. 5 (2017): 409-414. [Available online](http://www.b-i-t-online.de/heft/2017-05-reportage-muench.pdf){:target="_blank"}.
 
-"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox. _Cataloging & Classification Quarterly_ 55, no. 3 (2017): 172-186. [Available online](http://catalogingandclassificationquarterly.com/ccq55nr3.html){:target="_blank"}.  
+"RISM releases Muscat cataloging program." Cataloging News, edited by Violet B. Fox. _Cataloging & Classification Quarterly_ 55, no. 3 (2017): 172-186. [Available online](https://doi.org/10.1080/01639374.2017.1281673){:target="_blank"}.  
 
 Selfridge-Field, Eleanor. "A Topography and Taxonomy of Digital Musicology." _Arti musices: Croatian Musicological Review_, 48, no. 2 (2017): 215-225. [Available online](https://doi.org/10.21857/yq32oh4e79){:target="_blank"}.   
 
@@ -954,7 +954,7 @@ Eggertsen, Chris. "Musicologists Come to Katy Perry's Defense in 'Dark Horse' Ca
 
 Felder, Lynn. "Back to the future: Beethoven symphony defies time and space." _Winston-Salem Journal_, 3 August 2020. [Available online](https://journalnow.com/entertainment/back-to-the-future-beethoven-symphony-defies-time-and-space/article_56263d1e-2e23-5310-bd13-2570f2df5aa9.html){:target="_blank"}.  
 
-Herrera, Jesús. "Manejo digital de fuentes documentales para el conocimiento del patrimonio musical." _El Sincopado Habanero. Boletín del Gabinete de Patrimonio Musical Esteban Salas_ 5 (May/August 2020): 10-16. [Available online](https://gabinete.cubava.cu/sincopadohabanero/){:blank}.  
+Herrera, Jesús. "Manejo digital de fuentes documentales para el conocimiento del patrimonio musical." _El Sincopado Habanero. Boletín del Gabinete de Patrimonio Musical Esteban Salas_ 5 (May/August 2020): 10-16. [Available online](https://issuu.com/gabinetepatrimoniomusical/docs/sincopado_may-ago_2020){:blank} \| ([Archived](https://web.archive.org/web/20201024195836/https://gabinete.cubava.cu/sincopadohabanero/){:blank}).  
 
 Johnson, Kirstin Dougan, "Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis." _Fontes Artis Musicae_ 67, no. 2 (April-June 2020): 119-142. [Available online](https://muse.jhu.edu/article/758645){:target="_blank"}.
 
@@ -1014,7 +1014,7 @@ _Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celeb
 
 Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann, and Barbara Wiermann. "Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 69, no. 4 (2022): 196-209. [Available online](http://dx.doi.org/10.3196/186429502069422){:blank}.  
 
-Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista  italiana  di  biblioteconomia,  archivistica  e  scienza  dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.   
+Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista italiana di biblioteconomia, archivistica e scienza dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.   
 
 Krämer, Kristina. "Two Hundred Years of Printed Music History." Notes for _Notes_. _Notes_ 79, no. 1 (September 2022): 54. [Available online](https://doi.org/10.1353/not.2022.0064){:blank}; and Briefs/Feuilletons. _Fontes Artis Musicae_ 69, no. 2 (April-June 2022): 139. [Available online](https://muse.jhu.edu/article/862514){:blank}.
 

@@ -8,7 +8,7 @@ old_url: http://www.rism.info/service/disclaimer.html
 
 # Disclaimer
 
-*The [German Impressum]( /de/service/impressum.html) applies in the event of a legal dispute.*
+*The [German Impressum](/de/service/impressum.html) applies in the event of a legal dispute.*
 
 The information contained in this website is for general information purposes only. The information is provided by the RISM Editorial Center (Zentralredaktion), and while we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 

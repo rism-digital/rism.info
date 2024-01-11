@@ -20,7 +20,7 @@ This shows how urgent it is to revise records from our printed volumes. Who like
 
 Here are some examples.  
 
-The pasticcio  _La villanella rapita_ (RISM ID no. 990048192; [RISM Catalog](https://opac.rism.info/search?id=990048192&View=rism){:blank} \| [RISM Online](https://rism.online/sources/990048192){:blank}) is in A/I three times, once for each composer: B 2560/BB 2560 (Bianchi, Francesco), M 5288/MM 5288 (Mozart, Wolfgang Amadeus), and  P 591/PP 591 (Paisiello, Giovanni). The edition is also found in series B/II on p. 397 under title of the print.
+The pasticcio  _La villanella rapita_ (RISM ID no. 990048192; [RISM Catalog](https://opac.rism.info/search?id=990048192&View=rism){:blank} \| [RISM Online](https://rism.online/sources/990048192){:blank}) is in A/I three times, once for each composer: B 2560/BB 2560 (Bianchi, Francesco), M 5288/MM 5288 (Mozart, Wolfgang Amadeus), and P 591/PP 591 (Paisiello, Giovanni). The edition is also found in series B/II on p. 397 under title of the print.
 
 The _Dialogo della musica_ first appeared in a RISM bibliography in 1960 as B/I 1544\|22, was taken up in 1971 as a treatise in the first volume of B/VI (p. 272), and was finally listed under D 3419 as a single-composer Antonio Francesco Doni print in 1972's A/I, volume 2 (p. 434). Each catalog had different information about the _Dialogo della muscia_. The database allows everything to be clearly laid out in a single record: RISM ID no. 993104404 ([RISM Catalog](https://opac.rism.info/search?id=993104404&View=rism){:blank} \| [RISM Online](https://rism.online/sources/993104404){:blank}). This print is also distinctive for having a different dedicatee for each partbook.  
 

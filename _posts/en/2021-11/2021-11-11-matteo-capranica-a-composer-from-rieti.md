@@ -14,7 +14,7 @@ _Angelo Fusacchia has devoted a long time to researching musicians who were from
 
 Matteo Capranica is an almost completely unknown composer today. He must have been somewhat famous at one point, considering that [his compositions](https://opac.rism.info/search?View=rism&author=Capranica+Matteo){:blank} can be found in many European libraries.
 
-Capranica  was born on 26 August 1708 in Amatrice, today in Rieti, at the time part of the Kingdom of Naples. The last name Capranica can still be found in Amatrice.
+Capranica was born on 26 August 1708 in Amatrice, today in Rieti, at the time part of the Kingdom of Naples. The last name Capranica can still be found in Amatrice.
 
 He was a student at the Conservatorio di Sant'Onofrio in Naples and his teachers probably included Nicolò Porpora, Ignazio Prota, and Francesco Feo.
 
