@@ -7,12 +7,12 @@
         en: Brochures
         de: Broschüren
         fr: Brochures
-      link: "publications/brochures.html"
+      link: "/publications/brochures.html"
     - name:
         en: Bibliography
         de: Bibliographie
         fr: Bibliographie
-      link: "publications/bibliography.html"
+      link: "/publications/bibliography.html"
     - name:
         en: Conferences
         de: Konferenzen
@@ -48,7 +48,7 @@
         en: RISM Lectures
         de: RISM Lectures
         fr: RISM Lectures
-      link: "publications/rism-lectures.html"
+      link: "/publications/rism-lectures.html"
       items:
         - name:
             en: "1: Cappella Sistina"
@@ -126,9 +126,9 @@
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
         fr: Publications CD-ROM (1995-2011)
-      link: "publications/cd-rom-publications-1995-2011.html"
+      link: "/publications/cd-rom-publications-1995-2011.html"
     - name:
         en: Info RISM (1989-2001)
         de: Info-RISM (1989-2001)
         fr: Info-RISM (1989-2001)
-      link: "publications/info-rism.html"
+      link: "/publications/info-rism.html"
