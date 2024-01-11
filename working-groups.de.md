@@ -83,7 +83,7 @@ Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-E-Mail: [harmonic73@163.com](harmonic73@163.com)\
+E-Mail: [harmonic73@163.com](mailto:harmonic73@163.com)\
 Webseite: [http://www.shcmusic.edu.cn/](http://www.shcmusic.edu.cn/){:target="_blank"}
 
 Taiwan Music Institute of the National Centre For Traditional Arts\
@@ -231,7 +231,7 @@ Japan\
 Telefon: +81 425 36 0799\
 Fax: +81 425 35 7590\
 E-Mail: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
-Webseite: [https://www.lib.kunitachi.ac.jp/default_e.htm](https://www.lib.kunitachi.ac.jp/default_e.htm){:target="_blank"}  
+Webseite: [https://www.kunitachi.ac.jp/en/organization/library.html](https://www.kunitachi.ac.jp/en/organization/library.html){:target="_blank"}  
 
 ## KANADA
 
