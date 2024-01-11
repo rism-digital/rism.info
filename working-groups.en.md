@@ -161,7 +161,7 @@ Shanghai Conservatory of Music Library\
 20, Fen Yang Rd., Shanghai, 200031\
 China\
 Telephone: +86 21 64315745\
-Email: [harmonic73@163.com](harmonic73@163.com)\
+Email: [harmonic73@163.com](mailto:harmonic73@163.com)\
 Website: [http://www.shcmusic.edu.cn](http://www.shcmusic.edu.cn){:target="_blank"}
 
 Taiwan Music Institute of the National Centre For Traditional Arts\
@@ -356,7 +356,7 @@ Japan\
 Telephone: +81 425 36 0799\
 Fax: +81 425 35 7590\
 Email: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
-Website: [https://www.lib.kunitachi.ac.jp/default_e.htm](https://www.lib.kunitachi.ac.jp/default_e.htm){:target="_blank"}
+Website: [https://www.kunitachi.ac.jp/en/organization/library.html](https://www.kunitachi.ac.jp/en/organization/library.html){:target="_blank"}
 
 ## LATVIA
 
@@ -542,7 +542,7 @@ Rossijskij nacional'nyj muzej muzyki\
 National Music Museum of Russia\
 ul. Fadejeva 4\
 125047 Moscow\
-Telephone: +7  8 (495) 605-65-15 (ext. 1117)
+Telephone: +7 8 (495) 605-65-15 (ext. 1117)
 Email: [international@glinka.museum](mailto:international@glinka.museum)\
 Website: [https://music-museum.ru/](https://music-museum.ru/){:target="_blank"}
 
@@ -679,7 +679,7 @@ See also: [https://www.rism.info/working-groups/united-states/home.html](/workin
 ## VENEZUELA
 
 Msc. Giovani Mendoza\
-Centro de Documentación e Investigaciones  Acústico-Musicales de la  Universidad Central  de Venezuela\
+Centro de Documentación e Investigaciones Acústico-Musicales de la  Universidad Central  de Venezuela\
 Casillero N° 54003\
 Caracas 1053-A, D.F.\
 Venezuela\

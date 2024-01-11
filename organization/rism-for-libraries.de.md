@@ -18,15 +18,15 @@ RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekaren zusammen. W
 
 Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen Präsentationen zur Nutzung des RISM (auch auf der [IAML Website](http://www.iaml.info/r-projects)) zur Verfügung.
 
-**Live Demonstration**: Ein Mitglied der RISM-Zentralredaktion kann eine kostenlose, webbasierte Demonstration zu verschiedenen Themen im Zusammenhang mit RISM in englischer oder deutscher Sprache durchführen. Dies ist eine ideale Möglichkeit für Bibliothekare, Dozenten oder Studenten, sich mit RISM vertraut zu machen und zu lernen, wie die Publikationen des RISM für die Forschung genutzt werden können. [Kontaktieren](mailto:contact@rism.info) Sie uns, um eine Demonstration zu vereinbaren. Mögliche Themen sind unter anderem: 
+**Live Demonstration**: Ein Mitglied der RISM-Zentralredaktion kann eine kostenlose, webbasierte Demonstration zu verschiedenen Themen im Zusammenhang mit RISM in englischer oder deutscher Sprache durchführen. Dies ist eine ideale Möglichkeit für Bibliothekare, Dozenten oder Studenten, sich mit RISM vertraut zu machen und zu lernen, wie die Publikationen des RISM für die Forschung genutzt werden können. [Kontaktieren](mailto:contact@rism.info) Sie uns, um eine Demonstration zu vereinbaren. Mögliche Themen sind unter anderem:
 
 * Ein Überblick über das RISM-Projekt
-* Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} und [RISM Online](https://rism.online/){:blank} (Manuskripte und gedruckte Noten) 
+* Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} und [RISM Online](https://rism.online/){:blank} (Manuskripte und gedruckte Noten)
 * Einführung in Muscat, das Katalogisierungsprogramm des RISM, und wie Bibliotheken RISM beitragen können
 
 **Logos**: Logos stehen weiter unten zum Download bereit.
 
-**Poster**: Hier gibt es ein [RISM poster]( /resources/organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
+**Poster**: Hier gibt es ein [RISM poster](/resources/organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
 
 **Rezensionen zu RISM**: Veröffentlichungen des RISM wurden in der wissenschaftlichen Literatur rezensiert. Siehe die [RISM Bibliographie](/publications/bibliography.html).
 
@@ -34,7 +34,7 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 
 ## Katalogisierungstools
 
-### Plaine & Easie Code 
+### Plaine & Easie Code
 Der [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} zur Kodierung von Musikincipits wird von der International Association of Music Libraries, Archives and Documentation Centres (IAML) und RISM als Austauschformat im Bibliotheksumfeld verwendet. Es wird im [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank} verwendet. Eine Videoanleitung [finden Sie hier](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
 
 ### Links zu den elektronischen Katalogen des RISM
@@ -64,7 +64,7 @@ Die Daten des RISM können kostenlos über zwei verschiedene, sich ergänzende R
 
 **OCLC-Datensatz für den RISM Catalog**: Laden Sie diesen Datensatz von OCLC für den RISM Catalog herunter, damit die Bibliotheksbenutzer den kostenlosen Katalog finden: [OCLC #913332994](http://www.worldcat.org/oclc/913332994){:target="_blank"}
 
-**Standard-Zitierform**: Die offizielle Zitierform für RISM, die von der Abteilung [Rare Books and Manuscripts](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} vergeben wurde, ist **RISM (Répertoire international des sources musicales)**. Wenn RISM im Feld 510 eines Katalogeintrags genannt wird, zitieren Sie wenn möglich die RISM ID Nummer der Datenbank (Anfangsnullen können weggelassen werden). Verwenden Sie Verweise aus [A/I](/publications.html#c36){:target="_blank"} und [B/I](/publications.html#c2619) nur für die Bücher. Permalinks können ebenfalls übernommen werden. 
+**Standard-Zitierform**: Die offizielle Zitierform für RISM, die von der Abteilung [Rare Books and Manuscripts](https://rbms.info/scf/?scf_entries=rism-repertoire-international-des-sources-musicales){:target="_blank"} vergeben wurde, ist **RISM (Répertoire international des sources musicales)**. Wenn RISM im Feld 510 eines Katalogeintrags genannt wird, zitieren Sie wenn möglich die RISM ID Nummer der Datenbank (Anfangsnullen können weggelassen werden). Verwenden Sie Verweise aus [A/I](/publications.html#c36){:target="_blank"} und [B/I](/publications.html#c2619) nur für die Bücher. Permalinks können ebenfalls übernommen werden.
 
 In dieser Auflistung der Princeton University Library werden beispielsweise die A/I-Nummer sowie der Eintrag im Catalog genannt. In der öffentlichen Ansicht verweisen die Links in $u den Benutzer über die englische Oberfläche direkt auf den Eintrag im RISM Catalog.
 
