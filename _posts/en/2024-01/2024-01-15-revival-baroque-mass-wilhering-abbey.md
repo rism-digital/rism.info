@@ -5,7 +5,7 @@ date: 2024-01-15
 lang: en
 post: true
 category: events
-image: "/images/news/wiederaufführung-messe-wilhering_website.jpg"
+image: "/images/news/2024-01/wiederaufführung-messe-wilhering_website.jpg"
 email: musikarchiv@stiftwilhering.at
 author: Ikarus Kaiser
 ---
