@@ -21,7 +21,7 @@ Biblioteca comunale Manfrediana, Faenza (I-FZc) [RISM Catalog](https://opac.rism
 
 Veneranda Fabbrica del Duomo, Milano (I-Mfd) [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=I-Mfd){:blank} \| [RISM Online](https://rism.online/institutions/30003081){:blank} 
 
-Biblioteca dell'Istituto musicale Pareggiato "O. Vecchi - A. Tonelli", Modena (I-MOl) [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=I-MOl){:blank} \| [RISM Online](https://rism.online/institutions/30001839){:blank}
+Conservatorio di musica O. Vecchi - A. Tonelli, Modena (I-MOl) [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=I-MOl){:blank} \| [RISM Online](https://rism.online/institutions/30001839){:blank}
 
 Archivio di Stato, Roma (I-Ras) [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=I-Ras){:blank} \| [RISM Online](https://rism.online/institutions/30000144){:blank} 
 
