@@ -12,6 +12,10 @@ author: ''
 
 As in past years, we are using the beginning of a new year to take stock of the previous year and share what was most popular with our website readers. These are the year’s blog posts that were read the most often, according to our website statistics:
 &nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 1. [The Musical Public Domain in 2023](/in_the_news/2023/02/14/public-domain-2023.html): The 2024 version is coming!    
 
 2. [New Bibliography of Music Anthologies from the Library of Congress](/new_publications/2023/08/24/new-bibliography-music-anthologies-library-of-congress.html) by Susan Clermont 
@@ -36,7 +40,7 @@ Other stories were still widely read despite being somewhat older, including [Jo
 
 Some of our social media highlights were:
 
-- The newly digitized 𝐕𝐚𝐭𝐢𝐜𝐚𝐧 𝐎𝐫𝐠𝐚𝐧𝐮𝐦 𝐓𝐫𝐞𝐚𝐭𝐢𝐬𝐞 [(V-CVbav Ott.lat. 3025)](https://digi.vatlib.it/view/MSS_Ott.lat.3025){:blank} 
+- The newly digitized Vatican Organum Treatise [(V-CVbav Ott.lat. 3025)](https://digi.vatlib.it/view/MSS_Ott.lat.3025){:blank} 
 - [A cat dressed like Brünnhilde](https://www.loc.gov/resource/ppmsca.83927/){:blank} (above) 
 - [Nicoleta Paraschivescu's research on W.F. Bach's Clavier-Büchlein](https://youtu.be/bHmh22Zsb2Q?feature=shared){:blank}
 - [Boulanger Initiative's Women and Gender-Marginalized Composers Database](https://www.boulangerinitiative.org/database/database-info){:blank}
