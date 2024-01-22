@@ -256,14 +256,19 @@ Webseite: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/){:target
 
 ## KROATIEN
 
-Dr. Vjera Katalinic\
+Dr. Vera Katalinic & dr. Lucija Konfic\
 Hrvatska akademija znanosti i umjetnosti\
+_Provisorische Adresse (bis 2026) während der Sanierung des historischen Gebäudes:_\
+Ul. A. Kovacica 5.\
+HR-10000 Zagreb\
+Telefon: +385 1 4895320\
+_Langfristige Adresse:_
 Opaticka 18\
 HR-41000 Zagreb\
-Telefon: +385 1 4895320\
-E-Mail: [fides@hazu.hr](mailto:fides@hazu.hr)\
-E-Mail: [vjkatalinic@gmail.com](mailto:vjkatalinic@gmail.com)\
-Webseite: [http://info.hazu.hr](http://info.hazu.hr/){:target="_blank"}
+Telefon: +385 1 272323\
+Fax: +385 1 277352\
+E-Mail: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"} & [lucijam@hazu.hr](mailto:lucijam@hazu.hr){:target="_blank"}\
+Webseite: [https://info.hazu.hr](https://info.hazu.hr/){:target="_blank"}
 
 ## LETTLAND
 
