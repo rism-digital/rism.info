@@ -262,7 +262,7 @@ _Provisorische Adresse (bis 2026) während der Sanierung des historischen Gebäu
 Ul. A. Kovacica 5.\
 HR-10000 Zagreb\
 Telefon: +385 1 4895320\
-_Langfristige Adresse:_
+_Langfristige Adresse:_\
 Opaticka 18\
 HR-41000 Zagreb\
 Telefon: +385 1 272323\
