@@ -30,7 +30,7 @@ In der nächsten Ausgabe der ["Studi vivaldiani"](http://slubdd.de/katalog?TN_li
 
 Zu Talbots Überraschung umfasste das Rechercheergebnis nicht nur die beiden "Il Carbonelli"-Manuskripte der SLUB, sondern auch die Brescianello-Handschrift Mus.2364-O-7. Der abweichende Mittelsatz war damit schlagartig identifiziert.
 
-![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_migrated/RTE/RTEmagicC_rism2B_01.png.png)
+![Vivaldi_search_results](https://blog.slub-dresden.de/fileadmin/_processed_/f/4/csm_rism2B_9b4ef01500.png)
 
 
 Der Fund zeigt zwingend, was für ein mächtiges Suchinstrument der RISM-Onlinekatalog ist, dessen Incipitrecherche sogar transponierte Themen mühelos aufzuspüren vermag.

@@ -10,7 +10,7 @@ old_url: http://www.rism.info/de/service/faq.html
 
 ## Welche Quellen findet man in RISM?
 
-Der [Online-Katalog](https://opac.rism.info/){:target="_blank"} enthält derzeit über 1,3 Millionen Einträge, überwiegend Musikhandschriften aus den Jahren 1600-1850. Seit 2021 sind auch etwa 212.000 Nachweise zu Musikdrucken sowie einige Libretti und Traktate recherchierbar. Genaue Angaben finden Sie auf [der Katalogseite "Aktuell"](https://opac.rism.info/main-menu-/kachelmenu/content){:blank}. Auch wenn der Schwerpunkt bei der Erfassung von Musikhandschriften auf dem Zeitraum 1600-1850 liegt, finden Sie sowohl [ältere als auch jüngere Quellen](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"}. 
+Die [RISM-Datenbank](/publications.html#rism-database) enthält derzeit über 1,5 Millionen Einträge, überwiegend Musikhandschriften aus den Jahren 1600-1850. Seit 2024 sind auch etwa 232.000 Nachweise zu Musikdrucken sowie einige Libretti und Traktate recherchierbar. Genaue Angaben finden Sie auf [unserer Publikationen-Seite](/publications.html){:blank}. Auch wenn der Schwerpunkt bei der Erfassung von Musikhandschriften auf dem Zeitraum 1600-1850 liegt, finden Sie sowohl [ältere als auch jüngere Quellen](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"}. 
 
 Einige der großen Bibliotheken sind (noch) nicht vollständig bei RISM nachgewiesen, auch weil sie - beispielsweise im Gegensatz zu kleineren Klosterbibliotheken - selbst über einen eigenen gut recherchierbaren Katalog verfügen. Wir arbeiten aktiv an der Übernahme von Datensätzen aus anderen Bibliotheken nach RISM. Quellen, die verloren sind, werden in RISM nicht dokumentiert.
 
@@ -20,15 +20,15 @@ RISMs [Buchpublikationen](/publications.html){:target="_blank"}, insbesondere S
 
 Es gibt ungefähr 1,8 Millionen Handschriften aus der Zeit zwischen 1600 und 1800 und wenigstens 2 Millionen zwischen 1800 und 1950. Von bis 1800 erschienenen Drucken mögen 140.000 noch überliefert sein. Wegen neuer Techniken steigt deren Zahl im 19. Jahrhundert rapide an und man wird mit etwa 4 Millionen Musikdrucken aus dieser Zeit weltweit rechnen können.
 
-Diese Zahlen sind einem Fragebogen entnommen, der vor etwa 20 Jahren an die Ländergruppen geschickt wurde. Aber niemand kann eine so große Menge zählen. Die Zahlen bleiben somit Schätzungen.
+Diese Zahlen sind einem Fragebogen entnommen, der in den 1990-er Jahren an die Ländergruppen geschickt wurde. Aber niemand kann eine so große Menge zählen. Die Zahlen bleiben somit Schätzungen.
 
 Einträge in RISM und die Zählung der Quellen in den Bibliotheken weichen manchmal voneinander ab. So hat z. B. eine Sammelhandschrift mit 6 Werken in RISM 7 Einträge, einen für die Sammlung als ganze und je einen für die einzelnen Werke.
 
 RISM ist also bei weitem nicht vollständig, aber es ist das umfangreichste Informationsmittel für historische Musikquellen, das es gibt.
 
-## Wie verwende ich den Online-Katalog?
+## Wie verwende ich die RISM-Datenbank?
 
-Bitte verwenden Sie die [Hilfe-Seite](https://opac.rism.info/main-menu-/kachelmenu/help){:target="_blank"} des Online-Kataloges 
+Bitte verwenden Sie die Hilfe-Seiten vom [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu/help){:target="_blank"} oder von [RISM Online](https://rism.online/about/help){:blank}. 
 
 ## Wie kann ich eine Kopie der Noten bekommen?
 
@@ -38,7 +38,7 @@ Einige Bibliotheken bieten auf ihrer Website digitalisierte Sammlungen an (z. B.
 
 Ja!
 
-Sowohl die Normdaten als auch die Titeldaten des RISM-Onlinekataloges werden unter der [Lizenz CC-BY](http://creativecommons.org/licenses/by/3.0/){:target="_blank"} als Linked Open Data zur Verfügung gestellt. Sie können die Daten im MARC-XML oder RDF-Format abrufen. Weitere Informationen finden Sie auf der Seite [Schnittstellen des RISM-Katalogs](https://opac.rism.info/main-menu-/kachelmenu/data){:target="_blank"}.
+Sowohl die Normdaten als auch die Titeldaten werden unter der [Lizenz CC-BY](http://creativecommons.org/licenses/by/3.0/){:target="_blank"} als Linked Open Data zur Verfügung gestellt. Sie können die Daten im MARC-XML oder RDF-Format abrufen. Weitere Informationen finden Sie auf der Seite [Schnittstellen des RISM-Katalogs](https://opac.rism.info/main-menu-/kachelmenu/data){:target="_blank"} oder die [RISM Online About page](https://rism.online/about){:blank}.
 
 ## Wie kann ich teilnehmen ?
 

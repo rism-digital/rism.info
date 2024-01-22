@@ -31,11 +31,11 @@ RISM steht unter dem Patronat der beiden internationalen Berufsvereinigungen:
 
 ## Commission Mixte
 
-Zusammen mit dem Vorstand des Vereins bildet die Commission Mixte des RISM das Leitungsgremium, das über strategische Ziele des Unternehmens entscheidet. Die Commission Mixte wird aus je 5 Mitgliedern der AIBM und IMS gebildet (Rules of procedure).
+Zusammen mit dem Vorstand der Vereine bildet die Commission Mixte des RISM das Leitungsgremium, das über strategische Ziele des Unternehmens entscheidet. Die Commission Mixte wird aus je 5 Mitgliedern der AIBM und IMS gebildet (Rules of procedure).
 
 Mitglieder der Commission Mixte:
 
-siehe: [Verein](/organization/the-association.html)
+siehe: [Vereine](/organization/the-association.html)
 
 ## Advisory council
 
@@ -43,12 +43,12 @@ Das Council besteht aus allen aktiven Mitgliedern der Arbeitsgruppen in allen L�
 
 ## Coordinating Committee
 
-Fünf gewählte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen und der Zentralredaktion zu koordinieren.
+Fünf gewählte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen, der Zentralredaktion und dem RISM Digital Center zu koordinieren.
 
 Mitglieder des Coordinating Committee:
 
-* JeongYoun Chang (Korea National University of Arts, Seoul, Südkorea)
-* Stefan Ikarus Kaiser (Titularorganist am Kloster Wilhering, Oberösterreich)
-* Zuzana Petrášková (Nationalbibliothek der Tschechischen Republik, Leiterin der Musikabteilung)
-* Roland Schmidt-Hensel (Stellvertretender Leiter der Musikabteilung in der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz)
-* Sonia Wronkowska (Polnische Nationalbibliothek, Leiterin der Abteilung Polona Unit in der Nationalbibliothek)
+* JeongYoun Chang (Ewha Womans University, Südkorea)
+* Christina Linklater (Harvard University, USA)
+* Eliška Šedivá (Nationalbibliothek der Tschechischen Republik)
+* Sonia Rzepka (Universität Warschau, Polen)
+* Steffen Voss (Bayerische Staatsbibliothek, Deutschland)
