@@ -206,12 +206,12 @@ _Temporary address (until 2026) during the renovation of the historical building
 Ul. A. Kovacica 5.\
 HR-10000 Zagreb\
 Telephone: +385 1 4895320\
-_Long-term address:_
+_Long-term address:_\
 Opaticka 18\
 HR-41000 Zagreb\
 Telephone: +385 1 272323\
 Fax: +385 1 277352\
-Email: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"} & [lucijam@hazu.hr](mailto:lucijam@hazu.hr){:target="_blank"}
+Email: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"} & [lucijam@hazu.hr](mailto:lucijam@hazu.hr){:target="_blank"}\
 Website: [https://info.hazu.hr](https://info.hazu.hr/){:target="_blank"}
 
 ## CZECH REPUBLIC
