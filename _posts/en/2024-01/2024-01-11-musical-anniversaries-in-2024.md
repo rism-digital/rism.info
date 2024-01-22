@@ -16,7 +16,7 @@ As in past years, we are using the beginning of the year to look at significant 
 
 [Our Google spreadsheet](https://docs.google.com/spreadsheets/d/16CbAfHve1PBjYRHfHGrUM949TiqxG64AofBC3xN22cA/edit?usp=sharing){:blank} is divided into two sheets, one for year of birth and one for year of death. You can sort by name, life dates, or gender, and we’re also including direct links to RISM Online and the RISM Catalog.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfTwiBHo42sUG5QFqXIIx1S_xgabELCCtvDe4cifiPDeRbJF1heJVwFSURrY7m3qHZwIuxUcFzWdaq/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfTwiBHo42sUG5QFqXIIx1S_xgabELCCtvDe4cifiPDeRbJF1heJVwFSURrY7m3qHZwIuxUcFzWdaq/pubhtml?widget=true&amp;headers=false" width="700" height="1100"></iframe>
 
  
 c = circa   
