@@ -64,6 +64,8 @@ Lesure, François. "Quelques conséquences bibliographiques et techniques d’un
 
 Lesure, François. "Le RISM. Deux ans d’experience." _Fontes Artis Musicae_ 3, no. 1 (1956): 144-146. [Available online](https://www.jstor.org/stable/23504165){:target="_blank"}.  
 
+Reese, Gustave, Paul Henry Lang, and Richard S. Hill. "Special Announcement concerning the International Inventory of Musical Sources." _Notes_ 13, no. 2 (March 1956): 195-196. [Available online](https://www.jstor.org/stable/892435){:target="_blank"}.    
+
 Schanzlin, Peter. "Die Mitarbeit der Schweiz am 'Répertoire International des Sources Musicales'." _Schweizerische Musikforschende Gesellschaft – Mitteilungsblatt_ 25 (1956): 1-5.
 
 #### 1957
@@ -112,6 +114,9 @@ Contained therein:
 - Miguel Querol Gavalda , "The RISM in Spain," p. 27-28
 
 #### 1963
+
+
+Heckmann, Harald. "Jahrestagung der IVMB in Mailand — Annual Meeting of IAML in Milan — Réunion de l'AIBM à Milan: RISM." _Fontes Artis Musicae_ 10, no. 1/2 (Januar-Dezember 1963): 6-7. [Available online](https://www.jstor.org/stable/23504514){:blank}   
 
 Vellkoop, Gerrit. "Muziek en archief." _Mens en Melodie_ 18 (1963): 6-10.   
 
@@ -185,6 +190,10 @@ Schmieder, Wolfgang. "Bemerkungen zum 'neuen Eitner'." _Die Musikforschung_ 26, 
 Schmieder, Wolfgang. "Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 91-92. [Available online](https://www.jstor.org/stable/23230708){:target="_blank"}.  
 
 #### 1974
+
+"Jahrestagung der IVMB in London / IAML annual Conference in London / Réunion annuelle de l'AIBM à Londres: RISM." _Fontes Artis Musicae_ 21, no. 1/2 (Januar-August 1974). [Available online](https://www.jstor.org/stable/23506761){:blank}   
+- Heckmann, Harald. "RISM", p. 18
+- Schlager, Karlheinz. "Mitteilungen der Zentralredaktion Kassel zu den alphabetischen Serien A/I und A/II," p. 18-19.  
 
 Weinmann, Alexander. "Neue Ergebnisse der RISM-Quellenforschung." _Österreichische Musikzeitschrift_ 29 (1974): 440-442. [Available online](https://doi.org/10.7767/omz.1974.29.jg.440){:target="_blank"}.  
 
@@ -1081,6 +1090,10 @@ Sartori, Claudio. _Nuova rivista musicale italiana_ 4 (1974): 634-637.
 
 Volek, Tomislav. _Hudební V __a__ da_ 12 (1975): 285-288.
 
+##### A/I,2  
+
+Zaslaw, Neal. _Notes_ 31, no. 1 (September 1974): 42-45 [Available online](https://doi.org/10.2307/895923){:blank}.  
+
 ##### A/I,2–3
 
 Sine nomine. _Magyar Zine_ 4 (1973): 437-438.
@@ -1151,7 +1164,9 @@ Seyfried, Bettina von and Achim Oßwald. 3rd edition, CD-ROM 1. _Zeitschrift fü
 
 Koudaal, Jens Henrik. 4th edition, CD-ROM 2. _Dansk Arbog for Musikforskning_ 25 (1997). [Available online](http://www.dym.dk/dym_pdf_files/volume_25/volume_25_113_115.pdf){:target="_blank"}.  
 
-Eden, Brad. 5th edition, CD-ROM 3. _Library Review and Reference Review_ 2, no. 7 (1998).
+Eden, Brad. 5th edition, CD-ROM 3. _Library Review and Reference Review_ 2, no. 7 (1998).  
+
+Elliker, Calvin. 5th cumulative edition and RISM Online. _Notes_ 55, no. 4 (June 1999): 980-984. [Available online](https://www.jstor.org/stable/899622){:blank}.    
 
 Rommel, Martina. 6th edition, CD-ROM 4. _Informationsmittel für Bibliotheken_ 7 (1999).
 
@@ -1186,7 +1201,10 @@ Le Boeuf, Patrick. _Bulletin codicologique_ 42 (1988): 65-66.
 
 ##### B/III, 4
 
-Staehelin, Martin. _Die Musikforschung_ 47 (1994): 412.
+Staehelin, Martin. _Die Musikforschung_ 47 (1994): 412.  
+
+##### B/IV, 1-2
+Scott, Darwin F. _Notes_ 51, no. 1 (September 1994): 105-108. [Available online](https://doi.org/10.2307/899188){:blank}.
 
 ##### B/IV, 2
 
@@ -1300,7 +1318,15 @@ Sirat, Colette. _Revue des études juives_ 143 (1984): 227.
 
 Fleischhauer, Günter. _Die Musikforschung_ 46 (1993): 79-80
 
-Solomon, John. _Fontes Artis Musicae_ 36 (1989): 332-333.
+Solomon, John. _Fontes Artis Musicae_ 36 (1989): 332-333.  
+
+##### B/XIV
+
+Colette, Marie-Noëlle. Revue de musicologie 92, no. 2 (2006): 401-404. [Available online](https://doi.org/10.2307/20141678){:blank}.  
+
+Dufour, Valérie. _Scriptorium: Revue internationale des études relatives aux manuscrits/International review of manuscript studies_ 55, no. 2 (2001): 236.  
+
+Hiley, David. _Music & letters_ 89, no. 3 (2008): 490-493. [Available online](https://www.jstor.org/stable/30163032){:blank}.  
 
 ##### B/XV
 
@@ -1372,7 +1398,7 @@ _Libretti in deutschen Bibliotheken: Katalog der gedruckten Texte zu Opern, Orat
 
 RISM-U.S. Libretto Database (contains bibliographic records of different U.S. libraries for more than 11,000 printed and manuscript libretti for musical stage pieces from the earliest manifestations through the beginning of the twentieth century), URL: [http://search.lib.virginia.edu/](http://search.lib.virginia.edu/){:target="_blank"}
 
-Sartori, Claudio. _I libretti italiani a stampa dalle origini al 1800_ (5 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
+Sartori, Claudio. _I libretti italiani a stampa dalle origini al 1800_ (7 vols.). Cuneo: Bertola & Locatelli, 1990-1994. (Compiled by RISM Italy-Milan)
 
 
 #### Catalogs of individual libraries (or parts of individual libraries) or catalogs of specific regions
