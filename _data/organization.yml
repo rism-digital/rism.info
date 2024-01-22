@@ -4,9 +4,9 @@
     fr: "Organisation"
   items:
     - name:
-        en: "Association"
-        de: "Verein"
-        fr: "Association"
+        en: "Associations"
+        de: "Vereine"
+        fr: "Associations"
       link: /organization/the-association.html
     - name:
         en: "International Partners"
