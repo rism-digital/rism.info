@@ -191,7 +191,7 @@ Schmieder, Wolfgang. "Erwiderung auf Karlheinz Schlager: RISM A/I: Wunsch und Wi
 
 #### 1974
 
-"Jahrestagung der IVMB in London / IAML annual Conference in London / Réunion annuelle de l'AIBM à Londres: RISM." _Fontes Artis Musicae_ 21, no. 1/2 (Januar-August 1974). [Available online](https://www.jstor.org/stable/23506761){:blank}   
+"Jahrestagung der IVMB in London / IAML annual Conference in London / Réunion annuelle de l'AIBM à Londres: RISM." _Fontes Artis Musicae_ 21, no. 1/2 (Januar-August 1974). [Available online](https://www.jstor.org/stable/23506761){:blank}.   
 - Heckmann, Harald. "RISM", p. 18
 - Schlager, Karlheinz. "Mitteilungen der Zentralredaktion Kassel zu den alphabetischen Serien A/I und A/II," p. 18-19.  
 
@@ -1088,11 +1088,7 @@ Zaslaw, Neal. _Notes_ 31 (1974): 42-45. [Available online](https://www.jstor.org
 
 Sartori, Claudio. _Nuova rivista musicale italiana_ 4 (1974): 634-637.
 
-Volek, Tomislav. _Hudební V __a__ da_ 12 (1975): 285-288.
-
-##### A/I,2  
-
-Zaslaw, Neal. _Notes_ 31, no. 1 (September 1974): 42-45 [Available online](https://doi.org/10.2307/895923){:blank}.  
+Volek, Tomislav. _Hudební Veda_ 12 (1975): 285-288.  
 
 ##### A/I,2–3
 
@@ -1320,9 +1316,9 @@ Fleischhauer, Günter. _Die Musikforschung_ 46 (1993): 79-80
 
 Solomon, John. _Fontes Artis Musicae_ 36 (1989): 332-333.  
 
-##### B/XIV
+##### B/XIV  
 
-Colette, Marie-Noëlle. Revue de musicologie 92, no. 2 (2006): 401-404. [Available online](https://doi.org/10.2307/20141678){:blank}.  
+Colette, Marie-Noëlle. _Revue de musicologie_ 92, no. 2 (2006): 401-404. [Available online](https://doi.org/10.2307/20141678){:blank}.  
 
 Dufour, Valérie. _Scriptorium: Revue internationale des études relatives aux manuscrits/International review of manuscript studies_ 55, no. 2 (2001): 236.  
 
