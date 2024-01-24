@@ -2,7 +2,7 @@
 layout: publications
 title: "Catalogue of the Fondo Cappella Sistina in RISM"
 lang: en
-permalink: /publications/sistina
+permalink: /publications/sistina/index.html
 ---
 
 # Catalogue of the Fondo Cappella Sistina in RISM
