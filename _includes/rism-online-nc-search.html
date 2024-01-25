@@ -1,0 +1,30 @@
+<div class="rism-online-nc-search">
+    <p class="is-size-5">{{ include.text }}</p>
+    <div class="field has-addons">
+        <div class="control">
+            <input id="search-term" class="input is-primary" type="text" placeholder="{{ include.placeholder }} ...">
+        </div>
+        <div class="control">
+            <a class="button is-primary" href="javascript:rism_online()">Go</a>
+        </div>
+    </div>
+</div>
+
+<script>
+    // listen to 'Enter' on the input box
+    document.getElementById("search-term").addEventListener("keyup", function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.keyCode === 13) {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            rism_online();
+        }
+    });
+
+    function rism_online() {
+        var search = document.getElementById("search-term").value;
+        var link = "https://rism.online/search?nc={{ include.sigla }}&q=" + search
+        window.location.href = link; 
+    }
+</script>
