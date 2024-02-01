@@ -12,7 +12,7 @@ author: 'Giovanna Casali'
 
 _The following guest post is by Giovanna Casali (Università di Bologna, Italy):_
 
-On 16 November 2023, a study day entitled “Due gemelle nell'aria e nel sembiante”. Archivi e repertori della lirica poetica e musicale del Cinque-Seicento was held at the University of Bologna, more precisely at its Department of Cultural Heritage in Ravenna, to mark the inauguration of the new website of “RePIM - Repertorio della Poesia Italiana in Musica, 1500-1700,” which can be accessed [here](https://repim.itatti.harvard.edu/){:blank}.
+On 16 November 2023, a study day entitled _“Due gemelle nell'aria e nel sembiante”. Archivi e repertori della lirica poetica e musicale del Cinque-Seicento_ was held at the University of Bologna, more precisely at its Department of Cultural Heritage in Ravenna, to mark the inauguration of the new website of “RePIM - Repertorio della Poesia Italiana in Musica, 1500-1700,” which can be accessed [here](https://repim.itatti.harvard.edu/){:blank}.
 
 The original project – begun in 1977 and realized in printed form in the 1980s by Lorenzo Bianconi and Antonio Vassalli – aimed at compiling an incipit index of 16th and 17th century Italian poetry set to music by systematically examining contemporary volumes of poetry in order to identify the authors of the poems who are as a rule not named in the musical sources. Subsequently, the project came to be supervised by Angelo Pompilio and the scope of the investigation was expanded in an effort to produce a bibliographical index as complete as possible to facilitate research into poetry set to music in the period 1500–1700. RePIM offers in a single information system both musical and literary information regarding the composition of Italian secular music in the 16th and 17th centuries and contains the bibliographical description of all musical sources (printed and partly also in manuscript), the bibliographical description of the poetic sources consulted, the analytical description of all musical compositions and the corresponding poetic works in the literary sources.
 
@@ -31,5 +31,3 @@ The information system has been realized by converting the content of RePIM into
 The project was initiated at the Dipartimento di Musica e Spettacolo of the University of Bologna, then continued at the Dipartimento di Beni Culturali of the same university (Ravenna branch), and is still in progress. Financial support was provided by the Swiss National Science Foundation and the Istituto di Studi Rinascimentali in Ferrara. The web application for the consultation of the data is hosted by I Tatti - The Harvard University Center.
 
 _Image_: Tarot cards of Musica and Poesia [via]( https://www.alchemywebsite.com/mantegna.html){:blank}
-
-
