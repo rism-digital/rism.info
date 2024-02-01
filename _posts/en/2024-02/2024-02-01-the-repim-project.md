@@ -30,4 +30,4 @@ The information system has been realized by converting the content of RePIM into
 
 The project was initiated at the Dipartimento di Musica e Spettacolo of the University of Bologna, then continued at the Dipartimento di Beni Culturali of the same university (Ravenna branch), and is still in progress. Financial support was provided by the Swiss National Science Foundation and the Istituto di Studi Rinascimentali in Ferrara. The web application for the consultation of the data is hosted by I Tatti - The Harvard University Center.
 
-_Image_: Tarot cards of Musica and Poesia [via]( https://www.alchemywebsite.com/mantegna.html){:blank}
+_Image_: Tarot cards of [Musica and Poesia]( https://www.alchemywebsite.com/mantegna.html){:blank}
