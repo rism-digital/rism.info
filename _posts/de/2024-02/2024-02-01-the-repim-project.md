@@ -30,4 +30,4 @@ Das entwickelte Informationssystem wurde durch die Überführung der Inhalte von
 
 Das Projekt begann am Dipartimento di Musica e Spettacolo der Universität Bologna, wurde dann am Dipartimento di Beni Culturali derselben Universität, Zweigstelle Ravenna, weitergeführt und ist noch immer im Gange. Das Projekt wurde vom Schweizerischen Nationalfonds und dem Istituto di Studi Rinascimentali in Ferrara finanziell unterstützt. Die Webanwendung für die Konsultation wird von I Tatti - The Harvard University Center gehostet.
 
-_Abbildung_: Tarotkarten der Musica und Poesia [via]( https://www.alchemywebsite.com/mantegna.html){:blank}
+_Abbildung_: Tarotkarten der [Musica und Poesia]( https://www.alchemywebsite.com/mantegna.html){:blank}
