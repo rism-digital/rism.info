@@ -115,8 +115,7 @@ Contained therein:
 
 #### 1963
 
-
-Heckmann, Harald. "Jahrestagung der IVMB in Mailand — Annual Meeting of IAML in Milan — Réunion de l'AIBM à Milan: RISM." _Fontes Artis Musicae_ 10, no. 1/2 (Januar-Dezember 1963): 6-7. [Available online](https://www.jstor.org/stable/23504514){:blank}   
+Heckmann, Harald. "Jahrestagung der IVMB in Mailand — Annual Meeting of IAML in Milan — Réunion de l'AIBM à Milan: RISM." _Fontes Artis Musicae_ 10, no. 1/2 (Januar-Dezember 1963): 6-7. [Available online](https://www.jstor.org/stable/23504514){:blank}.   
 
 Vellkoop, Gerrit. "Muziek en archief." _Mens en Melodie_ 18 (1963): 6-10.   
 
@@ -141,6 +140,8 @@ Heckmann, Harald. "Fünfzehn Jahre 'Internationales Quellenlexikon der Musik'." 
 Riedel, Friedrich W. "Zur Geschichte der musikalischen Quellenüberlieferung und Quellenkunde." _Acta musicologica_ 38 (1966): 3-27. [Available online](https://www.jstor.org/stable/932302){:target="_blank"}.  
 
 #### 1967
+
+Heckmann, Harald. "Jahrestagung der IVMB in Warschau—IAML Annual Conference in Warsaw—Réunion annuelle de l'AIBM à Varsovie: RISM. _Fontes artis musicae_ 14, no. 1-2 (1967): 63. [Available online](https://www.jstor.org/stable/23504562){:blank}.  
 
 Shirley, Wayne D. "RISM: A Report on US Activities." _Notes_ 23, no. 3 (1967): 477-497. [Available online](https://www.jstor.org/stable/895076){:target="_blank"}.
 
@@ -357,7 +358,7 @@ Tuksar, Stanislav. "New musical sources in Croatia (Yugoslavia)." _Acta Musicolo
 
 Dorfmüller, Kurt. "Über die Kunst, Kunst zu verzeichnen." _Börsenblatt für den Deutschen Buchhandel - Frankfurter Ausgabe_, December 30, 1986.
 
-Fischer, Kurt von. "Quellendokumentation zur Musik vor 1800." _Neue Zürcher Zeitung_, February22/23, 1986.
+Fischer, Kurt von. "Quellendokumentation zur Musik vor 1800." _Neue Zürcher Zeitung_, February 22/23, 1986.
 
 McClymonds, Marita P. and Diane Parr Walker. "U.S. RISM Libretto Project: With Guidelines for Cataloguing." _Notes_ 43 (1986): 19-35. [Available online](https://www.jstor.org/stable/897831){:target="_blank"}.  
 
@@ -1016,7 +1017,7 @@ Ferrari, Nicolò."Musical sources: 70 years of RISM." _Early Music_ caac061 (202
 
 _Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celebration of RISM’s Seventieth Anniversary. Guest Editor: Nicole Schwindt. [Available online](https://muse.jhu.edu/issue/48911){:blank}.  
 - Schwindt, Nicole. "Editor's Preface." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 169-171. [Available online](https://muse.jhu.edu/article/867380){:blank}.    
-- Sherr, Richard. "Fifty Years with the Fondo Cappella Sistina of The Biblioteca Apostolica Vaticana." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 172-185. [Available online](https://muse.jhu.edu/article/867381){:blank}  
+- Sherr, Richard. "Fifty Years with the Fondo Cappella Sistina of The Biblioteca Apostolica Vaticana." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 172-185. [Available online](https://muse.jhu.edu/article/867381){:blank}.  
 - Zitellini, Rodolfo. "Maurizio Cazzati's 'Unsold Music.'" _Fontes artis musicae_ 69, no. 3 (July–September 2022): 186-204. [Available online](https://muse.jhu.edu/article/867382){:blank}.   
 - Rost, Henrike. "Die Notenautographe (1825–1884) im Album von Ferdinand Hiller: Überblick, Einordnung, Quellenwert." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 206-227. [Available online](https://muse.jhu.edu/article/867383){:blank}.  
 - Morgan, Emerson, Christina Linklater, and Pramantha Tagore. "'Pure or Tainted?': Representing a Source of Colonial Bengali-English Music in RISM." _Fontes artis musicae_ 69, no. 3 (July–September 2022): 229-251. [Available online](https://muse.jhu.edu/article/867384){:blank}.  
@@ -1110,19 +1111,26 @@ Sartori, Claudio. _Nuova rivista musicale italiana_ 10 (1976): 285-286.
 
 ##### A/I,6
 
-Lesure, François. _Fontes artis musicae_ 24 (1977): 193.
+Higbee, Dale. _The American recorder_, 18, no. 2 (August 1977): 47-48. [Available online](https://americanrecorder.org/docs/AR_Mag_August_1977_Multipage.pdf){:blank}.  
+
+Lesure, François. _Fontes artis musicae_ 24 (1977): 193.  
+
+Schaal, Richard. _Die Musikforschung_ 30, no. 2 (April/Juni 1977): 209-210. [Available online](https://www.jstor.org/stable/41118146){:blank}.  
 
 ##### A/I,7
 
-Higbee, Dale. The American recorder 19 (1978): 68.
+Higbee, Dale. The American recorder 19, no. 2 (1978): 68.
 
 Lesure, François. _Fontes artis musicae_ 26 (1979): 145.
 
 Schaal, Richard. _Die Musikforschung_ 32 (1979): 86-87. [Available online](https://www.jstor.org/stable/23231500){:target="_blank"}.  
 
+##### A/I,8  
+Martin, Jörg. _Die Musikforschung_ 35, no. 4 (Oktober–Dezember 1982): 369-370. [Available online](https://www.jstor.org/stable/41118959){:blank}.  
+
 ##### A/I,8–9
 
-Higbee, Dale. _The American recorder_ 23 (1982): 163.
+Higbee, Dale. _The American recorder_ 23, no. 4 (November 1982): 163. [Available online](https://americanrecorder.org/docs/AR_Mag_November_1982_Multipage.pdf){:blank}.   
 
 King, Alexander Hyatt. _Fontes artis musicae_ 30 (1983): 78-80.
 
@@ -1184,14 +1192,14 @@ Reese, Gustave. "The first volume of RISM." _Fontes artis musicae_ 8 (1961): 4-7
 
 ##### B/I–II
 
-Higbee, Dale. _The American recorder_ 13 (1972): 64-65.
+Higbee, Dale. _The American recorder_ 13, no. 2 (1972): 64-65.
 
 ##### B/III, 3
 Bernhard, Michael. _Musik in Bayern: Halbjahresschrift der Gesellschaft für Bayerische Musikgeschichte e.V._ 38 (1989): 117-120.
 
 Frobenius, Wolf. _Die Musikforschung_ 44 (1991): 77-78.
 
-Gushee, Lawrence. _Notes_ 45 (1988): 282-283.
+Gushee, Lawrence. _Notes_ 45 (1988): 282-283. [Available online](https://www.jstor.org/stable/941355){:blank}.
 
 Le Boeuf, Patrick. _Bulletin codicologique_ 42 (1988): 65-66.
 
