@@ -1578,7 +1578,10 @@ Podejko, Paweł: Katalog tematyczny rękopisów i druków muzycznych kapeli woka
 Popinigis, Danuta / Szlagowska, Danuta / Woźniak, Jolanta: Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk. Wiek XVIII-XIX. Katalog, (in Vorbereitung).  
 (erstellt in der RISM-Ländergruppe Danzig - Polen)
 
-Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music, Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+
+Walter-Mazur, Magdalena und Michał Wysocki: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. II. Repertoire of Cantors and Organists and Collection of the Holy Trinity Parish in Raków, Wiesbaden: Harrassowitz Verlag, 2023. (erstellt in Zusammenarbeit mit RISM)
+
 
 ##### SK – Slowakei
 
