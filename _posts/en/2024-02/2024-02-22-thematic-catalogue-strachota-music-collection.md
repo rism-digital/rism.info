@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Thematic Catalogue of the Music Collection of the Strachota Family from Panenský Týnec
+title: Thematic Catalogue of the Music Collection of the Strachota Family from Panenský Týnec
 date: 2024-02-22
 lang: en
 post: true
