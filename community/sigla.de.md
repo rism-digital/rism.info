@@ -13,4 +13,4 @@ RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materia
 Wenn Sie ein Sigel suchen, das noch nicht im Verzeichnis enthalten ist, [kontaktieren Sie uns](mailto:contact@rism.info) bitte und wir werden ein neues erstellen.
 
 <script type="text/javascript" src=" /javascript/sigla.js"></script>
-<div id="siglaCatalog" sruhost="https://muscat.rism.info" limit="20"> </div>
+<div id="siglaCatalog" sruhost="https://beta.rism.info" limit="20"> </div>
