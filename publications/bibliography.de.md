@@ -1107,8 +1107,13 @@ Sine nomine, in: Magyar Zine 4 (1973), p. 437-438.
 
 Zaslaw, Neal: in: Notes 31 (1974), no. 1, S. 42-45. [Online verfügbar](https://doi.org/10.2307/895923){:target="_blank"}
 
+**A/I,3:**
+Klein, Rudolf: in: Österreichische Musikzeitschrift 29 (1974), S. 453. [Online verfügbar](https://doi.org/10.7767/omz.1974.29.jg.440){:blank}
+
 **A/I,4:**  
 Higbee, Dale: in: The American recorder 16 (1975), p. 59.
+
+Klein, Rudolf: in: Österreichische Musikzeitschrift 30 (1975), S. 494-495. [Online verfügbar](https://doi.org/10.7767/omz.1975.30.9.494){:blank}
 
 **A/I,4 - 5:**  
 Schaal, Richard: in: Die Musikforschung 29 (1976), p. 476-478. [Online verfügbar](https://www.jstor.org/stable/41119432){:target="_blank"}
@@ -1191,18 +1196,32 @@ Reese, Gustave: The first volume of RISM, in: Fontes artis musicae 8 (1961), S. 
 **B I / II:**  
 Higbee, Dale: in: The American recorder 13 (1972), S. 64-65.
 
+**B III, 1:**
+Reaney, Gilbert: in: The musical times 103 (1962), S. 691. [Online verfügbar](https://www.jstor.org/stable/948504){:target="_blank"} 
+
+**B III, 2:**
+
+Gümpel, Karl-Werner: in: Die Musikforschung 25 (1972), S. 363. [Online verfügbar](https://www.jstor.org/stable/41117381){:target="_blank"}
+
 **B III, 3:**  
 Bernhard, Michael: in: Musik in Bayern: Halbjahresschrift der Gesellschaft für Bayerische Musikgeschichte e.V. 38 (1989), S. 117-120.
 
+Colette, Marie-Noëlle: in: Revue de musicologie 75 (1989), S. 289. [Online verfügbar](https://www.jstor.org/stable/928890){:target="_blank"}
+
 Frobenius, Wolf: in: Die Musikforschung 44 (1991), S. 77-78.
 
-Gushee, Lawrence: in: Notes 45 (1988), S. 282-283. [Online verfügbar](https://www.jstor.org/stable/941355){:blank}
-
+Gushee, Lawrence: in: Notes 45 (1988), S. 282-283. [Online verfügbar](https://www.jstor.org/stable/941355){:target="_blank"}
 
 Le Boeuf, Patrick: in: Bulletin codicologique 42 (1988), S. 65-66.
 
 **B III, 4:**  
+Colette, Marie-Noëlle: in: Revue de musicologie 80 (1994), S. 131. [Online verfügbar](https://www.jstor.org/stable/947308){:target="_blank"}
+
 Staehelin, Martin: in: Die Musikforschung 47 (1994), S. 412.
+
+**B III, 6:**
+
+Colette, Marie-Noëlle: in: Revue de musicologie 90 (2004), S. 133. [Online verfügbar](https://www.jstor.org/stable/4494891){:target="_blank"}
 
 **B IV, 2:**  
 Sanders, Ernest: in: Music & Letters 51 (1970), S. 458-459.
@@ -1289,17 +1308,25 @@ Wulstan, David: in: Music & Letters 63 (1977), p. 105.
 **B X:**  
 Al Faruqi, Lois Ibsen: in: Asian Music 14 (1983), p. 183-185.
 
+Al Faruqi, Lois Ibsen: in: Yearbook for traditional music, 17 (1985), S. 219. [Online verfügbar](https://www.jstor.org/stable/768450){:target="_blank"}
+
 Burnett, Charles: in: Early music history 1 (1982), p. 378-381.
 
 El-Shawan, Salwa: in: Yearbook of the International Folk Music Council 17 (1985), p. 219-220.
 
 Gerson-Kiwi, Edith: in: Die Musikforschung 35 (1982), p. 82-84.
 
+Hickmann, Ellen: in: The world of music/Die Welt der Musik/Le monde de la musique 25 (1983), S. 90. [Online verfügbar](https://www.jstor.org/stable/43560938){:target="_blank"}
+
+Huglo, Michel: in: Revue de musicologie 68 (1982), S. 409. [Online verfügbar](https://www.jstor.org/stable/928309){:target="_blank"}
+
 Langermann, T.: in: Jerusalem studies in arabic and islam 3 (1981-1982), p. 244-246.
 
 Pellat, Ch.: in: Arabica 27 (1980), S. 329-330.
 
 Petrovic, Ankica: Zvuk, Heft 3 (1989), S. 83-84.
+
+Randel, Don M.: in: Ethnomusicology: Journal of the Society for Ethnomusicology 26 (1982), S. 478. [Online verfügbar](https://www.jstor.org/stable/850704){:target="_blank"}
 
 Sirat, Colette: in: Revue des études juives 143 (1984), S. 227.
 
