@@ -1108,6 +1108,7 @@ Sine nomine, in: Magyar Zine 4 (1973), p. 437-438.
 Zaslaw, Neal: in: Notes 31 (1974), no. 1, S. 42-45. [Online verfügbar](https://doi.org/10.2307/895923){:target="_blank"}
 
 **A/I,3:**
+
 Klein, Rudolf: in: Österreichische Musikzeitschrift 29 (1974), S. 453. [Online verfügbar](https://doi.org/10.7767/omz.1974.29.jg.440){:blank}
 
 **A/I,4:**  
@@ -1467,6 +1468,10 @@ Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris 
 Bastlová, Eliška: Collectio operum musicalium quae in Bibliotheca Kinsky adservantur. (Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8), Prag: Národní knihovna České Repubiky, 2013.
 
 Semerádová, Pavla und Eliška Šedivá: Catalogus collectionis operum artis musicae de Monasterii Siloensis. (Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2), Prag: Národní knihovna České republiky, 2016.
+
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music, Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. II. Repertoire of Cantors and Organists and Collection of the Holy Trinity Parish in Raków, Wiesbaden: Harrassowitz Verlag, 2023. (erstellt in Zusammenarbeit mit RISM)
 
 
 ##### D – Deutschland
