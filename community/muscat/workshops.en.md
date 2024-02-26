@@ -22,14 +22,14 @@ The RISM Editorial Center regularly hosts introductory, two-part workshops on ca
 
 #### Online  
 
-The next online introductory Muscat workshop will be held over two 90-minute sessions on:
-- Monday, February 19 and Wednesday, February 21  
- 10:00-11:30 US Eastern Standard Time (UTC 15:00)  
+The next online introductory Muscat workshop will be held upon request of anyone wishing to start a new RISM cataloging project. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
-Over the two sessions, participants will become familiar with RISM's cataloging program, Muscat, and RISM's cataloging guidelines. We will cover the basics of cataloging both manuscript and printed music.  
 
-Space is limited. To register, please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
+#### South Korea
 
+Muscat introduction, April-June 2024   
+Ewha Womans University, Seoul, South Korea   
+JeongYoun Chang, RISM South Korea  
 
 ### Special Topics: Printed Music  
 
@@ -40,6 +40,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 19 and 21 February 2024: Muscat introduction, online    
+_Jennifer Ward, RISM Editorial Center_  
 
 * 8-10 November 2023: Muscat Workshop, National Library, Prague, Czech Republic  
 _Guido Kraus, RISM Zentralredaktion_  
@@ -53,10 +56,10 @@ _JeongYoun Chang, RISM South Korea_
 * 13–15 June 2023, [NIFC, Kraków, Poland](/events/2023/07/06/muscat-workshop-in-krakow.html)    
 _Guido Kraus, RISM Zentralredaktion_  
 
-* 4 May and 2 June 2023: Special Topics: Printed music  
+* 4 May and 2 June 2023: Special Topics: Printed music, online    
 _Jennifer Ward, RISM Zentralredaktion_
 
-* 25 and 27 April 2023: Muscat Introduction  
+* 25 and 27 April 2023: Muscat introduction, online    
 _Jennifer Ward, RISM Zentralredaktion_
 
 * 30 September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives  
@@ -65,7 +68,7 @@ _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de 
 * 26 July 2022: Muscat Workshop, [IAML Congress, Prague](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM Zentralredaktion_  
 
-* 4–6 July 2022: Muscat Introduction, Warsaw  
+* 4–6 July 2022: Muscat introduction, Warsaw  
 _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_  
 
 * 21–22 June 2022: [Muscat introduction, Chopin Institute, Warsaw](/new_at_rism/2022/07/07/muscat-workshop-in-warsaw.html)
