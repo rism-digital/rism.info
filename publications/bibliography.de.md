@@ -144,6 +144,8 @@ Riedel, Friedrich W.: Zur Geschichte der musikalischen Quellenüberlieferung und
 
 #### 1967
 
+Heckmann, Harald: Jahrestagung der IVMB in Warschau—IAML Annual Conference in Warsaw—Réunion annuelle de l'AIBM à Varsovie: RISM, in: Fontes artis musicae 14 (1967), S. 63. [Online verfügbar](https://www.jstor.org/stable/23504562){:blank}
+
 Shirley, Wayne D.: RISM: a Report in US Activities, in: Notes 23 (1966-1967), S. 477-497. [Online verfügbar](https://www.jstor.org/stable/895076){:target="_blank"}
 
 #### 1968
@@ -1022,13 +1024,15 @@ YU Yifan: "西方音乐作品主题目录的历史、发展及对中国  音乐�
 Ferrari, Nicolò: Musical sources: 70 years of RISM, in: Early Music caac061 (2022). [Online verfügbar](https://doi.org/10.1093/em/caac061){:blank}   
 
 _Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celebration of RISM’s Seventieth Anniversary. Guest Editor: Nicole Schwindt. [Online verfügbar](https://muse.jhu.edu/issue/48911){:blank}  
-- Schwindt, Nicole: Editor's Preface, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 169-171. [Online verfügbar](https://muse.jhu.edu/article/867380){:blank}.    
+- Schwindt, Nicole: Editor's Preface, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 169-171. [Online verfügbar](https://muse.jhu.edu/article/867380){:blank}    
 - Sherr, Richard: Fifty Years with the Fondo Cappella Sistina of The Biblioteca Apostolica Vaticana, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 172-185. [Online verfügbar](https://muse.jhu.edu/article/867381){:blank}  
 - Zitellini, Rodolfo: Maurizio Cazzati's 'Unsold Music', in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 186-204. [Online verfügbar](https://muse.jhu.edu/article/867382){:blank}   
 - Rost, Henrike: Die Notenautographe (1825–1884) im Album von Ferdinand Hiller: Überblick, Einordnung, Quellenwert, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 206-227. [Online verfügbar](https://muse.jhu.edu/article/867383){:blank}  
 - Morgan, Emerson, Christina Linklater und Pramantha Tagore: 'Pure or Tainted?': Representing a Source of Colonial Bengali-English Music in RISM, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 229-251. [Online verfügbar](https://muse.jhu.edu/article/867384){:blank}
 
 Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann und Barbara Wiermann: Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland, in: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), Nr. 4, S. 196-209. [Online verfügbar](http://dx.doi.org/10.3196/186429502069422){:blank}
+
+Gottfried Heinz-Kronberger: Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek, in: Bibliothek und Wissenschaft: BuW 55 (2022), S. 121-134.
 
 Kempf, Klaus: The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB), in: JLIS.it, Rivista italiana di  biblioteconomia, archivistica e scienza dell’informazione 13 (2022), no. 1, S. 368-373. [Online verfügbar](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}
 
@@ -1103,34 +1107,44 @@ Sine nomine, in: Magyar Zine 4 (1973), p. 437-438.
 
 Zaslaw, Neal: in: Notes 31 (1974), no. 1, S. 42-45. [Online verfügbar](https://doi.org/10.2307/895923){:target="_blank"}
 
+**A/I,3:**
+
+Klein, Rudolf: in: Österreichische Musikzeitschrift 29 (1974), S. 453. [Online verfügbar](https://doi.org/10.7767/omz.1974.29.jg.440){:blank}
+
 **A/I,4:**  
 Higbee, Dale: in: The American recorder 16 (1975), p. 59.
+
+Klein, Rudolf: in: Österreichische Musikzeitschrift 30 (1975), S. 494-495. [Online verfügbar](https://doi.org/10.7767/omz.1975.30.9.494){:blank}
 
 **A/I,4 - 5:**  
 Schaal, Richard: in: Die Musikforschung 29 (1976), p. 476-478. [Online verfügbar](https://www.jstor.org/stable/41119432){:target="_blank"}
 
 **A/I,5:**  
-Higbee, Dale: in: The American recorder 17 (1976), p. 39-40.
+Higbee, Dale: in: The American recorder 17 (1976), S. 39-40.
 
-Sartori, Claudio: in: Nuova rivista musicale italiana 10 (1976), p. 285-286.
+Sartori, Claudio: in: Nuova rivista musicale italiana 10 (1976), S. 285-286.
 
 **A/I,6:**  
-Lesure, François: in: Fontes artis musicae 24 (1977), p. 193.
+Higbee, Dale: in: The American recorder, 18 (1977), S. 47-48. [Online verfügbar](https://americanrecorder.org/docs/AR_Mag_August_1977_Multipage.pdf){:blank}
+
+Lesure, François: in: Fontes artis musicae 24 (1977), S. 193.
+
+Schaal, Richard: in: Die Musikforschung 30 (1977), S. 209-210. [Online verfügbar](https://www.jstor.org/stable/41118146){:blank}
 
 **A/I,7:**  
-Higbee, Dale: in: The American recorder 19 (1978), p. 68.
+Higbee, Dale: in: The American recorder 19 (1978), S. 68.
 
-Lesure, François: in: Fontes artis musicae 26 (1979), p. 145.
+Lesure, François: in: Fontes artis musicae 26 (1979), S. 145.
 
-Schaal, Richard: in: Die Musikforschung 32 (1979), p. 86-87. [Online verfügbar](https://www.jstor.org/stable/23231500){:target="_blank"}
+Schaal, Richard: in: Die Musikforschung 32 (1979), S. 86-87. [Online verfügbar](https://www.jstor.org/stable/23231500){:target="_blank"}
 
 **A/I,8 - 9:**  
-Higbee, Dale: in: The American recorder 23 (1982), p. 163.
+Higbee, Dale: in: The American recorder 23 (1982), S. 163. [Online verfügbar](https://americanrecorder.org/docs/AR_Mag_November_1982_Multipage.pdf){:blank}
 
-King, Alexander Hyatt: in: Fontes artis musicae 30 (1983), p. 78-80.
+King, Alexander Hyatt: in: Fontes artis musicae 30 (1983), S. 78-80.
 
 **A/I,1 - 9:**  
-Hortschansky, Klaus: International Lexicon of Musical Sources. Individual Editions of Music Printed before 1800, Vols.1-9, in: German Studies. Section 3: Literature - Music - Fine Arts 19 (1986), p. 156-159.
+Hortschansky, Klaus: International Lexicon of Musical Sources. Individual Editions of Music Printed before 1800, Vols.1-9, in: German Studies. Section 3: Literature - Music - Fine Arts 19 (1986), S. 156-159.
 
 **A/I,9:**  
 Schaal, Richard: in: Die Musikforschung 37 (1984), p. 295. [Online verfügbar](https://www.jstor.org/stable/41119227){:target="_blank"}
@@ -1183,17 +1197,32 @@ Reese, Gustave: The first volume of RISM, in: Fontes artis musicae 8 (1961), S. 
 **B I / II:**  
 Higbee, Dale: in: The American recorder 13 (1972), S. 64-65.
 
+**B III, 1:**
+Reaney, Gilbert: in: The musical times 103 (1962), S. 691. [Online verfügbar](https://www.jstor.org/stable/948504){:target="_blank"} 
+
+**B III, 2:**
+
+Gümpel, Karl-Werner: in: Die Musikforschung 25 (1972), S. 363. [Online verfügbar](https://www.jstor.org/stable/41117381){:target="_blank"}
+
 **B III, 3:**  
 Bernhard, Michael: in: Musik in Bayern: Halbjahresschrift der Gesellschaft für Bayerische Musikgeschichte e.V. 38 (1989), S. 117-120.
 
-Frobenius, Wolf: in: Die Musikforschung 44 (1991), Sp. 77-78.
+Colette, Marie-Noëlle: in: Revue de musicologie 75 (1989), S. 289. [Online verfügbar](https://www.jstor.org/stable/928890){:target="_blank"}
 
-Gushee, Lawrence: in: Notes 45 (1988), S. 282-283.
+Frobenius, Wolf: in: Die Musikforschung 44 (1991), S. 77-78.
+
+Gushee, Lawrence: in: Notes 45 (1988), S. 282-283. [Online verfügbar](https://www.jstor.org/stable/941355){:target="_blank"}
 
 Le Boeuf, Patrick: in: Bulletin codicologique 42 (1988), S. 65-66.
 
 **B III, 4:**  
+Colette, Marie-Noëlle: in: Revue de musicologie 80 (1994), S. 131. [Online verfügbar](https://www.jstor.org/stable/947308){:target="_blank"}
+
 Staehelin, Martin: in: Die Musikforschung 47 (1994), S. 412.
+
+**B III, 6:**
+
+Colette, Marie-Noëlle: in: Revue de musicologie 90 (2004), S. 133. [Online verfügbar](https://www.jstor.org/stable/4494891){:target="_blank"}
 
 **B IV, 2:**  
 Sanders, Ernest: in: Music & Letters 51 (1970), S. 458-459.
@@ -1280,17 +1309,25 @@ Wulstan, David: in: Music & Letters 63 (1977), p. 105.
 **B X:**  
 Al Faruqi, Lois Ibsen: in: Asian Music 14 (1983), p. 183-185.
 
+Al Faruqi, Lois Ibsen: in: Yearbook for traditional music, 17 (1985), S. 219. [Online verfügbar](https://www.jstor.org/stable/768450){:target="_blank"}
+
 Burnett, Charles: in: Early music history 1 (1982), p. 378-381.
 
 El-Shawan, Salwa: in: Yearbook of the International Folk Music Council 17 (1985), p. 219-220.
 
 Gerson-Kiwi, Edith: in: Die Musikforschung 35 (1982), p. 82-84.
 
+Hickmann, Ellen: in: The world of music/Die Welt der Musik/Le monde de la musique 25 (1983), S. 90. [Online verfügbar](https://www.jstor.org/stable/43560938){:target="_blank"}
+
+Huglo, Michel: in: Revue de musicologie 68 (1982), S. 409. [Online verfügbar](https://www.jstor.org/stable/928309){:target="_blank"}
+
 Langermann, T.: in: Jerusalem studies in arabic and islam 3 (1981-1982), p. 244-246.
 
 Pellat, Ch.: in: Arabica 27 (1980), S. 329-330.
 
 Petrovic, Ankica: Zvuk, Heft 3 (1989), S. 83-84.
+
+Randel, Don M.: in: Ethnomusicology: Journal of the Society for Ethnomusicology 26 (1982), S. 478. [Online verfügbar](https://www.jstor.org/stable/850704){:target="_blank"}
 
 Sirat, Colette: in: Revue des études juives 143 (1984), S. 227.
 
@@ -1432,6 +1469,10 @@ Bastlová, Eliška: Collectio operum musicalium quae in Bibliotheca Kinsky adser
 
 Semerádová, Pavla und Eliška Šedivá: Catalogus collectionis operum artis musicae de Monasterii Siloensis. (Catalogus artis musicae in Bohemia et Moravia cultae. Artis musicae antiquioris catalogorum 9/1-2), Prag: Národní knihovna České republiky, 2016.
 
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music, Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. II. Repertoire of Cantors and Organists and Collection of the Holy Trinity Parish in Raków, Wiesbaden: Harrassowitz Verlag, 2023. (erstellt in Zusammenarbeit mit RISM)
+
 
 ##### D – Deutschland
 
@@ -1569,7 +1610,10 @@ Podejko, Paweł: Katalog tematyczny rękopisów i druków muzycznych kapeli woka
 Popinigis, Danuta / Szlagowska, Danuta / Woźniak, Jolanta: Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk. Wiek XVIII-XIX. Katalog, (in Vorbereitung).  
 (erstellt in der RISM-Ländergruppe Danzig - Polen)
 
-Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music. Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+Walter-Mazur, Magdalena: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music, Wiesbaden: Harrassowitz Verlag, 2021. (erstellt in Zusammenarbeit mit RISM)
+
+Walter-Mazur, Magdalena und Michał Wysocki: The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. II. Repertoire of Cantors and Organists and Collection of the Holy Trinity Parish in Raków, Wiesbaden: Harrassowitz Verlag, 2023. (erstellt in Zusammenarbeit mit RISM)
+
 
 ##### SK – Slowakei
 

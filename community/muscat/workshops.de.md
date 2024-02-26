@@ -13,18 +13,22 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 #### Online  
 
-- Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
+Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
+
 
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
 Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
 
-- Weitere Termine werden im Herbst angeboten.
+- Weitere Termine werden auf Nachfrage angeboten.
 
 
 ## Vergangene Workshops und Vorführungen
 
-* 08\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
+* 19\. Februar und 21\. Februar 2024: Muscat Introduction
+_Jennifer Ward, RISM-Zentralredaktion_
+
+* 8\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
 _Guido Kraus, RISM Zentralredaktion_ 
 
 * 1\. August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
