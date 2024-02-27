@@ -207,15 +207,22 @@ Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal,
 
 ### B/XVI: Palm-leaf manuscripts  
 
-* **B/XVI:** Tilman Seebass, _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_, 2015.
+* **B/XVI:** Tilman Seebass, _Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation_, 2015.  
+
+Palm-leaf manuscripts (lontars) from Bali. Music lontars are described in this catalog from collections in Indonesia, the Netherlands, Switzerland, and the United States.  
+
 
 ### B/XVII: Trio Sonatas
 
 * **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_, 2016. 2 vols. plus database ([database access information here](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).  
 
+Printed editions of trio sonatas, for two upper voices and basso continuo, by composers born before 1760.  
+
 ### B/XVIII: Manuscripts of notated sequences and proses
 
-* **B/XVIII/1**: Christian Meyer, _Les Sources manuscrites des séquences et proses notées. IXe–XVIe siècles. Volume 1, France. Catalogue descriptif_, 2022.
+* **B/XVIII/1**: Christian Meyer, _Les Sources manuscrites des séquences et proses notées. IXe–XVIe siècles. Volume 1, France. Catalogue descriptif_, 2022.  
+
+Manuscript sources for sequences and notated proses found in French libraries.  
 
 ## Series C: Directory of Music Research Libraries
 
