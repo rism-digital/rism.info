@@ -13,7 +13,7 @@ author: ''
 
 RISM announces the newest volume in its [publication series B](/publications.html#series-b-bibliographies-organized-by-topic), which presents bibliographies of musical sources organized by topic:
 
-Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](http://henle.de/de/detail/index.html?Titel=Catalogue+raisonn%C3%A9+of+the+Balinese+Palm-Leaf+Manuscripts+with+Music+Notation_2530){:target="_blank"}_. RISM B/XVI. Munich: Henle, 2015. 309 p. ISBN 978-3-87328-155-4
+Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](https://www.henle.de/en/Catalogue-raisonne-of-the-Balinese-Palm-Leaf-Manuscripts-with-Music-Notation/HN-2530){:target="_blank"}_. RISM B/XVI. Munich: Henle, 2015. 309 p. ISBN 978-3-87328-155-4
 
 The sixteenth volume in series B, RISM's first ethnomusicological publication, describes palm-leaf manuscripts (lontars) from Bali. This all-natural music must survive the challenging climate in Indonesia. Since the palm leaves can decay within three generations, the tradition of making copies, transliterations, and reproductions of lontars is essential to their survival.
 
