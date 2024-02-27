@@ -172,8 +172,8 @@ Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)
 
 Melinda LEE (Chief Librarian)   
 Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
-TSANG Lai-moon  
-Email: [lmtsang@lcsd.gov.hk](mailto:lmtsang@lcsd.gov.hk)  
+LI King-Yin  
+Email: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)  
 Hong Kong Central Library
 
 Dr. Nora Yeh, International advisor\
@@ -200,14 +200,19 @@ Website: [rondytorres.wordpress.com](http://rondytorres.wordpress.com/)
 
 ## CROATIA
 
-Dr. Vera Katalinic\
+Dr. Vera Katalinic & dr. Lucija Konfic\
 Hrvatska akademija znanosti i umjetnosti\
+_Temporary address (until 2026) during the renovation of the historical building:_\
+Ul. A. Kovacica 5.\
+HR-10000 Zagreb\
+Telephone: +385 1 4895320\
+_Long-term address:_\
 Opaticka 18\
 HR-41000 Zagreb\
 Telephone: +385 1 272323\
 Fax: +385 1 277352\
-Email: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"}  
-Website: [http://info.hazu.hr](http://info.hazu.hr/){:target="_blank"}
+Email: [fides@mahazu.hazu.hr](mailto:fides@mahazu.hazu.hr/){:target="_blank"} & [lucijam@hazu.hr](mailto:lucijam@hazu.hr){:target="_blank"}\
+Website: [https://info.hazu.hr](https://info.hazu.hr/){:target="_blank"}
 
 ## CZECH REPUBLIC
 
@@ -337,13 +342,12 @@ Telephone and fax: +39 06 491325\
 Email: [ibimus@libero.it](mailto:ibimus@libero.it)\
 Website: [https://www.ibimus.eu/](https://www.ibimus.eu/){:target="_blank"}
 
-Dr. Attilio Rossi\
+Sara Taglietti\
 Ufficio Ricerca Fondi Musicali\
 Via Conservatorio, 12\
 I-20122 Milano\
-Telephone: +39 0276 011 822\
-Fax: +39 0276 003 097\
-Email: [b-brai.urfm@beniculturali.it](mailto:b-brai.urfm@beniculturali.it)\
+Telephone: +39 02 36559499\
+Email: [b-brai.urfm@cultura.gov.it](mailto:b-brai.urfm@cultura.gov.it)\
 Website: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidense.it/index/index.php){:target="_blank"}
 
 ## JAPAN
@@ -493,13 +497,13 @@ Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
-Helena Patrício \
+Isabel Novais Gonçalves \
 Área de Música \
 Biblioteca Nacional de Portugal \
 Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
 Telephone: +351 21 798 20 32 \
-Email: [hpatricio@bnportugal.gov.pt](mailto:hpatricio@bnportugal.gov.pt)  \
+Email: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)  \
 Website: [http://www.bnportugal.gov.pt/](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## ROMANIA
@@ -557,19 +561,17 @@ Website: [www.snm.sk](http://www.snm.sk/){:target="_blank"}
 
 ## SLOVENIA
 
-Klemen Grabnar\
-Muzikološki inštitut (Director: Dr. Metoda Kokole)\
+Marko Motnik\
+Muzikološki inštitut (Director: Dr. Katarina Šter)\
 Znanstvenoraziskovalni center\
 Slovenske akademije znanosti in umetnosti\
 Novi trg 2\
-p.p. 306\
 SI-1001 Ljubljana\
-Telephone: +386 1 4706219 (Grabnar)\
-Telephone: +386 1 4706196 (Kokole)\
-Fax: +386 1 4257799\
-Email: [klemen.grabnar@zrc-sazu.si](mailto:klemen.grabnar@zrc-sazu.si)\
-Email: [metoda.kokole@zrc-sazu.si](mailto:metoda.kokole@zrc-sazu.si)\
-Website: [http://odmev.zrc-sazu.si/instituti/mi/](http://odmev.zrc-sazu.si/instituti/mi/){:target="_blank"}\
+Telephone: +386 2 4213154 (Motnik)\
+Telephone: +386 1 4706217 (Šter)\
+Email: [marko.motnik@zrc-sazu.si](mailto:marko.motnik@zrc-sazu.si)\
+Email: [katarina.ster@zrc-sazu.si](mailto:katarina.ster@zrc-sazu.si)\
+Website: [https://mi.zrc-sazu.si](https://mi.zrc-sazu.si){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/slovenia/home.html](/working-groups/slovenia/home.html){:blank}
 
 ## SOUTH KOREA
@@ -644,12 +646,13 @@ Email: [ivchenko@nbuv.gov.ua](mailto:ivchenko@nbuv.gov.ua)\
 Website: [http://www.nbuv.gov.ua](http://www.nbuv.gov.ua/){:target="_blank"}
 
 Olga Osadcja\
-L'vivs'ka nacional'na naukova biblioteka Ukrajiny imeni V. Stefanyka (The Lviv National Vasyl Stefanyk Scientific Library of Ukraine)\
-Vul. Bibliotečna, 2  \
-M. L'viv, 79000  \
-Telephone: +380 / (032) / 261-55-20\
+L'vivs'ka nacional'na muzyčna akademija imeni Mykoly Lysenka, Biblioteka\
+Vul. O. Hyžankivs'koho, bud. 5 \
+L'viv, 79000  \
+Telephone: +380 / (032) / 259-07-51\
 Email: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
-Website: [http://www.lsl.lviv.ua/index.php/uk/golovna2/](http://www.lsl.lviv.ua/index.php/uk/golovna2/){:target="_blank"}
+Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua) \
+Website: [https://lnma.edu.ua/](https://lnma.edu.ua/)){:target="_blank"}
 
 ## UNITED KINGDOM
 

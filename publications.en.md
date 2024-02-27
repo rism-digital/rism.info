@@ -11,7 +11,7 @@ old_url: http://www.rism.info/en/publications.html
 The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The focus of RISM's current activities is its electronic database, which can be searched at no cost through two resources, the RISM Catalog and RISM Online. RISM's library sigla can be searched through the [Online Directory of RISM Library Sigla](/community/sigla.html).
 
 ## RISM Database
-RISM's over 1.4 million records can be searched through two different but complementary resources, the RISM Catalog and RISM Online. They both search the same rich pool of sources that stands at the core of the RISM project: music manuscripts, printed music, libretti, and treatises preserved in over 3,000 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate records from earlier series (all of A/I, all of A/II, all of B/I, some of B/II and other B volumes; for details, see below), but also expand well beyond our early publications. The database grows monthly and reflects the work of our active RISM contributors worldwide.
+RISM's over 1.4 million records can be searched through two different but complementary resources, the RISM Catalog and RISM Online. The musical sources that stand at the heart of the RISM project are music manuscripts, printed music, libretti, and treatises preserved in over 3,000 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate records from earlier series (all of A/I, all of A/II, all of B/I, some of B/II and other B volumes; for details, see below), but also expand well beyond our early publications. The database grows monthly and reflects the work of our active RISM contributors worldwide.
 
 ### RISM Catalog
 {% include image file="/images/publications/opac.png"  %}  
@@ -21,7 +21,7 @@ The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.in
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}
 
-RISM Online can be accessed through the RISM homepage or from [rism.online](https://rism.online/){:blank}. It is developed by the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland.
+RISM Online can be accessed through the RISM homepage or from [rism.online](https://rism.online/){:blank}. It is developed by the [RISM Digital Center](/digital-center.html){:blank} in Bern, Switzerland. Besides the core RISM pool of sources, RISM Online also enables users to search the Digital Image Archive of Medieval Music (DIAMM).
 
 ## Series A: Inventories of musical sources
 
@@ -83,7 +83,7 @@ B/III is available as a searchable database through [Lexicon musicum Latinum](ht
 The catalogs in the B/III series are focused on sources of medieval music theory. They offer a "description of all manuscripts in which are preserved Latin treatises—however small—dealing with the theory of music which was in use from the Carolingian era to 1400," which was extended to 1500 in volume 3. "Moreover, it relates the anonymous treatises in one or other manuscript to those other manuscripts in which the same--generally unpublished--treatise is found...The Index supplies a survey of the manuscripts in which this theoretical tradition is preserved, by providing a list of the authors' names and the incipits of the anonymous treatises."  
 
 ### B/IV: Manuscripts of polyphonic music, 11th-16th centuries
-Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"}.  
+Search B/IV in [DIAMM (Digital Image Archive of Medieval Music)](http://www.diamm.ac.uk/){:target="_blank"} and [RISM Online](https://rism.online/){:blank}.  
 
 * **B/IV/1:** Gilbert Reaney, _Manuscripts of Polyphonic Music. 11th-Early 14th Century_, 1966.
   - Description, bibliography and thematic incipits for all the known polyphonic manuscripts up to the beginning of the Ars Nova period.
