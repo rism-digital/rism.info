@@ -16,7 +16,7 @@ RISM is pleased to announce a major addition to its [free online catalog](https:
 • The entire contents of [A/I, _Individual Prints before 1800_](/publications.html#series-a-inventories-of-musical-sources)
 Released on CD-ROM in 2012 and previously in 14 printed volumes
 
-• A portion of [B/I,_Recueils imprimés, XVIe-XVIIe siècles](/publications.html#series-b-bibliographies-organized-by-topic)_ (Printed collections of the 16th-17th centuries), covering the years 1500-1550
+• A portion of [B/I, _Recueils imprimés, XVIe-XVIIe siècles_](/publications.html#series-b-bibliographies-organized-by-topic) (Printed collections of the 16th-17th centuries), covering the years 1500-1550
 
 
 The addition of these printed sources brings the total number of records in the online catalog to over 1,010,000. New search fields allow users to search by **Publisher**, **A/I or B/I number**, and **Plate number**. Search results can be refined using the categories **Publisher** or a RISM **Series**. Icons of prints and manuscripts allow quick visual recognition.
