@@ -20,7 +20,7 @@ _Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c19
 
 #### 1949 <a name="c1940"></a>  
 
-Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." _International Musicological Society Congress Report_ 4 (1949): 37.  
+Albrecht, Hans. “Zur Frage eines neuen Quellenlexikons.” In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949._ Report, 37–38. Basel: Bärenreiter, 1951.  
 
 Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 523-524.  
 
@@ -803,7 +803,7 @@ Richts, Kristina and Irmlind Capelle. "Kontextuelle Tiefenerschließung von Musi
 
 Rizo, David and José M. Iñesta. "A Grammar for Plaine and Easie Code." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 54-64. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
 
-Rose, Stephen, Sandra Tuppen, and Loukia Drosopoulou. "Writing a Big Data history of music." _Early Music_ (2015). [Available online](https://doi.org/10.1093/em/cav071){:target="_blank"}.   
+Rose, Stephen, Sandra Tuppen, and Loukia Drosopoulou. "Writing a Big Data history of music." _Early Music_ 43, no. 4 (November 2015): 649–660. [Available online](https://doi.org/10.1093/em/cav071){:target="_blank"}.   
 
 Schmitz, Christina. "Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment." _Zeitschrift für Bibliothekswesen und Bibliographie_ 62:1 (2015): 49-53. [Available online](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
@@ -811,13 +811,13 @@ Shanahan, Daniel and Eamonn Bell. "Re-Examining National Influences and Stylisti
 
 #### 2016
 
-Benton, Rita and Jennifer A. Ward. "Répertoire International des Sources Musicales." _Grove Music Online_. _Oxford Music Online_. Oxford University Press,[http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}.    
+Benton, Rita and Jennifer A. Ward. "Répertoire International des Sources Musicales." _Grove Music Online_. _Oxford Music Online_. Oxford University Press, [Available online](http://www.oxfordmusiconline.com/subscriber/article/grove/music/23216){:target="_blank"}.    
 
-Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. doi: [10.1515/bd-2016-0022](http://dx.doi.org/10.1515/bd-2016-0022).  
+Capelle, Irmlind and Kristina Richts. "Die Welt des Detmolder Hoftheaters – erschlossen mit MEI und TEI." _Bibliotheksdienst_ 50, no. 2 (February 2016): 199-209. [Available online](http://dx.doi.org/10.1515/bd-2016-0022).  
 
 Chang, Jeong Youn. "A South Korean Researcher's View on the Music Department of the Bavarian State Library." _Forum Musikbibliothek_ 37, no. 1 (2016): 7-13.  
 
-Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. doi: [10.1515/bd-2016-0021](http://dx.doi.org/10.1515/bd-2016-0021).  
+Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinformationsdienstes Musikwissenschaft." _Bibliotheksdienst_ 50, no. 2 (February 2016):188-198. [Available online](http://dx.doi.org/10.1515/bd-2016-0021){:blank}.  
 
 "[Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html)." RISM conference, September 2016. The following presentations are available online:
 
@@ -836,7 +836,7 @@ Diet, Jürgen. "Stand und Perspektiven der ViFaMusik im Rahmen des neuen Fachinf
 
 Eckhardt, Wolfgang, Julia Neumann, Tobias Schwinger, and Alexander Staub. "Neue Methoden der Tiefenerschließung von Musikautographen: Das DFG-Projekt 'Kompetenzzentrum Forschung und Information Musik' (KoFIM) an der SBBPK." _Bibliotheksmagazin: Mitteilungen aus den Staatsbibliotheken in Berlin und München_ 11, no. 1 (2016): 36-40.[Available online](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/ueber_uns/Publikationen/Bibliotheksmagazin/Bibliotheksmagazin_2016_1.pdf){:target="_blank"}.  
 
-Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. doi: [10.1515/bd-2016-0023](http://dx.doi.org/10.1515/bd-2016-0023).  
+Eichholz, Nina. "Erschließung, Digitalisierung und Internetpräsentation im Projekt 'Die Notenbestände der Dresdner Hofkirche und der Königlichen Privat-Musikaliensammlung aus der Zeit der sächsisch-polnischen Union' der SLUB Dresden." _Bibliotheksdienst_ 50, no. 2 (February 2016):210-225. [Available online](http://dx.doi.org/10.1515/bd-2016-0023).  
 
 Fahrenkrog, Laura and Fernanda Vera. "Recently Catalogued Music Archives and Fonds in Santiago, Chile: A Contribution to the Dissemination of Written Musical Heritage of the Nineteenth and Twentieth Centuries." _Fontes Artis Musicae_ 63, no. 2 (April-June 2016): 100-119.   
 
@@ -938,7 +938,7 @@ Zitellini, Rodolfo, Geert-Jan Giezeman, Frans Wiering, and Laurent Pugin. "Incip
 
 #### 2019
 
-Benavent i Peiró, Joan. "El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra." In _Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya_, 151-188. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019. DOI: [10.2436/20.8060.03.93](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf){:target="_blank"}.  
+Benavent i Peiró, Joan. "El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra." In _Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya_, 151-188. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019.  [Available online](https://doi.org/10.2436/20.8060.03.93){:target="_blank"}.  
 
 Corrigan, Ralph. "Survey of online resources." _Early Music_ 47, no. 1 (February 2019): 117–119. [Available online](https://doi.org/10.1093/em/caz014){:target="_blank"}.
 
@@ -996,7 +996,7 @@ Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen
 
 Loos, Helmut. "Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis." _Lithuanian Musicology / Lietuvos muzikologija_ 22 (2021): 24–33. [Available online](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}.  
 
-Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ 18, no. 1 (2021). DOI: [https://doi.org/10.1017/S1479409820000014](https://doi.org/10.1017/S1479409820000014){:target="_blank"}.  
+Platt, Heather. "The Digital Humanities and Nineteenth-Century Music: An Introductory Overview." _Nineteenth-Century Music Review_ 18, no. 1 (2021). [Available online](https://doi.org/10.1017/S1479409820000014){:target="_blank"}.  
 
 Vojčáková, Veronika. "Zuzana Petrášková: Snažíme se, aby z Národní knihovny nikdo neodešel s prázdnou." _Opera Plus_, December 4, 2021. [Available online](https://operaplus.cz/zuzana-petraskova-snazime-se-aby-z-narodni-knihovny-nikdo-neodesel-s-prazdnou/?pa=1){:blank}.
 
@@ -1026,7 +1026,9 @@ Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, 
 
 Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The case of the Bayerische Staatsbibliothek (BSB)." _JLIS.it,  Rivista italiana di biblioteconomia, archivistica e scienza dell’informazione_ 13, no. 1 (2022): 368-373. [Available online](https://www.jlis.it/index.php/jlis/article/view/445/438){:blank}.   
 
-Krämer, Kristina. "Two Hundred Years of Printed Music History." Notes for _Notes_. _Notes_ 79, no. 1 (September 2022): 54. [Available online](https://doi.org/10.1353/not.2022.0064){:blank}; and Briefs/Feuilletons. _Fontes Artis Musicae_ 69, no. 2 (April-June 2022): 139. [Available online](https://muse.jhu.edu/article/862514){:blank}.
+Krämer, Kristina. "Two Hundred Years of Printed Music History." Notes for _Notes_. _Notes_ 79, no. 1 (September 2022): 54. [Available online](https://doi.org/10.1353/not.2022.0064){:blank}; and Briefs/Feuilletons. _Fontes Artis Musicae_ 69, no. 2 (April-June 2022): 139. [Available online](https://muse.jhu.edu/article/862514){:blank}.  
+
+Heinz-Kronberger, Gottfried. "Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek." _Bibliothek und Wissenschaft (BuW)_ 55 (2022): 121-134.  
 
 Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told." In _Music Encoding Conference Proceedings 2021_, edited by Stefan Münnich and David Rizo, 107–115. Humanities Commons. 2022. [Available online](https://doi.org/10.17613/bqd1-yf81){:blank}.  
 
@@ -1061,7 +1063,7 @@ Klein, Rudolf. _Österreichische Musikzeitschrift_ 5 (1972): 301-302.
 
 ##### A/I,1–2
 
-Duckles, Vincent. _Journal of the American Musicological Aociety_ 26 (1973): 153-155. [Available online](https://www.jstor.org/stable/830840){:target="_blank"}.  
+Duckles, Vincent. _Journal of the American Musicological Aociety_ 26, no. 1 (1973): 153-155. [Available online](https://www.jstor.org/stable/830840){:target="_blank"}.  
 
 Gaillard, Pierre. _Bulletin des bibliothèques de France_ 18 (1973): \*555-\*556.
 
@@ -1087,7 +1089,7 @@ Zaslaw, Neal. _Notes_ 31 (1974): 42-45. [Available online](https://www.jstor.org
 
 ##### A/I,1–4
 
-Sartori, Claudio. _Nuova rivista musicale italiana_ 4 (1974): 634-637.
+Sartori, Claudio. _Nuova rivista musicale italiana_ 8, no. 4 (1974): 634-637.
 
 Volek, Tomislav. _Hudební Veda_ 12 (1975): 285-288.  
 
@@ -1095,9 +1097,15 @@ Volek, Tomislav. _Hudební Veda_ 12 (1975): 285-288.
 
 Sine nomine. _Magyar Zine_ 4 (1973): 437-438.
 
+##### A/I,3  
+
+Klein, Rudolf. _Österreichische Musikzeitschrift_ 29, no. 9 (September 1974): 453. [Available online](https://doi.org/10.7767/omz.1974.29.jg.440){:blank}.  
+
 ##### A/I,4
 
-Higbee, Dale. _The American recorder_ 16 (1975): 59.
+Higbee, Dale. _The American recorder_ 16 (1975): 59.  
+
+Klein, Rudolf. _Österreichische Musikzeitschrift_ 30, no. 9 (September 1975) 494-495. [Available online](https://doi.org/10.7767/omz.1975.30.9.494){:blank}.  
 
 ##### A/I,4–5
 
@@ -1194,8 +1202,19 @@ Reese, Gustave. "The first volume of RISM." _Fontes artis musicae_ 8 (1961): 4-7
 
 Higbee, Dale. _The American recorder_ 13, no. 2 (1972): 64-65.
 
-##### B/III, 3
-Bernhard, Michael. _Musik in Bayern: Halbjahresschrift der Gesellschaft für Bayerische Musikgeschichte e.V._ 38 (1989): 117-120.
+##### B/III, 1  
+
+Reaney, Gilbert. _The musical times_ 103, no. 1436 (October 1962): 691-692. [Available online](https://www.jstor.org/stable/948504){:blank}.  
+
+##### B/III, 2  
+
+Gümpel, Karl-Werner. _Die Musikforschung_ 25, no. 3 (Juli-September 1972): 363-365. [Available online](https://www.jstor.org/stable/41117381){:blank}.  
+
+##### B/III, 3  
+
+Bernhard, Michael. _Musik in Bayern: Halbjahresschrift der Gesellschaft für Bayerische Musikgeschichte e.V._ 38 (1989): 117-120.  
+
+Colette, Marie-Noëlle. _Revue de musicologie_ 75, no. 2 (1989): 289-291. [Available online](https://www.jstor.org/stable/928890){:blank}.  
 
 Frobenius, Wolf. _Die Musikforschung_ 44 (1991): 77-78.
 
@@ -1205,7 +1224,13 @@ Le Boeuf, Patrick. _Bulletin codicologique_ 42 (1988): 65-66.
 
 ##### B/III, 4
 
+Colette, Marie-Noëlle. _Revue de musicologie_ 80, no. 1 (1994): 131-132. [Available online](https://www.jstor.org/stable/947308){:blank}.  
+
 Staehelin, Martin. _Die Musikforschung_ 47 (1994): 412.  
+
+##### B/III, 6  
+
+Colette, Marie-Noëlle. _Revue de musicologie_ 90, no. 1 (2004): 133-135. [Available online](https://www.jstor.org/stable/4494891){:blank}.  
 
 ##### B/IV, 1-2
 Scott, Darwin F. _Notes_ 51, no. 1 (September 1994): 105-108. [Available online](https://doi.org/10.2307/899188){:blank}.
@@ -1290,7 +1315,7 @@ Gradenwitz, Peter. _Melos. Neue Zeitschrift für Musik_ 2 (1976): 503.
 
 H., J. _The music review_ 37 (1976): 310-311.
 
-Huglo, Miche. _Revue de musicologie_ 62 (1976): 295-296.
+Huglo, Michel. _Revue de musicologie_ 62, no. 2 (1976): 295-296. [Available online](https://www.jstor.org/stable/928804){:blank}.  
 
 Ochs, Michael. _Notes_ 33 (1976): 56-57.
 
@@ -1302,19 +1327,27 @@ Wulstan, David. _Music & Letters_ 63 (1977): 105.
 
 ##### B/X
 
-Al Faruqi, Lois Ibsen. _Asian Music_ 14 (1983): 183-185.
+Al Faruqi, Lois Ibsen. _Asian Music_ 14, no. 2 (1983): 183-185.  
 
-Burnett, Charles. _Early Music History_ 1 (1982): 378-381.
+Al Faruqi, Lois Ibsen. _Yearbook for traditional music_ 17 (1985): 219-220. [Available online](https://www.jstor.org/stable/768450){:blank}.  
+
+Burnett, Charles. _Early Music History: Studies in Medieval and Early Modern Music,_ 1 (1982): 378-381.
 
 El-Shawan, Salwa. _Yearbook of the International Folk Music Council_ 17 (1985): 219-220.
 
-Gerson-Kiwi, Edith. _Die Musikforschung_ 35 (1982): 82-84.
+Gerson-Kiwi, Edith. _Die Musikforschung_ 35 (1982): 82-84.  
+
+Hickmann, Ellen. _The world of music/Die Welt der Musik/Le monde de la musique_ 25, no. 3 (1983): 82-83. [Available online](https://www.jstor.org/stable/43560938){:blank}.  
+
+Huglo, Michel. _Revue de musicologie_ 68, no. 1-2 (1982): 409-410. [Available online](https://www.jstor.org/stable/928309){:blank}.  
 
 Langermann, T. _Jerusalem Studies in Arabic and Islam_ 3 (1981-1982): 244-246.
 
 Pellat, Ch. _Arabica_ 27 (1980): 329-330.
 
-Petrovic, Ankica. _Zvuk_ 3 (1989): 83-84.
+Petrovic, Ankica. _Zvuk_ 3 (1989): 83-84.  
+
+Randel, Don M. _Ethnomusicology: Journal of the Society for Ethnomusicology_ 26, no. 3 (September 1982): 478-479. [Available online](https://www.jstor.org/stable/850704){:blank}.  
 
 Sirat, Colette. _Revue des études juives_ 143 (1984): 227.
 
@@ -1604,6 +1637,9 @@ Popinigis, Danuta, Danuta Szlagowska and Jolanta Woźniak. _Rękopiśmienne zbio
 (Compiled by RISM Poland-Gdańsk)  
 
 Walter-Mazur, Magdalena. _The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music_. Wiesbaden: Harrassowitz Verlag, 2021.  
+(Compiled in cooperation with RISM)  
+
+Walter-Mazur, Magdalena. _The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. II. Repertoire of Cantors and Organists and Collection of the Holy Trinity Parish in Raków_. Wiesbaden: Harrassowitz Verlag, 2023.  
 (Compiled in cooperation with RISM)  
 
 ##### SK – Slovakia

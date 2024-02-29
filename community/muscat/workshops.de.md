@@ -15,6 +15,11 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
 
+#### Südkorea
+
+Muscat introduction, April-Juni 2024   
+Ewha Womans University, Seoul, Südkorea   
+_JeongYoun Chang (RISM South Korea)_ 
 
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
@@ -40,10 +45,10 @@ _JeongYoun Chang_
 * 13\.-15\. Juni 2023: NIFC, Kraków, Poland  
 _Guido Kraus, RISM Zentralredaktion_ 
 
-* 4\. Mai und 2\. Juni 2023: Special Topics: Printed music
+* 4\. Mai und 2\. Juni 2023: Special Topics: Printed music, online
 _Jennifer Ward, RISM-Zentralredaktion_
 
-* 25\. und 27\. April 2023: Muscat Introduction
+* 25\. und 27\. April 2023: Muscat Introduction, online
 _Jennifer Ward, RISM-Zentralredaktion_
 
 * 30\. September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives 
