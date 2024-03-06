@@ -72,14 +72,14 @@
       link: "/publications/iaml-congresses.html"
       items:
         - name:
-            en: 2024: Stellenbosch
-            de: 2024: Stellenbosch
-            fr: 2024: Stellenbosch
+            en: "2024: Stellenbosch"
+            de: "2024: Stellenbosch"
+            fr: "2024: Stellenbosch"
           link: "/publications/iaml-congresses/2024.html"
         - name:
-            en: 2023: Cambridge
-            de: 2023: Cambridge
-            fr: 2023: Cambridge
+            en: "2023: Cambridge"
+            de: "2023: Cambridge"
+            fr: "2023: Cambridge"
           link: "/publications/iaml-congresses/2023.html"
         - name:
             en: "2022: Prague"
