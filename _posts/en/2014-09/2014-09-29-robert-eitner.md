@@ -13,7 +13,7 @@ author: ''
 
 _We are pleased to present the following article written by our intern, Martin Bierwisch:_
 
-Who hasn't heard of Robert Eitner (1832-1905)? If you are a musicologist, it's hard to avoid him and his _Biographisch-Bibliographisches Quellenlexikon_ (Bio-Bibliographical Source Lexicon). This work also happens to be [available online through the University of Zürich](https://www.musik.uzh.ch/de/Research_BC/research/projects/eitner-digital.html){:target="_blank"}.
+Who hasn't heard of Robert Eitner (1832-1905)? If you are a musicologist, it's hard to avoid him and his _Biographisch-Bibliographisches Quellenlexikon_ (Bio-Bibliographical Source Lexicon). This work also happens to be [available online through the University of Zürich](https://www.musik.uzh.ch/de/research/projects/eitner-digital.html){:target="_blank"}.
 
 But why does his name appear under "Origins" in the [RISM Wikipedia article](http://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"}?
 
@@ -26,4 +26,3 @@ With the _Source Lexicon_, Eitner went beyond the scope of individual library ca
 And for now something completely different, did you know that Robert Eitner even composed a little? The RISM online catalog has [26 entries by him](https://opac.rism.info/search?View=rism&author=robert+eitner){:target="_blank"}, including a few autograph manuscripts of lieder that can be found in Leipzig and Berlin. Even more often, you will come across his name in the online catalog as a "copyist." Robert Eitner is therefore the bibliographer who has been recorded bibliographically.
 
 Image credit: [Wikipedia](http://de.wikipedia.org/wiki/Datei:Eitner.jpg){:target="_blank"}
-
