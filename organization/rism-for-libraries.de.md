@@ -1,5 +1,5 @@
 ---
-title: "RISM für Bibliothekare"
+title: "RISM für Bibliotheken"
 layout: organization
 lang: de
 permalink: /organization/rism-for-libraries.html
@@ -8,7 +8,7 @@ old_url: http://www.rism.info/de/unternehmen/rism-fuer-bibliothekare.html
 
 # RISM für Bibliothekare
 
-RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekaren zusammen. Wir möchten diese Tradition intensivieren, indem wir folgende Dienste anbieten.
+RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekarinnen und Bibliothekaren zusammen. Wir möchten diese Tradition intensivieren, indem wir folgende Dienste anbieten.
 
 ## Verweise & Anleitungen
 
@@ -78,7 +78,7 @@ In dieser Auflistung der Princeton University Library werden beispielsweise die 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Nicht alles aus den Büchern befindet sich in der elektronischen Datenbank (eine Übersicht finden Sie auf der Seite Publikationen). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform]( /resources/organization/RISM_Citation_Styles_2019_06.pdf), die A/I, alle Bände der B-Serie und den RISM Catalog enthält.
+Nicht alles aus den Büchern befindet sich in der elektronischen Datenbank (eine Übersicht finden Sie auf der Seite [Publikationen](/publications.html)). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform](/resources/organization/table-of-rism-citation-styles.pdf), die A/I, alle Bände der B-Serie und die RISM-Datenbank enthält.
 
 Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstützung bei der Entwicklung dieser Tools.
 

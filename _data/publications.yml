@@ -7,12 +7,12 @@
         en: Brochures
         de: Broschüren
         fr: Brochures
-      link: "publications/brochures.html"
+      link: "/publications/brochures.html"
     - name:
         en: Bibliography
         de: Bibliographie
         fr: Bibliographie
-      link: "publications/bibliography.html"
+      link: "/publications/bibliography.html"
     - name:
         en: Conferences
         de: Konferenzen
@@ -48,7 +48,7 @@
         en: RISM Lectures
         de: RISM Lectures
         fr: RISM Lectures
-      link: "publications/rism-lectures.html"
+      link: "/publications/rism-lectures.html"
       items:
         - name:
             en: "1: Cappella Sistina"
@@ -69,7 +69,7 @@
         en: IAML Congresses
         de: IAML Konferenzen
         fr: Conférences IAML
-      link: "/publications/iaml-conferences.html"
+      link: "/publications/iaml-congresses.html"
       items:
         - name:
             en: 2024: Stellenbosch
@@ -82,20 +82,20 @@
             fr: 2023: Cambridge
           link: "/publications/iaml-congresses/2023.html"
         - name:
-            en: 2022: Prague
-            de: 2022: Praha
-            fr: 2022: Prague
+            en: "2022: Prague"
+            de: "2022: Praha"
+            fr: "2022: Prague"
           link: "/publications/iaml-congresses/2022.html"
         - name:
             en: All IAML congresses
-            de: All IAML congresses
+            de: Alle IAML Konferenzen
             fr: All IAML congresses
-          link: "/publications/iaml-conferences.html"
-        - name:
+          link: "/publications/iaml-congresses/all.html"
+    - name:
         en: Annual reports
         de: Jahresberichte
         fr: Rapports annuels
-      link: "/publications/annual-reports/index.html"
+      link: "/publications/annual-reports.html"
       items:
         - name:
             en: 2022
@@ -114,16 +114,21 @@
           link: "/publications/annual-reports/2020.html"
         - name:
             en: All annual reports
-            de: All annual reports
+            de: Alle Jahresberichte
             fr: All annual reports
-          link: "/publications/annual-reports/index.html"
+          link: "/publications/annual-reports/all.html"
+    - name:
+        en: Fondo Cappella Sistina in RISM
+        de: Fondo Cappella Sistina in RISM
+        fr: Fondo Cappella Sistina dans le RISM
+      link: "/publications/sistina/index.html"
     - name:
         en: CD-ROM Publications (1995-2011)
         de: CD-ROM Publikationen (1995-2011)
         fr: Publications CD-ROM (1995-2011)
-      link: "publications/cd-rom-publications-1995-2011.html"
+      link: "/publications/cd-rom-publications-1995-2011.html"
     - name:
         en: Info RISM (1989-2001)
         de: Info-RISM (1989-2001)
         fr: Info-RISM (1989-2001)
-      link: "publications/info-rism.html"
+      link: "/publications/info-rism.html"

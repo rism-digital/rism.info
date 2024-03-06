@@ -13,7 +13,7 @@ author: ''
 
 RISM kündigt den neuesten Band der [Publikationsserie B](/publications.html){:target="_blank"} an, in der Quellenrepertorien nach thematischen Schwerpunkten beschrieben werden:
 
-Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](http://henle.de/de/detail/index.html?Titel=Catalogue+raisonn%C3%A9+of+the+Balinese+Palm-Leaf+Manuscripts+with+Music+Notation_2530){:target="_blank"}_. RISM B/XVI. München: Henle 2015. 309 Seiten. ISBN 978-3-87328-155-4
+Tilman Seebass, _[Catalogue raisonné of the Balinese Palm-Leaf Manuscripts with Music Notation](https://www.henle.de/de/Catalogue-raisonne-of-the-Balinese-Palm-Leaf-Manuscripts-with-Music-Notation/HN-2530){:target="_blank"}_. RISM B/XVI. München: Henle 2015. 309 Seiten. ISBN 978-3-87328-155-4
 
 Der erste musikethnologische Band des RISM beschäftigt sich mit Palmblatthandschriften (Lontare) aus Bali. Aber wie werden aus der Natur stammende Musikalien in den schwierigen klimatischen Bedingungen Indonesiens überliefert? Nur durch Ab- und Umschriften, denn die Palmblätter zersetzen sich innerhalb von drei Generationen. Seebass verwendet lateinische Buchstaben für die balinesischen Solmisationssilben. Seine Kopiertätigkeit erstreckte sich über mehr als ein Jahrzehnt. Beschrieben werden die Musiklontare aus verschiedenen Sammlungen in Indonesion, den Niederlanden, der Schweiz und den Vereinigten Staaten.
 
