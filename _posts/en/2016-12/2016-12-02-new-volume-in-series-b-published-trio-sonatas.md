@@ -13,7 +13,7 @@ author: ''
 
 The newest volume in RISM's [Series B](/publications.html#series-b-bibliographies-organized-by-topic) has just been published:
 
-Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, eds., _[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](http://www.henle.de/en/detail/index.html?Title=Die+Triosonate.+Catalogue+Raisonn%C3%A9+der+gedruckten+Quellen_2531){:target="_blank"}._ RISM B/XVII. Munich: Henle, 2016. ISBN 978-3-87328-156-1
+Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, eds., _[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](https://www.henle.de/de/Die-Triosonate.-Catalogue-Raisonne-der-gedruckten-Quellen/HN-2531){:target="_blank"}._ RISM B/XVII. Munich: Henle, 2016. ISBN 978-3-87328-156-1
 
 For one of the best-loved chamber music genres of the seventeenth and eighteenth centuries – the trio sonata – there is now a comprehensive bibliography available. The two-volume _catalogue raisonné_, which was funded by the Balzan-Stiftung and the Universität Zürich, compiles not only all trio sonatas from the seventeenth and eighteenth centuries that appeared in print, but delivers detailed information and introductory remarks to the sources and works. The printed catalog is accompanied by an online database with various search possibilities and thereby enables scholars as well as performers to explore this important repertoire. The publication was presented at the [Universität Heidelberg](https://www.uni-heidelberg.de/presse/meldungen/2016/m20161114_die-triosonate-des-17-und-18-jahrhunderts.html){:target="_blank"} on 18 November 2016.
 

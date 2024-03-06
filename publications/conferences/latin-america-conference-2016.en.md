@@ -71,7 +71,7 @@ You may also join RISM at the following events at the Gesellschaft für Musikfor
 **Thursday, September 15, 2016**
 
 Christoph Willibald Gluck: _Atto d'Orfeo_  
-A concert performance of this opera will be held at the [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Free tickets must be reserved in advance by writing: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
+A concert performance of this opera will be held at the [Hochschule für Musik](http://www.musik.uni-mainz.de){:target="_blank"}. Free tickets must be reserved in advance by writing: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
 
 **Friday, September 16, 2016**
 

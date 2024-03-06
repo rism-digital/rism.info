@@ -20,7 +20,7 @@ _Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c19
 
 #### 1949 <a name="c1940"></a>  
 
-Albrecht, Hans. “Zur Frage eines neuen Quellenlexikons.” In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949._ Report, 37–38. Basel: Bärenreiter, 1951.  
+Albrecht, Hans. “Zur Frage eines neuen Quellenlexikons.” In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949._ Report, 37–38. Basel: Bärenreiter, 1951.  
 
 Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 523-524.  
 
@@ -584,7 +584,7 @@ Tuppen, Sandra. "New RISM (U.K. and Ireland) database launched." _Brio: Journal 
 
 Assunção, Maria Clara. "Catalogação de documentos musicais escritos: uma abordagem à luz da evolução normativa." Master's thesis, Universidade de Évora, 2005. [Available online.](https://doi.org/10.17613/M6ZZ9W){:blank}.   
 
-Hanke Knaus, Gabriella. "Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz." _KGS Forum PBC PCP_ 6 (2005): 34-41. [Available online](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}.  
+Hanke Knaus, Gabriella. "Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz." _KGS Forum PBC PCP_ 6 (2005): 34-41. [Available online](https://www.babs.admin.ch/de/publikationen-zum-kulturguterschutz){:target="_blank"}.  
 
 Mikušák, Adrián. "Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM)." _Hudobný archív_ 15 (2005):250-254.   
 
