@@ -11,7 +11,7 @@ old_url: http://www.rism.info/sigla.html
 
 RISM assigns an abbreviation, called a library siglum, to institutions worldwide that hold musical sources or material related to the research of music. As of January 2024, there are about 8,800 sigla in RISM. Search the RISM sigla below.
 
-If you are looking for a siglum that is not yet in the directory, [please contact us](mailto:contact@rism.info) and we will create a new one.
+If an institution is missing from the directory, it has no RISM siglum yet, so [please contact us](mailto:contact@rism.info) and we will create it.  
 
 
 <script src="/javascript/sigla2.js"></script>
