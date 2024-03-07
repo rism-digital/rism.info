@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper and Copyists in Viennese Opera Scores, 1760–1775"
+title: "Das Projekt 'Paper and Copyists in Viennese Opera Scores, 1760–1775'"
 date: 2024-03-07
 lang: de
 post: true
