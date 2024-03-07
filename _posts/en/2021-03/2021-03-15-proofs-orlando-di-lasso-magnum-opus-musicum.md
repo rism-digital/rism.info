@@ -12,7 +12,7 @@ author: 'Gottfried Heinz-Kronberger and Bernhold Schmid'
 
 _We have received the following from Gottfried Heinz-Kronberger ([RISM Germany](https://de.rism.info/)):_  
 
-An exciting discovery was made in the course of a scoping study of fragments in the [Archives of the Bavarian State](https://www.gda.bayern.de/english/){:break}. This is not the first gem to be uncovered from the Fragment Collection. In 2018, parts of a sonata for two violins and basso continuo by Johann Caspar Teubner from 1695 were found (BayHStA, Fragmentensammlung Vorl. Nr. 176). In the course of cataloging work, the fragments of the printed music edition discussed here were cataloged by Dr. Sarah Hadry in 2017 and made part of the Fragment Collection. The Bavarian State Library office of RISM Germany was contacted to examine this music more closely.  
+An exciting discovery was made in the course of a scoping study of fragments in the [Archives of the Bavarian State](https://www.gda.bayern.de/){:break}. This is not the first gem to be uncovered from the Fragment Collection. In 2018, parts of a sonata for two violins and basso continuo by Johann Caspar Teubner from 1695 were found (BayHStA, Fragmentensammlung Vorl. Nr. 176). In the course of cataloging work, the fragments of the printed music edition discussed here were cataloged by Dr. Sarah Hadry in 2017 and made part of the Fragment Collection. The Bavarian State Library office of RISM Germany was contacted to examine this music more closely.  
 
 Originally, the leaves (Fragmentensammlung vorl. Nr. 42) were used as part of the binding in the archival materials cataloged as BayHStA, Oberster Lehenhof 14. These leaves, cut to different sizes, were removed and can now be identified as being part of a printed music edition that contains handwritten annotations. The edition is Orlando di Lasso's _Magnum Opus Musicum_, a kind of "complete edition" of the motets of the Munich court chapel master that was published by his sons Ferdinand (ca. 1560-1609) and Rudolph (ca. 1563-1625), printed by Nikolaus Heinrich in 1604 in Munich. The edition plays a major role in Lasso studies in that it was the basis of the motet volumes published as part of the "old" Complete Lasso Edition (1894-1927).  
 
@@ -39,4 +39,3 @@ We do not know who read the proofs. It could have been an employee of Nicolaus H
 _(Published in Nachrichten aus den_ Staatlichen Archiven Bayerns _[ISSN 0721-9733], p- 17-19.)_  
 
 [Gottfried Heinz-Kronberger](mailto:gottfried.heinz-kronberger@bsb-muenchen.de){:blank} and [Bernhold Schmid](mailto:B.Schmid@musikhist.badw.de){:blank}
-

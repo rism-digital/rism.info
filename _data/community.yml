@@ -1,4 +1,4 @@
-- label: 
+- label:
     en: "Community"
     de: "Community"
     fr: "Communauté"
@@ -20,7 +20,7 @@
             fr: Ateliers
           link: "/community/muscat/workshops.html"
     - name:
-        en: Directory of RISM Sigla
+        en: Directory of RISM Library Sigla
         de: RISM Bibliothekssigel
         fr: Sigle de Bibliothèques RISM
       link: "/community/sigla.html"

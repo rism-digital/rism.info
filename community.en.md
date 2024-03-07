@@ -22,7 +22,7 @@ Individuals can support our work by:
 * [reporting mistakes](/service/feedback.html){:target="_blank"} in the online catalog  
 * making us aware of new research concerning sources
 * informing us of performances that involve music found in RISM
-* alerting us to institutions not yet in the [siglum database](/community/sigla.html){:target="_blank"}
+* alerting us to institutions not yet in the [Directory of RISM Library Sigla](/community/sigla.html){:target="_blank"}
 * translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} into their local language
 
 [Libraries](/organization/rism-for-libraries.html){:target="_blank"} can support RISM by:
