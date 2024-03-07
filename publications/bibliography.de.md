@@ -588,7 +588,7 @@ Tuppen, Sandra: New RISM (U.K. and Ireland) database launched, in: Brio: Journal
 
 Assunção, Maria Clara: Catalogação de documentos musicais escritos: uma abordagem à luz da evolução normativa. Master's thesis, Universidade de Évora, 2005. [Online verfügbar](https://doi.org/10.17613/M6ZZ9W){:blank}
 
-Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}
+Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/publikationen-zum-kulturguterschutz){:target="_blank"}
 
 Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM), in: Hudobný archív15 (2005), S. 250-254.
 
