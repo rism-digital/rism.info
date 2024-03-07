@@ -21,6 +21,10 @@ Muscat introduction, April-Juni 2024
 Ewha Womans University, Seoul, Südkorea   
 _JeongYoun Chang (RISM South Korea)_ 
 
+#### Stellenbosch, Südafrika (IAML-Kongress)  
+
+Eine zweiteilige Muscat-Schulung wird am 28. Juni 2024 während des IAML-Kongresses in Stellenbosch stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Stellenbosch-Seite](/publications/iaml-congresses/2024.html).
+
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
 Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
