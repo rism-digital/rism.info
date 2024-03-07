@@ -10,7 +10,7 @@ old_url: http://www.rism.info/service/faqs.html
 
 ## Which sources can be found in RISM?
 
-The [RISM database](/publications.html#rism-database) contains over 1.5 million entries, mainly music manuscripts from between the years 1600 to 1850. As of 2024, this number includes ca. 232,000 entries for printed music, as well as some libretti and treatises. Please see [our Publications page](publications.html){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog.
+The [RISM database](/publications.html#rism-database) contains over 1.5 million entries, mainly music manuscripts from between the years 1600 to 1850. As of 2024, this number includes ca. 232,000 entries for printed music, as well as some libretti and treatises. Please see [our Publications page](/publications.html){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog.
 
 Some of the bigger libraries are not (yet) completely documented in RISM but they tend to have—as opposed to, say, smaller church libraries—their own comprehensive, searchable catalog. We are actively working on transferring records from other libraries to RISM. Sources that are now lost are not documented in RISM.
 

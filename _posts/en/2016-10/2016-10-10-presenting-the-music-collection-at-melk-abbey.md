@@ -14,7 +14,7 @@ author: Johannes Prominczel
 _The following is a guest post by one of our RISM contributors Johannes Prominczel, music archivist at Melk Abbey._
 
 
-The music archive of [Melk Abbey](http://www.stiftmelk.at/){:target="_blank"} in Austria consists of around 10,000 items of notated music and books as well as about 50 musical instruments.
+The music archive of [Melk Abbey](https://www.stiftmelk.at/){:target="_blank"} in Austria consists of around 10,000 items of notated music and books as well as about 50 musical instruments.
 
 The focus of the collection is on sources dating from between 1750 and 1850, though music from the late nineteenth century up until the present has also been preserved. Only a few works that were copied before 1750 have been handed down, possibly because others were destroyed in a fire.
 

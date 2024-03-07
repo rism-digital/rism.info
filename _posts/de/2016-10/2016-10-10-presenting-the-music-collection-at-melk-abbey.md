@@ -14,7 +14,7 @@ author: Johannes Prominczel
 _Der folgende Beitrag stammt von unserem RISM Kollegen Johannes Prominczel, Musikarchivar des Stifts Melk._
 
 
-Das Musikarchiv des [Stiftes Melk](http://www.stiftmelk.at/){:target="_blank"} umfasst knapp 10.000 Musikalien und Bücher sowie etwa 50 Musikinstrumente.
+Das Musikarchiv des [Stiftes Melk](https://www.stiftmelk.at/){:target="_blank"} umfasst knapp 10.000 Musikalien und Bücher sowie etwa 50 Musikinstrumente.
 
 Der Schwerpunkt der Sammlung liegt auf Quellen aus der Zeit zwischen 1750 und 1850. Doch auch aus dem späten 19. Jahrhundert bis zur Gegenwart blieb Notenmaterial erhalten. Möglicherweise durch einen Brand zerstört, sind nur wenige Werke, die vor 1750 kopiert wurden, überliefert.
 
