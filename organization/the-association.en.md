@@ -8,7 +8,7 @@ old_url: http://www.rism.info/organisation/the-association.html
 
 Two associations administer the international centers that oversee the activities of the RISM network: the Association "Internationales Quellenlexikon der Musik" for the Editorial Center (Zentralredaktion) in Frankfurt, and the "RISM Digital Center Association" for the Digital Center in Bern. The Commission Mixte members are ex-officio members of both associations.
 
-# Commission Mixte
+## Commission Mixte
 
 * IAML delegates: Mathias Auclair, Paris (France); Prof. Dr. Beatriz Magalhães Castro, Brasilia (Brazil); Dr. Rupert Ridgewell, London (UK); Dr. Barbara Wiermann, Dresden (Germany), Sonia Wronkowska, Warsaw (Poland)
 * IMS delegates: Prof. Dr. Rebekah Ahrendt, Utrecht (Netherlands); Prof. Dr. Drew Edward Davies, Chicago (USA); Prof. Dr. Dinko Fabris, Rome (Italy), Prof. Dr. Markus Grassl, Vienna (Austria); Prof. Dr. Thomas Schmidt, Manchester (UK)
