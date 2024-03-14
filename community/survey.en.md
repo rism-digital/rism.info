@@ -6,11 +6,11 @@ permalink: /community/survey.html
 old_url: http://www.rism.info/en/community/survey-2014-2015.html
 ---
 
-# The RISM survey
+# RISM User Studies
 
-The RISM Central Office carried out a survey about the online catalog from October 30, 2014 to February 28, 2015 (view the [survey questions](/resources/community/survey/RISM_User_Survey_-_Google_Formulare.pdf) here). In total, 551 valid responses were received, 342 in English and 209 in German. The survey was part of a larger, year-long user study that examined how people interact with the online catalog.
+The RISM Central Office carried out a series of user studies between 2014 and 2015 that examined how people interact with the online catalog.
 
-Please contact us with any questions you might have: [contact@rism.info](mailto:contact@rism.info).
+A survey about the online catalog was available from October 30, 2014 to February 28, 2015 (view the [survey questions](/resources/community/survey/RISM_User_Survey_-_Google_Formulare.pdf) here). In total, 551 valid responses were received, 342 in English and 209 in German. 
 
 ## Publications and Conferences
 
