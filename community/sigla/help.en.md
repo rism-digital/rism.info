@@ -22,7 +22,7 @@ The fields **Name**, **Library siglum**, **City**, and **Country** can be select
 
 * Name: The official name or alternative names of the institution. For example, "National Library of Wales" will return the record for ["Llyfrgell Genedlaethol Cymru"](https://rism.online/institutions/30001516), the official Welsh name for the National Library.
 * Library siglum: Sigla are automatically expanded so partial matches are possible. For example, a search for "GB-O" will find GB-Ob, GB-Och, etc.
-* City: Search using the local name (including diacritics). US states can also be searched here by the postal abbreviation (WI, IL, etc.).
+* City: Search using the local name. US states can also be searched here by the postal abbreviation (WI, IL, etc.).
 * Country: Search for countries using their names. We make a best effort to match country names in all languages supported by RISM (English, French, German, Italian, Polish, Portugese, and Spanish).
 
 ## Tips
