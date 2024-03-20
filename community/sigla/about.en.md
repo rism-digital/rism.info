@@ -16,7 +16,7 @@ In **I-Rc**, **I** stands for Italy, **R** is for Rome, and **c** is for the [Bi
 
 In **US-PHf**, **US** stands for the United States, **PH** is for Philadelphia, and **f** is for the [Parkway Central Library, Music Department](https://rism.online/institutions/30002414).
 
-Some institutions that are prominent in the city omit the institution abbreviation. In **D-B**, the **D** stands for Germany, and the **B** for Berlin. The institution is implied as the [**Staatsbibliothek zu Berlin**](https://rism.online/institutions/30000655) (The Berlin State Library). All other institutions in Berlin will have a institution abbreviation.
+Some institutions that are prominent in the city omit the institution abbreviation. In **D-B**, the **D** stands for Germany, and the **B** for Berlin. The institution is implied as the [**Staatsbibliothek zu Berlin**](https://rism.online/institutions/30000655) (The Berlin State Library). All other institutions in Berlin will have an institution abbreviation.
 
 Some large institutions may have more than one siglum assigned. **F-Pn** refers specifically to the [Music Department at the Bibliothèque nationale de France](https://rism.online/institutions/30001488), while **F-Pnm** refers to the [Manuscripts department](https://rism.online/institutions/30078937) at the same institution. We cannot always track where documents are actually held in an institution, so it is best to confirm with the institution directly.
 
