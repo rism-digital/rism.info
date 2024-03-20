@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/sigla/about-sigla.html
 
 Since 1960, RISM has published catalogs with descriptions of musical source material from libraries and archives in many countries around the world. From the very beginning, institutions that hold musical sources were given an abbreviation, called a library siglum. The RISM library sigla make it possible to concisely name holding institutions – sometimes a large number of them – without having to cite very long institutional names. We do not require sources to be in the RISM catalog in order for a siglum to be created, and the materials do not necessarily have to be old.
 
-RISM sigla are composed of a country abbreviation, a city abbreviation, and (usually) an institution abbreviation. The country abbreviations are taken from the [Vehicle Registration Identification code](https://en.wikipedia.org/wiki/International_vehicle_registration_code). The city identifier is assigned by RISM and is unique to a country. It may be helpful to look at a few examples.
+RISM sigla are composed of a country abbreviation, a city abbreviation, and (usually) an institution abbreviation. The country abbreviations are taken from the [Vehicle Registration Identification code](https://en.wikipedia.org/wiki/International_vehicle_registration_code). The city and institution identifiers are assigned by the RISM Editorial Center. It may be helpful to look at a few examples.
 
 In **I-Rc**, **I** stands for Italy, **R** is for Rome, and **c** is for the [Biblioteca Casanatense](https://rism.online/institutions/30000230).
 
