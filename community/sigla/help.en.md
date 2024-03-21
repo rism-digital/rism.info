@@ -6,7 +6,7 @@ permalink: /community/sigla/help.html
 old_url: http://www.rism.info/en/sigla/help.html
 ---
 
-# Guide to using the Online Directory of RISM Library Sigla
+# Guide to using the Directory of RISM Library Sigla
 
 ## All fields (Default)
 
