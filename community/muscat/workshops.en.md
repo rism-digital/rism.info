@@ -21,7 +21,7 @@ The RISM Editorial Center regularly hosts introductory, two-part workshops on ca
 
 #### Seoul, South Korea
 
-Muscat introduction, April-June 2024   
+Muscat introduction, 10 April–15 May (Wednesdays) 2024   
 Ewha Womans University, Seoul, South Korea   
 _JeongYoun Chang (RISM South Korea)_  
 
