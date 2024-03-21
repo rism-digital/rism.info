@@ -17,7 +17,7 @@ Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interess
 
 #### Südkorea
 
-Muscat introduction, April-Juni 2024   
+Muscat introduction, 10\. April - 15\. Mai 2024 (mittwochs)  
 Ewha Womans University, Seoul, Südkorea   
 _JeongYoun Chang (RISM South Korea)_ 
 
