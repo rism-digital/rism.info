@@ -260,4 +260,4 @@ This series was based on Rita Benton, ed.,  _Directory of Music Research Librari
   - Volume 3: Register, 1986.
 
 * _RISM-Bibliothekssigel: Gesamtverzeichnis_ (RISM library sigla: Complete index). Munich: Henle, 1998.  
-A searchable edition is available [through the Online Directory of RISM Library Sigla](/community/sigla.html) on this website.
+A searchable edition is available [through the Directory of RISM Library Sigla](/community/sigla.html) on this website.
