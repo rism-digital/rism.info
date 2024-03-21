@@ -28,7 +28,7 @@ Please see the [Help page for the RISM Catalog](https://opac.rism.info/main-menu
 
 ## Where can I get copies of the music?
 
-Music must be obtained directly from the holding institution itself. Some libraries offer digitized collections on their websites; whenever possible, RISM links to these digital surrogates directly in the records. If you do not find a digitized copy of the source, you must contact the library. Click on the library siglum or consult the [Online Directory of RISM Library Sigla](/community/sigla.html) to find the contact information. 
+Music must be obtained directly from the holding institution itself. Some libraries offer digitized collections on their websites; whenever possible, RISM links to these digital surrogates directly in the records. If you do not find a digitized copy of the source, you must contact the library. Click on the library siglum or consult the [Directory of RISM Library Sigla](/community/sigla.html) to find the contact information. 
 
 ## Can I reuse data from the RISM online catalog?
 
