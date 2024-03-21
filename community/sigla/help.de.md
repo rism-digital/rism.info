@@ -24,7 +24,7 @@ Die Felder **Name**, **Bibliothekssigel**, **Stadt** und **Land** können im Dro
 * Bibliothekssigel: Sigel werden automatisch erweitert, so dass auch Teiltreffer möglich sind. Zum Beispiel findet eine Suche nach "GB-O" GB-Ob, GB-Och, usw.
 * Stadt: Suche über den Ortsnamen. US-Bundesstaaten können auch über das Postkürzel gesucht werden (WI, IL, etc.).
 * Land: Suche nach dem Ländernamen. Wir bemühen uns, die Ländernamen in allen von RISM unterstützten Sprachen zu finden (Deutsch, Englisch, Französisch, Italienisch, Polnisch, Portugiesisch und Spanisch).
-.
+
 ## Tipps
 
 * Die Suche nach **\*** findet sämtliche Sigel.
