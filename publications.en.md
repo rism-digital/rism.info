@@ -8,7 +8,7 @@ old_url: http://www.rism.info/en/publications.html
 
 # Publications
 
-The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The focus of RISM's current activities is its electronic database, which can be searched at no cost through two resources, the RISM Catalog and RISM Online. RISM's library sigla can be searched through the [Online Directory of RISM Library Sigla](/community/sigla.html).
+The RISM publications represent RISM's activities that began in 1952 and continue to the present day. The focus of RISM's current activities is its electronic database, which can be searched at no cost through two resources, the RISM Catalog and RISM Online. RISM's library sigla can be searched through the [Directory of RISM Library Sigla](/community/sigla.html).
 
 ## RISM Database
 RISM's over 1.4 million records can be searched through two different but complementary resources, the RISM Catalog and RISM Online. The musical sources that stand at the heart of the RISM project are music manuscripts, printed music, libretti, and treatises preserved in over 3,000 libraries, museums, archives, churches, schools, and private collections around the world. Our online tools incorporate records from earlier series (all of A/I, all of A/II, all of B/I, some of B/II and other B volumes; for details, see below), but also expand well beyond our early publications. The database grows monthly and reflects the work of our active RISM contributors worldwide.
@@ -260,4 +260,4 @@ This series was based on Rita Benton, ed.,  _Directory of Music Research Librari
   - Volume 3: Register, 1986.
 
 * _RISM-Bibliothekssigel: Gesamtverzeichnis_ (RISM library sigla: Complete index). Munich: Henle, 1998.  
-A searchable edition is available [through the Online Directory of RISM Library Sigla](/community/sigla.html) on this website.
+A searchable edition is available [through the Directory of RISM Library Sigla](/community/sigla.html) on this website.

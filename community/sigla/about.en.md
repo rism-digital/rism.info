@@ -14,7 +14,7 @@ RISM sigla are composed of a country abbreviation, a city abbreviation, and (usu
 
 In **I-Rc**, **I** stands for Italy, **R** is for Rome, and **c** is for the [Biblioteca Casanatense](https://rism.online/institutions/30000230).
 
-In **US-PHf**, **US** stands for the United States, **PH** is for Philadelphia, and **f** is for the [Parkway Central Library, Music Department](https://rism.online/institutions/30002414).
+In **US-PHu**, **US** stands for the United States, **PH** is for Philadelphia, and **u** is for the [University of Pennsylvania Libraries](https://rism.online/institutions/30002433).
 
 Some institutions that are prominent in the city omit the institution abbreviation. In **D-B**, the **D** stands for Germany, and the **B** for Berlin. The institution is implied as the [**Staatsbibliothek zu Berlin**](https://rism.online/institutions/30000655) (The Berlin State Library). All other institutions in Berlin will have an institution abbreviation.
 
