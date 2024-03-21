@@ -32,9 +32,9 @@ Bitte verwenden Sie die Hilfe-Seiten vom [RISM Catalog](https://opac.rism.info/
 
 ## Wie kann ich eine Kopie der Noten bekommen?
 
-Einige Bibliotheken bieten auf ihrer Website digitalisierte Sammlungen an (z. B. die [SLUB Dresden](http://www.slub-dresden.de/en/digitale-bibliothek/sammlungen){:target="_blank"}). Wenn Sie dort nicht fündig werden, müssen Sie bei der besitzenden Bibliothek eine Kopie bestellen. Übrigens: in unserem Online-Katalog bekommen Sie die Adresse der Bibliothek durch Klicken auf das Bibliothekssigel oder Sie nutzen das [Online-Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html).
+Einige Bibliotheken bieten auf ihrer Website digitalisierte Sammlungen an (z. B. die [SLUB Dresden](http://www.slub-dresden.de/en/digitale-bibliothek/sammlungen){:target="_blank"}). Wenn Sie dort nicht fündig werden, müssen Sie bei der besitzenden Bibliothek eine Kopie bestellen. Übrigens: in unserem Online-Katalog bekommen Sie die Adresse der Bibliothek durch Klicken auf das Bibliothekssigel oder Sie nutzen das [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html).
 
-## Wie kann ich die Daten des RISM-OPAC verwenden?
+## Kann ich die Daten der RISM-Datenbank wiederverwenden?
 
 Ja!
 
