@@ -14,7 +14,7 @@ Die RISM-Bibliothekssigel setzen sich aus einem Länderkürzel, einem Ortskürze
 
 Bei **I-Rc** steht **I** für Italien, **R** für Rom und **c** für die [Biblioteca Casanatense](https://rism.online/institutions/30000230){:blank}.
 
-Bei **US-PHf** steht **US** für die Vereinigten Staaten von Amerika, **PH** für Philadelphia und **f** für die [Parkway Central Library, Music Department](https://rism.online/institutions/30002414){:blank}.
+Bei **US-PHu** steht **US** für die Vereinigten Staaten von Amerika, **PH** für Philadelphia und **u** für die [University of Pennsylvania Libraries](https://rism.online/institutions/30002433){:blank}.
 
 Einige Institutionen, die in der Stadt eine wichtige Rolle spielen, lassen die Abkürzung der Institution weg. Bei **D-B** steht das **D** für Deutschland und das **B** für Berlin. Die Institution heißt [**Staatsbibliothek zu Berlin**](https://rism.online/institutions/30000655){:blank}. Alle anderen Institutionen in Berlin haben ein Institutionskürzel.
 
