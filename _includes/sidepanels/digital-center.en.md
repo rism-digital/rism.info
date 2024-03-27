@@ -12,8 +12,8 @@ Switzerland
 # Tools for the RISM Community
 
 |:---:|
-| ![Muscat](/images/digital-center/muscat.png) |
+| [![Muscat](/images/digital-center/muscat.png)](/community/muscat.html) |
 | |
-| ![Verovio](/images/digital-center/verovio.png) |
+| [![Verovio](/images/digital-center/verovio.png)](https://verovio.org) |
 | |
-| ![RISM Online](/images/digital-center/rism-online.png) |
+| [![RISM Online](/images/digital-center/rism-online.png)](https://rism.online) |
