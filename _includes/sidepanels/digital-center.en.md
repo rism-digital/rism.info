@@ -15,3 +15,5 @@ Switzerland
 | ![Muscat](/images/digital-center/muscat.png) |
 | |
 | ![Verovio](/images/digital-center/verovio.png) |
+| |
+| ![RISM Online](/images/digital-center/rism-online.png) |
