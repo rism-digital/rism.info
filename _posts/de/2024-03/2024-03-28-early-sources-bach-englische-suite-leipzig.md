@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-_Der folgende Beitrag erschien zuerst beim [Bach Archiv Leipzig, Germany](https://www.bach-leipzig.de/en/bach-archive/new-collectibles-our-treasury){:blank} und wird hier mit freundlicher Genehmigung wiedergegeben._
+_Der folgende Beitrag erschien zuerst beim [Bach Archiv Leipzig](https://www.bach-leipzig.de/en/bach-archive/new-collectibles-our-treasury){:blank} und wird hier mit freundlicher Genehmigung wiedergegeben._
 
 Neues aus unserer Sammlung
 
