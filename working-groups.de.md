@@ -537,7 +537,6 @@ E-Mail: [info@rism.digital](mailto:info@rism.digital)\
 E-Mail: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 E-Mail: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
 Webseite: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
-Siehe auch: [https://www.rism.info/working-groups/switzerland/home.html](/working-groups/switzerland/home.html){:blank}
 
 ## SLOWAKISCHE REPUBLIK
 
