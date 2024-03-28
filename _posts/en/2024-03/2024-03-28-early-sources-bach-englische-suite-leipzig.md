@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enhancing Visibility of American Music Manuscripts at the Library of Congress"
+title: "Early sources of J.S. Bach's English Suites united in Leipzig"
 date: 2024-03-28
 lang: en
 post: true
