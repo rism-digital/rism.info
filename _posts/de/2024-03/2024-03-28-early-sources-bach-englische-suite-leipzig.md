@@ -14,7 +14,7 @@ _Der folgende Beitrag erschien zuerst beim [Bach Archiv Leipzig](https://www.bac
 
 Neues aus unserer Sammlung
 
-**EFrühe Quellen der Englischen Suiten J.S. Bachs in Leipzig vereint**
+**Frühe Quellen der Englischen Suiten J.S. Bachs in Leipzig vereint**
 
 Die »Englischen Suiten« – eine der bekanntesten Werksammlungen für Tasteninstrumente Johann Sebastian Bachs – sind nicht im Original überliefert. Dank einer Schenkung der britischen Unternehmerfamilie Kohn sind die ältesten Abschriften der Suiten nun in Leipzig vereint und erstmals öffentlich zugänglich: Ab dem 2. Februar 2024 werden die vier Manuskripte von der Hand des Bach-Schülers Heinrich Nikolaus Gerber in der Schatzkammer des Bach-Museums Leipzig gezeigt.
 
