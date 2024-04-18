@@ -45,7 +45,7 @@ Each record in the [RISM Catalog of Musical Sources](https://opac.rism.info/inde
 
 [https://opac.rism.info/search?id=450031804&View=rism](https://opac.rism.info/search?id=450031804&View=rism){:blank}  
 
-Note that the URLs that appear in your browser's address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see []“How to link to a record or a search” on the catalog's help page](https://opac.rism.info/main-menu-/kachelmenu/help#c49){:blank}.  
+Note that the URLs that appear in your browser's address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see [“How to link to a record or a search” on the catalog's help page](https://opac.rism.info/main-menu-/kachelmenu/help#c49){:blank}.  
 
 ### Example
 A citation that follows the _Chicago Manual of Style_ for a printed item in a footnote but incorporates all of the above information would therefore look like this:  
