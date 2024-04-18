@@ -628,7 +628,6 @@ Email: [info@rism.digital](mailto:info@rism.digital)\
 Email: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 Email: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
 Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
-See also: [https://www.rism.info/working-groups/switzerland/home.html](/working-groups/switzerland/home.html){:blank}
 
 ## UKRAINE
 
