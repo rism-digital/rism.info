@@ -48,6 +48,8 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 
 ## Past workshops and demonstrations  
 
+* South Korea  
+
 * 19 and 21 February 2024: Muscat introduction, online    
 _Jennifer Ward, RISM Editorial Center_  
 
