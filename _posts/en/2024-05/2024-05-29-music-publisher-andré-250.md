@@ -5,7 +5,7 @@ date: 2024-05-29
 lang: en
 post: true
 category: events
-image: "/images/news/2024-05/andré-250-stempel_website.jpg"
+image: "/images/news/2024-05/andre-250-stempel_website.jpg"
 email: 'contact@rism.info'
 author: 'Martin Bierwisch'
 ---
