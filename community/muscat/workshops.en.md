@@ -34,6 +34,9 @@ A two-part Muscat training session will be held on 28 June 2024 during the IAML 
 The next online introductory Muscat workshop will be held upon request of anyone wishing to start a new RISM cataloging project. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 
+Muscat introduction, April-June 2024   
+Ewha Womans University, Seoul, South Korea   
+JeongYoun Chang, RISM South Korea  
 
 ### Special Topics: Printed Music  
 
@@ -44,6 +47,8 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* South Korea  
 
 * 19 and 21 February 2024: Muscat introduction, online    
 _Jennifer Ward, RISM Editorial Center_  
@@ -72,7 +77,7 @@ _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de 
 * 26 July 2022: Muscat Workshop, [IAML Congress, Prague](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM Zentralredaktion_  
 
-* 4–6 July 2022: Muscat Introduction, Warsaw  
+* 4–6 July 2022: Muscat introduction, Warsaw  
 _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_  
 
 * 21–22 June 2022: [Muscat introduction, Chopin Institute, Warsaw](/new_at_rism/2022/07/07/muscat-workshop-in-warsaw.html)
