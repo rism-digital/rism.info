@@ -74,7 +74,7 @@ Weitere Angebote des RISM auf dem Kongress der Gesellschaft für Musikforschung:
 **Donnerstag, 15. September 2016**
 
 Christoph Willibald Gluck: _Atto d'Orfeo_  
-Konzertante Aufführung in der [Hochschule für Musik](http://www.musik.uni-mainz.de/4853_DEU_HTML.php){:target="_blank"}. Tickets (kostenlos) bitte per E-Mail vorbestellen: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
+Konzertante Aufführung in der [Hochschule für Musik](http://www.musik.uni-mainz.de){:target="_blank"}. Tickets (kostenlos) bitte per E-Mail vorbestellen: [veranstaltungen-musik@uni-mainz.de](mailto:veranstaltungen-musik@uni-mainz.de)
 
 **Freitag, 16. September 2016**
 

@@ -51,16 +51,13 @@ Telephone: +43 662 8894014
 Email: [brinzing@mozarteum.at](mailto:brinzing@mozarteum.at)  
 Website: [https://mozarteum.at/en/bibliotheca-mozartiana/](https://mozarteum.at/en/bibliotheca-mozartiana/){:blank}    
 
-#### RISM Working Group Vorarlberg
-Dr. Annemarie Bösch-Niederer\
+#### RISM Working Group Vorarlberg  
 Vorarlberger Landesarchiv, Musiksammlung\
-Kirchstr. 28 \
+Kirchstr. 28  
 A-6900 Bregenz\
 Telephone: +43 5574 511-45015\
 Fax: +43 5574 511-45095\
-Email: [annemarie.boesch@vorarlberg.at](mailto:annemarie.boesch@vorarlberg.at)\
 Website: [http://www.landesarchiv.at](http://www.landesarchiv.at/){:target="_blank"}  
-See also: [http://www.feldkirch.at/rathaus/bibliothek/musiksammlung](http://www.feldkirch.at/rathaus/bibliothek/musiksammlung){:blank}  
 
 #### RISM Working Group Wilhering
 Dr. Stefan Ikarus Kaiser\
@@ -631,7 +628,6 @@ Email: [info@rism.digital](mailto:info@rism.digital)\
 Email: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 Email: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
 Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
-See also: [https://www.rism.info/working-groups/switzerland/home.html](/working-groups/switzerland/home.html){:blank}
 
 ## UKRAINE
 

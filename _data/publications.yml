@@ -72,6 +72,11 @@
       link: "/publications/iaml-congresses.html"
       items:
         - name:
+            en: "2024: Stellenbosch"
+            de: "2024: Stellenbosch"
+            fr: "2024: Stellenbosch"
+          link: "/publications/iaml-congresses/2024.html"
+        - name:
             en: "2023: Cambridge"
             de: "2023: Cambridge"
             fr: "2023: Cambridge"
@@ -81,11 +86,6 @@
             de: "2022: Praha"
             fr: "2022: Prague"
           link: "/publications/iaml-congresses/2022.html"
-        - name:
-            en: "2021: Online"
-            de: "2021: Online"
-            fr: "2021: Online"
-          link: "/publications/iaml-congresses/2021.html"
         - name:
             en: All IAML congresses
             de: Alle IAML Konferenzen
@@ -98,6 +98,11 @@
       link: "/publications/annual-reports.html"
       items:
         - name:
+            en: 2023
+            de: 2023
+            fr: 2023
+          link: "/publications/annual-reports/2023.html"
+        - name:
             en: 2022
             de: 2022
             fr: 2022
@@ -107,11 +112,6 @@
             de: 2021
             fr: 2021
           link: "/publications/annual-reports/2021.html"
-        - name:
-            en: 2020
-            de: 2020
-            fr: 2020
-          link: "/publications/annual-reports/2020.html"
         - name:
             en: All annual reports
             de: Alle Jahresberichte

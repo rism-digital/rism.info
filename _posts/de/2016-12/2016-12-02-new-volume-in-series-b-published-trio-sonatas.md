@@ -13,7 +13,7 @@ author: ''
 
 Ein neuer Band der RISM [Serie B](/publications.html#c2619) liegt vor:
 
-_[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](http://www.henle.de/en/detail/index.html?Title=Die+Triosonate.+Catalogue+Raisonn%C3%A9+der+gedruckten+Quellen_2531){:target="_blank"}_, hrsg. von Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, RISM B XVII, München: Henle 2016, 2 Bände: 42\* + 1.148 S., ISBN 978-3-87328-156-1
+_[Die Triosonate. Catalogue Raisonné der gedruckten Quellen](https://www.henle.de/de/Die-Triosonate.-Catalogue-Raisonne-der-gedruckten-Quellen/HN-2531){:target="_blank"}_, hrsg. von Ludwig Finscher, Laurenz Lütteken, Inga Mai Groote, RISM B XVII, München: Henle 2016, 2 Bände: 42\* + 1.148 S., ISBN 978-3-87328-156-1
 
 Zu einer der beliebtesten kammermusikalischen Gattungen des 17. und 18. Jahrhundert – der Triosonate – liegt nun eine umfangreiche Bibliographie vor. Der zweibändige Catalogue raisonné, der durch die Balzan-Stiftung und die Universität Zürich gefördert wurde, erfasst nicht nur sämtliche im Druck erschienenen Triosonaten des 17. und 18. Jahrhunderts, sondern liefert auch detaillierte Informationen und einleitende Kommentare zu den Quellen und Werken. Der gedruckte Katalog wird durch eine Online-Datenbank mit verschiedenen Suchmöglichkeiten ergänzt und erlaubt so die wissenschaftliche wie praktische Erschließung dieses wichtigen Repertoires. Am 18. November 2016 wurde die Publikation an der [Universität Heidelberg](https://www.uni-heidelberg.de/presse/meldungen/2016/m20161114_die-triosonate-des-17-und-18-jahrhunderts.html){:target="_blank"} im Musikwissenschaftlichen Seminar vorgestellt.
 

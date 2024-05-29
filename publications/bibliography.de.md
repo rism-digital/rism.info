@@ -23,7 +23,7 @@ _Springen zu:_ [1940er](#c1940) [1950er](#c1950)   [1960er](#c1960)   [1970er](#
 
 #### 1949 <a name="c1940"></a>
 
-Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: International musicological society congress report 4 (1949), S. 37.
+Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949._ Report, S. 37–38. Basel: Bärenreiter, 1951.
 
 Fleischer, Herbert: Florenz, in: Stimmen: Monatsblätter für Musik 18 (1949), S. 523-524.
 
@@ -588,7 +588,7 @@ Tuppen, Sandra: New RISM (U.K. and Ireland) database launched, in: Brio: Journal
 
 Assunção, Maria Clara: Catalogação de documentos musicais escritos: uma abordagem à luz da evolução normativa. Master's thesis, Universidade de Évora, 2005. [Online verfügbar](https://doi.org/10.17613/M6ZZ9W){:blank}
 
-Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/aufgabenbabs/kgs/prints.html){:target="_blank"}
+Hanke Knaus, Gabriella: Die Arbeitsstelle Schweiz des „Répertoire International des Sources Musicales (RISM)“ im Dienste der Bewahrung des musikalischen Kulturgutes der Schweiz , in: KGS Forum PBC PCP Nr. 6/2005, Bern 2005. [Online verfügbar](https://www.babs.admin.ch/de/publikationen-zum-kulturguterschutz){:target="_blank"}
 
 Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire Internationaldes Sources Musicales (RISM), in: Hudobný archív15 (2005), S. 250-254.
 
@@ -812,7 +812,7 @@ Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musik
   
 Rizo, David und José M. Iñesta: A Grammar for Plaine and Easie Code, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 54-64. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
-Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in: Early Music (2015). [Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}
+Rose, Stephen, Sandra Tuppen und Loukia Drosopoulou: Writing a Big Data history of music, in: Early Music 43 (2015), S. 649–660. [Online verfügbar](https://doi.org/10.1093/em/cav071){:target="_blank"}
 
 Schmitz, Christina: Wissenschaftliches Kolloquium – Schreiber- und Wasserzeichenforschung im digitalen Zeitalter: Zwischen wissenschaftlicher Spezialdisziplin und Catalog enrichment, in: Zeitschrift für Bibliothekswesen und Bibliographie 62 (2015), S. 49-53. [Online verfügbar](http://dx.doi.org/10.3196/186429501562166){:target="_blank"}.
 
@@ -947,7 +947,7 @@ Zitellini, Rodolfo, Geert-Jan Giezeman, Frans Wiering und Laurent Pugin: "Incipi
 
 #### 2019
 
-Benavent i Peiró, Joan: El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra, in: Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019, S. 151-188. [Online verfügbar](https://publicacions.iec.cat/repository/pdf/00000285/00000100.pdf){:target="_blank"}
+Benavent i Peiró, Joan: El periòdic musical de Maria Rosa d’Areny i Jordanade la Casa Museu d’Areny Plandolit d'Andorra, in: Del Consell de la Terra al Consell General, 600 anys d'història: homenatge a Pere Canturri i Montanya. Papers de recerca històrica 9. Societat Andorrana de Ciències: 2019, S. 151-188. [Online verfügbar](https://doi.org/10.2436/20.8060.03.93){:target="_blank"}
 
 Corrigan, Ralph: Survey of online resources, in: Early Music 47 (2019), S. 117–119. [Online verfügbar](https://doi.org/10.1093/em/caz014){:target="_blank"}
 
@@ -1098,7 +1098,7 @@ Papp, Géza: in: Studia Musicologica 16 (1974), p. 289-290. [Online verfügbar](
 Zaslaw, Neal: in: Notes 31 (1974), p. 42-45. [Online verfügbar](https://www.jstor.org/stable/895923){:target="_blank"}
 
 **A/I,1 - 4:**  
-Sartori, Claudio: in: Nuova rivista musicale italiana 4 (1974), p. 634-637.
+Sartori, Claudio: in: Nuova rivista musicale italiana 8 (1974), p. 634-637.
 
 Volek, Tomislav: in: Hudební Vada 12 (1975), p. 285-288.
 
@@ -1296,7 +1296,7 @@ Gradenwitz, Peter: in: Melos. Neue Zeitschrift für Musik 2 (1976), p. 503.
 
 H., J.: in: The music review 37 (1976), p. 310-311.
 
-Huglo, Michel: in: Revue de musicologie 62 (1976), p. 295-296.
+Huglo, Michel: in: Revue de musicologie 62 (1976), p. 295-296. [Online verfügbar](https://www.jstor.org/stable/928804){:blank}
 
 Ochs, Michael: in: Notes 33 (1976), p. 56-57.
 

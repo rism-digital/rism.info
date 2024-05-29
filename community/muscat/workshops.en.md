@@ -19,13 +19,20 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
 
+#### Seoul, South Korea
+
+Muscat introduction, 10 April–15 May (Wednesdays) 2024   
+Ewha Womans University, Seoul, South Korea   
+_JeongYoun Chang (RISM South Korea)_  
+
+#### Stellenbosch, South Africa (IAML Congress)  
+
+A two-part Muscat training session will be held on 28 June 2024 during the IAML Congress in Stellenbosch. Please see [our IAML Stellenbosch page](/publications/iaml-congresses/2024.html) for details, including registration information.
 
 #### Online  
 
 The next online introductory Muscat workshop will be held upon request of anyone wishing to start a new RISM cataloging project. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
-
-#### South Korea
 
 Muscat introduction, April-June 2024   
 Ewha Womans University, Seoul, South Korea   

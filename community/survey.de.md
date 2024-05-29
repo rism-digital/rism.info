@@ -8,9 +8,9 @@ old_url: http://www.rism.info/de/community/rism-nutzerstudie.html
 
 # Die RISM Nutzerstudie
 
-Die RISM-Zentralredaktion hat vom 30. Oktober 2014 bis 28. Feburar 2015 eine Nutzerumfrage zum Online-Katalog durchgeführt (hier finden Sie den [Fragebogen](/resources/community/survey/RISM_Nutzerumfrage_-_Google_Formulare.pdf) (pdf)). Insgesamt erhielten wir 551 Antworten, 342 in Englisch und 209 in Deutsch. Die Umfrage ist Teil einer größeren Nutzerstudie, die den Umgang der Benutzer mit dem Online-Katalog untersucht.
+In den Jahren 2014 und 2015 führte die RISM-Zentralredaktion eine Nutzerstudie durch, in der untersucht wurde, wie die Nutzerinnen und Nutzer mit dem Online-Katalog interagieren.
 
-Sollten Sie Fragen haben, setzen Sie sich bitte mit uns in Verbindung: [contact@rism.info](mailto:contact@rism.info).
+Vom 30. Oktober 2014 bis zum 28. Februar 2015 wurde eine Umfrage zum Online-Katalog durchgeführt (siehe [Umfragefragen](/resources/community/survey/RISM_User_Survey_-_Google_Formulare.pdf) hier). Insgesamt gingen 551 gültige Antworten ein, davon 342 auf Englisch und 209 auf Deutsch.
 
 # Publikationen und Konferenzen
 

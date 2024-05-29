@@ -19,7 +19,7 @@ Am Rande sei noch erwähnt, dass es zudem Werckmeister-Drucke gibt, auf denen be
 
 {% include image file="/images/news/2022-12/Werckmeister-Berlin_675high.jpg" %}
 
-_Pierre Rode, Quatuor op. 14, Berlin: Werckmeister [ca. 1806]; RISM ID no. 1001210468 ([RISM Catalog](https://opac.rism.info/search?id=1001210468&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001210468){:blank}), [D-Mbs 4 Mus.pr. 11331]((https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11145160-0)){:blank}_
+_Pierre Rode, Quatuor op. 14, Berlin: Werckmeister [ca. 1806]; RISM ID no. 1001210468 ([RISM Catalog](https://opac.rism.info/search?id=1001210468&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001210468){:blank}), [D-Mbs 4 Mus.pr. 11331](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11145160-0){:blank}_
 
 
 Abbildung (oben): Pierre Rode, Quatuor op. 14, Oranienburg: Werckmeister [1805]; RISM ID no. 1001018382 ([RISM Catalog](https://opac.rism.info/search?id=1001018382&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001018382){:blank}), [D-Mbs 4 Mus.pr. 2009.4835](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11141952-3){:blank}.

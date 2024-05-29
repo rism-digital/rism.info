@@ -8,7 +8,7 @@ old_url: http://www.rism.info/de/publikationen.html
 
 # Publikationen
 
-Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. Der Schwerpunkt der derzeitigen Aktivitäten des RISM liegt auf seiner elektronischen Datenbank, die über zwei Ressourcen, den RISM-Katalog und RISM Online, kostenlos durchsucht werden kann. Die Bibliothekssigel von RISM können über das [Online-Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html) recherchiert werden.
+Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. Der Schwerpunkt der derzeitigen Aktivitäten des RISM liegt auf seiner elektronischen Datenbank, die über zwei Ressourcen, den RISM-Katalog und RISM Online, kostenlos durchsucht werden kann. Die Bibliothekssigel von RISM können über das [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html) recherchiert werden.
 
 ## RISM-Datenbank
 Die über 1,4 Millionen Datensätze des RISM können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online.  Die musikalischen Quellen, die im Mittelpunkt des RISM-Projekts stehen, sind Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
@@ -212,4 +212,4 @@ Die Serie basiert auf Rita Benton (Hrsg.), _Directory of Music Research Librarie
 
 
 * _RISM-Bibliothekssigel. Gesamtverzeichnis_, bearbeitet von der Zentralredaktion in den Ländergruppen des RISM, München und Kassel: G. Henle und Bärenreiter, 1999.  
-Das Verzeichnis wird regelmäßig aktualisiert und ist [online verfügbar](/community/sigla.html)
+Das Verzeichnis wird regelmäßig aktualisiert und ist [online verfügbar](/community/sigla.html).

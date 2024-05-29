@@ -10,7 +10,7 @@ old_url: http://www.rism.info/service/faqs.html
 
 ## Which sources can be found in RISM?
 
-The [RISM database](/publications.html#rism-database) contains over 1.5 million entries, mainly music manuscripts from between the years 1600 to 1850. As of 2024, this number includes ca. 232,000 entries for printed music, as well as some libretti and treatises. Please see [our Publications page](publications.html){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog.
+The [RISM database](/publications.html#rism-database) contains over 1.5 million entries, mainly music manuscripts from between the years 1600 to 1850. As of 2024, this number includes ca. 232,000 entries for printed music, as well as some libretti and treatises. Please see [our Publications page](/publications.html){:blank} for more details. Even though the emphasis of manuscript cataloging is on the years 1600-1850, [you will find both older and newer sources](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"} in the online catalog.
 
 Some of the bigger libraries are not (yet) completely documented in RISM but they tend to have—as opposed to, say, smaller church libraries—their own comprehensive, searchable catalog. We are actively working on transferring records from other libraries to RISM. Sources that are now lost are not documented in RISM.
 
@@ -28,9 +28,9 @@ Please see the [Help page for the RISM Catalog](https://opac.rism.info/main-menu
 
 ## Where can I get copies of the music?
 
-Music must be obtained directly from the holding institution itself. Some libraries offer digitized collections on their websites; whenever possible, RISM links to these digital surrogates directly in the records. If you do not find a digitized copy of the source, you must contact the library. Click on the library siglum or consult the [Online Directory of RISM Library Sigla](/community/sigla.html) to find the contact information. 
+Music must be obtained directly from the holding institution itself. Some libraries offer digitized collections on their websites; whenever possible, RISM links to these digital surrogates directly in the records. If you do not find a digitized copy of the source, you must contact the library. Click on the library siglum or consult the [Directory of RISM Library Sigla](/community/sigla.html) to find the contact information. 
 
-## Can I reuse data from the RISM online catalog?
+## Can I reuse data from the RISM database?
 
 Yes! Both the authority records as well as the records for the sources themselves are freely available as linked open data through a Creative Commons [CC-BY license](http://creativecommons.org/licenses/by/3.0/){:target="_blank"}. You can download the data in MARCXML and RDF format. More information is available on the [RISM Catalog's data page](https://opac.rism.info/main-menu-/kachelmenu/data){:target="_blank"} page or [RISM Online's About page](https://rism.online/about){:blank}.
 
