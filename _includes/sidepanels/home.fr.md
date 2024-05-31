@@ -1,9 +1,9 @@
-<!--
+
 <article class="notification is-warning is-light">
-    <p class="has-text-weight-semibold">Announcements</p>
-    <p>The Editorial Center office will be closed from December 23 to January 7.</p>
-</article>  
--->  
+    <p class="has-text-weight-semibold">Upcoming events</p>
+    <p>[IAML Congress in Stellenbosch, South Africa](/publications/iaml-congresses/2024.html), 23-28 June 2024.</p>
+</article>
+
 
 ## Sigles de bibliothèques
 
