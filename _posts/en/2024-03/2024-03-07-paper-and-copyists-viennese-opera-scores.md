@@ -20,7 +20,6 @@ From 1760 to 1775 many (especially Italian) operas were performed in Vienna, and
 
 For more information about the project, [see here](https://www.mdw.ac.at/imi/ctmv/p_und_c/index.html){:blank}.
 
-For individual manuscripts, [see for example](https://www.mdw.ac.at/imi/ctmv/p_und_c/scores_detail.php?score=Anfossi_18046){:blank}.
+For individual manuscripts, [see for example here](https://www.mdw.ac.at/imi/ctmv/p_und_c/scores_detail.php?score=Anfossi_18046){:blank}.
 
 _Image_: Watermark of the paper mill Antonio Seguito, Toscolano, [P&C Watermark P71A, Countermark](https://www.mdw.ac.at/imi/ctmv/ctmv.php?wz=P71A){:blank}
-

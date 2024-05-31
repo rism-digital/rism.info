@@ -64,9 +64,9 @@ Chair: Klaus Pietschmann (Universität Mainz, RISM Board of Directors)
 Chair: Jürgen Diet (Bayerische Staatsbibliothek, Munich)
 
 - María Teresa Delgado Sánchez (Biblioteca Nacional de España): Standardization in the National Library of Spain: Name Authority Headings and Name-Title Authority Headings in Musical Works  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3894) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Delgado_RISM_English_NatLibrarySpain.pdf)
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3894) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Delgado_RISM_English_NatLibrarySpain.pdf)
 - Maria Aslanidi (Ionian University, Greece) and Michalis Stefanidakis (Ionian University, Greece): The Library Reference Model and MARC 21 Format for Authority Data: A Case Study on the (Musical) Work Entity  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3895) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Stefanidakis_Aslanidi_Library_Reference_Model_MARC_21.pdf) \| [Video on YouTube](https://youtu.be/VUG4q-hky5Y){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3895) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Stefanidakis_Aslanidi_Library_Reference_Model_MARC_21.pdf) \| [Video on YouTube](https://youtu.be/VUG4q-hky5Y){:target="_blank"}
 - Nancy Lorimer (Stanford University Libraries, USA): A Multitude of Works: Modelling Musical Works in BIBFRAME   
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3896) \| [Video on YouTube](https://youtu.be/PJXR2u8Z01U){:target="_blank"}
 
@@ -122,7 +122,7 @@ Natalia Keil-Senserova, _piano_
 Chair: Balázs Mikusi (National Széchényi Library, Budapest; RISM Board of Directors)
 
 - Daniel Boomhower (Dumbarton Oaks, USA): J. S. Bach, the Meanings of Print, and the Implications for Work Records  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3906) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Boomhower_Bach_Print_workRecords.pdf) \| [Video on YouTube](https://youtu.be/b1fUhaZsaYE){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3906) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Boomhower_Bach_Print_workRecords.pdf) \| [Video on YouTube](https://youtu.be/b1fUhaZsaYE){:target="_blank"}
 - Luca Lévi Sala (Université de Montréal, Canada): The Textual Tradition of Muzio Clementi’s Output: Consistency and the Problem of the Work Title  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3907) \| [Video on YouTube](https://youtu.be/BaApWeFZRNc){:target="_blank"}
 - Jacek Iwaszko (The Fryderyk Chopin Institute, Poland) and Marcelina Chojecka (The Fryderyk Chopin Institute, Poland): The "Work" in RISM within Projects of the Polska Cyfrowa POPC (2018-2020 and 2019-2021)  
@@ -138,7 +138,7 @@ Chair: Klaus Keil (RISM Central Office)
 - Roland Schmidt-Hensel (Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Germany): Work – Version – Individual Movement. Thoughts on Work Titles and Work-Level Records for Operas from the 18th and 19th Centuries   
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3910)
 - Sonia Wronkowska (Polish RISM Centre, National Library of Poland): Parody or Contrafactum? Revising RISM Guidelines for Derivative Works of Music  
-[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3911) [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Wronkowska_RISM_Mainz_2019.pdf)\| [Video on YouTube](https://youtu.be/ucC1qoz5hKA){:target="_blank"}
+[Abstract](/publications/conferences/work-level-2019/abstracts.html#c3911) \| [Slides](/resources-old-website/community-content/events/2019_Work_level_RISM/Wronkowska_RISM_Mainz_2019.pdf)\| [Video on YouTube](https://youtu.be/ucC1qoz5hKA){:target="_blank"}
 - Gesa zur Nieden (Universität Mainz, Universität Greifswald (Germany) and Jonathan Gammert (Universität Mainz, Germany): Is it a Work? FRBR-based Work Concepts of Opera Pasticcios  
 [Abstract](/publications/conferences/work-level-2019/abstracts.html#c3912)
 - Andrea Zedler (Universität Bayreuth, Germany): Chameleons of Music History: Opere buffe and the Problem of Work Levels   
