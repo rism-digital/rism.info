@@ -19,12 +19,6 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
 
-#### Seoul, South Korea
-
-Muscat introduction, 10 April–15 May (Wednesdays) 2024   
-Ewha Womans University, Seoul, South Korea   
-_JeongYoun Chang (RISM South Korea)_  
-
 #### Stellenbosch, South Africa (IAML Congress)  
 
 A two-part Muscat training session will be held on 28 June 2024 during the IAML Congress in Stellenbosch. Please see [our IAML Stellenbosch page](/publications/iaml-congresses/2024.html) for details, including registration information.
@@ -32,7 +26,6 @@ A two-part Muscat training session will be held on 28 June 2024 during the IAML 
 #### Online  
 
 The next online introductory Muscat workshop will be held upon request of anyone wishing to start a new RISM cataloging project. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
-
 
 
 ### Special Topics: Printed Music  
@@ -44,6 +37,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 10 April–15 May (Wednesdays) 2024, Muscat introduction, Ewha Womans University, Seoul, South Korea     
+_JeongYoun Chang (RISM South Korea)_  
 
 * 19 and 21 February 2024: Muscat introduction, online    
 _Jennifer Ward, RISM Editorial Center_  
@@ -72,7 +68,7 @@ _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de 
 * 26 July 2022: Muscat Workshop, [IAML Congress, Prague](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM Zentralredaktion_  
 
-* 4–6 July 2022: Muscat Introduction, Warsaw  
+* 4–6 July 2022: Muscat introduction, Warsaw  
 _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_  
 
 * 21–22 June 2022: [Muscat introduction, Chopin Institute, Warsaw](/new_at_rism/2022/07/07/muscat-workshop-in-warsaw.html)

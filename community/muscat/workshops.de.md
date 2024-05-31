@@ -17,7 +17,7 @@ Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interess
 
 #### Südkorea
 
-Muscat introduction, 10\. April - 15\. Mai 2024 (mittwochs)  
+Muscat introduction, April-Juni 2024  
 Ewha Womans University, Seoul, Südkorea   
 _JeongYoun Chang (RISM South Korea)_ 
 
@@ -34,7 +34,7 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 ## Vergangene Workshops und Vorführungen
 
-* 19\. Februar und 21\. Februar 2024: Muscat Introduction
+* 19\. Februar und 21\. Februar 2024: Muscat introduction
 _Jennifer Ward, RISM-Zentralredaktion_
 
 * 8\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
@@ -52,7 +52,7 @@ _Guido Kraus, RISM Zentralredaktion_
 * 4\. Mai und 2\. Juni 2023: Special Topics: Printed music, online
 _Jennifer Ward, RISM-Zentralredaktion_
 
-* 25\. und 27\. April 2023: Muscat Introduction, online
+* 25\. und 27\. April 2023: Muscat introduction, online
 _Jennifer Ward, RISM-Zentralredaktion_
 
 * 30\. September 2022: RISM cataloging demonstration, Seminar on interdisciplinary work in musical archives 
@@ -61,7 +61,7 @@ _Valentín Mansilla, Historical Musicology Study Group, Universidad Nacional de 
 * 26\. Juli 2022: Muscat Workshop, [IAML Kongress, Prag](/publications/iaml-congresses/2022.html)  
 _Jennifer Ward, Guido Kraus, RISM-Zentralredaktion_  
 
-* 4\.–6\. Juli 2022: Muscat Introduction, Warschau  
+* 4\.–6\. Juli 2022: Muscat introduction, Warschau  
 _Ewa Hauptman-Fischer, Biblioteka Uniwersytecka w Warszawie, Gabinet Zbiorów Muzycznych_ 
 
 * 21\.–22\. Juni 2022: Muscat-Einführung, Chopin Institut, Warschau 

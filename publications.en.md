@@ -212,6 +212,8 @@ Countries included (manuscripts): Colombia, France, Guatemala, Mexico, Portugal,
 Palm-leaf manuscripts (lontars) from Bali. Music lontars are described in this catalog from collections in Indonesia, the Netherlands, Switzerland, and the United States.  
 
 
+Palm-leaf manuscripts (lontars) from Bali. Music lontars are described in this catalog from collections in Indonesia, the Netherlands, Switzerland, and the United States.  
+
 ### B/XVII: Trio Sonatas
 
 * **B/XVII:** Ludwig Finscher, Laurenz Lütteken, and Inga Mai Groote, eds., assisted by Cristina Urchueguía, Gabriela Freiburghaus, and Nicola Schneider: _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_, 2016. 2 vols. plus database ([database access information here](/new_publications/2016/12/02/new-volume-in-series-b-published-trio-sonatas.html){:target="_blank"}).  
