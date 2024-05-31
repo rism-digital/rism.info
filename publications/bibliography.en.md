@@ -151,7 +151,7 @@ Broder, Nathan. "Joint U.S. committee, International Inventory of Musical Source
 
 “Notices.” (List of American institutions cooperating with the Inventory) _Journal of the American Musicological Society_ 17, no. 2 (1964): 234–37. [Available online](https://doi.org/10.2307/829994){:target="_blank"}.  
 
-“Notices.” (Continuation of list from 17, no. 2) _Journal of the American Musicological Society_ 17, no. 3 (1964): 425–27. https://doi.org/10.2307/830113.
+“Notices.” [Continuation of list from 17, no. 2] _Journal of the American Musicological Society_ 17, no. 3 (1964): 425–27. [Available online](https://doi.org/10.2307/830113){:target="_blank"}.
 
 Sartori, Claudio. "Le RISM et l’Italie. A l’aventure dans les bibliothèques italiennes. " _Fontes Artis Musicae_ 11 (1964): 28-33. [Available online](https://www.jstor.org/stable/23504414){:target="_blank"}.
 
@@ -161,9 +161,9 @@ Gleich, Clemens-Christoph von. "Le Répertoire International des Sources Musical
 
 Heckmann, Harald. "Fünfzehn Jahre 'Internationales Quellenlexikon der Musik'." _The World of Music_ 7 (1965): 18-19.  
 
-“Notices.” (Continuation of list from 17, no. 2) _Journal of the American Musicological Society_ 18, no. 1 (1965): 115–16. [Available online](https://doi.org/10.2307/830739){:target="_blank"}.   
+“Notices.” [Continuation of list from 17, no. 2] _Journal of the American Musicological Society_ 18, no. 1 (1965): 115–16. [Available online](https://doi.org/10.2307/830739){:target="_blank"}.   
 
-“Notices.” Continuation of list from 17, no. 2) _Journal of the American Musicological Society_ 18, no. 3 (1965): 438–40. [Available online]https://doi.org/10.2307/830718){:target="_blank"}.  
+“Notices.” [Continuation of list from 17, no. 2] _Journal of the American Musicological Society_ 18, no. 3 (1965): 438–40. [Available online](https://doi.org/10.2307/830718){:target="_blank"}.  
 
 #### 1966
 
