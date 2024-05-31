@@ -13,13 +13,8 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 #### Online  
 
-Weitere Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
-
-#### Südkorea
-
-Muscat introduction, April-Juni 2024  
-Ewha Womans University, Seoul, Südkorea   
-_JeongYoun Chang (RISM South Korea)_ 
+Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
+ 
 
 #### Stellenbosch, Südafrika (IAML-Kongress)  
 
@@ -33,6 +28,9 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 10\. April – 15\. Mai (mittwochs) 2024, Muscat introduction, Ewha Womans University, Seoul, South Korea     
+_JeongYoun Chang (RISM Südkorea)_  
 
 * 19\. Februar und 21\. Februar 2024: Muscat introduction
 _Jennifer Ward, RISM-Zentralredaktion_

@@ -130,6 +130,10 @@ Blume, Friedrich: Report on the Current Organizations and Plans of RISM, in: Jou
 
 Fünfzehn Jahre “Internationales Quellenlexikon der Musik“, in: Musica 18 (1964), S. 325.
 
+Notices. (List of American institutions cooperating with the Inventory), in: Journal of the American Musicological Society 17 (1964), Nr. 2, S. 234–37. [Online verfügbar](https://doi.org/10.2307/829994){:target="_blank"}
+
+Notices. [Fortsetzung der Liste aus Heft 17, Nr. 2], in: Journal of the American Musicological Society 17 (1964), Nr. 3, S. 425–27. [Online verfügbar](https://doi.org/10.2307/830113){:target="_blank"}
+
 Sartori, Claudio: Le RISM et l’Italie. A l’aventure dans les bibliothèques italiennes, in: Fontes Artis Musicae 11 (1964), S. 28-33.
 
 #### 1965
@@ -137,6 +141,10 @@ Sartori, Claudio: Le RISM et l’Italie. A l’aventure dans les bibliothèques 
 Gleich, Clemens-Christoph von. "Le Répertoire International des Sources Musicales (RISM) et les collections théâtrales," in: _Acts of the VIIth International Congress of Libraries and Museums of the Performing Arts/Actes du VIIe Congrès international des bibliotèques-musées des arts du spectacle_. The Hague: Netherlands Centre of the International Theatre Institute, 1965?
 
 Heckmann, Harald: Fünfzehn Jahre “Internationales Quellenlexikon der Musik”, in: The world of music 7 (1965), S. 18-19.
+
+Notices. [Fortsetzung der Liste aus Heft 17, Nr. 2], in: Journal of the American Musicological Society 18 (1965), Nr. 1, S. 115–16. [Online verfügbar](https://doi.org/10.2307/830739){:target="_blank"}
+
+Notices. [Fortsetzung der Liste aus Heft 17, Nr. 2], in: Journal of the American Musicological Society 18 (1965), Nr. 3, S. 438-440. [Online verfügbar](https://doi.org/10.2307/830718){:target="_blank"} 
 
 #### 1966
 
