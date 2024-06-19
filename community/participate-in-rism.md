@@ -11,7 +11,7 @@ We warmly welcome anybody who wants to take part in RISM's projects.  Please con
 
 Individuals can support our work by:
 
-* Cataloging sources [in the international RISM database](/community/muscat.html) or sending us descriptions of sources not yet in RISM  
+* [Cataloging sources](/community/muscat.html) in the international RISM database or sending us descriptions of sources not yet in RISM  
 * [Reporting feedback](/service/feedback.html){:target="_blank"} about the online catalogs   
 * Making us aware of [new research concerning sources](/community/share-your-news.html)
 * Informing us of performances that involve music found in RISM
