@@ -8,35 +8,22 @@ old_url: http://www.rism.info/en/community.html
 
 # Welcome to the RISM Community!
 
-The RISM Community is the place where contributors and other interested individuals can come together to exchange ideas and information. 
+The RISM database is used by researchers, musicians, librarians, students, music antiquarians, and our active contributors worldwide as a foundation for their work and to contribute new knowledge about the musical past. We have assembled some resources here to enable the wider RISM community to use our tools effectively.
+
 
 {% include image file="/images/community/Community572x300.png" pos="center" %}
 
-## How can I participate in RISM?
-
-We warmly welcome anybody who wants to take part in RISM's projects.  Please contact your country's [national working group](/working-groups.html) or contact the [Editorial Center](/editorial-center.html) for more information.
-
-Individuals can support our work by:
-
-* cataloging sources [directly with RISM](/community/muscat.html) or sending us descriptions of sources not yet in RISM  
-* [reporting mistakes](/service/feedback.html){:target="_blank"} in the online catalog  
-* making us aware of new research concerning sources
-* informing us of performances that involve music found in RISM
-* alerting us to institutions not yet in the [Directory of RISM Library Sigla](/community/sigla.html){:target="_blank"}
-* translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} into their local language
-
-[Libraries](/organization/rism-for-libraries.html){:target="_blank"} can support RISM by:
-
-* opening up their collections to RISM contributors
-* supporting their work by offering work space, Internet access, etc.
-* offering staff to work on the project (training is provided free from RISM)
-* [sending RISM data](/community/data-services.html){:target="_blank"} from local catalogs about sources not yet in RISM
-
-Anybody can:
-
-* contribute financially. All donations are welcome! (Receipt provided.)
+- [Directory of RISM Library Sigla](/community/sigla.html): Search RISM’s abbreviations for libraries, archives and collections with historical music holdings, or request a new siglum.  
+- RISM for Researchers (coming soon): Tools for people using RISM for research, scholarship, university projects, or data analysis  
+- [RISM for Librarians](/organization/rism-for-libraries.html): Services for information professionals to support cataloging and metadata as well as reference and instruction.  
+- RISM for Musicians (coming soon): Resources for musicians, performers, conductors, or concert organizers to find original sources for performance.  
+- [Muscat](/community/muscat.html): Information for RISM contributors about our cataloging program, tutorials, and workshops  
+- [Data Services](/community/data-services.html): Ways of using RISM data in external catalogs, projects, or research
+- [User Studies](/community/survey.html): Research carried out by the Editorial Center in 2014–2015 about the users of the RISM Catalog.  
+- [Share Your News with RISM](/community/share-your-news.html): Let us know if you have any discoveries, publications, projects, announcements, or other news that would be of interest to the wider RISM community.
+- [How can I participate in RISM?](/community/participate-in-rism.html): Find out the different ways you can contribute to RISM.
 
 _Images:_  
-(1) Workshop in Shanghai, 2018, sponsored by RISM Chinese-Language Region. Photo by Vivian Zhang.  
-(2, 4) Workshop in Frankfurt sponsored by the Editorial Center, 2018  
-(3) Participants of the conference "Documenting Musical Sources in Latin America," Mainz, 2016  
+(1) Workshop in Shanghai, 2018, sponsored by RISM Chinese-Language Region. Photo: Vivian Zhang  
+(2, 4) Workshop in Frankfurt sponsored by the Editorial Center, 2018. Photo: RISM Zentralredaktion  
+(3) Participants of the conference "Documenting Musical Sources in Latin America," Mainz, 2016. Photo: RISM Zentralredaktion    

@@ -13,6 +13,8 @@ RISM assigns an abbreviation, called a library siglum, to institutions worldwide
 
 If an institution is missing from the directory, it has no RISM siglum yet, so [please contact us](mailto:contact@rism.info) and we will create it.  
 
+For assistance in searching the sigla, please see the [Help page](/community/sigla/help.html).
+
 
 <script src="/javascript/sigla2.js"></script>
 <style>
