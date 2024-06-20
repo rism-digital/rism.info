@@ -2,7 +2,7 @@
 layout: post
 title: "RISM beim EarlyMuse-Treffen in Wrocław"
 date: 2024-06-20
-lang: en
+lang: de
 post: true
 category: new_at_rism
 image: "/images/news/2024-06/rism-and-earlymuse_website.jpg"
