@@ -1,3 +1,12 @@
+---
+title: "Wie kann ich teilnehmen?"
+layout: community
+lang: de
+permalink: /community/participate-in-rism.html
+---
+
+# Wie kann ich teilnehmen?
+
 Wir heißen jeden herzlich willkommen, der an den RISM-Projekten teilnehmen möchte. Bitte kontaktieren Sie unsere [nationalen Arbeitsgruppen](/working-groups.html) oder die [Zentralredaktion](/editorial-center.html) für weitere Informationen.
 
 Einzelpersonen können unsere Arbeit unterstützen, indem Sie:
