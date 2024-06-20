@@ -8,33 +8,20 @@ old_url: http://www.rism.info/de/community.html
 
 # Willkommen bei der RISM Community! 
 
-RISM stellt im Community-Bereich für Mitarbeiter und alle an Musikquellen Interessierte zusätzliche Inhalte bereit. 
+Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musikantiquaren und unseren aktiven Mitarbeitern weltweit als Grundlage für ihre Arbeit und zur Gewinnung neuer Erkenntnisse über die musikalische Vergangenheit genutzt. Wir haben hier eine Reihe von Ressourcen zusammengestellt, die es der RISM-Gemeinschaft ermöglichen, unsere Werkzeuge effektiv zu nutzen. 
 
 {% include image file="/images/community/Community572x300.png" pos="center" %}
 
-## Wie kann ich teilnehmen?
+- [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html): Suchen Sie nach den RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen oder beantragen Sie ein neues Sigel.  
+- RISM für Forscher (demnächst verfügbar): Tools für Personen, die RISM für Forschung, Wissenschaft, Universitätsprojekte oder Datenanalyse nutzen.    
+- [RISM für Bibliotheken](/organization/rism-for-libraries.html): Dienste für Informationsfachleute zur Unterstützung von Katalogisierung und Metadaten sowie für Auskünfte und Schulungen.  
+- RISM für Musiker (demnächst verfügbar): Ressourcen für Musiker, Interpreten, Dirigenten oder Konzertveranstalter, die bei der Suche nach Originalquellen für Aufführungen behilflich sein können.  
+- [Muscat](/community/muscat.html): Informationen für RISM-Mitarbeiterinnen und -Mitarbeiter zu unserem Katalogisierungsprogramm, zu Tutorials und Workshops.  
+- [Dataservice](/community/data-services.html): Möglichkeiten der Verwendung von RISM-Daten in externen Katalogen, Projekten oder Forschungsarbeiten.
+- [Nutzerstudie](/community/survey.html): Von der Zentralredaktion in den Jahren 2014-2015 durchgeführte Untersuchungen über die Nutzer des RISM Catalog.  
+- [Teilen Sie Ihre Neuigkeiten mit RISM](/community/share-your-news.html): Teilen Sie uns mit, wenn Sie Entdeckungen, Veröffentlichungen, Projekte, Ankündigungen oder andere Neuigkeiten haben, die für die breitere RISM-Gemeinschaft von Interesse sind.
+- [Wie kann ich teilnehmen?](/community/participate-in-rism.html): Finden Sie heraus, wie Sie zu RISM beitragen können.
 
-Wir heißen jeden herzlich willkommen, der an den RISM-Projekten teilnehmen möchte. Bitte kontaktieren Sie unsere [nationalen Arbeitsgruppen](/working-groups.html) oder die [Zentralredaktion](/editorial-center.html) für weitere Informationen.
-
-Einzelpersonen können unsere Arbeit unterstützen, indem Sie:
-
-* Musikquellen [direkt für RISM](/community/muscat.html) erfassen oder uns Beschreibungen von Quellen schicken, die noch nicht in der RISM-Datenbank enthalten sind
-* auf [Fehler](/service/feedback.html){:target="_blank"} in unserem Online-Katalog aufmerksam machen.
-* uns auf neue Ergebnisse ihrer Quellenforschung aufmerksam machen.
-* uns Hinweise auf Aufführungen von Musik geben, die bei RISM gefunden wurde.
-* uns auf Institutionen hinweisen, die noch nicht in unserem [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html){:target="_blank"} erfasst sind.
-* die [RISM-Broschüre](/publications/brochures.html){:target="_blank"} oder den [Wikipedia-Artikel](https://de.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} in ihre Sprache übersetzen.
-
-[Bibliotheken](/organization/rism-for-libraries.html){:target="_blank"} können RISM unterstützen indem sie:
-
-* ihre Sammlungen den RISM-Arbeitsgruppen öffnen
-* deren Arbeit durch Bereitstellen von Arbeitsplätzen, Internetanschlüssen, usw. unterstützen
-* geschultes Personal für die Arbeit zur Verfügung stellen.
-* [Katalog-Daten aus lokalen Beständen an RISM](/community/data-services.html){:target="_blank"} senden
-
-Jeder:
-
-* finanzielle Unterstützung ist willkommen. gerne stellen wir Ihnen eine Spendenquittung aus).
 
 _Abbildungen:_  
 (1) Workshop in Shanghai, 2018, ausgerichtet von der RISM Chinese-Language Region. Foto von Vivian Zhang.  
