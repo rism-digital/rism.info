@@ -1070,13 +1070,23 @@ Weitere Informationen über die Arbeit des RISM bieten folgende Publikationen:
 ## Rezensionen
 
 _Springen zu:_  
-[Serie A/I: Einzeldrucke vor 1800](#series-a)  
-[Serie A/II: Musikhandschriften nach 1600](#serie-aii-musikhandschriften-nach-1600)  
-[Serie B](#serie-b)  
-[Serie C: Directory of Music Research Libraries](#serie-c-directory-of-music-research-libraries)  
-[Sonderbände](#sonderbände)
+[Online-Publikationen](#online-publications) \| [Serie A/I: Einzeldrucke vor 1800](#series-a) \| [Serie A/II: Musikhandschriften nach 1600](#serie-aii-musikhandschriften-nach-1600) \| [Serie B](#serie-b) \| [Serie C: Directory of Music Research Libraries](#serie-c-directory-of-music-research-libraries) \| [Sonderbände](#sonderbände)
 
-### Series A
+#### Online-Publikationen
+
+##### RISM Catalog
+
+Balz, Nina: RISM-Katalog kostenlos online, in: Ars Organi: Zeitschrift für das Orgelwesen 59 (2011), S. 200-201.
+
+Colvin, Jenny: International Inventory of Musical Sources (RISM), http://opac.rism.info, in: [Music Reference Services Quarterly](http://dx.doi.org/10.1080/10588167.2011.597247){:target="_blank"} 14 (2011), S. 170-171
+
+Tsou, Judy: in: Notes (Juni 2011), S. 789-792. [Online verfügbar](https://www.jstor.org/stable/23012840){:target="_blank"}
+
+##### RISM Online
+
+McKay, Cory: Répertoire International des Sources Musicales (RISM) Digital Center Team. RISM Online, in: Renaissance and Reformation 47 (2024), no. 1, S. 184-191. [Available online](https://doi.org/10.33137/rr.v47i1.43449){:blank}
+
+#### Serie A
 
 **A/I,1:**  
 Klein, Rudolf: in: Österreichische Musikzeitschrift 5 (1972), p. 301-302.
@@ -1189,14 +1199,6 @@ Rommel, Martina: Répertoire international des sources musicales, Serie A - 2 Ma
 
 Popinigis, Danuta: Répertoire international des sources musicales. Serie A/II. Musikhandschriften nach 1600. Thematischer Katalog. 8. kumulierte Ausgabe 2000 (6. CD-ROM) K.G. Saur Electronic Publishing. ISBN 3-598-40449-2, in: Muzyka 48/1 (2003), p. 136-143.  
   
-**RISM Catalog**
-
-Balz, Nina: RISM-Katalog kostenlos online, in: Ars Organi: Zeitschrift für das Orgelwesen 59 (2011), S. 200-201.
-
-Colvin, Jenny: International Inventory of Musical Sources (RISM), http://opac.rism.info, in: [Music Reference Services Quarterly](http://dx.doi.org/10.1080/10588167.2011.597247){:target="_blank"} 14 (2011), S. 170-171
-
-Tsou, Judy, in: Notes (Juni 2011), S. 789-792. [Online verfügbar](https://www.jstor.org/stable/23012840){:target="_blank"}
-
 ### Serie B
 
 **B I:**  
