@@ -4,6 +4,17 @@
     fr: "Communauté"
   items:
     - name:
+        en: Directory of RISM Library Sigla
+        de: RISM Bibliothekssigel
+        fr: Sigle de Bibliothèques RISM
+      link: "/community/sigla.html"
+      items:
+        - name:
+            en: About Sigla
+            de: Über Sigel
+            fr: A propos
+          link: "/community/sigla/about.html"
+    - name:
         en: Muscat
         de: Muscat
         fr: Muscat
@@ -20,33 +31,22 @@
             fr: Ateliers
           link: "/community/muscat/workshops.html"
     - name:
-        en: Directory of RISM Library Sigla
-        de: RISM Bibliothekssigel
-        fr: Sigle de Bibliothèques RISM
-      link: "/community/sigla.html"
-      items:
-        - name:
-            en: About Sigla
-            de: Über Sigel
-            fr: A propos
-          link: "/community/sigla/about.html"
-        - name:
-            en: Help
-            de: Hilfe
-            fr: Aide
-          link: "/community/sigla/help.html"
-    - name:
         en: Data Services
         de: Dataservice
         fr: Services de données
       link: "/community/data-services.html"
     - name:
-        en: "User studies"
+        en: "User Studies"
         de: "Nutzerstudie"
-        fr: "User studies"
+        fr: "User Studies"
       link: "/community/survey.html"
     - name:
         en: "Share Your News with RISM"
         de: "Teilen Sie Ihre Neuigkeiten mit RISM"
         fr: "Share Your News with RISM"
       link: "/community/share-your-news.html"
+    - name:
+        en: "How Can I Participate in RISM?"
+        de: "How Can I Participate in RISM?"
+        fr: "How Can I Participate in RISM?"
+      link: "/community/participate-in-rism.html"

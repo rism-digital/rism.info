@@ -12,6 +12,9 @@ RISM vergibt weltweit allen Institutionen, die musikalische Quellen oder Materia
 
 Wenn Sie ein Sigel suchen, das noch nicht im Verzeichnis enthalten ist, [kontaktieren Sie uns](mailto:contact@rism.info) bitte und wir werden ein neues erstellen.
 
+Hilfe zur Benutzung der RISM-Bibliothekssigel-Suche finden Sie auf der [Hilfe-Seite](/community/sigla/help.html).
+
+
 <script src="/javascript/sigla2.js"></script>
 <style>
     body {
