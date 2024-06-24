@@ -359,6 +359,10 @@ Fax: +81 425 35 7590\
 Email: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
 Website: [https://www.kunitachi.ac.jp/en/organization/library.html](https://www.kunitachi.ac.jp/en/organization/library.html){:target="_blank"}
 
+Nobuaki Tanaka M.A.\
+Email: [nobuakitanakaa@gmail.com](mailto:nobuakitanakaa@gmail.com)\
+Website: [https://www.franzbenda.org/vorsitzende](https://www.franzbenda.org/vorsitzende){:target="_blank"}
+
 ## LATVIA
 
 Mikus Ceže\
