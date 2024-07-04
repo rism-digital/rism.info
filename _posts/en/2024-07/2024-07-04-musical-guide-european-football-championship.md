@@ -41,7 +41,7 @@ What team have you been rooting for? Hopefully they are still standing? In any c
 **Slovenia** - [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=SI-*&Language=en){:blank} \| [RISM Online](https://rism.online/search?q=SI-*&mode=institutions&fq=hide-diamm-records%3Atrue&page=1&rows=20){:blank}: Search SI-* to find 6,500 sources in RISM\
 **Denmark** - [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=DK-*&Language=en){:blank} \| [RISM Online](https://rism.online/search?q=DK-*&mode=institutions&fq=hide-diamm-records%3Atrue&page=1&rows=20){:blank}: Search DK-* to find 15,600 sources in RISM\
 **Serbia**: No sources in RISM yet, but just a handful of institutions listed in the RISM Sigla Directory (search SRB)\
-**England** - [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=GB-*&Language=en){:blank} \| [RISM Online](https://rism.online/search?q=GB-*&mode=institutions&fq=hide-diamm-records%3Atrue&page=1&rows=20){:blank}: (Search GB-* to find 145,/00 sources in RISM)
+**England** - [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=GB-*&Language=en){:blank} \| [RISM Online](https://rism.online/search?q=GB-*&mode=institutions&fq=hide-diamm-records%3Atrue&page=1&rows=20){:blank}: (Search GB-* to find 145,700 sources in RISM)
 
 **Group D** 
 
