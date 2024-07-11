@@ -5,7 +5,7 @@ date: 2024-07-11
 lang: en
 post: true
 category: events
-image: "/images/news/2024-06/peter-cornelius-evo_website.jpg"
+image: "/images/news/2024-07/peter-cornelius-evo_website.jpg"
 email: ''
 author: ''
 ---
