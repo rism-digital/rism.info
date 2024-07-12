@@ -324,7 +324,7 @@ Website: [www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collecti
 
 Kerry Houston\
 Technological University Dublin - Conservatoire\
-Research Foundation for Music in Ireland
+Research Foundation for Music in Ireland  
 Email: [kerry.houston@TUDublin.ie](mailto:kerry.houston@TUDublin.ie)\
 Website: [http://www.musicresearch.ie](https://musicresearch.ie/){:blank}  
 See also: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}  
