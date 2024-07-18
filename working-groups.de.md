@@ -197,10 +197,12 @@ E-Mail: [arsinoi_i@hotmail.com](mailto:arsinoi_i@hotmail.com)
 
 ## IRLAND
 
-Kerry Houston \
+Kerry Houston\
 Technological University Dublin - Conservatoire\
+Research Foundation for Music in Ireland\
 E-Mail: [kerry.houston@TUDublin.ie](mailto:kerry.houston@TUDublin.ie)\
-Webseite: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}
+Webseite: [http://www.musicresearch.ie](https://musicresearch.ie/){:blank}\  
+Siehe auch: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}
 
 ## ITALIEN
 
@@ -540,7 +542,7 @@ Fax: +41 31 324 4 938\
 E-Mail: [info@rism.digital](mailto:info@rism.digital)\
 E-Mail: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 E-Mail: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
-Webseite: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
+Webseite: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}
 
 ## SLOWAKISCHE REPUBLIK
 
@@ -626,11 +628,11 @@ Webseite: [http://www.nbuv.gov.u](http://www.nbuv.gov.ua/){:target="_blank"}
 
 Olga Osadcja\
 L'vivs'ka nacional'na muzyčna akademija imeni Mykoly Lysenka, Biblioteka\
-Vul. O. Hyžankivs'koho, bud. 5 \
-L'viv, 79000  \
+Vul. O. Hyžankivs'koho, bud. 5\
+L'viv, 79000\
 Telephone: +380 / (032) / 259-07-51\
 Email: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
-Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua) \
+Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua)\
 Website: [https://lnma.edu.ua/](https://lnma.edu.ua/)){:target="_blank"}
 
 ## UNGARN

@@ -322,10 +322,12 @@ Website: [www.oszk.hu/en/music_collection](http://www.oszk.hu/en/music_collecti
 
 ## IRELAND
 
-Kerry Houston \
+Kerry Houston\
 Technological University Dublin - Conservatoire\
+Research Foundation for Music in Ireland  
 Email: [kerry.houston@TUDublin.ie](mailto:kerry.houston@TUDublin.ie)\
-Website: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}
+Website: [http://www.musicresearch.ie](https://musicresearch.ie/){:blank}  
+See also: [https://www.rism.info/working-groups/ireland/home.html](/working-groups/ireland/home.html){:blank}  
 
 
 ## ITALY
@@ -631,7 +633,7 @@ Fax: +41 31 324 4 938\
 Email: [info@rism.digital](mailto:info@rism.digital)\
 Email: [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital)\
 Email: [cedric.gueggi@rism-ch.org](mailto:cedric.gueggi@rism-ch.org)\
-Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}\
+Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){:target="_blank"}  
 
 ## UKRAINE
 
@@ -652,7 +654,7 @@ L'viv, 79000  \
 Telephone: +380 / (032) / 259-07-51\
 Email: [olgaosadcia@gmail.com](mailto:olgaosadcia@gmail.com)\
 Email: [lnma@lnma.edu.ua](mailto:lnma@lnma.edu.ua) \
-Website: [https://lnma.edu.ua/](https://lnma.edu.ua/)){:target="_blank"}
+Website: [https://lnma.edu.ua/](https://lnma.edu.ua/){:target="_blank"}
 
 ## UNITED KINGDOM
 
