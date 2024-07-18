@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “‘Die sieben letzten Worte unseres Erlösers am Kreuze’ von Haydn und Barbieri”
+title: ‘Die sieben letzten Worte unseres Erlösers am Kreuze’ von Haydn und Barbieri
 date: 2024-07-18
 lang: de
 post: true
