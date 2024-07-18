@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “‘The Seven Last Words of Christ’ by Haydn and Barbieri”
+title: ‘The Seven Last Words of Christ’ by Haydn and Barbieri
 date: 2024-07-18
 lang: en
 post: true
