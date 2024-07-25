@@ -5,7 +5,7 @@ date: 2024-07-25
 lang: en
 post: true
 category: events
-image: "/images/news/2024-07/performance-material-wagner_website.jpg"
+image: "/images/news/2024-07/perfermance-material-wagner_website.jpg"
 email: ''
 author: ''
 ---
