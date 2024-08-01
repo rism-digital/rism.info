@@ -5,7 +5,7 @@ date: 2024-08-01
 lang: de
 post: true
 category: in_the_news
-image: "/images/news/2024-08/ukrainian-heritage-preservation_website"
+image: "/images/news/2024-08/ukrainian-heritage-preservation_website.jpg"
 email: ''
 author: ''
 ---
