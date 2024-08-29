@@ -18,16 +18,16 @@ RISM aims to build a database of musical sources from all around the world, with
 
 We hope this changes soon. As part of our work to document musical sources worldwide, RISM assigns an abbreviation, called a siglum, to institutions that hold musical sources or material related to the research of music. Prior to the congress, the Editorial Center expanded its coverage of [RISM sigla for South African institutions](https://rism.info/new_at_rism/2024/06/27/new-rism-sigla-south-african-institutions.html) by adding the institutions and private collections listed in Santie de Jongh’s [Directory of South African Music Collections](https://libguides.sun.ac.za/SAMusicCollections). As a result, we now have 41 sigla from South Africa, covering 16 cities, with each entry linking to De Jongh’s directory for detailed descriptions of historic music holdings and other archival materials. 
 
-In the RISM Catalog, you can find all institutions from South Africa here: https://opac.rism.info/search?View=rism&siglum=ZA-*
+In the RISM Catalog, you can find all institutions from South Africa [here](https://opac.rism.info/search?View=rism&siglum=ZA-*).
  
-In RISM Online, you can find all institutions from South Africa here: https://rism.online/search?q=ZA-*&mode=institutions&page=1&rows=20
+In RISM Online, you can find all institutions from South Africa [here](https://rism.online/search?q=ZA-*&mode=institutions&page=1&rows=20)
 
-When you click on an institution, you will find a detailed description. For example, this is the record for the Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch (RISM library siglum: ZA-STusmb) https://rism.online/institutions/30080129
+When you click on an institution, you will find a detailed description. For example, this is the record for the Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch [(RISM library siglum: ZA-STusmb)](https://rism.online/institutions/30080129)
 
 {% include image file="/images/news/2024-08/rism-in-africa-stellenbosch.jpg" pos="right" %}
 
-As soon as the first musical source from the institution is added to the RISM database, a new tab appears in the top left corner called Sources. This is what it looks like for Cambridge University Library:
-https://rism.online/institutions/30001547/sources
+As soon as the first musical source from the institution is added to the RISM database, a new tab appears in the top left corner called Sources. This is what it looks like for [Cambridge University Library](https://rism.online/institutions/30001547/sources):
+
 
 {% include image file="/images/news/2024-08/rism-in-africa-cambridge.jpg" pos="right" %}
 
