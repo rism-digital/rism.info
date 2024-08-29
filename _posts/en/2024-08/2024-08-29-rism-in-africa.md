@@ -22,7 +22,7 @@ In the RISM Catalog, you can find all institutions from South Africa [here](http
  
 In RISM Online, you can find all institutions from South Africa [here](https://rism.online/search?q=ZA-*&mode=institutions&page=1&rows=20)
 
-When you click on an institution, you will find a detailed description. For example, this is the record for the Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch [(RISM library siglum: ZA-STusmb)](https://rism.online/institutions/30080129)
+When you click on an institution, you will find a detailed description. For example, this is the record for the Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch [(RISM library siglum: ZA-STusmb)](https://rism.online/institutions/30080129):
 
 {% include image file="/images/news/2024-08/rism-in-africa-stellenbosch.jpg" pos="right" %}
 
