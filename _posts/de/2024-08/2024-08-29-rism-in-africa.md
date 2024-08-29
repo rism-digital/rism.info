@@ -18,11 +18,11 @@ RISM hat sich zum Ziel gesetzt, eine Datenbank mit Musikquellen aus aller Welt a
 
 Dies wird sich hoffentlich bald ändern. Im Rahmen unserer Arbeit zur weltweiten Dokumentation von Musikquellen vergibt RISM ein Kürzel, das so genannte Siglum, an Institutionen, die Musikquellen oder Materialien zur Musikforschung besitzen. Im Vorfeld des Kongresses hat das Editorial Center das [RISM-Siglum für südafrikanische Institutionen]( https://rism.info/new_at_rism/2024/06/27/new-rism-sigla-south-african-institutions.html) um die in [Santie de Jonghs Directory of South African Music Collections](https://libguides.sun.ac.za/SAMusicCollections) aufgeführten Institutionen und Privatsammlungen erweitert. Damit sind nun 41 südafrikanische Siglen aus 16 Städten erfasst, wobei jeder Eintrag mit De Jonghs Verzeichnis verlinkt ist, das detaillierte Beschreibungen der historischen Musikbestände und anderer Archivmaterialien enthält.  
 
-Im RISM-Katalog finden Sie hier alle Institutionen aus Südafrika: https://opac.rism.info/search?View=rism&siglum=ZA-*
+Im RISM-Katalog finden Sie hier alle [Institutionen aus Südafrika](https://opac.rism.info/search?View=rism&siglum=ZA-*).
  
-In RISM Online finden Sie hier alle Institutionen aus Südafrika: https://rism.online/search?q=ZA-*&mode=institutions&page=1&rows=20
+In RISM Online finden Sie hier alle [Institutionen aus Südafrika](https://rism.online/search?q=ZA-*&mode=institutions&page=1&rows=20).
 
-Wenn Sie auf eine Institution klicken, erhalten Sie eine detaillierte Beschreibung. Dies ist zum Beispiel der Datensatz für die Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch (RISM-Bibliothekssigel: ZA-STusmb) https://rism.online/institutions/30080129
+Wenn Sie auf eine Institution klicken, erhalten Sie eine detaillierte Beschreibung. Dies ist zum Beispiel der Datensatz für die Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch [(RISM-Bibliothekssigel: ZA-STusmb)](https://rism.online/institutions/30080129)
 
 {% include image file="/images/news/2024-08/rism-in-africa-stellenbosch.jpg" pos="right" %}
 
