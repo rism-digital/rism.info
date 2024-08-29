@@ -24,12 +24,12 @@ In RISM Online finden Sie hier alle Institutionen aus Südafrika: https://rism.o
 
 Wenn Sie auf eine Institution klicken, erhalten Sie eine detaillierte Beschreibung. Dies ist zum Beispiel der Datensatz für die Universiteit van Stellenbosch, Musiek Biblioteek, Stellenbosch (RISM-Bibliothekssigel: ZA-STusmb) https://rism.online/institutions/30080129
 
-{% include image file="/images/news/2024-08/rism-in-africa-stellenbosch" pos="right" %}
+{% include image file="/images/news/2024-08/rism-in-africa-stellenbosch.jpg" pos="right" %}
 
 Sobald die erste Musikquelle der Institution in die RISM-Datenbank aufgenommen wurde, erscheint in der linken oberen Ecke ein neuer Reiter mit der Bezeichnung „Quellen“. So sieht es bei der Cambridge University Library aus:
 https://rism.online/institutions/30001547/sources
 
-{% include image file="/images/news/2024-08/rism-in-africa-cambridge" pos="right" %}
+{% include image file="/images/news/2024-08/rism-in-africa-cambridge.jpg" pos="right" %}
 
 Die Sammlung kann über eine Schnittstelle durchsucht und durchblättert werden.
 Jeder Beitragende erhält Zugang zum Katalogisierungsprogramm von RISM und das Editorial Center bietet kostenlose Schulungen an. Es ist nicht notwendig, dass eine Institution eine eigene Datenbank oder Suchoberfläche entwickelt, da alles in RISM integriert ist und allen Partnern kostenlos zur Verfügung steht.
