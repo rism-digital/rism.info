@@ -5,7 +5,7 @@ date: 2024-09-05
 lang: en
 post: true
 category: new_at_RISM
-image: "/images/news/2024-09/ONB_Bruckner(1000).jpg"
+image: "/images/news/2024-09/ONB_Bruckner(180).jpg"
 email: 'christa.traunsteiner@onb.ac.at'
 author: 'Christa Traunsteiner'
 ---
