@@ -4,7 +4,7 @@ title: "Die Musikhandschriften der Musiksammlung der Österreichischen Nationalb
 date: 2024-09-05
 lang: de
 post: true
-category: new_at_RISM
+category: new_at_rism
 image: "/images/news/2024-09/ONB_Bruckner(180).jpg"
 email: 'christa.traunsteiner@onb.ac.at'
 author: 'Christa Traunsteiner'
