@@ -20,7 +20,7 @@ _Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c19
 
 #### 1949 <a name="c1940"></a>  
 
-Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949._ Report, 37–38. Basel: Bärenreiter, 1951.  
+Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949 Report, 37–38. Basel: Bärenreiter, 1951.  
 
 Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 523-524.  
 
@@ -44,7 +44,7 @@ Blume, Friedrich. "Current Report on the International Inventory of Musical Sour
 
 Blume, Friedrich. "Répertoire international des sources musicales. Rapport du Président de la Commission Mixte du R.I.S.M." Nouvelles Musicologiques / Muziekwetenschappelijk Nieuws. _Revue Belge de Musicologie / Belgisch Tijdschrift Voor Muziekwetenschap_ 7, no. 1 (1953): 62–63. [Available online](http://www.jstor.org/stable/3686216){:blank}.    
 
-In Federov, Vladimir, editor._Troisième Congrès international des bibliothèques musicales Paris : 22-25 juillet 1951_. Kassel: Bärenreiter-Verlag, 1953:
+In Federov, Vladimir, editor. _Troisième Congrès international des bibliothèques musicales Paris : 22-25 juillet 1951_. Kassel: Bärenreiter-Verlag, 1953:
 
 - Blume, Friedrich. "Die Frage eines internationalen Quellenlexikons der Musik." 20-24.
 - Hill, Richard S. "The U.S. position on the International Inventory of Musical Sources." 28-32.
@@ -198,7 +198,7 @@ Theurich, Jutta. "Die Arbeiten am RISM in der Deutschen Demokratischen Republik.
 
 BM. "Für die Forschungsarbeit von Generationen." _Hessisch-Niedersächsische Allgemeine_, September 29, 1971.  
 
-Heckmann, Harald. "Répertoire International des Sources Musicales (RISM)" Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig. _Fontes Artis Musicae_ 18, no. 1/2 (1971 Januar-August): 73. [Available online](https://www.jstor.org/stable/23505191){:blank}.  
+Heckmann, Harald. "Répertoire International des Sources Musicales (RISM)." Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig. _Fontes Artis Musicae_ 18, no. 1/2 (1971 Januar-August): 73. [Available online](https://www.jstor.org/stable/23505191){:blank}.  
 
 #### 1972
 
@@ -214,7 +214,7 @@ Münster, Robert. "Ein Quellenlexikon der Musik." _Börsenblatt für den Deutsch
 
 Krummel, Donald W. "Project RISM-XIX: Bibliographical Control of the Printed Music of the Nineteenth Century." _Fontes Artis Musicae_ 20 (1973): 11-14.
 
-Prokopowicz, Maria. Sprawozdanie [Report] of Konferencja Międzynarodowego Stowarzyszenia Bibliotek Muzycznych (Association Internationale des Bibliotheques Musicales). Bolonia, September 9-15, 1972._Muzyka_ 18 (1973): 134-137.
+Prokopowicz, Maria. Sprawozdanie [Report] of Konferencja Międzynarodowego Stowarzyszenia Bibliotek Muzycznych (Association Internationale des Bibliotheques Musicales). Bolonia, September 9-15, 1972. _Muzyka_ 18 (1973): 134-137.
 
 Schlager, Karlheinz. "RISM A/I: Wunsch und Wirklichkeit." _Die Musikforschung_ 26, no. 1 (1973): 89-91. [Available online](https://www.jstor.org/stable/23230707){:target="_blank"}.  
 
@@ -518,7 +518,7 @@ Keil, Klaus. "Thematischer Katalog auf CD-ROM." _Forum Musikbibliothek_ 2 (1996)
 
 Hanke Knaus, Gabriella, ed. _Musikdokumentation in der Schweiz - Symposium vom 20. Oktober 1995 in Bern._ Bern: Selbstverlag Arbeitsstelle Schweiz des RISM, 1996.
 
-González Valle, José V., Antonio Ezquerro, Nieves Iglesias, C. José Gosálvez, and Joana Crespí._Normas internacionales para la catalogación de fuentes musicales históricas (Serie A/II, Manoscritos musicales, 1600-1800)._ Madrid: Arco/Libros, 1996.  
+González Valle, José V., Antonio Ezquerro, Nieves Iglesias, C. José Gosálvez, and Joana Crespí. _Normas internacionales para la catalogación de fuentes musicales históricas (Serie A/II, Manoscritos musicales, 1600-1800)._ Madrid: Arco/Libros, 1996.  
 
 McLane, Alexander. "Music as Information." In _Annual Review of Information Science and Technology_, edited by Martha E. Williams, 225-262. Medford, NJ: Information Today, 1996.
 
@@ -528,7 +528,7 @@ Pavia i Simó, Josep. "Memoria de actividades de RISM-España 1995. VI: Archivio
 
 Baumann, Dorothea. "Music Documentation in Switzerland. The Future of Shared Cataloguing and RISM A/II." _Fontes Artis Musicae_ 44 (1997): 23-31.
 
-Brook, Barry S. and Richard J. Viano. Introduction and "RISM." In _Thematic Catalogues in Music: An Annotated Bibliography_, edited by Brook and Viano, XIX, XXV-XXVII, XXXI, 365-377_._ Stuyvesant, NY: Pendragon Press, 1997.
+Brook, Barry S. and Richard J. Viano. Introduction and "RISM." In _Thematic Catalogues in Music: An Annotated Bibliography_, edited by Brook and Viano, XIX, XXV-XXVII, XXXI, 365-377. Stuyvesant, NY: Pendragon Press, 1997.
 
 Byczkowska-Sztaba, Jolanta. "Alte Musikhandschriften in Polen: Erfassung in den RISM-Katalogen und Sicherung in Mikrofilmsammlungen der Nationalbibliothek." _Forum Musikbibliothek_ 3 (1997): 222-230.
 
@@ -913,7 +913,7 @@ Ward, Jennifer A. "The use and reuse of RISM data in libraries." _Journal of Ele
 
 #### 2017
 
-"A Protocol between the Istituto Centrale per il Catalogo Unico (ICCU), IAML-Italia and RISM has been signed." Briefs/Feuilletons._Fontes Artis Musicae_ 64, no. 1 (January-March 2017): 68-69. [Available online](https://muse.jhu.edu/article/650243){:target="_blank"}.  
+"A Protocol between the Istituto Centrale per il Catalogo Unico (ICCU), IAML-Italia and RISM has been signed." Briefs/Feuilletons. _Fontes Artis Musicae_ 64, no. 1 (January-March 2017): 68-69. [Available online](https://muse.jhu.edu/article/650243){:target="_blank"}.  
 
 Bacciagaluppi, Claudio. "Wie Marenzios 'Pastor Fido' nach Zuoz kam." _Schweizer Musikzeitung_ 6 (June 2017): 37. [Available online](https://rism.digital/resources/press/smz.2017.06_37.pdf){:target="_blank"}.   
 
@@ -1085,7 +1085,7 @@ Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebe
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
-"Updating RISM Series C." _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in _Notes: Journal of the Music Library Association_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
+"Updating RISM Series C." Briefs/Feuilletons. _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in Notes for _Notes_. _Notes_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 
 Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft_, edited by Thomas Kurtz, Dorothee M. Meister, and Uwe Sander, 189-221. Medienbildung und Gesellschaft 47. Wiesbaden: Springer VS, 2024. [Available online](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}.  
 
@@ -1531,10 +1531,10 @@ Base Minas – ECA / USP (database with musical sources). Some information avail
 
 ##### CH – Switzerland
 
-Arbeitsstelle Schweiz des RISM and Christine Koch-Studer._Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern_. Bern:Arbeitsstelle Schweiz des RISM, 2011. [Available online](https://rism.digital/resources/hans_studer_katalog.pdf){:blank}.  
+Arbeitsstelle Schweiz des RISM and Christine Koch-Studer. _Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern_. Bern:Arbeitsstelle Schweiz des RISM, 2011. [Available online](https://rism.digital/resources/hans_studer_katalog.pdf){:blank}.  
 (Compiled by RISM Switzerland-Bern)  
 
-Hanke Knaus, Gabriella._Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern_. Schliengen:Edition Argus, 2007.  
+Hanke Knaus, Gabriella. _Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern_. Schliengen:Edition Argus, 2007.  
 (Compiled by RISM Switzerland-Bern)
 
 Helg, Lukas. "_Katalog der Werke von P. Daniel Meier in der Musikbibliothek des Klosters Einsiedeln_." In _Ad mairorem Dei gloriam: Festgabe für P. Daniel Meier OSB zum 80. Geburtstag_, edited by Helg and Gabriella Hanke Knaus, 41-120. Einsiedeln: Musikbibliothek des Klosters Einsiedeln; Arbeitsstelle Schweiz des Répertoire International des Sources Musicales (RISM), 2001.   
@@ -1548,7 +1548,7 @@ Werner, Rudolf. _Die Pflege der Musik in St. Katharinental im 18. und 19. Jahrhu
 
 ##### CZ – Czech Republic/former Czechoslovakia
 
-Bastlová, Eliška._Collectio operum musicalium quae in Bibliotheca Kinsky adservantur_. Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8. Prague: Národní knihovna České Repubiky, 2013.
+Bastlová, Eliška. _Collectio operum musicalium quae in Bibliotheca Kinsky adservantur_. Catalogus artis musicae in Bohemia et Moravia cultae / Artis Musicae Antiquioris Catalogorum Series 8. Prague: Národní knihovna České Repubiky, 2013.
 
 _Catalogus artis musicae in Bohemia et Moravia cultae_. Artis musicae antiquioris catalogorum, 1973- (8 vols. to date).  
 (Compiled in cooperation with RISM; portions of catalog data in RISM A/II)  
@@ -1694,7 +1694,7 @@ Kolbuszweska, Aniela. _Katalog rękopisów muzycznych XVIII i XIX wieku Bibliote
 Podejko, Paweł. _Katalog tematyczny rękopisów i druków muzycznych kapeli wokalno-instrumentalnej na Jasnej Górze_. Kraków: [Wyd.OO.Paulinów,](/publications/bibliography.html) 1992.  
 (Compiled using RISM rules)
 
-Popinigis, Danuta, Danuta Szlagowska and Jolanta Woźniak. _Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk: Wiek XVIII-XIX: Katalog._(In preparation)  
+Popinigis, Danuta, Danuta Szlagowska and Jolanta Woźniak. _Rękopiśmienne zbiory muzyczne Polskiej Akademii Nauk: Wiek XVIII-XIX: Katalog._ (In preparation)  
 (Compiled by RISM Poland-Gdańsk)  
 
 Walter-Mazur, Magdalena. _The Music Manuscripts at the Diocesan Library in Sandomierz: A Thematic Catalogue. Vol. I. Repertoire of Church Ensemble and Keyboard Music_. Wiesbaden: Harrassowitz Verlag, 2021.  
@@ -1729,5 +1729,5 @@ Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátske
 Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka z bývaleho Hornouhorského Rákocziho múzea v Košiciach_. Martin: Matica slovenská, 1970.  
 (Compiled in cooperation with RISM)
 
-Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove._ Martin: Matica slovenská, 1977.  
+Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove Martin: Matica slovenská, 1977.  
 (Compiled in cooperation with RISM)
