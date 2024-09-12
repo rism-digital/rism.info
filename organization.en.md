@@ -6,7 +6,7 @@ permalink: /organization.html
 old_url: http://www.rism.info/en/organisation.html
 ---
 
-The Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources - is an international, non-profit organization that aims to comprehensively document extant musical sources world. These primary sources are music manuscripts or printed music editions, writings on music theory, and libretti. They are preserved in libraries, archives, churches, schools and private collections.
+The Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources - is an international, non-profit organization that aims to comprehensively document extant musical sources worldwide. These primary sources are music manuscripts or printed music editions, writings on music theory, and libretti. They are preserved in libraries, archives, churches, schools and private collections.
 
 RISM was founded in Paris in 1952 and is the largest and only international organization that documents written musical sources. RISM records _what_ exists and _where_ it can be found. As a result, by virtue of being cataloged in a comprehensive inventory, music traditions are protected while also being made available to musicologists and musicians alike. Such work is thus not an end in itself, but leads directly to practical applications.
 
