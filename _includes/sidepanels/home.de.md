@@ -1,7 +1,7 @@
 
 <div class="p-2 notification is-warning is-light">
     <p class="has-text-weight-semibold">Ankündigung</p>
-    <p>IAML-Kongress in Stellenbosch, Südafrika, 23.-28. Juni 2024. <a href="/publications/iaml-congresses/2024.html">Details hier</a></p>
+    <p>IAML-Deutschland Jahrestagung in Frankfurt am Main, 17.-20. September 2024. <a href="https://iaml-deutschland.info/">Details hier</a></p>
 </div>
 
 

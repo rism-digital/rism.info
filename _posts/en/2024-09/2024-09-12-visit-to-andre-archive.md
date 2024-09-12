@@ -5,7 +5,7 @@ date: 2024-09-12
 lang: en
 post: true
 category: events
-image: "/images/news/2024-09/visit-to-andre-archive-website.jpg"
+image: "/images/news/2024-09/visit-to-andre-archive-website.JPG"
 email: ''
 author: ''
 ---
@@ -20,59 +20,59 @@ The André music store moved to its current location in 1923, taking along its b
 
 The archive includes at least one copy of most of the printed editions, many music manuscripts (including autograph manuscripts), production and financial records, and correspondence. Join us as we take you on a virtual tour through the André archive. 
 
-{% include image file="/images/news/2024-09/drucksteine.jpg" %}\
+{% include image file="/images/news/2024-09/drucksteine.JPG" %}\
 Lithography stones on display as you enter the André music store.
 
-{% include image file="/images/news/2024-09/lenore-platttennummer-10.jpg" %}\
+{% include image file="/images/news/2024-09/lenore-platttennummer-10.JPG" %}\
 Johann André, _Lenore_, ca. 1775.
 Lenore, being plate number 10, is one of the earliest printed editions in the archive, by—who else? the founder Johann André. RISM ID no. 990001064 ([RISM Catalog](https://opac.rism.info/search?id=990001064&View=rism){:blank} \| [RISM Online](https://rism.online/sources/990001064){:blank}).
 
-{% include image file="/images/news/2024-09/lenore-plattennummer-263.jpg" %}\
+{% include image file="/images/news/2024-09/lenore-plattennummer-263.JPG" %}\
 Johann André, _Lenore_, ca. 1789.
 Lenore went through several editions. Here it is as plate number 263. RISM ID no. 990001066 ([RISM Catalog](https://opac.rism.info/search?id=990001066&View=rism){:blank} \| [RISM Online](https://rism.online/sources/990001066){:blank}).
 
-{% include image file="/images/news/2024-09/andre-1502-erste-lithographie.jpg" %}\
+{% include image file="/images/news/2024-09/andre-1502-erste-lithographie.JPG" %}\
 Johann André, _Die Weiber von Weinsberg_, ca. 1800.
 Plate number 1502 holds the distinction of being the firm's first lithographed music publication, an honor André reserved, once again, for his own music. 
 
-{% include image file="/images/news/2024-09/andre-1502-erste-lithographie-noten.jpg" %}\
+{% include image file="/images/news/2024-09/andre-1502-erste-lithographie-noten.JPG" %}\
 The first page of music. Not bad for its first try with the new technique.
 
-{% include image file="/images/news/2024-09/mozart-1504-erste-lithographie.jpg" %}\
+{% include image file="/images/news/2024-09/mozart-1504-erste-lithographie.JPG" %}\
 Wolfgang Amadeus Mozart, _Cinq Divertissemens_, ca. 1802.
 Soon after this followed plate number 1504, André's first lithographed edition by Mozart. RISM ID no. 990044421 ([RISM Catalog](https://opac.rism.info/search?id=990044421&View=rism){:blank} \| [RISM Online](https://rism.online/sources/990044421){:blank}).
 
-{% include image file="/images/news/2024-09/weber-autographie-stichvorlage-1.jpg" %}\
+{% include image file="/images/news/2024-09/weber-autographie-stichvorlage-1.JPG" %}\
 Carl Maria von Weber, _Grande Symphonie No. 1 C dur_.
 The archive preserves numerous manuscripts, including this autograph manuscript by Carl Maria von Weber, which was used to create the printed version (Stichvorlage).
 
-{% include image file="/images/news/2024-09/andre´philadelphia.jpg" %}\
+{% include image file="/images/news/2024-09/andre´philadelphia.JPG" %}\
 Anton André, Jr., _Sounds of the Old and New World_, ca. 1855.
 One of André's publishing arms stretched as far as Philadelphia.
 
-{% include image file="/images/news/2024-09/oliver.jpg" %}\
+{% include image file="/images/news/2024-09/oliver.JPG" %}\
 Charlotte M. E. Oliver, _Souvenir de Wiesbade_, 1864.
 André published more works by [Oliver](https://mmm2.mugemir.de/doku.php?id=oliver){:blank} than by any other woman composer.
 
-{% include image file="/images/news/2024-09/wilens-frankfurt-zeil-1.jpg" %}\
+{% include image file="/images/news/2024-09/wilens-frankfurt-zeil-1.JPG" %}\
 Grete Wilens, _In Frankfurt auf der Zeil. Onestep_, 1921.
 Thanks to the André archive, we know that this dance by one "Gert Wilena" is actually by [Grete Wilens](https://mmm2.mugemir.de/doku.php?id=wilens){:blank}. 
 
-{% include image file="/images/news/2024-09/wilens-frankfurt-zeil-2.jpg" %}\
+{% include image file="/images/news/2024-09/wilens-frankfurt-zeil-2.JPG" %}\
 Through a handwritten note on the first page of the manuscript, we see that her name was crossed out and replaced by a male pseudonym. 
 
-{% include image file="/images/news/2024-09/briefbündel-1846-2.jpg" %}\
+{% include image file="/images/news/2024-09/briefbündel-1846-2.JPG" %}\
 Much correspondence still remains bundled, largely untouched since the time it was filed away so many years ago. Some letters by the firm's more famous correspondents have been sought out, such as correspondence from Ludwig von Köchel asking for information about André's Mozart editions.
 
-{% include image file="/images/news/2024-09/zum-stich.jpg" %}\
+{% include image file="/images/news/2024-09/zum-stich.JPG" %}\
 For editions from around the second half of the 19th century, technical details related to the printing process were written down on a piece of paper and filed away with the material.
 
-{% include image file="/images/news/2024-09/archiv-drucke-2.jpg" %}\
+{% include image file="/images/news/2024-09/archiv-drucke-2.JPG" %}\
 The printed editions are arranged in plate number order on shelves.
 
 We could go on and on about everything we saw and its significance for both regional and international music history. Every document in the André archive tells a little about the history of the firm and the history of music printing and publishing. These stories will be left for future scholars to tell.
 
-{% include image file="/images/news/2024-09/skulptur-1.jpg" %}\
+{% include image file="/images/news/2024-09/skulptur-1.JPG" %}\
 Alois Senefelder Monument by Kai Linke.
 A sculpture in an Offenbach park built from [André lithography stones](https://www.kailinke.com/projects/alois-senefelder){:blank}, uncovered during construction work in 1984.
 
