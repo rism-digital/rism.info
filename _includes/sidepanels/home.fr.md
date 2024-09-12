@@ -1,7 +1,7 @@
 
 <article class="notification is-warning is-light">
     <p class="has-text-weight-semibold">Upcoming events</p>
-    <p>IAML Congress in Stellenbosch, South Africa, 23-28 June 2024. <a href="/publications/iaml-congresses/2024.html">Details here</a></p>
+    <p>IAML Deutschland conference in Frankfurt am Main, Germany, 17-20 September 2024. <a href="https://iaml-deutschland.info/">Details here</a></p>
 </article>
 
 
