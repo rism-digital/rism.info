@@ -1081,7 +1081,7 @@ Thöne, Johanna-Pauline and James R. Tomlinson. "Medieval and Renaissance Music 
 
 #### 2024  
 
-Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade, Harald Sac. "What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow." Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Available online](https://doi.org/10.4126/FRL01-006474028){:blank}.   
+Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade, and Harald Sac. "What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow." Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Available online](https://doi.org/10.4126/FRL01-006474028){:blank}.   
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
