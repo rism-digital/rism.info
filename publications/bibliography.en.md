@@ -196,7 +196,9 @@ Theurich, Jutta. "Die Arbeiten am RISM in der Deutschen Demokratischen Republik.
 
 #### 1971
 
-BM. "Für die Forschungsarbeit von Generationen." _Hessisch-Niedersächsische Allgemeine_, September 29, 1971.
+BM. "Für die Forschungsarbeit von Generationen." _Hessisch-Niedersächsische Allgemeine_, September 29, 1971.  
+
+Heckmann, Harald. "Répertoire International des Sources Musicales (RISM)" Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig. _Fontes Artis Musicae_ 18, no. 1/2 (1971 Januar-August): 73. [Available online](https://www.jstor.org/stable/23505191){:blank}.  
 
 #### 1972
 
@@ -1078,6 +1080,12 @@ Clermont, Susan. _Anthologies of Musical Works in Print and Manuscript from the 
 Thöne, Johanna-Pauline and James R. Tomlinson. "Medieval and Renaissance Music Conference in Munich," _Early Music_ 51, no. 4 (November 2023): 636–638. [Available online](https://doi.org/10.1093/em/caad058){:blank}.  
 
 #### 2024  
+
+Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade, and Harald Sac. "What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow." Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Available online](https://doi.org/10.4126/FRL01-006474028){:blank}.   
+
+Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
+
+"Updating RISM Series C." _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in _Notes: Journal of the Music Library Association_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 
 Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft_, edited by Thomas Kurtz, Dorothee M. Meister, and Uwe Sander, 189-221. Medienbildung und Gesellschaft 47. Wiesbaden: Springer VS, 2024. [Available online](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}.  
 
