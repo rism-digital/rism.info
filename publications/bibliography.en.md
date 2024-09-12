@@ -198,7 +198,7 @@ Theurich, Jutta. "Die Arbeiten am RISM in der Deutschen Demokratischen Republik.
 
 BM. "Für die Forschungsarbeit von Generationen." _Hessisch-Niedersächsische Allgemeine_, September 29, 1971.  
 
-Heckmann, Harald. "Répertoire International des Sources Musicales (RISM)" Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig. _Fontes Artis Musicae_ 18, no. 1/2 (1971 Januar-August), p. 73. [Available online](https://www.jstor.org/stable/23505191){:blank}.  
+Heckmann, Harald. "Répertoire International des Sources Musicales (RISM)" Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig. _Fontes Artis Musicae_ 18, no. 1/2 (1971 Januar-August): 73. [Available online](https://www.jstor.org/stable/23505191){:blank}.  
 
 #### 1972
 
