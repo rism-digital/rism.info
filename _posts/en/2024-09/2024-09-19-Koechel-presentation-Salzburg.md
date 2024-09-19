@@ -5,7 +5,7 @@ date: 2024-09-19
 lang: en
 post: true
 category: new_publications
-image: "images/news/2024-09/Koechel(Ms_Mus_15289_0003)_180.png"
+image: "/images/news/2024-09/Koechel(Ms_Mus_15289_0003)_180.png"
 email: ''
 author: ''
 ---
