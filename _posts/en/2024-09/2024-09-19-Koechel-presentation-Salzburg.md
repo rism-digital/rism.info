@@ -5,7 +5,7 @@ date: 2024-09-19
 lang: en
 post: true
 category: new_publications
-image: "images/news/2024-09/Koechel(Ms_Mus_15289_0003)_1000.png"
+image: "images/news/2024-09/Koechel(Ms_Mus_15289_0003)_180.png"
 email: ''
 author: ''
 ---
@@ -22,4 +22,4 @@ To coincide with the launch of the printed volume (which, like Köchel’s first
 
 Regular users of the RISM database will no doubt be pleased also to learn that the adjusted numbering of the new Köchel Catalog has already been integrated in the RISM entries for all the Mozart autographs kept in the Bibliotheca Mozartiana in Salzburg (see e.g. [RISM Catalog]( https://opac.rism.info/search?id=659100299&View=rism){:blank} \| [RISM Online]( https://rism.online/sources/659100299){:blank}).
 
-Image: The end of the first movement of the Sonata in A major (K. 331) in Mozart’s autograph (discovered in 2014). National Széchényi Library, H-Bn Ms. mus. 15.289 (RISM ID 530011221 - [RISM Catalog](https://opac.rism.info/search?id=530011221&View=rism){:blank} \| [RISM Online](https://rism.online/sources/530011221){:blank}). [Available online](https://mozart.oszk.hu){:blank}.
+Image: The end of the first movement of the Sonata in A major (K. 331) in Mozart’s autograph (discovered in 2014). National Széchényi Library, H-Bn Ms. mus. 15.289 (RISM ID 530011221 - [RISM Catalog](https://opac.rism.info/search?id=530011221&View=rism){:blank} \| [RISM Online](https://rism.online/sources/530011221){:blank}). [Available online](https://mozart.oszk.hu/index_en.html){:blank}.
