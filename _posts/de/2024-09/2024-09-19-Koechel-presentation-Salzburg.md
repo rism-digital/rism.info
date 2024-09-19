@@ -5,7 +5,7 @@ date: 2024-09-19
 lang: de
 post: true
 category: new_publications
-image: "images/news/2024-09/Koechel(Ms_Mus_15289_0003)_1000.png"
+image: "images/news/2024-09/Koechel(Ms_Mus_15289_0003)_180.png"
 email: ''
 author: ''
 ---
@@ -22,4 +22,4 @@ Zum Verkaufsstart des Printprodukts (das – ähnlich zur Köchels Erstausgabe �
 
 Regelmäßige Nutzer der RISM-Datenbank wird es sicher auch freuen, dass die angepasste Nummerierung der neuen Köchel-Ausgabe bereits in die RISM-Einträge aller Mozart-Autographen der Bibliotheca Mozartiana in Salzburg integriert wurde (siehe z.B. [RISM Catalog]( https://opac.rism.info/search?id=659100299&View=rism){:blank} \| [RISM Online]( https://rism.online/sources/659100299){:blank}).
 
-Bild: Schlusstakte des ersten Satzes der Sonate in A (KV 331) in Mozarts Autograph (entdeckt 2014). Széchényi-Nationalbibliothek, H-Bn Ms. mus. 15.289 (RISM ID 530011221 - [RISM Catalog](https://opac.rism.info/search?id=530011221&View=rism){:blank} \| [RISM Online](https://rism.online/sources/530011221){:blank}). [Online verfügbar](https://mozart.oszk.hu){:blank}.
+Bild: Schlusstakte des ersten Satzes der Sonate in A (KV 331) in Mozarts Autograph (entdeckt 2014). Széchényi-Nationalbibliothek, H-Bn Ms. mus. 15.289 (RISM ID 530011221 - [RISM Catalog](https://opac.rism.info/search?id=530011221&View=rism){:blank} \| [RISM Online](https://rism.online/sources/530011221){:blank}). [Online verfügbar](https://mozart.oszk.hu/index_en.html){:blank}.
