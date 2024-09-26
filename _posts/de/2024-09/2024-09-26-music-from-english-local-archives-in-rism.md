@@ -2,7 +2,7 @@
 layout: post
 title: "Musik aus englischen Lokalarchiven in RISM"
 date: 2024-09-26
-lang: en
+lang: de
 post: true
 category: library_collections
 image: "/images/news/2024-09/music-from-english-local-archives_website.JPG"
