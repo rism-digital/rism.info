@@ -5,7 +5,7 @@ date: 2024-10-04
 lang: de
 post: true
 category: library_collections
-image: "/images/news/2024-09/musical-discoveries-english-local-archives_website.jpg"
+image: "/images/news/2024-10/musical-discoveries-english-local-archives_website.jpg"
 email: 'Stephen.Rose@rhul.ac.uk'
 author: 'Stephen Rose'
 ---
@@ -22,13 +22,13 @@ Das Derbyshire Record Office besitzt auch Briefe der Familie Harpur, die sich au
 
 Das Musikleben im ländlichen England stand in engem Kontakt mit den neuesten Trends in London. Im 18. Jahrhundert verbrachten die „Personen von Rang“ die gesellschaftliche Saison in London und den Rest des Jahres in ihren Landhäusern. Musikalische Quellen spiegeln diese Bewegung zwischen London und dem Land oft wider. Das Musikbuch von Mary Orlebar (1730-1821) aus den Bedfordshire Archives ([RISM Catalog](https://opac.rism.info/search?id=1001284358&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001284358){:blank}), wurde um 1745 von dem Londoner Organisten [Philip Hart](https://rism.online/people/30006359){:blank} kopiert. In den Haushaltsbüchern der Familie Orlebar wird ihr Leben zwischen London und Bedfordshire aufgezeichnet, einschließlich Marys Unterricht bei Hart. Ihr Notenbuch, das in Harts charakteristischer blumiger Handschrift mit vielen Verzierungen und Fingersätzen kopiert wurde, enthält Bearbeitungen von Konzerten von Albinoni, Corelli und Vivaldi sowie eine Ouvertüre, die 1730 in einem Pasticcio von Händel verwendet wurde. Es gibt auch Lieder, die mit den Londoner Vergnügungsgärten in Verbindung stehen. Orlebars Buch zeigt das Repertoire, das einem 15-jährigen Mädchen zur Verfügung stand, das in den 1740er Jahren Cembalo lernte, einschließlich konzertanter Arrangements, die ein hohes Maß an technischem Können erforderten.
 
-{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-2-Mary-Orlebar-Albinoni-concerto.jpg" %}
+{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-2-Mary-Orlebar-Albinoni-concerto.JPG" %}
 
 Tomaso Albinoni, Concerto in e-Moll, op.2 no.4 arrangiert für Tasteninstrument. Mary Orlebar’s Music Book, fol.1r. Kopiert von Philip Hart. Bedfordshire Archives OR2183, mit freundlicher Genehmigung.
 
 Viele Musikhandschriften in lokalen Archiven stammen aus Pfarrkirchensammlungen. Das Hymnenbuch von Richard Poole (1792) wurde in der Pfarrei von Withington, Gloucestershire, kopiert und ist in der Pfarrkirchensammlung von Kingsclere, Hampshire, erhalten ([RISM Catalog](https://opac.rism.info/search?id=1001277835&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001277835){:blank}). Die elegante Kalligraphie und der kunstvolle Titel (_Choice Collection of Anthems..._) deuten darauf hin, dass Poole dieses Manuskript für eine gedruckte Veröffentlichung vorgesehen hatte. Es enthält 149 Hymnen von Komponisten aus London wie Henry Purcell, John Blow und William Boyce sowie von Komponisten aus der Region wie William Knapp, Joseph Key und Capel Bond. Sie enthält auch Werke von Poole selbst sowie die Gemeinschaftskomposition _O sing unto the Lord a new song_ ([RISM Catalog](https://opac.rism.info/search?id=1001279224&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001279224){:blank}) „by several authors of the Musical Society...composed for the general thanksgiving for the recovery of His present majesty“ [König Georg III], mit Teilen, die sechs (vermutlich Amateur-)Komponisten zugeschrieben werden. Purcells Hymnen würden normalerweise zum Repertoire von Kathedralchören gehören, aber Poole passte sie für Gemeindesänger an, indem er die Stimmen in den von Amateurmusikern bevorzugten G-Schlüssel setzte und nicht in den C-Schlüssel, der normalerweise in Purcells Quellen zu finden ist. Weitere Forschungen könnten zeigen, wie Poole in seinem Dorf in Gloucestershire an Kopien des Repertoires der Kathedralchöre gelangte.
 
-{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-3-Richard-Poole-Purcell.jpg" %}
+{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-3-Richard-Poole-Purcell.JPG" %}
 
 Henry Purcell, _Rejoice in the Lord alway_, bearbeitet im G-Schlüssel für Kirchenchor. Richard Poole Anthem Book, S. 54, Hampshire Archives, 90M72/PZ33. Die Digitalisierung und Katalogisierung wurde vom Hampshire Archives Trust finanziert.
 
