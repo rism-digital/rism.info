@@ -5,7 +5,7 @@ date: 2024-10-04
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2024-09/musical-discoveries-english-local-archives_website.jpg"
+image: "/images/news/2024-10/musical-discoveries-english-local-archives_website.jpg"
 email: 'Stephen.Rose@rhul.ac.uk'
 author: 'Stephen Rose'
 ---
@@ -22,13 +22,13 @@ Derbyshire Record Office also holds letters from the Harpur family relating to t
 
 Musical life in England’s rural counties was in close contact with the latest trends in London. So-called ‘persons of quality’ in the 18th century typically spent the social season in London and the rest of the year in their country residences. Musical sources often reflect this movement between London and the countryside. The music book of Mary Orlebar (1730–1821), preserved in Bedfordshire Archives ([RISM Catalog](https://opac.rism.info/search?id=1001284358&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001284358){:blank}), was copied around 1745 by the London organist [Philip Hart](https://rism.online/people/30006359){:blank}. The account books of the Orlebar family record their life divided between London and Bedfordshire, including Mary’s lessons with Hart. Her music book, copied in the distinctive florid hand of Hart with copious ornamentation and fingering, includes keyboard arrangements of concertos by Albinoni, Corelli and Vivaldi, and of an overture used in a Handel pasticcio of 1730. There are also songs associated with London’s pleasure gardens. Orlebar’s book shows the repertory available to a 15-year-old girl learning the harpsichord in the 1740s, including concerto arrangements requiring high levels of technical ability.
 
-{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-2-Mary-Orlebar-Albinoni-concerto.jpg" %}
+{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-2-Mary-Orlebar-Albinoni-concerto.JPG" %}
 
 Tomaso Albinoni, Concerto in E minor, op.2 no.4 arranged for keyboard. Mary Orlebar’s Music Book, fol.1r. Copied by Philip Hart. Bedfordshire Archives OR2183, by kind permission.
 
 Many music manuscripts in local archives stem from the collections of parish churches. Richard Poole’s anthem book (1792) was copied in the parish of Withington, Gloucestershire but survives in the parish collection of Kingsclere, Hampshire ([RISM Catalog](https://opac.rism.info/search?id=1001277835&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001277835){:blank}). The elegant calligraphy and elaborate title (_Choice Collection of Anthems…_) suggest Poole may have intended this manuscript for printed publication. It contains 149 anthems by composers including London musicians such as Henry Purcell, John Blow and William Boyce, and regional composers such as William Knapp, Joseph Key and Capel Bond. It also contains works by Poole himself plus a collaborative composition, _O sing unto the Lord a new song_ ([RISM Catalog](https://opac.rism.info/search?id=1001279224&View=rism){:blank} \| [RISM Online](https://rism.online/sources/1001279224){:blank}) ‘by several authors of the Musical Society…composed for the General Thanksgiving for his present Majesty’s Recovery’ [King George III], with sections attributed to six (presumably amateur) composers. The anthems by Purcell would more usually be found in the repertory of cathedral choirs, but Poole adapted them for parish singers by putting the voice-parts in the G clefs preferred by amateur musicians, rather than the C clefs usually found in Purcell sources. Further research may show how Poole was able to obtain copies of cathedral-level repertory in his Gloucestershire village.
 
-{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-3-Richard-Poole-Purcell.jpg" %}
+{% include image file="/images/news/2024-10/musical-discoveries-english-local-archives_illus-3-Richard-Poole-Purcell.JPG" %}
 
 Henry Purcell, _Rejoice in the Lord alway_, adapted into G clefs for a parish choir. Richard Poole Anthem Book, p.54. Hampshire Archives, 90M72/PZ33. Digitisation and cataloguing funded by Hampshire Archives Trust.
 
