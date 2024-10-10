@@ -23,7 +23,7 @@ _Springen zu:_ [1940er](#c1940) [1950er](#c1950)   [1960er](#c1960)   [1970er](#
 
 #### 1949 <a name="c1940"></a>
 
-Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949._ Report, S. 37–38. Basel: Bärenreiter, 1951.
+Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949 Report, S. 37–38. Basel: Bärenreiter, 1951.
 
 Fleischer, Herbert: Florenz, in: Stimmen: Monatsblätter für Musik 18 (1949), S. 523-524.
 
@@ -177,6 +177,8 @@ Theurich, Jutta: Die Arbeiten am RISM in der Deutschen Demokratischen Republik, 
 #### 1971
 
 BM: Für die Forschungsarbeit von Generationen, in: Hessisch-Niedersächsische Allgemeine vom 29.9.1971.
+
+Heckmann, Harald: Répertoire International des Sources Musicales (RISM). Jahrestagung der IVMB in Leipzig / IAML annual Conference in Leipzig / Réunion annuelle de l'AIBM à Leipzig, in: Fontes Artis Musicae 18 (1971), S. 73. [Online verfügbar](https://www.jstor.org/stable/23505191){:blank}. 
 
 #### 1972
 
@@ -877,7 +879,7 @@ Mühlemann, Marianne: Klänge unter Taubenkot, in:Der Bund, 9. Juni 2016. [Onlin
 
 Nyffeler, Max: Musikalische Eindrücke aus Korea, in: Beckmesser, 2. Dezember 2016. Auch erschienen in [Neue Musikzeitung](https://www.nmz.de/artikel/das-loch){:target="_blank"} (Dezember 2016), S. 4-5. [Online verfügbar](http://www.beckmesser.info/musikalische-eindruecke-aus-korea/){:target="_blank"}
 
-Scoccimarro, Roberto: Das aktuelle DFG-Hofmusikprojekt der SLUB Dresden und die Konferenz 'Sammeln – Musizieren – Forschen. Zur Dresdner höfischen Musik des 18. Jahrhunderts' vom 21. bis 23. Januar 2016 in Dresden. Ein Bericht, in: Forum Musikbibliothek 37(2016), S. 22-27.
+Scoccimarro, Roberto: Das aktuelle DFG-Hofmusikprojekt der SLUB Dresden und die Konferenz 'Sammeln – Musizieren – Forschen. Zur Dresdner höfischen Musik des 18. Jahrhunderts' vom 21. bis 23. Januar 2016 in Dresden. Ein Bericht, in: Forum Musikbibliothek 37 (2016), S. 22-27.
 
 Sidler, Florence: Visibilité internationale pour le fonds de Louis Niedermeyer, in: Bulletin d'information no 12 de l'Association Niedermeyer, (Juni) 2016, S. 35-37.
 
@@ -1055,6 +1057,16 @@ Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A D
 Álvarez-Escandell, Carmen: The Cataloguing Process of the 'C Collection' in the Music Archive of the Cathedrals of Zaragoza, in: Fontes Artis Musicae 70, no. 2 (April-June 2023), S. 114-126. [Online verfügbar](https://muse.jhu.edu/pub/287/article/901180){:blank}.
 
 Clermont, Susan: Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division. Washington, D.C.: Library of Congress, 2023. [Online verfügbar](https://guides.loc.gov/music-anthologies/anthologies-bibliography){blank}.
+
+#### 2024
+
+Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
+
+Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank}    
+
+"Updating RISM Series C." Briefs/Feuilletons, in: Fontes Artis Musicae 71 (2024), S. 162. [Online verfügbar](https://muse.jhu.edu/pub/287/article/936315){:blank}. Auch erschienen in Notes 81 (2024), S. 87-88. [Online verfügbar](https://muse.jhu.edu/pub/7/article/934841){:blank}
+
+Veit, Joachim: Editionsarbeit im Wandel – digitale (Musik-)Edition, in: Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft, hrsg. von Thomas Kurtz, Dorothee M. Meister und Uwe Sander, Wiesbaden 2024 (Medienbildung und Gesellschaft 47), S. 189-221. [Online verfügbar](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}  
 
 
 ##### Anmerkung:
@@ -1455,10 +1467,10 @@ Base Minas – ECA / USP [Datenbank mit musikalischen Quellen], URL: [http://www
 
 ##### CH – Schweiz
 
-Arbeitsstelle Schweiz des RISM und Christine Koch-Studer: Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern, Bern:Arbeitsstelle Schweiz des RISM, 2011. [Online verfügbar](http://docs.rism-ch.org/hans_studer_katalog.pdf "external-link-new-window").  
+Arbeitsstelle Schweiz des RISM und Christine Koch-Studer: Hans Studer 1911-1984: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Kunste Bern, Bern: Arbeitsstelle Schweiz des RISM, 2011. [Online verfügbar](http://docs.rism-ch.org/hans_studer_katalog.pdf "external-link-new-window").  
 (erstellt in der RISM-Ländergruppe Bern – Schweiz)  
   
-Hanke Knaus, Gabriella: Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern, Schliengen:Edition Argus, 2007.  
+Hanke Knaus, Gabriella: Richard Sturzenegger: Katalog des Nachlasses in der Musikbibliothek der Hochschule der Künste Bern, Schliengen: Edition Argus, 2007.  
 (erstellt in der RISM-Ländergruppe Bern – Schweiz)
 
 Helg, Lukas: Katalog der Werke von P. Daniel Meier in der Musikbibliothek des Klosters Einsiedeln, in: Helg, Lukas / Hanke Knaus, Gabriella: Ad mairorem Dei gloriam. Festgabe für P. Daniel Meier OSB zum 80. Geburtstag, Einsiedeln 2001, p. 41-120.  
@@ -1651,7 +1663,7 @@ Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeh
 Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka z bývaleho Hornouhorského Rákocziho múzea v Košiciach, Martin: Matica slovenská 1970.  
 (erstellt in Zusammenarbeit mit RISM)
 
-Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove , Martin: Matica slovenská 1977.  
+Ormisová-Záhumenská, Božena: Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove, Martin: Matica slovenská 1977.  
 (erstellt in Zusammenarbeit mit RISM)
 
 
