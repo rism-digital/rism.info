@@ -33,10 +33,10 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 
 ## Past workshops and demonstrations  
 
-11-12 October 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb
+* 11-12 October 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  
 _Lucija Markulin, RISM Croatia_  
 
-* 28 June 2024, Muscat introduction, IAML Congress, Stellenbosch, South Africa
+* 28 June 2024, Muscat introduction, IAML Congress, Stellenbosch, South Africa  
 _Jennifer Ward, RISM Editorial Center_  
 
 * 10 April–15 May (Wednesdays) 2024, Muscat introduction, Ewha Womans University, Seoul, South Korea     
