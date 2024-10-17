@@ -16,10 +16,6 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
  
 
-#### Stellenbosch, Südafrika (IAML-Kongress)  
-
-Eine zweiteilige Muscat-Schulung wird am 28. Juni 2024 während des IAML-Kongresses in Stellenbosch stattfinden. Weitere Einzelheiten, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML Stellenbosch-Seite](/publications/iaml-congresses/2024.html).
-
 ### Spezialthema: Musikdrucke  (in englischer Sprache)
 
 Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
@@ -29,14 +25,20 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 ## Vergangene Workshops und Vorführungen
 
+* 11\.-12\. Oktober 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  
+_Lucija Markulin, RISM Kroatien_
+
+* 28\. Juni 2024, Muscat introduction, IAML Congress, Stellenbosch, Südafrika  
+_Jennifer Ward, RISM-Zentralredaktion_  
+
 * 10\. April – 15\. Mai (mittwochs) 2024, Muscat introduction, Ewha Womans University, Seoul, South Korea     
-_JeongYoun Chang (RISM Südkorea)_  
+_JeongYoun Chang, RISM Südkorea_  
 
 * 19\. Februar und 21\. Februar 2024: Muscat introduction
 _Jennifer Ward, RISM-Zentralredaktion_
 
 * 8\.-10\. November 2023: Muscat-Workshop, Nationalbibliothek Prag, Tschechische Republik\
-_Guido Kraus, RISM Zentralredaktion_ 
+_Guido Kraus, RISM-Zentralredaktion_ 
 
 * 1\. August 2023: Muscat introduction, [IAML Congress, Cambridge](/publications/iaml-congresses/2023.html)  
 _Jennifer Ward, Balázs Mikusi_ 
@@ -45,7 +47,7 @@ _Jennifer Ward, Balázs Mikusi_
 _JeongYoun Chang_
 
 * 13\.-15\. Juni 2023: NIFC, Kraków, Poland  
-_Guido Kraus, RISM Zentralredaktion_ 
+_Guido Kraus, RISM-Zentralredaktion_ 
 
 * 4\. Mai und 2\. Juni 2023: Special Topics: Printed music, online
 _Jennifer Ward, RISM-Zentralredaktion_
