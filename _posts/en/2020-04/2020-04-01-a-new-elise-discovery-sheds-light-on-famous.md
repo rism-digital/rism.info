@@ -15,7 +15,7 @@ A recently discovered music manuscript dating from the early 19th century has mu
 
 The previously unknown piece, written for organ and accordion, was discovered at the beginning of the year in a church in the northern German port city of Kiel. Musicologists part of an interdisciplinary team investigating the historical Kuneus-Gesellschaft für Seenotrettung vom Delphin (Kuneus Society for Maritime Rescue by Dolphins, or KuGeSeDe) were in the Parish Church of St. Ausonia (RISM library siglum: D-KIaus) when they made a surprising discovery.
 
-In a tattered box behind the organ, they found a music manuscript dated "1801" that bears the title "Pour Nathalie \| auf dem Weg nach Sankt Peterburg" (see image), ascribed at the end to Nikolaus Kuneus, the namesake of KuGeSeDe. Up to this point, it was not known that Kuneus had also composed. This piece, which has already been cataloged in the RISM database (RISM ID no. 1001106374), bears a striking resemblance to Beethoven's _Für Elise_, which was written less than ten years later.
+In a tattered box behind the organ, they found a music manuscript dated "1801" that bears the title "Pour Nathalie \| auf dem Weg nach Sankt Peterburg" (see image above), ascribed at the end to Nikolaus Kuneus, the namesake of KuGeSeDe. Up to this point, it was not known that Kuneus had also composed. This piece, which has already been cataloged in the RISM database (RISM ID no. 1001106374), bears a striking resemblance to Beethoven's _Für Elise_, which was written less than ten years later.
 
 {% include image file="/images/news/2024-10/Kuneus-2020-04-01.jpg" %}
 
