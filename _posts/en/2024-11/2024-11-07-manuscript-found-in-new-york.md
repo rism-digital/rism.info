@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Manuscript found in New York'
+date: 2024-11-07
+lang: en
+post: true
+category: rediscovered
+image: "/images/news/2024-11/manuscript-found-chopin-waltz_website.jpg"
+email: 'contact@rism.info'
+author: 'Artur Szklener'
+---
+
+_The following article by Artur Szklener originally appeared on the website of [The Frederik Chopin Institut](https://nifc.pl/en/home/aktualnosci/news/98){:blank} and is published here with kind permission._
+
+On the 27th October, [_The New York Times_](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html?unlocked_article_code=1.VU4.M7gF.XAOAdF7LzrQr&smid=url-share){:blank} reported on an unknown manuscript by Fryderyk Chopin found in the Morgan Library in New York. These revelations were met with enormous media resonance. We invite you to read a commentary on the article prepared by Dr Artur Szklener, Director of the Fryderyk Chopin Institute.
+
+This is certainly one of the more interesting discoveries of recent years. Original Chopin manuscripts are extremely rare, and the mere suggestion that we may be dealing with previously unknown music by the Polish composer electrifies pianists and musicologists.
+
+The manuscript found at the Morgan Library in New York has a number of features typical of Chopin manuscripts: it is written in brown ink on period paper, similar to that used by Chopin in his early years in Paris. It is slightly thicker and more yellow than later sheet music, and is clearly distinguished from the Warsaw scores, which were characterized by a greenish tint. Musically, the piece has features of the brilliant style, which also agrees with the indicated possible time of composition (1830-35).
+
+Chopin, having visibly deepened the emotional depth of his work in his last year in Poland, which can be heard especially in his concerts with orchestra, as well as after an extremely dramatic stay in Vienna, where he was “fulminating on the piano” as a result of the outbreak of the November Uprising - as he himself wrote to his friend Jan Matuszyński - explored the brilliant current again as soon as he arrived in Paris. In December 1831, he wrote from Paris to his professor Józef Elsner: “I am compelled to think of paving my way in the world as a pianist, postponing only for a time the higher artistic views which you rightly present to me in your letter,” which best demonstrates not only Elsner's extremely mature attitude, but also Chopin's own awareness of the mechanisms of the music market of the time. During this period, he wrote Variations, Op. 12, on a theme from an opera by Ludovic Halévy, Duo Concertant on the theme of Robert le diable by Meyerbeer, and Rondo in E-flat major, Op. 16 - a kind of side stream of the composer's work. These works do not stand up comparison with the first nocturnes, mazurkas or études -not to mention the first scherzo and ballade.
+ 
+At the same time, the found manuscript has features unusual for Chopin's music. First of all, it is not a complete work, but rather a certain musical gesture, a theme laced with rather simple piano tricks alluding to a virtuoso style. One can imagine that it is a kind of sketch of the first musical thought, not yet composed into the form of a whole piece, but the features of the manuscript itself do not agree with such a concept. Indeed, it resembles Chopin's gift manuscripts, intended in particular for the album of the recipients. It is small in size. (approx. 10x13 cm), very detailed and cleanly written, with detailed - quite unusual for this type of source - relatively numerous performance indications, such as sforzato (fz), sempre forte or finally fortississimo (fff) in a musically inexpressive moment even before the theme appears. The appearance of fingering markings in such a short and simple passage for the pianist is also surprising. On the musical side, the coexistence of certain gestures that could be considered typical of Chopin, such as a kind of ornamentation in the melody or shifting seconds in the accompaniment, with the overrepresentation of almost banal features, such as the almost exclusive “a” sound in the bass or the extremely simple figures that refer to the brilliant style, but deviate even from Chopin's Warsaw compositions, seems significant.
+
+These features could indicate that the manuscript could have been a gift to an amateur pianist, but in turn there is no dedication or characteristic signature of the composer - the word Chopin is not written in his hand. It cannot be ruled out that the manuscript is a vestige of a pedagogical activity in which Chopin co-wrote with a student during composition lessons, as was the case with the autographs of the Waltz in A minor and the Nocturne in C minor issued by Baroness Rothschild, but such a possibility seems to be contradicted by the small size and neatness of the manuscript.
+
+The notation seems to have some characteristic features of Chopin's handwriting, although it should be mentioned here that the graphology of musical notation is not as codified as in the case of letter writing, so the source would have to be subjected to detailed comparative studies that would enable further classification. After all, at this stage it is difficult to exclude the possibility that the manuscript could be a trace of Chopin’s activity in the pianistic community – possibly a musical joke or a kind of potpourri involving a Polish composer forced “to think about paving his way in the world as a pianist.”
