@@ -13,10 +13,10 @@ Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952
 ## RISM-Datenbank
 Die über 1,4 Millionen Datensätze des RISM können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online.  Die musikalischen Quellen, die im Mittelpunkt des RISM-Projekts stehen, sind Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
 
-### RISM-Katalog
+### RISM Catalog
 {% include image file="/images/publications/opac.png"  %}
 
-Der RISM-Katalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM-Katalogs ist die Bayerische Staatsbibliothek München.
+Der RISM Catalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM Catalogs ist die Bayerische Staatsbibliothek München.
 
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}
@@ -43,7 +43,7 @@ Die Serie A/I wurde zwischen 1971 und 2003 in 14 gedruckten Bänden und 2011 in 
 ### A/II: Musikhandschriften nach 1600
 16 Ausgaben insgesamt: 1-2 als Microfiches (1984-1986); 3-16 als CD-ROM in Deutsch, Englisch, Französisch, Italienisch, Spanisch (München: K. G. Saur Verlag, 1996-2008). Auch als Subskription verschiedener Datenbanken bei [EBSCO, Ipswish](http://www.ebscohost.com/){:target="_blank"} (USA) (2008-bis heute; angeboten durch NISC 2002-2008) erhältlich. Seit 2010 in der Online-Datenbank des RISM.
 
-Zum Zeitpunkt seiner Konzeption war A/II das umfassendste verfügbare Nachschlagewerkzeug für Musikhandschriften, die nach 1600 entstanden sind. Die erste Ausgabe (1984) enthielt ca. 19.000 Einträge und die sechzehnte (2008) ca. 614.000 Einträge. Im Jahr 2010 wurde A/II als frei zugänglicher Online-Katalog mit über 700.000 Einträgen veröffentlicht. Der Umfang des A/II-Projekts hat sich im Laufe der Jahre erweitert und umfasst nun auch Musikhandschriften von vor 1600 bis zur Gegenwart, und alle Musikhandschriften sind nun Teil der großen [RISM-Datenbank](/publications.html#rism-database).
+Die erste Ausgabe (1984) enthielt ca. 19.000 Einträge und die sechzehnte (2008) ca. 614.000 Einträge. Im Jahr 2010 wurde A/II als frei zugänglicher Online-Katalog mit über 700.000 Einträgen veröffentlicht. Der Umfang des A/II-Projekts hat sich im Laufe der Jahre erweitert und umfasst nun auch Musikhandschriften von vor 1600 bis zur Gegenwart, und alle Musikhandschriften sind nun Teil der großen [RISM-Datenbank](/publications.html#rism-database).
 
 ## Series B:
 
