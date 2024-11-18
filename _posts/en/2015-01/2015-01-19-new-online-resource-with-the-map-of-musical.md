@@ -19,7 +19,7 @@ The [Music and Dance Documentation Center](http://musicadanza.es/){:target="_bla
 The information included is a short history of the institution, list of specific fonds as well as a specific bibliography for each institution.
 
 
-The map can be found [here](http://musicadanza.es/mapatrimoniomusical/){:target="_blank"}.
+The map can be found [here](https://cdmyd.mcu.es/mapapatrimoniomusical/){:target="_blank"}.
 
 
 A short description from the National Library of Spain is available [here](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:target="_blank"}.
