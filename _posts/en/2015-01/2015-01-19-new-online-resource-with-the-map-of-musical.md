@@ -22,4 +22,4 @@ The information included is a short history of the institution, list of specific
 The map can be found [here](https://cdmyd.mcu.es/mapapatrimoniomusical/){:target="_blank"}.
 
 
-A short description from the National Library of Spain is available [here](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:target="_blank"}.
+A short description from the National Library of Spain is available [here](https://cdmyd.mcu.es/mapapatrimoniomusical/?tipo=Biblioteca&idioma=ING&idnodo=0136&zoom=14&lat=40.42217701458392&lng=-3.6840609873154717){:target="_blank"}.
