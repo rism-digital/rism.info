@@ -1077,11 +1077,15 @@ Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A 
 
 Clermont, Susan. _Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division_. Washington, D.C.: Library of Congress, 2023. [Available online](https://guides.loc.gov/music-anthologies/anthologies-bibliography){:blank}.  
 
+Floyd, David. "Making Decisions When Cataloging Bound-with Books." _NASIG Proceedings_ 38 (2024): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
+
 Thöne, Johanna-Pauline and James R. Tomlinson. "Medieval and Renaissance Music Conference in Munich," _Early Music_ 51, no. 4 (November 2023): 636–638. [Available online](https://doi.org/10.1093/em/caad058){:blank}.  
 
 #### 2024  
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade, and Harald Sac. "What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow." Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Available online](https://doi.org/10.4126/FRL01-006474028){:blank}.   
+
+"Endowment Fine-tunes Library Holdings: Fund assists Music and Performing Arts Library." _Friendscript: Newsletter for Friends of the University of Illinois Urbana-Champaign Library_ 46, no. 1 (Fall 2024): 4-5. [Available online](https://www.library.illinois.edu/friends/publications/){:blank}.   
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
