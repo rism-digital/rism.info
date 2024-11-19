@@ -1077,7 +1077,7 @@ Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A 
 
 Clermont, Susan. _Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division_. Washington, D.C.: Library of Congress, 2023. [Available online](https://guides.loc.gov/music-anthologies/anthologies-bibliography){:blank}.  
 
-Floyd, David. "Making Decisions When Cataloging Bound-with Books." _NASIG Proceedings_ 38 (2024): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
+Floyd, David. "Making Decisions When Cataloging Bound-with Books." _NASIG Proceedings_ 38 (2023): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
 
 Thöne, Johanna-Pauline and James R. Tomlinson. "Medieval and Renaissance Music Conference in Munich," _Early Music_ 51, no. 4 (November 2023): 636–638. [Available online](https://doi.org/10.1093/em/caad058){:blank}.  
 
