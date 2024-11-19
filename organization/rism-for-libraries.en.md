@@ -82,7 +82,7 @@ As an example, these records from the Princeton University Library cite the A/I 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
-Examples of citing RISM in the context of bound-with books can be found in David Floyd, "Making Decisions When Cataloging Bound-with Books," _NASIG Proceedings_ 38 (2024): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
+Examples of citing RISM in the context of bound-with books can be found in David Floyd, "Making Decisions When Cataloging Bound-with Books," _NASIG Proceedings_ 38 (2023): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
 
 Not everything from the books is in the RISM electronic database (see the [Publications page](/publications.html) for an overview). For the recommended form of citing an item from any given RISM publication, please see the [Table of RISM Citation Styles](/resources/organization/table-of-rism-citation-styles.pdf), which includes A/I, every volume in the B series, and the RISM database.
 
