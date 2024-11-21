@@ -1058,6 +1058,10 @@ Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A D
 
 Clermont, Susan: Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division. Washington, D.C.: Library of Congress, 2023. [Online verfügbar](https://guides.loc.gov/music-anthologies/anthologies-bibliography){blank}.
 
+Floyd, David: Making Decisions When Cataloging Bound-with Books, in: NASIG Proceedings 38 (2023), S. 93-106. [Online verfügbar](https://doi.org/10.3998/nasig.6735){:blank}   
+
+Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music Conference in Munich, in: Early Music 51 (2023), no. 4, S. 636–638. [Online verfügbar](https://doi.org/10.1093/em/caad058){:blank}
+
 #### 2024
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
