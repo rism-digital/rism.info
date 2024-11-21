@@ -78,6 +78,8 @@ In dieser Auflistung der Princeton University Library werden beispielsweise die 
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
+Beispiele für die Zitierung von RISM im Zusammenhang mit gebundenen Büchern finden sich bei David Floyd: Making Decisions When Cataloging Bound-with Books, in: NASIG Proceedings 38 (2023), S. 93-106. [Online verfügbar](https://doi.org/10.3998/nasig.6735){:blank}
+
 Nicht alles aus den Büchern befindet sich in der elektronischen Datenbank (eine Übersicht finden Sie auf der Seite [Publikationen](/publications.html)). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform](/resources/organization/table-of-rism-citation-styles.pdf), die A/I, alle Bände der B-Serie und die RISM-Datenbank enthält.
 
 Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstützung bei der Entwicklung dieser Tools.

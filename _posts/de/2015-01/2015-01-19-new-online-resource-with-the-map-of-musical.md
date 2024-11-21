@@ -19,6 +19,6 @@ Das[Dokumentationszentrum für Musik und Tanz](http://musicadanza.es/){:target="
 Die Informationen umfassen eine kurze Geschichte der Institution, eine Auflistung der jeweiligen Kulturgüter und eine Bibliographie zu jeder Institution.
 
 
-Die Karte ist [hier](http://musicadanza.es/mapatrimoniomusical/){:target="_blank"} zu finden.
+Die Karte ist [hier](https://cdmyd.mcu.es/mapapatrimoniomusical/){:target="_blank"} zu finden.
 
-Der Eintrag der spanischen Nationalbibliothek steht [hier](http://musicadanza.es/mapatrimoniomusical/localizacion/?id=115&b=&todos=5&archivos=&bibliotecas=&centros=&museos=&zoom=17&center=40.424919892334906,-3.6908158562209747){:target="_blank"} zur Verfügung.
+Der Eintrag der spanischen Nationalbibliothek steht [hier](https://cdmyd.mcu.es/mapapatrimoniomusical/?tipo=Biblioteca&idioma=ING&idnodo=0136&zoom=14&lat=40.42217701458392&lng=-3.6840609873154717){:target="_blank"} zur Verfügung.
