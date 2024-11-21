@@ -23,7 +23,7 @@ _Springen zu:_ [1940er](#c1940) [1950er](#c1950)   [1960er](#c1960)   [1970er](#
 
 #### 1949 <a name="c1940"></a>
 
-Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949 Report, S. 37–38. Basel: Bärenreiter, 1951.
+Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949 Report, S. 37–38. Basel: Bärenreiter, 1951.
 
 Fleischer, Herbert: Florenz, in: Stimmen: Monatsblätter für Musik 18 (1949), S. 523-524.
 
@@ -780,7 +780,7 @@ Herrmann-Schneider, Hildegard: Throwing Some Light on the History of Verdi and W
 
 Hofmann, Anke und Barbara Wiermann: Customizing Music Discovery Services: Experiences at the Hochschule für Musik und Theater, Leipzig, in: Music Reference Services Quarterly 17, no. 2 (2014), S. 61–75. [Online verfügbar](https://doi.org/10.1080/10588167.2014.904699){:target="_blank"}.
 
-Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36. [Online verfügbar](https://doi.org/10.13141/fmb.v20143715){:target="_blank"}
+Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36. [Online verfügbar](https://doi.org/10.13141/fmb.v2014){:target="_blank"}
 
 Kaiser, Stefan Ikarus: Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs, in: Forum Musikbibliothek 35 (2014), S. 7-16. [Online verfügbar](https://doi.org/10.13141/fmb.v2014348){:target="_blank"}
 
@@ -818,7 +818,7 @@ Nägele, Reiner: FID Musikwissenschaft an der Bayerischen Staatsbibliothek, in: 
 
 Pugin, Laurent und Rodolfo Zitellini: Verovio: A Library for Typesetting MEI, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 136-141. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
-Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in: Forum Musikbibliothek 36 (2015), S. 20-26. [Online verfügbar](https://doi.org/10.13141/fmb.v2015393){:target="_blank"}  
+Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in: Forum Musikbibliothek 36 (2015), S. 20-26. [Online verfügbar](https://doi.org/10.13141/fmb.v2015){:target="_blank"}  
   
 Rizo, David und José M. Iñesta: A Grammar for Plaine and Easie Code, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 54-64. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
