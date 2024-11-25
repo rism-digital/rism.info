@@ -351,14 +351,14 @@ Website: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braidens
 
 ## JAPAN
 
-Yumiko Hasegawa (retired)\
+Tomoko Morioka\
 Kunitachi College of Music Library\
 5-5-1, Kashiwa, Tachikawa\
 Tokyo 190-8520\
 Japan\
 Telephone: +81 425 36 0799\
 Fax: +81 425 35 7590\
-Email: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
+Email: [info_lib@kunitachi.ac.jp](info_lib@kunitachi.ac.jp)\
 Website: [https://www.kunitachi.ac.jp/en/organization/library.html](https://www.kunitachi.ac.jp/en/organization/library.html){:target="_blank"}
 
 Nobuaki Tanaka M.A.\
