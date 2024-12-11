@@ -58,7 +58,7 @@ All of B/I and about 25% of B/II are included in the [RISM electronic database](
 
 * **B/I**: François Lesure, _Recueils imprimés, XVIe-XVIIe siècles_ (1960).
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.  
-  - An index of composers in B/I, edited by Petro Zappalà, is available as a [PDF](/publications/RecueilsKomponistenindex.pdf).  
+  - An index of composers in B/I, edited by Pietro Zappalà, is available as a [PDF](/publications/RecueilsKomponistenindex.pdf).  
 
 * **B/II**: François Lesure, _Recueils imprimés, XVIIIe siècle_ (1964)
   - Countries included: Austria, Belgium, Brazil, Canada, Czechoslovakia, Denmark, Finland, France, Germany, Great Britain, Hungary, Ireland, Italy, Netherlands, New Zealand, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United States, USSR, Yugoslavia.
