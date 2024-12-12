@@ -5,7 +5,7 @@ date: 2024-12-12
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news/2024-21/Library-sigla-a-special-rism-subproject_website.jpg"
+image: "/images/news/2024-12/Library-sigla-a-special-rism-subproject_website.jpg"
 email: ''
 author: ''
 ---
