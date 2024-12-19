@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neujahrsgrüße von Cherubini"
+title: Neujahrsgrüße von Cherubini
 date: 2024-12-19
 lang: de
 post: true
