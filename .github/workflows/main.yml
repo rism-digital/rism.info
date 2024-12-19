@@ -23,7 +23,7 @@ jobs:
 
       - name: Install packages
         run: |
-          sudo apt install openresolv wireguard
+          sudo apt install wireguard
 
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v3
