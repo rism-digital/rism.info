@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cherubini’s Best Wishes for the New Year"
+title: Cherubini’s Best Wishes for the New Year
 date: 2024-12-19
 lang: en
 post: true
