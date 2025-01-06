@@ -19,9 +19,9 @@ Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und 
 
 ## Mitarbeiter*innen der Zentralredaktion
 
-Leitung: Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
-
-Stellvertr. Leitung: Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
+Co-Leitung:
+* Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
+* Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
 
 Redaktion:
 * [Guido Kraus](mailto:guido.kraus@rism.info){:target="_blank"} M.A.  
