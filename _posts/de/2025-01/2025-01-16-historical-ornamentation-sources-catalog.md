@@ -33,7 +33,7 @@ Aus Gründen der Praktikabilität werden die Primärquellen wie folgt kategorisi
   - Kadenzen für zwei, drei oder vier Instrumente.
   - Ergänzte Kadenzen: Nachträgliche Hinzufügung zu Kompositionen, die oft durch besondere Markierungen wie z. B. Fermaten gekennzeichnet sind.
   - Originalkadenzen: Wahrscheinlich gleichzeitig komponiert.
-  - Orgelpunktkadenzen: Kadenzen written over a sustained pedal note.
+  - Orgelpunktkadenzen: Kadenzen, die über eine gehaltene Note im Bass geschrieben werden.
   - Weitere Arten von Kadenzen.
   
 * **Verzierte Werke**: Kompositionen, die sowohl in einer vereinfachten als auch in einer verzierten Fassung vorliegen.
