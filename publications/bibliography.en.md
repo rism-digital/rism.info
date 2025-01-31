@@ -989,7 +989,7 @@ Kapsa, Václav. "Konference Works, Work Titles, Work Authorities: Perspectives o
 
 Keil, Klaus and Jennifer A. Ward. "Applications of RISM data in digital libraries and digital musicology," "Digital Libraries for Musicology," ed. J. Stephen Downie and Kevin Page, special issue, ​_International Journal on Digital Libraries_ 20, no. 1 (March 2019): 3-12. [Available online](https://doi.org/10.1007/s00799-016-0205-3){:target="_blank"}.   
 
-Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
+Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online (archived)](https://web.archive.org/web/20230611012504/https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 Ward, Jennifer. "Répertoire International des Sources Musicales/International Inventory of Musical Sources." _Historic Libraries Forum Bulletin_ 44 (April 2019): 3-4. [Available online](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}.
 

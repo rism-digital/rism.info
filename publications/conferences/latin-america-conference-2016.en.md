@@ -8,11 +8,11 @@ old_url: http://www.rism.info/en/publications/sources-in-latin-america-2016.html
 
 # Conference: Documenting Musical Sources in Latin America
 
-The conference Documenting Musical Sources in Latin America took place as a peripheral event of the annual congress of the [Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} (German Society for Music Research) in Mainz.
+The conference Documenting Musical Sources in Latin America took place as a peripheral event of the annual congress of the [Gesellschaft für Musikforschung](https://web.archive.org/web/20200812201036/https://www.gfm2016.uni-mainz.de/){:target="_blank"} (German Society for Music Research) in Mainz.
 
 RISM invited speakers from Latin America to share information about the state of musical sources in their countries.  
 
-**Location**: [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Geisteswissenschaftliche Klasse  
+**Location**: [Akademie der Wissenschaften und der Literatur](https://www.adwmainz.de/){:target="_blank"}, Geisteswissenschaftliche Klasse  
 Geschwister-Scholl-Str. 2  
 55131 Mainz
 

@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2
 
 **Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**   
 
-The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
+The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](https://www.adwmainz.de/){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
 
 Libraries worldwide have been discussing work titles with increasing intensity. Transferring this idea to musical works seems particularly feasible at first glance, seeing as the production of catalogs of works has a tradition of more than 100 years in musicology.  
 
