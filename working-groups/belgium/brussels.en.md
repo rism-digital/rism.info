@@ -20,7 +20,7 @@ Its initial core is represented by the music library of Belgian musicologist Fra
 
 The team of the RISM Brussels office is composed of:
 
-- Dr Marie Cornaz, musicologist, curator of the Music Division and lecturer in musicology at [Brussels University](https://www.ulb.be/fr/marie-cornaz){:blank}; she is one of the members of the Coordinating Committee of the RISM Advisory Council
+- Dr Marie Cornaz, musicologist, curator of the Music Division and lecturer in musicology at [Brussels University](https://lam.phisoc.ulb.be/membres/corps-academique/professeur%C2%B7e%C2%B7s/marie-cornaz){:blank}; she is one of the members of the Coordinating Committee of the RISM Advisory Council
 
 - [Kris De Baerdemacker](/en/workgroups/belgium-brussels-royal-library-of-belgium/home.html), musician and composer; he encodes new descriptions of musical sources kept in the Royal Library of Belgium and corrects existing descriptions
 
