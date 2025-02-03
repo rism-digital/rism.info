@@ -527,7 +527,7 @@ Telefon: +46 8 519554 33\
 Fax: +46 8 519554 45\
 E-Mail: [marina.demina@muslib.se](mailto:marina.demina@muslib.se)\
 E-Mail: [kia.hedell@ub.uu.se](mailto:kia.hedell@ub.uu.se)\
-Webseite: [http://statensmusikverk.se/musikochteaterbiblioteket/](http://statensmusikverk.se/musikochteaterbiblioteket/){:target="_blank"}
+Webseite: [https://musikochteaterbiblioteket.se/](https://musikochteaterbiblioteket.se/){:target="_blank"}
 
 ## SCHWEIZ
 
