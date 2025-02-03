@@ -1066,7 +1066,9 @@ Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music C
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
 
-Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank}    
+Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
+
+Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
 
 "Updating RISM Series C." Briefs/Feuilletons, in: Fontes Artis Musicae 71 (2024), S. 162. [Online verfügbar](https://muse.jhu.edu/pub/287/article/936315){:blank}. Auch erschienen in Notes 81 (2024), S. 87-88. [Online verfügbar](https://muse.jhu.edu/pub/7/article/934841){:blank}
 
