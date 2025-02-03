@@ -32,4 +32,4 @@ Die Felder **Name**, **Bibliothekssigel**, **Stadt** und **Land** können im Dro
 
 ## Verwendete Technologie
 
-Die Sigel-Suche verwendet die öffentliche Sigla Search API von [RISM Online](https://rism.online){:blank}. Weitere Informationen zur Funktionsweise finden Sie in der [Dokumentation zu dieser API](https://rism.online/docs/api/sigla-api/){:blank}. Die Sigel-Suche funktioniert auch direkt in der [Institutionensuche](http://dev.rism.offline/?mode=institutions){:blank}.
+Die Sigel-Suche verwendet die öffentliche Sigla Search API von [RISM Online](https://rism.online){:blank}. Weitere Informationen zur Funktionsweise finden Sie in der [Dokumentation zu dieser API](https://rism.online/docs/api/sigla-api/){:blank}. Die Sigel-Suche funktioniert auch direkt in der [Institutionensuche](https://rism.online/?mode=institutions){:blank}.
