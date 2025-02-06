@@ -58,7 +58,7 @@ Die Daten des RISM können kostenlos über zwei verschiedene, sich ergänzende R
 * Permalinks werden in jedem Datensatz angegeben, egal ob Musikquelle, Person oder Institution. Die URLs für Suchbegriffe in RISM Online sind stabil und können direkt aus der Adressleiste Ihres Browsers übernommen werden.  
 * So finden Sie die Unikate Ihrer Bibliothek: Unter **Holding institutions** [auf der Startseite](https://rism.online/){:blank} geben Sie ihr Bibliohtekssigel an und klick auf die Box neben **Number of holdings: 1.**
 
-**VIAF**: Die RISM-Normdaten für Personennamen sind in [VIAF (Virtual International Authority File)](http://www.viaf.org/){:target="_blank"} enthalten.
+**VIAF**: Die RISM-Normdaten für Personennamen sind in [VIAF (Virtual International Authority File)](https://www.viaf.org/){:target="_blank"} enthalten.
 
 **Library of Congress Authority File**: Der offizielle Firmenname in der Library of Congress Authority File ist **RISM (Organization)**. The LC-Kontrollnummer lautet [n 88603147](https://lccn.loc.gov/n88603147){:target="_blank"}.
 
