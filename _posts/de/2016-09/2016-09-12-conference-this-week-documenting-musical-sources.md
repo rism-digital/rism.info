@@ -11,11 +11,11 @@ email: ''
 author: ''
 ---
 
-Am Donnerstag findet die Konferenz [Dokumentation musikalischer Quelle](http://rism.info/?id=786){:target="_blank"}[n in Lateinamerika](http://rism.info/?id=786){:target="_blank"} von RISM statt. Wir freuen uns 13 Kollegen begrüßen können, die über Musikquellen aus acht verschiedenen Ländern Mittel- und Südamerikas berichten. Die Konferenz findet am Rande des Kongresses der [Gesellschaft für Musikforschung](http://www.gfm2016.uni-mainz.de/){:target="_blank"} statt.
+Am Donnerstag findet die Konferenz [Dokumentation musikalischer Quellen in Lateinamerika](http://rism.info/?id=786){:target="_blank"} von RISM statt. Wir freuen uns 13 Kollegen begrüßen können, die über Musikquellen aus acht verschiedenen Ländern Mittel- und Südamerikas berichten. Die Konferenz findet am Rande des Kongresses der [Gesellschaft für Musikforschung](https://web.archive.org/web/20200812201036/https://www.gfm2016.uni-mainz.de/){:target="_blank"} statt.
 
 Das vollständige [Programm](/publications/conferences/latin-america-conference-2016.html#c3288) befindet sich auf unserer Konferenz-Website. Anerkannte Musikwissenschaftler/Innen und Bibliothekare/Innen aus Lateinamerika werden über den derzeitigen Stand der Beschreibung von Quellen in ihren Ländern und den Forschungsstand zum Kulturaustausch berichten. Außerdem wird der weitere Fortgang sowie der Austausch der Daten vereinbart werden. Wir erwarten gespannt, die Erfahrungen unserer lateinamerikanischen Kollegen und hoffen unsere Erkenntnisse austauschen zu können.
 
-Die Konferenz findet am **Donnerstag, 15. September 2016, 10:00-17:00 Uhr** in der [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"} in Mainz statt. Die Konferenz ist **kostenfrei** und **öffentlich**. Wir freuen uns auf Ihr Kommen!
+Die Konferenz findet am **Donnerstag, 15. September 2016, 10:00-17:00 Uhr** in der [Akademie der Wissenschaften und der Literatur](https://www.adwmainz.de/){:target="_blank"} in Mainz statt. Die Konferenz ist **kostenfrei** und **öffentlich**. Wir freuen uns auf Ihr Kommen!
 
 Die Präsentationen werden aufgezeichnet und nach der Konferenz auf [YouTube](https://www.youtube.com/user/RISMZentralredaktion/){:target="_blank"} zur Verfügung gestellt. In den sozialen Medien können Sie dem Hashtag [#gfm2016](https://twitter.com/search?q=%23gfm2016&src=typd){:target="_blank"} folgen.
 

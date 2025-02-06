@@ -10,7 +10,7 @@ old_url: http://www.rism.info/en/publications/introducing-a-work-level-in-rism-2
 
 **Conference and Workshop: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM**   
 
-The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
+The conference "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM" took place May 9-11, 2019 at the [Akademie der Wissenschaften und der Literatur](https://www.adwmainz.de/){:target="_blank"}, Mainz, in cooperation with the Johannes Gutenberg-Universität Mainz.   
 
 Libraries worldwide have been discussing work titles with increasing intensity. Transferring this idea to musical works seems particularly feasible at first glance, seeing as the production of catalogs of works has a tradition of more than 100 years in musicology.  
 
@@ -24,7 +24,7 @@ The conference and workshop was intended to enable a dialogue for the different 
 * Presentations on [RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"}.
 * Reports
     - Kapsa, Václav. "Konference Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." _Hudební věda_ 56, no. 2 (2019): 191-194.
-    - Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
+    - Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online (archived)](https://web.archive.org/web/20230611012504/https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 ## Program
 

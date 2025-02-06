@@ -24,7 +24,11 @@ Dennoch sind die Werktitel im Bibliotheksbereich ein wichtiges Hilfsmittel, mit 
 
 Die Konferenz mit Workshop soll die unterschiedlichen Standpunkte und Erwartungen von Musikwissenschaftlern und Bibliothekaren zur Sprache bringen und Lösungsansätze für RISM als Projekt zwischen beiden Seiten erarbeiten.
 
-Die Präsentationen werden in Kürze auf YouTube zur Verfügung stehen.
+* [Konferenzflyer (PDF)](/resources-old-website/community-content/events/2019_Work_level_RISM/2019_05_09_RISM-Tagung.pdf)   
+* Präsentationen auf dem [RISM YouTube-Kanal](https://www.youtube.com/playlist?list=PL9SyOIE9iSYLPn0EQZBux0YO4e-5R19Zn){:target="_blank"}.
+* Berichte
+    - Kapsa, Václav: Konference Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM, in: Hudební věda 56 (2019), no. 2, S. 191-194.
+    - Köppl, Chantal: Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM, in: Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Online verfügbar (archiviert)](https://web.archive.org/web/20230611012504/https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 # Programm
 
