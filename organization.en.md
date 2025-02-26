@@ -11,7 +11,7 @@ The Répertoire International des Sources Musicales (RISM) - International Inven
 RISM was founded in Paris in 1952 and is the largest and only international organization that documents written musical sources. RISM records _what_ exists and _where_ it can be found. As a result, by virtue of being cataloged in a comprehensive inventory, music traditions are protected while also being made available to musicologists and musicians alike. Such work is thus not an end in itself, but leads directly to practical applications.
 
 
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:blank} in over 10 languages.
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:blank} in over 15 languages.
 
 [Presentation](http://www.bnportugal.pt/images/stories/agenda/2017/RISM_apresentacao_BNP2017.pdf){:blank} by Sílvia Sequeira in Portuguese.
 
