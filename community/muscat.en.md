@@ -24,7 +24,7 @@ Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:targ
 * Links to external identifiers in authority records
 * Custom-built module to display incipits
 * Expanded ability to add guidelines in different languages
-* Interfaces in English, Catalan, French, German, Italian, Polish, Portuguese, and Spanish, with a translations in Korean in preparation
+* Interfaces in English, Catalan, French, German, Italian, Polish, Portuguese, and Spanish, with a translation in Korean in preparation
 * Separate training server for practice and demonstrations
 
 
