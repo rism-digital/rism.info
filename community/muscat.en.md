@@ -21,12 +21,11 @@ Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:targ
 * Ability to leave comments for sources and authority files
 * Intuitive management of digital objects
 * Ability to create folders to organize work
-* Link to VIAF to import personal name authority records
+* Links to external identifiers in authority records
 * Custom-built module to display incipits
 * Expanded ability to add guidelines in different languages
-* Integrated full online catalog search with geovisualizations
-* Interfaces in English, French, German, Italian, Polish, Portuguese, and Spanish, with a translations in Korean in preparation
-* Separate training server for practice
+* Interfaces in English, Catalan, French, German, Italian, Polish, Portuguese, and Spanish, with a translations in Korean in preparation
+* Separate training server for practice and demonstrations
 
 
 ## Technical requirements
