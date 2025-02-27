@@ -31,11 +31,11 @@ The Query Builder gives you a clickable interface for constructing these queries
 
 For example, to find sources where the Watermark field lists either "flower" or "plant" and whose creator field contains Mozart, the query would look like this:
 
-  `(watermark:flower OR watermark:plant) AND creator:Mozart`  [Try it out](https://rism.online/search?q=(watermark:flower%20OR%20watermark:plant)%20AND%20creator:Mozart)
+  `(watermark:flower OR watermark:plant) AND creator:Mozart` [\[Try it out\]](https://rism.online/search?q=(watermark:flower%20OR%20watermark:plant)%20AND%20creator:Mozart)
 
 Or, to find the sources that have an anchor in the watermark, a creator of "Mozart", but the word "Breitkopf" does not appear anywhere in the record, you might try:
 
-  `watermark:anchor creator:Mozart -Breitkopf`  [Try it out](https://rism.online/search?q=watermark:anchor%20creator:Mozart%20-Breitkopf)
+  `watermark:anchor creator:Mozart -Breitkopf`  [\[Try it out\]](https://rism.online/search?q=watermark:anchor%20creator:Mozart%20-Breitkopf)
 
 As you type in the keyword query box, your query is constantly validated and feedback is provided. This includes a preview of the number of results that would be found, and a status icon letting you know whether your query is valid or not.
 
@@ -43,9 +43,10 @@ Specifics about this new feature can be found in the [Query Builder Documentatio
 
 A few other examples:
 
- - `creator:Palestrina NOT siglum:V-CVbav` [Try it out](https://rism.online/search?q=creator:Palestrina NOT siglum:V-CVbav) Find sources whose creator is Palestrina, but not found in the Vatican library
- - `title:Erlkönig -Schubert` [Try it out](https://rism.online/search?q=title:Erlkönig -Schubert) Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
- - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [Try it out](https://rism.online/search?q=creator:Purcell AND (siglum:F-* OR  siglum:I-*)) Retrieve sources by Purcell that are located either in France or Italy
+ - `creator:Palestrina NOT siglum:V-CVbav` [\[Try it out\]](https://rism.online/search?q=creator:Palestrina NOT siglum:V-CVbav) Find sources whose creator is Palestrina, but not found in the Vatican library
+ - `title:Erlkönig -Schubert` [\[Try it out\]](https://rism.online/search?q=title:Erlkönig -Schubert) Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
+ - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [\[Try it out\]](https://rism.online/search?q=creator:Purcell AND (siglum:F-* OR  siglum:I-*)) Retrieve sources by Purcell that are located either in France or Italy
+ - `series:P? 2640` [\[Try it out\]](https://rism.online/search?q=series:P? 2640) Retrieve sources that match "P 2640" in the older RISM series identifiers (e.g., A/I), but allow for the alternative "PP 2640" with a single-character wildcard.
 
 ## Mobile User Interface
 
