@@ -1,7 +1,7 @@
 
 <div class="p-2 notification is-warning is-light">
-    <p class="has-text-weight-semibold">Ankündigung</p>
-    <p>IAML-Deutschland Jahrestagung in Frankfurt am Main, 17.-20. September 2024. <a href="https://iaml-deutschland.info/">Details hier</a></p>
+    <p class="has-text-weight-semibold">RISM Katalogisierungsrichtlinien</p>
+    <p>Die Katalogisierungsrichtlinien des RISM stehen hier zur Verfügung <a href="https://guidelines.rism.info">guidelines.rism.info</a>.</p>
 </div>
 
 
