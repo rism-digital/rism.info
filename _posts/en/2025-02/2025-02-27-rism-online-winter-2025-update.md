@@ -19,6 +19,8 @@ A significant component of this integration work was aligning the Holding Instit
 
 Check out the results of [a search for "Antiphoner"](https://rism.online/search?q=Antiphoner&mode=sources&page=1&rows=20) in RISM Online to see what Cantus Database integration looks like.
 
+To see the integration with Holding Institutions, check out the record for [CDN-Mlr, The Humanities and Social Sciences Library at McGill University](https://rism.online/institutions/30006518/sources).
+
 ## Query Builder and Better Keyword Search
 
 The new update introduces an enhanced Keyword Search box, with a Query Builder tool that will help you start creating more complex queries.
