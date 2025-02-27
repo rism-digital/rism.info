@@ -31,11 +31,11 @@ The Query Builder gives you a clickable interface for constructing these queries
 
 For example, to find sources where the Watermark field lists either "flower" or "plant" and whose creator field contains Mozart, the query would look like this:
 
-  `(watermark:flower OR watermark:plant) AND creator:Mozart`
+  `(watermark:flower OR watermark:plant) AND creator:Mozart`  [Try it out](https://rism.online/search?q=(watermark:flower%20OR%20watermark:plant)%20AND%20creator:Mozart)
 
 Or, to find the sources that have an anchor in the watermark, a creator of "Mozart", but the word "Breitkopf" does not appear anywhere in the record, you might try:
 
-  `watermark:anchor creator:Mozart \-Breitkopf`
+  `watermark:anchor creator:Mozart -Breitkopf`  [Try it out](https://rism.online/search?q=watermark:anchor%20creator:Mozart%20-Breitkopf)
 
 As you type in the keyword query box, your query is constantly validated and feedback is provided. This includes a preview of the number of results that would be found, and a status icon letting you know whether your query is valid or not.
 
