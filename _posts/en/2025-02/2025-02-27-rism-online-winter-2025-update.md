@@ -41,6 +41,12 @@ As you type in the keyword query box, your query is constantly validated and fee
 
 Specifics about this new feature can be found in the [Query Builder Documentation](https://rism.online/docs/query-builder/introduction/).
 
+A few other examples:
+
+ - `creator:Palestrina NOT siglum:V-CVbav` [Try it out](https://rism.online/search?q=creator:Palestrina NOT siglum:V-CVbav) Find sources whose creator is Palestrina, but not found in the Vatican library
+ - `title:Erlkönig -Schubert` [Try it out](https://rism.online/search?q=title:Erlkönig -Schubert) Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
+ - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [Try it out](https://rism.online/search?q=creator:Purcell AND (siglum:F-* OR  siglum:I-*)) Retrieve sources by Purcell that are located either in France or Italy
+
 ## Mobile User Interface
 
 When accessing RISM Online on a mobile phone, the user interface is now optimized for viewing on the smaller screen, making it easier to search RISM Online on the go. Facets and other advanced search tools were not included in the mobile user interface in this release, but the content was made to fit the smaller screens.
