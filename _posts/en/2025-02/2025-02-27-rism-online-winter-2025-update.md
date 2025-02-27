@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Musical Public Domain in 2025"
+title: "RISM Online Winter 2025 Update"
 date: 2025-02-27
 lang: en
 post: true
