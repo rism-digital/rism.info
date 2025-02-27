@@ -8,18 +8,18 @@ old_url: http://www.rism.info/de/community/muscat.html
 
 # Muscat
 
-Muscat ist das Katalogisierungsprogramm des RISM für musikalische Quellen (Manuskripte, Notendrucke, Libretti und Traktate). Es wird als Open-Source-Projekt vom RISM unter der Leitung des [RISM Digital Center](https://rism.digital){:target="_blank"} und in enger Zusammenarbeit mit dem Editorial Center und den Arbeitsgruppen entwickelt. Weitere Informationen über das Projekt, seine Philosophie und seine Geschichte finden Sie auf der Website [Muscat Project](http://muscat-project.org/history.html){:target="_blank"}.
+Muscat ist das Katalogisierungsprogramm des RISM für musikalische Quellen (Manuskripte, Notendrucke, Libretti und Traktate). Es wird als Open-Source-Projekt vom RISM unter der Leitung des [RISM Digital Center](https://rism.digital){:target="_blank"} und in enger Zusammenarbeit mit dem Editorial Center und den Arbeitsgruppen entwickelt. Die vollständigen Katalogisierungsrichtlinien des RISM, wie sie für Muscat gelten, finden Sie unter [guidelines.rism.info](https://guidelines.rism.info){:blank}. Weitere Informationen über das Projekt, seine Philosophie und seine Geschichte finden Sie auf der Website [Muscat Project](http://muscat-project.org/history.html){:target="_blank"}.
 
 ## Über Muscat
 
 Im Februar 2025 wies Muscat insgesamt 1.704.000 Musikquellen, 157.000 Einträge zu Personennamen, 27.100 Institutionen und 15.500 Einträge für Sekundärliteratur auf. Muscat enthält Musikquellen aus den verschiedenen RISM-Serien A/I, A/II und B/I, die nun in einer Datenbank vereint sind. 
 
-Muscat ist ein mehrsprachiges, [open source](https://github.com/rism-ch/muscat){:targe="_blank"} und webbasiertes Programm. Es verwendet MARC21 und somit ein international weitverbreitetes und standardisiertes Datenmodell. Additional features include:
+Muscat ist ein mehrsprachiges, [open source](https://github.com/rism-ch/muscat){:targe="_blank"} und webbasiertes Programm. Es verwendet MARC21 und somit ein international weitverbreitetes und standardisiertes Datenmodell. Weitere Merkmale sind:
 * Eingebaute Versionskontrolle zum Verlauf von Änderungen
 * Kommentarfeld zu den Musikquellen und Normdatensätzen
 * Einfache Handhabung für digitale Objekte
 * Ordnerfunktion zur Organisation der eigenen Arbeit
-* Link zur VIAF, um Authoritätsdateien zu den Personen zu übernehmen
+* Verweise auf externe Identifikatoren in Normdatensätzen
 * Eigens angefertigtes Modul zur Incipitanzeige
 * Erweiterte Möglichkeiten für Richtlinien in verschiedenen Sprachen
 * Integrierte Online-Katalogsuche
