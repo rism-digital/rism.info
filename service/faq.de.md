@@ -10,7 +10,7 @@ old_url: http://www.rism.info/de/service/faq.html
 
 ## Welche Quellen findet man in RISM?
 
-Die [RISM-Datenbank](/publications.html#rism-database) enthält derzeit über 1,5 Millionen Einträge, überwiegend Musikhandschriften aus den Jahren 1600-1850. Seit 2024 sind auch etwa 232.000 Nachweise zu Musikdrucken sowie einige Libretti und Traktate recherchierbar. Genaue Angaben finden Sie auf [unserer Publikationen-Seite](/publications.html){:blank}. Auch wenn der Schwerpunkt bei der Erfassung von Musikhandschriften auf dem Zeitraum 1600-1850 liegt, finden Sie sowohl [ältere als auch jüngere Quellen](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"}. 
+Die [RISM-Datenbank](/publications.html#rism-database) enthält derzeit über 1,5 Millionen Einträge, überwiegend Musikhandschriften aus den Jahren 1600-1850. Seit 2025 sind auch etwa 251.000 Nachweise zu Musikdrucken sowie einige Libretti und Traktate recherchierbar. Genaue Angaben finden Sie auf [unserer Publikationen-Seite](/publications.html){:blank}. Auch wenn der Schwerpunkt bei der Erfassung von Musikhandschriften auf dem Zeitraum 1600-1850 liegt, finden Sie sowohl [ältere als auch jüngere Quellen](/new_at_rism/2015/08/12/results-of-the-rism-user-study-part-iii-your.html){:target="_blank"}. 
 
 Einige der großen Bibliotheken sind (noch) nicht vollständig bei RISM nachgewiesen, auch weil sie - beispielsweise im Gegensatz zu kleineren Klosterbibliotheken - selbst über einen eigenen gut recherchierbaren Katalog verfügen. Wir arbeiten aktiv an der Übernahme von Datensätzen aus anderen Bibliotheken nach RISM. Quellen, die verloren sind, werden in RISM nicht dokumentiert.
 
