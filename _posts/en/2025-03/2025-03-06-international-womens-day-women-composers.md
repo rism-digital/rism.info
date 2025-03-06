@@ -19,3 +19,6 @@ In RISM Online our users can search for women composers in even more detail. You
 This list includes almost 1700 names, whereby some of the composers in question are not linked to any sources in the RISM database. But RISM Online also offers further options, like [selecting “Role: Composer”](https://rism.online/search?mode=people&fq=gender%3Afemale&fq=profession%3AComposer&fq=roles%3Acre&page=1&rows=20){:blank} to restrict your search to women composers whose works can be found in RISM (at least in part). And you could make your hit list even more focused by specifying further functions (such as pianist or singer), or even a place associated with the person.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSftS_A352I0nNAAAHaXycNAStTwU4AvJHC5gTlHCoALWcWGpdGr8sre3zoNbySkMZO9f6pLXWELqjU/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+&nbsp;  
+&nbsp;
+
