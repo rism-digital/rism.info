@@ -10,9 +10,9 @@ email: ''
 author: ''
 ---
 
-In 2017 we celebrated the [International Women’s Day](https://www.internationalwomensday.com/About){:blank} by publishing a list of all [women composers found in the RISM database](https://rism.info/de/events/2017/03/08/international-womens-day-women-composers-in.html){:blank}.
+In 2017 we celebrated the [International Women’s Day](https://www.internationalwomensday.com/About){:blank} by publishing a list of all [women composers found in the RISM database](/events/2017/03/08/international-womens-day-women-composers-in.html){:blank}.
 
-Following a [2021 update](https://rism.info/de/events/2021/03/08/international-womens-day-2021-women-composers-rism.html){:blank}, it is time to yet again publish a revised list to reflect RISM’s ever more complete coverage. The list that in 2017 included 800 names, and expanded to a thousand lines by 2021, has in the meantime grown further and now presents close to 1600 women composers.
+Following a [2021 update](/events/2021/03/08/international-womens-day-2021-women-composers-rism.html){:blank}, it is time to yet again publish a revised list to reflect RISM’s ever more complete coverage. The list that in 2017 included 800 names, and expanded to a thousand lines by 2021, has in the meantime grown further and now presents close to 1600 women composers.
 
 In RISM Online our users can search for women composers in even more detail. You can [find all women composers under this link]( https://rism.online/search?mode=people&fq=gender%3Afemale&fq=profession%3AComposer&page=1&rows=20){:blank}.
 
