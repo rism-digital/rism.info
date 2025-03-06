@@ -19,3 +19,5 @@ Nach einem [Update im Jahr 2021](https://rism.info/de/events/2021/03/08/internat
 Diese Liste umfasst fast 1700 Komponistinnen, allerdings auch einige, ohne verknüpfte Musikquellen. RISM Online bietet darüber hinaus noch weitere Recherche-Möglichkeiten: Sie können die Suche auch auf Komponistinnen beschränken, die mit eigenen Werken bei RISM vertreten sind ([dazu “Rolle: Komponist” auswählen](https://rism.online/search?mode=people&fq=gender%3Afemale&fq=profession%3AComposer&fq=roles%3Acre&page=1&rows=20){:blank}). Außerdem ist auch eine weitere Einschränkung der Suche nach Orten oder weiteren Funktionen (wie Pianistinnen oder Sängerinnen) möglich.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSftS_A352I0nNAAAHaXycNAStTwU4AvJHC5gTlHCoALWcWGpdGr8sre3zoNbySkMZO9f6pLXWELqjU/pubhtml?widget=true&amp;headers=false" width="700" height="1000"></iframe>
+&nbsp;  
+&nbsp;
