@@ -44,10 +44,10 @@ Specifics about this new feature can be found in the [Query Builder Documentatio
 
 A few other examples:
 
- - `creator:Palestrina NOT siglum:V-CVbav` [\[Try it out\]](https://rism.online/search?q=creator:Palestrina NOT siglum:V-CVbav){:blank} Find sources whose creator is Palestrina, but not found in the Vatican library
- - `title:Erlkönig -Schubert` [\[Try it out\]](https://rism.online/search?q=title:Erlkönig -Schubert){:blank} Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
- - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [\[Try it out\]](https://rism.online/search?q=creator:Purcell AND (siglum:F-* OR  siglum:I-*)){:blank} Retrieve sources by Purcell that are located either in France or Italy
- - `series:P? 2640` [\[Try it out\]](https://rism.online/search?q=series:P? 2640){:blank} Retrieve sources that match "P 2640" in the older RISM series identifiers (e.g., A/I), but allow for the alternative "PP 2640" with a single-character wildcard.
+ - `creator:Palestrina NOT siglum:V-CVbav` [\[Try it out\]](https://rism.online/search?q=creator:Palestrina%20NOT%20siglum:V-CVbav){:blank} Find sources whose creator is Palestrina, but not found in the Vatican library
+ - `title:Erlkönig -Schubert` [\[Try it out\]](https://rism.online/search?q=title:Erlkönig%20-Schubert){:blank} Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
+ - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [\[Try it out\]](https://rism.online/search?q=creator:Purcell%20AND%20(siglum:F-*%20OR%20siglum:I-*)){:blank} Retrieve sources by Purcell that are located either in France or Italy
+ - `series:P? 2640` [\[Try it out\]](https://rism.online/search?q=series:P?%202640){:blank} Retrieve sources that match "P 2640" in the older RISM series identifiers (e.g., A/I), but allow for the alternative "PP 2640" with a single-character wildcard.
 
 ## Mobile User Interface
 
@@ -55,9 +55,11 @@ When accessing RISM Online on a mobile phone, the user interface is now optimize
 
 (Along the way, the user interface for non-mobile devices was also improved so that it displays better on a wider variety of screens.)
 
-## Work Nodes and External Work Authorities
+## External Work Authorities
 
 RISM has been working with external work authorities to link together sources containing the same musical work identifier. These identifiers are now shown on Source records, and a list of all known work identifiers for a given person are shown on their Person record.
+
+For example, the record for [Felix Mendelssohn Bartholdy](https://rism.online/people/88790) now shows a table of the External Authorities for his works in the Gemeinsame Normdatei (GND) authority. The table includes links for finding all source records linked to that same authority in RISM Online, as well as a link to view the record in the External Work Authority.
 
 ## Odds and Ends
 
@@ -75,6 +77,6 @@ This is a list of all the smaller improvements that do not merit their own parag
 
 ## About RISM Online
 
-[RISM Online](https://rism.online){:blank} is the pre-eminent search interface for the Répertoire International des Sources Musicales project. We serve over 30,000 users each month, helping people around the globe find the music they need in the libraries around the world. Our records are updated every day from the latest additions and updates from RISM cataloguers. We also index and integrate records from high-quality external databases such as the Digital Image Archive of Medieval Music and the Cantus Database.
+[RISM Online](https://rism.online){:blank} is a search interface for the Répertoire International des Sources Musicales. We serve over 30,000 users each month, helping people around the globe find the music they need in the libraries around the world. Our records are updated every day from the latest additions and updates from RISM cataloguers. We also index and integrate records from high-quality external databases such as the Digital Image Archive of Medieval Music and the Cantus Database.
 
 Comments and feedback are always welcome at [feedback@rism.online](mailto:feedback@rism.online){:blank}.
