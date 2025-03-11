@@ -63,14 +63,14 @@ For example, the record for [Felix Mendelssohn Bartholdy](https://rism.online/pe
 
 ## CSV Record Download
 
-Results of searches that return fewer than 5,000 records can now be downloaded as a Comma Separated Value (CSV) file. This is available for all search types: Sources, People, Institutions, and Incipits. The CSV results include a link to the record in RISM Online, along with
+Results of searches that return fewer than 5,000 records can now be downloaded as a Comma Separated Value (CSV) file. This is available for all search types: Sources, People, Institutions, and Incipits. The CSV results include a link to the record in RISM Online, and an option to include a link to the original search query that produced those results.
 
 ## Odds and Ends
 
 This is a list of all the smaller improvements that do not merit their own paragraph, but are notable nonetheless.
 
-* Direct link to MARCXML records. While MARCXML has been available in RISM Online for a while, we now display a direct link to the MARCXML in the footer of every record
-* Optimized SVG images. The SVG images were optimized, leading to a smaller overall page load
+* Direct link to MARCXML records. While MARCXML has been available in RISM Online for a while, we now display a direct link to the MARCXML in the footer of every record.
+* Optimized SVG images. The SVG images were optimized, leading to a smaller overall page load.
 * Enabled HTTP/3. The latest version of the HTTP standard provides better utilization of network resources, improving the speed and responsiveness of RISM Online.
 * Switched to haproxy for the load balancer. Internally we are now using haproxy as the load balancer for our API services.
 * Added timestamps to the "About" page to show the last time DIAMM, Cantus, and RISM indexes were updated.
