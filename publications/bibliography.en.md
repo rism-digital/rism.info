@@ -20,7 +20,7 @@ _Jump to:_ [1940s](#c1940) \| [1950s](#c1950) \| [1960s](#c1960) \| [1970s](#c19
 
 #### 1949 <a name="c1940"></a>  
 
-Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949 Report, 37–38. Basel: Bärenreiter, 1951.  
+Albrecht, Hans. "Zur Frage eines neuen Quellenlexikons." In _Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949 Report_, 37–38. Basel: Bärenreiter, 1951.  
 
 Fleischer, Herbert. "Florenz," _Stimmen: Monatsblätter für Musik_ 18 (1949): 523-524.  
 
@@ -640,7 +640,7 @@ Keil, Klaus. "Contributo ad un catalogo tematico palestriniano: La documentazion
 
 Heckmann, Harald. "Das Répertoire International des Souces Musicales (RISM) in Geschichte, Gegenwart und Zukunft." In _Wege und Spuren. Verbindungen zwischen Bildung, Wissenschaft, Kultur, Geschichte und Politik. Festschrift für Joachim-Felix Leonhard_, edited by Helmut Knüppel and Joachim-Felix Leonhard, 597-605. Berlin: Berlin Verlag für Berlin-Brandenburg, 2007.
 
-Lehotská, Miriam. "Slovenský súpis hudobnohistorických prameňov (SKHP) a Répertoire International des Sources Musicales (RISM) ako podnecujúci fenomén hudobno-historického výskumu." In_Hudobnohistorický výskum na Slovensku začiatkom 21. storočia. I_, edited by Marta Hulková, 437-448. Bratislava: Katedra hudobnej vedy Filozofickej fakulty Univerzity Komenskégo, 2007.  
+Lehotská, Miriam. "Slovenský súpis hudobnohistorických prameňov (SKHP) a Répertoire International des Sources Musicales (RISM) ako podnecujúci fenomén hudobno-historického výskumu." In _Hudobnohistorický výskum na Slovensku začiatkom 21. storočia. I_, edited by Marta Hulková, 437-448. Bratislava: Katedra hudobnej vedy Filozofickej fakulty Univerzity Komenskégo, 2007.  
 
 Manus, Christoph. "Die Noten-Superdatenbank." _Frankfurter Rundschau_, March 21, 2007.
 
@@ -798,9 +798,9 @@ Herrmann-Schneider, Hildegard. "Throwing Some Light on the History of Verdi and 
 
 Hofmann, Anke and Barbara Wiermann. "Customizing Music Discovery Services: Experiences at the Hochschule für Musik und Theater, Leipzig." _Music Reference Services Quarterly_ 17, no. 2 (2014): 61–75. [Available online](https://doi.org/10.1080/10588167.2014.904699){:target="_blank"}.  
 
-Janitzek, Kerstin. "Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt." _Forum Musikbibliothek_ 35:3 (2014): 34-36. [Available online](https://doi.org/10.13141/fmb.v20143715 ){:target="_blank"}.
+Janitzek, Kerstin. "Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt." _Forum Musikbibliothek_ 35:3 (2014): 34-36. [Available online](https://doi.org/10.13141/fmb.v2014){:target="_blank"}.
 
-Kaiser, Stefan Ikarus. "Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs." _Forum Musikbibliothek_ 35, no. 2 (2014): 7-16. [Available online](https://doi.org/10.13141/fmb.v2014348){:target="_blank"}.
+Kaiser, Stefan Ikarus. "Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs." _Forum Musikbibliothek_ 35, no. 2 (2014): 7-16. [Available online]( https://doi.org/10.13141/fmb.v2014){:target="_blank"}.
 
 Lauterwasser, Helmut. "München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM)." _Forum Musikbibliothek_ 35:1 (2014): 51-53. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/283){:target="_blank"}.  
 
@@ -836,7 +836,7 @@ Nägele, Reiner. "FID Musikwissenschaft an der Bayerischen Staatsbibliothek." _B
 
 Pugin, Laurent and Rodolfo Zitellini. "Verovio: A Library for Typesetting MEI." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 136-141. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
 
-Richts, Kristina and Irmlind Capelle. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI: Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26. [Available online](https://doi.org/10.13141/fmb.v2015393 ){:target="_blank"}.  
+Richts, Kristina and Irmlind Capelle. "Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI: Einblicke in das Detmolder Hoftheater-Projekt." _Forum Musikbibliothek_ 36, no. 2 (2015): 20-26. [Available online](https://doi.org/10.13141/fmb.v2015){:target="_blank"}.  
 
 Rizo, David and José M. Iñesta. "A Grammar for Plaine and Easie Code." In _Music Encoding Conference Proceedings, 2013 and 2014_, edited by Perry Roland and Johannes Kepper, 54-64. Charlottesville, Virginia and Detmold, Germany: Music Encoding Initiative, 2015. [Available online](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}.   
 
@@ -989,7 +989,7 @@ Kapsa, Václav. "Konference Works, Work Titles, Work Authorities: Perspectives o
 
 Keil, Klaus and Jennifer A. Ward. "Applications of RISM data in digital libraries and digital musicology," "Digital Libraries for Musicology," ed. J. Stephen Downie and Kevin Page, special issue, ​_International Journal on Digital Libraries_ 20, no. 1 (March 2019): 3-12. [Available online](https://doi.org/10.1007/s00799-016-0205-3){:target="_blank"}.   
 
-Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
+Köppl, Chantal. "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22 September 2019. [Available online (archived)](https://web.archive.org/web/20230611012504/https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}.
 
 Ward, Jennifer. "Répertoire International des Sources Musicales/International Inventory of Musical Sources." _Historic Libraries Forum Bulletin_ 44 (April 2019): 3-4. [Available online](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}.
 
@@ -1048,7 +1048,7 @@ YU Yifan. "西方音乐作品主题目录的历史、发展及对中国  音乐�
 
 #### 2022
 
-Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
+Álvarez Escandell, Carmen. "El cantoral E-Zac, C-3 Ms 18 de Zaragoza, con obras de Morales, Guerrero, Victoria, Pujol y Berges." _Cuadernos de Investigación Musical_ 14 (enero-junio 2022): 115-187. [Available online](https://doi.org/10.18239/invesmusic.2022.14.04){:blank}.  
 
 Ferrari, Nicolò."Musical sources: 70 years of RISM." _Early Music_ caac061 (2022). [Available online](https://doi.org/10.1093/em/caac061){:blank}.   
 
@@ -1077,13 +1077,19 @@ Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A 
 
 Clermont, Susan. _Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division_. Washington, D.C.: Library of Congress, 2023. [Available online](https://guides.loc.gov/music-anthologies/anthologies-bibliography){:blank}.  
 
+Floyd, David. "Making Decisions When Cataloging Bound-with Books." _NASIG Proceedings_ 38 (2023): 93-106. [Available online](https://doi.org/10.3998/nasig.6735){:blank}.   
+
 Thöne, Johanna-Pauline and James R. Tomlinson. "Medieval and Renaissance Music Conference in Munich," _Early Music_ 51, no. 4 (November 2023): 636–638. [Available online](https://doi.org/10.1093/em/caad058){:blank}.  
 
 #### 2024  
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade, and Harald Sac. "What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow." Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Available online](https://doi.org/10.4126/FRL01-006474028){:blank}.   
 
+"Endowment Fine-tunes Library Holdings: Fund assists Music and Performing Arts Library." _Friendscript: Newsletter for Friends of the University of Illinois Urbana-Champaign Library_ 46, no. 1 (Fall 2024): 4-5. [Available online](https://www.library.illinois.edu/friends/publications/){:blank}.   
+
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
+
+Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer  Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
 
 "Updating RISM Series C." Briefs/Feuilletons. _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in Notes for _Notes_. _Notes_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 
@@ -1729,5 +1735,5 @@ Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátske
 Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka z bývaleho Hornouhorského Rákocziho múzea v Košiciach_. Martin: Matica slovenská, 1970.  
 (Compiled in cooperation with RISM)
 
-Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove Martin: Matica slovenská, 1977.  
+Ormisová-Záhumenská, Božena. _Súpis hodobnín z bývalého premonštrátskeho kláštora v Jasove: Zbierka hudobnín z chóru kostola sv. Jána Krstitela v Jasove_. Martin: Matica slovenská, 1977.  
 (Compiled in cooperation with RISM)

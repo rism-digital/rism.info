@@ -58,7 +58,7 @@ Die Daten des RISM können kostenlos über zwei verschiedene, sich ergänzende R
 * Permalinks werden in jedem Datensatz angegeben, egal ob Musikquelle, Person oder Institution. Die URLs für Suchbegriffe in RISM Online sind stabil und können direkt aus der Adressleiste Ihres Browsers übernommen werden.  
 * So finden Sie die Unikate Ihrer Bibliothek: Unter **Holding institutions** [auf der Startseite](https://rism.online/){:blank} geben Sie ihr Bibliohtekssigel an und klick auf die Box neben **Number of holdings: 1.**
 
-**VIAF**: Die RISM-Normdaten für Personennamen sind in [VIAF (Virtual International Authority File)](http://www.viaf.org/){:target="_blank"} enthalten.
+**VIAF**: Die RISM-Normdaten für Personennamen sind in [VIAF (Virtual International Authority File)](https://www.viaf.org/){:target="_blank"} enthalten.
 
 **Library of Congress Authority File**: Der offizielle Firmenname in der Library of Congress Authority File ist **RISM (Organization)**. The LC-Kontrollnummer lautet [n 88603147](https://lccn.loc.gov/n88603147){:target="_blank"}.
 
@@ -77,6 +77,8 @@ In dieser Auflistung der Princeton University Library werden beispielsweise die 
 ([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
+
+Beispiele für die Zitierung von RISM im Zusammenhang mit gebundenen Büchern finden sich bei David Floyd: Making Decisions When Cataloging Bound-with Books, in: NASIG Proceedings 38 (2023), S. 93-106. [Online verfügbar](https://doi.org/10.3998/nasig.6735){:blank}
 
 Nicht alles aus den Büchern befindet sich in der elektronischen Datenbank (eine Übersicht finden Sie auf der Seite [Publikationen](/publications.html)). Die empfohlene Zitierweise eines Eintrags aus einer bestimmten RISM-Veröffentlichung finden Sie in der [Tabelle der RISM-Zitierform](/resources/organization/table-of-rism-citation-styles.pdf), die A/I, alle Bände der B-Serie und die RISM-Datenbank enthält.
 

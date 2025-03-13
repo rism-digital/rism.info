@@ -225,14 +225,14 @@ Webseite: [http://www.urfm.braidense.it/index/index.php](http://www.urfm.braiden
 
 ## JAPAN
 
-Yumiko Hasegawa\
+Tomoko Morioka\
 Kunitachi College of Music Library\
 5-5-1, Kashiwa, Tachikawa\
 Tokyo 190-8520\
 Japan\
 Telefon: +81 425 36 0799\
 Fax: +81 425 35 7590\
-E-Mail: [yumikoha@mountain.ocn.ne.jp](mailto:yumikoha@mountain.ocn.ne.jp)\
+E-Mail: [info_lib@kunitachi.ac.jp](mailto:info_lib@kunitachi.ac.jp)\
 Webseite: [https://www.kunitachi.ac.jp/en/organization/library.html](https://www.kunitachi.ac.jp/en/organization/library.html){:target="_blank"}  
 
 Nobuaki Tanaka M.A.\
@@ -378,7 +378,7 @@ Musikarchiv\
 Linzer Strasse 4\
 A-4073 Wilhering\
 Telefon: +43 7226 2311 51 (nachmittags) oder +43 664 8708641\
-E-Mail: [musikarchiv@stiftwilhering.at](mailto:musikarchiv@stiftwilhering.at)\
+E-Mail: musikarchiv[@]stiftwilhering.at\
 Webseite: [http://stiftwilhering.at/kultur/musikarchiv/](http://stiftwilhering.at/kultur/musikarchiv/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
 
@@ -527,7 +527,7 @@ Telefon: +46 8 519554 33\
 Fax: +46 8 519554 45\
 E-Mail: [marina.demina@muslib.se](mailto:marina.demina@muslib.se)\
 E-Mail: [kia.hedell@ub.uu.se](mailto:kia.hedell@ub.uu.se)\
-Webseite: [http://statensmusikverk.se/musikochteaterbiblioteket/](http://statensmusikverk.se/musikochteaterbiblioteket/){:target="_blank"}
+Webseite: [https://musikochteaterbiblioteket.se/](https://musikochteaterbiblioteket.se/){:target="_blank"}
 
 ## SCHWEIZ
 

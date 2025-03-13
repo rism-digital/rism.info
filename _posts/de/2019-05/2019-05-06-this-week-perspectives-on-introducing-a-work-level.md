@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-Der Countdown läuft – nur noch wenige Tage dann beginnt die Konferenz mit Workshops **Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM** in der Mainzer [Akademie der Wissenschaften und Literatur](http://www.adwmainz.de/anfahrt.html){:target="_blank"}.
+Der Countdown läuft – nur noch wenige Tage dann beginnt die Konferenz mit Workshops **Werke, Werktitel, Werknorm - Perspektiven der Einführung einer Werkebene bei RISM** in der Mainzer [Akademie der Wissenschaften und Literatur](https://www.adwmainz.de/){:target="_blank"}.
 
 Drei Tage lang (9. - 11. Mai) wollen wir uns austauschen, diskutieren und ausprobieren, wie uns die Einführung von Werktiteln gelingen und voranbringen kann.
 

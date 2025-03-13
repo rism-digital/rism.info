@@ -23,7 +23,7 @@ _Springen zu:_ [1940er](#c1940) [1950er](#c1950)   [1960er](#c1960)   [1970er](#
 
 #### 1949 <a name="c1940"></a>
 
-Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [Sic] Congress, Basle, June 29-July 3, 1949 Report, S. 37–38. Basel: Bärenreiter, 1951.
+Albrecht, Hans: Zur Frage eines neuen Quellenlexikons, in: Société Internationale de Musicologie, Quatrième Congrès, Bale, 29 Juin au 3 Juillet 1949. Compte Rendu. Internationale Gesellschaft Für Musikwissenschaft, Vierter Kongress, Basel, 29. Juni Bis 3. Juli 1949, Kongressbericht. International Musicological Society, Forth [sic] Congress, Basle, June 29-July 3, 1949 Report, S. 37–38. Basel: Bärenreiter, 1951.
 
 Fleischer, Herbert: Florenz, in: Stimmen: Monatsblätter für Musik 18 (1949), S. 523-524.
 
@@ -780,7 +780,7 @@ Herrmann-Schneider, Hildegard: Throwing Some Light on the History of Verdi and W
 
 Hofmann, Anke und Barbara Wiermann: Customizing Music Discovery Services: Experiences at the Hochschule für Musik und Theater, Leipzig, in: Music Reference Services Quarterly 17, no. 2 (2014), S. 61–75. [Online verfügbar](https://doi.org/10.1080/10588167.2014.904699){:target="_blank"}.
 
-Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36. [Online verfügbar](https://doi.org/10.13141/fmb.v20143715){:target="_blank"}
+Janitzek, Kerstin: Klassische Musik aus Irland: Die grüne Insel als Zeichen der fruchtbaren Zusammenarbeit zwischen RISM und den Jungen Sinfonikern Frankfurt, in: Forum Musikbibliothek 35 (2014), S. 34-36. [Online verfügbar](https://doi.org/10.13141/fmb.v2014){:target="_blank"}
 
 Kaiser, Stefan Ikarus: Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs, in: Forum Musikbibliothek 35 (2014), S. 7-16. [Online verfügbar](https://doi.org/10.13141/fmb.v2014348){:target="_blank"}
 
@@ -818,7 +818,7 @@ Nägele, Reiner: FID Musikwissenschaft an der Bayerischen Staatsbibliothek, in: 
 
 Pugin, Laurent und Rodolfo Zitellini: Verovio: A Library for Typesetting MEI, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 136-141. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
-Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in: Forum Musikbibliothek 36 (2015), S. 20-26. [Online verfügbar](https://doi.org/10.13141/fmb.v2015393){:target="_blank"}  
+Richts, Kristina und Irmlind Capelle: Kontextuelle Tiefenerschließung von Musikalienbeständen mit MEI und TEI. Einblicke in das Detmolder Hoftheater-Projekt, in: Forum Musikbibliothek 36 (2015), S. 20-26. [Online verfügbar](https://doi.org/10.13141/fmb.v2015){:target="_blank"}  
   
 Rizo, David und José M. Iñesta: A Grammar for Plaine and Easie Code, in:Music Encoding Conference Proceedings, 2013 and 2014, hrsg. v. Perry Roland und Johannes Kepper, Charlottesville und Detmold: Music Encoding Initiative, 2015, S. 54-64. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bvb:12-babs2-0000007812){:target="_blank"}
 
@@ -1058,11 +1058,17 @@ Richts-Matthaei, Kristina und Irmlind Capelle: United, Linked, Connected – A D
 
 Clermont, Susan: Anthologies of Musical Works in Print and Manuscript from the 15th-17th Centuries in the Library of Congress Music Division. Washington, D.C.: Library of Congress, 2023. [Online verfügbar](https://guides.loc.gov/music-anthologies/anthologies-bibliography){blank}.
 
+Floyd, David: Making Decisions When Cataloging Bound-with Books, in: NASIG Proceedings 38 (2023), S. 93-106. [Online verfügbar](https://doi.org/10.3998/nasig.6735){:blank}   
+
+Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music Conference in Munich, in: Early Music 51 (2023), no. 4, S. 636–638. [Online verfügbar](https://doi.org/10.1093/em/caad058){:blank}
+
 #### 2024
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
 
-Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank}    
+Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
+
+Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
 
 "Updating RISM Series C." Briefs/Feuilletons, in: Fontes Artis Musicae 71 (2024), S. 162. [Online verfügbar](https://muse.jhu.edu/pub/287/article/936315){:blank}. Auch erschienen in Notes 81 (2024), S. 87-88. [Online verfügbar](https://muse.jhu.edu/pub/7/article/934841){:blank}
 
