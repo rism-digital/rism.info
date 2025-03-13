@@ -20,7 +20,7 @@ Ein wichtiger Bestandteil dieser Integrationsarbeit war die Angleichung der Exem
 
 Die Ergebnisse einer [Suche nach „Antiphoner“](https://rism.online/search?q=Antiphoner&amp;mode=sources&amp;page=1&amp;rows=20){:blank} in RISM Online zeigen, wie die Cantus-Datenbank integriert ist.
 
-Siehe den Datensatz für [CDN-Mlr, The Humanities and Social Sciences Library at McGill University](https://rism.online/institutions/30006518/sources){:blank} zur Einbindung der besitzenden Institution.
+Siehe den Datensatz für [CDN-Mrb, Rare Books and Special Collections at McGill University](https://rism.online/institutions/51006283/sources){:blank} zur Einbindung der besitzenden Institution.
 
 ## Query Builder und verbesserte Stichwortsuche
 
