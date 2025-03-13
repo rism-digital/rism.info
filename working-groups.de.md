@@ -378,7 +378,7 @@ Musikarchiv\
 Linzer Strasse 4\
 A-4073 Wilhering\
 Telefon: +43 7226 2311 51 (nachmittags) oder +43 664 8708641\
-E-Mail: [musikarchiv@stiftwilhering.at](mailto:musikarchiv@stiftwilhering.at)\
+E-Mail: musikarchiv[@]stiftwilhering.at\
 Webseite: [http://stiftwilhering.at/kultur/musikarchiv/](http://stiftwilhering.at/kultur/musikarchiv/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/austria/wilhering/home.html](/working-groups/austria/wilhering/home.html){:blank}
 
