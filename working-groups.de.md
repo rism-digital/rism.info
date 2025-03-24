@@ -616,7 +616,7 @@ Webseite: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
 
 ## UKRAINE
 
-Larisa Ivchenko\
+Larissa Ivchenko\
 Vernadsky National Library of Ukraine\
 Music Department\
 62, Volodimirska Str.\
