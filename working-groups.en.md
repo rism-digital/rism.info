@@ -637,7 +637,7 @@ Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){
 
 ## UKRAINE
 
-Larisa Ivchenko\
+Larissa Ivchenko\
 Vernadsky National Library of Ukraine\
 Music Department\
 62, Volodimirska Str.\
