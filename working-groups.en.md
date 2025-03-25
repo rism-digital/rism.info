@@ -213,17 +213,15 @@ Website: [https://info.hazu.hr](https://info.hazu.hr/){:target="_blank"}
 
 ## CZECH REPUBLIC
 
-Zuzana Petrášková\
-Email: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
-Eliška Šedivá  
-Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)  
-Národní knihovna České republiky\
+Eliška Šedivá\
+Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)\
+Ludmila Šmídová\
+Email: [ludmila.smidova@nkp.cz](mailto:ludmila.smidova@nkp.cz)\
+Národní knihovna české republiky\
 Hudební oddělení\
-Klementinum 190\
-11001 Praha 1\
-Telephone: +420 221663129\
-Fax: +420 222220370\
-Website: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
+Mariánské náměstí 190/5\
+11000 Praha 1\
+Website: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){:target="_blank"}
 
 ## DENMARK
 
@@ -607,6 +605,18 @@ Email: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
 
+Teresa Rodríguez Gonzalez\
+Departamento de Música y Audiovisuales\
+Biblioteca Nacional de España\
+Paseo de Recoletos, 20-22\
+Madrid 28071\
+Telephone: + 34 91 5807734\
+Email: [teresa.rodriguez@bne.es](teresa.rodriguez@bne.es)\
+Website (National Library of Spain): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
+Website (music collection): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
+Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
+Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}
+
 ## SWEDEN
 
 Marina Demina\
@@ -637,7 +647,7 @@ Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){
 
 ## UKRAINE
 
-Larisa Ivchenko\
+Larissa Ivchenko\
 Vernadsky National Library of Ukraine\
 Music Department\
 62, Volodimirska Str.\
