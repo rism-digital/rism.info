@@ -584,17 +584,17 @@ E-Mail: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Webseite: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 Siehe auch: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
 
-Teresa Rodríguez Gonzalez
-Departamento de Música y Audiovisuales
-Biblioteca Nacional de España
-Paseo de Recoletos, 20-22
-Madrid 28071
-Tel: + 34 91 5807734
-E-Mail: [teresa.rodriguez@bne.es](teresa.rodriguez@bne.es)
-Webseite (Nationalbibliothek): [https://www.bne.es/en](https://www.bne.es/en){blank:}
-Webseite (Musiksammlung): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){blank:}
-Webseite (Katalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){blank:}
-Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){blank:}
+Teresa Rodríguez Gonzalez\
+Departamento de Música y Audiovisuales\
+Biblioteca Nacional de España\
+Paseo de Recoletos, 20-22\
+Madrid 28071\
+Tel: + 34 91 5807734\
+E-Mail: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
+Webseite (Nationalbibliothek): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
+Webseite (Musiksammlung): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
+Webseite (Katalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
+Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}\
 
 
 ## SÜDKOREA
@@ -615,15 +615,15 @@ Siehe auch: [https://www.rism.info/working-groups/korea/home.html](/working-grou
 
 ## TSCHECHISCHE REPUBLIK
 
-Eliška Šedivá  
-E-Mail: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)  
-Ludmila Šmídová
-E-Mail: [ludmila.smidova@nkp.cz](mailto:ludmila.smidova@nkp.cz)
+Eliška Šedivá\
+E-Mail: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)\
+Ludmila Šmídová\
+E-Mail: [ludmila.smidova@nkp.cz](mailto:ludmila.smidova@nkp.cz)\
 Národní knihovna české republiky\
 Hudební oddělení\
-Mariánské náměstí 190/5
+Mariánské náměstí 190/5\
 11000 Praha 1\
-Webseite: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){blank:}
+Webseite: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){:target="_blank"}\
 
 ## UKRAINE
 
