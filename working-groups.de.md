@@ -594,7 +594,7 @@ E-Mail: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
 Webseite (Nationalbibliothek): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
 Webseite (Musiksammlung): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
 Webseite (Katalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
-Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}\
+Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}
 
 
 ## SÜDKOREA
@@ -623,7 +623,7 @@ Národní knihovna české republiky\
 Hudební oddělení\
 Mariánské náměstí 190/5\
 11000 Praha 1\
-Webseite: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){:target="_blank"}\
+Webseite: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){:target="_blank"}
 
 ## UKRAINE
 
