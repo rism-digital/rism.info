@@ -241,8 +241,8 @@ Eesti Rahvusraamatukogu\
 Tõnismägi 2\
 15189 Tallinn\
 Telephone: 6307 159\
-Email: [heidi@nlib.ee](mailto:heidi@nlib.ee)\
-Website: [www.nlib.ee](http://www.nlib.ee){:target="_blank"}
+Email: [heidi.heinmaa@rara.ee](mailto:heidi.heinmaa@rara.ee)\
+Website: [https://www.rara.ee/](https://www.rara.ee/){:target="_blank"}
 
 ## FINLAND
 
