@@ -35,7 +35,7 @@ See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/wo
 Website: [https://salzburg.rism.info/index.html](https://salzburg.rism.info/index.html){:blank}  
 
 MMag. Dr. Eva Neumayr  
-Archiv der Erzdiözese Salzburg, Musiksammlung (and Internationale Stiftung Mozarteum)
+Archiv der Erzdiözese Salzburg, Musiksammlung (and Internationale Stiftung Mozarteum)  
 Kapitelplatz 3  
 A - 5020 Salzburg  
 Telephone: +43 662 8047 1513  
@@ -547,7 +547,7 @@ Rossijskij nacional'nyj muzej muzyki\
 National Music Museum of Russia\
 ul. Fadejeva 4\
 125047 Moscow\
-Telephone: +7 8 (495) 605-65-15 (ext. 1117)
+Telephone: +7 8 (495) 605-65-15 (ext. 1117)  
 Email: [international@glinka.museum](mailto:international@glinka.museum)\
 Website: [https://music-museum.ru/](https://music-museum.ru/){:target="_blank"}
 
@@ -586,7 +586,7 @@ Ewha Womans University\
 Seoul 120-750\
 South Korea\
 Telephone: +82 3277 2439\
-Email: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
+Email: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) / [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
 Website: [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/korea/home.html](/working-groups/korea/home.html){:blank}
 
