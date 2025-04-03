@@ -346,12 +346,12 @@ Siehe auch: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/
 #### RISM Arbeitsgruppe Salzburg
 Webseite: [https://salzburg.rism.info/de/index.html](https://salzburg.rism.info/de/index.html){:blank}
 
-MMag. Dr. Eva Neumayr\  
-Archiv der Erzdiözese Salzburg, Musiksammlung (und Internationale Stiftung Mozarteum)\
-Kapitelplatz 3\  
-A - 5020 Salzburg\  
-Telefon: +43 662 8047 1513\  
-E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)\  
+MMag. Dr. Eva Neumayr  
+Archiv der Erzdiözese Salzburg, Musiksammlung (und Internationale Stiftung Mozarteum)
+Kapitelplatz 3  
+A - 5020 Salzburg  
+Telefon: +43 662 8047 1513  
+E-Mail: [eva.neumayr@eds.at](mailto:eva.neumayr@eds.at)  
 Webseite: [https://eds.at/archiv](https://eds.at/archiv/home){:blank}
 
 Dr. Armin Brinzing\
@@ -604,7 +604,7 @@ Prof. Dr. Eun-Ha Kim\
 Music Research Institute\
 College of Music\
 Ewha Womans University\
-11-1 Daehyun-dong Seodaemun-gu,\
+11-1 Daehyun-dong Seodaemun-gu\
 Seoul 120-750\
 Südkorea\
 Telefon: +82 3277 2439\
