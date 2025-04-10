@@ -10,7 +10,7 @@ email: 'haider-dechant@woelflhaus.de'
 author: 'Margit Haider-Dechant'
 ---
 
-A catalog of Joseph Woelfl’s works, listing no fewer than 620 compositions, was first published in 2011 (RISM short title: HaiW ([RISM Catalog](https://opac.rism.info/rism/Search/Results?type=AllFields&lookfor=lit30026255){:blank} \| [RISM Online](https://rism.online/search?q=HaiW&mode=sources&page=1&rows=20){:blank}). Its second edition will be made available online at the end of 2025, as well as in print the following year. 
+A catalog of Joseph Woelfl’s works, listing no fewer than 620 compositions, was first published in 2011 (RISM short title: HaiW - [RISM Catalog](https://opac.rism.info/rism/Search/Results?type=AllFields&lookfor=lit30026255){:blank} \| [RISM Online](https://rism.online/search?q=HaiW&mode=sources&page=1&rows=20){:blank}). Its second edition will be made available online at the end of 2025, as well as in print the following year. 
 
 In 2022, Susanna Kilian and Margit Haider-Dechant were trained at the RISM Editorial Center in Frankfurt am Main, and has since been entering all extant and available Woelfl compositions into the RISM database ([RISM Catalog](https://opac.rism.info/rism/Search/Results?type=AllFields&lookfor=pe146298){:blank} \| [RISM Online](https://rism.online/people/146298){:blank}). Each new record is also double checked by the staff of the Editorial Center. Thanks to the excellent cooperation, this major project should be completed by the end of June 2025.
 
