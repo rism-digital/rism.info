@@ -10,6 +10,8 @@ old_url: http://www.rism.info/en/publications/iaml-congresses.html
 
 For more information about RISM at annual [IAML congresses](https://www.iaml.info/congresses){:blank}, please select a year:  
 
+[2025 (Salzburg)](/publications/iaml-congresses/2025.html)  
+
 [2024 (Stellenbosch)](/publications/iaml-congresses/2024.html)  
 
 [2023 (Cambridge)](/publications/iaml-congresses/2023.html)

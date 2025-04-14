@@ -15,6 +15,10 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
+### Salzburg, Austria  (IAML Congress)  
+
+A two-part Muscat training session will be held on 8 July 2025 during the IAML Congress in Salzburg. Please see [our IAML Salzburg page](/publications/iaml-congresses/2025.html) for details, including registration information.
+
 ### Introduction to Muscat  
 
 The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
