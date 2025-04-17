@@ -32,7 +32,7 @@ Hirsch floh 1936 aus Nazi-Deutschland und ließ sich in Cambridge nieder. Im Jah
 
 Mehr zu Hirschs musikalischen Interessen und Highlights seiner Sammlung im [Music Blog der British Library](https://blogs.bl.uk/music/?_gl=1*1ci0el1*_ga*MTkyNzcxMzUzOC4xNzQxNzc5MzYx*_ga_B8DBRB95KV*MTc0NDc5MzY1Ny42LjEuMTc0NDc5NDYwMS4yOC4wLjA.){:blank}.
 
-[1] Einen Überblick über die Sammlung gibt Alec Hyatt King, _Paul Hirsch and his Music Library_, British Library Journal, 7/1 (1981), pp. 1-11. [Available online](https://bl.iro.bl.uk/concern/articles/7122340c-9fd4-4593-ba59-5c23fbf6d375){:blank}
+[1] Einen Überblick über die Sammlung gibt Alec Hyatt King, _Paul Hirsch and his Music Library_, British Library Journal, 7/1 (1981), pp. 1-11. [Online verfügbar](https://bl.iro.bl.uk/concern/articles/7122340c-9fd4-4593-ba59-5c23fbf6d375){:blank}
 
 [2] Paul Hirsch und Kathi Meyer-Baer, _Katalog der Musikbibliothek Paul Hirsch_ (vols 1-3, Berlin: M. Breslauer, 1928-1936; vol 4, Cambridge: Cambridge University Press, 1947).
 
