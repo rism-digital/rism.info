@@ -11,6 +11,13 @@ Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der ei
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
+## Nächster Workshop  
+
+### Salzburg, Österreich (IAML-Kongress)  
+
+Ein zweiteiliger Muscat-Workshop wird am 8. Juli 2025 während des IAML-Kongresses in Salzburg stattfinden. Details, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML-Salzburg-Seite](/publications\/iaml-congresses\/2025.html).
+
+
 #### Online  
 
 Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
