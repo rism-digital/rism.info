@@ -7,7 +7,7 @@ permalink: /community/how-to-cite-rism.html
 
 # How to Cite RISM    
 
-Citing RISM and other musical sources
+**Citing RISM and other musical sources**
 
 Many publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historic music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians when citing musical sources, including those found in the RISM database. Following our guidelines will help reduce ambiguity in your citations. Clearly identifying the item will also help the RISM Editorial Center find it quicker in our database, enabling us to cite your research in our records or respond to user queries.  
 
@@ -42,13 +42,13 @@ Use permalinks when linking to RISM in electronic publications.
 
 In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, the permalink can be found at the top of a record's page on the left under **Copy Permanent Link**.  
 
-**https://opac.rism.info/search?id=450031804&View=rism**
+Example: https://opac.rism.info/search?id=450031804&View=rism  
 
 Note that the URLs that appear in your browser’s address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see “How to link to a record or a search” on the [catalog’s help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}.  
 
 In [RISM Online](https://rism.online/){:blank}, the permalink can be found at the bottom of a record's page on the left and is labeled **Record URI (Permalink)**. The same permalink is in your browser's address bar. The URLs for search strings in RISM Online are stable and can be taken directly from your browser’s address bar.  
 
-**https://rism.online/sources/450031804**  
+Example: https://rism.online/sources/450031804    
 
 For those working with RISM Online in the linked data environment, make sure to include the record type (sources, people, institutions) in the identifier:
 - sources/450031804
@@ -72,9 +72,23 @@ RISM's preference is to cite the RISM ID number rather than the A/I or B book nu
 
 ## Citation examples  
 
-A citation that follows the _Chicago Manual of Style_ for a printed book in a footnote but incorporates all of the above information would therefore look like this:
+The examples here follow the _Chicago Manual of Style_ for footnotes and incorporate the information discussed above.
 
-Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) D.39 (A/I: C 2; RISM ID no. 990007800).
+Manuscripts not in RISM:  
+- Louise Farrenc, "Le Pêcheur Catalan" [1831?], Bibliothèque nationale de France, Département de la Musique (F-Pn) VM7-25919.
+
+Manuscripts in RISM:  
+- Fanny Hensel, "Der Fürst vom Berge," 1841, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung (D-B) MA Ms. 163 (16). RISM ID no. 462016316.       
+- Francis	Johnson, "Colonel Child's march," in "Collection of marches, arranged opera excerpts, overture and waltz" [ca. 1830-1875], Moravian Music Foundation, Archie K. Davis Center (US-WS) SCM [446].8 Salem ms. RISM ID no. 240081.    
+- Luigi Cherubini, "Cours de Composition" [ca. 1810-1835], Stiftelsen Musikkulturens främjande, Stockholm (S-Smf) MMS394. RISM ID no. 1001228429.  
+
+Printed books in RISM:  
+_To refer to an edition_  
+- Thomas Commuck, _Indian melodies_ (G. Lane & C. B. Tippett, 1845). RISM ID no. 1001252875.  
+- Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). RISM ID no. 990007800; RISM A/I: C 2.  
+
+_To refer to a specific copy_  
+- Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) D.39. RISM ID no. 990007800; RISM A/I: C 2.
 
 ## And for everyone…  
 

@@ -15,6 +15,11 @@
             fr: A propos
           link: "/community/sigla/about.html"
     - name:
+        en: How to Cite RISM
+        de: How to Cite RISM
+        fr: How to Cite RISM
+      link: "/community/how-to-cite-rism.html"
+    - name:
         en: Muscat
         de: Muscat
         fr: Muscat
