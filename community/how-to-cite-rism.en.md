@@ -11,7 +11,7 @@ permalink: /community/how-to-cite-rism.html
 
 Many publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historic music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians when citing musical sources, including those found in the RISM database. Following our guidelines will help reduce ambiguity in your citations. Clearly identifying the item will also help the RISM Editorial Center find it quicker in our database, enabling us to cite your research in our records or respond to user queries.  
 
-This page outlines RISM's recommendations for citing music manuscripts and printed editions. We also outline here best practices in linking online publications, citing RISM in library records, and citing A/I and B numbers.  
+This page outlines RISM's recommendations for citing music manuscripts and printed editions. We also outline here best practices when linking online publications, citing RISM in library records, and citing A/I and B numbers.  
 
 ## Citing musical sources  
 
@@ -19,7 +19,7 @@ Your style guide will tell you how to generally cite historical published music 
 
 ### Institution and shelfmark  
 
-Use [RISM library sigla](/community/sigla.html). This saves space in your publication and avoids ambiguity if institutions have similar names. If we do not yet have a siglum for an institution you need, please contact us and we will create one for you. Cite the shelfmark as given by the library.  
+Use [RISM library sigla](/community/sigla.html). This saves space in your publication and avoids ambiguity if institutions have similar names. If we do not yet have a siglum for an institution you need, contact us and we will create one for you. Cite the shelfmark as given by the library.  
 
 ### RISM ID number  
 
@@ -29,7 +29,8 @@ In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, thi
 
 In [RISM Online](https://rism.online/){:blank}, this number appears in the section "Title and content description."  
 
-The RISM number can be between five and ten digits long. Here are some examples of RISM ID numbers:  
+The RISM number can be between five and ten digits long.
+_Examples:_   
 - 51780  
 - 115688  
 - 230009947  
@@ -42,27 +43,29 @@ Use permalinks when linking to RISM in electronic publications.
 
 In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, the permalink can be found at the top of a record's page on the left under **Copy Permanent Link**.  
 
-Example: https://opac.rism.info/search?id=450031804&View=rism  
+Example: [https://opac.rism.info/search?id=450031804&View=rism](https://opac.rism.info/search?id=450031804&View=rism){:blank}  
 
-Note that the URLs that appear in your browser’s address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), please see “How to link to a record or a search” on the [catalog’s help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}.  
+Note that the URLs that appear in your browser’s address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), see “How to link to a record or a search” on the [catalog’s help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}.  
 
-In [RISM Online](https://rism.online/){:blank}, the permalink can be found at the bottom of a record's page on the left and is labeled **Record URI (Permalink)**. The same permalink is in your browser's address bar. The URLs for search strings in RISM Online are stable and can be taken directly from your browser’s address bar.  
+In [RISM Online](https://rism.online/){:blank}, the permalink can be found at the bottom of a record's page on the left and is labeled **Record URI (Permalink)**. The same permalink is in your browser's address bar. The URLs for searches in RISM Online are stable and can be taken directly from your browser’s address bar.  
 
-Example: https://rism.online/sources/450031804    
+Example: [https://rism.online/sources/450031804](https://rism.online/sources/450031804){:blank}    
 
-For those working with RISM Online in the linked data environment, make sure to include the record type (sources, people, institutions) in the identifier:
+For those working with RISM Online in the linked data environment, make sure to include the record type (sources, people, institutions) in the identifier.  
+_Examples:_  
 - sources/450031804
 - people/30009233
 - institutions/30000848
 
 ## Cataloging tools for librarians  
 
-For information about citing RISM in MARC21 records, please refer to our RISM for Libraries page under [Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools). There you will also find a _Table of RISM Citation Styles_ that covers A/I, every volume in the B series, and the online database.  
+For information about citing RISM in MARC21 records, refer to our RISM for Libraries page under [Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools). There you will also find a "Table of RISM Citation Styles" that covers A/I, every volume in the B series, and the online database.  
 
 ## A/I and B numbers  
 
-RISM's printed catalogs in series A/I ([_Individual Prints before 1800_](/publications.html#series-a-inventories-of-musical-sources)), B/I ([printed anthologies, 16th and 17th centuries](/publications.html#series-b-bibliographies-organized-by-topic)), and other catalogs in the B series have identifiers that were created for the catalogs. In the RISM database, the book identifiers are included in the records. In the RISM Catalog, they can be found in the field "RISM series." In RISM Online, the field is called "Series statement fields."
-Examples:  
+RISM's printed catalogs in series A/I ([_Individual Prints before 1800_](/publications.html#series-a-inventories-of-musical-sources)), B/I ([printed anthologies, 16th and 17th centuries](/publications.html#series-b-bibliographies-organized-by-topic)), and other catalogs in the B series have identifiers that were created for the catalogs. In the RISM database, the book identifiers are included in the records. In the RISM Catalog, they can be found in the field "RISM series." In RISM Online, the field is called "Series statement fields."  
+_Examples:_    
+
 - RISM A/I: S 6989  
 - RISM A/I: HH 6429a  
 - RISM B/I: 1546/23  
@@ -92,4 +95,4 @@ _To refer to a specific copy_
 
 ## And for everyone…  
 
-If you have any comments about a record that you would like to cite in a publication, you can send us your feedback through our [Feedback form](/service/feedback.html), through any record in the RISM Catalog ("Send a comment on this record" on the left-hand side of the record) or RISM Online ("Report an issue" at the bottom of the record).  
+If you have any comments about a record that you would like to cite in a publication, you can send us your feedback through our [Feedback form](/service/feedback.html), or through any record in the RISM Catalog ("Send a comment on this record" on the left-hand side of the record) or RISM Online ("Report an issue" at the bottom of the record).  
