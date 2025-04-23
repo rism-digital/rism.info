@@ -15,7 +15,7 @@ We were saddened to hear of the death of our dear colleague Prof. Dr. Hab. Danut
 
 Prof. Szlagwoska had been a member of the RISM Poland working group in Gdańsk since 1997. Through her extensive documentation work there, she contributed immensely to the success of RISM in Poland.
 
-Danuta Szlagowska was a musicologist and pedagogue who was highly esteemed by her colleagues. She had taught conducting, composition and music theory at the Gdańsk Stanisław Moniuszko Music Academy since 1976. She was vice rector of the the Institute of Music Theory there from 2008 to 2016. She also taught at the Feliks Nowowiejski Academy of Music in Bydgoszcz from 1993 to 2003 and at the Fryderyk Chopin University of Music in Warsaw from 2008 to 2014.
+Danuta Szlagowska was a musicologist and pedagogue who was highly esteemed by her colleagues. She had taught conducting, composition and music theory at the Gdańsk Stanisław Moniuszko Music Academy since 1976. She was vice rector of the Institute of Music Theory there from 2008 to 2016. She also taught at the Feliks Nowowiejski Academy of Music in Bydgoszcz from 1993 to 2003 and at the Fryderyk Chopin University of Music in Warsaw from 2008 to 2014.
 
 After studying musicology and psychology, Prof. Szlagwoska received her doctorate in 1976 with a dissertation on perceptual psychology and learning melodies (“Efektywność uczenia się melodii w zależności od rodzaju i liczby analizatorów zaangażowanych w procesie percepcji”) at the Institute of Psychology at the University of Warsaw before dedicating herself to working with musical sources at her new place of work in Gdańsk. Until the end of her life, she studied the music history of that city, the musical sources found there, and the compositions written in Gdańsk.
 

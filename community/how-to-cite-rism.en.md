@@ -15,7 +15,7 @@ This page outlines RISM's recommendations for citing music manuscripts and print
 
 ## Citing musical sources  
 
-Your style guide will tell you how to generally cite historical published music editions or unpublished material such as manuscripts. For people in the field of source studies, including us at RISM, identifying the exact item and specific holding institution is important. We encourage writers to include the **RISM siglum of the institution where the item is preserved** and the **shelfmark**. If the item is in the RISM database, also include the **RISM ID number**.  
+Your style guide will tell you how to generally cite historical published music editions or unpublished material such as manuscripts. For people in the field of source studies, including us at RISM, identifying the exact item and specific holding institution is crucial. We encourage writers to include the **RISM siglum of the institution where the item is preserved** and the **shelfmark**. If the item is in the RISM database, also include the **RISM ID number**.  
 
 ### Institution and shelfmark  
 
@@ -27,9 +27,9 @@ To cite musical sources that have records in the RISM database, use the RISM ID 
 
 In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, this number appears in the bottom right-hand corner of a record.
 
-In [RISM Online](https://rism.online/){:blank}, this number appears in the section "Title and content description."  
+In [RISM Online](https://rism.online/){:blank}, this number appears in the first section, "Title and content description."  
 
-The RISM number can be between five and ten digits long.
+The RISM number can be between five and ten digits long.  
 _Examples:_   
 - 51780  
 - 115688  
@@ -43,15 +43,18 @@ Use permalinks when linking to RISM in electronic publications.
 
 In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, the permalink can be found at the top of a record's page on the left under **Copy Permanent Link**.  
 
-Example: [https://opac.rism.info/search?id=450031804&View=rism](https://opac.rism.info/search?id=450031804&View=rism){:blank}  
+_Example:_  
+[https://opac.rism.info/search?id=450031804&View=rism](https://opac.rism.info/search?id=450031804&View=rism){:blank}  
 
-Note that the URLs that appear in your browser’s address bar are not stable. To create stable URLs for specific searches (such as all pieces by a certain composer), see “How to link to a record or a search” on the [catalog’s help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}.  
+Note that in the RISM Catalog the URLs that appear in your browser’s address bar are not stable and cannot be used in citations. To create stable URLs for specific searches (such as all pieces by a certain composer), see “How to link to a record or a search” on the [catalog’s help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}.  
 
-In [RISM Online](https://rism.online/){:blank}, the permalink can be found at the bottom of a record's page on the left and is labeled **Record URI (Permalink)**. The same permalink is in your browser's address bar. The URLs for searches in RISM Online are stable and can be taken directly from your browser’s address bar.  
+In [RISM Online](https://rism.online/){:blank}, the permalink can be found at the bottom of a record's page on the left and is labeled **Record URI (Permalink)**. The same permalink also appears in your browser's address bar. Furthermore, the URLs for searches in RISM Online are stable and can be copied directly from your browser’s address bar.  
 
-Example: [https://rism.online/sources/450031804](https://rism.online/sources/450031804){:blank}    
+_Example:_  
+[https://rism.online/sources/450031804](https://rism.online/sources/450031804){:blank}    
 
-For those working with RISM Online in the linked data environment, make sure to include the record type (sources, people, institutions) in the identifier.  
+For those working with in the linked data environment, note that the record type (sources, people, institutions) forms an inseparable part of the identifier in this context.  
+
 _Examples:_  
 - sources/450031804
 - people/30009233
@@ -64,6 +67,7 @@ For information about citing RISM in MARC21 records, refer to our RISM for Libra
 ## A/I and B numbers  
 
 RISM's printed catalogs in series A/I ([_Individual Prints before 1800_](/publications.html#series-a-inventories-of-musical-sources)), B/I ([printed anthologies, 16th and 17th centuries](/publications.html#series-b-bibliographies-organized-by-topic)), and other catalogs in the B series have identifiers that were created for the catalogs. In the RISM database, the book identifiers are included in the records. In the RISM Catalog, they can be found in the field "RISM series." In RISM Online, the field is called "Series statement fields."  
+
 _Examples:_    
 
 - RISM A/I: S 6989  
@@ -71,7 +75,7 @@ _Examples:_
 - RISM B/I: 1546/23  
 
 In A/I, note the space between the initial letter(s) and numbers. In B/I, use a forward slash to separate the year from the sequential number.
-RISM's preference is to cite the RISM ID number rather than the A/I or B book numbers. The A/I and B/I numbering systems were only used in the books and are not continued for new records in RISM. Some records have numbers from both A/I and B/I, and some A/I numbers refer to multiple, distinct editions. If you cite the A/I or B number, also include the RISM ID number.  
+RISM's preference is to cite the RISM ID number rather than the A/I or B book numbers. The A/I and B/I numbering systems were only used in the books and are not continued for new records in the RISM database. Some records have numbers from both A/I and B/I, and some A/I numbers refer to multiple, distinct editions. If you cite the A/I or B number, make sure to also include the RISM ID number.  
 
 ## Citation examples  
 
