@@ -10,6 +10,8 @@ email: ''
 author: ''
 ---
 
+_Please visit the updated page, [How to Cite RISM](/community/how-to-cite-rism.html)._   
+
 Most publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historical music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians to ensure that everyone knows what musical source you are talking about. Clearly identifying the item will also help RISM find the item quicker, enabling us to cite your research in our records.  
 
 Your style guide will tell you how to generally cite historical published music editions or unpublished material such as manuscripts. For people in the field of source studies, including us at RISM, identifying the exact item and specific holding institution is important. We encourage researchers to additionally include the **institution where the item is preserved** and the **shelfmark**. If the item is in the RISM online catalog, also include the **RISM ID number**.  
