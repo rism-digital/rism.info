@@ -10,6 +10,8 @@ email: ''
 author: ''
 ---
 
+_Bitte besuchen Sie die aktualisierte Seite [RISM zitieren](/community/how-to-cite-rism.html)._  
+
 Die meisten Veröffentlichungen, ob online oder in gedruckter Form, verwenden ihre eigenen Editionsrichtlinien. Diese Zitierweisen erfassen jedoch häufig nicht die Nuancen historischer Musikmanuskripte und gedruckter Ausgaben, so dass es schwierig ist, den Gegenstand mit absoluter Klarheit zu identifizieren. RISM hat Empfehlungen für Forscher und Bibliothekare, um sicherzustellen, dass jeder weiß, um welche Musikquelle es sich handelt. Die eindeutige Identifizierung des Objekts hilft RISM auch, das Objekt schneller zu finden, so dass wir Ihre Forschung in unseren Unterlagen zitieren können. 
 
 In diesem Leitfaden finden Sie Hinweise darauf, wie Sie historische Musikdrucke oder unveröffentlichtes Material wie z. B. ein Manuskript zitieren. Für Quellenforscher, zu denen auch wir am RISM gehören, ist es wichtig, das genaue Objekt und die jeweilige Institution, in der es aufbewahrt wird, anzugeben. Wir empfehlen den Forschern, zusätzlich die **Institution, in der das Objekt aufbewahrt wird**, und die **Signatur** anzugeben. Wenn das Objekt im RISM-Online-Katalog enthalten ist, geben Sie auch die **RISM ID Nummer** an. 
