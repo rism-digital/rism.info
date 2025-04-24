@@ -15,7 +15,8 @@ Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musi
 - [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html): Suchen Sie nach den RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen oder beantragen Sie ein neues Sigel.  
 - RISM für Forscher (demnächst verfügbar): Tools für Personen, die RISM für Forschung, Wissenschaft, Universitätsprojekte oder Datenanalyse nutzen.    
 - [RISM für Bibliotheken](/organization/rism-for-libraries.html): Dienste für Informationsfachleute zur Unterstützung von Katalogisierung und Metadaten sowie für Auskünfte und Schulungen.  
-- RISM für Musiker (demnächst verfügbar): Ressourcen für Musiker, Interpreten, Dirigenten oder Konzertveranstalter, die bei der Suche nach Originalquellen für Aufführungen behilflich sein können.  
+- RISM für Musiker (demnächst verfügbar): Ressourcen für Musiker, Interpreten, Dirigenten oder Konzertveranstalter, die bei der Suche nach Originalquellen für Aufführungen behilflich sein können.
+- [RISM zitieren](/community/how-to-cite-rism.html): RISM-Empfehlungen für das Zitieren von Musikhandschriften und gedruckten Ausgaben in Publikationen.
 - [Muscat](/community/muscat.html): Informationen für RISM-Mitarbeiterinnen und -Mitarbeiter zu unserem Katalogisierungsprogramm, zu Tutorials und Workshops.  
 - [Dataservice](/community/data-services.html): Möglichkeiten der Verwendung von RISM-Daten in externen Katalogen, Projekten oder Forschungsarbeiten.
 - [Nutzerstudie](/community/survey.html): Von der Zentralredaktion in den Jahren 2014-2015 durchgeführte Untersuchungen über die Nutzer des RISM Catalog.  
