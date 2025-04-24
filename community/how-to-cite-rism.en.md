@@ -29,7 +29,7 @@ In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, thi
 
 In [RISM Online](https://rism.online/){:blank}, this number appears in the first section, "Title and content description."  
 
-The RISM number can be between five and ten digits long.  
+The RISM ID number can be between five and ten digits long.  
 _Examples:_   
 - 51780  
 - 115688  
@@ -92,9 +92,11 @@ Manuscripts in RISM:
 Printed books in RISM:  
 _To refer to an edition_  
 - Thomas Commuck, _Indian melodies_ (G. Lane & C. B. Tippett, 1845). RISM ID no. 1001252875.  
+- Thomas Commuck, "Tallahassee," in _Indian melodies_ (G. Lane & C. B. Tippett, 1845), 109-112. RISM ID no. 1001255724.
 - Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). RISM ID no. 990007800; RISM A/I: C 2.  
 
 _To refer to a specific copy_  
+- Thomas Commuck, _Indian melodies_ (G. Lane & C. B. Tippett, 1845). Columbia University, Butler Library (US-NYcub) 245.2 C73. RISM ID no. 1001252875.
 - Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) D.39. RISM ID no. 990007800; RISM A/I: C 2.
 
 ## And for everyone…  
