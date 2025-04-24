@@ -11,6 +11,8 @@ email: ''
 author: ''
 ---
 
+_Bitte besuchen Sie die aktualisierte Seite [RISM zitieren](/community/how-to-cite-rism.html)._  
+
 Wir freuen uns, wenn Wissenschaftler RISM-Einträge in ihren Publikationen zitieren und zeigen Ihnen, wie dies am einfachsten geht.
 
 **RISM ID Nummer:** Um musikalische Quellen aus dem RISM Online-Katalog zu zitieren, verwenden Sie bitte die RISM ID Nummer. Diese Nummer erscheint in der unteren rechte Ecke eines Eintrags (siehe Abbildung links).
