@@ -53,7 +53,7 @@ In [RISM Online](https://rism.online/){:blank}, the permalink can be found at th
 _Example:_  
 [https://rism.online/sources/450031804](https://rism.online/sources/450031804){:blank}    
 
-For those working with in the linked data environment, note that the record type (sources, people, institutions) forms an inseparable part of the identifier in this context.  
+For those working within the linked data environment, note that the record type (sources, people, institutions) forms an inseparable part of the identifier in this context.  
 
 _Examples:_  
 - sources/450031804
