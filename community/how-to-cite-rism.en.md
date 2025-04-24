@@ -97,7 +97,7 @@ _To refer to an edition_
 
 _To refer to a specific copy_  
 - Thomas Commuck, _Indian melodies_ (G. Lane & C. B. Tippett, 1845). Columbia University, Butler Library (US-NYcub) 245.2 C73. RISM ID no. 1001252875.
-- Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) D.39. RISM ID no. 990007800; RISM A/I: C 2.
+- Francesca Caccini, _Il primo libro delle musiche_ (Zanobi Pignoni, 1618). Biblioteca Estense (I-MOe) MUS.D.0039. RISM ID no. 990007800; RISM A/I: C 2.
 
 ## And for everyone…  
 
