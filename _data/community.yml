@@ -16,7 +16,7 @@
           link: "/community/sigla/about.html"
     - name:
         en: How to Cite RISM
-        de: How to Cite RISM
+        de: RISM zitieren
         fr: How to Cite RISM
       link: "/community/how-to-cite-rism.html"
     - name:
@@ -53,5 +53,5 @@
     - name:
         en: "How Can I Participate in RISM?"
         de: "How Can I Participate in RISM?"
-        fr: "How Can I Participate in RISM?"
+        fr: "Wie kann ich teilnehmen?"
       link: "/community/participate-in-rism.html"
