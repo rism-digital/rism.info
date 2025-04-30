@@ -15,6 +15,11 @@
             fr: A propos
           link: "/community/sigla/about.html"
     - name:
+        en: RISM for Researchers
+        de: RISM for Researchers
+        fr: RISM for Researchers
+      link: "/community/rism-for-researchers.html"
+    - name:
         en: How to Cite RISM
         de: RISM zitieren
         fr: How to Cite RISM
