@@ -10,6 +10,8 @@ email: ''
 author: ''
 ---
 
+_Please visit our updated page, [Finding Unica in the RISM Database](/community/finding-unica-in-rism.html)._  
+
 At the recent [IAML Congress in Cambridge](/publications/iaml-congresses/2023.html) the issue of unica was addressed in diverse contexts. The British Library, for example, expressed an interest in coordinating its digitization projects with other institutions, including internationally, in the hope that new additions to their digital collections could be unique contributions. When speaking of manuscripts unique contributions are essentially guaranteed, but with printed music knowing whether you may own unica – that is, the single known exemplar of any given edition – should prove extremely useful.  
 
 And such knowledge is in fact not simply relevant for digitization projects. At the meeting of the RISM Advisory Council the Library of Congress also wished to learn what printed unica they might have, for these could be prioritized when cataloging their collections for RISM. And rightly so, since it is only the owner of the single surviving exemplar that can provide a detailed description of it. Such situations offer libraries a chance to demonstrate the singular relevance of their collections, and at the same time it implies a sort of moral obligation to provide the wider community with information that only they have access to.  
