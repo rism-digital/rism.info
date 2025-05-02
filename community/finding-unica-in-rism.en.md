@@ -67,7 +67,7 @@ As examples, here are searches for unica by country:
 
 The [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} clusters library sigla in the facets. These are found on the main page of search results, on the left under **Library siglum**.  
 
-If you search for printed editions by library siglum and the results list displays multiple sigla in the facets, that means that other institutions own copies the same editions. Here is what the **Library siglum** facet can look like after searching for printed Händel editions in the British Library (GB-Lbl):  
+If you search for printed editions by library siglum and the you see multiple sigla in the facets, that means that other institutions own copies the same editions. Here is what the **Library siglum** facet can look like after searching for printed Händel editions in the British Library (GB-Lbl):  
 
 {% include image file="/images/community/finding-unica/rism-catalog-sigla-facets.jpg" %}   
 
@@ -75,7 +75,7 @@ If a print has only one institution listed, then it is a unique copy:
 
 {% include image file="/images/community/finding-unica/rism-catalog-unica.jpg" %}  
 
-For prints with multiple sigla listed, you can examine the list to see what editions are unique to your country or region. For example, the RISM database lists around 40 printed editions by William Croft. By looking at the filters (click **more...** then **see all...**), we see where unique copies are by nation: Italy, Ireland, the Netherlands, and Russia, among other countries.  
+For prints with multiple sigla listed, you can examine the list to see what editions are unique to your country or region. For example, the RISM Catalog lists around 40 printed editions by William Croft. By expanding the **Library siglum** filter (click **more...** then **see all...**), we see where unique copies are by nation: Italy, Ireland, the Netherlands, and Russia, among other countries.  
 
 {% include image file="/images/community/finding-unica/unica-by-region.jpg" %}    
 
