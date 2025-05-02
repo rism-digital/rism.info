@@ -67,7 +67,7 @@ As examples, here are searches for unica by country:
 
 The [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} clusters library sigla in the facets. These are found on the main page of search results, on the left under **Library siglum**.  
 
-If you search for printed editions by library siglum and the you see multiple sigla in the facets, that means that other institutions own copies the same editions. Here is what the **Library siglum** facet can look like after searching for printed Händel editions in the British Library (GB-Lbl):  
+If you search for printed editions by library siglum and you see multiple sigla in the facets, that means that other institutions own copies of the same editions. Here is what the **Library siglum** facet can look like after searching for printed Händel editions in the British Library (GB-Lbl):  
 
 {% include image file="/images/community/finding-unica/rism-catalog-sigla-facets.jpg" %}   
 
@@ -79,6 +79,4 @@ For prints with multiple sigla listed, you can examine the list to see what edit
 
 {% include image file="/images/community/finding-unica/unica-by-region.jpg" %}    
 
-A Spanish library can see what Lully editions are found in Spain. A British institution can check whether there are other British libraries with a certain edition by Purcell, or if most of the other holding libraries are outside of the UK.  
-
-Finding material that is rare or unique to your country can help librarians who are planning digitization projects or if they are considering purchases from antiquarian dealers.
+A Spanish library can see what Lully editions are found in Spain. A British institution can check whether there are other British libraries with a certain edition by Purcell, or if most of the other holding libraries are outside of the UK. Finding material that is rare or unique to your country can help librarians who are planning digitization projects or if they are considering purchases from antiquarian dealers.
