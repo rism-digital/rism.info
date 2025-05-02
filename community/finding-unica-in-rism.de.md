@@ -76,10 +76,8 @@ Ist nur eine Institution aufgeführt, handelt es sich um ein Unikat:
 
 {% include image file="/images/community/finding-unica/rism-catalog-unica.jpg" %}  
 
-Bei Drucken mit mehreren Bibliothekssigeln können Sie in der Liste nachsehen, welche Ausgaben nur in Ihrem Land oder Ihrer Region existieren. In der RISM-Datenbank sind beispielsweise etwa 40 Drucke von William Croft verzeichnet. Mit Hilfe der Filter können wir sehen, welche Exemplare in welchem Land einzigartig sind: Italien, Irland, die Niederlande und Russland.  
+Bei Drucken mit mehreren Bibliothekssigeln können Sie in der Liste nachsehen, welche Ausgaben nur in Ihrem Land oder Ihrer Region existieren. Im RISM Catalog sind beispielsweise etwa 40 Drucke von William Croft verzeichnet. Wenn Sie den Filter **Bibliothekssigel** erweitern (klicken Sie auf **Mehr ...** und dann auf **Alle anzeigen ...**), sehen Sie, wo sich die Unikate pro Land befinden: Italien, Irland, die Niederlande und Russland.  
 
 {% include image file="/images/community/finding-unica/unica-by-region.jpg" %}    
 
-Eine spanische Bibliothek kann feststellen, welche Lully-Ausgaben in Spanien vorhanden sind. Eine britische Bibliothek kann recherchieren, ob es andere britische Bibliotheken gibt, die eine bestimmte Purcell-Ausgabe besitzen, oder ob sich die meisten anderen besitzenden Bibliotheken außerhalb des Vereinigten Königreichs befinden.  
-
-Die Suche nach seltenem oder einzigartigem Material in Ihrem Land kann für Bibliothekare hilfreich sein, die Digitalisierungsprojekte planen oder Antiquariatskäufe in Erwägung ziehen.
+Eine spanische Bibliothek kann feststellen, welche Lully-Ausgaben in Spanien vorhanden sind. Eine britische Bibliothek kann recherchieren, ob es andere britische Bibliotheken gibt, die eine bestimmte Purcell-Ausgabe besitzen, oder ob sich die meisten anderen besitzenden Bibliotheken außerhalb des Vereinigten Königreichs befinden. Die Suche nach seltenem oder einzigartigem Material in Ihrem Land kann für Bibliothekare hilfreich sein, die Digitalisierungsprojekte planen oder Antiquariatskäufe in Erwägung ziehen.
