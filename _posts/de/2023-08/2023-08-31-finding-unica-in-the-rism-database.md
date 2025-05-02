@@ -10,6 +10,8 @@ email: ''
 author: ''
 ---
 
+_Bitte besuchen Sie die aktualisierte Seite [Unikate in der RISM-Datenbank suchen](/community/finding-unica-in-rism.html)._  
+
 Auf dem jüngsten [IAML-Kongress in Cambridge](/publications/iaml-congresses/2023.html) wurde die Frage der Unikate in verschiedenen Zusammenhängen angesprochen. So bekundete die British Library ihr Interesse an einer Koordinierung ihrer Digitalisierungsprojekte mit anderen Institutionen, auch auf internationaler Ebene, in der Hoffnung, dass neue Ergänzungen ihrer digitalen Sammlungen einzigartige Beiträge darstellen könnten. Bei Manuskripten sind einmalige Beiträge im Grunde garantiert, aber bei Musikdrucken sollte es sich als äußerst nützlich erweisen, wenn man weiß, ob man ein Unikat - d. h. das einzige bekannte Exemplar einer bestimmten Ausgabe - besitzt.  
 
 Und dieses Wissen ist in der Tat nicht nur für Digitalisierungsprojekte relevant. Bei der Sitzung des RISM Advisory Council wollte auch die Library of Congress erfahren, welche gedruckten Unikate sie besitzt, denn diese könnten bei der Katalogisierung ihrer Sammlungen für RISM vorrangig berücksichtigt werden. Und das zu Recht, denn nur der Besitzer des einzigen erhaltenen Exemplars kann eine detaillierte Beschreibung liefern. Solche Situationen bieten den Bibliotheken die Möglichkeit, die besondere Relevanz ihrer Sammlungen zu demonstrieren, und gleichzeitig ergibt sich daraus eine Art moralische Verpflichtung, der breiteren Öffentlichkeit Informationen zur Verfügung zu stellen, zu denen nur sie Zugang haben.  
