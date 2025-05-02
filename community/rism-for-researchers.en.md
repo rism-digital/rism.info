@@ -11,7 +11,7 @@ RISM has long been the cornerstone of musicological projects. The following page
 
 ## Guides  
 
-- [How to Cite RISM](/community/how-to-cite-rism): RISM’s recommendations for citing music manuscripts and printed editions in publications.    
+- [How to Cite RISM](/community/how-to-cite-rism.html): RISM’s recommendations for citing music manuscripts and printed editions in publications.    
 - [Finding Unica in the RISM Database](/community/finding-unica-in-rism.html): Find out how to find printed editions that are held by only one institution in the RISM database.  
 - [How to use RISM Library Sigla](/community/sigla/about.html): Explanation of RISM’s abbreviations for libraries, archives and collections with historical music holdings  
 - [RISM Catalog help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}  
