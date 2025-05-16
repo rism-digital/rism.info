@@ -1,11 +1,11 @@
 ---
-title: "Wie kann ich teilnehmen?"
+title: "Wie kann ich mich an RISM beteiligen?"
 layout: community
 lang: de
 permalink: /community/participate-in-rism.html
 ---
 
-# Wie kann ich teilnehmen?
+# Wie kann ich mich an RISM beteiligen?
 
 Wir heißen jeden herzlich willkommen, der an den RISM-Projekten teilnehmen möchte. Bitte kontaktieren Sie unsere [nationalen Arbeitsgruppen](/working-groups.html) oder die [Zentralredaktion](/editorial-center.html) für weitere Informationen.
 
