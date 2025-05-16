@@ -611,7 +611,7 @@ Biblioteca Nacional de España\
 Paseo de Recoletos, 20-22\
 Madrid 28071\
 Telephone: + 34 91 5807734\
-Email: [teresa.rodriguez@bne.es](teresa.rodriguez@bne.es)\
+Email: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
 Website (National Library of Spain): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
 Website (music collection): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
 Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\

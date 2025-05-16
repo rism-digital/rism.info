@@ -1095,6 +1095,10 @@ Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer  Fors
 
 Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft_, edited by Thomas Kurtz, Dorothee M. Meister, and Uwe Sander, 189-221. Medienbildung und Gesellschaft 47. Wiesbaden: Springer VS, 2024. [Available online](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}.  
 
+#### 2025  
+
+_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}.    
+
 ##### Notes
 
 You can find out more about the work of RISM from the following publications:
