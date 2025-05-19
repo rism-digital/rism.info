@@ -550,6 +550,8 @@ Gerhard, Anselm and Gabriella Hanke Knaus. "Repertorium Schweizer Komponisten de
 
 Grawe, Hubert. "PC-Datenbanken für die Musikwissenschaft." _Die Musikforschung_. 51:3 (July-September 1998): 319-326. [Available online](https://www.jstor.org/stable/41123125){:target="_blank"}. (See also Keil, 1999.)
 
+Hartmann, Andrea. "Die Richtlinien zur Katalogisierung von Musikhandschriften des Internationalen Quellenlexikons der Musik. Konstruktive Analyse eines speziellen Katalogisierungsregelwerks." Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft 44. Berlin: Institut für Bibliothekswissenschaft der Humboldt-Universität zu Berlin, 1998. [Available online](http://webdoc.sub.gwdg.de/ebook/serien/aw/Berliner_Handreichungen/h44.pdf){:blank}.  
+
 Howard, John B. "Strategies for sorting melodic incipits." In _Melodic Similarity: Concepts, Procedures, and Applications_, edited by Walter B. Hewlett and Eleanor Selfrigde-Field, 129-138. Computing and Musicology 11. Cambridge, Mass.: MIT Press, 1998.
 
 Keil, Klaus. "Die Musikdrucke bei RISM. Vergangenheit - Ausblick." _Forum Musikbibliothek_ 1 (1998): 58-61.
