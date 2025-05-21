@@ -498,13 +498,13 @@ Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
-Isabel Novais Gonçalves \
+Dra. Sílvia Sequeira \
 Área de Música \
 Biblioteca Nacional de Portugal \
 Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
-Telephone: +351 21 798 20 32 \
-Email: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)  \
+Telephone: +351 21 798 20 56 \
+Email: [ssequeira@bnportugal.gov.pt](mailto:ssequeira@bnportugal.gov.pt)  \
 Website: [http://www.bnportugal.gov.pt/](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## ROMANIA
@@ -611,7 +611,7 @@ Biblioteca Nacional de España\
 Paseo de Recoletos, 20-22\
 Madrid 28071\
 Telephone: + 34 91 5807734\
-Email: [teresa.rodriguez@bne.es](teresa.rodriguez@bne.es)\
+Email: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
 Website (National Library of Spain): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
 Website (music collection): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
 Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
