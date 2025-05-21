@@ -463,13 +463,13 @@ Webseite: [https://nifc.pl/en//](https://nifc.pl/en//){:target="_blank"}
 
 ## PORTUGAL
 
-Isabel Novais Gonçalves\
+Dra. Sílvia Sequeira\
 Área de Música\
 Biblioteca Nacional de Portugal\
 Campo Grande, 83\
 1749-081 Lisboa, Portugal\
-Telefon: +351 21 798 20 32\
-E-Mail: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)\
+Telefon: +351 21 798 20 56\
+E-Mail: [ssequeira@bnportugal.gov.pt](mailto:ssequeira@bnportugal.gov.pt)\
 Webseite: [www.bnportugal.gov.pt](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## RUMÄNIEN
