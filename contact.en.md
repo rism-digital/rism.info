@@ -2,7 +2,7 @@
 title: "Feedback"
 layout: service
 lang: en
-permalink: /service/contact.html
+permalink: /contact.html
 old_url: ""
 ---
 
@@ -30,5 +30,13 @@ Germany
 
 Please email us at [contact@rism.info](mailto:contact@rism.info) with any of your inquiries, comments, or suggestions, including:
 - Sigla: If you need a RISM siglum for an institution but you cannot find it in the [Directory of RISM Library Sigla](/community/sigla.html), we will create one for you.
-- Feedback: Send us feedback, additions, or corrections to any record in the [RISM Catalog](https://opac.rism.info/index.php?id=15&L=1){:blank} or [RISM Online](https://rism.online/){:blank}. Make sure to include the RISM ID number. Links to feedback forms are also available from both catalogs through any record.  
-- RISM staff: If you would like to contact a staff member of the RISM Editorial Center, see [the Editorial Center page](/editorial-center.html).
+- Feedback: Send us feedback, additions, or corrections to any record in the [RISM Catalog](https://opac.rism.info/index.php?id=15&L=1){:blank} or [RISM Online](https://rism.online/){:blank}. Make sure to include the RISM ID number.
+
+Links to feedback forms are also available through any record:  
+
+{% include image file="/images/publications/books.jpg" %} 
+"Send a comment on this record" in the RISM Catalog
+
+
+{% include image file="/images/publications/books.jpg" %}
+"Report an issue" in RISM Online
