@@ -1,9 +1,8 @@
 ---
-title: "Feedback"
-layout: service
+title: "Contact RISM"
+layout: contact
 lang: en
 permalink: /contact.html
-old_url: ""
 ---
 
 # Contact RISM  
@@ -34,7 +33,7 @@ Please email us at [contact@rism.info](mailto:contact@rism.info) with any of you
 
 Links to feedback forms are also available through any record:  
 
-{% include image file="/images/publications/books.jpg" %} 
+{% include image file="/images/publications/books.jpg" %}
 "Send a comment on this record" in the RISM Catalog
 
 
