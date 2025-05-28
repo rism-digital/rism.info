@@ -16,7 +16,7 @@ RISM's over 1.4 million records can be searched through two different but comple
 ### RISM Catalog
 {% include image file="/images/publications/opac.png"  %}  
 
-The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.info](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM Catalog.  
+The RISM Catalog can be accessed through the RISM homepage or from [opac.rism.info](https://opac.rism.info){:target="_blank"}. It is made possible through a partnership between the [Bavarian State Library](https://www.bsb-muenchen.de/ "https://www.bsb-muenchen.de/") (Munich), the [State Library of Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), and the RISM Editorial Center. The Bavarian State Library is responsible for the operation and technical implementation of the RISM Catalog.  
 
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}

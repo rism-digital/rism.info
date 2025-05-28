@@ -19,7 +19,7 @@ Last October the second hand and antiquarian music dealer Travis & Emery circula
 
 Both collections I had worked on are in manuscript. One is in the University Library (MS.Add.9324.14) and contains 49 songs, and the other is in the Fitzwilliam Museum (MU.MS.130) and contains a collection of 50 ‘_Canzonette Composte dal Sigr.e Angelo Collonna’_. The second of these is extremely unusual in that very, very few songs in the Venetian dialect are ascribed to any composer even to one as unknown as Angelo Colonna (a spelling found on some minuets by the same composer in the same manuscript, and the usual spelling of this surname). However a search of the RISM database of the first line of the first song in the Travis & Emery manuscript, “La mia Ninetta” (as a phrase in inverted commas) revealed a surprising result:
 
-[https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"}
+[https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"}
 
 (Sorry, no hot links to search results, so copy and paste (including the inverted commas) “La mia Ninetta” into the search box and press return – and have a look at the 16 vocal pieces by Mattia Vento).
 
@@ -50,7 +50,7 @@ The last item in the Cambridge manuscript is the song/aria “Una piccola bambin
 
 The inclusion of the very rare word ‘bambinella’ is rather fortunate, and a quick search of the RISM database brings up only three items, one of which the third is a concordance (with musical incipit) of our aria.
 
-[https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/index.php?id=15&L=1)
+[https://opac.rism.info/metaopac/start.do?View=rism](https://opac.rism.info/metaopac/start.do?View=rism)
 
 (Again no hot link to the search results, so just type _bambinella_ in the search box and press return. Switch to ‘English’ at the top right corner if that helps)
 
