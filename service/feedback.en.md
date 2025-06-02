@@ -6,20 +6,14 @@ permalink: /service/feedback.html
 old_url: http://www.rism.info/service/feedback.html
 ---
 
-# Report a correction
+# Send us your feedback
 
-RISM welcomes any errors, corrections, or addenda that you bring to our attention and we will try to correct them as soon as possible. Please send an e-mail to [contact@rism.info](mailto:contact@rism.info) to let us know if you encounter mistakes or wish to alert us to any issues such as:
+RISM welcomes any feedback, addenda, or corrections that you bring to our attention. Please send an e-mail to [contact@rism.info](mailto:contact@rism.info) and we will be in touch as soon as possible.
 
-* You can identify an anonymous piece
-* You wish to report additional copies of a printed edition
-* Attribution to a composer is incorrect
-* There is a typographical error
-* Other things you would like to point out
+If using our contact address above, make sure to include the ID number of the RISM record you are commenting on. Alternately, each record in the RISM database also has a link to a feedback form:  
+- In the RISM Catalog, you will find "Send a comment on this record" on the left-hand side of each record.
+- In RISM Online, a link called "Report an issue" can be found at the bottom of each record.
 
-For items in the **[RISM online catalog](https://opac.rism.info/metaopac/start.do?View=rism){:blank}**, please include the RISM number (located on the bottom right of the record) and describe the issue as thoroughly as you can. It is helpful when you can point us to evidence such as secondary literature or information in another RISM record.
-
-For items in our **[printed inventories](/publications.html#series-a-inventories-of-musical-sources)**, please include the RISM publication citation, including the B series number plus the identifier or a page number.
-
-You are welcome to send us any general comments about the online catalog as well.
+When commenting on a RISM record, please describe the issue as thoroughly as you can. It is helpful when you can point us to evidence such as secondary literature or information from another RISM record.  
 
 Thank you for taking the time to help us improve the database for RISM users around the world.
