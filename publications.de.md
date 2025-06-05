@@ -16,7 +16,7 @@ Die über 1,5 Millionen Datensätze aus der RISM-Datenbank können über zwei un
 ### RISM Catalog
 {% include image file="/images/publications/opac.png"  %}
 
-Der RISM Catalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM Catalogs ist die Bayerische Staatsbibliothek München.
+Der RISM Catalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM Catalogs ist die Bayerische Staatsbibliothek München.
 
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}
