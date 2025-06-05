@@ -7,4 +7,5 @@
 - [RISM für Bibliotheken](/organization/rism-for-libraries.html)  
 - [RISM zitieren](/community/how-to-cite-rism.html)
 - [Muscat](/community/muscat.html)
+- [Teilen Sie Ihre Neuigkeiten mit RISM](/community/share-your-news.html)
 - [Häufig gestellte Fragen](/service/faq.html)
