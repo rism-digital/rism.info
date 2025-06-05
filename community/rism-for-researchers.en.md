@@ -21,17 +21,39 @@ RISM has long been the cornerstone of musicological projects. The following page
 
 RISM can serve as a partner in research projects on a small or large scale. The extensive pool of RISM data can launch research from a variety of starting points, such as by composer, repertoire, genre, time period, geographic area, or material type. When partnering with RISM, project participants have direct access to our database and cataloging program. There is therefore no need to develop separate cataloging systems or databases. Records are published in the international RISM database, and data can be extracted for use elsewhere.  
 
+### Collaborating with RISM  
+
 Read the following reports for examples of various collaborations with RISM:  
 - McGill University: [Mapping the Musical Landscape of the Sixteenth Century (MML16)](/in_the_news/2019/07/29/mapping-the-musical-landscape-of-the-sixteenth.html)   
 - Music, Heritage, Place: Unlocking the Musical Collections of England’s County Record Offices [Part 1](/library_collections/2024/09/26/music-from-english-local-archives-in-rism.html), [Part 2](/library_collections/2024/10/04/musical-discoveries-from-english-local-archives.html)   
 - The Library of Congress's Junior Fellows program: [Enhancing Visibility of American Music Manuscripts at the Library of Congress](/library_collections/2024/02/08/library-of-congress-summer-report.html)
 
 Researchers focusing on music by a particular composer or preserved at a certain institution can catalog the music in RISM, ensuring that the musical sources can be explored by an international audience. The RISM records can be referenced in university theses and publications, or published as separate catalogs. Here are some examples:  
+
 -  [The ‘C Collection’ in the Music Archive of the Cathedrals of Zaragoza](/new_publications/2023/08/17/discovering-new-music-collections.html), by Carmen Álvarez-Escandell
 - [The "Periodico de musica" at the Biblioteca Nacional d’Andorra](/new_at_rism/2020/06/15/the-first-record-from-andorra-in-rism-the.html), by Joan Benavent Peiró  
 - [The works of José Antonio Gómez y Olguín](/new_publications/2016/03/07/jos%C3%A9-antonio-g%C3%B3mez-y-olgu%C3%ADn-18051876-y-su-cat%C3%A1logo.html), by John G. Lazos  
 - [The Archivio musicale Luca Moretti private collection](/library_collections/2023/06/01/the-archivio-musicale-luca-moretti-in-rism.html), by Luca Moretti  
 - [The "Master Muñoz Pedrera" collection at the Municipal Archives of Murcia](/library_collections/2023/09/14/pedrera-collection-murcia.html), by Juan Francisco Murcia Galián   
+
+A subset of RISM records can be gathered and printed as a separate catalog. Such catalogs may be needed for all sorts of reasons: to publish a printed catalog of the holdings of a collection, to provide funding agencies and sponsors with proof that a promised project was successfully completed, or simply to provide an overview of the records in the course of research. While the production of such a catalog requires some fluency in IT matters, musicologists and librarians who can draw on IT assistance at their home institutions can easily make use of this opportunity to present the results of their work outside of the main RISM online database. Instructions can be found on [our Data Services page](/community/data-services.html#catalog-printouts-of-rism-data).  
+
+The following catalogs were created based on RISM records. A number of the publications are available online.   
+
+_Austria_  
+Eva Neumayr and Lars Laubhold, eds., _Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd), Reihe A_. Vienna: Hollitzer Verlag, 2018. ([Read our announcement here.](/new_publications/2018/07/19/musical-sources-in-the-salzburg-cathedral-archive.html))    
+
+_Czech Republic_  
+- _Catalogus collectionis operum musicalium ex possessione familiae Strachota in Tinez_. Edited by Eliška Šedivá, translation of the introduction by Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum XIII/1-2. Prague: National Library of the Czech Republic, 2023. ([Read our announcement here.](/new_publications/2024/02/22/thematic-catalogue-strachota-music-collection.html))  
+- _Collectio operum musicalium e possessione p. Barnabae Weiss_. Edited by Jana Vozková and Eliška Šedivá,translated by Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum XII. Prague: Národní knihovna ČR, 2021. ([Read our announcement here.](/new_publications/2022/07/21/thematic-catalogue-music-collection-p-barnabas-weiss.html))
+- _Catalogus collectionis operum artis musicae comitis Clam-Gallas_. Edited by Eliška Šedivá, translation of the introduction by Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum X/1-4. Prague: National Library of the Czech Republic, 2018. ([Read our announcement here.](/new_publications/2019/11/07/thematic-catalog-of-the-clamgallas-music.html))
+- _Catalogus collectionis operum artis musicae de Monasterii Siloensis_. Edited by Pavla Semerádová and Eliška Šedivá. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum 9/1-2. Prague: Národní knihovna České republiky, 2016. ([Read our announcement here.](/new_publications/2017/01/23/the-thematic-catalogue-of-the-music-collection-in.html))
+
+_Germany_  
+Numerous catalogs have been created for various collections in Germany. Please see the full list of volumes in the series "Musikhandschriften in Deutschland: Kataloge ausgewählter Sammlungen" on the [RISM Germany website](https://de.rism.info/publications/musikhandschriften-in-deutschland.html){:blank}.  
+
+
+
 
 ## Data sets  
 
