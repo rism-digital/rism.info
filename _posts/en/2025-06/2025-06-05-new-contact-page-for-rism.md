@@ -5,7 +5,7 @@ date: 2025-06-05
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news/2025-04/rism-contact-letters_website.jpg"
+image: "/images/news/2025-06/rism-contact-letters_website.jpg"
 email: ''
 author: ''
 ---
