@@ -33,6 +33,22 @@ Forscher, die sich mit Werken eines bestimmten Komponisten beschäftigen oder mi
 - [Die Privatsammlung von Luca Moretti](/library_collections/2023/06/01/the-archivio-musicale-luca-moretti-in-rism.html) von Luca Moretti  
 - [Die Sammlung "Master Muñoz Pedrera" im Stadtarchive von Murcia](/library_collections/2023/09/14/pedrera-collection-murcia.html) von Juan Francisco Murcia Galián   
 
+Ein Teil der RISM-Datensätze kann gesammelt und als separater Katalog gedruckt werden. Solche Kataloge können aus verschiedenen Gründen benötigt werden: um einen gedruckten Katalog der Bestände einer Sammlung zu veröffentlichen, um Förderern und Sponsoren den Nachweis zu erbringen, dass ein versprochenes Projekt erfolgreich abgeschlossen wurde oder um im Rahmen der Forschung einen Überblick über die Datensätze zu geben. Die Erstellung eines solchen Katalogs erfordert zwar gewisse IT-Kenntnisse, Musikwissenschaftler und Bibliothekare, die an ihren Heimatinstitutionen jedoch auf IT-Unterstützung zurückgreifen können, können diese Möglichkeit leicht nutzen, um die Ergebnisse ihrer Arbeit außerhalb der Hauptdatenbank von RISM online zu präsentieren. Anleitungen finden Sie auf [unserer Seite Dataservice](/community/data-services.html#catalog-printouts-of-rism-data).  
+
+Die folgenden Kataloge wurden auf der Grundlage von RISM-Einträgen erstellt. Einige der Veröffentlichungen sind online verfügbar.   
+
+_Deutschland_  
+Für verschiedene Sammlungen in Deutschland wurden zahlreiche Kataloge erstellt. Die vollständige Liste der Bände aus der Reihe "Musikhandschriften in Deutschland: Kataloge ausgewählter Sammlungen" finden Sie [auf der RISM Deutschland-Seite](https://de.rism.info/publications/musikhandschriften-in-deutschland.html){:blank}.  
+
+_Österreich_  
+Eva Neumayr und Lars Laubhold (Hrsg.), _Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd), Reihe A_. Wien: Hollitzer Verlag, 2018. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2018/07/19/musical-sources-in-the-salzburg-cathedral-archive.html))    
+
+_Tschechische Republik_  
+- _Catalogus collectionis operum musicalium ex possessione familiae Strachota in Tinez_. Herausgegeben von Eliška Šedivá, Übersetzung der Einleitung von Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum XIII/1-2. Prague: National Library of the Czech Republic, 2023. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2024/02/22/thematic-catalogue-strachota-music-collection.html))  
+- _Collectio operum musicalium e possessione p. Barnabae Weiss_. Herausgegeben von Jana Vozková und Eliška Šedivá, übersezt von Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum XII. Prague: Národní knihovna ČR, 2021. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2022/07/21/thematic-catalogue-music-collection-p-barnabas-weiss.html))
+- _Catalogus collectionis operum artis musicae comitis Clam-Gallas_. Herausgegeben von Eliška Šedivá, Übersetzung der Einleitung von Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum X/1-4. Prague: National Library of the Czech Republic, 2018. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2019/11/07/thematic-catalog-of-the-clamgallas-music.html))
+- _Catalogus collectionis operum artis musicae de Monasterii Siloensis_. Herausgegeben von Pavla Semerádová und Eliška Šedivá. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum 9/1-2. Prague: Národní knihovna České republiky, 2016. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2017/01/23/the-thematic-catalogue-of-the-music-collection-in.html))
+
 ## Datensätze  
 
 Die RISM-Datensätze können für eine Datenanalyse verwendet werden. Auf die Daten kann über die [Datenseite des RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu/data){:blank} oder über die [RISM Online API](https://rism.online/docs/api/api/){:blank} zugegriffen werden.  
