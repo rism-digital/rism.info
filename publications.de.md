@@ -10,13 +10,13 @@ old_url: http://www.rism.info/de/publikationen.html
 
 Die RISM-Publikationen stellen das Ergebnis der Arbeiten des RISM dar, die 1952 begannen und bis heute fortgesetzt werden. Der Schwerpunkt der derzeitigen Aktivitäten des RISM liegt auf seiner elektronischen Datenbank, die über zwei Ressourcen, den RISM-Katalog und RISM Online, kostenlos durchsucht werden kann. Die Bibliothekssigel von RISM können über das [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html) recherchiert werden.
 
-## RISM-Datenbank
-Die über 1,4 Millionen Datensätze des RISM können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online.  Die musikalischen Quellen, die im Mittelpunkt des RISM-Projekts stehen, sind Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
+## Recherche-Tools
+Die über 1,5 Millionen Datensätze aus der RISM-Datenbank können über zwei unterschiedliche, aber sich ergänzende Ressourcen durchsucht werden: den RISM-Katalog und RISM Online.  Die musikalischen Quellen, die im Mittelpunkt des RISM-Projekts stehen, sind Musikmanuskripte, Notendrucke, Libretti und Traktate, die in über 3.000 Bibliotheken, Museen, Archiven, Kirchen, Schulen und Privatsammlungen auf der ganzen Welt aufbewahrt werden. Unsere Online-Tools enthalten Datensätze aus früheren Serien (alle A/I, alle A/II, alle B/I, einige B/II und andere B-Bände; Details siehe unten), gehen aber auch weit über unsere frühen Veröffentlichungen hinaus. Die Datenbank wächst monatlich und spiegelt die Arbeit unserer aktiven RISM-Mitarbeiter weltweit wider.
 
 ### RISM Catalog
 {% include image file="/images/publications/opac.png"  %}
 
-Der RISM Catalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/metaopac/start.do?View=rism){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM Catalogs ist die Bayerische Staatsbibliothek München.
+Der RISM Catalog kann über die RISM-Webseite oder [opac.rism.info](https://opac.rism.info/){:target="_blank"} erreicht werden. Er wird ermöglicht durch eine Kooperation zwischen der [Bayerischen Staatsbibliothek](http://www.bsb-muenchen.de/ "www.bsb-muenchen.de/") (München), der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/ "http://staatsbibliothek-berlin.de/"), Preußischer Kulturbesitz, und der RISM-Zentralredaktion. Verantwortlich für den Betrieb und die technische Umsetzung des RISM Catalogs ist die Bayerische Staatsbibliothek München.
 
 ### RISM Online
 {% include image file="/images/publications/rism-online-screenshot.jpg" %}
