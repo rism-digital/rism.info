@@ -40,7 +40,7 @@ All records published by RISM follow these principles. For example, source recor
 
 Monthly exports of the RISM data is available for download in MARCXML format on our [Data Exports page](https://rism.digital/exports/index.html){:target="_blank"}.
 
-## Linked Data and Resolution Services.
+## Linked Data and Resolution Services
 
 {% include image file="/images/community/data-services/wikipedia.png" pos="right" %}
 
@@ -71,8 +71,8 @@ _Photo credits:_
 
 1. Organ piece by Nicolas de Grigny, "1er Kyrie en taille," in the hand of J. S. Bach, [D-F Mus Hs 1538](http://opac.rism.info/search?documentid=455002348){:target="_blank"}
 2. Open data logo: own work
-4. SRU file: own work
-5. MARC logo: Library of Congress, ["MARC Standards"](http://www.loc.gov/marc/){:target="_blank"}
-6. Main Reading Room, Library of Congress, Washington, DC, by Carol M. Highsmith, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg){:target="_blank"}
-7. Wikipedia logo via [wikipedia.org](http://www.wikipedia.org/){:target="_blank"}
-8. [Neue Deutsche Biographie](http://www.deutsche-biographie.de/index.html){:target="_blank"}
+3. SRU file: own work
+4. MARC logo: Library of Congress, ["MARC Standards"](http://www.loc.gov/marc/){:target="_blank"}
+5. Main Reading Room, Library of Congress, Washington, DC, by Carol M. Highsmith, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg){:target="_blank"}
+6. Wikipedia logo via [wikipedia.org](http://www.wikipedia.org/){:target="_blank"}
+7. [Neue Deutsche Biographie](http://www.deutsche-biographie.de/index.html){:target="_blank"}
