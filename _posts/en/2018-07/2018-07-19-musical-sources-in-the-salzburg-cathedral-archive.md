@@ -15,7 +15,7 @@ _We have received the following from Eva Neumayr ([RISM Salzburg](https://salzbu
 
 A new thematic catalog of the musical sources in the archives of the Salzburg Cathedral (RISM siglum: [A-Sd](https://opac.rism.info/search?View=rism&siglum=A-Sd&Language=en){:target="_blank"}) has been published:
 
-Eva Neumayr and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}. Vienna: Hollitzer Verlag, 2018.
+Eva Neumayr and Lars Laubhold, eds., [_Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](https://www.hollitzer.at/buch/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/){:target="_blank"}. Vienna: Hollitzer Verlag, 2018.
 
 Wolfgang Amadé Mozart's church music, as we know, was largely composed for the liturgy of the Salzburg Cathedral. The cathedral's music collection was kept together and has been preserved. As a parish and metropolitan church, the cathedral was an important place for the representation of a religious court and it was a center of church music whose influence extended beyond the city borders.
 
