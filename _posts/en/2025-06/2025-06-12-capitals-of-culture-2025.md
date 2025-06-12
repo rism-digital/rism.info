@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "European Capitals of Culture 2025"
-date: 2025-06-05
+date: 2025-06-12
 lang: en
 post: true
 category: events
