@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The targeted digitisation project ‘Digital Music Unica in Switzerland’ (D-MUS)"
-date: 2025-06-05
+date: 2025-06-26
 lang: en
 post: true
 category: new_at_rism
