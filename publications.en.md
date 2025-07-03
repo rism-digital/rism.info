@@ -38,7 +38,7 @@ All of Series A is available online through [RISM's electronic catalogs](/public
 
 _For a supplement to A/I volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.  
 
-Series A/I was published in fourteen printed volumes between 1971 and 2003, and in one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. At around 100,000 entries, at the time of publication it was the most comprehensive resource available for printed music editions. A/I was added to the online RISM database in 2015.  
+Series A/I was published in fourteen printed volumes between 1971 and 2003, and in one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. Its approximately 100,000 entries were added to the online RISM database in 2015.  
 
 ### A/II: Music Manuscripts after 1600  
 *  _Musikhandschriften nach 1600_  
