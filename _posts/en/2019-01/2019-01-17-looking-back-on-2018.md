@@ -18,13 +18,13 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 &nbsp;  
 &nbsp;   
 
-1. [Musical Anniversaries in 2018](/new_at_rism/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](/new_at_rism/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}.
+1. [Musical Anniversaries in 2018](/musical_anniversaries/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: We are happy this is useful! Here is the [2019 edition](/musical_anniversaries/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}.
 
 2. [The Music Printing History Online Museum](/electronic_resources/2018/03/12/the-music-printing-history-online-museum.html){:target="_blank"}
 
 3. [Bach Family Autographs Online](/electronic_resources/2018/04/16/bach-family-autographs-online.html){:target="_blank"}
 
-4. [Lili Boulanger (21 August 1893–15 March 1918)](/events/2018/03/15/lili-boulanger-21-august-189315-march-1918.html){:target="_blank"} by Anya Holland-Barry
+4. [Lili Boulanger (21 August 1893–15 March 1918)](/musical_anniversaries/2018/03/15/lili-boulanger-21-august-189315-march-1918.html){:target="_blank"} by Anya Holland-Barry
 
 5. ["Mein Herz ist viel zu schwach" – A Newly Discovered Aria by Georg Philipp Telemann](/rediscovered/2018/02/19/mein-herz-ist-viel-zu-schwach-a-newly-discovered.html){:target="_blank"} by Helmut Lauterwasser
 
@@ -32,11 +32,11 @@ Before we get too far into 2019, let's take a look at our most popular stories o
 
 7. [Telemann digital](/library_collections/2018/08/27/telemann-digital.html){:target="_blank"} by Ann Kersting-Meuleman
 
-8. [New FONCA-RISM project in Mexico City \| FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_collections/2018/01/25/new-foncarism-project-in-mexico-city--foncarism.html){:target="_blank"} by John Lazos
+8. [New FONCA-RISM project in Mexico City \| FONCA-RISM: Nuevo Proyecto en la Ciudad de México](/library_collections/2018/01/25/new-foncarism-project-in-mexico-city-foncarism.html){:target="_blank"} by John Lazos
 
 9. [Exhibit in the Bavarian State Library on Historic Tablatures](/events/2018/01/15/exhibit-in-the-bavarian-state-library-on-historic.html){:target="_blank"}
 
-10. [RISM—500 Years Ago](/new_at_rism/2018/09/17/rism500-years-ago.html){:target="_blank"}
+10. [RISM—500 Years Ago](/musical_anniversaries/2018/09/17/rism500-years-ago.html){:target="_blank"}
 
 
 But in 2018—as in years past—the post more often read than any other story, from any year, was [Listen to the world's oldest piano](/rediscovered/2014/05/28/listen-to-the-worlds-oldest-piano.html){:target="_blank"} from 2014.

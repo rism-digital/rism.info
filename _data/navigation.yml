@@ -33,3 +33,8 @@
     de: "Publikationen"
     fr: "Publications"
   link: /publications.html
+- name:
+    en: "CONTACT"
+    de: "CONTACT"
+    fr: "CONTACT"
+  link: /contact.html

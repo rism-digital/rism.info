@@ -35,7 +35,7 @@ See also: [https://www.rism.info/working-groups/austria/innsbruck/home.html](/wo
 Website: [https://salzburg.rism.info/index.html](https://salzburg.rism.info/index.html){:blank}  
 
 MMag. Dr. Eva Neumayr  
-Archiv der Erzdiözese Salzburg, Musiksammlung (and Internationale Stiftung Mozarteum)
+Archiv der Erzdiözese Salzburg, Musiksammlung (and Internationale Stiftung Mozarteum)  
 Kapitelplatz 3  
 A - 5020 Salzburg  
 Telephone: +43 662 8047 1513  
@@ -213,17 +213,15 @@ Website: [https://info.hazu.hr](https://info.hazu.hr/){:target="_blank"}
 
 ## CZECH REPUBLIC
 
-Zuzana Petrášková\
-Email: [Zuzana.Petraskova@nkp.cz](mailto:Zuzana.Petraskova@nkp.cz)\
-Eliška Šedivá  
-Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)  
-Národní knihovna České republiky\
+Eliška Šedivá\
+Email: [Eliska.sediva@nkp.cz](mailto:Eliska.sediva@nkp.cz)\
+Ludmila Šmídová\
+Email: [ludmila.smidova@nkp.cz](mailto:ludmila.smidova@nkp.cz)\
+Národní knihovna české republiky\
 Hudební oddělení\
-Klementinum 190\
-11001 Praha 1\
-Telephone: +420 221663129\
-Fax: +420 222220370\
-Website: [http://www.en.nkp.cz/](http://www.en.nkp.cz/){:target="_blank"}
+Mariánské náměstí 190/5\
+11000 Praha 1\
+Website: [https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni](https://www.nkp.cz/o-knihovne/organizacni-struktura/hudebni-oddeleni){:target="_blank"}
 
 ## DENMARK
 
@@ -243,8 +241,8 @@ Eesti Rahvusraamatukogu\
 Tõnismägi 2\
 15189 Tallinn\
 Telephone: 6307 159\
-Email: [heidi@nlib.ee](mailto:heidi@nlib.ee)\
-Website: [www.nlib.ee](http://www.nlib.ee){:target="_blank"}
+Email: [heidi.heinmaa@rara.ee](mailto:heidi.heinmaa@rara.ee)\
+Website: [https://www.rara.ee/](https://www.rara.ee/){:target="_blank"}
 
 ## FINLAND
 
@@ -500,13 +498,13 @@ Website: [https://nifc.pl/en/](https://nifc.pl/en/){:target="_blank"}
 
 ## PORTUGAL
 
-Isabel Novais Gonçalves \
+Dra. Sílvia Sequeira \
 Área de Música \
 Biblioteca Nacional de Portugal \
 Campo Grande, 83 \
 1749-081 Lisboa, Portugal \
-Telephone: +351 21 798 20 32 \
-Email: [igoncalves@bnportugal.gov.pt](mailto:igoncalves@bnportugal.gov.pt)  \
+Telephone: +351 21 798 20 56 \
+Email: [ssequeira@bnportugal.gov.pt](mailto:ssequeira@bnportugal.gov.pt)  \
 Website: [http://www.bnportugal.gov.pt/](http://www.bnportugal.gov.pt/){:target="_blank"}
 
 ## ROMANIA
@@ -549,7 +547,7 @@ Rossijskij nacional'nyj muzej muzyki\
 National Music Museum of Russia\
 ul. Fadejeva 4\
 125047 Moscow\
-Telephone: +7 8 (495) 605-65-15 (ext. 1117)
+Telephone: +7 8 (495) 605-65-15 (ext. 1117)  
 Email: [international@glinka.museum](mailto:international@glinka.museum)\
 Website: [https://music-museum.ru/](https://music-museum.ru/){:target="_blank"}
 
@@ -588,7 +586,7 @@ Ewha Womans University\
 Seoul 120-750\
 South Korea\
 Telephone: +82 3277 2439\
-Email: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
+Email: [hkchae@ewha.ac.kr](mailto:hkchae@ewha.ac.kr) / [hyunkchae@gmail.com](mailto:hyunkchae@gmail.com) / [64ehkim@ewha.ac.kr](mailto:64ehkim@ewha.ac.kr)\
 Website: [my.ewha.ac.kr/musicieen/](http://my.ewha.ac.kr/musicieen/){:target="_blank"}, [http://eMUSICdb.info](http://emusicdb.info/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/korea/home.html](/working-groups/korea/home.html){:blank}
 
@@ -606,6 +604,18 @@ Fax: +34 3 4430071\
 Email: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
+
+Teresa Rodríguez Gonzalez\
+Departamento de Música y Audiovisuales\
+Biblioteca Nacional de España\
+Paseo de Recoletos, 20-22\
+Madrid 28071\
+Telephone: + 34 91 5807734\
+Email: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
+Website (National Library of Spain): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
+Website (music collection): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
+Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
+Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}
 
 ## SWEDEN
 
@@ -637,7 +647,7 @@ Website: [https://rism.digital/rism-ch.html](https://rism.digital/rism-ch.html){
 
 ## UKRAINE
 
-Larisa Ivchenko\
+Larissa Ivchenko\
 Vernadsky National Library of Ukraine\
 Music Department\
 62, Volodimirska Str.\

@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Die RISM-Zentralredaktion gibt die Veröffentlichung der RISM-Katalogisierungsrichtlinien auf einer eigenen Website [guidelines.rism.info](https://guidelines.rism.info/){:blank} bekannt. Bei den Richtlinien handelt es sich um die RISM-Regeln und -Vorgehensweisen für die Beschreibung historischer Musikquellen, angepasst für die Verwendung im [Katalogisierungsprogramm Muscat](https://rism.info/community/muscat.html){:blank}, das von RISM-Mitarbeitern weltweit verwendet wird.
+Die RISM-Zentralredaktion gibt die Veröffentlichung der RISM-Katalogisierungsrichtlinien auf einer eigenen, vom [RISM Digital Center](https://rism.digital/){:blank} entwickelten Website [guidelines.rism.info](https://guidelines.rism.info/){:blank} bekannt. Bei den Richtlinien handelt es sich um die RISM-Regeln und -Vorgehensweisen für die Beschreibung historischer Musikquellen, angepasst für die Verwendung im [Katalogisierungsprogramm Muscat](https://rism.info/community/muscat.html){:blank}, das von RISM-Mitarbeitern weltweit verwendet wird.
 
 Als die größte und einzige weltweite Organisation, die schriftliche Musikquellen dokumentiert, hoffen wir, dass die Veröffentlichung unserer Katalogisierungsrichtlinien nicht nur zur Transparenz der in der [RISM-Datenbank](https://rism.info/publications.html#rism-database){:blank} gefundenen Datensätze beiträgt, sondern auch als Ressource für eine breitere internationale Gemeinschaft von Personen dient, die historische Musikquellen beschreiben möchten, sei es als Musiker, Archivare, Bibliothekare oder in einer anderen Funktion.  
 

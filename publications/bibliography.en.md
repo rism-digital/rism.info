@@ -550,6 +550,8 @@ Gerhard, Anselm and Gabriella Hanke Knaus. "Repertorium Schweizer Komponisten de
 
 Grawe, Hubert. "PC-Datenbanken für die Musikwissenschaft." _Die Musikforschung_. 51:3 (July-September 1998): 319-326. [Available online](https://www.jstor.org/stable/41123125){:target="_blank"}. (See also Keil, 1999.)
 
+Hartmann, Andrea. "Die Richtlinien zur Katalogisierung von Musikhandschriften des Internationalen Quellenlexikons der Musik. Konstruktive Analyse eines speziellen Katalogisierungsregelwerks." Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft 44. Berlin: Institut für Bibliothekswissenschaft der Humboldt-Universität zu Berlin, 1998. [Available online](http://webdoc.sub.gwdg.de/ebook/serien/aw/Berliner_Handreichungen/h44.pdf){:blank}.  
+
 Howard, John B. "Strategies for sorting melodic incipits." In _Melodic Similarity: Concepts, Procedures, and Applications_, edited by Walter B. Hewlett and Eleanor Selfrigde-Field, 129-138. Computing and Musicology 11. Cambridge, Mass.: MIT Press, 1998.
 
 Keil, Klaus. "Die Musikdrucke bei RISM. Vergangenheit - Ausblick." _Forum Musikbibliothek_ 1 (1998): 58-61.
@@ -1094,6 +1096,10 @@ Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer  Fors
 "Updating RISM Series C." Briefs/Feuilletons. _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in Notes for _Notes_. _Notes_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 
 Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft_, edited by Thomas Kurtz, Dorothee M. Meister, and Uwe Sander, 189-221. Medienbildung und Gesellschaft 47. Wiesbaden: Springer VS, 2024. [Available online](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}.  
+
+#### 2025  
+
+_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}.    
 
 ##### Notes
 

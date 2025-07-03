@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-[_This post was updated in 2022._](https://rism.info/new_at_rism/2022/05/19/how-to-cite-rism.html){:blank}  
+_Please visit the updated page, [How to Cite RISM](/community/how-to-cite-rism.html)._  
 
 RISM is happy when scholars cite RISM records in their publications. Here we'll show you how to do that.
 

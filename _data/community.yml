@@ -15,6 +15,16 @@
             fr: A propos
           link: "/community/sigla/about.html"
     - name:
+        en: RISM for Researchers
+        de: RISM für Forscher
+        fr: RISM for Researchers
+      link: "/community/rism-for-researchers.html"
+    - name:
+        en: How to Cite RISM
+        de: RISM zitieren
+        fr: How to Cite RISM
+      link: "/community/how-to-cite-rism.html"
+    - name:
         en: Muscat
         de: Muscat
         fr: Muscat
@@ -47,6 +57,6 @@
       link: "/community/share-your-news.html"
     - name:
         en: "How Can I Participate in RISM?"
-        de: "How Can I Participate in RISM?"
+        de: "Wie kann ich mich an RISM beteiligen?"
         fr: "How Can I Participate in RISM?"
       link: "/community/participate-in-rism.html"

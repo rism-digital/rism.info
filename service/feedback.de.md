@@ -6,20 +6,15 @@ permalink: /service/feedback.html
 old_url: http://www.rism.info/de/service/feedback.html
 ---
 
-# Korrekturen & Ergänzungen
+# Senden Sie uns Ihr Feedback!
 
-Wir begrüßen es sehr, wenn Sie uns alle Addenda et Corrigenda melden. Wir bemühen uns, diese so bald wie möglich in die Datenbank einzuarbeiten. Bitte schicken Sie eine Mail an [contact@rism.info](mailto:contact@rism.info), lassen Sie uns wissen, wenn Sie Fehler bemerken oder Sie uns auf Probleme aufmerksam machen möchten. 
+Wir begrüßen es sehr, wenn Sie uns alle Addenda et Corrigenda melden. Bitte schicken Sie eine Mail an [contact@rism.info](mailto:contact@rism.info) und wir werden uns so schnell wie möglich bei Ihnen melden. 
 
-Wenn Sie beispielsweise:
+Wenn Sie unsere oben angegebene Kontaktadresse verwenden, geben Sie bitte unbedingt die ID-Nummer des RISM-Datensatzes an, zu dem Sie eine Rückmeldung geben möchten. Alternativ verfügt jeder Eintrag in der RISM-Datenbank auch über einen Link zu einem Feedback-Formular:
 
-* ein anonym überliefertes Stück identifizieren können
-* wenn Sie weitere Nachweise zu den Musikdrucken haben
-* falsche Komponistenzuschreibungen auftreten
-* typografische Fehler finden
-* oder andere Dinge, auf die Sie uns hinweisen möchte.
+- Im [RISM Catalog](https://opac.rism.info){:blank} auf der linken Seite: "Ihre Meldung zum Titel"   
+- In [RISM Online](https://rism.online/){:blank} am Seitenende: "Ein Problem melden"
 
-Bei Meldungen zum **RISM Online-Katalog** geben Sie bitte die RISM-Nummer (rechts unten im Datensatz) an und beschreiben Sie das Problem so genau wie möglich. Wir freuen uns über Literaturhinweise, die Ihre Aussage belegen, oder Verweise auf einen anderen RISM-Datensatz.
-
-Bei Meldungen zu unseren **Buchpublikationen** zitieren Sie bitte die RISM-Publikation, einschließlich der Nummer der B-Serie plus die Kennung oder eine Seitenzahl.
+Bei Meldungen zu einem RISM-Datensatz beschreiben Sie das Problem bitte so genau wie möglich. Wir freuen uns über Literaturhinweise, die Ihre Aussage belegen, oder Verweise auf einen anderen RISM-Datensatz.
 
 Vielen Dank für die Zeit, die Sie sich nehmen, und Ihre Hilfe die Datenbank für alle RISM-Nutzer auf der ganzen Welt zu verbessern.

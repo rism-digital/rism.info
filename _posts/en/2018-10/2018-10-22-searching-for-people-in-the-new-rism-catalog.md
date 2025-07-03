@@ -11,7 +11,7 @@ email: ''
 author: ''
 ---
 
-The [new version of the RISM catalog](https://opac.rism.info/index.php?id=15&L=1){:target="_blank"} that was released over the summer has opened up the possibility to do a detailed search for the people that appear in RISM records: composers, publishers, singers, instrumentalists, dedicatees, etc. Though we are working on making this tool more intuitive to use, we would like to point out its functionalities even in this basic stage.
+The [new version of the RISM catalog](https://opac.rism.info/){:target="_blank"} that was released over the summer has opened up the possibility to do a detailed search for the people that appear in RISM records: composers, publishers, singers, instrumentalists, dedicatees, etc. Though we are working on making this tool more intuitive to use, we would like to point out its functionalities even in this basic stage.
 
 You can search by name, gender, nationality, city, job, and function, or a combination thereof. For example, searching for [**Composer female**](https://opac.rism.info/metaopac/search?searchCategories%5B0%5D=-1&q=Composer+female&View=rism&Language=en){:target="_blank"} will find all of the women composers in the RISM database.
 

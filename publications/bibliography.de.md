@@ -530,7 +530,9 @@ Ezquerro Esteban, Antonio: Cataloguing musical sources in Spain. A RISM perspect
 
 Gerhard, Anselm / Hanke Knaus, Gabriella: Repertorium Schweizer Komponisten des 19. Jahrhunderts, in: Revue musicale suisse / Schweizer Musikzeitung, Nr. 11 (1998), S. 13-14.
 
-Grawe, Hubert: PC-Datenbanken für die Musikwissenschaft, in:Die Musikforschung 51 (1998), S. 319-326. [Online verfügbar](https://www.jstor.org/stable/41123125){:target="_blank"}. (Siehe auch Keil, 1999.)
+Grawe, Hubert: PC-Datenbanken für die Musikwissenschaft, in: Die Musikforschung 51 (1998), S. 319-326. [Online verfügbar](https://www.jstor.org/stable/41123125){:target="_blank"}. (Siehe auch Keil, 1999.)
+
+Hartmann, Andrea: Die Richtlinien zur Katalogisierung von Musikhandschriften des Internationalen Quellenlexikons der Musik. Konstruktive Analyse eines speziellen Katalogisierungsregelwerks (= Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft 44), Berlin: Institut für Bibliothekswissenschaft der Humboldt-Universität zu Berlin, 1998. [Online verfügbar](http://webdoc.sub.gwdg.de/ebook/serien/aw/Berliner_Handreichungen/h44.pdf){:blank}  
 
 Howard, John B.: Strategies for sorting melodic incipits, in: Hewlett, Walter B. / Selfrigde-Field, Eleanor (Hrsg.): Melodic similarity: Concepts, procedures, and applications, 1998, S. 129-138 (= Computing and Musicology 11).
 
@@ -538,7 +540,7 @@ Keil, Klaus: Die Musikdrucke bei RISM. Vergangenheit - Ausblick, in: Forum Musik
 
 Schaefer, Hartmut: Thematische Verzeichnisse. IV. Bibliothekskataloge und das Répertoire international des sources musicales (RISM), in: MGG, Sachteil, Bd. 9, Kassel 1998, Sp. 556-558.
 
-Selfridge-Field, Eleanor: Conceptual and Represenational Issues in Melodic Comparison, in: _Melodic Similarity: Concepts, Procedures, and Applications_, hrsg. von Walter B. Hewlett und Eleanor Selfrigde-Field, (= Computing and Musicology 11), Cambridge, Mass.: MIT Press, 1998, S. 3-64.
+Selfridge-Field, Eleanor: Conceptual and Represenational Issues in Melodic Comparison, in: Melodic Similarity: Concepts, Procedures, and Applications, hrsg. von Walter B. Hewlett und Eleanor Selfrigde-Field, (= Computing and Musicology 11), Cambridge, Mass.: MIT Press, 1998, S. 3-64.
 
 Wojnowska, Elübieta: Probleme bei der Katalogisierung alter Musikdrucke im Lichte der Formate RISM und US-MARC, in: Forum Musikbibliothek 1998, Heft 1, S. 61-66.
 
@@ -1073,6 +1075,10 @@ Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: "Etablierung neuer Forsc
 "Updating RISM Series C." Briefs/Feuilletons, in: Fontes Artis Musicae 71 (2024), S. 162. [Online verfügbar](https://muse.jhu.edu/pub/287/article/936315){:blank}. Auch erschienen in Notes 81 (2024), S. 87-88. [Online verfügbar](https://muse.jhu.edu/pub/7/article/934841){:blank}
 
 Veit, Joachim: Editionsarbeit im Wandel – digitale (Musik-)Edition, in: Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft, hrsg. von Thomas Kurtz, Dorothee M. Meister und Uwe Sander, Wiesbaden 2024 (Medienbildung und Gesellschaft 47), S. 189-221. [Online verfügbar](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}  
+
+#### 2025  
+
+_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, heruasgegeben von Nicole Schwindt. musiconn.publish, 2025. [Online verfügbar](https://doi.org/10.25366/2025.35){:blank}
 
 
 ##### Anmerkung:
