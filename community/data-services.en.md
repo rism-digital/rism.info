@@ -28,7 +28,7 @@ RISM Identifiers are used to uniquely identify individual records for the purpos
 
 This identifier format is designed to provide an unambiguous short form, so that RISM records may be easily citeable in print and digital publications. It is also designed to be consistent across all the different systems that publish and re-publish RISM data. A consistent identifier format also means that all RISM URL (Universal Resource Locator), so that a record may be retrieved in a web browser, can also serve as the URI for that record, used to identify a particular record in Linked Data systems.
 
-Some examples may help illustrate these concepts. The RISM Identifier for the composer "Barbara Strozzi (1619–1677)" is `people/30009879`. The `people` component identifies the record type, and `30009879` identifies the specific record within the Person authority records. This short form may be used when space is at a premium; for example, in bibliographic citations or footnotes.
+Some examples may help illustrate these concepts. The RISM Identifier for the composer "Barbara Strozzi (1619–1677)" is `people/30009879`. The `people` component identifies the record type, and `30009879` identifies the specific record within the Person authority records.
 
 This may also be easily resolved to a specific record in RISM Online by adding `https://rism.online/` to the front to form a full URL: `https://rism.online/people/30009879`. This is also a permanent link to the person authority record for Barbara Strozzi. If you are a RISM Cataloger and have access to the Muscat cataloging tool, you can find this record by adding `https://muscat.rism.info/admin/` to the identifier to form the URL `https://muscat.rism.info/admin/people/30009879`.
 
