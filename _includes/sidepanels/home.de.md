@@ -16,3 +16,7 @@ Sehen Sie [hier](/organization/rism-for-libraries.html), was RISM Ihnen zu biete
 ## Muscat
 
 [Alles über Muscat](/community/muscat.html), das Katalogisierungs-Programm für Musikquellen von RISM
+
+
+_Die Arbeit des RISM wird auch unterstützt durch den Kulturfonds der VG Musikedition_
+{% include image file="/images/VG_Musikedition_LOGO_BIG.png" pos="right" %}

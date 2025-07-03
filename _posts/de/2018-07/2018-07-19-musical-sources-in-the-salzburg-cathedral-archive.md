@@ -13,7 +13,7 @@ author: MMag. Dr. Eva Neumayr
 
 _Die folgende Ankündigung erhielten wir von Eva Neumayr ([RISM Salzburg](https://salzburg.rism.info/de/index.html)):_
 
-Der [_Thematische Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](http://www.hollitzer.at/wissenschaft/programm/produktdetail/produkt/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/backPID/uebersicht-2.html){:target="_blank"}, hrsg. von Eva Neumayr und Lars Laubhold, Wien: Hollitzer Verlag, 2018, ist soeben erschienen.
+Der [_Thematische Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd)_, _Reihe A_](https://www.hollitzer.at/buch/dommusikarchiv-salzburg-a-sd-thematischer-katalog-der-musikalischen-quellen-reihe-a/){:target="_blank"}, hrsg. von Eva Neumayr und Lars Laubhold, Wien: Hollitzer Verlag, 2018, ist soeben erschienen.
 
 Wolfgang Amadé Mozarts Kirchenmusik entstand bekanntlich zu großen Teilen für die Liturgie am Salzburger Dom, dessen Bestand an Musikalien als geschlossene Sammlung erhalten blieb. Als Pfarr- und Metropolitankirche war der Dom wichtiger Repräsentationsbereich eines geistlichen Hofes und ein kirchenmusikalisches Zentrum von überregionaler Ausstrahlung.
 
