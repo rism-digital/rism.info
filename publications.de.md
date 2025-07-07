@@ -38,7 +38,7 @@ Die gesamte Serie A ist online über [die elektronischen Kataloge des RISM](/pub
 
 _Eine Ergänzung zu A/I Band 9, siehe [Haberkamp und Rösing (1981)](/publications/bibliography.html#1981)_.  
 
-Die Serie A/I wurde zwischen 1971 und 2003 in 14 gedruckten Bänden und 2011 in einer CD-ROM veröffentlicht, die alle gedruckten Bände enthält. A/I ist eine Bibliographie der zwischen 1500 und 1800 erschienenen Musikdrucke, die Werke eines einzelnen Komponisten enthält. Mit rund 100.000 Einträgen war sie zum Zeitpunkt ihrer Veröffentlichung die umfangreichste verfügbare Quelle für gedruckte Musikeditionen. A/I wurde 2015 in die Online-Datenbank des RISM aufgenommen.  
+Die Serie A/I wurde zwischen 1971 und 2003 in 14 gedruckten Bänden und 2011 in einer CD-ROM veröffentlicht, die alle gedruckten Bände enthält. A/I ist eine Bibliographie der zwischen 1500 und 1800 erschienenen Musikdrucke, die Werke eines einzelnen Komponisten enthält. Die rund 100.000 Einträge wurden 2015 in die Online-Datenbank des RISM aufgenommen.  
 
 ### A/II: Musikhandschriften nach 1600
 16 Ausgaben insgesamt: 1-2 als Microfiches (1984-1986); 3-16 als CD-ROM in Deutsch, Englisch, Französisch, Italienisch, Spanisch (München: K. G. Saur Verlag, 1996-2008). Auch als Subskription verschiedener Datenbanken bei [EBSCO, Ipswish](http://www.ebscohost.com/){:target="_blank"} (USA) (2008-bis heute; angeboten durch NISC 2002-2008) erhältlich. Seit 2010 in der Online-Datenbank des RISM.
