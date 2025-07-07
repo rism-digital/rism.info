@@ -38,7 +38,7 @@ Die monatlichen Exporte der RISM-Daten können im MARCXML-Format auf unserer [Se
 
 ## Linked Data und Resolution Services
 
-Die RISM-Daten sind in mehreren Linked-Data-Kontexten verfügbar. Wikidata bietet eine RISM-ID-Eigenschaft, [P5504](https://www.wikidata.org/wiki/Property:P5504){:target=„_blank“}, die in Wikidata-orientierten SPARQL-Abfragen verwendet werden kann. Es gibt auch eine RISM-Bibliothesksigel-Eigenschaft, [P11550](https://www.wikidata.org/wiki/Property:P11550), die als Identifikatoren für Institutionen verwendet werden kann, denen ein [RISM-Bibliothekssigel](https://rism.info/community/sigla.html) zugewiesen wurde.
+Die RISM-Daten sind in mehreren Linked-Data-Kontexten verfügbar. Wikidata bietet eine RISM-ID-Eigenschaft, [P5504](https://www.wikidata.org/wiki/Property:P5504){:target=„_blank“}, die in Wikidata-orientierten SPARQL-Abfragen verwendet werden kann. Es gibt auch eine RISM-Bibliothesksigel-Eigenschaft, [P11550](https://www.wikidata.org/wiki/Property:P11550){:target="_blank"}, die als Identifikatoren für Institutionen verwendet werden kann, denen ein [RISM-Bibliothekssigel](/community/sigla.html){:target="_blank"} zugewiesen wurde.
 
 Wir haben ein Standardpräfix und einen kompakten Identifikator, `rism:`, die beim [Identifiers.org Resolution Service](https://identifiers.org){:target=„_blank“}, registriert sind. Mithilfe dieser können RISM-Kennungen in Systemen, die diese Art von Kennungen unterstützen, in Datensätze aufgelöst werden.
 
@@ -55,4 +55,4 @@ RISM Online verfügt über mehrere öffentlich zugängliche, webbasierte APIs (A
 
 ## SRU-Schnittstellen
 
-Die RISM-Daten sind auch über unsere [SRU-Server](http://www.loc.gov/standards/sru/){:target=„_blank“} verfügbar, über die die Daten als MARCXML [abgerufen werden können](http://muscat.rism.info/sru){:target=„_blank“}. Einzelheiten zur Nutzung dieses Dienstes finden Sie in der [Muscat SRU Service Documentation](https://github.com/rism-digital/muscat/wiki/SRU).
+Die RISM-Daten sind auch über unsere [SRU-Server](http://www.loc.gov/standards/sru/){:target=„_blank“} verfügbar, über die die Daten als MARCXML [abgerufen werden können](http://muscat.rism.info/sru){:target=„_blank“}. Einzelheiten zur Nutzung dieses Dienstes finden Sie in der [Muscat SRU Service Documentation](https://github.com/rism-digital/muscat/wiki/SRU){:target="_blank"}.
