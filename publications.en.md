@@ -38,13 +38,13 @@ All of Series A is available online through [RISM's electronic catalogs](/public
 
 _For a supplement to A/I volume 9, see [Haberkamp and Rösing (1981)](/publications/bibliography.html#1981)_.  
 
-Series A/I was published in fourteen printed volumes between 1971 and 2003, and in one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. At around 100,000 entries, at the time of publication it was the most comprehensive resource available for printed music editions. A/I was added to the online RISM database in 2015.  
+Series A/I was published in fourteen printed volumes between 1971 and 2003, and in one CD-ROM that incorporates all of the printed volumes in 2011. A/I is a bibliography of printed music published between 1500 and 1800 that contains works by a single composer. Its approximately 100,000 entries were added to the online RISM database in 2015.  
 
 ### A/II: Music Manuscripts after 1600  
 *  _Musikhandschriften nach 1600_  
 Sixteen editions total: 1-2 on microfiche (1984-1986); 3-16 on CD-ROM in German, English, French, Italian, Spanish (Munich: K. G. Saur Verlag, 1996-2008). Subscription database from [EBSCO](http://www.ebscohost.com/){:target="_blank"} (2008-present; offered through NISC 2002-2008). Published in the online RISM database in 2010.
 
-At the time of its conception, A/II was the most comprehensive guide available to music manuscripts created after 1600. The first edition (1984) contained ca. 19,000 entries and the sixteenth (2008) contained ca. 614,000 entries. In 2010, A/II was published as a freely available online catalog with over 700,000 entries. The nature of the A/II project has expanded over the years to include music manuscripts from before 1600 to the present day, and all music manuscripts are now part of the larger [RISM database](/publications.html#rism-database).
+The first edition (1984) contained ca. 19,000 entries and the sixteenth (2008) contained ca. 614,000 entries. In 2010, A/II was published as a freely available online catalog with over 700,000 entries. The nature of the A/II project has expanded over the years to include music manuscripts from before 1600 to the present day, and all music manuscripts are now part of the larger [RISM database](/publications.html#rism-database).
 
 
 ## Series B: Bibliographies organized by topic
