@@ -13,9 +13,9 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Nächster Workshop  
 
-### Salzburg, Österreich (IAML-Kongress)  
+### Dresden (IAML-Deutschland Jahrestagung)  
 
-Ein zweiteiliger Muscat-Workshop wird am 8. Juli 2025 während des IAML-Kongresses in Salzburg stattfinden. Details, einschließlich Informationen zur Anmeldung, finden Sie auf [unserer IAML-Salzburg-Seite](/publications\/iaml-congresses\/2025.html).
+Am 16. September 2025 wird ein Workshop "Katalogisieren von Musikdrucken in Muscat" während der Jahrestagung der IAML-Deutschland in Dresden stattfinden. Details, einschließlich Informationen zur Anmeldung, finden Sie auf [der IAML-Deutschland-Seite](https://iaml-deutschland.info/2025-dresden/){:blank}.
 
 
 #### Online  
@@ -31,6 +31,9 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 8\. Juli 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
+_Jennifer Ward, Balázs Mikusi, RISM-Zentralredaktion_ 
 
 * 11\.-12\. Oktober 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  
 _Lucija Markulin, RISM Kroatien_
