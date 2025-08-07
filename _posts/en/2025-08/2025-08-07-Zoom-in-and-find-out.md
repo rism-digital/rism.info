@@ -4,7 +4,7 @@ title: "“Zoom In and Find Out”: How a ‘Smart’ Painting Reveals Two Piano
 date: 2025-08-07
 lang: en
 post: true
-category: Rediscovered
+category: rediscovered
 image: "/images/news/2025-08/BIESOLD_Abb-Vorschau_SMALL.jpg"
 email: 'sbiesold@uni-bonn.de'
 author: 'Sebastian Biesold'
