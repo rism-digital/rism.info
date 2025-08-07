@@ -36,4 +36,6 @@ Notes:
 
 [3] See the respective online entries on [wikitree.com](https://www.wikitree.com/wiki/Mathias-226){:blank} and [genealogy.links.org](https://genealogy.links.org/links-cgi/readged?/home/ben/camilla-genealogy/current+%210%3A148318+4-4-0-1-0#google_vignette){:blank} (accessed 22 July 2025).
 
-Images: Title page and p. 3 of Henry Mathias, _Rondo alla Tedesca_, London: for the author by Preston, [1806]. D-BNwh, WHS 2022/3. © Woelfl Haus, Bonn. Reproduced with permission.
+Images:
+
+Title page and p. 3 of Henry Mathias, _Rondo alla Tedesca_, London: for the author by Preston, [1806]. D-BNwh, WHS 2022/3. © Woelfl Haus, Bonn. Reproduced with permission.
