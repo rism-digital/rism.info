@@ -4,7 +4,7 @@ title: "‚Zoom in and find out‘: ein Gemälde, zwei Klavierstücke und der Ko
 date: 2025-08-07
 lang: de
 post: true
-category: Rediscovered
+category: rediscovered
 image: "/images/news/2025-08/BIESOLD_Abb-Vorschau_SMALL.jpg"
 email: 'sbiesold@uni-bonn.de'
 author: 'Sebastian Biesold'
@@ -36,5 +36,7 @@ Anmerkungen:
 
 [3] Siehe die entsprechenden Online-Einträge auf [wikitree.com](https://www.wikitree.com/wiki/Mathias-226){:blank} und [genealogy.links.org](https://genealogy.links.org/links-cgi/readged?/home/ben/camilla-genealogy/current+%210%3A148318+4-4-0-1-0#google_vignette){:blank} (Zugriff am 22. Juli 2025).
 
-Abbildungen: Titelblatt und S. 3 aus Henry Mathias, _Rondo alla Tedesca_, London: for the author by Preston, [1806]. D-BNwh, WHS 2022/3. © Woelfl-Haus, Bonn. Verwendet mit freundlicher Genehmigung.
+Abbildungen:
+
+Titelblatt und S. 3 aus Henry Mathias, _Rondo alla Tedesca_, London: for the author by Preston, [1806]. D-BNwh, WHS 2022/3. © Woelfl-Haus, Bonn. Verwendet mit freundlicher Genehmigung.
 
