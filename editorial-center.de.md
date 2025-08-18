@@ -17,7 +17,7 @@ Im übrigen vertritt sie das Projekt in der Öffentlichkeit.
 
 Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und der Staatsbibliothek zu Berlin eingegangen, um den Datenserver und den Online Katalog zu betreiben.
 
-## Mitarbeiter*innen der Zentralredaktion
+## Team der Zentralredaktion
 
 Co-Leitung:
 * Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
