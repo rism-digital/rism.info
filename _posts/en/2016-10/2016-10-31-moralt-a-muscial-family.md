@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moralt, A Muscial Family
+title: Moralt, A Musical Family
 date: 2016-10-31
 lang: en
 post: true
@@ -10,8 +10,6 @@ old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/moralt-a-
 email: ''
 author: ''
 ---
-
-**Moralt, A Muscial Family**
 
 Even if the history of the Moralt family of musicians begins much earlier, to an extent we can identify Adam Moralt (circa 1741-1811) as the founding father of the Munich branch. First engaged as a bellows blower for the organs at the Mannheim Court, he moved to Munich in 1777 because Elector Karl Theodor (1724-1799) moved his residence there.
 
