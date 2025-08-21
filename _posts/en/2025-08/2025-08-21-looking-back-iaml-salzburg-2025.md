@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Looking back at IAML Salzburg 2025"
+date: 2025-08-21
+lang: en
+post: true
+category: events
+image: "/images/news/2025-08/looking-back-salzburg_website.jpg"
+email: ''
+author: ''
+---
+
+Following the meetings in 1967 and 1979, the International Association of Music Libraries, Archives and Documentation Centers (IAML) held its annual congress in Salzburg, Austria, for the third time. No doubt also thanks to the alluring location, the congress was well attended, ensuring a broad international audience for the [numerous events that RISM contributed](/publications/iaml-congresses/2025.html){:blank} to the rich program.
+
+Similar to most years, both parts of our Tuesday workshop were booked out, allowing us to give an introduction to the principles of RISM cataloging and the practical use of the Muscat cataloging program to participants from no fewer than twelve countries: Australia, Austria, Croatia, Estonia, Greece, Hungary, Italy, Norway, Portugal, Switzerland, Turkey, and the United States.
+
+The RISM General Session on Thursday also had a good turnout, indeed giving the impression of a plenary session _honoris causa_. Balázs Mikusi gave his usual annual report, on this occasion also including hints at the structural changes to be expected from next year on (a topic which we shall cover more in detail on our website as well, once the negotiations have reached a more definite stage). Jennifer Ward (also from the RISM Editorial Center) called attention to the recently published website [https://guidelines.rism.info](https://guidelines.rism.info){:blank} where RISM’s cataloging guidelines, which had previously been available only inside the cataloging environment, can now be freely consulted by any interested parties. The most recent changes of the [RISM Catalog](https://opac.rism.info){:blank} – in particular the long-waited technical shift to VuFind – were discussed by Bernhard Lutz (Bavarian State Library), while the RISM Digital Center reported not only on the new features of the [RISM Online](https://rism.online){:blank} interface (Andrew Hankinson), but also on the ongoing developments regarding the representation of musical works in RISM (Laurent Pugin). The latter topic had been in the forefront of discussions since our 2019 symposium [Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM](/publications/conferences/work-level-2019.html){:blank}, and the new work nodes (which allow for linking primarily with the work authorities of the [German National Library's GND](https://www.dnb.de/EN/Professionell/Standardisierung/GND/gnd_node.html){:blank}, but prospectively also with those of other agencies) as well as RISM’s own work authorities are about to become more widely available to our users in the coming months. Concluding the session, Eva Neumayr (RISM Salzburg) shared her experiences with revising RISM’s authority data for Austrian institutions, a kind of pilot project helping us to establish best practices for the revision of institution data for each geographic region by the respective RISM working group or IAML national branch.
+
+A special RISM event on this year’s congress program was the session “RISM Together: An Open Discussion on Restructuring” chaired by Sonia Rzepka (University of Warsaw) on behalf of the RISM Coordinating Committee. More than 40 colleagues from all over the world shared their views on how RISM’s long-term future could be guaranteed. The ideas ranged from securing funding from the European Union (speaking of long-term duties, in fact a very thorny challenge) to putting some parts of RISM’s services behind a paywall (a solution that the majority found neither realistic nor desirable) and making financial contributions to RISM a standard budgetary part of research applications that rely on the infrastructure offered by RISM. While several of the suggestions should and will be explored further, there was also consensus that, even if such efforts would complement the overall budget and thus allow for the realization of additional projects, RISM as  essential infrastructure supporting both researchers and performing musicians can only stand on sure feet if a substantial core budget can be secured from more stable sources – a goal toward which we shall keep working in the coming months as well.
+
+In conclusion it should be remarked that the whole congress was organized most thoughtfully, offering a rich display of local hospitality. Hence, we are very much looking forward not only to the 2026 IAML congress in Thessaloniki, but also the fourth one in Salzburg – whenever it might take place.
+
+Image: View of Salzburg on the last day of the IAML Congress. Photograph courtesy of Jennifer Ward.
