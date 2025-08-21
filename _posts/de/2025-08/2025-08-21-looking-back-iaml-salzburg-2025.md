@@ -5,7 +5,7 @@ date: 2025-08-21
 lang: de
 post: true
 category: events
-image: "/images/news/2025-08/looking-back-salzburg_website.jpg"
+image: "/images/news/2025-08/looking-back-salzburg_website.JPG"
 email: ''
 author: ''
 ---
