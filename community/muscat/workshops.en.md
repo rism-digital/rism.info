@@ -37,7 +37,7 @@ Additional workshops (on any topic) can be offered upon request. Please send an 
 
 ## Past workshops and demonstrations  
 
-* 8 July 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)
+* 8 July 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
 _Jennifer Ward, Balázs Mikusi, RISM Editorial Center_
 
 * 11-12 October 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  

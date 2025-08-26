@@ -1,3 +1,10 @@
+---
+title: "Catalog Printouts of RISM Data"
+layout: community
+lang: en
+permalink: /community/catalog-printouts.html
+---
+
 ## Catalog Printouts of RISM Data
 
 {% include image file="/images/community/data-services/katalog-friedemann.jpg" pos="right" %}
