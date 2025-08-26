@@ -79,7 +79,8 @@ We have also published subsets of the data in spreadsheets that can be used for 
 - [Dedicatees in printed music](/events/2022/02/14/musical-dedications-in-love-and-friendship.html)   
 - Women pianists  
    - [2018](/events/2018/03/08/international-womens-day-women-pianists-in-rism.html)   
-   - [2022](/events/2022/03/08/international-womens-day-women-pianists-in-rism.html)   
+   - [2022](/events/2022/03/08/international-womens-day-women-pianists-in-rism.html)  
+- [Popes in RISM](/new_at_rism/2025/05/28/popes-in-rism.html)     
 - [New people in RISM in 2021](/new_at_rism/2022/02/24/new-people-in-the-rism-online-catalog-2021.html)   
 - [Electronic thematic catalogs](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)  
 - Composers in the public domain
