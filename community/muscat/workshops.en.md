@@ -15,9 +15,9 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-### Salzburg, Austria  (IAML Congress)  
+### IAML Germany Conference, Dresden  
 
-A two-part Muscat training session will be held on 8 July 2025 during the IAML Congress in Salzburg. Please see [our IAML Salzburg page](/publications/iaml-congresses/2025.html) for details, including registration information.
+A workshop called “Katalogisieren von Musikdrucken in Muscat” will take place during the annual conference of IAML Germany on 16 September 2025. For more information, see the [IAML Germany website](https://iaml-deutschland.info/2025-dresden/){:blank}.   
 
 ### Introduction to Muscat  
 
@@ -36,6 +36,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 8 July 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)
+_Jennifer Ward, Balázs Mikusi, RISM Editorial Center_
 
 * 11-12 October 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  
 _Lucija Markulin, RISM Croatia_  
