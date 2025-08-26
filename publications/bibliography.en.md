@@ -376,7 +376,7 @@ Dorfmüller, Kurt. "Das Répertoire International des Sources Musicales (RISM) u
 
 Drummond, Philip. "Computer applications to music: A survey and review of the literature 1949-1979." MS thesis, University New South Wales, 1985.
 
-Holm, Anna Lena. "RISM i Sverige." _Svensk tidskrift för musikforsknung_ 67 (1985): 41-51. [Available online](http://www.musikforskning.se/stm/STM1985/STM1985Holm.pdf "musikforsknung/")
+Holm, Anna Lena. "RISM i Sverige." _Svensk tidskrift för musikforsknung_ 67 (1985): 41-51. [Available online](https://publicera.kb.se/stm-sjm/issue/view/3634){:blank}.  
 
 Howard, John B. and Michael Ochs. "RISM project:Cataloguing music manuscripts in the U.S." _A. B. Bookman’s Weekly_ 76 (1985): 4310-4314.
 
@@ -538,7 +538,7 @@ Gentili Tedeschi, Massimo. "La IAML e le biblioteche musicali italiane: il quest
 
 Heckmann, Harald. "Presentación RISM-España 1997." _Anuario Musical_ 52 (1997): 287-290.
 
-Holm, Anna Lena. "Meddelanden från Statens Musikbibliotek: Nya verk till RISM." _Svensk tidskrift för musikforsknung_ 2 (1997). [Available online](http://www.musikforskning.se/stm/STM1997/STM1997_2Rapporter.pdf){:target="_blank"}.  
+Holm, Anna Lena. "Meddelanden från Statens Musikbibliotek: Nya verk till RISM." _Svensk tidskrift för musikforsknung_ 2 (1997). [Available online](https://publicera.kb.se/stm-sjm/issue/view/3577){:target="_blank"}.  
 
 Howard, John. "Plaine and Easie Code: A Code for Music Bibliography." In _Beyond MIDI: The Handbook of Musical Codes_, edited by Eleanor Selfridge-Field, 362–372. Cambridge, MA: MIT Press, 1997.
 
@@ -804,7 +804,7 @@ Janitzek, Kerstin. "Klassische Musik aus Irland: Die grüne Insel als Zeichen de
 
 Kaiser, Stefan Ikarus. "Dokumentation musikalischer Quellenbestände in kirchlichen Archiven Oberösterreichs." _Forum Musikbibliothek_ 35, no. 2 (2014): 7-16. [Available online]( https://doi.org/10.13141/fmb.v2014){:target="_blank"}.
 
-Lauterwasser, Helmut. "München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM)." _Forum Musikbibliothek_ 35:1 (2014): 51-53. [Available online](https://oa.slub-dresden.de/ejournals/fmb/article/view/283){:target="_blank"}.  
+Lauterwasser, Helmut. "München. Neue Laufzeitfestsetzung für das Répertoire International des Sources Musicales (RISM), Arbeitsgruppe Deutschland, und das Répertoire International d'Iconographie Musicale (RIdIM)." _Forum Musikbibliothek_ 35, no. 1 (2014): 51-53. [Available online](https://doi.org/10.13141/fmb.v2014){:target="_blank"}.  
 
 Martin, Cheryl. "RISM Canada Report." CAML Review 42:3 (November 2014): 23-26. [Available online](http://pi.library.yorku.ca/ojs/index.php/caml/article/viewFile/39684/35943){:target="_blank"}.
 

@@ -13,7 +13,7 @@ Founded in 1952 by representatives of the [International Musicological Society (
 
 Our 70th anniversary conference is meant as a forum for discussing the state of musical source research, pondering the lessons of the past, and outlining some perspectives for the future. We have contributions pertaining specifically to RISM that focus on our own history, examine material falling into the traditional coverage of the project, and bring new sources to light. But our conference is equally a platform for presentations that call attention to potential new paths yet to be discovered, treat other types of musical sources that fall outside of RISM's usual scope, and explore geographic areas where RISM is underrepresented. We invite participants to reconsider what we regard as “musical sources” and to scrutinize the diverse methods used for studying them in both the past and the foreseeable future.   
 
-* [Conference brochure (PDF)](\resources\publications\musical-sources-past-future-2022\2022_10_7-9_RISM-Tagung.pdf)
+* [Conference brochure (PDF)](/resources/publications/musical-sources-past-future-2022/2022_10_7-9_RISM-Tagung.pdf)
 * Presentations on [RISM's YouTube channel](https://www.youtube.com/playlist?list=PL9SyOIE9iSYJGvExsgIxUo_r5xQdm3fBY){:blank}
 * Report: Nicolò Ferrari, "Musical sources: 70 years of RISM." _Early Music_ caac061 (2022). [Available online](https://doi.org/10.1093/em/caac061){:blank}.
 
