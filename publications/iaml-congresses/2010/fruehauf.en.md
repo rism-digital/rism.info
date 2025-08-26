@@ -24,9 +24,9 @@ This is why I argue that the profile of a manuscript expert should also include 
 2. of potential hazards and how to recognize signs of damage, and
 3. of preservation techniques for manuscripts.
 
-In addition, a manuscript expert 's job duties also include verbal exertion of influence on the preservation of vulnerable sources, specifically on the storage of the manuscripts in their own institution.
+In addition, a manuscript expert's job duties also include verbal exertion of influence on the preservation of vulnerable sources, specifically on the storage of the manuscripts in their own institution.
 
-The seven colleagues in the German working group prepare approximately 10,000 titles annually and must examine about 5,000 manuscripts by hand. Most of these sheets of music *appear*to be robust and resilient. The predominantly dark-brown notation often looks like a lovely drawing on beige-colored paper. The pages are often so beautiful that one might frame them and hang them on the wall.
+The seven colleagues in the German working group prepare approximately 10,000 titles annually and must examine about 5,000 manuscripts by hand. Most of these sheets of music *appear* to be robust and resilient. The predominantly dark-brown notation often looks like a lovely drawing on beige-colored paper. The pages are often so beautiful that one might frame them and hang them on the wall.
 
 With their educated eyes, and sometimes also with their trained noses, our RISM colleagues notice, however, that more than a few of these fine-looking musical works are damaged, that they run the risk of being destroyed in the long run.
 
@@ -69,7 +69,7 @@ Mold s tarts to grow on materials in conditions of high relative humidity and hi
 * The familiar mold bloom appears most frequently.
 * Less known but occasionally encountered are enzyme discolorations and, sometimes, holes in the paper.
 
-*What is the course of action against mold**?*
+*What is the course of action against mold?*
 
 1. Brush off and remove mold bloom.
 2. Irradiate or fumigate moldy manuscripts.
