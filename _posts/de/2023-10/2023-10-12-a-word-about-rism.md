@@ -10,7 +10,7 @@ email: 'bettinahoffmann@modoantiquo.com'
 author: 'Bettina Hoffmann'
 ---
 
-RISM ist nicht nur eine abstrakte Datenbank oder Buchreihe, das Projekt lebt vor allem auch durch den Austausch mit unseren Nutzer*innen. Wir sind daher sehr dankbar für Hinweise auf Fehler oder Erfahrungsberichte. Einige Kommentare finden Sie auch auf der Seite [Wer nutzt RISM?](/organization/who-uses-rism.html){:blank}
+RISM ist nicht nur eine abstrakte Datenbank oder Buchreihe, das Projekt lebt vor allem auch durch den Austausch mit unseren Nutzern und Nutzerinnen. Wir sind daher sehr dankbar für Hinweise auf Fehler oder Erfahrungsberichte. Einige Kommentare finden Sie auch auf der Seite [Wer nutzt RISM?](/organization/who-uses-rism.html){:blank}
 
 _Der folgende Beitrag stammt von der Gambistin und Musikwissenschaftlerin Bettina Hoffmann - einer treuen Nutzerin unserer Datenbank._
 

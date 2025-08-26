@@ -12,7 +12,7 @@ author: 'Julius Rüttger'
 
 **Bericht über das Praktikum in der RISM-Zentralredaktion in Frankfurt am Main**
 
-Mein Praktikum in der RISM-Zentralredaktion in Frankfurt/Main war geprägt von der Corona-Pandemie 2020. Begonnen hat alles im Dezember des Jahres 2019 mit der Bewerbung und einem anschließenden Vorstellungsgespräch in den Räumlichkeiten der Zentralredaktion in Anwesenheit des damaligen Leiters Klaus Keil und der Stellvertreterin Dr. Martina Falletta. Im Anschluss an das erfolgreich verlaufene Gespräch folgte noch eine Führung durch die Räumlichkeiten der Zentralredaktion, bei der ich die einzelnen Mitarbeiter*innen kurz kennenlernen konnte.  
+Mein Praktikum in der RISM-Zentralredaktion in Frankfurt/Main war geprägt von der Corona-Pandemie 2020. Begonnen hat alles im Dezember des Jahres 2019 mit der Bewerbung und einem anschließenden Vorstellungsgespräch in den Räumlichkeiten der Zentralredaktion in Anwesenheit des damaligen Leiters Klaus Keil und der Stellvertreterin Dr. Martina Falletta. Im Anschluss an das erfolgreich verlaufene Gespräch folgte noch eine Führung durch die Räumlichkeiten der Zentralredaktion, bei der ich die einzelnen Mitarbeiterinnen und Mitarbeiter kurz kennenlernen konnte.  
  
 Am 26. Februar 2020 war es schließlich soweit, das Praktikum nahm seinen Anfang. Zunächst wurde mir das Erfassungsprogramm Muscat, welches all die Mengen an Daten enthält, erklärt. Dabei war es für mich zunächst doch recht schwer zu verstehen, was wann wie passiert, was was bedeutet und wo etwas hingehört oder nicht, da ich noch nie mit so einem Programm gearbeitet hatte.
 
