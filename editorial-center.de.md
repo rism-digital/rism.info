@@ -10,14 +10,14 @@ old_url: http://www.rism.info/de/unternehmen/zentralredaktion.html
 
 {% include image file="/images/editorial-center/building.jpg" pos="right" %}
 
-Die Zentralredaktion ist Anlaufstelle für Mitarbeiter*innen und Interessierte aus der ganzen Welt. Sie steht für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen durch Bereitstellung von technischen und fachlichen Hilfen, wie z.B. das Erfassungsprogramm Muscat und den Betrieb des Datenserver, Richtlinien zur Dokumentation von Musikquellen, den Online Katalog u.v.m. 
+Die Zentralredaktion ist Anlaufstelle sowohl für RISM-Mitarbeiter und -Mitarbeiterinnen als auch für Interessierte aus der ganzen Welt. Sie steht für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen durch Bereitstellung von technischen und fachlichen Hilfen, wie z.B. das Erfassungsprogramm Muscat und den Betrieb des Datenserver, Richtlinien zur Dokumentation von Musikquellen, den Online Katalog u.v.m. 
 
 Die Zentralredaktion bietet für Arbeitsgruppen grundlegende Einarbeitung in das Programm und die Dokumentationsmethoden an und führt Workshops zu speziellen Themen durch. Als Redaktion fühlt sie sich verantwortlich für die Vereinheitlichung der Daten, insbesondere für die Führung der Normdateien. 
 Im übrigen vertritt sie das Projekt in der Öffentlichkeit. 
 
 Die Zentralredaktion ist Kooperationen mit der Bayerischen Staatsbibliothek und der Staatsbibliothek zu Berlin eingegangen, um den Datenserver und den Online Katalog zu betreiben.
 
-## Mitarbeiter*innen der Zentralredaktion
+## Team der Zentralredaktion
 
 Co-Leitung:
 * Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
