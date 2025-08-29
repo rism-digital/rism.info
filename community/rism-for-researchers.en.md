@@ -14,6 +14,7 @@ RISM has long been the cornerstone of musicological projects. The following page
 - [How to Cite RISM](/community/how-to-cite-rism.html): RISM’s recommendations for citing music manuscripts and printed editions in publications.    
 - [Finding Unica in the RISM Database](/community/finding-unica-in-rism.html): Find out how to find printed editions that are held by only one institution in the RISM database.  
 - [How to use RISM Library Sigla](/community/sigla/about.html): Explanation of RISM’s abbreviations for libraries, archives and collections with historical music holdings  
+- [Catalog Printouts of RISM Data](/community/catalog-printouts.html): How to generate a high-quality PDF catalog using entries from the RISM database for use in your own publications   
 - [RISM Catalog help page](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}  
 - [RISM Online help page](https://rism.online/about/help){:blank}  
 
@@ -36,7 +37,7 @@ Researchers focusing on music by a particular composer or preserved at a certain
 - [The Archivio musicale Luca Moretti private collection](/library_collections/2023/06/01/the-archivio-musicale-luca-moretti-in-rism.html), by Luca Moretti  
 - [The "Master Muñoz Pedrera" collection at the Municipal Archives of Murcia](/library_collections/2023/09/14/pedrera-collection-murcia.html), by Juan Francisco Murcia Galián   
 
-A subset of RISM records can be gathered and printed as a separate catalog. Such catalogs may be needed for all sorts of reasons: to publish a printed catalog of the holdings of a collection, to provide funding agencies and sponsors with proof that a promised project was successfully completed, or simply to provide an overview of the records in the course of research. While the production of such a catalog requires some fluency in IT matters, musicologists and librarians who can draw on IT assistance at their home institutions can easily make use of this opportunity to present the results of their work outside of the main RISM online database. Instructions can be found on [our Data Services page](/community/data-services.html#catalog-printouts-of-rism-data).  
+A subset of RISM records can be gathered and printed as a separate catalog. Such catalogs may be needed for all sorts of reasons: to publish a printed catalog of the holdings of a collection, to provide funding agencies and sponsors with proof that a promised project was successfully completed, or simply to provide an overview of the records in the course of research. While the production of such a catalog requires some fluency in IT matters, musicologists and librarians who can draw on IT assistance at their home institutions can easily make use of this opportunity to present the results of their work outside of the main RISM online database. Instructions can be found on [our page Catalog Printouts of RISM Data](/community/catalog-printouts.html).  
 
 The following catalogs were created based on RISM records. A number of the publications are available online.   
 
@@ -78,7 +79,8 @@ We have also published subsets of the data in spreadsheets that can be used for 
 - [Dedicatees in printed music](/events/2022/02/14/musical-dedications-in-love-and-friendship.html)   
 - Women pianists  
    - [2018](/events/2018/03/08/international-womens-day-women-pianists-in-rism.html)   
-   - [2022](/events/2022/03/08/international-womens-day-women-pianists-in-rism.html)   
+   - [2022](/events/2022/03/08/international-womens-day-women-pianists-in-rism.html)  
+- [Popes in RISM](/new_at_rism/2025/05/28/popes-in-rism.html)     
 - [New people in RISM in 2021](/new_at_rism/2022/02/24/new-people-in-the-rism-online-catalog-2021.html)   
 - [Electronic thematic catalogs](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)  
 - Composers in the public domain

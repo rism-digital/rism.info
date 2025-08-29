@@ -16,4 +16,4 @@ The Music Division is a vital resource for [primary source material related to t
 
 Presented here are over 900 items taken from these collections. They include music manuscripts, early editions of printed music, correspondence, personal records, and annotated ephemera. Included in the _Essays_ section is a biography of Liszt.  
 
-_Image_: Franz Liszt, "Fantasie über Motive aus Beethovens Ruinen von Athen, Version für Pianoforte allein," autograph manuscript, 1852. [Available online](https://hdl.loc.gov/loc.music/musliszt.100212 ){:blank} (public domain).
+_Image_: Franz Liszt, "Fantasie über Motive aus Beethovens Ruinen von Athen, Version für Pianoforte allein," autograph manuscript, 1852. [Available online](https://hdl.loc.gov/loc.music/musliszt.100212){:blank} (public domain).
