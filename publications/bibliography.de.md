@@ -356,7 +356,7 @@ Dorfmüller, Kurt: Das Répertoire International des Sources Musicales (RISM) un
 
 Drummond, Philip: Computer applications to music: A survey and review of the literature 1949-1979, MS thesis: University New South Wales, 1985.
 
-Holm, Anna Lena: RISM i Sverige, in: Svensk tidskrift för musikforsknung 67 (1985), S. 41-51. [Online verfügbar](http://www.musikforskning.se/stm/STM1985/STM1985Holm.pdf "musikforsknung/")
+Holm, Anna Lena: RISM i Sverige, in: Svensk tidskrift för musikforsknung 67 (1985), S. 41-51. [Online verfügbar](https://publicera.kb.se/stm-sjm/issue/view/3634){:blank}
 
 Howard, John B. / Ochs, Michael: RISM project. Cataloguing music manuscripts in the U.S., in: A. B. Bookman’s weekly 76 (1985), S. 4310-4314.
 
