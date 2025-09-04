@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISM at the Annual Congress of IAML Germany in Dresden"
+title: "RISM bei der Jahrestagung von IAML-Deutschland in Dresden"
 date: 2025-09-04
 lang: de
 post: true
@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-In diesem Jahr findet die [Jahrestagung der IAML-Deutschland in Dresden(https://iaml-deutschland.info/2025-dresden){:blank}statt. Vom 16. bis zum 19. September 2025 treffen sich die Musikbibliothekare und -Bibliothekarinnen der deutschsprachigen Länder D-A-CH. Hauptveranstaltungsort sind die Städtischen Bibliotheken Dresden, Zentralbibliothek im Kulturpalast.
+In diesem Jahr findet die [Jahrestagung der IAML-Deutschland in Dresden](https://iaml-deutschland.info/2025-dresden){:blank} statt. Vom 16. bis zum 19. September 2025 treffen sich die Musikbibliothekare und -Bibliothekarinnen der deutschsprachigen Länder D-A-CH. Hauptveranstaltungsort sind die Städtischen Bibliotheken Dresden, Zentralbibliothek im Kulturpalast.
 
 Es wird wieder ein reiches und dichtes Programm mit spannenden Panels der Arbeitsgemeinschaften und Kommissionen erwartet. In den zwei Workshops werden das Urheberrecht und die Katalogisierung von Musikdrucken mit dem RISM-Erfassungssystem Muscat thematisiert. Während der Plenumssitzungen geht es unter anderem um Dresdner Stadt- und Musikgeschichte, Dresdner Bibliotheken und das weite Feld der Digitalität.
 
