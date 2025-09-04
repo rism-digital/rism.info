@@ -20,5 +20,5 @@ The other “RISM session” at this year’s conference is the meeting of the W
 
 If you have a chance to attend, we look forward to getting in touch with you both during the official discussion sessions and the coffee breaks!
 
-_Image_: View from the tower of the Kreuzkirche church onto the Kulturpalast in Dresden, via [Wikimedia](https://commons.wikimedia.org/wiki/File:Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg){:blank}, under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en){:blank} licence.
+_Image_: View from the tower of the Kreuzkirche onto the Kulturpalast in Dresden, via [Wikimedia](https://commons.wikimedia.org/wiki/File:Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg){:blank}, under the [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en){:blank} licence.
  
