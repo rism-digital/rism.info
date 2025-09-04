@@ -74,6 +74,7 @@ Bestimmte Teilmengen unserer Daten haben wir in Tabellenform veröffentlicht, di
 - Pianistinnen  
   - [2018](/events/2018/03/08/international-womens-day-women-pianists-in-rism.html)   
   - [2022](/events/2022/03/08/international-womens-day-women-pianists-in-rism.html)   
+- [Päpste in der RISM-Datenbank](/new_at_rism/2025/05/28/popes-in-rism.html)
 - [Neue Personen in RISM 2021](/new_at_rism/2022/02/24/new-people-in-the-rism-online-catalog-2021.html)   
 - [Elektronische Werkverzeichnisse](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)  
 - Gemeinfrei
