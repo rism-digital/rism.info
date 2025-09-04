@@ -43,7 +43,7 @@ Einige unserer Highlights aus den sozialen Medien:
 - Das Projekt [Música escondida](http://www.escond.es/musicaescondida){:blank}, das Digitalisate und Tonaufnahmen zusamenführt
 - [Experiments with colorizing microfilms](https://twitter.com/PonteIneptique/status/1435163187494727680){:blank}
 - The [Códice de los Músicos](https://bit.ly/3x4mGDE){:blank} and [Códice Rico](https://bit.ly/3dpdZfe){:blank}, digitalisiert von El Escorial
-- Ein [autograph manuscript of canons](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-989 ){:blank} von Joseph Haydn aus Darmstadt
+- Ein [autograph manuscript of canons](http://tudigit.ulb.tu-darmstadt.de/show/Mus-Ms-989){:blank} von Joseph Haydn aus Darmstadt
 
 Wir hoffen, dass das Jahr 2022 voll von Gesundheit, Glück und Musik ist. Wenn Sie Neuigkeiten haben, die für die RISM-Gemeinschaft von Interesse sind, [dann teilen Sie sie uns bitte mit](/community/share-your-news.html).
 
