@@ -13,7 +13,8 @@ RISM ist seit langem die Grundlage für musikwissenschaftliche Projekte. Die fol
 
 - [RISM zitieren](community/how-to-cite-rism.html): RISM-Empfehlungen für das Zitieren von Musikhandschriften und -drucken in Publikationen.    
 - [Unikate in der RISM-Datenbank suchen](/community/finding-unica-in-rism.html): Erfahren Sie, wie Sie in der RISM-Datenbank nach gedruckten Ausgaben suchen können, die im Besitz einer einzigen Institution sind.  
-- [Die RISM-Bibliothekssigel](/community/sigla/about.html): Erläuterung der RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen  
+- [Die RISM-Bibliothekssigel](/community/sigla/about.html): Erläuterung der RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen
+- [Katalogausdrucke von RISM-Daten](/community/catalog-printouts.html): Wie Sie aus Einträgen der RISM-Datenbank einen hochwertigen PDF-Katalog für Ihre eigenen Publikationen erstellen können  
 - [RISM Catalog-Hilfeseite](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}  
 - [RISM Online-Hilfeseite](https://rism.online/about/help){:blank}  
 
@@ -33,7 +34,7 @@ Forscher, die sich mit Werken eines bestimmten Komponisten beschäftigen oder mi
 - [Die Privatsammlung von Luca Moretti](/library_collections/2023/06/01/the-archivio-musicale-luca-moretti-in-rism.html) von Luca Moretti  
 - [Die Sammlung "Master Muñoz Pedrera" im Stadtarchive von Murcia](/library_collections/2023/09/14/pedrera-collection-murcia.html) von Juan Francisco Murcia Galián   
 
-Ein Teil der RISM-Datensätze kann gesammelt und als separater Katalog gedruckt werden. Solche Kataloge können aus verschiedenen Gründen benötigt werden: um einen gedruckten Katalog der Bestände einer Sammlung zu veröffentlichen, um Förderern und Sponsoren den Nachweis zu erbringen, dass ein versprochenes Projekt erfolgreich abgeschlossen wurde oder um im Rahmen der Forschung einen Überblick über die Datensätze zu geben. Die Erstellung eines solchen Katalogs erfordert zwar gewisse IT-Kenntnisse, Musikwissenschaftler und Bibliothekare, die an ihren Heimatinstitutionen jedoch auf IT-Unterstützung zurückgreifen können, können diese Möglichkeit leicht nutzen, um die Ergebnisse ihrer Arbeit außerhalb der Hauptdatenbank von RISM online zu präsentieren. Anleitungen finden Sie auf [unserer Seite Dataservice](/community/data-services.html#catalog-printouts-of-rism-data).  
+Ein Teil der RISM-Datensätze kann gesammelt und als separater Katalog gedruckt werden. Solche Kataloge können aus verschiedenen Gründen benötigt werden: um einen gedruckten Katalog der Bestände einer Sammlung zu veröffentlichen, um Förderern und Sponsoren den Nachweis zu erbringen, dass ein versprochenes Projekt erfolgreich abgeschlossen wurde oder um im Rahmen der Forschung einen Überblick über die Datensätze zu geben. Die Erstellung eines solchen Katalogs erfordert zwar gewisse IT-Kenntnisse, Musikwissenschaftler und Bibliothekare, die an ihren Heimatinstitutionen jedoch auf IT-Unterstützung zurückgreifen können, können diese Möglichkeit leicht nutzen, um die Ergebnisse ihrer Arbeit außerhalb der Hauptdatenbank von RISM online zu präsentieren. Anleitungen finden Sie auf [unserer Seite Katalogausdrucke von RISM-Daten](/community/catalog-printouts.html).  
 
 Die folgenden Kataloge wurden auf der Grundlage von RISM-Einträgen erstellt. Einige der Veröffentlichungen sind online verfügbar.   
 
