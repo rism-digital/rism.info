@@ -1080,6 +1080,8 @@ Veit, Joachim: Editionsarbeit im Wandel – digitale (Musik-)Edition, in: Digita
 
 _Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, heruasgegeben von Nicole Schwindt. musiconn.publish, 2025. [Online verfügbar](https://doi.org/10.25366/2025.35){:blank}
 
+Nägele, Reiner und Martina Rebmann: Das Répertoire International des Sources Musicales (RISM) – ein Leuchtturm-Projekt der Geisteswissenschaften, in: Forum Musikbibliothek 46 (2025), No. 2, S. 7-16.
+
 
 ##### Anmerkung:
 
