@@ -19,7 +19,7 @@ Geschwister-Scholl-Straße 2
 D-55131 Mainz  
 
 Eine Online-Übertragung wird verfügbar sein. Wenn Sie teilnehmen möchten, melden Sie sich bitte im Voraus an (siehe unten).
-* [Flyer zur Konferenz (pdf)](\resources\publications\musical-sources-past-future-2022\2022_10_7-9_RISM-Tagung.pdf)
+* [Flyer zur Konferenz (pdf)](/resources/publications/musical-sources-past-future-2022/2022_10_7-9_RISM-Tagung.pdf)
 * Präsentationen auf dem [RISM YouTube-Kanal](https://www.youtube.com/playlist?list=PL9SyOIE9iSYJGvExsgIxUo_r5xQdm3fBY){:blank}
 * Bericht von Nicolò Ferrari: Musical sources: 70 years of RISM, in: Early Music caac061 (2022). [Online verfügbar](https://doi.org/10.1093/em/caac061){:blank}
 
