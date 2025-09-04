@@ -16,4 +16,4 @@ Die Musikabteilung ist eine wichtige Quelle für [Primärmaterialien zu Leben un
 
 Hier werden über 900 Objekte aus diesen Sammlungen präsentiert. Sie umfassen Musikmanuskripte, frühe Ausgaben gedruckter Musik, Korrespondenz, persönliche Aufzeichnungen und kommentierte Ephemera. In der Abteilung _Essays_ ist eine Biographie von Liszt enthalten.  
 
-_Abbildung_: Franz Liszt, "Fantasie über Motive aus Beethovens Ruinen von Athen, Version für Pianoforte allein," Autograph 1852. [Online verfügbar](https://hdl.loc.gov/loc.music/musliszt.100212 ){:blank} (public domain).
+_Abbildung_: Franz Liszt, "Fantasie über Motive aus Beethovens Ruinen von Athen, Version für Pianoforte allein", Autograph 1852. [Online verfügbar](https://hdl.loc.gov/loc.music/musliszt.100212){:blank} (public domain).
