@@ -29,9 +29,3 @@ _Translated by Felix Purtow_
 _Translated by John G. Lazos_
 
 If you want professionally printed copies of the brochure (at no charge), please contact us: [contact@rism.info](mailto:contact@rism.info). Let us know how many you want and in what language. Feel free to request some copies to share with your colleagues, other staff or faculty members, and students.
-
-## Data Services
-
-{% include image file="/images/news-old-website/csm_Datendienstebroschuere_86b376f1cd.jpg" pos="right" %}
-
-RISM offers interested libraries and institutions numerous supplemental opportunities for data analysis or to use the data in other projects. Download the brochure [here](/resources-old-website/community-content/Zentralredaktion/rism_datendienste-edH_klein.pdf){:target="_blank"}.

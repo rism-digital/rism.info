@@ -79,7 +79,7 @@ Konzertante Aufführung in der [Hochschule für Musik](http://www.musik.uni-main
 **Freitag, 16. September 2016**
 
 **Ort** : Johannes Gutenberg-Universität Mainz  
-[Institut für Kunstgeschichte und Musikwissenschaft](https://www.kunstgeschichte.uni-mainz.de/kontakt-id-1934/){:target="_blank"}  
+[Institut für Kunstgeschichte und Musikwissenschaft](https://www.ikm.uni-mainz.de/){:target="_blank"}  
 Abteilung Musikwissenschaft  
 Jakob-Welder-Weg 18   
 55128 Mainz

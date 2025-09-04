@@ -49,7 +49,7 @@ Mit ein wenig Suche in den Verlagsverzeichnissen von Alexander Weinmann, Karlsru
 | 16 | 3 große Märsche d. löbl Inf.Rgt.60, pf 4hands | Sauer & Leidesdorf (PN 929) | WZ: 21.9.1826 | WeinmannS 1972; D-Dl |
 | 17 | 12 Walzer für Czakan und Pianoforte | ? Bei Haslinger z.h. | WZ: 27.2.1827 | Not in Weinmann Hasl.! |
 | 18 | Die Hirtenschalmei, 6 Ländler, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 | 
-| 19 | 6 Walzer samt Trio, pf | Weigl (PN ? ) | 1827 | WeinmannW 1982 |
+| 19 | 6 Walzer samt Trio, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 |
 | 20 | 12 Walzer, pf | Weigl (PN ?) | 1827 | WeinmannW 1982 |
 | 21 | Großer Parademarsch d. löbl. Inf.Rgt.60, pf 4hands | Leidesdorf (PN 956) | WZ: 25.6.1827 | WeinmannS 1972; D-B (Imagekat I) |
 | 22 | 6 Gedichte (Um Mitternacht, Rheinweinlied, Geisternähe, Petrarchische Bettler-Ode, Vergißmeinnicht, Der Traum) V, pf | Weigl (PN ?) | WZ: 27.4.1827 | WeinmannW 1982 |
