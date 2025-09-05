@@ -20,6 +20,6 @@ Rebay war als Sängerknabe in Heiligenkreuz, und daher kam ein großer Teil sein
 
 Immer mehr stellt sich heraus, dass sich unter den über [700 Werken](https://opac.rism.info/search?View=rism&author=Rebay&siglum=A-HE){:blank}wunderschöne und bedeutende Musikstücke, besonders solche für Gitarre und Flöte, befinden.   
 
-Dozent Thomas Müller-Pering (Gitarre) und seine Studenten begeisterten beim Abschlusskonzert am Sonntag, dem 5. September 2021, im Kaisersaal des Stiftes gemeinsam mit Flötistinnen der Dozenten Chia-Ling und Wolfgang Renner. Die gesanglichen Darbietungen kamen von den TeilnehmerInnen der Klasse von Alexander und Jeannie Mayr. 
+Dozent Thomas Müller-Pering (Gitarre) und seine Studenten begeisterten beim Abschlusskonzert am Sonntag, dem 5. September 2021, im Kaisersaal des Stiftes gemeinsam mit Flötistinnen der Dozenten Chia-Ling und Wolfgang Renner. Die gesanglichen Darbietungen kamen von den Teilnehmerinnen und Teilnehmern der Klasse von Alexander und Jeannie Mayr. 
 
 Ein Musikvideo mit einer Rebay-Sonate für Solo-Gitarre wird der brasilianische Gitarrist Luiz Mantovani am Anfang des Jahres 2022 im Stift Heiligenkreuz produzieren.
