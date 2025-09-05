@@ -11,7 +11,7 @@ email: 'klaus.keil@rism.info'
 author: 'Klaus Keil'
 ---
 
-Liebe MitarbeiterInnen der Arbeitsgruppen in den Ländern, liebe Unterstützer und Freunde des RISM,   
+Liebe Mitarbeiterinnen und Mitarbeiter der Arbeitsgruppen in den Ländern, liebe Unterstützer und Freunde des RISM,   
   
 seit fast 30 Jahren bin ich Leiter der Zentralredaktion des RISM und insgesamt mehr als 37 Jahre für das RISM tätig. Da wird es Zeit zu gehen. Am 31. August 2020 werde ich aus dem Amt scheiden und in den Ruhestand treten.  
   
