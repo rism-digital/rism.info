@@ -21,13 +21,13 @@ Abschlusskonzert im Kaisersaal (21.-25. August 2018)
 Die Musik des österreichischen Komponisten Ferdinand Rebay (1880-1953) war für eine längere Zeit nur klassischen Gitarristen bekannt: Seine Werke für Gitarre(n) gerieten nie in Vergessenheit. Andere schon! Seit 2014 im Musikarchiv von Stift Heiligenkreuz (Kustos P. Roman Nägele OCist) zahlreiche Originale Rebays gefunden wurden, arbeiten P. Roman und die Musikwissenschaftlerin Dr. Maria Gelew daran, die Werke herauszugeben und bekannt zu machen.([RISM Bibliothekssigel: A-HE](https://opac.rism.info/search?View=rism&siglum=A-HE&Language=de){:target="_blank"}).
 
 **Neues fürs Kammermusik-Repertoire**
-Das geschieht nun auch schon zum 4. Mal mit einer Musikakademie: Die Musik von Ferdinand Rebay steht (neben den Werken anderer Komponisten) im Mittelpunkt: Rebays Kammermusikwerke in seltenen Besetzungen sind eine beliebte Erweiterung des Repertoires. Diese Akademie wendet sich an GitarristInnen (Dozent: Armin EGGER), SängerInnen (Dozenten: Alexander MAYR, Jeannie MAYR und Maria GELEW), FlötistInnen (Dozenten: Chia-Ling RENNER-LIAO und Wolfgang RENNER)
+Das geschieht nun auch schon zum 4. Mal mit einer Musikakademie: Die Musik von Ferdinand Rebay steht (neben den Werken anderer Komponisten) im Mittelpunkt: Rebays Kammermusikwerke in seltenen Besetzungen sind eine beliebte Erweiterung des Repertoires. Diese Akademie wendet sich an Gitarristinnen und Gitarristen (Dozent: Armin EGGER), Sängerinnen und Sänger (Dozenten: Alexander MAYR, Jeannie MAYR und Maria GELEW), Flötistinnen und Flötisten (Dozenten: Chia-Ling RENNER-LIAO und Wolfgang RENNER)
 
 **Spätromantisch - impressionistisch - modern**
 Zahlreiche Konzerte gab es in den letzten Jahren, so wurden etwa im Alten Rathaus und im Musiksalon der ÖNB teilweise von Rebays Musik echt überrascht: Trotz der guten Kontakte Rebays zu den Komponisten um Arnold Schönberg (2. Wr. Schule) blieben Rebays Werke [spätromantisch, impressionistisch](http://www.stift-heiligenkreuz-sammlungen.at/musikarchiv/ferdinand-rebay/hoerbeispiele/){:target="_blank"}.
 
 **Öffentliches Schlusskonzert im Kaisersaal**
-Auch am Schluss der 4. Internationalen Musikakademie Ferdinand Rebay steht ein öffentliches Konzert der teilnehmenden MusikerInnen mit ihren Dozenten und Dozentinnen, und zwar im einzigartigen Ambiente des Kaisersaals im Stift (Sa., 25. August 2018 um 16:00 Uhr, Eintritt frei)
+Auch am Schluss der 4. Internationalen Musikakademie Ferdinand Rebay steht ein öffentliches Konzert der teilnehmenden Musizierenden mit ihren Dozenten und Dozentinnen, und zwar im einzigartigen Ambiente des Kaisersaals im Stift (Sa., 25. August 2018 um 16:00 Uhr, Eintritt frei)
 
 Info und Ausschreibung:[www.stift-heiligenkreuz-sammlungen.at](http://www.stift-heiligenkreuz-sammlungen.at){:target="_blank"}
 Kontakt:[p.roman@stift-heiligenkreuz.at](mailto:p.roman@stift-heiligenkreuz.at)

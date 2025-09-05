@@ -26,7 +26,7 @@ Deshalb behaupte ich: zum Profil eines Handschriften-Experten gehören auch Kenn
 
 Des Weiteren gehört zum Tätigkeitsfeld eines Handschriften-Experten das verbale Einflussnehmen auf die Erhaltung gefährdeter Quellen, also auf die Bewahrung ihres Arbeitsgegenstandes Handschriften.
 
-Die sieben Mitarbeiter der deutschen Arbeitsgruppe fertigen jährlich ca. 10.000 Titelaufnahmen an und müssen dazu ca. 5.000 Musik-Handschriften in ihre Hände nehmen. Die meisten Notenblätter davon *wirken*robust und unverwüstlich. Die überwiegend dunkelbraune Noten-Schrift steht oft wie eine schöne Grafik auf beige-farbigem Papier. Die Blätter sind oft so schön, dass man sie rahmen und an die Wand hängen möchte.
+Die sieben Mitarbeiter der deutschen Arbeitsgruppe fertigen jährlich ca. 10.000 Titelaufnahmen an und müssen dazu ca. 5.000 Musik-Handschriften in ihre Hände nehmen. Die meisten Notenblätter davon *wirken* robust und unverwüstlich. Die überwiegend dunkelbraune Noten-Schrift steht oft wie eine schöne Grafik auf beige-farbigem Papier. Die Blätter sind oft so schön, dass man sie rahmen und an die Wand hängen möchte.
 
 Mit ihrem geschulten Auge und manchmal auch mit ihrer qualifizierten Nase aber bemerken unsere RISM-Mitarbeiter, dass nicht wenige dieser gut aussehenden Musikalien geschädigt sind, dass sie Gefahr laufen, langfristig zerstört zu werden.
 

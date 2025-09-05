@@ -11,7 +11,7 @@ email: 'contact@rism.info'
 author: 'Miquela Döppenschmitt'
 ---
 
-_Im Oktober 2020 bot die RISM-Zentralredaktion erstmals ein Gemeinschaftspraktikum an. Im Laufe des Jahres gingen mehrere Bewerbungen von StudentInnen ein, die sich für ein Praktikum interessierten. Unter der Corona-Situation angepassten Bedingungen wurde diesmal vier PraktikantInnen zeitgleich ein Praktikumsplatz angeboten. Miquela Döppenschmitt berichtet als erste von ihren Erfahrungen._  
+_Im Oktober 2020 bot die RISM-Zentralredaktion erstmals ein Gemeinschaftspraktikum an. Im Laufe des Jahres gingen mehrere Bewerbungen von Studentinnen und Studenten ein, die sich für ein Praktikum interessierten. Unter der Corona-Situation angepassten Bedingungen wurde diesmal vier Praktikantinnen und Praktikanten zeitgleich ein Praktikumsplatz angeboten. Miquela Döppenschmitt berichtet als erste von ihren Erfahrungen._  
   
 Im Zuge des Studiums an der Johann-Wolfgang-Goethe Universität in Frankfurt am Main gehört es zu der Pflicht eines jeden Studierenden des Fachs Musikwissenschaft ein Praktikum von ca. 150 Arbeitsstunden in der Rhein-Main-Region zu absolvieren. Durch die Absolvierung eines Praktikums erwerben wir Studierende Kompetenzen in der Anwendung der Studieninhalte in professionellem Rahmen, die in einem Bericht dargelegt werden. Zusätzlich besuchen wir ein berufsorientiertes Seminar, in dem Lehrbeauftragte aus der Praxis Arbeitstechniken aus dem musikwissenschaftlichen Berufsalltag vermitteln.   
   
