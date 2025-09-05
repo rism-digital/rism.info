@@ -14,7 +14,7 @@ author: ''
 _Vier Mitarbeiter der RISM-Zentralredaktion nahmen am jährlich stattfindenden Kongress der [International Association of Music Libraries, Archives and Documentation Centres](https://www.iaml.info/congresses/2018-leipzig){:target="_blank"} in Leipzig teil. Der Tradition des [Kongresstagebuchs](https://www.iaml.info/tags/congress-diary-kongresstagebuch-journal-de-bord-du-congres){:target="_blank"} folgend schildern wir - jeder in seiner Muttersprache - unsere Eindrücke._
 
 **Von Klaus Keil:**
-Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie möglich präsent zu machen. Dazu hatten meine KollegenInnen und ich, sowie diverse MitarbeiterInnen aus Ländergruppen so viel Gelegenheit wie bisher noch nie:
+Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie möglich präsent zu machen. Dazu hatten meine Kolleginnen, Kollegen und ich, sowie diverse Mitarbeiterinnen und Mitarbeiter aus Ländergruppen so viel Gelegenheit wie bisher noch nie:
 
 - Wir hatten am Dienstag, 24. Juli, vier Muscat-Workshops in englischer und zwei in deutscher Sprache.
 
@@ -25,7 +25,7 @@ Meine Aufgabe auf dem Kongress in Leipzig war es, RISM so umfangreich wie mögli
 - Am Freitag, 27. Juli, fand die von mir geleitete Open Session statt. Kurzfristig hatte sich Frau Ward daneben noch für die Hot-Topics Session angemeldet.
 
 
-Neben diesen "offiziellen" RISM-Veranstaltungen waren RISM Ländergruppen MitarbeiterInnen beteiligt an sechs weiteren Veranstaltungen, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
+Neben diesen "offiziellen" RISM-Veranstaltungen waren Mitarbeiterinnen und Mitarbeiter von verschiedenen RISM Ländergruppen an sechs weiteren Veranstaltungen  beteiligt, worunter vor allem die von Sonia Wronkowska geleitete Sitzung “Cataloguing and documenting music manuscripts around the world” hervorstach, in der die griechische Arbeitsgruppe und die Chinese Speaking Region Working Group ausführlich zu Wort kamen.
 
 RISM wurde ansonsten bei vielen Vorträgen genannt, angefangen vom Eröffnungsvortrag durch Peter Wollny, bei Roland Schmidt-Hensels und Sabine Kurths Bericht über das Archiv des Schott Verlags und vielen mehr.
 

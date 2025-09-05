@@ -15,7 +15,7 @@ _RISM nahm an dem jährlichen [Kongress der International Association of Music L
 
 **Klaus Keil:**
 Dass der IAML Kongress diesmal in Krakov statt fand, war für mich eine besondere Freude. Vor mehr als 40 Jahren war ich schon einmal hier, erinnerte mich aber nur noch an das historisches Stadtzentrum, das damals noch weit von einem Touristenmagnet entfernt war.
-Das Auditorium Maximum erwies sich als geeigneter Ort für einen Kongress und nicht zuletzt die engagierte Hilfe der KollegInnen vor Ort machten es den Vortragenden leicht. Die RISM Sitzungen waren so erfolgreich. In vielen anderen Sitzungen waren Quellen und deren Erschließung ein Thema, was sehr lehrreich war.
+Das Auditorium Maximum erwies sich als geeigneter Ort für einen Kongress und nicht zuletzt die engagierte Hilfe der Kolleginnen und Kollegen vor Ort machten es den Vortragenden leicht. Die RISM Sitzungen waren so erfolgreich. In vielen anderen Sitzungen waren Quellen und deren Erschließung ein Thema, was sehr lehrreich war.
 Schade nur, dass einige russische Kolleginnen vorgeblich weil sie kein Visum bekommen hatten, Ihre Präsentationen nicht vortragen konnten.
 Es war dies mein vorletzter IAML Kongress in der Position als Leiter der RISM Zentralredaktion. Es ist schön zu sehen, wie IAML sich anpasst, getragen von vielen jungen, engagierten Leuten in den vielen Bereichen, die in Musikbibliotheken ausgefüllt werden. Darunter wird auch in Zukunft die Musikdokumentation von historischen Quellen ihre Rolle spielen.
 
