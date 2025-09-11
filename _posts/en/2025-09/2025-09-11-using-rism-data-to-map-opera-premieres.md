@@ -36,7 +36,7 @@ As something of an afterthought, I added a favorite data layer of the mapping co
 
 The resulting map bears this out, with opera’s first heartbeats in northern Italy visible while the 30 Years’ War rages in Central Europe. I am also struck by how opera premieres were concentrated in centers of power, regardless of the state’s size. In France and England, operas were almost exclusively restricted to capital cities and their surrounds, while the diversity of Italian and Central European states provided many more centers for operatic activity.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A2WdjyKQ57A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kcf_H5wx1jc" frameborder="0" allowfullscreen></iframe>
 
 
 There is much room to improve. The dataset includes some improbably large numbers (457 opera premieres in Vienna in 1786? I know it was a hotbed of activity, but really?) which are probably the result of multiple entries relating to popular operas (in this case _Le Nozze di Figaro_). Therefore, I decided to show the data as circles of different sizes on a logarithmic scale to indicate relative operatic activity rather than absolute numbers.
