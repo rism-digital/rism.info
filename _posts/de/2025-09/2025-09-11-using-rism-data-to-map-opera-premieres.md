@@ -36,7 +36,7 @@ Als Nachtrag habe ich eine bei der Kartografie-Community beliebte Datenebene hin
 
 Die daraus resultierende Karte bestätigt dies. Während in Mitteleuropa der Dreißigjährige Krieg tobt, sind die ersten Anfänge der Oper in Norditalien zu erkennen. Mich beeindruckt auch, wie sehr sich Opernpremieren auf Machtzentren konzentrierten – unabhängig von der Größe des Staates. In Frankreich und England waren Opern fast ausschließlich auf die Hauptstädte und deren Umgebung beschränkt, während die Vielfalt der italienischen und mitteleuropäischen Staaten viel mehr Zentren für Opernaktivitäten bot.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A2WdjyKQ57A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kcf_H5wx1jc" frameborder="0" allowfullscreen></iframe>
 
 
 Es gibt viel Raum für Verbesserungen. So enthält der Datensatz einige unwahrscheinlich hohe Zahlen. 457 Opernpremieren in Wien im Jahr 1786? Ich weiß, dass Wien eine Hochburg der Aktivität war, aber 457 Opernpremieren sind doch sehr unwahrscheinlich. Wahrscheinlich sind diese Zahlen das Ergebnis mehrfacher Einträge zu beliebten Opern, in diesem Fall zu _Le Nozze di Figaro_. Daher habe ich mich entschlossen, die Daten als Kreise unterschiedlicher Größe auf einer logarithmischen Skala darzustellen, um die relative Opernaktivität anstelle der absoluten Zahlen anzuzeigen.
