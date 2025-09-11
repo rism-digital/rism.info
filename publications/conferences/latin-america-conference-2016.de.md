@@ -25,7 +25,7 @@ Der Austausch von Musikwerken – in unserem Fall, Musikwerke - zwischen Europa 
 
 Einer näheren Erforschung steht entgegen, dass die Quellen noch im Verborgenen liegen und selbst bei großen Bibliotheken die Beschreibung und Katalogisierung noch am Anfang steht. Gleichzeitig ist aber in den vergangenen Jahren ein großes Interesse in Län­dern wie Mexiko, Chile, Brasilien oder Kuba festzustellen, Musikalien als Teil des materiellen kul­turellen Erbes zu begreifen und einer Aufarbeitung zuzuführen. Um dieser Situation zu begegnen, soll die Erfassung der Quellen und der Austausch bereits erhobe­ner Daten mit RISM - in der Musikwissenschaft der umfangreichste internationale Nachweisort für Quellen - organisiert werden, um dadurch die Voraussetzungen für die Untersuchung der Quellen und Analyse der Verbreitungswege sowie die damit einhergehende Rezeption europäischer Musik zu schaffen, die in eigenen Folgeprojekten in Kooperation mit lateinamerikanischen Forschungsein­richtungen vorgesehen ist.
 
-Auf der Konferenz werden hochrangige Musikwissenschaftler/Innen und Bibliothekare/Innen über den derzeitigen Stand der Beschreibung von Quellen in ihren Ländern und den Forschungsstand zum Kulturaustausch berichten, und es soll der weitere Fortgang sowie der Austausch der Daten vereinbart werden.
+Auf der Konferenz werden hochrangige Musikwissenschaftlerinnen und Musikwissenschaftler wie auch Bibliothekarinnen und Bibliothekare über den derzeitigen Stand der Beschreibung von Quellen in ihren Ländern und den Forschungsstand zum Kulturaustausch berichten, und es soll der weitere Fortgang sowie der Austausch der Daten vereinbart werden.
 
 # Programm
 
