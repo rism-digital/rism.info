@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Private Collections and Libraries - Part 2"
+title: "Privatsammlungen und -bibliotheken - Teil 2"
 date: 2025-09-18
 lang: de
 post: true
