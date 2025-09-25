@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Private collections and libraries"
+title: "Private collections and libraries - Part 1"
 date: 2025-05-15
 lang: en
 post: true
@@ -25,6 +25,8 @@ D-Hbierwisch (private collection of Martin Bierwisch, [RISM Catalog](https://opa
 Our second example D-ESrheinfurth ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=D-ESrheinfurth){:blank} \| [RISM Online](https://rism.online/institutions/30080448){:blank}) proves instructive by shedding light on the current situation of a collection built by our colleague Dr. Hans Rheinfurth who sadly passed away in 2023. The collection is now partially up for sale at the music antiquarian Wolfgang Stöger with a selection of 75 items. The ca. 1,400 printed editions will therefore lose their context in the foreseeable future. Unfortunately, the Rheinfurth collection has not been cataloged for RISM, except for a single source. Nevertheless, the antiquarian’s documentation of the sources will still be able to convey the impression of an organically developed collection for future research. Dr. Rheinfurth’s collecting concentrated on ephemeral prints from German publishers of the early 19th century, including some rare and unique items. For the editions by Gombart, Hofmeister, and Böhme, separate catalogs are to be published in 2025/26.
 
 In a few weeks’ time, in the second part of this introduction to private libraries, we shall take a closer look at collections that have a long history of continuity or have found a safe haven in an institution relatively recently. In addition, the relocation of private households together with their collections will also be discussed.
+
+Part 2 of this text can be found [here](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}.
 
 Image: Music prints from the private collection of Martin Bierwisch (with kind permission). 
 
