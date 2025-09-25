@@ -20,6 +20,8 @@ Finally, we would like to address the question of what happens to the RISM siglu
 
 We are currently working on combining the different types of private collections and libraries appearing in our database under the single label “private collection,” and thereby make them easier to find and search. This process requires quite a bit of technical and manual work on our data. With that in mind, our readers may kindly expect a third (and final) part of this topical overview in a mere few weeks’ time.
 
+Part 1 of this text can be found [here](/new_at_rism/2025/05/15/private-collections-and-libraries-1.html){:blank}
+
 Image: Music prints from the private collection of Martin Bierwisch (with kind permission). 
 
 
