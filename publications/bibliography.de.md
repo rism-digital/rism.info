@@ -1068,6 +1068,8 @@ Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music C
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
 
+Fromme, Daniel: Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek, in Bibliotheken heute 21 (2025), Heft 1, S. 27-29. [Online verfügbar](https://lbz.rlp.de/fileadmin/lbz/UEber-uns/Publikationen/bibliotheken-heute/bibliotheken-heute-25-1-web.pdf){:blank}
+
 Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
 
 Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
