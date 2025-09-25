@@ -20,6 +20,8 @@ Zum Schluss möchten wir der Frage nachgehen, was geschieht mit dem Standortnach
 
 Zur Zeit arbeiten wir daran, die unterschiedlichen Typen von Privatsammlungen und -bibliotheken, die in unserer Datenbank als Institutionen geführt werden, unter dem Terminus „Privatsammlung“ zusammenzuführen und besser suchbar zu machen. Das erfordert noch etwas technische und händische Arbeit an den Einträgen. Erwarten Sie also noch den dritten und letzten Teil zum Thema in wenigen Wochen.
 
+Teil 1 dieses Beitrags finden Sie [hier](/new_at_rism/2025/05/15/private-collections-and-libraries-1.html){:blank}.
+
 Abbildung: Musikdrucke aus der Privatsammlung Martin Bierwisch (mit freundlicher Genehmigung). 
 
 
