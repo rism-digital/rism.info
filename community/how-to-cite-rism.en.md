@@ -25,7 +25,7 @@ Use [RISM library sigla](/community/sigla.html). This saves space in your public
 
 To cite musical sources that have records in the RISM database, use the RISM ID number.  
 
-In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, this number appears in the bottom right-hand corner of a record.
+In the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank}, this number appears in the bottom left-hand corner of a record.
 
 In [RISM Online](https://rism.online/){:blank}, this number appears in the first section, "Title and content description."  
 
