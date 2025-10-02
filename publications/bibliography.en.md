@@ -1031,6 +1031,8 @@ Herrmann-Schneider, Hildegard. "Die Vision des hl. Bernhard vom Klosterbau und d
 
 Herrmann-Schneider, Hildegard. "Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams." Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Available online](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
+Konik, Marcin. “'Heritage of Polish Music in Open Access': digitalising and cataloguing Wawel music collection." _Pro Musica Sacra_ 19 (2021): 131–136. [Available online](https://doi.org/10.15633/pms.4118){:blank}.   
+
 Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg." musiconn.publish (2021). [Available online](https://doi.org/10.25366/2021.23){:blank}.  
 
 Loos, Helmut. "Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis." _Lithuanian Musicology / Lietuvos muzikologija_ 22 (2021): 24–33. [Available online](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}.  
