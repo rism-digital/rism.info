@@ -4,7 +4,7 @@ title: 'Conference of the RISM Working Group Germany "Music Prints and Digital T
 date: 2025-10-02
 lang: en
 post: true
-category: evenrs
+category: events
 image: "/images/news/2025-10/Teaserbild RISM Tagung_klein.jpg"
 email: ''
 author: ""
