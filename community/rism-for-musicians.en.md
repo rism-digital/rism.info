@@ -13,6 +13,9 @@ Our database can help you discover new repertoire or put together exciting conce
 
 On this page we have listed some search strategies that can serve as a starting point for your own research. First, please read "[A Word about RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" by gambaist and musicologist Bettina Hoffmann.    
 
+{% include image file="/images/community/carminum-pro-testudine-titlepage.jpg" %}
+
+
 ## Searching by instrument  
 
 - [Searching by Instrumentation in the RISM Catalog](/rism_online_catalog/2016/12/12/searching-by-instrumentation-in-rism.html)   
