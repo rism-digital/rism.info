@@ -20,6 +20,16 @@
         fr: RISM for Researchers
       link: "/community/rism-for-researchers.html"
     - name:
+        en: RISM for Librarians
+        de: RISM for Librarians
+        fr: RISM for Librarians
+      link: "/organization/rism-for-libraries.html"
+    - name:
+        en: RISM for Musicians
+        de: RISM for Musicians
+        fr: RISM for Musicians
+      link: "/community/rism-for-musicians.html"          
+    - name:
         en: How to Cite RISM
         de: RISM zitieren
         fr: How to Cite RISM

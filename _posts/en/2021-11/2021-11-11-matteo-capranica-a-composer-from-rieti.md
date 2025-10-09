@@ -28,7 +28,7 @@ Berlin is also home to a _Dixit Dominus_ for five voices and instruments. Furthe
 
 Two oratorios, _Debora_ and _San Gaetano_ are also known through surviving libretti. A _Cantata di Calendimaggio_, celebrating the arrival of spring, was performed in Malta in 1748.
 
-His only known instrumental works — some toccatas for cembalo  and a duet for two violins — are preserved in the Fondo Noseda.
+His only known instrumental works — some toccatas for cembalo and a duet for two violins — are preserved in the Fondo Noseda.
 
 A collection of charming, virtuous "Solfeggi di Contraldo" [sic], which are preserved in the National Library of Portugal, completes our picture of the composer's known works.  
 
