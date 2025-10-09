@@ -1031,6 +1031,8 @@ Herrmann-Schneider, Hildegard. "Die Vision des hl. Bernhard vom Klosterbau und d
 
 Herrmann-Schneider, Hildegard. "Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams." Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Available online](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}.  
 
+Konik, Marcin. “'Heritage of Polish Music in Open Access': digitalising and cataloguing Wawel music collection." _Pro Musica Sacra_ 19 (2021): 131–136. [Available online](https://doi.org/10.15633/pms.4118){:blank}.   
+
 Lauterwasser, Helmut. "Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg." musiconn.publish (2021). [Available online](https://doi.org/10.25366/2021.23){:blank}.  
 
 Loos, Helmut. "Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis." _Lithuanian Musicology / Lietuvos muzikologija_ 22 (2021): 24–33. [Available online](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}.  
@@ -1067,6 +1069,8 @@ Kempf, Klaus. "The bibliographic control of music in the digital ecosystem. The 
 
 Krämer, Kristina. "Two Hundred Years of Printed Music History." Notes for _Notes_. _Notes_ 79, no. 1 (September 2022): 54. [Available online](https://doi.org/10.1353/not.2022.0064){:blank}; and Briefs/Feuilletons. _Fontes Artis Musicae_ 69, no. 2 (April-June 2022): 139. [Available online](https://muse.jhu.edu/article/862514){:blank}.  
 
+Harren, F.M.J. "Where is that manuscript? Data quality of geographic data in RISM." Master's thesis, The Hague University of Applied Sciences, 2022.
+
 Heinz-Kronberger, Gottfried. "Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek." _Bibliothek und Wissenschaft (BuW)_ 55 (2022): 121-134.  
 
 Richts-Matthaei, Kristina and Irmlind Capelle. "United, Linked, Connected – A Data Model for the Inventory of the Former Detmold Court Theatre (1825–1875), or: How Library Inventory History Can also Be Told." In _Music Encoding Conference Proceedings 2021_, edited by Stefan Münnich and David Rizo, 107–115. Humanities Commons. 2022. [Available online](https://doi.org/10.17613/bqd1-yf81){:blank}.  
@@ -1091,13 +1095,15 @@ Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebe
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
-Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer  Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
+Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
 
 "Updating RISM Series C." Briefs/Feuilletons. _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in Notes for _Notes_. _Notes_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 
 Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digitale Medien und die Produktion von Wissenschaft. Medienbildung und Gesellschaft_, edited by Thomas Kurtz, Dorothee M. Meister, and Uwe Sander, 189-221. Medienbildung und Gesellschaft 47. Wiesbaden: Springer VS, 2024. [Available online](https://doi.org/10.1007/978-3-658-42542-5_11){:blank}.  
 
 #### 2025  
+
+Fromme, Daniel. "Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek." _Bibliotheken heute_ 21, no. 1 (2025): 27-29. [Available online](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}.  
 
 _Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}.    
 

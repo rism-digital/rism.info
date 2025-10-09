@@ -15,15 +15,14 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ### Dresden (IAML-Deutschland Jahrestagung)  
 
-Am 16. September 2025 wird ein Workshop "Katalogisieren von Musikdrucken in Muscat" während der Jahrestagung der IAML-Deutschland in Dresden stattfinden. Details, einschließlich Informationen zur Anmeldung, finden Sie auf [der IAML-Deutschland-Seite](https://iaml-deutschland.info/2025-dresden/){:blank}.
-
+Ein Muscat-Workshop wird von der Facultad de Artes, Universidad Nacional de Córdoba veranstaltet und von Luciana Giron Sheridan 20. September, 11. Oktober, 1. November und 22. November 2025 organisiert. 
 
 #### Online  
 
 Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
  
 
-### Spezialthema: Musikdrucke  (in englischer Sprache)
+### Spezialthema: Musikdrucke (in englischer Sprache)
 
 Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikdrucke in Muscat katalogisieren möchten. Zu den behandelten Themen gehören die Struktur von Datensätzen, die Verbesserung von RISM-Datensätzen, die Erstellung neuer Datensätze und Konvolute (zusammengebundene Drucke und Manuskripte). Vertrautheit mit Muscat und den Katalogisierungsregeln von RISM ist erforderlich.  
 
@@ -31,6 +30,9 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 
 ## Vergangene Workshops und Vorführungen
+
+* 16\. September 2025: Katalogisieren von Musikdrucken in Muscat, [Jahrestagung der IAML-Deutschland in Dresden](https://iaml-deutschland.info/2025-dresden/){:blank}
+_Martina Falletta, RISM-Zentralredaktion; Amrei Flechsig und Andrea Hartmann, RISM Deutschland, Arbeitsstelle Dresden_  
 
 * 8\. Juli 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
 _Jennifer Ward, Balázs Mikusi, RISM-Zentralredaktion_ 
