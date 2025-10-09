@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Privatsammlungen und -bibliotheken"
+title: "Privatsammlungen und -bibliotheken - Teil 1"
 date: 2025-05-15
 lang: de
 post: true
@@ -25,5 +25,7 @@ D-Hbierwisch (Privatsammlung Martin Bierwisch, [RISM Catalog](https://opac.rism.
 Das zweite Beispiel D-ESrheinfurth (Privatbibliothek Dr. Hans Rheinfurth, [RISM Catalog](https://opac.rism.info/search?View=rism&siglum=D-ESrheinfurth){:blank} \| [RISM Online](https://rism.online/institutions/30080448){:blank}) beschreibt die aktuelle Situation der Sammlung unseres leider im Jahre 2023 verstorbenen Kollegen. Sie steht nun in Teilen beim Musikantiquariat Wolfgang Stöger mit einer Auswahl von 75 Stück zum Verkauf. Die Sammlung von ca. 1.400 Notendrucken wird somit in absehbarer Zeit ihren Zusammenhang verlieren. Leider wurde Herr Rheinfurths Sammlung in der Vergangenheit nicht beim RISM dokumentiert, bis auf eine einzige Quelle. Doch immerhin wird die Dokumentation der Sammlung durch den Antiquar auch in der Zukunft noch ein Bild von einem organisch gewachsenen Bestand vermitteln können. Die Sammeltätigkeit Herrn Rheinfurths konzentrierte sich auf tagesaktuelle Drucke deutscher Verlage des frühen 19. Jahrhunderts. Darunter befinden sich einige Rara und Unikate. Für Titel der Verlage Gombart, Hofmeister und Böhme sind in 2025/26 Kataloge geplant.
 
 In wenigen Wochen möchten wir im zweiten Teil über Privatbibliotheken auf Bestände eingehen, die eine lange Kontinuität aufweisen, oder noch relativ jung im Bestand einen sicheren Hafen in einer Institution gefunden haben. Darüber hinaus sollen auch die Umzüge privater Haushalte samt ihrer Sammlungen thematisiert werden.
+
+Teil 2 dieses Beitrags finden Sie [hier](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}.
 
 Abbildung: Musikdrucke aus der Privatsammlung Martin Bierwisch (mit freundlicher Genehmigung). 

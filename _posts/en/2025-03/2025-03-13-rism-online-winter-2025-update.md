@@ -46,7 +46,7 @@ A few other examples:
 
  - `creator:Palestrina NOT siglum:V-CVbav` [\[Try it out\]](https://rism.online/search?q=creator:Palestrina%20NOT%20siglum:V-CVbav){:blank} Find sources whose creator is Palestrina, but not found in the Vatican library
  - `title:Erlkönig -Schubert` [\[Try it out\]](https://rism.online/search?q=title:Erlkönig%20-Schubert){:blank} Retrieve sources with the title "Erlkönig" but the term "Schubert" is not in the record
- - `creator:Purcell AND (siglum:F-* OR  siglum:I-*)` [\[Try it out\]](https://rism.online/search?q=creator:Purcell%20AND%20(siglum:F-*%20OR%20siglum:I-*)){:blank} Retrieve sources by Purcell that are located either in France or Italy
+ - `creator:Purcell AND (siglum:F-* OR siglum:I-*)` [\[Try it out\]](https://rism.online/search?q=creator:Purcell%20AND%20(siglum:F-*%20OR%20siglum:I-*)){:blank} Retrieve sources by Purcell that are located either in France or Italy
  - `series:P? 2640` [\[Try it out\]](https://rism.online/search?q=series:P?%202640){:blank} Retrieve sources that match "P 2640" in the older RISM series identifiers (e.g., A/I), but allow for the alternative "PP 2640" with a single-character wildcard.
 
 ## Mobile User Interface

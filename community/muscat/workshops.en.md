@@ -15,9 +15,9 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-### IAML Germany Conference, Dresden  
+### Facultad de Artes, Universidad Nacional de Córdoba, Argentina
 
-A workshop called “Katalogisieren von Musikdrucken in Muscat” will take place during the annual conference of IAML Germany on 16 September 2025. For more information, see the [IAML Germany website](https://iaml-deutschland.info/2025-dresden/){:blank}.   
+A Muscat workshop will be hosted by the Facultad de Artes, Universidad Nacional de Córdoba and is organized by Luciana Giron Sheridan on the following dates in 2025: September 20, October 11, November 1, November 22.  
 
 ### Introduction to Muscat  
 
@@ -36,6 +36,9 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 16 September 2025: Katalogisieren von Musikdrucken in Muscat, [IAML Germany annual conference](https://iaml-deutschland.info/2025-dresden/){:blank}, Dresden    
+_Martina Falletta, RISM Editorial Center; Amrei Flechsig and Andrea Hartmann, RISM Germany, Dresden Office_  
 
 * 8 July 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
 _Jennifer Ward, Balázs Mikusi, RISM Editorial Center_
