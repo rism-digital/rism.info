@@ -16,4 +16,4 @@ So bieten unsere Daten Hilfe bei der Erarbeitung eines neuen Repertoires oder de
 
 Auf [unserer neuen Seite RISM für Musizierende](/community/rism-for-musicians.html){:blank} haben wir einige Sucheinstiege aufgelistet, die als Ausgangspunkt für eigene Recherchen dienen können.
 
-Abbildung: _Carminum pro Testudine_, Louvain, Pierre Phalèse, 1546. RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104830){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}, Exemplar A-Wn [Online verfügbar](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank} (Digitale Angebote/Österreichische Nationalbibliothek).
+Abbildung: _Carminum pro Testudine_, Louvain, Pierre Phalèse, 1546. RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104830){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}), Exemplar A-Wn [Online verfügbar](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank} (Digitale Angebote/Österreichische Nationalbibliothek).
