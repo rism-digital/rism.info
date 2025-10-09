@@ -1017,6 +1017,9 @@ Herrmann-Schneider, Hildegard: Die Vision des hl. Bernhard vom Klosterbau und da
 
 Herrmann-Schneider, Hildegard: Vom Gebrauchsgut zum Kulturgut: Das Musikarchiv des Zisterzienserstiftes Stams, in: Ordensgemeinschaften Österreich/Kultur und Dokumentation, April 21, 2021. [Online verfügbar](https://www.ordensgemeinschaften.at/kultur/aktuelles/1587-vom-gebrauchs-zum-kulturgut-das-musikarchiv-des-zisterzienserstiftes-stams){:blank}  
 
+Konik, Marcin: Heritage of Polish Music in Open Access: digitalising and cataloguing Wawel music collection, in: Pro Musica Sacra 19 (2021), S. 131–136.
+[Online verfügbar](https://doi.org/10.15633/pms.4118){:blank}
+
 Loos, Helmut: Metropolises or Regions? The Problem and an Approach Using RISM Data - Metropoliai ar regionai? Problema ir požiūris, grindžiamas RISM duomenimis, in: Lithuanian Musicology / Lietuvos muzikologija 22 (2021), S. 24–33. [Online verfügbar](http://xn--urnalai-cxb.lmta.lt/wp-content/uploads/2022/02/03_Loos-LM22.pdf){:blank}
 
 Platt, Heather: The Digital Humanities and Nineteenth-Century Music: An Introductory Overview, in: Nineteenth-Century Music Review 18 (2021), no. 1. [Online verfügbar](https://doi.org/10.1017/S1479409820000014){:target="_blank"}
@@ -1043,6 +1046,8 @@ _Fontes artis musicae_ 69, no 3 (July–September 2022). Special Topic: In Celeb
 - Morgan, Emerson, Christina Linklater und Pramantha Tagore: 'Pure or Tainted?': Representing a Source of Colonial Bengali-English Music in RISM, in: _Fontes artis musicae_ 69, no. 3 (July–September 2022), S. 229-251. [Online verfügbar](https://muse.jhu.edu/article/867384){:blank}
 
 Geyer, Brigitte, Brigitte Knödler-Kagoshima, Kirsten Krumeich, Reiner Nägele, Martina Rebmann, Jana Madlen Schütte, Michael Werthmann und Barbara Wiermann: Musiknoten digital - Zum Stand der Musikaliendigitalisierung in Deutschland, in: Zeitschrift für Bibliothekswesen und Bibliographie 69 (2022), Nr. 4, S. 196-209. [Online verfügbar](http://dx.doi.org/10.3196/186429502069422){:blank}
+
+Harren, F.M.J.: Where is that manuscript? Data quality of geographic data in RISM. Master's thesis, The Hague University of Applied Sciences, 2022.
 
 Gottfried Heinz-Kronberger: Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek, in: Bibliothek und Wissenschaft: BuW 55 (2022), S. 121-134.
 
@@ -1072,7 +1077,7 @@ Fromme, Daniel: Revision der historischen Musikdrucke im LBZ / Pfälzische Lande
 
 Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
 
-Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
+Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
 
 "Updating RISM Series C." Briefs/Feuilletons, in: Fontes Artis Musicae 71 (2024), S. 162. [Online verfügbar](https://muse.jhu.edu/pub/287/article/936315){:blank}. Auch erschienen in Notes 81 (2024), S. 87-88. [Online verfügbar](https://muse.jhu.edu/pub/7/article/934841){:blank}
 
