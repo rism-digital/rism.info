@@ -13,6 +13,9 @@ So bieten unsere Daten Hilfe bei der Erarbeitung eines neuen Repertoires oder de
 
 Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspunkt für eigene Recherchen dienen können. Bitte lesen Sie zunächst "[Ein Wort über RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" von der Gambistin und Musikwissenschaftlerin Bettina Hoffmann.    
 
+{% include image file="/images/community/carminum-pro-testudine-titlepage.jpg" %}
+
+
 ## Suche nach Besetzung  
 
 - [Suche nach Besetzung im RISM Catalog](/rism_online_catalog/2016/12/12/searching-by-instrumentation-in-rism.html)   
@@ -61,4 +64,9 @@ Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspun
 ## Weitere Aspekte
 - [Widmungsträger der Musikdrucke](/events/2022/02/14/musical-dedications-in-love-and-friendship.html)
 - [Neue Personen in 2021](/new_at_rism/2022/02/24/new-people-in-the-rism-online-catalog-2021.html)   
-- [Elektronische Werkverzeichnisse](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)  
+- [Elektronische Werkverzeichnisse](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)
+
+
+## Senden Sie uns Ihre Anmerkungen  
+
+Wenn Sie Anmerkungen zu einem Datensatz in der RISM-Datenbank haben, senden Sie uns bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info) oder über jeden Datensatz im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} („Ihre Meldung zum Titel“ auf der linken Seite des Datensatzes) oder in  [RISM Online](https://rism.online/){:blank} („Ein Problem melden“ am unteren Rand des Datensatzes).
