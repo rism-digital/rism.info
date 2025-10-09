@@ -1095,7 +1095,7 @@ Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebe
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
-Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer  Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
+Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
 
 "Updating RISM Series C." Briefs/Feuilletons. _Fontes Artis Musicae_ 71, no. 2 (April-June 2024): 162. [Available online](https://muse.jhu.edu/pub/287/article/936315){:blank}. Also published in Notes for _Notes_. _Notes_ 81, no. 1 (September 2024): 87-88. [Available online](https://muse.jhu.edu/pub/7/article/934841){:blank}.
 

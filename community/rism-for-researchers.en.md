@@ -73,7 +73,7 @@ We have also published subsets of the data in spreadsheets that can be used for 
     - [2024](/musical_anniversaries/2024/01/11/musical-anniversaries-in-2024.html)  
     - [2025](/musical_anniversaries/2025/01/09/musical-anniversaries-in-2025.html)  
 - Women composers  
-    - [2017](/events/2017/03/08/international-womens-day-women-composers-in.html) and [update](/new_at_rism/2017/06/29/eight-more-women-composers.html) and [another  update](/new_at_rism/2017/10/19/twelve-more-women-composers.html)   
+    - [2017](/events/2017/03/08/international-womens-day-women-composers-in.html) and [update](/new_at_rism/2017/06/29/eight-more-women-composers.html) and [another update](/new_at_rism/2017/10/19/twelve-more-women-composers.html)   
     - [2021](/events/2021/03/08/international-womens-day-2021-women-composers-rism.html)   
     - [2025](/events/2025/03/06/international-womens-day-women-composers.html)
 - [Dedicatees in printed music](/events/2022/02/14/musical-dedications-in-love-and-friendship.html)   
