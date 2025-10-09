@@ -9,11 +9,11 @@ permalink: /community/rism-for-musicians.html
 
 Obwohl RISM zur Zeit seiner Gründung vor allem für Wissenschaft und Bibliotheken konzipiert wurde, gibt es natürlich viele Fälle, in denen unsere Datenbank speziell für Musizierende ein besonders wertvolles Hilfsmittel sein kann. Wer einfach aus der neuesten Edition eines Werkes spielen will, wird bei RISM – das ja traditionell auf historische Quellen fokussiert – in der Regel nicht fündig werden. Aber für diejenigen, die mit mehr Ehrgeiz nach Raritäten suchen, erweist sich RISM als eine einzigartige Ressource für Neuentdeckungen.
 
-So bieten unsere Daten Hilfe bei der Erarbeitung eines neuen Repertoires oder der Zusammenstellung von anregenden Konzertprogrammen. Mitunter ist auch der Blick ins Autograph oder andere Musikquellen für Profis notwendig, etwa, wenn es noch keine kritische Ausgabe gibt, oder man Unklarheiten in der modernen Edition selbst überprüfen möchte. Ein weiterer interessanter Aspekt sind Eintragungen, die wertvolle Hinweise zur Aufführungspraxis liefern können. 
+So bieten unsere Daten Hilfe bei der Erarbeitung eines neuen Repertoires oder der Zusammenstellung von anregenden Konzertprogrammen. Mitunter ist auch der Blick ins Autograph oder andere Musikquellen für Profis notwendig, etwa, wenn es noch keine kritische Ausgabe gibt, oder man Unklarheiten in der modernen Edition selbst überprüfen möchte. Ein weiterer interessanter Aspekt sind Eintragungen, die wertvolle Hinweise zur Aufführungspraxis liefern können.
 
 Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspunkt für eigene Recherchen dienen können. Bitte lesen Sie zunächst "[Ein Wort über RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" von der Gambistin und Musikwissenschaftlerin Bettina Hoffmann.    
 
-{% include image file="/images/community/carminum-pro-testudine-titlepage.jpg" %}
+{% include image file="/images/community/carminum-pro-testudine-titlepage.png" %}
 
 
 ## Suche nach Besetzung  
@@ -69,4 +69,6 @@ Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspun
 
 ## Senden Sie uns Ihre Anmerkungen  
 
-Wenn Sie Anmerkungen zu einem Datensatz in der RISM-Datenbank haben, senden Sie uns bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info) oder über jeden Datensatz im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} („Ihre Meldung zum Titel“ auf der linken Seite des Datensatzes) oder in  [RISM Online](https://rism.online/){:blank} („Ein Problem melden“ am unteren Rand des Datensatzes).
+Wenn Sie Anmerkungen zu einem Datensatz in der RISM-Datenbank haben, senden Sie uns bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info) oder über jeden Datensatz im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} („Ihre Meldung zum Titel“ auf der linken Seite des Datensatzes) oder in  [RISM Online](https://rism.online/){:blank} („Ein Problem melden“ am unteren Rand des Datensatzes).  
+
+Abbildung: _Carminum pro Testudine_, Louvain, Pierre Phalèse, 1546. RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104830){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}), Exemplar A-Wn [Online verfügbar](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank} (Digitale Angebote/Österreichische Nationalbibliothek).
