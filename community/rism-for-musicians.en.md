@@ -13,6 +13,9 @@ Our database can help you discover new repertoire or put together exciting conce
 
 On this page we have listed some search strategies that can serve as a starting point for your own research. First, please read "[A Word about RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" by gambaist and musicologist Bettina Hoffmann.    
 
+{% include image file="/images/community/carminum-pro-testudine-titlepage.jpg" %}
+
+
 ## Searching by instrument  
 
 - [Searching by Instrumentation in the RISM Catalog](/rism_online_catalog/2016/12/12/searching-by-instrumentation-in-rism.html)   
@@ -63,3 +66,7 @@ On this page we have listed some search strategies that can serve as a starting 
 - [Dedicatees in printed music](/events/2022/02/14/musical-dedications-in-love-and-friendship.html)
 - [New people in RISM in 2021](/new_at_rism/2022/02/24/new-people-in-the-rism-online-catalog-2021.html)   
 - [Electronic thematic catalogs](/new_at_rism/2020/11/09/electronic-thematic-catalogs.html)  
+
+## Send us your feedback  
+
+If you have feedback about any records in the RISM database, please let us know by sending an email to [contact@rism.info](mailto:contact@rism.info) or through any record in the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} (“Send a comment on this record” on the left-hand side of the record) or [RISM Online](https://rism.online/){:blank} (“Report an issue” at the bottom of the record).
