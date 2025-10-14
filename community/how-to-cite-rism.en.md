@@ -62,7 +62,7 @@ _Examples:_
 
 ## Cataloging tools for librarians  
 
-For information about citing RISM in MARC21 records, refer to our RISM for Libraries page under [Cataloging Tools](/organization/rism-for-libraries.html#cataloging-tools). There you will also find a "Table of RISM Citation Styles" that covers A/I, every volume in the B series, and the online database.  
+For information about citing RISM in MARC21 records, refer to our RISM for Libraries page under [Cataloging Tools](/community/rism-for-librarians.html#cataloging-tools). There you will also find a "Table of RISM Citation Styles" that covers A/I, every volume in the B series, and the online database.  
 
 ## A/I and B numbers  
 

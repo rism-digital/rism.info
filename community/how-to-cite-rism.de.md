@@ -55,7 +55,7 @@ _Beispiel:_
 
 Bei der Arbeit mit RISM Online in der Linked-Data-Umgebung ist darauf zu achten, dass die Art des Datensatzes (Quellen, Personen, Institutionen) im Identifikator enthalten ist.  
 
-_Beispiele:_ 
+_Beispiele:_
 
 - sources/450031804
 - people/30009233
@@ -63,7 +63,7 @@ _Beispiele:_
 
 ## Katalogisierungstools für Bibliotheken  
 
-Informationen zum Zitieren von RISM in MARC21-Einträgen finden Sie auf unserer Seite [RISM für Bibliothekare unter Katalogisierungstools](/organization/rism-for-libraries.html#cataloging-tools). Dort finden Sie auch eine “Tabelle der RISM-Zitierform”, die A/I, jeden Band der B-Reihe und die Online-Datenbank abdeckt.  
+Informationen zum Zitieren von RISM in MARC21-Einträgen finden Sie auf unserer Seite [RISM für Bibliothekare unter Katalogisierungstools](/community/rism-for-librarians.html#cataloging-tools). Dort finden Sie auch eine “Tabelle der RISM-Zitierform”, die A/I, jeden Band der B-Reihe und die Online-Datenbank abdeckt.  
 
 ## A/I und B Nummern  
 

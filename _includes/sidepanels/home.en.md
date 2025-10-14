@@ -11,12 +11,12 @@
 
 ## RISM for Libraries
 
-Librarians, [see here](/organization/rism-for-libraries.html) what RISM has to offer you
+Librarians, [see here](/community/rism-for-librarians.html) what RISM has to offer you
 
 ## Muscat
 
 [All about Muscat](/community/muscat.html), RISM's specialized program for cataloging musical sources
 
- 
+
 _RISM's work is also supported by the Kulturfonds of VG Musikedition_
 {% include image file="/images/VG_Musikedition_LOGO_BIG.png" pos="right" %}

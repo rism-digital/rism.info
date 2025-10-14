@@ -11,7 +11,7 @@
 
 ## RISM für Bibliotheken
 
-Sehen Sie [hier](/organization/rism-for-libraries.html), was RISM Ihnen zu bieten hat
+Sehen Sie [hier](/community/rism-for-librarians.html), was RISM Ihnen zu bieten hat
 
 ## Muscat
 

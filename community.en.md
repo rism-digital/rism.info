@@ -15,7 +15,7 @@ The RISM database is used by researchers, musicians, librarians, students, music
 
 - [Directory of RISM Library Sigla](/community/sigla.html): Search RISM’s abbreviations for libraries, archives, and collections with historical music holdings, or request a new siglum.  
 - [RISM for Researchers](/community/rism-for-researchers.html): Tools for people using RISM for research, scholarship, university projects, or data analysis.     
-- [RISM for Librarians](/organization/rism-for-libraries.html): Services for information professionals to support cataloging and metadata as well as reference and instruction.  
+- [RISM for Librarians](/community/rism-for-librarians.html): Services for information professionals to support cataloging and metadata as well as reference and instruction.  
 - [RISM for Musicians](/community/rism-for-musicians.html): Resources for musicians, performers, conductors, or concert organizers to find original sources for performance.  
 - [How to Cite RISM](/community/how-to-cite-rism.html): RISM's recommendations for citing music manuscripts and printed editions in publications.    
 - [Muscat](/community/muscat.html): Information for RISM contributors about our cataloging program, tutorials, and workshops.  

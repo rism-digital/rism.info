@@ -48,7 +48,7 @@ Individuals can support our work by:
 * alerting us to institutions not yet in the [siglum database](/community/sigla.html){:target="_blank"}
 * translating the [RISM brochure](/publications/brochures.html){:target="_blank"} or [Wikipedia articles](https://en.wikipedia.org/wiki/R%C3%A9pertoire_International_des_Sources_Musicales){:target="_blank"} into their local language
 
-[Libraries](/organization/rism-for-libraries.html){:target="_blank"} can support RISM by:
+[Libraries](/community/rism-for-librarians.html){:target="_blank"} can support RISM by:
 
 * opening up their collections to RISM contributors
 * supporting their work by offering work space, Internet access, etc.

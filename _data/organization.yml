@@ -1,4 +1,4 @@
-- label: 
+- label:
     en: "Organization"
     de: "Unternehmen"
     fr: "Organisation"
@@ -32,7 +32,7 @@
         en: "RISM for Libraries"
         de: "RISM für Bibliothekare"
         fr: "RISM pour les Bibliothèques"
-      link: /organization/rism-for-libraries.html
+      link: /community/rism-for-librarians.html
     - name:
         en: "Project History"
         de: "Projektgeschichte"
