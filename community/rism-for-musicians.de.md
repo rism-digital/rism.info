@@ -13,7 +13,8 @@ So bieten unsere Daten Hilfe bei der Erarbeitung eines neuen Repertoires oder de
 
 Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspunkt für eigene Recherchen dienen können. Bitte lesen Sie zunächst "[Ein Wort über RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" von der Gambistin und Musikwissenschaftlerin Bettina Hoffmann.    
 
-{% include image file="/images/community/carminum-pro-testudine-titlepage.png" %}
+{% include image file="/images/community/carminum-pro-testudine-titlepage.png" %}  
+_Carminum pro Testudine, Louvain, Pierre Phalèse, 1546. RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104483){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}), Exemplar A-Wn [Online verfügbar](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank} (Digitale Angebote/Österreichische Nationalbibliothek)._
 
 
 ## Suche nach Besetzung  
@@ -70,5 +71,3 @@ Auf dieser Seite haben wir einige Sucheinstiege aufgelistet, die als Ausgangspun
 ## Senden Sie uns Ihre Anmerkungen  
 
 Wenn Sie Anmerkungen zu einem Datensatz in der RISM-Datenbank haben, senden Sie uns bitte eine E-Mail an [contact@rism.info](mailto:contact@rism.info) oder über jeden Datensatz im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} („Ihre Meldung zum Titel“ auf der linken Seite des Datensatzes) oder in  [RISM Online](https://rism.online/){:blank} („Ein Problem melden“ am unteren Rand des Datensatzes).  
-
-Abbildung: _Carminum pro Testudine_, Louvain, Pierre Phalèse, 1546. RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104830){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}), Exemplar A-Wn [Online verfügbar](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank} (Digitale Angebote/Österreichische Nationalbibliothek).
