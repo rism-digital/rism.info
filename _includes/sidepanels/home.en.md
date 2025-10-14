@@ -9,7 +9,7 @@
 
 [Search RISM's abbreviations](/community/sigla.html) for libraries, archives and collections with historical music holdings
 
-## RISM for Libraries
+## RISM for Librarians
 
 Librarians, [see here](/community/rism-for-librarians.html) what RISM has to offer you
 
