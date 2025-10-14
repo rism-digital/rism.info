@@ -11,7 +11,7 @@
 
 ## Pour le bibliothèques
 
-Bibliotécaires, [trouvez ici](/organization/rism-for-libraries.html) ce que le RISM vous offre
+Bibliotécaires, [trouvez ici](/community/rism-for-librarians.html) ce que le RISM vous offre
 
 ## Muscat
 

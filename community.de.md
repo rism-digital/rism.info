@@ -6,15 +6,15 @@ permalink: /community.html
 old_url: http://www.rism.info/de/community.html
 ---
 
-# Willkommen bei der RISM Community! 
+# Willkommen bei der RISM Community!
 
-Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musikantiquaren und unseren aktiven Mitarbeitern weltweit als Grundlage für ihre Arbeit und zur Gewinnung neuer Erkenntnisse über die musikalische Vergangenheit genutzt. Wir haben hier eine Reihe von Ressourcen zusammengestellt, die es der RISM-Gemeinschaft ermöglichen, unsere Werkzeuge effektiv zu nutzen. 
+Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musikantiquaren und unseren aktiven Mitarbeitern weltweit als Grundlage für ihre Arbeit und zur Gewinnung neuer Erkenntnisse über die musikalische Vergangenheit genutzt. Wir haben hier eine Reihe von Ressourcen zusammengestellt, die es der RISM-Gemeinschaft ermöglichen, unsere Werkzeuge effektiv zu nutzen.
 
 {% include image file="/images/community/Community572x300.png" pos="center" %}
 
 - [Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html): Suchen Sie nach den RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen oder beantragen Sie ein neues Sigel.  
 - [RISM für Forscher](/community/rism-for-researchers.html): Tools für alldiejenigen, die RISM für Forschung, Wissenschaft, Universitätsprojekte oder Datenanalyse nutzen.    
-- [RISM für Bibliotheken](/organization/rism-for-libraries.html): Dienste für Informationsfachleute zur Unterstützung von Katalogisierung und Metadaten sowie für Auskünfte und Schulungen.  
+- [RISM für Bibliotheken](/community/rism-for-librarians.html): Dienste für Informationsfachleute zur Unterstützung von Katalogisierung und Metadaten sowie für Auskünfte und Schulungen.  
 - [RISM für Musizierende](/community/rism-for-musicians.html): Ressourcen für Musiker, Interpreten, Dirigenten oder Konzertveranstalter, die bei der Suche nach Originalquellen für Aufführungen behilflich sein können.
 - [RISM zitieren](/community/how-to-cite-rism.html): RISM-Empfehlungen für das Zitieren von Musikhandschriften und gedruckten Ausgaben in Publikationen.
 - [Muscat](/community/muscat.html): Informationen für RISM-Mitarbeiterinnen und -Mitarbeiter zu unserem Katalogisierungsprogramm, zu Tutorials und Workshops.  

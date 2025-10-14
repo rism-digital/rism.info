@@ -2,7 +2,7 @@
 title: "RISM for Libraries"
 layout: organization
 lang: en
-permalink: /organization/rism-for-libraries.html
+permalink: /community/rism-for-librarians.html
 old_url: http://www.rism.info/en/organisation/rism-for-libraries.html
 ---
 
