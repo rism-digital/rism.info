@@ -13,8 +13,8 @@ Our database can help you discover new repertoire or put together exciting conce
 
 On this page we have listed some search strategies that can serve as a starting point for your own research. First, please read "[A Word about RISM](/new_at_rism/2023/10/12/a-word-about-rism.html)" by gambaist and musicologist Bettina Hoffmann.    
 
-{% include image file="/images/community/carminum-pro-testudine-titlepage.jpg" %}
-
+{% include image file="/images/community/carminum-pro-testudine-titlepage.png" %}  
+_Carminum pro Testudine (Louvain:, Pierre Phalèse, 1546), RISM ID no. 993104483 ([RISM Catalog](https://opac.rism.info/id/rismid/rism993104483){:blank} \| [RISM Online](https://rism.online/sources/993104483){:blank}). [Österreichische Nationalbibliothek (A-Wn)](https://digital.onb.ac.at/rep/access/open/1321DD01){:blank}. Public domain._     
 
 ## Searching by instrument  
 
@@ -69,4 +69,4 @@ On this page we have listed some search strategies that can serve as a starting 
 
 ## Send us your feedback  
 
-If you have feedback about any records in the RISM database, please let us know by sending an email to [contact@rism.info](mailto:contact@rism.info) or through any record in the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} (“Send a comment on this record” on the left-hand side of the record) or [RISM Online](https://rism.online/){:blank} (“Report an issue” at the bottom of the record).
+If you have feedback about any records in the RISM database, please let us know by sending an email to [contact@rism.info](mailto:contact@rism.info) or through any record in the [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} (“Send a comment on this record” on the left-hand side of the record) or [RISM Online](https://rism.online/){:blank} (“Report an issue” at the bottom of the record).  
