@@ -1,4 +1,4 @@
-- label: 
+- label:
     en: "Organization"
     de: "Unternehmen"
     fr: "Organisation"
@@ -28,11 +28,6 @@
         de: "Wer nutzt RISM?"
         fr: "Qui utilise le RISM"
       link: /organization/who-uses-rism.html
-    - name:
-        en: "RISM for Libraries"
-        de: "RISM für Bibliothekare"
-        fr: "RISM pour les Bibliothèques"
-      link: /organization/rism-for-libraries.html
     - name:
         en: "Project History"
         de: "Projektgeschichte"

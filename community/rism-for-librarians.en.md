@@ -1,12 +1,12 @@
 ---
-title: "RISM for Libraries"
-layout: organization
+title: "RISM for Librarians"
+layout: community
 lang: en
-permalink: /organization/rism-for-libraries.html
+permalink: /community/rism-for-librarians.html
 old_url: http://www.rism.info/en/organisation/rism-for-libraries.html
 ---
 
-# RISM for Libraries
+# RISM for Librarians
 
 RISM has a long tradition of working with libraries. We would like to strengthen our ties by offering the following services.
 
