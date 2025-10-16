@@ -5,7 +5,7 @@ date: 2025-10-16
 lang: de
 post: true
 category: new_at_rism
-image: "/images/news/2025-10/Zettelkataloge 3_klein.jpg"
+image: "/images/news/2025-10/Zettelkataloge_website.jpg"
 email: ''
 author: ''
 ---
