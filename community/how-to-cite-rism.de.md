@@ -25,7 +25,7 @@ Verwenden Sie die [RISM-Bibliothekssigel](/community/sigla.html). Das spart Plat
 
 Um musikalische Quellen aus der RISM-Datenbank zu zitieren, verwenden Sie bitte die RISM ID Nummer.  
 
-Im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} erscheint die Nummer in der unteren rechten Ecke eines Eintrags.
+Im [RISM Catalog](https://opac.rism.info/main-menu-/kachelmenu){:blank} erscheint die Nummer in der unteren linken Ecke eines Eintrags.
 
 In [RISM Online](https://rism.online/){:blank} erscheint die Nummer im ersten Abschnitt "Titel und Inhaltsangaben".  
 
