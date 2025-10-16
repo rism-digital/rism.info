@@ -460,7 +460,7 @@ Howard, John. "RISM-US Music Manuscript Inventory." _Computing in Musicology_ 8 
 
 Mann, Brian Richard. "From Berlin to Cracow: Sixteenth- and Seventeenth-Century Prints of Italian Secular Vocal Music in the Jagiellonian Library." _Notes_ 49, no. 1 (1992): 11–27. [Available online](https://www.jstor.org/stable/897183){:target="_blank"}.
 
-Pinegar, Sandra et al. "Text applications and inventories of musical sources." _Computing and Musicology_ 8 (1998): 9-30.
+Pinegar, Sandra et al. "Text applications and inventories of musical sources." _Computing and Musicology_ 8 (1992): 9-30.
 
 Ragni, Silvia. "Al RISM, manoscritti musicali antichi. 280.000 i titoli già catalogati." _Corriere d’Italia_, October 9, 1992.
 
@@ -1202,7 +1202,7 @@ Volek, Tomislav. _Hudební Veda_ 12 (1975): 285-288.
 
 ##### A/I,2–3
 
-Sine nomine. _Magyar Zine_ 4 (1973): 437-438.
+_Magyar Zine_ 4 (1973): 437-438.
 
 ##### A/I,3  
 
