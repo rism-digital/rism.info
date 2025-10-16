@@ -73,12 +73,12 @@ Example: [https://opac.rism.info/search?id=453009722&View=rism&Language=en](http
 As an example, these records from the Princeton University Library cite the A/I number as well as the record in the RISM Catalog. In the public view, the links in $u point the user directly to the entry in the RISM Catalog using the English interface.
 
 **Example 1**: Giaches de Wert, Il secondo libro de madregali a cinque voci:  
-([Public view](https://catalog.princeton.edu/catalog/10096131){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/10096131/staff_view){:target="_blank"})
+([Public view](https://catalog.princeton.edu/catalog/99100961313506421){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/99100961313506421/staff_view){:target="_blank"})
 
 ![csm_510_w862_princeton](/images/organization/csm_510_w862_princeton.jpg)
 
 **Example 2**: Giovanni Bononcini, Cantate e duetti:  
-([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
+([Public view](https://catalog.princeton.edu/catalog/9917517973506421){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/9917517973506421/staff_view){:target="_blank"})
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
