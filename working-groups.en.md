@@ -395,17 +395,16 @@ Canada\
 H4C 3R5\
 Phone: + (514) 369 0982\
 Skype: John G. Lazos\
-Email: [jlazos11@hotmail.com](mailto:%20jlazos11@hotmail.com)\
+Email: [jlazos11@hotmail.com](mailto:jlazos11@hotmail.com)\
 Website: [http://umontreal.academia.edu/JohnLazos](http://umontreal.academia.edu/JohnLazos){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/mexico/home.html](/working-groups/mexico/home.html){:blank}
 
 ## THE NETHERLANDS
 
-RISM-Nederland\
-Dr. Simon Groot\
-Universiteit van Amsterdam\
-Allard Pierson \| Bijzondere Collecties\
-Email: [rism-nederland@uva.nl](mailto:rism-nederland@uva.nl)
+RISM-Nederland  
+Drs. Paula Quint  
+Collecties Nederlands Muziek Instituut / Haags Gemeentearchief  
+Email: [paula.quint@denhaag.nl](mailto:paula.quint@denhaag.nl)  
 
 ## NORWAY
 
