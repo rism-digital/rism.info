@@ -53,8 +53,8 @@ _Czech Republic_
 _Germany_  
 Numerous catalogs have been created for various collections in Germany. Please see the full list of volumes in the series "Musikhandschriften in Deutschland: Kataloge ausgewählter Sammlungen" on the [RISM Germany website](https://de.rism.info/publications/musikhandschriften-in-deutschland.html){:blank}.  
 
-
-
+_Poland_  
+Magdalena Walter-Mazur, Karolina Kaźmierczak and Michał Wysocki. _The Music Manuscripts at the Diocesan Library in Sandomierz. A Thematic Catalogue. Vol. I: Repertoire of Church Ensemble and Keyboard Music._ Wiesbaden: Harrassowitz Verlag, 2021. [Read our announcement here](/new_publications/2021/12/13/new-catalogue-diocesan-library-sandomierz-poland.html). It is also [available online](https://www.doi.org/10.13173/9783447117166){:blank}.  
 
 ## Data sets  
 

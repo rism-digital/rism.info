@@ -460,7 +460,7 @@ Howard, John. "RISM-US Music Manuscript Inventory." _Computing in Musicology_ 8 
 
 Mann, Brian Richard. "From Berlin to Cracow: Sixteenth- and Seventeenth-Century Prints of Italian Secular Vocal Music in the Jagiellonian Library." _Notes_ 49, no. 1 (1992): 11–27. [Available online](https://www.jstor.org/stable/897183){:target="_blank"}.
 
-Pinegar, Sandra et al. "Text applications and inventories of musical sources." _Computing and Musicology_ 8 (1998): 9-30.
+Pinegar, Sandra et al. "Text applications and inventories of musical sources." _Computing and Musicology_ 8 (1992): 9-30.
 
 Ragni, Silvia. "Al RISM, manoscritti musicali antichi. 280.000 i titoli già catalogati." _Corriere d’Italia_, October 9, 1992.
 
@@ -544,7 +544,9 @@ Howard, John. "Plaine and Easie Code: A Code for Music Bibliography." In _Beyond
 
 #### 1998
 
-Ezquerro Esteban, Antonio. "Cataloguing musical sources in Spain. A RISM perspective." _Fontes Artis Musicae_ 45 (1998): 81-89.
+Ezquerro Esteban, Antonio. "Cataloguing musical sources in Spain. A RISM perspective." _Fontes Artis Musicae_ 45 (1998): 81-89.  
+
+Ezquerro Esteban, Antonio. "Memoria de actividades RISM-España/1998." _Anuario Musical_ 53 (1998): 275-297. [Available online](https://doi.org/10.3989/anuariomusical.1998.i53){:blank}.   
 
 Gerhard, Anselm and Gabriella Hanke Knaus. "Repertorium Schweizer Komponisten des 19. Jahrhunderts." _Revue musicale suisse / Schweizer Musikzeitung_ 11 (1998): 13-14.
 
@@ -711,7 +713,9 @@ Falletta, Martina. "Telemanns Kompositionen aus dem Blickwinkel neuer, durch das
 
 Brinzing, Armin. "Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland." _Zeitschrift für Bibliothekswesen und Bibliographie_ 59, nos. 3/4 (2012):146-151. [Available online](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
-Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/media/newsletter_2012-08.pdf){:target="_blank"}.
+Ferris, Catherine. "RISM Ireland." _IAML UK & Ireland Newsletter_ 63 (August 2012): 5-7. [Available online](https://iaml-uk-irl.org/media/newsletter_2012-08.pdf){:target="_blank"}.  
+
+Ferris, Catherine. _RISM Ireland & The National Library of Ireland. Scoping Study Report: Uncatalogued Music._ Dublin, Ireland: Technological University Dublin, 2012. [Available online](https://arrow.tudublin.ie/librep/1/){:blank}.  
 
 Güggi, Cédric. "Musikalische Quellen in der Schweiz und ihre Erschliessung." _NIKE-Bulletin_ 6 (2012): 34-37. [Available online](http://doi.org/10.5169/seals-727130){:target="_blank"}.
 
@@ -949,6 +953,8 @@ Ward, Jennifer A. "RISM for Librarians." _Musikbiblioteksnytt_ no. 3 (2017): 10-
 
 #### 2018
 
+Aslanidi, Maria, Aris Bazmadelis, and Arsinoi Ioannidou. "Enabling access to Byzantine music manuscripts in an international context: The case of Nikolaos Mavropoulos Archive." _Hellenic Journal of Music Education and Culture_ 8, no. 1 (December 2018): 82-96. [Available online](http://hejmec.eu/journal/index.php/HeJMEC/article/view/89){:blank}.  
+
 Bicher, Katrin and Barbara Wiermann. "Normdaten zu „Werken der Musik" und ihr Potenzial für die digitale Musikwissenschaft." _Bibliothek Forschung und Praxis_ 42, no. 2 (2018): 222-235. [Available online](https://doi.org/10.1515/bfp-2018-0043){:target="_blank"}.
 
 Calvo-Zaragoza, Jorge and David Rizo. "End-to-End Neural Optical Music Recognition of Monophonic Scores." _Applied Sciences_ 8, no. 4 (2018): article 606. [Available online](https://doi.org/10.3390/app8040606){:target="_blank"}.  
@@ -1000,6 +1006,8 @@ Ward, Jennifer. "Répertoire International des Sources Musicales/International I
 Eggertsen, Chris. "Musicologists Come to Katy Perry's Defense in 'Dark Horse' Case: Verdict Is 'Inhibiting the Work of Songwriters'." _Billboard_, January 13, 2020. [Available online](https://www.billboard.com/articles/business/legal-and-management/8547957/musicologists-katy-perry-dark-horse){:target="_blank"}.
 
 - Judge rules in favor of Perry: Eriq Gardner, "Judge Wipes Out $2.8M Copyright Verdict Against Katy Perry, Capitol Records." _The Hollywood Reporter_, March 17, 2020. [Available online](https://www.hollywoodreporter.com/thr-esq/judge-wipes-28m-copyright-verdict-katy-perry-capitol-records-1285141){:target="_blank"}.
+
+Erjavec, Jana. "RISM and Inventorying Early Music Manuscripts in Slovenia." _Muzikološki Zbornik/Musicological Annual_ 56, no. 2 (2020): 73-84. [Available online](https://doi.org/10.4312/mz.56.2.73-84){:blank}.   
 
 Felder, Lynn. "Back to the future: Beethoven symphony defies time and space." _Winston-Salem Journal_, 3 August 2020. [Available online](https://journalnow.com/entertainment/back-to-the-future-beethoven-symphony-defies-time-and-space/article_56263d1e-2e23-5310-bd13-2570f2df5aa9.html){:target="_blank"}.  
 
@@ -1105,7 +1113,22 @@ Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digit
 
 Fromme, Daniel. "Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek." _Bibliotheken heute_ 21, no. 1 (2025): 27-29. [Available online](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}.  
 
-_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}.    
+_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}. Contents:   
+- Schwindt, Nicole. "Einleitung: Musikquellen des 19. Jahrhunderts in Deutschland – Herausforderungen und Chancen."  
+- Schmidt-Hensel, Roland. "Autograph, Skizze, Stichvorlage – Überlegungen zur handschriftlichen Quellenüberlieferung von Musik des 19. Jahrhunderts."
+- Fromme, Daniel. Neue Formate, Formen und Materialien – Musikalienvielfalt in zwei Speyerer Kirchenmusiksammlungen des 19. Jahrhunderts."  
+- Philippi, Daniela. "Quellenvielfalt und posthume Rezeption – Facetten des Eigenlebens Gluck’scher Opern und ihrer Zeugen."  
+- Synofzik, Thomas. "Stimmen ohne Partitur – Zur Problematik einer Publikationsform bei Robert Schumann und seinen Zeitgenossen."  
+- Klinke, Marcel. "Die Abschriften und Arrangements der frühen
+Werke von Richard Strauss – Schreiber, Funktionen, Kontexte."  
+- Pernpeintner, Andreas and Stefan Schenk. "Richard Strauss als publizierender Komponist –
+Quellen eines »langen 19. Jahrhunderts«."
+- Rosenthal, Maximilian. "Die Bedeutung von Verlagsbüchern und der
+Musikverlagsdatenbank für die Erschließung gedruckter Quellen des 19. Jahrhunderts."  
+-  Cox, Susanne and Richard Sänger. "Beethovens Revisionsprozesse
+und ihre digitale Darstellung."  
+- Frömmel, Lena and Andreas Münzmay. "Vernetzte Musikquellen des 19. Jahrhunderts – Überlegungen zum Zusammenspiel wissenschaftlicher Editionen mit RISM am Beispiel des Stuttgarter Faust 1832."  
+- Roundtable. "Wie wollen, wie können und wie sollen wir in der Zukunft mit Musikquellen des 19. Jahrhunderts in Deutschland umgehen?"  
 
 Nägele, Reiner and Martina Rebmann. "Das Répertoire International des Sources Musicales (RISM) – ein Leuchtturm-Projekt der Geisteswissenschaften." _Forum Musikbibliothek_ 46, no. 2 (2025): 7-16.  
 
@@ -1179,7 +1202,7 @@ Volek, Tomislav. _Hudební Veda_ 12 (1975): 285-288.
 
 ##### A/I,2–3
 
-Sine nomine. _Magyar Zine_ 4 (1973): 437-438.
+_Magyar Zine_ 4 (1973): 437-438.
 
 ##### A/I,3  
 
