@@ -5,7 +5,7 @@ date: 2025-10-23
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2025-10/Revision-der-historischen-Musikdrucke-LBZ_website.jpg"
+image: "/images/news/2025-10/Revision-der-historischen-Musikdrucke-LBZ_website.JPG"
 email: 'Daniel.Fromme@lbz.rlp.de'
 author: 'Daniel Fromme'
 ---
