@@ -69,12 +69,12 @@ Die Daten des RISM können kostenlos über zwei verschiedene, sich ergänzende R
 In dieser Auflistung der Princeton University Library werden beispielsweise die A/I-Nummer sowie der Eintrag im Catalog genannt. In der öffentlichen Ansicht verweisen die Links in $u den Benutzer über die englische Oberfläche direkt auf den Eintrag im RISM Catalog.
 
 **Beispiel 1**: Giaches de Wert, Il secondo libro de madregali a cinque voci:  
-([Public view](https://catalog.princeton.edu/catalog/10096131){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/10096131/staff_view){:target="_blank"})
+([Public view](https://catalog.princeton.edu/catalog/99100961313506421){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/99100961313506421/staff_view){:target="_blank"})
 
 ![csm_510_w862_princeton](/images/organization/csm_510_w862_princeton.jpg)
 
 **Beispiel 2**: Giovanni Bononcini, Cantate e duetti:  
-([Public view](https://catalog.princeton.edu/catalog/1751797){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/1751797/staff_view){:target="_blank"})
+([Public view](https://catalog.princeton.edu/catalog/9917517973506421){:target="_blank"} / [Staff view](https://catalog.princeton.edu/catalog/9917517973506421/staff_view){:target="_blank"})
 
 ![csm_510_b3601_princeton](/images/organization/csm_510_b3601_princeton.jpg)
 
