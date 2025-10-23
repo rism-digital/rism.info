@@ -42,7 +42,10 @@ _Deutschland_
 Für verschiedene Sammlungen in Deutschland wurden zahlreiche Kataloge erstellt. Die vollständige Liste der Bände aus der Reihe "Musikhandschriften in Deutschland: Kataloge ausgewählter Sammlungen" finden Sie [auf der RISM Deutschland-Seite](https://de.rism.info/publications/musikhandschriften-in-deutschland.html){:blank}.  
 
 _Österreich_  
-Eva Neumayr und Lars Laubhold (Hrsg.), _Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd), Reihe A_. Wien: Hollitzer Verlag, 2018. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2018/07/19/musical-sources-in-the-salzburg-cathedral-archive.html))    
+Eva Neumayr und Lars Laubhold (Hrsg.), _Thematischer Katalog der musikalischen Quellen des Dommusikarchivs Salzburg (A-Sd), Reihe A_. Wien: Hollitzer Verlag, 2018. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2018/07/19/musical-sources-in-the-salzburg-cathedral-archive.html)) 
+
+_Polen_  
+- Magdalena Walter-Mazur, Karolina Kaźmierczak und Michał Wysocki. _The Music Manuscripts at the Diocesan Library in Sandomierz. A Thematic Catalogue. Vol. I: Repertoire of Church Ensemble and Keyboard Music._ Wiesbaden: Harrassowitz Verlag, 2021. [Lesen Sie hier unsere Ankündigung](/new_publications/2021/12/13/new-catalogue-diocesan-library-sandomierz-poland.html). Der Katalog [steht auch online zur Verfügung](https://www.doi.org/10.13173/9783447117166){:blank}.
 
 _Tschechische Republik_  
 - _Catalogus collectionis operum musicalium ex possessione familiae Strachota in Tinez_. Herausgegeben von Eliška Šedivá, Übersetzung der Einleitung von Andy Letham. Catalogus artis musicae in Bohemia et Moravia cultae, Artis musicae antiquioris catalogorum XIII/1-2. Prague: National Library of the Czech Republic, 2023. ([Lesen Sie hier unsere Ankündigung.](/new_publications/2024/02/22/thematic-catalogue-strachota-music-collection.html))  
