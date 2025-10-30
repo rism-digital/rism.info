@@ -22,6 +22,6 @@ For further data options, see also:
 
 Please also visit our [Data Services page](/community/data-services.html){:blank} for more information about the data structure and linked data.
 
-The RISM Data Exports page is maintained by the [RISM Digital Center](/digital-center.html). 
+The RISM Data Exports page is maintained by the [RISM Digital Center](/digital-center.html){:blank}. 
 
 Image: Record for a manuscript of organ pieces by Nicolas de Grigny in the hand of J. S. Bach, MARCXML view (RISM ID no. 455002348 - [RISM Catalog](https://opac.rism.info/id/rismid/rism455002348){:blank} \| [RISM Online](https://rism.online/sources/455002348){:blank}). 
