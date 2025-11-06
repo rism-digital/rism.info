@@ -43,6 +43,6 @@ The complete Fürstenberg collection of music manuscripts and printed editions c
 
 The best place to start is arguably the [music collection](https://digital.blb-karlsruhe.de/Musikalien/topic/view/20952){:blank}, where the sources are ordered in categories. Alternatively, you can perform an [advanced search](https://digital.blb-karlsruhe.de/search){:blank} in the music collection. Once you have found the music you are looking for, you can open it with the integrated IIIF viewer, view the source in full-screen mode, or download the file in PDF or JPG formats.
 
-Almost all the titles are also findable in RISM ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=D-KA&callno=don+mus){:blank} \| [RISM Online](https://rism.online/institutions/30000839/sources?q=%22don.%20mus%22&mode=sources&fq=has-digitization%3Atrue&page=1&rows=40){:blank} and in the [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de){:blank}.
+Almost all the titles are also findable in RISM ([RISM Catalog](https://opac.rism.info/search?View=rism&siglum=D-KA&callno=don+mus){:blank} \| [RISM Online](https://rism.online/institutions/30000839/sources?q=%22don.%20mus%22&mode=sources&fq=has-digitization%3Atrue&page=1&rows=40){:blank}) and in the [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de){:blank}.
 
-Image 1 [above]: [Six Ballads by Ludwig Uhland](https://digital.blb-karlsruhe.de/blbihd/content/titleinfo/6837623){:blank} set to music by Conradin Kreutzer.
+Image 1 (above): [Six Ballads by Ludwig Uhland](https://digital.blb-karlsruhe.de/blbihd/content/titleinfo/6837623){:blank} set to music by Conradin Kreutzer.
