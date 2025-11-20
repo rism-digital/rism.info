@@ -396,7 +396,7 @@ Répertoire International des Sources Musicales (RISM). Creación de un Grupo de
 
 #### 1989
 
-Howard, John B. (et al): Bibliographical databases for music research, in: Computing and Musicology (1989), S. 7-32.
+Howard, John B. (et al): Bibliographical databases for music research, in: Computing in Musicology: A Directory of Research 5 (1989), S. 7-32.
 
 Lambea Castro, Mariano: I jornadas internacionales del RISM, in: Revista de Musicología 12 (1989), S. 383-384. [Online verfügbar](https://www.jstor.org/stable/20795327){:target="_blank"}
 
@@ -440,7 +440,7 @@ Howard, John: RISM-US Music Manuscript Inventory, in: Computing in Musicology 8 
 
 Mann, Brian Richard: From Berlin to Cracow: Sixteenth- and Seventeenth-Century Prints of Italian Secular Vocal Music in the Jagiellonian Library, in: Notes 49, no. 1 (1992), S. 11–27. [Online verfügbar](https://www.jstor.org/stable/897183){:target="_blank"}
 
-Pinegar, Sandra (et al): Text applications and inventories of musical sources, in: Computing and Musicology 8 (1998), S. 9-30.
+Pinegar, Sandra (et al): Text applications and inventories of musical sources, in: Computing in Musicology: An International Directory of Applications 8 (1998), S. 9-30.
 
 Ragni, Silvia: Al RISM, manoscritti musicali antichi. 280.000 i titoli già catalogati, in: Corriere d’Italia dal 9.10.1992.
 
