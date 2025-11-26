@@ -226,6 +226,12 @@ Printed editions of trio sonatas, for two upper voices and basso continuo, by co
 
 Manuscript sources for sequences and notated proses found in French libraries.  
 
+### B/XIX: Manuscripts of medieval hymn melodies  
+
+* **B/XIX/1**: Christian Meyer, _Les Mélodies de l’hymnaire médiéval. IXe–XVIe siècles. Volume I, France. Catalogue descriptif_, 2025.  
+
+Manuscript sources for medieval hymn melodies found in French libraries.  
+
 ## Series C: Directory of Music Research Libraries
 
 Publisher: [Kassel: Bärenreiter-Verlag](http://www.baerenreiter.com/){:target="_blank"}

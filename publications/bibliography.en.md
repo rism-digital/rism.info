@@ -1132,6 +1132,8 @@ und ihre digitale Darstellung."
 
 Nägele, Reiner and Martina Rebmann. "Das Répertoire International des Sources Musicales (RISM) – ein Leuchtturm-Projekt der Geisteswissenschaften." _Forum Musikbibliothek_ 46, no. 2 (2025): 7-16.  
 
+Wiering, Frans, ed. _Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy_. Utrecht University, 2025. [Available online](https://doi.org/10.5281/zenodo.17543932){:blank}.  
+
 ##### Notes
 
 You can find out more about the work of RISM from the following publications:
