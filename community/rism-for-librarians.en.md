@@ -26,7 +26,7 @@ Also look at past [IAML congresses](/publications.html){:target="_blank"} for sl
 * Tutorial of the [RISM Catalog](https://opac.rism.info/){:target="_blank"} and [RISM Online](https://rism.online/){:blank} (manuscripts and printed music)
 * Introduction to Muscat, RISM's cataloging program, and how libraries can participate in RISM
 
-**Logos**: Logos are available below for download or for direct copying and pasting onto your library's website. Right-click on the image to either copy it or save it as a local file.
+**Logos**: Logos are available on [the Community page](/community.html) for use on your instittion's website.  
 
 **Poster**: This [RISM poster](/resources/organization/2019_RISM_poster_web_A1.pdf) (PDF) summarizes the project and goals (optimized for printing on DIN A1 paper size).
 
@@ -90,10 +90,8 @@ Not everything from the books is in the RISM electronic database (see the [Publi
 
 ## Using RISM Data
 
-RISM records may be used and reused in a variety of projects. The RISM data is available as open data and linked open data, through SRU servers and an API, in MARC21 and MARC XML format, and through GND BEACON files. You can also transfer your data to the RISM database, use the data to create a custom display, or create a PDF catalog suitable for publication. **Please see our [Data Services page](/community/data-services.html) for more information.**
+RISM records may be used and reused in a variety of contexts.  
 
-## RISM Logos
-
-![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
-
-![rism-logo](/images/organization/rism-logo.png)
+- [RISM Data Services](/community/data-services.html): Information about open data, RISM identifiers, MARC21 and MARC XML format, linked data, the API, and SRU servers.  
+- [Integrating RISM Searches on your Website](/community/integrating-rism-searches-on-website.html): How to set up a custom search of the RISM database for a specific country, institution, or person
+- [Catalog Printouts of RISM Data](/community/catalog-printouts.html): How to generate a high-quality PDF catalog using entries from the RISM database, such as for collection catalogs 
