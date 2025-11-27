@@ -6,8 +6,8 @@ lang: en
 post: true
 category: rism_digital_center
 image: "/images/news/2025-11/RISM Online API.png"
-email: 'andrew.hankinson@rism.digital'
-author: 'Andrew Hankinson'
+email:
+author:
 ---
 
 Have you ever launched RISM searches directly from the rism.info website? You simply enter a phrase in the search box at the top of the page, hit Enter – and you can view the results right away in [RISM Online](https://rism.online/){:blank} or the [RISM Catalog](https://opac.rism.info/){:blank} (depending on your preset choice). Since this option is offered on our main website, the search is run in the entire RISM database. However, did you know that it is quite simple to add a similar search box to your own website or that of your institution, which can offer search results specific to your interests or your own collection?
