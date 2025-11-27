@@ -6,8 +6,8 @@ lang: de
 post: true
 category: rism_digital_center
 image: "/images/news/2025-11/RISM Online API.png"
-email: 'andrew.hankinson@rism.digital'
-author: 'Andrew Hankinson'
+email:
+author:
 ---
 
 Haben Sie schon einmal direkt von der Website rism.info aus eine RISM-Suche gestartet? Geben Sie dazu einfach einen Suchbegriff in das Suchfeld oben auf der Seite ein und drücken Sie die Eingabetaste. Schon können Sie die Ergebnisse in [RISM Online](https://rism.online/){:blank} oder im [RISM Catalog](https://opac.rism.info/){:blank} anzeigen lassen (je nach Ihrer voreingestellten Auswahl). Da diese Option auf unserer Hauptwebsite angeboten wird, wird die Suche in der gesamten RISM-Datenbank durchgeführt. Wussten Sie jedoch, dass Sie ganz einfach ein ähnliches Suchfeld auf Ihrer eigenen Website oder der Ihrer Institution einfügen können, das Suchergebnisse speziell für Ihre Interessen oder Ihre eigene Sammlung anzeigt?
