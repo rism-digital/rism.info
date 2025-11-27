@@ -34,7 +34,7 @@ Dadurch sollte ein sehr einfaches Texteingabefeld entstehen, das wie folgt aussi
         <button>Search</button>
     </div>
 </form>
-
+&nbsp;
 
 Es gibt einige wichtige Punkte zu beachten. So legt das Attribut `action` im Tag `<form>` die URL fest, an die die Suche gesendet wird. Das Tag `<input>` erstellt ein Texteingabefeld und der Parameter `name="q"` gibt den Namen für alle in dieses Feld eingegebenen Texte an. Schließlich wird über das Element `<button>` eine Schaltfläche erstellt, über die das Formular gesendet wird.
 
@@ -69,7 +69,7 @@ Manchmal möchten Sie diese Werte möglicherweise automatisch in Ihrer Suchabfra
         <button>Search</button>
     </div>
 </form>  
-
+&nbsp;
 
 Wenn Sie bei diesem Formular auf die Schaltfläche „Senden“ klicken, wird der Wert `nc=PL` automatisch zu jeder gesendeten URL hinzugefügt. Dadurch werden alle Suchergebnisse automatisch auf Quellen in Polen gefiltert. Geben Sie beispielsweise den Namen „Maria Szymanowska“ in das Eingabefeld ein, wird eine URL wie folgt erstellt:
 
@@ -106,7 +106,7 @@ Jede Körperschaft in RISM Online verfügt über eine eigene Suchoberfläche. Wi
         <button>Search</button>
     </div>
 </form>
-
+&nbsp;
 
 Alle zuvor verwendeten Suchparameter sind verfügbar, sodass Sie auch die Eingabe „hidden“ verwenden können, um eine Reihe von Optionen in diesen Suchanfragen vorab auszufüllen. (Der Parameter `nc` funktioniert jedoch möglicherweise nicht wie erwartet in Kombination mit der von Ihnen ausgewählten Institution, da die Beschränkung Ihrer Suche auf polnische Quellen in Institutionen, die sich nicht in Polen befinden, zu unerwarteten Ergebnissen führen kann.)
 Every person record in RISM Online also has a dedicated search interface, so you can use the same technique to provide a dedicated search box for a specific person.
@@ -134,7 +134,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
         <button>Search</button>
     </div>
 </form>  
-
+&nbsp;
 
 Bitte beachten Sie, dass wir den Parameter `q` entfernt und durch `n` ersetzt haben. Jeder eingegebene Text wird als Plain-and-Easie-Code interpretiert und mit über zwei Millionen Incipits im RISM-Online-System abgeglichen. Wenn wir die Suchanfrage „B-A-C-H“ eingeben, die als Plain-and-Easie-Code `bBA''C'nB` lautet, lautet die URL für diese Eingabe::
 
