@@ -25,7 +25,7 @@ We will begin with a basic example, and then will analyse how it functions.
 </form>
 ```
 
-This should create a very simple text input box that looks like this:  
+This will create a very simple text input box that looks like this:  
 
 <form action="https://rism.online/search" method="get">
     <div>
@@ -35,7 +35,6 @@ This should create a very simple text input box that looks like this:
     </div>
 </form>  
 &nbsp;  
-&nbsp;
 
 There are a few important pieces to note. The `action` attribute on the `<form>` tag sets the URL to which the search will be submitted. The `<input>` tag creates a text input block, and the `name="q"` specifies the parameter name for any text entered into this block. Finally, the `<button>` element will create a button that will submit the form.
 
@@ -62,6 +61,8 @@ Sometimes you may wish to automatically send these values in your search query w
 </form>
 ```  
 
+The text input box will look like this:  
+
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
@@ -70,7 +71,6 @@ Sometimes you may wish to automatically send these values in your search query w
         <button>Search</button>
     </div>
 </form>  
-&nbsp;  
 &nbsp;  
 
 When the submit button is pressed with this form, the `nc=PL` value will automatically be applied to every URL that gets sent, thus automatically filtering all searches to only sources in Poland. Entering a name such as "Maria Szymanowska" in the input box would then create a URL that looks like this:
@@ -101,6 +101,8 @@ Every institution in RISM Online comes with its own dedicated search interface. 
 </form>
 ```
 
+The text input box will look like this:  
+
 <form action="https://rism.online/institutions/30000083/sources" method="get">
     <div>
         <label for="mySearch">Search the National Library of the Czech Republic in RISM Online</label>
@@ -108,7 +110,6 @@ Every institution in RISM Online comes with its own dedicated search interface. 
         <button>Search</button>
     </div>
 </form>  
-&nbsp;  
 &nbsp;  
 
 All search parameters that we used previously are available, so you can also use the `hidden` input to pre-fill a number of options in these searches as well. (However, the `nc` parameter may not work as you expect in combination with your chosen institution, since limiting your searches to Polish sources in institutions that are not in Poland will give unexpected results.)
@@ -130,6 +131,8 @@ Finally, the RISM Online Search API provides a method of using the incipit searc
 </form>
 ```
 
+The input box will look like this:   
+
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
@@ -138,8 +141,7 @@ Finally, the RISM Online Search API provides a method of using the incipit searc
         <button>Search</button>
     </div>
 </form>  
-&nbsp;  
-&nbsp;  
+&nbsp;   
 
 Notice here that we have removed the `q` parameter and replaced it with `n`. Any input text here will be interpreted as Plaine and Easie Code, and evaluated against over two million incipits in the RISM Online system. If we supply a search query such as the famous "B-A-C-H" which, when written as Plaine and Easie Code becomes `bBA''C'nB`, the URL this input produces will result in:
 
@@ -153,7 +155,10 @@ There are many other ways you can integrate RISM Online with your website. If yo
 <iframe src="https://rism.online/people/41008869" width="800" height="600"></iframe>
 ```  
 
+The embedded record for Alma Mahler will look like this:  
+
 <iframe src="https://rism.online/people/41008869" width="800" height="600"></iframe>  
+&nbsp;  
 
 Finally, if you have programming experience then the possibilities are almost endless! You should have a look at the RISM Online API for how to deliver records and search results in a machine-readable JSON-LD format, so that you can further integrate both searches and results into your own applications.
 
