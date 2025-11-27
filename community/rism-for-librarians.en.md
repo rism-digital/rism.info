@@ -36,6 +36,9 @@ Also look at past [IAML congresses](/publications.html){:target="_blank"} for sl
 
 ## Cataloging Tools
 
+### RISM Guidelines
+The RISM Cataloging Guidelines can be found on the website [guidelines.rism.info](https://guidelines.rism.info/){:blank}.
+
 ### Plaine & Easie Code  
 The [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} for encoding music incipits is maintained by the International Association of Music Libraries, Archives and Documentation Centres (IAML) and RISM for use as an exchange format in the library environment. It is used in [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank}. A tutorial [can be found here](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
 
@@ -93,5 +96,5 @@ Not everything from the books is in the RISM electronic database (see the [Publi
 RISM records may be used and reused in a variety of contexts.  
 
 - [RISM Data Services](/community/data-services.html): Information about open data, RISM identifiers, MARC21 and MARC XML format, linked data, the API, and SRU servers.  
-- [Integrating RISM Searches on your Website](/community/integrating-rism-searches-on-website.html): How to set up a custom search of the RISM database for a specific country, institution, or person
-- [Catalog Printouts of RISM Data](/community/catalog-printouts.html): How to generate a high-quality PDF catalog using entries from the RISM database, such as for collection catalogs 
+- [Integrating RISM Searches on your Website](/community/integrating-rism-searches-on-website.html): How to set up a custom search of the RISM database for a specific country, institution, or person.  
+- [Catalog Printouts of RISM Data](/community/catalog-printouts.html): How to generate a high-quality PDF catalog using entries from the RISM database, such as for collection catalogs.  

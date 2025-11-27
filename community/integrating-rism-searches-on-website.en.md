@@ -25,7 +25,7 @@ We will begin with a basic example, and then will analyse how it functions.
 </form>
 ```
 
-This should create a very simple text input box that looks like this:
+This should create a very simple text input box that looks like this:  
 
 <form action="https://rism.online/search" method="get">
     <div>
@@ -33,8 +33,9 @@ This should create a very simple text input box that looks like this:
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
     </div>
-</form>
-
+</form>  
+`&nbsp;`  
+`&nbsp;`
 
 There are a few important pieces to note. The `action` attribute on the `<form>` tag sets the URL to which the search will be submitted. The `<input>` tag creates a text input block, and the `name="q"` specifies the parameter name for any text entered into this block. Finally, the `<button>` element will create a button that will submit the form.
 
@@ -48,7 +49,7 @@ You can see from this URL that the `q` parameter we specified is automatically a
 
 The RISM Online documentation provides information about a number of other parameters that can be specified, along with `q`, that are used to control the search results.
 
-Sometimes you may wish to automatically send these values in your search query without requiring your users to know how to input the correct values for that parameter. For example, if you wanted to restrict your searches to the national collections of Poland, you can supply an hidden input field. Expanding on our earlier example:
+Sometimes you may wish to automatically send these values in your search query without requiring your users to know how to input the correct values for that parameter. For example, if you wanted to restrict your searches to the national collections of Poland, you can supply a hidden input field. Expanding on our earlier example:
 
 ```html
 <form action="https://rism.online/search" method="get">
@@ -87,7 +88,7 @@ You may also use this same method to provide your users with multiple search inp
 
 ## Search within Institutions
 
-Every institution in RISM Online comes with its own dedicated search interface. We can use this to create a dedicated search interface for that institution by varying the `action` URL we provide in the form to point to the search URL for that institution. Starting with our basic example, we can build a form that will search all sources in the National Library of Czechia:
+Every institution in RISM Online comes with its own dedicated search interface. We can use this to create a dedicated search interface for that institution by varying the `action` URL we provide in the form to point to the search URL for that institution. Starting with our basic example, we can build a form that will search all sources in the National Library of the Czech Republic:
 
 ```html
 <form action="https://rism.online/institutions/30000083/sources" method="get">
