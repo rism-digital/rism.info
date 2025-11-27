@@ -14,7 +14,8 @@ RISM ist seit langem die Grundlage für musikwissenschaftliche Projekte. Die fol
 - [RISM zitieren](community/how-to-cite-rism.html): RISM-Empfehlungen für das Zitieren von Musikhandschriften und -drucken in Publikationen.    
 - [Unikate in der RISM-Datenbank suchen](/community/finding-unica-in-rism.html): Erfahren Sie, wie Sie in der RISM-Datenbank nach gedruckten Ausgaben suchen können, die im Besitz einer einzigen Institution sind.  
 - [Die RISM-Bibliothekssigel](/community/sigla/about.html): Erläuterung der RISM-Abkürzungen für Bibliotheken, Archive und Sammlungen mit historischen Musikbeständen
-- [Katalogausdrucke von RISM-Daten](/community/catalog-printouts.html): Wie Sie aus Einträgen der RISM-Datenbank einen hochwertigen PDF-Katalog für Ihre eigenen Publikationen erstellen können  
+- [Katalogausdrucke von RISM-Daten](/community/catalog-printouts.html): Wie Sie aus Einträgen der RISM-Datenbank einen hochwertigen PDF-Katalog für Ihre eigenen Publikationen erstellen können
+- [RISM-Suchen in Ihrer Website integrieren](/community/integrating-rism-searches-on-website.html): So richten Sie eine benutzerdefinierte Suche in der RISM-Datenbank für ein bestimmtes Land, eine bestimmte Institution oder Person ein
 - [RISM Catalog-Hilfeseite](https://opac.rism.info/main-menu-/kachelmenu/help){:blank}  
 - [RISM Online-Hilfeseite](https://rism.online/about/help){:blank}  
 

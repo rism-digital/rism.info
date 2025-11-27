@@ -24,6 +24,14 @@ Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musi
 - [Wie kann mich an RISM beteiligen?](/community/participate-in-rism.html): Finden Sie heraus, wie Sie zu RISM beitragen können.
 
 
+## RISM Logos  
+Das RISM-Logo kann auf Ihren Websites oder in Ihren Publikationen verwendet werden. Klicken Sie mit der rechten Maustaste auf das Bild, um es zu kopieren oder als lokale Datei zu speichern.
+
+![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
+
+![rism-logo](/images/organization/rism-logo.png)  
+
+
 _Abbildungen:_  
 (1) Workshop in Shanghai, 2018, ausgerichtet von der RISM Chinese-Language Region. Foto von Vivian Zhang.  
 (2, 4) Workshop in Frankfurt ausgerichtet von der Zentralredaktion, 2018  

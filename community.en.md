@@ -22,7 +22,15 @@ The RISM database is used by researchers, musicians, librarians, students, music
 - [Data Services](/community/data-services.html): Ways of using RISM data in external catalogs, projects, or research.
 - [User Studies](/community/survey.html): Research carried out by the Editorial Center in 2014–2015 about the users of the RISM Catalog.  
 - [Share Your News with RISM](/community/share-your-news.html): Let us know if you have any discoveries, publications, projects, announcements, or other news that would be of interest to the wider RISM community.
-- [How Can I Participate in RISM?](/community/participate-in-rism.html): Find out the different ways you can contribute to RISM.
+- [How Can I Participate in RISM?](/community/participate-in-rism.html): Find out the different ways you can contribute to RISM.  
+
+
+## RISM Logos  
+The RISM logo is available for use on your websites or publications. Right-click on the image to either copy it or save it as a local file.
+
+![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
+
+![rism-logo](/images/organization/rism-logo.png)  
 
 _Images:_  
 (1) Workshop in Shanghai, 2018, sponsored by RISM Chinese-Language Region. Photo: Vivian Zhang  
