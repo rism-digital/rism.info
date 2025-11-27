@@ -136,7 +136,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
 </form>  
 
 
-Notice here that we have removed the  parameter and replaced it with . Any input text here will be interpreted as Plaine and Easie Code, and evaluated against over two million incipits in the RISM Online system. If we supply a search query such as the famous "B-A-C-H" which, when written as Plaine and Easie Code becomes , Bitte beachten Sie, dass wir den Parameter `q` entfernt und durch `n` ersetzt haben. Jeder eingegebene Text wird als Plain-and-Easie-Code interpretiert und mit über zwei Millionen Incipits im RISM-Online-System abgeglichen. Wenn wir die Suchanfrage „B-A-C-H“ eingeben, die als Plain-and-Easie-Code `bBA''C'nB` lautet, lautet die URL für diese Eingabe::
+Bitte beachten Sie, dass wir den Parameter `q` entfernt und durch `n` ersetzt haben. Jeder eingegebene Text wird als Plain-and-Easie-Code interpretiert und mit über zwei Millionen Incipits im RISM-Online-System abgeglichen. Wenn wir die Suchanfrage „B-A-C-H“ eingeben, die als Plain-and-Easie-Code `bBA''C'nB` lautet, lautet die URL für diese Eingabe::
 
 `https://rism.online/search?mode=incipits&n=bBA%27%27C%27nB`
 
