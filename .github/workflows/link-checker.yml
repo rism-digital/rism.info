@@ -54,6 +54,7 @@ jobs:
             --exclude "twitter.com"
             --exclude "opac.rism.info/search?id=.*"
             --exclude "www.bl.uk/manuscripts/.*"
+            ./
             
 
       - name: Create Issue From File
