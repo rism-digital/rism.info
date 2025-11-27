@@ -176,6 +176,12 @@ Notendrucke und Handschriften, die "ein allgemeines Inventar von mehrstimmigen M
 
 * **B/XVIII/1**: Christian Meyer, _Les Sources manuscrites des séquences et proses notées. IXe–XVIe siècles. Volume 1, France. Catalogue descriptif_, 2022.
 
+### B/XIX: Manuscripts of medieval hymn melodies  
+
+* **B/XIX/1**: Christian Meyer, _Les Mélodies de l’hymnaire médiéval. IXe–XVIe siècles. Volume I, France. Catalogue descriptif_, 2025.  
+
+Handschriftliche Hymnenmelodien aus dem Mittelalter in französischen Bibliotheken.  
+
 ## Series C: Directory of Music Research Libraries
 Verleger: [Bärenreiter-Verlag, Kassel](http://www.baerenreiter.com/){:target="_blank"}
 
