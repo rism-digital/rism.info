@@ -31,6 +31,8 @@ jobs:
           TARGET: ${{ env.CHECK_WEBSITE }}
           EXCLUDED_KEYWORDS: |
             twitter.com
+            opac.rism.info/search?id=
+            www.bl.uk/manuscripts/
 
   linkChecker:
     runs-on: ubuntu-latest
