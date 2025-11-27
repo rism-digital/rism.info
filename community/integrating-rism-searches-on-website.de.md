@@ -7,7 +7,7 @@ permalink: /community/integrating-rism-searches-on-website.html
 
 # RISM-Suchen in Ihrer Website integrieren  
 
-Wollten Sie schon immer eine benutzerdefinierte Suchseite für RISM erstellen? Vielleicht möchten Sie Ihre Suche automatisch auf ein bestimmtes Land, eine bestimmte Institution oder Person beschränken. Oder Sie möchten vorab eine Reihe von Filtern anwenden, um Ihren Nutzern eine Suchoberfläche für Manuskripte oder Drucke zur Verfügung zu stellen. Was auch immer Ihre Gründe sind, es gibt zahlreiche Möglichkeiten, wie Sie die RISM Online Search API nutzen können, um benutzerdefinierte Suchfunktionen auf Ihrer eigenen Website zu erstellen.
+Haben Sie sich schon einmal eine benutzerdefinierte Suchseite für die RISM-Datenbank gewünscht? Vielleicht möchten Sie Ihre Suche automatisch auf ein bestimmtes Land, eine bestimmte Institution oder Person beschränken. Oder Sie möchten vorab eine Reihe von Filtern anwenden, um Ihren Nutzern eine Suchoberfläche für Manuskripte oder Drucke zur Verfügung zu stellen. Was auch immer Ihre Gründe sind, es gibt zahlreiche Möglichkeiten, wie Sie die [RISM Online Search API](https://rism.online/docs/api/api/){:blank} nutzen können, um benutzerdefinierte Suchfunktionen auf Ihrer eigenen Website zu erstellen.
 
 ## Erste Schritte
 
@@ -38,7 +38,7 @@ Dadurch sollte ein sehr einfaches Texteingabefeld entstehen, das wie folgt aussi
 
 Es gibt einige wichtige Punkte zu beachten. So legt das Attribut `action` im Tag `<form>` die URL fest, an die die Suche gesendet wird. Das Tag `<input>` erstellt ein Texteingabefeld und der Parameter `name="q"` gibt den Namen für alle in dieses Feld eingegebenen Texte an. Schließlich wird über das Element `<button>` eine Schaltfläche erstellt, über die das Formular gesendet wird.
 
-Wenn Sie auf die Schaltfläche klicken, verwendet der Browser all diese Informationen, um eine URL zu erstellen, die Sie zur Website von RISM Online weiterleitet. Geben Sie beispielsweise „Josephine Lang” in das Suchfeld ein, sieht die URL wie folgt aus:
+Wenn Sie auf die Schaltfläche klicken, verwendet der Browser all diese Informationen, um eine URL zu erstellen, die Sie zur [Website von RISM Online](https://rism.online){:blank} weiterleitet. Geben Sie beispielsweise „Josephine Lang” in das Suchfeld ein, sieht die URL wie folgt aus:
 
 `https://rism.online/search/?q=Josephine%20Lang`
 
@@ -46,7 +46,7 @@ An dieser URL können Sie erkennen, dass der von uns angegebene Parameter `q` au
 
 ## Vordefinierte Filter
 
-Die RISM Online-Dokumentation enthält Informationen zu einer Reihe weiterer Parameter, die zusammen mit `q` angegeben werden können und zur Steuerung der Suchergebnisse dienen.
+Die [RISM Online-Dokumentation](https://rism.online/docs/){:blank} enthält Informationen zu einer Reihe weiterer Parameter, die zusammen mit `q` angegeben werden können und zur Steuerung der Suchergebnisse dienen.
 
 Manchmal möchten Sie diese Werte möglicherweise automatisch in Ihrer Suchabfrage übermitteln, ohne dass Ihre Benutzer wissen, wie sie die richtigen Werte für diesen Parameter eingeben. Wenn Sie Ihre Suche beispielsweise auf die nationalen Sammlungen Polens beschränken, können Sie ein verstecktes Eingabefeld bereitstellen. Erweiterung unseres früheren Beispiels:
 
@@ -83,11 +83,11 @@ Einige Filter verwenden eine komplexere Berechnungsmethode. Wenn Sie Ihre Suche 
 
 Das liegt daran, dass der Parameter `fq` ein Feld (`source-type`) sowie einen Wert für dieses Feld (`manuscript`) erfordert. Wenn Sie sich nicht sicher sind, wie diese Parameter aufgebaut sein müssen, können Sie Ihre Suche jederzeit über die Benutzeroberfläche von RISM Online durchführen. Sehen Sie sich dann die dabei erstellte URL an.
 
-Sie können dieselbe Methode auch verwenden, um Ihren Benutzern mehrere Suchfelder zur Verfügung zu stellen, damit sie mehrere Werte eingeben können. Auch hier kann es hilfreich sein, die von der RISM Online-Schnittstelle erstellten Such-URLs zu konsultieren, aber darauf werden wir in diesem Beitrag nicht näher eingehen.
+Sie können dieselbe Methode auch verwenden, um Ihren Benutzern mehrere Suchfelder zur Verfügung zu stellen, damit sie mehrere Werte eingeben können. Auch hier kann es hilfreich sein, die von der RISM Online-Schnittstelle erstellten Such-URLs zu konsultieren, aber darauf werden wir auf dieser Seite nicht näher eingehen.
 
 ## Suche innerhalb der Körperschaften
 
-Jede Körperschaft in RISM Online verfügt über eine eigene Suchoberfläche. Wir können diese nutzen, um eine eigene Suchoberfläche für eine bestimmte Institution zu erstellen. Dazu variieren wir die URL `action`, die wir im Formular angeben, so, dass sie auf die Such-URL der jeweiligen Institution verweist. Ausgehend von unserem einfachen Beispiel können wir ein Formular erstellen, das alle Quellen in der Nationalbibliothek von Tschechien durchsucht:
+Jede Körperschaft in RISM Online verfügt über eine eigene Suchoberfläche. Wir können diese nutzen, um eine eigene Suchoberfläche für eine bestimmte Institution zu erstellen. Dazu variieren wir die URL `action`, die wir im Formular angeben, so, dass sie auf die Such-URL der jeweiligen Institution verweist. Ausgehend von unserem einfachen Beispiel können wir ein Formular erstellen, das alle Quellen in der Nationalbibliothek der Tschechischen Republik durchsucht:
 
 ```html
 <form action="https://rism.online/institutions/30000083/sources" method="get">
