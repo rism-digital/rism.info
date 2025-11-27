@@ -46,7 +46,6 @@ jobs:
         with:
           args: >
             --verbose
-            --base ${{ steps.build_docs.outputs.html_path }}
             --max-retries 4
             --max-concurrency 4
             --retry-wait-time 10
