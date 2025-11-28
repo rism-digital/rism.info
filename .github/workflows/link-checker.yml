@@ -59,6 +59,7 @@ jobs:
             --exclude "access.bl.uk.*"
             --exclude "searcharchives.bl.uk.*"
             --exclude "opac.rism.info/search?View=rism&siglum=.*"
+            --exclude "*.rism.info/**/(de|en)/(home|startseite)/.*"
             "./**/*.md" "./**/*.html"
             
 
