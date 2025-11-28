@@ -51,6 +51,7 @@ jobs:
             --max-concurrency 4
             --retry-wait-time 10
             --timeout 30
+            --accept 100..=103,200..=299,301
             --user-agent "Mozilla/5.0 (compatible; Lychee/v0.1)"
             --exclude "twitter.com"
             --exclude "opac.rism.info/search?id=.*"
