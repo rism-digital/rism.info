@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Diversity_in_RISM_0740961643.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/diversity-in-rism.html
 email: ''
 author: ''
 ---

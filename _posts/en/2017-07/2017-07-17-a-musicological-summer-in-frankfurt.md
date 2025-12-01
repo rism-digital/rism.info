@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Tompkins_Bericht_Hindemith_2_149df416d1.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/a-musicological-summer-in-frankfurt.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---

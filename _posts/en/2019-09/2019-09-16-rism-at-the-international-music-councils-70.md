@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IMC_Poster_a1ae8c175f.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/rism-at-the-international-music-councils-70-projects-for-70-years-exhibition.html
 email: ''
 author: ''
 ---

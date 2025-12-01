@@ -3,7 +3,6 @@ layout: working-group
 title: "RISM Belgium"
 lang: en
 permalink: /working-groups/belgium/home.html
-old_url: http://www.rism.info/en/workgroups/belgium-rism-belgium/home.html
 sidepanel: "sidepanels/working-groups/belgium"
 ---
 

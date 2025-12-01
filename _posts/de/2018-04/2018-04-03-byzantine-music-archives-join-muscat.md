@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Byzantine_Music_Archives_join_MUSCAT_Seite_2_42a9f3f6c7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/byzantine-music-archives-join-muscat.html
 email: arsinoi_i@hotmail.com
 author: Arsinoi Ioannidou
 ---

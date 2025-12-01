@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_RISM_A-Z__Eugenia_Tadolini__b07de51394.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/1/article/64/eugenia-tadolini.html
 email: ''
 author: ''
 ---

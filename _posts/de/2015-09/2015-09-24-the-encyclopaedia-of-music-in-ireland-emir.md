@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Encyclopedia_of_Music_in_Ireland_337829a88f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/the-encyclopaedia-of-music-in-ireland-emir.html
 email: ''
 author: ''
 ---

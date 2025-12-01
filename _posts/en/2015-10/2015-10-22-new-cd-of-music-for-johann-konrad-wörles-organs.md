@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_CD-Tirol_Franzaroli_g_2be737fefc.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/new-cd-of-music-for-johann-konrad-woerles-organs.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

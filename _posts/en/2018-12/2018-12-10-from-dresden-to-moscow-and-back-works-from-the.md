@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Moscow_Digitalisieren_faeb42933c.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/from-dresden-to-moscow-and-back-works-from-the-slub-relocated-during-the-war-will-be-digitized.html
 email: barbara.wiermann@slub-dresden.de
 author: Barbara Wiermann
 ---

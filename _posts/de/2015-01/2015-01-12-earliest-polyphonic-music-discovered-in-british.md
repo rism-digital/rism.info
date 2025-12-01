@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Polyphonic_music_5c5b927d53.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/earliest-polyphonic-music-discovered-in-british-library.html
 email: ''
 author: ''
 ---

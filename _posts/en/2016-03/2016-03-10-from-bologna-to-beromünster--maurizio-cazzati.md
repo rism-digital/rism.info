@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_digital_center
 image: "/images/news-old-website/csm_Cazzati_RISM_Schweiz_c4d6ac5760.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/from-bologna-to-beromuenster-maurizio-cazzati-messa-e-salmi-op-36.html
 email: cedric.gueggi@rism-ch.org
 author: Cédric Güggi
 ---

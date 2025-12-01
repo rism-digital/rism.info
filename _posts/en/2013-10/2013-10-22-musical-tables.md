@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Liedertisch_Sexta_Vox_8e24c7a8d7.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/60/article/64/musical-tables.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---

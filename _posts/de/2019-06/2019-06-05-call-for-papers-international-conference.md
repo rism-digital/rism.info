@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_CfP_Edgar_8baeba5cc2.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/call-for-papers-international-conference-celebration-and-sonority-morelia-mexico-14th-to-16th-nov.html
 email: euterpe@enesmorelia.unam.mx
 author: ''
 ---

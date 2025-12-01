@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Rameau_Original_fc9a4c28c2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/printed-music-ai-and-bi-now-in-risms-online-catalog.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_sibelius_7fa9d878af.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/jean-sibelius-at-150.html
 email: ''
 author: ''
 ---

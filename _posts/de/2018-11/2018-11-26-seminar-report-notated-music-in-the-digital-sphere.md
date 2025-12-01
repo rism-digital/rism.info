@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Oslo_Bericht_Ward_2018_99bdf379a5.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/seminar-report-notated-music-in-the-digital-sphere.html
 email: ''
 author: ''
 ---

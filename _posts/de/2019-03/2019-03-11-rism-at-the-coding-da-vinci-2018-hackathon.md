@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Hackathon_e3d6e8cfa9.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/rism-at-the-coding-da-vinci-2018-hackathon.html
 email: ''
 author: ''
 ---

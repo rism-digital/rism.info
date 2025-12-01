@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Schreivogel_06a7c82d46.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/a-small-clutch-of-schreivogel-manuscripts.html
 email: ''
 author: ''
 ---

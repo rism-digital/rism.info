@@ -3,7 +3,6 @@ layout: publications
 title: "Jahresberichte"
 lang: de
 permalink: /publications/annual-reports.html
-old_url: http://www.rism.info/de/publikationen/jahresberichte.html
 ---
 
 # Jahresberichte

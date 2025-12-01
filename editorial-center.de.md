@@ -3,7 +3,6 @@ title: "Zentralredaktion"
 layout: editorial-center
 lang: de
 permalink: /editorial-center.html
-old_url: http://www.rism.info/de/unternehmen/zentralredaktion.html
 ---
 
 # RISM Zentralredaktion

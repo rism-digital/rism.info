@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Lasso_Handschriften_c3e08c6280.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/the-manuscript-tradition-of-orlando-di-lassos-works.html
 email: ''
 author: ''
 ---

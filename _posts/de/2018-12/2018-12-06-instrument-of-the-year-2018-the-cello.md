@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Cello_ecb14cd8f3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/instrument-of-the-year-2018-the-cello.html
 email: ''
 author: ''
 ---

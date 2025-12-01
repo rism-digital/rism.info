@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Moralt_-_Kalkant_25a5279a8f.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/moralt-a-muscial-family.html
 email: ''
 author: ''
 ---

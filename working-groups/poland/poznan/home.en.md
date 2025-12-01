@@ -3,7 +3,6 @@ layout: working-group
 title: "Poland : Poznań"
 lang: en
 permalink: /working-groups/poland/poznan/home.html
-old_url: http://www.rism.info/en/workgroups/poland-poznan-adam-mickiewicz-university/home.html
 sidepanel: "sidepanels/working-groups/poland-poznan"
 ---
 

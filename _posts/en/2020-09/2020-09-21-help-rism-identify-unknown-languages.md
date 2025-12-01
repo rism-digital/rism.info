@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Sprache_unbekannt_adf69d48b5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/help-rism-identify-unknown-languages.html
 email: ''
 author: ''
 ---

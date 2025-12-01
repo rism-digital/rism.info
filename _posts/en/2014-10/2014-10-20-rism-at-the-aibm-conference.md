@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Nuernberg_18fcb467ff.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/rism-at-the-aibm-conference.html
 email: ''
 author: ''
 ---

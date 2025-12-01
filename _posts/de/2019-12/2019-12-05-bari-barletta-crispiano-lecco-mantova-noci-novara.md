@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_ICCU_Daten_Nov19_f4ae5c2984.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/bari-barletta-crispiano-lecco-mantova-noci-novara-sassoferrato-and-vercelli.html
 email: ''
 author: ''
 ---

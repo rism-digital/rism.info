@@ -3,7 +3,6 @@ title: Communauté
 layout: community
 lang: fr
 permalink: /community.html
-old_url: http://www.rism.info/fr/community.html
 ---
 
 # Bienvenu dans la communauté du RISM!

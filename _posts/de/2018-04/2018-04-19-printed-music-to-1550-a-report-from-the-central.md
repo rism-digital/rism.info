@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_II_Drucke__M_1738_83b043bcc1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/printed-music-to-1550-a-report-from-the-central-office-ii.html
 email: contact@rism.info
 author: ''
 ---

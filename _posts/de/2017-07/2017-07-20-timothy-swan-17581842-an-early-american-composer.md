@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Timothy_Swan_composer_01_7b82dbcdb2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/timothy-swan-an-early-american-composer.html
 email: ''
 author: ''
 ---

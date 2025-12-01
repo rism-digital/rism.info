@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_MMM2-Logo-Gruen_69367a1c94.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/mmm2-is-online-a-music-encyclopedia-for-the-central-rhine-region.html
 email: kontakt@mugemir.de
 author: Martin Bierwisch
 ---

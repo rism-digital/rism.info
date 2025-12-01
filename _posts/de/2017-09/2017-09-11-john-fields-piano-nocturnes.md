@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Field_John_dcb2de03f2.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/john-fields-piano-nocturnes.html
 email: ''
 author: ''
 ---

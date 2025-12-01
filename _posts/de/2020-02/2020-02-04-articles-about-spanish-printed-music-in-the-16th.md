@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Braun_Toledo_UBHD_2d9318ddc4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/articles-about-spanish-printed-music-in-the-16th-century.html
 email: 'congtact@rism.info'
 author: Carmen Álvarez
 ---

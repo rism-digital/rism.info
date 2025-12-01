@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Telemann-neueArie_d58b4e47bc.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/mein-herz-ist-viel-zu-schwach-a-newly-discovered-aria-by-georg-philipp-telemann.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---

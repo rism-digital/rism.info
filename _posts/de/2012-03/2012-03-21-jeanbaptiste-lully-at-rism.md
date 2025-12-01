@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_JBLully-UBFfm-Ganzfigurbildnis_ad036c1d0e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/jean-baptiste-lully-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

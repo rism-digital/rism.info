@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Manskopf-2_01_b8875df1a6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/friedrich-nicolas-manskopf-and-his-museum.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---

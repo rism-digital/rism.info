@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Moravian_Music_Foundation_Bach_vl_d7ad2aa896.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/new-records-from-the-moravian-music-foundation-now-in-rism.html
 email: barbara@moravianmusic.org
 author: Barbara Strauss
 ---

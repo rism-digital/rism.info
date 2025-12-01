@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Donizetti_dd1e9e1237.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/a-donizetti-discovery.html
 email: ''
 author: ''
 ---

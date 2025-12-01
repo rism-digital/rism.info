@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_zitieren_de56a1bcd3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/how-to-cite-rism-records.html
 email: ''
 author: ''
 ---

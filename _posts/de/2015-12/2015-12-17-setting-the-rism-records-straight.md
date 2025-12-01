@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Anonymus_identifiziert_von_Nutzern_usw_5560e90474.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/setting-the-rism-records-straight.html
 email: ''
 author: ''
 ---

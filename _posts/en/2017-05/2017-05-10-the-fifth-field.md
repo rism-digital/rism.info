@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Fifth_Field_card_01_d2af8ba1fa.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/the-fifth-field.html
 email: ''
 author: ''
 ---

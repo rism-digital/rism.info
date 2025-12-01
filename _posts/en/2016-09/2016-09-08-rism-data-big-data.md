@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Tuppen_Big_Data_3ebe5dfb2f.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/35/article/64/rism-data-big-data.html
 email: ''
 author: ''
 ---

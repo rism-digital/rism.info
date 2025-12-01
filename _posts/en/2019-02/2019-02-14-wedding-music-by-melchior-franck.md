@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Hochzeitsmusiken_b92266ed0b.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/wedding-music-by-melchior-franck.html
 email: ''
 author: ''
 ---

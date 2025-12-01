@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Nachruf_Gonzales_Valle_c4542bbde3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/jose-vicente-gonzalez-valle-in-memoriam.html
 email: ''
 author: ''
 ---

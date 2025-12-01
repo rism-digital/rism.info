@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Haendel-Autographe_635e1c9541.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/george-frideric-handel-at-the-british-library.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Annaberger_Chorbuecher_80a43029de.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/two-sources-lots-of-material-for-research-the-digital-annaberger-chorbuecher.html
 email: andrea.hammes@slub-dresden.de
 author: Dr. Andrea Hammes
 ---

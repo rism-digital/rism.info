@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Shakespeare_400_a9982db381.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/shakespeare-400-in-music.html
 email: ''
 author: ''
 ---

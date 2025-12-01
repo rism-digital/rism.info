@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_brunetti_LibraryCongress_c105f7273d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/gaetano-brunetti-manuscripts-online-at-the-library-of-congress.html
 email: ''
 author: 'Karen Lund und Susan Clermont'
 ---

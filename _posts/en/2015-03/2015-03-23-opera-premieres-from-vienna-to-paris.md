@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Herold_Pre_aux_clercs_8e7538eb91.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/opera-premieres-from-vienna-to-paris.html
 email: ''
 author: ''
 ---

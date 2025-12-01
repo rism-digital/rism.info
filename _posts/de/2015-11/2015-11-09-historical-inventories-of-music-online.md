@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Inventare_e4824639e3.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/43/article/64/historical-inventories-of-music-online.html
 email: nina.eichholz@slub-dresden.de
 author: Nina Eichholz
 ---

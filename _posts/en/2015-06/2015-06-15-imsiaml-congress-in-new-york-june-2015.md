@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_New_York_4fdcb24cc5.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/imsiaml-congress-in-new-york-june-2015.html
 email: ''
 author: ''
 ---

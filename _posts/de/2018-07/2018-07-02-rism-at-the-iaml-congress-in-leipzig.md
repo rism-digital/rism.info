@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_Leipzig_logo_2018_3205319617.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/rism-at-the-iaml-congress-in-leipzig.html
 email: ''
 author: ''
 ---

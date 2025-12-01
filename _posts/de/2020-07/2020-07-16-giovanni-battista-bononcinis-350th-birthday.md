@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Bononcini_350_855abeaace.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/giovanni-battista-bononcinis-350th-birthday.html
 email: ''
 author: ''
 ---

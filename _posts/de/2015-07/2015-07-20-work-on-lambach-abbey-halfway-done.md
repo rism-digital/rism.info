@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Lambach-Lecq_0af6a169e6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/work-on-lambach-abbey-halfway-done.html
 email: lecqerbg@xs4all.nl
 author: Frank van der Lecq
 ---

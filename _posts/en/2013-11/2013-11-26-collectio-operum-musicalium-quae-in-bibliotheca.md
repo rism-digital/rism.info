@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_01_cover_of_catalogue_c8c897bdd0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/60/article/64/collectio-operum-musicalium-quae-in-bibliotheca-kinsky-adservantur.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---

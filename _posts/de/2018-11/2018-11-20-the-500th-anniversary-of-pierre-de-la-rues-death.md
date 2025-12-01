@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_De_la_Rue_500_4455370fbf.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/the-500th-anniversary-of-pierre-de-la-rues-death.html
 email: ''
 author: ''
 ---

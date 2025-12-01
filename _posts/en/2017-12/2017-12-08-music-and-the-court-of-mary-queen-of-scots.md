@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Mary_Queen_of_Scots_dc6ae42ae6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/music-and-the-court-of-mary-queen-of-scots.html
 email: ''
 author: ''
 ---

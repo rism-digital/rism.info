@@ -3,7 +3,6 @@ layout: working-group
 title: "A Short History"
 lang: en
 permalink: /working-groups/slovenia/history.html
-old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/a-short-history.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
 

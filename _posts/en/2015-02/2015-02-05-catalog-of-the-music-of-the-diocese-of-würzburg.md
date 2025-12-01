@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_978-3-429-03715-4_01_b10e8eb99a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/catalog-of-the-music-of-the-diocese-of-wuerzburg-published.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---

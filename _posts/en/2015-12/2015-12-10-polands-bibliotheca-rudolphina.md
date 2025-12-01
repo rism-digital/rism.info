@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Rudolphina_310c96dcbf.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/polands-bibliotheca-rudolphina.html
 email: ''
 author: ''
 ---

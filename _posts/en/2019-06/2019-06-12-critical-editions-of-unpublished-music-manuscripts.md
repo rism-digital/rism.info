@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Brussels_Publications_Castejon_c45636c12b.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/critical-editions-of-unpublished-music-manuscripts-from-the-royal-conservatory-of-brussels-b-bc.html
 email: bibliotheque@conservatoire.be
 author: Olivia Wahnon de Oliveira
 ---

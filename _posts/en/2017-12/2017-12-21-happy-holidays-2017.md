@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Weihnachtsgruss_2017_7573db1267.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/happy-holidays-2017.html
 email: ''
 author: ''
 ---

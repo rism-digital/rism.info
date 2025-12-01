@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Tabulaturen_231b764688.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/42/article/64/manuscript-tablatures-and-partbooks-up-to-the-17th-century-in-the-bavarian-state-library.html
 email: giglberger@bsb-muenchen.de
 author: Veronika Giglberger
 ---

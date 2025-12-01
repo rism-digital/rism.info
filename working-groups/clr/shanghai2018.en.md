@@ -3,7 +3,6 @@ layout: working-group
 title: "2018/12 RISM-CLR held the annual meeting of the Collaborative Project on Chinese Music Resources and Muscat workshop in Shanghai"
 lang: en
 permalink: /working-groups/clr/shanghai2018.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201812-rism-clr-held-the-annual-meeting.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Bernhard_Romberg_-_Kneer_e7b6262fa2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/64/happy-253rd-birthday-bernhard-romberg-1767-1841.html
 email: 'contact@rism.info'
 author: 'Daniel Kneer'
 ---

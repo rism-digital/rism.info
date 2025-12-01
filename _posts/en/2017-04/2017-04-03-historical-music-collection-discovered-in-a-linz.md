@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Linzer_Realschule_c47c332708.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/historical-music-collection-discovered-in-a-linz-school-austria.html
 email: ikarus_k@hotmail.com
 author: Stefan Ikarus Kaiser
 ---

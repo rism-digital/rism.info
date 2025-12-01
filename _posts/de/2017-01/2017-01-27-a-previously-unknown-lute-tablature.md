@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Lautentabulatur_Kirsch_Braunschweig04_6502ace6fb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/a-previously-unknown-lute-tablature.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Dr. Helmut Lauterwasser
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Klingenberg_1720_915abf6be5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/64/friedrich-gottlieb-klingenberg-the-wedding-composer.html
 email: ''
 author: ''
 ---

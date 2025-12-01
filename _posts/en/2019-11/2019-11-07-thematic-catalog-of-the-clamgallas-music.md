@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Clam-Gallas_626bb1ca12.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/thematic-catalog-of-the-clam-gallas-music-collection.html
 email: eliska.sediva@centrum.cz
 author: Eliška Šedivá
 ---

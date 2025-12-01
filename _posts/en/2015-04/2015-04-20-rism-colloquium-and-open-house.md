@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Grigny_Abschrift-v-JSBach__b9666366c3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/49/article/64/rism-colloquium-and-open-house.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_06_a7764d2790.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/rism-and-digital-musicology-utrecht-2019.html
 email: ''
 author: ''
 ---

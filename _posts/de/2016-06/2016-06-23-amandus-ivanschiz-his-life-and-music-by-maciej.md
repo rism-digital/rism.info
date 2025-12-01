@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Ivanschiz_Amandus_f40a4e0251.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/amandus-ivanschiz-his-life-and-music-by-maciej-jochymczyk.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_D-DS_Benda-Romeo_0d29ae01ba.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/tomorrow-is-valentines-day.html
 email: ''
 author: ''
 ---

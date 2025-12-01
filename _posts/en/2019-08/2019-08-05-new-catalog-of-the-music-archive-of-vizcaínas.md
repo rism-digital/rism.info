@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Vizcainas_f8f4548efa.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/new-catalog-of-the-music-archive-of-vizcainas-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John G. Lazos
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Gruppenbild_1_42bc7de79b.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/muscat-workshop-at-the-czech-national-library-in-prague.html
 email: ''
 author: ''
 ---

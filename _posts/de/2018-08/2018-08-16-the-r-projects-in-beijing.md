@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_China_2018_R-Projekte_a99c431507.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/the-r-projects-in-beijing.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Armenien_Sigel_f5ba135e79.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/24/article/64/new-and-first-library-siglum-for-armenia.html
 email: ''
 author: ''
 ---

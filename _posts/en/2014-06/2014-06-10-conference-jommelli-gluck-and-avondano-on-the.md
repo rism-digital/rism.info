@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Jommelli-Konferenz_5f12729883.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/conference-jommelli-gluck-and-avondano-on-the-occasion-of-their-300th-anniversary.html
 email: ''
 author: ''
 ---

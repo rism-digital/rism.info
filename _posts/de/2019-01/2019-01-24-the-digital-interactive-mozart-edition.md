@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digital_Interaktive_Mozart_Edition_a3e7c1e5c5.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/the-digital-interactive-mozart-edition.html
 email: ''
 author: ''
 ---

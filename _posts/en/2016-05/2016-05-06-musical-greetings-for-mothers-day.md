@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Muttertag_e894bbeb23.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/musical-greetings-for-mothers-day.html
 email: ''
 author: ''
 ---

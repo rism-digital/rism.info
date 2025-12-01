@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Telemann_digital_MsFfMus_1000_Es_sei_ferne_TVWV_1_0526_01_ce7d7b3394.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/telemann-digital.html
 email: A.B.Kersting-Meuleman@ub.uni-frankfurt.de
 author: Ann Kersting-Meuleman
 ---

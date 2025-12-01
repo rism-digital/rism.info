@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Eitner_cbaf4952ad.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/rism-from-a-to-z-robert-eitner.html
 email: ''
 author: ''
 ---

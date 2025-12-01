@@ -3,7 +3,6 @@ layout: working-group
 title: "2015 Taipei Conference of Collaborative Project on Chinese Music Resources –RISM Workshop Meeting Minutes"
 lang: en
 permalink: /working-groups/clr/taipei2015.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201510-taipei-conference.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

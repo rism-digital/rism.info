@@ -3,7 +3,6 @@ layout: working-group
 title: "Österreich : Innsbruck : RISM Landesleitung Tirol-Südtirol & OFM Austria"
 lang: de
 permalink: /working-groups/austria/innsbruck/home.html
-old_url: http://www.rism.info/de/workgroups/austria-innsbruck-rism-landesleitung-tirol-suedtirol-ofm-austria/home.html
 sidepanel: "sidepanels/working-groups/austria-innsbruck"
 ---
 

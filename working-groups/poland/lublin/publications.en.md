@@ -3,7 +3,6 @@ layout: working-group
 title: "Publications"
 lang: en
 permalink: /working-groups/poland/lublin/publications.html
-old_url: http://www.rism.info/en/workgroups/poland-lublin-the-john-paul-ii-catholic-university-of-lublin/publications.html
 sidepanel: "sidepanels/working-groups/poland-lublin"
 ---
 

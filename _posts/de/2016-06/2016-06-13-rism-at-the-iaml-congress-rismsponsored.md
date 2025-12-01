@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_8ce02284f4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/37/article/64/rism-at-the-iaml-congress.html
 email: ''
 author: ''
 ---

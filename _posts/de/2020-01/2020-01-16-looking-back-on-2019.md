@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Rueckblick_2019_dd73c5c5b5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/looking-back-on-2019.html
 email: ''
 author: ''
 ---

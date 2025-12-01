@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Endbericht_RISM_Doeppenschmitt_9ff4b81c37.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/64/my-internship-at-rism.html
 email: 'contact@rism.info'
 author: 'Miquela Döppenschmitt'
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_BritishLibraryTreasureLostAndFound1_53787dfd26.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/music-treasure-lost-and-found.html
 email: ''
 author: Caroline Shaw
 ---

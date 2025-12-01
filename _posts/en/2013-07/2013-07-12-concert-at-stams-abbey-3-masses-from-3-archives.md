@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_MozartKV257_a45fd156a8.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/60/article/64/concert-at-stams-abbey-3-masses-from-3-archives.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_CZ-Bu_be494ec769.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/report-on-electronic-data-delivery-to-rism-using-the-moravska-zemska-knihovna-v-brne-moravian-libra.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---

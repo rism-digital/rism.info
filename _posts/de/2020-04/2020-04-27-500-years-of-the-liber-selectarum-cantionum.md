@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_500_Jahre_Liber_selectarum_acab537a28.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/500-years-of-the-liber-selectarum-cantionum.html
 email: ''
 author: ''
 ---

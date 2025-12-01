@@ -3,7 +3,6 @@ layout: working-group
 title: "United Kingdom : London : The British Library, Music Collections"
 lang: en
 permalink: /working-groups/united-kingdom/home.html
-old_url: http://www.rism.info/en/workgroups/united-kingdom-london-the-british-library-music-collections/home.html
 sidepanel: "sidepanels/working-groups/united-kingdom"
 ---
 

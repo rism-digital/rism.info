@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Taiwan_Conference_44d24a6e80.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/rism-conference-in-taiwan.html
 email: ''
 author: ''
 ---

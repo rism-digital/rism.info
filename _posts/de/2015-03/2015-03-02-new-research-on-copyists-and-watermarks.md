@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Wasserzeichen_1f474109d9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/new-research-on-copyists-and-watermarks.html
 email: contact@rism.info
 author: Klaus Keil
 ---

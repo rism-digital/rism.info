@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Bild_castle-of-dublin_d2a11c9904.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/55/article/64/matthew-dubourg.html
 email: alexander.marxen@rism.info
 author: ''
 ---

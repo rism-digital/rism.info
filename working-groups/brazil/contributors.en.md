@@ -3,7 +3,6 @@ layout: working-group
 title: "Contributors"
 lang: en
 permalink: /working-groups/brazil/contributors.html
-old_url: http://www.rism.info/workgroups/brazil-universities-of-bahia-brasilia-campinas-minas-gerais/contributors.html
 sidepanel: "sidepanels/working-groups/brazil"
 ---
 

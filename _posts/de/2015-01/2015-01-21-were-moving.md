@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Umzug_7521db8844.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/were-moving.html
 email: ''
 author: ''
 ---

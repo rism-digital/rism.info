@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: ''
 author: ''
 ---

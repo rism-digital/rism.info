@@ -3,7 +3,6 @@ layout: working-group
 title: "Ireland"
 lang: en
 permalink: /working-groups/ireland/home.html
-old_url: http://www.rism.info/en/workgroups/ireland-rism-working-group-ireland/home.html
 sidepanel: "sidepanels/working-groups/ireland"
 ---
 

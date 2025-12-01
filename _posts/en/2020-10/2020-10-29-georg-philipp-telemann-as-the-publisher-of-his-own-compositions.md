@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Koerperschaft_Telemann_Quartette_1738_66eb421ee5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/georg-philipp-telemann-as-the-publisher-of-his-own-compositions.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Weihnachten_2018_Christrose_de3ad64308.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/happy-holidays-2018.html
 email: ''
 author: ''
 ---

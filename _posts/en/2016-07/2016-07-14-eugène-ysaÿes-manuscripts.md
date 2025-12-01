@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Ysaye_und_Bruessel_ee50e04932.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/eugene-ysayes-manuscripts.html
 email: ''
 author: ''
 ---

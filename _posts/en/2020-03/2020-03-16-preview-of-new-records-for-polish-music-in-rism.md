@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_pl-wtm-r926-0005_f0490f118a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/preview-of-new-records-for-polish-music-in-rism.html
 email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---

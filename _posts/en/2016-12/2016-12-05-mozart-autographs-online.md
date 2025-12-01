@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Mozart_-_Todestag_225_b9c02571ad.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/mozart-autographs-online.html
 email: ''
 author: ''
 ---

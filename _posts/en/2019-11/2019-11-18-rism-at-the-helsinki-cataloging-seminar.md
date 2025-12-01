@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Helsinki_Cataloging_Seminar_7c045fa7cb.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/rism-at-the-helsinki-cataloging-seminar.html
 email: ''
 author: Jennifer Ward
 ---

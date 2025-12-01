@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Announcing_the_new_RISM_UK_Catalogue_8cfc511743.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/1/article/64/announcing-the-new-rism-uk-catalogue.html
 email: 'caroline.shaw@bl.uk'
 author: 'British Library'
 ---

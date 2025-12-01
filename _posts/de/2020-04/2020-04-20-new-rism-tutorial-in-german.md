@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_YouTube_Tuebingen_e2fee7b99b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/new-rism-tutorial-in-german.html
 email: ''
 author: ''
 ---

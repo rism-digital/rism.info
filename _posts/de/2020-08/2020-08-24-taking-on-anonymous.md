@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Anonymus_in_Modena_Palazzo_dei_Musei_6a28d9207c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/taking-on-anonymous.html
 email: ''
 author: ''
 ---

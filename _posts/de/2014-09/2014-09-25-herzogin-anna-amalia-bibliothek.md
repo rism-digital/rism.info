@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Gruenes_Schloss__Herzogin-Anna-Amalia-Bibliothek__in_Weimar_a010222224.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/herzogin-anna-amalia-bibliothek.html
 email: ''
 author: ''
 ---

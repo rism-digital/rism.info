@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_08_5add72044a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/launch-of-project-group-on-rism-series-c.html
 email: ''
 author: ''
 ---

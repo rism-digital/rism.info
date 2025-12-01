@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Museum_of_Music_Printing_fee196cb8b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/the-music-printing-history-online-museum.html
 email: ''
 author: ''
 ---

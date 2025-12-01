@@ -7,7 +7,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Augsburg_BSB_Tonk_Schl_200a_Einband_Wappen_df51db4059.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/article/64/music-manuscripts-from-the-staats-und-stadtbibliothek-augsburg-to-the-mid-17th-century-cataloging.html
 email: 'Bernhard.Lutz@bsb-muenchen.de'
 author: 'Bernhard Lutz'
 ---
