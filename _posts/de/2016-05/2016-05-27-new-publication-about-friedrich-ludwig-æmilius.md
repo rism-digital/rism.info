@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Kunzen-Boehlau_0a0420ffd6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/new-publication-about-friedrich-ludwig-aemilius-kunzen-a-composer-of-two-nations.html
 email: ''
 author: ''
 ---

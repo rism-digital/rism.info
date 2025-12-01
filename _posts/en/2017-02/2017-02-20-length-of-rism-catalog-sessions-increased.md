@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_OPAC_timeout_25_Minuten_0f082180fc.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/length-of-rism-catalog-sessions-increased.html
 email: ''
 author: ''
 ---

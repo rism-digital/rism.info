@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_diener_bild_bc9bf5739c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-olga-diener.html
 email: ''
 author: ''
 ---

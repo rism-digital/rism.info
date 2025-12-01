@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Needler_Hester_e14b18b521.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/hester-needler.html
 email: ''
 author: ''
 ---

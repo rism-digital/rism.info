@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_William_Crotch_ReinagleDog_ccfdbb0668.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/20/article/64/an-extraordinary-musical-prodigy.html
 email: ''
 author: ''
 ---

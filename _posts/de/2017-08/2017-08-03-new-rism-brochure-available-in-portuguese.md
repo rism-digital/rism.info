@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Brochure_EN_PT_234ca2a80e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/new-rism-brochure-available-in-portuguese.html
 email: ''
 author: ''
 ---

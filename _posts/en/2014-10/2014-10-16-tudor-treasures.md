@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Luther_858925dff4.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/54/article/64/tudor-treasures.html
 email: 'mj263@cam.ac.uk'
 author: 'Margaret Jones'
 ---

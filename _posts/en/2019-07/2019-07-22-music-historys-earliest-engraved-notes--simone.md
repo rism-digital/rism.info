@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Verovio_fruehe_Drucke_74bfaf3caa.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/music-historys-earliest-engraved-notes-simone-verovio.html
 email: martin.bierwisch@rism.info
 author: Martin Bierwisch
 ---

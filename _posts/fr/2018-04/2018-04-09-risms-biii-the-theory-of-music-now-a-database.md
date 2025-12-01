@@ -6,7 +6,6 @@ lang: fr
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Meyer_RISM_B_III_Einsiedeln_79_p12_fbcc8ed540.jpg"
-old_url: http://www.rism.info/fr/home/newsdetails/browse/22/article/64/risms-biii-the-theory-of-music-now-a-database.html
 email: chr.meyer@wanadoo.fr
 author: Christian Meyer
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_17italianariasfront_77bd1b40fe.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/64/article/64/rism-metadata-in-digital-collections.html
 email: ''
 author: ''
 ---

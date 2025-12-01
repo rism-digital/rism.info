@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Avondano_Waghenaer-Karte_0848f7cd20.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/pedro-antonio-avondano.html
 email: ''
 author: ''
 ---

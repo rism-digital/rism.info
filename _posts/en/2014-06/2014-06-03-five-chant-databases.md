@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Chant_databases_CAO_ECE_36fe08a43d.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/five-chant-databases.html
 email: ''
 author: ''
 ---

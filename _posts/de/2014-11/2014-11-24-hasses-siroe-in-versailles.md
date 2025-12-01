@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Hasse_ebb19dc698.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/hasses-siroe-in-versailles.html
 email: ''
 author: ''
 ---

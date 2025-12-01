@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Galuppi_0316ebe6da.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/47/article/64/baldassare-galuppi-1706-1785.html
 email: ''
 author: ''
 ---

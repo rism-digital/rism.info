@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Beriot_photo_55eea5347f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/farewell-charles-de-beriot.html
 email: richard.sutcliffe@ehb.be
 author: Richard Sutcliffe
 ---

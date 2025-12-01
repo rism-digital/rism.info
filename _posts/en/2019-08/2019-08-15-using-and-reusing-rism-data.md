@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_digital_center
 image: "/images/news-old-website/csm_Edirom_RondoDB_0d4f6b6724.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/using-and-reusing-rism-data.html
 email: ''
 author: ''
 ---

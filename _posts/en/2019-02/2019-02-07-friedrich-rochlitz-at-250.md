@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Rochlitz_250_9fbeb78fdc.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/15/article/64/friedrich-rochlitz-at-250.html
 email: ''
 author: ''
 ---

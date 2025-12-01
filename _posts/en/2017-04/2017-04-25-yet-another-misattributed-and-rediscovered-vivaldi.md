@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Talbot_Vivaldi-Entdeckung_RV_827_64cc70cc09.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/yet-another-misattributed-and-rediscovered-vivaldi-work-in-dresden.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---

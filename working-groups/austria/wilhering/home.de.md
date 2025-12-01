@@ -3,7 +3,6 @@ layout: working-group
 title: "Österreich : Wilhering : Stift Wilhering"
 lang: de
 permalink: /working-groups/austria/wilhering/home.html
-old_url: http://www.rism.info/de/workgroups/austria-vienna-oesterreichische-akademie-der-wissenschaften/home.html
 sidepanel: "sidepanels/working-groups/austria-wilhering"
 ---
 

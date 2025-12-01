@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_IAML_Bericht_6fa7f9c416.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/rism-at-the-iamlims-congress-in-new-york.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nachzueglerinnen_3f80c883aa.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/eight-more-women-composers.html
 email: ''
 author: ''
 ---

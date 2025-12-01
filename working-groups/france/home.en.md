@@ -3,7 +3,6 @@ layout: working-group
 title: "France : Paris : National Library of France, Departement of Music"
 lang: en
 permalink: /working-groups/france/home.html
-old_url: http://www.rism.info/en/workgroups/france-paris-national-library-of-france-departement-of-music/home.html
 sidepanel: "sidepanels/working-groups/france"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mb_Kronberger_2012_4ec1262442.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/63/article/64/processing-music-manuscripts-completed-at-the-st-boniface-abbey-library-munich-d-mb.html
 email: ''
 author: ''
 ---

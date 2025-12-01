@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Marienkirche_Roetha_Ward_6224c75da2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/congress-diary-from-iaml-leipzig-2018.html
 email: ''
 author: ''
 ---

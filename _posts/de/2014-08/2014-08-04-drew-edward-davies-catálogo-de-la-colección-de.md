@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Davies_Catalogo_Cover_389d23d19d.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/drew-edward-davies-catalogo-de-la-coleccion-de-musica-del-archivo-historico-de-la-arquidiocesis-de.html
 email: ''
 author: ''
 ---

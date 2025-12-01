@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_CD_TWK17_CoverSm_93c3829926.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/new-cd-tiroler-weihnachtskonzert-2017.html
 email: rism.hh@musikland-tirol.at
 author: Hildegard Herrmann-Schneider
 ---

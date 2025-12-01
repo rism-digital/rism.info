@@ -3,7 +3,6 @@ title: Nutzerstudie
 layout: community
 lang: de
 permalink: /community/survey.html
-old_url: http://www.rism.info/de/community/rism-nutzerstudie.html
 ---
 
 # Die RISM Nutzerstudie

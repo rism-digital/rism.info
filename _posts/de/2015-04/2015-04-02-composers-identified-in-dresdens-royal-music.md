@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Hofkirche_009fed7010.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/composers-identified-in-royal-dresden-music-collections.html
 email: Nina.Eichholz@slub-dresden.de
 author: Nina Eichholz
 ---

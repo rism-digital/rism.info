@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_01_8fbaddb081.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/internships-at-the-rism-central-office.html
 email: martina.falletta@rism.info
 author: 'Martina Falletta'
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_digital_center
 image: "/images/news-old-website/csm_Muscat_website_project_page_39cfa71a71.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/a-dedicated-website-for-the-muscat-project.html
 email: laurent.pugin@rism-ch.org
 author: Laurent Pugin
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Fetis_KBR_Monteverdi_Phalesius_cover_45f64f7b11.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/the-digitized-fetis-collection-at-the-royal-library-of-belgium.html
 email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---

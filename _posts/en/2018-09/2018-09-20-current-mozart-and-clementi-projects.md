@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Mozart_Clementi_Bibliographie_7d553a8de4.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/current-mozart-and-clementi-projects.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_1720_Ha__ndel_Radamisto_113457a6de.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/300-years-of-radamisto-by-george-frideric-handel.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_141209-lute-music-mainimage_d0d7272391.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/crown-jewels-of-english-lute-music-go-online.html
 email: ''
 author: ''
 ---

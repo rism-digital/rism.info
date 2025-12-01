@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Schalttage_vom_2020-02-12_09-28-56_bdbbf75c0d.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/musical-leap-year-babies.html
 email: ''
 author: ''
 ---

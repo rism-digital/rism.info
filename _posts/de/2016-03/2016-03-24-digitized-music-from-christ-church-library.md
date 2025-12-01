@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Christ_Church_Digitalisate_Mus_45_fol_2v_d8cbd864b6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/39/article/64/digitized-music-from-christ-church-library.html
 email: ''
 author: ''
 ---

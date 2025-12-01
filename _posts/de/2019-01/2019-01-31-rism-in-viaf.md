@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_VIAF_-_Clara_Schumann_f2600a4b81.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/rism-in-viaf.html
 email: ''
 author: ''
 ---

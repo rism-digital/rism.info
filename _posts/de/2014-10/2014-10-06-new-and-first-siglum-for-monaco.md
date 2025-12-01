@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Monaco.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/new-and-first-siglum-for-monaco.html
 email: ''
 author: ''
 ---

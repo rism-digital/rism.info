@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_US-TelemannSeite1_dda1488dec.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/66/article/64/us-rism-news.html
 email: linklat@fas.harvard.edu
 author: Christina Linklater
 ---

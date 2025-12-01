@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_2015_c5ba7a17dc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/52/article/64/looking-back-at-2014.html
 email: ''
 author: ''
 ---

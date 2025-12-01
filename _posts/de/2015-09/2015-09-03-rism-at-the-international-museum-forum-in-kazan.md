@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Kazan_IntMuseumforum_cd1cd3319b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/rism-at-the-international-museum-forum-in-kazan-russia.html
 email: ''
 author: ''
 ---

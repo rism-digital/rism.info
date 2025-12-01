@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Patromonio_musical_espanol_9241af500a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/una-coleccion-de-patrimonio-musical-espanol.html
 email: ''
 author: ''
 ---

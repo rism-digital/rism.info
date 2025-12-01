@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Advent_wreath_70f72b1002.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/music-for-advent.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

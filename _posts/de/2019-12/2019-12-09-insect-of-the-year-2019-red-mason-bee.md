@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Biene_2019-Heinichen_51b2bdb705.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/insect-of-the-year-2019-red-mason-bee.html
 email: ''
 author: ''
 ---

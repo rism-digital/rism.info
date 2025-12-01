@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Two_Centuries_of_British_Symphonism_b5884259e6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/symphonic-music-in-great-britain.html
 email: ''
 author: ''
 ---

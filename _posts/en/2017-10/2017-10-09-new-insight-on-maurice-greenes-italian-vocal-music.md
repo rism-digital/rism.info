@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Greenes_Italian_2ae50396f0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/new-insight-on-maurice-greenes-italian-vocal-music.html
 email: ''
 author: ''
 ---

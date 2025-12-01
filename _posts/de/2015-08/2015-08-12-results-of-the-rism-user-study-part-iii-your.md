@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_2_Bruch_D-B_024c56fa6e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/results-of-the-rism-user-study-part-ii-your-comments-chronological-limits.html
 email: ''
 author: ''
 ---

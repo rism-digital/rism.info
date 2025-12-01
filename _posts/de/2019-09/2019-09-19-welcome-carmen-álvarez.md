@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Vista_de_la_basilica_de_Nuestra_Senora_del_Pilar_en_Zaragoza_0ddb98150c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/welcome-carmen-alvarez.html
 email: ''
 author: Carmen Álvarez
 ---

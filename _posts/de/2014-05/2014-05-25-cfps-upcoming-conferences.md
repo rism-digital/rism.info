@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_d8c8eeffe0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/58/article/64/cfps-upcoming-conferences.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Le__har_Villa_Bad_Ischl_59f6649fa8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/5/article/64/the-franz-lehar-collection-in-bad-ischl-austria.html
 email: sandrafoeger@hotmail.com
 author: Sandra Föger
 ---

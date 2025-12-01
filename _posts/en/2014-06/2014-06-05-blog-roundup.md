@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Egerton_9cf7c2a2f3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/blog-roundup.html
 email: ''
 author: ''
 ---

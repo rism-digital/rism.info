@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_09_d0bbb2c881.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/karin-weissert-internship-report.html
 email: ''
 author: Karin Weißert
 ---

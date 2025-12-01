@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Die_anonyme_Kantate__Chiuso_e___gia___Borea_nevoso__-_Choro_d__Ninfe_f5a660d6f5.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/the-anonymous-cantata-chiuso-e-gia-borea-nevoso.html
 email: ''
 author: ''
 ---

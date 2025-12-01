@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_Bde2_8dda4a934f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/search-strategies-for-printed-music.html
 email: ''
 author: ''
 ---

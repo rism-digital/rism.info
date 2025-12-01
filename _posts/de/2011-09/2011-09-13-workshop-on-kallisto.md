@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_kallisto_bild_915023e407.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/64/article/64/workshop-on-kallisto.html
 email: contact@rism.info
 author: Klaus Keil
 ---

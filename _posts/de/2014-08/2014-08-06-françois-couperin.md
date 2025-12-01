@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Couperin_la_voluptueuse_22c2f11ecd.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-francois-couperin.html
 email: ''
 author: ''
 ---

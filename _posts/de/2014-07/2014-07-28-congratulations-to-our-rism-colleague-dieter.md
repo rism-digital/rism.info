@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Kirsch_Ehrendoktorwuerde.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/congratulations-to-our-rism-colleague-dieter-kirsch-wuerzburg.html
 email: ''
 author: ''
 ---

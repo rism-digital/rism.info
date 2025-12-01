@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Jubilare_2019_PNG13_53e197c73a.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/musical-anniversaries-in-2019.html
 email: ''
 author: ''
 ---

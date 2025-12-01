@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Rambach_afbea77628.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/johann-jacob-rambach-theologian-and-writer.html
 email: ''
 author: ''
 ---

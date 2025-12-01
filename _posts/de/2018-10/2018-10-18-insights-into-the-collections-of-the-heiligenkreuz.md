@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Einblicke_in_Sammlungen_des_Stiftes_Heiligenkreuz_Illusion_2d2ffe6052.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/insights-into-the-collections-of-the-heiligenkreuz-monastery-austria.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Polen_Titel_nach_2017_fc909847db.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/polish-sources-in-rism-since-2017.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Dresden_Hofkirche_01_3ed0276a4a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/digitizing-materials-from-dresdens-royal-music-collections.html
 email: contact@rism.info
 author: Nina Eichholz
 ---

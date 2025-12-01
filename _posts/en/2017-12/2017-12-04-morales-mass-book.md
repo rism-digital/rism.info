@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Morales_Mass_Book_tp_032616cbd3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/morales-mass-book.html
 email: kijas@bc.edu
 author: Anna E. Kijas
 ---

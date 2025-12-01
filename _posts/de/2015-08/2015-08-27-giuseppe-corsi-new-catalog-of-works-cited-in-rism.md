@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Corsi-stravaganza_8e01e290b2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/45/article/64/giuseppe-corsi-new-catalog-of-works-cited-in-rism.html
 email: ''
 author: ''
 ---

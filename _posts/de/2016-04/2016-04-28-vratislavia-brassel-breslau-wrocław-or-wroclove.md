@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Breslau_60048_Muz._b59a94f4f9.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/vratislavia-brassel-breslau-wroclaw-or-wroclove.html
 email: ''
 author: ''
 ---

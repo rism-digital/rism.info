@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_CappSist_Ambrogio_Brambilla_8b7e459d78.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/the-fondo-cappella-sistina-in-rism.html
 email: 't.schmidt@hud.ac.uk'
 author: 'Thomas Schmidt'
 ---

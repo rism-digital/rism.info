@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Tuba_296eed917b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/49/article/64/international-tuba-day-on-1-may.html
 email: ''
 author: ''
 ---

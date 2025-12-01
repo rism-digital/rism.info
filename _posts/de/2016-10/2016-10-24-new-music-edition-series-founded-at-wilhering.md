@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Kaiser_Pernsteiner_Messa_a3fab7301d.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/35/article/64/new-music-edition-series-founded-at-wilhering-abbey-in-upper-austria-matthias-pernsteiner-missa-po.html
 email: musikarchiv@stiftwilhering.at
 author: Ikarus Kaiser
 ---

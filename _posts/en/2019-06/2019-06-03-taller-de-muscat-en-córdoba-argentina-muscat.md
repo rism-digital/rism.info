@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Vormittag_6c24af8a5f.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/taller-de-muscat-en-cordoba-argentina-muscat-workshop-in-cordoba-argentina.html
 email: lucianagsh@gmail.com
 author: Luciana Giron Sheridan and Lucas Reccitelli
 ---

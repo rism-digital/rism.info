@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Grimma_RISM_8d9ab3cac6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/exhibition-baroque-musical-life-in-grimma-saxony.html
 email: Andrea.Hartmann@slub-dresden.de
 author: Andrea Hartmann
 ---

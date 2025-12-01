@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Weihnachtsgruss_2015_dd1756a5cb.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/42/article/64/happy-holidays-2015.html
 email: ''
 author: ''
 ---

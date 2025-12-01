@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Krakow_AusstellungJagiellonian_f9a46ccdda.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/musical-collections-in-the-jagiellonian-library-through-the-ages.html
 email: ''
 author: ''
 ---

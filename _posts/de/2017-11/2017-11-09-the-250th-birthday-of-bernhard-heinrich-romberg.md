@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_RombergBernhard_1314d2b2f6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/the-250th-birthday-of-bernhard-heinrich-romberg.html
 email: ''
 author: ''
 ---

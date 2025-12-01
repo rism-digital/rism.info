@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Boyneburgk_Rettinghaus_0ca3a29413.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/the-many-lives-of-baron-friedrich-von-boyneburgk.html
 email: rettinghaus@bach-leipzig.de
 author: Klaus Rettinghaus
 ---

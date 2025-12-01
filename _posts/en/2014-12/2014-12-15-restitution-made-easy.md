@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_75_will_vii_1425_001r_d00d9acfbf.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/restitution-made-easy.html
 email: ''
 author: ''
 ---

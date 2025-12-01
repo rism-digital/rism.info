@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_FondsTootsThielemans_02_dd537f6adb.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/33/article/64/major-acquisition-in-belgium-fonds-toots-thielemans.html
 email: marie.cornaz@kbr.be
 author: Marie Cornaz
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Zanni_9306c2f180.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/help-solve-a-90-year-old-musical-mystery.html
 email: ''
 author: ''
 ---

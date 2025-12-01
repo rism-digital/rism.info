@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Andorra_5fd8622c25.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/two-new-countries-in-rism-andorra-and-and-indonesia-ri.html
 email: ''
 author: ''
 ---

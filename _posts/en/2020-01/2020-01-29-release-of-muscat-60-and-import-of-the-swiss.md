@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_digital_center
 image: "/images/news-old-website/csm_News_CH_vom_2020-01-28_11-06-36_0b38e1efba.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/release-of-muscat-60-and-import-of-the-swiss-dataset.html
 email: ''
 author: ''
 ---

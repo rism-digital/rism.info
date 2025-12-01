@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Jasna_Gora_01_42801628cd.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/pawel-podejko-an-author-and-his-thematic-catalogue.html
 email: ''
 author: ''
 ---

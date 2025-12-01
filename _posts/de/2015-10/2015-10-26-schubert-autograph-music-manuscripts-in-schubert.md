@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Schubert_online_01_9a6a396202.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/schubert-autograph-music-manuscripts-in-schubert-online.html
 email: ''
 author: ''
 ---

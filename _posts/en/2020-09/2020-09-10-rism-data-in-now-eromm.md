@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_eromm_header_text_8c95211ecf.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/2/article/64/rism-data-in-now-eromm.html
 email: ''
 author: ''
 ---

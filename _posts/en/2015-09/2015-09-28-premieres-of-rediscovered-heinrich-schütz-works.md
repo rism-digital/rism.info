@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Schuetz_-_SWV_497_bc_Anfang_c15a261727.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/premieres-of-rediscovered-heinrich-schuetz-works.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---

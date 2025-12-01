@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Hoffmann_1c79de896a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/autograph-manuscript-by-melchior-hoffmann-discovered.html
 email: julia.neumann@sbb.spk-berlin.de
 author: Julia Neumann
 ---

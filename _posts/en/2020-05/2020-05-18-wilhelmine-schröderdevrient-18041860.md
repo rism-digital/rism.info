@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Schro__der-Devrient-Illustrirte_Zeitung__1843__07_013_4_Adriano_9e256ca086.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/wilhelmine-schroeder-devrient-1804-1860.html
 email: ''
 author: ''
 ---

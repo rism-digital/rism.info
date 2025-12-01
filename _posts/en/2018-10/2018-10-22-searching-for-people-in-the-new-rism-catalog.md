@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM-OPAC_-_Personen_c231e23988.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/17/article/64/searching-for-people-in-the-new-rism-catalog.html
 email: ''
 author: ''
 ---

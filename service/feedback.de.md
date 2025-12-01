@@ -3,7 +3,6 @@ title: "Feedback"
 layout: service
 lang: de
 permalink: /service/feedback.html
-old_url: http://www.rism.info/de/service/feedback.html
 ---
 
 # Senden Sie uns Ihr Feedback!

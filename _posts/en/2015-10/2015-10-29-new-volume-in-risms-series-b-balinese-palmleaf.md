@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_B_XVI-Bali_a84ebf0c97.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/43/article/64/new-volume-in-risms-series-b-balinese-palm-leaf-manuscripts.html
 email: ''
 author: ''
 ---

@@ -3,7 +3,6 @@ layout: working-group
 title: "José Antonio Gómez y Olguín’s (1805-1876) music catalogue"
 lang: en
 permalink: /working-groups/mexico/gomez.html
-old_url: http://www.rism.info/en/workgroups/mexico-dr-john-g-lazos/projects.html
 sidepanel: "sidepanels/working-groups/mexico"
 ---
 

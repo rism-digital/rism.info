@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Liederdatenbank_12f3940890.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/43/article/64/the-dutch-song-database.html
 email: ''
 author: ''
 ---

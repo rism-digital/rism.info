@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_pleyel_austen_music_00430bd055.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/was-this-book-of-pleyel-sonatas-once-part-of-jane-austens-circle.html
 email: ''
 author: ''
 ---

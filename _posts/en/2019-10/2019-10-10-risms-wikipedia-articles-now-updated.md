@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_wikipedia_logo_8efafa0864.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/risms-wikipedia-articles-now-updated.html
 email: ''
 author: ''
 ---

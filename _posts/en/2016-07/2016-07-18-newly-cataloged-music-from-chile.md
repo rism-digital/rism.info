@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Chile_Haydn_2c152ef389.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/newly-cataloged-music-from-chile.html
 email: ''
 author: ''
 ---

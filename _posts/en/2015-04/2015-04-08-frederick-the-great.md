@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Frederick_der_Grosse_01_d7d47ca716.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/new-music-from-old-fritz-manuscripts-by-frederick-the-great-discovered.html
 email: ''
 author: ''
 ---

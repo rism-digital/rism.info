@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Oboe_f3843d94ca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/27/article/64/the-oboe-instrument-of-the-year.html
 email: ''
 author: ''
 ---

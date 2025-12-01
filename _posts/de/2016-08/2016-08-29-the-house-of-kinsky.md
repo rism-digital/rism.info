@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Kinsky-Wappen_3220e11f9d.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/the-house-of-kinsky.html
 email: ''
 author: ''
 ---

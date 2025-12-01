@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Carlos_Gomes_62dbc726c8.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/music-by-antonio-carlos-gomes-part-of-the-unesco-memory-of-the-world-list.html
 email: ''
 author: ''
 ---

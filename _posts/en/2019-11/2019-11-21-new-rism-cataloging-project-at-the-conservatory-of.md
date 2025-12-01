@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Lazos_Conservatory_Queretaro_3_eb7d8ff40c.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/8/article/64/new-rism-cataloging-project-at-the-conservatory-of-queretaro-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---

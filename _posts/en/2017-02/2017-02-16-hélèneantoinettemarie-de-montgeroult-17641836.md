@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Montgeroult_02703b2ec0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/helene-antoinette-marie-de-montgeroult-1764-1836.html
 email: ''
 author: ''
 ---

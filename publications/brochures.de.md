@@ -3,7 +3,6 @@ layout: publications
 title: "RISM Kurzporträt"
 lang: de
 permalink: /publications/brochures.html
-old_url: http://www.rism.info/de/publikationen/broschueren.html
 ---
 
 # RISM Broschüren

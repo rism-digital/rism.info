@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Debussy_Zum_100_Todestag_d0982b48e7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/100th-anniversary-of-claude-debussys-death.html
 email: ''
 author: ''
 ---

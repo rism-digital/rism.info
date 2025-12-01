@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Poesie_Gallica_7ab9d3eb38.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/37-livres-dairs-de-differents-auteurs-digitized-and-free-online-from-gallica.html
 email: ''
 author: ''
 ---

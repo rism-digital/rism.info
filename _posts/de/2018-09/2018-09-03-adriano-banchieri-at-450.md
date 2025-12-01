@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Banchieri_1_ae56112754.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/19/article/64/adriano-banchieri-at-450.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_VKatalinic_Sorkocevici_35_f33f5e6002.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/vjera-katalinic-the-sorkocevices-aristocratic-musicians-from-dubrovnik.html
 email: ''
 author: ''
 ---

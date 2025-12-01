@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_muscat_05_98c8ee9cdc.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/introductory-muscat-workshops-in-november-full.html
 email: ''
 author: ''
 ---

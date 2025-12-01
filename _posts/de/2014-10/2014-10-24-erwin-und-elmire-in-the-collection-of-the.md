@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_DNT-6b-Erwin_und_Elmire_4e15e74784.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/erwin-und-elmire-in-the-collection-of-the-deutsches-nationaltheater-weimar-for-the-275th-birthday.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Rigaerfahrung_IAML_2017_Guido_Bibliothek_656188bfbd.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/riga-rism-ligo.html
 email: ''
 author: ''
 ---

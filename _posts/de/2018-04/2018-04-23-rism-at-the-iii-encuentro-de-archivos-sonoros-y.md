@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Chile_Bericht_2018_78274e8467.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/rism-at-the-iii-encuentro-de-archivos-sonoros-y-musicales-de-chile.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Castello_di_Gesualdo_d9af99a928.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/60/article/64/carlo-gesualdo-rism.html
 email: martina.falletta@rism.info
 author: Martina Falletta
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Orontea_von_Antonio_Cesti_7efb468408.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/51/article/64/antonio-cestis-orontea.html
 email: ''
 author: ''
 ---

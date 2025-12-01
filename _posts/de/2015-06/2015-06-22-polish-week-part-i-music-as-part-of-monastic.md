@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/Kasaty-logo.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/polish-week-part-i-music-as-part-of-monastic-heritage-in-poland.html
 email: guido.kraus@rism.info
 author: Guido Kraus
 ---

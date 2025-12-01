@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Projekt_Colombia_Torres_2018_archive_small_1ac0f059f0.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/17/article/64/new-rism-project-in-colombia.html
 email: rf.torres20@uniandes.edu.co
 author: Rondy F. Torres López
 ---

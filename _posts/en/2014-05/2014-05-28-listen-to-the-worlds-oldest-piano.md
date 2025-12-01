@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Cristofori_Klavier_7994ffff72.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/listen-to-the-worlds-oldest-piano.html
 email: ''
 author: ''
 ---

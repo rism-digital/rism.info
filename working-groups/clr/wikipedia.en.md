@@ -3,7 +3,6 @@ layout: working-group
 title: "The entry “RISM” of Chinese Wikipedia is now officially online!"
 lang: en
 permalink: /working-groups/clr/wikipedia.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201606-wiki.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

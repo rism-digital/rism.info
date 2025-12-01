@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Kayser_-_Gaensemarkttheater_72482d24f9.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/margarethe-susanna-kayser-the-kayserin.html
 email: ''
 author: ''
 ---

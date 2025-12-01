@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Mariae_Geburt_d969d78f72.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/nativity-of-the-blessed-virgin-mary-mariae-bv-nativitas.html
 email: ''
 author: ''
 ---

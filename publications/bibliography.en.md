@@ -3,7 +3,6 @@ layout: publications
 title: "RISM Bibliography in Chronological Order"
 lang: en
 permalink: /publications/bibliography.html
-old_url: http://www.rism.info/publications/bibliography.html
 ---
 
 # RISM Bibliography in Chronological Order

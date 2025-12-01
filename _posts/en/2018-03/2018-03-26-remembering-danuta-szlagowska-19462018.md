@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Nachruf_Danuta_Szlagowska_6020f11f2d.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/22/article/64/remembering-danuta-szlagowska-1946-2018.html
 email: ''
 author: ''
 ---

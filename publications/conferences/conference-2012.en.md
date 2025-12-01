@@ -3,7 +3,6 @@ layout: publications
 title: "RISM Conference 2012"
 lang: en
 permalink: /publications/conferences/conference-2012.html
-old_url: http://www.rism.info/en/publications/music-documentation-2012.html
 ---
 
 # RISM Conference 2012

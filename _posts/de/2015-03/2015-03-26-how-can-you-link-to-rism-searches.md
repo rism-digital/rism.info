@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_04_421d257e6c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/50/article/64/how-can-you-link-to-rism-searches.html
 email: ''
 author: ''
 ---
