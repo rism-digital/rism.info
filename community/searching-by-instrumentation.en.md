@@ -71,7 +71,7 @@ Click **Create a query** just below the main search box.
 
 {% include image file="/images/community/instrumentation/online-query-link.jpg" %}  
 
-Select **Scoring summary** to enter multiple instruments in summarized form. Use parenthesis if your query contains a space or hyphen. Omit any parenthesis.
+Select **Scoring summary** to enter multiple instruments in summarized form. Use quotation marks if your query contains a space or hyphen. Omit any parenthesis.
 
 {% include image file="/images/community/instrumentation/online-query-summary.jpg" %}  
 
