@@ -11,6 +11,8 @@ email: ''
 author: ''
 ---
 
+_Please see our updated page on this topic here: [Searching by Instrumentation](/community/searching-by-instrumentation.html)_  
+
 With the [release of Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"}, our new program for cataloging sources, we took the opportunity to clarify our guidelines for our RISM contributors. One of the results of this is a new, more complete list of RISM instrument abbreviations. We thought we'd also share this improved list with you–the users of the online catalog–and show you how it works.
 
 The list of RISM instrument abbreviations is available to both RISM catalogers to assign to music as they are cataloging it, and to users when they are searching the online catalog. Instruments can be searched either through a general simple search or through the [**Advanced Search**](https://opac.rism.info/metaopac/start.do?View=rism&SearchType=2&Language=en){:target="_blank"} using the field **Scoring**. And let's get this straight up front: by "instrument" we mean all instruments, including vocal parts.
