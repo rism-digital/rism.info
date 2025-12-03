@@ -16,7 +16,7 @@ Zunächst sollten Sie über Grundkenntnisse in HTML verfügen. Das ist die Compu
 Wir beginnen mit einem einfachen Beispiel und analysieren anschließend, wie es funktioniert.
 
 ```html
-<form action="https://rism.online/search" method="get">
+<form action="https://rism.online/search?mode=sources" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
         <input type="search" id="mySearch" name="q" />
