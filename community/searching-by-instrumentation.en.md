@@ -18,7 +18,7 @@ The list of RISM instrument abbreviations is sorted by instrument family and the
 
 In the RISM database, you will find instruments listed in a piece's full scoring as well as in a scoring summary. The summaries help give an overview of the instrumentation of a piece.  
 
-Some examples:  
+Some examples of scoring summaries:  
 - **orch**: a piece for orchestra  
 - **V (4), orch, org**: four vocal soloists, orchestra, and organ  
 - **V (2)**: vocal duet  
@@ -52,7 +52,7 @@ _View the full record: [RISM ID no. 1001196649](https://opac.rism.info/id/rismid
 
 The specific instruments–in this case, the exact voices, the makeup of the choir, and the instruments in the orchestra–are listed under **Scoring** in the **Further notes** section.
 
-{% include image file="/images/community/instrumentation/catalog-full-instruments.jpgg" %}  
+{% include image file="/images/community/instrumentation/catalog-full-instruments.jpg" %}  
 
 
 When you do an [Advanced Search](https://opac.rism.info/rism/Search/Advanced){:blank} and select the field **Scoring**, a small "i" appears to the right. When you click on it, a pop-up window opens with the abbreviations in one column, arranged by instrument family, and the English term in the other column. Use only the instrument abbreviations in your search (omit numbers). The field **Scoring** searches the scoring summaries.
@@ -91,6 +91,7 @@ Examples:
 - Violin: [scoring:vl](https://rism.online/search?q=scoring%3Avl&mode=sources&page=1&rows=100){:blank}  
 - English horn: [scoring:"cor inglese"](https://rism.online/search?q=scoring%3A%22cor%20inglese%22&mode=sources&page=1&rows=100){:blank}   
 - Mezzo-Soprano: [scoring:"Mezzo-S"](https://rism.online/search?q=scoring%3A%22Mezzo-S%22&mode=sources&page=1&rows=100){:blank}  
+- Bombarde: [scoring:bombarde](https://rism.online/search?q=scoring%3Abombarde&mode=sources&page=1&rows=40){:blank}  
 
 
 Instruments can be searched in combination with other fields to further refine your search, either through using additional fields in the query builder or selecting elements from the main search interface. Some examples are:   
@@ -98,4 +99,3 @@ Instruments can be searched in combination with other fields to further refine y
 - [String quartets by Joseph Haydn](https://rism.online/search?q=scoring_summary%3A%22vl%202%2C%20vla%2C%20vlc%22%20AND%20creator%3A%22Haydn%2C%20Joseph%22&mode=sources&page=1&rows=100){:blank}  
 - [Music for viola da gamba preserved in Sweden](https://rism.online/search?q=scoring%3A%22vla%20da%20gamba%22%20AND%20siglum%3A%22S-%22&mode=sources&page=1&rows=100){:blank}  
 - [Piano concertos that are autograph manuscripts](https://rism.online/search?q=scoring_summary%3A%22pf%2C%20orch%22&mode=sources&fq=material-source-types%3AAutograph%20manuscript&page=1&rows=100){:blank}  
- 
