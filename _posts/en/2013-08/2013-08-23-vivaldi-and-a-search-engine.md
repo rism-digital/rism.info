@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Vivaldi_gross_4a60f7382a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/60/article/64/vivaldi-and-a-search-engine.html
 email: mtalbot@liverpool.ac.uk
 author: Michael Talbot
 ---

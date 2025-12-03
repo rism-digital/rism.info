@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Links_zu_Digitalisaten_01_e60adc9ec7.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/help-rism-link-to-digitized-music.html
 email: ''
 author: ''
 ---

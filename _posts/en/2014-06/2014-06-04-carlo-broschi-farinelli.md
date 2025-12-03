@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Broschi_Farinelli___Metastasio_d4813e79c3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/carlo-broschi-farinelli.html
 email: ''
 author: ''
 ---

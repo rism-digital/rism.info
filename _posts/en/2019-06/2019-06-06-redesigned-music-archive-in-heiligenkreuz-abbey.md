@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Musikarchiv_Heiligenkreuz_Segnung_8f42d128e3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/redesigned-music-archive-in-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: Pater Roman Nägele
 ---

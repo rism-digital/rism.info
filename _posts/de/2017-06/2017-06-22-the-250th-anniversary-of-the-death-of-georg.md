@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Telemann_250_-_Marsch_aaf1492561.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/the-250th-anniversary-of-the-death-of-georg-philipp-telemann.html
 email: ''
 author: ''
 ---

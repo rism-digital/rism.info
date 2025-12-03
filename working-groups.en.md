@@ -3,7 +3,6 @@ title: Working Groups
 layout: working-groups
 lang: en
 permalink: /working-groups.html
-old_url: http://www.rism.info/en/international.html
 ---
 
 # International Working Groups

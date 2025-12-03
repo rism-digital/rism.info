@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Neujahrsgruss_01_47be7de03b.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/52/article/64/new-years-greetings-and-composer-anniversaries.html
 email: ''
 author: ''
 ---

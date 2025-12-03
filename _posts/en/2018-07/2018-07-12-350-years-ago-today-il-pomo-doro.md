@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Il_Pomo_d_oro__underworld_scene_4ce68e4d65.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/350-years-ago-today-il-pomo-doro.html
 email: ''
 author: ''
 ---

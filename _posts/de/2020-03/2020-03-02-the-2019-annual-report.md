@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_14_caf0cc46e1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/the-2019-annual-report.html
 email: ''
 author: ''
 ---

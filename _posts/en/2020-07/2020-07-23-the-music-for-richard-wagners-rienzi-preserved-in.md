@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Rienzi_-_Fagott_I_-_Finale_1._Akt_e8492a55ba.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/the-music-for-richard-wagners-rienzi-preserved-in-dresden.html
 email: ''
 author: ''
 ---

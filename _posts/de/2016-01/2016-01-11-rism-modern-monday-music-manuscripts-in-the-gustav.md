@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canada_Mahler_370e57d212.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/41/article/64/rism-modern-monday-music-manuscripts-in-the-gustav-mahler-alfred-rose-collection.html
 email: cmart29@uwo.ca
 author: Cheryl Martin
 ---

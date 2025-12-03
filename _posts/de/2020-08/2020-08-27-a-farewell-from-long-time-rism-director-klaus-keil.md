@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Abschied_Foto_China_01_73a7e83ba7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/a-farewell-from-long-time-rism-director-klaus-keil.html
 email: 'klaus.keil@rism.info'
 author: 'Klaus Keil'
 ---

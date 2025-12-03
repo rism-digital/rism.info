@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_IAML_Roma_2016_01_cd20a41ee9.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/rism-at-iaml-part-2-whats-new-in-2016.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Canada_Dalhousie_Shaw_4adb1d94ef.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/new-sources-from-canada-in-rism.html
 email: shawbecky1@gmail.com
 author: Becky Shaw
 ---

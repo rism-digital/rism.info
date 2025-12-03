@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_und_Flaggen_6618ee1583.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/58/article/64/new-coordinating-committee-elected.html
 email: ''
 author: ''
 ---

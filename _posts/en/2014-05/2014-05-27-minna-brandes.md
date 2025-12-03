@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Brandes_309617fec5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/58/article/64/minna-brandes-1.html
 email: ''
 author: ''
 ---

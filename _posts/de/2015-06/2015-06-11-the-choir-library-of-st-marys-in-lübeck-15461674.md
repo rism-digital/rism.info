@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Choir_Library_Luebeck_9b046ee41e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/the-choir-library-of-st-marys-in-luebeck-1546-1674.html
 email: ''
 author: ''
 ---

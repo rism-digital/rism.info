@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/A4_portrait_01.pdf"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/rism-survey.html
 email: ''
 author: ''
 ---

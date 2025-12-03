@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_rism2_3c185d75bc.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/31/article/64/rism-mourns-the-loss-of-wolfgang-rehm-1929-2017.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_CDs_01_3ac265972d.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/50/article/64/new-cd-box-set-the-rism-complete-incipits-edition.html
 email: ''
 author: ''
 ---

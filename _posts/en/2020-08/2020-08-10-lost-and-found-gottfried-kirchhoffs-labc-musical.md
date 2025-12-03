@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Kirchhoff_ABCMusical_01_8cc52ebc97.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/lost-and-found-gottfried-kirchhoffs-labc-musical.html
 email: ''
 author: ''
 ---

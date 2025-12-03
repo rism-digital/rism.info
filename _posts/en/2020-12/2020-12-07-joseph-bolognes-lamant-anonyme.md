@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Joseph_Bologne_s_L_Amant_Anonyme__Chevalier_de_Saint-Georges_4bab01581c.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/article/64/joseph-bolognes-lamant-anonyme.html
 email: 'operaritrovata@gmail.com'
 author: 'George N. Gianopoulos, Stephen Karr, Leila Núñez-Fredell, Mishkar Núñez-Fredell'
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_muscat_04_9222e9e554.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/muscat-workshops-in-october-2018.html
 email: ''
 author: ''
 ---

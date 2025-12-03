@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_07_043d90e6d3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/no-siglum-no-problem.html
 email: ''
 author: ''
 ---

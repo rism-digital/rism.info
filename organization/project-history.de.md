@@ -3,7 +3,6 @@ title: "Geschichte des Projekts"
 layout: organization
 lang: de
 permalink: /organization/project-history.html
-old_url: http://www.rism.info/de/unternehmen/projektgeschichte.html
 ---
 
 # Geschichte des Projekts

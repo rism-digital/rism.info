@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Catalogus_collectionis_-_Prag_a6317d9051.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/the-thematic-catalogue-of-the-music-collection-in-the-premonstratensian-monastery-in-zeliv.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---

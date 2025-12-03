@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Michele_Pesenti_deb3a82ab2.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/michele-pesenti-complete-works.html
 email: ''
 author: Bibliolore
 ---

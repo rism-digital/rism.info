@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_KurzportraitS1_25fe8723b0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/64/article/64/new-brochure-rism-an-overview.html
 email: ''
 author: ''
 ---

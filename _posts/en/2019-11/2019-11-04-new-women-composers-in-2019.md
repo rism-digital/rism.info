@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Neue_Komponistinnen_2019_347354dd2b.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/9/article/64/new-women-composers-in-2019.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Elektronische_Werkverzeichnisse_c2d566f881.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/article/64/electronic-thematic-catalogs.html
 email: ''
 author: ''
 ---

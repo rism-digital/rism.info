@@ -3,7 +3,6 @@ title: "Verein"
 layout: organization
 lang: de
 permalink: /organization/the-association.html
-old_url: http://www.rism.info/de/unternehmen/verein-internationales-quellenlexikon-der-musik.html
 ---
 
 Zwei Vereine verwalten die internationalen Zentren, die die Aktivitäten des RISM-Netzwerks überwachen: der Verein "Internationales Quellenlexikon der Musik" für die Zentralredaktion in Frankfurt und der Verein "RISM Digital Center" für das Digital Center in Bern. Die Mitglieder der Kommission Mixte sind ex-officio Mitglieder beider Vereine.

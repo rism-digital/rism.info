@@ -3,7 +3,6 @@ layout: working-group
 title: "RISM-Chinese Language Region"
 lang: en
 permalink: /working-groups/clr/home.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/home.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Carl-Maria-von-Weber-Gesamtausgabe_572c6a7306.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/7/article/64/version-40-of-weber-complete-edition-digital-edition-published.html
 email: ''
 author: ''
 ---

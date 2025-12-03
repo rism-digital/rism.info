@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_06_6782e43034.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/48/article/64/results-of-the-rism-user-study-part-i-the-survey.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Gruppenfoto_I_klein_2232e87404.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/muscat-workshop-in-prague.html
 email: ''
 author: ''
 ---

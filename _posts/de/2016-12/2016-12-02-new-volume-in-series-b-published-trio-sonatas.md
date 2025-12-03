@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Triosonate_ffd47d31b6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/new-volume-in-series-b-published-trio-sonatas.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Roze_Nicolas_200_526cdfc026.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/the-200th-anniversary-of-the-death-of-nicolas-roze.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Alday_Titelblatt_Klein_23c69faad7.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/an-evening-of-irish-music.html
 email: ''
 author: ''
 ---

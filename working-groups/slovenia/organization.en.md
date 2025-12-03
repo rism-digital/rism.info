@@ -3,7 +3,6 @@ layout: working-group
 title: "Slovenia: Organization"
 lang: en
 permalink: /working-groups/slovenia/organization.html
-old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/organisation.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
 

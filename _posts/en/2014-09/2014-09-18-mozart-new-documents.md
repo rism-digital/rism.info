@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Mozart_New_Documents_0900ead507.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/mozart-new-documents.html
 email: ''
 author: ''
 ---

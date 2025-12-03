@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Haendel_Incerta_2ecd3ef55e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/23/article/64/the-compositions-attributed-to-g-f-handel-1700-1800.html
 email: ''
 author: ''
 ---

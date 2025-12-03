@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Massimo-Beispiel_Cencetti_edc4f3f3e0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/45/article/64/digitized-opera-scores-at-the-german-historical-institute-in-rome.html
 email: pfeiffer@dhi-roma.it
 author: Roland Pfeiffer
 ---

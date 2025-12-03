@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Pianistinnen_bei_RISM_Clara_Schumann_1853_d73ea77a21.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/international-womens-day-women-pianists-in-rism.html
 email: ''
 author: ''
 ---

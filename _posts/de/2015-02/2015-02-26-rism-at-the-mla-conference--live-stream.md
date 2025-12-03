@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/resources-old-website/pics/RISM_MLA_conference.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/rism-at-the-mla-conference-live-stream.html
 email: ''
 author: ''
 ---

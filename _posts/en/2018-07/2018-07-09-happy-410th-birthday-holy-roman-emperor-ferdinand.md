@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Ferdinand_III_Geburtstag_ad6d6f3214.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/happy-410th-birthday-holy-roman-emperor-ferdinand-iii.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_music-cats_fb2ca4a7a1.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/cats-in-music.html
 email: ''
 author: ''
 ---

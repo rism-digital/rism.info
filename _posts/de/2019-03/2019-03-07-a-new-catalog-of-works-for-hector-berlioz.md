@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Berlioz_Sterbetag_2019_1855372ada.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/a-new-catalog-of-works-for-hector-berlioz.html
 email: ''
 author: ''
 ---

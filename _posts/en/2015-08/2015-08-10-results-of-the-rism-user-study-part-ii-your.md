@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Nutzerstudie_1_Weltkarte_5c1b1f3e0f.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/the-rism-survey-we-respond-to-your-comments.html
 email: ''
 author: ''
 ---

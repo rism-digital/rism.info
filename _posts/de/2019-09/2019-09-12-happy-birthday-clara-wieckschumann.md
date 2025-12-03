@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Schieke-Gordienko_ClaraSchumann2019_Clara1838_8b872f0c6f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/10/article/64/happy-birthday-clara-wieck-schumann.html
 email: Marina.Gordienko@sbb.spk-berlin.de
 author: Marina Schieke-Gordienko
 ---

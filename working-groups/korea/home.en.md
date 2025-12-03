@@ -3,7 +3,6 @@ layout: working-group
 title: "Ewha Womans University College of Music"
 lang: en
 permalink: /working-groups/korea/home.html
-old_url: http://ewha.kor.rism.info/index.php?id=531&L=0
 sidepanel: "sidepanels/working-groups/korea"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Pernsteiner_Konzert_Kaiser_77be24cdba.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/first-german-performance-of-matthias-pernsteiners-missa-posta-in-musica.html
 email: ''
 author: ''
 ---

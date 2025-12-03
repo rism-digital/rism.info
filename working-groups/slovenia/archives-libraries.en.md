@@ -3,7 +3,6 @@ layout: working-group
 title: "Archives and Libraries"
 lang: en
 permalink: /working-groups/slovenia/archives-libraries.html
-old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/archives-and-libraries.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
 

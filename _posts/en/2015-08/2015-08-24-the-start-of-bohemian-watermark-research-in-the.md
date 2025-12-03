@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Watermark_Research_4f16332722.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/the-start-of-bohemian-watermark-research-in-the-rism-working-group-in-prague-national-library-of-th.html
 email: Eliska.Sediva@nkp.cz
 author: Eliška Šedivá
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Bericht_1601-1610_fd03cb214e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/17th-century-printed-anthologies-the-first-decade-is-now-online.html
 email: ''
 author: ''
 ---

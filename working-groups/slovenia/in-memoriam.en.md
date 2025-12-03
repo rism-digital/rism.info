@@ -3,7 +3,6 @@ layout: working-group
 title: "CONTACT"
 lang: en
 permalink: /working-groups/slovenia/in-memoriam.html
-old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home/newsdetails/article/105/in-memoriam-darja-frelih-nomenj-4-1-1953-ljubljana-11-5-2010.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
 

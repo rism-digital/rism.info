@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_muscat_03_df0154796c.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/muscat-workshops-this-fall.html
 email: ''
 author: ''
 ---

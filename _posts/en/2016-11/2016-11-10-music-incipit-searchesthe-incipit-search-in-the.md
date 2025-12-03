@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_incipit_search_keyboard_965_415_65fdc94948.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/34/article/64/music-incipit-searches.html
 email: ''
 author: ''
 ---

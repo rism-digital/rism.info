@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_03_3a0acca260.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/16/article/64/call-for-papers-workshopconference-on-the-work-level-in-rism.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Giacomo_Insanguine_77d24601f0.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-a-z-giacomo-insanguine-1728-1795.html
 email: ''
 author: ''
 ---

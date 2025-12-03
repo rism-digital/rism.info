@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Henle_Beethoven_Karnival_5aa0aa5bff.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/51/article/64/sensational-new-source-a-previously-unknown-carnival-song-by-beethoven.html
 email: ''
 author: ''
 ---

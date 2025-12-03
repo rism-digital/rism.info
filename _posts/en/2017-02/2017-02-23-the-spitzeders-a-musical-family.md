@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Spitzeder_9c8629735a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/the-spitzeders-a-musical-family.html
 email: ''
 author: ''
 ---

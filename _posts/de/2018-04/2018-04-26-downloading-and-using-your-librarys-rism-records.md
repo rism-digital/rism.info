@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_RISM_Datensaetze_im_eigenen_OPAC_MMF_a4818b352a.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/22/article/64/downloading-and-using-your-librarys-rism-records.html
 email: ''
 author: ''
 ---

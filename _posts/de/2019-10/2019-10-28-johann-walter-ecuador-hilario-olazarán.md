@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Walter_Fontes_front_cover_7329268bad.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/johann-walter-ecuador-hilario-olazaran.html
 email: 'contact@rism.info'
 author: Carmen Álvarez
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Luigi_Marchesi-1a_38ddab43d0.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/luigi-marchesi-a-famous-singer-from-the-18th-century.html
 email: ''
 author: ''
 ---

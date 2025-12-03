@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Carlo_il_Calvo_6902b47468.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/nicola-porporas-carlo-il-calvo-in-bayreuth.html
 email: ''
 author: ''
 ---

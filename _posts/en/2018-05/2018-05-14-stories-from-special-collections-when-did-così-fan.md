@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Detmold_Altbestand_Mus-n_156_Wz2_kl_7333719be9.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/stories-from-special-collections-when-did-cosi-fan-tutte-go-to-detmold.html
 email: eberhardt@llb-detmold.de
 author: Joachim Eberhardt
 ---

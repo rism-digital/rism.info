@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_memoriam
 image: "/images/news-old-website/csm_Cheryl_Martin_kleines_Bild_cc090deb95.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/cheryl-martin-in-memoriam.html
 email: ''
 author: ''
 ---

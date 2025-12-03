@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Updated_tutorials_OPAC_2020_9071afdb1c.png"
-old_url: http://www.rism.info/en/home/newsdetails/article/64/updated-tutorials-for-the-rism-online-catalog.html
 email: ''
 author: ''
 ---

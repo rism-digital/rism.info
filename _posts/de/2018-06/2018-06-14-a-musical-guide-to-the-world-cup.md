@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Fussball_WM_2018_F_9752f6344f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/a-musical-guide-to-the-world-cup.html
 email: ''
 author: ''
 ---

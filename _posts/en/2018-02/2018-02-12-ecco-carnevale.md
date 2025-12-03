@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Karneval-250936_1920_32a664a472.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/ecco-carnevale.html
 email: ''
 author: ''
 ---

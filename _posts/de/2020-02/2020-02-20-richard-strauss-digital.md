@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Strauss_digital_SLUB_f0096ef363.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/richard-strauss-digital.html
 email: ''
 author: SLUB Dresden
 ---

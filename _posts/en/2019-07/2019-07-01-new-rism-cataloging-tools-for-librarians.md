@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_New_Cataloging_Tools_for_Librarians_NYPL_f4112beb94.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/12/article/64/new-rism-cataloging-tools-for-librarians.html
 email: ''
 author: ''
 ---

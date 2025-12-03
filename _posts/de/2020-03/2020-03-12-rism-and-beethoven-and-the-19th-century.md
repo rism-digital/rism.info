@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_RISM_und_Beethoven_109_LC_fea5a7050b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/rism-and-beethoven-and-the-19th-century.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Vizcainas_Lazos_2018_Herbst_1_3c45d0c50c.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/18/article/64/new-sources-from-the-archivo-musical-del-colegio-de-vizcainas-mexico.html
 email: jlazos11@hotmail.com
 author: Dr. John Lazos
 ---

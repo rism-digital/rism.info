@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_VicenteOlmosClaver_Marzal_manuscript__2__cd9d20d296.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/vicente-olmos-claver-a-spanish-chapel-master-of-the-18th-century.html
 email: angelmarzalraga@gmail.com
 author: Ángel Marzal
 ---

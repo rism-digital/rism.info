@@ -3,7 +3,6 @@ layout: working-group
 title: "USA : Cambridge : U.S. RISM Office"
 lang: en
 permalink: /working-groups/united-states/home.html
-old_url: http://us.rism.info/index.php?id=47&L=0
 sidepanel: "sidepanels/working-groups/united-states"
 ---
 

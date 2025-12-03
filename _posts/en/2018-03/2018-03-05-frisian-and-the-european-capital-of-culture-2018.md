@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Leeuwarden_2_842320b067.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/frisian-and-the-european-capital-of-culture-2018.html
 email: S.H.Groot@uva.nl
 author: Simon Groot
 ---

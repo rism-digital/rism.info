@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Offenbach_c870cb859d.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/jacques-offenbach-1819-1860-at-the-british-library.html
 email: ''
 author: Susan Halstead
 ---

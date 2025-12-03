@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_RISM_in_L_viv_002_070b499097.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/muscat-workshop-with-guido-kraus-in-lviv-12-14-february-2019.html
 email: forschung@angelikamoths.com
 author: Angelika Moths
 ---

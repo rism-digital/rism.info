@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Nisle_266945b255.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/29/article/64/johann-martin-friedrich-nisle-1780-after-1861.html
 email: ''
 author: ''
 ---

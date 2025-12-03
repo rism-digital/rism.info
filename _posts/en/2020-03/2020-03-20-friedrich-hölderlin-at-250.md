@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Ho__lderlin_Egermann_SLUB_702be13270.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/friedrich-hoelderlin-at-250.html
 email: ''
 author: ''
 ---

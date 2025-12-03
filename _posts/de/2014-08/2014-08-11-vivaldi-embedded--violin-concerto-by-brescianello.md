@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Vivaldi_embeded_a19db0b2ca.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/56/article/64/vivaldi-embedded-violin-concerto-by-brescianello-turns-out-to-be-a-pasticcio.html
 email: geck@slub-dresden.de
 author: Karl Wilhelm Geck
 ---

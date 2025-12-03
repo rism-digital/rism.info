@@ -3,7 +3,6 @@ layout: working-group
 title: "Austria : Wilhering : Stift Wilhering"
 lang: en
 permalink: /working-groups/austria/wilhering/home.html
-old_url: http://www.rism.info/en/workgroups/austria-wilhering-rism-arbeitsgruppe-stift-wilhering/home.html
 sidepanel: "sidepanels/working-groups/austria-wilhering"
 ---
 

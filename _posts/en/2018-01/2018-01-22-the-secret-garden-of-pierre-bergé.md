@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Secret_garden_1_Berge-bookplate-1-676x371_05311e7fa5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/24/article/64/the-secret-garden-of-pierre-berge.html
 email: ''
 author: ''
 ---

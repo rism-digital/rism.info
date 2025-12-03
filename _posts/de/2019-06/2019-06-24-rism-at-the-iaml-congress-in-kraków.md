@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_logo_iaml_krakow_2019_0_3c2a5f1638.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/rism-at-the-iaml-congress-in-krakow.html
 email: ''
 author: ''
 ---

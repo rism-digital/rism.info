@@ -3,7 +3,6 @@ layout: working-group
 title: "Spain: Barcelona: Consejo Superior de Investigaciones Cientificas. Institucion Mila y Fontanals. DCH-Musicologia"
 lang: en
 permalink: /working-groups/spain/home.html
-old_url: http://www.rism.info/index.php?id=133
 sidepanel: "sidepanels/working-groups/spain"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Petersburg_4e2be750b5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/arias-from-st-petersburg.html
 email: ''
 author: ''
 ---

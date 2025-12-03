@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Vogel_des_Jahres_2019_Feldlerche_3b8615eb9e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/8/article/64/rism-on-a-lark.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Broschuere_Spanisch_bc0742d113.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/33/article/64/new-rism-brochure-in-spanish-now-available.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_EarlyPrintedBooks_102999b4e7.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/1/article/64/printed-music-and-early-printed-books.html
 email: ''
 author: ''
 ---

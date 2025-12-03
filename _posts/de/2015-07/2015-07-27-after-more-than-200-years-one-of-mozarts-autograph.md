@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mozart_Mozarteum_Autograph_67b2dfe1c3.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/46/article/64/after-more-than-200-years-one-of-mozarts-autograph-manuscripts-returns-to-salzburg.html
 email: bibliothek@mozarteum.at
 author: Armin Brinzing
 ---

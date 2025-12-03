@@ -3,7 +3,6 @@ layout: working-group
 title: "CONTACT"
 lang: en
 permalink: /working-groups/ireland/dublin.html
-old_url: http://www.rism.info/en/workgroups/ireland-rism-working-group-ireland/home/newsdetails/article/191/launch-of-the-dublin-music-trade.html
 sidepanel: "sidepanels/working-groups/ireland"
 ---
 

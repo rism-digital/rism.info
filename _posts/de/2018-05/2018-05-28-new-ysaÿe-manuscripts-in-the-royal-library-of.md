@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Ysaye_manuscripts_KBR_De_Baerdemacker_Belgium_b5759773e2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/new-ysaye-manuscripts-in-the-royal-library-of-belgium.html
 email: kris.debaerdemacker@kbr.be
 author: Kris De Baerdemacker
 ---

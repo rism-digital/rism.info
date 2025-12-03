@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Aprilscherz_2020_Kuneus_75fff5f7ef.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/6/article/64/a-new-elise-discovery-sheds-light-on-famous-beethoven-work.html
 email: ''
 author: ''
 ---

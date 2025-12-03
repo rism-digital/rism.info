@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Humperdinck-Die_Fischerin_Titel_01_256f957a75.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/newly-discovered-autograph-of-the-cantata-die-fischerin-by-engelbert-humperdinck.html
 email: gottfried.heinz-kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---

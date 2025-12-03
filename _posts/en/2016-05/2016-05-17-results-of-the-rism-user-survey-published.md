@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Blumen_8ef8eabd25.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/results-of-the-rism-user-survey-published.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Hensel_01_fd9f56aa48.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/10-years-of-the-rism-online-catalog-our-users.html
 email: ''
 author: ''
 ---

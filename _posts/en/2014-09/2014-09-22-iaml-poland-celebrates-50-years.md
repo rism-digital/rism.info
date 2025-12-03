@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Polen_56a7071878.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/55/article/64/iaml-poland-celebrates-50-years.html
 email: ''
 author: ''
 ---

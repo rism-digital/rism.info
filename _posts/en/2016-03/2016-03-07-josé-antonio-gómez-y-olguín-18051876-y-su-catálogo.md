@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Lazos_Katalog_ebf310675c.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/40/article/64/jose-antonio-gomez-y-olguin-1805-1876-y-su-catalogo-musical.html
 email: ''
 author: ''
 ---

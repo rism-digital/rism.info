@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Luther_858925dff4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/tudor-treasures.html
 email: ''
 author: ''
 ---

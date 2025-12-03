@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_HochzeitsmusikGraupnerBlumen2_c9f153f89b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/21/article/64/royal-wedding-fever.html
 email: ''
 author: ''
 ---

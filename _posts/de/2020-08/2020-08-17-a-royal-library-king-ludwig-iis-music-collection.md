@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Ludwig_II_Bayern_175_02_d7e0361ffd.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/a-royal-library-king-ludwig-iis-music-collection.html
 email: ''
 author: ''
 ---
