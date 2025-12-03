@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Chopin_2020_b_fb72619cce.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/online-muscat-workshop-with-the-chopin-institute-warsaw-in-the-age-of-the-corona-pandemic.html
 email: ''
 author: 'Guido Kraus'
 ---

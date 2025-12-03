@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Nardini_Pietro_F-Pn_a7e631691f.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/28/article/64/pietro-nardini-thematic-catalog.html
 email: ''
 author: ''
 ---

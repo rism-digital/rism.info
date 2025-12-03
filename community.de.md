@@ -3,7 +3,6 @@ title: Community
 layout: community
 lang: de
 permalink: /community.html
-old_url: http://www.rism.info/de/community.html
 ---
 
 # Willkommen bei der RISM Community!
@@ -22,6 +21,14 @@ Die RISM-Datenbank wird von Forschern, Musikern, Bibliothekaren, Studenten, Musi
 - [Nutzerstudie](/community/survey.html): Von der Zentralredaktion in den Jahren 2014-2015 durchgeführte Untersuchungen über die Nutzer des RISM Catalog.  
 - [Teilen Sie Ihre Neuigkeiten mit RISM](/community/share-your-news.html): Teilen Sie uns mit, wenn Sie Entdeckungen, Veröffentlichungen, Projekte, Ankündigungen oder andere Neuigkeiten haben, die für die breitere RISM-Gemeinschaft von Interesse sind.
 - [Wie kann mich an RISM beteiligen?](/community/participate-in-rism.html): Finden Sie heraus, wie Sie zu RISM beitragen können.
+
+
+## RISM Logos  
+Das RISM-Logo kann auf Ihren Websites oder in Ihren Publikationen verwendet werden. Klicken Sie mit der rechten Maustaste auf das Bild, um es zu kopieren oder als lokale Datei zu speichern.
+
+![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
+
+![rism-logo](/images/organization/rism-logo.png)  
 
 
 _Abbildungen:_  

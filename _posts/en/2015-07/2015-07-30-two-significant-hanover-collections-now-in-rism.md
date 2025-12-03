@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_D-HVfmg-Juliane_Benda_104_1500x2000_600KB_01_3d0a6343cb.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/46/article/64/two-significant-hanover-collections-now-in-rism.html
 email: Helmut.Lauterwasser@bsb-muenchen.de
 author: Helmut Lauterwasser
 ---

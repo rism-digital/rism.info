@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Mercer_6dd0a601d6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/61/article/64/first-phase-of-the-rism-ireland-database-launched.html
 email: catherine.ferris@dit.ie
 author: Dr Catherine Ferris
 ---

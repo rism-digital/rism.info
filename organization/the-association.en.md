@@ -3,7 +3,6 @@ title: "The Association"
 layout: organization
 lang: en
 permalink: /organization/the-association.html
-old_url: http://www.rism.info/organisation/the-association.html
 ---
 
 Two associations administer the international centers that oversee the activities of the RISM network: the Association "Internationales Quellenlexikon der Musik" for the Editorial Center (Zentralredaktion) in Frankfurt, and the "RISM Digital Center Association" for the Digital Center in Bern. The Commission Mixte members are ex-officio members of both associations.

@@ -3,7 +3,6 @@ layout: publications
 title: "Bibliographie"
 lang: de
 permalink: /publications/bibliography.html
-old_url: http://www.rism.info/de/publikationen/bibliographie.html
 ---
 
 # Bibliographie
@@ -1107,6 +1106,8 @@ _Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen
 - Roundtable. "Wie wollen, wie können und wie sollen wir in der Zukunft mit Musikquellen des 19. Jahrhunderts in Deutschland umgehen?"  
 
 Nägele, Reiner und Martina Rebmann: Das Répertoire International des Sources Musicales (RISM) – ein Leuchtturm-Projekt der Geisteswissenschaften, in: Forum Musikbibliothek 46 (2025), No. 2, S. 7-16.
+
+Wiering, Frans (Hrsg.): Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy, Utrecht University, 2025. [Online verfügbar](https://doi.org/10.5281/zenodo.17543932){:blank}.  
 
 
 ##### Anmerkung:

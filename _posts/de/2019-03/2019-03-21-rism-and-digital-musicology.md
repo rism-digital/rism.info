@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_DigitalLibrariesMusicology_b0b53661e2.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/14/article/64/rism-and-digital-musicology.html
 email: ''
 author: ''
 ---

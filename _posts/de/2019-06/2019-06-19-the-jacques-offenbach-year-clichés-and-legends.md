@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Offenbach_-_Cover_a84006ab7c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/the-jacques-offenbach-year-cliches-and-legends.html
 email: Ralf-Olivier.Schwarz@hfmdk-frankfurt.de
 author: Dr. Ralf-Olivier Schwarz
 ---

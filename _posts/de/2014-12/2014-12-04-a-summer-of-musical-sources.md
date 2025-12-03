@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_02_c93d056fa5.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/53/article/64/a-summer-of-musical-sources.html
 email: contact@rism.info
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Datenimport_Frankreich_cee122971f.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/6/article/64/new-imported-records-from-france.html
 email: ''
 author: ''
 ---

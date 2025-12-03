@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_von_zuHause_Fontes_01_a43a2cfa53.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/2/article/64/rism-projects-while-working-from-home.html
 email: ''
 author: ''
 ---

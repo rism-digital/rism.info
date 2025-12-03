@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Startseite_270869d386.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/new-version-of-the-rism-online-catalog.html
 email: ''
 author: ''
 ---

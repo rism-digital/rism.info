@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_DSC00327_60ecff1de3.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/26/article/64/201711-the-collaborative-project-on-chinese-music-resources-2017-annual-meeting-and-the-rism-catal.html
 email: tzchia22@gmail.com
 author: TSENG Tzu-Chia
 ---

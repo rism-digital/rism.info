@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Mozart_Seite_A_4cb8dfa2cc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/mozart-autograph-in-the-music-collections-of-the-mariastein-abbey-switzerland.html
 email: ghk@hankeknaus.ch
 author: Gabriella Hanke Knaus
 ---

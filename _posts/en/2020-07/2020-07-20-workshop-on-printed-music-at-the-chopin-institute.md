@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_Drucke_Warschau_6f00aaf187.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/workshop-on-printed-music-at-the-chopin-institute-warsaw.html
 email: mchojecka@nifc.pl
 author: Marcelina Chojecka
 ---

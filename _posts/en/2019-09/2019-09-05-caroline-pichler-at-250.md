@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Pichler_Caroline_250_3c6ebb5579.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/10/article/64/caroline-pichler-at-250.html
 email: ''
 author: ''
 ---

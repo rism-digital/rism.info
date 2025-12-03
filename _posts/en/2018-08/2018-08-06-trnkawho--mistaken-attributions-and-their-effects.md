@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Trnka_eb89ed8f73.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/19/article/64/trnka-who-mistaken-attributions-and-their-effects.html
 email: ''
 author: ''
 ---

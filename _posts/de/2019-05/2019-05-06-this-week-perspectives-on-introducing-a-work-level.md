@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_05_06920253fc.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/this-week-perspectives-on-introducing-a-work-level-in-rism.html
 email: ''
 author: ''
 ---

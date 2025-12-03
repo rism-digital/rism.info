@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Lateinamerika-Konferenz_Woche_27d0dc1016.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/latin-america-conference-this-week.html
 email: ''
 author: ''
 ---

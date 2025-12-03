@@ -3,7 +3,6 @@ layout: working-group
 title: "Central Conservatory of Music Library"
 lang: en
 permalink: /working-groups/clr/team.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/team.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_BENAVENT_Andorra_Jordana_Cover_from_AND-AVbnACAPLP154_01_053264039f.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/4/article/64/the-first-record-from-andorra-in-rism-the-periodico-de-musica-of-maria-rosa-dareny-jordana.html
 email: jbenavent@uda.ad
 author: Joan Benavent Peiró
 ---

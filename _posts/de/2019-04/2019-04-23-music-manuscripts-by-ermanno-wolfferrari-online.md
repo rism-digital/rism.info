@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Digitalisate_Wolf-Ferrari_ff19c4f675.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/13/article/64/music-manuscripts-by-ermanno-wolf-ferrari-online.html
 email: ''
 author: ''
 ---

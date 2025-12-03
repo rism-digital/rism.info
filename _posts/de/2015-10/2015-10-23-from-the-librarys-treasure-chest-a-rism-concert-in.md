@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Koeln_Konzert_Aus_dem_Schatzkaestchen_der_Bibliothek_ef14129c8e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/44/article/64/from-the-librarys-treasure-chest-a-rism-concert-in-cologne.html
 email: steffen.voss@bsb-muenchen.de
 author: Dr. Steffen Voss
 ---

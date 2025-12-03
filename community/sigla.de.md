@@ -3,7 +3,6 @@ title: Sigla
 layout: community
 lang: de
 permalink: /community/sigla.html
-old_url: http://www.rism.info/de/rism-bibliothekssigel.html
 ---
 
 # Verzeichnis der RISM-Bibliothekssigel

@@ -16,7 +16,7 @@ To begin, you should have some basic knowledge of HTML, the computer language th
 We will begin with a basic example, and then will analyse how it functions.
 
 ```html
-<form action="https://rism.online/search" method="get">
+<form action="https://rism.online/search?mode=sources" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
         <input type="search" id="mySearch" name="q" />

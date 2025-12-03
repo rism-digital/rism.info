@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Logo_07_189d7e8765.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/12/article/64/presentation-materials-from-rism-conference-now-online.html
 email: ''
 author: ''
 ---

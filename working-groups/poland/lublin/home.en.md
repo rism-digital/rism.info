@@ -3,7 +3,6 @@ layout: working-group
 title: "Poland: Lublin: The John Paul II Catholic University of Lublin"
 lang: en
 permalink: /working-groups/poland/lublin/home.html
-old_url: http://www.rism.info/en/workgroups/poland-lublin-the-john-paul-ii-catholic-university-of-lublin/home.html
 sidepanel: "sidepanels/working-groups/poland-lublin"
 ---
 

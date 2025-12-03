@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_RISM_A1_Initialen_ALINE_bdf832e831.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/deciphered-any-initials-today.html
 email: mbierwis@students.uni-mainz.de
 author: Martin Bierwisch
 ---

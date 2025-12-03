@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Bach_Grigny_Teil_2_12_2d4d92754c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/15/article/64/upcoming-rism-events-in-argentina-and-italy.html
 email: ''
 author: ''
 ---

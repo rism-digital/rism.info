@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Vevey_-_Fete_des_vignerons_1889_351307d7a4.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/fete-des-vignerons.html
 email: ''
 author: ''
 ---

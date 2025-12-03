@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/resources-old-website/pics/re3datalogo_nosubtext_black.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/rism-in-re3data.html
 email: ''
 author: ''
 ---

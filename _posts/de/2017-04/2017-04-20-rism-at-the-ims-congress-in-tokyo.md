@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_kirschblueten_32a2a59c12.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/30/article/64/rism-at-the-ims-congress-in-tokyo.html
 email: ''
 author: ''
 ---

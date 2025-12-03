@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Chanaleilles_900022067_Image_1_d20c00d7ff.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/women-and-music-making-during-the-bourbon-restoration.html
 email: linklat@fas.harvard.edu
 author: Emerson Morgan
 ---

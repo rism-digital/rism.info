@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Muscat_workshop_in_Warsaw_336786854e.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/muscat-workshop-in-warsaw.html
 email: s.wronkowska@bn.org.pl
 author: Sonia Wronkowska
 ---

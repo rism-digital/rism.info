@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Coke_Collection_Foundling_Museum_1_Court_a3a0b537d2.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/3/article/64/the-gerald-coke-handel-collection-at-the-foundling-museum.html
 email: katharine@foundlingmuseum.org.uk
 author: Katharine Hogg
 ---

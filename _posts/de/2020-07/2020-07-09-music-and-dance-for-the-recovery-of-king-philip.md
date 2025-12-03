@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Festa_a_ballo_1_7466823bc6.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/3/article/64/music-and-dance-for-the-recovery-of-king-philip-iii-of-spain.html
 email: ''
 author: ''
 ---

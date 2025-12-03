@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Muscat-Workshop_in_Wien1_3e09bc7cd7.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/26/article/64/muscat-workshop-in-vienna.html
 email: stefan.engl@onb.ac.at
 author: Stefan Engl
 ---

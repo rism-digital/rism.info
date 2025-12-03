@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_Palestrina-1_b6437c0fbf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/32/article/64/catalog-of-the-works-of-giovanni-pierluigi-da-palestrina-a-new-project.html
 email: carola.finkel@hfmdk-frankfurt.de
 author: Carola Finkel
 ---

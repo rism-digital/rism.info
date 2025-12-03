@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Gleim_10b7f2bb1f.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/13/article/64/johann-wilhelm-ludwig-gleim-at-300.html
 email: ''
 author: ''
 ---

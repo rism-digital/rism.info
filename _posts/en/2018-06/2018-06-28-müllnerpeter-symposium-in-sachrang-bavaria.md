@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_SachrangMuellerPeterSammlung_596d107067.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/muellner-peter-symposium-in-sachrang-bavaria.html
 email: Steffen.Voss@bsb-muenchen.de
 author: Steffen Voss
 ---

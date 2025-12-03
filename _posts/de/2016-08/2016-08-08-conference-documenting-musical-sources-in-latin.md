@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Latin_America_conference_149edfc135.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/36/article/64/conference-documenting-musical-sources-in-latin-america.html
 email: ''
 author: ''
 ---

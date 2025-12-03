@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Heiligenkreuz_Alltag_Musik_17ea17de3a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/the-newly-adapted-music-archive-at-heiligenkreuz-abbey.html
 email: p.roman@stift-heiligenkreuz.at
 author: P. Roman Nägele OCist
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_SORBISCHES_KOCOR_2_SM-F-004290_Abb04_ed12fc2ada.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/34/article/64/the-archive-of-the-sorbian-institute-in-germany.html
 email: bresan@serbski-institut.de
 author: Annett Bresan
 ---

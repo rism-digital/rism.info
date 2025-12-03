@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_RISM_Bericht_B_1_9c1400458b.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/25/article/64/rism-bi-recueils-imprimes-xvie-siecles-version-20-a-report-from-the-central-office.html
 email: ''
 author: ''
 ---

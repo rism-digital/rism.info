@@ -3,7 +3,6 @@ title: "RISM for Librarians"
 layout: community
 lang: en
 permalink: /community/rism-for-librarians.html
-old_url: http://www.rism.info/en/organisation/rism-for-libraries.html
 ---
 
 # RISM for Librarians

@@ -3,7 +3,6 @@ title: "RISM Lectures"
 layout: publications
 lang: en
 permalink: /publications/rism-lectures.html
-old_url: ''
 ---
 
 # RISM Lectures  

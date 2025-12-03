@@ -3,10 +3,9 @@ title: "RISM für Bibliotheken"
 layout: organization
 lang: de
 permalink: /community/rism-for-librarians.html
-old_url: http://www.rism.info/de/unternehmen/rism-fuer-bibliothekare.html
 ---
 
-# RISM für Bibliothekare
+# RISM für Bibliotheken
 
 RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekarinnen und Bibliothekaren zusammen. Wir möchten diese Tradition intensivieren, indem wir folgende Dienste anbieten.
 
@@ -24,7 +23,7 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 * Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} und [RISM Online](https://rism.online/){:blank} (Manuskripte und gedruckte Noten)
 * Einführung in Muscat, das Katalogisierungsprogramm des RISM, und wie Bibliotheken RISM beitragen können
 
-**Logos**: Logos stehen weiter unten zum Download bereit.
+**Logos**: Logos stehen auf [der Community-Seite](/community.html) zum Download bereit.
 
 **Poster**: Hier gibt es ein [RISM poster](/resources/organization/2019_RISM_poster_web_A1.pdf), das Sie in Ihrer Bibliothek aufhängen können.
 
@@ -33,6 +32,9 @@ Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen P
 **Text für Ihre Webseite**: Beschreibungen der RISM-Veröffentlichungen finden Sie auf der RISM-Website unter [Publikationen](/publications.html). Sie können den Text dort für Ihre eigenen Bibliotheks-Websiten verwenden.
 
 ## Katalogisierungstools
+
+### RISM Guidelines
+Die RISM Cataloging Guidelines finden Sie auf dieser Website [guidelines.rism.info](https://guidelines.rism.info/){:blank}.
 
 ### Plaine & Easie Code
 Der [Plaine & Easie Code](https://www.iaml.info/plaine-easie-code){:target="_blank"} zur Kodierung von Musikincipits wird von der International Association of Music Libraries, Archives and Documentation Centres (IAML) und RISM als Austauschformat im Bibliotheksumfeld verwendet. Es wird im [MARC21 field 031](https://www.loc.gov/marc/bibliographic/bd031.html){:blank} verwendet. Eine Videoanleitung [finden Sie hier](/new_at_rism/2021/06/10/plaine-easie-code-new-tutorial.html){:blank}.
@@ -86,10 +88,4 @@ Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstüt
 
 ## RISM-Daten nutzen
 
-Die RISM-Datensätze können in einer Vielzahl von Projekten verwendet und wiederverwendet werden. Wir bieten unsere Daten als Open Data und Linked Open Data, über den SRU-Server und eine API, im MARC21- und MARC-XML-Format und über GND BEACON-Dateien an. Sie können Ihre Daten auch in die RISM-Datenbank übertragen, die Daten zur Erstellung einer benutzerdefinierten Anzeige verwenden oder einen zur Veröffentlichung geeigneten PDF-Katalog erstellen. **Weitere Informationen finden Sie auf unserer Seite [Dataservice](/community/data-services.html#c2671).
-
-## RISM Logos
-
-![rism-logo-with-text](/images/organization/rism-logo-with-text.png)
-
-![rism-logo](/images/organization/rism-logo.png)
+Die RISM-Datensätze können in verschiedenen Kontexten verwendet und wiederverwendet werden. 

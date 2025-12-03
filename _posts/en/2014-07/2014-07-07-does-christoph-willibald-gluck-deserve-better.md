@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Gluck_Medaille-Kloede-2014a_676deae022.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/does-christoph-willibald-gluck-deserve-better.html
 email: ''
 author: ''
 ---

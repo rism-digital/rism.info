@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Digitalisierung_Wagnermuseum_c943ba5c19.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/20/article/64/richard-wagner-manuscripts-to-be-digitized.html
 email: Laura.Schroeder@stadt.bayreuth.de
 author: Laura Schroeder
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Carl_Amand_Mangold_24a3327394.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/54/article/64/rare-performance-of-mangolds-tanhaeuser.html
 email: ''
 author: ''
 ---

@@ -3,7 +3,6 @@ layout: working-group
 title: "Polskie Centrum RISM"
 lang: en
 permalink: /working-groups/poland/warsaw/home.html
-old_url: http://www.rism.info/en/workgroups/poland-warsaw-polish-rism-center-national-library-of-poland/home.html
 sidepanel: "sidepanels/working-groups/poland-warsaw"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/resources-old-website/pics/MLA_Orlando.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/32/article/64/rism-at-the-mla-conference-in-orlando-florida.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_ChWolff_klein_0360ffe331.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/37/article/64/christoph-wolff-honored-with-medal-pour-le-merite.html
 email: ''
 author: ''
 ---

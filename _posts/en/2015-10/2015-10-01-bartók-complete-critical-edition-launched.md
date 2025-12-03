@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm_Bartok_Gesamtausgabe_aece471c51.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/bartok-complete-critical-edition-launched.html
 email: info@henle.de
 author: G. Henle Verlag
 ---

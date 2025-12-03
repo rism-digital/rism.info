@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_New_discoveries_of_Vivaldi_IMAGE_1_Cadenza_6fe7db03fb.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/44/article/64/new-discoveries-of-vivaldi-in-dresden.html
 email: lupianbaroque@gmail.com
 author: Francisco Javier Lupiáñez Ruiz
 ---

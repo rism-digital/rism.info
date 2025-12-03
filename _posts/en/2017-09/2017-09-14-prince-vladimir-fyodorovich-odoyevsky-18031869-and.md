@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Odoevsky_vladimir_a87e8cb696.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/prince-vladimir-fyodorovich-odoyevsky-1803-1869-and-music.html
 email: ''
 author: ''
 ---

@@ -3,7 +3,6 @@ title: Dataservice
 layout: community
 lang: de
 permalink: /community/data-services.html
-old_url: http://www.rism.info/de/community/entwicklung/dataservice.html
 ---
 
 # Dataservice

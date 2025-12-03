@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Goeteborg_Mark_the_Music_Handscrift_0b45301c06.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/mark-the-music-uncovering-musical-sources-in-sweden.html
 email: ''
 author: ''
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_publications
 image: "/images/news-old-website/csm__Titelseite_Bild_9413cdf091.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/14/article/64/a-most-excellent-selection-of-rism-activities.html
 email: ''
 author: ''
 ---

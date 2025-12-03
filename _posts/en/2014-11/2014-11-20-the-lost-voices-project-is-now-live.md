@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Lost_Voices_fdff2e5ba4.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/53/article/64/the-lost-voices-project-is-now-live.html
 email: ''
 author: ''
 ---

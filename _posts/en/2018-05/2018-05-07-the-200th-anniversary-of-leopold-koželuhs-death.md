@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Kozeluh_200_9b85facc4a.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/21/article/64/the-200th-anniversary-of-leopold-kozeluhs-death.html
 email: ''
 author: ''
 ---

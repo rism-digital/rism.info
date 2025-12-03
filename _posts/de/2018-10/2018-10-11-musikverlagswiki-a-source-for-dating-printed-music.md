@@ -6,7 +6,6 @@ lang: de
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_Musikverlagswiki_137892576f.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/18/article/64/musikverlagswiki-a-source-for-dating-printed-music.html
 email: ''
 author: ''
 ---

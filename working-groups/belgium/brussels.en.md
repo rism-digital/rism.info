@@ -3,7 +3,6 @@ layout: working-group
 title: "RISM Belgium"
 lang: en
 permalink: /working-groups/belgium/brussels.html
-old_url: http://www.rism.info/en/workgroups/belgium-brussels-royal-library-of-belgium/home.html
 sidepanel: "sidepanels/working-groups/belgium-brussels"
 ---
 

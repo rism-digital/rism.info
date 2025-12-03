@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_IMS_Tokyo_b997ce8e0b.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/31/article/64/rism-at-the-international-musicological-society-congress-in-tokyo.html
 email: ''
 author: ''
 ---

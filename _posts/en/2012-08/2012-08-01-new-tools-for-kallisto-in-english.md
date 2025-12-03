@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Selection_of_Files_606cd09df5.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/62/article/64/new-tools-for-kallisto-in-english.html
 email: ''
 author: ''
 ---

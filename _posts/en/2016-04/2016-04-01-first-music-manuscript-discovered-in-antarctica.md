@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Pinguin-Entdeckung_280f0f5bbd.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/39/article/64/first-music-manuscript-discovered-in-antarctica.html
 email: ''
 author: ''
 ---

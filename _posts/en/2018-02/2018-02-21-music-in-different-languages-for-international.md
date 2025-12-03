@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Muttersprache_6db58dc9cd.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/23/article/64/music-in-different-languages-for-international-mother-language-day.html
 email: ''
 author: ''
 ---

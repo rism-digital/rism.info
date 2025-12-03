@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Workshop_11-2017_CZ-Pu1_3df389d521.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/25/article/64/second-muscat-workshop-in-prague.html
 email: ''
 author: ''
 ---

@@ -3,7 +3,6 @@ layout: working-group
 title: "2018/08 RISM-CLR Completed the Paper Presentation in 2018 IAML Annual Conference and Presented the “Bilingual Chart of Common Chinese Instrument Names”"
 lang: en
 permalink: /working-groups/clr/leipzig2018.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201808-rism-clr-completed-the-paper-presentation-in-2018-iaml-annual-conference-and-presented-the-bilingual-chart-of-common-chinese-instrument-names.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_ICCU_Krise_OPAC_df925a41aa.png"
-old_url: http://www.rism.info/en/home/newsdetails/browse/11/article/64/new-music-manuscripts-from-italy-iccu-in-rism.html
 email: ''
 author: ''
 ---

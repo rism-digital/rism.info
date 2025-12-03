@@ -3,7 +3,6 @@ layout: working-group
 title: "Brazil : Universities of Bahia, Brasilia, Campinas, and São Paulo"
 lang: en
 permalink: /working-groups/brazil/home.html
-old_url: http://www.rism.info/en/workgroups/brazil-universities-of-bahia-brasilia-campinas-minas-gerais/home.html
 sidepanel: "sidepanels/working-groups/brazil"
 ---
 

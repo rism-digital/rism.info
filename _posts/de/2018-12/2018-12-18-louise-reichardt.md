@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Reichardt-Louise_485bf1271e.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/16/article/64/louise-reichardt.html
 email: ''
 author: ''
 ---

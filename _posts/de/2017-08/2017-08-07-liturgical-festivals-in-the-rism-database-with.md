@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_online_catalog
 image: "/images/news-old-website/csm_Liturg._Feste_Foto_5_bfb6e05677.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/28/article/64/liturgical-festivals-in-the-rism-database-with-three-examples.html
 email: ''
 author: ''
 ---

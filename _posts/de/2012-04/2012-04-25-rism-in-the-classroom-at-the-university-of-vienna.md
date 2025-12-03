@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Schottenstift_02_39c3809699.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/62/article/64/rism-in-the-classroom-at-the-university-of-vienna.html
 email: Stefan.Ikarus.Kaiser@oeaw.ac.at
 author: Ikarus Kaiser
 ---

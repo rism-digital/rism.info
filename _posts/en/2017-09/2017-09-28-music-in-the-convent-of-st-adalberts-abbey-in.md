@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Benedictine_Monastery_in_Staniatki_PL-STAb_a0a458a2b9.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/27/article/64/music-in-the-convent-of-st-adalberts-abbey-in-staniatki-poland.html
 email: marcin.konik@gmail.com
 author: Marcin Konik
 ---

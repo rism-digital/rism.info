@@ -3,7 +3,6 @@ layout: working-group
 title: "Slovenia : Ljubljana : Scientific Research Centre of the Slovenian Academy of Sciences and Arts,  Institute of Musicology"
 lang: en
 permalink: /working-groups/slovenia/home.html
-old_url: http://www.rism.info/en/workgroups/slovenia-ljubljana-slovenian-academy-of-sciences-and-arts-institute-of-musicology/home.html
 sidepanel: "sidepanels/working-groups/slovenia"
 ---
 

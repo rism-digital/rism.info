@@ -3,7 +3,6 @@ layout: publications
 title: "Abstracts"
 lang: en
 permalink: /publications/conferences/work-level-2019/abstracts.html
-old_url: www.rism.info/en/publications/introducing-a-work-level-in-rism-2019/abstracts.html
 ---
 
 # Introducing a Work Level in RISM: Abstracts

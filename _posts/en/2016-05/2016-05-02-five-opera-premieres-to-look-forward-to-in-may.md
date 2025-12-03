@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Opern-Premieren_-_Haydn_d2186a1ed9.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/38/article/64/five-opera-premieres-to-look-forward-to-in-may.html
 email: ''
 author: ''
 ---

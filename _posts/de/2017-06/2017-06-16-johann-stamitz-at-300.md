@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Stamitz_300_eca465eacf.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/johann-stamitz-at-300.html
 email: ''
 author: ''
 ---

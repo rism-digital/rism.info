@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/resources-old-website/pics/Klarinettist.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/57/article/64/music-collections-in-berlin-and-munich.html
 email: ''
 author: ''
 ---

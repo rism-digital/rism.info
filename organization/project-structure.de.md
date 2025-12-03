@@ -3,7 +3,6 @@ title: "Projektstruktur"
 layout: organization
 lang: de
 permalink: /organization/project-structure.html
-old_url: http://www.rism.info/de/unternehmen/struktur-und-finanzierung.html
 ---
 
 # Projektstruktur

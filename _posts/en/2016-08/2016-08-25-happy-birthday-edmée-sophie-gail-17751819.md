@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Gail_Edmee_Sophie_ad3b4b1b6d.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/36/article/64/happy-birthday-edmee-sophie-gail-1775-1819.html
 email: ''
 author: ''
 ---

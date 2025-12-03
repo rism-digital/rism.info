@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Spitz_-_SIEGEL_DER_PFARRE_SPITZ_V.O.M.B_B01_gross_28fbdb2060.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/another-exciting-collection-from-spitz-an-der-donau.html
 email: Gottfried.Heinz-Kronberger@bsb-muenchen.de
 author: Gottfried Heinz-Kronberger
 ---

@@ -6,7 +6,6 @@ lang: de
 post: true
 category: rism_a_z
 image: "/images/news-old-website/csm_Facchinelli_b5c7163c23.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/48/article/64/lucia-facchinelli.html
 email: ''
 author: ''
 ---

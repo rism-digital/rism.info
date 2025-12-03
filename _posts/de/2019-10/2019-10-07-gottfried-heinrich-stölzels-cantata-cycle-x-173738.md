@@ -6,7 +6,6 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Stoelzel_Ahrens_Cant-spir-8-00878_001_2002ad696c.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/9/article/64/gottfried-heinrich-stoelzels-cantata-cycle-x-173738.html
 email: christian.ahrens@me.com
 author: Christian Ahrens
 ---

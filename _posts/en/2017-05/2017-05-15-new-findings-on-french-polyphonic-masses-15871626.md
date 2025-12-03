@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Guillo_-_Title_page_klein_75aaf59cd6.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/30/article/64/new-findings-on-french-polyphonic-masses-1587-1626.html
 email: lguillo223@orange.fr
 author: Laurent Guillo
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Festa_Costanzo_475_33012218ef.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/5/article/64/the-475th-anniversary-of-the-death-of-costanzo-festa.html
 email: ''
 author: ''
 ---

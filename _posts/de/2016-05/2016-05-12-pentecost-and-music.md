@@ -6,7 +6,6 @@ lang: de
 post: true
 category: events
 image: "/images/news-old-website/csm_Pfingsten_Veni_creator_spiritus_01b6041324.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/pentecost-and-music.html
 email: ''
 author: ''
 ---

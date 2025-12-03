@@ -3,7 +3,6 @@ layout: working-group
 title: "2016/06 Working Group meeting of RISM-Chinese Language Region was successfully held in Taipei"
 lang: en
 permalink: /working-groups/clr/taipei2016.html
-old_url: http://www.rism.info/en/workgroups/chinese-language-region/news/201606-taipei-meeting.html
 sidepanel: "sidepanels/working-groups/clr"
 ---
 

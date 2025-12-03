@@ -6,7 +6,6 @@ lang: de
 post: true
 category: in_the_news
 image: "/images/news-old-website/csm_KatyPerryBillboard_incipit_725f75b3c6.png"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/7/article/64/rism-and-katy-perry.html
 email: ''
 author: ''
 ---

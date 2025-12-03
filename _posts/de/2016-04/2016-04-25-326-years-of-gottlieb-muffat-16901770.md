@@ -6,7 +6,6 @@ lang: de
 post: true
 category: musical_anniversaries
 image: "/images/news-old-website/csm_Muffat_bbbfd9bd63.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/38/article/64/326-years-of-gottlieb-muffat-1690-1770.html
 email: ''
 author: ''
 ---

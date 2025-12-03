@@ -6,7 +6,6 @@ lang: en
 post: true
 category: electronic_resources
 image: "/images/news-old-website/csm_American_Vernacular_2c15207140.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/47/article/64/american-vernacular-music-manuscripts.html
 email: ''
 author: ''
 ---

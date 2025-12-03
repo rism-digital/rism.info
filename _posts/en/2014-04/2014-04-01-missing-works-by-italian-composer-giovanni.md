@@ -6,7 +6,6 @@ lang: en
 post: true
 category: rediscovered
 image: "/images/news-old-website/csm_Katzen_Bild_e11bfb84d2.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/59/article/64/missing-works-by-italian-composer-giovanni-francesco-bicchini-discovered.html
 email: ''
 author: ''
 ---

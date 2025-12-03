@@ -6,7 +6,6 @@ lang: en
 post: true
 category: events
 image: "/images/news-old-website/csm_Telemann-Ms_Ff_Mus_994_db21312961.jpg"
-old_url: http://www.rism.info//home/newsdetails/browse/62/article/64/magdeburg-in-the-age-of-georg-philipp-telemann.html
 email: ''
 author: ''
 ---

@@ -3,7 +3,6 @@ layout: working-group
 title: "Mexico: Dr. John G. Lazos"
 lang: en
 permalink: /working-groups/mexico/home.html
-old_url: http://www.rism.info/en/workgroups/mexico-dr-john-g-lazos/home.html
 sidepanel: "sidepanels/working-groups/mexico"
 ---
 

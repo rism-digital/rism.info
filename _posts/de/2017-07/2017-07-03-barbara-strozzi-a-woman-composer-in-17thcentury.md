@@ -6,7 +6,6 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Eigendarstellung_-_Barbara_Strozzi_1_623a22b790.jpg"
-old_url: http://www.rism.info/de/startseite/newsdetails/browse/29/article/64/barbara-strozzi-a-woman-composer-in-17th-century-venice.html
 email: contact@rism.info
 author: Vivian Tompkins
 ---

@@ -6,7 +6,6 @@ lang: en
 post: true
 category: library_collections
 image: "/images/news-old-website/csm_Pfitzner_digital_D-Mbs_d2e2ed251d.jpg"
-old_url: http://www.rism.info/en/home/newsdetails/browse/4/article/64/music-manuscripts-by-richard-strauss-and-hans-pfitzner-online.html
 email: ''
 author: ''
 ---
