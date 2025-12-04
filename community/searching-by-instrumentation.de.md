@@ -22,8 +22,8 @@ Einige Beispiele für den Besetzungshinweis:
 - **orch**: ein Werk für Orchester oder größeres Ensemble
 - **strings**: nur Streicher oder Streichorchester
 - **winds**: Blasinstrumente (Blech- und Holzbläser)
-- - **V (4), orch, org**: vier Vokalsolisten, Orchester und Orgel  
-- **V (2)**: Vokalduetr  
+- **V (4), orch, org**: vier Vokalsolisten, Orchester und Orgel  
+- **V (2)**: Vokalduett  
 - **S (2), pf**: Duett für zwei Soprane und Klavier  
 - **vl (2), vla, vlc**: Streichquartett  
 - **vl (2), vla (2), vlc**: Streichquintett (2 Violen)  
