@@ -16,10 +16,14 @@ The list of RISM instrument abbreviations is available through the [RISM Catalog
 
 The list of RISM instrument abbreviations is sorted by instrument family and then from highest to lowest range or alphabetically.  
 
-In the RISM database, you will find instruments listed in a piece's full scoring as well as in a scoring summary. The summaries help give an overview of the instrumentation of a piece.  
+In the RISM database, you will find instruments listed in a piece's full scoring as well as in a scoring summary. Keep in mind that the musical source itself strongly determines what instrument is listed, so if the source is unclear, a general abbreviation might be used in the record rather than a specific one: V (any voice) instead of S (Soprano) or T (Tenor), or keyb (any keyboard instrument) rather than pf (piano) or hpcd (harpchord), for example.
+
+The scoring summaries help give an overview of the instrumentation of a piece.
 
 Some examples of scoring summaries:  
-- **orch**: a piece for orchestra  
+- **orch**: a piece for orchestra or ensemble   
+- **strings**: strings only, or string orchestra
+- **winds**: wind instruments (brass and woodwind)
 - **V (4), orch, org**: four vocal soloists, orchestra, and organ  
 - **V (2)**: vocal duet  
 - **S (2), pf**: duet for two sopranos and piano  
@@ -28,11 +32,11 @@ Some examples of scoring summaries:
 - **vl (2), vla, vlc (2)**: string quintet (2 cellos)  
 - **vl (2), vla, vlc, cb**: string quintet (with double  bass)  
 - **vl, vlc, pf**: piano trio    
-- **fl, ob, cl, cor, fag**: wind quintet  
 - **fl (4)**: flute quartet (all flutes)  
 - **fl, vl, vla, vlc**: flute quartet (flute with strings)  
 - **vl, orch**: violin concerto  
 - **cl, orch**: clarinet concerto  
+
 
 ## Searching by Instrumentation in the RISM Catalog
 
