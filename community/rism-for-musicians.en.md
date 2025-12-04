@@ -18,7 +18,7 @@ _Carminum pro Testudine (Louvain:, Pierre Phalèse, 1546), RISM ID no. 993104483
 
 ## Searching by instrument  
 
-- [Searching by Instrumentation in the RISM Catalog](/rism_online_catalog/2016/12/12/searching-by-instrumentation-in-rism.html)   
+- [Searching by Instrumentation in RISM](/community/searching-by-instrumentation.html)   
 - [Oboe](/in_the_news/2017/10/02/the-oboe-instrument-of-the-year.html)   
 - [Cello](/in_the_news/2018/12/06/instrument-of-the-year-2018-the-cello.html)   
 - [Saxophone](/in_the_news/2019/11/11/instrument-of-the-year-2019-saxophone.html)  

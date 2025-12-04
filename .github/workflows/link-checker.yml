@@ -59,9 +59,9 @@ jobs:
             --exclude "access.bl.uk.*"
             --exclude "searcharchives.bl.uk.*"
             --exclude "opac.rism.info/search?View=rism&siglum=.*"
-            --exclude "www.rism.info/.*/(de|en)/(home|startseite)/.*"
+            --exclude-path "_includes/homepage_navbar.html"
+            --exclude-path "_includes/sidepanels/post-list.html"
             "./**/*.md" "./**/*.html"
-            
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
