@@ -12,8 +12,8 @@ author: ''
 
 For musicians, one of the most helpful features of the RISM database is the ability to search by instrumentation. We have put together a new page to help you navigate RISM's instrument abbreviations. We also offer detailed instructions on how to search by instrument in both the RISM Catalog and RISM Online. 
 
-Please visit our new page [Searching by Instrumentation in RISM](/community/searching-by-instrumentation.html){blank} for more information.
+Please visit our new page [Searching by Instrumentation in RISM](/community/searching-by-instrumentation.html){:blank} for more information.
 
 
-Image: Historic tuba collection, Tuba Exchange, Durham, North Carolina. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_tuba_collection_(8635531700).jpg){blank}. 
+Image: Historic tuba collection, Tuba Exchange, Durham, North Carolina. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_tuba_collection_(8635531700).jpg){:blank}. 
 
