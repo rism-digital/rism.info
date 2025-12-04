@@ -12,7 +12,7 @@ author: ''
 
 Eine der hilfreichsten Funktionen der RISM-Datenbank für Musiker ist die Möglichkeit, nach der Besetzung zu suchen. Wir haben eine neue Seite erstellt, die Ihnen bei der Navigation durch die Instrumentenabkürzungen von RISM helfen soll. Darüber hinaus bieten wir Ihnen detaillierte Anweisungen zur Suche nach Instrumenten im RISM-Katalog und in RISM Online. 
 
-Auf unserer neuen Seite [Suche nach Besetzung in RISM](/community/searching-by-instrumentation.html){blank} finden Sie weitere Informationen.
+Auf unserer neuen Seite [Suche nach Besetzung in RISM](/community/searching-by-instrumentation.html){:blank} finden Sie weitere Informationen.
 
 
-Abbildung: Historische Tuba-Sammlung, Tuba Exchange, Durham, North Carolina. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_tuba_collection_(8635531700).jpg){blank}. 
+Abbildung: Historische Tuba-Sammlung, Tuba Exchange, Durham, North Carolina. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Historic_tuba_collection_(8635531700).jpg){:blank}. 
