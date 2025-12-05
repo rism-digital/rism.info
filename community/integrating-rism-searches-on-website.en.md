@@ -28,7 +28,7 @@ We will begin with a basic example, and then will analyse how it functions.
 
 This will create a very simple text input box that looks like this:  
 
-<form action="https://rism.online/search method="get">
+<form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
         <input type="hidden" name="mode" value="sources" />
@@ -36,7 +36,7 @@ This will create a very simple text input box that looks like this:
         <button>Search</button>
     </div>
 </form>  
-&nbsp;  
+&nbsp;
 
 There are a few important pieces to note. The `action` attribute on the `<form>` tag sets the URL to which the search will be submitted. The `<input>` tag creates a text input block, and the `name="q"` specifies the parameter name for any text entered into this block. Finally, the `<button>` element will create a button that will submit the form.
 
