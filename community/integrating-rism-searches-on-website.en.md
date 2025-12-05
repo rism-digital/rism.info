@@ -16,9 +16,10 @@ To begin, you should have some basic knowledge of HTML, the computer language th
 We will begin with a basic example, and then will analyse how it functions.
 
 ```html
-<form action="https://rism.online/search?mode=sources" method="get">
+<form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
     </div>
@@ -27,9 +28,10 @@ We will begin with a basic example, and then will analyse how it functions.
 
 This will create a very simple text input box that looks like this:  
 
-<form action="https://rism.online/search" method="get">
+<form action="https://rism.online/search method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
     </div>
@@ -38,9 +40,9 @@ This will create a very simple text input box that looks like this:
 
 There are a few important pieces to note. The `action` attribute on the `<form>` tag sets the URL to which the search will be submitted. The `<input>` tag creates a text input block, and the `name="q"` specifies the parameter name for any text entered into this block. Finally, the `<button>` element will create a button that will submit the form.
 
-When the button is clicked, the browser will use all of this information to create a URL that will direct the user to the [RISM Online website](https://rism.online){:blank}. If, for example, the user enters "Josephine Lang" into RISM Online's search input box, the URL will look like this:
+When the button is clicked, the browser will use all of this information to create a URL that will direct the user to the [RISM Online website](https://rism.online){:blank}. If, for example, the user enters "Josephine Lang" into RISM Online's source search input box, the URL will look like this:
 
-`https://rism.online/search/?q=Josephine%20Lang`
+`https://rism.online/search/?q=Josephine%20Lang&mode=sources`
 
 You can see from this URL that the `q` parameter we specified is automatically appended to the end of the URL.
 
@@ -54,6 +56,7 @@ Sometimes you may wish to automatically send these values in your search query w
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="hidden" name="nc" value="PL" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
@@ -66,6 +69,7 @@ The text input box will look like this:
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="hidden" name="nc" value="PL" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
@@ -75,7 +79,7 @@ The text input box will look like this:
 
 When the submit button is pressed with this form, the `nc=PL` value will automatically be applied to every URL that gets sent, thus automatically filtering all searches to only sources in Poland. Entering a name such as "Maria Szymanowska" in the input box would then create a URL that looks like this:
 
-`https://rism.online/search?q=Szymanowska,%20Maria&nc=PL`
+`https://rism.online/search?q=Szymanowska,%20Maria&nc=PL&mode=sources`
 
 You can specify multiple filters this way, and even repeat them if you need multiple values set.
 
@@ -124,7 +128,7 @@ Finally, the RISM Online Search API provides a method of using the incipit searc
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden" name="mode" value="incipit" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>
@@ -136,7 +140,7 @@ The input box will look like this:
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden" name="mode" value="incipit" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>
