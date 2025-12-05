@@ -123,7 +123,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden"  name="mode" value="incipits" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>
@@ -133,7 +133,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden"  name="mode" value="incipits" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>
