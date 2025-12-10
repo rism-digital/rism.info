@@ -1110,7 +1110,14 @@ Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digit
 
 #### 2025  
 
+Benić Zovko, Marija. "Zagreb – Radionica za obradu muzikalija u programu Muscat-RISM, 11-12. 10. 2024." _
+Arti musices: hrvatski muzikološki zbornik (Croatian musicological review)_ 56, no. 1 (2025): 208-209. [Available online](http://urn.nsk.hr/urn:nbn:hr:275:450518){:blank}.  
+
+Delport, Wilhelm. "How Tracking RISM's Footprint Across (South) Africa Led to the Discovery of San Rock Paintings, !Gõin !Gõin, and an Elephant in the Music Room." _Fontes Artis Musicae_ 72, no. 2 (2025): 131-150. [Available online](https://dx.doi.org/10.1353/fam.2025.a965424){:blank}.  
+
 Fromme, Daniel. "Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek." _Bibliotheken heute_ 21, no. 1 (2025): 27-29. [Available online](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}.  
+
+Giselbrecht, Elisabeth. "Encoding the Users: Towards a Copy-Based Assessment of Early Printed Music." _Fontes Artis Musicae_ 72, no. 3 (2025): 224-243. [Available online](https://dx.doi.org/10.1353/fam.2025.a971682){:blank}.  
 
 _Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, edited by Nicole Schwindt. musiconn.publish, 2025. [Available online](https://doi.org/10.25366/2025.35){:blank}. Contents:   
 - Schwindt, Nicole. "Einleitung: Musikquellen des 19. Jahrhunderts in Deutschland – Herausforderungen und Chancen."  
