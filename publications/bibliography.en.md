@@ -1110,8 +1110,7 @@ Veit, Joachim. "Editionsarbeit im Wandel – digitale (Musik-)Edition. In _Digit
 
 #### 2025  
 
-Benić Zovko, Marija. "Zagreb – Radionica za obradu muzikalija u programu Muscat-RISM, 11-12. 10. 2024." _
-Arti musices: hrvatski muzikološki zbornik (Croatian musicological review)_ 56, no. 1 (2025): 208-209. [Available online](http://urn.nsk.hr/urn:nbn:hr:275:450518){:blank}.  
+Benić Zovko, Marija. "Zagreb – Radionica za obradu muzikalija u programu Muscat-RISM, 11-12. 10. 2024." _Arti musices: hrvatski muzikološki zbornik (Croatian musicological review)_ 56, no. 1 (2025): 208-209. [Available online](http://urn.nsk.hr/urn:nbn:hr:275:450518){:blank}.  
 
 Delport, Wilhelm. "How Tracking RISM's Footprint Across (South) Africa Led to the Discovery of San Rock Paintings, !Gõin !Gõin, and an Elephant in the Music Room." _Fontes Artis Musicae_ 72, no. 2 (2025): 131-150. [Available online](https://dx.doi.org/10.1353/fam.2025.a965424){:blank}.  
 
