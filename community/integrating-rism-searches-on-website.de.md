@@ -16,9 +16,10 @@ Zunächst sollten Sie über Grundkenntnisse in HTML verfügen. Das ist die Compu
 Wir beginnen mit einem einfachen Beispiel und analysieren anschließend, wie es funktioniert.
 
 ```html
-<form action="https://rism.online/search?mode=sources" method="get">
+<form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
     </div>
@@ -30,6 +31,7 @@ Dadurch sollte ein sehr einfaches Texteingabefeld entstehen, das wie folgt aussi
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
     </div>
@@ -40,7 +42,7 @@ Es gibt einige wichtige Punkte zu beachten. So legt das Attribut `action` im Tag
 
 Wenn Sie auf die Schaltfläche klicken, verwendet der Browser all diese Informationen, um eine URL zu erstellen, die Sie zur [Website von RISM Online](https://rism.online){:blank} weiterleitet. Geben Sie beispielsweise „Josephine Lang” in das Suchfeld ein, sieht die URL wie folgt aus:
 
-`https://rism.online/search/?q=Josephine%20Lang`
+`https://rism.online/search/?q=Josephine%20Lang&mode=sources`
 
 An dieser URL können Sie erkennen, dass der von uns angegebene Parameter `q` automatisch ans Ende der URL angehängt wird.
 
@@ -54,6 +56,7 @@ Manchmal möchten Sie diese Werte möglicherweise automatisch in Ihrer Suchabfra
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="hidden" name="nc" value="PL" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
@@ -64,6 +67,7 @@ Manchmal möchten Sie diese Werte möglicherweise automatisch in Ihrer Suchabfra
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">Search RISM Online</label>
+        <input type="hidden" name="mode" value="sources" />
         <input type="hidden" name="nc" value="PL" />
         <input type="search" id="mySearch" name="q" />
         <button>Search</button>
@@ -73,7 +77,7 @@ Manchmal möchten Sie diese Werte möglicherweise automatisch in Ihrer Suchabfra
 
 Wenn Sie bei diesem Formular auf die Schaltfläche „Senden“ klicken, wird der Wert `nc=PL` automatisch zu jeder gesendeten URL hinzugefügt. Dadurch werden alle Suchergebnisse automatisch auf Quellen in Polen gefiltert. Geben Sie beispielsweise den Namen „Maria Szymanowska“ in das Eingabefeld ein, wird eine URL wie folgt erstellt:
 
-`https://rism.online/search?q=Szymanowska,%20Maria&nc=PL`
+`https://rism.online/search?q=Szymanowska,%20Maria&nc=PL&mode=sources`
 
 So können Sie mehrere Filter festlegen und diese bei Bedarf wiederholen.
 
@@ -119,7 +123,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden"  name="mode" value="incipits" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>
@@ -129,7 +133,7 @@ Schließlich bietet die RISM Online Search API eine Methode zur Verwendung bei I
 <form action="https://rism.online/search" method="get">
     <div>
         <label for="mySearch">RISM Online Incipit Search</label>
-        <input type="hidden"  name="mode" value="incipit" />
+        <input type="hidden"  name="mode" value="incipits" />
         <input type="search" id="mySearch" name="n" />
         <button>Search</button>
     </div>

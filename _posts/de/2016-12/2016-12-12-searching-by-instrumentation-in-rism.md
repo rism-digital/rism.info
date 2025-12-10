@@ -10,6 +10,8 @@ email: ''
 author: ''
 ---
 
+_Bitte beachten Sie unsere aktualisierte Seite zu diesem Thema hier: [Suche nach Besetzung](/community/searching-by-instrumentation.html){:blank}_  
+
 Mit der Einführung unseres neuen Erfassungsprogramm [Muscat](/new_at_rism/2016/11/14/welcome-muscat.html){:target="_blank"} haben wir auch die Richtlinien überarbeitet. Dazu zählt unter anderem auch die vollständige Abkürzungsliste für die Besetzungsangaben. Diese verbesserte Liste können Sie nun auch im RISM Online-Katalog verwenden.
 
 
