@@ -13,8 +13,6 @@ Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops 
 
 ## Nächster Workshop  
 
-### Dresden (IAML-Deutschland Jahrestagung)  
-
 Ein Muscat-Workshop wird von der Facultad de Artes, Universidad Nacional de Córdoba veranstaltet und von Luciana Giron Sheridan 20. September, 11. Oktober, 1. November und 22. November 2025 organisiert. 
 
 #### Online  
@@ -37,7 +35,7 @@ _Martina Falletta, RISM-Zentralredaktion; Amrei Flechsig und Andrea Hartmann, RI
 * 8\. Juli 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
 _Jennifer Ward, Balázs Mikusi, RISM-Zentralredaktion_ 
 
-* 11\.-12\. Oktober 2024, Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb  
+* 11\.-12\. Oktober 2024, [Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb](https://hmd-music.org/muscat-rism/){:blank}  
 _Lucija Markulin, RISM Kroatien_
 
 * 28\. Juni 2024, Muscat introduction, IAML Congress, Stellenbosch, Südafrika  
