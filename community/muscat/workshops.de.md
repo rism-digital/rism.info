@@ -35,7 +35,7 @@ _Martina Falletta, RISM-Zentralredaktion; Amrei Flechsig und Andrea Hartmann, RI
 * 8\. Juli 2025: Muscat introduction, [IAML Congress, Salzburg](/publications/iaml-congresses/2025.html)  
 _Jennifer Ward, Balázs Mikusi, RISM-Zentralredaktion_ 
 
-* 11\.-12\. Oktober 2024, [Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb](https://hmd-music.org/muscat-rism/){:blank}  
+* 11\.-12\. Oktober 2024, [Muscat introduction, Croatian Academy of Sciences and Arts, Zagreb](https://hmd-music.org/muscat-rism/){:blank}, Bericht in [_Arti musices_ (siehe RISM-Bbibliographie)](/publications/bibliography.html#2025).  
 _Lucija Markulin, RISM Kroatien_
 
 * 28\. Juni 2024, Muscat introduction, IAML Congress, Stellenbosch, Südafrika  
