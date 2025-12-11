@@ -90,6 +90,13 @@ Not everything from the books is in the RISM electronic database (see the [Publi
 
 *Many thanks to our contributors from the RISM US working group for their assistance in developing these tools.*
 
+## RISM Projects in Your Library  
+Librarians around the world are updating their RISM holdings. Here are some examples of projects that can be emulated:
+- Daniel Fromme, ["The revision of historical music prints at the LBZ / Pfälzische Landesbibliothek in Speyer"](/library_collections/2025/10/23/revision-of-historical-music-prints-at-the-lbz.html) and article, “[Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}.” _Bibliotheken heute_ 21, no. 1 (2025): 27-29. Updating holdings for printed music, updating shelfmarks, linking to digital copies.   
+-  Kirstin Dougan Johnson, ["RISM at the University of Illinois at Urbana-Champaign"](/library_collections/2022/05/05/rism-at-the-university-of-illinois-at-urbana-champaign.html) and article, [“Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis.”](https://muse.jhu.edu/article/758645){:blank} _Fontes Artis Musicae_ 67, no. 2 (April-June 2020): 119-142. Inventory project to match RISM to local holdings, developing a workflow, updating and creating new RISM records.     
+- David Blum, [“The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM.”](https://muse.jhu.edu/article/680345){:blank} _Fontes Artis Musicae_ 64, no. 4 (October-December 2017): 355-366. Downloading RISM record for use in local catalog, and sending updates back to RISM.
+- [RISM Projects While Working from Home](/new_at_rism/2020/09/14/rism-projects-while-working-from-home.html): Ideas for simple ways to contribute updates to RISM.  
+
 ## Using RISM Data
 
 RISM records may be used and reused in a variety of contexts.  

@@ -86,6 +86,13 @@ Nicht alles aus den Büchern befindet sich in der elektronischen Datenbank (eine
 
 Vielen Dank an unsere Mitarbeiter der RISM US-Arbeitsgruppe für ihre Unterstützung bei der Entwicklung dieser Tools.
 
+## RISM-Projekte in Ihrer Bibliothek  
+Bibliothekare auf der ganzen Welt aktualisieren ihre RISM-Bestände. Im Folgenden finden Sie einige Beispiele für Projekte, die nachgeahmt werden können:
+- Daniel Fromme, [Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}, in: Bibliotheken heute 21 (2025), No. 1, S. 27-29. Aktualisierung der Bestände von Musikdrucken, Aktualisierung der Signaturen, Verknüpfung mit digitalen Kopien.   
+-  Kirstin Dougan Johnson, [RISM at the University of Illinois at Urbana-Champaign](/library_collections/2022/05/05/rism-at-the-university-of-illinois-at-urbana-champaign.html){:blank} und Aufsatz, [Unravelling the RISM Riddle at the University of Illinois: An Inventory and Analysis.](https://muse.jhu.edu/article/758645){:blank}, in: Fontes Artis Musicae 67 (2020), No. 2, S. 119-142. Bestandsprojekt zur Abstimmung von RISM mit lokalen Beständen, Entwicklung eines Arbeitsablaufs, Aktualisierung und Erstellung neuer RISM-Datensätze.     
+- David Blum, [“The Moravian Music Foundation Experience Using Bibliographic Records Downloaded from RISM.](https://muse.jhu.edu/article/680345){:blank}, in: Fontes Artis Musicae 64 (2017), No. 4, S. 355-366. Download der RISM-Datensätze zur Verwendung im lokalen Katalog und Aktualisierungen an RISM zurücksenden.
+- [RISM Projects While Working from Home](/new_at_rism/2020/09/14/rism-projects-while-working-from-home.html): Ideen für einfache Möglichkeiten, Aktualisierungen zu RISM beizusteuern.
+
 ## RISM-Daten nutzen
 
 Die RISM-Datensätze können in verschiedenen Kontexten verwendet und wiederverwendet werden. 
