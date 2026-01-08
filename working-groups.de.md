@@ -146,8 +146,8 @@ E-Mail:  [Gottfried.Heinz-Kronberger@bsb-muenchen.de](mailto:Gottfried.Heinz-Kr
 Heidi Heinmaa\
 Eesti Rahvusraamatukogu\
 Tõnismägi 2\
-15189 Tallinn\
-Telefon: 6307 159\
+10122 Tallinn\
+Telefon: +372 5649 6246\
 E-Mail: [heidi.heinmaa@rara.ee](mailto:heidi.heinmaa@rara.ee)\
 Webseite: [https://www.rara.ee/](https://www.rara.ee/){:target="_blank"}
 

@@ -238,8 +238,8 @@ Website: [http://www.kb.dk/en/nb/materialer/musik/](http://www.kb.dk/en/nb/mater
 Heidi Heinmaa\
 Eesti Rahvusraamatukogu\
 Tõnismägi 2\
-15189 Tallinn\
-Telephone: 6307 159\
+10122 Tallinn\
+Telephone: +372 5649 6246\
 Email: [heidi.heinmaa@rara.ee](mailto:heidi.heinmaa@rara.ee)\
 Website: [https://www.rara.ee/](https://www.rara.ee/){:target="_blank"}
 
