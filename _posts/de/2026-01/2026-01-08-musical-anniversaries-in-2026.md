@@ -12,7 +12,7 @@ author: ''
 
 **Ein frohes Neues Jahr!** 
 
-Wie in den vergangenen Jahren möchten wir den Jahresbeginn nutzen, um schon einmal einen Blick auf die runden Geburts- und Todes-Tage des noch jungen Jahres in der RISM-Datenbank zu werfen. Zu den Gefeierten gehören nicht nur Komponistinnen und Komponisten, sondern auch Librettisten, Interpreten, Widmungsträger oder Personen, die nur indirekt mit einer Musikquelle in Verbindung stehen. Sie wurden geboren oder sind gestorben in einem Jahr, das mit 25 oder 75 endet. 
+Wie in den vergangenen Jahren möchten wir den Jahresbeginn nutzen, um schon einmal einen Blick auf die runden Geburts- und Todes-Tage des noch jungen Jahres in der RISM-Datenbank zu werfen. Zu den Gefeierten gehören nicht nur Komponistinnen und Komponisten, sondern auch Librettisten, Interpreten, Widmungsträger oder Personen, die nur indirekt mit einer Musikquelle in Verbindung stehen. Sie wurden geboren oder sind gestorben in einem Jahr, das mit 26 oder 76 endet. 
 
 [Unsere Google-Liste](https://docs.google.com/spreadsheets/d/1NA293dTnL9lGvlvUmVfOAXNCrz6GcXSZd1nbVPqu_P4/edit?usp=sharing){:blank} ist in zwei Tabellenblätter – getrennt nach Geburts- und Sterbejahren – unterteilt. Sie können sie nach Name, Lebensdaten oder Geschlecht sortieren. Außerdem enthält sie einen direkten Link zu RISM Online und dem RISM Catalog.
 
