@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "European Capitals of Culture 2025"
+title: "Europäische Kuturhauptstädte 2025"
 date: 2025-06-12
 lang: de
 post: true
