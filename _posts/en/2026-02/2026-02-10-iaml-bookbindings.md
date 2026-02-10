@@ -41,8 +41,8 @@ Description: This presentation offers practical insight into how a bibliographic
 Questions to the speakers, and other information (20 min)
 
 
-Zoom registration link
+Zoom registration link:
 
-(https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw){:blank}
+[https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw](https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw){:blank}
 
 Image: Front flyleaf of a bound volume with its owners written in, 1759. Harvard University, Eda Kuhn Loeb Music Library (US-CAe) MT870 .W34 1746. RISM ID no. 900022600 ([RISM Catalog](https://opac.rism.info/id/rismid/rism900022600){:blank} \| [RISM Online](https://rism.online/sources/900022600){:blank}). [Available online](http://nrs.harvard.edu/urn-3:FHCL.Loeb:11336197){:blank} (public domain).
