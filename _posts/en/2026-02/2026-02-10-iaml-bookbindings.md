@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IAML Online Event "Researching and Cataloging Historical Bookbindings: Two Perspectives"'
-date: 2026-02-12
+date: 2026-02-10
 lang: en
 post: true
 category: events
