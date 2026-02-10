@@ -12,8 +12,7 @@ author: ''
 
 Die folgende Ankündigung erreichte uns über [IAML Online Events Committee](https://www.iaml.info/online-events){:blank}. 
 
-Das IAML Online Events Committee und die Research Libraries Section sind erfreut, eine Online-Veranstaltung am 24. Februar 2026, 14:00 Uhr (UTC/GMT) bzw. 15:00 Uhr (CET) ankündigen zu können.
-Für andere Zeitzonen klicken Sie bitte auf [diesen Link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IAML+Online+Event+%22Researching+and+Cataloging+Historical+Bookbindings%3A+Two+Perspectives%22&iso=20260224T14&p1=136&ah=1&am=30){:blank}.
+Das IAML Online Events Committee und die Research Libraries Section sind erfreut, eine Online-Veranstaltung am 24. Februar 2026, 14:00 Uhr (UTC/GMT) bzw. 15:00 Uhr (CET) ankündigen zu können. Für andere Zeitzonen klicken Sie bitte auf [diesen Link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IAML+Online+Event+%22Researching+and+Cataloging+Historical+Bookbindings%3A+Two+Perspectives%22&iso=20260224T14&p1=136&ah=1&am=30){:blank}.
 
 Die Teilnahme steht allen Interessierten offen und ist gebührenfrei. Nach der Registrierung erhalten Sie die Veranstaltungsinformationen als Kalendereintrag passend zu Ihrer Zeitzone. Den Link zur Registrierung finden Sie am Ende der Veranstaltungsankündigung.
 
@@ -41,8 +40,8 @@ Zusammenfassung: Diese Präsentation beleuchtet die Frage, wie eine bibliographi
 Fragen an die Referentinnen und weitere Informationen (20 Minuten)
 
 
-Zoom Anmeldelink
+Zoom Anmeldelink:
 
-https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw
+[https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw](https://us02web.zoom.us/meeting/register/ZyyjwmGIRXusy2_aciqnlw){:blank}
 
 Abbildung: Vorsatzblatt einer gebundenen Druckausgabe mit mehreren Besitzvermerken, 1759. Harvard University, Eda Kuhn Loeb Music Library (US-CAe) MT870 .W34 1746. RISM ID no. 900022600 ([RISM Catalog](https://opac.rism.info/id/rismid/rism900022600){:blank} \| [RISM Online](https://rism.online/sources/900022600){:blank}). [Online verfügbar](http://nrs.harvard.edu/urn-3:FHCL.Loeb:11336197){:blank} (public domain).
