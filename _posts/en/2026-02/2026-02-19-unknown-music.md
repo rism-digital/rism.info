@@ -5,7 +5,7 @@ date: 2026-02-19
 lang: en
 post: true
 category: Library collections
-image: "/images/news/2026-02/egenolff-switzerland_website.jpg"
+image: "/images/news/2026-02/idalia2.jpg"
 email: 'steffen.voss@bsb-muenchen.de'
 author: 'Steffen Voss'
 ---
