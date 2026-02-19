@@ -4,7 +4,7 @@ title: "Unbekannte Musik aus Mittel- und Südamerika im alten Notenarchiv des Ma
 date: 2026-02-19
 lang: de
 post: true
-category: bibliotheksbestände
+category: library_collections
 image: "/images/news/2026-02/idalia2.jpg"
 email: 'steffen.voss@bsb-muenchen.de'
 author: 'Steffen Voss'
