@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonderausstellung mit neuen Bach-Quellen aus Leipzig'
-date: 2026-02-25
+date: 2026-02-26
 lang: de
 post: true
 category: events
