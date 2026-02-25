@@ -16,8 +16,7 @@ The exhibition provides new insights into Leipzig’s musical life in the 18th c
 
 A must for lovers of Baroque music and all those who wish to take a look behind the scenes of historical source research – visitors are offered here more than music: a glimpse into the world that made Bach’s work possible in the first place.
 
-### Opening hours
-
+### Opening hours/
 Admission is free and the exhibition can be viewed during the [opening hours of the city archive](https://stadtarchiv.leipzig.de/#c209877){:blank} .
 
 _Image: Bach sources in the Leipzig City Archive © City Archive Leipzig/ Christian Kern_
