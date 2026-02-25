@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Special exhibition with new Bach sources from Leipzig'
-date: 2026-02-25
+date: 2026-02-26
 lang: en
 post: true
 category: events
