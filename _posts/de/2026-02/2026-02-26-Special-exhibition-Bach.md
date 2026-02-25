@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonderausstellung mit neuen Bach-Quellen aus Leipzig'
-date: 2026-02-26
+date: 2026-02-25
 lang: de
 post: true
 category: events
@@ -14,7 +14,7 @@ Vom 3. Februar bis zum 23. April 2026 öffnet das Stadtarchiv Leipzig seine Tür
 Die Ausstellung gewährt neue Einblicke in das Leipziger Musikleben des 18. Jahrhunderts: Neben Bachs Zeugnis für seinen Bassisten Gottlob Friedrich Türsch sind Briefe und Bewerbungen zu sehen, die erstmals die institutionelle Förderung von Musikern durch den Rat der Stadt Leipzig beleuchten.
 Ein Muss für Liebhaber der Barockmusik und alle, die hinter die Kulissen historischer Quellenforschung blicken möchten – mehr als Musik, vielmehr ein Blick zurück in die Welt, die Bachs Werk erst möglich machte.
 
-Öffnungszeiten
+Öffnungszeiten/
 Der Eintritt ist frei und die Ausstellung kann während der [Öffnungszeiten des Stadtarchivs](https://stadtarchiv.leipzig.de/#c209877){:blank} besichtigt werden.
 
 _Abbildung: Bach-Quellen im Stadtarchiv Leipzig © Stadtarchiv Leipzig/ Christian Kern_
