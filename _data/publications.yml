@@ -98,6 +98,11 @@
       link: "/publications/annual-reports.html"
       items:
         - name:
+            en: 2025
+            de: 2025
+            fr: 2025
+          link: "/publications/annual-reports/2025.html"
+        - name:
             en: 2024
             de: 2024
             fr: 2024
@@ -107,11 +112,6 @@
             de: 2023
             fr: 2023
           link: "/publications/annual-reports/2023.html"
-        - name:
-            en: 2022
-            de: 2022
-            fr: 2022
-          link: "/publications/annual-reports/2022.html"
         - name:
             en: All annual reports
             de: Alle Jahresberichte
