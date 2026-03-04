@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Annual Report 2025'
-date: 2026-03-04
+date: 2026-03-05
 lang: en
 post: true
 category: new_publications
