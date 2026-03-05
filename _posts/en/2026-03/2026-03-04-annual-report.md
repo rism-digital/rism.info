@@ -5,7 +5,7 @@ date: 2026-03-05
 lang: en
 post: true
 category: new_publications
-image: "images/news/2026-03/RISM_Logo.jpg"
+image: "/images/news/2026-03/RISM_Logo.jpg"
 email: ''
 author: ''
 ---
