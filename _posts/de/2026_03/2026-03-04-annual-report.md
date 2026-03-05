@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jahresrückblick 2025'
+title: 'Jahresbericht 2025'
 date: 2026-03-05
 lang: de
 post: true
