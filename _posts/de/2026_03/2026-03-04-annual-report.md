@@ -5,7 +5,7 @@ date: 2026-03-05
 lang: de
 post: true
 category: new_publications
-image: "/images/news/2026-03/RISM_Logo.jpg"
+image: "/images/news-old-website/csm_Logo_10_a8cee15968.jpg"
 email: ''
 author: ''
 ---
