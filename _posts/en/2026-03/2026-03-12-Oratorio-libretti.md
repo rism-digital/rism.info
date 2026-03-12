@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oratorio libretti in the CRAI Library of the University of Barcelona and and their music'
+title: 'Oratorio libretti in the CRAI Library of the University of Barcelona and their music'
 date: 2026-03-12
 lang: en
 post: true
