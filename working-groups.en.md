@@ -603,17 +603,17 @@ Email: [ezquerro@imf.csic.es](mailto:ezquerro@imf.csic.es)\
 Website: [https://www.imf.csic.es/](https://www.imf.csic.es/){:target="_blank"}\
 See also: [https://www.rism.info/working-groups/spain/home.html](/working-groups/spain/home.html){:blank}
 
-Teresa Rodríguez Gonzalez\
+María Teresa Delgado Sánchez\
 Departamento de Música y Audiovisuales\
 Biblioteca Nacional de España\
 Paseo de Recoletos, 20-22\
 Madrid 28071\
 Telephone: + 34 91 5807734\
-Email: [teresa.rodriguez@bne.es](mailto:teresa.rodriguez@bne.es)\
-Website (National Library of Spain): [https://www.bne.es/en](https://www.bne.es/en){:target="_blank"}\
-Website (music collection): [https://www.bne.es/en/collections/scores-musicology](https://www.bne.es/en/collections/scores-musicology){:target="_blank"}\
-Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:target="_blank"}\
-Website (Biblioteca Digital Hispánica): [https://bdh.bne.es/bnesearch/Inicio.do?languageView=en](https://bdh.bne.es/bnesearch/Inicio.do?languageView=en){:target="_blank"}
+Email: [mariateresa.delgado@bne.es](mailto:mariateresa.delgado@bne.es)\
+Website (National Library of Spain): [https://www.bne.es/#](https://www.bne.es/#){:blank}\
+Website (music collection): [https://www.bne.es/colecciones/partituras-musicologia](https://www.bne.es/colecciones/partituras-musicologia){:blank}\
+Website (catalog): [https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en](https://catalogo.bne.es/discovery/search?vid=34BNE_INST:CATALOGO&lang=en){:blank}\
+Website (Biblioteca Digital Hispánica BNE Digital): [https://bnedigital.bne.es/bd/en/simple](https://bnedigital.bne.es/bd/en/simple){:blank}
 
 ## SWEDEN
 
