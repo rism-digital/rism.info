@@ -5,7 +5,7 @@ date: 2026-03-19
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2026-03/180326_koelner_handschriften_small.jpg"
+image: "/images/news/2026-03/Koelner-Handschriften_small.jpg"
 email: ''
 author: ''
 ---
