@@ -5,7 +5,7 @@ date: 2026-03-19
 lang: de
 post: true
 category: library_collections
-image: "/images/news/2026-03/180326_koelner_handschriften_small.jpg"
+image: "/images/news/2026-03/Koelner-Handschriften_small.jpg"
 email: ''
 author: ''
 ---
@@ -25,4 +25,4 @@ Thomas Synofzik „Kantaten von Alessandro Scarlatti im Bücken-Nachlass der Kö
 
 Peter Schmidt, „Ernst Bücken (1884-1949)“, in: _Gelehrte – Diplomaten – Unternehmer: Kölner Sammler und ihre Bücherkollektionen in der Universitäts- und Stadtbibliothek Köln_, Köln 2003, S.180-187.
  
-Abbildung: Osterkantate _Der Sieg des Erlösers_ von Ernst Wilhelm Wolf (1735-1792), Universitäts- und Stadtbibliothek Köln, [Sign. 5 P 209](digital.ub.uni-koeln.de/view/retro_rism450063326_055419){:blank}, aus der Sammlung Ernst Bücken
+Abbildung: Osterkantate _Der Sieg des Erlösers_ von Ernst Wilhelm Wolf (1735-1792), Universitäts- und Stadtbibliothek Köln, [Sign. 5 P 209]([digital.ub.uni-koeln.de/view/retro_rism450063326_055419](https://digital.ub.uni-koeln.de/view/retro_rism450063326_055419?p=1)){:blank}, aus der Sammlung Ernst Bücken
