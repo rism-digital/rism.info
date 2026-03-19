@@ -17,7 +17,7 @@ Most of the sources in question had once belonged to the collection of the Colog
 
 The links to the digitized documents are already available for research on [RISM Online](https://rism.online){:blank}; from April 2026, they will also be displayed in the [RISM Catalog](https://opac.rism.info){:blank}.
 
-Further reading:
+#### Further reading:
 
 Georg Kinsky, _Musiksammlung aus dem Nachlasse † Dr. Erich Prieger – Bonn nebst einigen Beiträgen aus anderem Besitz. 3. Teil: Musikerbriefe, Handschriften, Musikalien_, Cologne 1924.
 
