@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kooperation von Biblioteca Nacional de España (BNE) und RISM fördert die Bekanntheit von spanischem Kulturerbe'
-date: 2026-03-24
+date: 2026-03-26
 lang: de
 post: true
 category: library_collections
