@@ -4,7 +4,7 @@ title: 'The collaboration between the WEAVE project “Tartinians – The School
 date: 2026-04-02
 lang: en
 post: true
-category: In the news
+category: in_the_news
 image: "/images/news/2026-04/Tartini_small.jpg"
 email: 'andrea.zedler@uni-a.de'
 author: 'Andrea Zedler'
