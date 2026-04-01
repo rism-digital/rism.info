@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Die Kooperation des WEAVE-Projekts "Tartinians" mit RISM fördert die nachhaltige Sicherung von Projektdaten'
-date: 2026-04-02
+date: 2026-04-01
 lang: de
 post: true
 category: in_the_news
