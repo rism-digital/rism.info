@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The collaboration between the WEAVE project 'Tartinians' and RISM supports the long-term preservation of project data'
+title: 'The collaboration between the WEAVE project "Tartinians" and RISM supports the long-term preservation of project data'
 date: 2026-04-02
 lang: en
 post: true
@@ -9,7 +9,8 @@ image: "/images/news/2026-04/tartini_small.jpg"
 email: 'andrea.zedler@uni-a.de'
 author: 'Andrea Zedler'
 ---
-The [WEAVE](https://weave-research.net/){:blank} research project [_Tartinians – The School of Nations and its networks_](https://tartinians.uni-graz.at/de/){:blank}, based at the Universities of Graz and Augsburg, as well as the Schola Cantorum in Basel, was launched in April 2025. It examines the pedagogical work of Giuseppe Tartini (1692–1770) and his students primarily on three levels: (1) professional biographies and networks of the students, (2) musical output, and (3) pedagogical writings. All the information about Tartini’s students is summarized in a database developed specifically for the project, their musical output is also cataloged, and Tartini’s pedagogical writings – as a rule preserved in the form of notes taken by his students which sometimes differ from one another – are also edited.
+
+The [WEAVE](https://weave-research.net/){:blank} research project [Tartinians – The School of Nations and its networks](https://tartinians.uni-graz.at/de/){:blank}, based at the Universities of Graz and Augsburg, as well as the Schola Cantorum in Basel, was launched in April 2025. It examines the pedagogical work of Giuseppe Tartini (1692–1770) and his students primarily on three levels: (1) professional biographies and networks of the students, (2) musical output, and (3) pedagogical writings. All the information about Tartini’s students is summarized in a database developed specifically for the project, their musical output is also cataloged, and Tartini’s pedagogical writings – as a rule preserved in the form of notes taken by his students which sometimes differ from one another – are also edited.
 
 The Augsburg subproject focuses primarily on the musical output of the _Scuola delle nazioni_, the activities of Tartini’s students at the courts of the Holy Roman Empire, and 18th-century violin pedagogy in the light of Tartini’s teachings. Most of the musical sources collected during the project will be cataloged in RISM for the first time, while existing RISM entries will also be elaborated on. 
 
