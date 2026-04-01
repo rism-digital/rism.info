@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The collaboration between the WEAVE project 'Tartinians' and RISM supports the long-term preservation of project data'
-date: 2026-04-01
+date: 2026-04-02
 lang: en
 post: true
 category: in_the_news
@@ -19,8 +19,4 @@ Of particular importance for the project is the documentation of incipits, which
 
 To document the current status of our work, a [project blog](https://tartinians.hypotheses.org){:blank} has been set up.
 
-{% include image file="/images/news/2026-04/tartini_team.jpg" %}
-
 Image at the top: First page of the Basso part from a manuscript of Giuseppe Tartini’s Sonata in C, No. 3, for Violino Solo e Basso [without year], Österreichische Nationalbibliothek (A-Wn), Mus.Hs.12722 MUS MAG. Source: [ÖNB Digital/Österreichische Nationalbibliothek](https://data.onb.ac.at/rep/1001B34B){:blank}
-
-Image at the bottom: The Augsburg project team including Felicitas Marxer, Berthold Over, Andrea Zedler, and Gesa zur Nieden (project director) during a visit to the German RISM office in Munich (July 2025). Photo credit: Gottfried Heinz-Kronberger.
