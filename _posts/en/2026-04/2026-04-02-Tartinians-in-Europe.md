@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The collaboration between the WEAVE project "Tartinians" and RISM supports the long-term preservation of project data'
+title: 'Collaboration between the WEAVE project "Tartinians" and RISM supports the long-term preservation of project data'
 date: 2026-04-02
 lang: en
 post: true
