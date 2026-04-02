@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The collaboration between the WEAVE project "Tartinians" and RISM supports the long-term preservation of project data'
+title: 'Collaboration between the WEAVE project "Tartinians" and RISM supports the long-term preservation of project data'
 date: 2026-04-02
 lang: en
 post: true
@@ -16,8 +16,8 @@ The Augsburg subproject focuses primarily on the musical output of the _Scuola d
 
 As an example, here is a description created by the project group about a manuscript copy preserved in Vienna, featuring a duo sonata by Domenico Ferrari (1722–1780): [RISM-Catalog](https://opac.rism.info/id/rismid/rism1001366068){:blank} \| [RISM Online](https://rism.online/sources/1001366068){:blank}.
 
-Of particular importance for the project is the documentation of incipits, which allows for the comparison of concordances and variants, as well as the examination of melodic relationships. The collaboration with RISM ensures the long-term preservation of project data and provides an ideal starting point for in-depth data analysis in relation to the project’s key research questions. Upon completion of the project, the data collected in RISM will also be linked to the _Tartinians_ project database.
+Of particular importance for the project is the documentation of incipits, which allow for the comparison of concordances and variants, as well as the examination of melodic relationships. The collaboration with RISM ensures the long-term preservation of project data and provides an ideal starting point for in-depth data analysis in relation to the project’s key research questions. Upon completion of the project, the data collected in RISM will also be linked to the _Tartinians_ project database.
 
 To document the current status of our work, a [project blog](https://tartinians.hypotheses.org){:blank} has been set up.
 
-Image at the top: First page of the Basso part from a manuscript of Giuseppe Tartini’s Sonata in C, No. 3, for Violino Solo e Basso [without year], Österreichische Nationalbibliothek (A-Wn), Mus.Hs.12722 MUS MAG. Source: [ÖNB Digital/Österreichische Nationalbibliothek](https://data.onb.ac.at/rep/1001B34B){:blank}
+Image: First page of the Basso part from an undated manuscript of Giuseppe Tartini’s Sonata in C, No. 3, for Violino Solo e Basso, Österreichische Nationalbibliothek (A-Wn), Mus.Hs.12722 MUS MAG. Source: [ÖNB Digital/Österreichische Nationalbibliothek](https://data.onb.ac.at/rep/1001B34B){:blank}
