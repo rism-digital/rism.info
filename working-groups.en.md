@@ -176,11 +176,7 @@ Dr. Nora Yeh, International advisor\
 Email: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
 
 Prof. Judy Tsou, International advisor\
-Email: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)
-
-Dr. CHANG Hok-Yan, Jim, Liaison\
-Telephone: +852 29210288\
-Email: [jhychang@lcsd.gov.hk](mailto:jhychang@lcsd.gov.hk)
+Email: [jstsou@u.washington.edu](mailto:jstsou@u.washington.edu)  
 
 *see also South Korea*
 
