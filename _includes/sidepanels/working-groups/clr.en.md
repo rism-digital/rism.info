@@ -41,10 +41,9 @@ Shanghai Conservatory of Music Library
 
 Hong Kong Central Library  
 [LI King-Yin](mailto:dkyli@lcsd.gov.hk) (Chief Librarian)  
-[CHAN Yuet-Ha](mailto:yhachan@lcsd.gov.hk)   
-Hong Kong Central Library  
+CHAN Yuet-Ha  
 66, Causeway Rd., Causeway Bay, Hong Kong  
-+852 2921 0288
++852 2921 0288  
 
 **International advisors**
 

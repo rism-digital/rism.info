@@ -23,12 +23,10 @@ Website: [dacm.ntnu.edu.tw/](http://dacm.ntnu.edu.tw/)
 
 # Hong Kong Central Library
 
-[LI King-Yin](mailto:dkyli@lcsd.gov.hk) (Chief Librarian)  
-Email: [dkyli@lcsd.gov.hk]   
-[CHAN Yuet-Ha](mailto:yhachan@lcsd.gov.hk)  
+[LI King-Yin](mailto:dkyli@lcsd.gov.hk) (Chief Librarian)   
+CHAN Yuet-Ha  
 66, Causeway Rd., Causeway Bay, Hong Kong  
-Phone:+852 2921 0288  
-Website: [www.hkpl.gov.hk/hkcl](http://www.hkpl.gov.hk/hkcl)
++852 2921 0288  
 
 # Shanghai Conservatory of Music Library
 
