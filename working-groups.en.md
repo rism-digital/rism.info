@@ -166,11 +166,11 @@ Taiwan (R.O.C.)\
 Telephone: +886 2 25550288 #305\
 Website: [http://tmi.ncfta.gov.tw/](http://tmi.ncfta.gov.tw/)  
 
-Melinda LEE (Chief Librarian)   
-Email: [mmllee@lcsd.gov.hk](mailto:mmllee@lcsd.gov.hk)   
-LI King-Yin  
-Email: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)  
-Hong Kong Central Library
+LI King-Yin (Chief Librarian)  
+Email: [dkyli@lcsd.gov.hk](mailto:dkyli@lcsd.gov.hk)    
+CHAN Yuet-Ha  
+Email: [yhachan@lcsd.gov.hk](mailto:yhachan@lcsd.gov.hk)   
+Hong Kong Central Library  
 
 Dr. Nora Yeh, International advisor\
 Email: [yehnorareed@gmail.com](mailto:yehnorareed@gmail.com)
