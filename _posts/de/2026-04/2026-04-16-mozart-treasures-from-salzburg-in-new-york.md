@@ -19,4 +19,4 @@ Die Ausstellung ist noch bis Ende Mai in der Morgan Library & Museum in New York
 
 Link zur Website der Morgan Library & Museum: [https://www.themorgan.org/exhibitions/mozart](https://www.themorgan.org/exhibitions/mozart){:blank}
 
-Bild: Leopold Mozart (1719–1787), Notenbuch für Maria Anna („Nannerl“) Mozart. Handschrift, begonnen 1759. Quelle: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana ([RISM Catalog](https://opac.rism.info/id/rismid/rism659100194) \| [RISM Online](https://rism.online/sources/65100194)).
+Bild: Leopold Mozart (1719–1787), Notenbuch für Maria Anna („Nannerl“) Mozart. Handschrift, begonnen 1759. Quelle: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana ([RISM Catalog](https://opac.rism.info/id/rismid/rism659100194) \| [RISM Online](https://rism.online/sources/659100194))
