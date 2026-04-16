@@ -6,8 +6,8 @@ lang: en
 post: true
 category: events
 image: "/images/news/2026-04/Nannerl-Notenbuch_small.jpg"
-email: 'Armin Brinzing'
-author: 'bibliothek@mozarteum.at'
+email: 'bibliothek@mozarteum.at'
+author: 'Armin Brinzing'
 ---
 The International Mozarteum Foundation in Salzburg owns one of the world’s most significant Mozart collections, which originated from gifts and bequests from the Mozart family. For a remarkable exhibition, a significant part of this collection has traveled to the United States for the first time. They are on display at the Morgan Library & Museum in the exhibition “Wolfgang Amadeus Mozart: Treasures from the Mozarteum Foundation of Salzburg.” The Salzburg originals are complemented by valuable paintings, manuscripts, and prints from the Morgan Library and a major private collection.
 
