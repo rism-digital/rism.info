@@ -19,4 +19,4 @@ The exhibition can be viewed at the Morgan Library & Museum in New York through 
 
 Link to the website of The Morgan Library & Museum: [https://www.themorgan.org/exhibitions/mozart](https://www.themorgan.org/exhibitions/mozart){:blank}
 
-Image: Leopold Mozart (1719–1787), Music book for Maria Anna (“Nannerl”) Mozart. Manuscript, begun in 1759. Source: International Mozarteum Foundation, Bibliotheca Mozartiana ([RISM Catalog](https://opac.rism.info/id/rismid/rism659100194) \| [RISM Online](https://rism.online/sources/65100194)).
+Image: Leopold Mozart (1719–1787), Music book for Maria Anna (“Nannerl”) Mozart. Manuscript, begun in 1759. Source: International Mozarteum Foundation, Bibliotheca Mozartiana ([RISM Catalog](https://opac.rism.info/id/rismid/rism659100194) \| [RISM Online](https://rism.online/sources/659100194)).
