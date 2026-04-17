@@ -32,7 +32,9 @@ permalink: /community/muscat/tutorials.html
 
 * Adding references to secondary literature: [Brief guide (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)  
 
-* [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank} (Video)
+* [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank} (Video)  
+
+* [The Authority File for Places: Initial Guidelines (Spring 2026)](https://docs.google.com/document/d/1knQPDsRrEh5WPZ85AEjA-SH-5HOvNK7qFTiSQvCa7Qk/edit?usp=sharing)  
 
 # Tutorials: Music manuscripts
 

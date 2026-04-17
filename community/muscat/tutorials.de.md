@@ -26,6 +26,7 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 * Konvolute: Wie kann man zeigen, dass gedruckte (und handschriftliche) Materialen zusammengebunden sind. [YouTube Video](https://youtu.be/46_agb6-K_0){:blank} und [PDF](/resources/community/muscat/guide_add_composite_records_muscat_202106.pdf)
 * Verweise auf Sekundärliteratur: [Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
 * [Musikincipits mittels Plaine & Easie-Code erstellen](https://youtu.be/-HplUb_L1QY){:blank}
+* [Die Normdatei für die Orte: Erste Hinweise (Frühling 2026)](https://docs.google.com/document/d/1knQPDsRrEh5WPZ85AEjA-SH-5HOvNK7qFTiSQvCa7Qk/edit?usp=sharing)  
 
 # Tutorials: Musikhandschriften
 
