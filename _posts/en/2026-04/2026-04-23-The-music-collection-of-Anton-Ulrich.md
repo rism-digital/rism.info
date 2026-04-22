@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The music collection of Anton Ulrich, Duke of Saxe-Coburg-Meiningen, at the Meiningen Museums'
-date: 2026-04-22
+date: 2026-04-23
 lang: en
 post: true
 category: library_collections
