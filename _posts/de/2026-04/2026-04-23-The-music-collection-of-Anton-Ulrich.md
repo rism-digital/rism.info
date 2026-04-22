@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Die Notensammlung von Anton Ulrich, Herzog  von Sachsen-Coburg-Meiningen in den Meininger Museen'
-date: 2026-04-22
+date: 2026-04-23
 lang: de
 post: true
 category: library_collections
