@@ -25,8 +25,6 @@ permalink: /community/muscat/tutorials.html
 
 * Crosswalk from [Rules for Archival Description](https://archivescanada.ca/resources/){:target="_blank"} (Canada) to RISM: [General instructions](https://dallibraries.atlassian.net/wiki/spaces/APM/pages/713719809/Instructions+on+using+MusCat){:target="_blank"} for adding descriptions to RISM from RAD or another archival standard (by Rebecca Shaw, Dalhousie University)
 
-* [The authority file for Personal Names](https://youtu.be/A130dB8I62k){:target="_blank"}: How to add and edit a name, what information to include, linking to VIAF
-
 * Composite volumes: How to show that printed items (or printed plus manuscript items) are bound together.   
 [YouTube video](https://youtu.be/46_agb6-K_0){:blank} and [PDF guide](/resources/community/muscat/guide_add_composite_records_muscat.pdf)
 
@@ -34,7 +32,9 @@ permalink: /community/muscat/tutorials.html
 
 * [How to create music incipits using Plaine & Easie Code](https://youtu.be/-HplUb_L1QY){:blank} (Video)  
 
-* [The Authority File for Places: Initial Guidelines (Spring 2026)](https://docs.google.com/document/d/1knQPDsRrEh5WPZ85AEjA-SH-5HOvNK7qFTiSQvCa7Qk/edit?usp=sharing)  
+* [The Authority File for Places: Initial Guidelines (Spring 2026)](https://docs.google.com/document/d/1knQPDsRrEh5WPZ85AEjA-SH-5HOvNK7qFTiSQvCa7Qk/edit?usp=sharing){:blank}    
+
+* [The Authority File for Personal Names: Using Wikidata](https://docs.google.com/document/d/16nR03yLfOlQjjWwb1hV68RCrdJ1srTvrKGESZnEksyM/edit?usp=sharing){:blank}   
 
 # Tutorials: Music manuscripts
 
