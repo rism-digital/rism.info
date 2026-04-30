@@ -7,7 +7,7 @@ post: true
 category: rism_digital_center
 image: "/images/news/2026-04/two-born-digital_small.jpg"
 email: 'claudio.bacciagaluppi@rism-ch.org'
-author: 'Sara Andreacchio and Claudio Bacciagaluppi'
+author: 'Sara Andreacchio und Claudio Bacciagaluppi'
 ---
 Zwei Werkverzeichnisse für die Komponisten Francesco Pollini und Luigi Cherubini wurden kürzlich als digital erstellte Publikationen fertiggestellt. Sie ergänzen die wachsende Zahl digitaler Versionen von traditionellen thematischen Katalogen, die über die [Suchplattform RISM Online](https://rism.online/publications){:blank} eingesehen werden können. Diese Kataloge sind direkt mit der Datenbank verknüpft, welche die Musikquellen sammelt und beschreibt. Sie stellen unmittelbare Verbindungen zwischen den Werken und den Quellen her und ermöglichen so, deren Inhalt und die Orte ihrer Verbreitung zu erkunden sowie mit dem internationalen bibliografischen Bestand zu interagieren. Die beiden digital erstellten thematischen Kataloge wurden mit Muscat, der RISM-Katalogisierungssoftware, erstellt. Die wesentlichen Daten der Datenbank werden durch eine historisch-musikwissenschaftliche Einordnung ergänzt, die auf einer [eigenen Website](https://catalogs.rism.online){:blank} veröffentlicht ist. 
 
