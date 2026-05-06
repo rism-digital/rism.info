@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Ausstellung des Bußpsalmencodex Albrechts V. in München am 20. und 21. Mai'
-date: 2026-05-06
+date: 2026-05-07
 lang: de
 post: true
 category: events
 image: "/images/news/2026-05/Mus.ms._A_I(1_p._183_Detail.jpg"
 email: 'giglberger@bsb-muenchen.de'
-author: 'Veronika Giglberger and Bernhard Lutz'
+author: 'Veronika Giglberger und Bernhard Lutz'
 ---
 _Er ist zu groß, um als klassisches Andachtsbuch gelten zu können. Zu kostbar, um in Gottesdiensten zum Einsatz zu kommen. Zu ausgefeilt im Bildprogramm, um nur Repräsentationszwecken zu dienen, zu unsystematisch in der Wissensvermittlung, um den Ansprüchen einer Enzyklopädie zu genügen._
 <small>(Andrea Gottdang im Vorwort zu Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
