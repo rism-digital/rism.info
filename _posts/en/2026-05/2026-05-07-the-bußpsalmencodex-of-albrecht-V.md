@@ -12,7 +12,7 @@ author: 'Veronika Giglberger and Bernhard Lutz'
 &nbsp;
 
 _It is too large to be considered a typical devotional book. Too precious to be used in church services. Too sophisticated in its illustrations to serve merely as a representative work, and too unsystematic in its presentation of knowledge to meet the standards of an encyclopaedia._
-<small>(Andrea Gottdang in her preface to  Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
+<small>(Andrea Gottdang in her preface to _Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V._, Wiesbaden 2020)</small>
 
 &nbsp;
 
