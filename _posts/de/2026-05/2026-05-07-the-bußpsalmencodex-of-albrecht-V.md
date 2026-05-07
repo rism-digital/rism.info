@@ -16,7 +16,7 @@ _Er ist zu groß, um als klassisches Andachtsbuch gelten zu können. Zu kostbar,
 
 &nbsp;
 
-_Abbildung links: Bayerische Staatsbibliothek, Mus.ms. A I(1, S. 183 (Detail). [Public Domain Mark 1.0 Universell](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
+_Abbildung: Bayerische Staatsbibliothek, Mus.ms. A I(1, S. 183 (Detail). [Public Domain Mark 1.0 Universell](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
 
 
 Der Bußpsalmencodex Albrechts V., bekannt auch als „Mielich-Codex“, ist das von Hans Mielich  prächtig illuminierte Chorbuch, das der Wittelsbacher Herzog Albrecht V. zwischen 1558 und 1570 für sich anfertigen ließ und das heute zu den größten Schätzen der Bayerischen Staatsbibliothek gehört. Der Codex enthält in zwei Bänden die Vertonung der sieben Bußpsalmen durch Orlando di Lasso, sowie, als krönenden Abschluss, die Motette „Laudes Domini“. Band 1 wird am [20. und 21. Mai 2026 in der Bayerischen Staatsbibliothek in München](https://www.bsb-muenchen.de/veranstaltungen-und-ausstellungen/article/stabiliebling-ein-spitzenstueck-zwei-tage-ganz-nah-7142/){:blank} im Original zu sehen sein.
