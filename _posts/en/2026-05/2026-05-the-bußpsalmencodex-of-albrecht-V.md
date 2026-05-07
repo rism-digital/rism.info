@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The “Bußpsalmencodex” of Albrecht V exhibited in Munich on 20 and 21 May
+title: 'The “Bußpsalmencodex” of Albrecht V exhibited in Munich on 20 and 21 May'
 date: 2026-05-07
 lang: en
 post: true
