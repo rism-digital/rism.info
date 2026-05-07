@@ -15,7 +15,6 @@ _It is too large to be considered a typical devotional book. Too precious to be 
 <small>(Andrea Gottdang in her preface to  Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
 
 &nbsp;
-
 _Image: Bayerische Staatsbibliothek, Mus.ms. A I(1, p. 183 (Detail). [Public Domain Mark 1.0 Universal](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
 
 
