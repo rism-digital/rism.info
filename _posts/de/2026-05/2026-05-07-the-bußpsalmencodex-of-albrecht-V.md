@@ -10,9 +10,11 @@ email: 'giglberger@bsb-muenchen.de'
 author: 'Veronika Giglberger und Bernhard Lutz'
 ---
 &nbsp;
+
 _Er ist zu groß, um als klassisches Andachtsbuch gelten zu können. Zu kostbar, um in Gottesdiensten zum Einsatz zu kommen. Zu ausgefeilt im Bildprogramm, um nur Repräsentationszwecken zu dienen, zu unsystematisch in der Wissensvermittlung, um den Ansprüchen einer Enzyklopädie zu genügen._
 <small>(Andrea Gottdang im Vorwort zu Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
 &nbsp;
+
 _Abbildung links: Bayerische Staatsbibliothek, Mus.ms. A I(1, S. 183 (Detail). [Public Domain Mark 1.0 Universell](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
 
 
