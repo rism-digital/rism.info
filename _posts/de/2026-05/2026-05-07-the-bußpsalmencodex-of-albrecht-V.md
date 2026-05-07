@@ -12,7 +12,7 @@ author: 'Veronika Giglberger und Bernhard Lutz'
 &nbsp;
 
 _Er ist zu groß, um als klassisches Andachtsbuch gelten zu können. Zu kostbar, um in Gottesdiensten zum Einsatz zu kommen. Zu ausgefeilt im Bildprogramm, um nur Repräsentationszwecken zu dienen, zu unsystematisch in der Wissensvermittlung, um den Ansprüchen einer Enzyklopädie zu genügen._
-<small>(Andrea Gottdang im Vorwort zu Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
+<small>(Andrea Gottdang im Vorwort zu _Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V._, Wiesbaden 2020)</small>
 
 &nbsp;
 
@@ -26,4 +26,4 @@ Im Rahmen des Chorbuchprojektes 2012-2015 in [RISM](https://rism.info/de/library
 {% include image file="/images/news/2026-05/Mus.ms._A_I(1_p._172_Detail.jpg" %}  
 _Bayerische Staatsbibliothek, Mus.ms. A I(1, p.183 (Detail). [Public Domain Mark 1.0 Universell](https://creativecommons.org/publicdomain/mark/1.0/)_  
 
-Lasso konnte seine Bußpsalmen als „musica reservata“ zunächst nicht publizieren, der Erstdruck erfolgte nach dem Tod des Herzogs ([RISM catalog)(https://opac.rism.info/id/rismid/rism990036738){:blank} \|. [RISM online](https://rism.online/sources/990036738){:blank}). Für den enormen Bilderzyklus des Münchner Malers Hans Mielich (1516-1673) mit mehreren Tausend Einzelszenen stellt die Digitalisierung die Erstveröffentlichung dar. Noch nie zuvor waren die Miniaturen vollumfänglich und in Farbe für die Öffentlichkeit sichtbar geworden.
+Lasso konnte seine Bußpsalmen als „musica reservata“ zunächst nicht publizieren, der Erstdruck erfolgte nach dem Tod des Herzogs ([RISM catalog](https://opac.rism.info/id/rismid/rism990036738){:blank} \|. [RISM online](https://rism.online/sources/990036738){:blank}). Für den enormen Bilderzyklus des Münchner Malers Hans Mielich (1516-1673) mit mehreren Tausend Einzelszenen stellt die Digitalisierung die Erstveröffentlichung dar. Noch nie zuvor waren die Miniaturen vollumfänglich und in Farbe für die Öffentlichkeit sichtbar geworden.
