@@ -13,7 +13,11 @@ author: 'Veronika Giglberger and Bernhard Lutz'
 _It is too large to be considered a typical devotional book. Too precious to be used in church services. Too sophisticated in its illustrations to serve merely as a representative work, and too unsystematic in its presentation of knowledge to meet the standards of an encyclopaedia._
 <small>(Andrea Gottdang in her preface to  Andacht, Repräsentation – Gelehrsamkeit: Der Bußpsalmencodex Albrechts V., Wiesbaden 2020)</small>
 
-_Image: Bayerische Staatsbibliothek, Mus.ms. A I(1, S. 183 (Detail). [Public Domain Mark 1.0 Universal](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
+&nbsp;
+
+
+_Image on the left: Bayerische Staatsbibliothek, Mus.ms. A I(1, p. 183 (Detail). [Public Domain Mark 1.0 Universal](https://creativecommons.org/publicdomain/mark/1.0/deed.de)_
+
 
 The “Bußpsalmencodex” of Albrecht V, also known as the “Mielich Codex,” is a choirbook magnificently illuminated by Hans Mielich, which Albrecht V, Duke of Wittelsbach, had commissioned between 1558 and 1570. Today it is kept in the Bavarian State Library as one of its most precious treasures. The two-volume codex contains Orlando di Lasso’s musical settings of the seven penitential psalms, and as a final treat also his motet “Laudes Domini.” The first volume of this unique codex will be on display on 20 and 21 May 2026 at the [Bavarian State Library in Munich](https://www.bsb-muenchen.de/en/events-and-exhibitions/article/stabiliebling-ein-spitzenstueck-zwei-tage-ganz-nah-7142/){:blank}.
 
