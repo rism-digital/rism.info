@@ -28,4 +28,5 @@ Cataloged in RISM as part of the [Choirbook Project](https://rism.info/library_c
 _Bayerische Staatsbibliothek, Mus.ms. A I(1, p.183 (Detail). [Public Domain Mark 1.0 Universal](https://creativecommons.org/publicdomain/mark/1.0/)_
 
 As the work was classified ‘musica reservata,’ implying exclusive use by the Duke, Lasso could not publish his penitential psalms at the time; the first edition appeared only after the Duke’s death ([RISM Catalog](https://opac.rism.info/id/rismid/rism990036738){:blank} \| [RISM Online](https://rism.online/sources/990036738){:blank}). As for the enormous cycle of illustrations by the Munich painter Hans Mielich (1516–1673), which comprises several thousand individual scenes, the recent digitization can be viewed as its first publication. Never before have these miniatures been made available to the public in their entirety and in colour.
+
 For more illustration and detailed information (in German) about the exhibition as well as the "Bußpsalmencodex," see the [website](https://www.bsb-muenchen.de/stabiliebling/busspsalmencodex/){:blank} of the Bavarian State Library.
