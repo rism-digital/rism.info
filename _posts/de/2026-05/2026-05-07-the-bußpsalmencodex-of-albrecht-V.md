@@ -28,4 +28,4 @@ _Bayerische Staatsbibliothek, Mus.ms. A I(1, p.183 (Detail). [Public Domain Mark
 
 Lasso konnte seine Bußpsalmen als „musica reservata“ zunächst nicht publizieren, der Erstdruck erfolgte nach dem Tod des Herzogs ([RISM catalog](https://opac.rism.info/id/rismid/rism990036738){:blank} \| [RISM online](https://rism.online/sources/990036738){:blank}). Für den enormen Bilderzyklus des Münchner Malers Hans Mielich (1516-1673) mit mehreren Tausend Einzelszenen stellt die Digitalisierung die Erstveröffentlichung dar. Noch nie zuvor waren die Miniaturen vollumfänglich und in Farbe für die Öffentlichkeit sichtbar geworden.
 
-Detaillierte und reichbebilderte Informationen zu Ausstellung und Bußpsalmencodex finden sich - in deutscher Sprache - auf der [Website](https://www.bsb-muenchen.de/stabiliebling/busspsalmencodex/){:blank} der Bayerischen Staatsbibliotek.
+Detaillierte und reichbebilderte Informationen zu Ausstellung und Bußpsalmencodex finden sich - in deutscher Sprache - auf der [Website](https://www.bsb-muenchen.de/stabiliebling/busspsalmencodex/){:blank} der Bayerischen Staatsbibliothek.
