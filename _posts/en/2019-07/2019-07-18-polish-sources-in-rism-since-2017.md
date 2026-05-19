@@ -31,12 +31,12 @@ As part of this project, the two historic Jesuit music collections in Poland are
 [PL-KŁwnm](https://opac.rism.info/search?View=rism&siglum=PL-K%C5%81wnm&Language=en){:target="_blank"} (ca. 230 records)\
 [PL-Wb](https://opac.rism.info/search?View=rism&siglum=PL-Wb&Language=en){:target="_blank"} (20 records)
 
-A project on Silesian music sources at the University of Wroclaw:\
+A project on Silesian music sources at the University of Wrocław:\
 [PL-OPark](https://opac.rism.info/search?View=rism&siglum=PL-OPark&Language=en){:target="_blank"} (ca. 200 records)\
 [PL-OPsm](https://opac.rism.info/search?View=rism&siglum=PL-OPsm&Language=en){:target="_blank"} (ca. 160 records)\
 [PL-WRk](https://opac.rism.info/search?View=rism&siglum=PL-WRk&Language=en){:target="_blank"} (ca. 100 records)
 
-Project at the Wroclaw University Library: [PL-WRu](https://opac.rism.info/search?View=rism&siglum=PL-WRu&Language=en){:target="_blank"} (ca. 160 records)
+Project at the Wrocław University Library: [PL-WRu](https://opac.rism.info/search?View=rism&siglum=PL-WRu&Language=en){:target="_blank"} (ca. 160 records)
 
 Projects at the University of Poznan: [PL-Pu](https://opac.rism.info/search?View=rism&siglum=PL-Pu&Language=en){:target="_blank"} (ca. 100 records)
 
