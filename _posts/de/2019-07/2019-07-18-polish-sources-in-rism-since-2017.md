@@ -31,12 +31,12 @@ Im Rahmen dieses Projektes werden die beiden in Polen befindlichen historischen 
 [PL-KŁwnm](https://opac.rism.info/search?View=rism&siglum=PL-K%C5%81wnm){:target="_blank"} (ca. 230 Einträge)\
 [PL-Wb](https://opac.rism.info/search?View=rism&siglum=PL-Wb){:target="_blank"} (20 Einträge)
 
-Projekt zu schlesischen Musikquellen an der Universität Wroclaw:\
+Projekt zu schlesischen Musikquellen an der Universität Wrocław:\
 [PL-OPark](https://opac.rism.info/search?View=rism&siglum=PL-OPark){:target="_blank"} (ca. 200 Einträge)\
 [PL-OPsm](https://opac.rism.info/search?View=rism&siglum=PL-OPsm){:target="_blank"} (ca. 160 Einträge)\
 [PL-WRk](https://opac.rism.info/search?View=rism&siglum=PL-WRk){:target="_blank"} (ca. 100 Einträge)
 
-Projekt an der Universitätsbibliothek Wroclaw:\
+Projekt an der Universitätsbibliothek Wrocław:\
 [PL-WRu](https://opac.rism.info/search?View=rism&siglum=PL-WRu){:target="_blank"} (ca. 160 Einträge)
 
 Projekte an der Universität Poznań:\
