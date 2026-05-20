@@ -22,4 +22,4 @@ The conference was entitled  "Tables of birth and death for the city of Wrocław
 
 The presentation by our colleague Grzegorz Joachimiak (RISM Poland) examined Neumann's legacy through the lens of his poem "Liebster Gott, wenn werd ich sterben?" which was set to music by several composers, including Johann Sebastian Bach (BWV 8).  
 
-For more information and a project description, please see the [website of the Institute of Musicology, University of Wroclaw](http://muzykologia.uni.wroc.pl/Instytut-Muzykologii/Aktualnosci/Caspar-Neumann){:blank} (in Polish) and [_Przegląd Uniwersytecki_](https://uni.wroc.pl/en/caspar-neumann-souls-and-funds-book-of-births-and-funerals-for-the-city-of-wroclaw/){:blank} (in English).
+For more information and a project description, please see the [website of the Institute of Musicology, University of Wrocław](http://muzykologia.uni.wroc.pl/Instytut-Muzykologii/Aktualnosci/Caspar-Neumann){:blank} (in Polish) and [_Przegląd Uniwersytecki_](https://uni.wroc.pl/en/caspar-neumann-souls-and-funds-book-of-births-and-funerals-for-the-city-of-wroclaw/){:blank} (in English).

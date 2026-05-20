@@ -22,4 +22,4 @@ Die Konferenz trug den Titel "Geburts- und Sterbetafeln für die Stadt Wrocław.
 
 Der Vortrag unseres Kollegen Grzegorz Joachimiak (RISM Polen) untersuchte Neumanns Vermächtnis anhand seines Gedichts "Liebster Gott, wenn werd ich sterben?", das von mehreren Komponisten, darunter Johann Sebastian Bach (BWV 8), vertont wurde.  
 
-Weitere Informationen und eine Projektbeschreibung finden Sie auf der [Webseite des Instituts für Musikwissenschaft, Universität Wroclaw](http://muzykologia.uni.wroc.pl/Instytut-Muzykologii/Aktualnosci/Caspar-Neumann){:blank} (auf Polnisch) und [_Przegląd Uniwersytecki_](https://uni.wroc.pl/en/caspar-neumann-souls-and-funds-book-of-births-and-funerals-for-the-city-of-wroclaw/){:blank} (auf Englisch).
+Weitere Informationen und eine Projektbeschreibung finden Sie auf der [Webseite des Instituts für Musikwissenschaft, Universität Wrocław](http://muzykologia.uni.wroc.pl/Instytut-Muzykologii/Aktualnosci/Caspar-Neumann){:blank} (auf Polnisch) und [_Przegląd Uniwersytecki_](https://uni.wroc.pl/en/caspar-neumann-souls-and-funds-book-of-births-and-funerals-for-the-city-of-wroclaw/){:blank} (auf Englisch).
