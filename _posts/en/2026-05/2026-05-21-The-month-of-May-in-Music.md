@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The month of May in Music'
+title: 'The month of May in music'
 date: 2026-05-21
 lang: en
 post: true
