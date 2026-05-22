@@ -683,6 +683,8 @@ Brinzing, Armin / Diet, Jürgen: Der neue Musik-Katalog „RISM-OPAC“ mit übe
 
 Diet, Jürgen: Neue Version des RISM Online-Katalogs mit Musikincipitsuche freigeschaltet, in: Forum Musikbibliothek 32 (2011), S. 135-137.
 
+Entrevista: Klaus Keil, "El libre acceso a nuestro catálogo en línea será visto pronto como un momento decisivo en la historia de RISM", por Jorge Garcia, in: Boletín DM 15 (2011), S. 8-14.
+
 Falletta, Martina: Telemanns Kompositionen aus dem Blickwinkel neuer, durch das RISM-Projekt erschlossener Quellen, in: Telemann und die Kirchenmusik. Bericht über die Internationale Wissenschaftliche Konferenz, Magdeburg, 15. bis 17. März 2006, anlässlich der 18. Magdeburger Telemann-Festtage, hrsg. von Carsten Lange und Brit Reipsch, Hildesheim: Olms 2011 (= Telemann-Konferenzberichte XVI), S. 178-207.
 
 #### 2012
