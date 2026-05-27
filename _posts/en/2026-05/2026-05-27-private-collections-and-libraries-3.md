@@ -14,11 +14,6 @@ In the final part of our news series on private collections and libraries, we wo
 
 Among the RISM sigla associated with private collections and libraries, there are many older entries that provide no contact information. Since the RISM team does not have sufficient capacity to regularly check whether the information about certain collectors and libraries might have changed, we have to rely on the active cooperation of our users. If you happen to notice changes in the information regarding this or that siglum, please let us know at your earliest convenience, so that we can keep our data as up-to-date as possible. As described in the two previous news items on this topic, private collections tend to present more complex challenges than other types of institutions. When owners move, sell an entire collection or just parts of it, or pass away, the corresponding RISM entries should be adjusted accordingly.
 
-
-{% include image file="/images/news/2026-05/private-collections-en.jpg" %}
-_Selection of „Private collection“ in „Institutions“._
-
-
 Part 1 of this text can be found [here](https://rism.info/new_at_rism/2025/05/15/private-collections-and-libraries-1.html){:blank}, while Part 2 [here](https://rism.info/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}.
 
 Image: Music prints from the [private collection of Martin Bierwisch](https://rism.online/institutions/30080138){:blank} (with kind permission). 
