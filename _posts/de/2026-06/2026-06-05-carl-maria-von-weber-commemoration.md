@@ -2,7 +2,7 @@
 layout: post
 title: 'Carl Maria von Weber commemoration'
 date: 2026-06-05
-lang: en
+lang: de
 post: true
 category: event
 image: "/images/news/2025-05/private-collection-bierwisch_website.jpg"
