@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Carl Maria von Weber commemoration'
-date: 2026-06-05
+title: 'Commemorating the 200th anniversary of Carl Maria von Weber’s death'
+date: 2026-06-07
 lang: en
 post: true
-category: event
-image: "/images/news/2025-05/private-collection-bierwisch_website.jpg"
+category: musical_anniversaries
+image: "/images/news/2026-06/Oberon_klein.jpg"
 email: ''
 author: ''
 ---
