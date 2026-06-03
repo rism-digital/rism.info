@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Commemorating the 200th anniversary of Carl Maria von Weber’s death'
-date: 2026-06-07
+title: 'Commemorating the 200th Anniversary of Carl Maria von Weber’s death'
+date: 2026-06-05
 lang: en
 post: true
 category: musical_anniversaries
@@ -16,4 +16,4 @@ The RISM database contains [a total of 274 sources](https://rism.online/search?q
 Anyone interested in the genesis of Weber’s last opera, the circumstances of its London premiere, or accounts of its reception is welcome to run searches on the website of the _Carl Maria von Weber-Gesamtausgabe_, a project producing a complete edition of the composer’s works and supported, like RISM, by the Academy of Sciences and Literature \| Mainz. Here you can explore Weber’s entire correspondence, his diaries, as well as his published writings. A [search for the term “Oberon”](https://weber-gesamtausgabe.de/en/Search? d=biblio&d=diaries&d=documents&d=letters&d=news&d=personsPlus&d=places&d=thematicCommentaries&d=works&d=writings&q=Oberon){:blank} yields a total of 1,297 results, including 86 diary entries alone.
 
 Image: 
-Carl Maria von Weber, sketch for Huon’s preghiera “Ruler of this awful hour” from _Oberon_, London, 10 April 1826 (excerpt), Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, music collection, shelf mark: Mus.ms.autogr. Weber, C. M. v., WFN 2 (2). Image source: (https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1786144506)
+Carl Maria von Weber, sketch for Huon’s preghiera “Ruler of this awful hour” from _Oberon_, London, 10 April 1826 (excerpt), Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, music collection, shelf mark: Mus.ms.autogr. Weber, C. M. v., WFN 2 (2). Image source: (https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1786144506){:blank}
