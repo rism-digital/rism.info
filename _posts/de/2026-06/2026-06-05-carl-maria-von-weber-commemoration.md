@@ -5,7 +5,7 @@ date: 2026-06-05
 lang: de
 post: true
 category: musical_anniversaries
-image: "/images/news/2025-06/Oberon_klein.jpg"
+image: "/images/news/2026-06/Oberon_klein.jpg"
 email: ''
 author: ''
 ---
