@@ -1110,7 +1110,7 @@ Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebe
 
 Hankinson, Andrew and Laurent Pugin. "Navigating the RISM data with RISM Online." In _Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024_, edited by David M. Weigl, 54-62. New York: ACM, 2024. [Available online](https://doi.org/10.1145/3660570.3660576){:blank}.    
 
-Konik, Marcin, Craig Stuart Sapp, and Jacek Iwaszko. "Polish Music Heritage in Open Access." _Journal of New Music Research_ 53, nos. 3-4 (2024):143-16. [Available online](https://doi.org/10.1080/09298215.2025.2487093){:blank}.  
+Konik, Marcin, Craig Stuart Sapp, and Jacek Iwaszko. "Polish Music Heritage in Open Access." _Journal of New Music Research_ 53, nos. 3-4 (2024): 143-16. [Available online](https://doi.org/10.1080/09298215.2025.2487093){:blank}.  
 
 Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales." _Orient-Institut Istanbul Newsletter_ (2024): 16-17. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
 
@@ -1124,7 +1124,7 @@ Benić Zovko, Marija. "Zagreb – Radionica za obradu muzikalija u programu Musc
 
 Delport, Wilhelm. "How Tracking RISM's Footprint Across (South) Africa Led to the Discovery of San Rock Paintings, !Gõin !Gõin, and an Elephant in the Music Room." _Fontes Artis Musicae_ 72, no. 2 (2025): 131-150. [Available online](https://dx.doi.org/10.1353/fam.2025.a965424){:blank}.  
 
-Demianiuk, L. M. "Main Vectors of International Integration of V. I. Vernadskyi National Library of Ukraine under Martial Law." _University Library at a New Stage of Social Communications Development. Conference Proceedings_ 10 (2025): 9–17. [Available online}(https://doi.org/10.15802/unilib/2025_347618){:blank}.  
+Demianiuk, L. M. "Main Vectors of International Integration of V. I. Vernadskyi National Library of Ukraine under Martial Law." _University Library at a New Stage of Social Communications Development. Conference Proceedings_ 10 (2025): 9–17. [Available online](https://doi.org/10.15802/unilib/2025_347618){:blank}.  
 
 Fromme, Daniel. "Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek." _Bibliotheken heute_ 21, no. 1 (2025): 27-29. [Available online](https://lbz.rlp.de/ueber-uns/publikationen/details/publikation/bibliotheken-heute-heft-1/2025){:blank}.  
 
@@ -1151,7 +1151,7 @@ Nägele, Reiner and Martina Rebmann. "Das Répertoire International des Sources 
 
 Pedrotti, Clarisa and Vera Wolkowicz. “Digital Sources for Nineteenth Century Music in Argentina: A Case of ‘Magical Realism.’” _Nineteenth-Century Music Review_ 22, no. 3 (2025): 490–502. [Available online](https://doi.org/10.1017/S1479409824000363){:blank}.  
 
-Schrade, Torsten, Linnaea Söhn, Alexandra Büttner, Tabea Tietz, Jonatan Jalle Steller, Harald Sack, Etienne Posthumus, Oleksandra Bruns, Heike Fliegl, and Sarah Pittroff. "Shared Data, Shared Practice, Shared Knowledge: Insights from Building NFDI4Culture's Federated Research Data Infrastructure for Cultural Heritage." In _DH2025 - Digital Heritage International Congress 2025_, edited by Stefano Campana et al. The Eurographics Association, 2025. [Available online}(https://doi.org/10.2312/dh.20253367){:blank}.   
+Schrade, Torsten, Linnaea Söhn, Alexandra Büttner, Tabea Tietz, Jonatan Jalle Steller, Harald Sack, Etienne Posthumus, Oleksandra Bruns, Heike Fliegl, and Sarah Pittroff. "Shared Data, Shared Practice, Shared Knowledge: Insights from Building NFDI4Culture's Federated Research Data Infrastructure for Cultural Heritage." In _DH2025 - Digital Heritage International Congress 2025_, edited by Stefano Campana et al. The Eurographics Association, 2025. [Available online](https://doi.org/10.2312/dh.20253367){:blank}.   
 
 Tahtaişleyen, Nihan, Salih Demirtaş, and Will Sumits. "Musikwissenschaftliche Forschungsaktivitäten: Die sich erweiternden internationalen Netzwerke und Beiträge des Projekts Corpus Musicae Ottomanicae (CMO) zur globalen Musikwissenschaft." _Orient-Institut Istanbul Newsletter_ (2025): 14-15. [Available online](https://oiist.org/publikationen/newsletter/){:blank}.  
 
