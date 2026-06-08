@@ -4,7 +4,7 @@ title: 'Private collections and libraries - Part 3'
 date: 2026-05-28
 lang: en
 post: true
-category: new-at-rism
+category: new_at_rism
 image: "/images/news/2025-05/private-collection-bierwisch_website.jpg"
 email: ''
 author: ''
