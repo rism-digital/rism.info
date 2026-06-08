@@ -26,6 +26,6 @@ Das zweite Beispiel D-ESrheinfurth (Privatbibliothek Dr. Hans Rheinfurth, [RISM 
 
 In wenigen Wochen möchten wir im zweiten Teil über Privatbibliotheken auf Bestände eingehen, die eine lange Kontinuität aufweisen, oder noch relativ jung im Bestand einen sicheren Hafen in einer Institution gefunden haben. Darüber hinaus sollen auch die Umzüge privater Haushalte samt ihrer Sammlungen thematisiert werden.
 
-Teil 2 dieses Beitrags finden Sie [hier](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}.
+Teil 2 dieses Beitrags finden Sie [hier](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank} und Teil 3 [hier](https://rism.info/new-at-rism/2026/05/28/private-collections-and-libraries-3.html){:blank}.
 
 Abbildung: Musikdrucke aus der Privatsammlung Martin Bierwisch (mit freundlicher Genehmigung). 
