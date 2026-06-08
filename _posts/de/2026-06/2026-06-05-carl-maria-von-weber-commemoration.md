@@ -17,4 +17,4 @@ Wer sich für Entstehungsgeschichte, die Umstände der Londoner Uraufführung un
 
 Abbildung: 
 
-Carl Maria von Weber, Skizze zum Gebet des Hüon 'Ruler of this awful hour' aus _Oberon_, London, 10.04.1826 (Ausschnitt), Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung, Signatur Mus.ms.autogr. Weber, C. M. v., WFN 2 (2). Bildquelle: (https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1786144506){:blank}
+Carl Maria von Weber, Skizze zum Gebet des Hüon 'Ruler of this awful hour' aus _Oberon_, London, 10.04.1826 (Ausschnitt), Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung, Signatur Mus.ms.autogr. Weber, C. M. v., WFN 2 (2). [Bildquelle](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1786144506){:blank}
