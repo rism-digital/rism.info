@@ -72,6 +72,11 @@
       link: "/publications/iaml-congresses.html"
       items:
         - name:
+            en: "2026: Thessaloniki"
+            de: "2026: Thessaloniki"
+            fr: "2026: Thessaloniki"
+          link: "/publications/iaml-congresses/2026.html"
+        - name:
             en: "2025: Salzburg"
             de: "2025: Salzburg"
             fr: "2025: Salzburg"
@@ -81,11 +86,6 @@
             de: "2024: Stellenbosch"
             fr: "2024: Stellenbosch"
           link: "/publications/iaml-congresses/2024.html"
-        - name:
-            en: "2023: Cambridge"
-            de: "2023: Cambridge"
-            fr: "2023: Cambridge"
-          link: "/publications/iaml-congresses/2023.html"
         - name:
             en: All IAML congresses
             de: Alle IAML Konferenzen
