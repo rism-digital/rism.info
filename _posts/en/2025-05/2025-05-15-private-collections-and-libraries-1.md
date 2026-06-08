@@ -26,7 +26,7 @@ Our second example D-ESrheinfurth ([RISM Catalog](https://opac.rism.info/search?
 
 In a few weeks’ time, in the second part of this introduction to private libraries, we shall take a closer look at collections that have a long history of continuity or have found a safe haven in an institution relatively recently. In addition, the relocation of private households together with their collections will also be discussed.
 
-Part 2 of this text can be found [here](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}.
+Part 2 of this text can be found [here](/new_at_rism/2025/09/18/PrivateCollectionsPart2.html){:blank}, while Part 3 [here](https://rism.info/new-at-rism/2026/05/28/private-collections-and-libraries-3.html){:blank}.
 
 Image: Music prints from the private collection of Martin Bierwisch (with kind permission). 
 
