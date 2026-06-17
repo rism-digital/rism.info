@@ -1,3 +1,14 @@
+---
+layout: post
+title: 'Franz Liszts Donaueschingen Ländler'
+date: 2026-06-17
+lang: en
+post: true
+category: library_collections
+image: "/images/news/2026-06/Liszt-Ländler.jpg"
+email: ''
+author: ''
+---
 _This text was inspired by a more comprehensive blog post by Wolfgang Seibold: “1843: Liszt in Karlsruhe,” published on the [BLBlog](https://doi.org/10.58019/4s8s-c334) on 11 March 2026._
 
 In October 1843, after extensive concert tours in Switzerland, Italy, and especially France, the celebrated – though at times also demonized and caricatured – piano virtuoso and composer Franz Liszt embarked on a tour of southern Germany. His concerts were sold out, and the press effusively praised both his pianistic skills and the repertoire he played – mostly works by Liszt himself, although compositions by other composers, such as Ludwig van Beethoven or Carl Maria von Weber, were also performed.
