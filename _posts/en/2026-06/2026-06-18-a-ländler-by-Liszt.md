@@ -18,7 +18,7 @@ On 23 November 1843, Liszt arrived in Donaueschingen, a residential city located
 - Carl Maria von Weber, Aufforderung zum Tanze. Rondo Brillant in Des-Dur, op. 65 
 - Liszt, Fantaisie des motifs favoris de l’opéra La sonnambula (LW A56)
 - Liszt, Ständchen (“Leise flehen meine Lieder”), Nr. 7 from “Schwanengesang” (LW A49)
-- Liszt., Erlkönig, Nr. 4 of “Lieder von Schubert” (LW A42) 
+- Liszt, Erlkönig, Nr. 4 of “Lieder von Schubert” (LW A42) 
 - “pleasant waltz from Ems” (which cannot be identified with any certainty)
 
 On the side, the tenor Luigi Pantaleoni, who joined Liszt in his concerts several times, sang two Italian songs.
