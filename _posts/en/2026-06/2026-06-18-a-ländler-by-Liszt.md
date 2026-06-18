@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Franz Liszt's Donaueschingen Ländler'
+title: "Franz Liszt's Donaueschingen Ländler"
 date: 2026-06-17
 lang: en
 post: true
