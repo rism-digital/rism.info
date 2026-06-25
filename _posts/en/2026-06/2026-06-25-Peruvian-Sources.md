@@ -28,10 +28,12 @@ Images: Universidad Nacional de Música in Lima, Peru, and main entrance of the 
 
 ### La colección de José Bernardo Alzedo y otras fuentes peruanas ya están disponibles en el RISM
 
+{% include image file="/images/news/2026-06/Biblioteca_nacional_Peru.jpg" pos="left" %}
+
 José Bernardo Alzedo (1788–1878) fue un músico nacido en Lima, Perú. Comenzó su educación musical a temprana edad en el convento de San Agustín. Posteriormente estudió con fray Pascual Nieves en el convento dominico, donde conoció las obras de compositores clásicos como Mozart y Haydn. Compuso varias obras sacras en Lima antes de trasladarse a Chile, donde desarrolló la mayor parte de su carrera profesional como músico de catedral, maestro de capilla y compositor. También escribió tratados de teoría musical, así como diversas canciones patrióticas e himnos, entre ellos el Himno Nacional del Perú 
 (RISM ID No. 1001368991; [RISM Catalog](https://opac.rism.info/id/rismid/rism1001368991){:blank} \| [RISM Online](https://rism.online/sources/1001368991){:blank}) en 1821. La colección José Bernardo Alzedo se conserva actualmente en la Biblioteca Nacional del Perú.
 
-{% include image file="/images/news/2026-06/Biblioteca_nacional_Peru.jpg" pos="right" %}
+{% include "/images/news/2026-06/Universidad_Nacional_de_Música.jpg" pos="right" %}
 
 Desde finales de 2025, cerca de 30 fuentes peruanas han sido incorporadas a RISM desde dos instituciones: la Biblioteca de la Universidad Nacional de Música (Sigla de la Bibliotheca: PE-Lcnm; ([RISM Catalog](https://opac.rism.info/id/rismauthorities/rismks30080992){:blank} \| [RISM Online](https://rism.online/institutions/30080992){:blank}) y la Biblioteca Nacional del Perú  (Sigla de la Bibliotheca: PE-Lbnp) ([RISM Catalog](https://opac.rism.info/id/rismauthorities/rismks30080991){:blank} \| [RISM Online](https://rism.online/institutions/30080991){:blank}). 
 
