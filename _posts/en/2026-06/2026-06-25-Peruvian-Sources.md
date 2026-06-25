@@ -5,7 +5,7 @@ date: 2026-06-25
 lang: en
 post: true
 category: library_collections
-image: "/images/news/2026-06/Biblioteca _nacional_Peru.jpg"
+image: "/images/news/2026-06/Biblioteca_nacional_Peru.jpg"
 email: '2025000013@unm.edu.pe'
 author: 'Giancarlo Carreño Arce'
 ---
@@ -13,7 +13,7 @@ _We have received the following from Giancarlo Carreño Arce (Universidad Nacion
 
 José Bernardo Alzedo (1788–1878) was a musician born in Lima, Peru. He began his musical education at a young age at the convent of San Agustín. Later, he studied with Fray Pascual Nieves at the Dominican convent, where he became acquainted with the works of classical composers such as Mozart and Haydn. He composed several sacred works in Lima before moving to Chile, where he developed most of his professional career as a cathedral musician, choirmaster, and composer. He also wrote music theory treatises, several patriotic songs and hymns, including the National Anthem of Peru (RISM ID no. 1001368991; [RISM Catalog](https://opac.rism.info/id/rismid/rism1001368991){:blank} \| [RISM Online](https://rism.online/sources/1001368991){:blank}) in 1821. The José Bernardo Alzedo Collection is currently held by the Biblioteca Nacional del Perú.
 
-{% include image file="/images/news/2026-06/Universidad_Nacional_Música.jpg" pos="right" %}
+{% include image file="/images/news/2026-06/Universidad_Nacional_de_Música.jpg" pos="right" %}
 
 Since late 2025, nearly 30 Peruvian sources have been added to RISM from two institutions: the Library of the Universidad Nacional de Música (Library siglum: PE-Lcnm; [RISM Online](https://rism.online/institutions/30080992){:blank} \| [RISM Catalog](https://opac.rism.info/id/rismauthorities/rismks30080992){:blank}) and the Biblioteca Nacional del Perú (Library siglum: PE-Lbnp; [RISM Online](https://rism.online/institutions/30080991){:blank} \| [RISM Catalog](https://opac.rism.info/id/rismauthorities/rismks30080991){:blank}). Highlights from the Library of the Universidad Nacional de Música include the Ñaupajñejen Mass (RISM ID no. 1001369897; [RISM Catalog](https://opac.rism.info/id/rismid/rism1001369897){:blank} \| [RISM Online](https://rism.online/sources/1001369897){:blank}) by Ulises Lanao de la Haza (1913–1980), and two anonymous twentieth-century transcriptions of Hanacpachap cussicuinin (RISM ID no. 1001365628; [RISM Catalog](https://opac.rism.info/id/rismid/rism1001365628){:blank} \| [RISM Online](https://rism.online/sources/1001365628){:blank}), the first printed polyphonic work published in the Americas in the seventeenth century by Juan Pérez Bocanegra. Both works include lyrics in the Andean Quechua language. 
 
