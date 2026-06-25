@@ -36,7 +36,7 @@ permalink: /community/muscat/tutorials.html
 
 * [The Authority File for Personal Names: Using Wikidata](https://docs.google.com/document/d/16nR03yLfOlQjjWwb1hV68RCrdJ1srTvrKGESZnEksyM/edit?usp=sharing){:blank}
 
-* * [The Authority File for Personal Names: Core fields](https://docs.google.com/document/d/19zK9WlaeXPJzvxhzX6BR-DIRjnUhBwMyjrFH54y5iNc/edit?usp=sharing){:blank}   
+* [The Authority File for Personal Names: Core fields](https://docs.google.com/document/d/19zK9WlaeXPJzvxhzX6BR-DIRjnUhBwMyjrFH54y5iNc/edit?usp=sharing){:blank}   
 
 # Tutorials: Music manuscripts
 
