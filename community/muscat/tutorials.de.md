@@ -26,7 +26,8 @@ Hier finden Sie bereits einige Muscat Tutorials (alle auf englisch)! So werden S
 * Verweise auf Sekundärliteratur: [Kurzanleitung (PDF)](/resources-old-website/community-content/Muscat_EN/Secondary_lit_brief_guide.pdf)
 * [Musikincipits mittels Plaine & Easie-Code erstellen](https://youtu.be/-HplUb_L1QY){:blank}
 * [Die Normdatei für die Orte: Erste Hinweise (Frühling 2026)](https://docs.google.com/document/d/1knQPDsRrEh5WPZ85AEjA-SH-5HOvNK7qFTiSQvCa7Qk/edit?usp=sharing){:blank}
-* [Die Normdatei für die Personen: Umgang mit Wikidata](https://docs.google.com/document/d/16nR03yLfOlQjjWwb1hV68RCrdJ1srTvrKGESZnEksyM/edit?usp=sharing){:blank}  
+* [Die Normdatei für die Personen: Umgang mit Wikidata](https://docs.google.com/document/d/16nR03yLfOlQjjWwb1hV68RCrdJ1srTvrKGESZnEksyM/edit?usp=sharing){:blank}
+* [Die Normdatei für die Personen: Die wichtigsten Felder](https://docs.google.com/document/d/19zK9WlaeXPJzvxhzX6BR-DIRjnUhBwMyjrFH54y5iNc/edit?usp=sharing){:blank}   
 
 # Tutorials: Musikhandschriften
 
