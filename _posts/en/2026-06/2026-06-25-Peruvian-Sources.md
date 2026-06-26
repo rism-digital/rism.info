@@ -21,7 +21,7 @@ These sources are not only an important part of Peruvian cultural heritage, but 
 
 The process of incorporating Peruvian sources into RISM is still ongoing, and the current records are available to researchers around the world through [RISM Online](https://rism.online/search?nc=PE&mode=sources&page=1&rows=40){:blank} and the [RISM Catalog](https://opac.rism.info/rism/Search/Results?lookfor=PE-*&type=LibrarySiglum){:blank}. Digital copies of the Ñaupajñejen Mass and many other Peruvian manuscripts are accessible directly through the RISM records.
  
-Images: Universidad Nacional de Música in Lima, Peru, and main entrance of the Biblioteca Nacional del Perú. Photos by Giancarlo Carreño, c2026.
+Images: The Biblioteca Nacional del Perú, and the main entrance of the Universidad Nacional de Música in Lima, Peru. Photos by Giancarlo Carreño, c2026.
 
 
 ### La colección de José Bernardo Alzedo y otras fuentes peruanas ya están disponibles en el RISM
