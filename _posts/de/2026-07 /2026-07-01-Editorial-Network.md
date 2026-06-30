@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Das RISM Editorial Network stellt sich vor'
-date: 2026-06-30
+date: 2026-07-01
 lang: de
 post: true
 category: new_at_rism
