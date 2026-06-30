@@ -25,7 +25,7 @@ Es versteht sich von selbst, dass das oben Gesagte nicht mehr als einen sehr gro
  
 Diese beiden Erkenntnisse sollte man im Hinterkopf behalten, wenn das RISM nun erneut vor einem substantiellen Wandel steht. Zwar konnte die Förderung im Rahmen des _Akademienprogramms_ mehrfach verlängert werden, doch mit dem nahenden Ende der letzten Verlängerung stellt die Zentralredaktion – die seit mehr als einem halben Jahrhundert das Zentrum des RISM bildete – Ende Juni 2026 endgültig ihre Tätigkeit ein. Da ihre Aufgaben (Daten- und Normdatenpflege, Fortbildung, Kommunikation usw.) für das RISM weiterhin unerlässlich sind, aber nicht von einer einzelnen Institution vollständig übernommen werden können, haben sich einige langjährige Partner aus verschiedenen Teilen Deutschlands dazu entschlossen, ihre Kräfte zu bündeln und ein RISM Editorial Network zu gründen. Die Mitglieder dieses neuen Netzwerks sind (in alphabetischer Reihenfolge):
 
-- Akademie der Wissenschaften und der Literatur | Mainz
+- Akademie der Wissenschaften und der Literatur \| Mainz
 - Bayerische Staatsbibliothek, München
 - Johannes-Gutenberg-Universität Mainz
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden
