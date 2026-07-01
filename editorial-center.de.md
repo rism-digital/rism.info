@@ -7,7 +7,7 @@ permalink: /editorial-center.html
 
 # RISM Editorial Network
 
-Mit Wirkung zum 1. Juli 2026 wurde das bisherige RISM Zentralredaktion (Editorial Center) geschlossen, wobei ihre Aufgaben vom neu gegründeten [RISM Editorial Network](_posts/en/2026-07/2026-07-01-Editorial-Network.md) übernommen werden. Das Network besteht aus fünf Institutionen, die hier zusammen mit ihren RISM-Ansprechpartnern aufgeführt sind:
+Mit Wirkung zum 1. Juli 2026 wurde das bisherige RISM Zentralredaktion (Editorial Center) geschlossen, wobei ihre Aufgaben vom neu gegründeten [RISM Editorial Network](https://rism.info/de/new_at_rism/2026/07/01/Editorial-Network.html) übernommen werden. Das Network besteht aus fünf Institutionen, die hier zusammen mit ihren RISM-Ansprechpartnern aufgeführt sind:
 
 - Akademie der Wissenschaften und der Literatur \| Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
 - Bayerische Staatsbibliothek, München ([Dagmar Schnell](mailto:Dagmar.Schnell@bsb-muenchen.de){:target="_blank"} \| [Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de){:target="_blank"})
