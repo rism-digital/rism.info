@@ -5,6 +5,18 @@ lang: en
 permalink: /editorial-center.html
 ---
 
+# RISM Editorial Network
+
+As of 1 July 2026, the earlier RISM Editorial Center closed, and its duties have been taken over by the newly established RISM Editorial Network. The Network consists of five insitutions, listed here together with their RISM contact persons:
+
+- Akademie der Wissenschaften und der Literatur | Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
+- Bayerische Staatsbibliothek, München ([Dagmar Schnell](mailto:Dagmar.Schnell@bsb-muenchen.de){:target="_blank"} \| [Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de){:target="_blank"})
+- Johannes-Gutenberg-Universität Mainz ([Klaus Pietschmann](mailto:klaus.pietschmann@uni-mainz.de){:target="_blank"})
+- Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
+- Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ([musik@sbb.spk-berlin.de](mailto:musik@sbb.spk-berlin.de){:target="_blank"})
+
+Please note that a substantial revision of several sections of our website, to fully reflect this change, will take a few weeks -- thank you for your understanding!
+
 # RISM Editorial Center
 
 {% include image file="/images/editorial-center/building.jpg" pos="right" %}
