@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: 'Introducing the RISM Editorial Network'
 date: 2026-07-01
