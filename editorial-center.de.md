@@ -7,7 +7,7 @@ permalink: /editorial-center.html
 
 # RISM Editorial Network
 
-Mit Wirkung zum 1. Juli 2026 wurde das bisherige RISM Zentralredaktion (Editorial Center) geschlossen, wobei ihre Aufgaben vom neu gegründeten [RISM Editorial Network](https://rism.info/de/new_at_rism/2026/07/01/Editorial-Network.html) übernommen werden. Das Network besteht aus fünf Institutionen, die hier zusammen mit ihren RISM-Ansprechpartnern aufgeführt sind:
+Mit Wirkung zum 1. Juli 2026 wurde die bisherige RISM Zentralredaktion (Editorial Center) geschlossen, wobei ihre Aufgaben vom neu gegründeten [RISM Editorial Network](https://rism.info/de/new_at_rism/2026/07/01/Editorial-Network.html) übernommen werden. Das Network besteht aus fünf Institutionen, die hier zusammen mit ihren RISM-Ansprechpartnern aufgeführt sind:
 
 - Akademie der Wissenschaften und der Literatur \| Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
 - Bayerische Staatsbibliothek, München ([Dagmar Schnell](mailto:Dagmar.Schnell@bsb-muenchen.de){:target="_blank"} \| [Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de){:target="_blank"})
@@ -15,7 +15,7 @@ Mit Wirkung zum 1. Juli 2026 wurde das bisherige RISM Zentralredaktion (Editoria
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
 - Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ([musik@sbb.spk-berlin.de](mailto:musik@sbb.spk-berlin.de){:target="_blank"})
 
-Bitte beachten Sie, dass eine umfassende Überarbeitung mehrerer Bereiche unserer Website, um dieser Änderung vollständig Rechnung zu tragen, einige Wochen in Anspruch nehmen wird – vielen Dank für Ihr Verständnis!
+Um dieser Änderung vollständig Rechnung zu tragen, werden wir mehrere Bereiche unserer Website umfassend überarbeiten. Bitte beachten Sie, dass dieses einige Wochen in Anspruch nehmen wird. Vielen Dank für Ihr Verständnis!
 
 # RISM Zentralredaktion
 
