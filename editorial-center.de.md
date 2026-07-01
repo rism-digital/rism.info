@@ -15,7 +15,7 @@ Mit Wirkung zum 1. Juli 2026 wurde das bisherige RISM Zentralredaktion (Editoria
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
 - Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ([musik@sbb.spk-berlin.de](mailto:musik@sbb.spk-berlin.de){:target="_blank"})
 
-Bitte beachten Sie, dass eine umfassende Überarbeitung mehrerer Bereiche unserer Website, um dieser Änderung vollständig Rechnung zu tragen, einige Wochen in Anspruch nehmen wird – vielen Dank für Ihr Verständnis!
+Um dieser Änderung vollständig Rechnung zu tragen, werden wir mehrere Bereiche unserer Website umfassend überarbeiten. Bitte beachten Sie, dass dieses einige Wochen in Anspruch nehmen wird. Vielen Dank für Ihr Verständnis!
 
 # RISM Zentralredaktion
 
