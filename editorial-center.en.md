@@ -7,9 +7,9 @@ permalink: /editorial-center.html
 
 # RISM Editorial Network
 
-As of 1 July 2026, the earlier RISM Editorial Center closed, and its duties have been taken over by the newly established RISM Editorial Network. The Network consists of five insitutions, listed here together with their RISM contact persons:
+As of 1 July 2026, the earlier RISM Editorial Center (Zentralredaktion) closed, and its duties have been taken over by the newly established [RISM Editorial Network](_posts/en/2026-07/2026-07-01-Editorial-Network.md). The Network consists of five insitutions, listed here together with their RISM contact persons:
 
-- Akademie der Wissenschaften und der Literatur | Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
+- Akademie der Wissenschaften und der Literatur \| Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
 - Bayerische Staatsbibliothek, München ([Dagmar Schnell](mailto:Dagmar.Schnell@bsb-muenchen.de){:target="_blank"} \| [Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de){:target="_blank"})
 - Johannes-Gutenberg-Universität Mainz ([Klaus Pietschmann](mailto:klaus.pietschmann@uni-mainz.de){:target="_blank"})
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
