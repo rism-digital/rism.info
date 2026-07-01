@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: 'Introducing the RISM Editorial Network'
 date: 2026-07-01
@@ -24,11 +24,11 @@ Needless to say, all of the above is but a very rudimentary outline of RISM’s 
 (2) Cooperations – whether between musicologists and music librarians at RISM’s very foundation, or between the RISM Editorial Center and other like-minded partners in later years – have long helped RISM in crucial moments to reach goals that no institutional actor could have achieved alone.
 
 It is these two lessons that one has to keep in mind as RISM now yet again arrives at a point of substantial change. While the support under the auspices of the _Akademienprogramm_ could be prolonged several times, with the approaching end of the last extension, the Zentralredaktion – which has been the very heart of RISM for over half a century – closes its doors for good at the end of June 2026. Since the services of the outgoing Editorial Center (in the fields of data and authority curation, training, communication, and so forth) remain essential for RISM as a whole, but could not be taken over by any single institution, a few long-standing partners of the Zentralredaktion across Germany have decided to join forces and establish a RISM Editorial Network. The members of this new Network are (in alphabetical order):
-Akademie der Wissenschaften und der Literatur | Mainz
-Bayerische Staatsbibliothek, München
-Johannes-Gutenberg-Universität Mainz
-Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden
-Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
+- Akademie der Wissenschaften und der Literatur | Mainz
+- Bayerische Staatsbibliothek, München
+- Johannes-Gutenberg-Universität Mainz
+- Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden
+- Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
 
 By dividing up the diverse duties of the Editorial Center, these partners agreed to secure all editorial services needed by those cataloging musical sources in the RISM database also in the future. The exact details of which partner takes responsibility for which task, should be of little relevance for the greater public, but over the past months we did our best to prepare all co-workers for their new duties, and we certainly hope that the transition will present RISM’s old and new cataloging contributors with but minimal inconvenience.
 
