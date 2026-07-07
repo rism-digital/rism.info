@@ -1,7 +1,7 @@
 name: Jekyll build
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# Controls when the action will run. Triggers the workflow on pull requests
+# that target the staging branch
 on:
   pull_request:
     branches: [ staging ]
@@ -20,14 +20,9 @@ jobs:
       - name: Configure staging build
         run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
         if: endsWith(github.ref, '/staging')
-
-      # Use GitHub Actions' cache to shorten build times and decrease load on servers
-      - uses: actions/cache@v3
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-v2
-          restore-keys: |
-            ${{ runner.os }}-gems-v2
-
-      # Tune the jekyll action
-      - uses:  lemonarc/jekyll-action@1.0.0
+          ruby-version-file: .ruby-version
+          bundler-cache: true
+      - name: Build site
+        run: bundle exec jekyll build

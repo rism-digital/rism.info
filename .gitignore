@@ -4,3 +4,4 @@ _site
 .idea
 .jekyll-metadata
 .DS_Store
+vendor/bundle

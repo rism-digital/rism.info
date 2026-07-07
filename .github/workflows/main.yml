@@ -1,7 +1,7 @@
 name: Jekyll deployment
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the main branch
+# Controls when the action will run. Triggers the workflow on pushes
+# to the main and staging branches
 on:
   push:
     branches: [ main, staging ]
@@ -21,20 +21,15 @@ jobs:
         run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
         if: endsWith(github.ref, '/staging')
 
-      - name: Install packages
+      - name: Install WireGuard
         run: |
           sudo apt install wireguard
-
-      # Use GitHub Actions' cache to shorten build times and decrease load on servers
-      - uses: actions/cache@v3
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-v2
-          restore-keys: |
-            ${{ runner.os }}-gems-v2
-
-      # Tune the jekyll action
-      - uses:  lemonarc/jekyll-action@1.0.0
+          ruby-version-file: .ruby-version
+          bundler-cache: true
+      - name: Build site
+        run: bundle exec jekyll build
       
       # Build the lunr index with node
       - uses: actions/setup-node@v3
@@ -44,8 +39,7 @@ jobs:
           npm install lunr@2.3.9
           npm install lunr-languages
           node _site/assets/js/build_index.js _site/pages.json index.json
-          # looks like lemonarc/jekyll-action@1.0.0 runs as root...
-          sudo mv index.json ./_site/
+          mv index.json ./_site/
 
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
@@ -59,7 +53,7 @@ jobs:
           echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
 
-      - name: Install packages
+      - name: Write WireGuard config
         working-directory: ${{ github.workspace }}
         run: |
           sudo echo "${{ secrets.VPN_CONFIGURATION }}" > ./wg0.conf

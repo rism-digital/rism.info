@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby "3.3.11"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -7,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.4.1"
 
 gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
 # gem "rism-theme", path: '/Users/laurent/projects/rism-theme'
