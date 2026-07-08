@@ -74,7 +74,7 @@ Collectively, these publications reveal how printed publications became an impor
 And that is not all. Out of Gómez’s numerous sacred and secular compositions, we mention only two:
  
 _Pieza Histórica sobre la Independencia de La Nación Mexicana_  
-A programmatic work offering valuable insight into the role of music in the construction of national identity. Gómez transforms a political narrative into a series of 52 brief movements and a concluding hymn that represent Mexico’s struggles to become an independent nation. The only complete printed copy currently known survives as a set of four bound parts at the Real Biblioteca in Madrid, Spain. Particularly striking is the opening movement, which omits bar lines and employs a free piano texture to reflect the uncertainty and anticipation of its military protagonist. One open question is presented by the printing plate marked “C. H. ♮” – an abbreviation yet to be identified. 
+A programmatic work offering valuable insight into the role of music in the construction of national identity. Gómez transforms a political narrative into a series of 52 brief movements and a concluding hymn that represent Mexico’s struggles to become an independent nation. The only complete printed copy currently known survives as a set of four bound parts at the Real Biblioteca in Madrid, Spain. Particularly striking is the opening movement, which omits bar lines and employs a free piano texture to reflect the uncertainty and anticipation of its military protagonist. One open question is presented by the printing plate marked “C. H. ♮” – an abbreviation yet to be identified.  
  | 
 ![](/images/news/2026-07/Pieza_TITLE_PAGE.jpg) | ![](/images/news/2026-07/Pieza_FIRST_PAGE.jpg)  
 
