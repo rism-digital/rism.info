@@ -10,8 +10,11 @@ email: 'jlazos11@hotmail.com'
 author: 'John G. Lazos'
 ---
 
+&nbsp;
  
 Few musicians occupied as many roles in the musical life of 19th-century Mexico as José Antonio Gómez y Olguín (1805–1876). As composer, performer, pedagogue, editor, publisher, and cultural entrepreneur he belongs among the most influential figures of his time. The rediscovery and cataloging of Gómez’s surviving original sources have substantially expanded our understanding of an important period of Mexican musical culture, and have brought to light a repertoire that was largely unknown just a generation ago.
+
+&nbsp;
  
 We begin with a portrait published in 1840, showing a well-dressed musician. It appeared as an illustration to a comprehensive biography – written in the third person and meant to introduce Gómez to the musical public of the Mexican capital. The metal engraving (rather uncommon in the region around that time) reflects his high social standing. The portrait presumably offers a close likeness of the young musician, and the emphasis on the details of his face and his clothing reinforces his socioeconomic status. Gómez was only 35 at the time.
 
