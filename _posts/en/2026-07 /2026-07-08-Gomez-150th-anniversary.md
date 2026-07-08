@@ -13,8 +13,6 @@ author: 'John G. Lazos'
 &nbsp;
  
 Few musicians occupied as many roles in the musical life of 19th-century Mexico as José Antonio Gómez y Olguín (1805–1876). As composer, performer, pedagogue, editor, publisher, and cultural entrepreneur he belongs among the most influential figures of his time. The rediscovery and cataloging of Gómez’s surviving original sources have substantially expanded our understanding of an important period of Mexican musical culture, and have brought to light a repertoire that was largely unknown just a generation ago.
-
-&nbsp;
  
 We begin with a portrait published in 1840, showing a well-dressed musician. It appeared as an illustration to a comprehensive biography – written in the third person and meant to introduce Gómez to the musical public of the Mexican capital. The metal engraving (rather uncommon in the region around that time) reflects his high social standing. The portrait presumably offers a close likeness of the young musician, and the emphasis on the details of his face and his clothing reinforces his socioeconomic status. Gómez was only 35 at the time.
 
@@ -78,8 +76,9 @@ And that is not all. Out of Gómez’s numerous sacred and secular compositions,
 _Pieza Histórica sobre la Independencia de La Nación Mexicana_  
 A programmatic work offering valuable insight into the role of music in the construction of national identity. Gómez transforms a political narrative into a series of 52 brief movements and a concluding hymn that represent Mexico’s struggles to become an independent nation. The only complete printed copy currently known survives as a set of four bound parts at the Real Biblioteca in Madrid, Spain. Particularly striking is the opening movement, which omits bar lines and employs a free piano texture to reflect the uncertainty and anticipation of its military protagonist. One open question is presented by the printing plate marked “C. H. ♮” – an abbreviation yet to be identified. 
 
-| | |
-| ![](/images/news/2026-07/Pieza_TITLE_PAGE.jpg) | ![](/images/news/2026-07/Pieza_FIRST_PAGE.jpg) |  
+ | 
+![](/images/news/2026-07/Pieza_TITLE_PAGE.jpg) | ![](/images/news/2026-07/Pieza_FIRST_PAGE.jpg)  
+
 <small>Title page and the first page with music from the piano part of _Pieza Histórica_ by Gómez y Olguín. Courtesy Real Biblioteca del Palacio ([E-Mp](https://rism.online/institutions/30001387)), shelfmark [MUS/978]( https://realbiblioteca.patrimonionacional.es/cgi-bin/koha/opac-detail.pl?biblionumber=81210&query_desc=DIG%2FMUS%2F978_B).</small>
 
 
