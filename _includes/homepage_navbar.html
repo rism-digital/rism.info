@@ -3,7 +3,7 @@
 
 <div style="flex-direction: column; display: flex;">
     {% for item in tiles %}
-    <div class="sidenavbar">
+    <div class="sidenavbar is-primary">
         <a href="{{ item.link }}" class="navbar-item is-expanded" {% if item.blank %}target="_blank"{% endif %}>{{ item.name[site.active_lang] }}</a>
     </div>
     {% endfor %}
