@@ -16,9 +16,10 @@ Nur wenige Musiker prägten im 19. Jahrhundert das Musikleben Mexikos auf so vie
 
 Wir beginnen mit einem im Jahr 1840 veröffentlichten Porträt, das einen gut gekleideten Musiker zeigt. Es erschien als Illustration zu einer umfassenden Biografie – verfasst in der dritten Person und dazu gedacht, Gómez dem Musikpublikum der mexikanischen Hauptstadt vorzustellen. Der Stahlstich (in dieser Region zu dieser eher ungewöhnlich) spiegelt seinen hohen sozialen Status wider. Das Porträt zeigt vermutlich eine große Ähnlichkeit mit der Erscheinung des jungen Musikers, und die Betonung der Details seines Gesichts und seiner Kleidung unterstreicht seinen sozioökonomischen Status. Gómez war zu diesem Zeitpunkt erst 35 Jahre alt.
 
-[{% include image file="/images/news/2026-07/Gomez_Portrait_1840.jpg" %}]
+{% include image file="/images/news/2026-07/Gomez_Portrait_1840.jpg" %}
 <small>Porträt von José Antonio Gómez, veröffentlicht in Mariano Galváns _Calendario de las señoritas megicanas para el año bisiesto de 1840_ (Mexiko: Librería del Editor, 1840), Exemplar der Universidad Autónoma de Nuevo León, Signatur AY19. C3 1840 [online verfügbar](http://cdigital.dgb.uanl.mx/la/1080023262/1080023262.html).</small>
- 
+
+
 Gómez wurde 1805 in Mexiko-Stadt geboren. Schon in jungen Jahren erhielt er bei seinem Vater Musikunterricht. Bekannt als _el niño Gómez_ („der kleine Gómez“), erlangte er sowohl für sein Klavierspiel als auch für seine Stimme Anerkennung; insbesondere als Sänger wurde er in verschiedenen Kirchen engagiert. Bereits im Alter von 10 Jahren komponierte Gómez und erregte damit die Aufmerksamkeit verschiedener Zeitgenossen, die sein früh entwickeltes musikalisches Talent lobten.
 
 Eine wegweisende Erfahrung war Gómez’ Begegnung mit dem berühmten spanischen Tenor Manuel García, der die Rolle des Almaviva in Rossinis Oper _Il Barbiere di Siviglia_ inspiriert hatte. Sein Aufenthalt in Mexiko-Stadt brachte den jungen Gómez, der damals Anfang 20 war, mit Berufsmusikern und Aufführungspraktiken in Berührung, die seine spätere Karriere beeinflussen sollten.
