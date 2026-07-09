@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "3.3.11"
+ruby "4.0.5"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -21,10 +21,10 @@ group :jekyll_plugins do
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
   gem "jekyll-redirect-from"
-  
+
   gem "rism-md", git: 'https://github.com/rism-digital/rism-md'
   #gem "rism-md", path: '/Users/laurent/projects/rism-md'
-  
+
   gem "rism-website-indexer", git: 'https://github.com/rism-digital/rism-website-indexer', branch: :main
   #gem "rism-website-indexer", path: '/Users/laurent/projects/rism-website-indexer'
 end
