@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zum 150. Geburtstag eines der produktivsten Musiker Mexikos'
+title: 'Zum 150. Todestag eines der produktivsten Musiker Mexikos'
 date: 2026-07-09
 lang: de
 post: true
@@ -10,9 +10,10 @@ email: 'jlazos11@hotmail.com'
 author: 'John G. Lazos'
 ---
 
-&nbsp;
-
 Nur wenige Musiker prägten im 19. Jahrhundert das Musikleben Mexikos auf so vielfältige Weise wie José Antonio Gómez y Olguín (1805–1876). Als Komponist, Interpret, Pädagoge, Herausgeber, Verleger und Kulturunternehmer zählt er zu den einflussreichsten Persönlichkeiten seiner Zeit. Die Wiederentdeckung und Katalogisierung der erhaltenen Original-Quellen von Gómez hat unser Verständnis über eine wichtige Epoche der mexikanischen Musikkultur erheblich erweitert und ein Repertoire ans Licht gebracht, das noch vor einer Generation weitgehend unbekannt war.
+
+&nsp;
+
 
 Wir beginnen mit einem im Jahr 1840 veröffentlichten Porträt, das einen gut gekleideten Musiker zeigt. Es erschien als Illustration zu einer umfassenden Biografie – verfasst in der dritten Person und dazu gedacht, Gómez dem Musikpublikum der mexikanischen Hauptstadt vorzustellen. Der Stahlstich (in dieser Region zu dieser eher ungewöhnlich) spiegelt seinen hohen sozialen Status wider. Das Porträt zeigt vermutlich eine große Ähnlichkeit mit der Erscheinung des jungen Musikers, und die Betonung der Details seines Gesichts und seiner Kleidung unterstreicht seinen sozioökonomischen Status. Gómez war zu diesem Zeitpunkt erst 35 Jahre alt.
 
