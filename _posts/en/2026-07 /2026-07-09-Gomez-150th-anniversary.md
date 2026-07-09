@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'For the 150th anniversary of one of Mexico’s most prolific musicians'
-date: 2026-07-08
+date: 2026-07-09
 lang: en
 post: true
 category: musical_anniversaries
