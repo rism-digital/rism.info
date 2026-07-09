@@ -10,10 +10,11 @@ Install `rbenv` and `ruby-build`, then install the pinned Ruby:
 
 ```bash
 brew install rbenv ruby-build
-rbenv install 3.3.11
-rbenv local 3.3.11
+rbenv install 4.0.5
+rbenv local 4.0.5
 gem install bundler
 bundle install
+bundle exec jekyll build
 ```
 
 If your shell does not already initialize `rbenv`, add the init command shown by `rbenv init`.
@@ -23,10 +24,11 @@ If your shell does not already initialize `rbenv`, add the init command shown by
 If you already use RVM, create a project Ruby and gemset with the same version:
 
 ```bash
-rvm install 3.3.11
-rvm use 3.3.11@rism-info --create
+rvm install 4.0.5
+rvm use 4.0.5@rism-info --create
 gem install bundler
 bundle install
+bundle exec jekyll build
 ```
 
 ## Dependency maintenance
@@ -61,6 +63,8 @@ bundle update jekyll jekyll-feed
 Before pushing dependency updates:
 
 ```bash
+gem install bundler
+bundle install
 bundle exec jekyll build
 ```
 
