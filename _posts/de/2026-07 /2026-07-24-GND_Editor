@@ -7,23 +7,21 @@ post: true
 category: new_at_rism
 image: "/images/news-old-website/csm_Logo_10_a8cee15968.jpg"
 email: 'Alexander.Faschon@slub-dresden.de'
-author: 'Alexander Faschon', 'Desiree Mayer'
+author: 'Alexander Faschon' und 'Desiree Mayer'
 ---
-Der GND-Editor und die Werkebene in RISM
+**Der GND-Editor und die Werkebene in RISM**
 Seit Anfang 2026 ist eine neue Komponente in Muscat fertiggestellt: Der GND-Editor zum Erstellen von GND-Werknormsätzen. Hervorgegangen aus einer Kooperation zwischen dem RISM Digital Center, der Deutschen Nationalbibliothek und dem Konsortium NFDI4Culture, markiert der Editor für RISM eine wichtige Station auf dem Weg der Normdatenanbindung. Das neue Tool erlaubt das Anlegen von GND (Gemeinsame Normdatei) -Normsätzen zu Werken der Musik aus Muscat heraus. Die folgenden Ausführungen skizzieren die technischen Eigenschaften des GND-Editors und ordnen ihn in die aktuellen RISM-Aktivitäten rund um die Werkebene ein. 
 
 
-Layout und Workflow
+**Layout und Workflow**
 <Screenshot_Layout_GND_Editor.png>
 Der GND-Editor ist vollständig in Muscat eingebettet – das Layout der Datenmaske ist bekannt, so gestaltet sich der Zugang für Muscat-Erfahrene niedrigschwellig und nutzerfreundlich. Die Datenstruktur entspricht derjenigen eines GND-Werknormsatzes; zu jedem einzelnen Feld existieren daher ausführliche Hilfetexte. Der Schreibzugriff beschränkt sich auf Werke der Musik, Personen oder weitere Entitäten in der GND können mit diesem Tool nicht erstellt werden. Das Bearbeiten von bestehenden Datensätzen ist aus redaktionellen und qualitativen Gründen lediglich eingeschränkt möglich. Zur Absicherung der erforderlichen Datenqualität ist eine Einweisung in die Arbeit mit dem Editor zu absolvieren, die das Team von NFDI4Culture/SLUB Dresden (Desiree Mayer und Alexander Faschon) anbietet.
 
-
 Voraussetzung für das Anlegen eines Werknormsatzes via GND-Editor ist, dass das Werk noch nicht als Werknormsatz in der GND existiert. Ein eingegebener Datensatz wird beim Abspeichern direkt in der GND gesichert. Bei unvollständig oder nicht regelkonform befüllten Datenmasken verhindert eine Warnmeldung das Abspeichern. Erst nach Korrektur kann der Werknormsatz gespeichert werden. Nach erfolgreichem Speichern erhält der Datensatz sofort eine GND-ID, die Katalogisierende in Muscat wiederum als Worknode (s. u.) nachnutzen können.
-
 
 Mit diesem singulären Zugriff auf die GND ist Wichtiges für die deutschsprachige musikwissenschaftliche Community erreicht. Zugleich ist der GND-Editor ein Element der neu geschaffenen Werkebene in RISM: Diese umfasst neben dem Editor auch Worknodes, Werktitel und die Möglichkeit, Werkverzeichnisse über Muscat anzulegen.
 
-Worknodes
+**Worknodes**
 <Screenshot_Worknode_1336.png>
 Ein Worknode ist ein Datensatz für ein musikalisches Werk in Muscat, der als Knotenpunkt für die zu diesem Werk gehörenden Quellen dient.
 
@@ -33,7 +31,7 @@ Jeder Worknode repräsentiert den GND-Werknormsatz der betreffenden Komposition 
 
 Funktion eines Worknodes ist die Zusammenführung von RISM-Quellen, die das gleiche Werk repräsentieren, unter einem Identifikator. Zu einem Werk gehörende Quellen können über das Feld 913 in Muscat direkt an den Worknode angeschlossen werden. Quellen, die mit der Werkebene verknüpft sind, können über RISM Online durch die Eingabe der GND-ID via „Create a query“ abgefragt werden. Das Suchergebnis listet alle zusammengehörigen Quellen auf.
 
-Werktitel
+**Werktitel**
 <Screenshot_Work_Mendelssohn_Paulus.png>
 Das andere Werknormdatenmodul, „Werktitel“, basiert auf Werkverzeichniseinträgen in den Quellendatensätzen von RISM. Genau wie Worknodes dienen auch die Werktitel dazu, Quellen zu einem Werk zu bündeln. Sie gehen aber in ihrem Informationsgehalt über Worknodes hinaus. So beinhalten sie beispielsweise Incipits zur Disambiguierung sowie umfassende Werkinformationen und bilden die wissenschaftlich erarbeiteten Strukturen der jeweiligen Werkkataloge ab. Ein erheblicher Teil der Werktitel wurde automatisch aus den entsprechenden Quelldatensätzen generiert, bevor sie manuell überprüft und bearbeitet wurden.
 
