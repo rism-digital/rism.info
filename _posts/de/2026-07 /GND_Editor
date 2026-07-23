@@ -1,0 +1,63 @@
+Der GND-Editor und die Werkebene in RISM
+Seit Anfang 2026 ist eine neue Komponente in Muscat fertiggestellt: Der GND-Editor zum Erstellen von GND-Werknormsätzen. Hervorgegangen aus einer Kooperation zwischen dem RISM Digital Center, der Deutschen Nationalbibliothek und dem Konsortium NFDI4Culture, markiert der Editor für RISM eine wichtige Station auf dem Weg der Normdatenanbindung. Das neue Tool erlaubt das Anlegen von GND (Gemeinsame Normdatei) -Normsätzen zu Werken der Musik aus Muscat heraus. Die folgenden Ausführungen skizzieren die technischen Eigenschaften des GND-Editors und ordnen ihn in die aktuellen RISM-Aktivitäten rund um die Werkebene ein. 
+ 
+ 
+Layout und Workflow
+<Screenshot_Layout_GND_Editor.png>
+Der GND-Editor ist vollständig in Muscat eingebettet – das Layout der Datenmaske ist bekannt, so gestaltet sich der Zugang für Muscat-Erfahrene niedrigschwellig und nutzerfreundlich. Die Datenstruktur entspricht derjenigen eines GND-Werknormsatzes; zu jedem einzelnen Feld existieren daher ausführliche Hilfetexte. Der Schreibzugriff beschränkt sich auf Werke der Musik, Personen oder weitere Entitäten in der GND können mit diesem Tool nicht erstellt werden. Das Bearbeiten von bestehenden Datensätzen ist aus redaktionellen und qualitativen Gründen lediglich eingeschränkt möglich. Zur Absicherung der erforderlichen Datenqualität ist eine Einweisung in die Arbeit mit dem Editor zu absolvieren, die das Team von NFDI4Culture/SLUB Dresden (Desiree Mayer und Alexander Faschon) anbietet.
+ 
+ 
+Voraussetzung für das Anlegen eines Werknormsatzes via GND-Editor ist, dass das Werk noch nicht als Werknormsatz in der GND existiert. Ein eingegebener Datensatz wird beim Abspeichern direkt in der GND gesichert. Bei unvollständig oder nicht regelkonform befüllten Datenmasken verhindert eine Warnmeldung das Abspeichern. Erst nach Korrektur kann der Werknormsatz gespeichert werden. Nach erfolgreichem Speichern erhält der Datensatz sofort eine GND-ID, die Katalogisierende in Muscat wiederum als Worknode (s. u.) nachnutzen können.
+ 
+ 
+Mit diesem singulären Zugriff auf die GND ist Wichtiges für die deutschsprachige musikwissenschaftliche Community erreicht. Zugleich ist der GND-Editor ein Element der neu geschaffenen Werkebene in RISM: Diese umfasst neben dem Editor auch Worknodes, Werktitel und die Möglichkeit, Werkverzeichnisse über Muscat anzulegen.
+ 
+Worknodes
+<Screenshot_Worknode_1336.png>
+Ein Worknode ist ein Datensatz für ein musikalisches Werk in Muscat, der als Knotenpunkt für die zu diesem Werk gehörenden Quellen dient.
+ 
+Voraussetzung für die Erstellung eines Worknodes ist ein entsprechender Werknormsatz in einer Normdatei, dessen ID der Worknode als externe Referenz mit sich führt (nicht zu verwechseln mit der Muscat-internen Worknode-ID). Allen bisher bestehenden Worknodes liegen Datensätze der GND zugrunde.
+ 
+Jeder Worknode repräsentiert den GND-Werknormsatz der betreffenden Komposition in basaler Form: Werktitel (ggf. Untertitel bzw. Teiltitel), Name und Lebensdaten des Komponisten. Diese werkbezogenen Daten werden bei der Generierung eines Worknodes mittels einer in Muscat implementierten Suchfunktion automatisch aus der GND übernommen.
+ 
+Funktion eines Worknodes ist die Zusammenführung von RISM-Quellen, die das gleiche Werk repräsentieren, unter einem Identifikator. Zu einem Werk gehörende Quellen können über das Feld 913 in Muscat direkt an den Worknode angeschlossen werden. Quellen, die mit der Werkebene verknüpft sind, können über RISM Online durch die Eingabe der GND-ID via „Create a query“ abgefragt werden. Das Suchergebnis listet alle zusammengehörigen Quellen auf.
+ 
+Werktitel
+<Screenshot_Work_Mendelssohn_Paulus.png>
+Das andere Werknormdatenmodul, „Werktitel“, basiert auf Werkverzeichniseinträgen in den Quellendatensätzen von RISM. Genau wie Worknodes dienen auch die Werktitel dazu, Quellen zu einem Werk zu bündeln. Sie gehen aber in ihrem Informationsgehalt über Worknodes hinaus. So beinhalten sie beispielsweise Incipits zur Disambiguierung sowie umfassende Werkinformationen und bilden die wissenschaftlich erarbeiteten Strukturen der jeweiligen Werkkataloge ab. Ein erheblicher Teil der Werktitel wurde automatisch aus den entsprechenden Quelldatensätzen generiert, bevor sie manuell überprüft und bearbeitet wurden.
+ 
+Während die Werktitel jenes kanonisierte Repertoire repräsentieren, das sich in vorhandenen Werkverzeichnissen niederschlägt, stellen Worknodes die Möglichkeit dar, Knotenpunkte auch für Werke zu schaffen, die weder über einen großen Bekanntheitsgrad noch über einen Eintrag in einem Werkverzeichnis verfügen. Werktitel sollen den Nutzenden als Referenz-IDs auch zur externen Nutzung zur Verfügung sehen; Worknodes hingegen sind von außen nur über die GND-ID referenzierbar.
+ 
+Mit der Implementierung der Werkebene verbessert sich die Auswertbarkeit und Anschlussfähigkeit von RISM-Daten erheblich: Über die mitgeführten GND-IDs ist RISM mithin auch anschlussfähig an andere Datenhubs wie etwa das Repositorium musiconn.performance, das ebenfalls GND-Werk-IDs mitführt. Auch für die Suche in übergeordneten Systemen – wie dem NFDI4Culture-Knowledge Graphen oder anderen internationalen LOD-Initiativen – ist eine Normdaten-ID essentiell, da Informationen zu Werken damit gebündelt werden.
+ 
+Durch die Werkebene erhöht sich das musikwissenschaftliche Forschungspotential signifikant, so zum Beispiel in den Bereichen der Netzwerk-, Transfer- oder Rezeptionsstudien. RISM entwickelt sich also weiter: vom bibliothekarischen Nachweissystem für Quellen zum Datenhub.
+ 
+ 
+ENGLISH
+ 
+The GND Editor and the Work Level in RISM
+Since early 2026, RISM’s cataloging software Muscat has offered a new feature: the GND Editor for creating work records in the German National Authority File. The result of a collaboration between the RISM Digital Center, the German National Library, and the NFDI4Culture consortium, the editor marks an important milestone for RISM on the path to integrating external authority data. The new tool allows users to create GND (Gemeinsame Normdatei) authority records for musical works directly from Muscat. The following sections outline the technical details of the GND Editor and situate it in the context of RISM’s current activities related to the work level. 
+ 
+Layout and Workflow
+<Screenshot_Layout_GND_Editor.png>
+The GND Editor is fully integrated into Muscat: the layout of the data entry form looks familiar to experienced Muscat catalogers, allowing for easy use. On the other hand, the data structure corresponds to that of a GND work authority record; therefore, detailed help texts are available for each individual field. Write access is limited to musical works: persons or other entities of the GND cannot be created using this tool. For editorial and quality reasons, the editing of already existing records is only possible to a limited extent. To ensure the required data quality, users willing to use the new tool must first complete a training session introducing them to the editor, which is offered by the NFDI4Culture/SLUB Dresden team (Desiree Mayer and Alexander Faschon).
+ 
+A prerequisite for creating a work authority record via the GND Editor is that the work does not already exist as a record in the GND. Once the data have been entered, the record is saved directly to the GND. If data fields are incomplete or do not comply with the rules, saving is not possible and a warning appears. Only after the correction of the error does the system allow for the saving of the work authority record. Upon successful saving, the record immediately receives a GND ID, which the cataloger can in turn reuse as a work node in Muscat (see below).
+ 
+Such direct access to the GND is a unique feature and is of great relevance for the German-speaking musicological community. At the same time, the GND Editor is an important contribution to the newly created work level in RISM, which includes work nodes, works, and the potential to create [catalog of works](https://rism.info/rism_digital_center/2026/04/30/two-born-digital-thematic-catalogs.html) via Muscat.
+ 
+Work nodes
+<Screenshot_Worknode_1336.png>
+A work node is a record for a musical work in Muscat that serves as a hub for the sources associated with that work. A prerequisite for creating a work node is a corresponding work authority record in an external authority system (for all of the currently existing work nodes: in the GND), whose ID the work node carries as an external reference. Each work node represents the GND authority record for the musical composition in question in its basic form: work title (including subtitle or movement titles, if applicable), and the composer’s name accompanied by the dates of birth and death. This data is automatically retrieved from the GND when a work node is generated using a search function implemented in Muscat.
+ 
+The function of a work node is to group under a single identifier all the RISM sources that represent the same work. Sources belonging to a work can be linked directly to the work node in Muscat using field 913. Sources linked to the work level can be queried via [RISM Online](https://rism.online) by entering the GND ID through the “create a query” feature. The search results list all related sources.
+ 
+Works
+<Screenshot_Work_Mendelssohn_Paulus.png>
+The other type of representation for works is based on work catalog entries in RISM’s source records. Just like work nodes, work records serve to group sources related to a particular work. However, they contain more information than work nodes. For example, they include music incipits for disambiguation, as well as comprehensive work information, and reflect the scholarly principles used for the structuring of the oeuvre in the respective catalog of works. A significant amount of the work records has been generated automatically from the corresponding source records before being checked and edited by hand.
+ 
+While work records represent the canonical repertoire as reflected in existing thematic catalogs, work nodes offer the possibility to create nodes also for compositions that are neither widely known nor listed in a catalog of works. Work records are made available to users with RISM reference IDs for external use as well; work nodes, on the other hand, can only be referenced externally via the GND ID they include.
+ 
+The implementation of the work level offers significant new opportunities for the analysis of RISM data, while also improving its interoperability: thanks to the inclusion of GND IDs, RISM becomes interoperable with other data hubs, such as the [musiconn.performance](https://performance.musiconn.de) repository, which also makes use of GND work authority IDs. An authority data ID is also essential for searching in higher-level systems – for example, the [NFDI4Culture Knowledge Graph](https://nfdi4culture.de/services/details/culture-knowledge-graph.html) or other international LOD initiatives – as it allows information about works to be aggregated.
+ 
+Overall, the work level significantly increases the data set’s potential for musicological research, among others in the fields of network, transfer, or reception studies. RISM thus keeps evolving: from a library reference system for sources toward a data hub.
