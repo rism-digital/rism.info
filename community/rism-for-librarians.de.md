@@ -17,7 +17,7 @@ RISM arbeitet seit den Anfängen des Projekts eng mit Bibliothekarinnen und Bibl
 
 Von vergangenen [IAML Kongressen](/publications.html){:target="_blank"} stehen Präsentationen zur Nutzung des RISM (auch auf der [IAML Website](http://www.iaml.info/r-projects)) zur Verfügung.
 
-**Live Demonstration**: Ein Mitglied der RISM-Zentralredaktion kann eine kostenlose, webbasierte Demonstration zu verschiedenen Themen im Zusammenhang mit RISM in englischer oder deutscher Sprache durchführen. Dies ist eine ideale Möglichkeit für Bibliothekare, Dozenten oder Studenten, sich mit RISM vertraut zu machen und zu lernen, wie die Publikationen des RISM für die Forschung genutzt werden können. [Kontaktieren](mailto:contact@rism.info) Sie uns, um eine Demonstration zu vereinbaren. Mögliche Themen sind unter anderem:
+**Live Demonstration**: Ein Mitglied des RISM Editorial Network kann eine kostenlose, webbasierte Demonstration zu verschiedenen Themen im Zusammenhang mit RISM in englischer oder deutscher Sprache durchführen. Dies ist eine ideale Möglichkeit für Bibliothekare, Dozenten oder Studenten, sich mit RISM vertraut zu machen und zu lernen, wie die Publikationen des RISM für die Forschung genutzt werden können. [Kontaktieren](mailto:contact@rism.info) Sie uns, um eine Demonstration zu vereinbaren. Mögliche Themen sind unter anderem:
 
 * Ein Überblick über das RISM-Projekt
 * Tutorial zum [RISM Catalog](https://opac.rism.info/){:target="_blank"} und [RISM Online](https://rism.online/){:blank} (Manuskripte und gedruckte Noten)

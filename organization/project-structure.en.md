@@ -1,4 +1,4 @@
----
+rk---
 title: "Project Structure"
 layout: organization
 lang: en
@@ -7,7 +7,7 @@ permalink: /organization/project-structure.html
 
 # Project Structure
 
-In more than 35 countries around the world, one or more national RISM [working groups](/working-groups.html) participate in this project. In total, about 100 people describe the musical sources housed in their countries and transmit the results to the RISM Editorial Center in Frankfurt, which then edits and publishes the entries within the corresponding series. The technical infrastructure for the cataloguing is maintained by the RISM Digital Center in Bern.
+In more than 35 countries around the world, one or more national RISM [working groups](/working-groups.html) participate in this project. In total, about 100 people describe the musical sources housed in their countries and transmit the results to the RISM Editorial Network, which then edits and publishes the entries within the corresponding series. The technical infrastructure for the cataloguing is maintained by the RISM Digital Center in Bern.
 
 RISM is recognized within the music world as the central place for the documentation of music primary sources. The RISM publications are divided into the following series:
 
