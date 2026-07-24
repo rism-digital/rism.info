@@ -5,7 +5,7 @@ date: 2026-07-24
 lang: en
 post: true
 category: new_at_rism
-image: "/images/news/2026-07/combined_logos_klein.jpg"
+image: "/images/news/2026-07/logos_untereinander.jpg"
 email: 'Alexander.Faschon@slub-dresden.de'
 author: 'Alexander Faschon' and 'Desiree Mayer'
 ---
@@ -31,7 +31,7 @@ The function of a work node is to group under a single identifier all the RISM s
  
 **Works**
 
-{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.png" pos="right" %}
+{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.jpg" pos="right" %}
 
 The other type of representation for works is based on work catalog entries in RISM’s source records. Just like work nodes, work records serve to group sources related to a particular work. However, they contain more information than work nodes. For example, they include music incipits for disambiguation, as well as comprehensive work information, and reflect the scholarly principles used for the structuring of the oeuvre in the respective catalog of works. A significant amount of the work records has been generated automatically from the corresponding source records before being checked and edited by hand.
  
