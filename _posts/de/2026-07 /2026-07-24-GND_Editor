@@ -13,7 +13,7 @@ Seit Anfang 2026 ist eine neue Komponente in Muscat fertiggestellt: Der GND-Edit
 
 **Layout und Workflow**
 
-{% include image file="/images/news/2026-07/Screenshot_Layout_GND_Editor.jpg" pos="right" %} 
+{% include image file="/images/news/2026-07/Screenshot_Layout_GND_Editor.jpg" } 
 
 Der GND-Editor ist vollständig in Muscat eingebettet – das Layout der Datenmaske ist bekannt, so gestaltet sich der Zugang für Muscat-Erfahrene niedrigschwellig und nutzerfreundlich. Die Datenstruktur entspricht derjenigen eines GND-Werknormsatzes; zu jedem einzelnen Feld existieren daher ausführliche Hilfetexte. Der Schreibzugriff beschränkt sich auf Werke der Musik, Personen oder weitere Entitäten in der GND können mit diesem Tool nicht erstellt werden. Das Bearbeiten von bestehenden Datensätzen ist aus redaktionellen und qualitativen Gründen lediglich eingeschränkt möglich. Zur Absicherung der erforderlichen Datenqualität ist eine Einweisung in die Arbeit mit dem Editor zu absolvieren, die das Team von NFDI4Culture/SLUB Dresden (Desiree Mayer und Alexander Faschon) anbietet.
 
@@ -23,7 +23,7 @@ Mit diesem singulären Zugriff auf die GND ist Wichtiges für die deutschsprachi
 
 **Worknodes**
 
-{% include image file="/images/news/2026-07/Screenshot_Worknode_1336.jpg" pos="right" %} 
+{% include image file="/images/news/2026-07/Screenshot_Worknode_1336.jpg" %} 
 
 Ein Worknode ist ein Datensatz für ein musikalisches Werk in Muscat, der als Knotenpunkt für die zu diesem Werk gehörenden Quellen dient.
 
@@ -35,7 +35,7 @@ Funktion eines Worknodes ist die Zusammenführung von RISM-Quellen, die das glei
 
 **Werktitel**
 
-{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.jpg" pos="right" %}
+{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.jpg" %}
 
 Das andere Werknormdatenmodul, "Werktitel", basiert auf Werkverzeichniseinträgen in den Quellendatensätzen von RISM. Genau wie Worknodes dienen auch die Werktitel dazu, Quellen zu einem Werk zu bündeln. Sie gehen aber in ihrem Informationsgehalt über Worknodes hinaus. So beinhalten sie beispielsweise Incipits zur Disambiguierung sowie umfassende Werkinformationen und bilden die wissenschaftlich erarbeiteten Strukturen der jeweiligen Werkkataloge ab. Ein erheblicher Teil der Werktitel wurde automatisch aus den entsprechenden Quelldatensätzen generiert, bevor sie manuell überprüft und bearbeitet wurden.
 
