@@ -4,11 +4,13 @@ title: 'Der GND-Editor und die Werkebene in RISM'
 date: 2026-07-24
 lang: de
 post: true
-category: new_at_rism
+category: electronic_resources
 image: "/images/news/2026-07/logos_untereinander.jpg"
 email: 'Alexander.Faschon@slub-dresden.de'
 author: 'Alexander Faschon und Desiree Mayer'
 ---
+_Den folgenden Beitrag stellten uns freundlicherweise Alexander Faschon und Desiree Mayer zur Verfügung. Beide sind angestellt bei der Sächsischen Landesbibliothek - Staats- und Universitätsbibliothek Dresden (SLUB), wo sie die musikwissenschaftlichen Projekte innerhalb des NFDI4Culture-Konsortiums betreuen._ 
+
 Seit Anfang 2026 ist eine neue Komponente in Muscat fertiggestellt: Der GND-Editor zum Erstellen von GND-Werknormsätzen. Hervorgegangen aus einer Kooperation zwischen dem RISM Digital Center, der Deutschen Nationalbibliothek und dem Konsortium [NFDI4Culture](https://nfdi4culture.de/de/index.html){:blank}, markiert der Editor für RISM eine wichtige Station auf dem Weg der Normdatenanbindung. Das neue Tool erlaubt das Anlegen von GND (Gemeinsame Normdatei) -Normsätzen zu Werken der Musik aus Muscat heraus. Die folgenden Ausführungen skizzieren die technischen Eigenschaften des GND-Editors und ordnen ihn in die aktuellen RISM-Aktivitäten rund um die Werkebene ein. 
 
 **Layout und Workflow**
