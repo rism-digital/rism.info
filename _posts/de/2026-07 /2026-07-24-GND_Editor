@@ -5,7 +5,7 @@ date: 2026-07-24
 lang: de
 post: true
 category: new_at_rism
-image: "/images/news/2026-07/combined_logos_klein.jpg"
+image: "/images/news/2026-07/logos_untereinander.jpg"
 email: 'Alexander.Faschon@slub-dresden.de'
 author: 'Alexander Faschon' und 'Desiree Mayer'
 ---
@@ -37,7 +37,7 @@ Funktion eines Worknodes ist die Zusammenführung von RISM-Quellen, die das glei
 
 **Werktitel**
 
-{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.png" pos="right" %}
+{% include image file="/images/news/2026-07/Screenshot_Work_Mendelssohn_Paulus.jpg" pos="right" %}
 
 Das andere Werknormdatenmodul, "Werktitel", basiert auf Werkverzeichniseinträgen in den Quellendatensätzen von RISM. Genau wie Worknodes dienen auch die Werktitel dazu, Quellen zu einem Werk zu bündeln. Sie gehen aber in ihrem Informationsgehalt über Worknodes hinaus. So beinhalten sie beispielsweise Incipits zur Disambiguierung sowie umfassende Werkinformationen und bilden die wissenschaftlich erarbeiteten Strukturen der jeweiligen Werkkataloge ab. Ein erheblicher Teil der Werktitel wurde automatisch aus den entsprechenden Quelldatensätzen generiert, bevor sie manuell überprüft und bearbeitet wurden.
 
