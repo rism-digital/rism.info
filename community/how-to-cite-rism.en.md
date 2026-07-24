@@ -9,7 +9,7 @@ permalink: /community/how-to-cite-rism.html
 
 **Citing RISM and other musical sources**
 
-Many publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historic music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians when citing musical sources, including those found in the RISM database. Following our guidelines will help reduce ambiguity in your citations. Clearly identifying the item will also help the RISM Editorial Center find it quicker in our database, enabling us to cite your research in our records or respond to user queries.  
+Many publications, whether online or in print, use their own style guides. However, citation styles frequently do not capture the nuances of historic music manuscripts and printed editions, making it difficult to identify the item with absolute clarity. RISM has recommendations for researchers and librarians when citing musical sources, including those found in the RISM database. Following our guidelines will help reduce ambiguity in your citations. Clearly identifying the item will also help the RISM Editorial Network find it quicker in our database, enabling us to cite your research in our records or respond to user queries.  
 
 This page outlines RISM's recommendations for citing music manuscripts and printed editions. We also outline here best practices when linking online publications, citing RISM in library records, and citing A/I and B numbers.  
 
