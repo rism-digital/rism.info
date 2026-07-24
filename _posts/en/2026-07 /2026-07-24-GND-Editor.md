@@ -4,11 +4,13 @@ title: 'The GND Editor and the Work Level in RISM'
 date: 2026-07-24
 lang: en
 post: true
-category: new_at_rism
+category: electronic_resources
 image: "/images/news/2026-07/logos_untereinander.jpg"
 email: 'Alexander.Faschon@slub-dresden.de'
 author: 'Alexander Faschon and Desiree Mayer'
 ---
+_The following article was kindly provided by Alexander Faschon and Desiree Mayer. Both are employed at the Saxon State Library—Dresden State and University Library (SLUB), where they oversee musicological projects within the NFDI4Culture consortium._
+
 Since early 2026, RISM’s cataloging software Muscat has offered a new feature: the GND Editor for creating work records in the German National Authority File. The result of a collaboration between the RISM Digital Center, the German National Library, and the [NFDI4Culture](https://nfdi4culture.de/index.html){:blank} consortium, the editor marks an important milestone for RISM on the path to integrating external authority data. The new tool allows users to create GND (Gemeinsame Normdatei) authority records for musical works directly from Muscat. The following sections outline the technical details of the GND Editor and situate it in the context of RISM’s current activities related to the work level. 
  
 **Layout and Workflow**
