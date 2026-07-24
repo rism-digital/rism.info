@@ -11,7 +11,7 @@ This catalog contains manuscripts and printed music from the Biblioteca Apostoli
 
 The [**Introduction**](#introduction) by Thomas Schmidt provides background information on the Fondo Cappella Sistina cataloging project. Please see the [**User Guide**](#user-guide) and the [**Abbreviations**](#frequently-used-abbreviations) for help.
 
-You can start with a **search** directly below and then use the filters in RISM Online to refine the results. A search with more than one word will find only the sources that match all the criteria. The words do not have to be in the same field. Please contact the RISM Editorial Center if you have any questions: [contact@rism.info](mailto:contact@rism.info).
+You can start with a **search** directly below and then use the filters in RISM Online to refine the results. A search with more than one word will find only the sources that match all the criteria. The words do not have to be in the same field. Please contact the RISM Editorial Network if you have any questions: [contact@rism.info](mailto:contact@rism.info).
 
 {% include rism-online-nc-search.html sigla="V" text="Search the Fondo Cappella Sistina sources in RISM Online" placeholder="Search" %}
 

@@ -7,7 +7,7 @@ permalink: /community/participate-in-rism.html
 
 # How Can I Participate in RISM?  
 
-We warmly welcome anybody who wants to take part in RISM's projects.  Please contact your country's [national working group](/working-groups.html) or contact the [Editorial Center](/editorial-center.html) for more information.
+We warmly welcome anybody who wants to take part in RISM's projects.  Please contact your country's [national working group](/working-groups.html) or contact the [Editorial Network](/editorial-center.html) for more information.
 
 Individuals can support our work by:
 

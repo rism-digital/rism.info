@@ -1,17 +1,7 @@
 # Kontaktinformationen
 
-**Internationales Quellenlexikon der Musik (RISM)**
+**Répertoire International des Sources Musicales (RISM)**
 
-RISM Zentralredaktion  
-Johann Wolfgang Goethe-Universität  
-Campus Bockenheim
-Bockenheimer Landstr. 133  
-60325 Frankfurt am Main  
-Germany
-
-Telefon +49 69 706231\
-Telefax +49 69 706026\
+**RISM Editorial Network**  
 E-Mail: [contact@rism.info](mailto:contact@rism.info)
 
-**Leiter der Zentralredaktion:**  
-Dr. Balázs Mikusi 
