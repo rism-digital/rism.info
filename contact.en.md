@@ -7,7 +7,7 @@ permalink: /contact.html
 
 # Contact RISM  
 
-Please contact the RISM Editorial Center at [contact@rism.info](mailto:contact@rism.info) with any questions, comments, or suggestions.
+Please contact the RISM Editorial Network at [contact@rism.info](mailto:contact@rism.info) with any questions, comments, or suggestions.
 
 If you need a **RISM siglum** for an institution but you cannot find it in the [Directory of RISM Library Sigla](/community/sigla.html), we will create it for you.
 
