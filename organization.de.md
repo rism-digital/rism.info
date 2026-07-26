@@ -39,7 +39,7 @@ Das Council besteht aus allen aktiven Mitgliedern der Arbeitsgruppen in allen L�
 
 ## Coordinating Committee
 
-Fünf gewählte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen, der Zentralredaktion und dem RISM Digital Center zu koordinieren.
+Fünf gewählte Mitglieder des Councils bilden ein Coordinating Committee. Es hat die Aufgabe, die Arbeit und den Austausch der Ergebnisse zwischen den Arbeitsgruppen, dem Editorial Network und dem RISM Digital Center zu koordinieren.
 
 Mitglieder des Coordinating Committee:
 

@@ -38,7 +38,7 @@ The Council consists of all active members of the different working groups in al
 
 ## Coordinating Committee
 
-Five elected members from the Council form a Coordinating Committee. The Coordinating Committee facilitates communication between the working groups, the Editorial Center and the Digital Center, conveys suggestions and requests between both sides, and encourages conversation among the working groups.
+Five elected members from the Council form a Coordinating Committee. The Coordinating Committee facilitates communication between the working groups, the Editorial Network and the Digital Center, conveys suggestions and requests between both sides, and encourages conversation among the working groups.
 
 Members of the Coordinating Committee:
 
