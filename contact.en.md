@@ -17,17 +17,5 @@ Send us **feedback, additions, or corrections** to any record in the RISM databa
 
 ## Other ways to contact RISM    
 
-Mailing address:   
-Internationales Quellenlexikon der Musik (RISM)  
-RISM Zentralredaktion  
-Johann Wolfgang Goethe-Universität  
-Campus Bockenheim  
-Bockenheimer Landstr. 133  
-60325 Frankfurt am Main  
-Germany  
-
-Telephone: +49 69 706231  
-Fax: +49 69 706026
-
 Facebook: [RISM.info](https://www.facebook.com/RISM.info/){:blank}  
 Twitter: [RISM_music](https://twitter.com/RISM_music){:blank}  
