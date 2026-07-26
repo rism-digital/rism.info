@@ -7,7 +7,7 @@ permalink: /publications/conferences.html
 
 ## Konferenzen
 
-Die RISM-Zentralredaktion organisiert von Zeit zu Zeit Konferenzen:
+Die RISM-Zentralredaktion organisierte von Zeit zu Zeit Konferenzen:
 
 * [Musical Sources: Past and Future](/publications/conferences/musical-sources-past-future-2022.html) (2022)
 
