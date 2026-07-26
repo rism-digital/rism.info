@@ -5,35 +5,14 @@ lang: en
 permalink: /organization/internships.html
 ---
 
-# Internships at the RISM Editorial Center
+# Internships at the RISM Editorial Network
+Please note that the RISM Editorial Network is currently not offering any internships.
 
-The RISM Editorial Center in Frankfurt offers internships in its editorial department to people interested in experiencing the day-to-day work of a major digital bibliographic and musicological project.
+# Internships at the RISM Editorial Center (until 2023)
 
-Internships are organized based on the interests and schedules of the intern. Internships should last at least 3 weeks, though other arrangements can be considered. At the end of the internship, a short report is required that we will publish on the RISM website.
+The RISM Editorial Center in Frankfurt regularly offered internships in its editorial department to people interested in experiencing the day-to-day work of a major digital bibliographic and musicological project. These internships were organized based on the interests and schedules of the intern, and lasted at least 3 weeks. At the end of the internship, a short report was required that would get published on the RISM website. The interns were offered no monetary compensation.
 
-We can work with the requirements of an educational institution if an internship is to be completed for academic course credit. RISM can support ERASMUS placements. Unfortunately, RISM cannot offer any monetary compensation.
-
-Knowledge of German is helpful but not required.
-
-#### Editorial Internships
-
-Editorial interns will get a taste of the full range of editorial activities that RISM engages in: database development and maintenance, authority files, library sigla, secondary literature, cataloging, reference work, outreach, and training.
-
-Qualifications:
-
-* Experience with historical musical sources
-* Major in music or strong background in music
-* Plans to pursue a career or advanced studies in librarianship or musicology
-* Familiarity with databases and searching
-* Ability to work independently
-
-#### Application procedure
-
-Currently we are not accepting any new interns.
-
-<!-- Interns are accepted on an ongoing basis. About 3 or 4 interns can be accommodated per year. Please send a CV and cover letter outlining your interests and relevant skills to Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}. -->
-
-## Current and former interns  
+## Former interns  
 
 ### 2023  
 Tanja Rodić (Germany)  
