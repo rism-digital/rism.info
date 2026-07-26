@@ -7,7 +7,7 @@ permalink: /community/muscat.html
 
 # Muscat
 
-Muscat ist das Katalogisierungsprogramm des RISM für musikalische Quellen (Manuskripte, Notendrucke, Libretti und Traktate). Es wird als Open-Source-Projekt vom RISM unter der Leitung des [RISM Digital Center](https://rism.digital){:target="_blank"} und in enger Zusammenarbeit mit dem Editorial Center und den Arbeitsgruppen entwickelt. Die vollständigen Katalogisierungsrichtlinien des RISM, wie sie für Muscat gelten, finden Sie unter [guidelines.rism.info](https://guidelines.rism.info){:blank}. Weitere Informationen über das Projekt, seine Philosophie und seine Geschichte finden Sie auf der Website [Muscat Project](http://muscat-project.org/history.html){:target="_blank"}.
+Muscat ist das Katalogisierungsprogramm des RISM für musikalische Quellen (Manuskripte, Notendrucke, Libretti und Traktate). Es wird als Open-Source-Projekt vom RISM unter der Leitung des [RISM Digital Center](https://rism.digital){:target="_blank"} und in enger Zusammenarbeit mit dem RISM Editorial Network und den Arbeitsgruppen entwickelt. Die vollständigen Katalogisierungsrichtlinien des RISM, wie sie für Muscat gelten, finden Sie unter [guidelines.rism.info](https://guidelines.rism.info){:blank}. Weitere Informationen über das Projekt, seine Philosophie und seine Geschichte finden Sie auf der Website [Muscat Project](http://muscat-project.org/history.html){:target="_blank"}.
 
 ## Über Muscat
 
@@ -25,7 +25,7 @@ Muscat ist ein mehrsprachiges, [open source](https://github.com/rism-ch/muscat){
 * Oberfläche in deutsch, englisch, französisch, italienisch, portugiesisch und spanisch; Übersetzung ins Koreanische in Vorbereitung
 * Separater Trainingsserver zu Übungszwecken
 
-Beitragende erhalten ein eigenes Muscat-Login, das an die Institution(en) gebunden ist, die bearbeitet werden sollen. Wenden Sie sich bitte an die [RISM Zentralredaktion](mailto:contact@rism.info), wenn Sie Fragen zur Verwendung von Muscat haben, wenn Sie über Muscat zum RISM beitragen möchten oder wenn Sie eine Live-Demonstration von Muscat wünschen, oder an [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) für technische Fragen und Fragen zur Softwareentwicklung.
+Beitragende erhalten ein eigenes Muscat-Login, das an die Institution(en) gebunden ist, die bearbeitet werden sollen. Wenden Sie sich bitte an das [RISM Editorial Network](mailto:contact@rism.info), wenn Sie Fragen zur Verwendung von Muscat haben, wenn Sie über Muscat zum RISM beitragen möchten oder wenn Sie eine Live-Demonstration von Muscat wünschen, oder an [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) für technische Fragen und Fragen zur Softwareentwicklung.
 
 ## Technische Anforderungen
 
