@@ -78,7 +78,7 @@ _(PDFs updated for 2023)_
 
 Complete instructions: [Video on YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} and [PDF](/resources/community/muscat/adding_editing_holdings_printed_music.pdf)\
 One-page version: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
-This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark. Note: if you do not see an "add holdings" button, notify the Editorial Center and we will correct the record.
+This is RISM's priority for printed music and is the easiest way for a library to contribute. Find the print in RISM, add your holdings, and enter the shelfmark. Note: if you do not see an "add holdings" button, notify the Editorial Network and we will correct the record.
 
 
 ### 2. Revise existing RISM records
@@ -110,8 +110,8 @@ While there are no current plans for a wholescale import of these books, RISM co
 1. Some records from these series are already in Muscat. Always check first before creating a new record. Neither B/II nor B/VI has unique identifiers, so searching for them by page number is difficult.
 2. There are some (less than 1,000) duplicates between A/I and B/II, so you might see records from B/II that also have A/I numbers. Simply add your holdings to the A/I record.
 3. Most B/II and B/VI records, however, are not in Muscat, so you will likely have to create a new record.
-4. When you create a new record, it is **very important** that you add the reference to the book in the field RISM Series (510). This helps Editorial Center staff find the new records and add additional holdings. Do not use the field Bibliographic reference (691) to refer to the print's presence in the RISM series.
-5. If you are interested in adding items from other RISM B series, please contact Editorial Center staff to coordinate.
+4. When you create a new record, it is **very important** that you add the reference to the book in the field RISM Series (510). This helps Editorial Network staff find the new records and add additional holdings. Do not use the field Bibliographic reference (691) to refer to the print's presence in the RISM series.
+5. If you are interested in adding items from other RISM B series, please contact the Editorial Network staff to coordinate.
 6. If you have any questions about this, or cannot find your print, please ask us and we will help.
 
 
@@ -132,4 +132,4 @@ The Muscat training server is:
 * Reset once a week with current data from the live server
 * Ideal for workshops, demonstrations, and conferences
 
-The logins **training01**@rism.info to **training99**@rism.info are available—in other words, each participant in a workshop can have a different login. Training users are "members" of the US working group and have editing rights for all sources that begin with the siglum US-*. Please [contact the Editorial Center](mailto:contact@rism.info) to receive the current password.
+The logins **training01**@rism.info to **training99**@rism.info are available—in other words, each participant in a workshop can have a different login. Training users are "members" of the US working group and have editing rights for all sources that begin with the siglum US-*. Please [contact the RISM Editorial Network](mailto:contact@rism.info) to receive the current password.
