@@ -15,6 +15,8 @@ Mit Wirkung zum 1. Juli 2026 wurde die RISM Zentralredaktion (Editorial Center) 
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
 - Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ([musik@sbb.spk-berlin.de](mailto:musik@sbb.spk-berlin.de){:target="_blank"})
 
+Fragen, Anmerkungen oder Vorschläge richten Sie bitte an die allgemeine Kontaktadresse des RISM: [contact@rism.info](mailto:contact@rism.info)
+
 Das RISM Editorial Network dient als Anlaufstelle sowohl für RISM-Mitarbeiter und -Mitarbeiterinnen als auch für Interessierte aus der ganzen Welt. Sie steht für Beratungen über Musikquellen und quellenkundliche Fragen zur Verfügung. Vor allem unterstützt sie Arbeitsgruppen bei der Nutzung von technischen Tools wie z.B. dem Erfassungsprogramm Muscat oder den beiden Online-Katalogen, bei der Interpretation der Richtlinien zur Dokumentation von Musikquellen u.v.m. 
 
 Das Editorial Network bietet für RISM-Arbeitsgruppen grundlegende Einarbeitung in das Muscat-Programm und die Dokumentationsmethoden an und führt Workshops zu speziellen Themen durch. Als Nachfolger der RISM-Zentralredaktion fühlt sie sich verantwortlich für die Vereinheitlichung der Daten, insbesondere für die Führung der Normdateien. Im übrigen vertritt sie das RISM-Projekt in der Öffentlichkeit. 
