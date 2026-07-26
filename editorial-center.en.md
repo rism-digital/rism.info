@@ -7,68 +7,14 @@ permalink: /editorial-center.html
 
 # RISM Editorial Network
 
-As of 1 July 2026, the earlier RISM Editorial Center (Zentralredaktion) closed, and its duties have been taken over by the newly established [RISM Editorial Network](https://rism.info/new_at_rism/2026/07/01/Editorial-Network.html). The Network consists of five institutions, listed here together with their RISM contact persons:
+As of 1 July 2026, the earlier RISM Editorial Center (Zentralredaktion) closed, yielding to the newly established [RISM Editorial Network](https://rism.info/new_at_rism/2026/07/01/Editorial-Network.html). The Network consists of five institutions, listed here together with their RISM contact persons:
 
-- Akademie der Wissenschaften und der Literatur \| Mainz ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
+- Akademie der Wissenschaften und der Literatur \| Mainz  ([Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"})
 - Bayerische Staatsbibliothek, München ([Dagmar Schnell](mailto:Dagmar.Schnell@bsb-muenchen.de){:target="_blank"} \| [Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de){:target="_blank"})
 - Johannes-Gutenberg-Universität Mainz ([Klaus Pietschmann](mailto:klaus.pietschmann@uni-mainz.de){:target="_blank"})
 - Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) Dresden ([Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"})
 - Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ([musik@sbb.spk-berlin.de](mailto:musik@sbb.spk-berlin.de){:target="_blank"})
 
-Please note that a substantial revision of several sections of our website, to fully reflect this change, will take a few weeks -- thank you for your understanding!
+The RISM Editorial Network has taken over the core duties of the former RISM Editorial Center, and now serves as the main RISM contact point, offering advice on diverse matters related to musical sources both to RISM contributors and other interested people from all over the world. In particular, it provides the international RISM working groups with subject-specific assistance regarding technical tools such as the cataloging program Muscat or the public online catalogs, helps them interpret the guidelines for documenting music sources, and more.
 
-# RISM Editorial Center
-
-{% include image file="/images/editorial-center/building.jpg" pos="right" %}
-
-The Editorial Center (Zentralredaktion) is the contact point for participants and other interested people from all over the world. It is available for advice or anything else related to music sources. The office primarily provides support to working groups by making available technical and subject-specific help for tools such as the cataloging program Muscat and the use of the data server, guidelines for documenting music sources, the online catalog, and more.
-
-The Editorial Center provides opportunities for working groups to acquire basic knowledge of the cataloging program and how to describe music sources, and conducts workshops dealing with specific topics. In its editorial capacity, it is responsible for standardising data, in particular matters relating to authority control. In addition, it represents the project publicly.
-
-The Editorial Center cooperates with the Bavarian State Library (Bayerische Staatsbibliothek) and the State Library of Berlin (Staatsbibliothek zu Berlin) to operate the data server and the online catalog.
-
-## Staff of the Editorial Center  
-Co-Directors:
-* Dr. [Balázs Mikusi](mailto:balazs.mikusi@rism.info){:target="_blank"}
-* Dr. [Martina Falletta](mailto:martina.falletta@rism.info){:target="_blank"}
-
-Editorial staff:
-* [Guido Kraus](mailto:guido.kraus@rism.info){:target="_blank"}, MA
-* [Alexander Marxen](mailto:alexander.marxen@rism.info){:target="_blank"}
-* [Jennifer Ward](mailto:jennifer.ward@rism.info){:target="_blank"}, MA, MA, MSLIS
-
-IT: [Stephan Hirsch](mailto:stephan.hirsch@rism.info){:target="_blank"}, MA  
-
-## Address
-
-{% include image file="/images/organization/map.jpg" pos="right" %}
-
-RISM Zentralredaktion  
-Johann Wolfgang Goethe-Universität  
-Bockenheimer Landstr. 133  
-60325 Frankfurt am Main  
-Germany
-
-Tel: +49-69-706231  
-Fax: +49-69-706026
-
-[contact@rism.info](mailto:contact@rism.info){:target="_blank"}
-
-For visitors, you will find us at:  
-Mertonstraße (Hörsaalgebäude), rooms 401 – 407
-
-Directions: [Google Maps](https://goo.gl/maps/jmNEpUi73n62){:target="_blank"}  [Public transportation](http://www.rmv.de/en/){:target="_blank"}
-
-GPS: The street address of our building is Gräfstraße 52-54. Our entrance is around the corner on Mertonstraße.  
-Coordinates for the entrance: latitude 50.11837, longitude 8.65042. 
-
-If you take public transportation, the stop is **Bockenheimer Warte**. If you take the subway (U4 or U6 & U7), once you are in the station:
-
-* U4: follow signs for **Bockenheimer Landstraße**, then **Bockenheimer Landstraße Universität**
-* U6 & U7: follow signs for **Bockenheimer Warte**, then **Bockenheimer Warte Gräfstraße**
-
-From Bockenheimer Warte:
-
-Walk past the [medieval watchtower](http://de.wikipedia.org/wiki/Datei:Bockenheimer_Warte_Pano_Turm.jpg){:target="_blank"} and turn left at Café Extrablatt. Continue south on Gräfstraße, then turn left on Mertonstraße where you will see an underground parking garage. The long building on your right is the main lecture hall building. Go to the second set of doors. Enter where you see the white sign that says **Hörsaalgebäude / Eingang Mertonstraße**. Go immediately to the stairwell on the left. Take the stairs or elevator to **floor 4**. The main entrance to RISM is room number **404 D** and there is a doorbell with the RISM logo.
-
-Call us if you get lost: +49 69 706231
+The Editorial Network provides opportunities for working groups to acquire basic knowledge of the cataloging program and how to describe music sources, and conducts workshops dealing with specific topics. As successor to the earlier RISM Zentralredaktion, it is responsible for standardising data, in particular matters relating to authority control. In addition, it represents the RISM project publicly. 

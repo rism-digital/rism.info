@@ -7,7 +7,7 @@ permalink: /publications/conferences.html
 
 ## Conferences
 
-The RISM Editorial Center organizes conferences from time to time. Please select from the following:
+The RISM Editorial Center organized conferences from time to time. Please select from the following:
 
 * [Musical Sources: Past and Future](/publications/conferences/musical-sources-past-future-2022.html) (2022)  
 

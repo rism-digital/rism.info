@@ -9,7 +9,7 @@ permalink: /community/muscat.html
 
 {% include image file="/images/community/muscat.png" pos="right" %}
 
-Muscat is RISM's central cataloging program for musical sources (manuscripts, printed music, libretti, and treatises). It is developed as an open-source project by RISM under the leadership of the [RISM Digital Center](https://rism.digital){:target="_blank"} and in close collaboration with the Editorial Center and the working groups. RISM's full cataloging guidelines as applied to Muscat can be found at [guidelines.rism.info](https://guidelines.rism.info){:blank}. For more information about the project, its philosophy and its history, visit the [Muscat Project](http://muscat-project.org/history.html){:target="_blank"} website.
+Muscat is RISM's central cataloging program for musical sources (manuscripts, printed music, libretti, and treatises). It is developed as an open-source project by RISM under the leadership of the [RISM Digital Center](https://rism.digital){:target="_blank"} and in close collaboration with the RISM Editorial Network and the working groups. RISM's full cataloging guidelines as applied to Muscat can be found at [guidelines.rism.info](https://guidelines.rism.info){:blank}. For more information about the project, its philosophy and its history, visit the [Muscat Project](http://muscat-project.org/history.html){:target="_blank"} website.
 
 ## About Muscat
 
@@ -36,4 +36,4 @@ Muscat is a multilingual, [open source](https://github.com/rism-ch/muscat){:targ
 
 
 ## More information
-Each contributor receives their own Muscat login, which is tied to the institution(s) that they will edit. Please contact the [RISM Editorial Center](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat. Contact [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.
+Each contributor receives their own Muscat login, which is tied to the institution(s) that they will edit. Please contact the [RISM Editorial Network](mailto:contact@rism.info) if you have any questions about using Muscat, contributing to RISM through Muscat, or if you wish for a live demonstration of Muscat. Contact [Rodolfo Zitellini](mailto:rodolfo.zitellini@rism.digital) for technical and software development questions.

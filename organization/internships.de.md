@@ -5,30 +5,12 @@ lang: de
 permalink: /organization/internships.html
 ---
 
-# Ein Praktikum in der RISM Zentralredaktion
+# Ein Praktikum im RISM Editorial Network
+Das RISM Editorial Network bietet derzeit keine Praktika an.
 
-Die RISM Zentralredaktion in Frankfurt am Main bietet Praktika für Personen an, die an der täglichen Arbeit eines großen bibliografischen und musikwissenschaftlichen Projekts interessiert sind.
+# Praktika in der RISM Zentralredaktion (bis 2023)
 
-Praktika werden basierend auf den Interessen und Terminen unserer Praktikanten organisiert. Im Idealfall sollten Praktika mindestens 3 Wochen dauern, wobei durchaus auch andere zeitliche Arrangements denkbar sind. Am Ende des Praktikums ist ein kurzer Bericht erforderlich, den wir auf der RISM-Website veröffentlichen werden.
-
-Leider kann RISM keine finanzielle Entschädigung anbieten. Gegebenenfalls kann ein ERASMUS-Stipendium unterstützend beantragt werden.
-
-#### Praktikum in der Redaktion
-
-Praktikanten erhalten einen Einblick in alle Arbeitsbereiche des RISM: Datenbankentwicklung und -pflege, Normdateien, Bibliothekssigel, Sekundärliteratur, Katalogisierung, Nachschlagewerke, Öffentlichkeitsarbeit und Schulungen.
-
-Anforderungen:
-
-* erste Erfahrungen mit historischen Musikquellen
-* fundierte musikhistorische Kenntnisse
-* Interesse an einem Beruf oder weiteren Studium im Bibliothekswesen oder in der Musikwissenschaft
-* Vertrautheit mit Datenbanken und Suchstrategien
-* selbstständiges Arbeiten
-
-#### Bewerbungsverfahren
-
-Derzeit können keine Praktikumsplätze angeboten werden.
-<!-- Praktikanten werden fortlaufend angenommen. Pro Jahr können 3 bis 4 Praktika vergeben werden. Bitte senden Sie Ihren Lebenslauf und ein Motivationsschreiben an Dr. Martina Falletta, [martina.falletta@rism.info](http://martina.falletta@rism.info){:target="_blank"}. -->
+Die RISM Zentralredaktion in Frankfurt am Main bat regelmäßig Praktika für Personen an, die an der täglichen Arbeit eines großen bibliografischen und musikwissenschaftlichen Projekts interessiert waren. Diese Praktika wurden basierend auf den Interessen und Terminen unserer Praktikanten organisiert und dauerten im Regelfall mindestens 3 Wochen. Am Ende des Praktikums war ein kurzer Bericht erforderlich, der auf der RISM-Website veröffentlicht wurde. Den Praktikantinnen und Praktikanten wurde keine finanzielle Entschädigung angeboten.
 
 # Ehemalige Praktikanten
 

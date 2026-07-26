@@ -68,7 +68,7 @@ _(PDFs 2023 aktualisiert)_
 
 Ausführliche Anleitung: [Video auf YouTube](https://youtu.be/FmDMgSseXZY){:target="_blank"} [PDF](/resources/community/muscat/adding_editing_holdings_printed_music.pdf)\
 Kurzversion: [PDF](/resources-old-website/community-content/Muscat_EN/Holdings_1_page.pdf)\
-Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an. Hinweis: Wenn Sie keine Schaltfläche "Neuer Exemplareintrag" sehen, benachrichtigen Sie die Zentralredaktion, damit wir den Eintrag korrigieren können.
+Dieser Punkt hat hohe Priorität für die Musikdrucke und ist die leichteste Art für eine Bibliothek zum Projekt beizutragen. Finden Sie den Druck in RISM, ergänzen Sie ihr Exemplar und geben eine Signatur an. Hinweis: Wenn Sie keine Schaltfläche "Neuer Exemplareintrag" sehen, benachrichtigen Sie das RISM Editorial Network, damit wir den Eintrag korrigieren können.
 
 
 ### Überarbeitung existierender RISM-Einträge
@@ -100,8 +100,8 @@ Da es derzeit keine Pläne für einen Import dieser Bücher gibt, können RISM-M
 1. Einige Datensätze aus diesen Reihen befinden sich bereits in Muscat. Prüfen Sie dies bitte immer zuerst, bevor Sie einen neuen Datensatz anlegen. Weder B/II noch B/VI haben eindeutige Identifikatoren, so dass die Suche nach der Seitenzahl schwierig ist.
 2. Es gibt einige (weniger als 1.000) Dubletten zwischen A/I und B/II, so dass Sie möglicherweise Datensätze aus B/II sehen, die auch A/I-Nummern haben. Fügen Sie Ihre Bestände einfach dem A/I-Datensatz hinzu.
 3. Die meisten B/II- und B/VI-Einträge befinden sich jedoch nicht in Muscat, so dass Sie wahrscheinlich einen neuen Eintrag anlegen müssen.
-4.  Wenn Sie einen neuen Datensatz anlegen, ist es **sehr wichtig**, dass Sie den Verweis auf das Buch in das Feld RISM-Serieb (510) eintragen. Dies hilft den Mitarbeitern der Zentralredaktion, die neuen Datensätze zu finden und zusätzliche Bestände hinzuzufügen. Verwenden Sie nicht das Feld Literaturverweis (691), um auf das Vorhandensein des Drucks in der RISM-Reihe hinzuweisen.
-5. Wenn Sie Einträge aus anderen RISM B-Serien hinzufügen möchten, setzen Sie sich bitte mit der Zentralredaktion in Verbindung, um dies zu koordinieren.
+4.  Wenn Sie einen neuen Datensatz anlegen, ist es **sehr wichtig**, dass Sie den Verweis auf das Buch in das Feld RISM-Serieb (510) eintragen. Dies hilft den Mitarbeitern des RISM Editorial Network, die neuen Datensätze zu finden und zusätzliche Bestände hinzuzufügen. Verwenden Sie nicht das Feld Literaturverweis (691), um auf das Vorhandensein des Drucks in der RISM-Reihe hinzuweisen.
+5. Wenn Sie Einträge aus anderen RISM B-Serien hinzufügen möchten, setzen Sie sich bitte mit dem RISM Editorial Network in Verbindung, um dies zu koordinieren.
 6. Wenn Sie Fragen dazu haben oder Ihren Druck nicht finden können, wenden Sie sich bitte an uns und wir werden Ihnen weiterhelfen.
 
 
@@ -119,4 +119,4 @@ Der Muscat-Trainingsserver:
 * wird jede Woche mit dem Produktivserver abgeglichen
 * ist ideal für Workshop, Vorführungen und Konferenzen
 
-Für das Login können Sie zwischen den Mailadressen **training01**@rism.info bis **training99**@rism.info wählen, so dass jeder Teilnehmer ein eigenes Login erhält. Nutzer des Trainingsservers sind "Mitglieder" der USA-Arbeitsgruppe und haben die Möglichkeit, Quellen beginnend mit dem Bibliothekssigel US-* einzugeben und zu bearbeiten. Bitte wenden Sie sich an die [Zentralredaktion](http://contact@rism.info){:target="_blank"}, um das aktuelle Passwort zu erfahren. 
+Für das Login können Sie zwischen den Mailadressen **training01**@rism.info bis **training99**@rism.info wählen, so dass jeder Teilnehmer ein eigenes Login erhält. Nutzer des Trainingsservers sind "Mitglieder" der USA-Arbeitsgruppe und haben die Möglichkeit, Quellen beginnend mit dem Bibliothekssigel US-* einzugeben und zu bearbeiten. Bitte wenden Sie sich an das [RISM Editorial Network](http://contact@rism.info){:target="_blank"}, um das aktuelle Passwort zu erfahren. 
