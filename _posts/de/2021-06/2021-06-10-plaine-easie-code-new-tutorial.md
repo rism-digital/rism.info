@@ -10,7 +10,7 @@ email: 'contact@rism.info'
 author: 'Christina Linklater und Jennifer Ward'
 ---
 
-Wir freuen uns, ein neues Tutorial vorstellen zu können, das von der [RISM Zentralredaktion](/editorial-center.html) in Zusammenarbeit mit der [RISM-Arbeitsgruppe USA](https://library.harvard.edu/libraries/loeb-music#rism){:blank} an der Harvard University erstellt wurde .  
+Wir freuen uns, ein neues Tutorial vorstellen zu können, das von der [RISM Zentralredaktion](/editorial-network.html) in Zusammenarbeit mit der [RISM-Arbeitsgruppe USA](https://library.harvard.edu/libraries/loeb-music#rism){:blank} an der Harvard University erstellt wurde .  
 
 [Dieses Tutorial](https://youtu.be/-HplUb_L1QY){:blank} erklärt, wie Musikincipits mittels des [Plaine & Easie Codes](https://www.iaml.info/plaine-easie-code) in RISMs Katalogierungsprogramm [Muscat](/community/muscat.html){:blank} eingegeben werden können.  
 

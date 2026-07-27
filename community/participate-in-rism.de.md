@@ -7,7 +7,7 @@ permalink: /community/participate-in-rism.html
 
 # Wie kann ich mich an RISM beteiligen?
 
-Wir heißen jeden herzlich willkommen, der an den RISM-Projekten teilnehmen möchte. Bitte kontaktieren Sie unsere [nationalen Arbeitsgruppen](/working-groups.html) oder das [RISM Editorial Network](/editorial-center.html) für weitere Informationen.
+Wir heißen jeden herzlich willkommen, der an den RISM-Projekten teilnehmen möchte. Bitte kontaktieren Sie unsere [nationalen Arbeitsgruppen](/working-groups.html) oder das [RISM Editorial Network](/editorial-network.html) für weitere Informationen.
 
 Einzelpersonen können unsere Arbeit unterstützen, indem Sie:
 

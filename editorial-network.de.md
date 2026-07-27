@@ -1,8 +1,9 @@
 ---
-title: "Zentralredaktion"
-layout: editorial-center
+title: "Editorial Network"
+layout: editorial-network
 lang: de
-permalink: /editorial-center.html
+permalink: /editorial-network.html
+redirect_from: /editorial-center.html
 ---
 
 # RISM Editorial Network
