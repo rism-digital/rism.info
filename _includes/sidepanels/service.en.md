@@ -1,4 +1,4 @@
-a# Contact Information
+# Contact Information
 
 **Répertoire International des Sources Musicales (RISM)**
 
