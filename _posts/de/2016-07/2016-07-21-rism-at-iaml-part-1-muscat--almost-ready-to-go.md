@@ -12,7 +12,7 @@ author: ''
 
 Für RISM-Mitarbeiter steht der Herbst ganz im Zeichen von Muscat! Unser neues Katalogisierungsprogramm war eines der Themen bei der [IAML-Konferenz in Rom](http://www.iaml2016.org/){:target="_blank"}.
 
-Seit ca. drei Jahren arbeitet eine Entwicklergruppe an einem neuen Erfassungsprogramm mit dem Namen MUSCAT, das das bisher benutzte KALLISTO ablösen soll. Die Gruppe besteht aus Laurent Pugin und Rodolfo Zittelini von [RISM-Schweiz](http://rism-ch.org/infrastructure/muscat.html){:target="_blank"} und Stephan Hirsch und Harald Wingerter aus der [RISM-Zentralredaktion](/editorial-center.html){:target="_blank"}.
+Seit ca. drei Jahren arbeitet eine Entwicklergruppe an einem neuen Erfassungsprogramm mit dem Namen MUSCAT, das das bisher benutzte KALLISTO ablösen soll. Die Gruppe besteht aus Laurent Pugin und Rodolfo Zittelini von [RISM-Schweiz](http://rism-ch.org/infrastructure/muscat.html){:target="_blank"} und Stephan Hirsch und Harald Wingerter aus der [RISM-Zentralredaktion](/editorial-network.html){:target="_blank"}.
 
 In die Entwicklung eingebunden sind die Mitglieder des [Coordinating Committees](/organization/international-partners.html){:target="_blank"}, sowie Roland Schmid-Hensel von der [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/){:target="_blank"}. Sie nahmen am Testen der einzelnen Entwicklungsschritte teil und machten wertvolle Vorschläge zur Handhabung des Programms.
 

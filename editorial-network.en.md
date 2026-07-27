@@ -1,8 +1,9 @@
 ---
-title: "Editorial Center"
-layout: editorial-center
+title: "Editorial Network"
+layout: editorial-network
 lang: en
-permalink: /editorial-center.html
+permalink: /editorial-network.html
+redirect_from: /editorial-center.html
 ---
 
 # RISM Editorial Network
