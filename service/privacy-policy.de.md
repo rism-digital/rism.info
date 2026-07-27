@@ -24,7 +24,7 @@ Deutschland
 Tel: +49-69-706231\
 Fax: +49-69-706026
 
-[https://rism.info/de/editorial-center.html](/editorial-center.html)
+[https://rism.info/de/editorial-network.html](/editorial-network.html)
 
 contact@rism.info 
 

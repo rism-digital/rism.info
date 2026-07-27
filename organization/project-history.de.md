@@ -52,3 +52,10 @@ permalink: /organization/project-history.html
 | 2012 | International conference: **[Music Documentation in Libraries, Scholarship, and Practice](/publications/conferences/conference-2012.html)** |
 | 2013 | RISM data offered as open data |
 | 2014 | RISM data offered as linked open data |
+| 2015 | International conference: [RISM Colloquium](/publications/conferences/colloquium-2015.html). Updated German-English [RISM brochure](/publications/brochures.html) published |
+| 2016 | International conference: [Documenting Musical Sources in Latin America](/publications/conferences/latin-america-conference-2016.html). Use of Kallisto ends; cataloging program Muscat adopted for the international RISM project, in cooperation with RISM Switzerland |
+| 2019 | International conference: [Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM](/publications/conferences/work-level-2019.html) |
+| since 2020 | Director of the Zentralredaktion: Dr. Balázs Mikusi |
+| 2021 | [RISM Lecture Series](/publications/rism-lectures.html) launched. The [RISM Digital Center is established](/new_at_rism/2020/12/15/announcing-rism-digital-center.html) in Bern, Switzerland, which reports to the IMS and IAML through the Commission mixte. |
+| 2022 | [RISM Online](https://rism.online/){:blank} launched, a project of the RISM Digital Center. Conference [Musical Sources: Past and Future - An International Conference Celebrating 70 Years of RISM](/publications/conferences/musical-sources-past-future-2022.html). Special issue of _Fontes artis musicae_, "[In Celebration of RISM’s Seventieth Anniversary](https://muse.jhu.edu/issue/48911){:blank}" (69, no. 3, July-September 2022). |
+| 2026 | Zentralredaktion dissolved, RISM Editorial Network established |

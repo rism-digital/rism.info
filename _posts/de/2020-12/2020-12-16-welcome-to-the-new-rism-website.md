@@ -8,7 +8,7 @@ category: new_at_rism
 image: "/images/news/2020-12/neue_website_2020.png"
 ---
 
-Wir laden Sie ein, einen Blick auf die Website des [RISM Editorial Center](/editorial-center.html){:blank} zu werfen, die in Zusammenarbeit mit dem [RISM Digital Center](/digital-center.html){:blank} neu gestaltet wurde. 
+Wir laden Sie ein, einen Blick auf die Website des [RISM Editorial Center](/editorial-network.html){:blank} zu werfen, die in Zusammenarbeit mit dem [RISM Digital Center](/digital-center.html){:blank} neu gestaltet wurde. 
 
 Besucher der RISM-Webseite können auch weiterhin direkt den RISM Online-Katalog der Musikquellen durchsuchen, der über 1,2 Millionen Datensätze für historische Musikhandschriften und -drucke enthält. Der RISM-Katalog ist für jeden kostenlos zugänglich und kann auch unter [opac.rism.info](https://opac.rism.info/index.php?id=4){:blank} aufgerufen werden.
 
@@ -17,7 +17,7 @@ Das [Online-Verzeichnis der RISM-Bibliothekssigel](/community/sigla.html){:blank
 Die Webseite ist jetzt an mobile Endgeräte angepasst und ermöglicht eine leichtere Navigation auf Tablets und kleineren Geräten.
 
 Weiterhin bringt die neue Website einige strukturelle Änderungen mit sich.
-* Die Seite [Editorial Center](/editorial-center.html){:blank} konzentriert sich auf das Frankfurter Büro, das die zentrale Anlaufstelle für alle Arbeitsgruppen, Bibliotheken und andere Teilnehmer und Nutzer des RISM-Projekts ist.
+* Die Seite [Editorial Center](/editorial-network.html){:blank} konzentriert sich auf das Frankfurter Büro, das die zentrale Anlaufstelle für alle Arbeitsgruppen, Bibliotheken und andere Teilnehmer und Nutzer des RISM-Projekts ist.
 * Die Seite [Arbeitsgruppen](/working-groups.html){:blank} bietet Kontaktinformationen für alle RISM-Arbeitsgruppen weltweit.
 * Die Seite [Digital Center](/digital-center.html){:blank} enthält Informationen über die [neu gegründete zentrale Anlaufstelle für informationstechnische Fragen](/new_at_rism/2020/12/15/announcing-rism-digital-center.html){:blank} innerhalb der weltweiten RISM-Gemeinschaft.
 
