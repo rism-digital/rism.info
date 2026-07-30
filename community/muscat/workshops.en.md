@@ -7,7 +7,7 @@ permalink: /community/muscat/workshops.html
 
 # Workshops
 
-Muscat workshops are hosted by the RISM Editorial Center or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give Muscat demonstrations online.
+Muscat workshops are hosted by the RISM Editorial Network or organized by members of our national groups around the world. If you are interested in organizing a workshop, we're happy to assist. We can also give Muscat demonstrations online.
 
 Access to a training server is available for use in demonstrations, at conferences, or in workshops.
 
@@ -15,13 +15,9 @@ To our regular Muscat users: You can also hold a Muscat workshop! Consider propo
 
 ## Upcoming workshops  
 
-### Facultad de Artes, Universidad Nacional de Córdoba, Argentina
-
-A Muscat workshop will be hosted by the Facultad de Artes, Universidad Nacional de Córdoba and is organized by Luciana Giron Sheridan on the following dates in 2025: September 20, October 11, November 1, November 22.  
-
 ### Introduction to Muscat  
 
-The RISM Editorial Center regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
+The RISM Editorial Network regularly hosts introductory, two-part workshops on cataloging musical sources using the program Muscat. The workshops are geared towards people who are planning on collaborating with RISM, but anyone interested in Muscat or RISM’s cataloging guidelines is welcome to attend. The workshops are offered at no charge.  
 
 #### Online  
 
@@ -36,6 +32,12 @@ This single, 90-minute online workshop is intended for current RISM contributors
 Additional workshops (on any topic) can be offered upon request. Please send an email to [contact@rism.info](mailto:contact@rism.info){:blank}.
 
 ## Past workshops and demonstrations  
+
+* 20 June 2026: Muscat introduction, [IAML Congress, Thessaloniki](/publications/iaml-congresses/2026.html)  
+_Jennifer Ward, SLUB Dresden/RISM Editorial Network, Balázs Mikusi, Academy of Sciences and Literature \| Mainz / RISM Editorial Network_  
+
+* Fall 2025 (September 20, October 11, November 1, November 22): Facultad de Artes, Universidad Nacional de Córdoba, Argentina
+_Luciana Giron Sheridan, Facultad de Artes, Universidad Nacional de Córdoba_ 
 
 * 16 September 2025: Katalogisieren von Musikdrucken in Muscat, [IAML Germany annual conference](https://iaml-deutschland.info/2025-dresden/){:blank}, Dresden    
 _Martina Falletta, RISM Editorial Center; Amrei Flechsig and Andrea Hartmann, RISM Germany, Dresden Office_  
