@@ -1,0 +1,24 @@
+---
+layout: post
+title: 'Die europäischen Kulturhauptstädte 2026'
+date: 2026-08-06
+lang: de
+post: true
+category: events
+image: "/images/news/2026-08/Sparrgren_Franzén_NMB_2482_Nationalmuseum.jpg"
+email: ''
+author: ''
+---
+Auch in diesem Sommer erscheint an dieser Stelle ein kleiner Hinweis auf die diesjährigen europäischen Kulturhauptstädte. Die Gastgeber sind in diesem Jahr Oulu in Finnland und Trenčín in der Slowakei. Mit einem vielfältigen Programm adressieren sie ganzjährig jeweils ein besonderes Thema und geben ihre jeweiligen kulturellen Besonderheiten einen besonderen Auftritt.
+
+Die Kulturhauptstadt Oulu setzt sich zusammen aus der westfinnischen Großstadt Oulu und 39 weiteren Gemeinden. Oulu ist die am weitesten nördlich gelegene Großstadt innerhalb der Europäischen Union und die fünftgrößte Stadt Finnlands. Der Verbund hat sich als Motto „Cultural Climate Change“ gesetzt. Das musikalische [Kulturprogramm](https://oulu2026.eu/en/programme/culture-programme/){:blank} richtet sich vorwiegend auf die Gegenwart und die jüngere Vergangenheit. Der schreiende Männerchor (Mieskuoro Huutajat) sowie das Rockfestival Qstock durften 2026 nicht fehlen, in diesen Tagen steht aber die Kammermusik im Fokus, dank des Festivals [Oulunsalo Soi](https://oulunsalosoi.fi/en/){:blank}. Zu einiger Berühmtheit hat es die alljährliche Luftgitarren-Weltmeisterschaft gebracht, die in diesem Jahr am 28./29.08.2026, im Rahmen des [Delta Life Grand Finale](https://oulu2026.eu/en/event/?localhub_page_id=68628501b9eadc6f1cc54c78&localhub_origin_widget_id=68ade7e1ca34b90c140357cd){:blank} stattfindet. 
+
+Die Stadt Trenčín liegt im Nordwesten der Slowakei und in Grenznähe zu Tschechien. Sie weist eine bis in die Steinzeit zurückreichende Geschichte auf. Ihren Namen hat die Stadt von der mittelalterlichen Burg, die auf einem Hügel thront und weithin sichtbar ist. Das Kulturprogramm steht unter dem Motto [„Neugier“](https://www.trencin2026.eu/en/home/){:blank} und stellt Verbindungen zwischen Vergangenheit, Gegenwart und Zukunft her, zwischen Menschen und zwischen Fantasie und Realität. Ein anstehendes Highlight ist das Konzert des [Perchta Chors aus Český Krumlov](https://www.trencin2026.eu/en/podujatie/perchta-cz-concert-choir-of-the-city-of-cesky-krumlov/){:blank} in der Piaristenkirche, aber auch das seit 80 Jahren bestehende [Sommer-Klassikerfestival](https://www.trencin2026.eu/en/podujatie/80th-anniversary-edition-music-summer/){:blank} bietet einige interessante Events im Kursalon an.
+
+Beide Kulturhauptstädte sind bereits in der RISM-Datenbank vertreten und wir hoffen, dass wir in Zukunft weitere Personen und Werke verzeichnen können, die Oulu und Trenčín und ihren Bezug zu Musikquellen stärker hervortreten lassen.
+
+In Bezug auf Oulu erscheint Amalie Classàn als Widmungsträgerin auf einer Abschrift, die Charles Schwencke von seinen _Six Divertissemens en forme de Marches pour le Piano à quatre mains, Op. 60_ ([RISM Catalog](https://opac.rism.info/id/rismid/rism452011120){:blank} \| [RISM Online](https://rism.online/sources/452011120){:blank}) angefertigt hatte. Weiterhin ist der Komponist Erik Tulindberg zu nennen, der einige Jahre in Oulu lebte. Das Violinkonzert B-Dur Op. 1,1 ([RISM Catalog](https://opac.rism.info/id/rismid/rism190023371){:blank} \| [RISM Online](https://rism.online/sources/190023371){:blank}), ist aber wahrscheinlich schon vor Tulindbergs Zeit in Oulu entstanden. Der dritte im Bunde ist der aus Oulu gebürtige Geistliche Frans Michael Franzén, der als Textdichter eines lappländischen Liedes in Erscheinung trat ([RISM Catalog](https://opac.rism.info/id/rismid/rism1001335923){:blank} \| [RISM Online](https://rism.online/sources/1001335923){:blank}).
+
+Für Trenčín sind in RISM verschiedene Abschriften und Autographen aus Pfarrkirchen und dem Piaristenkloster verzeichnet ([RISM Catalog](https://opac.rism.info/rism/Search/Results?lookfor=Tren%C4%8D%C3%ADn){:blank} \| [RISM Online](https://rism.online/search?q=trencin&mode=sources&page=1&rows=100){:blank}). Es zeigt sich an ihnen ein kleiner Ausschnitt der älteren Musikgeschichte der Stadt, wobei die Musikalien mittlerweile in Institutionen außerhalb der Stadt abgegeben wurden. Zu nennen wären etwa ein Offertorium des Tschechen Tobiáš František Fučik, zwei Litaneien des Österreichers Amandus Ivanschiz, jeweils eine Messe des deutschen Benediktinermönchs Franz Bühler, von Peter von Winter und Vicenzo Righini. Weiterhin entstand in Trenčín das Autograph von Anton Seleckýs _Smutné oči krásne oči_ für Singstimme und Klavier (1938).
+
+Bild: Frans Mikael Franzén, Poet, Bischof. [Gemälde von Lars Svensson Sparrgren](https://collection.nationalmuseum.se/sv/collection/item/36162/){:blank}. Rechtehinweis: Per-Åke Persson (Fotograf) / Nationalmuseum, CC-Lizenz: [CC BY-SA- 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:blank}
