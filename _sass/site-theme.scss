@@ -26,7 +26,6 @@ $content-heading-color: config.$content-heading-color;
         display: flex;
         align-items: center;
         color: var(--bulma-navbar-item-color);
-        font-size: 14px;
         gap: 0.75rem;
         line-height: 1.5;
         padding: 0.35rem 0.75rem;
@@ -119,11 +118,6 @@ $content-heading-color: config.$content-heading-color;
 
 .news {
     min-height: 150px;
-
-    > .column:first-child {
-        flex: none;
-        width: 260px;
-    }
 
     img {
         display: block;
