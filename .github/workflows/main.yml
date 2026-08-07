@@ -16,7 +16,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Configure staging build
         run: sed -i 's/https:\/\/rism\.info/https:\/\/stage\.rism\.info/g' _config.yml
         if: endsWith(github.ref, '/staging')
@@ -32,7 +32,7 @@ jobs:
         run: bundle exec jekyll build
       
       # Build the lunr index with node
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v5
         with:
           node-version: '16'
       - run: |
