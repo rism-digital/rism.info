@@ -38,3 +38,5 @@ Hilfe zur Benutzung der RISM-Bibliothekssigel-Suche finden Sie auf der [Hilfe-Se
     });
 </script>
 <div id="sigla"></div>
+
+<p class="has-text-grey is-size-6 mt-4">Die Ergebnisse werden von <a href="https://rism.online/" target="_blank">RISM Online</a> bereitgestellt.</p>
