@@ -11,11 +11,6 @@ author: ''
 ---
 
 Last year, we enjoyed sharing news with you from the world of musical sources: discoveries, rediscoveries, new resources, and more. Let's take a moment to look back on the stories from 2017 that were the most popular:  
-&nbsp;  
-&nbsp;  
-&nbsp;   
-&nbsp;  
-
 1. [Musical Anniversaries in 2017](/musical_anniversaries/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}: Glad you liked it! [Here's the 2018 edition](/musical_anniversaries/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}.
 2. [Karl Friedrich Abel Manuscripts Found in Poland](/rediscovered/2017/01/19/karl-friedrich-abel-manuscripts-found-in-poland.html){:target="_blank"} by Sonia Wronkowska
 3. [Yet another misattributed (and rediscovered) Vivaldi work in Dresden](/rediscovered/2017/04/25/yet-another-misattributed-and-rediscovered-vivaldi.html){:target="_blank"} by Michael Talbot

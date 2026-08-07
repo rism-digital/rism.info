@@ -12,10 +12,6 @@ author: ''
 
 Bevor wir weiter im Jahr 2019 fortschreiten, werfen wir einen Blick auf die beliebtesten Beiträge in unserem Blog, die wir 2018 veröffentlichten. Falls Sie einige dieser Entdeckungen und Entwicklungen in der Welt der musikalischen Quellen verpasst haben, haben Sie hier die Chance, es nachzuholen!
 
-&nbsp;  
-&nbsp;  
-&nbsp;
-
 1. [Jubiläen im Jahr 2018](/musical_anniversaries/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}: Wir freuen uns, dass dies so nützlich ist! Hier ist die [Ausgabe 2019](/musical_anniversaries/2019/01/14/musical-anniversaries-in-2019.html){:target="_blank"}.
 
 2. [Ein Online Museum zur Geschichte des Musikdrucks](/electronic_resources/2018/03/12/the-music-printing-history-online-museum.html){:target="_blank"}

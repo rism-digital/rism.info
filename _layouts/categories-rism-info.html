@@ -27,5 +27,7 @@ sidepanel: "sidepanels/post"
 </div>
 
 {% if paginator.posts.size > 5 %}
-  {% include paginator.html %}
+  <div class="news-pagination">
+    {% include paginator.html %}
+  </div>
 {% endif %}

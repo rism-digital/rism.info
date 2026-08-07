@@ -1,37 +1,48 @@
+@use "sass:color";
+@use "rism-theme-config" as config;
+@use "sigla";
+
 $rism-editorial-center-primary: hsl(207, 100%, 28%); /* equivalent #005091 */
-$rism-editorial-center-highlight: lighten($rism-editorial-center-primary, 20%);
 $rism-editorial-center-white: #fff;
+$primary: config.$primary;
+$content-heading-color: config.$content-heading-color;
 
-// colored navbar
-$navbar-background-color: $rism-editorial-center-primary;
-$navbar-item-color: $rism-editorial-center-white;
-$navbar-item-hover-background-color: lighten($rism-editorial-center-primary, 5%);
-$navbar-item-hover-color: $rism-editorial-center-white;
-$navbar-item-active-background-color: darken($rism-editorial-center-primary, 5%);
-$navbar-item-active-color: $rism-editorial-center-white;
-
-// white navbar
-//$navbar-item-hover-background-color: $rism-editorial-center-primary;
-//$navbar-item-hover-color: $rism-editorial-center-white;
-//$navbar-item-active-background-color: darken($rism-editorial-center-primary, 5%);
-//$navbar-item-active-color: $rism-editorial-center-white;
-
-$notification-radius: 3px;
-$notification-padding-ltr: 0.75rem;
-
-$input-radius: 3px;
-$control-radius: 3px;
+:root {
+  --bulma-family-primary: "Noto Sans", "Helvetica", "Arial", sans-serif;
+  --bulma-body-font-size: 15px;
+  --bulma-body-line-height: 1.4;
+}
 
 .sidenavbar {
-    @extend .navbar;
     display: flex;
+    align-items: stretch;
+    background-color: var(--bulma-navbar-background-color);
     border-bottom: none !important;
     border-radius: 3px;
     margin-bottom: 8px;
+    min-height: var(--bulma-navbar-height);
 
     .navbar-item {
         display: flex;
         align-items: center;
+        color: var(--bulma-navbar-item-color);
+        gap: 0.75rem;
+        line-height: 1.5;
+        padding: 0.35rem 0.75rem;
+        position: relative;
+    }
+}
+
+.sidenavbar.is-primary {
+    background-color: $rism-editorial-center-primary;
+
+    .navbar-item,
+    a.navbar-item,
+    a.navbar-item:hover,
+    a.navbar-item:focus,
+    a.navbar-item:active {
+        color: $rism-editorial-center-white;
+        background-color: transparent;
     }
 }
 
@@ -62,7 +73,7 @@ $control-radius: 3px;
     a:hover {
         h1, h2, h3 {
             transition: color 0.2s ease-in-out;
-            color: darken($content-heading-color, 20%);
+            color: color.adjust($content-heading-color, $lightness: -20%);
         }
         .card-image > img {
             transition: filter 0.2s ease-in-out;
@@ -105,4 +116,33 @@ $control-radius: 3px;
     //border-bottom: 1px solid #999999;
 }
 
-@import 'sigla';
+.news {
+    min-height: 150px;
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    p {
+        margin-bottom: 0.5rem;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+
+    .mb-1 {
+        margin-bottom: 0.4rem !important;
+    }
+}
+
+.latest-posts-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+}
+
+.news-pagination {
+    margin-top: 0.75rem;
+}

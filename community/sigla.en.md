@@ -39,3 +39,5 @@ For assistance with searching the sigla, please see the [Help page](/community/s
     });
 </script>
 <div id="sigla"></div>
+
+<p class="has-text-grey is-size-6 mt-4">Results provided by <a href="https://rism.online/" target="_blank">RISM Online</a></p>

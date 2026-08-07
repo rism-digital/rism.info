@@ -11,11 +11,6 @@ author: ''
 ---
 
 Wie in den vergangenen Jahren nutzen wir den Beginn eines neuen Jahres, um Bilanz über das vergangene Jahr zu ziehen und mitzuteilen, was bei den Lesern unserer Website am beliebtesten war. Dies sind die Blogbeiträge des Jahres, die laut unserer Website-Statistik am häufigsten gelesen wurden:
-&nbsp;
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;
 1. [Werke, die 2023 gemeinfrei werden](/in_the_news/2023/02/14/public-domain-2023.html): Die Version für 2024 erscheint demnächst!    
 
 2. [Neue Bibliographie zu Musiksammelwerken derLibrary of Congress](/new_publications/2023/08/24/new-bibliography-music-anthologies-library-of-congress.html) von Susan Clermont 

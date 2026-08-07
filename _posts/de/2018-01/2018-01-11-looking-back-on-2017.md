@@ -12,11 +12,6 @@ author: ''
 
 Letztes Jahr haben wir Ihnen zahlreiche Neuigkeiten aus der Welt der Musikquellen mitgeteilt: Neuentdeckungen, Wiederentdeckungen, neue Ressourcen und vieles mehr. Werfen wir einen Blick auf die beliebtesten Nachrichten des Jahres 2017:[
 ](/new_at_rism/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}
-&nbsp;  
-&nbsp;  
-&nbsp;   
-&nbsp; 
-
 1. [Jubliäen 2017](/musical_anniversaries/2017/01/10/musical-anniversaries-in-2017.html){:target="_blank"}: Es freut uns, dass es Ihnen gefallen hat, daher [hier die Ausgabe für 2018](/musical_anniversaries/2018/01/08/musical-anniversaries-in-2018.html){:target="_blank"}.
 2. [Musikhandschriften von Karl Friedrich Abel in Polen gefunden](/rediscovered/2017/01/19/karl-friedrich-abel-manuscripts-found-in-poland.html){:target="_blank"} von Sonia Wronkowska
 3. [Eine weitere Fehlzuschreibung (und Wiederentdeckung) zu Vivaldi in Dresden](/rediscovered/2017/04/25/yet-another-misattributed-and-rediscovered-vivaldi.html){:target="_blank"} von Michael Talbot
