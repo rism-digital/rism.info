@@ -3,35 +3,9 @@
 @use "sigla";
 
 $rism-editorial-center-primary: hsl(207, 100%, 28%); /* equivalent #005091 */
-$rism-editorial-center-highlight: color.adjust(
-  $rism-editorial-center-primary,
-  $lightness: 20%
-);
 $rism-editorial-center-white: #fff;
 $primary: config.$primary;
 $content-heading-color: config.$content-heading-color;
-
-$rism-theme: (
-  "primary": $rism-editorial-center-primary,
-  "family-primary": ("Noto Sans", "Helvetica", "Arial", sans-serif),
-  "body-font-size": 14px,
-  "navbar-background-color": $rism-editorial-center-primary,
-  "navbar-item-color": $rism-editorial-center-white,
-  "navbar-item-hover-background-color": color.adjust(
-    $rism-editorial-center-primary,
-    $lightness: 5%
-  ),
-  "navbar-item-hover-color": $rism-editorial-center-white,
-  "navbar-item-active-background-color": color.adjust(
-    $rism-editorial-center-primary,
-    $lightness: -5%
-  ),
-  "navbar-item-active-color": $rism-editorial-center-white,
-  "notification-radius": 3px,
-  "notification-padding": 1.375em 0.75rem,
-  "input-radius": 3px,
-  "control-radius": 3px
-);
 
 :root {
   --bulma-family-primary: "Noto Sans", "Helvetica", "Arial", sans-serif;

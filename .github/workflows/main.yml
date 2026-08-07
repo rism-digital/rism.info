@@ -26,7 +26,7 @@ jobs:
           sudo apt install wireguard
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version-file: .ruby-version
+          ruby-version: .ruby-version
           bundler-cache: true
       - name: Build site
         run: bundle exec jekyll build

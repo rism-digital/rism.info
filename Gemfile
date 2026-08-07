@@ -10,8 +10,7 @@ ruby "4.0.5"
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 
-gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
-# gem "rism-theme", path: '/Users/laurent/projects/rism-theme'
+gem "rism-theme", git: "https://github.com/rism-digital/rism-theme", branch: "master"
 # gem "rism-theme", path: '/Users/ahankins/Documents/code/rism/rism-theme'
 
 # If you have any plugins, put them here!
