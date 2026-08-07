@@ -11,11 +11,6 @@ author: ''
 ---
 
 As in past years, we are using the beginning of a new year to take stock of the previous year and share what was most popular with our website readers. These are the year’s blog posts that were read the most often, according to our website statistics:
-&nbsp;
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;
 1. [The Musical Public Domain in 2023](/in_the_news/2023/02/14/public-domain-2023.html): The 2024 version is coming!    
 
 2. [New Bibliography of Music Anthologies from the Library of Congress](/new_publications/2023/08/24/new-bibliography-music-anthologies-library-of-congress.html) by Susan Clermont 

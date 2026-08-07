@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: e776c8c34120a95f2f42c3d1d51dfdfc80b4bae6
+  revision: ba06ac9b2bcf34b1c278633cd8f2dcc6073bb139
   branch: master
   specs:
     rism-theme (0.1.74)
