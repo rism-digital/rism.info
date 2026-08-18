@@ -27,10 +27,10 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 ## Vergangene Workshops und Vorführungen
 
-* 20 June 2026: Muscat introduction, [IAML Congress, Thessaloniki](/publications/iaml-congresses/2026.html)  
+* 20\. Juni 2026: Muscat introduction, [IAML Congress, Thessaloniki](/publications/iaml-congresses/2026.html)  
 _Jennifer Ward, SLUB Dresden/RISM Editorial Network, Balázs Mikusi, Academy of Sciences and Literature \| Mainz / RISM Editorial Network_  
 
-* Fall 2025 (September 20, October 11, November 1, November 22): Facultad de Artes, Universidad Nacional de Córdoba, Argentina
+* Herbst 2025 (20\. September, 11\. Oktober, 1\. und 22\. November): Facultad de Artes, Universidad Nacional de Córdoba, Argentina
 _Luciana Giron Sheridan, Facultad de Artes, Universidad Nacional de Córdoba_ 
 
 * 16\. September 2025: Katalogisieren von Musikdrucken in Muscat, [Jahrestagung der IAML-Deutschland in Dresden](https://iaml-deutschland.info/2025-dresden/){:blank}
