@@ -7,18 +7,17 @@ permalink: /community/muscat/workshops.html
 
 # Schulungen
 
-Muscat-Schulungen werden von der Zentralredaktion und von den Mitgliedern der einzelnen Ländergruppen organisiert und angeboten. Wir unterstützen Sie gerne. Muscat kann auch online gezeigt und vorgestellt werden. 
+Muscat-Schulungen werden von dem RISM Editorial Network und von den Mitgliedern der einzelnen Ländergruppen organisiert und angeboten. Wir unterstützen Sie gerne. Muscat kann auch online gezeigt und vorgestellt werden. 
 
 Ein Trainingsserver steht für Vorführungen bei Konferenzen und für Workshops zur Verfügung.
 
 ## Nächster Workshop  
 
-Ein Muscat-Workshop wird von der Facultad de Artes, Universidad Nacional de Córdoba veranstaltet und von Luciana Giron Sheridan 20. September, 11. Oktober, 1. November und 22. November 2025 organisiert. 
+Das RISM Editorial Network veranstaltet regelmäßig zweiteilige Einführungsworkshops zur Katalogisierung von Musikquellen mit dem Programm Muscat. Die Workshops richten sich an Personen, die eine Zusammenarbeit mit dem RISM planen. Aber alle, die sich für Muscat oder die Katalogisierungsrichtlinien des RISM interessieren, sind herzlich willkommen. Die Teilnahme an den Workshops ist kostenlos.   
 
 #### Online  
 
 Termine werden auf Nachfrage angeboten. Bitte schreiben Sie bei Interesse eine E-Mail an: [contact@rism.info](mailto:contact@rism.info){:blank}
- 
 
 ### Spezialthema: Musikdrucke (in englischer Sprache)
 
@@ -26,8 +25,13 @@ Dieser 90-minütige Online-Workshop richtet sich an RISM-Mitarbeiter, die Musikd
 
 - Weitere Termine werden auf Nachfrage angeboten.
 
-
 ## Vergangene Workshops und Vorführungen
+
+* 20 June 2026: Muscat introduction, [IAML Congress, Thessaloniki](/publications/iaml-congresses/2026.html)  
+_Jennifer Ward, SLUB Dresden/RISM Editorial Network, Balázs Mikusi, Academy of Sciences and Literature \| Mainz / RISM Editorial Network_  
+
+* Fall 2025 (September 20, October 11, November 1, November 22): Facultad de Artes, Universidad Nacional de Córdoba, Argentina
+_Luciana Giron Sheridan, Facultad de Artes, Universidad Nacional de Córdoba_ 
 
 * 16\. September 2025: Katalogisieren von Musikdrucken in Muscat, [Jahrestagung der IAML-Deutschland in Dresden](https://iaml-deutschland.info/2025-dresden/){:blank}
 _Martina Falletta, RISM-Zentralredaktion; Amrei Flechsig und Andrea Hartmann, RISM Deutschland, Arbeitsstelle Dresden_  
