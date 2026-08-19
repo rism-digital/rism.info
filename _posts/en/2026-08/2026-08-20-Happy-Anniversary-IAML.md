@@ -6,10 +6,10 @@ lang: en
 post: true
 category: events
 image: "/images/news/2026-08/IAML-75th-anniversary(Fontes)-logo.jpg"
-email: 'balasz.muikusi@rism.info'
-author: 'Balász Mikusi'
+email: 'balazs.muikusi@rism.info'
+author: 'Balázs Mikusi'
 ---
-_The following text appeared in the April–June 2026 issue of Fontes Artis Musicae, celebrating the 75th anniversary of the International Association of Music Libraries, Archives and Documentation Centres (IAML). Just like in 2001, for a Fontes special issue dedicated to IAML’s 50th anniversary, the head of the RISM Editorial Center (_Zentralredaktion_) had been asked to contribute a letter of congratulation. Since the letter, originally dated from Frankfurt am Main on 31 January 2026, sheds light on the close relationship between RISM and IAML, we are happy to reprint the text also here, with kind permission of Fontes._
+_The following text appeared in the April–June 2026 issue of Fontes Artis Musicae, celebrating the 75th anniversary of the International Association of Music Libraries, Archives and Documentation Centres (IAML). Just like in 2001, for a Fontes special issue dedicated to IAML’s 50th anniversary, the head of the RISM Editorial Center (Zentralredaktion) had been asked to contribute a letter of congratulation. Since the letter, originally dated from Frankfurt am Main on 31 January 2026, sheds light on the close relationship between RISM and IAML, we are happy to reprint the text also here, with kind permission of Fontes._
 
 
 Dear IAMLites,
@@ -24,6 +24,6 @@ Over the years, as is inevitable, both organizations have changed immensely. In 
  
 With all of that in mind I trust that in 2051 a late successor of mine will once again be asked to contribute a congratulatory letter for IAML’s centenary. And from that distance that late successor will probably decide that a difference of a mere few months hardly matters, after all, and come to the conclusion that IAML and RISM are in fact twins. Which would explain why IAMLites and RISMites can so well guess each other’s most secret thoughts, even if our paths tend literally to cross only at the annual IAML congresses.
       
-Balázs Mikusi
-Executive Director
+Balázs Mikusi  
+Executive Director  
 RISM Editorial Center
