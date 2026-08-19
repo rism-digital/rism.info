@@ -5,9 +5,9 @@ date: 2026-08-19
 lang: en
 post: true
 category: events
-image: "/images/news/2026-08/Sparrgren_Franzén_NMB_2482_Nationalmuseum.jpg"
+image: "/images/news/2026-08/IAML-75th-anniversary(Fontes)-logo.jpg"
 email: 'balasz.muikusi@rism.info'
-author: 'Balász Mikuso'
+author: 'Balász Mikusi'
 ---
 _The following text appeared in the April–June 2026 issue of Fontes Artis Musicae, celebrating the 75th anniversary of the International Association of Music Libraries, Archives and Documentation Centres (IAML). Just like in 2001, for a Fontes special issue dedicated to IAML’s 50th anniversary, the head of the RISM Editorial Center (_Zentralredaktion_) had been asked to contribute a letter of congratulation. Since the letter, originally dated from Frankfurt am Main on 31 January 2026, sheds light on the close relationship between RISM and IAML, we are happy to reprint the text also here, with kind permission of Fontes._
 
