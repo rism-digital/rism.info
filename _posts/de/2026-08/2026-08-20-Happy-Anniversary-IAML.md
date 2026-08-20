@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Anniversary, IAML!'
-date: 2026-08-19
+date: 2026-08-20
 lang: de
 post: true
 category: events
@@ -9,7 +9,7 @@ image: "/images/news/2026-08/IAML-75th-anniversary(Fontes)-logo.jpg"
 email: 'balazs.muikusi@rism.info'
 author: 'Balázs Mikusi'
 ---
-_Der nachfolgende Text erschien anlässlich des 75-jährigen Jubiläums der Internationalen Vereinigung der Musikbibliotheken, -archive und -dokumentationszentren (IAML) in der Ausgabe April-Juni 2026 von Fontes Artis Musicae. Wie bereits zum 50jährigen Bestehen der IAML im Jahr 2001 wurde die Leitung der RISM-Zentralredaktion (RISM Editorial Center) gebeten, zur Jubiläumsausgabe der Zeitschrift „Fontes“ eine Glückwunschadresse beizusteuern.  Da das Schreiben, das ursprünglich auf den  31. Januar 2026 in Frankfurt datiert wurde, die enge Beziehung zwischen RISM und IAML beleuchtet, freuen wir uns, es mit freundlicher Genehmigung von „Fontes” an dieser Stelle nochmals veröffentlichen zu können._
+_Der nachfolgende Text erschien anlässlich des 75-jährigen Jubiläums der International Association of Music Libraries, Archives and Documentation Centres (IAML) in der Ausgabe April-Juni 2026 von Fontes Artis Musicae. Wie bereits zum 50jährigen Bestehen der IAML im Jahr 2001 wurde die Leitung der RISM-Zentralredaktion (RISM Editorial Center) gebeten, zur Jubiläumsausgabe der Zeitschrift „Fontes“ eine Glückwunschadresse beizusteuern.  Da das Schreiben, das ursprünglich auf den  31. Januar 2026 in Frankfurt datiert wurde, die enge Beziehung zwischen RISM und IAML beleuchtet, freuen wir uns, es mit freundlicher Genehmigung von „Fontes” an dieser Stelle nochmals veröffentlichen zu können._
 
 
 Liebe IAML-Mitglieder,
@@ -20,7 +20,7 @@ Es ist überflüssig darauf hinzuweisen, dass RISM im Umfeld von IAML seit lange
 
 Vor diesem Hintergrund ist es sicherlich kein Zufall, dass in der oben erwähnten Jubiläumsausgabe von „Fontes Artis Musicae“ die beiden wichtigsten „Augenzeugenberichte“ zur Geschichte der IAML von Harald Heckmann und François Lesure stammen, die beide ebenfalls zu den „Hausheiligen“ der RISM-Geschichte gehören – der erste als Sekretär und späterer Präsident des RISM und insbesondere als treibende Kraft hinter der 1960 erfolgten Gründung der _Zentralredaktion_ (mit Sitz zunächst in Kassel, später in Frankfurt am Main), der zweite als Leiter des ersten _secrétariat central_ des RISM in Paris (1953–1967).
 
-Es war unvermeidlich, dass sich beide Organisationen im Laufe der Jahre erheblich verändert haben. In den letzten rund zehn Jahren hat die IAML eine effektivere Struktur geschaffen, die den vielfältigen Bedürfnissen ihrer internationalen Gemeinschaft besser gerecht wird, während das RISM gerade eine umfassende Umstrukturierung durchläuft, einschließlich eines Digital Centers in Bern (seit 2021). In Kürze wird die altehrwürdige „Zentralredaktion“ in Frankfurt in ihrer derzeitigen Form ihre Tätigkeit einstellen und ein kooperatives Netzwerk deutscher Partnerinstritutionen – das [RISM-Editorial Network](https://rism.info/new_at_rism/2026/07/01/Editorial-Network.html) – ihre Aufgaben und Zuständigkeiten übernehmen. Gleichwohl haben solche fortwährenden Anpassungen nur die große Widerstandsfähigkeit sowohl der IAML als auch des RISM unter Beweis gestellt, die sich mit komplexen Herausforderungen auseinandersetzen mussten, die sich unsere gemeinsamen Gründerväter kaum hätten vorstellen können.
+Es war unvermeidlich, dass sich beide Organisationen im Laufe der Jahre erheblich verändert haben. In den letzten rund zehn Jahren hat die IAML eine effektivere Struktur geschaffen, die den vielfältigen Bedürfnissen ihrer internationalen Gemeinschaft besser gerecht wird, während das RISM gerade eine umfassende Umstrukturierung durchläuft, einschließlich eines Digital Centers in Bern (seit 2021). In Kürze wird die altehrwürdige „Zentralredaktion“ in Frankfurt in ihrer derzeitigen Form ihre Tätigkeit einstellen und ein kooperatives Netzwerk deutscher Partnerinstitutionen – das [RISM-Editorial Network](https://rism.info/new_at_rism/2026/07/01/Editorial-Network.html) – ihre Aufgaben und Zuständigkeiten übernehmen. Gleichwohl haben derartige kontinuierliche Anpassungen nur die große Widerstandsfähigkeit sowohl der IAML als auch des RISM unter Beweis gestellt, die sich mit komplexen Herausforderungen auseinandersetzen mussten, die sich unsere gemeinsamen Gründerväter kaum hätten vorstellen können.
 
 In diesem Sinne vertraue ich darauf, dass im Jahr 2051 ein späterer Nachfolger von mir erneut gebeten werden wird, eine Glückwunschadresse zum dann hundertjährigen Jubiläum der IAML beizusteuern. Und aus dieser zeitlichen Distanz heraus wird jener Nachfolger wahrscheinlich entscheiden, dass eine Differenz von nur wenigen Monaten kaum eine Rolle spielt, und zu dem Schluss kommen, dass IAML und RISM eigentlich Zwillinge sind. Das würde auch erklären, warum IAML- und RISM-Mitglieder die geheimsten Gedanken der jeweils anderen so gut erraten können, auch wenn sich unsere Wege buchstäblich meist nur bei den jährlichen IAML-Kongressen kreuzen.
 
