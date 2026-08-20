@@ -607,6 +607,8 @@ Mikušák, Adrián: Medzinárodný katalóg hudobných rukopisov, Répertoire In
 
 Schmidt-Hensel, Roland: Erschließung von Nachlässen, Briefen und Musikhandschriften mit Kalliope und Kallisto, in: Forum Musikbibliothek 26, no. 4 (2005), S. 381-395.
 
+Typke, Rainer, Marc den Hoed, Justin de Nooijer, Frans Wiering und Remco C. Veltkamp: A Ground Truth For Half A Million Musical Incipits, in: Journal of Digital Information Management 3, No. 1 (2005), S. 34-38. [Online verfügbar](https://www.dline.info/jdim/assets/journals/v3n107.pdf){:blank}
+
 Wojnowska, Elżbieta: RISM w Polsce, in: Sekcja Bibliotek Muzycznych Stowarzyszenia Bibliotekarzy Polskich: Polska Grupa Narodowa IAML, 1964-2004 (Music Libraries Section of the Polish Librarians Association—Polish National Branch of IAML), hrsg. von Piotr Maculewicz und Andrzej Spóz, Warszawa: Stowarzyszenie Bibliotekarzy Polskich 2005, S. 213-230. 
 
 #### 2006
@@ -615,7 +617,7 @@ Grün, Birgit: RISM-Bibliothekssigel, in: Forum Musikbibliothek 27 (2006), S. 33
   
 Heinz-Kronberger, Gottfried: Die Bestandserschließung der Musikhandschriften der Hochschul- und Landesbibliothek Fulda durch das Répertoire International des Sources Musicales (RISM), in: Fuldaer Geschichtsblätter 82 (2006), S. 178-198.
 
-Iglesias Martínez, Nieves: Bibliotecas e investigación musical, in: Arbor: Ciencia, pensamiento y cultura 182 (2006), S. 55-65. [Online verfügbar] (http://arbor.revistas.csic.es/index.php/arbor/issue/view/1){:target="_blank"}
+Iglesias Martínez, Nieves: Bibliotecas e investigación musical, in: Arbor: Ciencia, pensamiento y cultura 182 (2006), S. 55-65. [Online verfügbar](http://arbor.revistas.csic.es/index.php/arbor/issue/view/1){:target="_blank"}
 
 Keil, Klaus: Contributo ad un catalogo tematico palestriniano: La documentazione dei manoscritti presso il RISM, in:Palestrina e l'Europa: Atti del III Convegno Internazionale di Studi (Palestrina, 6-9 ottobre 1994), hrsg. von Giancarlo Rostirolla, Stefania Soldati und Elena Zomparelli, Palestrina: Fondazione Giovanni Pierluigi da Palestrina 2006, S. 809-815.
 
@@ -683,17 +685,21 @@ Brinzing, Armin / Diet, Jürgen: Der neue Musik-Katalog „RISM-OPAC“ mit übe
 
 Diet, Jürgen: Neue Version des RISM Online-Katalogs mit Musikincipitsuche freigeschaltet, in: Forum Musikbibliothek 32 (2011), S. 135-137.
 
-Entrevista: Klaus Keil, "El libre acceso a nuestro catálogo en línea será visto pronto como un momento decisivo en la historia de RISM", por Jorge Garcia, in: Boletín DM 15 (2011), S. 8-14.
-
 Falletta, Martina: Telemanns Kompositionen aus dem Blickwinkel neuer, durch das RISM-Projekt erschlossener Quellen, in: Telemann und die Kirchenmusik. Bericht über die Internationale Wissenschaftliche Konferenz, Magdeburg, 15. bis 17. März 2006, anlässlich der 18. Magdeburger Telemann-Festtage, hrsg. von Carsten Lange und Brit Reipsch, Hildesheim: Olms 2011 (= Telemann-Konferenzberichte XVI), S. 178-207.
+
+Garcia, Jorge: Entrevista: Klaus Keil, El libre acceso a nuestro catálogo en línea será visto pronto como un momento decisivo en la historia de RISM, in: Boletín DM 15, No. 1 (2011), S. 8-14. [Online verfügbar](
+https://ojs.aedom.org/index.php?journal=boletin&page=article&op=view&path%5B%5D=156){:target="_blank"}
 
 #### 2012
 
-Brinzing, Armin: Das Internationale Quellenlexikon der Musik (RISM) und dieErschließung der historischen Musikalienbestände in Deutschland, in:Zeitschrift für Bibliothekswesen und Bibliographie 59 (2012), S. 146-151.[Online verfügbar](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
+Brinzing, Armin: Das Internationale Quellenlexikon der Musik (RISM) und die Erschließung der historischen Musikalienbestände in Deutschland, in:Zeitschrift für Bibliothekswesen und Bibliographie 59 (2012), S. 146-151.[Online verfügbar](http://zs.thulb.uni-jena.de/receive/jportal_jpvolume_00165842){:target="_blank"}.
 
 Ferris, Catherine: RISM Ireland, in: IAML UK & Ireland Newsletter 63 (August 2012), S. 5-7. [Online verfügbar](http://www.iaml.info/iaml-uk-irl/media/newsletter_2012-08.pdf){:target="_blank"}.
 
 Ferris, Catherine: RISM Ireland & The National Library of Ireland. Scoping Study Report: Uncatalogued Music. Dublin, Ireland: Technological University Dublin, 2012. [Online verfügbar](https://arrow.tudublin.ie/librep/1/){:blank}
+
+Frankowski, Patryk und Alina Mądry: An unknown collection of music manuscripts from Otyń (Wartenberg), in: Interdisciplinary Studies in Musicology 11 (2012), S. 67-80. [Online verfügbar](
+http://hdl.handle.net/10593/8467){:blank}
 
 Güggi, Cédric: Musikalische Quellen in der Schweiz und ihre Erschliessung, in: NIKE-Bulletin 6 (2012), S .34-37. [Online verfügbar](http://docs.rism-ch.org/press/nike.2012.11_06.pdf){:target="_blank"}
 
@@ -769,7 +775,7 @@ Shekhter, Pia: 'Keeping Music Alive' - IAML goes Far East; in: IAML.info. 11. No
 
 Stanley, Roy: The Symphony and Ireland: A symposium. Dublin 20 April 2013, in: IAML UK & Ireland Newsletter, no. 65 (Juni 2013), S. 4-6. [Online verfügbar](https://iaml-uk-irl.org/media/newsletter_2013-06.pdf){:target="_blank"}
 
-Talkner, Katharina: "I’ve got the rism and you’ve got the music!" Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe," in: Perspektive Bibliothek 2.2 (2013), S. 75-103. [Online verfügbar](https://doi.org/10.11588/pb.2013.2.11244){:target="_blank"}
+Talkner, Katharina: "I’ve got the rism and you’ve got the music!" Moderne Wege zur effizienten Erschließung Musikalischer Nachlässe, in: Perspektive Bibliothek 2.2 (2013), S. 75-103. [Online verfügbar](https://doi.org/10.11588/pb.2013.2.11244){:target="_blank"}
 
 Tuppen, Sandra: Music manuscripts from the 17th and 18th centuries in the British Library, in: Public Domain Review, Dezember 2013. [Online verfügbar](http://publicdomainreview.org/collections/music-manuscripts-from-the-17th-and-18th-centuries-in-the-british-library/ "the").
 
@@ -782,6 +788,9 @@ Control bibliográfico desde la Web, in: La Ventana: Portal Informativo de la Ca
 Fabris, Dinko: "国际音乐学协会和四个“文献资料库”的创立——历程与展望" (The International Musicological Society and the establishment of the four R-Projects: The history and the future), in: Zhongyang Yinyue Xueyuan xuebao/Journal of the Central Conservatory of Music 130 (2014), S. 57-65.
 
 Geck, Karl Wilhelm: Knowing what exists ...: Akademienunion verlängert Förderung der deutschen RISM-Arbeitsstellen, in: BIS - Das Magazin der Bibliotheken in Sachsen 7 (2014), S. 179. [Online verfügbar](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-156038){:target="_blank"}.
+
+Götz, Franz Jürgen: Eine neue Virtuelle Bibliothek für Libretti: Das Libretto-Portal der Bayerischen Staatsbibliothek, in: Bibliotheksforum Bayern 8, No. 1 (2014), S. 26-29. [Online verfügbar](
+https://www.bibliotheksforum-bayern.de/archiv/2014/heft-1-2014){:target="_blank"}.
 
 Herrmann-Schneider, Hildegard: Throwing Some Light on the History of Verdi and Wagner Reception in Tyrol, in: Fontes artis musicae 61 (2014), S. 163-172.
 
@@ -982,7 +991,7 @@ Keil, Klaus und Jennifer A. Ward: Applications of RISM data in digital libraries
 
 Köppl, Chantal: "Works, Work Titles, Work Authorities: Perspectives on Introducing a Work Level in RISM." Kongressbericht, Gesellschaft für Musikforschung. 22. September 2019. [Online verfügbar](https://www.musikforschung.de/publikationen/berichte/tagungsberichte/2019/2209-2){:target="_blank"}
 
-Ward, Jennifer: Répertoire International des Sources Musicales/International Inventory of Musical Sources, in: _Historic Libraries Forum Bulletin_ 44 (April 2019), S. 3-4. [Online verfügbar](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}
+Ward, Jennifer: Répertoire International des Sources Musicales/International Inventory of Musical Sources, in: Historic Libraries Forum Bulletin 44 (April 2019), S. 3-4. [Online verfügbar](https://historiclibrariesforum.com/page/bulletin-archive/){:target="_blank"}
 
 #### 2020 <a name="c2020"></a>
 
@@ -1076,13 +1085,15 @@ Clermont, Susan: Anthologies of Musical Works in Print and Manuscript from the 1
 
 Floyd, David: Making Decisions When Cataloging Bound-with Books, in: NASIG Proceedings 38 (2023), S. 93-106. [Online verfügbar](https://doi.org/10.3998/nasig.6735){:blank}   
 
-Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music Conference in Munich, in: Early Music 51 (2023), no. 4, S. 636–638. [Online verfügbar](https://doi.org/10.1093/em/caad058){:blank}
+Thöne, Johanna-Pauline und James R. Tomlinson: Medieval and Renaissance Music Conference in Munich, in: Early Music 51 (2023), No. 4, S. 636–638. [Online verfügbar](https://doi.org/10.1093/em/caad058){:blank}
 
 #### 2024
 
 Bruns, Oleksandra, Tabea Tietz, Linnaea Söhn, Jonatan Jalle Steller, Sarah Rebecca Ondraszek, Etienne Posthumus, Torsten Schrade und Harald Sac: What's Cooking in the NFDI4Culture Kitchen? A KG-based Research Data Integration Workflow. Workshop on metadata and research management for linked open science (DaMaLOS), Crete, Greece, 26 May 2024. Zenodo: 2024. [Online verfügbar](https://doi.org/10.4126/FRL01-006474028){:blank}   
 
-Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, edited by David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
+Hankinson, Andrew und Laurent Pugin: Navigating the RISM data with RISM Online, in: Proceedings of DLfM 2024: The 11th International Conference on Digital Libraries for Musicology, 27th June 2024, In Association with IAML 2024, hg. v. David M. Weigl, New York 2024, S. 54-62. [Online verfügbar](https://doi.org/10.1145/3660570.3660576){:blank} 
+
+Konik, Marcin, Craig Stuart Sapp und Jacek Iwaszko: Polish Music Heritage in Open Access, in: Journal of New Music Research 53, Nos. 3-4 (2024), S. 143-16. [Online verfügbar](https://doi.org/10.1080/09298215.2025.2487093){:blank}
 
 Tahtaişleyen, Nihan / Salih Demirtaş und Will Sumits: Etablierung neuer Forschungszusammenarbeit zwischen dem CMO-Projekt und dem Répertoire International des Sources Musicales, in: Orient-Institut Istanbul Newsletter (2024), S. 16-17. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}  
 
@@ -1096,11 +1107,13 @@ Benić Zovko, Marija: Zagreb – Radionica za obradu muzikalija u programu Musca
 
 Delport, Wilhelm: How Tracking RISM's Footprint Across (South) Africa Led to the Discovery of San Rock Paintings, !Gõin !Gõin, and an Elephant in the Music Room, in: Fontes Artis Musicae 72 (2025), No. 2, S. 131-150. [Online verfügbar](https://dx.doi.org/10.1353/fam.2025.a965424){:blank}
 
+Demianiuk, L. M.: Main Vectors of International Integration of V. I. Vernadskyi National Library of Ukraine under Martial Law, in: University Library at a New Stage of Social Communications Development. Conference Proceedings 10 (2025), S. 9–17. [Online available](https://doi.org/10.15802/unilib/2025_347618){:blank} 
+
 Fromme, Daniel: Revision der historischen Musikdrucke im LBZ / Pfälzische Landesbibliothek, in Bibliotheken heute 21 (2025), Heft 1, S. 27-29. [Online verfügbar](https://lbz.rlp.de/fileadmin/lbz/UEber-uns/Publikationen/bibliotheken-heute/bibliotheken-heute-25-1-web.pdf){:blank}
 
 Giselbrecht, Elisabeth: Encoding the Users: Towards a Copy-Based Assessment of Early Printed Music, in: Fontes Artis Musicae 72 (2025), No. 3, S. 224-243. [Online verfügbar](https://dx.doi.org/10.1353/fam.2025.a971682){:blank}
 
-_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, heruasgegeben von Nicole Schwindt. musiconn.publish, 2025. [Online verfügbar](https://doi.org/10.25366/2025.35){:blank} - Inhalt:  
+_Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen_, herausgegeben von Nicole Schwindt. musiconn.publish, 2025. [Online verfügbar](https://doi.org/10.25366/2025.35){:blank} - Inhalt:  
 - Schwindt, Nicole: Einleitung: Musikquellen des 19. Jahrhunderts in Deutschland – Herausforderungen und Chancen.  
 - Schmidt-Hensel, Roland: Autograph, Skizze, Stichvorlage – Überlegungen zur handschriftlichen Quellenüberlieferung von Musik des 19. Jahrhunderts.
 - Fromme, Daniel: Neue Formate, Formen und Materialien – Musikalienvielfalt in zwei Speyerer Kirchenmusiksammlungen des 19. Jahrhunderts.  
@@ -1115,8 +1128,17 @@ _Musikquellen des 19. Jahrhunderts in Deutschland: Herausforderungen und Chancen
 
 Nägele, Reiner und Martina Rebmann: Das Répertoire International des Sources Musicales (RISM) – ein Leuchtturm-Projekt der Geisteswissenschaften, in: Forum Musikbibliothek 46 (2025), No. 2, S. 7-16.
 
-Wiering, Frans (Hrsg.): Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy, Utrecht University, 2025. [Online verfügbar](https://doi.org/10.5281/zenodo.17543932){:blank}.  
+Pedrotti, Clarisa und Vera Wolkowicz: Digital Sources for Nineteenth Century Music in Argentina: A Case of ‘Magical Realism’, in: Nineteenth-Century Music Review 22, No. 3 (2025), S. 490–502. [Online verfügbar](https://doi.org/10.1017/S1479409824000363){:blank} 
 
+Schrade, Torsten, Linnaea Söhn, Alexandra Büttner, Tabea Tietz, Jonatan Jalle Steller, Harald Sack, Etienne Posthumus, Oleksandra Bruns, Heike Fliegl und Sarah Pittroff: Shared Data, Shared Practice, Shared Knowledge: Insights from Building NFDI4Culture's Federated Research Data Infrastructure for Cultural Heritage, in: _DH2025 - Digital Heritage International Congress 2025_, hg. v. Stefano Campana et al. The Eurographics Association, 2025. [Online verfügbar](https://doi.org/10.2312/dh.20253367){:blank}
+
+Tahtaişleyen, Nihan, Salih Demirtaş und Will Sumits: Musikwissenschaftliche Forschungsaktivitäten: Die sich erweiternden internationalen Netzwerke und Beiträge des Projekts Corpus Musicae Ottomanicae (CMO) zur globalen Musikwissenschaft, in: Orient-Institut Istanbul Newsletter (2025), S. 14-15. [Online verfügbar](https://oiist.org/publikationen/newsletter/){:blank}
+
+Tietz, Tabea, Linnaea Söhn, Oleksandra Bruns, Joerg Waitelonis, Etienne Posthumus, Jonatan Jalle Steller, Torsten Schrade und Harald Sack: From Culture to Core: Integrating Cultural Heritage Data into Cross-Domain Research Infrastructures, in: Joint Proceedings of Industry, Doctoral Consortium, Posters and Demos of the 24th International Semantic Web Conference (ISWC-C 2025), Nara, Japan, 2.-6. November 2025, hg. von Irene Celino et al., S. 345-350. [Online verfügbar](https://ceur-ws.org/Vol-4085/){:blank} 
+
+Wiering, Frans (Hrsg.): Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy, Utrecht University, 2025. [Online verfügbar](https://doi.org/10.5281/zenodo.17543932){:blank} 
+
+Wiering, Frans, Erik Bergwall, Marnix van Berchum, Werner Goebl, Peter Van Kranenburg, David Lewis, Anna Plaksin, Esperanza Rodríguez-García, David Smith, Mirjam Visscher und David Weigl: Making Corpus Creation in Early Music Rewarding and Effective: Finding the Optimum Between Standardisation and Autonomy, Utrecht University, 2025. [Online verfügbar](https://doi.org/10.5281/zenodo.17543932){:blank} 
 
 ##### Anmerkung:
 
@@ -1401,6 +1423,8 @@ Petrovic, Ankica: Zvuk, Heft 3 (1989), S. 83-84.
 Randel, Don M.: in: Ethnomusicology: Journal of the Society for Ethnomusicology 26 (1982), S. 478. [Online verfügbar](https://www.jstor.org/stable/850704){:target="_blank"}
 
 Sirat, Colette: in: Revue des études juives 143 (1984), S. 227.
+
+B/X/A: Huglo, Michel, in: Revue de Musicologie 90, No. 2 (2004), S. 357-358. [Online availbable](https://www.jstor.org/stable/4494916){:blank}
 
 **B XI:**  
 Fleischhauer, Günter: in: Die Musikforschung 46 (1993), S. 79-80
