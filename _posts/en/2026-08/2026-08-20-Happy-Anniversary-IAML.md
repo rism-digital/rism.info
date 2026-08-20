@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Anniversary, IAML!'
-date: 2026-08-19
+date: 2026-08-20
 lang: en
 post: true
 category: events
