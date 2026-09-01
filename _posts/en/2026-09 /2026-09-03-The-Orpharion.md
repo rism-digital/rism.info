@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Orpharion'
+title: 'The Orpharion and its music'
 date: 2026-09-03
 lang: en
 post: true
