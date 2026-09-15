@@ -9,6 +9,7 @@ image: "/images/news/2026-09/siegling.jpg"
 email: 'patricia.sasser@furman.edu'
 author: 'Patricia Puckett Sasser (Furman University)'
 ---
+
 Dealers’ stamps (also called sellers’ stamps) have long allowed librarians, archivists, musicologists, and other researchers to trace the curation, consumption, and dissemination of musical scores. Some stamps provide detailed information, offering the name of the dealer, the location of the shop, and even the date of the sale. Others are much more obscure, containing only the seller’s initials or a stylized image, and require extensive detective work. Yet despite their importance to music scholarship, there are no dedicated reference sources for this research or any studies of the history and role of the stamp within the music trade specifically. As a result, non-specialists may confuse or conflate music dealer’s stamps with other markings, such as _ex libris_, royalty, censor, or copyist stamps.
 
 This essay describes some preliminary efforts to identify and document music dealer’s stamps, drawing on examples from the nineteenth and early twentieth centuries. It explores the history of the stamp itself, its role in the music trade, and its significance within various contexts. Ultimately, it seeks to illuminate not just the stamp itself but also its place as both a source of information and as a form of musical iconography.
@@ -20,7 +21,6 @@ Rubber stamps proved uniquely suitable to unbound scores for practical reasons. 
 
 ###Stamp Design
 Early stamp design mirrored established ticket and label styles. These could vary drastically in size, from very small to very large. They also varied in complexity; some tickets and labels used only one typeface while others had multiple typefaces, elaborate borders, and brown, red, gold, blue, or black inks. Compare, for instance, a label from the George F. Cole Piano Store in Charleston, South Carolina with a stamp made for George Milbus’ Musical Depot in Washington, DC [Example A]. Clearly, the stamp was intended to mimic a printed booksellers’ label. Stamps soon abandoned the colorful backgrounds associated with tickets and labels, focusing instead on informative designs which conveyed the name and the location of the shop.
-
 
 By the second half of the nineteenth century, rubber stamp manufacturers regularly advertised their products in trade magazines. Many advertisements invited sellers to send away for specimen books, which displayed both available devices and the ways in which a given device could be customized for an individual music shop. Surviving specimen books reveal the wide range of variants on offer in addition to the fully bespoke stamps which could be obtained at a higher cost. Music dealers naturally changed their addresses, their locations, and their partnerships over time; the specimen books responded to the desire and need for new or updated stamps.
 
