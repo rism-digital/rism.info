@@ -55,7 +55,7 @@ Although dealers’ stamps occasionally appear in various provenance databases, 
 Example C
 
 &nbsp;
-(/images/news/2026-09/C_Richault.jpg)
+{% include image file="/images/news/2026-09/C_Richault.jpg" %}
 
 <small>Stamp of Simon Richault (Paris, France). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
@@ -65,15 +65,15 @@ Example D
 
 &nbsp;
 
-(/images/news/2026-09/D_Lyra-Harbin-China.jpg)
+{% include image file="/images/news/2026-09/D_Lyra-Harbin-China.jpg" %}
 
 <small>Lyra (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
-(/images/news/2026-09/D_Lyra-Kahkiv-Ukraine.jpg)
+{% include image file="/images/news/2026-09/D_Lyra-Kahkiv-Ukraine.jpg" %}
 
 <small>Lyra (Kharkiv, Ukraine). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
-(/images/news/2026-09/D_Carl-Fischer-China.jpg)
+{% include image file="/images/news/2026-09/D_Carl-Fischer-China.jpg" %}
 
 <small>Carl Fischer (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
