@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dealer's Stamps and Musical Scores'
+title: "Dealer's Stamps and Musical Scores"
 date: 2026-09-15
 lang: en
 post: true
