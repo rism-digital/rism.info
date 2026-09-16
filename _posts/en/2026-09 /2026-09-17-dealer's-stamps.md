@@ -23,6 +23,7 @@ Rubber stamps proved uniquely suitable to unbound scores for practical reasons. 
 Early stamp design mirrored established ticket and label styles. These could vary drastically in size, from very small to very large. They also varied in complexity; some tickets and labels used only one typeface while others had multiple typefaces, elaborate borders, and brown, red, gold, blue, or black inks. Compare, for instance, a label from the George F. Cole Piano Store in Charleston, South Carolina with a stamp made for George Milbus’ Musical Depot in Washington, DC [Example A]. Clearly, the stamp was intended to mimic a printed booksellers’ label. Stamps soon abandoned the colorful backgrounds associated with tickets and labels, focusing instead on informative designs which conveyed the name and the location of the shop.
 
 Example A
+
 &nbsp;
  | 
 ![](/images/news/2026-09/A_George-F-Cole.jpg) | ![](/images/news/2026-09/A_George-Milbus.jpg)
@@ -40,6 +41,7 @@ Some shops seemed to have employed stamps as a record of transaction. Although d
 While these stamps foreground the complex and ever-evolving world of the music trade, other stamps appear to aim instead for simplicity (if not obscurity). Some stamps frequently adopt a stylized monogram or an icon, images that as striking as they are mysterious. Consider, for example, this score by the composer V.I. Katanskiĭ, _Nakanuni͡e_, published in Kharkiv, Ukraine in the early twentieth century [Example B]. The stamp at the bottom of the title page consists of an intertwined “N” and “M,” which offers very little information about the dealer at first glance—unless one considers the publication information just above the stamp: “N. Mareček.” The Mareček business had been founded in the 1870s by a Czech expatriate named Viktor Mareček; after Mareček’s death in 1899, his wife Nadiya Chenska continued to run both the publishing house and a music shop under the name of “N. Mareček” until her own death in 1910. The imprint and the stamp together establish not only the provenance of this work but also suggest that it was both printed and sold during the period when Chenska managed the music business herself.
 
 Example B
+
 &nbsp;
  | 
 ![](/images/news/2026-09/B_Katanskii_original.jpg) | ![](/images/news/2026-09/B_Katanskii_detail.jpg)
@@ -51,25 +53,27 @@ Although dealers’ stamps occasionally appear in various provenance databases, 
 
 
 Example C
+
 &nbsp;
-(/images/news/2026-09/C_Richault.jpg)
+(/images/news/2026-09/Richault.jpg)
 
 <small>Stamp of Simon Richault (Paris, France). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
 Such sources can also prove especially helpful when the information on the stamp, the established provenance of the music, and the history of the dealer itself appear to contradict each other. These two stamps appear within a bound volume of scores collected by a Russian-speaking émigré living in the city of Harbin, China [Example D]. Lyra was a large and well-known music store located in Ukraine; Carl Fischer, of course, is headquartered in the United States. Although it seemed plausible that the collector might have brought the Lyra score to Harbin, the Fischer score seemed less likely. Further investigation revealed a second Lyra stamp, this one with a Harbin address. A Harbin city directory from 1926 clarified that both shops did, in fact, exist in the city. The Lyra shop may or may not have been officially associated with its Ukrainian counterpart (the double stamping suggests that the music was being re-sold) but the Carl Fischer store clearly operated as a branch location and thus made use of the English-language stamp.
 
 Example D
+
 &nbsp;
 
-(/images/news/2026-09/D_Lyra-Harbin-China.jpg)
+(/images/news/2026-09/Lyra-Harbin-China.jpg)
 
 <small>Lyra (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
-(/images/news/2026-09/D_Lyra-Kahkiv-Ukraine.jpg)
+(/images/news/2026-09/Lyra-Kahkiv-Ukraine.jpg)
 
 <small>Lyra (Kharkiv, Ukraine). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
-(/images/news/2026-09/D_Carl-Fischer-China.jpg)
+(/images/news/2026-09/Carl-Fischer-China.jpg)
 
 <small>Carl Fischer (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
