@@ -43,10 +43,10 @@ When a dealer added a stamp to the musical score, they did not merely add to the
 
 Notes:
 
-[1] Willman Spawn and Thomas Kinsella, Ticketed Bookbindings from Nineteenth-Century Britain (Oak Knoll Press, 1999), 12.
+[1] Willman Spawn and Thomas Kinsella, _Ticketed Bookbindings from Nineteenth-Century Britain_ (Oak Knoll Press, 1999), 12.
 
-[2] Floris Meens and Björn Spekschoor,"Shopping Sounds: The Rahrs’ Dutch Music Shop, Its Customers, and Their Tastes, ca. 1835–1900," Journal of the American Musicological Society 78, no. 2 (2025): 411.
+[2] Floris Meens and Björn Spekschoor, "Shopping Sounds: The Rahrs’ Dutch Music Shop, Its Customers, and Their Tastes, ca. 1835–1900," _Journal of the American Musicological Society_ 78, no. 2 (2025): 411.
 
-[3] Tilman Seebass, "Iconography," Grove Music Online (2001).
+[3] Tilman Seebass, "Iconography," _Grove Music Online_ (2001).
 
 Image on the top: Dealers’ Stamp of John Siegling, Charleston, SC. Used by permission of the Sigal Music Museum (Greenville, SC).
