@@ -22,9 +22,11 @@ Rubber stamps proved uniquely suitable to unbound scores for practical reasons. 
 ### Stamp Design
 Early stamp design mirrored established ticket and label styles. These could vary drastically in size, from very small to very large. They also varied in complexity; some tickets and labels used only one typeface while others had multiple typefaces, elaborate borders, and brown, red, gold, blue, or black inks. Compare, for instance, a label from the George F. Cole Piano Store in Charleston, South Carolina with a stamp made for George Milbus’ Musical Depot in Washington, DC [Example A]. Clearly, the stamp was intended to mimic a printed booksellers’ label. Stamps soon abandoned the colorful backgrounds associated with tickets and labels, focusing instead on informative designs which conveyed the name and the location of the shop.
 
+Example A
  | 
 ![](/images/news/2026-09/A_George-F-Cole.jpg) | ![](/images/news/2026-09/A_George-Milbus.jpg)
-<small>Example A: Bookseller’s label (left) and dealers’ stamp (right). Used by permission of the Sigal Music Museum (Greenville, South Carolina, USA)
+
+<small>Bookseller’s label (left) and dealers’ stamp (right). Used by permission of the Sigal Music Museum (Greenville, South Carolina, USA)
 
 By the second half of the nineteenth century, rubber stamp manufacturers regularly advertised their products in trade magazines. Many advertisements invited sellers to send away for specimen books, which displayed both available devices and the ways in which a given device could be customized for an individual music shop. Surviving specimen books reveal the wide range of variants on offer in addition to the fully bespoke stamps which could be obtained at a higher cost. Music dealers naturally changed their addresses, their locations, and their partnerships over time; the specimen books responded to the desire and need for new or updated stamps.
 
@@ -35,21 +37,33 @@ Some shops seemed to have employed stamps as a record of transaction. Although d
 
 While these stamps foreground the complex and ever-evolving world of the music trade, other stamps appear to aim instead for simplicity (if not obscurity). Some stamps frequently adopt a stylized monogram or an icon, images that as striking as they are mysterious. Consider, for example, this score by the composer V.I. Katanskiĭ, _Nakanuni͡e_, published in Kharkiv, Ukraine in the early twentieth century [Example B]. The stamp at the bottom of the title page consists of an intertwined “N” and “M,” which offers very little information about the dealer at first glance—unless one considers the publication information just above the stamp: “N. Mareček.” The Mareček business had been founded in the 1870s by a Czech expatriate named Viktor Mareček; after Mareček’s death in 1899, his wife Nadiya Chenska continued to run both the publishing house and a music shop under the name of “N. Mareček” until her own death in 1910. The imprint and the stamp together establish not only the provenance of this work but also suggest that it was both printed and sold during the period when Chenska managed the music business herself.
 
+Exmaple B
  | 
 ![](/images/news/2026-09/B_Katanskii_original.jpg) | ![](/images/news/2026-09/B_Katanskii_detail.jpg)
-<small>Example B: V. I. Katanskiĭ: _Nakanuni͡e_. Detail of the dealer’s stamp (right). Used by permission of Furman University Libraries (Greenville, South Carolina, USA).
+
+<small>V. I. Katanskiĭ: _Nakanuni͡e_. Detail of the dealer’s stamp (right). Used by permission of Furman University Libraries (Greenville, South Carolina, USA).
 
 ### Researching the Dealers’ Stamp
 Although dealers’ stamps occasionally appear in various provenance databases, newspapers, almanacs, and directories serve as some of the best sources for conclusively identifying and tracing the music sellers associated with the stamps. One privately bound collection of nineteenth-century French art songs contains works from nine separate dealers and the fortunes of all nine may be traced through the annual Parisian _Almanach du commerce_. Simon Richault, one of these dealers, enjoyed a long and highly successful career despite the fact that the surviving stamps in question are now difficult to read and decipher [Example C]. In 1860, the _Almanach_ records Richault’s music shop sharing premises with a lawyer, a dressmaker, a corsetmaker, and a dentist (among others). By 1871, Richault had moved eastward to the Boulevard des Italiens, a location closer to Charles Garnier’s new opera house, then under construction. By 1888, Richault’s listing had expanded to include the date of the founding (1805), the wide range of genres and instrumentation offered, and the services that the shop could provide. The _Almanach_ also charts the gradual decline of Richault; in 1897, following the death of Simon Richault’s son, “Richault mére” began managing the business (given the date, this must have been a second or even third wife). By 1900, she had sold the stock to the Costallat firm and closed the shop.
 
+
+Example C
+ | 
 ![](/images/news/2026-09/C_Richault.jpg)
-<small>Example C: Stamp of Simon Richault (Paris, France). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
+
+<small>Stamp of Simon Richault (Paris, France). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
 Such sources can also prove especially helpful when the information on the stamp, the established provenance of the music, and the history of the dealer itself appear to contradict each other. These two stamps appear within a bound volume of scores collected by a Russian-speaking émigré living in the city of Harbin, China [Example D]. Lyra was a large and well-known music store located in Ukraine; Carl Fischer, of course, is headquartered in the United States. Although it seemed plausible that the collector might have brought the Lyra score to Harbin, the Fischer score seemed less likely. Further investigation revealed a second Lyra stamp, this one with a Harbin address. A Harbin city directory from 1926 clarified that both shops did, in fact, exist in the city. The Lyra shop may or may not have been officially associated with its Ukrainian counterpart (the double stamping suggests that the music was being re-sold) but the Carl Fischer store clearly operated as a branch location and thus made use of the English-language stamp.
 
- |  | 
-![](/images/news/2026-09/D_Lyra-Harbin-China.jpg) | ![](/images/news/2026-09/D_Lyra-Kahkiv-Ukraine.jpg) | ![](/images/news/2026-09/D_Carl-Fischer-China.jpg)
-<small>Example D: From left to right: Lyra (Harbin, China); Lyra (Kharkiv, Ukraine); Carl Fischer (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
+Example D
+(/images/news/2026-09/D_Lyra-Harbin-China.jpg)
+<small>Lyra (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
+
+(/images/news/2026-09/D_Lyra-Kahkiv-Ukraine.jpg)
+<small>Lyra (Kharkiv, Ukraine). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
+
+(/images/news/2026-09/D_Carl-Fischer-China.jpg)
+<small>Carl Fischer (Harbin, China). Used by permission of the Furman University Libraries (Greenville, South Carolina, USA).
 
 ### The Dealers’ Stamp as Musical Iconography
 Any analysis of a musical image must account for the ways in which it reflects “a manifestation of the artist’s personality, the patron’s ambitions and the onlooker’s expectations.”<sup>[3]</sup> Although dealers’ stamps provide practical information, they also invite reflection on the artists (now mostly unknown) who produced the designs, the shops who selected and paid for the images, and the consumers who encountered them on their musical scores. The creative arrangement of text and devices suggests that music dealers were conscious and active in shaping their own identities even as they demonstrate a stamp’s ability to respond to a larger cultural context.
