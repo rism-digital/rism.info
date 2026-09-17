@@ -10,7 +10,7 @@ email: 'patricia.sasser@furman.edu'
 author: 'Patricia Puckett Sasser (Furman University)'
 ---
 
-Der folgende Text stellt die Zusammenfassung eines detaillierten Beitrags dar, der uns von Patricia Puckett Sasser (Furman University) zugegangen ist. Den vollständigen originalen Text finden Sie [hier]( https://rism.info/library_collections/2026/09/15/dealer's-stamps.html).
+_Der folgende Text stellt die Zusammenfassung eines detaillierten Beitrags dar, der uns von Patricia Puckett Sasser (Furman University) zugegangen ist. Den vollständigen originalen Text finden Sie [hier]( https://rism.info/library_collections/2026/09/15/dealer's-stamps.html)._
 
 In ihren Ausführungen widmet sich Patricia Puckett Sasser den Stempeln von (Musikalien-)Händlern des 19. und frühen 20. Jahrhunderts, einer wichtigen Quelle für die Erforschung des Musikalienhandels, denn sie ermöglichen Rückschlüsse über Herstellung, Handel und Verbreitung von Musikalien. Manche Stempel liefern detaillierte Informationen zur Bezugsquelle - Name und Adresse eines Händlers, manchmal auch das Verkaufsdatum. Andere hingegen teilen nur Initialen oder ein stilisiertes Bild mit; sie sind schwierig zu deuten und erfordern aufwendige Detektivarbeit.
 
