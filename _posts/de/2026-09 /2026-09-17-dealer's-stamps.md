@@ -6,8 +6,8 @@ lang: de
 post: true
 category: library_collections
 image: "/images/news/2026-09/siegling.jpg"
-email: 'patricia.sasser@furman.edu'
-author: 'Patricia Puckett Sasser (Furman University)'
+email: ''
+author: ''
 ---
 
 _Der folgende Text stellt die Zusammenfassung eines detaillierten Beitrags dar, der uns von Patricia Puckett Sasser (Furman University) zugegangen ist. Den vollständigen originalen Text finden Sie [hier]( https://rism.info/library_collections/2026/09/15/dealer's-stamps.html)._
