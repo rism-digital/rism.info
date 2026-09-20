@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Angesichts der verheerenden russischen Angriffe auf nationale ukrainische Kulturgüter wie historische Kirchenbauten, Theaterhäuser, Kulturzentren, Museen, Bibliotheken und Archive, die nunmehr seit fast zwei Jahren andauern und immer noch kein Ende finden, ist es äußerst dringlich, ukrainische Kulturgüter vor der totalen Vernichtung zu bewahren und beschädigtes Kulturgut zu retten. Das RISM möchte in diesem Zusammenhang auf folgende Mitteilung der Gesellschaft für Musikforschung aufmerksam machen:
+Angesichts der verheerenden Angriffe auf nationale ukrainische Kulturgüter wie historische Kirchenbauten, Theaterhäuser, Kulturzentren, Museen, Bibliotheken und Archive, die nunmehr seit fast zwei Jahren andauern und immer noch kein Ende finden, ist es äußerst dringlich, ukrainische Kulturgüter vor der totalen Vernichtung zu bewahren und beschädigtes Kulturgut zu retten. Das RISM möchte in diesem Zusammenhang auf folgende Mitteilung der Gesellschaft für Musikforschung aufmerksam machen:
 
 “The German Musicological Society (GfM) wants to support Ukraine in protecting and preserving its cultural heritage. The GfM aims to help Ukrainian music archives, music libraries and similar institutions in an unbureaucratic way in 2024. The GfM will offer technical support such as book scanners, dehumidifiers or power generators, as well as means for employing staff for digitizing the archival material (manuscripts, rare prints, etc.).\
 For more information [contact GfM](mailto:geschaeftsstelle@musikforschung.de)."\
