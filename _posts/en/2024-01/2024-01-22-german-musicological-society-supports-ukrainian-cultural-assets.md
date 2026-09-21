@@ -10,7 +10,7 @@ email: ''
 author: ''
 ---
 
-Since the devastating Russian attacks on Ukrainian cultural assets such as historic churches, theaters, cultural centers, museums, libraries and archives, have been going on for almost two years and no end is in sight, it is urgent to save these from total destruction and provide help if they have suffered damages. With that in mind, RISM would like to draw attention to the following announcement of the Gesellschaft für Musikforschung:
+Since the devastating attacks on Ukrainian cultural assets such as historic churches, theaters, cultural centers, museums, libraries and archives, have been going on for almost two years and no end is in sight, it is urgent to save these from total destruction and provide help if they have suffered damages. With that in mind, RISM would like to draw attention to the following announcement of the Gesellschaft für Musikforschung:
 
 “The German Musicological Society (GfM) wants to support Ukraine in protecting and preserving its cultural heritage. The GfM aims to help Ukrainian music archives, music libraries and similar institutions in an unbureaucratic way in 2024. The GfM will offer technical support such as book scanners, dehumidifiers or power generators, as well as means for employing staff for digitizing the archival material (manuscripts, rare prints, etc.).\
 For more information [contact GfM](mailto:geschaeftsstelle@musikforschung.de)."\
