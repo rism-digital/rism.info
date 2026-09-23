@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joint Workshop of the Four "R-Projects" in Budapest'
-date: 2026-09-23
+date: 2026-09-24
 lang: en
 post: true
 category: events
