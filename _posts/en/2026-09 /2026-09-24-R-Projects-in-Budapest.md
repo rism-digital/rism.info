@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Joint Workshop of the Four ‘R-Projects’ in Budapest”
+title: 'Joint Workshop of the Four "R-Projects" in Budapest'
 date: 2026-09-23
 lang: en
 post: true
