@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Workshop der vier „R-Projecte“ in Budapest'
+title: 'Workshop der vier „R-Projekte“ in Budapest'
 date: 2026-09-23
 lang: de
 post: true
