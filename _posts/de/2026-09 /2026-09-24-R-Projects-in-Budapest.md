@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Workshop der vier „R-Projekte“ in Budapest'
-date: 2026-09-23
+date: 2026-09-24
 lang: de
 post: true
 category: events
