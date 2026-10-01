@@ -23,5 +23,6 @@ Nach fortlaufenden Sondierungsgesprächen wurde der Entschluss gefasst, das „R
 {% include image file="/images/news/2026-10/MKazur_Consortium.jpg" %}
 
 <small>Die Teilnehmer der Gründungsveranstaltung (Foto: © Małgorzata Kazur)
+
 Die erste Vollversammlung des RISM Consortiums wird im Rahmen des nächsten jährlichen IAML-Kongresses - im Juni 2027 in Toronto - stattfinden; dort erfolgt auch die Wahl des ersten offiziellen Vorstandes. Bis dahin wird das RISM Consortium von einem vorläufigen Vorstand geleitet, der sich aus je einem Vertreter der RISM Commission mixte (Sonia Wronkowska), des RISM Digital Center (Laurent Pugin) und des RISM Editorial Network (Balázs Mikusi) als Initiatoren sowie Armin Brinzing (Internationale Mozarteum-Stiftung) als Vertreter der beitretenden Mitglieder zusammensetzt.
 Wir ermutigen alle Institutionen, denen die langfristige Zukunft des RISM ein Anliegen ist, den Beitritt zum neuen RISM Consortium in Betracht zu ziehen, auch bereits als Gründungsmitglied. Fragen hierzu oder zum RISM Consortium im Allgemeinen richten Sie bitte direkt an den kommissarischen Präsidenten Laurent Pugin unter [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital){:blank} oder an die allgemeine Kontaktadresse des RISM unter [contact@rism.info](mailto:contact@rism.info){:blank}.
