@@ -14,8 +14,8 @@ Seit der Gründung des RISM im Jahr 1952 hatte das Projekt mehrere strukturelle 
 Nach fortlaufenden Sondierungsgesprächen wurde der Entschluss gefasst, das „RISM Consortium“ als Verein in der Schweiz zu gründen, mit dem RISM Digital Center in Bern als Geschäftsstelle. Der feierliche Gründungsakt fand am 24. September 2026 in Chopins Geburtsort Żelazowa Wola statt und wurde großzügigerweise vom Fryderyk-Chopin-Institut in Warschau ausgerichtet. Im Rahmen der Feier unterzeichneten mehrere Mitglieder an Ort und Stelle die Beitrittsvereinbarung, während einige andere dies bereits im Vorfeld getan hatten. In der Folge hat das RISM Consortium bereits jetzt sieben Mitglieder (hier in alphabetischer Reihenfolge aufgeführt):
 
 •	   Eda Kuhn Loeb Music Library, Harvard University  
-•    Fryderyk-Chopin-Institut, Warschau   
-•	   Internationale Stiftung Mozarteum, Salzburg
+•    Fryderyk-Chopin-Institut, Warschau  
+•	   Internationale Stiftung Mozarteum, Salzburg  
 •    Národní knihovna České republiky, Prag  
 •	   Stanford University Libraries  
 •	   University of Toronto Libraries  
