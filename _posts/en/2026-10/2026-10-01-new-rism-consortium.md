@@ -23,5 +23,6 @@ We are pleased also to report that a few other institutions – among them the S
 {% include image file="/images/news/2026-10/MKazur_Consortium.jpg" %}
 
 <small>The participants of the festive founding event (Photo: © Małgorzata Kazur)
+
 The first full meeting of the Consortium will take place during the annual IAML congress to be held in June 2027 in Toronto, where the first official board will also be elected. Until then the Consortium is lead by an initial Board consisting of one representative each from the RISM Commission mixte (Sonia Wronkowska), the RISM Digital Center (Laurent Pugin), and the RISM Editorial Network (Balázs Mikusi) as the initiators of the Consortium, as well as Armin Brinzing (International Mozarteum Foundation) as the representative of the joining members.
 We encourage all institutions invested in the long-term future of RISM to consider joining the new Consortium, even as a founding member. Any questions regarding this opportunity, or the Consortium in general, should be sent directly to Laurent Pugin as acting President at [laurent.pugin@rism.digital](mailto:laurent.pugin@rism.digital){:blank} or to RISM’s general contact address [contact@rism.info](mailto:contact@rism.info){:blank}.
