@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Catalog of Johann Adolf Hasse's Instrumental Works'
-date: 2026-10-15
+date: 2026-10-14
 lang: en
 post: true
 category: new_publications
