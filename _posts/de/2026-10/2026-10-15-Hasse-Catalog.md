@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neues Werkverzeichnis zur Instrumentalmusik Johann Adolf Hasses erschienen'
-date: 2026-10-15
+date: 2026-10-14
 lang: de
 post: true
 category: new_publications
