@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neues Werkverzeichnis zur Instrumentalmusik Johann Adolf Hasses erschienen"
+title: 'Neues Werkverzeichnis zur Instrumentalmusik Johann Adolf Hasses erschienen'
 date: 2026-10-15
 lang: de
 post: true
