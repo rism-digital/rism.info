@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Neues Werkverzeichnis zur Instrumentalmusik Johann Adolf Hasses erschienen"
-date: 2026-10-15
 title: 'Neues Werkverzeichnis zur Instrumentalmusik Johann Adolf Hasses erschienen'
-date: 2026-10-14
+date: 2026-10-15
 lang: de
 post: true
 category: new_publications
@@ -20,4 +18,3 @@ Wolfgang Hochstein - Kennern der Musik des 18. Jahrhunderts bereits als Verfasse
 Umso erfreulicher daher der neue Katalog, der etwas Licht in das komplizierte Dickicht der Überlieferung von Hasses Instrumentalmusik bringt. Nur eine ganz kleine Zahl an Werken ist nämlich tatsächlich als Autograph oder durch Widmungsexemplare überliefert und damit eindeutig als authentische Werke Hasses zu bestimmen. Hochstein greift in zahlreichen Fällen auch auf die Vorarbeiten der internationalen RISM-Community zurück, deren Katalogisate er häufig zur Grundlage seiner Arbeit nimmt. Dankenswerterweise werden zu allen Werken die vorhandenen Quellen mit ihren aktuellen RISM-Nummern zitiert, so dass sich Konkordanzen gut auffinden lassen. Wichtig auch die zahlreichen Fällen, in denen etwa als Cembalowerke Hasses überlieferte Stücke durch Vergleiche der Incipits als Bearbeitungen von authentischen Opernouverturen identifiziert werden konnten. Nun sollen sukzessive die Werkverzeichnisnummern Hochsteins, für die die RISM-Redaktion das neue Sigel _HocH_ eingeführt hat, in die vorhandenen RISM-Katalogisate eingearbeitet werden.
 
 <small>Image on top: Johann Adolf Hasse, _6 Concertos set for the Harpsichord or Organ_, London, Walsh, Copy from the SLUB Dresden (D-Dl), shelfmark Mus.2477.T.1. [Image link](http://digital.slub-dresden.de/id278639046/7){:blank}.</small>
-<small>Image on top: Johann Adolf Hasse, _6 Concertos set for the Harpsichord or Organ_, London, Walsh, Copy from the SLUB Dresden (D-Dl), shelfmark Mus.2477.T.1. [Image link](http://digital.slub-dresden.de/id278639046/7){:blank}</small>
