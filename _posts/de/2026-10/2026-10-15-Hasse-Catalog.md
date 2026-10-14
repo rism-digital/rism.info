@@ -5,7 +5,7 @@ date: 2026-10-14
 lang: de
 post: true
 category: new_publications
-image: "/images/news/2026-10/Hasse-Titel2_klein.jpg"
+image: "/images/news/2026-10/Hasse-Titel2_small.jpg"
 email: ''
 author: ''
 ---
