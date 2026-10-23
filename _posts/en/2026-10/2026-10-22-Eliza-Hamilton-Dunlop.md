@@ -11,7 +11,7 @@ author: ''
 ---
 Anonymous pieces present their own set of bibliographic challenges, and recently we stumbled upon one song with a trio of unknowns: no composer, an unidentified poet, and an unfamiliar publisher.
 
-The song was "The Irish volunteers," published in Sydney, Australia (RISM ID no. 990071461; [RISM Online](https://rism.online/sources/990071461){:blank} \| [RISM Catalog](https://opac.rism.info/id/rismid/rism990071461){:blank}). Given its inclusion in RISM’s A/I series, [an index of printed music published before 1800] (https://rism.info/publications.html#ai-einzeldrucke-vor-1800-individual-prints-before-1800){:blank}, we might presume that this edition dated from the 18th century, and indeed the year “1780” on the source pointed to that conclusion as well. Adding to the mysteries, this is the only imprint from Australia that was documented in A/I.
+The song was "The Irish volunteers," published in Sydney, Australia (RISM ID no. 990071461; [RISM Online](https://rism.online/sources/990071461){:blank} \| [RISM Catalog](https://opac.rism.info/id/rismid/rism990071461){:blank}). Given its inclusion in RISM’s A/I series, [an index of printed music published before 1800](https://rism.info/publications.html#ai-einzeldrucke-vor-1800-individual-prints-before-1800){:blank}, we might presume that this edition dated from the 18th century, and indeed the year “1780” on the source pointed to that conclusion as well. Adding to the mysteries, this is the only imprint from Australia that was documented in A/I.
 
 At first, we didn’t know more than what was originally in the A/I entry:
 
