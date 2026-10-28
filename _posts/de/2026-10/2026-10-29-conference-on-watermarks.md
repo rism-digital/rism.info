@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '_9th International Conference on Watermarks in Digital Collections_ an der Bayerischen Staatsbibliothek'
-date: 2026-10-28
+date: 2026-10-29
 lang: de
 post: true
 category: events
@@ -18,4 +18,4 @@ Vom 15. bis zum 17. Oktober 2026 trafen sich Teilnehmer aus der geisteswissensch
 
 Zum Rahmenprogramm gehörte eine Führung zur Thermografie im Scanzentrum der BSB, eine Führung durch die Ausstellung Image, Skript, Codes im Deutschen Museum, sowie ein Tagesausflug zur Papierfabrik Gmund am Tegernsee.
 
-Abbildung: Ochsenkopf-Wasserzeichen \| © BSB. Mit freundlicher Genehmigung.
+Abbildung oben links: Ochsenkopf-Wasserzeichen \| © BSB. Mit freundlicher Genehmigung.
