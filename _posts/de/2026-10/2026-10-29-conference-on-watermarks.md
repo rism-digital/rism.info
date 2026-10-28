@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '_9th International Conference on Watermarks in Digital Collections_ an der Bayerischen Staatsbibliothek'
-date: 2026-10-28
+date: 2026-10-29
 lang: de
 post: true
 category: events
