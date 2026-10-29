@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '_9th International Conference on Watermarks in Digital Collections_ at the Bavarian State Library'
+title: '9th International Conference on Watermarks in Digital Collections at the Bavarian State Library'
 date: 2026-10-29
 lang: en
 post: true
