@@ -13,7 +13,8 @@ From 15 to 17 October 2026, experts in the humanities, information technology, a
 
 {% include image file="/images/news/2026-10/participants.jpg" %}
 
-<small>The participants of the conference. Image: Courtesy of © BSB \| Sabine Gottstein</small> 
+<small>The participants of the conference. Image: Courtesy of © BSB \| Sabine Gottstein</small>
+
 
 The supporting programme included a guided tour of the Bavarian State Library’s in-house scanning center with special emphasis on thermography, another tour of the exhibition _Image, Script, Codes_ at the Deutsches Museum, as well as a full-day trip to the Gmund paper mill on Lake Tegernsee.
 
