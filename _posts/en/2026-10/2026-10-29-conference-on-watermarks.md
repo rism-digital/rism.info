@@ -18,4 +18,4 @@ From 15 to 17 October 2026, experts in the humanities, information technology, a
 
 The supporting programme included a guided tour of the Bavarian State Library’s in-house scanning center with special emphasis on thermography, another tour of the exhibition _Image, Script, Codes_ at the Deutsches Museum, as well as a full-day trip to the Gmund paper mill on Lake Tegernsee.
 
-Image on top: Ox Head Watermark \| Courtesy of © BSB
+Image on top: Ox Head Watermark; Courtesy of © BSB \| Bernhard Lutz
