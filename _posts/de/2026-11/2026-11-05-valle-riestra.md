@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Die peruanische Oper und die Musik der Inkas: Das Erbe von José María Valle-Riestra'
+title: 'Die peruanische Oper und die Musik der Inkas: Das Erbe von José María Valle-Riestra'
 date: 2026-11-05
 lang: de
 post: true
