@@ -13,7 +13,7 @@ Den folgenden Beitrag haben wir von Giancarlo Carreño Arce (Universidad Naciona
  
 Am 9. November 2026 jährt sich zum 168. Mal der Geburtstag von José María Valle-Riestra, der als einer der wichtigsten Komponisten in der Geschichte Perus gilt. Er war einer der ersten, die musikalische Elemente sowohl aus prähispanischer Zeit als auch aus der Andenregion in größer dimensionierte Werke wie etwa Opern integrierten. Als ebenso bedeutend ist sein Beitrag zur musikalischen Ausbildung in Peru einzuschätzen, deren Modernisierung er mit seinen theoretischen Schriften förderte.
  
-{% include image file="/images/news/2026-11/valle-riestra-portrait.jpg" pos="right" %}
+{% include image file="/images/news/2026-11/valle-riestra-portrait.jpg" %}
 <small>Portrait von José María Valle Riestra; Creative Commons CC0 1.0 Universal Public Domain Dedication via Wikimedia Commons.</small>
 
 José María Valle-Riestra erblickte im Jahr 1858 in Lima das Licht der Welt. Seine musikalische Ausbildung nahm er im Alter von neun Jahren auf, als seine Eltern ihn nach London mitnahmen. Die wichtigste Phase seiner Ausbildung stellen die Jahre zwischen 1895 und 1897 dar, in denen er am Pariser Conservatoire bei André Gédalge – u.a. Lehrer von Komponisten wie Florent Schmitt und Maurice Ravel - Kontrapunkt, Fugenlehre und Orchestrierung studierte.
