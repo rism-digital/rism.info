@@ -16,7 +16,6 @@ We have received the following from Giancarlo Carreño Arce (Universidad Naciona
 November 9, 2026 marks the 168th birthday of José María Valle-Riestra, who is considered one of the most important composers in Peruvian history. He was among the first to incorporate Pre-Hispanic and Andean musical elements into a large-scale project such as an opera. His contribution to music education in Peru is also very significant. His theoretical writings helped to modernize musical training in the country.
  
 {% include image file="/images/news/2026-11/valle-riestra-portrait.jpg" pos="right" %}
-<small>Portrait of José María Valle Riestra; Creative Commons CC0 1.0 Universal Public Domain Dedication via Wikimedia Commons.</small>
 
 José María Valle-Riestra was born in Lima, Peru, in 1858. He began his music training at the age of nine, when his parents took him to London. However, the most significant period in his education was between 1895 and 1897, when he had the opportunity to study counterpoint, fugue, and orchestration at the Paris Conservatoire with André Gédalge, the influential music teacher who was also known for his role in the musical training of composers such as Florent Schmitt and Maurice Ravel.
  
