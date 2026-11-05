@@ -27,4 +27,4 @@ Valle-Riestra’s catalog includes his unfinished opera _Atahualpa_ (RISM ID no.
  
 José María Valle-Riestra sought to preserve elements of Peruvian culture in his music. His musical legacy continues to be rediscovered by researchers and contemporary musicians who acknowledge his contribution to the national heritage and his influence on the development of academic music in Peru.
  
-<small>Image on top: Digitized first page of the manuscript of Ollanta. Courtesy of @ Universidad Nacional de Música (UNM), Lima, Peru.</small>
+<small>Image on the top: Digitized first page of the manuscript of Ollanta. Courtesy of @ Universidad Nacional de Música (UNM), Lima, Peru.</small>
