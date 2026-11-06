@@ -9,8 +9,6 @@ image: "/images/news/2026-11/valle-riestra-first-page-Ollanta.jpg"
 email: '2025000013@unm.edu.pe'
 author: 'Giancarlo Carreño Arce'
 ---
-(Spanish version at the bottom of the page)
-
 We have received the following from Giancarlo Carreño Arce (Universidad Nacional de Música, Lima, Peru).
 
 November 9, 2026 marks the 168th birthday of José María Valle-Riestra, who is considered one of the most important composers in Peruvian history. He was among the first to incorporate Pre-Hispanic and Andean musical elements into a large-scale project such as an opera. His contribution to music education in Peru is also very significant. His theoretical writings helped to modernize musical training in the country.
