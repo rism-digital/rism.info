@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Church and Ballet Music from the Schwarzenberg Music Collection in Český Krumlov'
-date: 2026-11-11
+date: 2026-11-12
 lang: en
 post: true
 category: library_collections
