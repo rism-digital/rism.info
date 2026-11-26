@@ -6,8 +6,8 @@ lang: en
 post: true
 category: new_at_rism
 image: "/images/news/2026-11/RENlogo.jpg"
-email: ''
-author: ''
+email: 'contact@rism.info'
+author: 'Balázs Mikusi'
 ---
 As we [reported in the summer](https://rism.info/new_at_rism/2026/07/01/Editorial-Network.html), after the closure of the RISM Editorial Center (Zentralredaktion) a newly-founded [RISM Editorial Network](https://rism.info/editorial-network.html) took over the main editorial tasks related to the RISM database. However, while the five members of this Network – the Academy of Sciences and Literature in Mainz, the Bavarian State Library in Munich, the Saxon State and University Library Dresden, the Berlin State Library, and the Johannes Gutenberg University of Mainz – successfully managed the transition to a new editorial structure, some details of both our official cooperation and the practical workflows needed a final polish, prompting the first in-person meeting of the entire team. Thus, on 19 and 20 November, in a lunch-to-lunch format, altogether 15 colleagues gathered in the Berlin State Library to review our experiences to date and seek further to optimize our joint work.
  
