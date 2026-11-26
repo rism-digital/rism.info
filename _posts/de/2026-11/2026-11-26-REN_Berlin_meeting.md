@@ -6,8 +6,8 @@ lang: de
 post: true
 category: new_at_rism
 image: "/images/news/2026-11/RENlogo.jpg"
-email: 'contact@rism.info'
-author: 'Balázs Mikusi'
+email: ''
+author: ''
 ---
 Wie wir [im Sommer berichteten](https://rism.info/de/new_at_rism/2026/07/01/Editorial-Network.html), übernahm nach der Schließung der RISM-Zentralredaktion ein neu gegründetes [RISM Editorial Network](https://rism.info/de/editorial-network.html) die wichtigsten redaktionellen Aufgaben im Zusammenhang mit der RISM-Datenbank. Zwar gelang den fünf Mitgliedern dieses Netzwerks – der Akademie der Wissenschaften und der Literatur \| Mainz, der Bayerischen Staatsbibliothek in München, der Sächsischen Landesbibliothek – Staats- und Universitätsbibliothek Dresden, der Staatsbibliothek zu Berlin und der Johannes-Gutenberg-Universität Mainz – der erfolgreiche Übergang zur neuen redaktionellen Struktur, doch mussten einige Details sowohl unserer offiziellen Zusammenarbeit als auch der praktischen Arbeitsabläufe noch ausgefeilt werden, was das erste persönliche Treffen des gesamten Teams erforderlich machte. So kamen am 19. und 20. November im Rahmen eines „Lunch-to-Lunch“-Formats insgesamt 15 Kolleginnen und Kollegen in der Staatsbibliothek zu Berlin zusammen, um unsere bisherigen Erfahrungen zu reflektieren und die gemeinsame Arbeit weiter zu optimieren.
 
@@ -15,6 +15,7 @@ Die Tatsache, dass das RISM Editorial Network Institutionen aus vier verschieden
 
 {% include image file="/images/news/2026-11/REN_2026_Gruppenbild.jpg" %}
 
+
 Neben der Auseinandersetzung mit solchen aktuellen Themen bot das Treffen des RISM Editorial Networks – das wir intern meist einfach als „REN“ bezeichnen – auch eine willkommene Gelegenheit, gemeinsam über die längerfristigen Perspektiven für RISM als Ganzes nachzudenken. Es wurden mehrere potenzielle Ziele vorgeschlagen, die zwar über die tägliche redaktionelle Arbeit hinausgehen, für die das REN ursprünglich gegründet wurde, die allerdings die fünf Partner auf jeden Fall anstreben sollten, im Idealfall mit Einbeziehung von Drittmitteln. In dieser Hinsicht dürfen wir tatsächlich hoffen, dass sich unser Akronym als prophetisch erweist und das RISM Editorial Network zu einer „RENovation“ – oder sogar zu einer Art „RENaissance“ – des ganzen RISM beitragen kann. Selbstverständlich geschieht all dies in enger Zusammenarbeit mit dem [RISM Digital Center](https://rism.digital/de/index.html) als der anderen wesentlichen Säule, die die Kerninfrastruktur des RISM stützt, sowie mit dem [RISM Consortium](https://rism.info/de/events/2026/10/01/new-rism-consortium.html), das ab dem nächsten Jahr ebenfalls einen wesentlichen Beitrag im Namen der breiteren internationalen RISM-Community leisten soll.
 
-Abbildung: Die Teilnehmer des Treffens (Foto mit freundlicher Genehmigung von @ Martina Rebmann)
+<small>Abbildung: Die Teilnehmer des Treffens (Foto mit freundlicher Genehmigung von @ Martina Rebmann)<small>
